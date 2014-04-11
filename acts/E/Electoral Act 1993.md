@@ -1,5 +1,5 @@
 Reprint  
-as at 25 March 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -10383,13 +10383,15 @@ Election expenses and donations
     
     *   (e) a body corporate; or
     
-    *   (f) a person who, by virtue of [section 199(1)][1010] of the Companies Act 1993, may not be appointed or act as an auditor of a company; or
+    *   (f) a person who, by virtue of [section 36(1)][1010] of the Financial Reporting Act 2013, may not be appointed or act as an auditor of an entity; or
     
     *   (g) a Returning Officer.
     
     Compare: 1993 No 87 s 214D(2) (pre-20 December 2007); 2007 No 111 [s 12][1011]
     
     Section 206K: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
+    
+    Section 206K(f): replaced, on 1 April 2014, by [section 126][1012] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 206L Auditor's report on return of party's election expenses
     
@@ -10421,17 +10423,17 @@ Election expenses and donations
     
     *   (b) may require the party secretary to provide any information and explanations that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
     
-    Compare: 1993 No 87 s 214E (pre-20 December 2007); 2007 No 111 [s 107][1012]
+    Compare: 1993 No 87 s 214E (pre-20 December 2007); 2007 No 111 [s 107][1013]
     
     Section 206L: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 206L(2)(a): amended, on 17 August 2011, by [section 23][1013] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 206L(2)(a): amended, on 17 August 2011, by [section 23][1014] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 206M Nil return
     
 *   If a party secretary considers that there is no relevant information to disclose under [section 206I][439], the party secretary must file a nil return under that section.
     
-    Compare: 1993 No 87 s 214K (pre-20 December 2007); 2007 No 111 [s 108][1014]
+    Compare: 1993 No 87 s 214K (pre-20 December 2007); 2007 No 111 [s 108][1015]
     
     Section 206M: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -10459,13 +10461,13 @@ Election expenses and donations
     
     (3) A person charged with an offence against subsection (2)(a) may be convicted of an offence against subsection (2)(b).
     
-    Compare: 1993 No 87 s 214C(2)--(4) (pre-20 December 2007); 2007 No 111 [s 109][1015]
+    Compare: 1993 No 87 s 214C(2)--(4) (pre-20 December 2007); 2007 No 111 [s 109][1016]
     
     Section 206N: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 206N(1): replaced, on 25 March 2014, by [section 32][1016] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 206N(1): replaced, on 25 March 2014, by [section 32][1017] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 206N(1A): inserted, on 25 March 2014, by [section 32][1016] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 206N(1A): inserted, on 25 March 2014, by [section 32][1017] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 206O Obligation to retain records necessary to verify return of party's election expenses
     
@@ -10473,7 +10475,7 @@ Election expenses and donations
     
     (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 1993 No 87 s 214L (pre-20 December 2007); 2007 No 111 [s 110][1017]
+    Compare: 1993 No 87 s 214L (pre-20 December 2007); 2007 No 111 [s 110][1018]
     
     Section 206O: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -10485,11 +10487,11 @@ Election expenses and donations
     
     (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
     
-    Compare: 1993 No 87 s 214C(6) (pre-20 December 2007); 2007 No 111 [s 111][1018]
+    Compare: 1993 No 87 s 214C(6) (pre-20 December 2007); 2007 No 111 [s 111][1019]
     
     Section 206P: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 206P(2): added, on 1 January 2011, by [section 14][1019] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206P(2): added, on 1 January 2011, by [section 14][1020] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206Q Return of party's election expenses to be publicly available
     
@@ -10499,7 +10501,7 @@ Election expenses and donations
     
     (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the [Official Information Act 1982][833].
     
-    Compare: 1993 No 87 s 214J(1), (2)(a) (pre-20 December 2007); 2007 No 111 [s 112][1020]
+    Compare: 1993 No 87 s 214J(1), (2)(a) (pre-20 December 2007); 2007 No 111 [s 112][1021]
     
     Section 206Q: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -10515,7 +10517,7 @@ Election expenses and donations
 
 ### Subpart 2A---Election expenses of registered promoters
     
-*   Subpart 2A: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+*   Subpart 2A: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206S Interpretation
     
@@ -10547,7 +10549,7 @@ Election expenses and donations
     
     (2) For the purposes of the definition of _election expenses_, it is immaterial whether an election expense is paid or incurred before, during, or after the regulated period.
     
-    Section 206S: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206S: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206T Persons who may incur election expenses in relation to election advertisement promoted by registered promoter
     
@@ -10557,7 +10559,7 @@ Election expenses and donations
     
     *   (b) a person authorised by the registered promoter.
     
-    Section 206T: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206T: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206U Offence to incur unauthorised election expense
     
@@ -10567,9 +10569,9 @@ Election expenses and donations
     
     *   (b) an illegal practice who contravenes [section 206T][451] in any other case.
     
-    Compare: 2007 No 111 [s 117(1)][1022]
+    Compare: 2007 No 111 [s 117(1)][1023]
     
-    Section 206U: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206U: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206V Maximum amount of registered promoter's total election expenses
     
@@ -10577,9 +10579,9 @@ Election expenses and donations
     
     (2) The amount in subsection (1) is inclusive of goods and services tax.
     
-    Section 206V: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206V: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 206V(1): amended, on 1 July 2013, by [clause 6][1023] of the Electoral (Expenditure Limit) Order 2013 (SR 2013/136).
+    Section 206V(1): amended, on 1 July 2013, by [clause 6][1024] of the Electoral (Expenditure Limit) Order 2013 (SR 2013/136).
 
 ##### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
     
@@ -10597,9 +10599,9 @@ Election expenses and donations
     
     (3) Only the advertising expenses attributed to being incurred during the regulated period in accordance with subsection (2) are election expenses.
     
-    Compare: 2007 No 111 [s 119][1024]
+    Compare: 2007 No 111 [s 119][1025]
     
-    Section 206W: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206W: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206X Offence to pay election expenses in excess of prescribed maximum
     
@@ -10613,9 +10615,9 @@ Election expenses and donations
     
     (3) Every person who enters into an agreement or enters into an arrangement or understanding with any other person for the purpose of circumventing the maximum amount prescribed in [section 206V][453] is guilty of a corrupt practice.
     
-    Compare: 2007 No 111 [s 122][1025]
+    Compare: 2007 No 111 [s 122][1026]
     
-    Section 206X: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206X: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206Y Periods for claiming and paying registered promoter's election expenses
     
@@ -10629,7 +10631,7 @@ Election expenses and donations
     
     Compare: 2007 No 111 [s 82][981]
     
-    Section 206Y: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206Y: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206Z Procedure if claim disputed
     
@@ -10643,7 +10645,7 @@ Election expenses and donations
     
     Compare: 2007 No 111 [s 83][983]
     
-    Section 206Z: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206Z: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZA Leave to pay claim after time limitation
     
@@ -10659,7 +10661,7 @@ Election expenses and donations
     
     Compare: 2007 No 111 [s 84][984]
     
-    Section 206ZA: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZA: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZB Invoice and receipt required for election expenses of $50 or more
     
@@ -10667,7 +10669,7 @@ Election expenses and donations
     
     (2) Subsection (1) does not apply to a payment less than $50\.
     
-    Section 206ZB: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZB: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZC Return of registered promoter's election expenses
     
@@ -10679,7 +10681,7 @@ Election expenses and donations
     
     (4) A return filed under subsection (2) must be in the form required by the Electoral Commission.
     
-    Section 206ZC: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZC: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZD Electoral Commission may require auditor's report on return of registered promoter's election expenses
     
@@ -10711,9 +10713,9 @@ Election expenses and donations
     
     *   (b) may require the registered promoter to provide any information and explanation that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
     
-    Compare: 2007 No 111 [s 128][1026]
+    Compare: 2007 No 111 [s 128][1027]
     
-    Section 206ZD: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZD: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZE Offences relating to return of registered promoter's election expenses
     
@@ -10741,13 +10743,13 @@ Election expenses and donations
     
     (4) Subsection (3) does not limit the liability of a registered promoter under subsection (1) or (2).
     
-    Compare: 2007 No 111 [s 130][1027]
+    Compare: 2007 No 111 [s 130][1028]
     
-    Section 206ZE: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZE: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 206ZE(1): replaced, on 25 March 2014, by [section 33][1028] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 206ZE(1): replaced, on 25 March 2014, by [section 33][1029] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 206ZE(1A): inserted, on 25 March 2014, by [section 33][1028] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 206ZE(1A): inserted, on 25 March 2014, by [section 33][1029] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 206ZF Obligation to retain records necessary to verify return of registered promoter's election expenses
     
@@ -10755,9 +10757,9 @@ Election expenses and donations
     
     (2) A registered promoter who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 131][1029]
+    Compare: 2007 No 111 [s 131][1030]
     
-    Section 206ZF: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZF: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 206ZF(2): amended, on 1 July 2013, by [section 413][715] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -10767,9 +10769,9 @@ Election expenses and donations
     
     (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
     
-    Compare: 2007 No 111 [s 132][1030]
+    Compare: 2007 No 111 [s 132][1031]
     
-    Section 206ZG: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZG: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 206ZH Return of registered promoter's election expenses to be publicly available
     
@@ -10779,9 +10781,9 @@ Election expenses and donations
     
     (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the [Official Information Act 1982][833].
     
-    Compare: 2007 No 111 [s 133][1031]
+    Compare: 2007 No 111 [s 133][1032]
     
-    Section 206ZH: inserted, on 1 January 2011, by [section 15][1021] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 206ZH: inserted, on 1 January 2011, by [section 15][1022] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ### Subpart 3---General provisions relating to donations
     
@@ -10895,25 +10897,25 @@ Election expenses and donations
     
     *   (b) _party donation_ does not include a donation protected from disclosure (as defined in [section 208][486]).
     
-    Compare: 2007 No 111 [s 21][1032]
+    Compare: 2007 No 111 [s 21][1033]
     
     Section 207: substituted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207(2) **candidate donation** paragraph (a)(i): amended, on 1 January 2011, by [section 16(1)][1033] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207(2) **candidate donation** paragraph (a)(i): amended, on 1 January 2011, by [section 16(1)][1034] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207(2) **candidate donation** paragraph (b): substituted, on 1 January 2011, by [section 16(2)][1033] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207(2) **candidate donation** paragraph (b): substituted, on 1 January 2011, by [section 16(2)][1034] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207(2) **party donation** paragraph (a)(i): amended, on 1 January 2011, by [section 16(3)][1033] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207(2) **party donation** paragraph (a)(i): amended, on 1 January 2011, by [section 16(3)][1034] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207(2) **party donation** paragraph (b)(ii): substituted, on 1 January 2011, by [section 16(4)][1033] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207(2) **party donation** paragraph (b)(ii): substituted, on 1 January 2011, by [section 16(4)][1034] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207(2) **party donation** paragraph (b)(iii): added, on 1 January 2011, by [section 16(4)][1033] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207(2) **party donation** paragraph (b)(iii): added, on 1 January 2011, by [section 16(4)][1034] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 207A Donations and contributions include GST
     
 *   All references to an amount or value of a donation or contribution are inclusive of any goods and services tax incurred by the donor or contributor in respect of the goods or service donated or contributed.
     
-    Compare: 2007 No 111 [s 22][1034]
+    Compare: 2007 No 111 [s 22][1035]
     
     Section 207A: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -10927,11 +10929,11 @@ Election expenses and donations
     
     *   (b) deposit the donation into a bank account nominated by the party secretary.
     
-    Compare: 2007 No 111 [s 23][1035]
+    Compare: 2007 No 111 [s 23][1036]
     
     Section 207B: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207B(2): substituted, on 1 January 2011, by [section 17][1036] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207B(2): substituted, on 1 January 2011, by [section 17][1037] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 207C Contributors to be identified
     
@@ -10965,21 +10967,21 @@ Election expenses and donations
     
     (6) For the purposes of [sections 209][495] and [210][502], any amount given back by a candidate under subsection (4), or by a party secretary under subsection (5), is taken not to have been received by the candidate or the party secretary, as the case may be.
     
-    Compare: 2007 No 111 [s 24][1037]
+    Compare: 2007 No 111 [s 24][1038]
     
     Section 207C: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207C(1): amended, on 1 January 2011, by [section 18(1)][1038] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207C(1): amended, on 1 January 2011, by [section 18(1)][1039] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207C(2): replaced, on 25 March 2014, by [section 34][1039] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 207C(2): replaced, on 25 March 2014, by [section 34][1040] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 207C(3): repealed, on 25 March 2014, by [section 34][1039] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 207C(3): repealed, on 25 March 2014, by [section 34][1040] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 207D Offence relating to contravention of section 207C
     
 *   A donor who fails to comply with [section 207C][470] with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 25][1040]
+    Compare: 2007 No 111 [s 25][1041]
     
     Section 207D: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -10997,7 +10999,7 @@ Election expenses and donations
     
     (2) Where a transmitter does not disclose, or is unable to disclose, the information required by subsection (1), then the donation must be treated as an anonymous donation.
     
-    Compare: 2007 No 111 [s 26][1041]
+    Compare: 2007 No 111 [s 26][1042]
     
     Section 207E: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11007,7 +11009,7 @@ Election expenses and donations
     
 *   A transmitter who fails to comply with [section 207E][472] with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 27][1042]
+    Compare: 2007 No 111 [s 27][1043]
     
     Section 207F: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11019,19 +11021,19 @@ Election expenses and donations
     
     (2) If a candidate, list candidate, or any person involved in the administration of the affairs of a party knows the identity of the donor of an anonymous party donation exceeding $1,500, the candidate, list candidate, or person must disclose the identity of the donor to the party secretary.
     
-    Compare: 2007 No 111 [s 28][1043]
+    Compare: 2007 No 111 [s 28][1044]
     
     Section 207G: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207G(1): amended, on 1 January 2011, by [section 19][1044] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207G(1): amended, on 1 January 2011, by [section 19][1045] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207G(2): amended, on 1 January 2011, by [section 19][1044] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207G(2): amended, on 1 January 2011, by [section 19][1045] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 207H Offence relating to contravention of section 207G
     
 *   A person who fails to comply with [section 207G][474] with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 29][1045]
+    Compare: 2007 No 111 [s 29][1046]
     
     Section 207H: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11045,17 +11047,17 @@ Election expenses and donations
     
     (3) All amounts received by the Electoral Commission under this section must be paid into a Crown Bank Account.
     
-    Compare: 2007 No 111 [s 30][1046]
+    Compare: 2007 No 111 [s 30][1047]
     
     Section 207I: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207I heading: amended, on 1 January 2011, by [section 20(1)][1047] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207I heading: amended, on 1 January 2011, by [section 20(1)][1048] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207I(1): amended, on 1 January 2011, by [section 20(2)][1047] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207I(1): amended, on 1 January 2011, by [section 20(2)][1048] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 207I(1): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 207I(2): amended, on 1 January 2011, by [section 20(2)][1047] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207I(2): amended, on 1 January 2011, by [section 20(2)][1048] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 207I(3): amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -11069,7 +11071,7 @@ Election expenses and donations
     
     (2) A candidate or party secretary who contravenes [section 207I][476] is guilty of an illegal practice.
     
-    Compare: 2007 No 111 [s 31][1048]
+    Compare: 2007 No 111 [s 31][1049]
     
     Section 207J: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11109,19 +11111,19 @@ Election expenses and donations
     
     (4) All amounts received by the Electoral Commission under subsection (2) or (3) must be paid into a Crown Bank Account.
     
-    Compare: 2007 No 111 [s 32][1049]
+    Compare: 2007 No 111 [s 32][1050]
     
     Section 207K: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 207K heading: substituted, on 1 January 2011, by [section 21(1)][1050] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207K heading: substituted, on 1 January 2011, by [section 21(1)][1051] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207K(2): substituted, on 1 January 2011, by [section 21(2)][1050] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207K(2): substituted, on 1 January 2011, by [section 21(2)][1051] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207K(2A): inserted, on 1 January 2011, by [section 21(2)][1050] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207K(2A): inserted, on 1 January 2011, by [section 21(2)][1051] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 207K(3): amended, on 25 March 2014, by [section 35][1051] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 207K(3): amended, on 25 March 2014, by [section 35][1052] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 207K(3): amended, on 1 January 2011, by [section 21(3)][1050] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207K(3): amended, on 1 January 2011, by [section 21(3)][1051] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 207K(3)(b): substituted, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
@@ -11137,7 +11139,7 @@ Election expenses and donations
     
     (2) A candidate or party secretary who contravenes [section 207K(2) or (3)][478] is guilty of an illegal practice.
     
-    Compare: 2007 No 111 [s 33][1052]
+    Compare: 2007 No 111 [s 33][1053]
     
     Section 207L: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11147,7 +11149,7 @@ Election expenses and donations
     
     (2) A person is guilty of a corrupt practice who directs or procures, or is actively involved in directing or procuring, 2 or more bodies corporate to split between the bodies corporate a contribution to a party donation in order to conceal the total amount of the contribution and avoid the contribution's inclusion by the party secretary in the return of party donations under [section 210(1)(b)][502].
     
-    Section 207LA: inserted, on 1 January 2011, by [section 22][1053] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207LA: inserted, on 1 January 2011, by [section 22][1054] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 207M Records of candidate donations
     
@@ -11155,7 +11157,7 @@ Election expenses and donations
     
     (2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 34][1054]
+    Compare: 2007 No 111 [s 34][1055]
     
     Section 207M: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11167,7 +11169,7 @@ Election expenses and donations
     
     (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 34][1054]
+    Compare: 2007 No 111 [s 34][1055]
     
     Section 207N: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11179,9 +11181,9 @@ Election expenses and donations
     
     (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
     
-    Compare: 2007 No 111 [ss 35][1055], [36][1056]
+    Compare: 2007 No 111 [ss 35][1056], [36][1057]
     
-    Section 207O: substituted, on 1 January 2011, by [section 23][1057] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 207O: substituted, on 1 January 2011, by [section 23][1058] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 207P Duty of Electoral Commission in relation to donations
     
@@ -11201,7 +11203,7 @@ Election expenses and donations
     
     _donation protected from disclosure_ means a donation made under [section 208A(2)][487] in accordance with section 208A(3).
     
-    Compare: 2007 No 111 [s 37][1058]
+    Compare: 2007 No 111 [s 37][1059]
     
     Section 208: substituted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11225,15 +11227,15 @@ Election expenses and donations
     
     (4) The Electoral Commission may request the donor to provide any further information the Commission considers necessary to confirm the identity of the donor or other details provided by the donor, and the donor must take all reasonable steps to comply with such a request as soon as is practicable.
     
-    Compare: 2007 No 111 [s 38][1059]
+    Compare: 2007 No 111 [s 38][1060]
     
     Section 208A: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 208A(1): amended, on 1 January 2011, by [section 25][1060] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 208A(1): amended, on 1 January 2011, by [section 25][1061] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 208A(2): amended, on 1 January 2011, by [section 25][1060] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 208A(2): amended, on 1 January 2011, by [section 25][1061] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 208A(3)(c): amended, on 1 January 2011, by [section 25][1060] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 208A(3)(c): amended, on 1 January 2011, by [section 25][1061] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 208B Limit on maximum amount of donations protected from disclosure
     
@@ -11253,11 +11255,11 @@ Election expenses and donations
     
     *   (b) to avoid doubt, if there is a change in the name of a donor or party, the donor or party must be treated as the same donor or party (as the case may be) as the donor or party was prior to the change of name.
     
-    Compare: 2007 No 111 [s 39][1061]
+    Compare: 2007 No 111 [s 39][1062]
     
     Section 208B: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 208B(1): amended, on 17 August 2011, by [section 24][1062] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 208B(1): amended, on 17 August 2011, by [section 24][1063] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 208C Duty of Electoral Commission to provide advice on actual figures under section 208B
     
@@ -11267,7 +11269,7 @@ Election expenses and donations
     
     *   (b) may alter that guidance from time to time to reflect any changes in the relevant figures.
     
-    Compare: 2007 No 111 [s 40][1063]
+    Compare: 2007 No 111 [s 40][1064]
     
     Section 208C: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11291,7 +11293,7 @@ Election expenses and donations
     
     *   (b) in any other case, pay any portion of the donation that exceeds a maximum limit set out in [section 208B][488] into a Crown Bank Account.
     
-    Compare: 2007 No 111 [s 41][1064]
+    Compare: 2007 No 111 [s 41][1065]
     
     Section 208D: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11311,7 +11313,7 @@ Election expenses and donations
     
     *   (c) any sum paid by the Electoral Commission into a Crown Bank Account.
     
-    Compare: 2007 No 111 [s 42][1065]
+    Compare: 2007 No 111 [s 42][1066]
     
     Section 208E: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11333,7 +11335,7 @@ Election expenses and donations
     
     *   (c) any other person to whom the identifying details must be supplied to enable the donation to be made (for example, an employee of a bank who processes a cheque by which the donation is made):
     
-    *   (d) any person to whom the identifying details must be supplied to comply with 1 or more of the Inland Revenue Acts (within the meaning of [section 3(1)][1066] of the Tax Administration Act 1994):
+    *   (d) any person to whom the identifying details must be supplied to comply with 1 or more of the Inland Revenue Acts (within the meaning of [section 3(1)][1067] of the Tax Administration Act 1994):
     
     *   (e) the Auditor-General:
     
@@ -11341,7 +11343,7 @@ Election expenses and donations
     
     (4) Except as provided in this section, if there is any inconsistency between subsection (1) and any other enactment, subsection (1) prevails.
     
-    Compare: 2007 No 111 [s 43][1067]
+    Compare: 2007 No 111 [s 43][1068]
     
     Section 208F: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11363,7 +11365,7 @@ Election expenses and donations
     
     *   (b) quarterly, by publication on the Commission's Internet site and by any other means the Commission considers appropriate, in respect of the preceding 3-month period.
     
-    Compare: 2007 No 111 [s 44][1068]
+    Compare: 2007 No 111 [s 44][1069]
     
     Section 208G: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11439,37 +11441,37 @@ Election expenses and donations
     
     (6) Every return filed under subsection (1) must be in the form required by the Electoral Commission.
     
-    Compare: 2007 No 111 [s 45][1069]
+    Compare: 2007 No 111 [s 45][1070]
     
     Section 209: substituted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
     Section 209(1): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 209(1)(a): amended, on 1 January 2011, by [section 26(1)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(1)(a): amended, on 1 January 2011, by [section 26(1)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(1)(b): replaced, on 25 March 2014, by [section 36(1)][1071] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209(1)(b): replaced, on 25 March 2014, by [section 36(1)][1072] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 209(1)(c): amended, on 1 January 2011, by [section 26(1)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(1)(c): amended, on 1 January 2011, by [section 26(1)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(1)(d): substituted, on 1 January 2011, by [section 26(2)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(1)(d): substituted, on 1 January 2011, by [section 26(2)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(1)(e): added, on 1 January 2011, by [section 26(2)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(1)(e): added, on 1 January 2011, by [section 26(2)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(1)(e): amended, on 25 March 2014, by [section 36(2)][1071] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209(1)(e): amended, on 25 March 2014, by [section 36(2)][1072] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 209(2)(c): substituted, on 1 January 2011, by [section 26(3)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(2)(c): substituted, on 1 January 2011, by [section 26(3)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(2)(d): substituted, on 1 January 2011, by [section 26(3)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(2)(d): substituted, on 1 January 2011, by [section 26(3)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(3): replaced, on 25 March 2014, by [section 36(3)][1071] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209(3): replaced, on 25 March 2014, by [section 36(3)][1072] of the Electoral Amendment Act 2014 (2014 No 8).
     
     Section 209(4)(c): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 209(5): substituted, on 1 January 2011, by [section 26(4)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(5): substituted, on 1 January 2011, by [section 26(4)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(5A): inserted, on 1 January 2011, by [section 26(4)][1070] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 209(5A): inserted, on 1 January 2011, by [section 26(4)][1071] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 209(5A)(c): amended, on 25 March 2014, by [section 36(4)][1071] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209(5A)(c): amended, on 25 March 2014, by [section 36(4)][1072] of the Electoral Amendment Act 2014 (2014 No 8).
     
     Section 209(6): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -11477,7 +11479,7 @@ Election expenses and donations
     
 *   If a candidate considers that there is no relevant information to disclose under [section 209][495], the candidate must file a nil return under that section.
     
-    Compare: 2007 No 111 [s 46][1072]
+    Compare: 2007 No 111 [s 46][1073]
     
     Section 209A: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11503,13 +11505,13 @@ Election expenses and donations
         
         
     
-    Compare: 2007 No 111 [s 48][1073]
+    Compare: 2007 No 111 [s 48][1074]
     
     Section 209B: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 209B(1): replaced, on 25 March 2014, by [section 37][1074] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209B(1): replaced, on 25 March 2014, by [section 37][1075] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 209B(1A): inserted, on 25 March 2014, by [section 37][1074] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 209B(1A): inserted, on 25 March 2014, by [section 37][1075] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 209C Obligation to retain records necessary to verify return of candidate donations
     
@@ -11517,7 +11519,7 @@ Election expenses and donations
     
     (2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 47][1075]
+    Compare: 2007 No 111 [s 47][1076]
     
     Section 209C: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11539,7 +11541,7 @@ Election expenses and donations
     
     (4) The Electoral Commission may make inspection under subsection (3) subject to the payment of any charges that may be made under the [Official Information Act 1982][833].
     
-    Compare: 2007 No 111 [s 50][1076]
+    Compare: 2007 No 111 [s 50][1077]
     
     Section 209E: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11655,45 +11657,45 @@ Election expenses and donations
     
     (9) In this section, _year_ means the period of 12 months starting on 1 January and ending with the close of 31 December.
     
-    Compare: 2007 No 111 [s 51][1077]
+    Compare: 2007 No 111 [s 51][1078]
     
     Section 210: substituted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 210(1): amended, on 25 March 2014, by [section 38(1)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(1): amended, on 25 March 2014, by [section 38(1)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(1)(a): amended, on 1 January 2011, by [section 27(1)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(a): amended, on 1 January 2011, by [section 27(1)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(1)(b): replaced, on 25 March 2014, by [section 38(2)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(1)(b): replaced, on 25 March 2014, by [section 38(2)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(1)(c): amended, on 1 January 2011, by [section 27(2)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(c): amended, on 1 January 2011, by [section 27(2)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(1)(d): substituted, on 1 January 2011, by [section 27(3)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(d): substituted, on 1 January 2011, by [section 27(3)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(1)(da): inserted, on 1 January 2011, by [section 27(3)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(da): inserted, on 1 January 2011, by [section 27(3)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(1)(da): amended, on 25 March 2014, by [section 38(3)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(1)(da): amended, on 25 March 2014, by [section 38(3)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(1)(e): amended, on 1 January 2011, by [section 27(4)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(e): amended, on 1 January 2011, by [section 27(4)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(1)(f): added, on 1 January 2011, by [section 27(4)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(1)(f): added, on 1 January 2011, by [section 27(4)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(2)(c): substituted, on 1 January 2011, by [section 27(5)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(2)(c): substituted, on 1 January 2011, by [section 27(5)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(2)(d): substituted, on 1 January 2011, by [section 27(5)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(2)(d): substituted, on 1 January 2011, by [section 27(5)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(3): replaced, on 25 March 2014, by [section 38(4)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(3): replaced, on 25 March 2014, by [section 38(4)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(5): substituted, on 1 January 2011, by [section 27(6)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(5): substituted, on 1 January 2011, by [section 27(6)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(5A): inserted, on 1 January 2011, by [section 27(6)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(5A): inserted, on 1 January 2011, by [section 27(6)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(5A)(c): amended, on 25 March 2014, by [section 38(5)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(5A)(c): amended, on 25 March 2014, by [section 38(5)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(6A): inserted, on 1 January 2011, by [section 27(7)][1079] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210(6A): inserted, on 1 January 2011, by [section 27(7)][1080] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210(7): replaced, on 25 March 2014, by [section 38(6)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(7): replaced, on 25 March 2014, by [section 38(6)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210(9): inserted, on 25 March 2014, by [section 38(7)][1078] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210(9): inserted, on 25 March 2014, by [section 38(7)][1079] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 210A Auditor's report on annual return of party donations
     
@@ -11717,7 +11719,7 @@ Election expenses and donations
     
     *   (b) may require the party secretary to provide any information and explanations that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
     
-    Compare: 2007 No 111 [s 52][1080]
+    Compare: 2007 No 111 [s 52][1081]
     
     Section 210A: substituted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11725,7 +11727,7 @@ Election expenses and donations
     
 *   If a party secretary considers that there is no relevant information to disclose under [section 210][502], the party secretary must file a nil return under that section.
     
-    Compare: 2007 No 111 [s 53][1081]
+    Compare: 2007 No 111 [s 53][1082]
     
     Section 210B: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
@@ -11777,19 +11779,19 @@ Election expenses and donations
     
     (6) A return must be filed under subsection (1) or (2) within 10 working days of the donation being received by the party secretary.
     
-    Compare: 2007 No 111 [s 54][1082]
+    Compare: 2007 No 111 [s 54][1083]
     
     Section 210C: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 210C heading: amended, on 1 January 2011, by [section 28][1083] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210C heading: amended, on 1 January 2011, by [section 28][1084] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210C(1): amended, on 1 January 2011, by [section 28][1083] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210C(1): amended, on 1 January 2011, by [section 28][1084] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210C(2)(b): amended, on 1 January 2011, by [section 28][1083] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 210C(2)(b): amended, on 1 January 2011, by [section 28][1084] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 210C(4)(d): amended, on 25 March 2014, by [section 39(1)][1084] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210C(4)(d): amended, on 25 March 2014, by [section 39(1)][1085] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210C(4)(e): inserted, on 25 March 2014, by [section 39(2)][1084] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210C(4)(e): inserted, on 25 March 2014, by [section 39(2)][1085] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 210D Offences relating to return of party donations
     
@@ -11825,15 +11827,15 @@ Election expenses and donations
     
     (3) In this section, _late period_, in relation to the filing of a return, means the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later.
     
-    Compare: 2007 No 111 [s 56][1085]
+    Compare: 2007 No 111 [s 56][1086]
     
     Section 210D: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 210D(1): replaced, on 25 March 2014, by [section 40(1)][1086] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210D(1): replaced, on 25 March 2014, by [section 40(1)][1087] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210D(1A): inserted, on 25 March 2014, by [section 40(1)][1086] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210D(1A): inserted, on 25 March 2014, by [section 40(1)][1087] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 210D(3): inserted, on 25 March 2014, by [section 40(2) ][1086]of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 210D(3): inserted, on 25 March 2014, by [section 40(2) ][1087]of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 210E Obligation to retain records necessary to verify return of party donations
     
@@ -11841,7 +11843,7 @@ Election expenses and donations
     
     (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Compare: 2007 No 111 [s 55][1087]
+    Compare: 2007 No 111 [s 55][1088]
     
     Section 210E: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -11861,24 +11863,24 @@ Election expenses and donations
     
     (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the [Official Information Act 1982][833].
     
-    Compare: 2007 No 111 [s 57][1088]
+    Compare: 2007 No 111 [s 57][1089]
     
     Section 210F: inserted, on 1 March 2009, by [section 6][971] of the Electoral Amendment Act 2009 (2009 No 1).
 
 ## Part 6B  
 Loans
     
-*   Part 6B: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Part 6B: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 211 Application of this Part
     
 *   This Part applies to loans entered into on behalf of parties.
     
-    Section 211: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 211: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ### Subpart 1---General provisions relating to loans
     
-*   Subpart 1: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Subpart 1: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 212 Interpretation
     
@@ -11900,9 +11902,9 @@ Loans
     
     *   (c) the total of the amounts in paragraphs (a) and (b), in any case where the lender has provided, and may in the future provide, money under the loan
     
-    _registered bank_ has the same meaning as in [section 2(1)][1090] of the Reserve Bank of New Zealand Act 1989\.
+    _registered bank_ has the same meaning as in [section 2(1)][1091] of the Reserve Bank of New Zealand Act 1989\.
     
-    Section 212: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 212: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 213 Party secretary may enter into loan on behalf of party
     
@@ -11912,9 +11914,9 @@ Loans
     
     (3) If the party secretary enters into a loan that is not in writing, the party secretary must, as soon as is reasonably practicable, make a written record of the loan.
     
-    (4) A loan entered into in contravention of this section is an illegal contract for the purposes of the [Illegal Contracts Act 1970][1091].
+    (4) A loan entered into in contravention of this section is an illegal contract for the purposes of the [Illegal Contracts Act 1970][1092].
     
-    Section 213: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 213: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214 Offence to enter into unauthorised loan
     
@@ -11924,13 +11926,13 @@ Loans
     
     *   (b) an illegal practice who contravenes [section 213][513] in any other case.
     
-    Section 214: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214A Offence to enter into arrangement to circumvent section 213, 214C, or 214F
     
 *   A person who enters into an agreement, arrangement, or understanding with any other person for the purpose of circumventing [section 213][513], or for the purpose of circumventing the disclosure required by [section 214C][518] or [214F][521], is guilty of an illegal practice.
     
-    Section 214A: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214A: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214B Records of loans
     
@@ -11938,11 +11940,11 @@ Loans
     
     (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Section 214B: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214B: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ### Subpart 2---Disclosure of loans
     
-*   Subpart 2: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Subpart 2: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214C Annual return of loans
     
@@ -12018,7 +12020,7 @@ Loans
     
     (7) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
     
-    Section 214C: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214C: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214D Auditor's report on annual return of loans
     
@@ -12042,13 +12044,13 @@ Loans
     
     *   (b) may require the party secretary to provide any information and explanation that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
     
-    Section 214D: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214D: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214E Nil return
     
 *   If a party secretary considers that there is no relevant information to disclose under [section 214C][518], the party secretary must file a nil return under that section.
     
-    Section 214E: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214E: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214F Return of loan provided by same lender exceeding $30,000
     
@@ -12098,7 +12100,7 @@ Loans
     
     (6) A return must be filed under subsection (1) or (2) within 10 working days of the loan being entered into by the party.
     
-    Section 214F: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214F: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214G Offences relating to return of party loans
     
@@ -12136,7 +12138,7 @@ Loans
     
     (5) In this section, _late period_, in relation to the filing of a return, means the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later.
     
-    Section 214G: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214G: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214H Duty of Electoral Commission
     
@@ -12144,7 +12146,7 @@ Loans
     
     (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
     
-    Section 214H: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214H: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214I Obligation to retain records necessary to verify return of party loans
     
@@ -12152,7 +12154,7 @@ Loans
     
     (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
-    Section 214I: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214I: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 214J Return of party loans to be publicly available
     
@@ -12168,7 +12170,7 @@ Loans
     
     (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the [Official Information Act 1982][833].
     
-    Section 214J: inserted, on 25 March 2014, by [section 41][1089] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 214J: inserted, on 25 March 2014, by [section 41][1090] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ## Part 7  
 Corrupt and illegal practices
@@ -12193,7 +12195,7 @@ Corrupt and illegal practices
     
     Compare: 1956 No 107 s 140; 1983 No 104 s 24
     
-    Section 215(4): amended, on 17 August 2011, by [section 25][1092] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 215(4): amended, on 17 August 2011, by [section 25][1093] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 216 Bribery
     
@@ -12281,7 +12283,7 @@ Corrupt and illegal practices
     
     Compare: 1993 No 87 s 219 (pre-20 December 2007)
     
-    Section 219: substituted, on 1 March 2009, by [section 7][1093] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 219: substituted, on 1 March 2009, by [section 7][1094] of the Electoral Amendment Act 2009 (2009 No 1).
     
     Section 219 compare note: amended, on 1 October 2010, by [section 14][726] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -12293,13 +12295,13 @@ Corrupt and illegal practices
     
     Section 220: amended, on 1 March 2009, by [section 14][751] of the Electoral Amendment Act 2009 (2009 No 1).
     
-    Section 220: amended, on 20 December 2007, by [section 23][1094] of the Electoral Amendment Act 2007 (2007 No 113).
+    Section 220: amended, on 20 December 2007, by [section 23][1095] of the Electoral Amendment Act 2007 (2007 No 113).
 
 ##### 221 Advertisements for candidates and political parties
     
 *   \[Repealed\]
     
-    Section 221: repealed, on 1 January 2011, by [section 30][1095] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 221: repealed, on 1 January 2011, by [section 30][1096] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
 
 ##### 221A Electoral advertisements
     
@@ -12311,9 +12313,9 @@ Corrupt and illegal practices
     
     (4) Nothing in this section shall restrict the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][951] of the Broadcasting Act 1989\.
     
-    Section 221A: inserted, on 6 December 1995, by [section 82][1096] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+    Section 221A: inserted, on 6 December 1995, by [section 82][1097] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
     
-    Section 221A(1): amended, on 1 January 2011, by [section 31][1097] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 221A(1): amended, on 1 January 2011, by [section 31][1098] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 221A(1): amended, on 1 March 2009, by [section 14][751] of the Electoral Amendment Act 2009 (2009 No 1).
     
@@ -12347,7 +12349,7 @@ Corrupt and illegal practices
     
     Compare: 1993 No 87 s 221B (pre-20 December 2007)
     
-    Section 221B: substituted, on 1 March 2009, by [section 9][1098] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 221B: substituted, on 1 March 2009, by [section 9][1099] of the Electoral Amendment Act 2009 (2009 No 1).
 
 ##### 222 Procurement of voting by unqualified voters
     
@@ -12391,17 +12393,17 @@ Corrupt and illegal practices
         
     *   (a) [section 201][371]; or
     
-    *   (b) [section 43][1099] of the Citizens Initiated Referenda Act 1993\.
+    *   (b) [section 43][1100] of the Citizens Initiated Referenda Act 1993\.
     
-    Compare: 1993 No 87 s 224 (pre-20 December 2007); 2007 No 111 [ss 142][1100], [143][1101]
+    Compare: 1993 No 87 s 224 (pre-20 December 2007); 2007 No 111 [ss 142][1101], [143][1102]
     
-    Section 224: substituted, on 1 March 2009, by [section 10][1102] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 224: substituted, on 1 March 2009, by [section 10][1103] of the Electoral Amendment Act 2009 (2009 No 1).
     
     Section 224(1): amended, on 1 July 2013, by [section 413][715] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 224(1)(b)(i): amended, on 1 January 2011, by [section 32(1)][1103] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 224(1)(b)(i): amended, on 1 January 2011, by [section 32(1)][1104] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 224(2): substituted, on 1 January 2011, by [section 32(2)][1103] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 224(2): substituted, on 1 January 2011, by [section 32(2)][1104] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 224(2): amended, on 1 July 2013, by [section 413][715] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -12415,7 +12417,7 @@ Corrupt and illegal practices
 
 ##### 226 Time limit for prosecutions
     
-*   (1) Despite anything to the contrary in [section 25][1104] of the Criminal Procedure Act 2011, a prosecution under any of the following provisions must be commenced within 6 months of the date on which the return was required to be filed:
+*   (1) Despite anything to the contrary in [section 25][1105] of the Criminal Procedure Act 2011, a prosecution under any of the following provisions must be commenced within 6 months of the date on which the return was required to be filed:
         
     *   (a) [section 205N(1)][420]:
     
@@ -12427,29 +12429,29 @@ Corrupt and illegal practices
     
     *   (e) [section 214G(1)(a)][522].
     
-    (1A) Despite anything to the contrary in [section 25][1104] of the Criminal Procedure Act 2011, a prosecution under [section 206ZE(1)][462], [210D(1)(b)][506], or [214G(1)(b)][522] must be commenced---
+    (1A) Despite anything to the contrary in [section 25][1105] of the Criminal Procedure Act 2011, a prosecution under [section 206ZE(1)][462], [210D(1)(b)][506], or [214G(1)(b)][522] must be commenced---
         
     *   (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
     
     *   (b) not later than 3 years after the offence was committed.
     
-    (2) Despite anything to the contrary in [section 25][1104] of the Criminal Procedure Act 2011, a prosecution against any person for a corrupt practice or an illegal practice must be commenced---
+    (2) Despite anything to the contrary in [section 25][1105] of the Criminal Procedure Act 2011, a prosecution against any person for a corrupt practice or an illegal practice must be commenced---
         
     *   (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
     
     *   (b) not later than 3 years after the corrupt practice or illegal practice was committed.
     
-    Compare: 1993 No 87 s 226 (pre-20 December 2007); 2007 No 111 [s 140][1105]
+    Compare: 1993 No 87 s 226 (pre-20 December 2007); 2007 No 111 [s 140][1106]
     
-    Section 226: substituted, on 1 March 2009, by [section 11][1106] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 226: substituted, on 1 March 2009, by [section 11][1107] of the Electoral Amendment Act 2009 (2009 No 1).
     
     Section 226(1): amended, on 1 July 2013, by [section 413][715] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 226(1)(d): substituted, on 1 January 2011, by [section 33(1)][1107] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 226(1)(d): substituted, on 1 January 2011, by [section 33(1)][1108] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 226(1)(e): inserted, on 25 March 2014, by [section 45][651] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 226(1A): inserted, on 1 January 2011, by [section 33(2)][1107] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 226(1A): inserted, on 1 January 2011, by [section 33(2)][1108] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 226(1A): amended, on 25 March 2014, by [section 45][651] of the Electoral Amendment Act 2014 (2014 No 8).
     
@@ -12461,7 +12463,7 @@ Corrupt and illegal practices
     
 *   \[Repealed\]
     
-    Section 226A: repealed, on 1 March 2009, by [section 12][1108] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 226A: repealed, on 1 March 2009, by [section 12][1109] of the Electoral Amendment Act 2009 (2009 No 1).
 
 ##### 227 Punishment for disqualified person voting
     
@@ -12526,9 +12528,9 @@ Election petitions
     
     Section 231(1): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 231(1): amended, on 6 December 1995, by [section 84][1109] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+    Section 231(1): amended, on 6 December 1995, by [section 84][1110] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
     
-    Section 231(2): amended, on 6 December 1995, by [section 84][1109] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+    Section 231(2): amended, on 6 December 1995, by [section 84][1110] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 ##### 232 Security for costs
     
@@ -12548,7 +12550,7 @@ Election petitions
 
 ##### 234 Rules of court
     
-*   (1) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][1110] for the purposes of this Part.
+*   (1) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][1111] for the purposes of this Part.
     
     (2) All rules made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
     
@@ -12670,7 +12672,7 @@ Election petitions
     
     (3) The orders certified under subsection (2)(c) are final for all purposes.
     
-    Section 243A: inserted, on 25 March 2014, by [section 42][1111] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 243A: inserted, on 25 March 2014, by [section 42][1112] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 244 Report of court as to corrupt or illegal practices
     
@@ -12762,7 +12764,7 @@ Election petitions
     
 *   (1) All costs of and incidental to the presentation of an election petition to which [section 229(3)][548] applies, and to the proceedings consequent thereon, except such as are by this Act otherwise provided for shall be defrayed by the parties to the petition in such manner and in such proportions as the High Court may determine; and, in particular, any costs which, in the opinion of the court, have been caused by vexatious conduct, unfounded allegations, or unfounded objections on the part either of the petitioner or of the respondent, and any needless expenses incurred or caused on the part of the petitioner or respondent, may be ordered to be defrayed by the parties by whom they were caused or incurred, whether those parties are or are not on the whole successful.
     
-    (2) If a petitioner fails for 6 months after demand to pay to any person summoned as a witness on the petitioner's behalf, or to the respondent, any sum certified to be due to that person for costs, and the failure is within 1 year after the demand proved to the satisfaction of the High Court, every person who has under this Act entered into a recognisance relating to the petition shall be held to have made default in the recognisance, and it shall be dealt with in the manner provided by [section 21][1112] of the Crown Proceedings Act 1950\.
+    (2) If a petitioner fails for 6 months after demand to pay to any person summoned as a witness on the petitioner's behalf, or to the respondent, any sum certified to be due to that person for costs, and the failure is within 1 year after the demand proved to the satisfaction of the High Court, every person who has under this Act entered into a recognisance relating to the petition shall be held to have made default in the recognisance, and it shall be dealt with in the manner provided by [section 21][1113] of the Crown Proceedings Act 1950\.
     
     Compare: 1956 No 107 s 176
 
@@ -12858,11 +12860,11 @@ Election petitions
     
     (6) The petition shall be served as nearly as may be in the manner in which a statement of claim is served, or in such other manner as may be prescribed by rules of court.
     
-    Section 258(1): amended, on 1 July 1996, by [section 7][1113] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
+    Section 258(1): amended, on 1 July 1996, by [section 7][1114] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
     
     Section 258(3): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 258(3): amended, on 1 July 1996, by [section 7][1113] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
+    Section 258(3): amended, on 1 July 1996, by [section 7][1114] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
     
     Section 258(5): amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -12872,7 +12874,7 @@ Election petitions
     
     Section 259: amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 259: amended, on 6 December 1995, by [section 85][1114] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+    Section 259: amended, on 6 December 1995, by [section 85][1115] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 ##### 260 Matters excluded from challenge
     
@@ -12892,9 +12894,9 @@ Election petitions
     
 *   Where any petition is presented under [section 258][583], the provisions of [sections 232 to 235][551], subsections (1) to (3) and (8) of [section 236][556], [sections 240 to 242][560], [sections 245 to 250][566], and [section 252][576] (other than subsection (2)), shall apply, with any necessary modifications, as if references to the High Court were references to the Court of Appeal.
     
-    Section 261: amended, on 1 July 1996, by [section 8(a)][1115] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
+    Section 261: amended, on 1 July 1996, by [section 8(a)][1116] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
     
-    Section 261: amended, on 1 July 1996, by [section 8(b)][1115] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
+    Section 261: amended, on 1 July 1996, by [section 8(b)][1116] of the Electoral Amendment Act (No 2) 1996 (1996 No 54).
 
 ##### 262 Certificate of court as to result of petitions
     
@@ -12937,9 +12939,9 @@ Miscellaneous provisions
     
     Compare: 1956 No 107 s 184
     
-    Section 263(3): amended, on 1 July 2012, by [section 51(1)][1116] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263(3): amended, on 1 July 2012, by [section 51(1)][1117] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263(4): inserted, on 1 July 2012, by [section 51(2)][1116] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263(4): inserted, on 1 July 2012, by [section 51(2)][1117] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 263A Disclosure of immigration information for matching purposes
     
@@ -12969,7 +12971,7 @@ Miscellaneous provisions
         
         
     
-    _responsible department_ means the department of State that is, with the authority of the Prime Minister, responsible for the administration of the [Immigration Act 2009][1117].
+    _responsible department_ means the department of State that is, with the authority of the Prime Minister, responsible for the administration of the [Immigration Act 2009][1118].
     
     (2) The purpose of this section is to facilitate the disclosure of information from the responsible department to the Electoral Commission for the purposes of---
         
@@ -13005,9 +13007,9 @@ Miscellaneous provisions
     
     Section 263A(2): amended, on 1 July 2012, by [section 52(18)(g)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263A(2)(a): amended, on 17 August 2011, by [section 26(1)][1118] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263A(2)(a): amended, on 17 August 2011, by [section 26(1)][1119] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263A(2)(b): amended, on 17 August 2011, by [section 26(2)][1118] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263A(2)(b): amended, on 17 August 2011, by [section 26(2)][1119] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
     Section 263A(3): amended, on 1 July 2012, by [section 52(18)(g)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -13015,11 +13017,11 @@ Miscellaneous provisions
     
     Section 263A(5): amended, on 1 July 2012, by [section 52(18)(g)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263A(5): amended, on 17 August 2011, by [section 26(3)(a)][1118] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263A(5): amended, on 17 August 2011, by [section 26(3)(a)][1119] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263A(5): amended, on 17 August 2011, by [section 26(3)(b)][1118] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263A(5): amended, on 17 August 2011, by [section 26(3)(b)][1119] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263A(6): substituted, on 17 August 2011, by [section 26(4)][1118] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263A(6): substituted, on 17 August 2011, by [section 26(4)][1119] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
     Section 263A(6): amended, on 1 July 2012, by [section 52(18)(g)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -13051,7 +13053,7 @@ Miscellaneous provisions
     
     (3) For the purposes of this section, a _specified agency_ means---
         
-    *   (a) the department for the time being responsible for the administration of the [Social Security Act 1964][1119]; and
+    *   (a) the department for the time being responsible for the administration of the [Social Security Act 1964][1120]; and
     
     *   (b) the Registrar of Motor Vehicles; and
     
@@ -13061,13 +13063,13 @@ Miscellaneous provisions
     
     (4) For the purposes of this section, any officer or employee or agent of a specified agency, authorised by the chief executive of that agency, may from time to time, at the request of the Electoral Commission, supply to the Electoral Commission any of the information described in subsection (2) held by that agency,---
         
-    *   (a) in the case of the department for the time being responsible for the administration of the [Social Security Act 1964][1119], in relation to any---
+    *   (a) in the case of the department for the time being responsible for the administration of the [Social Security Act 1964][1120], in relation to any---
             
         *   (i) beneficiary; or
         
         *   (ii) student; or
         
-        *   (iii) borrower (as that term is defined in [section 4(1)][1120] of the Student Loan Scheme Act 2011):
+        *   (iii) borrower (as that term is defined in [section 4(1)][1121] of the Student Loan Scheme Act 2011):
         
         
     
@@ -13077,33 +13079,33 @@ Miscellaneous provisions
     
     *   (d) in the case of the Department of Internal Affairs, in relation to any persons---
             
-        *   (i) who obtain New Zealand citizenship under the [Citizenship Act 1977][1121]; or
+        *   (i) who obtain New Zealand citizenship under the [Citizenship Act 1977][1122]; or
         
-        *   (ii) by whom, or on whose behalf, an application is made under the [Passports Act 1992][1122] for the issue or renewal of a New Zealand passport.
+        *   (ii) by whom, or on whose behalf, an application is made under the [Passports Act 1992][1123] for the issue or renewal of a New Zealand passport.
         
         
     
     (5) If, in relation to any person, information is supplied to the Electoral Commission under subsection (4), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
     
-    (6) In this section, _Registrar of Motor Vehicles_ has the same meaning as _Registrar_ in [section 233(1)][1123] of the Land Transport Act 1998\.
+    (6) In this section, _Registrar of Motor Vehicles_ has the same meaning as _Registrar_ in [section 233(1)][1124] of the Land Transport Act 1998\.
     
-    Section 263B: inserted, on 28 February 2002, by [section 97][1124] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 263B: inserted, on 28 February 2002, by [section 97][1125] of the Electoral Amendment Act 2002 (2002 No 1).
     
     Section 263B(1): amended, on 1 July 2012, by [section 52(18)(h)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
     Section 263B(3)(b): amended, on 25 March 2014, by [section 45][651] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 263B(3)(c): amended, on 1 August 2008, by [section 50(1)][1125] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 263B(3)(c): amended, on 1 August 2008, by [section 50(1)][1126] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 263B(4): amended, on 1 July 2012, by [section 52(18)(h)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 263B(4)(a)(iii): amended, on 1 April 2012, by [section 223][1126] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 263B(4)(a)(iii): amended, on 1 April 2012, by [section 223][1127] of the Student Loan Scheme Act 2011 (2011 No 62).
     
     Section 263B(4)(b): amended, on 25 March 2014, by [section 45][651] of the Electoral Amendment Act 2014 (2014 No 8).
     
-    Section 263B(4)(c): amended, on 1 August 2008, by [section 50(1)][1125] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 263B(4)(c): amended, on 1 August 2008, by [section 50(1)][1126] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 263B(4)(d): substituted, on 17 August 2011, by [section 27][1127] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 263B(4)(d): substituted, on 17 August 2011, by [section 27][1128] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
     Section 263B(5): amended, on 1 July 2012, by [section 52(18)(h)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -13189,11 +13191,11 @@ Miscellaneous provisions
     
     (7) In this section _CPI_ means the Consumers Price Index All Groups published by Statistics New Zealand.
     
-    Compare: 2007 No 111 [s 134][1128]
+    Compare: 2007 No 111 [s 134][1129]
     
-    Section 266A: inserted, on 1 January 2011, by [section 34][1129] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 266A: inserted, on 1 January 2011, by [section 34][1130] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 266A(6A): inserted, on 25 March 2014, by [section 43][1130] of the Electoral Amendment Act 2014 (2014 No 8).
+    Section 266A(6A): inserted, on 25 March 2014, by [section 43][1131] of the Electoral Amendment Act 2014 (2014 No 8).
 
 ##### 267 Regulations
     
@@ -13221,13 +13223,13 @@ Miscellaneous provisions
     
     Compare: 1956 No 107 s 188; 1990 No 1 s 78(1)
     
-    Section 267(b): substituted, on 28 February 2002, by [section 98][1131] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 267(b): substituted, on 28 February 2002, by [section 98][1132] of the Electoral Amendment Act 2002 (2002 No 1).
     
     Section 267(b): amended, on 1 July 2012, by [section 52(17)(t)][645] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 267(c): substituted, on 28 February 2002, by [section 98][1131] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 267(c): substituted, on 28 February 2002, by [section 98][1132] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 267(ca): inserted, on 28 February 2002, by [section 98][1131] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 267(ca): inserted, on 28 February 2002, by [section 98][1132] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 267A Regulations relating to advertisement of a specified kind
     
@@ -13265,13 +13267,13 @@ Miscellaneous provisions
     
     Compare: 1993 No 87 s 267A (pre-20 December 2007)
     
-    Section 267A: substituted, on 1 March 2009, by [section 13][1132] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 267A: substituted, on 1 March 2009, by [section 13][1133] of the Electoral Amendment Act 2009 (2009 No 1).
 
 ##### 267B Requirements before Minister can recommend that regulations be made
     
 *   (1) The Minister may not recommend the making of any regulations under [section 267A(1)(a)][597] unless---
         
-    *   (a) the Minister has consulted with the Minister who is for the time being responsible for the administration of the [Land Transport Act 1998][1133]; and
+    *   (a) the Minister has consulted with the Minister who is for the time being responsible for the administration of the [Land Transport Act 1998][1134]; and
     
     *   (b) the Minister is satisfied that the regulations do not restrict the rights of candidates and political parties any more than is reasonably necessary to ensure that an advertisement of a specified kind does not endanger the safety of road users; and
     
@@ -13289,13 +13291,13 @@ Miscellaneous provisions
     
     Compare: 1993 No 87 s 267B (pre-20 December 2007)
     
-    Section 267B: substituted, on 1 March 2009, by [section 13][1132] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 267B: substituted, on 1 March 2009, by [section 13][1133] of the Electoral Amendment Act 2009 (2009 No 1).
 
 ##### 268 Restriction on amendment or repeal of certain provisions
     
 *   (1) This section applies to the following provisions (hereinafter referred to as _reserved provisions_), namely,---
         
-    *   (a) [section 17(1)][1134] of the Constitution Act 1986, relating to the term of Parliament:
+    *   (a) [section 17(1)][1135] of the Constitution Act 1986, relating to the term of Parliament:
     
     *   (b) [section 28][61], relating to the Representation Commission:
     
@@ -13367,23 +13369,23 @@ Miscellaneous provisions
 
 ##### 271 Term of Parliament
     
-*   _Amendment(s) incorporated in the [Act(s)][1134]._
+*   _Amendment(s) incorporated in the [Act(s)][1135]._
 
 #### Amendment to Civil List Act 1979
 
 ##### 272 Questioned elections of members of Parliament
     
-*   _Amendment(s) incorporated in the [Act(s)][1135]._
+*   _Amendment(s) incorporated in the [Act(s)][1136]._
 
 #### Amendment to Remuneration Authority Act 1977
     
-*   Heading: amended, on 1 April 2003, pursuant to [section 3(3)][1136] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+*   Heading: amended, on 1 April 2003, pursuant to [section 3(3)][1137] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 273 Officers whose remuneration is to be determined by Remuneration Authority
     
-*   _Amendment(s) incorporated in the [Act(s)][1137]._
+*   _Amendment(s) incorporated in the [Act(s)][1138]._
     
-    Section 273 heading: amended, on 1 April 2003, pursuant to [section 3(3)][1136] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 273 heading: amended, on 1 April 2003, pursuant to [section 3(3)][1137] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 #### Amendments to Local Elections and Polls Act 1976
 
@@ -13480,7 +13482,7 @@ Provisions relating to Electoral Commission
     
 *   \[Repealed\]
     
-    Schedule 1 clause 1: repealed, on 20 December 2007, by [section 26][1138] of the Electoral Amendment Act 2007 (2007 No 113).
+    Schedule 1 clause 1: repealed, on 20 December 2007, by [section 26][1139] of the Electoral Amendment Act 2007 (2007 No 113).
 
 ##### 2 Travelling allowances and expenses
     
@@ -13502,13 +13504,13 @@ Provisions relating to Electoral Commission
 
 ##### 4 Superannuation or retiring allowances
     
-*   (1) For the purposes of providing superannuation or retiring allowances for the chief executive, the Commission may, out of the funds of the Commission, make payment to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][1139].
+*   (1) For the purposes of providing superannuation or retiring allowances for the chief executive, the Commission may, out of the funds of the Commission, make payment to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][1140].
     
-    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the chief executive or, as the case may be, becoming an officer or employee of the Electoral Commission, is a contributor to the Government Superannuation Fund under [Part 2][1140] or [Part 2A][1141] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the chief executive or, as the case may be, to be an officer or employee of the Commission; and that Act shall apply to that person in all respects as if that person's service as the chief executive or, as the case may be, as such an officer or employee were Government service.
+    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the chief executive or, as the case may be, becoming an officer or employee of the Electoral Commission, is a contributor to the Government Superannuation Fund under [Part 2][1141] or [Part 2A][1142] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the chief executive or, as the case may be, to be an officer or employee of the Commission; and that Act shall apply to that person in all respects as if that person's service as the chief executive or, as the case may be, as such an officer or employee were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][1142], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][1143], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][1142], in accordance with subclause (2), to a person who holds office as the chief executive or, as the case may be, is in the service of the Electoral Commission as an officer or employee and (in any such case) is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the chief executive.
+    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][1143], in accordance with subclause (2), to a person who holds office as the chief executive or, as the case may be, is in the service of the Electoral Commission as an officer or employee and (in any such case) is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the chief executive.
     
     Schedule 1 clause 4(1): substituted, on 25 January 2005, by [section 200][702] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -13572,7 +13574,7 @@ Provisions relating to Electoral Commission
     
     (3) The High Court or the Court of Appeal, as the case may be, must hear and determine the question, and must remit the case with its opinion to the Commission.
     
-    Schedule 1 clause 14: added, on 28 February 2002, by [section 99][1143] of the Electoral Amendment Act 2002 (2002 No 1).
+    Schedule 1 clause 14: added, on 28 February 2002, by [section 99][1144] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ---
 
@@ -13583,7 +13585,7 @@ Forms
 
 [1][713][][713][Declaration by Returning Officer or polling place official or electoral official or scrutineer][713]
 
-[2][1144][][1144][Warrant for issue of writs for general election][1144] \[Repealed\]
+[2][1145][][1145][Warrant for issue of writs for general election][1145] \[Repealed\]
 
 [3][858][][858][Writ for general election Governor-General][858]
 
@@ -13591,15 +13593,15 @@ Forms
 
 [4A][870][][870][Notice of withdrawal of party list][870]
 
-[5][1145][][1145][Form of consent to inclusion of name on party list][1145] \[Repealed\]
+[5][1146][][1146][Form of consent to inclusion of name on party list][1146] \[Repealed\]
 
 [6][872][][872][Writ for by-election][872]
 
 [7][876][][876][Warrant to supply vacancy][876]
 
-[8][1146][][1146][Notice of nomination day and polling day][1146] \[Repealed\]
+[8][1147][][1147][Notice of nomination day and polling day][1147] \[Repealed\]
 
-[9][1147][][1147][Nomination paper][1147] \[Repealed\]
+[9][1148][][1148][Nomination paper][1148] \[Repealed\]
 
 [10][890][][890][Notice of withdrawal of nomination][890]
 
@@ -13609,13 +13611,13 @@ Forms
 
 [13][899][][899][Counterfoil][899]
 
-[14][1148][][1148][Declaration of result of poll][1148]
+[14][1149][][1149][Declaration of result of poll][1149]
 
 [15][943][][943][Working sheet in relation to candidates whose names are included in party lists][943]
 
-[16][1149][][1149][Return of election expenses and election donations][1149] \[Repealed\]
+[16][1150][][1150][Return of election expenses and election donations][1150] \[Repealed\]
 
-[17][1150][][1150][Return of electorate donations][1150] \[Repealed\]
+[17][1151][][1151][Return of electorate donations][1151] \[Repealed\]
 
 ---
 
@@ -13671,7 +13673,7 @@ CD
 
 *   4 An Electoral Commissioner may take declarations only under [sections 175(3)][333] and [183(4)][343] of the Electoral Act 1993\.
 
-*   Schedule 2 form 1: substituted, on 28 February 2002, by [section 100(1)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 1: substituted, on 28 February 2002, by [section 100(1)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 *   Schedule 2 form 1: amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
 #### Form 2  
@@ -13681,7 +13683,7 @@ Warrant for issue of writs for general election
 
 \[Repealed\]
     
-*   Schedule 2 form 2: repealed, on 28 February 2002, by [section 100(2)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 2: repealed, on 28 February 2002, by [section 100(2)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 3  
 Writ for general election Governor-General
@@ -13700,8 +13702,8 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required to
 
 Signed by Her Excellency the Governor-General at \[_place_\] on \[_date_\].
 
-*   Schedule 2 form 3: substituted, on 28 February 2002, by [section 100(3)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
-*   Schedule 2 form 3: amended, on 25 March 2014, by [section 44(1)][1152] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Schedule 2 form 3: substituted, on 28 February 2002, by [section 100(3)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 3: amended, on 25 March 2014, by [section 44(1)][1153] of the Electoral Amendment Act 2014 (2014 No 8).
 *   Schedule 2 form 3: amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Schedule 2 form 3: amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -13758,7 +13760,7 @@ Dated at this day of 19 .
 .....................................................  
 \[_Signature of the secretary of the political party_\]
     
-*   Schedule 2 form 4A: inserted, on 6 December 1995, by [section 88][1153] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 4A: inserted, on 6 December 1995, by [section 88][1154] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 *   Schedule 2 form 4A: amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
 #### Form 5  
@@ -13768,7 +13770,7 @@ Form of consent to inclusion of name on party list
 
 \[Repealed\]
     
-*   Schedule 2 form 5: repealed, on 17 May 2005, by [section 3(3)][1154] of the Electoral Amendment Act 2005 (2005 No 50).
+*   Schedule 2 form 5: repealed, on 17 May 2005, by [section 3(3)][1155] of the Electoral Amendment Act 2005 (2005 No 50).
 
 #### Form 6  
 Writ for by-election
@@ -13787,8 +13789,8 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required to
 
 Signed by Her Excellency, the Governor-General at \[_place_\] on \[_date_\].
 
-*   Schedule 2 form 6: substituted, on 28 February 2002, by [section 100(4)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
-*   Schedule 2 form 6: amended, on 25 March 2014, by [section 44(2)][1152] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Schedule 2 form 6: substituted, on 28 February 2002, by [section 100(4)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 6: amended, on 25 March 2014, by [section 44(2)][1153] of the Electoral Amendment Act 2014 (2014 No 8).
 *   Schedule 2 form 6: amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Schedule 2 form 6: amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -13803,10 +13805,10 @@ Pursuant to the Electoral Act 1993, I hereby authorise and direct the Electoral 
 
 Signed by Her Excellency, the Governor-General at \[_place_\] on \[_date_\].
 
-*   Schedule 2 form 7: amended, on 25 March 2014, by [section 44(3)][1152] of the Electoral Amendment Act 2014 (2014 No 8).
+*   Schedule 2 form 7: amended, on 25 March 2014, by [section 44(3)][1153] of the Electoral Amendment Act 2014 (2014 No 8).
 *   Schedule 2 form 7: amended, on 1 October 2010, by [section 32(1)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Schedule 2 form 7: amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-*   Schedule 2 form 7: amended, on 28 February 2002, by [section 100(5)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 7: amended, on 28 February 2002, by [section 100(5)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 8  
 Notice of nomination day and polling day
@@ -13815,7 +13817,7 @@ Notice of nomination day and polling day
 
 \[Repealed\]
     
-*   Schedule 2 form 8: repealed, on 28 February 2002, by [section 100(6)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 8: repealed, on 28 February 2002, by [section 100(6)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 9  
 Nomination paper
@@ -13824,7 +13826,7 @@ Nomination paper
 
 \[Repealed\]
     
-*   Schedule 2 form 9: repealed, on 28 February 2002, by [section 100(6)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 9: repealed, on 28 February 2002, by [section 100(6)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 10  
 Notice of withdrawal of nomination
@@ -13864,7 +13866,7 @@ Ballot paper for general election
 
 \*Not to be printed as part of the form.
 
-*   Schedule 2 form 11: substituted, on 6 December 1995, by [section 89][1155] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 11: substituted, on 6 December 1995, by [section 89][1156] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 #### Form 12  
 Ballot paper for by-election
@@ -13889,7 +13891,7 @@ Vote by putting a tick in the circle immediately before the name of the candidat
 
 \*Not to be printed as part of the form.
 
-*   Schedule 2 form 12: substituted, on 6 December 1995, by [section 90][1156] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 12: substituted, on 6 December 1995, by [section 90][1157] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 #### Form 13  
 Counterfoil
@@ -13898,7 +13900,7 @@ Counterfoil
 
 ![. ](images/ElectoralSch2Form13.jpg)
     
-*   Schedule 2 form 13: substituted, on 6 December 1995, by [section 91][1157] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 13: substituted, on 6 December 1995, by [section 91][1158] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 #### Form 14  
 Declaration of result of poll
@@ -13951,7 +13953,7 @@ AB,
 Electoral Commissioner.
 
 *   Schedule 2 form 14: amended, on 1 October 2010, by [section 32(2)(a)][652] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-*   Schedule 2 form 14: amended, on 6 December 1995, by [section 92][1158] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 14: amended, on 6 December 1995, by [section 92][1159] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 #### Form 15  
 Working sheet in relation to candidates whose names are included in party lists
@@ -13993,25 +13995,25 @@ _the columns for each party_
 
 " 
 
-*   Schedule 2 form 15: amended, on 6 December 1995, by [section 93][1159] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
+*   Schedule 2 form 15: amended, on 6 December 1995, by [section 93][1160] of the Electoral Amendment Act (No 2) 1995 (1995 No 61).
 
 #### Form 16  
 Return of election expenses and election donations
 
-[s 210][1160]
+[s 210][1161]
 
 \[Repealed\]
     
-*   Schedule 2 form 16: repealed, on 28 February 2002, by [section 100(8)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 16: repealed, on 28 February 2002, by [section 100(8)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 17  
 Return of electorate donations
 
-[s 214H(1)(b)][1161]
+[s 214H(1)(b)][1162]
 
 \[Repealed\]
     
-*   Schedule 2 form 17: repealed, on 28 February 2002, by [section 100(8)][1151] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 2 form 17: repealed, on 28 February 2002, by [section 100(8)][1152] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ---
 
@@ -14030,7 +14032,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][1162]._
+_Amendment(s) incorporated in the [Act(s)][1163]._
 
 ##### Electoral Act 1956 (1956 No 109) (RS Vol 26, p 173)
 
@@ -14078,11 +14080,11 @@ _Amendment(s) incorporated in the [Act(s)][1162]._
 
 ##### Foreign Affairs Act 1988 (1988 No 159)
 
-_Amendment(s) incorporated in the [Act(s)][1163]._
+_Amendment(s) incorporated in the [Act(s)][1164]._
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1164]._
+_Amendment(s) incorporated in the [Act(s)][1165]._
 
 ##### New Zealand Trade Development Board Act 1988 (1988 No 160)
 
@@ -14090,11 +14092,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1165]._
+_Amendment(s) incorporated in the [Act(s)][1166]._
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][1166]._
+_Amendment(s) incorporated in the [Act(s)][1167]._
 
 Schedule 3 **Electoral Amendment Act 1993**: inserted, on 26 August 1993, by section 31 of the Electoral Amendment Act 1993 (1993 No 98).
 
@@ -14108,7 +14110,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electoral Amendment Act 2009][1167].
+*   This Act is the [Electoral Amendment Act 2009][1168].
 
 ##### 2 Commencement
     
@@ -14217,7 +14219,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electoral (Administration) Amendment Act 2010][1168].
+*   This Act is the [Electoral (Administration) Amendment Act 2010][1169].
 
 ##### 2 Commencement
     
@@ -14454,7 +14456,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electoral (Finance Reform and Advance Voting) Amendment Act 2010][1169].
+*   This Act is the [Electoral (Finance Reform and Advance Voting) Amendment Act 2010][1170].
 
 ##### 2 Commencement
     
@@ -14501,7 +14503,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electoral (Administration) Amendment Act 2011][1170].
+*   This Act is the [Electoral (Administration) Amendment Act 2011][1171].
 
 ##### 2 Commencement
     
@@ -14634,7 +14636,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electoral Amendment Act 2014][1171].
+*   This Act is the [Electoral Amendment Act 2014][1172].
 
 ##### 2 Commencement
     
@@ -14677,17 +14679,19 @@ Amendments to principal Act
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1172] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1173] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1173] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1174] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1174] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1175] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1175] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1176] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Electoral Amendment Act 2014][1171] (2014 No 8)
+*   [Electoral Amendment Act 2014][1172] (2014 No 8)
     
-    [Electoral Amendment Act 2013][1176] (2013 No 115)
+    [Electoral Amendment Act 2013][1177] (2013 No 115)
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][1012]
     
     Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][658]
     
@@ -14701,31 +14705,31 @@ Amendments to principal Act
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][715]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1126]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1127]
     
-    [Electoral (Administration) Amendment Act 2011][1170] (2011 No 57)
+    [Electoral (Administration) Amendment Act 2011][1171] (2011 No 57)
     
-    [Electoral (Finance Reform and Advance Voting) Amendment Act 2010][1169] (2010 No 137)
+    [Electoral (Finance Reform and Advance Voting) Amendment Act 2010][1170] (2010 No 137)
     
     [Electoral (Disqualification of Sentenced Prisoners) Amendment Act 2010][794] (2010 No 128)
     
-    [Electoral Amendment Act 2010][1177] (2010 No 63)
+    [Electoral Amendment Act 2010][1178] (2010 No 63)
     
-    [Electoral (Administration) Amendment Act 2010][1168] (2010 No 26)
+    [Electoral (Administration) Amendment Act 2010][1169] (2010 No 26)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][780]
     
-    [Electoral Amendment Act 2009][1167] (2009 No 1)
+    [Electoral Amendment Act 2009][1168] (2009 No 1)
     
     Policing Act 2008 (2008 No 72): [section 130(1)][734]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][660]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][1125]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][1126]
     
-    [Electoral Amendment Act 2007][1178] (2007 No 113)
+    [Electoral Amendment Act 2007][1179] (2007 No 113)
     
-    [Electoral Amendment Act 2005][1179] (2005 No 50)
+    [Electoral Amendment Act 2005][1180] (2005 No 50)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][776]
     
@@ -14735,7 +14739,7 @@ Amendments to principal Act
     
     Civil Union Act 2004 (2004 No 102): [section 46][814]
     
-    [Electoral Amendment Act 2004][1180] (2004 No 99)
+    [Electoral Amendment Act 2004][1181] (2004 No 99)
     
     Corrections Act 2004 (2004 No 50): section 206
     
@@ -14743,7 +14747,7 @@ Amendments to principal Act
     
     Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][654]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][1181]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][1182]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][653]
     
@@ -14751,11 +14755,11 @@ Amendments to principal Act
     
     Local Electoral Amendment Act 2002 (2002 No 85): [section 52][840]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [sections 3(3)][1136], [4(1)][724]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [sections 3(3)][1137], [4(1)][724]
     
     Sentencing Act 2002 (2002 No 9): [section 186][801]
     
-    [Electoral Amendment Act 2002][1182] (2002 No 1)
+    [Electoral Amendment Act 2002][1183] (2002 No 1)
     
     Electoral (Integrity) Amendment Act 2001 (2001 No 105)
     
@@ -14775,11 +14779,11 @@ Amendments to principal Act
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    [Electoral Amendment Act (No 2) 1996][1183] (1996 No 54)
+    [Electoral Amendment Act (No 2) 1996][1184] (1996 No 54)
     
     Domestic Violence Act 1995 (1995 No 86): [section 132][848]
     
-    [Electoral Amendment Act (No 2) 1995][1184] (1995 No 61)
+    [Electoral Amendment Act (No 2) 1995][1185] (1995 No 61)
     
     Electoral Amendment Act 1995 (1995 No 60)
     
@@ -15801,178 +15805,179 @@ Amendments to principal Act
 [1007]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093244
 [1008]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559806
 [1009]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1092860
-[1010]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM320887
+[1010]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM4632946
 [1011]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1092862
-[1012]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093245
-[1013]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3649606
-[1014]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093246
-[1015]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093247
-[1016]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559807
-[1017]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093248
-[1018]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093249
-[1019]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926430
-[1020]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093250
-[1021]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383735
-[1022]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093268
-[1023]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5179447
-[1024]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093270
-[1025]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093277
-[1026]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093283
-[1027]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093285
-[1028]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559809
-[1029]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093286
-[1030]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093287
-[1031]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093288
-[1032]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1092876
-[1033]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926431
-[1034]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093003
-[1035]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093004
-[1036]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383766
-[1037]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093005
-[1038]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926435
-[1039]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559811
-[1040]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093006
-[1041]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093007
-[1042]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093008
-[1043]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093009
-[1044]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383767
-[1045]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093010
-[1046]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093011
-[1047]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383768
-[1048]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093012
-[1049]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093013
-[1050]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926440
-[1051]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559812
-[1052]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093015
-[1053]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383769
-[1054]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093016
-[1055]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093017
-[1056]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093018
-[1057]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383771
-[1058]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093020
-[1059]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093025
-[1060]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383774
-[1061]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093026
-[1062]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3649607
-[1063]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093028
-[1064]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093029
-[1065]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093030
-[1066]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM348353
-[1067]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093031
-[1068]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093033
-[1069]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093035
-[1070]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926443
-[1071]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559813
-[1072]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093036
-[1073]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093038
-[1074]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559814
-[1075]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093037
-[1076]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093040
-[1077]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093042
-[1078]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559816
-[1079]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926444
-[1080]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093043
-[1081]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093044
-[1082]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093045
-[1083]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383775
-[1084]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5812104
-[1085]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093048
-[1086]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559818
-[1087]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093047
-[1088]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093049
-[1089]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559820
-[1090]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM199370
-[1091]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM396434
-[1092]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367635
-[1093]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833680
-[1094]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093369
-[1095]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926446
-[1096]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371012
-[1097]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3069608
-[1098]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833684
-[1099]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM318680
-[1100]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093302
-[1101]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093303
-[1102]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833687
-[1103]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383776
-[1104]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3360067
-[1105]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093300
-[1106]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833689
-[1107]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926448
-[1108]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833691
-[1109]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371014
-[1110]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM144692
-[1111]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559848
-[1112]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM261962
-[1113]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392944
-[1114]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371015
-[1115]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392945
-[1116]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367679
-[1117]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1440300
-[1118]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367636
-[1119]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM359106
-[1120]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3179936
-[1121]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM443683
-[1122]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM277432
-[1123]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2214228
-[1124]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131130
-[1125]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1313622
-[1126]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3180446
-[1127]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367637
-[1128]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093290
-[1129]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926449
-[1130]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559850
-[1131]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131133
-[1132]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833692
-[1133]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM433612
-[1134]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM94241
-[1135]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM32418
-[1136]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM167442
-[1137]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM16452
-[1138]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093373
-[1139]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM143291
-[1140]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446395
-[1141]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446842
-[1142]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446000
-[1143]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131135
-[1144]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310874
-[1145]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310884
-[1146]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310892
-[1147]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310894
-[1148]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM1562706
-[1149]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM311015
-[1150]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM311018
-[1151]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131137
-[1152]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559851
-[1153]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371018
-[1154]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM347672
-[1155]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371019
-[1156]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371020
-[1157]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371021
-[1158]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371022
-[1159]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371023
-[1160]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310304
-[1161]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310380
-[1162]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM79159
-[1163]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM138747
-[1164]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM114923
-[1165]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM163182
-[1166]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM98662
-[1167]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833600
-[1168]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2469700
-[1169]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926303
-[1170]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367601
-[1171]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559701
-[1172]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998516
-[1173]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998515
-[1174]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998532
-[1175]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1176]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5621800
-[1177]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3041900
-[1178]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093338
-[1179]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM347666
-[1180]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM322658
-[1181]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM214522
-[1182]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM128673
-[1183]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392933
-[1184]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM370803
+[1012]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5740665
+[1013]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093245
+[1014]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3649606
+[1015]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093246
+[1016]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093247
+[1017]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559807
+[1018]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093248
+[1019]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093249
+[1020]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926430
+[1021]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093250
+[1022]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383735
+[1023]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093268
+[1024]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5179447
+[1025]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093270
+[1026]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093277
+[1027]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093283
+[1028]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093285
+[1029]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559809
+[1030]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093286
+[1031]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093287
+[1032]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093288
+[1033]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1092876
+[1034]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926431
+[1035]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093003
+[1036]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093004
+[1037]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383766
+[1038]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093005
+[1039]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926435
+[1040]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559811
+[1041]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093006
+[1042]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093007
+[1043]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093008
+[1044]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093009
+[1045]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383767
+[1046]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093010
+[1047]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093011
+[1048]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383768
+[1049]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093012
+[1050]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093013
+[1051]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926440
+[1052]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559812
+[1053]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093015
+[1054]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383769
+[1055]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093016
+[1056]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093017
+[1057]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093018
+[1058]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383771
+[1059]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093020
+[1060]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093025
+[1061]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383774
+[1062]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093026
+[1063]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3649607
+[1064]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093028
+[1065]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093029
+[1066]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093030
+[1067]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM348353
+[1068]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093031
+[1069]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093033
+[1070]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093035
+[1071]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926443
+[1072]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559813
+[1073]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093036
+[1074]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093038
+[1075]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559814
+[1076]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093037
+[1077]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093040
+[1078]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093042
+[1079]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559816
+[1080]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926444
+[1081]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093043
+[1082]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093044
+[1083]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093045
+[1084]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383775
+[1085]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5812104
+[1086]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093048
+[1087]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559818
+[1088]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093047
+[1089]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093049
+[1090]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559820
+[1091]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM199370
+[1092]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM396434
+[1093]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367635
+[1094]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833680
+[1095]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093369
+[1096]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926446
+[1097]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371012
+[1098]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3069608
+[1099]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833684
+[1100]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM318680
+[1101]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093302
+[1102]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093303
+[1103]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833687
+[1104]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3383776
+[1105]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3360067
+[1106]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093300
+[1107]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833689
+[1108]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926448
+[1109]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833691
+[1110]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371014
+[1111]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM144692
+[1112]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559848
+[1113]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM261962
+[1114]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392944
+[1115]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371015
+[1116]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392945
+[1117]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367679
+[1118]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1440300
+[1119]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367636
+[1120]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM359106
+[1121]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3179936
+[1122]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM443683
+[1123]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM277432
+[1124]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2214228
+[1125]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131130
+[1126]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1313622
+[1127]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3180446
+[1128]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367637
+[1129]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093290
+[1130]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926449
+[1131]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559850
+[1132]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131133
+[1133]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833692
+[1134]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM433612
+[1135]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM94241
+[1136]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM32418
+[1137]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM167442
+[1138]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM16452
+[1139]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093373
+[1140]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM143291
+[1141]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446395
+[1142]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446842
+[1143]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM446000
+[1144]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131135
+[1145]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310874
+[1146]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310884
+[1147]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310892
+[1148]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310894
+[1149]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM1562706
+[1150]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM311015
+[1151]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM311018
+[1152]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM131137
+[1153]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559851
+[1154]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371018
+[1155]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM347672
+[1156]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371019
+[1157]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371020
+[1158]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371021
+[1159]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371022
+[1160]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM371023
+[1161]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310304
+[1162]: http://www.legislation.govt.nz/act/public/1993/0087/latest/whole.html#DLM310380
+[1163]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM79159
+[1164]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM138747
+[1165]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM114923
+[1166]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM163182
+[1167]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM98662
+[1168]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1833600
+[1169]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2469700
+[1170]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2926303
+[1171]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3367601
+[1172]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5559701
+[1173]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998516
+[1174]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998515
+[1175]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM2998532
+[1176]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1177]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM5621800
+[1178]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM3041900
+[1179]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM1093338
+[1180]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM347666
+[1181]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM322658
+[1182]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM214522
+[1183]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM128673
+[1184]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM392933
+[1185]: http://www.legislation.govt.nz/act/public/1993/0087/latest/link.aspx?id=DLM370803
