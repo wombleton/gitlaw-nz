@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -129,13 +129,15 @@ An Act to make provision with respect to public finances and other matters
     
     (2) The exemption in subsection (1) is subject to the condition that the Bank supplies to a holder of a unit or units in an approved unit trust, on request, a copy of---
         
-    *   (a) the unit trust's most recent financial statements registered under the [Financial Reporting Act 1993][24]; and
+    *   (a) the unit trust's most recent financial statements; and
     
     *   (b) the auditor's report on those financial statements; and
     
     *   (c) a summary of any amendments of the trust deed that have been made since the last balance date of the unit trust.
     
-    Section 8: substituted, on 1 October 1997, by [section 3][25] of the Finance Act (No 2) 1990 Amendment Act 1997 (1997 No 73).
+    Section 8: substituted, on 1 October 1997, by [section 3][24] of the Finance Act (No 2) 1990 Amendment Act 1997 (1997 No 73).
+    
+    Section 8(2)(a): amended, on 1 April 2014, by [section 126][25] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 9 Application of Gambling Act 2003
     
@@ -191,7 +193,7 @@ An Act to make provision with respect to public finances and other matters
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][34] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][35] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][34] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][35] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -199,7 +201,9 @@ An Act to make provision with respect to public finances and other matters
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][19]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][25]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][19]
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][32]
     
@@ -237,10 +241,10 @@ An Act to make provision with respect to public finances and other matters
 [19]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM2998633
 [20]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM325460
 [21]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM162942
-[22]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM325453
+[22]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM4722900
 [23]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM406372
-[24]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM323597
-[25]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM412333
+[24]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM412333
+[25]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM5740665
 [26]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM207496
 [27]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM210735
 [28]: http://www.legislation.govt.nz/act/public/1990/0073/latest/link.aspx?id=DLM29138
