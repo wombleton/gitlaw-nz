@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1061,7 +1061,7 @@ Training levies
     
 *   (1) As soon as is practicable after the end of a financial year during which a levy has been paid to an industry training organisation under a levy order, the organisation---
         
-    *   (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice; and
+    *   (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice (within the meaning of [section 8][103] of the Financial Reporting Act 2013); and
     
     *   (b) must include in the financial statements required by paragraph (a) all the necessary information to explain---
             
@@ -1084,6 +1084,8 @@ Training levies
     (6) An industry training organisation that is required by subsection (3) to include financial statements in its annual report must take all reasonable steps to ensure that every person primarily liable for paying the levy that is reflected in those financial statements receives a copy of the annual report as soon as is reasonably practicable after the report has been completed.
     
     Section 46: added, on 1 January 2003, by [section 16][98] of the Industry Training Amendment Act 2002 (2002 No 51).
+    
+    Section 46(1)(a): amended, on 1 April 2014, by [section 126][104] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 47 Duty to protect commercially sensitive information
     
@@ -1149,7 +1151,7 @@ Training levies
         
     *   (a) has not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][103] of the Legislation Act 2012\.
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][105] of the Legislation Act 2012\.
     
     (2) If subsection (1) applies to a levy order, the order is deemed to be revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
     
@@ -1157,7 +1159,7 @@ Training levies
         
     *   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][103] of the Legislation Act 2012\.
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][105] of the Legislation Act 2012\.
     
     (4) If subsection (3) applies to a levy order, the order is deemed to be revoked with the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed on or before that day.
     
@@ -1165,7 +1167,7 @@ Training levies
         
     *   (a) revoked; or
     
-    *   (b) disallowed under [Part 3][103] of the Legislation Act 2012; or
+    *   (b) disallowed under [Part 3][105] of the Legislation Act 2012; or
     
     *   (c) confirmed by an Act of Parliament.
     
@@ -1183,7 +1185,7 @@ Training levies
         
     *   (a) revoked; or
     
-    *   (b) disallowed under [Part 3][103] of the Legislation Act 2012\.
+    *   (b) disallowed under [Part 3][105] of the Legislation Act 2012\.
     
     (2) A levy order is deemed to be revoked if the industry training organisation responsible for administering the levy ceases to be recognised.
     
@@ -1204,19 +1206,19 @@ Consequential repeals
 
 ##### Education Amendment Act 1990 (1990 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][104]_.
+_Amendment(s) incorporated in the [Act(s)][106]_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8) (RS Vol 21, p 579)
 
-_Amendment(s) incorporated in the [Act(s)][105]_.
+_Amendment(s) incorporated in the [Act(s)][107]_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][106]_.
+_Amendment(s) incorporated in the [Act(s)][108]_.
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][107]_.
+_Amendment(s) incorporated in the [Act(s)][109]_.
 
 ---
 
@@ -1275,7 +1277,7 @@ Matters to be specified in levy orders
 
 [ss 28][36], [36][45]
 
-*   Schedule 4: added, on 1 January 2003, by [section 19][108] of the Industry Training Amendment Act 2002 (2002 No 51).
+*   Schedule 4: added, on 1 January 2003, by [section 19][110] of the Industry Training Amendment Act 2002 (2002 No 51).
 
 #### To whom levy is payable and who pays
     
@@ -1369,15 +1371,17 @@ Matters to be specified in levy orders
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][109] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][110] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][111] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][112] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][111] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][112] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][113] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][114] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][101]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][104]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][101]
     
     Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106): [sections 49--52][76]
     
@@ -1494,13 +1498,15 @@ Matters to be specified in levy orders
 [100]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998573
 [101]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998633
 [102]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM166958
-[103]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998557
-[104]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM212682
-[105]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM101358
-[106]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM130770
-[107]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM135633
-[108]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM166960
-[109]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998516
-[110]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998515
-[111]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998532
-[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[103]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM4632894
+[104]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM5740665
+[105]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998557
+[106]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM212682
+[107]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM101358
+[108]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM130770
+[109]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM135633
+[110]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM166960
+[111]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998516
+[112]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998515
+[113]: http://www.legislation.govt.nz/act/public/1992/0055/latest/link.aspx?id=DLM2998532
+[114]: http://www.pco.parliament.govt.nz/editorial-conventions/
