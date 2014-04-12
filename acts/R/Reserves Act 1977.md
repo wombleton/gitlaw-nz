@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -131,253 +131,255 @@ This Act is administered by the Department of Conservation.
 
 [39A][52][][52][Annual financial statements][52]
 
-[Functions of administering body][53]
+[39B][53][][53][Financial statements may comply with standards rather than generally accepted accounting practice][53]
 
-[40][54][][54][Functions of administering body][54]
+[Functions of administering body][54]
 
-[40A][55][][55][Conservation management strategies][55]
+[40][55][][55][Functions of administering body][55]
 
-[40B][56][][56][Conservation management plans in respect of reserves administered by Department][56]
+[40A][56][][56][Conservation management strategies][56]
 
-[41][57][][57][Management plans][57]
+[40B][57][][57][Conservation management plans in respect of reserves administered by Department][57]
 
-[General powers of Minister and of administering body][58]
+[41][58][][58][Management plans][58]
 
-[42][59][][59][Preservation of trees and bush][59]
+[General powers of Minister and of administering body][59]
 
-[43][60][][60][Fencing and maintenance of reserves][60]
+[42][60][][60][Preservation of trees and bush][60]
 
-[44][61][][61][Unauthorised use of reserve][61]
+[43][61][][61][Fencing and maintenance of reserves][61]
 
-[45][62][][62][Erection of shelters, huts, cabins, and lodges][62]
+[44][62][][62][Unauthorised use of reserve][62]
 
-[46][63][][63][Grant of rights to Maoris][63]
+[45][63][][63][Erection of shelters, huts, cabins, and lodges][63]
 
-[47][64][][64][Wilderness areas][64]
+[46][64][][64][Grant of rights to Maori][64]
 
-[48][65][][65][Grants of rights of way and other easements][65]
+[47][65][][65][Wilderness areas][65]
 
-[48A][66][][66][Use of reserve for communications station][66]
+[48][66][][66][Grants of rights of way and other easements][66]
 
-[49][67][][67][Taking of specimens][67]
+[48A][67][][67][Use of reserve for communications station][67]
 
-[50][68][][68][Taking or killing of fauna][68]
+[49][68][][68][Taking of specimens][68]
 
-[51][69][][69][Introduction of flora and fauna][69]
+[50][69][][69][Taking or killing of fauna][69]
 
-[51A][70][][70][Introduction of biological control organisms][70]
+[51][70][][70][Introduction of flora and fauna][70]
 
-[52][71][][71][Union of reserves][71]
+[51A][71][][71][Introduction of biological control organisms][71]
 
-[Particular powers of Minister and administering body][72]
+[52][72][][72][Union of reserves][72]
 
-[53][73][][73][Powers (other than leasing) in respect of recreation reserves][73]
+[Particular powers of Minister and administering body][73]
 
-[54][74][][74][Leasing powers in respect of recreation reserves (except farming, grazing, or afforestation leases)][74]
+[53][74][][74][Powers (other than leasing) in respect of recreation reserves][74]
 
-[55][75][][75][Powers (other than leasing) in respect of scenic reserves][75]
+[54][75][][75][Leasing powers in respect of recreation reserves (except farming, grazing, or afforestation leases)][75]
 
-[56][76][][76][Leasing powers in respect of scenic reserves][76]
+[55][76][][76][Powers (other than leasing) in respect of scenic reserves][76]
 
-[57][77][][77][Powers in respect of nature reserves][77]
+[56][77][][77][Leasing powers in respect of scenic reserves][77]
 
-[58][78][][78][Powers in respect of historic reserves][78]
+[57][78][][78][Powers in respect of nature reserves][78]
 
-[58A][79][][79][Leasing powers in respect of historic reserves][79]
+[58][79][][79][Powers in respect of historic reserves][79]
 
-[59][80][][80][Powers in respect of scientific reserves][80]
+[58A][80][][80][Leasing powers in respect of historic reserves][80]
 
-[59A][81][][81][Granting of concessions on reserves administered by Crown][81]
+[59][81][][81][Powers in respect of scientific reserves][81]
 
-[60][82][][82][Powers in respect of government purpose reserves][82]
+[59A][82][][82][Granting of concessions on reserves administered by Crown][82]
 
-[61][83][][83][Powers (including leasing) in respect of local purpose reserves][83]
+[60][83][][83][Powers in respect of government purpose reserves][83]
 
-[61A][84][][84][Leases in respect of reserves for aerodrome purposes][84]
+[61][84][][84][Powers (including leasing) in respect of local purpose reserves][84]
 
-[62][85][][85][Powers of Commissioner][85]
+[61A][85][][85][Leases in respect of reserves for aerodrome purposes][85]
 
-[63][86][][86][Reserves not vested in the Crown][86]
+[62][86][][86][Powers of Commissioner][86]
 
-[64][87][][87][Administering body may purchase land on deferred payments][87]
+[63][87][][87][Reserves not vested in the Crown][87]
 
-[Special provisions as to recreation reserves set apart for racecourse purposes][88]
+[64][88][][88][Administering body may purchase land on deferred payments][88]
 
-[65][89][][89][Bylaws][89]
+[Special provisions as to recreation reserves set apart for racecourse purposes][89]
 
-[66][90][][90][Club may use reserve on conditions][90]
+[65][90][][90][Bylaws][90]
 
-[67][91][][91][Leasing][91]
+[66][91][][91][Club may use reserve on conditions][91]
 
-[68][92][][92][Application of revenue][92]
+[67][92][][92][Leasing][92]
 
-[69][93][][93][Annual statement of accounts and report][93]
+[68][93][][93][Application of revenue][93]
 
-[70][94][][94][Special Acts dealing with racecourse reserves to be read subject to this Act][94]
+[69][94][][94][Annual statement of accounts and report][94]
 
-[Farming and other leases][95]
+[70][95][][95][Special Acts dealing with racecourse reserves to be read subject to this Act][95]
 
-[71][96][][96][Farming by administering body][96]
+[Farming and other leases][96]
 
-[72][97][][97][Farming by another person or body][97]
+[71][97][][97][Farming by administering body][97]
 
-[73][98][][98][Leasing of recreation reserves for farming, grazing, afforestation, or other purposes][98]
+[72][98][][98][Farming by another person or body][98]
 
-[74][99][][99][Licences to occupy reserves temporarily][99]
+[73][99][][99][Leasing of recreation reserves for farming, grazing, afforestation, or other purposes][99]
 
-[Afforestation][100]
+[74][100][][100][Licences to occupy reserves temporarily][100]
 
-[75][101][][101][Afforestation by administering body][101]
+[Afforestation][101]
 
-[Protected private land, and conservation covenants][102]
+[75][102][][102][Afforestation by administering body][102]
 
-[76][103][][103][Declaration of protected private land][103]
+[Protected private land, and conservation covenants][103]
 
-[77][104][][104][Conservation covenants][104]
+[76][104][][104][Declaration of protected private land][104]
 
-[77A][105][][105][Nga Whenua Rahui kawenata][105]
+[77][105][][105][Conservation covenants][105]
 
-[Part 4][106]  
-[Financial provisions][106]
+[77A][106][][106][Nga Whenua Rahui kawenata][106]
 
-[78][107][][107][Application of revenue from reserves][107]
+[Part 4][107]  
+[Financial provisions][107]
 
-[79][108][][108][Funds of administering bodies][108]
+[78][108][][108][Application of revenue from reserves][108]
 
-[80][109][][109][Expenditure of funds][109]
+[79][109][][109][Funds of administering bodies][109]
 
-[81][110][][110][Unauthorised expenditure][110]
+[80][110][][110][Expenditure of funds][110]
 
-[82][111][][111][Application of proceeds of land where reservation revoked][111]
+[81][111][][111][Unauthorised expenditure][111]
 
-[83][112][][112][Application of proceeds from exchange][112]
+[82][112][][112][Application of proceeds of land where reservation revoked][112]
 
-[84][113][][113][Minister may authorise diversion of money][113]
+[83][113][][113][Application of proceeds from exchange][113]
 
-[85][114][][114][Minister may authorise expenditure of money on land that is not a reserve][114]
+[84][114][][114][Minister may authorise diversion of money][114]
 
-[85A][115][][115][Minister may authorise certain administering bodies to spend proceeds from certain reserves for other purposes][115]
+[85][115][][115][Minister may authorise expenditure of money on land that is not a reserve][115]
 
-[86][116][][116][Payment of rates on Maori reservations][116]
+[85A][116][][116][Minister may authorise certain administering bodies to spend proceeds from certain reserves for other purposes][116]
 
-[87][117][][117][Payment of rates on protected private land][117]
+[86][117][][117][Payment of rates on Maori reservations][117]
 
-[88][118][][118][Annual statement and audit of accounts][118]
+[87][118][][118][Payment of rates on protected private land][118]
 
-[88A][119][][119][Crown entities][119]
+[88][119][][119][Financial statements and audit][119]
 
-[89][120][][120][Contributions and advances by local authorities][120]
+[88A][120][][120][Crown entities][120]
 
-[90][121][][121][Borrowing powers of administering body][121]
+[89][121][][121][Contributions and advances by local authorities][121]
 
-[91][122][][122][Administering body may have debit in accounts in anticipation of revenue][122]
+[90][122][][122][Borrowing powers of administering body][122]
 
-[92][123][][123][Relief of lessees and licensees of reserves][123]
+[91][123][][123][Administering body may have debit in accounts in anticipation of revenue][123]
 
-[Part 5][124]  
-[Miscellaneous provisions][124]
+[92][124][][124][Relief of lessees and licensees of reserves][124]
 
-[Offences][125]
+[Part 5][125]  
+[Miscellaneous provisions][125]
 
-[93][126][][126][Powers of constables, rangers, and other officers][126]
+[Offences][126]
 
-[94][127][][127][Offences on reserves][127]
+[93][127][][127][Powers of constables, rangers, and other officers][127]
 
-[95][128][][128][Seizure and forfeiture of property][128]
+[94][128][][128][Offences on reserves][128]
 
-[96][129][][129][Trespassing animals][129]
+[95][129][][129][Seizure and forfeiture of property][129]
 
-[97][130][][130][Damage by fire][130]
+[96][130][][130][Trespassing animals][130]
 
-[98][131][][131][Offences with respect to officers or rangers][131]
+[97][131][][131][Damage by fire][131]
 
-[99][132][][132][Time for filing charging document][132]
+[98][132][][132][Offences with respect to officers or rangers][132]
 
-[100][133][][133][Stopping and searching of boats][133]
+[99][133][][133][Time for filing charging document][133]
 
-[100A][134][][134][Removal of boats in certain circumstances][134]
+[100][134][][134][Stopping and searching of boats][134]
 
-[101][135][][135][Proceedings in respect of offences][135]
+[100A][135][][135][Removal of boats in certain circumstances][135]
 
-[102][136][][136][Evidence of offences][136]
+[101][136][][136][Proceedings in respect of offences][136]
 
-[102A][137][][137][Penalties for certain offences][137]
+[102][137][][137][Evidence of offences][137]
 
-[102B][138][][138][Penalties for offences committed for commercial gain or reward][138]
+[102A][138][][138][Penalties for certain offences][138]
 
-[103][139][][139][Penalties][139]
+[102B][139][][139][Penalties for offences committed for commercial gain or reward][139]
 
-[104][140][][140][Penalty for breach of bylaws][140]
+[103][140][][140][Penalties][140]
 
-[104A][141][][141][Sentence of community work][141]
+[104][141][][141][Penalty for breach of bylaws][141]
 
-[105][142][][142][Application of fines][142]
+[104A][142][][142][Sentence of community work][142]
 
-[Bylaws][143]
+[105][143][][143][Application of fines][143]
 
-[106][144][][144][Bylaws][144]
+[Bylaws][144]
 
-[107][145][][145][Procedure for making bylaws][145]
+[106][145][][145][Bylaws][145]
 
-[108][146][][146][Bylaws to be approved by Minister][146]
+[107][146][][146][Procedure for making bylaws][146]
 
-[Mining][147]
+[108][147][][147][Bylaws to be approved by Minister][147]
 
-[109][148][][148][Application of Mining Act 1971 and Coal Mines Act 1925 to reserves][148]
+[Mining][148]
 
-[General provisions][149]
+[109][149][][149][Application of Mining Act 1971 and Coal Mines Act 1925 to reserves][149]
 
-[110][150][][150][Removal and disposal of vehicles and boats][150]
+[General provisions][150]
 
-[111][151][][151][Road reserve may be dedicated as a road][151]
+[110][151][][151][Removal and disposal of vehicles and boats][151]
 
-[112][152][][152][District Land Registrar not to give effect to dealings not in conformity with trusts][152]
+[111][152][][152][Road reserve may be dedicated as a road][152]
 
-[113][153][][153][Form of leases and licences of reserves][153]
+[112][153][][153][District Land Registrar not to give effect to dealings not in conformity with trusts][153]
 
-[114][154][][154][Variation of covenants, terms, and conditions in leases and licences][154]
+[113][154][][154][Form of leases and licences of reserves][154]
 
-[115][155][][155][Transfers, subleases, and mortgages][155]
+[114][155][][155][Variation of covenants, terms, and conditions in leases and licences][155]
 
-[116][156][][156][Certificate of title in respect of reserves][156]
+[115][156][][156][Transfers, subleases, and mortgages][156]
 
-[117][157][][157][Commissioner may execute documents on behalf of the Crown][157]
+[116][157][][157][Certificate of title in respect of reserves][157]
 
-[118][158][][158][Commissioner may act in proceedings on behalf of the Crown][158]
+[117][158][][158][Commissioner may execute documents on behalf of the Crown][158]
 
-[119][159][][159][Notices][159]
+[118][159][][159][Commissioner may act in proceedings on behalf of the Crown][159]
 
-[120][160][][160][Rights of objection and of making submissions][160]
+[119][160][][160][Notices][160]
 
-[121][161][][161][Minister may give conditional consent or approval][161]
+[120][161][][161][Rights of objection and of making submissions][161]
 
-[122][162][][162][Special provisions as to reserves administered under Tourist and Health Resorts Control Act 1908][162]
+[121][162][][162][Minister may give conditional consent or approval][162]
 
-[122A][163][][163][Control of dogs][163]
+[122][163][][163][Special provisions as to reserves administered under Tourist and Health Resorts Control Act 1908][163]
 
-[123][164][][164][Regulations][164]
+[122A][164][][164][Control of dogs][164]
 
-[124][165][][165][Amendments][165]
+[123][165][][165][Regulations][165]
 
-[125][166][][166][Repeals][166]
+[124][166][][166][Amendments][166]
 
-[Schedule 1][167]  
-[Basic provisions applicable to leases or licences of recreation reserves and scenic reserves][167]
+[125][167][][167][Repeals][167]
 
-[Schedule 2][168]  
-[Enactments amended][168]
+[Schedule 1][168]  
+[Basic provisions applicable to leases or licences of recreation reserves and scenic reserves][168]
 
-[Schedule 3][169]  
-[Enactments repealed][169]
+[Schedule 2][169]  
+[Enactments amended][169]
 
-[Schedule 4][170]  
-[Land that may be held as reserve][170]
+[Schedule 3][170]  
+[Enactments repealed][170]
+
+[Schedule 4][171]  
+[Land that may be held as reserve][171]
 
 ---
 
 An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
     
-*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][171] of the Constitution Act 1986 (1986 No 114).
+*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][172] of the Constitution Act 1986 (1986 No 114).
 
 ##### 1 Short Title and commencement
     
@@ -395,13 +397,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _animal_ means any mammal, bird, reptile, amphibian, fish (including shellfish) or related organism, insect, crustacean, or organism of every kind; but does not include a human being
     
-    _Authority_ means the New Zealand Conservation Authority established under [section 6A][172] of the [Conservation Act 1987][173]
+    _applicable financial reporting standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013
+    
+    _Authority_ means the New Zealand Conservation Authority established under [section 6A][173] of the [Conservation Act 1987][174]
     
     _board_ means any reserves board, trust, trust board, or other special board appointed under this Act or any corresponding former Act
     
     _boat_ means every description of vessel (including barges, rafts, lighters, and like vessels) used in navigation, however propelled
     
-    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][174]
+    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][175]
     
     _Commissioner_, in relation to any reserve, means an officer designated by the Director-General for the purposes of this Act
     
@@ -417,7 +421,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         *   (iv) an easement---
         
-        granted under [section 59A][81]; and
+        granted under [section 59A][82]; and
     
     *   (b) includes any activity authorised by the concession document
     
@@ -431,17 +435,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (d) the grantee of an easement---
     
-    under [section 59A][81]
+    under [section 59A][82]
     
-    _conservation board_ means a conservation board established under [section 6L][175] of the Conservation Act 1987
+    _conservation board_ means a conservation board established under [section 6L][176] of the Conservation Act 1987
     
-    _conservation management plan_ means a conservation management plan approved under [section 40B][56]
+    _conservation management plan_ means a conservation management plan approved under [section 40B][57]
     
-    _conservation management strategy_ means a conservation management strategy approved under [section 17F][176] of the Conservation Act 1987
+    _conservation management strategy_ means a conservation management strategy approved under [section 17F][177] of the Conservation Act 1987
     
-    _Crown land_ has the same meaning as in the [Land Act 1948][177]
+    _Crown land_ has the same meaning as in the [Land Act 1948][178]
     
-    _Crown lease_ means any lease or licence granted under the [Land Act 1948][177] or under any former Land Act; and _lessee_, in relation to any Crown land, has a corresponding meaning
+    _Crown lease_ means any lease or licence granted under the [Land Act 1948][178] or under any former Land Act; and _lessee_, in relation to any Crown land, has a corresponding meaning
     
     _Department_ means the Department of Conservation
     
@@ -449,11 +453,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _fauna_ means animals of any kind
     
+    _financial statements_ has the same meaning as in section 6 of the Financial Reporting Act 2013
+    
     _flora_ means plants of any kind
     
     _foreshore_ means all land lying between the high-water mark of the sea at ordinary spring tides and its low-water mark at ordinary spring tides
     
-    _Land Settlement Board_ means the Land Settlement Board established by the [Land Act 1948][177]
+    _generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013
+    
+    _Land Settlement Board_ means the Land Settlement Board established by the [Land Act 1948][178]
     
     _lease_, in relation to a reserve vested in the Crown,---
         
@@ -467,9 +475,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
             
             
         
-        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][178] of the Reserves Amendment Act 1996:
+        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][179] of the Reserves Amendment Act 1996:
         
-        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][178]; but
+        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][179]; but
         
         
     
@@ -489,11 +497,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) includes---
             
-        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to reserves that was passed before the commencement of [section 2][178] of the Reserves Amendment Act 1996; and
+        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to reserves that was passed before the commencement of [section 2][179] of the Reserves Amendment Act 1996; and
         
-        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][178] or issued under any other enactment relating to reserves that was passed before that date; and
+        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][179] or issued under any other enactment relating to reserves that was passed before that date; and
         
-        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][178];---
+        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][179];---
         
         
     
@@ -511,19 +519,21 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _manawhenua_ means customary authority exercised by an iwi or hapu or individual in an identified area
     
-    _Maori_ and _Maori land_ have the same meanings as in [Te Ture Whenua Maori Act 1993][179]
+    _Maori_ and _Maori land_ have the same meanings as in [Te Ture Whenua Maori Act 1993][180]
     
-    _Maori reservation_ means a Maori reservation constituted under [section 338][180] of Te Ture Whenua Maori Act 1993 or the corresponding provisions of any former Act
+    _Maori reservation_ means a Maori reservation constituted under [section 338][181] of Te Ture Whenua Maori Act 1993 or the corresponding provisions of any former Act
     
     _Minister_ means the Minister of Conservation
     
     _New Zealand Historic Places Trust_ means the New Zealand Historic Places Trust established by the Historic Places Act 1954
     
-    _Nga Whenua Rahui kawenata_ means an agreement entered into under [section 77A][105]
+    _Nga Whenua Rahui kawenata_ means an agreement entered into under [section 77A][106]
+    
+    _non-GAAP standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013
     
     _owner_, in relation to any land, means the person who is the owner of an estate in fee simple in the land; and, in relation to Crown land that is subject to a lease or licence, means the lessee or licensee
     
-    _permit_, in relation to [section 59A][81],---
+    _permit_, in relation to [section 59A][82],---
         
     *   (a) means a grant of rights to carry out an activity that does not require an interest in land; and
     
@@ -533,9 +543,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _plant_ means any angiosperm, gymnosperm, fern, or fern ally; and includes any moss, liverwort, algae, fungus, or related organism
     
-    _private land_ means any land which is for the time being held in fee simple by any person other than Her Majesty; and includes any Maori land
+    _private land_ means any land which is for the time being held in fee simple by any person other than the Sovereign; and includes any Maori land
     
-    _protected New Zealand object_ has the same meaning as in the [Protected Objects Act 1975][181]
+    _protected New Zealand object_ has the same meaning as in the [Protected Objects Act 1975][182]
     
     _racecourse reserve_ means a recreation reserve within the meaning of this Act set apart for racecourse purposes; and includes any reserve within the meaning of this Act set apart as a racecourse reserve under any former Act
     
@@ -545,13 +555,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _ranger_ means any person appointed or deemed to be appointed under [section 8][11] as a ranger for the purposes of this Act
     
-    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][182]
+    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][183]
     
     _reserve_ or _public reserve_, except as hereinafter provided in this definition, means any land set apart for any public purpose; and includes---
         
     *   (a) any land which immediately before the commencement of this Act was a public reserve within the meaning of the Reserves and Domains Act 1953:
     
-    *   (b) any land vested in the Crown which after the commencement of this Act is reserved or set apart under [Part 12][183] of the Land Act 1948 or other lawful authority as a reserve, or alienated from the Crown for the purpose of a reserve:
+    *   (b) any land vested in the Crown which after the commencement of this Act is reserved or set apart under [Part 12][184] of the Land Act 1948 or other lawful authority as a reserve, or alienated from the Crown for the purpose of a reserve:
     
     *   (c) any land which after the commencement of this Act is vested in the Crown by or under the authority of any Act as a reserve:
     
@@ -563,21 +573,23 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (g) any land which immediately before the commencement of this Act was a domain or public domain within the meaning of the Reserves and Domains Act 1953:
     
-    *   (h) any land, other than a national park within the meaning of the [National Parks Act 1980][184], administered under the [Tourist and Health Resorts Control Act 1908][185]:
+    *   (h) any land, other than a national park within the meaning of the [National Parks Act 1980][185], administered under the [Tourist and Health Resorts Control Act 1908][186]:
     
-    *   (i) any land taken or otherwise acquired or set apart by the Crown under the [Public Works Act 1981][186] or any corresponding former Act, whether before or after the commencement of this Act, for the purposes of a reserve, a recreation ground, a pleasure ground, an agricultural showground, or a tourist and health resort:
+    *   (i) any land taken or otherwise acquired or set apart by the Crown under the [Public Works Act 1981][187] or any corresponding former Act, whether before or after the commencement of this Act, for the purposes of a reserve, a recreation ground, a pleasure ground, an agricultural showground, or a tourist and health resort:
     
     but does not include---
         
-    *   (j) any land taken or otherwise acquired or set apart under the [Public Works Act 1981][186] or any corresponding former Act, whether before or after the commencement of this Act, for any purpose not specified in paragraph (i):
+    *   (j) any land taken or otherwise acquired or set apart under the [Public Works Act 1981][187] or any corresponding former Act, whether before or after the commencement of this Act, for any purpose not specified in paragraph (i):
     
-    *   (k) any land to which [section 167(4)][187] of the Land Act 1948 applies:
+    *   (k) any land to which [section 167(4)][188] of the Land Act 1948 applies:
     
     *   (l) any land taken, purchased, or otherwise in any manner acquired, whether before or after the commencement of this Act, by a local authority, unless the land is acquired subject to a trust or a condition that it shall be held by the local authority as a reserve:
     
     *   (m) any Maori reservation
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][182]
+    _specified not-for-profit entity_ has the same meaning as in section 46 of the Financial Reporting Act 2013
+    
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][183]
     
     _trustees_ includes a body corporate
     
@@ -587,77 +599,87 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _wharf_ includes all wharves, quays, piers, and jetties on or from which passengers or goods may be taken on board or landed from boats
     
-    _wildlife_ means all animals that are living in a wild state; but does not include any animals of any species for the time being specified in [Schedule 6][188] of the Wildlife Act 1953\.
+    _wildlife_ means all animals that are living in a wild state; but does not include any animals of any species for the time being specified in [Schedule 6][189] of the Wildlife Act 1953\.
     
     (2) Any land, whether Crown land or not, shall be deemed to be set apart for a public purpose within the meaning of this Act if it is granted, reserved, or set apart or purchased or given or dedicated in any lawful manner, whether by or pursuant to any Act, or by will, or by deed, or by other like instrument, for the use, benefit, enjoyment, safety, or defence of the people of New Zealand or the inhabitants of any district or locality therein.
     
     Compare: 1953 No 69 s 2
     
-    Section 2(1) **activity**: inserted, on 1 July 1996, by [section 2(1)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **activity**: inserted, on 1 July 1996, by [section 2(1)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 2(1) **administering body**: amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **administering body**: amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **antiquity**: repealed, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 2(1) **antiquity**: repealed, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 2(1) **Authority**: inserted, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **certified aerodrome**: inserted, on 1 July 1996, by [section 2(2)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **Authority**: inserted, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Commissioner**: substituted, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **certified aerodrome**: inserted, on 1 July 1996, by [section 2(2)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 2(1) **concession** or **concession document**: inserted, on 1 July 1996, by [section 2(3)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **Commissioner**: replaced, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **concessionaire**: inserted, on 1 July 1996, by [section 2(3)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **concession** or **concession document**: inserted, on 1 July 1996, by [section 2(3)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 2(1) **conservation board**: inserted, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **concessionaire**: inserted, on 1 July 1996, by [section 2(3)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation board**: inserted, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Department**: amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Director-General**: substituted, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Department**: amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **lease**: inserted, on 1 July 1996, by [section 2(4)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **Director-General**: replaced, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **licence**: inserted, on 1 July 1996, by [section 2(4)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **financial statements**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **lease**: inserted, on 1 July 1996, by [section 2(4)][179] of the Reserves Amendment Act 1996 (1996 No 3).
+    
+    Section 2(1) **licence**: inserted, on 1 July 1996, by [section 2(4)][179] of the Reserves Amendment Act 1996 (1996 No 3).
+    
+    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(1) **manawhenua**: inserted, on 24 March 1993, by section 2 of the Reserves Amendment Act 1993 (1993 No 8).
     
-    Section 2(1) **Maori** and **Maori land**: amended, on 1 July 1993, pursuant to [section 362(2)][193] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **Maori** and **Maori land**: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 2(1) **Maori reservation**: amended, on 1 July 1993, pursuant to [section 362(2)][193] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **Maori reservation**: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **National Parks and Reserves Authority**: repealed, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **National Parks and Reserves Authority**: repealed, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Nature Conservation Council**: repealed, on 10 April 1990, by [section 91][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Nature Conservation Council**: repealed, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **Nga Whenua Rahui kawenata**: inserted, on 24 March 1993, by section 2 of the Reserves Amendment Act 1993 (1993 No 8).
     
-    Section 2(1) **permit**: inserted, on 1 July 1996, by [section 2(5)][178] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 2(1) **non-GAAP standard**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **protected New Zealand object**: inserted, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 2(1) **permit**: inserted, on 1 July 1996, by [section 2(5)][179] of the Reserves Amendment Act 1996 (1996 No 3).
+    
+    Section 2(1) **protected New Zealand object**: inserted, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 2(1) **ranger**: inserted, on 27 December 1983, by section 2 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 2(1) **regional council**: inserted, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **regional council**: inserted, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (h): amended, on 1 April 1981, pursuant to [section 80(2)][194] of the National Parks Act 1980 (1980 No 66).
+    Section 2(1) **reserve** or **public reserve** paragraph (h): amended, on 1 April 1981, pursuant to [section 80(2)][196] of the National Parks Act 1980 (1980 No 66).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (i): substituted, on 1 January 1980, by section 2(1) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 2(1) **reserve** or **public reserve** paragraph (i): replaced, on 1 January 1980, by section 2(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (i): amended, on 1 February 1982, pursuant to [section 248(1)][195] of the Public Works Act 1981 (1981 No 35).
+    Section 2(1) **reserve** or **public reserve** paragraph (i): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 February 1982, pursuant to [section 248(1)][195] of the Public Works Act 1981 (1981 No 35).
+    Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
     
     Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 January 1980, by section 2(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **specified not-for-profit entity**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **territorial authority**: replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 ## Part 1  
 Administration
@@ -686,7 +708,7 @@ Administration
     
     (2) In the exercise of its administration of this Act, the Department may take any action approved or directed from time to time by the Minister so far as it is consistent with this Act or is provided for in any other Act and is not inconsistent with this Act.
     
-    Section 3(1): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 3(1): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
 
 ##### 4 Minister may require reports as to land to be reserved or otherwise protected
     
@@ -694,9 +716,9 @@ Administration
     
     provided that no excavation or other activities may be made or carried on on any private land or any Crown land subject to a Crown lease without the consent of the owner of the land first being obtained:
     
-    provided also that no excavation or other activities shall be made or carried on that would contravene the provisions of the [Historic Places Act 1993][196].
+    provided also that no excavation or other activities shall be made or carried on that would contravene the provisions of the [Historic Places Act 1993][198].
     
-    (2) Where any such land is Crown land, it may be set apart as a reserve under [section 167][187] of the Land Act 1948\.
+    (2) Where any such land is Crown land, it may be set apart as a reserve under [section 167][188] of the Land Act 1948\.
     
     (3) Without limiting the generality of subsection (1), every New Zealand wide---
         
@@ -710,11 +732,11 @@ Administration
     
     Compare: 1953 No 69 ss 57, 67
     
-    Section 4(1) second proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 4(1) second proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 5 Restricting application of this Act
     
-*   (1) This Act does not apply to any land that is subject to the [Forests Act 1949][198].
+*   (1) This Act does not apply to any land that is subject to the [Forests Act 1949][200].
     
     (2) Except as otherwise specially provided herein, this Act in its application to any reserve shall be read subject to---
         
@@ -736,23 +758,23 @@ Administration
     
     Compare: 1953 No 69 ss 11, 41, 55(3)
     
-    Section 5(1): replaced, on 24 May 2013, by [section 4(1)][199] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 5(1): replaced, on 24 May 2013, by [section 4(1)][201] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 5(2) proviso: repealed, on 24 May 2013, by [section 4(2)][199] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 5(2) proviso: repealed, on 24 May 2013, by [section 4(2)][201] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 5(3): inserted, on 24 May 2013, by [section 4(3)][199] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 5(3): inserted, on 24 May 2013, by [section 4(3)][201] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 5A Director-General to administer special leases and grazing permits over certain reserves
     
-*   (1) [Sections 18][200], [50A to 50F][201], [56][202], [60][203], [60B][204], [65][205], [67(1)][206], 67(2), 67(4), [68 to 69][207], [81 to 105][208], [111 to 115][209], [121 to 126][210], [127][211], [131 to 151][212], [153 to 158][213], [160][214], [164A][215], [164B][216], [170 to 171][217], [174][218], and [183][219] of the Land Act 1948 apply to every special lease and grazing permit in its application (by virtue of subsection (1) or subsection (2) of [section 65][220] of the Crown Pastoral Land Act 1998) to any reserve as if every reference in those provisions to the Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department, were a reference to the Director-General.
+*   (1) [Sections 18][202], [50A to 50F][203], [56][204], [60][205], [60B][206], [65][207], [67(1)][208], 67(2), 67(4), [68 to 69][209], [81 to 105][210], [111 to 115][211], [121 to 126][212], [127][213], [131 to 151][214], [153 to 158][215], [160][216], [164A][217], [164B][218], [170 to 171][219], [174][220], and [183][221] of the Land Act 1948 apply to every special lease and grazing permit in its application (by virtue of subsection (1) or subsection (2) of [section 65][222] of the Crown Pastoral Land Act 1998) to any reserve as if every reference in those provisions to the Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department, were a reference to the Director-General.
     
-    (2) In subsection (1), the terms _special lease_ and _grazing permit_ have the meanings given to them by [section 2][221] of the Crown Pastoral Land Act 1998\.
+    (2) In subsection (1), the terms _special lease_ and _grazing permit_ have the meanings given to them by [section 2][223] of the Crown Pastoral Land Act 1998\.
     
-    Section 5A: inserted, on 23 June 1998, by [section 103][222] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 5A: inserted, on 23 June 1998, by [section 103][224] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 6 Powers of Minister in cases of doubt
     
-*   (1) If in the opinion of the Minister there is any doubt or uncertainty as to whether any land was immediately before the commencement of this Act a reserve within the meaning of section 2 of the Reserves and Domains Act 1953, he may, by notice in the _Gazette_, declare either that the land as defined in the notice is a reserve within the meaning of this Act for such purpose or purposes as are stated in the notice, or that it is not a reserve; and every such notice shall have effect according to its tenor.
+*   (1) If in the opinion of the Minister there is any doubt or uncertainty as to whether any land was immediately before the commencement of this Act a reserve within the meaning of section 2 of the Reserves and Domains Act 1953, he or she may, by notice in the _Gazette_, declare either that the land as defined in the notice is a reserve within the meaning of this Act for such purpose or purposes as are stated in the notice, or that it is not a reserve; and every such notice shall have effect according to its tenor.
     
     (2) The Minister may in like manner define the purpose for which any reserve (whether reserved or set apart before or after the commencement of this Act) shall be classified in any case where doubt exists as to that purpose.
     
@@ -774,21 +796,21 @@ Administration
     
     Compare: 1953 No 69 s 14
     
-    Section 6(2A): inserted, on 24 May 2013, by [section 5][223] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 6(2A): inserted, on 24 May 2013, by [section 5][225] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 6(2B): inserted, on 24 May 2013, by [section 5][223] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 6(2B): inserted, on 24 May 2013, by [section 5][225] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 7 Director of Reserves
     
-*   There may from time to time be appointed under the [State Sector Act 1988][224] a suitable person to be the Director of Reserves, who shall carry out such directions and perform such duties for the administration of this Act as may from time to time be given or assigned to him by the Director-General.
+*   There may from time to time be appointed under the [State Sector Act 1988][226] a suitable person to be the Director of Reserves, who shall carry out such directions and perform such duties for the administration of this Act as may from time to time be given or assigned to him or her by the Director-General.
     
     Compare: 1953 No 69 s 4
     
-    Section 7: amended, on 1 April 1988, pursuant to [section 90(a)][225] of the State Sector Act 1988 (1988 No 20).
+    Section 7: amended, on 1 April 1988, pursuant to [section 90(a)][227] of the State Sector Act 1988 (1988 No 20).
 
 ##### 8 Rangers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][224] suitable persons to be rangers for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][226] suitable persons to be rangers for the purposes of this Act.
     
     (2) The Minister may from time to time appoint---
         
@@ -796,73 +818,73 @@ Administration
     
     *   (b) any suitable person to be a ranger in an honorary capacity for the purposes of this Act.
     
-    (3) A ranger may be appointed under subsection (1) or subsection (2) for a particular reserve or reserves or area or to exercise his duties generally throughout New Zealand.
+    (3) A ranger may be appointed under subsection (1) or subsection (2) for a particular reserve or reserves or area or to exercise his or her duties generally throughout New Zealand.
     
-    (4) The Director-General shall supply to every ranger appointed under this section a written warrant signed by the Director-General or on his behalf evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment.
+    (4) The Director-General shall supply to every ranger appointed under this section a written warrant signed by the Director-General or on his or her behalf evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment.
     
-    (5) Any ranger appointed under this section shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment and any badge of office that may have been issued to him.
+    (5) Any ranger appointed under this section shall, on the expiration of the term of his or her appointment, or on the sooner expiry of his or her appointment by removal from office or resignation, surrender to the Director-General his or her warrant of appointment and any badge of office that may have been issued to him or her.
     
     (6) Every ranger appointed under subsection (2) shall be appointed to hold office during the pleasure of the Minister or for such specified term as the Minister thinks fit.
     
-    (7) Any ranger appointed under subsection (2) may at any time be removed from office by the Minister for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
+    (7) Any ranger appointed under subsection (2) may at any time be removed from office by the Minister for incapacity, neglect of duty, or misconduct, or may at any time resign his or her office by writing addressed to the Director-General.
     
-    (8) No person appointed under subsection (2) to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][224] or of the [Government Superannuation Fund Act 1956][226].
+    (8) No person appointed under subsection (2) to be a ranger shall by virtue of that appointment be deemed to be employed in the service of the Sovereign for the purposes of the [State Sector Act 1988][226] or of the [Government Superannuation Fund Act 1956][228].
     
-    (9) The administering body of any reserve may from time to time appoint any officer or servant of that body, or, if the administering body is a local authority, then any suitable person, whether an officer or servant of that body or not, to be a ranger for the purposes of this Act to exercise his duties in that reserve, and with respect to every such ranger the following provisions shall apply:
+    (9) The administering body of any reserve may from time to time appoint any officer or servant of that body, or, if the administering body is a local authority, then any suitable person, whether an officer or servant of that body or not, to be a ranger for the purposes of this Act to exercise his or her duties in that reserve, and with respect to every such ranger the following provisions shall apply:
         
-    *   (a) he shall hold office during the pleasure of the administering body and may at any time be removed from office by the administering body, or may at any time resign his office by writing addressed to the principal administrative officer or chief executive of the administering body:
+    *   (a) he shall hold office during the pleasure of the administering body and may at any time be removed from office by the administering body, or may at any time resign his or her office by writing addressed to the principal administrative officer or chief executive of the administering body:
     
-    *   (b) the administering body shall supply to him a written warrant signed by the principal administrative officer or chief executive of the administering body evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment:
+    *   (b) the administering body shall supply to him or her a written warrant signed by the principal administrative officer or chief executive of the administering body evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment:
     
-    *   (c) he shall, on the expiry of his appointment by removal from office or resignation, surrender to the principal administrative officer or chief executive of the administering body his warrant of appointment and any badge of office that may have been issued to him.
+    *   (c) he shall, on the expiry of his or her appointment by removal from office or resignation, surrender to the principal administrative officer or chief executive of the administering body his or her warrant of appointment and any badge of office that may have been issued to him or her.
     
-    (10) Every member of an administering body of a reserve (not being an officer of the Department) shall, by virtue of his office, be deemed to be a ranger in an honorary capacity for the purposes of this Act during his period of membership of that body, and with respect to every such member the following provisions shall apply:
+    (10) Every member of an administering body of a reserve (not being an officer of the Department) shall, by virtue of his or her office, be deemed to be a ranger in an honorary capacity for the purposes of this Act during his or her period of membership of that body, and with respect to every such member the following provisions shall apply:
         
-    *   (a) he shall exercise the duties of a ranger only in or with respect to the reserve controlled by the administering body of which he is a member:
+    *   (a) he shall exercise the duties of a ranger only in or with respect to the reserve controlled by the administering body of which he or she is a member:
     
-    *   (b) the administering body shall supply to him a written warrant signed by the principal administrative officer or chief executive of the administering body signifying that he is an honorary ranger, and production of that warrant shall be sufficient proof for all purposes that he is an honorary ranger for the purposes of this Act:
+    *   (b) the administering body shall supply to him or her a written warrant signed by the principal administrative officer or chief executive of the administering body signifying that he or she is an honorary ranger, and production of that warrant shall be sufficient proof for all purposes that he or she is an honorary ranger for the purposes of this Act:
     
-    *   (c) on the termination of his membership of the administering body, he shall surrender to the principal administrative officer or chief executive of that body the warrant of office issued to him pursuant to paragraph (b).
+    *   (c) on the termination of his or her membership of the administering body, he or she shall surrender to the principal administrative officer or chief executive of that body the warrant of office issued to him or her pursuant to paragraph (b).
     
-    (11) Every constable shall by virtue of his office be deemed to be a ranger appointed by the Minister to exercise his duties generally throughout New Zealand.
+    (11) Every constable shall by virtue of his or her office be deemed to be a ranger appointed by the Minister to exercise his or her duties generally throughout New Zealand.
     
-    (12) Every warranted officer within the meaning of the [Conservation Act 1987][173] shall by virtue of that person's office be deemed to be a ranger appointed by the Minister to exercise duties generally throughout New Zealand.
+    (12) Every warranted officer within the meaning of the [Conservation Act 1987][174] shall by virtue of that person's office be deemed to be a ranger appointed by the Minister to exercise duties generally throughout New Zealand.
     
     Compare: 1953 No 69 s 5; 1966 No 26 s 2; 1968 No 126 s 2
     
-    Section 8(1): amended, on 1 April 1988, pursuant to [section 90(a)][225] of the State Sector Act 1988 (1988 No 20).
+    Section 8(1): amended, on 1 April 1988, pursuant to [section 90(a)][227] of the State Sector Act 1988 (1988 No 20).
     
-    Section 8(8): amended, on 1 April 1988, pursuant to [section 90(a)][225] of the State Sector Act 1988 (1988 No 20).
+    Section 8(8): amended, on 1 April 1988, pursuant to [section 90(a)][227] of the State Sector Act 1988 (1988 No 20).
     
-    Section 8(9)(a): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(9)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(9)(c): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(10)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 8(10)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(10)(c): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 8(10)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(12): added, on 10 April 1990, by [section 92][227] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 8(12): inserted, on 10 April 1990, by [section 92][229] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 9 Committees
     
-*   (1) The Minister may from time to time appoint 1 or more committees for the purposes of this Act, each such committee to exercise on his behalf such powers and functions under this Act as may be delegated to it pursuant to [section 10][13], or to advise him either as to matters within his jurisdiction generally, or in any particular case or matter or any particular class of cases or matters, or on the administration of any reserves or group of reserves. In the exercise of its powers, every committee shall be under the control of the Minister.
+*   (1) The Minister may from time to time appoint 1 or more committees for the purposes of this Act, each such committee to exercise on his or her behalf such powers and functions under this Act as may be delegated to it pursuant to [section 10][13], or to advise him or her either as to matters within his or her jurisdiction generally, or in any particular case or matter or any particular class of cases or matters, or on the administration of any reserves or group of reserves. In the exercise of its powers, every committee shall be under the control of the Minister.
     
     (2) A committee may consist entirely of officers of the Department or partly of officers of the Department and partly of other persons, or may consist entirely of persons who are not officers of the Department.
     
     (3) The Minister may appoint the Authority or any conservation board to be a committee for the purposes of this section.
     
-    (4) There shall be paid, out of money appropriated by Parliament for the purpose, to the members of any committee who are not members by virtue of being officers of any department of State remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][228], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
+    (4) There shall be paid, out of money appropriated by Parliament for the purpose, to the members of any committee who are not members by virtue of being officers of any department of State remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][230], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
     
     Compare: 1953 No 69 s 3; 1960 No 87 s 2
     
-    Section 9(3): substituted, on 10 April 1990, by [section 93][229] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 9(3): replaced, on 10 April 1990, by [section 93][231] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 10 Delegation of Minister's powers
     
-*   (1) The Minister may from time to time delegate any of his powers and functions under this Act (not being the power to approve any bylaw) to any individual, committee, body, local authority, or organisation, or to any officer or officers of the Department specified by the Minister, either as to matters within his jurisdiction generally, or in any particular case or matter, or any particular class of cases or matters, or in respect of any reserve or reserves.
+*   (1) The Minister may from time to time delegate any of his or her powers and functions under this Act (not being the power to approve any bylaw) to any individual, committee, body, local authority, or organisation, or to any officer or officers of the Department specified by the Minister, either as to matters within his or her jurisdiction generally, or in any particular case or matter, or any particular class of cases or matters, or in respect of any reserve or reserves.
     
     (2) The officer or officers referred to in subsection (1) may be an officer or officers referred to by name or the officer or officers who for the time being and from time to time hold specified positions in the Department.
     
@@ -872,7 +894,7 @@ Administration
     
     (5) Any such delegation may at any time be revoked by the Minister in whole or in any part, but that revocation shall not affect in any way anything done under the delegated authority.
     
-    (6) No such delegation shall prevent the exercise by the Minister himself of any of the powers and functions conferred on him by this Act.
+    (6) No such delegation shall prevent the exercise by the Minister himself or herself of any of the powers and functions conferred on him or her by this Act.
     
     Compare: 1953 No 69 s 3
 
@@ -880,9 +902,9 @@ Administration
     
 *   (1) With the consent of the Minister, the Department may from time to time on behalf of the Crown enter into any contracts with persons, on such terms and conditions as it thinks fit, to provide such services or perform such work for any purpose of this Act as the Department may require.
     
-    (2) No person shall, by reason only of his entering into a contract with the Department under subsection (1), be regarded as being employed in the State services for the purposes of the [State Sector Act 1988][224] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][226].
+    (2) No person shall, by reason only of his or her entering into a contract with the Department under subsection (1), be regarded as being employed in the State services for the purposes of the [State Sector Act 1988][226] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][228].
     
-    Section 11(2): amended, on 1 April 1988, pursuant to [section 90(a)][225] of the State Sector Act 1988 (1988 No 20).
+    Section 11(2): amended, on 1 April 1988, pursuant to [section 90(a)][227] of the State Sector Act 1988 (1988 No 20).
 
 ## Part 2  
 Acquisition of land for reserves
@@ -891,27 +913,27 @@ Acquisition of land for reserves
     
 *   (1) Where the Minister considers that any private land or any interest in or over private land or any interest in a Crown lease should be acquired by the Crown for the purposes of a reserve or for the improvement, protection, or extension of or access to an existing reserve, or to establish a public right to wander at will on foot within specified limits in any reserve, or to provide recreational tracks in the countryside,---
         
-    *   (a) the Minister may, in the name and on behalf of Her Majesty, treat and agree for the purchase or taking on lease of the land or any interest therein or the acceptance of the land or interest therein as a gift, and for any such purpose enter into any contract he thinks fit; or
+    *   (a) the Minister may, in the name and on behalf of the Sovereign, treat and agree for the purchase or taking on lease of the land or any interest therein or the acceptance of the land or interest therein as a gift, and for any such purpose enter into any contract he or she thinks fit; or
     
-    *   (b) the land or interest therein (other than a public right to wander therein) may be taken or otherwise acquired under the [Public Works Act 1981][186]:
+    *   (b) the land or interest therein (other than a public right to wander therein) may be taken or otherwise acquired under the [Public Works Act 1981][187]:
         
         provided that no Maori land or interest in Maori land may be taken under this paragraph without the consent of the Minister of Maori Affairs:
     
-    provided also that, notwithstanding anything in subsection (2) of [section 23][230] of the Public Works Act 1981, where any Maori land in multiple ownership is proposed to be taken under the [Public Works Act 1981][186] for the purposes of a reserve and the title to the land is not registered under the [Land Transfer Act 1952][231], a copy of the notice and description referred to in subsection (1) of the said [section 23][230] shall be served on the Registrar of the Maori Land Court in accordance with [Part 10][232] of Te Ture Whenua Maori Act 1993, and the provisions of that Part shall apply accordingly.
+    provided also that, notwithstanding anything in subsection (2) of [section 23][232] of the Public Works Act 1981, where any Maori land in multiple ownership is proposed to be taken under the [Public Works Act 1981][187] for the purposes of a reserve and the title to the land is not registered under the [Land Transfer Act 1952][233], a copy of the notice and description referred to in subsection (1) of the said [section 23][232] shall be served on the Registrar of the Maori Land Court in accordance with [Part 10][234] of Te Ture Whenua Maori Act 1993, and the provisions of that Part shall apply accordingly.
     
-    (2) All land or interests in land acquired by way of purchase or gift or taken as aforesaid shall vest in Her Majesty for the purposes of this Act as a reserve or as an addition to or for the purposes of an existing reserve, as the case may require, and all land acquired by the Minister by way of lease under this section shall during the term of the lease be subject to this Act.
+    (2) All land or interests in land acquired by way of purchase or gift or taken as aforesaid shall vest in the Sovereign for the purposes of this Act as a reserve or as an addition to or for the purposes of an existing reserve, as the case may require, and all land acquired by the Minister by way of lease under this section shall during the term of the lease be subject to this Act.
     
     (3) The Minister may purchase, take on lease, or acquire any such land or interest therein for cash, or by instalments with or without interest, or by gift, or by way of exchange of Crown land, subject in the last-mentioned case to the approval of the Commissioner of Crown Lands appointed under section 12A of the Survey Act 1986 being first obtained.
     
-    (4) Subject to [sections 78][107], [82][111], [83][112], [84][113], [89][120], [90][121], [95][128], [105][142], and [110][150], the purchase price of any land, or any interest in land, or any right of way or other easement, or equality of exchange, or rent for land leased, or the compensation money payable in respect of any land or interest in land acquired or taken as aforesaid shall be paid out of money appropriated by Parliament.
+    (4) Subject to [sections 78][108], [82][112], [83][113], [84][114], [89][121], [90][122], [95][129], [105][143], and [110][151], the purchase price of any land, or any interest in land, or any right of way or other easement, or equality of exchange, or rent for land leased, or the compensation money payable in respect of any land or interest in land acquired or taken as aforesaid shall be paid out of money appropriated by Parliament.
     
     Compare: 1953 No 69 s 15
     
-    Section 12(1) proviso: amended, on 1 July 1993, pursuant to [section 362(2)][193] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 12(1) proviso: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 12(1) proviso: amended, on 1 February 1982, pursuant to [section 248(1)][195] of the Public Works Act 1981 (1981 No 35).
+    Section 12(1) proviso: amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
     
-    Section 12(1)(b): amended, on 1 February 1982, pursuant to [section 248(1)][195] of the Public Works Act 1981 (1981 No 35).
+    Section 12(1)(b): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
     
     Section 12(3): amended, on 1 February 1990, pursuant to section 9(2) of the Survey Amendment Act (No 3) 1989 (1989 No 139).
 
@@ -923,11 +945,11 @@ Acquisition of land for reserves
     
     (3) Before the Minister recommends to the Governor-General that an Order in Council be made under subsection (1),---
         
-    *   (a) the Minister shall give public notice of the proposal, in accordance with [section 119][159], stating that a plan of the proposal is available for inspection at a place and at times specified in the notice, and calling upon persons or organisations interested to lodge with the administering body written objections to or submissions in support of or suggestions on the proposal before a specified date, being not less than 3 months after the date of publication of the notice. The Minister shall give full consideration, in accordance with [section 120][160], to all objections and submissions in relation to the proposal received pursuant to the said [section 120][160]; and
+    *   (a) the Minister shall give public notice of the proposal, in accordance with [section 119][160], stating that a plan of the proposal is available for inspection at a place and at times specified in the notice, and calling upon persons or organisations interested to lodge with the administering body written objections to or submissions in support of or suggestions on the proposal before a specified date, being not less than 3 months after the date of publication of the notice. The Minister shall give full consideration, in accordance with [section 120][161], to all objections and submissions in relation to the proposal received pursuant to the said [section 120][161]; and
     
     *   (b) the Minister shall give to the Minister of Energy not less than 3 months' notice of the proposal.
     
-    (4) In any case where a reserve that the Minister considers should be declared a national reserve is one which another Minister of the Crown or the New Zealand Historic Places Trust has been appointed to control and manage, he shall obtain the consent of that other Minister or, as the case may be, of the Trust before making any recommendation to the Governor-General that an Order in Council be made under subsection (1).
+    (4) In any case where a reserve that the Minister considers should be declared a national reserve is one which another Minister of the Crown or the New Zealand Historic Places Trust has been appointed to control and manage, he or she shall obtain the consent of that other Minister or, as the case may be, of the Trust before making any recommendation to the Governor-General that an Order in Council be made under subsection (1).
     
     (5) When a reserve has been declared by Order in Council to be a national reserve the reserve shall---
         
@@ -945,7 +967,7 @@ Acquisition of land for reserves
     
     in order to provide for the application of management policies to protect the values of national or international significance and for the co-ordination of management with other national reserves.
     
-    Section 13: substituted, on 1 January 1980, by section 3(1) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 13: replaced, on 1 January 1980, by section 3(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
     Section 13(1): amended, on 13 January 1981, by section 2 of the Reserves Amendment Act (No 2) 1980 (1980 No 139).
     
@@ -959,17 +981,17 @@ Acquisition of land for reserves
     
     (2) No such resolution shall be passed before the expiration of 1 month after notice of intention to pass the same and calling for objections thereto in writing has been published in 1 or more newspapers circulating in its district, and until it has considered all such objections received within that period:
     
-    provided that such a notice of intention shall not be necessary where a district plan makes provision for the use of the land as a reserve or the land is designated as a proposed reserve under an operative district plan under the [Resource Management Act 1991][233].
+    provided that such a notice of intention shall not be necessary where a district plan makes provision for the use of the land as a reserve or the land is designated as a proposed reserve under an operative district plan under the [Resource Management Act 1991][235].
     
     (3) A copy of the resolution shall be forwarded to the Commissioner for transmission to the Minister, together with all objections (if any) received as aforesaid and the comments of the local authority thereon.
     
-    (4) The Minister shall consider the resolution and such objections (if any) as have been received by the local authority and the comments of the local authority thereon, and shall then in his discretion either cause the resolution to be gazetted or refuse to do so.
+    (4) The Minister shall consider the resolution and such objections (if any) as have been received by the local authority and the comments of the local authority thereon, and shall then in his or her discretion either cause the resolution to be gazetted or refuse to do so.
     
     (5) No resolution under this section shall have any force or effect until it is gazetted as aforesaid.
     
     Compare: 1953 No 69 s 13
     
-    Section 14(2) proviso: substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 14(2) proviso: replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 15 Exchange of reserves for other land
     
@@ -981,9 +1003,9 @@ Acquisition of land for reserves
     
     provided that such a notice of intention shall not be necessary where, in order to enable the exchange to be made, a change has been made in an operative district scheme under the Town and Country Planning Act 1977\.
     
-    (3) The Minister in the name and on behalf of Her Majesty or the administering body, as the case may require, may do all things necessary to effect any exchange authorised as aforesaid, including the payment of or receipt of any money by way of equality of exchange.
+    (3) The Minister in the name and on behalf of the Sovereign or the administering body, as the case may require, may do all things necessary to effect any exchange authorised as aforesaid, including the payment of or receipt of any money by way of equality of exchange.
     
-    (4) Subject to [sections 78][107], [82][111], [83][112], [84][113], [89][120], [90][121], [95][128], [105][142], and [110][150], any money payable by the Crown by way of equality of exchange shall be paid out of money appropriated by Parliament.
+    (4) Subject to [sections 78][108], [82][112], [83][113], [84][114], [89][121], [90][122], [95][129], [105][143], and [110][151], any money payable by the Crown by way of equality of exchange shall be paid out of money appropriated by Parliament.
     
     (5) The land comprised in any reserve or part thereof given by way of exchange pursuant to this section shall upon the exchange being effected be no longer subject to any reservation theretofore affecting it.
     
@@ -993,20 +1015,20 @@ Acquisition of land for reserves
         
     *   (a) for the purpose of giving effect to any exchange under this section a memorandum of transfer affecting the whole or part of the land comprised in any reserve is presented to the District Land Registrar for registration; and
     
-    *   (b) there is a certificate of title for the land or any part thereof under the [Land Transfer Act 1952][231], but pursuant to [section 116][156] no duplicate certificate of title has been issued or the duplicate certificate of title has been cancelled---
+    *   (b) there is a certificate of title for the land or any part thereof under the [Land Transfer Act 1952][233], but pursuant to [section 116][157] no duplicate certificate of title has been issued or the duplicate certificate of title has been cancelled---
     
     the District Land Registrar shall, on registration of the memorandum of transfer, issue and deliver to the person entitled to the custody thereof a duplicate certificate of title in respect of the land or part thereof, as the case may be, and shall note the copy in the register accordingly.
     
-    (8) Nothing in [section 40][235] of the Public Works Act 1981 applies to the exchange of land under this section.
+    (8) Nothing in [section 40][237] of the Public Works Act 1981 applies to the exchange of land under this section.
     
     Compare: 1953 No 69 s 17; 1956 No 35 s 4
     
-    Section 15(8): added, on 25 November 1994, by section 2 of the Reserves Amendment Act 1994 (1994 No 110).
+    Section 15(8): inserted, on 25 November 1994, by section 2 of the Reserves Amendment Act 1994 (1994 No 110).
 
 ## Part 2A  
 Policy
     
-*   Part 2A: inserted, on 10 April 1990, by [section 94][236] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 2A: inserted, on 10 April 1990, by [section 94][238] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 15A General policy
     
@@ -1016,19 +1038,19 @@ Policy
     
     (3) The administering body shall in the exercise of its functions comply with general policies under this section.
     
-    (4) For the purposes of this section, [sections 17B][237] (except subsections (1) and (2)) and [17N][238] (except subsection (2)) of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
+    (4) For the purposes of this section, [sections 17B][239] (except subsections (1) and (2)) and [17N][240] (except subsection (2)) of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
         
     *   (a) where the draft policy relates solely to the implementation of this Act in relation to reserves administered by bodies other than the Department, the Minister may approve the draft without consulting the Authority; and, in that case,---
             
-        *   (i) the Director-General shall send the draft and the summary prepared under [section 17B(3)(i)][237] of that Act directly to the Minister; and
+        *   (i) the Director-General shall send the draft and the summary prepared under [section 17B(3)(i)][239] of that Act directly to the Minister; and
         
-        *   (ii) paragraphs (j) to (l) of [section 17B(3)][237] of that Act shall not apply:
+        *   (ii) paragraphs (j) to (l) of [section 17B(3)][239] of that Act shall not apply:
         
         
     
     *   (b) no such general policy shall restrict or affect the exercise of any legal right or power by any person other than the Minister or the Director-General or an administering body.
     
-    Section 15A: inserted, on 10 April 1990, by [section 94][236] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 15A: inserted, on 10 April 1990, by [section 94][238] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ## Part 3  
 Classification and management of reserves
@@ -1061,9 +1083,9 @@ Classification and management of reserves
     
     *   (e) purchased out of money paid out of the Land for Settlements Account in accordance with section 14(2) of the Land Subdivision in Counties Act 1946; or
     
-    *   (f) created under [Part 20][239] of the Local Government Act 1974:
+    *   (f) created under [Part 20][241] of the Local Government Act 1974; or
     
-    *   (g) created under [Part 10][240] of the Resource Management Act 1991---
+    *   (g) created under [Part 10][242] of the Resource Management Act 1991---
     
     and is or remains vested in a local authority, that local authority shall, by resolution, classify the reserve according to its principal or primary purpose, as defined in [sections 17 to 23][26].
     
@@ -1071,9 +1093,9 @@ Classification and management of reserves
     
     (2C) The Minister may, by notice in the _Gazette_, declare that any land---
         
-    *   (a) identified in the first column of [Schedule 4][170] for protection as an amenity reserve; and
+    *   (a) identified in the first column of [Schedule 4][171] for protection as an amenity reserve; and
     
-    *   (b) held as a conservation area under [section 7][241] or [section 61][242] or [section 62][243] of the Conservation Act 1987; and
+    *   (b) held as a conservation area under [section 7][243] or [section 61][244] or [section 62][245] of the Conservation Act 1987; and
     
     *   (c) adjacent to any reserve held under this Act as a scenic reserve---
     
@@ -1087,9 +1109,9 @@ Classification and management of reserves
     
     (2D) The Minister may, by notice in the _Gazette_, declare that any land---
         
-    *   (a) identified in the first column of [Schedule 4][170] for protection as a wildlife corridor or wildlife management reserve; and
+    *   (a) identified in the first column of [Schedule 4][171] for protection as a wildlife corridor or wildlife management reserve; and
     
-    *   (b) held as a conservation area under [section 7][241] or [section 61][242] or [section 62][243] of the Conservation Act 1987; and
+    *   (b) held as a conservation area under [section 7][243] or [section 61][244] or [section 62][245] of the Conservation Act 1987; and
     
     *   (c) adjacent to any reserve held under this Act as a government purpose (wildlife management) reserve---
     
@@ -1101,9 +1123,9 @@ Classification and management of reserves
     
     and, subject to this Act, the land shall thereafter be so held.
     
-    (2E) Where any boundary of any land identified in [Schedule 4][170] is defined in any document referred to in the third column of that schedule, the boundary defined in the document shall be conclusive for the purposes of this Act.
+    (2E) Where any boundary of any land identified in [Schedule 4][171] is defined in any document referred to in the third column of that schedule, the boundary defined in the document shall be conclusive for the purposes of this Act.
     
-    (2F) Where any boundary of any land identified in the said [Schedule 4][170] is not defined in any document referred to in that schedule, the Minister shall describe the land in the notice under subsection (2C) or subsection (2D) after having regard---
+    (2F) Where any boundary of any land identified in the said [Schedule 4][171] is not defined in any document referred to in that schedule, the Minister shall describe the land in the notice under subsection (2C) or subsection (2D) after having regard---
         
     *   (a) in the case of any land identified as Category A in Appendix C of the Final Report of the West Coast Forests Working Party dated 31 October 1986, to the maps contained or referred to in that report:
     
@@ -1115,13 +1137,13 @@ Classification and management of reserves
     
     (3) In classifying any reserve as a government purpose or local purpose reserve, the Minister or the local authority, as the case may be, shall specify as part of that classification the particular purpose or purposes for which the reserve is classified.
     
-    (4) Before classifying any reserve under subsection (1), the Minister shall give public notice in accordance with [section 119][159] specifying the classification proposed, and shall give full consideration in accordance with [section 120][160] to all objections against and submissions in relation to the proposal received pursuant to the said section 120\.
+    (4) Before classifying any reserve under subsection (1), the Minister shall give public notice in accordance with [section 119][160] specifying the classification proposed, and shall give full consideration in accordance with [section 120][161] to all objections against and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (5) Notwithstanding subsection (4), no such public notice shall be necessary where---
         
     *   (a) the classification proposed for any reserve is substantially the same as the purpose for which the reserve was held and administered immediately before the commencement of this Act; or
     
-    *   (b) the intended use of the land is in conformity with the relevant operative district plan under the [Resource Management Act 1991][233]; or
+    *   (b) the intended use of the land is in conformity with the relevant operative district plan under the [Resource Management Act 1991][235]; or
     
     *   (c) the classification proposed is a condition subject to which the land was acquired for reserve purposes; or
     
@@ -1143,13 +1165,13 @@ Classification and management of reserves
     
     provided that the Minister shall not change the name of a reserve that is controlled and managed by an administering body without consulting that administering body.
     
-    (10A) Before the Minister gives notice in the _Gazette_ under subsection (10), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][244] or [30][245] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+    (10A) Before the Minister gives notice in the _Gazette_ under subsection (10), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][246] or [30][247] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
     
     (11) Notwithstanding anything in subsections (1) to (10),---
         
-    *   (a) all reserves which immediately before the commencement of this Act were set apart as racecourse reserves or for racecourse purposes under the Reserves and Domains Act 1953 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as recreation reserves under [section 17][26], subject to [sections 65 to 70][89]:
+    *   (a) all reserves which immediately before the commencement of this Act were set apart as racecourse reserves or for racecourse purposes under the Reserves and Domains Act 1953 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as recreation reserves under [section 17][26], subject to [sections 65 to 70][90]:
     
-    *   (b) all reserves created before the commencement of this Act pursuant to Part 28 of the Municipal Corporations Act 1933, Part 25 of the Municipal Corporations Act 1954 or [Part 2][246] of the Counties Amendment Act 1961 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as follows:
+    *   (b) all reserves created before the commencement of this Act pursuant to Part 28 of the Municipal Corporations Act 1933, Part 25 of the Municipal Corporations Act 1954 or [Part 2][248] of the Counties Amendment Act 1961 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as follows:
             
         *   (i) as recreation reserves under [section 17][26], if their purpose was recreation:
         
@@ -1163,7 +1185,7 @@ Classification and management of reserves
     
     *   (c) all reserves for the preservation of flora and fauna existing immediately before the commencement of this Act shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as nature reserves under [section 20][29]:
     
-    *   (d) the reserves described in Schedule 2 of the notice by the Minister of Lands dated 14 December 1972 and published in the _Gazette_ on 11 January 1973 at page 8 (being reserves forming part of the Marlborough Sounds Maritime Park) shall, after the commencement of this Act, and without further notice or gazetting, be deemed to be classified as local purpose reserves for sounds foreshore purposes under [section 23][32], but subject to the provisions of [section 17][247] of the Reserves and Other Lands Disposal Act 1955:
+    *   (d) the reserves described in Schedule 2 of the notice by the Minister of Lands dated 14 December 1972 and published in the _Gazette_ on 11 January 1973 at page 8 (being reserves forming part of the Marlborough Sounds Maritime Park) shall, after the commencement of this Act, and without further notice or gazetting, be deemed to be classified as local purpose reserves for sounds foreshore purposes under [section 23][32], but subject to the provisions of [section 17][249] of the Reserves and Other Lands Disposal Act 1955:
     
     *   (e) all reserves which immediately before the commencement of this Act were set apart for Government railway purposes shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as government purpose reserves for railway purposes under [section 22][31] under the control and management of the Minister of Railways.
     
@@ -1171,51 +1193,51 @@ Classification and management of reserves
     
     Compare: 1953 No 69 ss 12, 42
     
-    Section 16: substituted (with effect on 1 April 1978), on 1 January 1980, by section 4(1) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 16: replaced (with effect on 1 April 1978), on 1 January 1980, by section 4(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 16(2): substituted, on 27 December 1983, by section 3(1) of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 16(2): replaced, on 27 December 1983, by section 3(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
     Section 16(2A): inserted, on 27 December 1983, by section 3(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 16(2A)(g): added, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 16(2A)(g): inserted, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
     Section 16(2B): inserted, on 27 December 1983, by section 3(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 16(2C): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2C): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(2D): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2D): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(2E): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2E): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(2F): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2F): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(2G): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2G): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(2H): inserted, on 13 March 1996, by [section 3(1)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(2H): inserted, on 13 March 1996, by [section 3(1)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(5)(b): substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 16(5)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 16(5)(c): amended, on 13 March 1996, by [section 3(2)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(5)(c): amended, on 13 March 1996, by [section 3(2)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 16(5)(d): added, on 13 March 1996, by [section 3(2)][248] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 16(5)(d): inserted, on 13 March 1996, by [section 3(2)][250] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 16(8): amended, on 27 December 1983, by section 3(2) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 16(10): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 16(10): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 16(10A): inserted, on 1 November 2008, by [section 38][249] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 16(10A): inserted, on 1 November 2008, by [section 38][251] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
     Section 16(11)(b): amended, on 27 December 1983, by section 3(3) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 16(12): inserted, on 24 May 2013, by [section 6][250] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 16(12): inserted, on 24 May 2013, by [section 6][252] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 16A Application of section 16 to nature and scientific reserves after commencement of Crown Minerals Amendment Act 2013
     
-*   (1) Despite [section 16][24], on and from the commencement of the [Crown Minerals Amendment Act 2013][251],---
+*   (1) Despite [section 16][24], on and from the commencement of the [Crown Minerals Amendment Act 2013][253],---
         
     *   (a) all reserves existing immediately before the commencement of that Act and not yet classified in accordance with [section 16][24] must be classified in accordance with this section if the reserve is to be classified as a nature reserve or as a scientific reserve:
     
-    *   (b) all nature and scientific reserves created after the commencement of the [Crown Minerals Amendment Act 2013][251] must be classified in accordance with this section.
+    *   (b) all nature and scientific reserves created after the commencement of the [Crown Minerals Amendment Act 2013][253] must be classified in accordance with this section.
     
     (2) The Minister may recommend to the Governor-General that an Order in Council be made to name and classify a reserve as a nature reserve or as a scientific reserve if the principal or primary purpose of the reserve is the same as that specified for---
         
@@ -1227,13 +1249,13 @@ Classification and management of reserves
     
     (4) Before making a recommendation under subsection (2), the Minister must---
         
-    *   (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][244] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
+    *   (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][246] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
     
-    *   (b) give public notice in accordance with [section 119][159] specifying the name and classification proposed, and must consider in accordance with [section 120][160] all objections and submissions in relation to the proposal, and those sections apply accordingly with any necessary modifications.
+    *   (b) give public notice in accordance with [section 119][160] specifying the name and classification proposed, and must consider in accordance with [section 120][161] all objections and submissions in relation to the proposal, and those sections apply accordingly with any necessary modifications.
     
     (5) When classified under this section, each reserve must be held and administered for the purpose or purposes for which it is classified and for no other purpose.
     
-    Section 16A: inserted, on 24 May 2013, by [section 7][252] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 16A: inserted, on 24 May 2013, by [section 7][254] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 17 Recreation reserves
     
@@ -1241,11 +1263,11 @@ Classification and management of reserves
     
     (2) It is hereby further declared that, having regard to the general purposes specified in subsection (1), every recreation reserve shall be so administered under the appropriate provisions of this Act that---
         
-    *   (a) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on the administering body by [sections 53][73] and [54][74], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and general well-being of the reserve and for the protection and control of the public using it:
+    *   (a) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on the administering body by [sections 53][74] and [54][75], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and general well-being of the reserve and for the protection and control of the public using it:
     
     *   (b) where scenic, historic, archaeological, biological, geological, or other scientific features or indigenous flora or fauna or wildlife are present on the reserve, those features or that flora or fauna or wildlife shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this subsection shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this subsection shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (c) those qualities of the reserve which contribute to the pleasantness, harmony, and cohesion of the natural environment and to the better use and enjoyment of the reserve shall be conserved:
     
@@ -1253,7 +1275,7 @@ Classification and management of reserves
     
     Compare: 1953 No 69 ss 32, 33; 1964 No 108 s 2
     
-    Section 17(2)(b) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 17(2)(b) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 18 Historic reserves
     
@@ -1263,7 +1285,7 @@ Classification and management of reserves
         
     *   (a) the structures, objects, and sites illustrate with integrity the history of New Zealand:
     
-    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on the administering body by [sections 58][78] and [58A][79], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and general well-being of the reserve and for the protection and control of the public using it:
+    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on the administering body by [sections 58][79] and [58A][80], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and general well-being of the reserve and for the protection and control of the public using it:
     
     *   (c) where scenic, archaeological, geological, biological, or other scientific features, or indigenous flora or fauna, or wildlife are present on the reserve, those features or that flora or fauna or wildlife shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
     
@@ -1271,13 +1293,13 @@ Classification and management of reserves
     
     *   (e) except where the Minister otherwise determines, the indigenous flora and fauna and natural environment shall as far as possible be preserved:
     
-    provided that nothing in paragraph (c) shall authorise the doing of anything with respect to fauna or wildlife that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, and nothing in this subsection shall authorise the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196].
+    provided that nothing in paragraph (c) shall authorise the doing of anything with respect to fauna or wildlife that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, and nothing in this subsection shall authorise the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198].
     
     Compare: 1953 No 69 ss 63, 64
     
     Section 18(2)(b): amended, on 1 January 1980, by section 19(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 18(2) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 18(2) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 19 Scenic reserves
     
@@ -1291,13 +1313,13 @@ Classification and management of reserves
         
     *   (a) except where the Minister otherwise determines, the indigenous flora and fauna, ecological associations, and natural environment and beauty shall as far as possible be preserved, and for this purpose, except where the Minister otherwise determines, exotic flora and fauna shall as far as possible be exterminated:
     
-    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on administering bodies by [sections 55][75] and [56][76], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and well-being of the reserve and for the protection and control of the public using it:
+    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on administering bodies by [sections 55][76] and [56][77], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and well-being of the reserve and for the protection and control of the public using it:
     
     *   (c) to the extent compatible with the principal or primary purposes of the retention and preservation of the natural or scenic values, open portions of the reserve may be developed for amenities and facilities where these are necessary to enable the public to obtain benefit and enjoyment from the reserve:
     
     *   (d) where historic, archaeological, geological, biological, or other scientific features are present in the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
@@ -1305,21 +1327,21 @@ Classification and management of reserves
         
     *   (a) except where the Minister otherwise determines, the flora and fauna, ecological associations, and natural environment and beauty shall as far as possible be preserved:
     
-    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on administering bodies by [sections 55][75] and [56][76], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and well-being of the reserve and for the protection and control of the public using it:
+    *   (b) the public shall have freedom of entry and access to the reserve, subject to the specific powers conferred on administering bodies by [sections 55][76] and [56][77], to any bylaws under this Act applying to the reserve, and to such conditions and restrictions as the administering body considers to be necessary for the protection and well-being of the reserve and for the protection and control of the public using it:
     
     *   (c) to the extent compatible with the principal or primary purposes of the retention and preservation of the natural or scenic values, open portions of the reserve may be developed for amenities and facilities where these are necessary to enable the public to obtain benefit and enjoyment from the reserve:
     
     *   (d) where historic, archaeological, geological, biological, or other scientific features are present in the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
     Compare: 1953 No 69 ss 33, 56
     
-    Section 19(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 19(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 19(3)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 19(3)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 20 Nature reserves
     
@@ -1331,11 +1353,11 @@ Classification and management of reserves
     
     *   (b) except where the Minister otherwise determines, the indigenous flora and fauna, ecological associations, and natural environment shall as far as possible be preserved and the exotic flora and fauna as far as possible be exterminated:
     
-    *   (c) for the better protection and preservation of the flora and fauna in its natural state, no person shall enter the reserve, except under the authority of a permit granted under [section 48A][66] or [section 57][77] or in accordance with a notice given under subsection (2) of that section and, for the purposes of this paragraph, the expression _enter the reserve_ shall, in the case of a nature reserve or part of a nature reserve that is an island or that comprises most of an island, be deemed to include any physical contact with the land by a boat; and for this purpose any physical contact with the land shall be deemed to include the attaching (by rope or otherwise) of a boat to the reserve or to a wharf constructed on or partly on the reserve:
+    *   (c) for the better protection and preservation of the flora and fauna in its natural state, no person shall enter the reserve, except under the authority of a permit granted under [section 48A][67] or [section 57][78] or in accordance with a notice given under section 57(2) and, for the purposes of this paragraph, the expression _enter the reserve_ shall, in the case of a nature reserve or part of a nature reserve that is an island or that comprises most of an island, be deemed to include any physical contact with the land by a boat; and for this purpose any physical contact with the land shall be deemed to include the attaching (by rope or otherwise) of a boat to the reserve or to a wharf constructed on or partly on the reserve:
     
     *   (d) where scenic, historic, archaeological, biological, geological, or other scientific features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
@@ -1345,7 +1367,7 @@ Classification and management of reserves
     
     Section 20(2)(c): amended, on 23 September 1981, by section 3(1) of the Reserves Amendment Act 1981 (1981 No 30).
     
-    Section 20(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 20(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 21 Scientific reserves
     
@@ -1355,11 +1377,11 @@ Classification and management of reserves
         
     *   (a) except where the Minister otherwise determines, the indigenous flora and fauna shall as far as possible be preserved and the exotic flora and fauna shall as far as possible be exterminated:
     
-    *   (b) for the adequate protection and management of the reserve, the Minister may from time to time, by notice in the _Gazette_, prohibit access to the whole or any specified part of the reserve, and in that case no person shall enter the reserve or, as the case may be, the part so specified, except under the authority of a permit issued under [section 48A][66] or [section 59][80]:
+    *   (b) for the adequate protection and management of the reserve, the Minister may from time to time, by notice in the _Gazette_, prohibit access to the whole or any specified part of the reserve, and in that case no person shall enter the reserve or, as the case may be, the part so specified, except under the authority of a permit issued under [section 48A][67] or [section 59][81]:
     
     *   (c) where scenic, historic, archaeological, biological, or natural features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (d) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained:
     
@@ -1371,7 +1393,7 @@ Classification and management of reserves
     
     Section 21(2)(b): amended, on 23 September 1981, by section 3(2) of the Reserves Amendment Act 1981 (1981 No 30).
     
-    Section 21(2)(c) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 21(2)(c) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 22 Government purpose reserves
     
@@ -1379,23 +1401,23 @@ Classification and management of reserves
     
     (2) For the avoidance of doubt, and without limiting the purposes for which a government purpose reserve may be classified, it is hereby declared that a reserve may be classified as a government purpose reserve for wildlife management or for other specified wildlife purposes.
     
-    (3) Where any Minister of the Crown other than the Minister of Conservation is appointed to control and manage any government purpose reserve or any part thereof, the reserve or that part, as the case may be, may by that notice be made subject to the provisions of any other Act or Acts administered by the first-mentioned Minister in addition to being subject to this Act, but shall remain a reserve, and that Minister may expend out of the money appropriated by Parliament in respect of the administration of that other Act such sum or sums as he thinks fit on the maintenance and improvement and development of the reserve.
+    (3) Where any Minister of the Crown other than the Minister of Conservation is appointed to control and manage any government purpose reserve or any part thereof, the reserve or that part, as the case may be, may by that notice be made subject to the provisions of any other Act or Acts administered by the first-mentioned Minister in addition to being subject to this Act, but shall remain a reserve, and that Minister may expend out of the money appropriated by Parliament in respect of the administration of that other Act such sum or sums as he or she thinks fit on the maintenance and improvement and development of the reserve.
     
     (4) It is hereby further declared that, having regard to the general purpose specified in subsection (1), every government purpose reserve shall be so administered and maintained under the appropriate provisions of this Act that---
         
     *   (a) where scenic, historic, archaeological, biological, cultural, scientific, or natural features or wildlife are present on the reserve, those features or wildlife shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
     
     *   (b) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water and forest conservation area shall be maintained.
     
-    (5) Subject, in the case of a government purpose reserve for railway purposes, to the Government Railways Act 1949, the administering body of a government purpose reserve or the Minister appointed to control and manage a government purpose reserve or any part thereof may from time to time, by notice in the _Gazette_, prohibit access to the whole or part of the reserve, or, as the case may be, the whole or any specified part of that part of the reserve, and no person shall be entitled to enter the reserve or, as the case may be, the part specified in the notice, except under the authority of a permit granted under [section 48A][66] or a permit issued by the administering body or that Minister.
+    (5) Subject, in the case of a government purpose reserve for railway purposes, to the Government Railways Act 1949, the administering body of a government purpose reserve or the Minister appointed to control and manage a government purpose reserve or any part thereof may from time to time, by notice in the _Gazette_, prohibit access to the whole or part of the reserve, or, as the case may be, the whole or any specified part of that part of the reserve, and no person shall be entitled to enter the reserve or, as the case may be, the part specified in the notice, except under the authority of a permit granted under [section 48A][67] or a permit issued by the administering body or that Minister.
     
-    Section 22(1): substituted, on 1 January 1980, by section 5 of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 22(1): replaced, on 1 January 1980, by section 5 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 22(3): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 22(3): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 22(4)(a) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 22(4)(a) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
     
     Section 22(5): amended, on 23 September 1981, by section 3(3) of the Reserves Amendment Act 1981 (1981 No 30).
 
@@ -1403,13 +1425,13 @@ Classification and management of reserves
     
 *   (1) It is hereby declared that the appropriate provisions of this Act shall have effect, in relation to reserves classified as local purpose reserves for the purpose of providing and retaining areas for such local purpose or purposes as are specified in any classification of the reserve.
     
-    (2) It is hereby further declared that, having regard to specific local purpose for which the reserve has been classified, every local purpose reserve shall be so administered and maintained under the appropriate provisions of this Act that---
+    (2) It is hereby further declared that, having regard to the specific local purpose for which the reserve has been classified, every local purpose reserve shall be so administered and maintained under the appropriate provisions of this Act that---
         
     *   (a) where scenic, historic, archaeological, biological, or natural features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][196]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
         
-        provided also that nothing in this paragraph shall authorise the doing of anything with respect to any esplanade reserve created under [section 167][187] of the Land Act 1948, or section 190(3) or Part 25 of the Municipal Corporations Act 1954 or [Part 2][246] of the Counties Amendment Act 1961 and existing at the commencement of this Act, or any local purpose reserve for esplanade purposes created under the said Part 25 or [Part 2][246] or under [Part 20][254] of the Local Government Amendment Act 1978 or under [Part 10][240] of the Resource Management Act 1991 after the commencement of this Act, that would impede the right of the public freely to pass and repass over the reserve on foot, unless the administering body determines that access should be prohibited or restricted to preserve the stability of the land or the biological values of the reserve:
+        provided also that nothing in this paragraph shall authorise the doing of anything with respect to any esplanade reserve created under [section 167][188] of the Land Act 1948, or section 190(3) or Part 25 of the Municipal Corporations Act 1954 or [Part 2][248] of the Counties Amendment Act 1961 and existing at the commencement of this Act, or any local purpose reserve for esplanade purposes created under the said Part 25 or [Part 2][248] or under [Part 20][256] of the Local Government Amendment Act 1978 or under [Part 10][242] of the Resource Management Act 1991 after the commencement of this Act, that would impede the right of the public freely to pass and repass over the reserve on foot, unless the administering body determines that access should be prohibited or restricted to preserve the stability of the land or the biological values of the reserve:
     
     *   (b) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
@@ -1417,15 +1439,15 @@ Classification and management of reserves
     
     (4) Where a local purpose reserve is not vested in a local authority and a local authority has not been appointed to control and manage it, the Minister may from time to time, by public notice, prohibit access to the whole or any specified part of the reserve, and in that case no person shall enter the reserve or, as the case may be, that part, except under authority of a permit issued by the Minister.
     
-    Section 23(1): substituted, on 1 January 1980, by section 6(1) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 23(1): replaced, on 1 January 1980, by section 6(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
     Section 23(2): amended, on 1 January 1980, by section 6(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 23(2) first proviso: amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 23(2) first proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 23(2)(a) second proviso: substituted, on 1 January 1980, by section 7 of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 23(2)(a) second proviso: replaced, on 1 January 1980, by section 7 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 23(2)(a) second proviso: amended, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 23(2)(a) second proviso: amended, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 24 Change of classification or purpose or revocation of reserves
     
@@ -1435,7 +1457,7 @@ Classification and management of reserves
     
     *   (b) the local authority within whose district a reserve is situated or the administering body of any reserve notifies the Commissioner in writing that, pursuant to a resolution of the local authority or of the administering body, as the case may be, it considers for any reason, to be stated in the resolution, that the classification or purpose of the whole or part of the reserve should be changed to another classification or purpose, or that the reservation of the whole or part of the land as a reserve should be revoked,---
     
-    then, subject to the succeeding provisions of this section, the Minister may, in his discretion, by notice in the _Gazette_, change the classification or purpose of the whole or part of the reserve, which thereafter shall be held and administered for that changed classification or purpose, or revoke the reservation of the whole or part of the land as a reserve:
+    then, subject to the succeeding provisions of this section, the Minister may, in his or her discretion, by notice in the _Gazette_, change the classification or purpose of the whole or part of the reserve, which thereafter shall be held and administered for that changed classification or purpose, or revoke the reservation of the whole or part of the land as a reserve:
     
     provided that the classification of any government purpose reserve for railway purposes shall not be changed and the reservation of the land or any part thereof as such a reserve shall not be revoked except with the consent of the Minister of Railways.
     
@@ -1445,7 +1467,7 @@ Classification and management of reserves
     
     *   (b) the administering body of the reserve after consulting the Commissioner, or the Commissioner if there is no administering body, shall publicly notify the proposed change of classification or purpose or proposed revocation of reservation, as the case may be, specifying the reason or reasons for the proposal:
     
-    *   (c) every person claiming to be affected by the proposed change of classification or purpose or revocation shall have a right of objection to the change or revocation, and may, at any time within 1 month after the date of the first publication of the notice of the proposal, give notice in writing of his objections to the proposed change or revocation and of the grounds thereof to the Commissioner if there is no administering body, and to the principal administrative officer or chief executive of the administering body in any other case, who shall forward all such objections to the Commissioner with a copy of the resolution of the administering body in relation to those objections, after the administering body has considered those objections:
+    *   (c) every person claiming to be affected by the proposed change of classification or purpose or revocation shall have a right of objection to the change or revocation, and may, at any time within 1 month after the date of the first publication of the notice of the proposal, give notice in writing of his or her objections to the proposed change or revocation and of the grounds thereof to the Commissioner if there is no administering body, and to the principal administrative officer or chief executive of the administering body in any other case, who shall forward all such objections to the Commissioner with a copy of the resolution of the administering body in relation to those objections, after the administering body has considered those objections:
         
         provided that, where the date of the first publication of the notice of the proposal falls between the period commencing with 10 December in any year and ending with 10 January in the next succeeding year, notice of objection to the proposed change or revocation may be given at any time before 10 February next following that period:
     
@@ -1453,7 +1475,7 @@ Classification and management of reserves
     
     *   (e) the Minister shall as soon as practicable consider the proposed change of classification or purpose or revocation and all objections received thereto and, in the case of objections made to an administering body, the resolution of the administering body thereon, and, in any case where paragraph (d) applies, the attitude of the administering body to the proposal:
     
-    *   (f) the Minister shall have power to receive such submissions and make such inquiries as he thinks fit on the proposal:
+    *   (f) the Minister shall have power to receive such submissions and make such inquiries as he or she thinks fit on the proposal:
     
     *   (g) the procedure to be followed by the Minister in any matter arising under this section shall be as prescribed in regulations made under this Act or, where there are no such regulations or so far as the regulations do not extend, as the Minister determines:
     
@@ -1463,13 +1485,13 @@ Classification and management of reserves
     
     (4) \[Repealed\]
     
-    (5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from the New Zealand Historic Places Trust before making his decision.
+    (5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from the New Zealand Historic Places Trust before making his or her decision.
     
     (6) Subsection (2) shall not apply to any government purpose reserve, but no change of classification or purpose or revocation of the reservation of such a reserve or any part of such a reserve shall be made without the prior approval of the Minister appointed under [section 22][31] or [section 36][48] to control and manage that reserve.
     
-    (7) Subsection (2) shall not apply to any local purpose reserve, other than a reserve made on a subdivision of land under section 13 of the Land Subdivision in Counties Act 1946 or a reserve vested in the Corporation of a borough pursuant to the Municipal Corporations Act 1954 or the Corporation of a county pursuant to [Part 2][246] of the Counties Amendment Act 1961 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or [Part 20][239] of the Local Government Act 1974 (as enacted by [section 2][255] of the Local Government Amendment Act 1978) or as a condition of any resource consent under the [Resource Management Act 1991][233]:
+    (7) Subsection (2) shall not apply to any local purpose reserve, other than a reserve made on a subdivision of land under section 13 of the Land Subdivision in Counties Act 1946 or a reserve vested in the Corporation of a borough pursuant to the Municipal Corporations Act 1954 or the Corporation of a county pursuant to [Part 2][248] of the Counties Amendment Act 1961 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or [Part 20][241] of the Local Government Act 1974 (as enacted by [section 2][257] of the Local Government Amendment Act 1978) or as a condition of any resource consent under the [Resource Management Act 1991][235]:
     
-    provided that the Minister may, after considering such evidence as may be submitted to him, direct that the proposals be publicly notified, and in that case subsection (2) shall apply.
+    provided that the Minister may, after considering such evidence as may be submitted to him or her, direct that the proposals be publicly notified, and in that case subsection (2) shall apply.
     
     (8) The Minister must not change the classification or purpose, or revoke the reservation status, of the whole or a part of a nature reserve or a scientific reserve under subsection (1).
     
@@ -1493,23 +1515,23 @@ Classification and management of reserves
     
     Section 24(2)(b): amended, on 1 January 1980, by section 8 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 24(2)(c): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24(2)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24(2)(c) proviso: added, on 1 January 1980, by section 9 of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 24(2)(c) proviso: inserted, on 1 January 1980, by section 9 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 24(4): repealed, on 24 May 2013, by [section 8(1)][256] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 24(4): repealed, on 24 May 2013, by [section 8(1)][258] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 24(7): amended, on 17 December 1997, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 24(7): amended, on 17 December 1997, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 24(7): amended, on 1 April 1979, by [section 3(5)][257] of the Local Government Amendment Act 1978 (1978 No 43).
+    Section 24(7): amended, on 1 April 1979, by [section 3(5)][259] of the Local Government Amendment Act 1978 (1978 No 43).
     
-    Section 24(8): inserted, on 24 May 2013, by [section 8(2)][256] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 24(8): inserted, on 24 May 2013, by [section 8(2)][258] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 24(9): inserted, on 24 May 2013, by [section 8(2)][256] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 24(9): inserted, on 24 May 2013, by [section 8(2)][258] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 24(10): inserted, on 24 May 2013, by [section 8(2)][256] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 24(10): inserted, on 24 May 2013, by [section 8(2)][258] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 24(11): inserted, on 24 May 2013, by [section 8(2)][256] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 24(11): inserted, on 24 May 2013, by [section 8(2)][258] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 24A Change of purpose of reserve by territorial authority or regional council
     
@@ -1519,7 +1541,7 @@ Classification and management of reserves
         
     *   (a) the territorial authority or regional council shall publicly notify the proposed change of purpose, specifying the reason or reasons for the proposal:
     
-    *   (b) every person claiming to be affected by the proposed change of purpose shall have a right of objection to the change, and may, at any time within 1 month after the date of the first publication of the notice of the proposal, give notice in writing of his objections to the proposed change and of the grounds thereof to the chief executive of the territorial authority:
+    *   (b) every person claiming to be affected by the proposed change of purpose shall have a right of objection to the change, and may, at any time within 1 month after the date of the first publication of the notice of the proposal, give notice in writing of his or her objections to the proposed change and of the grounds thereof to the chief executive of the territorial authority:
         
         provided that, where the date of the first publication of the notice of the proposal falls between the period commencing with 10 December in any year and ending with 10 January in the next succeeding year, notice of objection to the proposed change may be given at any time before 10 February next following that period:
     
@@ -1529,41 +1551,41 @@ Classification and management of reserves
     
     (3) Nothing in subsection (2) shall apply in any case where the reason for the proposed change of purpose is to bring the specific purpose for which the reserve is classified into conformity with---
         
-    *   (a) the operative district plan in force under the [Resource Management Act 1991][233] for the district in which the reserve is situated:
+    *   (a) the operative district plan in force under the [Resource Management Act 1991][235] for the district in which the reserve is situated:
     
-    *   (b) any resource consent applying to the reserve granted by the territorial authority or regional council in accordance with [Part 6][258] of that Act.
+    *   (b) any resource consent applying to the reserve granted by the territorial authority or regional council in accordance with [Part 6][260] of that Act.
     
     Section 24A: inserted, on 1 January 1980, by section 10 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 24A heading: amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A heading: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(1): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(1): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(a): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(c): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(3)(a): substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 24A(3)(a): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 24A(3)(b): substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 24A(3)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 24A(3)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(3)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 ##### 25 Effect of revocation of reserve or change of classification or purpose
     
-*   (1) Upon the revocation of the reservation of any public reserve or of any part thereof pursuant to [section 24][33], the land comprised therein shall, if vested in the Crown or in any local authority or trustees deriving title from the Crown, become Crown land available for disposal under the [Land Act 1948][177], and in any other case may be disposed of in such manner and for such purpose as may be specified by the Minister.
+*   (1) Upon the revocation of the reservation of any public reserve or of any part thereof pursuant to [section 24][33], the land comprised therein shall, if vested in the Crown or in any local authority or trustees deriving title from the Crown, become Crown land available for disposal under the [Land Act 1948][178], and in any other case may be disposed of in such manner and for such purpose as may be specified by the Minister.
     
     (2) Upon any change of classification or purpose or revocation of reservation in respect of any reserve, the land specified in the _Gazette_ notice under [section 24(1)][33] shall be held subject to such restrictions, encumbrances, liens, and interests as are specified in the notice.
     
     (3) Notwithstanding anything in subsection (1) or subsection (2), where any land the reservation of which is revoked had been transferred to the Crown by way of gift for the purposes of a reserve, the following provisions shall apply:
         
-    *   (a) in the case of land that immediately before its transfer to the Crown was Maori land, the Minister, unless he considers it would not be in the public interest, shall offer the land, on such terms and conditions as he thinks fit, to the former owner or, if he is deceased, to his descendants, those descendants being as determined by order of the Maori Land Court:
+    *   (a) in the case of land that immediately before its transfer to the Crown was Maori land, the Minister, unless he or she considers it would not be in the public interest, shall offer the land, on such terms and conditions as he or she thinks fit, to the former owner or, if he or she is deceased, to his or her descendants, those descendants being as determined by order of the Maori Land Court:
     
-    *   (b) in the case of any other land, the Minister, unless he considers it would not be in the public interest, shall offer the land, on such terms and conditions as he thinks fit, to the former owner or, if he is deceased, to his personal representative.
+    *   (b) in the case of any other land, the Minister, unless he or she considers it would not be in the public interest, shall offer the land, on such terms and conditions as he or she thinks fit, to the former owner or, if he or she is deceased, to his or her personal representative.
     
-    (4) For the purposes of subsection (1), where any reserve in any county was vested in Her Majesty under section 13 of the Land Subdivision in Counties Act 1946 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or was purchased out of money in the Land for Settlements Account or the Land Settlement Account under section 14(2)(a) of the Land Subdivision in Counties Act 1946 and was later vested in the Corporation of the county as a reserve, the title of the Corporation to that reserve shall be deemed to have been derived by the Corporation otherwise than from the Crown.
+    (4) For the purposes of subsection (1), where any reserve in any county was vested in the Sovereign under section 13 of the Land Subdivision in Counties Act 1946 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or was purchased out of money in the Land for Settlements Account or the Land Settlement Account under section 14(2)(a) of the Land Subdivision in Counties Act 1946 and was later vested in the Corporation of the county as a reserve, the title of the Corporation to that reserve shall be deemed to have been derived by the Corporation otherwise than from the Crown.
     
     (5) For the purposes of subsection (1), where any land has been vested in the Corporation of a local authority as a reserve for the purposes of this Act or any former Act on the subdivision under any enactment, for residential, commercial, or industrial purposes, of any land of the Crown, the title of the local authority to that reserve shall be deemed to have been derived by the Corporation otherwise than from the Crown.
     
@@ -1579,9 +1601,9 @@ Classification and management of reserves
     
     (3) Before vesting a reserve under this section, the Minister shall---
         
-    *   (a) give public notice of the intention to do so in accordance with [section 119][159]; and
+    *   (a) give public notice of the intention to do so in accordance with [section 119][160]; and
     
-    *   (b) in accordance with [section 120][160], give full consideration to relevant objections and submissions received under that section.
+    *   (b) in accordance with [section 120][161], give full consideration to relevant objections and submissions received under that section.
     
     (4) Notwithstanding subsection (3), the Minister shall not be required to publicly notify the proposed vesting where---
         
@@ -1599,9 +1621,9 @@ Classification and management of reserves
     
     Compare: 1953 No 69 s 19
     
-    Section 26(3): added, on 13 March 1996, by [section 4][259] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 26(3): inserted, on 13 March 1996, by [section 4][261] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 26(4): added, on 13 March 1996, by [section 4][259] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 26(4): inserted, on 13 March 1996, by [section 4][261] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 26A Vesting of certain reserves
     
@@ -1609,7 +1631,7 @@ Classification and management of reserves
     
     (2) All land so vested shall be held in trust for the purpose or purposes for which the reserve is classified.
     
-    (3) Where any such administering body wishes to have a certificate of title issued to it in respect of any reserve vested in that administering body pursuant to subsection (1), the administering body shall, if the District Land Registrar so requests, provide the District Land Registrar with such evidence as he may require of the classification of that reserve and the appointment of that administering body to control and manage that reserve.
+    (3) Where any such administering body wishes to have a certificate of title issued to it in respect of any reserve vested in that administering body pursuant to subsection (1), the administering body shall, if the District Land Registrar so requests, provide the District Land Registrar with such evidence as he or she may require of the classification of that reserve and the appointment of that administering body to control and manage that reserve.
     
     Section 26A: inserted, on 1 January 1980, by section 11 of the Reserves Amendment Act 1979 (1979 No 63).
 
@@ -1617,15 +1639,15 @@ Classification and management of reserves
     
 *   (1) Any vesting (whether by any Provincial Ordinance, Act, grant, Order in Council, or in any other manner, and whether before or after the commencement of this Act) in an administering body of any reserve which before that vesting was the property of the Crown may, with the consent of the administering body, be cancelled by the Minister, by notice in the _Gazette_, and thereupon the land shall cease to be vested in that administering body and shall revest in the Crown subject to the trusts affecting the land and to any valid leases, rights, or easements subsisting thereover at the date of revesting.
     
-    (2) If at any time the Minister is satisfied that a breach of the trusts upon which any such reserve is vested has been committed, or that after the expiration of 5 years from the date of the vesting of the reserve the land is not being used for the purpose for which it is vested, whether that period of 5 years has expired before the commencement of this Act or will thereafter expire, or that the administering body has failed to comply with the provisions of this Act, he may cause to be served on the administering body a notice in writing stating that unless cause to the contrary is shown in writing within 2 months he will cancel the vesting.
+    (2) If at any time the Minister is satisfied that a breach of the trusts upon which any such reserve is vested has been committed, or that after the expiration of 5 years from the date of the vesting of the reserve the land is not being used for the purpose for which it is vested, whether that period of 5 years has expired before the commencement of this Act or will thereafter expire, or that the administering body has failed to comply with the provisions of this Act, he or she may cause to be served on the administering body a notice in writing stating that unless cause to the contrary is shown in writing within 2 months he or she will cancel the vesting.
     
-    (3) If within that period of 2 months the administering body shows cause as aforesaid, the Minister may in his discretion either decide to take no further action or he may inquire into the question whether or not the vesting should be cancelled.
+    (3) If within that period of 2 months the administering body shows cause as aforesaid, the Minister may in his or her discretion either decide to take no further action or he or she may inquire into the question whether or not the vesting should be cancelled.
     
     (4) If the Minister is of the opinion that the vesting should be cancelled, or if within that period of 2 months the administering body does not show cause as aforesaid, the Minister may, by notice in the _Gazette_, cancel the vesting, and thereupon the reserve shall revest in the Crown subject to the trusts affecting the same and to any valid leases, rights, or easements subsisting thereover at the date of revesting.
     
-    (5) On the cancellation as aforesaid of any vesting, any certificate or other instrument of title issued in respect of the reserve shall, upon the written request of the Commissioner, be noted accordingly by the District Land Registrar, who may require the copy of any such instrument then in the possession or control of the former administering body to be delivered up to him. Omission so to deliver up any such instrument shall not in any way affect the cancellation.
+    (5) On the cancellation as aforesaid of any vesting, any certificate or other instrument of title issued in respect of the reserve shall, upon the written request of the Commissioner, be noted accordingly by the District Land Registrar, who may require the copy of any such instrument then in the possession or control of the former administering body to be delivered up to him or her. Omission so to deliver up any such instrument shall not in any way affect the cancellation.
     
-    (6) Subsection (1) shall extend and apply with respect to reserves the control of which has been vested in the Minister of Tourism, but subject to the consent of that Minister, and any notice issued cancelling that vesting of control shall have the effect both of removing the land concerned from the control of that Minister and also of removing the land concerned from the operation and provisions of the [Tourist and Health Resorts Control Act 1908][185].
+    (6) Subsection (1) shall extend and apply with respect to reserves the control of which has been vested in the Minister of Tourism, but subject to the consent of that Minister, and any notice issued cancelling that vesting of control shall have the effect both of removing the land concerned from the control of that Minister and also of removing the land concerned from the operation and provisions of the [Tourist and Health Resorts Control Act 1908][186].
     
     Compare: 1953 No 69 s 20
 
@@ -1647,15 +1669,15 @@ Classification and management of reserves
 
 ##### 30 Appointing a board to control and manage a reserve
     
-*   (1) For the better carrying out of the purposes of any reserve vested in the Crown, the Minister may, by notice in the _Gazette_, appoint such persons as he thinks fit to be a reserves board, trust, trust board, or other special board to control and manage the reserve for the purpose of its classification and in accordance with the appropriate provisions of this Act, and subject to such additional conditions or restrictions as may be specified in the notice. Every such notice shall take effect according to its tenor. Any person so appointed may be appointed by virtue of any office.
+*   (1) For the better carrying out of the purposes of any reserve vested in the Crown, the Minister may, by notice in the _Gazette_, appoint such persons as he or she thinks fit to be a reserves board, trust, trust board, or other special board to control and manage the reserve for the purpose of its classification and in accordance with the appropriate provisions of this Act, and subject to such additional conditions or restrictions as may be specified in the notice. Every such notice shall take effect according to its tenor. Any person so appointed may be appointed by virtue of any office.
     
-    (2) Notwithstanding anything in [section 10][13], the Minister may from time to time, by notice in the _Gazette_, authorise the Commissioner to appoint, by instrument under his hand publicly notified once in 1 or more newspapers circulating in the locality in which the reserve is situated, such persons as the Commissioner thinks fit, not exceeding 9 in number, to be a reserves board to control and manage any reserve specified in the _Gazette_ notice. A reserves board so appointed shall control and manage the reserve for the purpose of its classification in accordance with the appropriate provisions of this Act, and subject to such additional conditions and restrictions as may be specified in the instrument. Every such notice shall take effect according to its tenor. Any person so appointed may be appointed by virtue of any office.
+    (2) Notwithstanding anything in [section 10][13], the Minister may from time to time, by notice in the _Gazette_, authorise the Commissioner to appoint, by instrument under his or her hand publicly notified once in 1 or more newspapers circulating in the locality in which the reserve is situated, such persons as the Commissioner thinks fit, not exceeding 9 in number, to be a reserves board to control and manage any reserve specified in the _Gazette_ notice. A reserves board so appointed shall control and manage the reserve for the purpose of its classification in accordance with the appropriate provisions of this Act, and subject to such additional conditions and restrictions as may be specified in the instrument. Every such notice shall take effect according to its tenor. Any person so appointed may be appointed by virtue of any office.
     
-    (3) The Minister, or the Commissioner, as the case may be, may, by the notice appointing those persons or by a subsequent notice under his hand, appoint one of them to be chairman of the board for the term of his appointment or for such period as the Minister or the Commissioner, as the case may be, thinks fit:
+    (3) The Minister, or the Commissioner, as the case may be, may, by the notice appointing those persons or by a subsequent notice under his or her hand, appoint one of them to be chairperson of the board for the term of his or her appointment or for such period as the Minister or the Commissioner, as the case may be, thinks fit:
     
-    provided that the Minister or the Commissioner, as the case may be, may from time to time, by notice under his hand, remove any chairman from his office as such and appoint a new chairman in his place.
+    provided that the Minister or the Commissioner, as the case may be, may from time to time, by notice under his or her hand, remove any chairperson from his or her office as such and appoint a new chairperson in his or her place.
     
-    (4) The Minister may from time to time, by notice in the _Gazette_, or, in any case to which subsection (2) applies, the Commissioner may by instrument under his hand publicly notified once in 1 or more newspapers circulating in the locality in which the reserve is situated, make such additional appointments of members as he thinks necessary, but the appointments made by the Commissioner shall not increase the number of members of the board to more than 9\. Those members shall be appointed for the remainder of the term for which the board was originally appointed.
+    (4) The Minister may from time to time, by notice in the _Gazette_, or, in any case to which subsection (2) applies, the Commissioner may by instrument under his or her hand publicly notified once in 1 or more newspapers circulating in the locality in which the reserve is situated, make such additional appointments of members as he or she thinks necessary, but the appointments made by the Commissioner shall not increase the number of members of the board to more than 9\. Those members shall be appointed for the remainder of the term for which the board was originally appointed.
     
     (5) The Minister or the Commissioner, as the case may be, may from time to time by like notice reduce the number of members of any board, and for that purpose may revoke the appointments of such members as may thereby be rendered necessary.
     
@@ -1663,7 +1685,7 @@ Classification and management of reserves
     
     (7) Notwithstanding anything in subsection (2) or subsection (4), where there is no newspaper circulating in the locality in which the reserve is situated, an instrument under the said subsection (2) or subsection (4) shall be notified once in the _Gazette_.
     
-    (8) There shall be paid, out of money appropriated by Parliament for the purpose, to the members of any reserves board, trust, trust board, or other special board appointed under subsection (1) who are not members by virtue of being officers of any department of State remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][228], and the provisions of that Act shall apply accordingly as if the reserves board, trust, trust board, or other special board, as the case may be, were a statutory board within the meaning of that Act.
+    (8) There shall be paid, out of money appropriated by Parliament for the purpose, to the members of any reserves board, trust, trust board, or other special board appointed under subsection (1) who are not members by virtue of being officers of any department of State remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][230], and the provisions of that Act shall apply accordingly as if the reserves board, trust, trust board, or other special board, as the case may be, were a statutory board within the meaning of that Act.
     
     Compare: 1953 No 69 ss 6, 6A; 1970 No 101 s 2(1)
 
@@ -1671,29 +1693,29 @@ Classification and management of reserves
     
 *   The following provisions shall apply with respect to every appointed member of any board, namely:
         
-    *   (a) subject to the succeeding provisions of this section and to [section 30][42], he shall hold office for such term not exceeding 7 years as may be specified in the notice of his appointment, and may from time to time be reappointed:
+    *   (a) subject to the succeeding provisions of this section and to [section 30][42], he or she shall hold office for such term not exceeding 7 years as may be specified in the notice of his or her appointment, and may from time to time be reappointed:
     
     *   (b) he shall vacate office on the happening of any of the following events:
             
-        *   (i) if he becomes bankrupt; or
+        *   (i) if he or she becomes bankrupt; or
         
-        *   (ii) if he resigns by writing addressed to the secretary to the board; or
+        *   (ii) if he or she resigns by writing addressed to the secretary to the board; or
         
-        *   (iii) if he is absent from 3 consecutive meetings of the board without the leave of the board; or
+        *   (iii) if he or she is absent from 3 consecutive meetings of the board without the leave of the board; or
         
-        *   (iv) if he is absent from New Zealand for 3 consecutive months without the leave of the board:
+        *   (iv) if he or she is absent from New Zealand for 3 consecutive months without the leave of the board:
         
         
     
-    *   (c) the Minister may remove from office any appointed member of the board, whether appointed by the Minister or by the Commissioner, who in his opinion becomes incapable of acting as a member or is guilty of such neglect of duty or misconduct as in the Minister's opinion makes it expedient that he should cease to be a member of the board:
+    *   (c) the Minister may remove from office any appointed member of the board, whether appointed by the Minister or by the Commissioner, who in his or her opinion becomes incapable of acting as a member or is guilty of such neglect of duty or misconduct as in the Minister's opinion makes it expedient that he or she should cease to be a member of the board:
     
-    *   (d) if he dies, or vacates his office pursuant to paragraph (b) or paragraph (c), the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made:
+    *   (d) if he or she dies, or vacates his or her office pursuant to paragraph (b) or paragraph (c), the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made:
         
-        provided that if the board was originally appointed by the Minister and the Minister has authorised the Commissioner to appoint the board under [section 30(2)][42], the Commissioner shall make the appointment. Any person so appointed shall be appointed for the residue of the term for which his predecessor was appointed:
+        provided that if the board was originally appointed by the Minister and the Minister has authorised the Commissioner to appoint the board under [section 30(2)][42], the Commissioner shall make the appointment. Any person so appointed shall be appointed for the residue of the term for which his or her predecessor was appointed:
     
-    *   (e) unless he sooner vacates his office as provided in paragraph (d), he shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired:
+    *   (e) unless he or she sooner vacates his or her office as provided in paragraph (d), he or she shall continue in office until his or she successor comes into office, notwithstanding that the term for which he or she was appointed may have expired:
     
-    *   (f) where any member of the board is appointed by virtue of any office, he shall vacate his appointment on ceasing to hold that office, and shall be replaced by his successor in office without any further appointment.
+    *   (f) where any member of the board is appointed by virtue of any office, he or she shall vacate his or her appointment on ceasing to hold that office, and shall be replaced by his or her successor in office without any further appointment.
     
     Compare: 1953 No 69 s 8; 1970 No 101 s 2(2)(c); 1972 No 99 s 2
 
@@ -1705,13 +1727,13 @@ Classification and management of reserves
     
     (3) Other meetings shall be held as the board determines from time to time.
     
-    (4) A special meeting of the board may at any time be convened by the chairman, and the chairman shall call a special meeting whenever requested to do so in writing by 2 members of the board:
+    (4) A special meeting of the board may at any time be convened by the chairperson, and the chairperson shall call a special meeting whenever requested to do so in writing by 2 members of the board:
     
     provided that not less than 7 clear days' notice of every special meeting and of the business to be transacted thereat shall be given to each member, and no business other than that specified in the notice shall be transacted at any such meeting.
     
-    (5) Where the chairman of the board has not been appointed by the Minister or by the Commissioner, as the case may be, under [section 30(3)][42], then, at the first meeting of the board and at every annual meeting and as often as the office of chairman becomes vacant, the members shall elect one of their number to be chairman, who, while he continues to be a member of the board, shall hold office as such until the appointment of his successor.
+    (5) Where the chairperson of the board has not been appointed by the Minister or by the Commissioner, as the case may be, under [section 30(3)][42], then, at the first meeting of the board and at every annual meeting and as often as the office of chairperson becomes vacant, the members shall elect one of their number to be chairperson, who, while he or she continues to be a member of the board, shall hold office as such until the appointment of his or her successor.
     
-    (6) The chairman shall preside at each meeting of the board at which he is present, but in his absence from any meeting the members present shall elect a member to act as chairman at that meeting.
+    (6) The chairperson shall preside at each meeting of the board at which he or she is present, but in his or her absence from any meeting the members present shall elect a member to act as chairperson at that meeting.
     
     (7) The member presiding at any meeting shall have a deliberative vote, and in the case of an equality of votes shall also have a casting vote.
     
@@ -1725,7 +1747,7 @@ Classification and management of reserves
     
     Compare: 1953 No 69 s 9; 1970 No 101 s 2(2)(d)
     
-    Section 32(2): substituted, on 17 May 2005, by [section 3][260] of the Reserves Amendment Act 2005 (2005 No 68).
+    Section 32(2): replaced, on 17 May 2005, by [section 3][262] of the Reserves Amendment Act 2005 (2005 No 68).
 
 ##### 33 Form of contracts of boards
     
@@ -1749,7 +1771,7 @@ Classification and management of reserves
     
 *   (1) For the better carrying out of the purposes of any reserve vested in the Crown, the Minister may, by notice in the _Gazette_, appoint any other Minister of the Crown to control and manage the reserve, or any part of the reserve, for the purpose of its classification and in accordance with the appropriate provisions of this Act, and with such powers and subject to such conditions and restrictions as may be specified in the notice. A notice under this subsection shall take effect according to its tenor, and may at any time be in like manner amended or revoked.
     
-    (2) Where any Minister of the Crown other than the Minister of Lands is appointed under this section to control and manage any reserve or part thereof, the reserve may by that notice be made subject to any other Act administered by the first-mentioned Minister in addition to being subject to this Act, but shall remain a reserve, and that Minister may expend out of money appropriated by Parliament in respect of the administration of that other Act such sum or sums as he thinks fit on the maintenance and improvement and development of the reserve.
+    (2) Where any Minister of the Crown other than the Minister of Lands is appointed under this section to control and manage any reserve or part thereof, the reserve may by that notice be made subject to any other Act administered by the first-mentioned Minister in addition to being subject to this Act, but shall remain a reserve, and that Minister may expend out of money appropriated by Parliament in respect of the administration of that other Act such sum or sums as he or she thinks fit on the maintenance and improvement and development of the reserve.
     
     Compare: 1953 No 69 s 21
 
@@ -1767,19 +1789,19 @@ Classification and management of reserves
     
     provided further that the Minister shall not control and manage any land under this subsection except with the agreement of the owner, trustee, or controlling authority of the land to the use of the land for that specified purpose.
     
-    (2) For the better carrying out of the purposes of this Act, the Minister may, by notice in the _Gazette_, appoint such persons, trustees (including trustees appointed under section 438 of the Maori Affairs Act 1953), trust, voluntary organisation, Maori Trust Board, or Maori incorporation as he thinks fit to be an administering body to control and manage any land which is not a reserve (including any Maori reservation) for any of the purposes specified in [sections 17 to 23][26]:
+    (2) For the better carrying out of the purposes of this Act, the Minister may, by notice in the _Gazette_, appoint such persons, trustees (including trustees appointed under section 438 of the Maori Affairs Act 1953), trust, voluntary organisation, Maori Trust Board, or Maori incorporation as he or she thinks fit to be an administering body to control and manage any land which is not a reserve (including any Maori reservation) for any of the purposes specified in [sections 17 to 23][26]:
     
     provided that an administering body shall not be appointed under this subsection except with the agreement of the owner, trustee, or controlling authority of the land to the appointment and to the use of the land for that specified purpose, and subject to such terms and conditions as to the use of the land as are approved by the Minister and the owner, trustee, or controlling authority of the land.
     
-    (3) While an arrangement as aforesaid remains in force, [sections 93 to 105][126] shall, as far as they are applicable and with the necessary modifications, apply to that land in all respects as if it were a reserve under this Act:
+    (3) While an arrangement as aforesaid remains in force, [sections 93 to 105][127] shall, as far as they are applicable and with the necessary modifications, apply to that land in all respects as if it were a reserve under this Act:
     
-    provided that in their application to any such land [sections 93 to 105][126] shall be read subject to any agreement between the owner, lessee, or licensee of the land and the Minister preserving to the owner, lessee, or licensee the right to do any act or thing forbidden by this Act.
+    provided that in their application to any such land [sections 93 to 105][127] shall be read subject to any agreement between the owner, lessee, or licensee of the land and the Minister preserving to the owner, lessee, or licensee the right to do any act or thing forbidden by this Act.
     
     Compare: 1953 No 69 ss 58, 75A; 1966 No 26 s 3; 1971 No 144 s 4
     
     Section 38(1): amended, on 1 January 1980, by section 12(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 38(1) second proviso: added, on 1 January 1980, by section 12(2) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 38(1) second proviso: inserted, on 1 January 1980, by section 12(2) of the Reserves Amendment Act 1979 (1979 No 63).
 
 ##### 39 Provision of technical assistance to administering body
     
@@ -1793,17 +1815,29 @@ Classification and management of reserves
 
 ##### 39A Annual financial statements
     
-*   (1) A board may, with the consent of the Minister of Finance, dispense with preparing any of the statements referred to in [section 150][261], [section 153][262], or [section 154][263] of the Crown Entities Act 2004\.
+*   (1) A board may, with the consent of the Minister of Finance, dispense with preparing any of the statements referred to in [section 150][263], [section 153][264], or [section 154][265] of the Crown Entities Act 2004\.
     
     (2) The consent may be given on any conditions the Minister thinks fit (which may include a requirement that the financial statements of any board include other statements, figures, or accounts in place of the statements dispensed with).
     
     (3) The Minister must not give a consent unless satisfied on reasonable grounds that in all the circumstances the preparation of all the statements referred to in subsection (1)---
         
-    *   (a) is not essential because any remaining statements for the financial year (including those appended to the Department of Conservation annual report in accordance with [section 45O][264] of the [Public Finance Act 1989][265]) can fairly reflect the financial position and operations of the board; and
+    *   (a) is not essential because any remaining statements for the financial year (including those appended to the Department of Conservation annual report in accordance with [section 45O][266] of the [Public Finance Act 1989][267]) can fairly reflect the financial position and operations of the board; and
     
     *   (b) would be unduly onerous on the board.
     
-    Section 39A: inserted, on 25 January 2005, by [section 37(1)][266] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 39A: inserted, on 25 January 2005, by [section 37(1)][268] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+##### 39B Financial statements may comply with standards rather than generally accepted accounting practice
+    
+*   (1) If a board is not a specified not-for-profit entity,---
+        
+    *   (a) [section 154(3)(a)][265] of the Crown Entities Act 2004 does not apply; and
+    
+    *   (b) the financial statements of the board (if any) must comply with either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+    
+    (2) This section is subject to [section 39A][52].
+    
+    Section 39B: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Functions of administering body
 
@@ -1815,7 +1849,7 @@ Classification and management of reserves
     
     Compare: 1953 No 69 s 7
     
-    Section 40(2): added, on 10 April 1990, by [section 95][267] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(2): inserted, on 10 April 1990, by [section 95][269] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 40A Conservation management strategies
     
@@ -1829,15 +1863,15 @@ Classification and management of reserves
         
     *   (a) shall not be required to be reviewed:
     
-    *   (b) may be revoked by the Director-General, after giving notice in accordance with [section 119][159]; and [section 120][160] shall, with any necessary modifications, apply with respect to every such notice.
+    *   (b) may be revoked by the Director-General, after giving notice in accordance with [section 119][160]; and [section 120][161] shall, with any necessary modifications, apply with respect to every such notice.
     
-    Section 40A: inserted, on 10 April 1990, by [section 96][268] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40A: inserted, on 10 April 1990, by [section 96][270] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 40B Conservation management plans in respect of reserves administered by Department
     
 *   (1) The purpose of a conservation management plan under this section is to implement conservation management strategies and to establish objectives for the management of a reserve or reserves administered by the Department, according to the purpose or purposes for which that reserve is classified or those reserves are classified.
     
-    (2) Nothing in [section 41][57] shall apply in respect of any conservation management plan under this section.
+    (2) Nothing in [section 41][58] shall apply in respect of any conservation management plan under this section.
     
     (3) Any such plan may relate to any reserve or reserves of any classification.
     
@@ -1851,21 +1885,21 @@ Classification and management of reserves
     
     *   (c) any conservation management strategy.
     
-    (6) Every management plan in force at the commencement of this section, that has been approved under [section 41][57] in respect of a reserve administered by the Department, is hereby deemed to be approved as a conservation management plan under this section, and shall have effect accordingly.
+    (6) Every management plan in force at the commencement of this section, that has been approved under [section 41][58] in respect of a reserve administered by the Department, is hereby deemed to be approved as a conservation management plan under this section, and shall have effect accordingly.
     
-    (7) Every draft management plan that, at the commencement of this section, is proposed to be approved under [section 41][57] in respect of a reserve administered by the Department, is hereby deemed to be a draft conservation management plan prepared under this section, and may be approved accordingly.
+    (7) Every draft management plan that, at the commencement of this section, is proposed to be approved under [section 41][58] in respect of a reserve administered by the Department, is hereby deemed to be a draft conservation management plan prepared under this section, and may be approved accordingly.
     
-    (8) For the purposes of this section, [sections 17E][269] (except subsections (1), (4), and (6)), [17G][270], [17H][271], [17I][272], and [17N][238] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to management plans under this section.
+    (8) For the purposes of this section, [sections 17E][271] (except subsections (1), (4), and (6)), [17G][272], [17H][273], [17I][274], and [17N][240] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to management plans under this section.
     
-    Section 40B: inserted, on 10 April 1990, by [section 96][268] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40B: inserted, on 10 April 1990, by [section 96][270] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40B(8): substituted, on 22 June 1993, by section 2 of the Reserves Amendment Act (No 2) 1993 (1993 No 42).
+    Section 40B(8): replaced, on 22 June 1993, by section 2 of the Reserves Amendment Act (No 2) 1993 (1993 No 42).
 
 ##### 41 Management plans
     
-*   (1) The administering body shall, within 5 years after the date of its appointment or within 5 years after the commencement of this Act, whichever is the later, prepare and submit to the Minister for his approval a management plan for the reserve under its control, management, or administration.
+*   (1) The administering body shall, within 5 years after the date of its appointment or within 5 years after the commencement of this Act, whichever is the later, prepare and submit to the Minister for his or her approval a management plan for the reserve under its control, management, or administration.
     
-    (2) The Minister may extend the time within which an administering body is required to submit its management plan to him for approval, where he is satisfied with the progress the administering body has made with the preparation of its management plan.
+    (2) The Minister may extend the time within which an administering body is required to submit its management plan to him or her for approval, where he or she is satisfied with the progress the administering body has made with the preparation of its management plan.
     
     (3) The management plan shall provide for and ensure the use, enjoyment, maintenance, protection, and preservation, as the case may require, and, to the extent that the administering body's resources permit, the development, as appropriate, of the reserve for the purposes for which it is classified, and shall incorporate and ensure compliance with the principles set out in [section 17][26], [section 18][27], [section 19][28], [section 20][29], [section 21][30], [section 22][31], or [section 23][32], as the case may be, for a reserve of that classification.
     
@@ -1883,7 +1917,7 @@ Classification and management of reserves
     
     (6) Every management plan shall be prepared by the administering body in draft form in the first place, and the administering body shall---
         
-    *   (a) give public notice complying with [section 119][159] stating that the draft plan is available for inspection at a place and at times specified in the notice, and calling upon persons or organisations interested to lodge with the administering body written objections to or suggestions on the draft plan before a specified date, being not less than 2 months after the date of publication of the notice; and
+    *   (a) give public notice complying with [section 119][160] stating that the draft plan is available for inspection at a place and at times specified in the notice, and calling upon persons or organisations interested to lodge with the administering body written objections to or suggestions on the draft plan before a specified date, being not less than 2 months after the date of publication of the notice; and
     
     *   (aa) on giving notice in accordance with paragraph (a), send a copy of the draft plan to the Commissioner; and
     
@@ -1891,17 +1925,17 @@ Classification and management of reserves
     
     *   (c) make the draft management plan available for inspection, free of charge, to all interested persons during ordinary office hours at the office of the administering body; and
     
-    *   (d) before approving the management plan, or, as the case may require, recommending the management plan to the Minister for his approval, give every person or organisation who or which, in lodging any objection or making any comments under paragraph (a) or paragraph (b), asked to be heard in support of his or its objection or comments, a reasonable opportunity of appearing before the administering body or a committee thereof or a person nominated by the administering body in support of his or its objection or comments; and
+    *   (d) before approving the management plan, or, as the case may require, recommending the management plan to the Minister for his or her approval, give every person or organisation who or which, in lodging any objection or making any comments under paragraph (a) or paragraph (b), asked to be heard in support of his or her or its objection or comments, a reasonable opportunity of appearing before the administering body or a committee thereof or a person nominated by the administering body in support of his or her or its objection or comments; and
     
-    *   (e) where the management plan requires the approval of the Minister, attach to the plan submitted to him for approval a summary of the objections and comments received and a statement as to the extent to which they have been allowed or accepted or disallowed or not accepted.
+    *   (e) where the management plan requires the approval of the Minister, attach to the plan submitted to him or her for approval a summary of the objections and comments received and a statement as to the extent to which they have been allowed or accepted or disallowed or not accepted.
     
-    (7) Where under subsection (4) the Minister requires an administering body to review its management plan, he may direct that the administering body follow the procedure specified in subsections (5) and (6), and the administering body shall follow that procedure accordingly as if the review were the preparation of a management plan.
+    (7) Where under subsection (4) the Minister requires an administering body to review its management plan, he or she may direct that the administering body follow the procedure specified in subsections (5) and (6), and the administering body shall follow that procedure accordingly as if the review were the preparation of a management plan.
     
     (8) Where in terms of its responsibilities under this Act the administering body of any reserve resolves to undertake a comprehensive review of its management plan, the administering body shall follow the procedure specified in subsections (5) and (6) as if the review were the preparation of a management plan.
     
     (9) Where under subsection (4) the administering body considers any change not involving a comprehensive review to its management plan is required, it may, if it thinks fit, follow the procedure specified in subsections (5) and (6).
     
-    (10) The administering body or committee or person before which or whom any person appears at any hearing in support of any objection or comments shall determine its or his own procedure at the hearing.
+    (10) The administering body or committee or person before which or whom any person appears at any hearing in support of any objection or comments shall determine its or his or her own procedure at the hearing.
     
     (11) The administering body shall in the exercise of its functions comply with the management plan for the reserve and any amendment thereof, being, in the case of a plan or an amendment that requires the approval of the Minister, a plan or an amendment so approved.
     
@@ -1913,7 +1947,7 @@ Classification and management of reserves
     
     (14) The Minister may, by notice to them, require the administering bodies of reserves in any locality to consult with each other in the preparation of their management plans so that the management plans are integrated for the benefit of the locality.
     
-    (15) Where under this Act the approval or consent of the Minister is required to any action by an administering body, the Minister may, at his discretion, refuse to grant his approval or consent unless and until the administering body has submitted its management plan for approval (whether or not the plan otherwise requires the approval of the Minister under this section) and the plan has been approved by him.
+    (15) Where under this Act the approval or consent of the Minister is required to any action by an administering body, the Minister may, at his or her discretion, refuse to grant his or her approval or consent unless and until the administering body has submitted its management plan for approval (whether or not the plan otherwise requires the approval of the Minister under this section) and the plan has been approved by him or her.
     
     (16) This section shall not apply in respect of any government purpose reserve or local purpose reserve unless the reserve is vested in an administering body or an administering body is appointed to control and manage the reserve, and the Minister in the notice of vesting or notice to control and manage directs that this section is to apply in respect of the reserve.
     
@@ -1921,15 +1955,15 @@ Classification and management of reserves
     
     Section 41(6)(aa): inserted, on 1 January 1980, by section 14 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 41(16): substituted, on 27 December 1983, by section 4(1) of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 41(16): replaced, on 27 December 1983, by section 4(1) of the Reserves Amendment Act 1983 (1983 No 43).
 
 #### General powers of Minister and of administering body
 
 ##### 42 Preservation of trees and bush
     
-*   (1) The trees and bush on any historic reserve or scenic reserve or nature reserve or scientific reserve shall not be cut or destroyed, except in accordance with a permit granted under [section 48A][66] or with the express consent in writing of the Minister and subject to such terms and conditions as the Minister may determine, including (as appropriate) the method of cutting, extraction, and restoration.
+*   (1) The trees and bush on any historic reserve or scenic reserve or nature reserve or scientific reserve shall not be cut or destroyed, except in accordance with a permit granted under [section 48A][67] or with the express consent in writing of the Minister and subject to such terms and conditions as the Minister may determine, including (as appropriate) the method of cutting, extraction, and restoration.
     
-    (2) The trees or bush on any recreation reserve, or government purpose reserve, or local purpose reserve shall not be cut or destroyed, except in accordance with a permit granted under [section 48A][66] or unless the administering body of the reserve is satisfied that the cutting or destruction is necessary for the proper management or maintenance of the reserve, or for the management or preservation of other trees or bush, or in the interests of the safety of persons on or near the reserve or of the safety of property adjoining the reserve, or that the cutting is necessary to harvest trees planted for revenue producing purposes.
+    (2) The trees or bush on any recreation reserve, or government purpose reserve, or local purpose reserve shall not be cut or destroyed, except in accordance with a permit granted under [section 48A][67] or unless the administering body of the reserve is satisfied that the cutting or destruction is necessary for the proper management or maintenance of the reserve, or for the management or preservation of other trees or bush, or in the interests of the safety of persons on or near the reserve or of the safety of property adjoining the reserve, or that the cutting is necessary to harvest trees planted for revenue producing purposes.
     
     (3) Where in the case of any recreation reserve or government purpose reserve or local purpose reserve the administering body is satisfied that the cutting or destruction of trees or bush is necessary for any of the reasons mentioned in subsection (2), the administering body shall not proceed with the cutting or destruction and extraction except in a manner which will have a minimal impact on the reserve and until, as circumstances warrant, provision is made for replacement, planting, or restoration; and the administering body shall not proceed to authorise the cutting or destruction, except subject to conditions as to the method of cutting or destruction and extraction which will have minimal impact on the reserve and, as circumstances warrant, replacement, planting, or restoration; and any other conditions which the administering body considers to be appropriate in the circumstances.
     
@@ -1941,13 +1975,13 @@ Classification and management of reserves
 
 ##### 43 Fencing and maintenance of reserves
     
-*   (1) The Minister may from time to time take such steps as he thinks fit for the fencing and maintenance of any reserve vested in the Crown.
+*   (1) The Minister may from time to time take such steps as he or she thinks fit for the fencing and maintenance of any reserve vested in the Crown.
     
-    (2) Where any fence within the meaning of the [Fencing Act 1978][273] is erected by authority of the Minister on the common boundary of any reserve vested in the Crown and the adjoining land, the occupier of the adjoining land shall be liable, notwithstanding anything to the contrary in that Act, for half of the cost of the erection and maintenance of the fence, and that half cost may be recovered from him in any court of competent jurisdiction by the Commissioner.
+    (2) Where any fence within the meaning of the [Fencing Act 1978][275] is erected by authority of the Minister on the common boundary of any reserve vested in the Crown and the adjoining land, the occupier of the adjoining land shall be liable, notwithstanding anything to the contrary in that Act, for half of the cost of the erection and maintenance of the fence, and that half cost may be recovered from him or her in any court of competent jurisdiction by the Commissioner.
     
     Compare: 1953 No 69 s 59
     
-    Section 43(2): amended, on 1 April 1979, pursuant to [section 28(1)][274] of the Fencing Act 1978 (1978 No 50).
+    Section 43(2): amended, on 1 April 1979, pursuant to [section 28(1)][276] of the Fencing Act 1978 (1978 No 50).
 
 ##### 44 Unauthorised use of reserve
     
@@ -1959,11 +1993,11 @@ Classification and management of reserves
     
     *   (b) in camping grounds set apart under the appropriate provisions of this Act; or
     
-    *   (c) in shelters, huts, cabins, lodges, or similar resting or sleeping accommodation approved by the Minister under [section 45][62]; or
+    *   (c) in shelters, huts, cabins, lodges, or similar resting or sleeping accommodation approved by the Minister under [section 45][63]; or
     
     *   (d) in a government purpose reserve or local purpose reserve, where living or sleeping accommodation is necessary because of the purposes specified in the classification of the reserve; or
     
-    *   (e) in areas defined on management plans prepared under [section 41][57] and for the time being in force; or
+    *   (e) in areas defined on management plans prepared under [section 41][58] and for the time being in force.
     
     *   (f) \[Repealed\]
     
@@ -1973,17 +2007,17 @@ Classification and management of reserves
     
     Section 44(1) proviso paragraph (e): amended, on 23 September 1981, by section 3(6) of the Reserves Amendment Act 1981 (1981 No 30).
     
-    Section 44(1) proviso paragraph (f): repealed, on 1 July 1996, by [section 5(1)][275] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 44(1) proviso paragraph (f): repealed, on 1 July 1996, by [section 5(1)][277] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 45 Erection of shelters, huts, cabins, and lodges
     
 *   The administering body may, with the prior approval of the Minister, erect, or authorise any voluntary organisation or educational institution to erect, shelters, huts, cabins, lodges, and similar resting or sleeping accommodation on any recreation reserve or scenic reserve in order to encourage the public to appreciate and enjoy the benefits of the outdoors and nature, where, because of the isolation, rugged contour, or very large area of the reserve, this type of accommodation is necessary and cannot be provided outside and in close proximity to the reserve. Any approval granted under this section shall be on such terms and conditions as to location, structure, custody, use, and otherwise as the Minister approves.
 
-##### 46 Grant of rights to Maoris
+##### 46 Grant of rights to Maori
     
-*   (1) The Minister may from time to time, by notice in the _Gazette_, grant to Maoris the right to take or kill birds within any scenic reserve which immediately before the reservation or taking thereof was Maori land, provided the taking and killing of the birds would not be in contravention of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act.
+*   (1) The Minister may from time to time, by notice in the _Gazette_, grant to Maori the right to take or kill birds within any scenic reserve which immediately before the reservation or taking thereof was Maori land, provided the taking and killing of the birds would not be in contravention of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act.
     
-    (2) Where any scenic or historic reserve includes any ancestral burial grounds of Maoris, the Minister may, by notice in the _Gazette_, grant the right to bury or inter the remains of deceased Maoris in a place to be specified therein.
+    (2) Where any scenic or historic reserve includes any ancestral burial grounds of Maori, the Minister may, by notice in the _Gazette_, grant the right to bury or inter the remains of deceased Maori in a place to be specified therein.
     
     (3) Any rights so granted may at any time in like manner be withdrawn or varied by the Minister.
     
@@ -1999,7 +2033,7 @@ Classification and management of reserves
     
     (2) Before any reserve or any part of a reserve is set apart as a wilderness area,---
         
-    *   (a) the Minister (in any case where there is no administering body) or the administering body (if there is one) shall give public notice of the proposal in accordance with [section 119][159],---
+    *   (a) the Minister (in any case where there is no administering body) or the administering body (if there is one) shall give public notice of the proposal in accordance with [section 119][160],---
             
         *   (i) stating that a plan of the proposal is available for inspection at a place and at times specified in the notice; and
         
@@ -2007,7 +2041,7 @@ Classification and management of reserves
         
         
     
-    *   (b) the Minister shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    *   (b) the Minister shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (3) No part of a government purpose reserve shall be set apart as a wilderness area without the consent of the Minister appointed under [section 22][31] or [section 36][48] to control and manage that reserve.
     
@@ -2035,17 +2069,17 @@ Classification and management of reserves
     
     (7) Nothing in subsection (4) prevents the doing of anything necessary for any person's protection or because of some emergency involving any person's property.
     
-    Section 47: substituted, on 25 November 1994, by section 3 of the Reserves Amendment Act 1994 (1994 No 110).
+    Section 47: replaced, on 25 November 1994, by section 3 of the Reserves Amendment Act 1994 (1994 No 110).
     
-    Section 47(1): replaced, on 24 May 2013, by [section 9(1)][276] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 47(1): replaced, on 24 May 2013, by [section 9(1)][278] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 47(2)(a): amended, on 24 May 2013, by [section 9(2)][276] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 47(2)(a): amended, on 24 May 2013, by [section 9(2)][278] of the Reserves Amendment Act 2013 (2013 No 17).
     
-    Section 47(2)(a)(ii): amended, on 24 May 2013, by [section 9(3)][276] of the Reserves Amendment Act 2013 (2013 No 17).
+    Section 47(2)(a)(ii): amended, on 24 May 2013, by [section 9(3)][278] of the Reserves Amendment Act 2013 (2013 No 17).
 
 ##### 48 Grants of rights of way and other easements
     
-*   (1) Subject to subsection (2) and to the [Resource Management Act 1991][233], in the case of reserves vested in an administering body, the administering body, with the consent of the Minister and on such conditions as the Minister thinks fit, may grant rights of way and other easements over any part of the reserve for---
+*   (1) Subject to subsection (2) and to the [Resource Management Act 1991][235], in the case of reserves vested in an administering body, the administering body, with the consent of the Minister and on such conditions as the Minister thinks fit, may grant rights of way and other easements over any part of the reserve for---
         
     *   (a) any public purpose; or
     
@@ -2053,13 +2087,13 @@ Classification and management of reserves
     
     *   (c) the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
     
-    *   (d) an electrical installation or work, as defined in [section 2][277] of the Electricity Act 1992; or
+    *   (d) an electrical installation or work, as defined in [section 2][279] of the Electricity Act 1992; or
     
     *   (e) the provision of water systems; or
     
     *   (f) providing or facilitating access or the supply of water to or the drainage of any other land not forming part of the reserve or for any other purpose connected with any such land.
     
-    (2) Before granting a right of way or an easement under subsection (1) over any part of a reserve vested in it, the administering body shall give public notice in accordance with [section 119][159] specifying the right of way or other easement intended to be granted, and shall give full consideration, in accordance with [section 120][160], to all objections and submissions received in respect of the proposal under that section.
+    (2) Before granting a right of way or an easement under subsection (1) over any part of a reserve vested in it, the administering body shall give public notice in accordance with [section 119][160] specifying the right of way or other easement intended to be granted, and shall give full consideration, in accordance with [section 120][161], to all objections and submissions received in respect of the proposal under that section.
     
     (3) Subsection (2) shall not apply in any case where---
         
@@ -2071,13 +2105,13 @@ Classification and management of reserves
     
     (4) The District Land Registrar for the land registration district in which is situated any reserve in respect of which any right or easement has been granted under this section shall, on the application of the administering body, register the instrument granting the right or easement against any certificate of title that may have been issued for the reserve, and, if the reserve is held on registered lease or licence, any such instrument may be registered in the same way as any dealing with the lease or licence.
     
-    (5) Where no certificate of title has been issued for any reserve over which a right or easement has been granted under this section, the instrument granting the right or easement may be registered with the District Land Registrar in the same manner and with any necessary modifications as any lease or licence of Crown land may be registered under the [Land Act 1948][177].
+    (5) Where no certificate of title has been issued for any reserve over which a right or easement has been granted under this section, the instrument granting the right or easement may be registered with the District Land Registrar in the same manner and with any necessary modifications as any lease or licence of Crown land may be registered under the [Land Act 1948][178].
     
     (6) Rights of way and other easements may be granted under this section to any person, including, notwithstanding any rule of law to the contrary, the administering body in which the reserve is vested, and, where the right of way or other easement is granted to the administering body, covenants and agreements in respect of any such transaction may be entered into by the administering body in the one capacity so as to bind or benefit the administering body in the other capacity as fully and effectually as if the administering body were a separate person in each capacity.
     
-    Section 48: substituted, on 1 July 1996, by [section 6(1)][278] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 48: replaced, on 1 July 1996, by [section 6(1)][280] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 48(1)(c): amended, on 1 October 2008, by [section 17][279] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 48(1)(c): amended, on 1 October 2008, by [section 17][281] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 48A Use of reserve for communications station
     
@@ -2087,7 +2121,7 @@ Classification and management of reserves
     
     *   (b) to construct, maintain, and use tracks and engage in other works---
     
-    comprising or in connection with and for the purposes of any station for the transmission, emission, or reception of any form of radio, electric, or electronic communication on any reserve or part of a reserve that is not set apart as a wilderness area under [section 47][64].
+    comprising or in connection with and for the purposes of any station for the transmission, emission, or reception of any form of radio, electric, or electronic communication on any reserve or part of a reserve that is not set apart as a wilderness area under [section 47][65].
     
     (2) No licence shall be granted under subsection (1) unless the administering body is satisfied---
         
@@ -2097,7 +2131,7 @@ Classification and management of reserves
     
     (3) Every licence issued under subsection (1) shall be subject to such terms and conditions as to duration, design, materials, situation, use, rental, inspection, maintenance, and public access, or otherwise, as the administering body determines with the approval of the Minister.
     
-    (4) Except as provided in subsection (5), where the granting of any licence under subsection (1) is not in conformity with and contemplated by a management plan approved for the reserve, the administering body shall give public notice in accordance with [section 119][159] of the proposal to grant a licence, and shall give full consideration, in accordance with [section 120][160], to all objections and submissions received in respect of the proposal under that section.
+    (4) Except as provided in subsection (5), where the granting of any licence under subsection (1) is not in conformity with and contemplated by a management plan approved for the reserve, the administering body shall give public notice in accordance with [section 119][160] of the proposal to grant a licence, and shall give full consideration, in accordance with [section 120][161], to all objections and submissions received in respect of the proposal under that section.
     
     (5) Subsection (4) shall not apply in any case where---
         
@@ -2109,13 +2143,13 @@ Classification and management of reserves
     
     (6) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 48A: substituted, on 1 July 1996, by [section 6(1)][278] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 48A: replaced, on 1 July 1996, by [section 6(1)][280] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 49 Taking of specimens
     
-*   The Minister may from time to time, by writing under his hand, and subject to such conditions as he may impose in that behalf, grant any qualified person who in the Minister's opinion has the necessary credentials a right to take specified specimens of flora or fauna or rock mineral or soil from a reserve for scientific or educational purposes, provided the taking of such specimens does not unduly deplete the number of any species, damage ecological associations, or damage the values of the reserve:
+*   The Minister may from time to time, by writing under his or her hand, and subject to such conditions as he or she may impose in that behalf, grant any qualified person who in the Minister's opinion has the necessary credentials a right to take specified specimens of flora or fauna or rock mineral or soil from a reserve for scientific or educational purposes, provided the taking of such specimens does not unduly deplete the number of any species, damage ecological associations, or damage the values of the reserve:
     
-    provided that nothing in this section shall authorise the doing of anything with respect to fauna that would contravene anything in the [Wildlife Act 1953][253] or in any regulations or Proclamation or notification under that Act.
+    provided that nothing in this section shall authorise the doing of anything with respect to fauna that would contravene anything in the [Wildlife Act 1953][255] or in any regulations or Proclamation or notification under that Act.
 
 ##### 50 Taking or killing of fauna
     
@@ -2125,11 +2159,11 @@ Classification and management of reserves
     
     (2) Any authorisation under subsection (1), and any authorisation in any case where the administering body has decided that all or any part of a recreation reserve or government purpose reserve for wildlife management purposes may be used pursuant to bylaws made under this Act for the hunting or killing of game or the catching of acclimatised fish, shall be in writing.
     
-    (3) Subsections (1) and (2) shall apply only where the taking and killing of fauna would not be in contravention of [Part 5B][280] of the Conservation Act 1987, or of the [Wildlife Act 1953][253], or of any regulations or Proclamation or notification under those Acts.
+    (3) Subsections (1) and (2) shall apply only where the taking and killing of fauna would not be in contravention of [Part 5B][282] of the Conservation Act 1987, or of the [Wildlife Act 1953][255], or of any regulations or Proclamation or notification under those Acts.
     
     Compare: 1953 No 69 s 61
     
-    Section 50(3): amended, on 13 March 1996, by [section 7][281] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 50(3): amended, on 13 March 1996, by [section 7][283] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 51 Introduction of flora and fauna
     
@@ -2141,7 +2175,7 @@ Classification and management of reserves
     
     *   (c) developing a scenic reserve of a type specified in [section 19(1)(b)][28],---
     
-    the Minister may from time to time, by writing under his hand, authorise the administering body to introduce indigenous flora or fauna into the reserve, and also, in the case of a scientific reserve or of a scenic reserve to which [section 19(1)(b)][28] applies, to introduce exotic flora into the reserve. Any such authorisation may be subject to such conditions as the Minister may impose on that behalf.
+    the Minister may from time to time, by writing under his or her hand, authorise the administering body to introduce indigenous flora or fauna into the reserve, and also, in the case of a scientific reserve or of a scenic reserve to which [section 19(1)(b)][28] applies, to introduce exotic flora into the reserve. Any such authorisation may be subject to such conditions as the Minister may impose on that behalf.
     
     (2) Before granting any authorisation under this section, the Minister shall have due regard to the principles set out in [sections 18][27], [19][28], [20][29], and [21][30], as the case may require, and shall also have regard to the possible effects of such introduction on other flora and fauna already within the reserve.
 
@@ -2173,23 +2207,23 @@ Classification and management of reserves
 
 ##### 52 Union of reserves
     
-*   (1) The Minister may, in the case of reserves of the same classification, by notice in the _Gazette_, declare that any 2 or more reserves, or parts of 2 or more reserves, or parts of 1 or more reserves and the whole of 1 or more other reserves, shall, as from a date to be specified in that behalf in the notice, be united to form 1 reserve, with such name as he thinks fit:
+*   (1) The Minister may, in the case of reserves of the same classification, by notice in the _Gazette_, declare that any 2 or more reserves, or parts of 2 or more reserves, or parts of 1 or more reserves and the whole of 1 or more other reserves, shall, as from a date to be specified in that behalf in the notice, be united to form 1 reserve, with such name as he or she thinks fit:
     
     provided that where there is an administering body or bodies of 1 or more of those reserves, the consent of the administering body or bodies shall first be obtained.
     
-    (1A) Before the Minister gives notice in the _Gazette_ under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][244] or [30][245] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+    (1A) Before the Minister gives notice in the _Gazette_ under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][246] or [30][247] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
     
     (2) Where 2 or more reserves, or parts of 2 or more reserves, or parts of 1 or more reserves and the whole of 1 or more other reserves, have been so declared to be united as 1 reserve, the Minister may appoint an administering body to control the reserve, and thereupon the previous administering body or bodies (if any) shall cease to hold office as such, and the new administering body shall have in respect of the united reserve all the rights and liabilities of the several former administering bodies of the several reserves.
     
     Compare: 1953 No 69 ss 46, 48; 1970 No 101 s 2(2)
     
-    Section 52(1A): inserted, on 1 November 2008, by [section 38][249] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 52(1A): inserted, on 1 November 2008, by [section 38][251] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
 
 #### Particular powers of Minister and administering body
 
 ##### 53 Powers (other than leasing) in respect of recreation reserves
     
-*   (1) The administering body of a recreation reserve may from time to time, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 17][26],---
+*   (1) The administering body of a recreation reserve may from time to time, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 17][26],---
         
     *   (a) enclose the reserve, or any part thereof, which it may at any time decide is necessary or desirable---
             
@@ -2199,7 +2233,7 @@ Classification and management of reserves
         
         and may lay down or renew in grass, or plant or improve, or, as the case may be, farm or graze or afforest, the reserve or that part:
         
-        provided that the administering body shall not afforest the reserve or any part thereof except in accordance with [section 75][101]:
+        provided that the administering body shall not afforest the reserve or any part thereof except in accordance with [section 75][102]:
     
     *   (b) prohibit from time to time the public from entering or encroaching on any part of the reserve so laid down, renewed in grass, planted, improved, grazed, farmed, or afforested:
     
@@ -2209,15 +2243,15 @@ Classification and management of reserves
         
         provided that with the prior consent of the Minister the number of days that the public shall not be entitled to have admission as aforesaid may be increased:
         
-        provided also that this paragraph shall not apply to any part of the reserve to which paragraph (h) applies or to any lease granted under the authority of [section 54(1)(a)][74] or a lease or licence granted under the authority of section 54(1)(d):
+        provided also that this paragraph shall not apply to any part of the reserve to which paragraph (h) applies or to any lease granted under the authority of [section 54(1)(a)][75] or a lease or licence granted under the authority of section 54(1)(d):
     
     *   (e) grant the exclusive use of the reserve or any part thereof on any 1 or more of the days provided for in paragraph (d), but not for more than 6 days consecutively at any time, to any person, body, voluntary organisation, or society (whether incorporated or not) for the purpose of particular games, sports, or other activities or for public recreation or enjoyment, with authority for that person, body, organisation, or society to demand a fee or charge for admission on that day or those days to the reserve or part thereof so granted and also to any stand or enclosure, not exceeding the amount or amounts from time to time specified by the Minister:
         
-        provided that the Minister may from time to time approve with respect to any specified reserve the fixing of such other charges as he thinks fit, either generally or with respect to specified occasions:
+        provided that the Minister may from time to time approve with respect to any specified reserve the fixing of such other charges as he or she thinks fit, either generally or with respect to specified occasions:
         
         provided also that the Minister may consent to an increase in the number of consecutive days specified in this paragraph for the purposes of any specified occasion or event:
     
-    *   (f) enter into an agreement with any such person, body, society, or voluntary organisation for the use by him or it of the reserve or any specified part thereof on a specified number of days in each year during the term of the agreement, which (save as otherwise authorised by the Minister in any particular case) shall not be for a longer period than 10 years at any one time, subject to---
+    *   (f) enter into an agreement with any such person, body, society, or voluntary organisation for the use by him or her or it of the reserve or any specified part thereof on a specified number of days in each year during the term of the agreement, which (save as otherwise authorised by the Minister in any particular case) shall not be for a longer period than 10 years at any one time, subject to---
             
         *   (i) the limitations imposed by paragraphs (d) and (e); and
         
@@ -2241,9 +2275,9 @@ Classification and management of reserves
     
     *   (i) make, stop, divert, widen, or alter any bridges, ways, or watercourses in, upon, through, across, or over any part of the reserve, subject to the payment of compensation for damage thereby to adjacent land:
         
-        provided that any such power in relation to watercourses shall be exercised subject to the [Resource Management Act 1991][233]:
+        provided that any such power in relation to watercourses shall be exercised subject to the [Resource Management Act 1991][235]:
     
-    *   (j) with the prior consent of the Minister and subject to the [Resource Management Act 1991][233], and having regard to the need to conserve the natural beauty of any sea, lake, river, or stream bounding the reserve or of any lake, river, or stream within the reserve, do all such things on the reserve as it considers necessary, including the erection of buildings and structures on the reserve, to enable the public to obtain the maximum recreational use and enjoyment of that sea, lake, river, or stream:
+    *   (j) with the prior consent of the Minister and subject to the [Resource Management Act 1991][235], and having regard to the need to conserve the natural beauty of any sea, lake, river, or stream bounding the reserve or of any lake, river, or stream within the reserve, do all such things on the reserve as it considers necessary, including the erection of buildings and structures on the reserve, to enable the public to obtain the maximum recreational use and enjoyment of that sea, lake, river, or stream:
     
     *   (k) with the prior consent of the Minister, set apart and use any part of the reserve as sites for residences for officers or servants of the administering body or of rangers or for other buildings considered desirable or necessary for the proper and beneficial management, administration, control, protection, and maintenance of the reserve:
     
@@ -2251,39 +2285,39 @@ Classification and management of reserves
     
     *   (m) with the prior consent of the Minister, erect or authorise the erection of huts for the use of officers of any department of State or other persons engaged under lawful authority in the destruction or eradication of introduced flora and fauna:
     
-    *   (n) subject to any lease or licence granted pursuant to [section 54(1)(d)][74], prohibit or regulate the carrying on of any trade, business, or occupation within the reserve:
+    *   (n) subject to any lease or licence granted pursuant to [section 54(1)(d)][75], prohibit or regulate the carrying on of any trade, business, or occupation within the reserve:
     
     *   (o) do such other things as may be considered desirable or necessary for the proper and beneficial management, administration, and control of the reserve.
     
     (2) Notwithstanding anything in subsection (1), but subject to the first proviso to paragraph (d) of that subsection and to the second proviso to paragraph (e) of that subsection, where the administering body is a local authority it shall not be necessary for that administering body to obtain the consent, authority, or approval of the Minister, and it may exercise any power or discretion vested in the Minister by virtue of that subsection:
     
-    provided that the administering body shall not afforest the reserve or any part thereof except in accordance with [section 75][101].
+    provided that the administering body shall not afforest the reserve or any part thereof except in accordance with [section 75][102].
     
     Compare: 1953 No 69 ss 32, 49; 1964 No 108 s 2(1), (3)
     
-    Section 53(1)(i) proviso: substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 53(1)(i) proviso: replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 53(1)(j): amended, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 53(1)(j): amended, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 54 Leasing powers in respect of recreation reserves (except farming, grazing, or afforestation leases)
     
-*   (1) With the prior consent of the Minister, the administering body, in the case of a recreation reserve that is vested in the administering body, may from time to time, in the exercise of its functions under [section 40][54], may from time to time, to the extent necessary to give effect to the principles set out in [section 17][26],---
+*   (1) With the prior consent of the Minister, the administering body, in the case of a recreation reserve that is vested in the administering body, may from time to time, in the exercise of its functions under [section 40][55], to the extent necessary to give effect to the principles set out in [section 17][26],---
         
-    *   (a) lease to any person, body, voluntary organisation, or society (whether incorporated or not) any area set apart under [section 53(1)(h)][73] for baths, a camping ground, a parking or mooring place, or other facilities for public recreation or enjoyment. The lease---
+    *   (a) lease to any person, body, voluntary organisation, or society (whether incorporated or not) any area set apart under [section 53(1)(h)][74] for baths, a camping ground, a parking or mooring place, or other facilities for public recreation or enjoyment. The lease---
             
         *   (i) may require the lessee to construct, develop, control, and manage the baths, camping ground, parking or mooring place, or other facilities for public recreation or enjoyment, or may require the lessee to control and manage those provided by the administering body; and
         
-        *   (ii) shall be subject to the further provisions set out in [Schedule 1][167] relating to leases of recreation reserves issued pursuant to this paragraph:
+        *   (ii) shall be subject to the further provisions set out in [Schedule 1][168] relating to leases of recreation reserves issued pursuant to this paragraph:
         
         
     
-    *   (b) lease to any voluntary organisation part of the reserve for the erection of stands, pavilions, gymnasiums, and, subject to [sections 44][61] and [45][62], other buildings and structures associated with and necessary for the use of the reserve for outdoor sports, games, or other recreational activities, or lease to any voluntary organisation any such stands, pavilions, gymnasiums, and, subject to section 44, other buildings or structures already on the reserve, which lease shall be subject to the further provisions set out in [Schedule 1][167] relating to leases of recreation reserves issued pursuant to this paragraph:
+    *   (b) lease to any voluntary organisation part of the reserve for the erection of stands, pavilions, gymnasiums, and, subject to [sections 44][62] and [45][63], other buildings and structures associated with and necessary for the use of the reserve for outdoor sports, games, or other recreational activities, or lease to any voluntary organisation any such stands, pavilions, gymnasiums, and, subject to section 44, other buildings or structures already on the reserve, which lease shall be subject to the further provisions set out in [Schedule 1][168] relating to leases of recreation reserves issued pursuant to this paragraph:
         
-        provided that a lease granted by the administering body may, with the prior consent of the Minister given on the ground that he considers it to be in the public interest, permit the erection of buildings and structures for sports, games, or public recreation not directly associated with outdoor recreation:
+        provided that a lease granted by the administering body may, with the prior consent of the Minister given on the ground that he or she considers it to be in the public interest, permit the erection of buildings and structures for sports, games, or public recreation not directly associated with outdoor recreation:
     
-    *   (c) lease to any voluntary organisation the whole or part of the reserve for the playing of any outdoor sport, games, or other recreational activity where the preparation and maintenance of the area for such sport, games, or other recreational activity requires the voluntary organisation to spend a sum of money that in the opinion of the administering body is substantial. The lease shall be subject to the further provisions set out in [Schedule 1][167] relating to leases of recreation reserves issued pursuant to this paragraph:
+    *   (c) lease to any voluntary organisation the whole or part of the reserve for the playing of any outdoor sport, games, or other recreational activity where the preparation and maintenance of the area for such sport, games, or other recreational activity requires the voluntary organisation to spend a sum of money that in the opinion of the administering body is substantial. The lease shall be subject to the further provisions set out in [Schedule 1][168] relating to leases of recreation reserves issued pursuant to this paragraph:
     
-    *   (d) grant leases or licences for the carrying on of any trade, business, or occupation on any specified site within the reserve, subject to the provisions set out in [Schedule 1][167] relating to leases or licences of recreation reserves issued pursuant to this paragraph:
+    *   (d) grant leases or licences for the carrying on of any trade, business, or occupation on any specified site within the reserve, subject to the provisions set out in [Schedule 1][168] relating to leases or licences of recreation reserves issued pursuant to this paragraph:
         
         provided that the trade, business, or occupation must be necessary to enable the public to obtain the benefit and enjoyment of the reserve or for the convenience of persons using the reserve:
         
@@ -2295,51 +2329,51 @@ Classification and management of reserves
     
     *   (b) that reserve is vested in that territorial authority or regional council; and
     
-    *   (c) a management plan for that reserve has been approved in accordance with [section 41][57]; and
+    *   (c) a management plan for that reserve has been approved in accordance with [section 41][58]; and
     
     *   (d) the lease or licence is in conformity with and contemplated by that management plan,
     
     the prior consent of the Minister shall not be required before the administering body grants a lease or licence under subsection (1).
     
-    (2) Before granting any lease or licence under subsection (1) (other than a lease or licence to which the second proviso to paragraph (d) applies), the administering body shall give public notice in accordance with [section 119][159] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    (2) Before granting any lease or licence under subsection (1) (other than a lease or licence to which the second proviso to paragraph (d) applies), the administering body shall give public notice in accordance with [section 119][160] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (2A) Nothing in subsection (2) shall apply in any case where the proposal---
         
     *   (a) is in conformity with and contemplated by the approved management plan for the reserve; or
     
-    *   (b) is made following the granting of a resource consent under the [Resource Management Act 1991][233] where the application for the resource consent was notified in accordance with [section 93(2)][282] of that Act.
+    *   (b) is made following the granting of a resource consent under the [Resource Management Act 1991][235] where the application for the resource consent was notified in accordance with [section 93(2)][284] of that Act.
     
     (3) \[Repealed\]
     
     Compare: 1953 No 69 s 27(2)--(9)
     
-    Section 54(1): amended, on 1 July 1996, by [section 8(1)(a)][283] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 54(1): amended, on 1 July 1996, by [section 8(1)(a)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 54(1)(b) proviso: amended, on 1 July 1996, by [section 8(1)(b)][283] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 54(1)(b) proviso: amended, on 1 July 1996, by [section 8(1)(b)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 54(1)(c): amended, on 1 July 1996, by [section 8(1)(c)][283] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 54(1)(c): amended, on 1 July 1996, by [section 8(1)(c)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 54(1A): inserted, on 1 January 1980, by section 17 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 54(1A)(a): substituted, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 54(1A)(a): replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 54(1A)(b): substituted, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 54(1A)(b): replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 54(2): amended, on 1 July 1996, by [section 8(1)(c)][283] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 54(2): amended, on 1 July 1996, by [section 8(1)(c)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 54(2A): inserted, on 1 January 1980, by section 18(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 54(2A)(a): amended, on 1 July 1996, by [section 8(1)(d)][283] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 54(2A)(a): amended, on 1 July 1996, by [section 8(1)(d)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 54(2A)(b): substituted, on 23 July 1993, by section 2 of the Reserves Amendment Act (No 3) 1993 (1993 No 75).
+    Section 54(2A)(b): replaced, on 23 July 1993, by section 2 of the Reserves Amendment Act (No 3) 1993 (1993 No 75).
     
-    Section 54(2A)(b): amended, on 1 August 2003, by [section 99][284] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 54(2A)(b): amended, on 1 August 2003, by [section 99][286] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 54(3): repealed, on 1 January 1980, by section 20(2) of the Reserves Amendment Act 1979 (1979 No 63).
 
 ##### 55 Powers (other than leasing) in respect of scenic reserves
     
-*   (1) The administering body of a scenic reserve may from time to time, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 19][28],---
+*   (1) The administering body of a scenic reserve may from time to time, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 19][28],---
         
     *   (a) enclose the reserve or any part or parts thereof which the administering body may at any time decide is necessary or desirable to improve or allow to regenerate, and may improve the reserve or that part or those parts, or, as the case may be, allow the reserve or that part or those parts to regenerate:
         
@@ -2347,11 +2381,11 @@ Classification and management of reserves
     
     *   (b) prohibit the public from entering or encroaching on any part of the reserve so improved or being allowed to regenerate:
     
-    *   (c) subject to [section 42][59], lay out and construct footpaths and driveways necessary for the management of the reserve or to enable the public to use and enjoy the reserve:
+    *   (c) subject to [section 42][60], lay out and construct footpaths and driveways necessary for the management of the reserve or to enable the public to use and enjoy the reserve:
     
     *   (d) make, stop, divert, widen, or alter any bridges, ways, or watercourses in, upon, through, across, or over any part of the reserve, subject to the payment of compensation for damage thereby to adjacent lands:
         
-        provided that any such power in relation to watercourses shall be exercised subject to the [Resource Management Act 1991][233]:
+        provided that any such power in relation to watercourses shall be exercised subject to the [Resource Management Act 1991][235]:
         
         provided also that the exercise of any such power shall not alter or impair the natural water table or any stands of indigenous swamp vegetation or other indigenous vegetation:
     
@@ -2359,61 +2393,61 @@ Classification and management of reserves
     
     *   (f) do such other things as may be considered desirable or necessary for the proper and beneficial management, administration, and control of the reserve.
     
-    (2) The administering body of a scenic reserve, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 19][28], may also from time to time on the open portions of the reserve---
+    (2) The administering body of a scenic reserve, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 19][28], may also from time to time on the open portions of the reserve---
         
     *   (a) with the prior consent of the Minister and having regard to the conservation of natural vegetation and features, enclose any open parts of the reserve which the administering body may at any time decide is necessary or desirable to lay down or renew in grass or graze:
     
     *   (b) prohibit the public from entering or encroaching on any part so laid down, renewed, or grazed:
     
-    *   (c) subject to any lease or licence granted pursuant to [section 56(1)(b)][76], prohibit or regulate the carrying on of any trade, business, or occupation within the reserve:
+    *   (c) subject to any lease or licence granted pursuant to [section 56(1)(b)][77], prohibit or regulate the carrying on of any trade, business, or occupation within the reserve:
     
     *   (d) with the prior consent of the Minister and having regard to the conservation of natural vegetation and features, set apart any areas for gardens, baths, picnic grounds, camping grounds, parking places for vehicles, or mooring places for boats necessary for the convenience of the public using the reserve or for facilities and amenities necessary for the public using the reserve; and construct or develop such gardens, baths, picnic grounds, camping grounds, parking or mooring places, or other facilities and amenities; and fix reasonable charges for the use of such baths, picnic grounds, camping grounds, parking or mooring places, facilities, and amenities:
     
     *   (e) with the prior consent of the Minister, erect buildings and other structures on such terms as to plans, size, structure, situation, and otherwise in all respects as the administering body determines:
     
-    *   (f) with the prior consent of the Minister, and subject to the [Resource Management Act 1991][233], and having regard to the need to conserve the natural beauty of any sea, lake, river, or stream bounding the reserve, or of any lake, river, or stream within the reserve, do all such things as it considers necessary, including the erection of buildings and structures for public use, to enable the public to obtain the benefit and enjoyment of that sea, lake, river, or stream:
+    *   (f) with the prior consent of the Minister, and subject to the [Resource Management Act 1991][235], and having regard to the need to conserve the natural beauty of any sea, lake, river, or stream bounding the reserve, or of any lake, river, or stream within the reserve, do all such things as it considers necessary, including the erection of buildings and structures for public use, to enable the public to obtain the benefit and enjoyment of that sea, lake, river, or stream:
     
     *   (g) with the prior consent of the Minister, set apart and use any part of the reserve as sites for residences for officers or servants of the administering body or for rangers, and for other buildings and structures necessary for the proper and beneficial management, administration, and control of the reserve, and for the protection, maintenance, and well-being of the reserve.
     
-    (3) The Minister shall not give his consent under any provision of paragraphs (d) to (g) of subsection (2), unless he is satisfied that the facilities or amenities or buildings or structures referred to in that provision are necessary for the purposes specified in the relevant paragraph and cannot readily be provided outside and in close proximity to the reserve.
+    (3) The Minister shall not give his or her consent under any provision of paragraphs (d) to (g) of subsection (2), unless he or she is satisfied that the facilities or amenities or buildings or structures referred to in that provision are necessary for the purposes specified in the relevant paragraph and cannot readily be provided outside and in close proximity to the reserve.
     
     Compare: 1953 No 69 ss 61A, 61B, 61C; 1956 No 35 s 14; 1958 No 90 ss 2, 3; 1968 No 126 s 4
     
-    Section 55(1)(d) first proviso: substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 55(1)(d) first proviso: replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 55(2)(f): amended, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 55(2)(f): amended, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 56 Leasing powers in respect of scenic reserves
     
-*   (1) With the prior consent of the Minister, the administering body, in the case of a scenic reserve that is vested in the administering body, may from time to time, in the exercise of its functions under [section 40][54], may from time to time, to the extent necessary to give effect to the principles set out in [section 19][28],---
+*   (1) With the prior consent of the Minister, the administering body, in the case of a scenic reserve that is vested in the administering body, may from time to time, in the exercise of its functions under [section 40][55], to the extent necessary to give effect to the principles set out in [section 19][28],---
         
-    *   (a) lease to any person, body, voluntary organisation, or society (whether incorporated or not) any area set apart under [section 55(2)(d)][75] for baths, a picnic ground, a camping ground, a parking or mooring place, or other facilities or amenities for public recreation and enjoyment. The lease shall be subject to the further provisions set out in [Schedule 1][167] relating to leases of scenic reserves:
+    *   (a) lease to any person, body, voluntary organisation, or society (whether incorporated or not) any area set apart under [section 55(2)(d)][76] for baths, a picnic ground, a camping ground, a parking or mooring place, or other facilities or amenities for public recreation and enjoyment. The lease shall be subject to the further provisions set out in [Schedule 1][168] relating to leases of scenic reserves:
     
-    *   (b) grant leases or licences for the carrying on of any trade, business, or occupation on any specified site within the reserve, subject in the case of any such lease or licence to the provisions set out in [Schedule 1][167] relating to scenic reserves:
+    *   (b) grant leases or licences for the carrying on of any trade, business, or occupation on any specified site within the reserve, subject in the case of any such lease or licence to the provisions set out in [Schedule 1][168] relating to scenic reserves:
         
         provided that the trade, business, or occupation must be necessary to enable the public to obtain the benefit and enjoyment of the reserve or for the convenience of persons using the reserve:
         
         provided also that the prior consent of the Minister shall not be required to a lease or licence under this paragraph where the trade, business, or occupation is to be carried on in the reserve only temporarily and the term of the lease or licence does not exceed 6 consecutive days.
     
-    (2) Before granting any lease or licence under subsection (1) (other than a lease or licence to which the second proviso to paragraph (b) applies), the administering body shall give public notice in accordance with [section 119][159] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    (2) Before granting any lease or licence under subsection (1) (other than a lease or licence to which the second proviso to paragraph (b) applies), the administering body shall give public notice in accordance with [section 119][160] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (3) Nothing in subsection (2) shall apply in any case where the proposal---
         
     *   (a) is in conformity with and contemplated by the approved management plan for the reserve; or
     
-    *   (b) is made following the granting of any appropriate resource consent in accordance with [Part 6][258] of the Resource Management Act 1991\.
+    *   (b) is made following the granting of any appropriate resource consent in accordance with [Part 6][260] of the Resource Management Act 1991\.
     
     Compare: 1953 No 69 s 27(10A); 1956 No 35 s 9
     
-    Section 56(1): amended, on 1 July 1996, by [section 9(1)(a)][285] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 56(1): amended, on 1 July 1996, by [section 9(1)(a)][287] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 56(2): amended, on 1 July 1996, by [section 9(1)(b)][285] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 56(2): amended, on 1 July 1996, by [section 9(1)(b)][287] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 56(3): inserted, on 1 January 1980, by section 18(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 56(3)(a): amended, on 1 July 1996, by [section 9(1)(c)][285] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 56(3)(a): amended, on 1 July 1996, by [section 9(1)(c)][287] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 56(3)(b): substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 56(3)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 57 Powers in respect of nature reserves
     
@@ -2421,9 +2455,9 @@ Classification and management of reserves
     
     (2) The Minister or the administering body of any nature reserve authorised by the Minister may, by notice in the _Gazette_, declare that access to all or part of any nature reserve in the North Island, South Island, Stewart Island, or Chatham Island (but not any other island of the Chatham group) is permitted without a permit during such times or periods as are specified in the notice, and subject to any other conditions that are specified in the notice.
     
-    (3) The Minister or the administering body of any nature reserve authorised by the Minister may, where he considers it necessary for the purposes specified in [section 20(1)][29], by notice in the _Gazette_, prohibit the anchoring or mooring of boats within a specified area not more than half a nautical mile of the shore of any island that is wholly or principally a nature reserve, otherwise than in accordance with a permit granted under subsection (7).
+    (3) The Minister or the administering body of any nature reserve authorised by the Minister may, where he or she considers it necessary for the purposes specified in [section 20(1)][29], by notice in the _Gazette_, prohibit the anchoring or mooring of boats within a specified area not more than half a nautical mile of the shore of any island that is wholly or principally a nature reserve, otherwise than in accordance with a permit granted under subsection (7).
     
-    (4) No notice given under subsection (3) shall specify any area that is within a marine reserve constituted under the [Marine Reserves Act 1971][286].
+    (4) No notice given under subsection (3) shall specify any area that is within a marine reserve constituted under the [Marine Reserves Act 1971][288].
     
     (5) The Minister or the administering body, as the case may be, shall not give any notice under subsection (3) without the consent of the Minister of Fisheries given after consultation with an organisation considered by the Minister of Fisheries to be representative of the classes of persons having an interest in the giving of the notice, the consent of the Minister of Transport, and, where the area proposed to be specified in the notice is within the limits of any harbour, the consent of the appropriate harbour board.
     
@@ -2431,9 +2465,9 @@ Classification and management of reserves
     
     (7) Where any notice has been given under subsection (3), the Minister or the administering body, as the case may be, may issue permits allowing any person to anchor or moor a specified vessel or any vessel within any area to which the notice relates subject to any conditions that are specified in the permit.
     
-    (8) Where the giving of any notice under subsection (2) or subsection (3) is not in conformity with and contemplated by the approved conservation management strategy, conservation management plan, or management plan for the reserve, the Minister or the administering body, as the case may be, shall give public notice in accordance with [section 119][159] of the proposal to give the notice, and shall give full consideration to all objections and submissions received pursuant to [section 120][160] in relation to the proposal.
+    (8) Where the giving of any notice under subsection (2) or subsection (3) is not in conformity with and contemplated by the approved conservation management strategy, conservation management plan, or management plan for the reserve, the Minister or the administering body, as the case may be, shall give public notice in accordance with [section 119][160] of the proposal to give the notice, and shall give full consideration to all objections and submissions received pursuant to [section 120][161] in relation to the proposal.
     
-    (9) The administering body of a nature reserve may from time to time, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 20][29],---
+    (9) The administering body of a nature reserve may from time to time, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 20][29],---
         
     *   (a) subject to subsection (10), set apart and use any part or parts of the reserve as sites for residences for officers or servants of the administering body or for rangers, and for other buildings and structures necessary for the proper and beneficial management, administration, and control of the reserve and for the protection, preservation, and well-being of the indigenous flora and fauna and other features in the reserve:
     
@@ -2443,21 +2477,21 @@ Classification and management of reserves
     
     (10) The powers conferred on administering bodies by paragraph (a) of subsection (9) shall not be exercised without the consent of the Minister, which shall not be given unless the Minister is satisfied that the residences, buildings, or structures are necessary for the purposes specified in that paragraph, and cannot readily be provided outside and in close proximity to the reserve.
     
-    Section 57: substituted, on 27 December 1983, by section 6(1) of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 57: replaced, on 27 December 1983, by section 6(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 57(5): amended, on 1 October 2002, by [section 5(3)][287] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+    Section 57(5): amended, on 1 October 2002, by [section 5(3)][289] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
     
-    Section 57(8): amended, on 10 April 1990, by [section 100][288] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(8): amended, on 10 April 1990, by [section 100][290] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 58 Powers in respect of historic reserves
     
-*   The administering body of an historic reserve may from time to time, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 18][27],---
+*   The administering body of an historic reserve may from time to time, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 18][27],---
         
     *   (a) appoint officers, servants, and rangers, whether paid or unpaid:
     
     *   (b) with the prior consent of the Minister, set apart and use part of the reserve as sites for residences for officers or servants of the administering body or for rangers, and for other buildings necessary for the proper and beneficial management, protection, and maintenance of the reserve, and for the provision of displays and information for visitors to the reserve:
         
-        provided that the Minister shall not give his consent under this paragraph, unless he is satisfied that the residences or buildings are necessary for the purposes specified in this paragraph and cannot readily be provided outside and in close proximity to the reserve:
+        provided that the Minister shall not give his or her consent under this paragraph, unless he or she is satisfied that the residences or buildings are necessary for the purposes specified in this paragraph and cannot readily be provided outside and in close proximity to the reserve:
     
     *   (c) charge such fees for admission to the whole or any part of the reserve, and for the use of amenities and facilities thereon, as the Minister approves:
     
@@ -2467,15 +2501,15 @@ Classification and management of reserves
 
 ##### 58A Leasing powers in respect of historic reserves
     
-*   (1) The administering body with the prior consent of the Minister and in the exercise of its functions under [section 40][54] (in the case of an historic reserve that is vested in an administering body) may from time to time grant leases or licences to any person, body, voluntary organisation, or society (whether incorporated or not) for domestic residential purposes or for the carrying on of any activity, trade, business, or occupation in any building or on any specified site within the reserve and grant leases of any such building or site for any such purpose or purposes.
+*   (1) The administering body with the prior consent of the Minister and in the exercise of its functions under [section 40][55] (in the case of an historic reserve that is vested in an administering body) may from time to time grant leases or licences to any person, body, voluntary organisation, or society (whether incorporated or not) for domestic residential purposes or for the carrying on of any activity, trade, business, or occupation in any building or on any specified site within the reserve and grant leases of any such building or site for any such purpose or purposes.
     
-    (2) Before granting any lease or licence under subsection (1), the administering body shall give public notice in accordance with [section 119][159] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    (2) Before granting any lease or licence under subsection (1), the administering body shall give public notice in accordance with [section 119][160] specifying the lease or licence proposed to be granted, and shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (3) Nothing in subsection (2) shall apply in any case where the proposal---
         
     *   (a) is in conformity with and contemplated by the approved management plan for the reserve; or
     
-    *   (b) is made following the granting of any appropriate resource consent granted by the territorial authority or regional council in accordance with [Part 6][258] of the Resource Management Act 1991\.
+    *   (b) is made following the granting of any appropriate resource consent granted by the territorial authority or regional council in accordance with [Part 6][260] of the Resource Management Act 1991\.
     
     (4) A lease granted pursuant to subsection (1) shall be subject to the following conditions:
         
@@ -2485,25 +2519,25 @@ Classification and management of reserves
     
     Section 58A: inserted, on 1 January 1980, by section 19(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 58A(1): substituted, on 27 December 1983, by section 7(1) of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 58A(1): replaced, on 27 December 1983, by section 7(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 58A(1): amended, on 1 July 1996, by [section 10(1)(a)][289] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 58A(1): amended, on 1 July 1996, by [section 10(1)(a)][291] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 58A(2): amended, on 1 July 1996, by [section 10(1)(b)][289] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 58A(2): amended, on 1 July 1996, by [section 10(1)(b)][291] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 58A(2): amended, on 27 December 1983, by section 7(2) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 58A(3)(a): amended, on 1 July 1996, by [section 10(1)(c)][289] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 58A(3)(a): amended, on 1 July 1996, by [section 10(1)(c)][291] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 58A(3)(b): substituted, on 1 October 1991, by [section 362][234] of the Resource Management Act 1991 (1991 No 69).
+    Section 58A(3)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 58A(3)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 58A(3)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 ##### 59 Powers in respect of scientific reserves
     
-*   (1) Where the Minister has issued a notice under [section 21(2)(b)][30] prohibiting entry to a scientific reserve or to any part of such a reserve, he may from time to time authorise the administering body, or the Commissioner where there is no administering body, to issue to any person who in the opinion of the administering body or the Commissioner, as the case may be, has the necessary credentials or qualifications a permit affording access to the reserve or to that part for scientific study or for control and management purposes, upon such terms and conditions as the administering body or the Commissioner, as the case may be, may determine.
+*   (1) Where the Minister has issued a notice under [section 21(2)(b)][30] prohibiting entry to a scientific reserve or to any part of such a reserve, he or she may from time to time authorise the administering body, or the Commissioner where there is no administering body, to issue to any person who in the opinion of the administering body or the Commissioner, as the case may be, has the necessary credentials or qualifications a permit affording access to the reserve or to that part for scientific study or for control and management purposes, upon such terms and conditions as the administering body or the Commissioner, as the case may be, may determine.
     
-    (2) The administering body of a scientific reserve may from time to time, in the exercise of its functions under [section 40][54] and to the extent necessary to give effect to the principles set out in [section 21][30],---
+    (2) The administering body of a scientific reserve may from time to time, in the exercise of its functions under [section 40][55] and to the extent necessary to give effect to the principles set out in [section 21][30],---
         
     *   (a) appoint officers, servants, and rangers, whether paid or unpaid:
     
@@ -2511,9 +2545,9 @@ Classification and management of reserves
         
         provided that the administering body shall not erect any building on the reserve unless it cannot readily be provided outside and in close proximity to the reserve.
     
-    (3) The Minister or the administering body of any scientific reserve authorised by the Minister may, where he considers it necessary for the purposes specified in [section 21(1)][30], by notice in the _Gazette_, prohibit the anchoring or mooring of boats within a specified area not more than half a nautical mile of the shore of any island that is wholly or principally a scientific reserve, otherwise than in accordance with a permit granted under subsection (7).
+    (3) The Minister or the administering body of any scientific reserve authorised by the Minister may, where he or she considers it necessary for the purposes specified in [section 21(1)][30], by notice in the _Gazette_, prohibit the anchoring or mooring of boats within a specified area not more than half a nautical mile of the shore of any island that is wholly or principally a scientific reserve, otherwise than in accordance with a permit granted under subsection (7).
     
-    (4) No notice given under subsection (3) shall specify any area that is within a marine reserve constituted under the [Marine Reserves Act 1971][286].
+    (4) No notice given under subsection (3) shall specify any area that is within a marine reserve constituted under the [Marine Reserves Act 1971][288].
     
     (5) The Minister or the administering body, as the case may be, shall not give any notice under subsection (3) without the consent of the Minister of Fisheries given after consultation with an organisation considered by the Minister of Fisheries to be representative of the classes of persons having an interest in the giving of the notice, the consent of the Minister of Transport, and, where the area proposed to be specified in the notice is within the limits of any harbour, the consent of the appropriate harbour board.
     
@@ -2521,31 +2555,31 @@ Classification and management of reserves
     
     (7) Where any notice has been given under subsection (3), the Minister or the administering body, as the case may be, may issue permits allowing any person to anchor or moor a specified vessel or any vessel within any area to which the notice relates, subject to any conditions that are specified in the permit.
     
-    (8) Where the giving of any notice under subsection (3) is not in conformity with and contemplated by the approved conservation management strategy, conservation management plan, or management plan for the reserve, the Minister or the administering body, as the case may be, shall give public notice in accordance with [section 119][159] of the proposal to give the notice, and shall give full consideration to all objections and submissions received pursuant to [section 120][160] in relation to the proposal.
+    (8) Where the giving of any notice under subsection (3) is not in conformity with and contemplated by the approved conservation management strategy, conservation management plan, or management plan for the reserve, the Minister or the administering body, as the case may be, shall give public notice in accordance with [section 119][160] of the proposal to give the notice, and shall give full consideration to all objections and submissions received pursuant to [section 120][161] in relation to the proposal.
     
-    Section 59(3): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(3): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(4): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(4): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(5): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(5): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(5): amended, on 1 October 2002, by [section 5(3)][287] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+    Section 59(5): amended, on 1 October 2002, by [section 5(3)][289] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
     
-    Section 59(6): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(6): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(7): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(7): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(8): added, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 59(8): inserted, on 27 December 1983, by section 8 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 59(8): amended, on 10 April 1990, by [section 102][290] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 59(8): amended, on 10 April 1990, by [section 102][292] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 59A Granting of concessions on reserves administered by Crown
     
-*   (1) The Minister may, in accordance with [Part 3B][291] of the Conservation Act 1987, grant a concession in respect of any reserve vested in the Crown, including any reserve controlled or managed by an administering body under any of [sections 28][40], [29][41], [30][42], [35][47], and [36][48]; and the said [Part 3B][291] shall apply as if references in that Part to a conservation area were references to such a reserve and with any other necessary modifications.
+*   (1) The Minister may, in accordance with [Part 3B][293] of the Conservation Act 1987, grant a concession in respect of any reserve vested in the Crown, including any reserve controlled or managed by an administering body under any of [sections 28][40], [29][41], [30][42], [35][47], and [36][48]; and the said [Part 3B][293] shall apply as if references in that Part to a conservation area were references to such a reserve and with any other necessary modifications.
     
     (2) The Minister may impose a reasonable charge for the use of any facilities (other than a path or track) provided by the Minister in or in respect of any such reserve.
     
-    (3) In the case of any concession over or in respect of a reserve controlled or managed by an administering body, any reference in the provisions referred to in subsection (1) to any conservation management strategy or conservation management plan shall be read as if it were a reference to a management plan approved under [section 41][57].
+    (3) In the case of any concession over or in respect of a reserve controlled or managed by an administering body, any reference in the provisions referred to in subsection (1) to any conservation management strategy or conservation management plan shall be read as if it were a reference to a management plan approved under [section 41][58].
     
     (4) A concessionaire of any part of any such reserve may, to the extent that the relevant concession document so provides, impose a reasonable charge for the use of any facility (other than a path or track) provided by the Minister in or in respect of any such reserve.
     
@@ -2561,25 +2595,25 @@ Classification and management of reserves
     
     (6) Nothing in this section authorises any person to do anything on or in respect of any private land.
     
-    (7) This section does not apply to any permit granted under [section 57][77] that authorises a person to enter a nature reserve or a permit granted under [section 59][80] that authorises a person to enter a scientific reserve.
+    (7) This section does not apply to any permit granted under [section 57][78] that authorises a person to enter a nature reserve or a permit granted under [section 59][81] that authorises a person to enter a scientific reserve.
     
     (8) This section does not apply to any reserve vested in an administering body under [section 26][37].
     
-    (9) This section is subject to [Part 2][292] of the Forests (West Coast Accord) Act 2000, in relation to land that is a reserve, or added to an existing reserve, as a result of a declaration under [section 8(1)][293] of that Act.
+    (9) This section is subject to [Part 2][294] of the Forests (West Coast Accord) Act 2000, in relation to land that is a reserve, or added to an existing reserve, as a result of a declaration under [section 8(1)][295] of that Act.
     
-    Section 59A: substituted, on 1 July 1996, by [section 11(1)][294] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 59A: replaced, on 1 July 1996, by [section 11(1)][296] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 59A(9): added, on 21 October 2000, by [section 22][295] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
+    Section 59A(9): inserted, on 21 October 2000, by [section 22][297] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 ##### 60 Powers in respect of government purpose reserves
     
-*   Subject to [sections 22][31] and [40][54], the administering body of a government purpose reserve may do such things as are necessary or desirable for the proper and beneficial administration, management, and control of the reserve and for its use for the purposes specified in its classification.
+*   Subject to [sections 22][31] and [40][55], the administering body of a government purpose reserve may do such things as are necessary or desirable for the proper and beneficial administration, management, and control of the reserve and for its use for the purposes specified in its classification.
 
 ##### 61 Powers (including leasing) in respect of local purpose reserves
     
-*   (1) The administering body of a local purpose reserve may, in the exercise of its functions under [section 40][54], do such things as it may from time to time consider necessary or desirable for the proper and beneficial management, administration, and control of the reserve and for the use of the reserve for the purpose specified in its classification.
+*   (1) The administering body of a local purpose reserve may, in the exercise of its functions under [section 40][55], do such things as it may from time to time consider necessary or desirable for the proper and beneficial management, administration, and control of the reserve and for the use of the reserve for the purpose specified in its classification.
     
-    (2) The administering body, in the case of a local purpose reserve that is vested in the administering body, is hereby declared to be a leasing authority of that reserve for the purposes of the [Public Bodies Leases Act 1969][296].
+    (2) The administering body, in the case of a local purpose reserve that is vested in the administering body, is hereby declared to be a leasing authority of that reserve for the purposes of the [Public Bodies Leases Act 1969][298].
     
     (2A) In addition to the powers of leasing conferred by subsection (2), the administering body, in the case of a local purpose reserve that is vested in the administering body, may lease all or any part of the reserve to any person, body, voluntary organisation, or society (whether incorporated or not) for any of the following purposes:
         
@@ -2601,7 +2635,7 @@ Classification and management of reserves
 
 ##### 61A Leases in respect of reserves for aerodrome purposes
     
-*   Nothing in this Act shall prevent any airport authority (as defined in the [Airport Authorities Act 1966][297]) from exercising the powers conferred by [section 6][298] of that Act in respect of any reserve vested in that authority as a local purpose reserve for aerodrome purposes.
+*   Nothing in this Act shall prevent any airport authority (as defined in the [Airport Authorities Act 1966][299]) from exercising the powers conferred by [section 6][300] of that Act in respect of any reserve vested in that authority as a local purpose reserve for aerodrome purposes.
     
     Section 61A: inserted, on 1 January 1980, by section 20(1) of the Reserves Amendment Act 1979 (1979 No 63).
 
@@ -2609,25 +2643,25 @@ Classification and management of reserves
     
 *   (1) The powers, functions, and duties conferred and imposed on an administering body by this Act shall, with respect to any reserve which is not under the control and management of an administering body, be exercised and performed by the Commissioner, who shall have and may exercise over the reserve all the powers of an administering body.
     
-    (2) The Commissioner for the land district in which is situated any reserve vested in Her Majesty shall, where not inconsistent with the provisions of this Act, have and may exercise and perform over that reserve all rights, powers, duties, and functions which he has over Crown land.
+    (2) The Commissioner for the land district in which is situated any reserve vested in the Sovereign shall, where not inconsistent with the provisions of this Act, have and may exercise and perform over that reserve all rights, powers, duties, and functions which he or she has over Crown land.
     
-    (3) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Conservation would be better administered by the Commissioner for an adjoining land district, or that the whole of such a reserve which is partly situated in 2 or more land districts would be better administered by the Commissioner for one of those districts, he may, by notice in writing, direct that that other Commissioner or, as the case may be, a specified Commissioner shall exercise and perform in respect of that reserve the rights, powers, duties, and functions conferred or imposed by subsections (1) and (2); and he may by like notice revoke or from time to time amend that direction.
+    (3) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Conservation would be better administered by the Commissioner for an adjoining land district, or that the whole of such a reserve which is partly situated in 2 or more land districts would be better administered by the Commissioner for one of those districts, he or she may, by notice in writing, direct that that other Commissioner or, as the case may be, a specified Commissioner shall exercise and perform in respect of that reserve the rights, powers, duties, and functions conferred or imposed by subsections (1) and (2); and he or she may by like notice revoke or from time to time amend that direction.
     
-    (4) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Conservation would be better administered by a committee appointed under [section 9][12], he may by notice in writing direct that that committee shall exercise and perform the rights, powers, duties, and functions conferred or imposed on the Commissioner by subsections (1) and (2); and he may by like notice revoke or from time to time amend that direction.
+    (4) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Conservation would be better administered by a committee appointed under [section 9][12], he or she may by notice in writing direct that that committee shall exercise and perform the rights, powers, duties, and functions conferred or imposed on the Commissioner by subsections (1) and (2); and he or she may by like notice revoke or from time to time amend that direction.
     
-    (5) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Lands would be better administered by himself, he may, by notice in writing to the Commissioner or Commissioners concerned, assume the rights, powers, duties, and functions conferred or imposed on Commissioners by subsections (1) and (2); and he may, by like notice, relinquish those rights, powers, duties, and functions, which shall thereupon be exercised and performed by a Commissioner in accordance with this section.
+    (5) If the Director-General considers that a reserve which is not under the control and management of an administering body or of a Minister of the Crown other than the Minister of Lands would be better administered by himself or herself, he or she may, by notice in writing to the Commissioner or Commissioners concerned, assume the rights, powers, duties, and functions conferred or imposed on Commissioners by subsections (1) and (2); and he or she may, by like notice, relinquish those rights, powers, duties, and functions, which shall thereupon be exercised and performed by a Commissioner in accordance with this section.
     
     Compare: 1953 No 69 ss 25, 52
     
-    Section 62 heading: amended, on 27 March 2008, by [section 4][299] of the Reserves Amendment Act 2008 (2008 No 17).
+    Section 62 heading: amended, on 27 March 2008, by [section 4][301] of the Reserves Amendment Act 2008 (2008 No 17).
     
-    Section 62(3): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 62(3): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 62(4): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 62(4): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
 
 ##### 63 Reserves not vested in the Crown
     
-*   (1) The rights, powers, duties, and functions conferred or imposed on Commissioners by [section 62(2)][85] shall, in the case of any reserve not vested in the Crown, be had and exercised or performed by the administering body in which the reserve is vested.
+*   (1) The rights, powers, duties, and functions conferred or imposed on Commissioners by [section 62(2)][86] shall, in the case of any reserve not vested in the Crown, be had and exercised or performed by the administering body in which the reserve is vested.
     
     (2) The powers vested in any local authority by virtue of this section or of any other provisions of this Act shall be exercised by it in the manner in which it exercises any like powers conferred on it by the Act by or under which it is constituted.
     
@@ -2657,13 +2691,13 @@ Classification and management of reserves
     
     Section 64(1A): inserted, on 1 January 1980, by section 21 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 64(1A): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 64(1A): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 #### Special provisions as to recreation reserves set apart for racecourse purposes
 
 ##### 65 Bylaws
     
-*   (1) The administering body of any recreation reserve set apart for racecourse purposes may from time to time, subject to [section 108][146], make bylaws with respect to all or any of the following matters:
+*   (1) The administering body of any recreation reserve set apart for racecourse purposes may from time to time, subject to [section 108][147], make bylaws with respect to all or any of the following matters:
         
     *   (a) regulating its own proceedings:
     
@@ -2679,7 +2713,7 @@ Classification and management of reserves
     
     (2) All bylaws made under subsection (1) shall be notified once by advertisement as to the nature thereof in 1 or more newspapers circulating in the locality in which the reserve is situate, and by being posted on some conspicuous place on the reserve so that they may be easily read.
     
-    (3) In this section and in [sections 66 to 70][90] the expression **recreation reserve set apart for racecourse purposes** includes a reserve which immediately before the commencement of this Act was a reserve set apart for racecourse purposes.
+    (3) In this section and in [sections 66 to 70][91] the expression **recreation reserve set apart for racecourse purposes** includes a reserve which immediately before the commencement of this Act was a reserve set apart for racecourse purposes.
     
     Compare: 1953 No 69 s 35
 
@@ -2697,9 +2731,9 @@ Classification and management of reserves
         
     *   (a) to any person for any term or terms of years not exceeding 7 years at any one time:
     
-    *   (b) with the prior consent of the Minister and subject to such conditions as he prescribes, to any racing club for a term of years not exceeding 33 years, with or without provision for renewal for 1 or more further similar terms.
+    *   (b) with the prior consent of the Minister and subject to such conditions as he or she prescribes, to any racing club for a term of years not exceeding 33 years, with or without provision for renewal for 1 or more further similar terms.
     
-    (2) The powers of leasing conferred by this section are in addition to and not in substitution for the power of leasing conferred by [sections 54][74] and [73][98].
+    (2) The powers of leasing conferred by this section are in addition to and not in substitution for the power of leasing conferred by [sections 54][75] and [73][99].
     
     Compare: 1953 No 69 s 37
 
@@ -2715,27 +2749,29 @@ Classification and management of reserves
 
 ##### 69 Annual statement of accounts and report
     
-*   Every administering body of a recreation reserve set apart for racecourse purposes shall, within 1 month after the close of each financial year of that body, prepare and submit to the Auditor-General for audit the statements specified in [section 88][118], together with the report referred to in that section.
+*   Every administering body of a recreation reserve set apart for racecourse purposes shall, within 5 months after the close of each financial year of that body, prepare and submit to the Auditor-General for audit the statements specified in [section 88][119], together with the report referred to in that section.
     
     Compare: 1953 No 69 s 39
     
-    Section 69: amended, on 1 July 2001, pursuant to [section 52][300] of the Public Audit Act 2001 (2001 No 10).
+    Section 69: amended, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 69: amended, on 1 July 2001, pursuant to [section 52][302] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 70 Special Acts dealing with racecourse reserves to be read subject to this Act
     
-*   (1) The provisions of any Act of the Parliament of New Zealand or of any Provincial Ordinance or of any Crown grant dealing with or referring to any racecourse reserve, shall, so far as they may be inconsistent with this Act, be read subject to this Act, and the powers conferred by [sections 65 to 69][89] on the administering body of a recreation reserve set apart for racecourse purposes are hereby likewise conferred on any bodies or persons having control of any such reserve as aforesaid.
+*   (1) The provisions of any Act of the Parliament of New Zealand or of any Provincial Ordinance or of any Crown grant dealing with or referring to any racecourse reserve, shall, so far as they may be inconsistent with this Act, be read subject to this Act, and the powers conferred by [sections 65 to 69][90] on the administering body of a recreation reserve set apart for racecourse purposes are hereby likewise conferred on any bodies or persons having control of any such reserve as aforesaid.
     
-    (2) Notwithstanding anything to the contrary in any other Act or Provincial Ordinance, the Minister may from time to time, by notice under his hand, appoint members of the administering body of a recreation reserve set apart for racecourse purposes to fill any vacancies.
+    (2) Notwithstanding anything to the contrary in any other Act or Provincial Ordinance, the Minister may from time to time, by notice under his or her hand, appoint members of the administering body of a recreation reserve set apart for racecourse purposes to fill any vacancies.
     
     Compare: 1953 No 69 s 40
     
-    Section 70(1): amended, on 1 January 1987, pursuant to [section 29(2)][171] of the Constitution Act 1986 (1986 No 114).
+    Section 70(1): amended, on 1 January 1987, pursuant to [section 29(2)][172] of the Constitution Act 1986 (1986 No 114).
 
 #### Farming and other leases
 
 ##### 71 Farming by administering body
     
-*   (1) Where all or any part of any recreation reserve or any local purpose reserve is not for the time being required for the purpose for which it is classified, or where the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][73] that it is necessary or desirable to farm or graze the reserve or any part of the reserve in a development, improvement, or management programme, the administering body may, with the prior consent of the Minister, and subject to such conditions as the Minister determines, farm or graze the reserve or that part thereof.
+*   (1) Where all or any part of any recreation reserve or any local purpose reserve is not for the time being required for the purpose for which it is classified, or where the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][74] that it is necessary or desirable to farm or graze the reserve or any part of the reserve in a development, improvement, or management programme, the administering body may, with the prior consent of the Minister, and subject to such conditions as the Minister determines, farm or graze the reserve or that part thereof.
     
     (2) The administering body must satisfy the Minister that it has the financial resources and managerial ability to carry out such farming or grazing, and that it has provided or will provide adequate safeguards to prevent the destruction of or damage to any natural, scenic, historic, archaeological, geological, or other scientific features or indigenous flora and fauna.
     
@@ -2743,7 +2779,7 @@ Classification and management of reserves
 
 ##### 72 Farming by another person or body
     
-*   (1) Where all or any part of any recreation reserve or local purpose reserve is not for the time being required for the purpose specified in its classification, or where the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][73] that it is necessary or desirable to farm or graze any part of the reserve as part of a development, improvement, or management programme, the administering body may enter into an agreement or lease with the Minister providing for the carrying out by another person or body of farming or grazing operations, including the development and improvement of the land on behalf of the administering body, on such terms and conditions (including the repayment of development costs) as may be agreed upon between the Minister and the administering body:
+*   (1) Where all or any part of any recreation reserve or local purpose reserve is not for the time being required for the purpose specified in its classification, or where the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][74] that it is necessary or desirable to farm or graze any part of the reserve as part of a development, improvement, or management programme, the administering body may enter into an agreement or lease with the Minister providing for the carrying out by another person or body of farming or grazing operations, including the development and improvement of the land on behalf of the administering body, on such terms and conditions (including the repayment of development costs) as may be agreed upon between the Minister and the administering body:
     
     provided that where in the case of a recreation reserve or local purpose reserve vested in the Crown there is no administering body, the Commissioner may, with the approval of the Minister, enter into an agreement with another person or body to farm or graze the reserve or part thereof as part of any development, improvement, or management programme.
     
@@ -2761,25 +2797,25 @@ Classification and management of reserves
 
 ##### 73 Leasing of recreation reserves for farming, grazing, afforestation, or other purposes
     
-*   (1) Where any recreation reserve or any part of such a reserve is not for the time being required for the purpose for which it was classified, or where the Minister considers it in the public interest, or where the administering body of any recreation reserve has decided under [section 53(1)(a)(ii)][73] that it is necessary or desirable to farm or graze the reserve or any part thereof, leases of the reserve or of any part thereof may be granted by the administering body with the prior consent of the Minister in cases where the reserve is vested in such a body, or by the Minister in any other case.
+*   (1) Where any recreation reserve or any part of such a reserve is not for the time being required for the purpose for which it was classified, or where the Minister considers it in the public interest, or where the administering body of any recreation reserve has decided under [section 53(1)(a)(ii)][74] that it is necessary or desirable to farm or graze the reserve or any part thereof, leases of the reserve or of any part thereof may be granted by the administering body with the prior consent of the Minister in cases where the reserve is vested in such a body, or by the Minister in any other case.
     
-    (2) Where the administering body has decided under [section 53(1)(a)(ii)][73] that it is necessary or desirable to afforest any part of a recreation reserve, leases of the whole or any part thereof may be granted by the administering body with the prior consent of the Minister in cases where the reserve is vested in such a body, or by the Minister in any other case.
+    (2) Where the administering body has decided under [section 53(1)(a)(ii)][74] that it is necessary or desirable to afforest any part of a recreation reserve, leases of the whole or any part thereof may be granted by the administering body with the prior consent of the Minister in cases where the reserve is vested in such a body, or by the Minister in any other case.
     
     (3) Where any recreation reserve or any part of such a reserve is not being used for the purposes of a recreation reserve and in the opinion of the Minister is not likely to be used for that purpose, but it is inadvisable or inexpedient to revoke the reservation, leases of the whole or any part thereof may be granted by the administering body with the prior consent of the Minister in cases where the reserve is vested in such a body, or by the Minister in any other case.
     
     (3A) Every lease granted under subsection (1) or subsection (2) or subsection (3),---
         
-    *   (a) in the case of a reserve vested in an administering body, shall be subject to the further provisions set out in [Schedule 1][167] relating to leases of recreation reserves issued pursuant to that subsection:
+    *   (a) in the case of a reserve vested in an administering body, shall be subject to the further provisions set out in [Schedule 1][168] relating to leases of recreation reserves issued pursuant to that subsection:
     
-    *   (b) in the case of a reserve vested in the Crown, shall be issued in accordance with the provisions of [Part 3B][291] of the Conservation Act 1987 and those provisions shall apply as follows:
+    *   (b) in the case of a reserve vested in the Crown, shall be issued in accordance with the provisions of [Part 3B][293] of the Conservation Act 1987 and those provisions shall apply as follows:
             
-        *   (i) in the case of any concession over or in respect of a reserve controlled or managed by an administering body, every reference in the said [Part 3B][291] to a conservation management strategy or conservation management plan shall be read as a reference to a management plan approved under [section 41][57] of this Act, but otherwise the said [Part 3B][291] shall apply as if every reference to a conservation area were a reference to such a reserve and with any other necessary modifications:
+        *   (i) in the case of any concession over or in respect of a reserve controlled or managed by an administering body, every reference in the said [Part 3B][293] to a conservation management strategy or conservation management plan shall be read as a reference to a management plan approved under [section 41][58] of this Act, but otherwise the said [Part 3B][293] shall apply as if every reference to a conservation area were a reference to such a reserve and with any other necessary modifications:
         
-        *   (ii) in the case of any other reserve vested in the Crown, the said [Part 3B][291] shall apply as if every reference to a conservation area were a reference to such a reserve and with any other necessary modifications.
+        *   (ii) in the case of any other reserve vested in the Crown, the said [Part 3B][293] shall apply as if every reference to a conservation area were a reference to such a reserve and with any other necessary modifications.
         
         
     
-    (4) Before granting any lease under subsection (1), or subsection (2), or subsection (3), the administering body shall give public notice in accordance with [section 119][159] specifying the lease proposed to be granted, and shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    (4) Before granting any lease under subsection (1), or subsection (2), or subsection (3), the administering body shall give public notice in accordance with [section 119][160] specifying the lease proposed to be granted, and shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (5) No member of an administering body may become the lessee of any land under the control of that body without the prior consent in writing of the Minister.
     
@@ -2787,17 +2823,17 @@ Classification and management of reserves
     
     Compare: 1953 No 69 s 27
     
-    Section 73(1): amended, on 1 July 1996, by [section 12(1)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(1): amended, on 1 July 1996, by [section 12(1)][303] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 73(2): amended, on 1 July 1996, by [section 12(1)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(2): amended, on 1 July 1996, by [section 12(1)][303] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 73(3): amended, on 1 July 1996, by [section 12(1)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(3): amended, on 1 July 1996, by [section 12(1)][303] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 73(3A): inserted, on 1 July 1996, by [section 12(2)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(3A): inserted, on 1 July 1996, by [section 12(2)][303] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 73(4): amended, on 1 July 1996, by [section 12(3)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(4): amended, on 1 July 1996, by [section 12(3)][303] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 73(6): substituted, on 1 July 1996, by [section 12(4)][301] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 73(6): replaced, on 1 July 1996, by [section 12(4)][303] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 74 Licences to occupy reserves temporarily
     
@@ -2805,7 +2841,7 @@ Classification and management of reserves
         
     *   (a) in the case of a government purpose reserve, by the Minister of the Crown (other than the Minister of Conservation) appointed to control and manage the reserve:
     
-    *   (aa) in the case of a government purpose reserve controlled by the Minister, by the Minister in accordance with the provisions of [Part 3B][291] of the Conservation Act 1987:
+    *   (aa) in the case of a government purpose reserve controlled by the Minister, by the Minister in accordance with the provisions of [Part 3B][293] of the Conservation Act 1987:
     
     *   (b) in the case of any other reserve except a nature reserve---
             
@@ -2823,7 +2859,7 @@ Classification and management of reserves
     
     *   (b) cutting, felling, or removing timber or flax, or to win and remove timber or flax or to win and remove kauri gum.
     
-    (3) Before granting any licence under subsection (2), the administering body or the Minister of the Crown (not being the Minister of Conservation), as the case may be, shall give public notice in accordance with [section 119][159] specifying the licence proposed to be granted, and shall give full consideration in accordance with [section 120][160] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
+    (3) Before granting any licence under subsection (2), the administering body or the Minister of the Crown (not being the Minister of Conservation), as the case may be, shall give public notice in accordance with [section 119][160] specifying the licence proposed to be granted, and shall give full consideration in accordance with [section 120][161] to all objections and submissions in relation to the proposal received pursuant to the said section 120\.
     
     (3A) Nothing in subsection (3) shall apply---
         
@@ -2831,7 +2867,7 @@ Classification and management of reserves
     
     *   (b) in the case of any recreation, historic, scenic, or scientific reserve, where public notice of the proposal has been given under any other provision of this Act or where the reserve is vested in the Crown.
     
-    (3B) The Minister may, in respect of any reserve administered or controlled by him or her, grant a concession in accordance with the provisions of [Part 3B][291] of the Conservation Act 1987 as if the reserve were a conservation area; and that Act shall apply accordingly.
+    (3B) The Minister may, in respect of any reserve administered or controlled by him or her, grant a concession in accordance with the provisions of [Part 3B][293] of the Conservation Act 1987 as if the reserve were a conservation area; and that Act shall apply accordingly.
     
     (4) The duration of a licence under this section to occupy a reserve or any part thereof shall not exceed 10 years.
     
@@ -2839,19 +2875,19 @@ Classification and management of reserves
     
     Section 74(1): amended, on 27 December 1983, by section 9(1) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 74(1)(a): amended, on 1 July 1996, by [section 13(1)][302] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 74(1)(a): amended, on 1 July 1996, by [section 13(1)][304] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 74(1)(aa): inserted, on 1 July 1996, by [section 13(2)][302] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 74(1)(aa): inserted, on 1 July 1996, by [section 13(2)][304] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 74(3): amended, on 1 July 1996, by [section 13(3)][302] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 74(3): amended, on 1 July 1996, by [section 13(3)][304] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 74(3): amended, on 27 December 1983, by section 9(2) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 74(3A): substituted, on 1 July 1996, by [section 13(4)][302] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 74(3A): replaced, on 1 July 1996, by [section 13(4)][304] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 74(3B): inserted, on 1 July 1996, by [section 13(5)][302] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 74(3B): inserted, on 1 July 1996, by [section 13(5)][304] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 74(4): amended, on 20 April 2010, by [section 4][303] of the Reserves Amendment Act 2010 (2010 No 20).
+    Section 74(4): amended, on 20 April 2010, by [section 4][305] of the Reserves Amendment Act 2010 (2010 No 20).
 
 #### Afforestation
 
@@ -2861,33 +2897,33 @@ Classification and management of reserves
         
     *   (a) any recreation reserve or local purpose reserve, or any part thereof, is not for the time being required for the purpose for which it is classified; or
     
-    *   (b) the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][73] that it is necessary or desirable to afforest the reserve or any part thereof in any development, improvement, or management programme,---
+    *   (b) the administering body of a recreation reserve has decided under [section 53(1)(a)(ii)][74] that it is necessary or desirable to afforest the reserve or any part thereof in any development, improvement, or management programme,---
     
     the administering body may, with the prior consent of the Minister, afforest, or enter into a contract for the afforestation of, the reserve or that part thereof:
     
-    provided that before commencing to afforest or entering into a contract for the afforestation of the reserve or any part of the reserve, the administering body shall give public notice in accordance with [section 119][159] specifying the afforestation intended to be carried out, and shall give full consideration in accordance with [section 120][160] to all objections against and submissions in relation to the proposed afforestation received pursuant to the said section 120\.
+    provided that before commencing to afforest or entering into a contract for the afforestation of the reserve or any part of the reserve, the administering body shall give public notice in accordance with [section 119][160] specifying the afforestation intended to be carried out, and shall give full consideration in accordance with [section 120][161] to all objections against and submissions in relation to the proposed afforestation received pursuant to the said section 120\.
     
-    (2) The Minister may decline to give his consent under this section if for any reason he considers it to be in the public interest, and he shall not give his consent unless he is satisfied that the administering body or, as the case may be, the contractor has the financial resources and managerial ability to carry out the afforestation, and has provided or will provide adequate safeguards to prevent the destruction of or damage to any natural, scenic, historic, cultural, archaeological, biological, geological, or other scientific features or indigenous flora and fauna.
+    (2) The Minister may decline to give his or her consent under this section if for any reason he or she considers it to be in the public interest, and he or she shall not give his or her consent unless he or she is satisfied that the administering body or, as the case may be, the contractor has the financial resources and managerial ability to carry out the afforestation, and has provided or will provide adequate safeguards to prevent the destruction of or damage to any natural, scenic, historic, cultural, archaeological, biological, geological, or other scientific features or indigenous flora and fauna.
 
 #### Protected private land, and conservation covenants
 
 ##### 76 Declaration of protected private land
     
-*   (1) The owner of any private land or the lessee of any Crown land may at any time apply to the Minister for his land or any part thereof to be declared to be protected private land under and subject to the terms of any agreement entered into between the owner or lessee and the Minister.
+*   (1) The owner of any private land or the lessee of any Crown land may at any time apply to the Minister for his or her land or any part thereof to be declared to be protected private land under and subject to the terms of any agreement entered into between the owner or lessee and the Minister.
     
     (2) The Minister, if satisfied that the land possesses such qualities of natural, scientific, scenic, historic, cultural, archaeological, geological, or other interest that its protection is desirable in the public interest, or that rare species of indigenous flora or fauna are on the land, and the preservation of such flora and fauna is in the public interest, and that the land is sufficiently fenced or is otherwise protected from damage by stock, may, by notice in the _Gazette_, declare the land to be protected private land for nature, scenic, historic, or scientific purposes, having regard to the provisions of [sections 18 to 21][27] relating to the classification of historic, scenic, nature, and scientific reserves, and may in like manner revoke any such declaration.
     
-    (3) While that declaration remains in force, [sections 93 to 105][126] shall, as far as they are applicable, and with the necessary modifications, apply to the protected private land in all respects as if it were a nature, scenic, historic, or scientific reserve, as the case may be, notwithstanding that the land comprised therein or, as the case may be, the interest of the lessee or licensee may be sold or otherwise disposed of:
+    (3) While that declaration remains in force, [sections 93 to 105][127] shall, as far as they are applicable, and with the necessary modifications, apply to the protected private land in all respects as if it were a nature, scenic, historic, or scientific reserve, as the case may be, notwithstanding that the land comprised therein or, as the case may be, the interest of the lessee or licensee may be sold or otherwise disposed of:
     
-    provided that in their application to any protected private land [sections 93 to 105][126] shall be read subject to any agreement between the owner or lessee of the land and the Minister reserving to the owner or lessee or his successors in title the right to do any act or thing forbidden by this Act.
+    provided that in their application to any protected private land [sections 93 to 105][127] shall be read subject to any agreement between the owner or lessee of the land and the Minister reserving to the owner or lessee or his or her successors in title the right to do any act or thing forbidden by this Act.
     
     (4) Unless the agreement between the Minister and the owner or lessee or licensee of the land specifically provides otherwise, the agreement shall, when the notice under subsection (2) has been recorded against the title, be binding on the successors in title of that owner or lessee.
     
-    (5) Where an agreement under this section applies to land comprising part of the land in a certificate or instrument of title, the District Land Registrar may require the deposit of a plan in accordance with [section 167][304] of the Land Transfer Act 1952\.
+    (5) Where an agreement under this section applies to land comprising part of the land in a certificate or instrument of title, the District Land Registrar may require the deposit of a plan in accordance with [section 167][306] of the Land Transfer Act 1952\.
     
     (6) The District Land Registrar, on the application of the Commissioner, shall enter in the appropriate folium of the register relating to the land that is declared to be protected private land a notification thereof.
     
-    (7) The Minister may, with the consent of the owner or lessee, as the case may be, from time to time take such steps as he thinks necessary or desirable for the management and preservation of any protected private land, and cause such steps to be taken as in the Minister's opinion are necessary to make it readily accessible, under proper conditions, to the public.
+    (7) The Minister may, with the consent of the owner or lessee, as the case may be, from time to time take such steps as he or she thinks necessary or desirable for the management and preservation of any protected private land, and cause such steps to be taken as in the Minister's opinion are necessary to make it readily accessible, under proper conditions, to the public.
     
     Compare: 1953 No 69 ss 58, 65, 68; 1966 No 26 s 3
 
@@ -2899,15 +2935,15 @@ Classification and management of reserves
     
     (2) Any covenant under this section may be in perpetuity or for any specific term.
     
-    (3) While any conservation covenant under this section remains in force, [sections 93 to 105][126], as far as they are applicable and with the necessary modifications, shall apply to the land affected thereby in all respects as if it were a reserve, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
+    (3) While any conservation covenant under this section remains in force, [sections 93 to 105][127], as far as they are applicable and with the necessary modifications, shall apply to the land affected thereby in all respects as if it were a reserve, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
     
-    provided that in their application to any such land or interest [sections 93 to 105][126] shall be read subject to the terms and conditions set out in the conservation covenant.
+    provided that in their application to any such land or interest [sections 93 to 105][127] shall be read subject to the terms and conditions set out in the conservation covenant.
     
-    (4) Notwithstanding any rule of law or equity to the contrary, every conservation covenant shall run with and bind the land which is subject to the burden of the covenant, and shall be deemed an interest in the land for the purposes of the [Land Transfer Act 1952][231]. The District Land Registrar, on the application of the Commissioner in the case of an agreement to which the Minister is a party and of the local authority in the case of an agreement to which a local authority is a party, shall enter in the appropriate folium of the register relating to the land that is subject to the burden of the covenant a notification thereof.
+    (4) Notwithstanding any rule of law or equity to the contrary, every conservation covenant shall run with and bind the land which is subject to the burden of the covenant, and shall be deemed an interest in the land for the purposes of the [Land Transfer Act 1952][233]. The District Land Registrar, on the application of the Commissioner in the case of an agreement to which the Minister is a party and of the local authority in the case of an agreement to which a local authority is a party, shall enter in the appropriate folium of the register relating to the land that is subject to the burden of the covenant a notification thereof.
     
     (5) Where the burden of a covenant under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the covenant unless---
         
-    *   (a) the land to which the covenant relates is defined on an existing plan approved under the [Land Transfer Act 1952][231] or a new plan approved under that Act; or
+    *   (a) the land to which the covenant relates is defined on an existing plan approved under the [Land Transfer Act 1952][233] or a new plan approved under that Act; or
     
     *   (b) the document incorporating the covenant is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the covenant is adequately described and properly defined---
             
@@ -2919,15 +2955,15 @@ Classification and management of reserves
         
         
     
-    (6) Subject to [sections 78][107], [82][111], [83][112], [84][113], [89][120], [90][121], [95][128], [105][142], and [110][150], the purchase price of any conservation covenant to which the Minister is a party shall be paid out of money appropriated by Parliament.
+    (6) Subject to [sections 78][108], [82][112], [83][113], [84][114], [89][121], [90][122], [95][129], [105][143], and [110][151], the purchase price of any conservation covenant to which the Minister is a party shall be paid out of money appropriated by Parliament.
     
     (7) The purchase price of any conservation covenant to which a local authority is a party may be paid by the local authority out of its general fund or account or out of a separate account kept for the purchase of land to be held as public reserves, or may be apportioned by the local authority between that fund or account and that separate account.
     
     Section 77(1): amended, on 1 January 1980, by section 22 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 77(1) proviso: substituted, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 77(1) proviso: replaced, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 77(5): substituted, on 25 November 1994, by section 5 of the Reserves Amendment Act 1994 (1994 No 110).
+    Section 77(5): replaced, on 25 November 1994, by section 5 of the Reserves Amendment Act 1994 (1994 No 110).
 
 ##### 77A Nga Whenua Rahui kawenata
     
@@ -2943,13 +2979,13 @@ Classification and management of reserves
     
     *   (b) a Nga Whenua Rahui kawenata under this section may be in perpetuity or for any specific term or may be in perpetuity subject to a condition that at agreed intervals of not less than 25 years the parties to the Nga Whenua Rahui kawenata shall review the objectives, conditions, and continuance of the Nga Whenua Rahui kawenata; and on such review the parties may mutually agree that the Nga Whenua Rahui kawenata shall be terminated, or the owner or lessee may terminate the Nga Whenua Rahui kawenata on giving such notice (being not less than 6 months) as may be agreed. The Crown shall have regard to the manawhenua of the owner or lessee in any such review:
     
-    *   (c) while any Nga Whenua Rahui kawenata under this section remains in force, [sections 93 to 105][126], as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a reserve, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
+    *   (c) while any Nga Whenua Rahui kawenata under this section remains in force, [sections 93 to 105][127], as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a reserve, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
     
-    *   (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][231]:
+    *   (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][233]:
     
     *   (e) where a Nga Whenua Rahui kawenata is entered into under this section, the District Land Registrar of the land registration district affected, on the application of the Commissioner, shall, without fee, enter in the appropriate folio of the register relating to the land that is subject to the burden of the Nga Whenua Rahui kawenata a notification thereof:
     
-    *   (f) subject to [sections 78][107], [82][111], [83][112], [84][113], [89][120], [90][121], [95][128], [105][142], and [110][150], any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament; and references in those provisions to a conservation covenant shall be read as references to a Nga Whenua Rahui kawenata.
+    *   (f) subject to [sections 78][108], [82][112], [83][113], [84][114], [89][121], [90][122], [95][129], [105][143], and [110][151], any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament; and references in those provisions to a conservation covenant shall be read as references to a Nga Whenua Rahui kawenata.
     
     (2) In the case of a Crown lease other than a lease administered by the Department of Conservation, the consent of the Minister of Lands shall be required before a Nga Whenua Rahui kawenata is entered into, and that Minister may give consent subject to the inclusion of any condition in the Nga Whenua Rahui kawenata or conditions, and may agree to a reduction in rent if, having regard to the basis for fixing the rent, it appears fair and equitable to do so.
     
@@ -2957,7 +2993,7 @@ Classification and management of reserves
     
     (4) Where the burden of a Nga Whenua Rahui kawenata under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the Nga Whenua Rahui kawenata unless---
         
-    *   (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the [Land Transfer Act 1952][231] or a new plan approved under that Act; or
+    *   (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the [Land Transfer Act 1952][233] or a new plan approved under that Act; or
     
     *   (b) the document incorporating the Nga Whenua Rahui kawenata is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the Nga Whenua Rahui kawenata is adequately described and properly defined---
             
@@ -2971,28 +3007,28 @@ Classification and management of reserves
     
     Section 77A: inserted, on 24 March 1993, by section 3 of the Reserves Amendment Act 1993 (1993 No 8).
     
-    Section 77A(4): substituted, on 25 November 1994, by section 6 of the Reserves Amendment Act 1994 (1994 No 110).
+    Section 77A(4): replaced, on 25 November 1994, by section 6 of the Reserves Amendment Act 1994 (1994 No 110).
 
 ## Part 4  
 Financial provisions
 
 ##### 78 Application of revenue from reserves
     
-*   (1) All money received by way of rent, royalty, or otherwise in respect of any dealing with any reserve pursuant to [section 42][59], [section 45][62], [section 48][65], [section 53][73], [section 54][74], [section 55][75], [section 56][76], [section 57][77], [section 58][78], [section 58A][79], [section 59][80], [section 59A][81], [section 61][83], [section 61A][84], [section 71][96], [section 72][97], [section 73][98], [section 74][99], or [section 75][101] shall---
+*   (1) All money received by way of rent, royalty, or otherwise in respect of any dealing with any reserve pursuant to [section 42][60], [section 45][63], [section 48][66], [section 53][74], [section 54][75], [section 55][76], [section 56][77], [section 57][78], [section 58][79], [section 58A][80], [section 59][81], [section 59A][82], [section 61][84], [section 61A][85], [section 71][97], [section 72][98], [section 73][99], [section 74][100], or [section 75][102] shall---
         
     *   (a) where the reserve is vested in an administering body or an administering body has been appointed to control and manage the reserve, be held by the administering body and applied for the purposes of this Act:
     
-    *   (b) where the reserve is vested in the Crown and no administering body has been appointed to manage or control the reserve, be paid in accordance with the [Public Finance Act 1989][265] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing reserves of any classification, or as consideration for a conservation covenant.
+    *   (b) where the reserve is vested in the Crown and no administering body has been appointed to manage or control the reserve, be paid in accordance with the [Public Finance Act 1989][267] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing reserves of any classification, or as consideration for a conservation covenant.
     
     (2) Notwithstanding anything in subsection (1),---
         
-    *   (a) in the case of a reserve which a Minister of the Crown other than the Minister of Conservation has been appointed to control and manage pursuant to [section 22][31] or [section 36][48], the money referred to in subsection (1) shall be paid in accordance with the [Public Finance Act 1989][265] into a Crown Bank Account, a Departmental Bank Account, or a Trust Bank Account, and applied in managing, administering, or improving reserves in accordance with this Act, or, shall be paid into a Crown Bank Account, as directed by that first-mentioned Minister:
+    *   (a) in the case of a reserve which a Minister of the Crown other than the Minister of Conservation has been appointed to control and manage pursuant to [section 22][31] or [section 36][48], the money referred to in subsection (1) shall be paid in accordance with the [Public Finance Act 1989][267] into a Crown Bank Account, a Departmental Bank Account, or a Trust Bank Account, and applied in managing, administering, or improving reserves in accordance with this Act, or, shall be paid into a Crown Bank Account, as directed by that first-mentioned Minister:
     
-    *   (b) in the case of a reserve of which the New Zealand Historic Places Trust is the administering body, the money referred to in subsection (1) shall be applied by that Trust for the purposes of the [Historic Places Act 1993][196].
+    *   (b) in the case of a reserve of which the New Zealand Historic Places Trust is the administering body, the money referred to in subsection (1) shall be applied by that Trust for the purposes of the [Historic Places Act 1993][198].
     
-    (3) All money received by way of gift or legacy or contributed by any local authority out of its general funds in respect of any reserve that is not for the time being under the control and management of an administering body or a Minister of the Crown other than the Minister of Conservation shall be paid into a Trust Bank Account established under [section 67][305] of the Public Finance Act 1989 and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing reserves of any classification, or as consideration for conservation covenants or as the Minister may direct pursuant to [section 84][113], or otherwise in carrying out in respect of that reserve the objects of this Act.
+    (3) All money received by way of gift or legacy or contributed by any local authority out of its general funds in respect of any reserve that is not for the time being under the control and management of an administering body or a Minister of the Crown other than the Minister of Conservation shall be paid into a Trust Bank Account established under [section 67][307] of the Public Finance Act 1989 and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing reserves of any classification, or as consideration for conservation covenants or as the Minister may direct pursuant to [section 84][114], or otherwise in carrying out in respect of that reserve the objects of this Act.
     
-    (4) Where before the commencement of this Act money paid to the credit of the Trust Account pursuant to [section 31(a)][43] or [section 62][85], or held by an administering body pursuant to section 31(b), of the Reserves and Domains Act 1953 remains unexpended, subsection (1) of this section shall apply with respect to that unexpended money as if it had been received pursuant to this Act.
+    (4) Where before the commencement of this Act money paid to the credit of the Trust Account pursuant to [section 31(a)][43] or [section 62][86], or held by an administering body pursuant to section 31(b), of the Reserves and Domains Act 1953 remains unexpended, subsection (1) of this section shall apply with respect to that unexpended money as if it had been received pursuant to this Act.
     
     Section 78(1): amended, on 30 July 1988, by section 2(2) of the Reserves Amendment Act 1988 (1988 No 137).
     
@@ -3000,31 +3036,31 @@ Financial provisions
     
     Section 78(1): amended, on 1 January 1980, by section 20(3) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 78(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][306] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][308] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(1)(b): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][307] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(1)(b): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][309] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(2)(a): amended, on 25 January 2005, pursuant to [section 65R(3)][306] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(2)(a): amended, on 25 January 2005, pursuant to [section 65R(3)][308] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(2)(a): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][307] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(2)(a): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][309] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(2)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 78(2)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 78(2)(b): amended, on 1 July 1993, pursuant to [section 118(1)][197] of the Historic Places Act 1993 (1993 No 38).
+    Section 78(2)(b): amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 78(3): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][307] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(3): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][309] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(3): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 78(3): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
 
 ##### 79 Funds of administering bodies
     
 *   (1) The funds of any administering body shall consist of all money received by it under or by virtue of this Act or in any other manner whatever in respect of the reserve or reserves or other land under its control as such.
     
-    (2) Except as provided in [section 68(1)][92] all such money shall, within 7 days after receipt thereof by the Treasurer or other proper officer of the administering body, be paid into such bank as the administering body from time to time appoints to an account to be called ""The \[_name of administering body_\] Account"":
+    (2) Except as provided in [section 68(1)][93] all such money shall, within 7 days after receipt thereof by the Treasurer or other proper officer of the administering body, be paid into such bank as the administering body from time to time appoints to an account to be called ""The \[_name of administering body_\] Account"":
     
     provided that where a local authority is the administering body for more than 1 reserve, it shall not be necessary to establish a separate bank account in respect of each reserve, but the local authority may, if it thinks fit, establish a bank account to be called ""The Reserves Account"" into which all money received in respect of all the reserves administered by it shall be paid:
     
-    provided also that where the administering body is a local authority to which regulations made pursuant to [section 223][308] of the Local Government Act 1974 apply, the administering body shall comply with the provisions of those regulations relating to the banking of money.
+    provided also that where the administering body is a local authority to which regulations made pursuant to [section 223][310] of the Local Government Act 1974 apply, the administering body shall comply with the provisions of those regulations relating to the banking of money.
     
     (3) No money shall be withdrawn from the bank except by authority of the administering body, and any cheque or other withdrawal notice shall be signed by the Treasurer or other officer of the administering body appointed for the purpose and countersigned by either a member or an officer of the administering body authorised by the administering body from time to time to do so.
     
@@ -3044,7 +3080,7 @@ Financial provisions
         
     *   (a) money received from the separate areas may be used for the improvement and benefit of all those areas or any of them:
     
-    *   (b) the administering body shall not be required to keep separate books of account in respect of the separate areas under its control, but it may keep combined accounts and a statement regarding those combined accounts, but showing receipts and payments for each area, shall be sufficient for the purposes of [section 88][118].
+    *   (b) the administering body shall not be required to keep separate books of account in respect of the separate areas under its control, but it may keep combined accounts and a statement regarding those combined accounts, but showing receipts and payments for each area, shall be sufficient for the purposes of [section 88][119].
     
     Compare: 1953 No 69 ss 72, 73
     
@@ -3054,7 +3090,7 @@ Financial provisions
     
 *   An administering body (not being a local authority) may in any financial year expend for purposes not authorised by this Act or by any other Act or law for the time being in force any sum or sums not exceeding $500 in the aggregate.
     
-    Section 81: amended, on 17 May 2005, by [section 4][309] of the Reserves Amendment Act 2005 (2005 No 68).
+    Section 81: amended, on 17 May 2005, by [section 4][311] of the Reserves Amendment Act 2005 (2005 No 68).
 
 ##### 82 Application of proceeds of land where reservation revoked
     
@@ -3078,9 +3114,9 @@ Financial provisions
     
     Section 82(1): amended (with effect on 1 April 1978), on 20 October 1978, by section 3(1) of the Reserves Amendment Act 1978 (1978 No 121).
     
-    Section 82(2): substituted (with effect on 1 April 1978), on 20 October 1978, by section 3(2) of the Reserves Amendment Act 1978 (1978 No 121).
+    Section 82(2): replaced (with effect on 1 April 1978), on 20 October 1978, by section 3(2) of the Reserves Amendment Act 1978 (1978 No 121).
     
-    Section 82(3): added (with effect on 1 April 1978), on 20 October 1978, by section 3(2) of the Reserves Amendment Act 1978 (1978 No 121).
+    Section 82(3): inserted (with effect on 1 April 1978), on 20 October 1978, by section 3(2) of the Reserves Amendment Act 1978 (1978 No 121).
 
 ##### 83 Application of proceeds from exchange
     
@@ -3094,7 +3130,7 @@ Financial provisions
     
     *   (b) direct that any money received after the commencement of this Act in respect of any reserve shall be applied as aforesaid for any specified period for the purposes of any other reserve or for the acquisition or leasing of other land as aforesaid or as consideration for any conservation covenant:
     
-    provided that where money is received in respect of a reserve which is not under the control and management of an administering body, the Minister may direct that the money be applied for such purposes specified in the foregoing provisions of this section as the Minister in his sole discretion directs.
+    provided that where money is received in respect of a reserve which is not under the control and management of an administering body, the Minister may direct that the money be applied for such purposes specified in the foregoing provisions of this section as the Minister in his or her sole discretion directs.
     
     Compare: 1953 No 69 s 75; 1964 No 108 s 3
 
@@ -3106,7 +3142,7 @@ Financial provisions
     
     *   (b) agrees either---
             
-        *   (i) to permit the land to be used for any of the purposes defined in the classification of reserves in [section 16][24] on such terms and conditions as have been agreed on between himself and the administering body or, as the case may be, the Minister; or
+        *   (i) to permit the land to be used for any of the purposes defined in the classification of reserves in [section 16][24] on such terms and conditions as have been agreed on between himself or herself and the administering body or, as the case may be, the Minister; or
         
         *   (ii) to co-operate in a scheme for the preservation or restoration of the character or amenity of a district or an environment.
         
@@ -3116,7 +3152,7 @@ Financial provisions
     
     Compare: 1953 No 69 s 75A; 1971 No 144 s 4
     
-    Section 85(2): substituted, on 1 January 1980, by section 23 of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 85(2): replaced, on 1 January 1980, by section 23 of the Reserves Amendment Act 1979 (1979 No 63).
 
 ##### 85A Minister may authorise certain administering bodies to spend proceeds from certain reserves for other purposes
     
@@ -3128,15 +3164,15 @@ Financial provisions
     
     Section 85A: inserted, on 1 January 1980, by section 24 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 85A: amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 85A: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 85A(a): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 85A(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 ##### 86 Payment of rates on Maori reservations
     
 *   Where---
         
-    *   (a) pursuant to subsection (12) of section 439 of the Maori Affairs Act 1953 (as added by [section 11(2)][310] of the Maori Purposes Act 1972), the notice constituting a Maori reservation under the said section 439 specifies that the reservation shall be held for the common use and benefit of the people of New Zealand; and
+    *   (a) pursuant to subsection (12) of section 439 of the Maori Affairs Act 1953 (as added by [section 11(2)][312] of the Maori Purposes Act 1972), the notice constituting a Maori reservation under the said section 439 specifies that the reservation shall be held for the common use and benefit of the people of New Zealand; and
     
     *   (b) pursuant to subsection (7) of that section, the Maori Land Court has vested the reservation in a body corporate or in trustees to hold and administer the reservation---
     
@@ -3144,7 +3180,7 @@ Financial provisions
 
 ##### 87 Payment of rates on protected private land
     
-*   Where an agreement under [section 76][103] declares any land to be protected private land, and, in the Minister's opinion,---
+*   Where an agreement under [section 76][104] declares any land to be protected private land, and, in the Minister's opinion,---
         
     *   (a) the agreement makes reasonable provision for the public to visit and inspect the protected private land; or
     
@@ -3152,39 +3188,65 @@ Financial provisions
     
     the Minister may, by agreement with the owner, contribute towards the payment, out of money appropriated by Parliament for the purpose, of the whole or part of any rates from time to time assessed on the land.
     
-    Section 87: amended, on 1 July 2003, pursuant to [section 137(1)][311] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 87: amended, on 1 July 2003, pursuant to [section 137(1)][313] of the Local Government (Rating) Act 2002 (2002 No 6).
 
-##### 88 Annual statement and audit of accounts
+##### 88 Financial statements and audit
     
-*   (1) Subject to subsections (4) and (6), within 1 month after the close of each financial year ending with 30 June, every administering body, not being a board, shall cause to be prepared and submitted to the Auditor-General for audit a statement of accounts (including a statement of assets and liabilities, a receipts and payments account, and such other statements as may be required by the Auditor-General), and showing fully the financial position of the administering body at the close of the year.
+*   (1) Every administering body, not being a board, must ensure that, within 5 months after the end of the financial year ending on 30 June, financial statements are---
+        
+    *   (a) completed in relation to the administering body and that financial year; and
     
-    (2) The [Public Audit Act 2001][312] applies with respect to the audit of the accounts of every such administering body, as if it were a public entity as defined in [section 4][313] of that Act.
+    *   (b) dated and signed on behalf of the administering body by 2 members or officers of the body; and
+    
+    *   (c) submitted to the Auditor-General for audit.
+    
+    (1A) The financial statements must be prepared in accordance with,---
+        
+    *   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+    
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+    
+    (1B) Subsection (1) is subject to subsection (4).
+    
+    (2) The [Public Audit Act 2001][314] applies with respect to the audit of the financial statements of every such administering body, as if it were a public entity as defined in [section 4][315] of that Act.
     
     (3) A copy of every such statement shall be submitted to the Commissioner for transmission to the Minister, accompanied by a report as to the operations of the administering body for the year.
     
-    (4) If a local authority is the administering body of a reserve, it shall not be required to submit that statement and report to the Minister, unless the terms of vesting or control and management so require.
+    (4) If a local authority is the administering body of a reserve, it shall not be required to submit those financial statements and report to the Minister, unless the terms of vesting or control and management so require.
     
-    (5) Where a local authority is the administering body, the statements required by this section shall be incorporated in the annual accounts of the local authority, and the time for preparation and submission of the accounts required by this section shall be deemed to have been amended accordingly.
+    (5) Where a local authority is the administering body, the statements required by this section shall be incorporated in the annual financial statements of the local authority, and the time for preparation and submission of the financial statements required by this section shall be deemed to have been amended accordingly.
     
     (6) For the purposes of this section, the period commencing on 1 April 1992 and ending with 30 June 1993 shall be deemed to be a financial year.
     
-    Section 88: substituted, on 21 December 1992, by [section 42][314] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 88: replaced, on 21 December 1992, by [section 42][316] of the Public Finance Amendment Act 1992 (1992 No 142).
     
-    Section 88(1): amended, on 1 July 2001, pursuant to [section 52][300] of the Public Audit Act 2001 (2001 No 10).
+    Section 88 heading: replaced, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 88(2): substituted, on 1 July 2001, by [section 53][315] of the Public Audit Act 2001 (2001 No 10).
+    Section 88(1): replaced, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 88(1A): inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 88(1B): inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 88(2): replaced, on 1 July 2001, by [section 53][317] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 88(2): amended, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 88(4): amended, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 88(5): amended, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 88A Crown entities
     
-*   (1) Every board is, for the purposes of [subpart 2][316] of Part 5 of the [Public Finance Act 1989][265], an organisation named or described in [Schedule 4][317] of that Act.
+*   (1) Every board is, for the purposes of [subpart 2][318] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][319] of that Act.
     
-    (2) Every board is a public entity as defined in [section 4][313] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) Every board is a public entity as defined in [section 4][315] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 88A: inserted, on 21 December 1992, by [section 42][314] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 88A: inserted, on 21 December 1992, by [section 42][316] of the Public Finance Amendment Act 1992 (1992 No 142).
     
-    Section 88A(1): amended, on 25 January 2005, by [section 37(1)][266] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 88A(1): amended, on 25 January 2005, by [section 37(1)][268] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 88A(2): substituted, on 1 July 2001, by [section 53][315] of the Public Audit Act 2001 (2001 No 10).
+    Section 88A(2): replaced, on 1 July 2001, by [section 53][317] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 89 Contributions and advances by local authorities
     
@@ -3192,7 +3254,7 @@ Financial provisions
         
     *   (a) any local authority is the administering body of any reserve; or
     
-    *   (b) any member of a local authority is by virtue of his office a member of the administering body of any reserve; or
+    *   (b) any member of a local authority is by virtue of his or her office a member of the administering body of any reserve; or
     
     *   (c) any reserve is generally used by the inhabitants of the district of a local authority,---
     
@@ -3206,15 +3268,15 @@ Financial provisions
     
 *   (1) Notwithstanding anything to the contrary in any Act, any local authority which is the administering body of a recreation reserve may borrow money for the improvement and development of the reserve or the purchase of other land for addition to the reserve or for payment of the consideration for any conservation covenant, and may in its capacity as an administering body expend for those purposes money so borrowed.
     
-    (2) Notwithstanding anything to the contrary in any Act, advances by way of loan may from time to time be made out of money appropriated by Parliament, or out of money paid into the Public Account to the credit of the Trust Account pursuant to [section 78][107] or [section 82][111] or [section 83][112] or [section 95(7)][128] or [section 105][142] or [section 110][150], to any administering body, whether a local authority or not, for the purpose of improving or developing any reserve under its control or the purchase of other land for addition to any such reserve. Every advance under this subsection shall be made upon such terms and conditions as the Minister of Finance thinks fit.
+    (2) Notwithstanding anything to the contrary in any Act, advances by way of loan may from time to time be made out of money appropriated by Parliament, or out of money paid into the Public Account to the credit of the Trust Account pursuant to [section 78][108] or [section 82][112] or [section 83][113] or [section 95(7)][129] or [section 105][143] or [section 110][151], to any administering body, whether a local authority or not, for the purpose of improving or developing any reserve under its control or the purchase of other land for addition to any such reserve. Every advance under this subsection shall be made upon such terms and conditions as the Minister of Finance thinks fit.
     
-    (3) Where any administering body borrows money pursuant to subsection (2) or to [section 89(1)][120], it may use any of its funds for the repayment of the money so borrowed and any interest payable thereon.
+    (3) Where any administering body borrows money pursuant to subsection (2) or to [section 89(1)][121], it may use any of its funds for the repayment of the money so borrowed and any interest payable thereon.
     
     (4) Where in the opinion of the Minister there is good and sufficient reason for so doing, the Minister may postpone or remit the payment of interest or principal in respect of any money borrowed by an administering body under subsection (2).
     
     Compare: 1953 No 69 s 80(1)--(4)
     
-    Section 90(1): amended, on 1 July 1998, by [section 16(1)][318] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 90(1): amended, on 1 July 1998, by [section 16(1)][320] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
 
 ##### 91 Administering body may have debit in accounts in anticipation of revenue
     
@@ -3224,7 +3286,7 @@ Financial provisions
     
     Compare: 1953 No 69 s 80(5); 1963 No 112 s 3
     
-    Section 91: amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 91: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
 
 ##### 92 Relief of lessees and licensees of reserves
     
@@ -3232,13 +3294,13 @@ Financial provisions
         
     *   (a) from time to time during the currency of the lease or licence, reduce the rent to be paid thereunder during the remainder or any part of the remainder of the term:
     
-    *   (b) from time to time during the currency or after the determination of the lease or licence compromise with the lessee or licensee for any rent due by him.
+    *   (b) from time to time during the currency or after the determination of the lease or licence compromise with the lessee or licensee for any rent due by him or her.
     
     Compare: 1953 No 69 s 81
     
-    Section 92: amended, on 1 July 1996, by [section 14(a)][319] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 92: amended, on 1 July 1996, by [section 14(a)][321] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 92 proviso: repealed, on 1 July 1996, by [section 14(b)][319] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 92 proviso: repealed, on 1 July 1996, by [section 14(b)][321] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ## Part 5  
 Miscellaneous provisions
@@ -3247,21 +3309,21 @@ Miscellaneous provisions
 
 ##### 93 Powers of constables, rangers, and other officers
     
-*   (1) Any officer may summarily interfere to prevent any actual or attempted breach of this Act or of any regulation or bylaw thereunder, and he may require any person found offending to desist from the offence. If any person when so required continues the offence, he commits a further offence against this Act.
+*   (1) Any officer may summarily interfere to prevent any actual or attempted breach of this Act or of any regulation or bylaw thereunder, and he or she may require any person found offending to desist from the offence. If any person when so required continues the offence, he or she commits a further offence against this Act.
     
-    (2) It shall be lawful for an officer to require any person found offending against this Act or any regulation or bylaw made under this Act to disclose his true first name, surname, and place of abode, and if that person, when so required,---
+    (2) It shall be lawful for an officer to require any person found offending against this Act or any regulation or bylaw made under this Act to disclose his or her true first name, surname, and place of abode, and if that person, when so required,---
         
-    *   (a) refuses to disclose his true first name, surname, or place of abode; or
+    *   (a) refuses to disclose his or her true first name, surname, or place of abode; or
     
     *   (b) gives a false name or address; or
     
-    *   (c) gives a description of his place of abode that is illusory for the purpose of discovery,---
+    *   (c) gives a description of his or her place of abode that is illusory for the purpose of discovery,---
     
     he commits an offence against this Act, and may be arrested without warrant by any constable.
     
     (3) Any person arrested under subsection (2) shall be brought before a court, as soon as possible, to be dealt with according to law.
     
-    (4) The production by any officer of his warrant, instrument of appointment, or other written evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by this section.
+    (4) The production by any officer of his or her warrant, instrument of appointment, or other written evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by this section.
     
     (5) In this section, _officer_ means---
         
@@ -3271,7 +3333,7 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 83
     
-    Section 93(5): replaced, on 1 October 2012, by [section 299(2)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 93(5): replaced, on 1 October 2012, by [section 299(2)][322] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 94 Offences on reserves
     
@@ -3295,11 +3357,11 @@ Miscellaneous provisions
     
     *   (i) takes or destroys or wilfully injures or in any manner disturbs or interferes with any animal or bird or other fauna or the nest or egg of any bird on any reserve; or
     
-    *   (j) deposits or throws on any reserve (being a reserve which is not a public place within the meaning of [section 2][321] of the Litter Act 1979) any substance or article of a dangerous or offensive nature or likely to be of a dangerous or offensive nature or any rubbish, except in a place or receptacle approved or provided by the Minister or the Commissioner or the administering body; or
+    *   (j) deposits or throws on any reserve (being a reserve which is not a public place within the meaning of [section 2][323] of the Litter Act 1979) any substance or article of a dangerous or offensive nature or likely to be of a dangerous or offensive nature or any rubbish, except in a place or receptacle approved or provided by the Minister or the Commissioner or the administering body; or
     
     *   (k) erects any building, sign, hoarding, or apparatus on any reserve; or
     
-    *   (ka) carries on within any reserve any activity for which a concession is required under [section 59A][81]; or
+    *   (ka) carries on within any reserve any activity for which a concession is required under [section 59A][82]; or
     
     *   (kb) carries on within any reserve vested in an administering body any trade, business, or occupation; or
     
@@ -3307,23 +3369,23 @@ Miscellaneous provisions
     
     *   (m) in any way interferes with a reserve or damages the recreational, scenic, historic, scientific, or natural features or the flora and fauna therein:
     
-    provided that nothing in any authorisation by the Minister or the Commissioner or the administering body to do any act which would otherwise be unlawful under paragraph (c) or paragraph (i) shall be deemed to authorise any person to do any act in contravention of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act.
+    provided that nothing in any authorisation by the Minister or the Commissioner or the administering body to do any act which would otherwise be unlawful under paragraph (c) or paragraph (i) shall be deemed to authorise any person to do any act in contravention of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act.
     
     (2) Every person commits an offence against this Act who---
         
     *   (a) when required by notice from the Minister or the Commissioner or the administering body to remove any animal from a reserve, fails to do so within the period specified in the notice; or
     
-    *   (b) being the driver of any vehicle or the pilot of any aircraft or the person in charge of any boat or hovercraft that is illegally on a reserve, fails or refuses to remove it from the reserve when so requested by any officer as defined in [section 93(5)][126]; or
+    *   (b) being the driver of any vehicle or the pilot of any aircraft or the person in charge of any boat or hovercraft that is illegally on a reserve, fails or refuses to remove it from the reserve when so requested by any officer as defined in [section 93(5)][127]; or
     
     *   (c) without a concession, lease, licence, permit, or other right or authority, does or causes to be done any act, matter, or thing for which a lease, licence, permit, or other right or authority is required by this Act or by any regulations under this Act; or
     
-    *   (d) not being an officer of the Department or a ranger, acting in either case in the course of his official duties, enters any nature reserve in breach of [section 20(2)(c)][29], or in breach of any condition imposed in any permit granted or notice given under [section 57][77]; or
+    *   (d) not being an officer of the Department or a ranger, acting in either case in the course of his or her official duties, enters any nature reserve in breach of [section 20(2)(c)][29], or in breach of any condition imposed in any permit granted or notice given under [section 57][78]; or
     
-    *   (da) being a person in charge of any boat, anchors or moors that boat in breach of a notice given under [section 57(3)][77] or [section 59(3)][80] or in breach of any permit granted under section 57(7) or section 59(7); or
+    *   (da) being a person in charge of any boat, anchors or moors that boat in breach of a notice given under [section 57(3)][78] or [section 59(3)][81] or in breach of any permit granted under section 57(7) or section 59(7); or
     
     *   (e) while any scientific reserve or any part of such a reserve is subject to a notice under [section 21(2)(b)][30] prohibiting entry---
             
-        *   (i) not being an officer of the Department or a ranger, acting in either case in the course of his official duties, or not being the holder of a permit issued under [section 59][80], enters the reserve or that part, as the case may be, in breach of the said section 59; or
+        *   (i) not being an officer of the Department or a ranger, acting in either case in the course of his or her official duties, or not being the holder of a permit issued under [section 59][81], enters the reserve or that part, as the case may be, in breach of the said section 59; or
         
         *   (ii) being the holder of such a permit, does not comply with any term or condition of the permit; or
         
@@ -3343,57 +3405,57 @@ Miscellaneous provisions
     
     *   (c) from outside a reserve, shoots at any fauna or any other object or thing inside the reserve with any firearm, weapon, or other instrument,---
     
-    and, where any person is found discharging a firearm, weapon, or other instrument in contravention of this subsection, [section 95(6)][128] shall apply in respect of that firearm, weapon, or other instrument in all respects as if it were illegally in the possession of that person in the reserve:
+    and, where any person is found discharging a firearm, weapon, or other instrument in contravention of this subsection, [section 95(6)][129] shall apply in respect of that firearm, weapon, or other instrument in all respects as if it were illegally in the possession of that person in the reserve:
     
-    provided that nothing in any such authorisation shall be deemed to authorise any person to do any act in contravention of the [Wildlife Act 1953][253] or any regulations or Proclamation or notification under that Act.
+    provided that nothing in any such authorisation shall be deemed to authorise any person to do any act in contravention of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act.
     
     (5) Where any person commits an offence against subsection (1)(j), the Minister or the Commissioner or the administering body, as the case may be, may cause the removal of any objects deposited or thrown in breach of that subsection, and the cost of that removal shall be assessed by a District Court Judge and shall be recoverable from that person in like manner as a fine.
     
-    (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
+    (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he or she may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
     
     Compare: 1953 No 69 s 84(1)--(5); 1968 No 134 s 17(2)
     
-    Section 94(1)(f): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 94(1)(f): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 94(1)(h): amended, on 1 July 1996, by [section 15(2)][322] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 94(1)(h): amended, on 1 July 1996, by [section 15(2)][324] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 94(1)(j): amended, on 2 November 1979, by [section 22(3)][323] of the Litter Act 1979 (1979 No 41).
+    Section 94(1)(j): amended, on 2 November 1979, by [section 22(3)][325] of the Litter Act 1979 (1979 No 41).
     
-    Section 94(1)(ka): substituted, on 1 July 1996, by [section 15(1)][322] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 94(1)(ka): replaced, on 1 July 1996, by [section 15(1)][324] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 94(1)(kb): inserted, on 1 July 1996, by [section 15(1)][322] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 94(1)(kb): inserted, on 1 July 1996, by [section 15(1)][324] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 94(2)(c): amended, on 1 July 1996, by [section 15(3)(a)][322] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 94(2)(c): amended, on 1 July 1996, by [section 15(3)(a)][324] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 94(2)(d): substituted, on 27 December 1983, by section 11 of the Reserves Amendment Act 1983 (1983 No 43).
+    Section 94(2)(d): replaced, on 27 December 1983, by section 11 of the Reserves Amendment Act 1983 (1983 No 43).
     
     Section 94(2)(da): inserted, on 27 December 1983, by section 11 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 94(2)(f): amended, on 1 July 1996, by [section 15(3)(b)][322] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 94(2)(f): amended, on 1 July 1996, by [section 15(3)(b)][324] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 94(3): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 94(3): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 94(5): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 94(5): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 94(5): amended, on 1 April 1980, pursuant to [section 18(2)][325] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(5): amended, on 1 April 1980, pursuant to [section 18(2)][327] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 94(6): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 94(6): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 94(6): amended, on 1 April 1980, pursuant to [section 18(2)][325] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(6): amended, on 1 April 1980, pursuant to [section 18(2)][327] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 95 Seizure and forfeiture of property
     
-*   (1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in [section 94(1)(f)][127], or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in [section 93(5)][126], if he has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act.
+*   (1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in [section 94(1)(f)][128], or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in [section 93(5)][127], if he or she has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act.
     
-    (2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the charge is dismissed, then, despite [subpart 6][326] of Part 4 of the Search and Surveillance Act 2012,---
+    (2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the charge is dismissed, then, despite [subpart 6][328] of Part 4 of the Search and Surveillance Act 2012,---
         
-    *   (a) in any case where the property seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with pursuant to the [Wildlife Act 1953][253]:
+    *   (a) in any case where the property seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with pursuant to the [Wildlife Act 1953][255]:
     
     *   (b) in any case where the property seized is a protected New Zealand object, it shall be dealt with as follows:
             
-        *   (i) where pursuant to the [Protected Objects Act 1975][181] it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
+        *   (i) where pursuant to the [Protected Objects Act 1975][182] it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
         
-        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the [Protected Objects Act 1975][181].
+        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the [Protected Objects Act 1975][182].
         
         
     
@@ -3401,67 +3463,67 @@ Miscellaneous provisions
     
     (3) Where in proceedings taken within that period in respect of that offence against the person from whom the property was seized the defendant is convicted, then---
         
-    *   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be deemed to be forfeited to the Crown and shall be dealt with pursuant to the [Wildlife Act 1953][253]:
+    *   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be deemed to be forfeited to the Crown and shall be dealt with pursuant to the [Wildlife Act 1953][255]:
     
     *   (b) in any case where the property seized is a protected New Zealand object, it shall be dealt with as follows:
             
-        *   (i) where pursuant to the [Protected Objects Act 1975][181] it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
+        *   (i) where pursuant to the [Protected Objects Act 1975][182] it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
         
-        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the [Protected Objects Act 1975][181]:
+        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the [Protected Objects Act 1975][182]:
         
         
     
     *   (c) in the case of any other property, it shall be deemed to be forfeited to the administering body, or to the Crown if there is no administering body, and shall be disposed of as the administering body or, if there is no administering body, the Commissioner, directs.
     
-    (4) Where any person is convicted of an offence against this Act, the court may order that any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, taken by the defendant in the course of committing the offence and still in his possession or in the possession of any other person on his behalf shall---
+    (4) Where any person is convicted of an offence against this Act, the court may order that any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, taken by the defendant in the course of committing the offence and still in his or her possession or in the possession of any other person on his or her behalf shall---
         
-    *   (a) in the case of any protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, be forfeited to the Crown, and the property shall be deemed to be forfeited to the Crown accordingly and shall forthwith be delivered to the Director-General by the defendant or person holding it on his behalf, and shall be dealt with pursuant to the [Wildlife Act 1953][253]:
+    *   (a) in the case of any protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, be forfeited to the Crown, and the property shall be deemed to be forfeited to the Crown accordingly and shall forthwith be delivered to the Director-General by the defendant or person holding it on his or her behalf, and shall be dealt with pursuant to the [Wildlife Act 1953][255]:
     
-    *   (b) in the case of any other property, be forfeited to the administering body, or to the Crown if there is no administering body, and the property shall be deemed to be forfeited to the administering body or to the Crown, as the case may be, accordingly, and shall forthwith be delivered to the administering body, or, if there is no administering body, to the Commissioner, by the defendant or person holding it on his behalf, and shall be disposed of as the administering body or the Commissioner directs.
+    *   (b) in the case of any other property, be forfeited to the administering body, or to the Crown if there is no administering body, and the property shall be deemed to be forfeited to the administering body or to the Crown, as the case may be, accordingly, and shall forthwith be delivered to the administering body, or, if there is no administering body, to the Commissioner, by the defendant or person holding it on his or her behalf, and shall be disposed of as the administering body or the Commissioner directs.
     
-    (5) All buildings, signs, hoardings, or apparatus erected on any reserve without the consent in writing of the Minister or the administering body shall be deemed to be forfeited to the Crown or, as the case may be, the administering body, and shall be disposed of by the Commissioner or that body in such manner as he or it thinks fit.
+    (5) All buildings, signs, hoardings, or apparatus erected on any reserve without the consent in writing of the Minister or the administering body shall be deemed to be forfeited to the Crown or, as the case may be, the administering body, and shall be disposed of by the Commissioner or that body in such manner as he or she or it thinks fit.
     
-    (6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of [section 93(5)][126]).
+    (6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of [section 93(5)][127]).
     
-    (6A) Subject to subsection (2), the provisions of [Part 4][327] of the Search and Surveillance Act 2012 (except [subpart 3][328]) apply in respect of the seizure of any thing under this section.
+    (6A) Subject to subsection (2), the provisions of [Part 4][329] of the Search and Surveillance Act 2012 (except [subpart 3][330]) apply in respect of the seizure of any thing under this section.
     
     (7) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall, where it is sold or disposed of by the Commissioner, be paid into the Public Account to the credit of the Trust Account, and may be applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, and developing reserves or as consideration for conservation covenants, and, where it is sold or disposed of by an administering body, shall form part of the funds of that body.
     
-    (8) In this section the term _protected wildlife_ means wildlife that pursuant to [section 3][329] of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
+    (8) In this section the term _protected wildlife_ means wildlife that pursuant to [section 3][331] of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
     
     Compare: 1953 No 69 s 84(7)--(9)
     
-    Section 95(1): amended, on 1 October 2012, by [section 299(3)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 95(1): amended, on 1 October 2012, by [section 299(3)][322] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 95(2): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 95(2): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 95(2): amended, on 1 October 2012, by [section 299(4)(a)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 95(2): amended, on 1 October 2012, by [section 299(4)(a)][322] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 95(2)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 95(2)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 95(2)(b): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(2)(b): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(2)(b)(i): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(2)(b)(i): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(2)(b)(i): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 95(2)(b)(i): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 95(2)(b)(ii): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(2)(b)(ii): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(2)(c): repealed, on 1 October 2012, by [section 299(4)(b)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 95(2)(c): repealed, on 1 October 2012, by [section 299(4)(b)][322] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 95(3)(b): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(3)(b): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(3)(b)(i): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(3)(b)(i): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(3)(b)(i): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 95(3)(b)(i): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 95(3)(b)(ii): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 95(3)(b)(ii): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 95(4)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 95(4)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 95(6): replaced, on 1 October 2012, by [section 299(5)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 95(6): replaced, on 1 October 2012, by [section 299(5)][322] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 95(6A): inserted, on 1 October 2012, by [section 299(5)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 95(6A): inserted, on 1 October 2012, by [section 299(5)][322] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 96 Trespassing animals
     
@@ -3469,7 +3531,7 @@ Miscellaneous provisions
         
     *   (a) may be seized by any person generally or specifically authorised in writing in that behalf by the administering body of the reserve or, if the reserve is not under the control and management of an administering body, by any person similarly authorised by the Commissioner; and
     
-    *   (b) shall thereupon be deemed to be forfeited to the administering body or the Crown, as the case may be, and the administering body or the Commissioner may cause them to be destroyed, sold, or otherwise disposed of as it or he thinks fit.
+    *   (b) shall thereupon be deemed to be forfeited to the administering body or the Crown, as the case may be, and the administering body or the Commissioner may cause them to be destroyed, sold, or otherwise disposed of as it or he or she thinks fit.
     
     (2) Where cattle, sheep, horses, or other animals of any kind whatsoever which are branded or which have a reputed owner are found trespassing on a reserve,---
         
@@ -3477,17 +3539,17 @@ Miscellaneous provisions
     
     *   (b) if any such cattle, sheep, horses, or other animals are not removed within the time mentioned in the notice, the administering body or the Commissioner, as the case may be, may cause them to be destroyed, sold, or otherwise disposed of, and no liability shall attach to the administering body or the Crown or the Commissioner or any other person for any damage occasioned thereby.
     
-    (3) Any person convicted of an offence against [section 94(1)(b)][127] shall, in addition to any penalty for which he may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
+    (3) Any person convicted of an offence against [section 94(1)(b)][128] shall, in addition to any penalty for which he or she may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
     
-    (4) Nothing in this section applies to wild animals (as defined in [section 2][330] of the Wild Animal Control Act 1977).
+    (4) Nothing in this section applies to wild animals (as defined in [section 2][332] of the Wild Animal Control Act 1977).
     
     Compare: 1953 No 69 s 84(6)
     
-    Section 96(3): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 96(3): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 96(3): amended, on 1 April 1980, pursuant to [section 18(2)][325] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 96(3): amended, on 1 April 1980, pursuant to [section 18(2)][327] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 96(4): added, on 25 November 1994, by section 7 of the Reserves Amendment Act 1994 (1994 No 110).
+    Section 96(4): inserted, on 25 November 1994, by section 7 of the Reserves Amendment Act 1994 (1994 No 110).
 
 ##### 97 Damage by fire
     
@@ -3501,9 +3563,9 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 85
     
-    Section 97(2): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 97(2): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 97(2): amended, on 1 April 1980, pursuant to [section 18(2)][325] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 97(2): amended, on 1 April 1980, pursuant to [section 18(2)][327] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 98 Offences with respect to officers or rangers
     
@@ -3511,7 +3573,7 @@ Miscellaneous provisions
         
     *   (a) personates or falsely pretends to be a ranger or an employee of the Crown or of any administering body; or
     
-    *   (b) offers violence to, or assaults, obstructs, or threatens, or attempts to intimidate, or uses abusive or threatening language or behaves in a threatening manner to, any ranger or employee of the Crown or of any administering body while that ranger or employee is acting in the exercise of his powers or the discharge of his duties under this Act; or
+    *   (b) offers violence to, or assaults, obstructs, or threatens, or attempts to intimidate, or uses abusive or threatening language or behaves in a threatening manner to, any ranger or employee of the Crown or of any administering body while that ranger or employee is acting in the exercise of his or her powers or the discharge of his or her duties under this Act; or
     
     *   (c) gives, or agrees to give, or offers to any such ranger or employee of the Crown or of any administering body any gift or consideration as an inducement or reward for any act done or to be done or any forbearance observed or to be observed, or any favour shown or to be shown by that ranger or employee, or who, being a ranger or employee of the Crown or a member, ranger, or employee of any administering body, accepts or agrees to accept or solicits any such gift or consideration as aforesaid.
     
@@ -3519,29 +3581,29 @@ Miscellaneous provisions
 
 ##### 99 Time for filing charging document
     
-*   Despite [section 25][331] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+*   Despite [section 25][333] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 99: replaced, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99: replaced, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Stopping and searching of boats
     
-*   (1) Any officer who has good cause to suspect that an offence against this Act or any regulations made under [section 123][164] or any bylaw made under [section 106][144] has been committed on or from or in respect of any boat or by any person on any boat, he may, while that boat is within the territorial sea of New Zealand (as defined in [section 3][332] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977),---
+*   (1) Any officer who has good cause to suspect that an offence against this Act or any regulations made under [section 123][165] or any bylaw made under [section 106][145] has been committed on or from or in respect of any boat or by any person on any boat, he or she may, while that boat is within the territorial sea of New Zealand (as defined in [section 3][334] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977),---
         
     *   (a) stop, board, and search the boat; and
     
-    *   (b) inspect, seize, and detain any specimens of flora or fauna or rock mineral or soil or protected New Zealand objects on board which he has good cause to suspect of having been taken from a reserve; and
+    *   (b) inspect, seize, and detain any specimens of flora or fauna or rock mineral or soil or protected New Zealand objects on board which he or she has good cause to suspect of having been taken from a reserve; and
     
-    *   (c) arrest without warrant any person whom he has good cause to suspect of having committed such an offence.
+    *   (c) arrest without warrant any person whom he or she has good cause to suspect of having committed such an offence.
     
-    (2) The provisions of [Part 4][327] of the Search and Surveillance Act 2012 (except [subpart 3][328]) apply in respect of any entry, search, or seizure conducted under this section.
+    (2) The provisions of [Part 4][329] of the Search and Surveillance Act 2012 (except [subpart 3][330]) apply in respect of any entry, search, or seizure conducted under this section.
     
-    (3) The production by any officer referred to in paragraph (b) or paragraph (c) or paragraph (d) of subsection (7) of his warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
+    (3) The production by any officer referred to in paragraph (b) or paragraph (c) or paragraph (d) of subsection (7) of his or her warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
     
-    (4) Where an officer arrests any person under subsection (1)(c), he shall cause that person to be brought before a court as soon as possible, to be dealt with according to law.
+    (4) Where an officer arrests any person under subsection (1)(c), he or she shall cause that person to be brought before a court as soon as possible, to be dealt with according to law.
     
-    (5) Without limiting the provisions of [section 98][131], any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
+    (5) Without limiting the provisions of [section 98][132], any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
     
-    (6) Subsections (2) to (4), (7), and (8) of [section 95][128] shall apply with respect to anything seized under subsection (1)(b) of this section as if it had been seized under section 95(1).
+    (6) Subsections (2) to (4), (7), and (8) of [section 95][129] shall apply with respect to anything seized under subsection (1)(b) of this section as if it had been seized under section 95(1).
     
     (7) In this section---
     
@@ -3561,21 +3623,21 @@ Miscellaneous provisions
     
     Section 100(1): amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
     
-    Section 100(1)(b): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 100(1)(b): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 100(2): replaced, on 1 October 2012, by [section 299(6)][320] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 100(2): replaced, on 1 October 2012, by [section 299(6)][322] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 100(7)(c): repealed, on 27 December 1983, by section 10(2) of the Reserves Amendment Act 1983 (1983 No 43).
 
 ##### 100A Removal of boats in certain circumstances
     
-*   (1) Where any boat is found in circumstances such that any person who is an officer within the meaning of [section 100][133] (in this section called **the officer**) has good cause to suspect that the person in charge of the boat is committing an offence against paragraph (d) or paragraph (da) of section 94(2) and the officer has good cause to suspect that the person in charge of the vessel is likely to continue to commit the offence or is likely to commit a further offence against those provisions, the officer may, while the boat is within the territorial sea of New Zealand (as defined in [section 3][332] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977), seize the boat and remove it to the nearest practicable port or place of safe anchorage, or to a safe position more than half a nautical mile from the shore of the reserve.
+*   (1) Where any boat is found in circumstances such that any person who is an officer within the meaning of [section 100][134] (in this section called **the officer**) has good cause to suspect that the person in charge of the boat is committing an offence against paragraph (d) or paragraph (da) of section 94(2) and the officer has good cause to suspect that the person in charge of the vessel is likely to continue to commit the offence or is likely to commit a further offence against those provisions, the officer may, while the boat is within the territorial sea of New Zealand (as defined in [section 3][334] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977), seize the boat and remove it to the nearest practicable port or place of safe anchorage, or to a safe position more than half a nautical mile from the shore of the reserve.
     
-    (2) Any officer may exercise the powers conferred on him by subsection (1) with the aid of such assistants as he considers to be necessary for the purpose.
+    (2) Any officer may exercise the powers conferred on him or her by subsection (1) with the aid of such assistants as he or she considers to be necessary for the purpose.
     
-    (3) The production by any officer of his warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
+    (3) The production by any officer of his or her warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
     
-    (4) Without limiting the provisions of [section 98][131], any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
+    (4) Without limiting the provisions of [section 98][132], any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
     
     Section 100A: inserted, on 27 December 1983, by section 12 of the Reserves Amendment Act 1983 (1983 No 43).
     
@@ -3585,7 +3647,7 @@ Miscellaneous provisions
     
 *   (1) All charging documents in respect of offences against this Act or any regulations or bylaws under it must be filed in the name of---
         
-    *   (a) the Commissioner, or some person appointed by him or by the Minister, in any case where the reserve is vested in the Crown and an administering body has not been appointed to control and manage the reserve; or
+    *   (a) the Commissioner, or some person appointed by him or her or by the Minister, in any case where the reserve is vested in the Crown and an administering body has not been appointed to control and manage the reserve; or
     
     *   (b) the principal administrative officer or chief executive of any administering body in which any reserve is vested or which has been appointed to control and manage any reserve, or some other person appointed in writing in that behalf by that administering body; or
     
@@ -3597,27 +3659,27 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 88
     
-    Section 101(1): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101(1): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 101(1)(b): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 101(1)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 101(1)(c): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 101(1)(c): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 101(2): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101(2): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 101(3): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101(3): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Evidence of offences
     
-*   (1) In every case where under [section 94][127] wilful intent must be shown, that intent shall be presumed until the contrary is shown.
+*   (1) In every case where under [section 94][128] wilful intent must be shown, that intent shall be presumed until the contrary is shown.
     
-    (2) If within a reserve or in its vicinity any person is found in possession of any wood, tree, shrub, fern, plant, stone, mineral, bird, egg, nest, animal, taonga tūturu, relic, or any part of any such thing, and, upon being thereunto required by any constable or ranger or any employee of the Crown or of any administering body employed in the reserve or by any ranger appointed under the [Wildlife Act 1953][253], fails or refuses to give a satisfactory account of the manner in which he became possessed of the same, he shall be deemed to have wilfully removed or taken the same in breach of this Act, unless he satisfies the court to the contrary.
+    (2) If within a reserve or in its vicinity any person is found in possession of any wood, tree, shrub, fern, plant, stone, mineral, bird, egg, nest, animal, taonga tūturu, relic, or any part of any such thing, and, upon being thereunto required by any constable or ranger or any employee of the Crown or of any administering body employed in the reserve or by any ranger appointed under the [Wildlife Act 1953][255], fails or refuses to give a satisfactory account of the manner in which he or she became possessed of the same, he or she shall be deemed to have wilfully removed or taken the same in breach of this Act, unless he or she satisfies the court to the contrary.
     
     (3) In any proceedings for an offence under this Act or any regulations or bylaws under this Act the averment that any lands in question form part of a reserve shall be sufficient without proof of that fact, unless the defendant proves to the contrary, and all maps and plans and copies certified as true under the hand of the Commissioner or the Chief Surveyor of the land district in which the land is situated shall be sufficient evidence of their contents without production of the original records and without the personal attendance of those officers or proof of their signatures.
     
     Compare: 1953 No 69 s 89
     
-    Section 102(2): amended, on 1 November 2006, by [section 35][190] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 102(2): amended, on 1 November 2006, by [section 35][191] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 102A Penalties for certain offences
     
@@ -3625,17 +3687,17 @@ Miscellaneous provisions
     
     (2) The provisions are---
         
-    *   (a) [section 94(1)(a) to (k), (l), and (m)][127], which relate to unauthorised acts on reserves:
+    *   (a) [section 94(1)(a) to (k), (l), and (m)][128], which relate to unauthorised acts on reserves:
     
-    *   (b) [section 94(2)(a), (b), (d), and (da)][127], which relate to failure to comply with requirements relating to animals, vehicles, aircraft, or boats:
+    *   (b) [section 94(2)(a), (b), (d), and (da)][128], which relate to failure to comply with requirements relating to animals, vehicles, aircraft, or boats:
     
-    *   (c) [section 94(4)(b) and (c)][127]:
+    *   (c) [section 94(4)(b) and (c)][128]:
     
-    *   (d) [section 97(1)][130], which relates to unauthorised fires:
+    *   (d) [section 97(1)][131], which relates to unauthorised fires:
     
-    *   (e) [section 98(b)][131], which relates to assaulting or obstructing rangers:
+    *   (e) [section 98(b)][132], which relates to assaulting or obstructing rangers:
     
-    *   (f) [section 100(5)][133], which relates to obstructing officers.
+    *   (f) [section 100(5)][134], which relates to obstructing officers.
     
     (3) The penalties are,---
         
@@ -3645,7 +3707,7 @@ Miscellaneous provisions
     
     *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
     
-    Section 102A: inserted, on 25 October 2013, by [section 15][333] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 102A: inserted, on 25 October 2013, by [section 15][335] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 102B Penalties for offences committed for commercial gain or reward
     
@@ -3659,7 +3721,7 @@ Miscellaneous provisions
     
     (2) Subsection (1) overrides every other provision of this Act to the contrary.
     
-    Section 102B: inserted, on 25 October 2013, by [section 15][333] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 102B: inserted, on 25 October 2013, by [section 15][335] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 103 Penalties
     
@@ -3671,7 +3733,7 @@ Miscellaneous provisions
     
     *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
     
-    Section 103: replaced, on 25 October 2013, by [section 16][334] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 103: replaced, on 25 October 2013, by [section 16][336] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 104 Penalty for breach of bylaws
     
@@ -3681,35 +3743,35 @@ Miscellaneous provisions
     
     *   (b) where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence continues.
     
-    Section 104: replaced, on 25 October 2013, by [section 16][334] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 104: replaced, on 25 October 2013, by [section 16][336] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 104A Sentence of community work
     
-*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][335] of the Sentencing Act 2002 apply with all necessary modifications.
+*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][337] of the Sentencing Act 2002 apply with all necessary modifications.
     
-    Section 104A: inserted, on 25 October 2013, by [section 16][334] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 104A: inserted, on 25 October 2013, by [section 16][336] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 105 Application of fines
     
-*   Subject to [section 73][336] of the Public Finance Act 1989, all fines recovered under this Act shall---
+*   Subject to [section 73][338] of the Public Finance Act 1989, all fines recovered under this Act shall---
         
     *   (a) in the case of a fine recovered in respect of a charging document filed in the name of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
     
     *   (b) in the case of a fine recovered in respect of a charging document filed in the name of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
     
-    provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of [section 94][127] and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
+    provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of [section 94][128] and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
     
     Compare: 1953 No 69 s 92
     
-    Section 105: amended, on 25 January 2005, by [section 37(1)][266] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 105: amended, on 25 January 2005, by [section 37(1)][268] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 105(a): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 105(a): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 105(a): amended, on 1 July 2003, by [section 262][192] of the Local Government Act 2002 (2002 No 84).
+    Section 105(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
     
-    Section 105(b): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 105(b): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 105(b): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 105(b): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
 
 #### Bylaws
 
@@ -3727,7 +3789,7 @@ Miscellaneous provisions
     
     *   (e) the control of all persons, horses, dogs, and other animals, and vehicles or boats or aircraft or hovercraft of any description using or frequenting a reserve:
     
-    *   (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of alcohol (within the meaning of [section 5(1)][337] of the Sale and Supply of Alcohol Act 2012), either generally or on specified occasions or during specified periods:
+    *   (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of alcohol (within the meaning of [section 5(1)][339] of the Sale and Supply of Alcohol Act 2012), either generally or on specified occasions or during specified periods:
     
     *   (g) prescribing the safety devices to be fitted to any machinery or devices operating in a reserve under the authority of any agreement, lease, or licence, and regulating the operation and maintenance of such machinery or devices:
     
@@ -3737,7 +3799,7 @@ Miscellaneous provisions
     
     *   (j) generally regulating the use of a reserve, and providing for the preservation of order therein, the prevention of any nuisance therein, and for the safety of people using the reserve.
     
-    (2) Subject to [section 108][146], every administering body may with respect to the reserve under its control make bylaws for all or any of the purposes specified in subsection (1) in the form prescribed pursuant to that subsection, with such variations of or additions to the prescribed form of bylaws as the Minister considers necessary for the proper control and administration of the reserve.
+    (2) Subject to [section 108][147], every administering body may with respect to the reserve under its control make bylaws for all or any of the purposes specified in subsection (1) in the form prescribed pursuant to that subsection, with such variations of or additions to the prescribed form of bylaws as the Minister considers necessary for the proper control and administration of the reserve.
     
     (2A) For the avoidance of doubt it is hereby declared that the power to make bylaws conferred on administering bodies by this section is in addition to and not in substitution for any power to make bylaws relating to the reserve under any other Act.
     
@@ -3745,9 +3807,9 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 53
     
-    Section 106(1)(c): replaced, on 10 April 1990, by [section 104][338] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 106(1)(c): replaced, on 10 April 1990, by [section 104][340] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 106(1)(f): amended, on 18 December 2013, by [section 417(1)][339] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    Section 106(1)(f): amended, on 18 December 2013, by [section 417(1)][341] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
     Section 106(2A): inserted, on 27 December 1983, by section 13 of the Reserves Amendment Act 1983 (1983 No 43).
 
@@ -3757,9 +3819,9 @@ Miscellaneous provisions
         
     *   (a) if the administering body is a local authority, the bylaws shall be made in the same manner as that in which the local authority is authorised by law to make bylaws:
     
-    *   (b) if the administering body is not a local authority, the bylaws shall be made by resolution of the administering body, and shall have the seal of the administering body duly affixed thereto (if the administering body is a corporate body), or (if the administering body is not a corporate body) shall be signed by the chairman and 1 other member of the administering body, and a notice stating the object or purport of the proposed bylaws shall be published in some newspaper circulating in the district in which the reserve is situated once in each of the 2 weeks immediately preceding the day on which the bylaws are made.
+    *   (b) if the administering body is not a local authority, the bylaws shall be made by resolution of the administering body, and shall have the seal of the administering body duly affixed thereto (if the administering body is a corporate body), or (if the administering body is not a corporate body) shall be signed by the chairperson and 1 other member of the administering body, and a notice stating the object or purport of the proposed bylaws shall be published in some newspaper circulating in the district in which the reserve is situated once in each of the 2 weeks immediately preceding the day on which the bylaws are made.
     
-    Compare: 1953 No 96 s 93
+    Compare: 1953 No 69 s 93
 
 ##### 108 Bylaws to be approved by Minister
     
@@ -3767,7 +3829,7 @@ Miscellaneous provisions
     
     (2) Approval of any bylaw by the Minister shall be conclusive evidence that it has been duly made under this Act.
     
-    Compare: 1953 No 96 s 94
+    Compare: 1953 No 69 s 94
     
     Section 108(1): amended, on 27 December 1983, by section 14 of the Reserves Amendment Act 1983 (1983 No 43).
 
@@ -3779,7 +3841,7 @@ Miscellaneous provisions
     
     (2) Notwithstanding anything to the contrary in this Act or any other Act, the Governor-General may from time to time, by Order in Council, declare to be subject to the Coal Mines Act 1925 or to any specified provisions of that Act, as if it were Crown land as defined by that Act, any reserve within the meaning of this Act consisting of land vested in the Crown or alienated from the Crown as a reserve which contains coal:
     
-    provided that every grant of a coal mining right over any such land so declared to be subject to the Coal Mines Act 1925 or to any specified provisions thereof shall be subject to the consent of the Minister, who may refuse his consent or grant it unconditionally or on such conditions as he thinks fit to impose:
+    provided that every grant of a coal mining right over any such land so declared to be subject to the Coal Mines Act 1925 or to any specified provisions thereof shall be subject to the consent of the Minister, who may refuse his or her consent or grant it unconditionally or on such conditions as he or she thinks fit to impose:
     
     provided also that in the case of a scenic reserve this subsection shall be read subject to the Coal Mines Act 1925\.
     
@@ -3787,7 +3849,7 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 96; 1971 No 25 s 245
     
-    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][342] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 #### General provisions
 
@@ -3807,7 +3869,7 @@ Miscellaneous provisions
         
         *   (iii) is a motor vehicle and no licence to use the vehicle issued for the current licensing year is affixed to it,---
         
-        the administering body or the Commissioner, as the case may be, may give not less than 14 days' notice, by advertisement in 2 issues of a daily newspaper circulating in the district in which the reserve is situated, of its or his intention to sell or destroy the vehicle or boat, as the case may be:
+        the administering body or the Commissioner, as the case may be, may give not less than 14 days' notice, by advertisement in 2 issues of a daily newspaper circulating in the district in which the reserve is situated, of its or his or her intention to sell or destroy the vehicle or boat, as the case may be:
     
     *   (b) if in the case of any vehicle---
             
@@ -3815,7 +3877,7 @@ Miscellaneous provisions
         
         *   (ii) a licence to use the vehicle issued for the current licensing year is attached to it,---
         
-        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][341] of the Land Transport Act 1998 in respect of the vehicle of its or his intention to sell or destroy the vehicle, by delivering the notice to him personally or by posting it to him by registered letter addressed to him at his last-known place of abode or business in New Zealand.
+        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][343] of the Land Transport Act 1998 in respect of the vehicle of its or his or her intention to sell or destroy the vehicle, by delivering the notice to him or her personally or by posting it to him or her by registered letter addressed to him or her at his or her last-known place of abode or business in New Zealand.
     
     (4) Unless before the expiry of the notice given under subsection (3) the owner of the vehicle or boat---
         
@@ -3831,13 +3893,13 @@ Miscellaneous provisions
     
     (7) In this section---
     
-    expressions defined in the [Land Transport Act 1998][342] have, in relation to any motor vehicle, the meanings so defined
+    expressions defined in the [Land Transport Act 1998][344] have, in relation to any motor vehicle, the meanings so defined
     
     _moored_, in relation to any boat, includes being left aground or on land.
     
-    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][343] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][345] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 110(7): amended, on 1 May 2011, by [section 35(4)][343] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(7): amended, on 1 May 2011, by [section 35(4)][345] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 111 Road reserve may be dedicated as a road
     
@@ -3849,15 +3911,15 @@ Miscellaneous provisions
 
 ##### 112 District Land Registrar not to give effect to dealings not in conformity with trusts
     
-*   (1) No District Land Registrar shall without special authority of law register or otherwise give effect under the [Land Transfer Act 1952][231] to any dealing with any reserve except in conformity with the trusts upon which the reserve is held for the time being.
+*   (1) No District Land Registrar shall without special authority of law register or otherwise give effect under the [Land Transfer Act 1952][233] to any dealing with any reserve except in conformity with the trusts upon which the reserve is held for the time being.
     
-    (2) Subsections (1), (2), (3), and (5) of [section 129][344] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][231].
+    (2) Subsections (1), (2), (3), and (5) of [section 129][346] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][233].
     
     Compare: 1953 No 69 s 99
 
 ##### 113 Form of leases and licences of reserves
     
-*   (1) Subject to [section 59A][81], every lease granted over any reserve vested in the Crown shall be in such form and subject to such covenants and conditions, not inconsistent with this Act, as the Minister determines, and the lessee shall pay such fee for the preparation of the lease, and for the registration thereof where registration is required, as the Minister prescribes.
+*   (1) Subject to [section 59A][82], every lease granted over any reserve vested in the Crown shall be in such form and subject to such covenants and conditions, not inconsistent with this Act, as the Minister determines, and the lessee shall pay such fee for the preparation of the lease, and for the registration thereof where registration is required, as the Minister prescribes.
     
     (2) Every licence granted by the administering body shall be in such form and subject to such conditions, not inconsistent with this Act, as the administering body determines, and the licensee shall pay such fee for the preparation of the licence as the administering body prescribes.
     
@@ -3865,49 +3927,49 @@ Miscellaneous provisions
     
     (4) Any lease or licence may be varied to suit the circumstances of any particular case which may arise.
     
-    (5) If any person who has been granted a lease or licence fails to sign his lease or licence within 1 month after being required by written notice so to do, the administering body may declare the right of that person to obtain a lease or licence to be cancelled, and thereupon the amount paid in terms of the grant and the sum paid for the preparation and registration of the lease or licence shall, unless the administering body otherwise determines, be deemed to be forfeited.
+    (5) If any person who has been granted a lease or licence fails to sign his or her lease or licence within 1 month after being required by written notice so to do, the administering body may declare the right of that person to obtain a lease or licence to be cancelled, and thereupon the amount paid in terms of the grant and the sum paid for the preparation and registration of the lease or licence shall, unless the administering body otherwise determines, be deemed to be forfeited.
     
-    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][345] shall apply with respect to such leases.
+    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][347] shall apply with respect to such leases.
     
     Compare: 1953 No 69 s 30
     
-    Section 113(1): amended, on 1 July 1996, by [section 16(1)][346] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(1): amended, on 1 July 1996, by [section 16(1)][348] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(2): substituted, on 1 July 1996, by [section 16(2)][346] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(2): replaced, on 1 July 1996, by [section 16(2)][348] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][346] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][348] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][346] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][348] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][349] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
 
 ##### 114 Variation of covenants, terms, and conditions in leases and licences
     
-*   (1) Subject to [section 17ZC][348] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
+*   (1) Subject to [section 17ZC][350] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
     
     (2) The memorandum of variation shall be executed by the administering body and by the lessee or licensee, and, if the lease or licence is registered with the District Land Registrar, shall be registered with the District Land Registrar, who shall enter an appropriate memorial on the register book copy of the lease or licence and on the outstanding copy thereof:
     
-    provided that, notwithstanding anything to the contrary in [section 66][349] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
+    provided that, notwithstanding anything to the contrary in [section 66][351] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
     
-    (3) If the interest of the lessee or licensee is at the time of registration of the memorandum of variation subject to a mortgage, the memorandum shall not be binding on the mortgagee unless he has consented in writing thereto in the memorandum.
+    (3) If the interest of the lessee or licensee is at the time of registration of the memorandum of variation subject to a mortgage, the memorandum shall not be binding on the mortgagee unless he or she has consented in writing thereto in the memorandum.
     
     (4) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the New Zealand Railways Corporation Act 1981 shall apply with respect to variations of such leases.
     
     (5) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][350] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][352] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][350] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][352] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][350] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][352] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][349] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 114(5): added, on 1 July 1996, by [section 17(2)][350] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(5): inserted, on 1 July 1996, by [section 17(2)][352] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 115 Transfers, subleases, and mortgages
     
-*   (1) Where a lease or licence includes a right to transfer, the lessee or licensee shall not transfer, sublease, mortgage, or otherwise dispose of his interest or any part thereof in the lease or licence without the consent of the administering body.
+*   (1) Where a lease or licence includes a right to transfer, the lessee or licensee shall not transfer, sublease, mortgage, or otherwise dispose of his or her interest or any part thereof in the lease or licence without the consent of the administering body.
     
     (2) The administering body shall at all times have power in the public interest and in its discretion to refuse any application for consent whatsoever or to grant its consent subject to such conditions as it thinks fit.
     
@@ -3915,37 +3977,37 @@ Miscellaneous provisions
     
     (4) \[Repealed\]
     
-    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][345] shall apply with respect to transfers, subleases, and mortgages of such leases.
+    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][347] shall apply with respect to transfers, subleases, and mortgages of such leases.
     
     (6) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][351] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][353] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][351] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][353] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][351] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][353] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][351] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][353] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][349] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 115(6): added, on 1 July 1996, by [section 18(2)][351] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(6): inserted, on 1 July 1996, by [section 18(2)][353] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 116 Certificate of title in respect of reserves
     
-*   (1) The District Land Registrar for the land registration district in which is situated any reserve vested in the Crown shall, on the written request of the Commissioner, issue a certificate or certificates of title under the [Land Transfer Act 1952][231] in the name of Her Majesty the Queen in respect of any land for the time being comprised in that reserve.
+*   (1) The District Land Registrar for the land registration district in which is situated any reserve vested in the Crown shall, on the written request of the Commissioner, issue a certificate or certificates of title under the [Land Transfer Act 1952][233] in the name of the Sovereign in respect of any land for the time being comprised in that reserve.
     
-    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][352] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
+    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][354] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
     
-    (3) Where any District Land Registrar issues any certificate of title under this section, he shall not prepare a duplicate thereof, and the copy of the certificate of title embodied in the register shall be noted accordingly.
+    (3) Where any District Land Registrar issues any certificate of title under this section, he or she shall not prepare a duplicate thereof, and the copy of the certificate of title embodied in the register shall be noted accordingly.
     
-    (4) Where any land subject to the [Land Transfer Act 1952][231] is acquired by or becomes vested in the Crown for the purposes of this Act, the duplicate certificate of title shall be cancelled by the District Land Registrar. The copy of the certificate of title embodied in the register shall be endorsed to the effect that the duplicate thereof has been cancelled.
+    (4) Where any land subject to the [Land Transfer Act 1952][233] is acquired by or becomes vested in the Crown for the purposes of this Act, the duplicate certificate of title shall be cancelled by the District Land Registrar. The copy of the certificate of title embodied in the register shall be endorsed to the effect that the duplicate thereof has been cancelled.
     
-    (5) Where before the commencement of the Reserves and Domains Act 1953 a certificate of title had been issued for any land which at the commencement of this Act is subject to this Act and vested in the Crown, the District Land Registrar shall, on the written request of the Commissioner and on the surrender to him of the duplicate certificate of title, cancel that duplicate certificate. The certificate of title embodied in the register shall be endorsed to the effect that the duplicate thereof has been cancelled.
+    (5) Where before the commencement of the Reserves and Domains Act 1953 a certificate of title had been issued for any land which at the commencement of this Act is subject to this Act and vested in the Crown, the District Land Registrar shall, on the written request of the Commissioner and on the surrender to him or her of the duplicate certificate of title, cancel that duplicate certificate. The certificate of title embodied in the register shall be endorsed to the effect that the duplicate thereof has been cancelled.
     
     (6) Every certificate of title referred to in this section shall include a reference to the purpose for which the land is held. Where an existing certificate of title does not include such a reference, the District Land Registrar shall, without fee, upon receipt of a certificate under the hand of the Commissioner stating the purpose for which the land is held, note the register accordingly.
     
-    (7) Any instrument which relates to the land in any such certificate of title and is duly executed by a person having the proper authority may be registered in accordance with the [Land Transfer Act 1952][231], and the District Land Registrar shall enter a memorial of the interest upon the register against the certificate of title. It shall not be necessary for the Registrar to register the like memorial on any duplicate certificate of title or to demand production or surrender of any duplicate certificate of title.
+    (7) Any instrument which relates to the land in any such certificate of title and is duly executed by a person having the proper authority may be registered in accordance with the [Land Transfer Act 1952][233], and the District Land Registrar shall enter a memorial of the interest upon the register against the certificate of title. It shall not be necessary for the Registrar to register the like memorial on any duplicate certificate of title or to demand production or surrender of any duplicate certificate of title.
     
     (8) A copy of any resolution gazetted under [section 14][18] or of any notice by the Minister under this Act and published in the _Gazette_ may be forwarded to the District Land Registrar or the Registrar of Deeds, as the case may require, who shall thereupon, without payment of any fee, record the copy of the resolution or notice and register it against the appropriate title (if any).
     
@@ -3955,7 +4017,7 @@ Miscellaneous provisions
 
 ##### 117 Commissioner may execute documents on behalf of the Crown
     
-*   All documents which require to be executed for the purpose of this Act by or on behalf of Her Majesty the Queen or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Commissioner, and if so executed shall be as valid and effectual as if executed by or on behalf of Her Majesty or by or on behalf of the Minister, as the case may be.
+*   All documents which require to be executed for the purpose of this Act by or on behalf of the Sovereign or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Commissioner, and if so executed shall be as valid and effectual as if executed by or on behalf of the Sovereign or by or on behalf of the Minister, as the case may be.
     
     Compare: 1953 No 69 s 101
 
@@ -3991,19 +4053,19 @@ Miscellaneous provisions
         
         provided also that where under this subsection a notification is required to be published in a newspaper circulating in the area in which the reserve or proposed reserve is situated and there is no such newspaper, the notification shall be published once in the _Gazette_.
     
-    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][353] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his agent, and, if he has no known agent, the notice may be given to him by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
+    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][355] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his or her agent, and, if he or she has no known agent, the notice may be given to him or her by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
     
     (3) Every notice by the Minister under this Act shall come into force on the day of the date thereof or on such later date as may be specified in the notice.
     
     Compare: 1953 No 69 s 103
     
-    Section 119(1): substituted, on 1 January 1980, by section 27 of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 119(1): replaced, on 1 January 1980, by section 27 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 119(2): amended, on 1 July 1993, pursuant to [section 362(2)][193] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 119(2): amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 120 Rights of objection and of making submissions
     
-*   (1) Subject to [sections 13][17] and [47][64], where pursuant to any requirement of this Act (except [sections 24][33], [24A][34], and [41][57]) the Minister or any administering body gives public notice of his or its intention to exercise any power conferred by this Act---
+*   (1) Subject to [sections 13][17] and [47][65], where pursuant to any requirement of this Act (except [sections 24][33], [24A][34], and [41][58]) the Minister or any administering body gives public notice of his or her or its intention to exercise any power conferred by this Act---
         
     *   (a) any person or organisation may object to the Minister or administering body, as the case may be, against, or make submissions with respect to, the proposal; and
     
@@ -4011,37 +4073,37 @@ Miscellaneous provisions
         
         provided that, where the date of publication of the notice falls within the period commencing with 10 December in any year and ending with 10 January in the next succeeding year, the date before which objections and submissions shall be made shall be not earlier than 10 February next following that period; and
     
-    *   (c) where the objector or person or organisation making the submission so requests in his or its objection or submission, the Minister or administering body, as the case may be, shall give the objector or that person or organisation a reasonable opportunity of appearing before the Commissioner (in the case of a notice given by the Minister) or, as the case may be, before the administering body or a committee thereof or a person nominated by the administering body in support of his or its objection or submission; and
+    *   (c) where the objector or person or organisation making the submission so requests in his or her or its objection or submission, the Minister or administering body, as the case may be, shall give the objector or that person or organisation a reasonable opportunity of appearing before the Commissioner (in the case of a notice given by the Minister) or, as the case may be, before the administering body or a committee thereof or a person nominated by the administering body in support of his or her or its objection or submission; and
     
     *   (d) the Minister or the administering body, as the case may be, shall give full consideration to every objection or submission received before deciding to proceed with the proposal; and
     
-    *   (e) where the action proposed by an administering body requires the consent or approval of the Minister and is recommended to the Minister for his consent or approval under any provision of this Act, the administering body shall send to the Minister with its recommendation a summary of all objections and comments received by it and a statement as to the extent to which they have been allowed or accepted or disallowed or not accepted.
+    *   (e) where the action proposed by an administering body requires the consent or approval of the Minister and is recommended to the Minister for his or her consent or approval under any provision of this Act, the administering body shall send to the Minister with its recommendation a summary of all objections and comments received by it and a statement as to the extent to which they have been allowed or accepted or disallowed or not accepted.
     
     (2) Every public notice to which subsection (1) applies shall specify the right to object or make submissions conferred by this section and the place to which and the date by which any objections or submissions are to be sent.
     
-    (3) The person or administering body or committee before whom or which any person appears at any hearing in support of any objection or submission shall determine his or its own procedure at the hearing.
+    (3) The person or administering body or committee before whom or which any person appears at any hearing in support of any objection or submission shall determine his or her or its own procedure at the hearing.
     
     Section 120(1): amended, on 1 January 1980, by section 28 of the Reserves Amendment Act 1979 (1979 No 63).
     
     Section 120(1)(b): amended, on 1 January 1980, by section 29(a) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 120(1)(b) proviso: added, on 1 January 1980, by section 29(b) of the Reserves Amendment Act 1979 (1979 No 63).
+    Section 120(1)(b) proviso: inserted, on 1 January 1980, by section 29(b) of the Reserves Amendment Act 1979 (1979 No 63).
 
 ##### 121 Minister may give conditional consent or approval
     
-*   Where under any provision of this Act the consent or approval of the Minister is required, he may give his consent or approval subject to such conditions as he thinks fit.
+*   Where under any provision of this Act the consent or approval of the Minister is required, he or she may give his or her consent or approval subject to such conditions as he or she thinks fit.
 
 ##### 122 Special provisions as to reserves administered under Tourist and Health Resorts Control Act 1908
     
-*   (1) [Section 8][354] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
+*   (1) [Section 8][356] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
         
-    *   (a) confer on the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185] the powers conferred by this Act on the Minister of Conservation for leasing a reserve of that classification:
+    *   (a) confer on the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][186] the powers conferred by this Act on the Minister of Conservation for leasing a reserve of that classification:
         
-        provided that, notwithstanding anything in [section 59A][81], the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185] may, where he considers that special circumstances exist, grant leases under that section of the whole or any part of any such reserve for such term not exceeding 30 years including renewals, or in exceptional circumstances for such term not exceeding 60 years including renewals, and upon such terms and conditions, and at such rents, as he thinks fit:
+        provided that, notwithstanding anything in [section 59A][82], the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][186] may, where he or she considers that special circumstances exist, grant leases under that section of the whole or any part of any such reserve for such term not exceeding 30 years including renewals, or in exceptional circumstances for such term not exceeding 60 years including renewals, and upon such terms and conditions, and at such rents, as he or she thinks fit:
         
         provided also that no lease shall be granted for an aggregate term, including renewals, exceeding 30 years without the written consent of the Minister of Conservation:
     
-    *   (b) confer on the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185]---
+    *   (b) confer on the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][186]---
             
         *   (i) all powers, duties, and functions which are by this Act conferred and imposed on the Commissioner with respect to a reserve of that classification not controlled by an administering body:
         
@@ -4049,47 +4111,49 @@ Miscellaneous provisions
         
         provided that it shall not be necessary for the chief executive to obtain any consent or approval or to abide by any specification of the Minister of Conservation in exercising any power, duty, or function provided for by this Act:
     
-    *   (c) apply to those reserves, with such modifications as may be necessary, the provisions of [section 59A][81] and[sections 93 to 105][126]; and every reference in those sections to the Commissioner shall be deemed to be a reference to the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185]:
+    *   (c) apply to those reserves, with such modifications as may be necessary, the provisions of [section 59A][82] and[sections 93 to 105][127]; and every reference in those sections to the Commissioner shall be deemed to be a reference to the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][186]:
     
-    *   (d) apply to those reserves, with such modifications as may be necessary, the provisions of [sections 106 to 108][144]; and every reference in those sections to the Minister shall be deemed to be a reference to the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185].
+    *   (d) apply to those reserves, with such modifications as may be necessary, the provisions of [sections 106 to 108][145]; and every reference in those sections to the Minister shall be deemed to be a reference to the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][186].
     
-    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][355] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][118] of this Act as to statements of assets and liabilities and accounts shall not apply with respect to those reserves.
+    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][357] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][119] of this Act as to financial statements shall not apply with respect to those reserves.
     
-    (3) The powers conferred by this section shall be in addition to and not in substitution for any existing powers in respect of reserves administered under the [Tourist and Health Resorts Control Act 1908][185].
+    (3) The powers conferred by this section shall be in addition to and not in substitution for any existing powers in respect of reserves administered under the [Tourist and Health Resorts Control Act 1908][186].
     
     Compare: 1953 No 69 s 105
     
-    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 122(1)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][357] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][359] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][357] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][359] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][357] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][359] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) second proviso: amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 122(1)(a) second proviso: amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][357] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][359] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][357] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][359] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][358] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    
+    Section 122(2): amended, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 122A Control of dogs
     
-*   (1) Nothing in this Act derogates from the provisions of [Part 5C][358] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of section 26ZT of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
+*   (1) Nothing in this Act derogates from the provisions of [Part 5C][360] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of [section 26ZT][361] of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
     
-    (2) Paragraphs (b) and (c) of [section 26ZT][359] of the Conservation Act 1987 provide that an open dog area may not include---
+    (2) Paragraphs (b) and (c) of [section 26ZT][361] of the Conservation Act 1987 provide that an open dog area may not include---
         
     *   (a) any part of a reserve classified---
             
@@ -4103,7 +4167,7 @@ Miscellaneous provisions
         
         
     
-    *   (b) any part of a reserve set apart under [section 47][64] as a wilderness area.
+    *   (b) any part of a reserve set apart under [section 47][65] as a wilderness area.
     
     Section 122A: inserted, on 2 May 1996, by section 9 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -4117,9 +4181,9 @@ Miscellaneous provisions
     
     (2) Without limiting the general authority to make regulations conferred by subsection (1), regulations may be made under that subsection providing for the expulsion from reserves of persons acting thereon in contravention of any Act relating to betting or gaming.
     
-    Section 123(1)(b): amended, on 25 October 2013, by [section 17(a)][360] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 123(1)(b): amended, on 25 October 2013, by [section 17(a)][362] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 123(1)(b): amended, on 25 October 2013, by [section 17(b)][360] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 123(1)(b): amended, on 25 October 2013, by [section 17(b)][362] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 124 Amendments
     
@@ -4133,15 +4197,15 @@ Miscellaneous provisions
     
     *   (d) to a racecourse reserve shall after the commencement of this Act be read as a reference to a recreation reserve set apart for racecourse purposes:
     
-    *   (e) to a private scenic reserve or a private historic reserve shall after the commencement of this Act be read as a reference to protected private land declared as such under [section 76][103].
+    *   (e) to a private scenic reserve or a private historic reserve shall after the commencement of this Act be read as a reference to protected private land declared as such under [section 76][104].
     
-    (2) The enactments specified in [Schedule 2][168] are hereby amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 2][169] are hereby amended in the manner indicated in that schedule.
     
-    Section 124(1)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
+    Section 124(1)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
 
 ##### 125 Repeals
     
-*   (1) The enactments specified in [Schedule 3][169] are hereby repealed.
+*   (1) The enactments specified in [Schedule 3][170] are hereby repealed.
     
     (2) Any power under this Act which the Minister may exercise by notice in the _Gazette_ to revoke any reservation or to change the purpose of any reservation or to revoke any vesting or appointment or setting apart may be so exercised in respect of any reserve constituted or office held at the commencement of this Act, notwithstanding that the reservation or vesting or appointment or setting apart was originally made by the Governor-General by Order in Council or Proclamation or Warrant.
 
@@ -4150,7 +4214,7 @@ Miscellaneous provisions
 ## Schedule 1  
 Basic provisions applicable to leases or licences of recreation reserves and scenic reserves
 
-[ss 54][74], [56][76], [73][98]
+[ss 54][75], [56][77], [73][99]
 
 ###### Lease under section 54(1)(a)---Lease of recreation reserve for baths, camping grounds, etc
 
@@ -4174,9 +4238,9 @@ Erection of buildings The lease shall prohibit the erection of any building with
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or
 
@@ -4204,17 +4268,17 @@ Erection of buildings The lease shall prohibit the erection of any building with
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may---
     
 *   (a) include an allocation of the use of a portion of the reserve, to be specified from time to time by the lessor, for the playing of specified sports, games, or other recreational activity. Such allocation may be for a whole year, part of a year, or for certain days in a year:
 
-*   (b) grant the exclusive use of the land in the lease or allocated in terms of the lease on a specified number of days in each year during the term of the lease, but subject to the limitation imposed by [section 53][73] as to the number of days on which a charge for admission to the ground and to any stands, pavilions, gymnasiums, or other buildings or facilities may be made:
+*   (b) grant the exclusive use of the land in the lease or allocated in terms of the lease on a specified number of days in each year during the term of the lease, but subject to the limitation imposed by [section 53][74] as to the number of days on which a charge for admission to the ground and to any stands, pavilions, gymnasiums, or other buildings or facilities may be made:
 
 *   (c) include a condition requiring the lessee to allow the use of playing facilities by non-members, on the payment of reasonable fees, on any occasion when playing facilities are open for play and the lessee is not exercising any right of exclusive use of the land:
 
 *   (d) include a condition requiring the lessee to make the whole or part of any stands, pavilions, gymnasiums, or other buildings or structures available from time to time at reasonable charges to such other voluntary organisation using the reserve or part of it for outdoor sports, games, or recreational activities, or in special circumstances for recreation not directly associated with outdoor recreation:
 
-*   (e) provide that, notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; may provide that, where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or may provide that an incoming lessee shall pay to the outgoing lessee the value as determined by the Minister of specified improvements
+*   (e) provide that, notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; may provide that, where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or may provide that an incoming lessee shall pay to the outgoing lessee the value as determined by the Minister of specified improvements
 
 ###### Lease under section 54(1)(c)---Lessee of recreation reserve required to make substantial expenditure
 
@@ -4238,17 +4302,17 @@ Erection of buildings The lease shall prohibit the erection of any building with
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall---
     
 *   (a) include the right to erect such stands, pavilions, gymnasiums, and other buildings and structures as the lessor determines are associated with and are necessary for the use of that part of the reserve for specified sports, games, or other recreational activity:
 
-*   (b) grant the exclusive use of the land on a specified number of days in each year during the term of the lease, but subject to the limitation imposed by [section 53][73] as to the number of days on which a charge for admission to the ground and to any buildings, stands, or facilities may be made:
+*   (b) grant the exclusive use of the land on a specified number of days in each year during the term of the lease, but subject to the limitation imposed by [section 53][74] as to the number of days on which a charge for admission to the ground and to any buildings, stands, or facilities may be made:
 
 *   (c) include a condition requiring the lessee to allow the use of playing facilities by non-members, on the payment of reasonable fees, on any occasion when playing facilities are open for play and the lessee is not exercising any right of exclusive use of the land:
 
 *   (d) include a condition requiring the lessee to make the whole or part of any stands, pavilions, gymnasiums, or other buildings or structures available from time to time at reasonable charges to such other voluntary organisation using the reserve or part of it for outdoor sports, games, or recreational activities, or in special circumstances for recreation not directly associated with outdoor recreation:
 
-*   (e) provide that, notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; may provide that where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or may provide that an incoming lessee shall pay to the outgoing lessee the value as determined by the Minister of specified improvements
+*   (e) provide that, notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; may provide that where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or may provide that an incoming lessee shall pay to the outgoing lessee the value as determined by the Minister of specified improvements
 
 ###### Lease or licence under section 54(1)(d)---Lease or licence of recreation reserve for carrying on any trade, business, or occupation
 
@@ -4272,9 +4336,9 @@ Erection of buildings The lease or licence shall prohibit the erection of any bu
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease or licence shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease or licence shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease or licence, the lessor or licensor may require the lessee or licensee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease or licence, the lessor or licensor may require the lessee or licensee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor or licensor, the lessor or licensor may pay to the lessee or licensee the value of the improvements as determined by the Minister; or
 
@@ -4302,9 +4366,9 @@ Erection of buildings The lease shall prohibit the erection of any building with
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or
 
@@ -4332,9 +4396,9 @@ Erection of buildings The lease or licence shall prohibit the erection of any bu
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease or licence shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease or licence shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease or licence, the lessor or licensor may require the lessee or licensee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease or licence, the lessor or licensor may require the lessee or licensee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor or licensor, the lessor or licensor may pay to the lessee or licensee the value of the improvements as determined by the Minister; or
 
@@ -4362,9 +4426,9 @@ Protection of natural, etc, features The lease shall include a condition providi
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or
 
@@ -4392,9 +4456,9 @@ Protection of natural, etc, features The lease shall include a condition providi
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or
 
@@ -4422,9 +4486,9 @@ Protection of natural, etc, features The lease shall include a condition providi
 
 Other terms and conditions 
 
-Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he may require that the lease shall provide that---
+Such other terms and conditions as the Minister approves. Without limiting the powers of the Minister, he or she may require that the lease shall provide that---
     
-*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his improvements; or
+*   (a) notwithstanding anything to the contrary in the compensation for improvements clause of the lease, the lessor may require the lessee to remove the whole or some of his or her improvements; or
 
 *   (b) where improvements are of value to the lessor, the lessor may pay to the lessee the value of the improvements as determined by the Minister; or
 
@@ -4435,15 +4499,15 @@ Such other terms and conditions as the Minister approves. Without limiting the p
 ## Schedule 2  
 Enactments amended
 
-[s 124(2)][165]
+[s 124(2)][166]
 
-##### Coal Mines Act 1925 (1925 No 39) (1957 Reprint, Vol 2, p 163) 
+##### Coal Mines Act 1925 (1925 No 39) (1957 Reprint, Vol 2, p 163)
 
 _Amendment(s) incorporated in the Act(s)._
 
 ##### Counties Amendment Act 1961 (1961 No 131) (Reprinted 1969, Vol 2, p 1343)
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### Hauraki Gulf Maritime Park Act 1967 (1967 No 131)
 
@@ -4453,28 +4517,28 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
-##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399) 
+##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399)
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### Municipal Corporations Act 1954 (1954 No 76) (Reprinted 1969, Vol 4, p 2439)
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### Public Bodies Meetings Act 1962 (1962 No 113) (Reprinted 1975, Vol 3, p 2269)
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ---
 
 ## Schedule 3  
 Enactments repealed
 
-[s 125(1)][166]
+[s 125(1)][167]
 
 ##### Counties Amendment Act 1972 (1972 No 132)
 
@@ -4490,7 +4554,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves and Domains Act 1953 (1953 No 69) (1957 Reprint, Vol 13, p 323)
 
-##### Reserves and Domains Amendment Act 1955 (1955 No 83) (1957 Reprint, Vol 13, p 393) 
+##### Reserves and Domains Amendment Act 1955 (1955 No 83) (1957 Reprint, Vol 13, p 393)
 
 ##### Reserves and Domains Amendment Act 1956 (1956 No 35) (1957 Reprint, Vol 13, p 393)
 
@@ -4525,8 +4589,8 @@ _Amendment(s) incorporated in the Act(s)._
 ## Schedule 4  
 Land that may be held as reserve
     
-*   Schedule 4: added, on 13 March 1996, by [section 20][362] of the Reserves Amendment Act 1996 (1996 No 3).
-*   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][295] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
+*   Schedule 4: inserted, on 13 March 1996, by [section 20][364] of the Reserves Amendment Act 1996 (1996 No 3).
+*   Schedule 4 heading: replaced, on 21 October 2000, by [section 22][297] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 **Land** **Category A or B** **Boundary documents**
 
@@ -4556,61 +4620,63 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][363] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][364] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][365] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][366] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][365] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][366] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][367] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][368] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 3][367]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][192]
     
-    [Reserves Amendment Act 2013][368] (2013 No 17)
+    Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 3][369]
     
-    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][339]
+    [Reserves Amendment Act 2013][370] (2013 No 17)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 299][320]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][341]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][324]
+    Search and Surveillance Act 2012 (2012 No 24): [section 299][322]
     
-    [Reserves Amendment Act 2010][369] (2010 No 20)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][326]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][343]
+    [Reserves Amendment Act 2010][371] (2010 No 20)
     
-    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][279]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][345]
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][249]
+    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][281]
     
-    [Reserves Amendment Act 2008][370] (2008 No 17)
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][251]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][190]
+    [Reserves Amendment Act 2008][372] (2008 No 17)
     
-    [Reserves Amendment Act 2005][371] (2005 No 68)
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][191]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][266]
+    [Reserves Amendment Act 2005][373] (2005 No 68)
     
-    Resource Management Amendment Act 2003 (2003 No 23): [section 99][284]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][268]
     
-    Local Government Act 2002 (2002 No 84): [section 262][192]
+    Resource Management Amendment Act 2003 (2003 No 23): [section 99][286]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][311]
+    Local Government Act 2002 (2002 No 84): [section 262][194]
     
-    Fishing Industry Board Repeal Act 2001 (2001 No 34):  [section 5(3)][287]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][313]
     
-    Public Audit Act 2001 (2001 No 10): sections [52][300], [53][315]
+    Fishing Industry Board Repeal Act 2001 (2001 No 34):  [section 5(3)][289]
     
-    Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][295]
+    Public Audit Act 2001 (2001 No 10): [sections 52][302], [53][317]
+    
+    Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][297]
     
     Crown Pastoral Land Act 1998 (1998 No 65): section 103
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][318]
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][320]
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14): section 9
     
-    [Reserves Amendment Act 1996 ][372](1996 No 3)
+    [Reserves Amendment Act 1996][374] (1996 No 3)
     
     Reserves Amendment Act 1994 (1994 No 110)
     
@@ -4618,43 +4684,43 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Reserves Amendment Act (No 2) 1993 (1993 No 42)
     
-    Historic Places Act 1993 (1993 No 38): [section 118(1)][197]
+    Historic Places Act 1993 (1993 No 38): [section 118(1)][199]
     
     Reserves Amendment Act 1993 (1993 No 8)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][193]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][195]
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][314]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][316]
     
-    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][356]
+    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][358]
     
-    Resource Management Act 1991 (1991 No 69): [sections 362][234], [373][373]
+    Resource Management Act 1991 (1991 No 69): [section 362][236]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [sections 91--96][191], [100][288], [102][290], [104][338]
+    Conservation Law Reform Act 1990 (1990 No 31): [Part 4][375]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): section 9(2)
     
-    Public Finance Act 1989 (1989 No 44): sections [65R(3)][306], [86(1)][307]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][308], [86(1)][309]
     
     Reserves Amendment Act 1988 (1988 No 137)
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][340]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][342]
     
-    State Sector Act 1988 (1988 No 20): section [90(a)][225]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][227]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
-    Conservation Act 1987 (1987 No 65): section [65(1)][189]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][190]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][171]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][172]
     
     Reserves Amendment Act 1985 (1985 No 188)
     
     Reserves Amendment Act 1983 (1983 No 43)
     
-    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][347]
+    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][349]
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][195]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][197]
     
     Reserves Amendment Act 1981 (1981 No 30)
     
@@ -4662,19 +4728,19 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     National Parks Act 1980 (1980 No 66): section 80(2)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][325]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][327]
     
     Reserves Amendment Act 1979 (1979 No 63)
     
-    Litter Act 1979 (1979 No 41): [section 22(3)][323]
+    Litter Act 1979 (1979 No 41): [section 22(3)][325]
     
     Reserves Amendment Act 1978 (1978 No 121)
     
     Fencing Act 1978 (1978 No 50): section 28(1)
     
-    Local Government Amendment Act 1978 (1978 No 43): section [3(5)][257]
+    Local Government Amendment Act 1978 (1978 No 43): [section 3(5)][259]
     
-    Forests Act 1949 (1949 No 19): [section 2(2)(a)][374]
+    Forests Act 1949 (1949 No 19): [section 2(2)(a)][376]
 
 
 
@@ -4731,325 +4797,327 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 [50]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444666
 [51]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444669
 [52]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444670
-[53]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444672
-[54]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444673
-[55]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444675
-[56]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444677
-[57]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444680
-[58]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444684
-[59]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444685
-[60]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444688
-[61]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444690
-[62]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444693
-[63]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444694
-[64]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444695
-[65]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444697
-[66]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444702
-[67]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444706
-[68]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444707
-[69]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444709
-[70]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444710
-[71]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444712
-[72]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444713
-[73]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444714
-[74]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444717
-[75]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444730
-[76]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444733
-[77]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444740
-[78]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444744
-[79]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444745
-[80]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444755
-[81]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444760
-[82]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444766
-[83]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444767
-[84]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444769
-[85]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444771
-[86]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444773
-[87]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444774
-[88]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444777
-[89]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444778
-[90]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444780
-[91]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444781
-[92]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444782
-[93]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444784
-[94]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444785
-[95]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444786
-[96]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444787
-[97]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444788
-[98]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444792
-[99]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444799
-[100]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444908
-[101]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444909
-[102]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444910
-[103]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444911
-[104]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444912
-[105]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444916
-[106]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444919
-[107]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444920
-[108]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444929
-[109]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444932
-[110]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444934
-[111]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444936
-[112]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444939
-[113]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444940
-[114]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444941
-[115]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444943
-[116]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444946
-[117]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444947
-[118]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444949
-[119]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444953
-[120]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444957
-[121]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444958
-[122]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444960
-[123]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444963
-[124]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444966
-[125]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444967
-[126]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444968
-[127]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444971
-[128]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444984
-[129]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444996
-[130]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444999
-[131]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445001
-[132]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445002
-[133]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445003
-[134]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445010
-[135]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445012
-[136]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445015
-[137]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697215
-[138]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697217
-[139]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445017
-[140]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445020
-[141]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697221
-[142]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445023
-[143]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445027
-[144]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445028
-[145]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445031
-[146]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445032
-[147]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445034
-[148]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445035
-[149]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445037
-[150]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445038
-[151]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445042
-[152]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445045
-[153]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445046
-[154]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445052
-[155]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445059
-[156]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445066
-[157]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445067
-[158]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445068
-[159]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445069
-[160]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445072
-[161]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445076
-[162]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445077
-[163]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445087
-[164]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445089
-[165]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445090
-[166]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445092
-[167]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445093
-[168]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445203
-[169]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445208
-[170]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445209
-[171]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM94263
-[172]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104086
-[173]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM103609
-[174]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM214686
-[175]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104213
-[176]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104608
-[177]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM250585
-[178]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373378
-[179]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM289881
-[180]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM292881
-[181]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM432115
-[182]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM170872
-[183]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252784
-[184]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM36962
-[185]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175060
-[186]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM45426
-[187]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252785
-[188]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM278592
-[189]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106995
-[190]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM376605
-[191]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209142
-[192]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM174088
-[193]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM293026
-[194]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM38526
-[195]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM48604
-[196]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM300510
-[197]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM301645
-[198]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255625
-[199]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138107
-[200]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251170
-[201]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251464
-[202]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251714
-[203]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251729
-[204]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251744
-[205]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251760
-[206]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251778
-[207]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251787
-[208]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252108
-[209]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252193
-[210]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252435
-[211]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252473
-[212]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252480
-[213]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252738
-[214]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252762
-[215]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252772
-[216]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252774
-[217]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253201
-[218]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253217
-[219]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253242
-[220]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM427067
-[221]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM426899
-[222]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM427211
-[223]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138108
-[224]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM129109
-[225]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM130377
-[226]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM446000
-[227]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209151
-[228]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM264952
-[229]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209152
-[230]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM45793
-[231]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM269031
-[232]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291803
-[233]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM230264
-[234]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239393
-[235]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM46055
-[236]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209153
-[237]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104294
-[238]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104629
-[239]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM419973
-[240]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM236786
-[241]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104251
-[242]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106966
-[243]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106977
-[244]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065508
-[245]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065512
-[246]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM339132
-[247]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291017
-[248]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373379
-[249]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065526
-[250]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138109
-[251]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4756102
-[252]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138110
-[253]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM276813
-[254]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21245
-[255]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21252
-[256]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138112
-[257]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21254
-[258]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM233845
-[259]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373380
-[260]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348963
-[261]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330552
-[262]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330555
-[263]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330556
-[264]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162725
-[265]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM160808
-[266]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM328867
-[267]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209156
-[268]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209157
-[269]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104603
-[270]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104611
-[271]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104613
-[272]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104615
-[273]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21806
-[274]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21887
-[275]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373381
-[276]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138113
-[277]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM281866
-[278]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373382
-[279]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1382846
-[280]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM105781
-[281]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373383
-[282]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM234301
-[283]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373384
-[284]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM197003
-[285]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373385
-[286]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM397837
-[287]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM92784
-[288]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209165
-[289]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373386
-[290]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209168
-[291]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104633
-[292]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73833
-[293]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73834
-[294]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373387
-[295]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73848
-[296]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM394841
-[297]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM379823
-[298]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM380043
-[299]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209237
-[300]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88956
-[301]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373388
-[302]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373389
-[303]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853507
-[304]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271641
-[305]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162983
-[306]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162942
-[307]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163175
-[308]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM419584
-[309]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348964
-[310]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM409104
-[311]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM133500
-[312]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88540
-[313]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88548
-[314]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM289849
-[315]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88957
-[316]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162719
-[317]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163544
-[318]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM394152
-[319]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373390
-[320]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2137067
-[321]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33087
-[322]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373391
-[323]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33491
-[324]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360714
-[325]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM35085
-[326]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136860
-[327]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136770
-[328]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136781
-[329]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM277090
-[330]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM16628
-[331]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360067
-[332]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM442665
-[333]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469512
-[334]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425527
-[335]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM135593
-[336]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163137
-[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339341
-[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
-[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339984
-[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
-[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
-[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
-[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
-[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
-[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
-[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
-[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
-[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
-[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
-[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
-[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
-[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
-[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
-[354]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
-[355]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
-[356]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
-[357]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
-[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
-[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
-[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469516
-[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
-[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
-[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998516
-[364]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998515
-[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998532
-[366]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[367]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425525
-[368]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
-[369]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
-[370]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
-[371]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
-[372]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
-[373]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239827
-[374]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
+[53]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM6046716
+[54]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444672
+[55]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444673
+[56]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444675
+[57]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444677
+[58]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444680
+[59]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444684
+[60]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444685
+[61]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444688
+[62]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444690
+[63]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444693
+[64]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444694
+[65]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444695
+[66]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444697
+[67]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444702
+[68]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444706
+[69]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444707
+[70]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444709
+[71]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444710
+[72]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444712
+[73]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444713
+[74]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444714
+[75]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444717
+[76]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444730
+[77]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444733
+[78]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444740
+[79]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444744
+[80]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444745
+[81]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444755
+[82]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444760
+[83]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444766
+[84]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444767
+[85]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444769
+[86]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444771
+[87]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444773
+[88]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444774
+[89]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444777
+[90]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444778
+[91]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444780
+[92]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444781
+[93]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444782
+[94]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444784
+[95]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444785
+[96]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444786
+[97]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444787
+[98]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444788
+[99]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444792
+[100]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444799
+[101]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444908
+[102]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444909
+[103]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444910
+[104]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444911
+[105]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444912
+[106]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444916
+[107]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444919
+[108]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444920
+[109]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444929
+[110]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444932
+[111]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444934
+[112]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444936
+[113]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444939
+[114]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444940
+[115]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444941
+[116]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444943
+[117]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444946
+[118]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444947
+[119]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444949
+[120]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444953
+[121]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444957
+[122]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444958
+[123]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444960
+[124]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444963
+[125]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444966
+[126]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444967
+[127]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444968
+[128]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444971
+[129]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444984
+[130]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444996
+[131]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM444999
+[132]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445001
+[133]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445002
+[134]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445003
+[135]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445010
+[136]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445012
+[137]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445015
+[138]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697215
+[139]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697217
+[140]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445017
+[141]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445020
+[142]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM5697221
+[143]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445023
+[144]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445027
+[145]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445028
+[146]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445031
+[147]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445032
+[148]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445034
+[149]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445035
+[150]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445037
+[151]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445038
+[152]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445042
+[153]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445045
+[154]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445046
+[155]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445052
+[156]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445059
+[157]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445066
+[158]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445067
+[159]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445068
+[160]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445069
+[161]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445072
+[162]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445076
+[163]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445077
+[164]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445087
+[165]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445089
+[166]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445090
+[167]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445092
+[168]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445093
+[169]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445203
+[170]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445208
+[171]: http://www.legislation.govt.nz/act/public/1977/0066/latest/whole.html#DLM445209
+[172]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM94263
+[173]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104086
+[174]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM103609
+[175]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM214686
+[176]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104213
+[177]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104608
+[178]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM250585
+[179]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373378
+[180]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM289881
+[181]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM292881
+[182]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM432115
+[183]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM170872
+[184]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252784
+[185]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM36962
+[186]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175060
+[187]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM45426
+[188]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252785
+[189]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM278592
+[190]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106995
+[191]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM376605
+[192]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5740664
+[193]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209142
+[194]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM174088
+[195]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM293026
+[196]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM38526
+[197]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM48604
+[198]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM300510
+[199]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM301645
+[200]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255625
+[201]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138107
+[202]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251170
+[203]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251464
+[204]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251714
+[205]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251729
+[206]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251744
+[207]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251760
+[208]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251778
+[209]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251787
+[210]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252108
+[211]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252193
+[212]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252435
+[213]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252473
+[214]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252480
+[215]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252738
+[216]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252762
+[217]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252772
+[218]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM252774
+[219]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253201
+[220]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253217
+[221]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM253242
+[222]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM427067
+[223]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM426899
+[224]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM427211
+[225]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138108
+[226]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM129109
+[227]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM130377
+[228]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM446000
+[229]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209151
+[230]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM264952
+[231]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209152
+[232]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM45793
+[233]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM269031
+[234]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291803
+[235]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM230264
+[236]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239393
+[237]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM46055
+[238]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209153
+[239]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104294
+[240]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104629
+[241]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM419973
+[242]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM236786
+[243]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104251
+[244]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106966
+[245]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106977
+[246]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065508
+[247]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065512
+[248]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM339132
+[249]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291017
+[250]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373379
+[251]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1065526
+[252]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138109
+[253]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4756102
+[254]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138110
+[255]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM276813
+[256]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21245
+[257]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21252
+[258]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138112
+[259]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21254
+[260]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM233845
+[261]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373380
+[262]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348963
+[263]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330552
+[264]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330555
+[265]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM330556
+[266]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162725
+[267]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM160808
+[268]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM328867
+[269]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209156
+[270]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209157
+[271]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104603
+[272]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104611
+[273]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104613
+[274]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104615
+[275]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21806
+[276]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM21887
+[277]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373381
+[278]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138113
+[279]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM281866
+[280]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373382
+[281]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1382846
+[282]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM105781
+[283]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373383
+[284]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM234301
+[285]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373384
+[286]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM197003
+[287]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373385
+[288]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM397837
+[289]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM92784
+[290]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209165
+[291]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373386
+[292]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209168
+[293]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104633
+[294]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73833
+[295]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73834
+[296]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373387
+[297]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM73848
+[298]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM394841
+[299]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM379823
+[300]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM380043
+[301]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209237
+[302]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88956
+[303]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373388
+[304]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373389
+[305]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853507
+[306]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271641
+[307]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162983
+[308]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162942
+[309]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163175
+[310]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM419584
+[311]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348964
+[312]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM409104
+[313]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM133500
+[314]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88540
+[315]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88548
+[316]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM289849
+[317]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM88957
+[318]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM162719
+[319]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163544
+[320]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM394152
+[321]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373390
+[322]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2137067
+[323]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33087
+[324]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373391
+[325]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33491
+[326]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360714
+[327]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM35085
+[328]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136860
+[329]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136770
+[330]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136781
+[331]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM277090
+[332]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM16628
+[333]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360067
+[334]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM442665
+[335]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469512
+[336]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425527
+[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM135593
+[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163137
+[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339341
+[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
+[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339984
+[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
+[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
+[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
+[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
+[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
+[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
+[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
+[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
+[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
+[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
+[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
+[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
+[354]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
+[355]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
+[356]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
+[357]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
+[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
+[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
+[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
+[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
+[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469516
+[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
+[364]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
+[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998516
+[366]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998515
+[367]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998532
+[368]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[369]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425525
+[370]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
+[371]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
+[372]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
+[373]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
+[374]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
+[375]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209140
+[376]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
