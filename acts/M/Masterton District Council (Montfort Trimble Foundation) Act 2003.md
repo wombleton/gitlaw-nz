@@ -1,7 +1,7 @@
 Reprint  
-as at 11 December 2003
+as at 1 April 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Masterton District Council (Montfort Trimble Foundation) Act 2003Local Act2003 No 5
 
@@ -13,71 +13,71 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
-[3][3] [Interpretation][3]
+[3][3][][3][Interpretation][3]
 
 [Montfort Trimble Foundation][4]
 
-[4][5] [Montfort Trimble Foundation established][5]
+[4][5][][5][Montfort Trimble Foundation established][5]
 
-[5][6] [Objects of Foundation][6]
+[5][6][][6][Objects of Foundation][6]
 
-[6][7] [Powers of Foundation][7]
+[6][7][][7][Powers of Foundation][7]
 
-[7][8] [Distributions][8]
+[7][8][][8][Distributions][8]
 
 [Board of Foundation][9]
 
-[8][10] [Board of Foundation][10]
+[8][10][][10][Board of Foundation][10]
 
-[9][11] [Interim Board][11]
+[9][11][][11][Interim Board][11]
 
-[10][12] [Elected members][12]
+[10][12][][12][Elected members][12]
 
-[11][13] [First election of members][13]
+[11][13][][13][First election of members][13]
 
-[12][14] [Subsequent elections of members][14]
+[12][14][][14][Subsequent elections of members][14]
 
-[13][15] [Appointed members][15]
+[13][15][][15][Appointed members][15]
 
-[14][16] [Resignation of members][16]
+[14][16][][16][Resignation of members][16]
 
-[15][17] [Vacancy on Board][17]
+[15][17][][17][Vacancy on Board][17]
 
-[16][18] [Function of Board][18]
+[16][18][][18][Function of Board][18]
 
-[17][19] [Powers of Board not affected by vacancies][19]
+[17][19][][19][Powers of Board not affected by vacancies][19]
 
-[18][20] [Right of member to apply to High Court for directions][20]
+[18][20][][20][Right of member to apply to High Court for directions][20]
 
-[19][21] [Schedule 1 applies in relation to Board][21]
+[19][21][][21][Schedule 1 applies in relation to Board][21]
 
-[20][22] [Members not personally liable][22]
+[20][22][][22][Members not personally liable][22]
 
-[21][23] [Remuneration and allowances][23]
+[21][23][][23][Remuneration and allowances][23]
 
 [Miscellaneous provisions][24]
 
-[22][25] [Council to make distributions to Foundation][25]
+[22][25][][25][Council to make distributions to Foundation][25]
 
-[23][26] [New Zealand Guardian Trust may make distributions to Foundation][26]
+[23][26][][26][New Zealand Guardian Trust may make distributions to Foundation][26]
 
-[24][27] [Foundation not council-controlled organisation because Council appoints members of Board][27]
+[24][27][][27][Foundation not council-controlled organisation because Council appoints members of Board][27]
 
-[25][28] [Council may provide administrative services to Foundation][28]
+[25][28][][28][Council may provide administrative services to Foundation][28]
 
-[26][29] [Public Audit Act 2001 amended][29]
+[26][29][][29][Public Audit Act 2001 amended][29]
 
 [Schedule 1][30]  
 [Conduct of business][30]
@@ -422,15 +422,17 @@ Conduct of business
     
     *   (d) contain the auditor's report on the financial statements and performance targets and other measures by which the performance of the Foundation in that financial year has been judged in relation to its objectives as set out in the Foundation's annual plan relating to that year.
     
-    (3) The financial statements included in the annual report must be prepared in accordance with generally accepted accounting practice within the meaning of the [Financial Reporting Act 1993][40].
+    (3) The financial statements included in the annual report must be prepared in accordance with generally accepted accounting practice within the meaning of the [Financial Reporting Act 2013][40].
+    
+    Schedule 1 clause 6(3): amended, on 1 April 2014, by [section 126][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 7 Annual plan and annual report available on request
     
 *   The Board must make available for inspection free of charge and for purchase at a reasonable cost copies of---
         
-    *   (a) the annual plan prepared and adopted under [clause 5][41]; and
+    *   (a) the annual plan prepared and adopted under [clause 5][42]; and
     
-    *   (b) the annual report presented at the annual general meeting of the Foundation under [clause 6][42].
+    *   (b) the annual report presented at the annual general meeting of the Foundation under [clause 6][43].
     
     
 
@@ -442,11 +444,11 @@ Conduct of business
     
     (3) At the annual general meeting, the Board must consider---
         
-    *   (a) the annual report prepared under [clause 6(1)][42]; and
+    *   (a) the annual report prepared under [clause 6(1)][43]; and
     
     *   (b) any other special business or general business that has been included in the notice given under subclause (4).
     
-    (4) Despite [clause 3(2)][43], notice in writing of the business to be conducted at the annual general meeting must be given to all members at least 14 days before the meeting.
+    (4) Despite [clause 3(2)][44], notice in writing of the business to be conducted at the annual general meeting must be given to all members at least 14 days before the meeting.
     
     (5) The Board must give public notice of the annual general meeting and the business to be conducted at the annual general meeting at least 14 days before the meeting.
     
@@ -509,74 +511,31 @@ Diagram showing the Foundation district
 
 ![. ](images/MastertonSch2.jpg)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Masterton District Council (Montfort Trimble Foundation) Act 2003\. The reprint incorporates all the amendments to the Act as at 11 December 2003, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Masterton District Council (Montfort Trimble Foundation) Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][44] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][45] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][46] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][47] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][48] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][45] and [17E][46] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][41]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88312
 [2]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88313
 [3]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88314
@@ -616,10 +575,12 @@ Diagram showing the Foundation district
 [37]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM305569
 [38]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM170872
 [39]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM88987
-[40]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM323597
-[41]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88370
-[42]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88371
-[43]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88368
-[44]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM195439
-[45]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM195468
-[46]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM195470
+[40]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM4632802
+[41]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM5740665
+[42]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88370
+[43]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88371
+[44]: http://www.legislation.govt.nz/act/local/2003/0005/latest/whole.html#DLM88368
+[45]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM2998516
+[46]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM2998515
+[47]: http://www.legislation.govt.nz/act/local/2003/0005/latest/link.aspx?id=DLM2998532
+[48]: http://www.pco.parliament.govt.nz/editorial-conventions/
