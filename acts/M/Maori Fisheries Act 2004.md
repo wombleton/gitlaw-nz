@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -2572,7 +2572,7 @@ Establishment and review of new entities
         
     *   (a) voting shares that have---
             
-        *   (i) all the rights to vote under the [Companies Act 1993][357], except those under [section 196][365] of that Act, subject to the decisions taken by income shareholders using their rights under the constitution of Aotearoa Fisheries Limited; but
+        *   (i) all the rights to vote under the [Companies Act 1993][357], except those under [section 207P][365] of that Act, subject to the decisions taken by income shareholders using their rights under the constitution of Aotearoa Fisheries Limited; but
         
         *   (ii) no rights to distributions from Aotearoa Fisheries Limited; and
         
@@ -2582,11 +2582,15 @@ Establishment and review of new entities
             
         *   (i) equal distribution rights; and
         
-        *   (ii) sole rights to vote under [section 196][365] of the Companies Act 1993\.
+        *   (ii) sole rights to vote under [section 207P][365] of the Companies Act 1993\.
         
         
     
     (3) To avoid doubt, Aotearoa Fisheries Limited is not the company of the same name referred to in section 12 of the Maori Fisheries Act 1989\.
+    
+    Section 60(2)(a)(i): amended, on 1 April 2014, by [section 126][366] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 60(2)(b)(ii): amended, on 1 April 2014, by [section 126][366] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Duty of Aotearoa Fisheries Limited
 
@@ -2924,7 +2928,7 @@ Establishment and review of new entities
         
         
     
-    (3) In the case of a breach of [section 67(2)][102] or [sections 69 to 72][104], the [Illegal Contracts Act 1970][366] does not apply.
+    (3) In the case of a breach of [section 67(2)][102] or [sections 69 to 72][104], the [Illegal Contracts Act 1970][367] does not apply.
 
 ##### 74 Exceptions to restrictions on disposal of income shares
     
@@ -3382,11 +3386,11 @@ Establishment and review of new entities
     
 *   In this subpart,---
     
-    _freshwater fisheries_ means any fishery in freshwater in New Zealand, excluding any sports fishery or unwanted aquatic life or activities conducted under the [Freshwater Fish Farming Regulations 1983][367]
+    _freshwater fisheries_ means any fishery in freshwater in New Zealand, excluding any sports fishery or unwanted aquatic life or activities conducted under the [Freshwater Fish Farming Regulations 1983][368]
     
     _freshwater fishing_ means fishing activity in relation to freshwater fisheries
     
-    _sports fish_ has the meaning given to it in [section 2(1)][368] of the Conservation Act 1987
+    _sports fish_ has the meaning given to it in [section 2(1)][369] of the Conservation Act 1987
     
     _unwanted aquatic life_ has the meaning given to it in [section 2(1)][333] of the Fisheries Act 1996\.
 
@@ -3716,7 +3720,7 @@ Establishment and review of new entities
     
     (2) A person appointed to conduct an audit is not required to be---
         
-    *   (a) a chartered accountant within the meaning of [section 19][369] of the New Zealand Institute of Chartered Accountants Act 1996; or
+    *   (a) a chartered accountant within the meaning of [section 19][370] of the New Zealand Institute of Chartered Accountants Act 1996; or
     
     *   (b) qualified to undertake financial audits.
     
@@ -3728,7 +3732,7 @@ Establishment and review of new entities
     
     (4) The independence of a person appointed to conduct an audit is not compromised merely because that person has a beneficial interest under this Act.
     
-    Section 107(2)(a): amended, on 7 July 2010, by [section 10][370] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 107(2)(a): amended, on 7 July 2010, by [section 10][371] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 108 General scope of audits
     
@@ -3882,7 +3886,7 @@ Establishment and review of new entities
 
 ##### 117 Appointment procedure
     
-*   (1) [Clauses 1][349] and [3][371] of Schedule 8 apply, with the necessary modifications, to the appointment of a committee of representatives.
+*   (1) [Clauses 1][349] and [3][372] of Schedule 8 apply, with the necessary modifications, to the appointment of a committee of representatives.
     
     (2) Not later than 6 months before the commencement of the year referred to in [section 114(2)][166], the chairperson of the board of Te Ohu Kai Moana Trustee Limited must, by written notice,---
         
@@ -4213,7 +4217,7 @@ Allocation and transfer of settlement assets
     
 *   In [sections 132 to 134][192],---
     
-    _affected iwi_ has the meaning it is given in [clause 2][372] of Schedule 6
+    _affected iwi_ has the meaning it is given in [clause 2][373] of Schedule 6
     
     _named iwi_ means an iwi identified in a request made under [section 132(2)][192].
 
@@ -4233,15 +4237,15 @@ Allocation and transfer of settlement assets
     
     (3) Before making a request under subsection (2), a mandated iwi organisation must, in relation to any affected iwi that has a mandated iwi organisation,---
         
-    *   (a) resolve any dispute and conclude all necessary agreements relevant to its coastline claims in accordance with [clauses 6][373] and [7][374] of Schedule 6; and
+    *   (a) resolve any dispute and conclude all necessary agreements relevant to its coastline claims in accordance with [clauses 6][374] and [7][375] of Schedule 6; and
     
-    *   (b) request Te Ohu Kai Moana Trustee Limited to register the agreements under [clause 8][375] of Schedule 6\.
+    *   (b) request Te Ohu Kai Moana Trustee Limited to register the agreements under [clause 8][376] of Schedule 6\.
     
     (4) A request made under subsection (2) must be accompanied by coastline claims for all quota management stocks and harbour quota relevant to the iwi of the mandated iwi organisation making the request, except to the extent that any coastline entitlements have already been determined for that iwi.
 
 ##### 133 Procedure if request made under section 132(2)
     
-*   (1) When Te Ohu Kai Moana Trustee Limited receives a request from a mandated iwi organisation under [section 132(2)][192], it must, in accordance with the process set out in [clause 10][376] of Schedule 6, complete the verification of the data and agreements for the coastline claims as they relate to affected iwi (other than the named iwi).
+*   (1) When Te Ohu Kai Moana Trustee Limited receives a request from a mandated iwi organisation under [section 132(2)][192], it must, in accordance with the process set out in [clause 10][377] of Schedule 6, complete the verification of the data and agreements for the coastline claims as they relate to affected iwi (other than the named iwi).
     
     (2) If Te Ohu Kai Moana Trustee Limited is satisfied that the mandated iwi organisation is unable to finalise its coastline claims solely because 1 or more of the named iwi do not have a mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must---
         
@@ -4271,9 +4275,9 @@ Allocation and transfer of settlement assets
     
 *   (1) If, before the date specified in the notice issued to a named iwi under [section 133(2)(a)(iii)][193], Te Ohu Kai Moana Trustee Limited recognises a mandated iwi organisation for that iwi, the mandated iwi organisation that made the request under [section 132(2)][192] must---
         
-    *   (a) complete the necessary agreements in accordance with [clauses 6][373] and [7][374] of Schedule 6; and
+    *   (a) complete the necessary agreements in accordance with [clauses 6][374] and [7][375] of Schedule 6; and
     
-    *   (b) request Te Ohu Kai Moana Trustee Limited to register those agreements under [clause 8][375] of Schedule 6\.
+    *   (b) request Te Ohu Kai Moana Trustee Limited to register those agreements under [clause 8][376] of Schedule 6\.
     
     (2) If, after the date specified in the notice issued to a named iwi under [section 133(2)(a)(iii)][193], any agreements required under subsection (1) have been completed, but 1 or more named iwi do not have a mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must proceed to determine coastline entitlements for the mandated iwi organisation that made the request under [section 132(2)][192].
     
@@ -4281,7 +4285,7 @@ Allocation and transfer of settlement assets
         
     *   (a) [section 11][17] and [Schedule 6][324]; and
     
-    *   (b) the coastline claims made by the mandated iwi organisation, as supported or modified by any agreements registered under [clause 8][375] of Schedule 6\.
+    *   (b) the coastline claims made by the mandated iwi organisation, as supported or modified by any agreements registered under [clause 8][376] of Schedule 6\.
     
     (4) To avoid doubt, the specified points in the coastline claims that would otherwise require the agreement of the named iwi that does not have a mandated iwi organisation must be treated as if they were subject to such an agreement.
 
@@ -4305,7 +4309,7 @@ Allocation and transfer of settlement assets
     
     (3) Assets transferred under subsection (1)(a) or (b) must have been allocated to the iwi in accordance with [sections 137][199] and [139 to 141][203].
     
-    Section 135(1): amended, on 16 September 2011, by [section 6][377] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
+    Section 135(1): amended, on 16 September 2011, by [section 6][378] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
 
 ##### 136 Limitations applying if mandated iwi organisation receives settlement quota under section 135
     
@@ -4317,7 +4321,7 @@ Allocation and transfer of settlement assets
     
     (2) This section applies in addition to, and does not limit, the provisions of [Part 4][237].
     
-    Section 136(1): amended, on 16 September 2011, by [section 7][378] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
+    Section 136(1): amended, on 16 September 2011, by [section 7][379] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
 
 #### Settlement asset money
 
@@ -4433,7 +4437,7 @@ Allocation and transfer of settlement assets
     
     _Chatham zone_---
         
-    *   (a) means the area within 200 nautical miles of the baseline of the territorial sea around the Chatham Islands, as determined under the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][379]; and
+    *   (a) means the area within 200 nautical miles of the baseline of the territorial sea around the Chatham Islands, as determined under the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][380]; and
     
     *   (b) includes a single and contiguous shared zone that lies---
             
@@ -4519,9 +4523,9 @@ Allocation and transfer of settlement assets
 
 ##### 143 Allocation of quota within harbours
     
-*   (1) Te Ohu Kai Moana Trustee Limited must allocate harbour quota to iwi whose territory abuts a harbour specified in [Part 1][380] of Schedule 2\.
+*   (1) Te Ohu Kai Moana Trustee Limited must allocate harbour quota to iwi whose territory abuts a harbour specified in [Part 1][381] of Schedule 2\.
     
-    (2) If more than 1 iwi has its territory abutting a harbour specified in [Part 1][380] of Schedule 2, the mandated iwi organisations of those iwi must take all reasonable steps---
+    (2) If more than 1 iwi has its territory abutting a harbour specified in [Part 1][381] of Schedule 2, the mandated iwi organisations of those iwi must take all reasonable steps---
         
     *   (a) to consult with each other; and
     
@@ -4557,7 +4561,7 @@ Allocation and transfer of settlement assets
     
 *   (1) This section applies if a quota management area for a quota management stock is exactly the same as Fishery Management Area 10\.
     
-    (2) Te Ohu Kai Moana Trustee Limited must not allocate the settlement quota described in [Part 3][381] of Schedule 1 unless it is satisfied that there is a commercially viable total allowable commercial catch for the relevant quota management stock.
+    (2) Te Ohu Kai Moana Trustee Limited must not allocate the settlement quota described in [Part 3][382] of Schedule 1 unless it is satisfied that there is a commercially viable total allowable commercial catch for the relevant quota management stock.
     
     (3) When allocating settlement quota under subsection (2), Te Ohu Kai Moana Trustee Limited must allocate that quota to each iwi in accordance with the percentages specified in column 3 of [Schedule 3][321].
 
@@ -4565,19 +4569,19 @@ Allocation and transfer of settlement assets
 
 ##### 147 Allocation of settlement quota for highly migratory species
     
-*   (1) This section applies if a quota management stock is for a species listed in [Schedule 4B][382] of the Fisheries Act 1996\.
+*   (1) This section applies if a quota management stock is for a species listed in [Schedule 4B][383] of the Fisheries Act 1996\.
     
     (2) When allocating settlement quota for a stock to which this section applies, Te Ohu Kai Moana Trustee Limited must allocate that quota to each iwi in accordance with the percentages specified in column 3 of [Schedule 3][321].
 
 #### Adjustments to number of quota shares available for distribution
     
-*   Heading: inserted, on 13 December 2006, by [section 5][383] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Heading: inserted, on 13 December 2006, by [section 5][384] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 ##### 147A Recalculation of allocations of deepwater stock
     
 *   (1) Subsection (2) applies if---
         
-    *   (a) the number of shares for a stock available for distribution is reduced by the application of [section 23(1)][384] of the Fisheries Act 1996 as a result of accrued interests arising under [section 28N][385] of the Fisheries Act 1983; and
+    *   (a) the number of shares for a stock available for distribution is reduced by the application of [section 23(1)][385] of the Fisheries Act 1996 as a result of accrued interests arising under [section 28N][386] of the Fisheries Act 1983; and
     
     *   (b) deepwater stock has been allocated to an iwi under [section 141][208] or [142][210]; but
     
@@ -4585,13 +4589,13 @@ Allocation and transfer of settlement assets
     
     (2) Te Ohu Kai Moana Trustee Limited must recalculate the number of quota shares allocated to an iwi, and amend the register accordingly.
     
-    Section 147A: inserted, on 13 December 2006, by [section 5][383] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+    Section 147A: inserted, on 13 December 2006, by [section 5][384] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 ##### 147B Allocation of reduced number of quota shares
     
-*   The number of quota shares listed in the third column of [Schedule 1][319] for a quota management stock is reduced in the same proportion as the number of settlement quota shares for that stock is reduced if [section 23(1)][384] of the Fisheries Act 1996 applies as a result of accrued interests arising under [section 28N][385] of the Fisheries Act 1983\.
+*   The number of quota shares listed in the third column of [Schedule 1][319] for a quota management stock is reduced in the same proportion as the number of settlement quota shares for that stock is reduced if [section 23(1)][385] of the Fisheries Act 1996 applies as a result of accrued interests arising under [section 28N][386] of the Fisheries Act 1983\.
     
-    Section 147B: inserted, on 13 December 2006, by [section 5][383] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+    Section 147B: inserted, on 13 December 2006, by [section 5][384] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 #### Freshwater quota
 
@@ -4609,37 +4613,37 @@ Allocation and transfer of settlement assets
 
 #### Alteration of quota management areas under Fisheries Act 1996
     
-*   Heading: inserted, on 13 December 2006, by [section 6][386] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Heading: inserted, on 13 December 2006, by [section 6][387] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 ##### 148A Consequence of altering quota management area
     
 *   (1) This section applies to Te Ohu Kai Moana Trustee Limited if---
         
-    *   (a) a quota management area is altered under [section 25][387] of the Fisheries Act 1996; and
+    *   (a) a quota management area is altered under [section 25][388] of the Fisheries Act 1996; and
     
     *   (b) settlement quota for that area has not been fully allocated under this Act.
     
     (2) Te Ohu Kai Moana Trustee Limited must---
         
-    *   (a) first calculate all entitlements to settlement quota for the relevant stock as if the quota management area had not been altered under [section 25][387] of the Fisheries Act 1996; and
+    *   (a) first calculate all entitlements to settlement quota for the relevant stock as if the quota management area had not been altered under [section 25][388] of the Fisheries Act 1996; and
     
     *   (b) then convert the amount of the quota shares for the stock to the shares relevant to the altered quota management area, applying the method set out in either---
             
-        *   (i) the quota owner agreement entered into under [section 25A][388] of the Fisheries Act 1996 for that stock; or
+        *   (i) the quota owner agreement entered into under [section 25A][389] of the Fisheries Act 1996 for that stock; or
         
-        *   (ii) the plan approved by the Minister under [section 25B][389] of the Fisheries Act 1996 for that stock.
+        *   (ii) the plan approved by the Minister under [section 25B][390] of the Fisheries Act 1996 for that stock.
         
         
     
-    Section 148A: inserted, on 13 December 2006, by [section 6][386] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+    Section 148A: inserted, on 13 December 2006, by [section 6][387] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 #### Cash allocations
 
 ##### 149 Additional cash in lieu of shortfall in settlement quota
     
-*   (1) This section applies if there are fewer than 10 000 000 shares for a quota management stock listed in [Part 1][390] of Schedule 1, but only if the value of these shares is greater than $100\.
+*   (1) This section applies if there are fewer than 10 000 000 shares for a quota management stock listed in [Part 1][391] of Schedule 1, but only if the value of these shares is greater than $100\.
     
-    (2) When transferring settlement quota for stocks referred to in subsection (1), Te Ohu Kai Moana Trustee Limited must, at the time of transfer, pay to any mandated iwi organisations of iwi that receive an allocation of that quota the amount in cash specified for that stock in column 4 of [Part 1][390] of Schedule 1 in the same proportion that the quota is distributed.
+    (2) When transferring settlement quota for stocks referred to in subsection (1), Te Ohu Kai Moana Trustee Limited must, at the time of transfer, pay to any mandated iwi organisations of iwi that receive an allocation of that quota the amount in cash specified for that stock in column 4 of [Part 1][391] of Schedule 1 in the same proportion that the quota is distributed.
 
 ##### 150 Specific cash transfers to certain iwi
     
@@ -4798,7 +4802,7 @@ Settlement quota interests, sales and exchanges of settlement quota, related res
 
 ##### 157 Registration of settlement quota interests
     
-*   (1) Te Ohu Kai Moana Trustee Limited must, in accordance with [section 152A][391] of the Fisheries Act 1996, apply to the chief executive of the Ministry of Fisheries for registration of settlement quota interests---
+*   (1) Te Ohu Kai Moana Trustee Limited must, in accordance with [section 152A][392] of the Fisheries Act 1996, apply to the chief executive of the Ministry of Fisheries for registration of settlement quota interests---
         
     *   (a) within 20 working days after the appointed day and before any transactions are made involving the specified shares, against---
             
@@ -4810,7 +4814,7 @@ Settlement quota interests, sales and exchanges of settlement quota, related res
     
     *   (b) against further quota shares allocated under [section 44][332] of the Fisheries Act 1996 after the appointed day.
     
-    (2) The quota shares referred to in subsection (1) become settlement quota when the settlement quota interest is registered under [section 152A][392] of the Fisheries Act 1996\.
+    (2) The quota shares referred to in subsection (1) become settlement quota when the settlement quota interest is registered under [section 152A][393] of the Fisheries Act 1996\.
 
 ##### 158 General restriction on transfer of settlement quota
     
@@ -4898,7 +4902,7 @@ Settlement quota interests, sales and exchanges of settlement quota, related res
     
     *   (b) any rules made by Te Ohu Kai Moana Trustee Limited under [section 176][268].
     
-    Section 161(2): amended, on 16 September 2011, by [section 8][393] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
+    Section 161(2): amended, on 16 September 2011, by [section 8][394] of the Maori Fisheries Amendment Act 2011 (2011 No 74).
 
 ##### 162 Prerequisites to sale of settlement quota
     
@@ -5108,7 +5112,7 @@ Settlement quota interests, sales and exchanges of settlement quota, related res
     
     *   (b) on the terms and conditions that the Court thinks fit, so long as the quota shares are not vested other than in a mandated iwi organisation or an entity within Te Ohu Kai Moana Group.
     
-    (3) In the case of a breach of [sections 161 to 168][246] or rules made under [section 176][268], the [Illegal Contracts Act 1970][366] does not apply.
+    (3) In the case of a breach of [sections 161 to 168][246] or rules made under [section 176][268], the [Illegal Contracts Act 1970][367] does not apply.
 
 ### Subpart 3---Exceptions to application of subpart 2
 
@@ -5232,7 +5236,7 @@ Settlement quota interests, sales and exchanges of settlement quota, related res
     
     *   (d) an entity within Te Ohu Kai Moana Group.
     
-    (3) In the case of a breach of [section 173][263] or rules made under [section 176][268], the [Illegal Contracts Act 1970][366] does not apply.
+    (3) In the case of a breach of [section 173][263] or rules made under [section 176][268], the [Illegal Contracts Act 1970][367] does not apply.
 
 ### Subpart 4---Additional rules for quota sales and exchanges
 
@@ -5319,7 +5323,7 @@ Dispute resolution
     
     *   (b) a determination of a coastline entitlement by Te Ohu Kai Moana Trustee Limited under [section 11][17], between or among Te Ohu Kai Moana Trustee Limited and 1 or more mandated iwi organisations:
     
-    *   (c) the division of disputed coastline that is the subject of a written agreement provided to Te Ohu Kai Moana Trustee Limited in support of an interim coastline claim made under [clause 4][394] of Schedule 6 and for which a coastline entitlement has been determined, between or among Te Ohu Kai Moana Trustee Limited and the parties to that agreement:
+    *   (c) the division of disputed coastline that is the subject of a written agreement provided to Te Ohu Kai Moana Trustee Limited in support of an interim coastline claim made under [clause 4][395] of Schedule 6 and for which a coastline entitlement has been determined, between or among Te Ohu Kai Moana Trustee Limited and the parties to that agreement:
     
     *   (d) whether an organisation seeking recognition or claiming continued recognition as a mandated iwi organisation meets the criteria in [section 14][22], between Te Ohu Kai Moana Trustee Limited and 1 or more mandated iwi organisations:
     
@@ -5331,7 +5335,7 @@ Dispute resolution
     
     *   (h) whether a mandated iwi organisation has remedied a breach of the conditions on which assistance was given to it by Te Ohu Kai Moana Trustee Limited under [section 34(i) or (j)][56], between Te Ohu Kai Moana Trustee Limited and the mandated iwi organisation to which the conditions applied:
     
-    *   (i) compliance with the requirements for calling or conducting meetings under [clause 1][349] or [clause 7][395] of Schedule 8, between---
+    *   (i) compliance with the requirements for calling or conducting meetings under [clause 1][349] or [clause 7][396] of Schedule 8, between---
             
         *   (i) 1 or more mandated iwi organisations; or
         
@@ -5405,17 +5409,17 @@ Dispute resolution
     
     *   (b) resolution is unable to be reached under [section 181][276].
     
-    (2) A party to a dispute may, except in a dispute over a decision referred to in [section 180(1)(g)][275], refer the dispute to the Maori Land Court under [section 26B][396] of Te Ture Whenua Maori Act 1993 to obtain---
+    (2) A party to a dispute may, except in a dispute over a decision referred to in [section 180(1)(g)][275], refer the dispute to the Maori Land Court under [section 26B][397] of Te Ture Whenua Maori Act 1993 to obtain---
         
     *   (a) advice on an appropriate dispute resolution process for the purposes of [section 181(1)][276]:
     
     *   (b) a non-binding ruling on a question of fact or law to assist in the conduct of the dispute resolution process.
     
-    (3) The Maori Land Court may make a determination under [section 26C][397] of Te Ture Whenua Maori Act 1993 if, on a reference to it under subsection (2), it is of the view that the parties have taken reasonable steps to resolve a dispute resolution process provided for under [section 181(1)][276].
+    (3) The Maori Land Court may make a determination under [section 26C][398] of Te Ture Whenua Maori Act 1993 if, on a reference to it under subsection (2), it is of the view that the parties have taken reasonable steps to resolve a dispute resolution process provided for under [section 181(1)][276].
     
-    (4) If Te Ohu Kai Moana Trustee Limited declines to determine a dispute under [section 181(2)][276], it must refer it to the Maori Land Court for determination under [section 26C][397] of Te Ture Whenua Maori Act 1993\.
+    (4) If Te Ohu Kai Moana Trustee Limited declines to determine a dispute under [section 181(2)][276], it must refer it to the Maori Land Court for determination under [section 26C][398] of Te Ture Whenua Maori Act 1993\.
     
-    (5) A party to a dispute that has been referred to Te Ohu Kai Moana Trustee Limited under [section 181(2)][276] may subsequently refer to the Maori Land Court, for determination under [section 26C][397] of Te Ture Whenua Maori Act 1993,---
+    (5) A party to a dispute that has been referred to Te Ohu Kai Moana Trustee Limited under [section 181(2)][276] may subsequently refer to the Maori Land Court, for determination under [section 26C][398] of Te Ture Whenua Maori Act 1993,---
         
     *   (a) the decision of Te Ohu Kai Moana Trustee Limited:
     
@@ -5435,17 +5439,17 @@ Dispute resolution
     
     *   (d) an application made under [section 187][283]:
     
-    *   (e) an order made by a Judge under [section 26M][398] of Te Ture Whenua Maori Act 1993\.
+    *   (e) an order made by a Judge under [section 26M][399] of Te Ture Whenua Maori Act 1993\.
     
-    (2) Until a matter referred to in subsection (1)(a) to (d) has been determined under [section 26C][397] of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not---
+    (2) Until a matter referred to in subsection (1)(a) to (d) has been determined under [section 26C][398] of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not---
         
-    *   (a) apply for review under [Part 1][399] of the Judicature Amendment Act 1972; or
+    *   (a) apply for review under [Part 1][400] of the Judicature Amendment Act 1972; or
     
     *   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
     
     (3) Until all rights of appeal in relation to an order referred to in subsection (1)(e) have been exercised in full, a person who is a party to the matter which is the subject of the order must not---
         
-    *   (a) apply for review under [Part 1][399] of the Judicature Amendment Act 1972; or
+    *   (a) apply for review under [Part 1][400] of the Judicature Amendment Act 1972; or
     
     *   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
     
@@ -5463,7 +5467,7 @@ Dispute resolution
 
 ##### 185 Powers of Te Ohu Kai Moana Trustee Limited in relation to mandated iwi organisations
     
-*   (1) Whether or not the processes in [sections 181][276] and [182][277] have been followed by the parties that dispute a decision referred to in [section 180(1)(d) or (e)][275], Te Ohu Kai Moana Trustee Limited may apply to the Maori Land Court under [section 26C][397] of Te Ture Whenua Maori Act 1993 for an order denying or suspending recognition of a mandated iwi organisation on the ground that---
+*   (1) Whether or not the processes in [sections 181][276] and [182][277] have been followed by the parties that dispute a decision referred to in [section 180(1)(d) or (e)][275], Te Ohu Kai Moana Trustee Limited may apply to the Maori Land Court under [section 26C][398] of Te Ture Whenua Maori Act 1993 for an order denying or suspending recognition of a mandated iwi organisation on the ground that---
         
     *   (a) it fails to meet 1 or more of the criteria set out in [section 14][22]; or
     
@@ -5477,7 +5481,7 @@ Dispute resolution
 
 ##### 187 Dispute resolution in relation to reorganisation of specified mandated iwi organisations
     
-*   (1) If a dispute arises in relation to the matters provided for by or under [section 20][37], a party to the dispute may apply to the Maori Land Court under [section 26C(d)][397] of Te Ture Whenua Maori Act 1993 for a determination by order in accordance with that Act.
+*   (1) If a dispute arises in relation to the matters provided for by or under [section 20][37], a party to the dispute may apply to the Maori Land Court under [section 26C(d)][398] of Te Ture Whenua Maori Act 1993 for a determination by order in accordance with that Act.
     
     (2) An application made to the Maori Land Court in reliance on this section must, at the same time, be notified to every affected party.
 
@@ -5532,7 +5536,7 @@ Transitional and miscellaneous provisions, repeal, and amendments
 
 ##### 192 Certain exemptions saved
     
-*   A consent to an exemption granted to the Treaty of Waitangi Fisheries Commission under [section 28W][400] of the Fisheries Act 1983 or under [section 60][401] of the Fisheries Act 1996 must be treated as if the consent had been granted to Aotearoa Fisheries Limited.
+*   A consent to an exemption granted to the Treaty of Waitangi Fisheries Commission under [section 28W][401] of the Fisheries Act 1983 or under [section 60][402] of the Fisheries Act 1996 must be treated as if the consent had been granted to Aotearoa Fisheries Limited.
 
 ##### 193 Validation of certain decisions, etc
     
@@ -5578,7 +5582,7 @@ Transitional and miscellaneous provisions, repeal, and amendments
     
 *   (1) This section applies if, after the appointed day, the Commissioner of Inland Revenue grants a refund in respect of taxation paid at any time before the appointed day by the Treaty of Waitangi Fisheries Commission or any company or subsidiary of a company owned by that Commission.
     
-    (2) The Commissioner of Inland Revenue must pay the full amount of the assessed refund (if any), together with any interest payable under [Part 7][402] of the Tax Administration Act 1994, to Te Ohu Kai Moana Trustee Limited.
+    (2) The Commissioner of Inland Revenue must pay the full amount of the assessed refund (if any), together with any interest payable under [Part 7][403] of the Tax Administration Act 1994, to Te Ohu Kai Moana Trustee Limited.
     
     (3) The monies (if any) paid to Te Ohu Kai Moana Trustee Limited under subsection (2)---
         
@@ -5646,7 +5650,7 @@ Transitional and miscellaneous provisions, repeal, and amendments
 
 ##### 199 Status of contracts and other instruments
     
-*   (1) In subsection (2), _contracts and other instruments_ means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, notices, and any binding rulings made under [Part 5A][403] of the Tax Administration Act 1994 (whether in writing or not), entered into by, made with, given to or by, or addressed to the Treaty of Waitangi Fisheries Commission (whether alone or with another person) before the appointed day and having effect immediately before the appointed day.
+*   (1) In subsection (2), _contracts and other instruments_ means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, notices, and any binding rulings made under [Part 5A][404] of the Tax Administration Act 1994 (whether in writing or not), entered into by, made with, given to or by, or addressed to the Treaty of Waitangi Fisheries Commission (whether alone or with another person) before the appointed day and having effect immediately before the appointed day.
     
     (2) Contracts and other instruments are binding on, and enforceable by, against, or in favour of, Te Ohu Kai Moana Trustee Limited and have effect for the purposes of the Inland Revenue Acts as if Te Ohu Kai Moana Trustee Limited and not the Treaty of Waitangi Fisheries Commission had been the person by whom they were entered into, with whom they were made, or to or by whom they were given or addressed.
 
@@ -5686,9 +5690,9 @@ Transitional and miscellaneous provisions, repeal, and amendments
     
 *   (1) A document, matter, or thing that would have been admissible in evidence for or against the Treaty of Waitangi Fisheries Commission is, on and after the appointed day, admissible in evidence for or against Te Ohu Kai Moana Trustee Limited.
     
-    (2) For the purpose of this section, _document_ has the meaning given to it in [section 4][404] of the Evidence Act 2006\.
+    (2) For the purpose of this section, _document_ has the meaning given to it in [section 4][405] of the Evidence Act 2006\.
     
-    Section 203(2): amended, on 1 August 2007, by [section 216][405] of the Evidence Act 2006 (2006 No 69).
+    Section 203(2): amended, on 1 August 2007, by [section 216][406] of the Evidence Act 2006 (2006 No 69).
 
 ##### 204 Registers
     
@@ -5788,7 +5792,7 @@ Transitional and miscellaneous provisions, repeal, and amendments
     
     (4) It is a defence in any prosecution for an offence against subsection (3) if the defendant proves that, either alone or with any other person or persons, the defendant has carried on business continuously under the name to which the prosecution relates from any date before the commencement of this Act.
     
-    Section 212(3): amended, on 1 July 2013, by [section 413][406] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 212(3): amended, on 1 July 2013, by [section 413][407] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Repeal and consequential amendments
 
@@ -6121,13 +6125,13 @@ Total 1 444 584 253 8,185,701
 
 Where fewer than 10 000 000 shares are shown for any quota management stock, see [section 149][227]. Where the amount shown in column 4 is nil, that is because the value is less than $100\.
     
-*   Schedule 1 Part 1 BNS2: amended, on 13 December 2006, by [section 7(1)(a)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 SCH3: amended, on 13 December 2006, by [section 7(1)(b)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 SCH7: amended, on 13 December 2006, by [section 7(1)(c)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 SCH8: amended, on 13 December 2006, by [section 7(1)(d)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 SPO2: amended, on 13 December 2006, by [section 7(1)(e)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 TAR2: amended, on 13 December 2006, by [section 7(1)(f)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 1 TAR3: amended, on 13 December 2006, by [section 7(1)(g)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 BNS2: amended, on 13 December 2006, by [section 7(1)(a)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 SCH3: amended, on 13 December 2006, by [section 7(1)(b)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 SCH7: amended, on 13 December 2006, by [section 7(1)(c)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 SCH8: amended, on 13 December 2006, by [section 7(1)(d)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 SPO2: amended, on 13 December 2006, by [section 7(1)(e)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 TAR2: amended, on 13 December 2006, by [section 7(1)(f)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 1 TAR3: amended, on 13 December 2006, by [section 7(1)(g)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 ## Part 2  
 Quota shares allocated to Treaty of Waitangi Fisheries Commission under section 44 of the Fisheries Act 1996
@@ -6704,15 +6708,15 @@ Total 5 639 999 076
 
 † For the allocation of this deepwater quota see sections 144 and 145\.
 
-*   Schedule 1 Part 2 CHC1: amended, on 13 December 2006, by [section 7(2)(a)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC2: amended, on 13 December 2006, by [section 7(2)(b)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC3: amended, on 13 December 2006, by [section 7(2)(c)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC4: amended, on 13 December 2006, by [section 7(2)(d)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC5: amended, on 13 December 2006, by [section 7(2)(e)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC6: amended, on 13 December 2006, by [section 7(2)(f)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC7: amended, on 13 December 2006, by [section 7(2)(g)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC8: amended, on 13 December 2006, by [section 7(2)(h)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
-*   Schedule 1 Part 2 CHC9: amended, on 13 December 2006, by [section 7(2)(i)][407] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC1: amended, on 13 December 2006, by [section 7(2)(a)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC2: amended, on 13 December 2006, by [section 7(2)(b)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC3: amended, on 13 December 2006, by [section 7(2)(c)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC4: amended, on 13 December 2006, by [section 7(2)(d)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC5: amended, on 13 December 2006, by [section 7(2)(e)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC6: amended, on 13 December 2006, by [section 7(2)(f)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC7: amended, on 13 December 2006, by [section 7(2)(g)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC8: amended, on 13 December 2006, by [section 7(2)(h)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
+*   Schedule 1 Part 2 CHC9: amended, on 13 December 2006, by [section 7(2)(i)][408] of the Maori Fisheries Amendment Act 2006 (2006 No 78).
 
 ## Part 3  
 Quota shares referred to in section 146
@@ -7239,7 +7243,7 @@ Moriori 601 0.088 300
 
 ##### Notes---Iwi of Hauraki and Te Arawa
     
-*   (1) The iwi of Hauraki, whose notional population is set out in column 2 of this schedule, must be treated as one iwi for the purposes of [Part 3][381].
+*   (1) The iwi of Hauraki, whose notional population is set out in column 2 of this schedule, must be treated as one iwi for the purposes of [Part 3][382].
     
     The iwi of Hauraki are:
     
@@ -7267,7 +7271,7 @@ Moriori 601 0.088 300
     
     Ngati Whanaunga.
 
-*   (2) The iwi of Te Arawa, whose notional population is set out in column 2 of this schedule, must be treated as one iwi for the purposes of [Part 3][381].
+*   (2) The iwi of Te Arawa, whose notional population is set out in column 2 of this schedule, must be treated as one iwi for the purposes of [Part 3][382].
     
     The iwi of Te Arawa are:
     
@@ -7462,9 +7466,9 @@ Methodology for determination of coastline entitlements
     
 *   (1) The methodology by which the coastline entitlements of iwi must be determined in respect of quota management stocks comprises---
         
-    *   (a) the process set out in [clauses 2 to 11][372] which must be followed in making determinations under [section 11][17]; and
+    *   (a) the process set out in [clauses 2 to 11][373] which must be followed in making determinations under [section 11][17]; and
     
-    *   (b) a geographic information system computation model, described in [clauses 12 to 14][408], that is based on---
+    *   (b) a geographic information system computation model, described in [clauses 12 to 14][409], that is based on---
             
         *   (i) a specified map database of the coastline of New Zealand; and
         
@@ -7493,7 +7497,7 @@ Determination of coastline entitlements
     
     _coastal endpoint_ means a point on the mean high-water mark that is defined in the description of a quota management area under the [Fisheries Act 1996][330]
     
-    _harbour entrance point_ means a point on the mean high-water mark on either the northern or southern entrance of the harbour, the co-ordinates of which are listed in [Part 1][380] of Schedule 2
+    _harbour entrance point_ means a point on the mean high-water mark on either the northern or southern entrance of the harbour, the co-ordinates of which are listed in [Part 1][381] of Schedule 2
     
     _specified point_ means a point on the coastline that complies with [clause 3(2)(b)][359].
 
@@ -7527,11 +7531,11 @@ Determination of coastline entitlements
         
     *   (a) contain all, or only some, of the coastline claims necessary to enable Te Ohu Kai Moana Trustee Limited to determine all the coastline entitlements for the mandated iwi organisation, as required by [section 130(3)(b)][189]:
     
-    *   (b) be an interim coastline claim as provided for in [clause 4][394] or a supplementary coastline claim as provided for in [clause 5][409].
+    *   (b) be an interim coastline claim as provided for in [clause 4][395] or a supplementary coastline claim as provided for in [clause 5][410].
     
     ###### Example relating to clause 3
     
-    Either of the points may be a point on the mean high-water mark taken from the description of the relevant quota management area boundary for the stock, as set out in [Part 3][410] of Schedule 1 of the Fisheries Act 1996 or otherwise defined under that Act.
+    Either of the points may be a point on the mean high-water mark taken from the description of the relevant quota management area boundary for the stock, as set out in Part 3 of Schedule 1 of the Fisheries Act 1996 or otherwise defined under that Act.
     
     If the 2 specified points mark out the 2 extremities of a claimant's territory, the percentage claimed would be 100%.
     
@@ -7543,7 +7547,7 @@ Determination of coastline entitlements
     
     (2) An interim coastline claim must comply with the requirements of [clause 3][359], except that it must exclude the area of coastline under dispute.
     
-    (3) Following verification under [clause 10][376], an interim coastline claim may be used to determine under [clause 11][363] a coastline entitlement that is then registered as an interim coastline entitlement.
+    (3) Following verification under [clause 10][377], an interim coastline claim may be used to determine under [clause 11][363] a coastline entitlement that is then registered as an interim coastline entitlement.
     
     (4) An interim coastline entitlement for a quota management stock satisfies the requirements of [section 130(3)(b)][189] for that stock.
     
@@ -7570,7 +7574,7 @@ Determination of coastline entitlements
 
 ##### 5 Supplementary coastline claims
     
-*   (1) If, after the registration of an interim coastline entitlement, a dispute referred to in [clause 4(1)][394] is resolved, the affected mandated iwi organisations may make supplementary coastline claims for relevant stocks within the coastline that was the subject of the dispute.
+*   (1) If, after the registration of an interim coastline entitlement, a dispute referred to in [clause 4(1)][395] is resolved, the affected mandated iwi organisations may make supplementary coastline claims for relevant stocks within the coastline that was the subject of the dispute.
     
     (2) A supplementary coastline claim---
         
@@ -7604,7 +7608,7 @@ Determination of coastline entitlements
     
     *   (c) for each stock for which the mandated iwi organisation of the affected iwi has made or intends to make a coastline claim between the specified points identified for that stock by the claimant, the agreement of the mandated iwi organisation of the affected iwi to the percentage stated in the coastline claim; and
     
-    *   (d) in the case of an agreement supporting an interim coastline claim under [clause 4][394], 2 specified points that define the disputed portion of coastline.
+    *   (d) in the case of an agreement supporting an interim coastline claim under [clause 4][395], 2 specified points that define the disputed portion of coastline.
     
     (4) The co-ordinates of all specified points, except harbour entrance points or coastal boundary points, must be supported in a report from a registered cadastral surveyor.
     
@@ -7612,13 +7616,13 @@ Determination of coastline entitlements
 
 ##### 7 Agreements
     
-*   Before a mandated iwi organisation submits a claim under [clause 3][359] to Te Ohu Kai Moana Trustee Limited, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under [clause 6(3)(a) to (c)][373].
+*   Before a mandated iwi organisation submits a claim under [clause 3][359] to Te Ohu Kai Moana Trustee Limited, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under [clause 6(3)(a) to (c)][374].
 
 ##### 8 Registration of agreements
     
 *   (1) A mandated iwi organisation may, at any time, request Te Ohu Kai Moana Trustee Limited to verify and subsequently place on the iwi register any agreement made by mandated iwi organisations relating to coastline claims to which it is a party.
     
-    (2) If a request is made under subclause (1), Te Ohu Kai Moana Trustee Limited must attempt to verify the agreement by the procedures set out in [clause 10][376].
+    (2) If a request is made under subclause (1), Te Ohu Kai Moana Trustee Limited must attempt to verify the agreement by the procedures set out in [clause 10][377].
     
     (3) If Te Ohu Kai Moana Trustee Limited is able to verify an agreement under subclause (2), it must record the details of the agreement on the iwi register.
     
@@ -7626,13 +7630,13 @@ Determination of coastline entitlements
 
 ##### 9 Dispute resolution
     
-*   (1) If a mandated iwi organisation is unable to reach an agreement required by [clause 7][374], the dispute must be resolved in accordance with [sections 181][276] and [182][277].
+*   (1) If a mandated iwi organisation is unable to reach an agreement required by [clause 7][375], the dispute must be resolved in accordance with [sections 181][276] and [182][277].
     
     (2) Once resolutions are reached under the dispute resolution process,---
         
     *   (a) the points and percentages settled in that process must be included in any relevant coastline claim submitted under [clause 3(1)][359]; and
     
-    *   (b) the signed documentation of the resolution of the dispute must be included with the endorsement of the claim required by [clause 6(1)][373].
+    *   (b) the signed documentation of the resolution of the dispute must be included with the endorsement of the claim required by [clause 6(1)][374].
     
     
 
@@ -7642,7 +7646,7 @@ Determination of coastline entitlements
     
 *   (1) After receiving a coastline claim under [clause 3][359], Te Ohu Kai Moana Trustee Limited must---
         
-    *   (a) attempt to verify that all the data required by [clause 3][359] or [clause 6(3)(d)][373] has been supplied for each stock for which a claim is made; and
+    *   (a) attempt to verify that all the data required by [clause 3][359] or [clause 6(3)(d)][374] has been supplied for each stock for which a claim is made; and
     
     *   (b) attempt to verify that each specified point is---
             
@@ -7656,7 +7660,7 @@ Determination of coastline entitlements
     
     *   (c) satisfy itself that,---
             
-        *   (i) for each stock for which a coastline claim is made, there are endorsements as required by [clause 6(1)][373]; and
+        *   (i) for each stock for which a coastline claim is made, there are endorsements as required by [clause 6(1)][374]; and
         
         *   (ii) if a claim for a stock is for less than 100% of the coastline between the specified points, the total of the percentages of the coastline between the specified points assigned to the iwi in the agreement supporting that claim is 100%; and
         
@@ -7672,9 +7676,9 @@ Determination of coastline entitlements
     
 *   (1) This clause applies when Te Ohu Kai Moana Trustee Limited, after receiving a coastline claim for harbour quota,---
         
-    *   (a) has verified the matters set out in [clause 10(1)(a) and (b)][376]; and
+    *   (a) has verified the matters set out in [clause 10(1)(a) and (b)][377]; and
     
-    *   (b) is satisfied as to the matters set out in [clause 10(1)(c)][376].
+    *   (b) is satisfied as to the matters set out in [clause 10(1)(c)][377].
     
     (2) Te Ohu Kai Moana Trustee Limited must determine coastline entitlements for harbour quota by multiplying the percentage set out in the claim (as required by [clause 3(2)(c)][359]) by the total number of harbour quota shares for the relevant stock and harbour.
     
@@ -7686,7 +7690,7 @@ Determination of coastline entitlements
     
 *   (1) Before the determination of a coastline entitlement under this clause, Te Ohu Kai Moana Trustee Limited must determine the length of the relevant quota management area by applying the 2 coastal endpoints for the area as input to the computation model described in [Part 2][413] of this schedule.
     
-    (2) When Te Ohu Kai Moana Trustee Limited has verified the matters set out in [clause 10(1)(a) and (b)][376] and is satisfied of the matters set out in [clause 10(1)(c)][376], it must determine coastline entitlements as follows:
+    (2) When Te Ohu Kai Moana Trustee Limited has verified the matters set out in [clause 10(1)(a) and (b)][377] and is satisfied of the matters set out in [clause 10(1)(c)][377], it must determine coastline entitlements as follows:
         
     *   (a) for each coastline claim, the data representing the 2 specified points must be applied as input to the computation model to produce output that represents the coastline length between the 2 points; and
     
@@ -7709,7 +7713,7 @@ Determination of coastline entitlements
     
 *   (1) Subsection (2) applies if---
         
-    *   (a) the number of shares for a stock available for distribution is reduced by the application of [section 23(1)][384] of the Fisheries Act 1996 as a result of accrued rights arising under [section 28N][385] of the Fisheries Act 1983; and
+    *   (a) the number of shares for a stock available for distribution is reduced by the application of [section 23(1)][385] of the Fisheries Act 1996 as a result of accrued rights arising under [section 28N][386] of the Fisheries Act 1983; and
     
     *   (b) an iwi entitlement to a stock has been calculated and registered under [clause 10A][362] or [11][363]; but
     
@@ -8178,7 +8182,7 @@ Procedures for appointments of members and alternate members of Te Kawai Taumata
     
     *   (c) advise Te Ohu Kai Moana Trustee Limited of the name of the member and the alternate member appointed to Te Kawai Taumata by the representative Maori organisations.
     
-    (6) A notice given under subclause (2)(b) or subclause (4)(b) or subclause (5)(b) may be combined with a notice given under [clause 7][395] or [clause 8][350].
+    (6) A notice given under subclause (2)(b) or subclause (4)(b) or subclause (5)(b) may be combined with a notice given under [clause 7][396] or [clause 8][350].
 
 ##### 2 Purpose of meetings
     
@@ -8234,7 +8238,7 @@ Procedures for appointments of members and alternate members of Te Kawai Taumata
     
 *   (1) A member or alternate member of Te Kawai Taumata may be removed from office without compensation at any time by a majority, as the case may be, of the mandated iwi organisations, the representative Maori organisations, or the directors, trustees, or office holders of the mandated iwi organisation of Ngapuhi entitled to appoint that member.
     
-    (2) The procedures of [clauses 7 to 9][395] apply to the removal of a member or alternate member from office.
+    (2) The procedures of [clauses 7 to 9][396] apply to the removal of a member or alternate member from office.
 
 ##### 7 Procedure for removal of Te Kawai Taumata members by mandated iwi organisation
     
@@ -8270,7 +8274,7 @@ Procedures for appointments of members and alternate members of Te Kawai Taumata
 
 ##### 9 Meetings to remove members
     
-*   (1) The only purposes of the meetings referred to in [clauses 7][395] and [8][350] are---
+*   (1) The only purposes of the meetings referred to in [clauses 7][396] and [8][350] are---
         
     *   (a) to remove a member or alternate member of Te Kawai Taumata; and
     
@@ -8486,84 +8490,43 @@ Commencementsee section 2
     
     (4) Every allocation and transfer referred to in subsection (3) must be treated as if each complied with the requirements of the principal Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maori Fisheries Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][426] ![](/images/external_link.gif).
+*   This is a reprint of the Maori Fisheries Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][427] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][426] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][427] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][428] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][428] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][429] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][429] and [17E][430] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][366]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][407]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Maori Fisheries Amendment Act 2011][430] (2011 No 74)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][406]
-    
-    [Maori Fisheries Amendment Act 2011][431] (2011 No 74)
-    
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][370]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][371]
     
     Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57): [section 87][346]
     
     Maori Fisheries Amendment Act 2006 (2006 No 78)
     
-    Evidence Act 2006 (2006 No 69): [section 216][405]
+    Evidence Act 2006 (2006 No 69): [section 216][406]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM311466
 [2]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM311469
 [3]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM311470
@@ -8899,8 +8862,8 @@ Commencementsee section 2
 [333]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM394199
 [334]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM300218
 [335]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395538
-[336]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM401197
-[337]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM401409
+[336]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3209636
+[337]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3209647
 [338]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313649
 [339]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM348353
 [340]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM289897
@@ -8928,52 +8891,52 @@ Commencementsee section 2
 [362]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313685
 [363]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313687
 [364]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398923
-[365]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM320877
-[366]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM396434
-[367]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM93755
-[368]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM103616
-[369]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM391422
-[370]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3043113
-[371]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM314218
-[372]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313663
-[373]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313679
-[374]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313680
-[375]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313681
-[376]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313684
-[377]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009631
-[378]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009632
-[379]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM442578
-[380]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313647
-[381]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313644
-[382]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM401701
-[383]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398924
-[384]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395556
-[385]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM68137
-[386]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398928
-[387]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395567
-[388]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395571
-[389]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395575
-[390]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313624
-[391]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM397687
-[392]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM397690
-[393]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009633
-[394]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313675
-[395]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM314224
-[396]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290587
-[397]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290589
-[398]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290713
-[399]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM408335
-[400]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM68626
-[401]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM396347
-[402]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM354985
-[403]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM353678
-[404]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM393471
-[405]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM394552
-[406]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3360714
-[407]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398931
-[408]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313692
-[409]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313678
-[410]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM401418
+[365]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM6041591
+[366]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM5740665
+[367]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM396434
+[368]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM93755
+[369]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM103616
+[370]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM391422
+[371]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3043113
+[372]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM314218
+[373]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313663
+[374]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313679
+[375]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313680
+[376]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313681
+[377]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313684
+[378]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009631
+[379]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009632
+[380]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM442578
+[381]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313647
+[382]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313644
+[383]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM401701
+[384]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398924
+[385]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395556
+[386]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM68137
+[387]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398928
+[388]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395567
+[389]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395571
+[390]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM395575
+[391]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313624
+[392]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM397687
+[393]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM397690
+[394]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009633
+[395]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313675
+[396]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM314224
+[397]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290587
+[398]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290589
+[399]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM290713
+[400]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM408335
+[401]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM68626
+[402]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM396347
+[403]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM354985
+[404]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM353678
+[405]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM393471
+[406]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM394552
+[407]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM3360714
+[408]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398931
+[409]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313692
+[410]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313678
 [411]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398932
 [412]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313682
 [413]: http://www.legislation.govt.nz/act/public/2004/0078/latest/whole.html#DLM313691
@@ -8989,9 +8952,8 @@ Commencementsee section 2
 [423]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM366813
 [424]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM88540
 [425]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM398916
-[426]: http://www.pco.parliament.govt.nz/reprints/
-[427]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM195439
-[428]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[429]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM195468
-[430]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM195470
-[431]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009600
+[426]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM2998516
+[427]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM2998515
+[428]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM2998532
+[429]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[430]: http://www.legislation.govt.nz/act/public/2004/0078/latest/link.aspx?id=DLM4009600
