@@ -1,5 +1,5 @@
 Reprint  
-as at 1 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -415,7 +415,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     _statement of intent_ means the accountability document, the purpose of which is stated in [section 27][56]
     
-    _subsidiary_ means a subsidiary of the Service within the meaning of [section 2][113] of the Financial Reporting Act 1993
+    _subsidiary_ means a subsidiary of the Service within the meaning of [section 5][113] of the Financial Reporting Act 2013
     
     _Te Pūtahi Paoho_ means the Māori Television Electoral College established by [section 12][19]
     
@@ -434,6 +434,8 @@ Preliminary provisions and provisions to establish Māori Television Service and
     Section 6 **digital terrestrial television network**: inserted, on 28 November 2013, by [section 6][115] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
     Section 6 **ōna tikanga**: inserted, on 28 November 2013, by [section 6][115] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    
+    Section 6 **_subsidiary_**: replaced, on 1 April 2014, by [section 126][116] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 2---Māori Television Service
 
@@ -477,7 +479,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     (4) In performing its functions, the Service may provide a range of content and services on a choice of delivery platforms.
     
-    Section 8: replaced, on 28 November 2013, by [section 7][116] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 8: replaced, on 28 November 2013, by [section 7][117] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 9 Powers of Service
     
@@ -527,7 +529,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     (3) A person who breaches subsection (2) commits an offence and is liable on conviction to a fine not exceeding $2,500\.
     
-    Section 11(3): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(3): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Te Pūtahi Paoho
 
@@ -541,7 +543,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
 
 ##### 13 Membership of Te Pūtahi Paoho
     
-*   (1) Each of the organisations listed in [Part 1][118] of Schedule 1 may appoint 1 representative to be a member of Te Pūtahi Paoho.
+*   (1) Each of the organisations listed in [Part 1][119] of Schedule 1 may appoint 1 representative to be a member of Te Pūtahi Paoho.
     
     (2) The chairperson of Te Pūtahi Paoho must notify the chief executive of Te Puni Kōkiri in writing---
         
@@ -549,11 +551,11 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     *   (b) of any changes in the membership of Te Pūtahi Paoho.
     
-    (3) [Part 2][119] of Schedule 1 applies to Te Pūtahi Paoho and its members.
+    (3) [Part 2][120] of Schedule 1 applies to Te Pūtahi Paoho and its members.
 
 ##### 14 Change in composition of Te Pūtahi Paoho
     
-*   (1) The Governor-General may, by Order in Council, amend [Part 1][118] of Schedule 1 by adding or removing the name of an organisation.
+*   (1) The Governor-General may, by Order in Council, amend [Part 1][119] of Schedule 1 by adding or removing the name of an organisation.
     
     (2) An Order in Council may be made only on the recommendation of the Minister of Māori Affairs.
     
@@ -561,9 +563,9 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     (4) Te Pūtahi Paoho must not pass a resolution in relation to---
         
-    *   (a) an organisation whose name is to be added to [Part 1][118] of Schedule 1 unless Te Pūtahi Paoho is satisfied that it is an organisation that has a role in promoting te reo Māori:
+    *   (a) an organisation whose name is to be added to [Part 1][119] of Schedule 1 unless Te Pūtahi Paoho is satisfied that it is an organisation that has a role in promoting te reo Māori:
     
-    *   (b) an organisation whose name is to be omitted from [Part 1][118] of Schedule 1 unless---
+    *   (b) an organisation whose name is to be omitted from [Part 1][119] of Schedule 1 unless---
             
         *   (i) the organisation wishes to withdraw from Te Pūtahi Paoho; or
         
@@ -577,7 +579,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
 *   The functions of Te Pūtahi Paoho are---
         
-    *   (a) to appoint 4 of the 7 directors of the Service in accordance with [section 19(a)][31] and, if necessary, remove any of those 4 directors in accordance with [clause 11][120] of Schedule 2; and
+    *   (a) to appoint 4 of the 7 directors of the Service in accordance with [section 19(a)][31] and, if necessary, remove any of those 4 directors in accordance with [clause 11][121] of Schedule 2; and
     
     *   (b) to provide direction to the chairperson of Te Pūtahi Paoho in the performance and exercise of his or her functions and powers under [section 16][23]; and
     
@@ -589,19 +591,19 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     *   (f) to manage spectrum management rights in accordance with [subpart 2A][41].
     
-    Section 15(e): replaced, on 28 November 2013, by [section 8][121] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 15(e): replaced, on 28 November 2013, by [section 8][122] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 15(f): inserted, on 28 November 2013, by [section 8][121] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 15(f): inserted, on 28 November 2013, by [section 8][122] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 16 Joint responsibilities of responsible Ministers and chairperson of Te Pūtahi Paoho
     
 *   (1) The responsible Ministers and the chairperson of Te Pūtahi Paoho, acting jointly,---
         
-    *   (a) must appoint one director to be the chairperson of the board and another director to be the deputy chairperson, in accordance with [clause 5][122] of Schedule 2; and
+    *   (a) must appoint one director to be the chairperson of the board and another director to be the deputy chairperson, in accordance with [clause 5][123] of Schedule 2; and
     
     *   (b) must determine the remuneration and other benefits for---
             
-        *   (i) the board in accordance with [clauses 21][123] and [22][124] of Schedule 2; and
+        *   (i) the board in accordance with [clauses 21][124] and [22][125] of Schedule 2; and
         
         *   (ii) the governing body of a subsidiary of the Service in accordance with [section 47][83]; and
         
@@ -613,7 +615,7 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     *   (e) subject to subsection (2), may review the performance of the Service; and
     
-    *   (f) may consent to the reappointment of a director for more than 2 terms, in accordance with [clause 3(1)][125] of Schedule 2; and
+    *   (f) may consent to the reappointment of a director for more than 2 terms, in accordance with [clause 3(1)][126] of Schedule 2; and
     
     *   (g) must perform any other functions or duties required by this Act.
     
@@ -623,15 +625,15 @@ Preliminary provisions and provisions to establish Māori Television Service and
     
     *   (b) may require any information from the Service relating to its operation and activities that is relevant to that review.
     
-    (3) [Clause 29][126] of Schedule 2 applies to a requirement under subsection (2)(b).
+    (3) [Clause 29][127] of Schedule 2 applies to a requirement under subsection (2)(b).
 
 #### Dispute resolution
 
 ##### 17 Resolution of disagreement between the responsible Ministers and the chairperson of Te Pūtahi Paoho
     
-*   (1) If the responsible Ministers and the chairperson of Te Pūtahi Paoho are unable to agree on a matter for which their joint determination is required under [section 16][23], they must, for the purpose of endeavouring to reach agreement on that matter, appoint a mediator in accordance with [clauses 13][127] and [14][128] of Schedule 1\.
+*   (1) If the responsible Ministers and the chairperson of Te Pūtahi Paoho are unable to agree on a matter for which their joint determination is required under [section 16][23], they must, for the purpose of endeavouring to reach agreement on that matter, appoint a mediator in accordance with [clauses 13][128] and [14][129] of Schedule 1\.
     
-    (2) [Clauses 15 to 20][129] of Schedule 1 apply to the process of mediation commenced under this section.
+    (2) [Clauses 15 to 20][130] of Schedule 1 apply to the process of mediation commenced under this section.
 
 ## Part 2  
 Key provisions relating to appointment and duties of directors, transfer of UHF right, accountability of Service, and establishment of related entities
@@ -662,7 +664,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (2) In making their respective appointments under this section, the responsible Ministers and Te Pūtahi Paoho may appoint a person as a director of the board only if, in their respective opinions, the person has the appropriate skills and experience to assist the Service to perform its functions.
     
-    (3) The skills and experience referred to in subsection (2) include (but are not limited to) the criteria set out in [Part 1][130] of Schedule 2\.
+    (3) The skills and experience referred to in subsection (2) include (but are not limited to) the criteria set out in [Part 1][131] of Schedule 2\.
 
 #### Duties of directors
 
@@ -684,7 +686,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
         
         
     
-    *   (d) act in accordance with [clause 7][131] of Schedule 2 (which governs directors' conflicts of interest); and
+    *   (d) act in accordance with [clause 7][132] of Schedule 2 (which governs directors' conflicts of interest); and
     
     *   (e) not act as a representative of, or promote the views of, any particular person, organisation, or political party; and
     
@@ -714,49 +716,49 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
 
 \[Repealed\]
     
-*   Subpart 2: repealed, on 1 December 2013, by [section 20A][132].
+*   Subpart 2: repealed, on 1 December 2013, by [section 20A][133].
 
 ##### 20A Expiry of subpart 2
     
 *   \[Repealed\]
     
-    Section 20A: repealed, on 1 December 2013, by [section 20A][132].
+    Section 20A: repealed, on 1 December 2013, by [section 20A][133].
 
 #### Transfer of UHF right to Service
     
-*   Heading: repealed, on 1 December 2013, by [section 20A][132].
+*   Heading: repealed, on 1 December 2013, by [section 20A][133].
 
 ##### 21 Transfer of UHF right from Crown to Service
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 December 2013, by [section 20A][132].
+    Section 21: repealed, on 1 December 2013, by [section 20A][133].
 
 ##### 22 Use of UHF right by Service
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 December 2013, by [section 20A][132].
+    Section 22: repealed, on 1 December 2013, by [section 20A][133].
 
 ##### 23 Transfer of UHF right and spectrum licences by Service
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 1 December 2013, by [section 20A][132].
+    Section 23: repealed, on 1 December 2013, by [section 20A][133].
 
 ##### 24 Role of Te Pūtahi Paoho in relation to UHF right
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 December 2013, by [section 20A][132].
+    Section 24: repealed, on 1 December 2013, by [section 20A][133].
 
 ### Subpart 2A---Provisions relating to spectrum management rights
     
-*   Subpart 2A: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+*   Subpart 2A: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Transfer of spectrum management rights to Te Pūtahi Paoho
     
-*   Heading: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+*   Heading: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24A Interpretation
     
@@ -766,11 +768,11 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     _Secretary for Radiocommunications_ means the chief executive of the department responsible for the administration of the [Radiocommunications Act 1989][114]
     
-    _spectrum licence_ means a licence granted under [section 48(1)][134] of the Radiocommunications Act 1989 in relation to any part of the range of frequencies covered by the spectrum management rights
+    _spectrum licence_ means a licence granted under [section 48(1)][135] of the Radiocommunications Act 1989 in relation to any part of the range of frequencies covered by the spectrum management rights
     
     _spectrum management rights_ means the management rights transferred under [section 24B(1)(a)][44].
     
-    Section 24A: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24A: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24B Transfer of spectrum management rights
     
@@ -790,7 +792,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (4) The deed may, by agreement, provide that if Te Pūtahi Paoho breaches 1 or more specified terms or conditions (a serious breach), the responsible Ministers may require Te Pūtahi Paoho to transfer the spectrum management rights to the Crown, and in such a case Te Pūtahi Paoho must transfer the spectrum management rights as required by the responsible Ministers.
     
-    Section 24B: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24B: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24C Aggregation of management rights
     
@@ -816,11 +818,11 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     *   (b) the commencement date of the successive record or records is no more than 1 day after the expiry date of the preceding record or records.
     
-    (3) In subsection (2), _adjacent frequencies emission limit_, _power floor_, _protection limit_, and _record of management rights_ have the meanings given to them in [section 2(1)][135] of the Radiocommunications Act 1989\.
+    (3) In subsection (2), _adjacent frequencies emission limit_, _power floor_, _protection limit_, and _record of management rights_ have the meanings given to them in [section 2(1)][136] of the Radiocommunications Act 1989\.
     
-    Compare: 1989 No 148 [s 47A][136]
+    Compare: 1989 No 148 [s 47A][137]
     
-    Section 24C: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24C: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24D Management of spectrum management rights
     
@@ -828,15 +830,15 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (2) A manager may only transfer or mortgage the whole or any part of the spectrum management rights with the agreement of the responsible Ministers (which may be subject to any conditions that the responsible Ministers consider appropriate).
     
-    Section 24D: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24D: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24E Resolution of disagreement between responsible Ministers and Te Pūtahi Paoho
     
-*   (1) If the responsible Ministers and Te Pūtahi Paoho are unable to agree on any matter for which their joint agreement is required under the deed required by [section 24B(1)][44], they must, for the purpose of endeavouring to reach agreement on that matter, appoint a mediator in accordance with [clauses 13][127] and [14][128] of Schedule 1\.
+*   (1) If the responsible Ministers and Te Pūtahi Paoho are unable to agree on any matter for which their joint agreement is required under the deed required by [section 24B(1)][44], they must, for the purpose of endeavouring to reach agreement on that matter, appoint a mediator in accordance with [clauses 13][128] and [14][129] of Schedule 1\.
     
-    (2) [Clauses 15 to 20][129] of Schedule 1 apply to any mediation commenced under this section.
+    (2) [Clauses 15 to 20][130] of Schedule 1 apply to any mediation commenced under this section.
     
-    Section 24E: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24E: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24F Issue of spectrum licences to Service
     
@@ -864,7 +866,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     *   (b) may charge the Service an administrative fee to cover the cost of granting a spectrum licence for, or transferring a spectrum licence to, the Service.
     
-    Section 24F: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24F: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24G Issue of spectrum licences generally
     
@@ -876,7 +878,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     *   (c) the responsible Ministers have agreed to the grant.
     
-    (2) When the manager grants a spectrum licence, the manager must, in accordance with [section 49(1)(g)][137] of the Radiocommunications Act 1989, specify that the licence may only be transferred to another person with the consent of the manager.
+    (2) When the manager grants a spectrum licence, the manager must, in accordance with [section 49(1)(g)][138] of the Radiocommunications Act 1989, specify that the licence may only be transferred to another person with the consent of the manager.
     
     (3) The manager must not consent to the transfer of a spectrum licence to a person other than the Service unless---
         
@@ -896,7 +898,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (5) In giving consent under subsection (1)(c), (3)(c), or (4)(c), the responsible Ministers may impose any conditions as they see fit.
     
-    Section 24G: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24G: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 24H Use of spectrum licences and income from spectrum licences
     
@@ -908,7 +910,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (2) Revenue or benefits in kind received by the manager from any other spectrum licence granted under this subpart must be used for purposes consistent with the protection and promotion of te reo Māori me ōna tikanga.
     
-    Section 24H: inserted, on 28 November 2013, by [section 10][133] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 24H: inserted, on 28 November 2013, by [section 10][134] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ### Subpart 3---Accountability required of Service
 
@@ -922,7 +924,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     _financial report_ means the report referred to in [section 43][78]
     
-    _generally accepted accounting practice_ has the same meaning it has in [section 3][138] of the Financial Reporting Act 1993
+    _generally accepted accounting practice_ has the same meaning as in [section 8][139] of the Financial Reporting Act 2013
     
     _group_ means a group comprising the Service and its subsidiaries
     
@@ -939,6 +941,8 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     _statement of responsibility_ means the accountability document described in [section 42][77]
     
     _statement of service performance_ means part of the annual report referred to in [section 41(1)(c)][75].
+    
+    Section 25 **_generally accepted accounting practice_**: replaced, on 1 April 2014, by [section 126][116] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Key provisions on accountability of Service
 
@@ -1072,17 +1076,17 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     (3) The statement of intent must include any other information material to understanding and assessing the information provided under subsections (1) and (2), or include information without which the information provided under subsections (1) and (2) would be false or misleading in a material way.
     
-    Section 29(1)(g): amended, on 28 November 2013, by [section 11(1)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(1)(g): amended, on 28 November 2013, by [section 11(1)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 29(1)(k): replaced, on 28 November 2013, by [section 11(2)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(1)(k): replaced, on 28 November 2013, by [section 11(2)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 29(1)(l): inserted, on 28 November 2013, by [section 11(2)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(1)(l): inserted, on 28 November 2013, by [section 11(2)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 29(1)(m): inserted, on 28 November 2013, by [section 11(2)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(1)(m): inserted, on 28 November 2013, by [section 11(2)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 29(1)(n): inserted, on 28 November 2013, by [section 11(2)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(1)(n): inserted, on 28 November 2013, by [section 11(2)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 29(2)(b)(iiia): inserted, on 28 November 2013, by [section 11(3)][139] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 29(2)(b)(iiia): inserted, on 28 November 2013, by [section 11(3)][140] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 30 Matters for consultation and reporting must be identified
     
@@ -1208,7 +1212,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     *   (c) a description of the delivery standards that the board has agreed to meet; and
     
-    *   (d) the amount to be set aside for the operating costs of Te Pūtahi Paoho under [clauses 11][140] and [12][141] of Schedule 1\.
+    *   (d) the amount to be set aside for the operating costs of Te Pūtahi Paoho under [clauses 11][141] and [12][142] of Schedule 1\.
     
     (3) The output agreement must include any other relevant information, such as the purpose for which the outputs are required, that may assist the board and the responsible Ministers to interpret and implement the output agreement.
     
@@ -1218,7 +1222,7 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
         
     *   (a) determined in consultation with the chairperson of Te Pūtahi Paoho; and
     
-    *   (b) sufficient to meet the costs of the matters provided for in [clauses 11][140] and [12][141] of Schedule 1\.
+    *   (b) sufficient to meet the costs of the matters provided for in [clauses 11][141] and [12][142] of Schedule 1\.
     
     
 
@@ -1282,17 +1286,17 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
     
     *   (m) any other information that the board considers necessary to enable an informed assessment of the performance of the Service for that financial year.
     
-    Section 41(2)(h): replaced, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(h): replaced, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 41(2)(i): inserted, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(i): inserted, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 41(2)(j): inserted, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(j): inserted, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 41(2)(k): inserted, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(k): inserted, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 41(2)(l): inserted, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(l): inserted, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Section 41(2)(m): inserted, on 28 November 2013, by [section 12][142] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 41(2)(m): inserted, on 28 November 2013, by [section 12][143] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Other documents of accountability
 
@@ -1379,7 +1383,7 @@ Provisions for termination of Te Reo Māori Television Trust (Te Awhiorangi), tr
     
     _assets_ means any real or personal property of any kind, whether tangible or intangible, corporeal or incorporeal, whether or not subject to rights, and wherever situated
     
-    _Deed of Trust_ means the deed creating Te Reo Māori Television Trust (Te Awhiorangi) as a charitable trust that was incorporated under the [Charitable Trusts Act 1957][143] on 10 September 1999
+    _Deed of Trust_ means the deed creating Te Reo Māori Television Trust (Te Awhiorangi) as a charitable trust that was incorporated under the [Charitable Trusts Act 1957][144] on 10 September 1999
     
     _Electoral College_ means the Electoral College set up under the Deed of Trust
     
@@ -1417,7 +1421,7 @@ Provisions for termination of Te Reo Māori Television Trust (Te Awhiorangi), tr
     
     *   (f) money payable to the Trust becomes payable to the Service; and
     
-    *   (g) a representative appointed to the Electoral College by an organisation listed in [Part 1][118] of Schedule 1 becomes a member of Te Pūtahi Paoho.
+    *   (g) a representative appointed to the Electoral College by an organisation listed in [Part 1][119] of Schedule 1 becomes a member of Te Pūtahi Paoho.
     
     
 
@@ -1485,25 +1489,25 @@ Provisions for termination of Te Reo Māori Television Trust (Te Awhiorangi), tr
     
     *   (b) present the report to the House of Representatives within 18 months after the commencement of the review.
     
-    Section 56: replaced, on 28 November 2013, by [section 13][144] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 56: replaced, on 28 November 2013, by [section 13][145] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ### Subpart 4---Amendments to other Acts
 
 ##### 57 Amendment to Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][145]_.
+*   _Amendment(s) incorporated in the [Act(s)][146]_.
 
 ##### 58 Amendment to Official Information Act 1982
     
-*   _Amendment(s) incorporated in the [Act(s)][146]_.
+*   _Amendment(s) incorporated in the [Act(s)][147]_.
 
 ##### 59 Amendment to Broadcasting Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][147]_.
+*   _Amendment(s) incorporated in the [Act(s)][148]_.
 
 ##### 60 Amendment to Public Audit Act 2001
     
-*   _Amendment(s) incorporated in the [Act(s)][148]_.
+*   _Amendment(s) incorporated in the [Act(s)][149]_.
 
 ---
 
@@ -1586,7 +1590,7 @@ Te Pūtahi Paoho procedures
     
     (4) If all members who are entitled to receive notice give their consent, the requirement to notify a meeting may be waived.
     
-    Schedule 1 clause 4(2A): inserted, on 28 November 2013, by [section 15][149] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 1 clause 4(2A): inserted, on 28 November 2013, by [section 15][150] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 5 Teleconference meetings
     
@@ -1598,7 +1602,7 @@ Te Pūtahi Paoho procedures
     
     (2) All the provisions in this Act relating to the meetings of Te Pūtahi Paoho apply to a meeting held in accordance with this clause.
     
-    Schedule 1 clause 5(1): replaced, on 28 November 2013, by [section 16][150] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 1 clause 5(1): replaced, on 28 November 2013, by [section 16][151] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 6 Quorum
     
@@ -1642,21 +1646,21 @@ Te Pūtahi Paoho procedures
     
     (5) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
     
-    Schedule 1 clause 8(4): replaced, on 28 November 2013, by [section 17][151] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 1 clause 8(4): replaced, on 28 November 2013, by [section 17][152] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 1 clause 8(5): inserted, on 28 November 2013, by [section 17][151] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 1 clause 8(5): inserted, on 28 November 2013, by [section 17][152] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 9 Vacancies or irregularities in appointment
     
 *   (1) Despite a vacancy in its membership, Te Pūtahi Paoho may perform its functions, provided there is a quorum.
     
-    (2) If subclause (1) applies, Te Pūtahi Paoho may, even if the quorum is not present, request an organisation listed in [clause 1][152] that has no representative on Te Pūtahi Paoho to appoint a representative.
+    (2) If subclause (1) applies, Te Pūtahi Paoho may, even if the quorum is not present, request an organisation listed in [clause 1][153] that has no representative on Te Pūtahi Paoho to appoint a representative.
     
     (3) The decisions and transactions of Te Pūtahi Paoho are not affected if a member's appointment is defective.
 
 ##### 10 Change in membership of Te Pūtahi Paoho
     
-*   In determining whether to give consent under [section 14][21] to a recommendation of the Minister of Māori Affairs to add the name of an organisation to the list in [clause 1][152], or to remove a name of an organisation from that list, Te Pūtahi Paoho must---
+*   In determining whether to give consent under [section 14][21] to a recommendation of the Minister of Māori Affairs to add the name of an organisation to the list in [clause 1][153], or to remove a name of an organisation from that list, Te Pūtahi Paoho must---
         
     *   (a) make that determination by resolution---
             
@@ -1686,7 +1690,7 @@ Te Pūtahi Paoho procedures
 
 ##### 12 Funds for Te Pūtahi Paoho
     
-*   The operating costs of Te Pūtahi Paoho (including the costs incurred under [clause 11][140] and the costs of administrative support for Te Pūtahi Paoho and the chairperson) must be met from money---
+*   The operating costs of Te Pūtahi Paoho (including the costs incurred under [clause 11][141] and the costs of administrative support for Te Pūtahi Paoho and the chairperson) must be met from money---
         
     *   (a) appropriated by Parliament for the purposes of this Act; and
     
@@ -1698,15 +1702,15 @@ Te Pūtahi Paoho procedures
 
 ##### 13 Disputes may be mediated
     
-*   (1) For the purposes of this clause and [clauses 14 to 20][128], the _parties_ are the responsible Ministers and the chairperson of Te Pūtahi Paoho.
+*   (1) For the purposes of this clause and [clauses 14 to 20][129], the _parties_ are the responsible Ministers and the chairperson of Te Pūtahi Paoho.
     
-    (2) This clause and [clauses 14 to 20][128] apply if the responsible Ministers and the chairperson of Te Pūtahi Paoho are unable to agree in respect of any of the following matters:
+    (2) This clause and [clauses 14 to 20][129] apply if the responsible Ministers and the chairperson of Te Pūtahi Paoho are unable to agree in respect of any of the following matters:
         
     *   (a) the persons to be appointed as the chairperson and the deputy chairperson of the board:
     
     *   (b) whether and when to seek information from, and review the performance of, the Service:
     
-    *   (c) determination or approval of the remuneration and allowances for directors under [clause 21][123] or [clause 22][124] of Schedule 2:
+    *   (c) determination or approval of the remuneration and allowances for directors under [clause 21][124] or [clause 22][125] of Schedule 2:
     
     *   (d) finalisation of a statement of intent under [section 31][62]:
     
@@ -1714,11 +1718,11 @@ Te Pūtahi Paoho procedures
     
     (3) In the event of a dispute, either party may give notice that it wishes to submit the dispute to mediation.
     
-    (4) [Clauses 14 to 20][128] apply to both parties.
+    (4) [Clauses 14 to 20][129] apply to both parties.
 
 ##### 14 Appointment of mediator
     
-*   (1) If notice is given under [clause 13(3)][127], the parties must, within 10 days of notice being given, either---
+*   (1) If notice is given under [clause 13(3)][128], the parties must, within 10 days of notice being given, either---
         
     *   (a) appoint a mediator by agreement; or
     
@@ -1754,7 +1758,7 @@ Te Pūtahi Paoho procedures
 
 ##### 16 Conference must be held in private
     
-*   Except as provided in [clause 18][153], only the parties to a dispute and the mediator may attend a conference organised by the mediator.
+*   Except as provided in [clause 18][154], only the parties to a dispute and the mediator may attend a conference organised by the mediator.
 
 ##### 17 Representatives
     
@@ -1770,7 +1774,7 @@ Te Pūtahi Paoho procedures
     
     (2) A mediator may, on his or her own initiative, seek and receive any evidence, and make any investigations and inquiries, that the mediator thinks desirable to resolve a dispute.
     
-    (3) No evidence is admissible in a court or before a person acting judicially of any statement, information, or admission disclosed to any person in the course of a mediation conference convened under [clause 14(3)][128].
+    (3) No evidence is admissible in a court or before a person acting judicially of any statement, information, or admission disclosed to any person in the course of a mediation conference convened under [clause 14(3)][129].
 
 ##### 20 Remuneration of mediator
     
@@ -1841,15 +1845,15 @@ Further provisions relating to appointments to and procedures of board, and for 
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][154], or the [Securities Act 1978][155], or the [Securities Markets Act 1988][156], or the [Takeovers Act 1993][157]:
+    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][155], or the [Securities Act 1978][156], or the [Securities Markets Act 1988][157], or the [Takeovers Act 1993][158]:
     
-    *   (c) a person who is subject to a property order made under [section 10][158], [section 11][159], [section 12][160], [section 30][161], or [section 31][162] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][163] of that Act:
+    *   (c) a person who is subject to a property order made under [section 10][159], [section 11][160], [section 12][161], [section 30][162], or [section 31][163] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][164] of that Act:
     
     *   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
     
-    *   (e) a person who has failed to disclose all interests in accordance with [clause 4(4)(a)][164].
+    *   (e) a person who has failed to disclose all interests in accordance with [clause 4(4)(a)][165].
     
-    Schedule 2 clause 2(2)(b): substituted, on 25 October 2006, by [section 25][165] of the Securities Amendment Act 2006 (2006 No 46).
+    Schedule 2 clause 2(2)(b): substituted, on 25 October 2006, by [section 25][166] of the Securities Amendment Act 2006 (2006 No 46).
 
 #### Term of appointment of directors
 
@@ -1857,13 +1861,13 @@ Further provisions relating to appointments to and procedures of board, and for 
     
 *   (1) A director---
         
-    *   (a) holds office for a term not exceeding 3 years, or any shorter term stated in the notice of appointment given under [clause 4][164]; and
+    *   (a) holds office for a term not exceeding 3 years, or any shorter term stated in the notice of appointment given under [clause 4][165]; and
     
     *   (b) may be reappointed for 1 further term; but
     
     *   (c) may not be reappointed for more than 2 continuous terms except with the joint consent of the responsible Ministers and chairperson of Te Pūtahi Paoho.
     
-    (2) Subject to [clause 11][120] or [clause 12][166], on the expiry of a term of office, a director continues in office until---
+    (2) Subject to [clause 11][121] or [clause 12][167], on the expiry of a term of office, a director continues in office until---
         
     *   (a) the director is reappointed; or
     
@@ -1891,15 +1895,15 @@ Further provisions relating to appointments to and procedures of board, and for 
         
     *   (a) disclose to the responsible Ministers or the chairperson of Te Pūtahi Paoho, as the case may be,---
             
-        *   (i) the interests (including monetary value, if quantifiable) the person would have to disclose under [clause 7][131] if he or she were a director; and
+        *   (i) the interests (including monetary value, if quantifiable) the person would have to disclose under [clause 7][132] if he or she were a director; and
         
         *   (ii) any other interests or relationships that might give rise to those interests; and
         
-        *   (iii) any other matters that, if they were known or occurred while he or she were a director, would be likely to result in that person's removal from office under [clause 11][120]; and
+        *   (iii) any other matters that, if they were known or occurred while he or she were a director, would be likely to result in that person's removal from office under [clause 11][121]; and
         
         
     
-    *   (b) certify in writing to the responsible Ministers or the chairperson of Te Pūtahi Paoho, as the case may be, that he or she is not disqualified from being a director under [clause 2][167]; and
+    *   (b) certify in writing to the responsible Ministers or the chairperson of Te Pūtahi Paoho, as the case may be, that he or she is not disqualified from being a director under [clause 2][168]; and
     
     *   (c) accept the appointment in writing to the responsible Ministers or the chairperson of Te Pūtahi Paoho, as the case may be.
     
@@ -1909,7 +1913,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (b) the person was not qualified for appointment.
     
-    Schedule 2 clause 4(4)(a)(i): amended, on 28 November 2013, by [section 19][168] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 4(4)(a)(i): amended, on 28 November 2013, by [section 19][169] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Appointment of chairperson and deputy chairperson of board
 
@@ -1969,15 +1973,15 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (b) a negotiation, arrangement, agreement, or contract made or entered into, or proposed to be made or entered into, by the Service.
     
-    Schedule 2 clause 6: replaced, on 28 November 2013, by [section 20][169] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 6: replaced, on 28 November 2013, by [section 20][170] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 7 Obligation to disclose interest
     
-*   A director who is interested in a transaction, or proposed transaction of, or other matter relating to the Service must disclose the nature of the interest in accordance with [clause 8][170] as soon as practicable after the director becomes aware, or should have been aware, that he or she is interested.
+*   A director who is interested in a transaction, or proposed transaction of, or other matter relating to the Service must disclose the nature of the interest in accordance with [clause 8][171] as soon as practicable after the director becomes aware, or should have been aware, that he or she is interested.
 
 ##### 8 Method of disclosure
     
-*   (1) A director required to disclose an interest under [clause 7][131] must---
+*   (1) A director required to disclose an interest under [clause 7][132] must---
         
     *   (a) make the disclosure---
             
@@ -1991,7 +1995,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (2) The chairperson of the board must ensure that an interests register is established and maintained for the purpose of subclause (1)(b).
     
-    Schedule 2 clause 8: replaced, on 28 November 2013, by [section 21][171] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 8: replaced, on 28 November 2013, by [section 21][172] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 9 Consequences of interest
     
@@ -2003,13 +2007,13 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (c) must not sign any document effecting, or relating to, entry into the transaction or the initiation of the matter.
     
-    Schedule 2 clause 9(b): amended, on 28 November 2013, by [section 22(1)][172] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 9(b): amended, on 28 November 2013, by [section 22(1)][173] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 2 clause 9(c): inserted, on 28 November 2013, by [section 22(2)][172] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 9(c): inserted, on 28 November 2013, by [section 22(2)][173] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 10 Effect of non-compliance
     
-*   (1) If a director fails to comply with the obligation to disclose an interest under [clause 7][131], the validity of the arrangement, agreement, or contract made or entered into by the Service is not affected.
+*   (1) If a director fails to comply with the obligation to disclose an interest under [clause 7][132], the validity of the arrangement, agreement, or contract made or entered into by the Service is not affected.
     
     (2) The chairperson of the board must,---
         
@@ -2029,7 +2033,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (2) The reasons referred to in subclause (1) include (without limitation)---
         
-    *   (a) the factors relevant to disqualification under [clause 2][167]; or
+    *   (a) the factors relevant to disqualification under [clause 2][168]; or
     
     *   (b) 1 or more of the following circumstances:
             
@@ -2057,7 +2061,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (5) The notice of removal must state the reasons for removal.
     
-    Schedule 2 clause 11(1A): inserted, on 28 November 2013, by [section 23][173] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 11(1A): inserted, on 28 November 2013, by [section 23][174] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 12 Resignation
     
@@ -2073,9 +2077,9 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (3) A resignation is effective on receipt of the notice by the responsible Ministers or Te Pūtahi Paoho, as the case may be, or at a later time, as specified in the notice.
     
-    Schedule 2 clause 12(1): amended, on 28 November 2013, by [section 24(1)][174] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 12(1): amended, on 28 November 2013, by [section 24(1)][175] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 2 clause 12(2): replaced, on 28 November 2013, by [section 24(2)][174] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 12(2): replaced, on 28 November 2013, by [section 24(2)][175] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 13 No entitlement to compensation
     
@@ -2105,7 +2109,7 @@ Further provisions relating to appointments to and procedures of board, and for 
         
     *   (a) for the balance of the term for which the vacating director was appointed; or
     
-    *   (b) for a new term, as provided for under [clause 3(1)][125].
+    *   (b) for a new term, as provided for under [clause 3(1)][126].
     
     
 
@@ -2163,7 +2167,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
     
-    Schedule 2 clause 20A: inserted, on 28 November 2013, by [section 25][175] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 20A: inserted, on 28 November 2013, by [section 25][176] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Directors' remuneration and allowances
 
@@ -2185,7 +2189,7 @@ Further provisions relating to appointments to and procedures of board, and for 
 
 ##### 23 Interpretation
     
-*   In [clauses 24][176] and [25][177],---
+*   In [clauses 24][177] and [25][178],---
     
     _director_ includes a former director
     
@@ -2203,9 +2207,9 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     (2) The Service is liable for any act or omission for which, but for this section, the director or employee of the Service would have been liable in person.
     
-    Schedule 2 clause 24(1)(b): amended, on 28 November 2013, by [section 26(a)][178] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 24(1)(b): amended, on 28 November 2013, by [section 26(a)][179] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 2 clause 24(1)(b): amended, on 28 November 2013, by [section 26(b)][178] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 24(1)(b): amended, on 28 November 2013, by [section 26(b)][179] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 25 Indemnities for directors and employees
     
@@ -2215,9 +2219,9 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (b) the exercise or intended exercise of the Service's powers.
     
-    Compare: 2004 No 115 [s 122][179]; 1993 No 105 [s 162][180]
+    Compare: 2004 No 115 [s 122][180]; 1993 No 105 [s 162][181]
     
-    Schedule 2 clause 25: replaced, on 28 November 2013, by [section 27][181] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 25: replaced, on 28 November 2013, by [section 27][182] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 25A Insurance for liability of director
     
@@ -2233,13 +2237,13 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (b) not related to the performance or intended performance of the Service's functions or the exercise or intended exercise of the Service's powers.
     
-    Schedule 2 clause 25A: inserted, on 28 November 2013, by [section 28][182] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 25A: inserted, on 28 November 2013, by [section 28][183] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 25B Saving of judicial protections from liability
     
 *   A Judge who is appointed as a director has the same immunities and limitations or other protections from liability when acting as a director as he or she would have as a Judge.
     
-    Schedule 2 clause 25B: inserted, on 28 November 2013, by [section 28][182] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 25B: inserted, on 28 November 2013, by [section 28][183] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Delegation by board
 
@@ -2269,7 +2273,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (b) may include any other person that the board thinks fit.
     
-    (3) The board may delegate the authority of the chairperson to a deputy chairperson for the purpose of [clause 19(2)(b)][183].
+    (3) The board may delegate the authority of the chairperson to a deputy chairperson for the purpose of [clause 19(2)(b)][184].
     
     (4) The board must not delegate---
         
@@ -2285,9 +2289,9 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (e) any other matter that the responsible Ministers and the chairperson of Te Pūtahi Paoho may stipulate by notice in writing to the board.
     
-    Schedule 2 clause 26(1): replaced, on 28 November 2013, by [section 29(1)][184] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 26(1): replaced, on 28 November 2013, by [section 29(1)][185] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 2 clause 26(4)(da): inserted, on 28 November 2013, by [section 29(2)][184] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 26(4)(da): inserted, on 28 November 2013, by [section 29(2)][185] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 27 Effect of delegation
     
@@ -2311,7 +2315,7 @@ Further provisions relating to appointments to and procedures of board, and for 
     
     *   (c) does not prevent the board from performing the function or exercising the power.
     
-    Schedule 2 clause 27(2)(a): replaced, on 28 November 2013, by [section 30][185] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 27(2)(a): replaced, on 28 November 2013, by [section 30][186] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Provisions relating to information held by or provided to Service
 
@@ -2368,7 +2372,7 @@ Financial provisions
     
 *   (1) The Service must have 1 or more bank accounts, as necessary for the exercise of its powers and the performance of its functions and duties,---
         
-    *   (a) at any registered bank (within the meaning of the [Reserve Bank of New Zealand Act 1989][186]); and
+    *   (a) at any registered bank (within the meaning of the [Reserve Bank of New Zealand Act 1989][187]); and
     
     *   (b) with the approval of the Minister of Finance, at any bank outside New Zealand.
     
@@ -2414,9 +2418,9 @@ Financial provisions
     
     (3) In subclause (2), _net tangible assets_ means total tangible assets less total liabilities measured in accordance with generally accepted accounting practice.
     
-    Schedule 2 clause 33(2): inserted, on 28 November 2013, by [section 31][187] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 33(2): inserted, on 28 November 2013, by [section 31][188] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
     
-    Schedule 2 clause 33(3): inserted, on 28 November 2013, by [section 31][187] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 33(3): inserted, on 28 November 2013, by [section 31][188] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### Contracting
 
@@ -2461,7 +2465,7 @@ Employment provisions
         
     *   (a) act independently; and
     
-    *   (b) be satisfied that the proposed appointee has disclosed the interests that he or she would, if he or she were a director, have to disclose at that time under [clause 7][131]; and
+    *   (b) be satisfied that the proposed appointee has disclosed the interests that he or she would, if he or she were a director, have to disclose at that time under [clause 7][132]; and
     
     *   (c) determine the terms and conditions of employment for the chief executive that are not provided for in this Act, including remuneration and allowances.
     
@@ -2517,7 +2521,7 @@ Employment provisions
     
     *   (b) any functions, duties, or powers delegated to the chief executive by the board, subject to the consent of the board.
     
-    (2) [Clause 27][188] applies to a delegation by the chief executive.
+    (2) [Clause 27][189] applies to a delegation by the chief executive.
 
 #### Personnel
 
@@ -2543,11 +2547,11 @@ Employment provisions
     
     *   (c) report in the annual report on its compliance with that policy (including its equal employment opportunities programme).
     
-    Schedule 2 clause 41(ba): inserted, on 28 November 2013, by [section 32][189] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 41(ba): inserted, on 28 November 2013, by [section 32][190] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 ##### 42 Meaning of good employer
     
-*   (1) For the purposes of [clause 41][190], a _good employer_ is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring---
+*   (1) For the purposes of [clause 41][191], a _good employer_ is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring---
         
     *   (a) good and safe working conditions; and
     
@@ -2575,7 +2579,7 @@ Employment provisions
     
     (2) For the purposes of the Act an _equal employment opportunities programme_ is a programme aimed at identifying and eliminating all aspects of policies, procedures and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
     
-    Schedule 2 clause 42(1)(g): amended, on 28 November 2013, by [section 33][191] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Schedule 2 clause 42(1)(g): amended, on 28 November 2013, by [section 33][192] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
 
 #### 
 
@@ -2589,19 +2593,21 @@ Employment provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][192] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][193] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][193] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][194] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][194] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][195] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][195] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][196] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013][196] (2013 No 99)
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][116]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][117]
+    [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013][197] (2013 No 99)
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][165]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][118]
+    
+    Securities Amendment Act 2006 (2006 No 46): [section 25][166]
     
     Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 20A][35]
 
@@ -2720,87 +2726,88 @@ Employment provisions
 [110]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194951
 [111]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662115
 [112]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM155371
-[113]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM324804
+[113]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4632837
 [114]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM195575
 [115]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662116
-[116]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662126
-[117]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM3360714
-[118]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194566
-[119]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194568
-[120]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194912
-[121]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662128
-[122]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194903
-[123]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194926
-[124]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194927
-[125]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194900
-[126]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194943
-[127]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194585
-[128]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194586
-[129]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194587
-[130]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194594
-[131]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194907
-[132]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM5770802
-[133]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662131
-[134]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196937
-[135]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM195581
-[136]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196932
-[137]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196940
-[138]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM324886
-[139]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662153
-[140]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194581
-[141]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194583
-[142]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662154
-[143]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM308795
-[144]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662155
-[145]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM431296
-[146]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM65921
-[147]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM158067
-[148]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM88987
-[149]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662160
-[150]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662161
-[151]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662162
-[152]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194567
-[153]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194590
-[154]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM319569
-[155]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM25999
-[156]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM139726
-[157]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM325508
-[158]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126583
-[159]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126585
-[160]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126587
-[161]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127009
-[162]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127010
-[163]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127016
-[164]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194901
-[165]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM383050
-[166]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194913
-[167]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194597
-[168]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662165
-[169]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662166
-[170]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194908
-[171]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662170
-[172]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662172
-[173]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662173
-[174]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662174
-[175]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662175
-[176]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194936
-[177]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194937
-[178]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662177
-[179]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM330374
-[180]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM320806
-[181]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662178
-[182]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662180
-[183]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194923
-[184]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662183
-[185]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662184
-[186]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM199363
-[187]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662185
-[188]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194940
-[189]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662187
-[190]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194960
-[191]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662188
-[192]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998516
-[193]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998515
-[194]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998532
-[195]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[196]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662100
+[116]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM5740665
+[117]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662126
+[118]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM3360714
+[119]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194566
+[120]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194568
+[121]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194912
+[122]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662128
+[123]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194903
+[124]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194926
+[125]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194927
+[126]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194900
+[127]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194943
+[128]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194585
+[129]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194586
+[130]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194587
+[131]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194594
+[132]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194907
+[133]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM5770802
+[134]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662131
+[135]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196937
+[136]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM195581
+[137]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196932
+[138]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196940
+[139]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4632894
+[140]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662153
+[141]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194581
+[142]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194583
+[143]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662154
+[144]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM308795
+[145]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662155
+[146]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM431296
+[147]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM65921
+[148]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM158067
+[149]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM88987
+[150]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662160
+[151]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662161
+[152]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662162
+[153]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194567
+[154]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194590
+[155]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM319569
+[156]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM25999
+[157]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM139726
+[158]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM325508
+[159]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126583
+[160]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126585
+[161]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM126587
+[162]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127009
+[163]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127010
+[164]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM127016
+[165]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194901
+[166]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM383050
+[167]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194913
+[168]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194597
+[169]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662165
+[170]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662166
+[171]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194908
+[172]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662170
+[173]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662172
+[174]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662173
+[175]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662174
+[176]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662175
+[177]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194936
+[178]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194937
+[179]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662177
+[180]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM330374
+[181]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM320806
+[182]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662178
+[183]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662180
+[184]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194923
+[185]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662183
+[186]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662184
+[187]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM199363
+[188]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662185
+[189]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194940
+[190]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662187
+[191]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194960
+[192]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662188
+[193]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998516
+[194]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998515
+[195]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM2998532
+[196]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[197]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662100
