@@ -1,5 +1,5 @@
 Reprint  
-as at 10 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -874,7 +874,7 @@ Preliminary provisions
     
     _failing to maintain a solvency margin_, in relation to an insurer, means that the insurer is failing to comply with a condition of its licence imposed under [section 21(2)(b) or (c)][32]
     
-    _financial statements_ has the same meaning as in [section 8][340] of the Financial Reporting Act 1993
+    _financial statements_ has the same meaning as in [section 6][340] of the Financial Reporting Act 2013
     
     _financial strength rating_,---
         
@@ -883,6 +883,8 @@ Preliminary provisions
     *   (b) in relation to a Lloyd's underwriter, means a rating obtained by Lloyd's that applies to the Lloyd's market
     
     _fit and proper standard_ means a fit and proper standard issued under [section 36][51]
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][341] of the Financial Reporting Act 2013
     
     _governing body_ means,---
         
@@ -898,9 +900,9 @@ Preliminary provisions
     
     _Governor_ means the Governor of the Bank appointed under the [Reserve Bank of New Zealand Act 1989][336]
     
-    _group financial statements_ has the same meaning as in [section 9][341] of the Financial Reporting Act 1993
+    _group financial statements_ has the same meaning as in [section 7][342] of the Financial Reporting Act 2013
     
-    _health insurance_ means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of [section 5(1)][342] of the Health Practitioners Competence Assurance Act 2003)
+    _health insurance_ means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of [section 5(1)][343] of the Health Practitioners Competence Assurance Act 2003)
     
     _holding entity_ has the meaning set out in [section 10(3)][14]
     
@@ -1030,7 +1032,7 @@ Preliminary provisions
     
     *   (f) a person who has control (whether directly or indirectly) or significant influence over 25% or more of the composition of the governing body of the insurer
     
-    _relative_ has the same meaning as in [section 2(1)][343] of the Companies Act 1993
+    _relative_ has the same meaning as in [section 2(1)][344] of the Companies Act 1993
     
     _relevant officer_, in relation to an insurer, means a person who occupies any of the following positions in respect of the insurer:
         
@@ -1070,13 +1072,17 @@ Preliminary provisions
     
     _statutory fund_ means a statutory fund maintained under [subpart 3][108] of Part 2
     
-    _subsidiary_ means a subsidiary within the meaning of [sections 5 to 8][344] of the Companies Act 1993
+    _subsidiary_---
+        
+    *   (a) means a subsidiary within the meaning of [sections 5 to 8][345] of the Companies Act 1993; and
+    
+    *   (b) in [section 81][107], includes any entity that is classified as a subsidiary in any applicable financial reporting standard (within the meaning of [section 5][346] of the Financial Reporting Act 2013)
     
     _voluntary administration_ means voluntary administration under [Part 15A][335] of the Companies Act 1993
     
-    _voting right_ has the same meaning as in [section 2(1)][345] of the Reserve Bank of New Zealand Act 1989
+    _voting right_ has the same meaning as in [section 2(1)][347] of the Reserve Bank of New Zealand Act 1989
     
-    _voting security_ has the same meaning as in [section 2(1)][345] of the Reserve Bank of New Zealand Act 1989\.
+    _voting security_ has the same meaning as in [section 2(1)][347] of the Reserve Bank of New Zealand Act 1989\.
     
     (2) For the purposes of this Act, a reference to an insurer's insurance business includes business relating to the investment, administration, and management of the assets of the insurer and of its statutory funds (if any).
     
@@ -1100,7 +1106,13 @@ Preliminary provisions
     
     *   (b) the omission of any other information that is material in the form and context in which it is published or supplied.
     
+    Section 6(1) **financial statements**: replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 6(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 6(1) **group financial statements**: replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 6(1) **subsidiary**: replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 7 Meaning of contract of insurance
     
@@ -1118,19 +1130,19 @@ Preliminary provisions
     
     (3) However, a contract, to the extent that it provides for, or relates to, any of the following is not a contract of insurance for the purposes of this Act:
         
-    *   (a) a derivative transaction (within the meaning of [section 136(1)][346] of the Crown Entities Act 2004):
+    *   (a) a derivative transaction (within the meaning of [section 136(1)][349] of the Crown Entities Act 2004):
     
     *   (b) a guarantee under which a person agrees to answer to another person for the debt, default, or liability of a third person:
     
-    *   (c) a repayment waiver (within the meaning of [section 5][347] of the Credit Contracts and Consumer Finance Act 2003):
+    *   (c) a repayment waiver (within the meaning of [section 5][350] of the Credit Contracts and Consumer Finance Act 2003):
     
     *   (d) a product or service guarantee or warranty in relation to any goods or services that is given or made by the manufacturer or supplier:
     
-    *   (e) any lump sum, annuity, pension, allowance, refund, or other payment arising from membership of a superannuation scheme (within the meaning of [section 2A][348] of the Superannuation Schemes Act 1989) or a KiwiSaver scheme (within the meaning of [section 4(1)][349] of the KiwiSaver Act 2006):
+    *   (e) any lump sum, annuity, pension, allowance, refund, or other payment arising from membership of a superannuation scheme (within the meaning of [section 2A][351] of the Superannuation Schemes Act 1989) or a KiwiSaver scheme (within the meaning of [section 4(1)][352] of the KiwiSaver Act 2006):
     
-    *   (f) gambling (within the meaning of [section 4(1)][350] of the Gambling Act 2003):
+    *   (f) gambling (within the meaning of [section 4(1)][353] of the Gambling Act 2003):
     
-    *   (g) a call-out service that involves providing assistance in respect of a motor vehicle (within the meaning of [section 2(1)][351] of the Land Transport Act 1998) that cannot be operated (for example, because it has broken down, has run out of fuel, or has a flat tyre, or because the owner or operator is locked out), being a service that is not provided when the motor vehicle is involved in a motor vehicle accident, is stolen, or is damaged owing to theft or vandalism:
+    *   (g) a call-out service that involves providing assistance in respect of a motor vehicle (within the meaning of [section 2(1)][354] of the Land Transport Act 1998) that cannot be operated (for example, because it has broken down, has run out of fuel, or has a flat tyre, or because the owner or operator is locked out), being a service that is not provided when the motor vehicle is involved in a motor vehicle accident, is stolen, or is damaged owing to theft or vandalism:
     
     *   (h) any other transaction or matter of a class declared by regulations to be transactions or matters that are not by way of insurance.
     
@@ -1146,7 +1158,7 @@ Preliminary provisions
         
         *   (ii) an overseas company that is required to be registered or deemed to be registered under the [Companies Act 1993][338]; or
         
-        *   (iii) an association of persons formed outside New Zealand that is carrying on business in New Zealand within the meaning of [section 332][352] of the Companies Act 1993 (applied with all necessary modifications as if the references in that section to an overseas company were references to an association of persons); or
+        *   (iii) an association of persons formed outside New Zealand that is carrying on business in New Zealand within the meaning of [section 332][355] of the Companies Act 1993 (applied with all necessary modifications as if the references in that section to an overseas company were references to an association of persons); or
         
         *   (iv) ordinarily resident in New Zealand; and
         
@@ -1158,13 +1170,13 @@ Preliminary provisions
     
     (2) A person does not carry on insurance business in New Zealand for the purposes of this Act if the person is---
         
-    *   (a) a Crown entity within the meaning of [section 7(1)][353] of the Crown Entities Act 2004 (for example, the Accident Compensation Corporation, the Earthquake Commission, or the Housing New Zealand Corporation); or
+    *   (a) a Crown entity within the meaning of [section 7(1)][356] of the Crown Entities Act 2004 (for example, the Accident Compensation Corporation, the Earthquake Commission, or the Housing New Zealand Corporation); or
     
-    *   (b) an entity named in [Part 1][354] of Schedule 1 of the Ombudsmen Act 1975; or
+    *   (b) an entity named in [Part 1][357] of Schedule 1 of the Ombudsmen Act 1975; or
     
-    *   (c) the National Provident Fund Board (as continued in existence under [section 12][355] of the National Provident Fund Restructuring Act 1990) or a subsidiary of the Board; or
+    *   (c) the National Provident Fund Board (as continued in existence under [section 12][358] of the National Provident Fund Restructuring Act 1990) or a subsidiary of the Board; or
     
-    *   (d) a public entity (within the meaning of [section 5(1)][356] of the Public Audit Act 2001) that is declared by regulations to be an entity to which this paragraph applies; or
+    *   (d) a public entity (within the meaning of [section 5(1)][359] of the Public Audit Act 2001) that is declared by regulations to be an entity to which this paragraph applies; or
     
     *   (e) an incorporated society or other association of persons that satisfies the criteria specified in subsection (3); or
     
@@ -1254,7 +1266,7 @@ Preliminary provisions
 
 ##### 11 Application of Act to friendly societies and credit unions
     
-*   This Act applies to a friendly society or a credit union (as those terms are defined in [section 2][357] of the Friendly Societies and Credit Unions Act 1982) as if the friendly society or credit union were a body corporate.
+*   This Act applies to a friendly society or a credit union (as those terms are defined in [section 2][360] of the Friendly Societies and Credit Unions Act 1982) as if the friendly society or credit union were a body corporate.
 
 #### Bank's functions
 
@@ -1319,7 +1331,7 @@ Licensing and prudential regulation of insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,000,000\.
     
-    Section 15(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 15(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Offence for person who is not licensed insurer to hold itself out to be licensed insurer
     
@@ -1335,7 +1347,7 @@ Licensing and prudential regulation of insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,000,000\.
     
-    Section 16(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 16(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Process for obtaining licence
 
@@ -1353,7 +1365,7 @@ Licensing and prudential regulation of insurers
     
     (4) An applicant commits an offence if it provides false or misleading information to the Bank for the purposes of an application and is liable, on conviction, to a fine not exceeding $1,000,000\.
     
-    Section 17(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 17(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Applicant must provide fit and proper policy, fit and proper certificate, and risk management programme
     
@@ -1413,13 +1425,13 @@ Licensing and prudential regulation of insurers
     
     *   (k) the applicant---
             
-        *   (i) is registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][359]; or
+        *   (i) is registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][362]; or
         
-        *   (ii) complies with [section 13(a)][360] of that Act; and
+        *   (ii) complies with [section 13(a)][363] of that Act; and
         
         
     
-    *   (l) the applicant has the ability to comply with the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][361] (if the applicant is, or will be, a reporting entity under that Act); and
+    *   (l) the applicant has the ability to comply with the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][364] (if the applicant is, or will be, a reporting entity under that Act); and
     
     *   (m) the applicant complies with any other prescribed requirements.
     
@@ -1443,7 +1455,7 @@ Licensing and prudential regulation of insurers
     
     (4) The law and regulatory requirements referred to in subsection (1)(j)(i), and the nature and extent of the prudential supervision referred to in subsection (1)(j)(ii), must be treated as being appropriate for the purposes of those provisions if the applicant's home jurisdiction is a prescribed jurisdiction for the purposes of this subsection.
     
-    (5) If an applicant is not required under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][359] to be registered under that Act, the applicant is still required to comply with [section 13(a)][360] of that Act for the purposes of subsection (1)(k).
+    (5) If an applicant is not required under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][362] to be registered under that Act, the applicant is still required to comply with [section 13(a)][363] of that Act for the purposes of subsection (1)(k).
 
 ##### 20 Carrying on business in prudent manner
     
@@ -1519,7 +1531,7 @@ Licensing and prudential regulation of insurers
     
     *   (b) set the level of the solvency margin by means of a ratio, percentage of another amount, or in any other way.
     
-    Section 21(2)(f): replaced, on 4 September 2013, by [section 4][362] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 21(2)(f): replaced, on 4 September 2013, by [section 4][365] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 22 Bank may modify conditions of licence
     
@@ -1547,7 +1559,7 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer commits an offence if it fails to comply with a condition of its licence and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 23: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Licensed insurer must report likely failure to comply with solvency margin imposed under licence conditions
     
@@ -1555,7 +1567,7 @@ Licensing and prudential regulation of insurers
     
     (2) A licensed insurer that fails to comply with subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 24(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 24(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Notification of decision
 
@@ -1567,9 +1579,9 @@ Licensing and prudential regulation of insurers
     
     (3) The Bank must give notice of the issue of a licence on the register kept under [section 54A][73].
     
-    Section 25 heading: amended, on 4 September 2013, by [section 5(1)][363] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 25 heading: amended, on 4 September 2013, by [section 5(1)][366] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 25(3): replaced, on 4 September 2013, by [section 5(2)][363] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 25(3): replaced, on 4 September 2013, by [section 5(2)][366] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 #### Bank must be notified before control is obtained and before corporate form is changed
 
@@ -1643,7 +1655,7 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer or other person that fails to comply with [section 26][39], [27][40], or [28(2)][41] commits an offence and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 29: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Cancellation of licence
 
@@ -1663,7 +1675,7 @@ Licensing and prudential regulation of insurers
         
         *   (v) the Bank has given a notice under [section 28(3)][41] that, if a proposed transaction takes effect or the corporate form is changed, it would no longer be satisfied of 1 or more of the matters in [section 19(1)(a) to (m)][29], and (whether before or after that notice is given) the proposed transaction takes effect or the corporate form is changed:
         
-        *   (vi) the licensed insurer has been deregistered under [section 18][364] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and has not been reregistered under that Act (whether under [section 22][365] of that Act or otherwise) within the 3-month period from the date of deregistration:
+        *   (vi) the licensed insurer has been deregistered under [section 18][367] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and has not been reregistered under that Act (whether under [section 22][368] of that Act or otherwise) within the 3-month period from the date of deregistration:
         
         *   (vii) the licensed insurer is a company that has been removed from the New Zealand register (within the meaning of the [Companies Act 1993][338]):
         
@@ -1697,7 +1709,7 @@ Licensing and prudential regulation of insurers
     
     *   (b) on the Bank's Internet site.
     
-    Section 30(2): amended, on 4 September 2013, by [section 6][366] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 30(2): amended, on 4 September 2013, by [section 6][369] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 31 Assignment of liabilities to enable cancellation
     
@@ -1717,7 +1729,7 @@ Licensing and prudential regulation of insurers
     
     (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 31(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 31(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32 Bank's approval of assignment
     
@@ -1785,7 +1797,7 @@ Licensing and prudential regulation of insurers
     
     (6) A licensed insurer that fails to comply with this section commits an offence and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 34(6): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(6): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Group fit and proper policy
     
@@ -1845,7 +1857,7 @@ Licensing and prudential regulation of insurers
     
     (6) A licensed insurer commits an offence if the insurer fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 37(6): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(6): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Bank may exempt overseas insurers from compliance with section 37(1)
     
@@ -1901,7 +1913,7 @@ Licensing and prudential regulation of insurers
     
     *   (c) in the case of a director, the Registrar of Companies.
     
-    (3) A notice given under subsection (2)(c) is sufficient compliance with [section 159][367] of the Companies Act 1993\.
+    (3) A notice given under subsection (2)(c) is sufficient compliance with [section 159][370] of the Companies Act 1993\.
     
     (4) A notice given under this section may be amended, revoked, or replaced in the same way as it may be given.
 
@@ -1911,7 +1923,7 @@ Licensing and prudential regulation of insurers
     
     (2) A person commits an offence if the person fails to comply with subsection (1) and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
     
-    Section 41(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Appeals from Bank's decision
     
@@ -1923,7 +1935,7 @@ Licensing and prudential regulation of insurers
 
 ##### 43 Appeal to Court of Appeal on question of law
     
-*   (1) Any party to an appeal under [section 42][57] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][368] of the Judicature Act 1908 applies to any such appeal.
+*   (1) Any party to an appeal under [section 42][57] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][371] of the Judicature Act 1908 applies to any such appeal.
     
     (2) In determining whether to grant leave to appeal, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
     
@@ -1945,7 +1957,7 @@ Licensing and prudential regulation of insurers
         
         
     
-    *   (b) the insurer amalgamates with another person (whether it occurs under [Part 13][369] of the Companies Act 1993 or any other law of similar effect that results in 2 or more entities amalgamating and continuing as 1 entity).
+    *   (b) the insurer amalgamates with another person (whether it occurs under [Part 13][372] of the Companies Act 1993 or any other law of similar effect that results in 2 or more entities amalgamating and continuing as 1 entity).
     
     (2) For the purposes of [sections 45 to 53][61],---
     
@@ -1963,7 +1975,7 @@ Licensing and prudential regulation of insurers
     
     (5) This section does not apply in respect of a transfer or amalgamation under [section 31][45], [sections 164 to 167][213], [subpart 4][219] of Part 4, or [section 207(5)][269].
     
-    Section 44(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Request for approval
     
@@ -2031,11 +2043,11 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer commits an offence if it fails to comply with a condition of the approval imposed under [section 49][65] and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 50: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Requirement for approval is in addition to requirements under other enactments
     
-*   [Sections 44 to 50][60] do not limit any other enactment that must be complied with in order to give effect to a proposed transfer or amalgamation that requires approval under section 44 (for example, in the case of amalgamating companies, the requirements of [Part 13][369] of the Companies Act 1993).
+*   [Sections 44 to 50][60] do not limit any other enactment that must be complied with in order to give effect to a proposed transfer or amalgamation that requires approval under section 44 (for example, in the case of amalgamating companies, the requirements of [Part 13][372] of the Companies Act 1993).
 
 ##### 52 Transfer or amalgamation not invalidated
     
@@ -2071,7 +2083,7 @@ Licensing and prudential regulation of insurers
 
 #### Register
     
-*   Heading: inserted, on 4 September 2013, by [section 7][370] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+*   Heading: inserted, on 4 September 2013, by [section 7][373] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 54A Register
     
@@ -2089,9 +2101,9 @@ Licensing and prudential regulation of insurers
     
     (4) The Bank must take all reasonable steps to ensure that the information contained in the public register is available to members of the public at all reasonable times.
     
-    Compare: 1989 No 157 [s 69][371]
+    Compare: 1989 No 157 [s 69][374]
     
-    Section 54A: inserted, on 4 September 2013, by [section 7][370] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 54A: inserted, on 4 September 2013, by [section 7][373] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ### Subpart 2---Prudential regulation of insurers
 
@@ -2179,13 +2191,13 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer commits an offence if it fails to comply with any of the requirements of a solvency standard under [section 56(d) or (g)][77] that apply to the insurer and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 57: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Incorporation by reference
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 4 September 2013, by [section 8][372] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 58: repealed, on 4 September 2013, by [section 8][375] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 59 Bank may exempt overseas insurers from compliance
     
@@ -2225,7 +2237,7 @@ Licensing and prudential regulation of insurers
     
     (2A) The Bank may, by notice to a licensed insurer, exempt the insurer from compliance with subsection (1) if the Bank is satisfied that the insurer has ceased to enter into new contracts of insurance as an insurer.
     
-    (2B) Subsection (2A) is subject to [section 232][373] (which provides for general provisions relating to exemptions).
+    (2B) Subsection (2A) is subject to [section 232][376] (which provides for general provisions relating to exemptions).
     
     (3) [Sections 63 to 71][85] do not apply to---
         
@@ -2235,15 +2247,15 @@ Licensing and prudential regulation of insurers
     
     (4) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $1,000,000\.
     
-    Section 60(2)(c): replaced, on 4 September 2013, by [section 9(1)][374] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 60(2)(c): replaced, on 4 September 2013, by [section 9(1)][377] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 60(2)(d): inserted, on 4 September 2013, by [section 9(1)][374] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 60(2)(d): inserted, on 4 September 2013, by [section 9(1)][377] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 60(2A): inserted, on 4 September 2013, by [section 9(2)][374] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 60(2A): inserted, on 4 September 2013, by [section 9(2)][377] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 60(2B): inserted, on 4 September 2013, by [section 9(2)][374] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 60(2B): inserted, on 4 September 2013, by [section 9(2)][377] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 60(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 60(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Financial strength rating must refer to overseas policyholder preference
     
@@ -2315,9 +2327,9 @@ Licensing and prudential regulation of insurers
     
     (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000\.
     
-    Section 64(4A): inserted, on 4 September 2013, by [section 10][375] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 64(4A): inserted, on 4 September 2013, by [section 10][378] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 64(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Disclosure by insurers not required to be rated
     
@@ -2339,7 +2351,7 @@ Licensing and prudential regulation of insurers
     
     (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000\.
     
-    Section 65(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 65(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Policyholder may cancel if disclosure is not made
     
@@ -2413,7 +2425,7 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer commits an offence if it fails to comply with any of [sections 63][85] and [67 to 70][89] and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 71: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 71: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Disclosure of overseas policyholder preference
 
@@ -2423,7 +2435,7 @@ Licensing and prudential regulation of insurers
     
     (2) An overseas insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 72(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 72(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Risk management
 
@@ -2485,7 +2497,7 @@ Licensing and prudential regulation of insurers
     
 *   A licensed insurer commits an offence if it fails to comply with [section 73][97] and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 75: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 75: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appointment of actuary and actuarial review
 
@@ -2503,9 +2515,9 @@ Licensing and prudential regulation of insurers
 
 ##### 77 Review of actuarial information in, or used in the preparation of, financial statements
     
-*   (1) A licensed insurer must ensure that the actuarial information contained in, or used in the preparation of, the financial statements of the insurer and any group financial statements referred to in [section 81(1)][107] is reviewed by the appointed actuary.
+*   (1) A licensed insurer must ensure that the actuarial information contained in, or used in the preparation of, the financial statements or group financial statements of the insurer referred to in [section 81(1)][107] is reviewed by the appointed actuary.
     
-    (2) The licensed insurer must take all practicable steps to ensure that the review is completed, and the report referred to in [section 78][103] in respect of the review is prepared, before the date on which the relevant financial statements and group financial statements are required to be registered under the Financial Reporting Act 1993\.
+    (2) The licensed insurer must take all practicable steps to ensure that the review is completed, and the report referred to in [section 78][103] in respect of the review is prepared, before the date on which the financial statements or group financial statements are required to be given to the Bank under [section 81][107].
     
     (3) The review must be carried out in accordance with an applicable solvency standard.
     
@@ -2519,7 +2531,11 @@ Licensing and prudential regulation of insurers
     
     (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 77(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 77(1): replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 77(2): replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 77(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Appointed actuary's report
     
@@ -2551,13 +2567,13 @@ Licensing and prudential regulation of insurers
 
 ##### 79 Provisions relating to auditor's report
     
-*   A licensed insurer must ensure that the auditor's report that is prepared under [section 16][376] of the Financial Reporting Act 1993 is accompanied by the appointed actuary's report prepared under [section 78][103] when---
+*   A licensed insurer must ensure that the auditor's report that is prepared in respect of the insurer's financial statements or group financial statements is accompanied by the appointed actuary's report prepared under [section 78][103] when---
         
-    *   (a) the auditor's report is delivered for registration under [section 18][377] of that Act; and
+    *   (a) the auditor's report is delivered for registration or lodgement under any enactment; and
     
     *   (b) the auditor's report is included in the insurer's annual report (in the case of an insurer that includes the auditor's report in its annual report).
     
-    
+    Section 79: replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 80 Access to information
     
@@ -2581,15 +2597,15 @@ Licensing and prudential regulation of insurers
     
     *   (b) an actuary that is appointed by or under any of the provisions of this Act to perform or exercise any function, duty, or power in respect of the insurer.
     
-    Section 80(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 80(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 80(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 80(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Supply of financial statements
 
 ##### 81 Financial statements and interim financial information must be given to Bank
     
-*   (1) A licensed insurer must ensure that, on or before the date on which the financial statements of the insurer and any group financial statements are required to be registered under the [Financial Reporting Act 1993][378],---
+*   (1) A licensed insurer must ensure that, on or before the date on which the financial statements or group financial statements of the insurer are required to be registered or lodged under any Act,---
         
     *   (a) copies of those statements together with a copy of the auditor's report on those statements are given to the Bank; and
     
@@ -2603,7 +2619,7 @@ Licensing and prudential regulation of insurers
             
         *   (i) to the Bank; and
         
-        *   (ii) for registration to the Registrar if this is required by the regulations.
+        *   (ii) for registration to the Registrar of Companies if this is required by the regulations.
         
         
     
@@ -2625,7 +2641,7 @@ Licensing and prudential regulation of insurers
     
     *   (b) a group comprising the insurer and its subsidiaries in any other case.
     
-    (4A) In this section, _generally accepted accounting practice_, _Registrar_, and _subsidiaries_ have the same meanings as in the [Financial Reporting Act 1993][378].
+    (4A) \[Repealed\]
     
     (5) This section is subject to any exemption under [section 238(1)(a)(iii)][311] in respect of any provision of this section.
     
@@ -2633,15 +2649,19 @@ Licensing and prudential regulation of insurers
     
     Section 81 heading: amended, on 4 September 2013, by [section 11(1)][379] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
+    Section 81(1): amended, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
     Section 81(2): replaced, on 4 September 2013, by [section 11(2)][379] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    
+    Section 81(2)(b)(ii): amended, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
     Section 81(3): replaced, on 4 September 2013, by [section 11(2)][379] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
     Section 81(4): replaced, on 4 September 2013, by [section 11(2)][379] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 81(4A): inserted, on 4 September 2013, by [section 11(2)][379] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 81(4A): repealed, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 81(6): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 81(6): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Statutory funds of life insurers
 
@@ -3399,7 +3419,7 @@ Licensing and prudential regulation of insurers
     
     (2) [Section 216][280] (which relates to the liability of directors) does not apply in respect of an offence under this section.
     
-    Section 118(1): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 118(1): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Exemptions
 
@@ -3452,7 +3472,7 @@ Prudential supervision of licensed insurers
     
     (6) A licensed insurer commits an offence if the insurer fails to comply with any requirements of the Bank under this section and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 121(6): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121(6): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122 Notice may require supply of information, data, or forecasts in relation to associated persons
     
@@ -3468,7 +3488,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 123(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 123(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 124 Supply of information by other persons for purposes of prudential supervision
     
@@ -3488,7 +3508,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 124(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 124(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 125 Requirement that information, data, or forecasts be audited or reviewed
     
@@ -3500,7 +3520,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 125(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 125(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 126 Bank may require report relating to licensed insurers or associated persons
     
@@ -3520,7 +3540,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 126(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 126(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 127 Disclosure of information to Bank by auditors and actuaries
     
@@ -3582,7 +3602,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 130(3): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(3): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 131 Power to obtain information or documents
     
@@ -3638,7 +3658,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 133(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 133(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134 Effect of final decision that exercise of powers under sections 130 and 131 unlawful 
     
@@ -3702,7 +3722,7 @@ Prudential supervision of licensed insurers
     
     (5) An officer or employee of the Bank or an investigator commits an offence if the officer, employee, or investigator fails to comply with this section and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
     
-    Section 135(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 135(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 136 Limits on further disclosure of information, data, documents, or forecasts
     
@@ -3732,7 +3752,7 @@ Prudential supervision of licensed insurers
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 136(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 136(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 137 Application of other enactments to information, data, documents, or forecasts published or disclosed under section 135
     
@@ -3817,7 +3837,7 @@ Distress management
     
 *   A licensed insurer commits an offence if it fails to comply with any of [sections 138 to 141][181] and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 142: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 142: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Directions to licensed insurers and associated persons
 
@@ -3933,7 +3953,7 @@ Distress management
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 148(3): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 148(3): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 149 Power to remove, replace, or appoint directors, auditor, or actuary
     
@@ -4005,7 +4025,7 @@ Distress management
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 150(5): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 150(5): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Liquidation or voluntary administration of licensed insurers
 
@@ -4091,7 +4111,7 @@ Distress management
     
     (3) If a person makes an application under [section 232][414], [233][415], or [236][416] of the Companies Act 1993 in respect of a licensed insurer, the Bank may appear and be heard in relation to the application.
     
-    Section 156(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 156(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 157 Bank must be sent copy of applications under Parts 14 to 16 of Companies Act 1993
     
@@ -4105,7 +4125,7 @@ Distress management
     
     (2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on conviction, to a fine not exceeding $100,000\.
     
-    Section 157(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 158 Bank must be sent copies of certain documents and may inspect certain accounts and records
     
@@ -4503,7 +4523,7 @@ Distress management
     
     *   (w) [sections 71][467] and [71A][468] (which relates to the application of other Acts).
     
-    Section 180(b): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 180(b): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 181 Act does not limit application of Corporations (Investigation and Management) Act 1989
     
@@ -4621,7 +4641,13 @@ Distress management
 
 ##### 192 Appointment of auditor and actuary
     
-*   (1) The statutory manager of a licensed insurer must appoint 1 or more persons (whether as individuals or as the members of any firm or firms) to be the auditor of the insurer, being a person or persons who are qualified for appointment as an auditor of a company under the [Companies Act 1993][338] and who have been approved by the Bank.
+*   (1) The statutory manager of a licensed insurer must appoint 1 or more persons (whether as individuals or as the members of any firm or firms) to be the auditor of the insurer.
+    
+    (1A) The person or persons appointed to be the auditor under subsection (1) must be---
+        
+    *   (a) licensed auditors (within the meaning of [section 6(1)][471] of the Auditor Regulation Act 2011); and
+    
+    *   (b) approved by the Bank.
     
     (2) The statutory manager of a licensed insurer must appoint a person to be the appointed actuary of the insurer, being a person who has been approved by the Bank.
     
@@ -4632,6 +4658,10 @@ Distress management
     (5) The auditor or actuary must be paid the fees that are fixed by the statutory manager with the approval of the Bank.
     
     (6) Every auditor and every actuary has a right of access at all times to the books and papers of the licensed insurer, and is entitled to require from its officers and employees the information and explanations that the auditor or actuary thinks necessary for the performance of the auditor's or actuary's duties (as the case may be).
+    
+    Section 192(1): amended, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 192(1A): inserted, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 193 Prior auditor or actuary ceases to hold office
     
@@ -4726,7 +4756,7 @@ Miscellaneous provisions
     
     (2) A Lloyd's underwriter who fails to comply with subsection (1) commits an offence and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
     
-    Section 200(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 200(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 201 Lloyd's may apply for licence on behalf of underwriting members
     
@@ -4742,7 +4772,7 @@ Miscellaneous provisions
     
     (4) Lloyd's commits an offence if it provides false or misleading information to the Bank for the purposes of the application and is liable, on conviction, to a fine not exceeding $1,000,000\.
     
-    Section 201(4): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 201(4): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 202 Lloyd's fit and proper policy and risk management programme
     
@@ -4864,7 +4894,7 @@ Miscellaneous provisions
     
     (5) The Bank may, for the purpose of facilitating a cancellation under subsection (4), direct a Lloyd's underwriter to arrange, subject to the Bank's approval, to assign the underwriter's liabilities under contracts of insurance with New Zealand policyholders to 1 or more licensed insurers (and for that purpose, [sections 31(2) to (5)][45], [32][46], and [33][47] apply with any necessary modifications).
     
-    Section 207(3): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 207(3): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 208 Provisions that do not apply in respect of Lloyd's or Lloyd's underwriters
     
@@ -4952,7 +4982,7 @@ Miscellaneous provisions
     
     (2) A licensed insurer that is an overseas person commits an offence if the person fails to comply in any respect with any requirements notified by the Bank under [section 213][276] and is liable, on conviction, to a fine not exceeding $500,000\.
     
-    Section 214(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 214(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences
 
@@ -4974,7 +5004,7 @@ Miscellaneous provisions
     
     (3) This section does not apply in the case of [section 17(4)][27] or [201(4)][263].
     
-    Section 215(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 215(2): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 216 Liability of directors
     
@@ -5006,9 +5036,9 @@ Miscellaneous provisions
 
 ##### 217A Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][471] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Act ends on the date that is 5 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][472] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Act ends on the date that is 5 years after the date on which the offence was committed.
     
-    Section 217A: inserted, on 4 September 2013, by [section 12][472] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 217A: inserted, on 4 September 2013, by [section 12][473] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 #### Prohibition against falsely holding out New Zealand connection
 
@@ -5032,7 +5062,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    Section 218(3): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 218(3): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 219 Certain New Zealand persons and overseas companies prohibited from using certain words in name
     
@@ -5062,7 +5092,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    Section 219(3): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 219(3): amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 220 Prohibition does not apply in certain cases
     
@@ -5102,7 +5132,7 @@ Miscellaneous provisions
     
 *   (1) If a licensed insurer is a subsidiary, a provision in the constitution of the insurer is of no effect to the extent that it purports to permit a director of the insurer, when exercising powers or performing duties as a director, to act in a manner that he or she believes is in the best interests of the insurer's holding entity even though it may not be in the best interests of the insurer.
     
-    (2) Subsection (1) applies despite [section 131(2)][473] of the Companies Act 1993\.
+    (2) Subsection (1) applies despite [section 131(2)][474] of the Companies Act 1993\.
     
     (3) In this section, _constitution_, in relation to a licensed insurer, means,---
         
@@ -5198,7 +5228,7 @@ Miscellaneous provisions
 
 ##### 225 Appeal to Court of Appeal on question of law
     
-*   (1) Any party to an appeal under [section 224][292] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][368] of the Judicature Act 1908 applies to any such appeal.
+*   (1) Any party to an appeal under [section 224][292] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of the High Court or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][371] of the Judicature Act 1908 applies to any such appeal.
     
     (2) In determining whether to grant leave to appeal, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
     
@@ -5254,7 +5284,7 @@ Miscellaneous provisions
     
     *   (b) a person for the purpose of determining whether or not a person is banned under section 222 (and, if so, the nature and extent of the ban).
     
-    (4) A search of the register for personal information that has not been carried out in accordance with this section constitutes an action that is an interference with the privacy of an individual under [section 66][474] of the Privacy Act 1993\.
+    (4) A search of the register for personal information that has not been carried out in accordance with this section constitutes an action that is an interference with the privacy of an individual under [section 66][475] of the Privacy Act 1993\.
 
 ##### 228 Offence for banned person to participate in insurance business in breach of order
     
@@ -5264,7 +5294,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,000,000\.
     
-    Section 228: amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 228: amended, on 1 July 2013, by [section 413][361] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Notice and service
 
@@ -5284,9 +5314,9 @@ Miscellaneous provisions
         
         
     
-    *   (b) a company within the meaning of the Companies Act 1993, be served in a manner provided for in [section 387(1)][475] or [388][476] of that Act:
+    *   (b) a company within the meaning of the Companies Act 1993, be served in a manner provided for in [section 387(1)][476] or [388][477] of that Act:
     
-    *   (c) an overseas company, be served in a manner provided for in [section 389(1)][477] or [390][478] of the Companies Act 1993:
+    *   (c) an overseas company, be served in a manner provided for in [section 389(1)][478] or [390][479] of the Companies Act 1993:
     
     *   (d) any other body corporate, be served in a manner in which it could be given or served if the body corporate were a company within the meaning of the [Companies Act 1993][338].
     
@@ -5296,7 +5326,7 @@ Miscellaneous provisions
     
     *   (b) subsection (1)(a)(iii) must be treated as having been given or provided to the person on the second working day after the day on which it is sent.
     
-    (3) [Section 392][479] of the Companies Act 1993 applies for the purposes of subsection (1)(b) to (d).
+    (3) [Section 392][480] of the Companies Act 1993 applies for the purposes of subsection (1)(b) to (d).
     
     (4) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given or provided to the person.
     
@@ -5320,7 +5350,7 @@ Miscellaneous provisions
     
     (2) No person to whom this section applies is liable for an act done or omitted to be done in the performance or exercise in good faith of the person's functions, duties, or powers under this Act.
     
-    (3) This section and [section 231][301] are subject to [subpart 7][480] of Part 4 of the Search and Surveillance Act 2012\.
+    (3) This section and [section 231][301] are subject to [subpart 7][481] of Part 4 of the Search and Surveillance Act 2012\.
     
     Section 230(3): replaced, on 1 October 2012, by [section 265(4)][386] of the Search and Surveillance Act 2012 (2012 No 24).
 
@@ -5350,7 +5380,7 @@ Miscellaneous provisions
 
 ##### 232 General provisions relating to declarations and exemptions
     
-*   (1) This section applies to a declaration under [section 9][481] (which relates to declarations that persons are not carrying on insurance business in New Zealand in certain circumstances).
+*   (1) This section applies to a declaration under [section 9][482] (which relates to declarations that persons are not carrying on insurance business in New Zealand in certain circumstances).
     
     (2) This section also applies to an exemption granted under any of the following sections:
         
@@ -5388,33 +5418,33 @@ Miscellaneous provisions
     
     (8) A declaration---
         
-    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][482]; and
+    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][483]; and
     
-    *   (b) must be presented to the House of Representatives under [section 41][483] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][484] of that Act.
     
-    (9) An exemption is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][482] and does not have to be presented to the House of Representatives under [section 41][483] of that Act.
+    (9) An exemption is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][483] and does not have to be presented to the House of Representatives under [section 41][484] of that Act.
     
-    Section 232(2)(ba): inserted, on 4 September 2013, by [section 13][484] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 232(2)(ba): inserted, on 4 September 2013, by [section 13][485] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 232(8): replaced, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Section 232(8): replaced, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
     
-    Section 232(9): replaced, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Section 232(9): replaced, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
 
 #### General provisions relating to fit and proper standards and solvency standards
 
 ##### 233 Status of standards
     
-*   (1) The following are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][482]:
+*   (1) The following are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][483]:
         
     *   (a) fit and proper standards:
     
     *   (b) solvency standards.
     
-    (2) Fit and proper standards and solvency standards must be presented to the House of Representatives in accordance with [section 41][483] of the Legislation Act 2012\.
+    (2) Fit and proper standards and solvency standards must be presented to the House of Representatives in accordance with [section 41][484] of the Legislation Act 2012\.
     
-    Section 233(1): amended, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Section 233(1): amended, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
     
-    Section 233(2): amended, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Section 233(2): amended, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
 
 ##### 234 Public notice of standards
     
@@ -5578,9 +5608,9 @@ Miscellaneous provisions
     
     (7) Any fee or amount payable to the Bank is recoverable by the Bank in any court of competent jurisdiction as a debt due to the Bank.
     
-    Section 237(1)(j): amended, on 4 September 2013, by [section 14(1)][486] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 237(1)(j): amended, on 4 September 2013, by [section 14(1)][487] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 237(1)(v): amended, on 4 September 2013, by [section 14(2)][486] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 237(1)(v): amended, on 4 September 2013, by [section 14(2)][487] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 238 Regulations may provide for exemptions
     
@@ -5598,7 +5628,13 @@ Miscellaneous provisions
         
         
     
-    *   (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being an issuer for the purposes of the [Financial Reporting Act 1993][378] by virtue of [section 4(1)(da)][487] of that Act:
+    *   (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being---
+            
+        *   (i) an FMC reporting entity for the purposes of the Financial Markets Conduct Act 2013 by virtue of [section 451(h)][488] of that Act:
+        
+        *   (ii) an issuer for the purposes of the Financial Reporting Act 1993 by virtue of [section 4(1)(da)][489] of that Act:
+        
+        
     
     *   (c) prescribing terms and conditions that an exemption under paragraph (a) or (b) is subject to.
     
@@ -5616,13 +5652,13 @@ Miscellaneous provisions
         
     *   (a) a person that was carrying on insurance business in New Zealand immediately before the commencement of this section; or
     
-    *   (b) a friendly society (within the meaning of [section 2][357] of the Friendly Societies and Credit Unions Act 1982).
+    *   (b) a friendly society (within the meaning of [section 2][360] of the Friendly Societies and Credit Unions Act 1982).
     
-    
+    Section 238(1)(b): replaced, on 1 April 2014, by [section 126][348] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Incorporation by reference
     
-*   Heading: inserted, on 4 September 2013, by [section 15][488] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+*   Heading: inserted, on 4 September 2013, by [section 15][490] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 238A Incorporation by reference
     
@@ -5646,25 +5682,25 @@ Miscellaneous provisions
     
     (3) [Schedule 1][329] applies to any material incorporated by reference in an instrument referred to in subsection (1).
     
-    Section 238A: inserted, on 4 September 2013, by [section 15][488] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 238A: inserted, on 4 September 2013, by [section 15][490] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 #### Repeals and consequential amendments
 
 ##### 239 Amendments to Life Insurance Act 1908
     
-*   (1) This section amends the [Life Insurance Act 1908][489].
+*   (1) This section amends the [Life Insurance Act 1908][491].
     
-    (2) [Parts 1][490] and [1A][491], [sections 78 to 79A][492], and [Schedules 2 to 7][493], [20][494], and [24][495] are repealed.
+    (2) [Parts 1][492] and [1A][493], [sections 78 to 79A][494], and [Schedules 2 to 7][495], [20][496], and [24][497] are repealed.
 
 ##### 240 Repeals
     
 *   The following Acts are repealed:
         
-    *   (a) [Insurance Companies' Deposits Act 1953][496]:
+    *   (a) [Insurance Companies' Deposits Act 1953][498]:
     
-    *   (b) [Insurance Companies (Ratings and Inspections) Act 1994][497]:
+    *   (b) [Insurance Companies (Ratings and Inspections) Act 1994][499]:
     
-    *   (c) [Mutual Insurance Act 1955][498].
+    *   (c) [Mutual Insurance Act 1955][500].
     
     
 
@@ -5672,13 +5708,13 @@ Miscellaneous provisions
     
 *   (1) The [Reserve Bank of New Zealand Act 1989][336] is amended in the manner indicated in [Part 1][332] of Schedule 3\.
     
-    (2) The enactments specified in [Parts 2][499] and [3][500] of Schedule 3 are amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Parts 2][501] and [3][502] of Schedule 3 are amended in the manner indicated in that schedule.
 
 ##### 242 Amendment to Financial Service Providers (Registration and Dispute Resolution) Act 2008
     
-*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][359].
+*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][362].
     
-    (2) [Schedule 2][501] is amended by adding the following item:
+    (2) [Schedule 2][503] is amended by adding the following item:
     
     > Reserve Bank of New ZealandLicensed insurersInsurance (Prudential Supervision) Act 2010
     > 
@@ -5814,23 +5850,23 @@ Miscellaneous provisions
     
     *   (d) the entity is subject to a compromise with its creditors that has been approved under [Part 14][417] of the Companies Act 1993:
     
-    *   (e) an order that an arrangement or a compromise is binding on the entity has been made under [Part 15][502] of the Companies Act 1993:
+    *   (e) an order that an arrangement or a compromise is binding on the entity has been made under [Part 15][504] of the Companies Act 1993:
     
     *   (f) the entity is in statutory management under this Act, the [Corporations (Investigation and Management) Act 1989][438], or any other enactment:
     
     *   (g) in the case of an overseas person, the overseas person is subject to a proceeding or process in its home jurisdiction that is similar to any of those set out in paragraphs (a) to (f).
     
-    Section 246(1A): inserted, on 4 September 2013, by [section 16(1)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(1A): inserted, on 4 September 2013, by [section 16(1)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 246(1B): inserted, on 4 September 2013, by [section 16(1)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(1B): inserted, on 4 September 2013, by [section 16(1)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 246(2)(b): replaced, on 4 September 2013, by [section 16(2)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(2)(b): replaced, on 4 September 2013, by [section 16(2)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 246(2)(c): inserted, on 4 September 2013, by [section 16(2)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(2)(c): inserted, on 4 September 2013, by [section 16(2)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 246(3): inserted, on 4 September 2013, by [section 16(3)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(3): inserted, on 4 September 2013, by [section 16(3)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Section 246(4): inserted, on 4 September 2013, by [section 16(3)][503] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Section 246(4): inserted, on 4 September 2013, by [section 16(3)][505] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 247 Provisional licence holder only required to comply with requirements to extent required by conditions
     
@@ -5844,11 +5880,11 @@ Miscellaneous provisions
     
     *   (c) [subpart 3][108] of Part 2 (which relates to statutory funds).
     
-    (3) If an insurer becomes, or will become, an issuer under [section 4(1)(da)][487] of the Financial Reporting Act 1993 as a result of a provisional licence being issued to the insurer,---
+    (3) If an insurer becomes, or will become, an issuer under [section 4(1)(da)][489] of the Financial Reporting Act 1993 as a result of a provisional licence being issued to the insurer,---
         
     *   (a) the conditions of the licence may specify the accounting periods or interim accounting periods in respect of which the insurer must be treated as being an issuer under that Act (being periods that commence on or after the date that the licence is issued); and
     
-    *   (b) the [Financial Reporting Act 1993][378] applies accordingly.
+    *   (b) the [Financial Reporting Act 1993][506] applies accordingly.
     
     
 
@@ -5894,7 +5930,7 @@ Miscellaneous provisions
 
 ##### 249 Public Trust must return deposits
     
-*   (1) Public Trust must return to a depositor a deposit made with Public Trust under the [Insurance Companies' Deposits Act 1953][496], the [Life Insurance Act 1908][489], or the [Mutual Insurance Act 1955][498] within 30 days after the earliest of the following:
+*   (1) Public Trust must return to a depositor a deposit made with Public Trust under the [Insurance Companies' Deposits Act 1953][498], the [Life Insurance Act 1908][491], or the [Mutual Insurance Act 1955][500] within 30 days after the earliest of the following:
         
     *   (a) the date that Public Trust receives a notice from the Bank under subsection (2):
     
@@ -5908,9 +5944,9 @@ Miscellaneous provisions
         
     *   (a) subsection (1) does not apply; and
     
-    *   (b) the deposit must be applied and otherwise dealt with in accordance with the [Insurance Companies' Deposits Act 1953][496] or the [Life Insurance Act 1908][489] (as the case may be) as if this Act had not been enacted.
+    *   (b) the deposit must be applied and otherwise dealt with in accordance with the [Insurance Companies' Deposits Act 1953][498] or the [Life Insurance Act 1908][491] (as the case may be) as if this Act had not been enacted.
     
-    (4) Until a deposit is returned under this section or is otherwise withdrawn, the [Insurance Companies' Deposits Act 1953][496] or the [Life Insurance Act 1908][489] (as the case may be) continues to apply to the deposit as if this Act had not been enacted.
+    (4) Until a deposit is returned under this section or is otherwise withdrawn, the [Insurance Companies' Deposits Act 1953][498] or the [Life Insurance Act 1908][491] (as the case may be) continues to apply to the deposit as if this Act had not been enacted.
     
     (5) Every return of securities made for the purposes of this section must be made as follows (unless the depositor otherwise directs in a written notice given to Public Trust):
         
@@ -5920,19 +5956,19 @@ Miscellaneous provisions
     
     (6) In this section,---
     
-    _depositor_ means a person who has made any deposit with Public Trust under the [Insurance Companies' Deposits Act 1953][496], the [Life Insurance Act 1908][489], or the [Mutual Insurance Act 1955][498]
+    _depositor_ means a person who has made any deposit with Public Trust under the [Insurance Companies' Deposits Act 1953][498], the [Life Insurance Act 1908][491], or the [Mutual Insurance Act 1955][500]
     
     _non-licensed depositor_ means a depositor that, on the date that is 18 months after the date on which this Act receives the Royal assent, does not hold any licence issued under this Act (whether a provisional licence or a licence issued under [Part 2][21] or [section 203][265] or [205][267]).
 
 ##### 250 Deposit may be withdrawn in accordance with Insurance Companies' Deposits Act 1953 or Life Insurance Act 1908
     
-*   A deposit may be withdrawn in accordance with [section 3A][504], [8][505], [9][506], or [19][507] of the Insurance Companies' Deposits Act 1953 or [section 6][508], [11][509], or [12][510] of the Life Insurance Act 1908 (which continue to apply despite the repeal of those enactments).
+*   A deposit may be withdrawn in accordance with [section 3A][507], [8][508], [9][509], or [19][510] of the Insurance Companies' Deposits Act 1953 or [section 6][511], [11][512], or [12][513] of the Life Insurance Act 1908 (which continue to apply despite the repeal of those enactments).
 
 ##### 251 Savings in respect of judicial management
     
-*   Despite the repeal, by [section 239][315], of [Part 1A][491] of the Life Insurance Act 1908,---
+*   Despite the repeal, by [section 239][315], of [Part 1A][493] of the Life Insurance Act 1908,---
         
-    *   (a) the provisions of that Act, and in particular [Part 1A][491] of that Act, continue to apply to any person that was, immediately before the commencement of this section, subject to judicial management under that Part, in all respects as if they had not been repealed; and
+    *   (a) the provisions of that Act, and in particular [Part 1A][493] of that Act, continue to apply to any person that was, immediately before the commencement of this section, subject to judicial management under that Part, in all respects as if they had not been repealed; and
     
     *   (b) any person empowered under that Act to exercise any power or function in respect of a person referred to in paragraph (a) continues to have, in respect of that person, the same powers and functions that the person had before the commencement of this section.
     
@@ -5945,7 +5981,7 @@ General provisions relating to incorporation by reference
 
 [s 238A][313]
 
-*   Schedule 1 heading: amended, on 4 September 2013, by [section 17(1)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+*   Schedule 1 heading: amended, on 4 September 2013, by [section 17(1)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 1 Material incorporated by reference
     
@@ -5959,21 +5995,21 @@ General provisions relating to incorporation by reference
         
     *   (a) is the material as it exists at the time the specified instrument is issued or made; and
     
-    *   (b) has legal effect as part of the specified instrument for all purposes, except as provided in [clauses 7][512] and [8][513].
+    *   (b) has legal effect as part of the specified instrument for all purposes, except as provided in [clauses 7][515] and [8][516].
     
     (3) In this schedule, _specified instrument_ means an instrument to which [section 238A][313] applies.
     
-    Schedule 1 clause 1 heading: amended, on 4 September 2013, by [section 17(2)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1 heading: amended, on 4 September 2013, by [section 17(2)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 1(1): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1(1): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 1(1)(b): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1(1)(b): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 1(2)(a): amended, on 4 September 2013, by [section 17(4)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1(2)(a): amended, on 4 September 2013, by [section 17(4)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 1(2)(b): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1(2)(b): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 1(3): inserted, on 4 September 2013, by [section 17(5)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 1(3): inserted, on 4 September 2013, by [section 17(5)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 2 Proof of material incorporated by reference
     
@@ -5985,9 +6021,9 @@ General provisions relating to incorporation by reference
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material into the specified instrument.
     
-    Schedule 1 clause 2(1): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 2(1): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 2(2): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 2(2): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 3 Access to material incorporated by reference
     
@@ -6005,13 +6041,13 @@ General provisions relating to incorporation by reference
     
     (3) A failure to comply with this clause does not invalidate a specified instrument.
     
-    Schedule 1 clause 3(1)(a): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 3(1)(a): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 3(2): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 3(2): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 3(2): amended, on 4 September 2013, by [section 17(6)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 3(2): amended, on 4 September 2013, by [section 17(6)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 3(3): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 3(3): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 4 Effect of amendments to, or replacements of, material incorporated by reference
     
@@ -6023,21 +6059,21 @@ General provisions relating to incorporation by reference
     
     *   (c) a subsequent specified instrument states that the particular amendment or replacement material has legal effect as part of the instrument.
     
-    Schedule 1 clause 4: amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 4: amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 4: amended, on 4 September 2013, by [section 17(6)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 4: amended, on 4 September 2013, by [section 17(6)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 4(c): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 4(c): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 4(c): amended, on 4 September 2013, by [section 17(6)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 4(c): amended, on 4 September 2013, by [section 17(6)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 5 Effect of expiry of material incorporated by reference
     
 *   Material incorporated by reference in a specified instrument that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the instrument only if a subsequent specified instrument states that the material ceases to have that legal effect.
     
-    Schedule 1 clause 5: amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 5: amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 5: amended, on 4 September 2013, by [section 17(6)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 5: amended, on 4 September 2013, by [section 17(6)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 6 Consultation before material incorporated by reference
     
@@ -6063,33 +6099,33 @@ General provisions relating to incorporation by reference
     
     (3) A failure to comply with this clause does not invalidate a specified instrument.
     
-    Schedule 1 clause 6(1)(a): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 6(1)(a): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 6(1)(b): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 6(1)(b): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 6(3): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 6(3): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 7 Application of Legislation Act 2012
     
-*   (1) [Part 2][514] of the Legislation Act 2012 does not apply to material incorporated by reference in a specified instrument, or to any amendment to, or replacement of, the material.
+*   (1) [Part 2][517] of the Legislation Act 2012 does not apply to material incorporated by reference in a specified instrument, or to any amendment to, or replacement of, the material.
     
-    (2) [Subpart 1][483] of Part 3 of the Legislation Act 2012 applies to a specified instrument that incorporates material by reference.
+    (2) [Subpart 1][484] of Part 3 of the Legislation Act 2012 applies to a specified instrument that incorporates material by reference.
     
-    (3) However, nothing in [section 41][483] of the Legislation Act 2012 requires material incorporated by reference in a specified instrument to be presented to the House of Representatives.
+    (3) However, nothing in [section 41][484] of the Legislation Act 2012 requires material incorporated by reference in a specified instrument to be presented to the House of Representatives.
     
-    Schedule 1 clause 7: replaced, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Schedule 1 clause 7: replaced, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
     
-    Schedule 1 clause 7(1): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 7(1): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 7(2): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 7(2): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
     
-    Schedule 1 clause 7(3): amended, on 4 September 2013, by [section 17(3)][511] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
+    Schedule 1 clause 7(3): amended, on 4 September 2013, by [section 17(3)][514] of the Insurance (Prudential Supervision) Amendment Act 2013 (2013 No 61).
 
 ##### 8 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
 *   \[Repealed\]
     
-    Schedule 1 clause 8: repealed, on 5 August 2013, by [section 77(3)][485] of the Legislation Act 2012 (2012 No 119).
+    Schedule 1 clause 8: repealed, on 5 August 2013, by [section 77(3)][486] of the Legislation Act 2012 (2012 No 119).
 
 ---
 
@@ -6112,19 +6148,19 @@ Consequential amendments
 ## Part 1  
 Amendments to Reserve Bank of New Zealand Act 1989
 
-Paragraph (a) of the definition of _financial institution_ in [section 2(1)][515]: repeal and substitute:
+Paragraph (a) of the definition of _financial institution_ in [section 2(1)][518]: repeal and substitute:
 
 > *   "(a) an insurer that issues, or is liable under, life policies within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010; and includes any branch, division, or office of that insurer; and".
 > 
 > 
 
-[Section 2(1)][515]: insert in its appropriate alphabetical order:
+[Section 2(1)][518]: insert in its appropriate alphabetical order:
 
 > "_licensed insurer_ has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-[Section 39][516]: insert ""or the Insurance (Prudential Supervision) Act 2010"" after ""this Act"".
+[Section 39][519]: insert ""or the Insurance (Prudential Supervision) Act 2010"" after ""this Act"".
 
-[Section 41][517]: repeal and substitute:
+[Section 41][520]: repeal and substitute:
 
 > ##### "41 Duties of Governor
 >     
@@ -6146,13 +6182,13 @@ Paragraph (a) of the definition of _financial institution_ in [section 2(1)][515
 > 
 > 
 
-[Section 46(1)(b)][518]: insert ""or of a licensed insurer"" after ""section 157C"".
+[Section 46(1)(b)][521]: insert ""or of a licensed insurer"" after ""section 157C"".
 
-[Section 49(2)(h)(iii)][519]: insert ""or a licensed insurer"" after ""section 157C"".
+[Section 49(2)(h)(iii)][522]: insert ""or a licensed insurer"" after ""section 157C"".
 
-[Section 50(2)(d)(iii)][520]: insert ""or a licensed insurer"" after ""section 157C"".
+[Section 50(2)(d)(iii)][523]: insert ""or a licensed insurer"" after ""section 157C"".
 
-[Section 51(5)][521]: repeal and substitute:
+[Section 51(5)][524]: repeal and substitute:
 
 > *   "(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under either of the following Acts, and not by delegation:
 >         
@@ -6164,7 +6200,7 @@ Paragraph (a) of the definition of _financial institution_ in [section 2(1)][515
 > 
 > 
 
-[Section 51(9)][521]: repeal and substitute:
+[Section 51(9)][524]: repeal and substitute:
 
 > *   "(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
 >         
@@ -6176,28 +6212,28 @@ Paragraph (a) of the definition of _financial institution_ in [section 2(1)][515
 > 
 > 
 
-[Section 53(3)(f)(iii)][522]: insert ""or a licensed insurer"" after ""section 157C"".
+[Section 53(3)(f)(iii)][525]: insert ""or a licensed insurer"" after ""section 157C"".
 
-[Section 58(b)][523]: insert ""or a licensed insurer"" after ""bank"".
+[Section 58(b)][526]: insert ""or a licensed insurer"" after ""bank"".
 
-[Section 68A][524]: insert ""or the Insurance (Prudential Supervision) Act 2010"" after ""this Part"".
+[Section 68A][527]: insert ""or the Insurance (Prudential Supervision) Act 2010"" after ""this Part"".
 
-[Section 162AB(1)(a) and (b)][525]: insert ""and under the Insurance (Prudential Supervision) Act 2010"" after ""5D"".
+[Section 162AB(1)(a) and (b)][528]: insert ""and under the Insurance (Prudential Supervision) Act 2010"" after ""5D"".
 
 ## Part 2  
 Amendments to other Acts
 
 ##### Accident Compensation Act 2001 (2001 No 49)
 
-[Section 123(2)(b)(ii)][526]: repeal.
+[Section 123(2)(b)(ii)][529]: repeal.
 
 ##### Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35)
 
-[Section 5][527]: insert in its appropriate alphabetical order:
+[Section 5][530]: insert in its appropriate alphabetical order:
 
 > "_life insurance policy_ means a life policy within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-Paragraph (a)(xii) of the definition of _financial institution_ in [section 5][527]: repeal and substitute:
+Paragraph (a)(xii) of the definition of _financial institution_ in [section 5][530]: repeal and substitute:
 
 > *   "(xii) issuing, or undertaking liability under, life insurance policies as an insurer:".
 > 
@@ -6205,11 +6241,11 @@ Paragraph (a)(xii) of the definition of _financial institution_ in [section 5][5
 
 ##### Companies Act 1993 (1993 No 105)
 
-[Section 2(1)][528]: insert in its appropriate alphabetical order:
+[Section 2(1)][531]: insert in its appropriate alphabetical order:
 
 > "_licensed insurer_ has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-[Section 223][529]: insert after paragraph (d):
+[Section 223][532]: insert after paragraph (d):
 
 > *   "(da) if an amalgamating company is a licensed insurer, a copy of the written approval of the Reserve Bank of New Zealand given under section 44 of the Insurance (Prudential Supervision) Act 2010; and".
 > 
@@ -6221,7 +6257,7 @@ Paragraph (a)(xii) of the definition of _financial institution_ in [section 5][5
 > 
 > 
 
-New section 239EA: insert after [section 239E][530]:
+New section 239EA: insert after [section 239E][533]:
 
 > ##### "239EA Voluntary administration of licensed insurers
 >     
@@ -6241,7 +6277,7 @@ New section 239EA: insert after [section 239E][530]:
 > 
 > 
 
-New section 240A: insert after [section 240][531]:
+New section 240A: insert after [section 240][534]:
 
 > ##### "240A Liquidation of licensed insurers
 >     
@@ -6255,7 +6291,7 @@ New section 240A: insert after [section 240][531]:
 > 
 > 
 
-[Section 258A][532]: repeal and substitute:
+[Section 258A][535]: repeal and substitute:
 
 > ##### "258A Duty to report suspected offences
 >     
@@ -6283,7 +6319,7 @@ New section 240A: insert after [section 240][531]:
 > 
 > 
 
-[Section 332(b)][352]: add ""; or"" and also the following subparagraph:
+[Section 332(b)][355]: add ""; or"" and also the following subparagraph:
 
 > *   "(x) enters into a contract of insurance as an insurer with a New Zealand policyholder (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010)."
 > 
@@ -6297,7 +6333,7 @@ New section 240A: insert after [section 240][531]:
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-[Section 8][533]: repeal and substitute:
+[Section 8][536]: repeal and substitute:
 
 > ##### "8 Consultation with Reserve Bank
 >     
@@ -6321,29 +6357,29 @@ New section 240A: insert after [section 240][531]:
 
 ##### Financial Advisers Act 2008 (2008 No 91)
 
-Definition of _approved rating agency_ in [section 5][534]: repeal and substitute:
+Definition of _approved rating agency_ in [section 5][537]: repeal and substitute:
 
 > "_approved rating agency_ means a rating agency nominated or approved under the Reserve Bank of New Zealand Act 1989 or section 62 of the Insurance (Prudential Supervision) Act 2010".
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-[Section 2(1)][535]: insert in its appropriate alphabetical order:
+[Section 2(1)][538]: insert in its appropriate alphabetical order:
 
 > "_licensed insurer_ has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-[Section 4(1)][536]: insert after paragraph (d):
+[Section 4(1)][539]: insert after paragraph (d):
 
 > *   "(da) every licensed insurer (other than a Lloyd's underwriter within the meaning of the Insurance (Prudential Supervision) Act 2010 or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(b) of that Act):".
 > 
 > 
 
-[Section 16][376]: insert after subsection (1):
+[Section 16][540]: insert after subsection (1):
 
 > *   "(1A) Section 79 of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer."
 > 
 > 
 
-[Section 35A][537]: add:
+[Section 35A][541]: add:
 
 > *   "(6) The Securities Commission must not grant an exemption under this section in respect of an issuer that is a licensed insurer."
 > 
@@ -6351,11 +6387,11 @@ Definition of _approved rating agency_ in [section 5][534]: repeal and substitut
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-Definition of _life insurance policy_ in [section 2(1)][538]: repeal and substitute:
+Definition of _life insurance policy_ in [section 2(1)][542]: repeal and substitute:
 
 > "_life insurance policy_ means a life policy within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-[Section 3(1)(b)][539]: repeal and substitute:
+[Section 3(1)(b)][543]: repeal and substitute:
 
 > *   "(b) an insurer that issues, or is liable under, life insurance policies:".
 > 
@@ -6363,31 +6399,31 @@ Definition of _life insurance policy_ in [section 2(1)][538]: repeal and substit
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-[Section 2][357]: insert in its appropriate alphabetical order:
+[Section 2][360]: insert in its appropriate alphabetical order:
 
 > "_licensed insurer_ has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010".
 
-[Section 11][540]: insert after subsection (3):
+[Section 11][544]: insert after subsection (3):
 
 > *   "(3A) Subsection (3) does not apply to a licensed insurer."
 > 
 > 
 
-[Section 42][541]: add:
+[Section 42][545]: add:
 
 > *   "(4) This section does not apply to a licensed insurer."
 > 
 > 
 
-[Section 74(5)][542]: add ""or licensed insurers"".
+[Section 74(5)][546]: add ""or licensed insurers"".
 
-[Section 76][543]: add:
+[Section 76][547]: add:
 
 > *   "(5) This section does not apply to a licensed insurer."
 > 
 > 
 
-[Section 77][544]: add as subsection (2):
+[Section 77][548]: add as subsection (2):
 
 > *   "(2) This section does not apply to a licensed insurer."
 > 
@@ -6395,7 +6431,7 @@ Definition of _life insurance policy_ in [section 2(1)][538]: repeal and substit
 
 ##### Insolvency (Cross-border) Act 2006 (2006 No 57)
 
-Paragraph (h)(i) of article 2 of [Schedule 1][545]: repeal and substitute:
+Paragraph (h)(i) of article 2 of [Schedule 1][549]: repeal and substitute:
 
 > *   "(i) a statutory manager appointed under subpart 4 of Part 4 of the Insurance (Prudential Supervision) Act 2010; or".
 > 
@@ -6403,7 +6439,7 @@ Paragraph (h)(i) of article 2 of [Schedule 1][545]: repeal and substitute:
 
 ##### Insurance Law Reform Act 1977 (1977 No 14)
 
-New section 12A: insert after [section 12][546]:
+New section 12A: insert after [section 12][550]:
 
 > ##### "12A Application for shares in company not to be contained in proposal for insurance
 >     
@@ -6439,15 +6475,15 @@ New section 12A: insert after [section 12][546]:
 
 ##### Life Insurance Act 1908 (1908 No 105)
 
-[Section 64][547]: omit "" in the answer of such company given to the tenth question of Schedule 7 hereto"".
+[Section 64][551]: omit "" in the answer of such company given to the tenth question of Schedule 7 hereto"".
 
 ##### Life Insurance Amendment Act 1920 (1920 No 84)
 
-[Section 11][548]: repeal.
+[Section 11][552]: repeal.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-Part 1 of [Schedule 2][549]: insert in its appropriate alphabetical order:
+Part 1 of [Schedule 2][553]: insert in its appropriate alphabetical order:
 
 > Insurance (Prudential Supervision) Act 2010Section 226
 > 
@@ -6455,14 +6491,14 @@ Part 1 of [Schedule 2][549]: insert in its appropriate alphabetical order:
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Item relating to the Life Insurance Act 1908 in [Part 2][550] of Schedule 1: repeal.
+Item relating to the Life Insurance Act 1908 in [Part 2][554] of Schedule 1: repeal.
 
 ## Part 3  
 Amendments to regulations
 
 ##### Overseas Investment Regulations 2005 (SR 2005/220)
 
-[Regulation 33(1)(k)(ii)][551]: revoke and substitute:
+[Regulation 33(1)(k)(ii)][555]: revoke and substitute:
 
 > *   "(ii) the investment is of funds held in the overseas person's---
 >         
@@ -6476,13 +6512,13 @@ Amendments to regulations
 
 ##### Securities Regulations 2009 (SR 2009/230)
 
-[Clause 12(4)][552] of Schedule 5: revoke and substitute:
+[Clause 12(4)][556] of Schedule 5: revoke and substitute:
 
 > *   "(4) The date of the latest appointed actuary's report in respect of the life insurance company that has been prepared under section 78 of the Insurance (Prudential Supervision) Act 2010, and the period to which the report relates."
 > 
 > 
 
-[Clause 13(b)][553] of Schedule 5: omit ""actuarial"" and substitute ""appointed actuary's"".
+[Clause 13(b)][557] of Schedule 5: omit ""actuarial"" and substitute ""appointed actuary's"".
 
 #### 
 
@@ -6496,23 +6532,25 @@ Amendments to regulations
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][554] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][555] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][558] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][559] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][556] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][557] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][560] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][561] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][436]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 132): [section 126][348]
     
-    [Insurance (Prudential Supervision) Amendment Act 2013][558] (2013 No 61)
+    Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][436]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][485]
+    [Insurance (Prudential Supervision) Amendment Act 2013][562] (2013 No 61)
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][486]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 265][386]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][358]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][361]
     
     [Insurance (Prudential Supervision) Act Commencement Order (No 2) 2010][334] (SR 2010/446)
     
@@ -6860,45 +6898,45 @@ Amendments to regulations
 [337]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321194
 [338]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM319569
 [339]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM393471
-[340]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324914
-[341]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324920
-[342]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM203321
-[343]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM319576
-[344]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM319999
-[345]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM199370
-[346]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM330506
-[347]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM211520
-[348]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM143741
-[349]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM378380
-[350]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM207804
-[351]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM433619
-[352]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM322861
-[353]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM329641
-[354]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM431205
-[355]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM225877
-[356]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM88578
-[357]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59737
-[358]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM3360714
-[359]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109400
-[360]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109510
-[361]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2140700
-[362]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865011
-[363]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865012
-[364]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109518
-[365]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1585420
-[366]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865013
-[367]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM320802
-[368]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM147320
-[369]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321142
-[370]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865014
-[371]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200340
-[372]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865017
-[373]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2478606
-[374]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865018
-[375]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865019
-[376]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324953
-[377]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324958
-[378]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323597
+[340]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4632890
+[341]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4632894
+[342]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4632892
+[343]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM203321
+[344]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM319576
+[345]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM319999
+[346]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4632837
+[347]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM199370
+[348]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM5740665
+[349]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM330506
+[350]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM211520
+[351]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM143741
+[352]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM378380
+[353]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM207804
+[354]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM433619
+[355]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM322861
+[356]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM329641
+[357]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM431205
+[358]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM225877
+[359]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM88578
+[360]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59737
+[361]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM3360714
+[362]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109400
+[363]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109510
+[364]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2140700
+[365]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865011
+[366]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865012
+[367]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1109518
+[368]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1585420
+[369]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865013
+[370]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM320802
+[371]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM147320
+[372]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321142
+[373]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865014
+[374]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200340
+[375]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865017
+[376]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2478606
+[377]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865018
+[378]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865019
 [379]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865020
 [380]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM139735
 [381]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2136542
@@ -6991,91 +7029,95 @@ Amendments to regulations
 [468]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM145336
 [469]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321921
 [470]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323231
-[471]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM3360067
-[472]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865024
-[473]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM320657
-[474]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM297441
-[475]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323270
-[476]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323273
-[477]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323274
-[478]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323275
-[479]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323277
-[480]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2136877
-[481]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1931100
-[482]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2997643
-[483]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998573
-[484]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865026
-[485]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998633
-[486]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865027
-[487]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324887
-[488]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865028
-[489]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169542
-[490]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169549
-[491]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170036
-[492]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170705
-[493]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170722
-[494]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170762
-[495]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170777
-[496]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM278720
-[497]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM342186
-[498]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM288723
-[499]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM2478646
-[500]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM2478683
-[501]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1585437
-[502]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321178
-[503]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865031
-[504]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM278786
-[505]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279814
-[506]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279816
-[507]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279863
-[508]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169704
-[509]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169728
-[510]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169733
-[511]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865033
-[512]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1794811
-[513]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1794812
-[514]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2997693
-[515]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1608215
-[516]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200028
-[517]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200032
-[518]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200037
-[519]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200045
-[520]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200046
-[521]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200048
-[522]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200051
-[523]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200060
-[524]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200337
-[525]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1607578
-[526]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM101801
-[527]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2140727
-[528]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323596
-[529]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321151
-[530]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321197
-[531]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321668
-[532]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321916
-[533]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM144299
-[534]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1584508
-[535]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325180
-[536]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325184
-[537]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325131
-[538]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM373810
-[539]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM373873
-[540]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59829
-[541]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59866
-[542]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60235
-[543]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60237
-[544]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60238
-[545]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM389648
-[546]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM442559
-[547]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170336
-[548]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM193441
-[549]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM298476
-[550]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM311185
-[551]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM341945
-[552]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1859671
-[553]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1859672
-[554]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998516
-[555]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998515
-[556]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998532
-[557]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[558]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865000
+[471]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM3230581
+[472]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM3360067
+[473]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865024
+[474]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM320657
+[475]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM297441
+[476]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323270
+[477]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323273
+[478]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323274
+[479]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323275
+[480]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323277
+[481]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2136877
+[482]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1931100
+[483]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2997643
+[484]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998573
+[485]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865026
+[486]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998633
+[487]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865027
+[488]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4702241
+[489]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324887
+[490]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865028
+[491]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169542
+[492]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169549
+[493]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170036
+[494]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170705
+[495]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170722
+[496]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170762
+[497]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170777
+[498]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM278720
+[499]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM342186
+[500]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM288723
+[501]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM2478646
+[502]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM2478683
+[503]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1585437
+[504]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321178
+[505]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865031
+[506]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323597
+[507]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM278786
+[508]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279814
+[509]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279816
+[510]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM279863
+[511]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169704
+[512]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169728
+[513]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM169733
+[514]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865033
+[515]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1794811
+[516]: http://www.legislation.govt.nz/act/public/2010/0111/latest/whole.html#DLM1794812
+[517]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2997693
+[518]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1608215
+[519]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200028
+[520]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200032
+[521]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200037
+[522]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200045
+[523]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200046
+[524]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200048
+[525]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200051
+[526]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200060
+[527]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM200337
+[528]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1607578
+[529]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM101801
+[530]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2140727
+[531]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM323596
+[532]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321151
+[533]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321197
+[534]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321668
+[535]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM321916
+[536]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM144299
+[537]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1584508
+[538]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325180
+[539]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325184
+[540]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM324953
+[541]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM325131
+[542]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM373810
+[543]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM373873
+[544]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59829
+[545]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM59866
+[546]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60235
+[547]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60237
+[548]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM60238
+[549]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM389648
+[550]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM442559
+[551]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM170336
+[552]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM193441
+[553]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM298476
+[554]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM311185
+[555]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM341945
+[556]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1859671
+[557]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM1859672
+[558]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998516
+[559]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998515
+[560]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM2998532
+[561]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[562]: http://www.legislation.govt.nz/act/public/2010/0111/latest/link.aspx?id=DLM4865000
