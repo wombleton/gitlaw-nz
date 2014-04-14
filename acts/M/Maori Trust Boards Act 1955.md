@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Te Puni Kōkiri.
 
@@ -924,17 +924,7 @@ General provisions relating to Maori Trust Boards
     
     (3) The annual report must include---
         
-    *   (a) the following financial statements for the Board for the accounting period:
-            
-        *   (i) a statement of financial position as at the balance date; and
-        
-        *   (ii) an income and expenditure statement; and
-        
-        *   (iii) a statement of cash flows, if required by an applicable financial reporting standard; and
-        
-        *   (iv) any notes or documents giving information relating to the statements; and
-        
-        
+    *   (a) financial statements for the Board for the accounting period; and
     
     *   (b) the auditor's report on the financial statements.
     
@@ -944,11 +934,15 @@ General provisions relating to Maori Trust Boards
     
     (6) In this section,---
     
-    _applicable financial reporting standard_ has the meaning given by [section 2(1)][153] of the Financial Reporting Act 1993 as if a Board were a reporting entity under that Act
+    _financial statements_ has the meaning given by [section 6][153] of the Financial Reporting Act 2013
     
-    _generally accepted accounting practice_ has the meaning given by [section 3][154] of the Financial Reporting Act 1993 as if a Board were a reporting entity under that Act.
+    _generally accepted accounting practice_ has the meaning given by [section 8][154] of the Financial Reporting Act 2013\.
     
     Section 31: replaced, on 16 September 2011, by [section 7][152] of the Maori Trust Boards Amendment Act 2011 (2011 No 75).
+    
+    Section 31(3)(a): replaced, on 1 April 2014, by [section 126][155] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 31(6): replaced, on 1 April 2014, by [section 126][155] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 31A Annual budget
     
@@ -964,13 +958,15 @@ General provisions relating to Maori Trust Boards
     
     *   (b) obtain the auditor's report on the financial statements.
     
-    (2) The auditor must be---
-        
-    *   (a) a chartered accountant (as defined by [section 19][155] of the New Zealand Institute of Chartered Accountants Act 1996); or
+    (2) The auditor must be a qualified auditor within the meaning of [section 35][156] of the Financial Reporting Act 2013\.
     
-    *   (b) eligible to act as an auditor under [section 199(1)(c) or (d)][156] of the Companies Act 1993\.
+    (3) _See_ [sections 37 to 39][157] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a Board).
     
     Section 31B: inserted, on 16 September 2011, by [section 7][152] of the Maori Trust Boards Amendment Act 2011 (2011 No 75).
+    
+    Section 31B(2): replaced, on 1 April 2014, by [section 126][155] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 31B(3): inserted, on 1 April 2014, by [section 126][155] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 32 Annual report and budget must be provided to Minister
     
@@ -1062,13 +1058,13 @@ General provisions relating to Maori Trust Boards
     
     (2) Where the property of any body corporate of which the name is changed by this Act consists of land or any interest in land, or of any mortgage or encumbrance of land, any security over stock or chattels, any lien, bond, stocks, shares, debentures, or any like security, it shall be the duty of every Registrar of Deeds, District Land Registrar, Registrar of the High Court, or other person charged with the duty of keeping any register, on the application of the body corporate concerned, and without the payment of any fee, to amend the appropriate register or registers so as to show the new name of the body corporate.
     
-    Section 40(2): amended, on 1 April 1980, pursuant to [section 12][157] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 40(2): amended, on 1 April 1980, pursuant to [section 12][158] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 41 Fees and travelling allowances
     
-*   (1) Each Maori Trust Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][158].
+*   (1) Each Maori Trust Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][159].
     
-    (2) Each Board may pay to its members remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][158] and the provisions of that Act shall apply accordingly.
+    (2) Each Board may pay to its members remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][159] and the provisions of that Act shall apply accordingly.
 
 ##### 41A Payments to Maori Trust Boards by Crown not to constitute income for taxation purposes
     
@@ -1076,13 +1072,13 @@ General provisions relating to Maori Trust Boards
     
     (2) The provisions of subsection (1) shall apply to all money paid or payable to the Tuwharetoa Maori Trust Board pursuant to [section 10][22].
     
-    Section 41A: inserted, on 24 October 1957, by [section 14][159] of the Maori Purposes Act 1957 (1957 No 81).
+    Section 41A: inserted, on 24 October 1957, by [section 14][160] of the Maori Purposes Act 1957 (1957 No 81).
     
     Section 41A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][147] of the Income Tax Act 2007 (2007 No 97).
     
     Section 41A(1): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][117] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 41A(1): amended, on 1 April 1965, pursuant to [section 135(1)][160] of the Social Security Act 1964 (1964 No 136).
+    Section 41A(1): amended, on 1 April 1965, pursuant to [section 135(1)][161] of the Social Security Act 1964 (1964 No 136).
 
 ## Part 3  
 Elections
@@ -1133,7 +1129,7 @@ Elections
         
     *   (a) by newspaper advertisement published on at least 2 consecutive days in a daily newspaper or newspapers circulating in the district or districts where the majority of the beneficiaries reside or in such daily newspapers as may be prescribed, in the case of any particular Board, by regulations under this Act;
     
-    *   (b) by notice in writing addressed to all Maori Committees, Maori Executive Committees, and District Maori Councils constituted under the [Maori Community Development Act 1962][161] in the district or districts where the majority of the beneficiaries reside or in such districts as may be prescribed, in the case of any particular Board, by regulations under this Act; and
+    *   (b) by notice in writing addressed to all Maori Committees, Maori Executive Committees, and District Maori Councils constituted under the [Maori Community Development Act 1962][162] in the district or districts where the majority of the beneficiaries reside or in such districts as may be prescribed, in the case of any particular Board, by regulations under this Act; and
     
     *   (c) by such other means as the Board may determine.
     
@@ -1175,13 +1171,13 @@ Elections
     
     the chief executive shall forthwith report the matter to the Minister.
     
-    Section 49 heading: amended, on 1 January 1992, pursuant to [section 9(3)(b)][162] of the Ministry of Maori Development Act 1991 (1991 No 145).
+    Section 49 heading: amended, on 1 January 1992, pursuant to [section 9(3)(b)][163] of the Ministry of Maori Development Act 1991 (1991 No 145).
     
-    Section 49(1): amended, on 1 January 1992, by [section 9(1)][162] of the Ministry of Maori Development Act 1991 (1991 No 145).
+    Section 49(1): amended, on 1 January 1992, by [section 9(1)][163] of the Ministry of Maori Development Act 1991 (1991 No 145).
     
     Section 49(3): inserted, on 18 January 1989, by section 5 of the Maori Trust Boards Amendment Act 1988 (1988 No 226).
     
-    Section 49(3): amended, on 1 January 1992, by [section 9(1)][162] of the Ministry of Maori Development Act 1991 (1991 No 145).
+    Section 49(3): amended, on 1 January 1992, by [section 9(1)][163] of the Ministry of Maori Development Act 1991 (1991 No 145).
 
 #### Election by postal ballot
 
@@ -1274,15 +1270,15 @@ Miscellaneous
     
     Section 56(3A): inserted, on 18 January 1989, by section 7(2) of the Maori Trust Boards Amendment Act 1988 (1988 No 226).
     
-    Section 56(4): repealed, on 19 December 1989, by [section 11][163] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 56(4): repealed, on 19 December 1989, by [section 11][164] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 57 Repeals and savings
     
 *   (1) The enactments specified in the [Schedule][104] are hereby repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][164], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or anything whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (2) Without limiting the provisions of the [Interpretation Act 1999][165], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or anything whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
-    Section 57(2): amended, on 1 November 1999, pursuant to [section 38(1)][165] of the Interpretation Act 1999 (1999 No 85).
+    Section 57(2): amended, on 1 November 1999, pursuant to [section 38(1)][166] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -1293,11 +1289,11 @@ Enactments repealed
 
 ##### Maori Purposes Act 1931 (1931 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][166]._
+_Amendment(s) incorporated in the [Act(s)][167]._
 
 ##### Maori Purposes Act 1933 (1933 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][167]._
+_Amendment(s) incorporated in the [Act(s)][168]._
 
 ##### Maori Purposes Act 1935 (1935 No 39)
 
@@ -1305,19 +1301,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Purposes Act 1938 (1938 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][168]._
+_Amendment(s) incorporated in the [Act(s)][169]._
 
 ##### Maori Purposes Act 1939 (1939 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][169]._
+_Amendment(s) incorporated in the [Act(s)][170]._
 
 ##### Maori Purposes Act 1948 (1948 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][170]._
+_Amendment(s) incorporated in the [Act(s)][171]._
 
 ##### Maori Purposes Act 1949 (1949 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][171]._
+_Amendment(s) incorporated in the [Act(s)][172]._
 
 ##### Maori Purposes Act 1950 (1950 No 98)
 
@@ -1325,11 +1321,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Purposes Act 1951 (1951 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][172]._
+_Amendment(s) incorporated in the [Act(s)][173]._
 
 ##### Maori Purposes Act 1953 (1953 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][173]._
+_Amendment(s) incorporated in the [Act(s)][174]._
 
 ##### Ngaitahu Claim Settlement Act 1944 (1944 No 33)
 
@@ -1349,7 +1345,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Maori Trust Boards Amendment Act 2008][174].
+*   This Act is the [Maori Trust Boards Amendment Act 2008][175].
 
 ##### 2 Commencement
     
@@ -1373,7 +1369,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Maori Trust Boards Amendment Act 2011][175].
+*   This Act is the [Maori Trust Boards Amendment Act 2011][176].
 
 ##### 2 Commencement
     
@@ -1467,82 +1463,39 @@ Pursuant to section 9(1)(b) of the Maori Trust Boards Amendment Act 2011, His Ex
 Michael Webster,  
 for Clerk of the Executive Council.
 
----
-
 Date of notification in _Gazette_: 9 August 2012\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maori Trust Boards Act 1955\. The reprint incorporates all the amendments to the Act as at 1 February 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][176] ![](/images/external_link.gif).
+*   This is a reprint of the Maori Trust Boards Act 1955 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][177] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][177] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][178] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][178] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][179] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][180] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][179] and [17E][180] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][155]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 101][113]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 101][113]
-    
-    [Maori Trust Boards Amendment Act 2011][175] (2011 No 75)
+    [Maori Trust Boards Amendment Act 2011][176] (2011 No 75)
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][111]
     
     Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 8(2)][138]
     
-    [Maori Trust Boards Amendment Act 2008][174] (2008 No 33)
+    [Maori Trust Boards Amendment Act 2008][175] (2008 No 33)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][147]
     
@@ -1550,7 +1503,7 @@ Date of notification in _Gazette_: 9 August 2012\.
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][139]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][165]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][166]
     
     Maori Trust Boards Amendment Act 1996 (1996 No 36)
     
@@ -1558,11 +1511,11 @@ Date of notification in _Gazette_: 9 August 2012\.
     
     Waikato Raupatu Claims Settlement Act 1995 (1995 No 58): [section 28(4)(a)][114]
     
-    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][162], [(3)(b)][162]
+    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][163], [(3)(b)][163]
     
     Orakei Act 1991 (1991 No 122): [section 39][181]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][163]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][164]
     
     Public Finance Act 1989 (1989 No 44): [section 86(1)][117]
     
@@ -1574,7 +1527,7 @@ Date of notification in _Gazette_: 9 August 2012\.
     
     Maori Purposes Act 1981 (1981 No 112): [section 7][143]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][157]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][158]
     
     Maori Purposes Act 1977 (1977 No 103): [section 8][118]
     
@@ -1588,7 +1541,7 @@ Date of notification in _Gazette_: 9 August 2012\.
     
     Maori Purposes Act 1968 (1968 No 127): [section 13(1)][140]
     
-    Social Security Act 1964 (1964 No 136): [section 135(1)][160]
+    Social Security Act 1964 (1964 No 136): [section 135(1)][161]
     
     Maori Trust Boards Amendment Act 1962 (1962 No 47)
     
@@ -1598,11 +1551,11 @@ Date of notification in _Gazette_: 9 August 2012\.
     
     Maori Purposes Act 1958 (1958 No 41): [section 9][123]
     
-    Maori Purposes Act 1957 (1957 No 81): [section 14][159]
+    Maori Purposes Act 1957 (1957 No 81): [section 14][160]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1955/0037/latest/whole.html#DLM289317
 [2]: http://www.legislation.govt.nz/act/public/1955/0037/latest/whole.html#DLM289319
 [3]: http://www.legislation.govt.nz/act/public/1955/0037/latest/whole.html#DLM289320
@@ -1729,7 +1682,7 @@ Date of notification in _Gazette_: 9 August 2012\.
 [124]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM405561
 [125]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM405571
 [126]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM324004
-[127]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM202970
+[127]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM5389722
 [128]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM210619
 [129]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM1297511
 [130]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM405562
@@ -1755,32 +1708,32 @@ Date of notification in _Gazette_: 9 August 2012\.
 [150]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM338485
 [151]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM411125
 [152]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4009717
-[153]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM324804
-[154]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM324886
-[155]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM391422
-[156]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM320887
-[157]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM35049
-[158]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM264952
-[159]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM310740
-[160]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM366042
-[161]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM341044
-[162]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM257786
-[163]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195558
-[164]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM31458
-[165]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM31885
-[166]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM210308
-[167]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM216062
-[168]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM226740
-[169]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM227719
-[170]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM254439
-[171]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM259724
-[172]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM264192
-[173]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM283859
-[174]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM1297500
-[175]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4009700
-[176]: http://www.pco.parliament.govt.nz/reprints/
-[177]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195439
-[178]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[179]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195468
-[180]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195470
+[153]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4632890
+[154]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4632894
+[155]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM5740665
+[156]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4632944
+[157]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4632947
+[158]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM35049
+[159]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM264952
+[160]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM310740
+[161]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM366042
+[162]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM341044
+[163]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM257786
+[164]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM195558
+[165]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM31458
+[166]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM31885
+[167]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM210308
+[168]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM216062
+[169]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM226740
+[170]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM227719
+[171]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM254439
+[172]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM259724
+[173]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM264192
+[174]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM283859
+[175]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM1297500
+[176]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM4009700
+[177]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM2998516
+[178]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM2998515
+[179]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM2998532
+[180]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [181]: http://www.legislation.govt.nz/act/public/1955/0037/latest/link.aspx?id=DLM252398
