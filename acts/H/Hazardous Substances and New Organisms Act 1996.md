@@ -5071,7 +5071,7 @@ Controls
     
     (4) Regulations made under [section 76][162] or [section 140][269], or both, may (without limitation)---
         
-    *   (a) specify the criteria the Authority must consider in deter-mining whether the applicant is a fit and proper person:
+    *   (a) specify the criteria the Authority must consider in determining whether the applicant is a fit and proper person:
     
     *   (b) specify any other matters that the Authority may consider in determining whether to grant a licence under this section:
     
