@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -650,17 +650,15 @@ New Zealand Meat Board
     
     *   (b) financial statements for the Board and every subsidiary (within the meaning of [section 5][121] of the Companies Act 1993) of the Board for that year.
     
-    (2) The financial statements must include explicit information on expenditure of reserves.
+    (2) The financial statements must be prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][122] of the Financial Reporting Act 2013).
     
-    (3) The [Financial Reporting Act 1993][122] applies to the Board and all the financial statements referred to in subsection (1) as if---
-        
-    *   (a) the Board's subsidiaries were companies within the meaning of that Act; and
-    
-    *   (b) the Board and the Board's subsidiaries were a group within the meaning of that Act; and
-    
-    *   (c) the Board were both a company and an issuer within the meaning of that Act (and a company within the meaning of the [Companies Act 1993][116]).
+    (3) \[Repealed\]
     
     Compare: 1997 No 105 s 50
+    
+    Section 17(2): replaced, on 1 April 2014, by [section 126][123] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 17(3): repealed, on 1 April 2014, by [section 126][123] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 18 Audit of financial statements
     
@@ -672,11 +670,15 @@ New Zealand Meat Board
     
     (2) Where, at the end of the period to which any statements referred to in [section 17][20] relate, there is no person appointed auditor under subsection (1), the statements must be audited by an auditor appointed by the Minister.
     
+    (2A) The person appointed as the auditor must be the Auditor-General or a person who is a qualified auditor within the meaning of [section 35][124] of the Financial Reporting Act 2013\.
+    
     (3) For the purposes of the audit of any statement referred to in [section 17][20], an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the [Companies Act 1993][116].
     
     (4) Where the Board or the Minister appoints the Auditor-General to audit any statements, the Auditor-General may audit them.
     
     Compare: 1997 No 105 s 51
+    
+    Section 18(2A): inserted, on 1 April 2014, by [section 126][123] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 19 Remuneration of auditor
     
@@ -696,13 +698,13 @@ New Zealand Meat Board
             
         *   (i) a report on the exercise of its statutory powers during the year; and
         
-        *   (ii) details of all particulars of indemnity and insurance recorded during the year under [clause 11(4)][123] of Schedule 2; and
+        *   (ii) details of all particulars of indemnity and insurance recorded during the year under [clause 11(4)][125] of Schedule 2; and
         
         
     
     *   (b) a copy of the statements and the report of its auditor on them; and
     
-    *   (c) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][124] of the Companies Act 1993; and those paragraphs apply as if references to---
+    *   (c) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][126] of the Companies Act 1993; and those paragraphs apply as if references to---
             
         *   (i) an accounting period were references to that year; and
         
@@ -777,7 +779,7 @@ Quota markets and registration of exporters
     
     Compare: 1997 No 105 s 27
     
-    Section 24(5): added (with effect on 1 July 2004), on 6 September 2006, by [section 4][125] of the Meat Board Amendment Act 2006 (2006 No 39).
+    Section 24(5): added (with effect on 1 July 2004), on 6 September 2006, by [section 4][127] of the Meat Board Amendment Act 2006 (2006 No 39).
 
 ##### 25 Limitations on contents of allocation mechanisms
     
@@ -961,7 +963,7 @@ Quota markets and registration of exporters
     
     Compare: 1997 No 105 s 34
     
-    Section 32(1): amended (with effect on 1 July 2004) on 6 September 2006, by [section 5][126] of the Meat Board Amendment Act 2006 (2006 No 39).
+    Section 32(1): amended (with effect on 1 July 2004) on 6 September 2006, by [section 5][128] of the Meat Board Amendment Act 2006 (2006 No 39).
 
 ##### 33 Issue of quota certificates by Board
     
@@ -971,7 +973,7 @@ Quota markets and registration of exporters
         
     *   (a) this Part of this Act; and
     
-    *   (b) [Part 5][127] of the Animal Products Act 1999 (unless the person is specifically exempted from the requirement to register under that Part 5).
+    *   (b) [Part 5][129] of the Animal Products Act 1999 (unless the person is specifically exempted from the requirement to register under that Part 5).
     
     
 
@@ -1067,13 +1069,13 @@ Quota markets and registration of exporters
     
     (6) In subsection (1), _adequate funding_ includes funding for and in relation to any liability or possible liability of the Board in respect of its quota management function arising from events occurring after the commencement of this Act.
     
-    (7) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][128] and must be presented to the House of Representatives under [section 41][129] of that Act.
+    (7) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][130] and must be presented to the House of Representatives under [section 41][131] of that Act.
     
-    Section 36(1): amended (with effect on 1 July 2004), on 6 September 2006, by [section 6(1)][130] of the Meat Board Amendment Act 2006 (2006 No 39).
+    Section 36(1): amended (with effect on 1 July 2004), on 6 September 2006, by [section 6(1)][132] of the Meat Board Amendment Act 2006 (2006 No 39).
     
-    Section 36(3): amended (with effect on 1 July 2004), on 6 September 2006, by [section 6(2)][130] of the Meat Board Amendment Act 2006 (2006 No 39).
+    Section 36(3): amended (with effect on 1 July 2004), on 6 September 2006, by [section 6(2)][132] of the Meat Board Amendment Act 2006 (2006 No 39).
     
-    Section 36(7): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
+    Section 36(7): replaced, on 5 August 2013, by [section 77(3)][133] of the Legislation Act 2012 (2012 No 119).
 
 ##### 37 Transitional provision for existing allocation mechanisms
     
@@ -1187,9 +1189,9 @@ Quota markets and registration of exporters
     
     (4) An auditor must not under subsection (2) enter any place that is not a place of business without a warrant issued under subsection (5).
     
-    (4A) The provisions of [Part 4][132] of the Search and Surveillance Act 2012 (except [subparts 2][133] and [3][134], [sections 118][135] and [119][136], and [subpart 8][137]) apply to entry and inspection under subsection (2).
+    (4A) The provisions of [Part 4][134] of the Search and Surveillance Act 2012 (except [subparts 2][135] and [3][136], [sections 118][137] and [119][138], and [subpart 8][139]) apply to entry and inspection under subsection (2).
     
-    (5) An issuing officer (within the meaning of [section 3][138] of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in [subpart 3][134] of Part 4 of that Act, is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business---
+    (5) An issuing officer (within the meaning of [section 3][140] of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in [subpart 3][136] of Part 4 of that Act, is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business---
         
     *   (a) any meat product; or
     
@@ -1199,21 +1201,21 @@ Quota markets and registration of exporters
     
     (6) A warrant must be directed to the auditor by name, or to a constable by name or to every constable, but, in any of these cases, the warrant may be executed by any constable.
     
-    (7) The provisions of [Part 4][132] of the Search and Surveillance Act 2012 apply in respect of the exercise of any power under subsection (5).
+    (7) The provisions of [Part 4][134] of the Search and Surveillance Act 2012 apply in respect of the exercise of any power under subsection (5).
     
-    (8) Despite subsection (7), [sections 118][135] and [119][136] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (8) Despite subsection (7), [sections 118][137] and [119][138] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
-    Section 42(4A): inserted, on 1 October 2012, by [section 282(1)][139] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(4A): inserted, on 1 October 2012, by [section 282(1)][141] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(5): amended, on 1 October 2012, by [section 282(2)(a)][139] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(5): amended, on 1 October 2012, by [section 282(2)(a)][141] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(5): amended, on 1 October 2012, by [section 282(2)(b)][139] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(5): amended, on 1 October 2012, by [section 282(2)(b)][141] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][140] of the Policing Act 2008 (2008 No 72).
+    Section 42(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][142] of the Policing Act 2008 (2008 No 72).
     
-    Section 42(7): replaced, on 1 October 2012, by [section 282(3)][139] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(7): replaced, on 1 October 2012, by [section 282(3)][141] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(8): replaced, on 1 October 2012, by [section 282(3)][139] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(8): replaced, on 1 October 2012, by [section 282(3)][141] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 43 Conduct of audit
     
@@ -1229,7 +1231,7 @@ Quota markets and registration of exporters
     
     (2) The Minister may give directions as to any further distribution of the report or any part of the report, and as to its availability for viewing.
     
-    (3) The Minister must consult with the Board before giving directions as to the distribution or availability of the report or any part of it to persons other than other Ministers or persons within the public service (as defined in [section 27][141] of the State Sector Act 1988).
+    (3) The Minister must consult with the Board before giving directions as to the distribution or availability of the report or any part of it to persons other than other Ministers or persons within the public service (as defined in [section 27][143] of the State Sector Act 1988).
 
 ##### 45 Confidentiality of report
     
@@ -1241,7 +1243,7 @@ Quota markets and registration of exporters
     
     (2) Despite subsection (1), any recommendations in the report may be made available to members of the Board and to any employees of the Board who may be required to give effect to the recommendations.
     
-    (3) Nothing in the [Official Information Act 1982][142] applies to require or allow disclosure of a report or any part of a report on a quota compliance audit, or the whole or any part of any draft reports or related working papers, under this Act.
+    (3) Nothing in the [Official Information Act 1982][144] applies to require or allow disclosure of a report or any part of a report on a quota compliance audit, or the whole or any part of any draft reports or related working papers, under this Act.
 
 ##### 46 Obligations to implement recommendations of report
     
@@ -1361,9 +1363,9 @@ Quota markets and registration of exporters
     
     (3) The Board must take all reasonable steps to consult with meat exporters on the initial level of the fees if they are proposed to be higher than those charged under the Meat Board Regulations 1998, and on any increase in the fees.
     
-    (4) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][128] and must be presented to the House of Representatives under [section 41][129] of that Act.
+    (4) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][130] and must be presented to the House of Representatives under [section 41][131] of that Act.
     
-    Section 55(4): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
+    Section 55(4): replaced, on 5 August 2013, by [section 77(3)][133] of the Legislation Act 2012 (2012 No 119).
 
 ##### 56 Transitional provision for existing export licences
     
@@ -1377,7 +1379,7 @@ Quota markets and registration of exporters
     
 *   (1) Nothing in this Part prevents the Crown from engaging in international trade negotiations for the purpose of establishing, amending, or terminating quota markets.
     
-    (2) Nothing in this Part derogates from any requirement of [Part 5][127] of the Animal Products Act 1999, or any related requirement of or under that Act.
+    (2) Nothing in this Part derogates from any requirement of [Part 5][129] of the Animal Products Act 1999, or any related requirement of or under that Act.
 
 ## Part 4  
 Miscellaneous provisions
@@ -1470,7 +1472,7 @@ Miscellaneous provisions
 
 ##### 62 Warrant to inspect place other than place of business
     
-*   (1) An issuing officer (within the meaning of [section 3][143] of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in [subpart 3][134] of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds to believe that---
+*   (1) An issuing officer (within the meaning of [section 3][145] of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in [subpart 3][136] of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds to believe that---
         
     *   (a) a person has taken or is intending to take an action of a kind described in [section 34(1)(a) or (b)][38]; and
     
@@ -1478,37 +1480,37 @@ Miscellaneous provisions
     
     may issue a warrant authorising the person named in the warrant to enter and inspect the place.
     
-    (2) An issuing officer (within the meaning of [section 3][143] of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in [subpart 3][134] of Part 4 of the Search and Surveillance Act 2012, is satisfied that, as a consequence of the inspection under [section 61][71] of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
+    (2) An issuing officer (within the meaning of [section 3][145] of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in [subpart 3][136] of Part 4 of the Search and Surveillance Act 2012, is satisfied that, as a consequence of the inspection under [section 61][71] of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
     
-    (3) The provisions of [Part 4][132] of the Search and Surveillance Act 2012 apply.
+    (3) The provisions of [Part 4][134] of the Search and Surveillance Act 2012 apply.
     
-    (4) Despite subsection (3), [sections 118][135] and [119][136] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (4) Despite subsection (3), [sections 118][137] and [119][138] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     Compare: 1997 No 105 s 72
     
-    Section 62(1): amended, on 1 October 2012, by[section 283(1)(a)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(1): amended, on 1 October 2012, by[section 283(1)(a)][146] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(1): amended, on 1 October 2012, by[section 283(1)(b)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(1): amended, on 1 October 2012, by[section 283(1)(b)][146] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(2): amended, on 1 October 2012, by[section 283(2)(a)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(2): amended, on 1 October 2012, by[section 283(2)(a)][146] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(2): amended, on 1 October 2012, by[section 283(2)(b)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(2): amended, on 1 October 2012, by[section 283(2)(b)][146] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(3): replaced, on 1 October 2012, by [section 283(3)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(3): replaced, on 1 October 2012, by [section 283(3)][146] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(4): replaced, on 1 October 2012, by [section 283(3)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(4): replaced, on 1 October 2012, by [section 283(3)][146] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 63 Duties of persons executing warrants
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 October 2012, by [section 283(4)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 63: repealed, on 1 October 2012, by [section 283(4)][146] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 64 Other duties of persons carrying out inspections
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 1 October 2012, by [section 283(4)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 64: repealed, on 1 October 2012, by [section 283(4)][146] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 65 Requirement for certain persons to provide certain information to Board
     
@@ -1536,7 +1538,7 @@ Miscellaneous provisions
     
     *   (b) in relation to livestock or meat products of kinds specified in the request.
     
-    (5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the [State Sector Act 1988][145] as the chief executive of the department of State referred to in [section 5][146] of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+    (5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the [State Sector Act 1988][147] as the chief executive of the department of State referred to in [section 5][148] of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
     
     (6) The Board may require information under this section, and use the information obtained, only for the purpose of carrying out its function described in [section 8(1)(a)][10].
     
@@ -1590,9 +1592,9 @@ Miscellaneous provisions
     
     (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse exports any meat product at any time when the person is not registered as an exporter under this Act.
     
-    Section 67(1): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67(1): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 67(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67(2): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Information-related offences
     
@@ -1612,11 +1614,11 @@ Miscellaneous provisions
     
     *   (b) a further fine not exceeding $750 for each day during which the offence continues.
     
-    Section 68(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(2): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 68(3): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(3): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 68(4): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(4): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Obstruction
     
@@ -1644,13 +1646,13 @@ Miscellaneous provisions
     
     *   (b) a further fine not exceeding $1,000 for each day during which the offence continues.
     
-    Section 69(3): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69(3): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Customs and Excise Act 1996 to apply to prohibited exports
     
-*   (1) All the provisions of the [Customs and Excise Act 1996][148], and any regulations made under that Act, that apply to prohibited exports apply to the export of any meat product in contravention of this Act in all respects as if the export of such meat products were prohibited under [Part 5][149] of the Customs and Excise Act 1996\.
+*   (1) All the provisions of the [Customs and Excise Act 1996][150], and any regulations made under that Act, that apply to prohibited exports apply to the export of any meat product in contravention of this Act in all respects as if the export of such meat products were prohibited under [Part 5][151] of the Customs and Excise Act 1996\.
     
-    (2) The penalty for an offence against [section 209(1)(b)][150] of the Customs and Excise Act 1996 in respect of the export of any meat product in contravention of [section 67(1)][78] of this Act is---
+    (2) The penalty for an offence against [section 209(1)(b)][152] of the Customs and Excise Act 1996 in respect of the export of any meat product in contravention of [section 67(1)][78] of this Act is---
         
     *   (a) in the case of an individual, a fine not exceeding $200,000:
     
@@ -1662,21 +1664,21 @@ Miscellaneous provisions
                 
             *   (A) if it can be readily ascertained and if the court is satisfied that the contravention occurred in the course of producing a commercial gain, a fine not greater than 3 times the value of the commercial gain resulting from the contravention; or
             
-            *   (B) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (within the meaning of [section 2(7) and (7A)][151] of the Commerce Act 1986), if any.
+            *   (B) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (within the meaning of [section 2(7) and (7A)][153] of the Commerce Act 1986), if any.
             
             
         
         
     
-    Compare: 2001 No 51 [s 30][152]
+    Compare: 2001 No 51 [s 30][154]
 
 ##### 71 Strict liability
     
 *   (1) In any proceedings for an offence under [section 67(1)][78], it is not necessary for the prosecution to prove that the defendant intended to commit the offence.
     
-    (2) This section does not limit [section 239(4)][153] of the Customs and Excise Act 1996 if proceedings are taken for an offence under that Act.
+    (2) This section does not limit [section 239(4)][155] of the Customs and Excise Act 1996 if proceedings are taken for an offence under that Act.
     
-    Compare: 2001 No 51 [s 32][154]
+    Compare: 2001 No 51 [s 32][156]
 
 ##### 72 Defence available
     
@@ -1688,9 +1690,9 @@ Miscellaneous provisions
     
     (2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
     
-    Compare: 2001 No 51 [s 33][155]
+    Compare: 2001 No 51 [s 33][157]
     
-    Section 72(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 72(2): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 73 Liability of companies and persons for actions of agents or employees
     
@@ -1736,7 +1738,7 @@ Miscellaneous provisions
     
     *   (b) any agent or employee of a person acting as an agent is treated as also acting as an agent for the other person or body corporate referred to in paragraph (a).
     
-    Compare: 2001 No 51 [s 34][156]
+    Compare: 2001 No 51 [s 34][158]
 
 ##### 74 Liability of directors and managers
     
@@ -1750,21 +1752,21 @@ Miscellaneous provisions
     
     (3) A person may be convicted of the offence even though the body corporate has not been charged with that offence or a similar offence.
     
-    Compare: 2001 No 51 [s 35][157]
+    Compare: 2001 No 51 [s 35][159]
     
-    Section 74(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(2): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Presumption as to authority
     
 *   A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by, or on behalf of, any person is, for the purpose of proceedings for an offence against this Act, treated as having been completed, kept, or provided by that person unless the contrary is proved.
     
-    Compare: 2001 No 51 [s 36][158]
+    Compare: 2001 No 51 [s 36][160]
 
 ##### 76 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][159] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][161] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    Section 76: replaced, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 76: replaced, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Supply of information
 
@@ -1774,11 +1776,11 @@ Miscellaneous provisions
     
     (2) Subsection (1) applies only to information that is in the Board's possession or that the Board can obtain without unreasonable difficulty or expense.
     
-    Compare: 2001 No 51 [s 41][160]
+    Compare: 2001 No 51 [s 41][162]
 
 ##### 78 Disclosure of information
     
-*   (1) The chief executive of the Ministry (or any officer of the Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the [Customs and Excise Act 1996][148], disclose to each other, on request, information on exporters of meat products exported or proposed to be exported.
+*   (1) The chief executive of the Ministry (or any officer of the Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the [Customs and Excise Act 1996][150], disclose to each other, on request, information on exporters of meat products exported or proposed to be exported.
     
     (2) Information obtained under subsection (1) must not be disclosed except---
         
@@ -1788,7 +1790,7 @@ Miscellaneous provisions
     
     (3) No obligation as to secrecy or other restriction on the disclosure of information imposed by any enactment or otherwise prevents a disclosure under this section.
     
-    Compare: 2001 No 51 [s 42][161]
+    Compare: 2001 No 51 [s 42][163]
 
 ##### 79 Board must disclose certain information to industry-good organisation
     
@@ -1940,13 +1942,13 @@ Miscellaneous provisions
     
 *   (1) The transfer of assets and liabilities from the Board to Meat and Wool New Zealand Limited pursuant to [section 84][99]---
         
-    *   (a) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][162]; and
+    *   (a) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][164]; and
     
     *   (b) is not a sale, disposal, disposition, distribution, or transfer of any asset or any liability for the purposes of the Income Tax Act 1994; and
     
-    *   (c) is not a supply of goods or services for the purposes of the [Goods and Services Tax Act 1985][163].
+    *   (c) is not a supply of goods or services for the purposes of the [Goods and Services Tax Act 1985][165].
     
-    (2) For the purposes of the Income Tax Act 1994 and the [Goods and Services Tax Act 1985][163], as the case may be, Meat and Wool New Zealand Limited is treated as the same person as the former Board---
+    (2) For the purposes of the Income Tax Act 1994 and the [Goods and Services Tax Act 1985][165], as the case may be, Meat and Wool New Zealand Limited is treated as the same person as the former Board---
         
     *   (a) for the purposes of applying the depreciation provisions in subpart EG of the Income Tax Act 1994; and
     
@@ -1956,9 +1958,9 @@ Miscellaneous provisions
     
     *   (d) when determining the unexpired portion of any amount of accrual expenditure of the former Board attributable to Meat and Wool New Zealand Limited; and
     
-    *   (e) for the purpose of applying any matching, spreading, or amortisation regime in the Income Tax Act 1994 (including the finance lease and hire purchase regimes) or the [Goods and Services Tax Act 1985][163], as the case may be, to any asset or liability transferred from the Board to Meat and Wool New Zealand Limited; and
+    *   (e) for the purpose of applying any matching, spreading, or amortisation regime in the Income Tax Act 1994 (including the finance lease and hire purchase regimes) or the [Goods and Services Tax Act 1985][165], as the case may be, to any asset or liability transferred from the Board to Meat and Wool New Zealand Limited; and
     
-    *   (f) to the extent not specifically contemplated by paragraphs (a) to (e), for the purpose of determining the treatment of any asset or liability transferred from the Board to Meat and Wool New Zealand Limited under the Income Tax Act 1994 or the [Goods and Services Tax Act 1985][163], as the case may be.
+    *   (f) to the extent not specifically contemplated by paragraphs (a) to (e), for the purpose of determining the treatment of any asset or liability transferred from the Board to Meat and Wool New Zealand Limited under the Income Tax Act 1994 or the [Goods and Services Tax Act 1985][165], as the case may be.
     
     (3) For the purposes of the Income Tax Act 1994, the trust formed to hold shares in Meat and Wool New Zealand Limited, the beneficiaries of which consist of all livestock farmers (except for any reasonably excluded for reasons of administrative cost), is treated as---
         
@@ -1968,7 +1970,7 @@ Miscellaneous provisions
     
     (4) The issue, before the date of commencement of this Act, by Meat and Wool New Zealand Limited of shares in that company to the trust formed to hold shares in Meat and Wool New Zealand Limited, the beneficiaries of which consist of all livestock farmers (except for any reasonably excluded for reasons of administrative cost),---
         
-    *   (a) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][162]; and
+    *   (a) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][164]; and
     
     *   (b) is not a dividend for the purposes of the Income Tax Act 1994; and
     
@@ -1996,7 +1998,7 @@ Miscellaneous provisions
 
 ##### 87 Consolidation
     
-*   For the purposes of the [Estate and Gift Duties Act 1968][162] and the Income Tax Act 1994,---
+*   For the purposes of the [Estate and Gift Duties Act 1968][164] and the Income Tax Act 1994,---
         
     *   (a) the Board, any subsidiary companies of the Board included in the same wholly-owned group of companies as the Board, and Meat and Wool New Zealand Limited are treated as members of the same consolidated group (within the meaning of the consolidation rules as defined in section OZ 1(1) of the Income Tax Act 1994); and
     
@@ -2008,7 +2010,7 @@ Miscellaneous provisions
 
 ##### 88 Goods and services tax
     
-*   For the purposes of the [Goods and Services Tax Act 1985][163], a payment of a grant of money by the Board to Meat and Wool New Zealand Limited is treated as not being consideration in respect of a supply of goods or services by Meat and Wool New Zealand Limited.
+*   For the purposes of the [Goods and Services Tax Act 1985][165], a payment of a grant of money by the Board to Meat and Wool New Zealand Limited is treated as not being consideration in respect of a supply of goods or services by Meat and Wool New Zealand Limited.
 
 ##### 89 Definitions
     
@@ -2018,11 +2020,11 @@ Miscellaneous provisions
     
     *   (b) in addition to their ordinary meanings, _disposal_ and _disposition_ have the same meanings as in section OB 1 of the Income Tax Act 1994:
     
-    *   (c) the terms _goods_, _money_, _services_ and _supply_ have the same meanings as in the [Goods and Services Tax Act 1985][163]:
+    *   (c) the terms _goods_, _money_, _services_ and _supply_ have the same meanings as in the [Goods and Services Tax Act 1985][165]:
     
-    *   (d) the term _consideration_ has the same meaning as in the Income Tax Act 1994 and the [Goods and Services Tax Act 1985][163], as the context requires:
+    *   (d) the term _consideration_ has the same meaning as in the Income Tax Act 1994 and the [Goods and Services Tax Act 1985][165], as the context requires:
     
-    *   (e) the term _dutiable gift_ has the same meaning as in the [Estate and Gift Duties Act 1968][162].
+    *   (e) the term _dutiable gift_ has the same meaning as in the [Estate and Gift Duties Act 1968][164].
     
     
 
@@ -2047,7 +2049,7 @@ Provisions applying to directors
 
 ##### 2 Exercise of powers in relation to employees
     
-*   (1) Nothing in [clause 1][164] limits the power of a director to make provision for the benefit of employees of the Board in connection with the Board's ceasing to carry on the whole or part of its affairs.
+*   (1) Nothing in [clause 1][166] limits the power of a director to make provision for the benefit of employees of the Board in connection with the Board's ceasing to carry on the whole or part of its affairs.
     
     (2) In subclause (1),---
     
@@ -2127,13 +2129,13 @@ Provisions applying to directors
     
     (3) For the purposes of this schedule, a director is not interested in a transaction to which the Board is a party if the transaction comprises only the giving by the Board of security to a third party which has no connection with the director, at the request of the third party, in respect of a debt or obligation of the Board for which the director or another person has personally assumed responsibility in whole or in part under a guarantee, indemnity, or by the deposit of a security.
     
-    (4) For the purposes of this clause and [clause 10][165],---
+    (4) For the purposes of this clause and [clause 10][167],---
         
     *   (a) the exercise in relation to any person (or a group of persons including any person) of any of the Board's powers under [Part 3][24] is a transaction, to which the Board is a party; and
     
     *   (b) the exercise in relation to any person (or a group of persons including any person) of any power under an allocation mechanism to make a decision or recommendation is a transaction, to which the Board is a party.
     
-    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][166] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][168] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Disclosure of interest
     
@@ -2149,7 +2151,7 @@ Provisions applying to directors
     
     (4) Every director who fails to comply with subclause (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Schedule 1 clause 10(4): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 1 clause 10(4): amended, on 1 July 2013, by [section 413][149] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Avoidance of transactions
     
@@ -2171,7 +2173,7 @@ Provisions applying to directors
 
 ##### 12 Effect on third parties
     
-*   The avoidance of a transaction under [clause 11][167] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
+*   The avoidance of a transaction under [clause 11][169] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
         
     *   (a) from a person other than the Board; and
     
@@ -2183,7 +2185,7 @@ Provisions applying to directors
 
 ##### 13 Application of clauses 10 and 11 in certain cases
     
-*   Nothing in [clauses 10][165] and [11][167] applies in relation to---
+*   Nothing in [clauses 10][167] and [11][169] applies in relation to---
         
     *   (a) remuneration or any other benefit given to a director in his or her capacity as a director; or
     
@@ -2215,7 +2217,7 @@ Provisions applying to directors
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clause 10][165].
+    *   (d) in complying with [clause 10][167].
     
     (2) A director may disclose, make use of, or act on the information if---
         
@@ -2422,7 +2424,7 @@ Provisions applying to Board and board of directors
     
 *   (1) Subject to subclauses (2) to (5), the Board must pay to each director the remuneration and benefits the Board from time to time determines.
     
-    (2) The Board must pay to each director nominated or appointed by the Minister (whether under [section 13(2)(d), section 13(6)(c)][15], [clause 2(3)][112] or [3(1)][168], or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
+    (2) The Board must pay to each director nominated or appointed by the Minister (whether under [section 13(2)(d), section 13(6)(c)][15], [clause 2(3)][112] or [3(1)][170], or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
     
     (3) During any financial year to which a resolution under [section 59(2)][68] (or, as the case requires, section 59(3)) applies, the Board must not pay to industry-selected directors (for services as a director) remuneration and benefits that are in the aggregate more than the maximum aggregate remuneration and benefits approved by the resolution.
     
@@ -2440,9 +2442,9 @@ Provisions applying to Board and board of directors
     
     *   (b) does not (except for the purposes of subclause (2) of this clause) include the monetary value of---
             
-        *   (i) any insurance of any kind in respect of any of the matters specified in [clause 11(1)(a) and (b)][123] provided or paid for the Board; or
+        *   (i) any insurance of any kind in respect of any of the matters specified in [clause 11(1)(a) and (b)][125] provided or paid for the Board; or
         
-        *   (ii) any thing done or payment made by the Board in indemnifying a director in respect of any of the matters specified in [clause 11(1)(a) and (b)][123].
+        *   (ii) any thing done or payment made by the Board in indemnifying a director in respect of any of the matters specified in [clause 11(1)(a) and (b)][125].
         
         
     
@@ -2450,7 +2452,7 @@ Provisions applying to Board and board of directors
 
 ##### 11 Restrictions on indemnity and insurance
     
-*   (1) Except as provided in [clauses 12 to 14][169], the Board must not indemnify or agree to indemnify an official, or directly or indirectly effect insurance for an official, in respect of---
+*   (1) Except as provided in [clauses 12 to 14][171], the Board must not indemnify or agree to indemnify an official, or directly or indirectly effect insurance for an official, in respect of---
         
     *   (a) liability for any act or omission in the official's capacity as an official of the corporation; or
     
@@ -2476,7 +2478,7 @@ Provisions applying to Board and board of directors
     
     *   (b) are retained by the Board.
     
-    (5) In this clause and [clauses 12 to 14][169],---
+    (5) In this clause and [clauses 12 to 14][171],---
     
     _the corporation_,---
         
@@ -2488,7 +2490,7 @@ Provisions applying to Board and board of directors
     
     _indemnify_ includes relieve or excuse from liability, whether before or after the liability arises
     
-    _New Zealand company_ means a company within the meaning of [section 2(1)][170] of the Companies Act 1993
+    _New Zealand company_ means a company within the meaning of [section 2(1)][172] of the Companies Act 1993
     
     _official_ means a person who is a director, former director, officer, former officer, employee, or former employee of the Board or a subsidiary of the Board
     
@@ -2516,9 +2518,9 @@ Provisions applying to Board and board of directors
         
     *   (a) criminal liability arising under New Zealand law:
     
-    *   (b) liability in respect of an act or omission in the official's capacity as a director of the Board that is in breach of the duty imposed by [clause 1][164] of Schedule 1:
+    *   (b) liability in respect of an act or omission in the official's capacity as a director of the Board that is in breach of the duty imposed by [clause 1][166] of Schedule 1:
     
-    *   (c) liability in respect of an act or omission in the official's capacity as a director of a subsidiary of the Board that, if the subsidiary and the Board were each a New Zealand company, would be in breach of the duty imposed by [section 131(1)][171] of the Companies Act 1993:
+    *   (c) liability in respect of an act or omission in the official's capacity as a director of a subsidiary of the Board that, if the subsidiary and the Board were each a New Zealand company, would be in breach of the duty imposed by [section 131(1)][173] of the Companies Act 1993:
     
     *   (d) liability in respect of an act or omission in the official's capacity as an officer or employee of the corporation that is in breach of any fiduciary duty owed by the official to the corporation.
     
@@ -2579,7 +2581,7 @@ Forms of warrant
 
 [ss 42(5)][47], [62][72]
 
-*   Schedule 3: repealed, on 1 October 2012, by [section 283(5)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 3: repealed, on 1 October 2012, by [section 283(5)][146] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### 
 
@@ -2593,25 +2595,27 @@ Forms of warrant
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][172] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][173] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][174] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][175] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][174] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][175] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][176] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][177] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][131]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][123]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 282][139], [283][144]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][133]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][147]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 282][141], [283][146]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][140]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][149]
     
-    [Meat Board Amendment Act 2006][176] (2006 No 39)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][142]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][166]
+    [Meat Board Amendment Act 2006][178] (2006 No 39)
+    
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][168]
 
 
 
@@ -2737,58 +2741,60 @@ Forms of warrant
 [119]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM88261
 [120]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM88405
 [121]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM319999
-[122]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM323597
-[123]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302452
-[124]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM321118
-[125]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378366
-[126]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378367
-[127]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM34802
-[128]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2997643
-[129]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998573
-[130]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378368
-[131]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998633
-[132]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136770
-[133]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4355336
-[134]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136781
-[135]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136813
-[136]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136815
-[137]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136883
-[138]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4307343
-[139]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2137038
-[140]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM1102349
-[141]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM129505
-[142]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM64784
-[143]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136542
-[144]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2137039
-[145]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM129109
-[146]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378150
-[147]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM3360714
-[148]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM377336
-[149]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378459
-[150]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM379566
-[151]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM87631
-[152]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108996
-[153]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM379940
-[154]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108998
-[155]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108999
-[156]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109100
-[157]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109101
-[158]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109102
-[159]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM3360067
-[160]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109109
-[161]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109110
-[162]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM385591
-[163]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM81034
-[164]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302413
-[165]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302429
-[166]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM333795
-[167]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302430
-[168]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302440
-[169]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302467
-[170]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM319576
-[171]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM320657
-[172]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998516
-[173]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998515
-[174]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998532
-[175]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[176]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378359
+[122]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4632894
+[123]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM5740665
+[124]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4632944
+[125]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302452
+[126]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM321118
+[127]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378366
+[128]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378367
+[129]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM34802
+[130]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2997643
+[131]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998573
+[132]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378368
+[133]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998633
+[134]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136770
+[135]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4355336
+[136]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136781
+[137]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136813
+[138]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136815
+[139]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136883
+[140]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM4307343
+[141]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2137038
+[142]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM1102349
+[143]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM129505
+[144]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM64784
+[145]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2136542
+[146]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2137039
+[147]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM129109
+[148]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378150
+[149]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM3360714
+[150]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM377336
+[151]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378459
+[152]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM379566
+[153]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM87631
+[154]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108996
+[155]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM379940
+[156]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108998
+[157]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM108999
+[158]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109100
+[159]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109101
+[160]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109102
+[161]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM3360067
+[162]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109109
+[163]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM109110
+[164]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM385591
+[165]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM81034
+[166]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302413
+[167]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302429
+[168]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM333795
+[169]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302430
+[170]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302440
+[171]: http://www.legislation.govt.nz/act/public/2004/0058/latest/whole.html#DLM302467
+[172]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM319576
+[173]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM320657
+[174]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998516
+[175]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998515
+[176]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM2998532
+[177]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[178]: http://www.legislation.govt.nz/act/public/2004/0058/latest/link.aspx?id=DLM378359
