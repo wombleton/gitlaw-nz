@@ -1,7 +1,7 @@
 Reprint  
-as at 20 August 2000
+as at 1 April 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Nurse Maude Association Act 2000Private Act2000 No 2
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -23,61 +23,61 @@ A general outline of these changes is set out in the notes at the end of this re
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Interpretation][4]
+[3][4][][4][Interpretation][4]
 
-[4][5] [Constitution of Association][5]
+[4][5][][5][Constitution of Association][5]
 
-[5][6] [Objects of Association are charitable][6]
+[5][6][][6][Objects of Association are charitable][6]
 
-[6][7] [Objects][7]
+[6][7][][7][Objects][7]
 
-[7][8] [Powers of Association][8]
+[7][8][][8][Powers of Association][8]
 
-[8][9] [No payments to members][9]
+[8][9][][9][No payments to members][9]
 
-[9][10] [Payments][10]
+[9][10][][10][Payments][10]
 
-[10][11] [Membership of Association][11]
+[10][11][][11][Membership of Association][11]
 
-[11][12] [Ordinary members][12]
+[11][12][][12][Ordinary members][12]
 
-[12][13] [Register of members][13]
+[12][13][][13][Register of members][13]
 
-[13][14] [Financial year][14]
+[13][14][][14][Financial year][14]
 
-[14][15] [Board of Association][15]
+[14][15][][15][Board of Association][15]
 
-[15][16] [Chairperson][16]
+[15][16][][16][Chairperson][16]
 
-[16][17] [Interested members][17]
+[16][17][][17][Interested members][17]
 
-[17][18] [Management of Association][18]
+[17][18][][18][Management of Association][18]
 
-[18][19] [Powers of Board][19]
+[18][19][][19][Powers of Board][19]
 
-[19][20] [Protection of officers and members][20]
+[19][20][][20][Protection of officers and members][20]
 
-[20][21] [Appointment of chief executive officer][21]
+[20][21][][21][Appointment of chief executive officer][21]
 
-[21][22] [Delegation of powers of Board][22]
+[21][22][][22][Delegation of powers of Board][22]
 
-[22][23] [Method of contracting][23]
+[22][23][][23][Method of contracting][23]
 
-[23][24] [Attorneys][24]
+[23][24][][24][Attorneys][24]
 
-[24][25] [Auditor][25]
+[24][25][][25][Auditor][25]
 
-[25][26] [Costs and charges][26]
+[25][26][][26][Costs and charges][26]
 
-[26][27] [Further provisions applying to Board][27]
+[26][27][][27][Further provisions applying to Board][27]
 
-[27][28] [Dissolution and disposal of property][28]
+[27][28][][28][Dissolution and disposal of property][28]
 
-[28][29] [Repeals][29]
+[28][29][][29][Repeals][29]
 
 [Schedule][30]  
 [Provisions applying in respect of Association and Board][30]
@@ -358,9 +358,11 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   (1) The Association must appoint an auditor to audit the financial statements of the Association as soon as practicable after the end of each financial year.
     
-    (2) The auditor must be a person who could not be precluded, under [section 199][32] of the Companies Act 1993, from being appointed as auditor if the Association were a company under that Act.
+    (2) The auditor must be a person who is a qualified auditor within the meaning of [section 35][32] of the Financial Reporting Act 2013\.
     
     Compare: 1967 No 1 (P) s 14
+    
+    Section 24(2): replaced, on 1 April 2014, by [section 126][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 25 Costs and charges
     
@@ -376,9 +378,9 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   (1) The Association may be put into liquidation if, at a special general meeting of the Association's members, it passes a special resolution appointing a liquidator and the resolution is confirmed at a subsequent special general meeting called for that purpose and held not sooner than the 28th day and not later than the 42nd day after the day on which the resolution to be confirmed was passed.
     
-    (2) [Part 16][33] of the Companies Act 1993 applies, with such modifications as may be necessary, to the liquidation of the Association as if the resolution has been passed under [section 241(2)][34] of that Act.
+    (2) [Part 16][34] of the Companies Act 1993 applies, with such modifications as may be necessary, to the liquidation of the Association as if the resolution has been passed under [section 241(2)][35] of that Act.
     
-    (3) For the purposes of subsection (2) and without limiting that subsection, [section 313(4)][35] of the Companies Act 1993 must be read as if paragraphs (a) and (b) were omitted, and the words ""to charitable purposes that come within the objects specified in section 6"" were substituted.
+    (3) For the purposes of subsection (2) and without limiting that subsection, [section 313(4)][36] of the Companies Act 1993 must be read as if paragraphs (a) and (b) were omitted, and the words ""to charitable purposes that come within the objects specified in section 6"" were substituted.
 
 ##### 28 Repeals
     
@@ -529,74 +531,31 @@ Provisions applying in respect of Association and Board
     
     Compare: 1967 No 1 (P) s 16
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Nurse Maude Association Act 2000\. The reprint incorporates all the amendments to the Act as at 20 August 2000, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Nurse Maude Association Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][36] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][37] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][38] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][39] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][40] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][33]
 
 
 
-[0]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/private/2000/0002/latest/whole.html#DLM119851
 [2]: http://www.legislation.govt.nz/act/private/2000/0002/latest/whole.html#DLM119854
 [3]: http://www.legislation.govt.nz/act/private/2000/0002/latest/whole.html#DLM119855
@@ -628,10 +587,12 @@ Provisions applying in respect of Association and Board
 [29]: http://www.legislation.govt.nz/act/private/2000/0002/latest/whole.html#DLM119898
 [30]: http://www.legislation.govt.nz/act/private/2000/0002/latest/whole.html#DLM119899
 [31]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM268916
-[32]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM320887
-[33]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM321666
-[34]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM321678
-[35]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM322809
-[36]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM195439
-[37]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM195468
-[38]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM195470
+[32]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM4632944
+[33]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM5740665
+[34]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM321666
+[35]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM321678
+[36]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM322809
+[37]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM2998516
+[38]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM2998515
+[39]: http://www.legislation.govt.nz/act/private/2000/0002/latest/link.aspx?id=DLM2998532
+[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
