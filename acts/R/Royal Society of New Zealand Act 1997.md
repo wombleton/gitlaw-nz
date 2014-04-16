@@ -1,5 +1,5 @@
 Reprint  
-as at 3 March 2012
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -25,111 +25,111 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   [Preamble][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
 [Interpretation][4]
 
-[2][5] [Interpretation][5]
+[2][5][][5][Interpretation][5]
 
 [The Royal Society of New Zealand][6]
 
-[3][7] [Constitution of Society][7]
+[3][7][][7][Constitution of Society][7]
 
-[4][8] [Honorary Patron][8]
+[4][8][][8][Honorary Patron][8]
 
-[5][9] [Object][9]
+[5][9][][9][Object][9]
 
-[6][10] [Functions][10]
+[6][10][][10][Functions][10]
 
-[7][11] [Powers of Society][11]
+[7][11][][11][Powers of Society][11]
 
-[8][12] [No dividend or profit to members][12]
+[8][12][][12][No dividend or profit to members][12]
 
 [Membership of Society][13]
 
-[9][14] [Membership of Society][14]
+[9][14][][14][Membership of Society][14]
 
-[10][15] [Fellows][15]
+[10][15][][15][Fellows][15]
 
-[11][16] [Ordinary Members][16]
+[11][16][][16][Ordinary Members][16]
 
-[12][17] [Companions][17]
+[12][17][][17][Companions][17]
 
-[13][18] [Constituent Organisations][18]
+[13][18][][18][Constituent Organisations][18]
 
-[14][19] [Regional Constituent Organisations][19]
+[14][19][][19][Regional Constituent Organisations][19]
 
-[15][20] [Affiliate Organisations][20]
+[15][20][][20][Affiliate Organisations][20]
 
-[16][21] [Honorary Members][21]
+[16][21][][21][Honorary Members][21]
 
-[17][22] [Honorary Fellows][22]
+[17][22][][22][Honorary Fellows][22]
 
-[18][23] [Revocation of membership or fellowship][23]
+[18][23][][23][Revocation of membership or fellowship][23]
 
-[19][24] [Register of members][24]
+[19][24][][24][Register of members][24]
 
 [Council of Society][25]
 
-[20][26] [Council of Society][26]
+[20][26][][26][Council of Society][26]
 
-[21][27] [Electoral Colleges][27]
+[21][27][][27][Electoral Colleges][27]
 
-[22][28] [Elected Councillors][28]
+[22][28][][28][Elected Councillors][28]
 
-[23][29] [Appointed Councillor][29]
+[23][29][][29][Appointed Councillor][29]
 
-[24][30] [Co-opted Councillors][30]
+[24][30][][30][Co-opted Councillors][30]
 
-[25][31] [President][31]
+[25][31][][31][President][31]
 
-[26][32] [Powers of Council][32]
+[26][32][][32][Powers of Council][32]
 
-[27][33] [Council to regulate own procedure][33]
+[27][33][][33][Council to regulate own procedure][33]
 
-[28][34] [Council may appoint committees][34]
+[28][34][][34][Council may appoint committees][34]
 
-[29][35] [Delegations to committees][35]
+[29][35][][35][Delegations to committees][35]
 
-[30][36] [Vacation of office of Councillors][36]
+[30][36][][36][Vacation of office of Councillors][36]
 
-[31][37] [Vacation of office of President][37]
+[31][37][][37][Vacation of office of President][37]
 
 [Rules of Society][38]
 
-[32][39] [Rules of Society][39]
+[32][39][][39][Rules of Society][39]
 
-[33][40] [Further provisions relating to rules][40]
+[33][40][][40][Further provisions relating to rules][40]
 
 [Professional standards and ethics][41]
 
-[34][42] [Code of professional standards and ethics][42]
+[34][42][][42][Code of professional standards and ethics][42]
 
 [Further provisions relating to Society and Council][43]
 
-[35][44] [Protection of officers and members][44]
+[35][44][][44][Protection of officers and members][44]
 
-[36][45] [Further provisions relating to management of Society][45]
+[36][45][][45][Further provisions relating to management of Society][45]
 
 [Academy Executive Committee][46]
 
-[37][47] [Academy Executive Committee][47]
+[37][47][][47][Academy Executive Committee][47]
 
-[38][48] [Membership of Academy Executive Committee][48]
+[38][48][][48][Membership of Academy Executive Committee][48]
 
-[39][49] [Bylaws of Academy Executive Committee][49]
+[39][49][][49][Bylaws of Academy Executive Committee][49]
 
 [Miscellaneous provisions][50]
 
-[40][51] [Repeal of Royal Society of New Zealand Act 1965][51]
+[40][51][][51][Repeal of Royal Society of New Zealand Act 1965][51]
 
-[41][52] [Private Act][52]
+[41][52][][52][Private Act][52]
 
 [Transitional provisions][53]
 
-[42][54] [Membership and staff][54]
+[42][54][][54][Membership and staff][54]
 
-[43][55] [Transitional provisions][55]
+[43][55][][55][Transitional provisions][55]
 
 [Schedule][56]  
 [Provisions relating to management of Society][56]
@@ -915,7 +915,9 @@ Provisions relating to management of Society
     
     (3) The Council must, as soon as practicable after the end of each financial year, cause full and true statements and accounts of all its income and expenditure in that year and of its assets and liabilities at the end of that year to be prepared.
     
-    (4) The Council must appoint an auditor in accordance with [section 199][86] of the Companies Act 1993 to audit the accounts of the Society as soon as practicable after the end of each financial year.
+    (4) The Council must appoint a qualified auditor (within the meaning of [section 35][86] of the Financial Reporting Act 2013) to audit the accounts of the Society as soon as practicable after the end of each financial year.
+    
+    Schedule clause 10(4): amended, on 1 April 2014, by [section 126][87] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 11 Exemption from taxes
     
@@ -959,74 +961,33 @@ Provisions relating to management of Society
     
 *   The common seal of the Society is to be judicially noticed in all courts and for all purposes.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Royal Society of New Zealand Act 1997\. The reprint incorporates all the amendments to the Act as at 3 March 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][87] ![](/images/external_link.gif).
+*   This is a reprint of the Royal Society of New Zealand Act 1997 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][88] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][88] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][89] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][89] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][90] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][91] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][90] and [17E][91] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][87]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Royal Society of New Zealand Amendment Act 2012][75] (2012 No 1)
+    [Royal Society of New Zealand Amendment Act 2012][75] (2012 No 1)
 
 
 
-[0]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/private/1997/0002/latest/whole.html#DLM117654
 [2]: http://www.legislation.govt.nz/act/private/1997/0002/latest/whole.html#DLM117655
 [3]: http://www.legislation.govt.nz/act/private/1997/0002/latest/whole.html#DLM117658
@@ -1112,9 +1073,9 @@ Provisions relating to management of Society
 [83]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM446000
 [84]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM3223841
 [85]: http://www.legislation.govt.nz/act/private/1997/0002/latest/whole.html#DLM118058
-[86]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM320887
-[87]: http://www.pco.parliament.govt.nz/reprints/
-[88]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM195439
-[89]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[90]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM195468
-[91]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM195470
+[86]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM4632944
+[87]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM5740665
+[88]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM2998516
+[89]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM2998515
+[90]: http://www.legislation.govt.nz/act/private/1997/0002/latest/link.aspx?id=DLM2998532
+[91]: http://www.pco.parliament.govt.nz/editorial-conventions/
