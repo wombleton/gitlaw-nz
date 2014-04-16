@@ -63,7 +63,7 @@ This Act is administered by the Ministry of Justice.
 [Part 2][19]  
 [Guardianship and care of children][19]
 
-[Subpart 1][20][---][20][Guardianship: Responsibility for children, and decisions about children][20]
+[Subpart 1][20][---][20][Guardianship: responsibility for children, and decisions about children][20]
 
 [Guardianship][21]
 
@@ -127,7 +127,7 @@ This Act is administered by the Ministry of Justice.
 
 [38][51][][51][Consent to abortion][51]
 
-[Subpart 2][52][---][52][Care of children: Making arrangements and resolving disputes][52]
+[Subpart 2][52][---][52][Care of children: making arrangements and resolving disputes][52]
 
 [Making arrangements][53]
 
@@ -841,7 +841,7 @@ Preliminary provisions
     
     Section 8 **de facto relationship**: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 8 **lawyer**: substituted, on 1 August 2008, by [section 348][254] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 8 **lawyer**: replaced, on 1 August 2008, by [section 348][254] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
     Section 8 **parenting information programme**: inserted, on 31 March 2014, by [section 6(1)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
@@ -851,7 +851,7 @@ Preliminary provisions
     
     Section 8 **Registrar-General**: amended, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 8 **spouse or partner of a parent**: added, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 8 **spouse or partner of a parent**: inserted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 9 De facto partner defined
     
@@ -902,7 +902,7 @@ Preliminary provisions
 ## Part 2  
 Guardianship and care of children
 
-### Subpart 1---Guardianship: Responsibility for children, and decisions about children
+### Subpart 1---Guardianship: responsibility for children, and decisions about children
 
 #### Guardianship
 
@@ -992,7 +992,7 @@ Guardianship and care of children
     
     (2) Subsection (1) does not change the guardianship status of a father who became a guardian before the commencement of this section.
     
-    Section 18: substituted, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 18: replaced, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 19 Father who was not mother's spouse, civil union partner, or de facto partner may apply to be appointed as guardian
     
@@ -1032,7 +1032,7 @@ Guardianship and care of children
 
 #### Appointment of eligible spouse or partner of a parent as additional guardian
     
-*   Heading: substituted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+*   Heading: replaced, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 21 Who may appoint additional guardian under section 23
     
@@ -1532,7 +1532,7 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 25A
 
-### Subpart 2---Care of children: Making arrangements and resolving disputes
+### Subpart 2---Care of children: making arrangements and resolving disputes
 
 #### Making arrangements
 
@@ -2306,7 +2306,7 @@ Guardianship and care of children
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 31 March 2014, by [section 19][303] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 67: repealed, on 31 March 2014, by [section 19][303] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 68 Court may make certain orders or respond in other ways to contravention of parenting orders
     
@@ -2508,9 +2508,9 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 19C
     
-    Section 76(1): substituted, on 20 September 2007, by [section 4(1)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 76(1): replaced, on 20 September 2007, by [section 4(1)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
     
-    Section 76(3): substituted, on 20 September 2007, by [section 4(2)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 76(3): replaced, on 20 September 2007, by [section 4(2)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
     
     Section 76(6): amended, on 1 October 2008, by [section 130(1)][311] of the Policing Act 2008 (2008 No 72).
 
@@ -2558,7 +2558,7 @@ Guardianship and care of children
     
     Section 77(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 77(3)(c): substituted, on 16 November 2011, by [section 13(2)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77(3)(c): replaced, on 16 November 2011, by [section 13(2)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
     
     Section 77(3A): inserted, on 16 November 2011, by [section 13(3)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
 
@@ -3937,7 +3937,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 139: substituted, on 18 May 2009, by [section 17][342] of the Care of Children Amendment Act 2008 (2008 No 74).
+    Section 139: replaced, on 18 May 2009, by [section 17][342] of the Care of Children Amendment Act 2008 (2008 No 74).
 
 ##### 139A Leave required in certain cases to commence substantially similar proceedings
     
@@ -4519,7 +4519,7 @@ The judicial or administrative authorities of a Contracting State may, prior to 
 
 ### Article 16
 
-After receiving notice of a wrongful removal or retention of a child in the sense of Article 3, the judicial or administrative authorities of the Contracting State to which the child has been removed or in which it has been retained shall not decide on the merits of rights of custody until is has been determined that the child is not to be returned under this Convention or unless an application under this Convention is not lodged within a reasonable time following receipt of the notice.
+After receiving notice of a wrongful removal or retention of a child in the sense of Article 3, the judicial or administrative authorities of the Contracting State to which the child has been removed or in which it has been retained shall not decide on the merits of rights of custody until it has been determined that the child is not to be returned under this Convention or unless an application under this Convention is not lodged within a reasonable time following receipt of the notice.
 
 ### Article 17
 
@@ -4703,7 +4703,7 @@ Amendments to Family Proceedings Act 1980 (extending counselling and conciliatio
 
 [s 149][219]
 
-*   Schedule 2: substituted, on 26 April 2005, by [section 45][368] of the Civil Union Act 2004 (2004 No 102).
+*   Schedule 2: replaced, on 26 April 2005, by [section 45][368] of the Civil Union Act 2004 (2004 No 102).
 
 _Amendment(s) incorporated in the [Act(s)][292]_.
 
