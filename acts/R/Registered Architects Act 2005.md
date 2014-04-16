@@ -1,5 +1,5 @@
 Reprint  
-as at 30 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1011,7 +1011,7 @@ New Zealand Registered Architects' Board
         
     *   (a) a report on operations, including the information that is necessary to enable an informed assessment to be made of the Board's performance during the financial year; and
     
-    *   (b) annual financial statements and a statement of responsibility prepared in accordance with [section 60][72]; and
+    *   (b) financial statements and a statement of responsibility prepared in accordance with [section 60][72]; and
     
     *   (c) the auditor's report in accordance with [section 61][73]; and
     
@@ -1026,44 +1026,46 @@ New Zealand Registered Architects' Board
     *   (h) the amount of the fee for an application for registration or renewal of registration that is set by the Board during the financial year.
     
     (2) An annual report must be in writing, be dated, and be signed on behalf of the Board by 2 members.
+    
+    Section 59(1)(b): amended, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 60 Annual financial statements and statement of responsibility
     
-*   (1) The Board must prepare its annual financial statements with respect to its affairs for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][132] of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
-    
-    (2) The annual financial statements must contain---
+*   (1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
         
-    *   (a) a statement of the financial position as at the balance date; and
+    *   (a) completed in relation to the Board and that financial year; and
     
-    *   (b) a statement of financial performance for the financial year; and
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
     
-    *   (c) a statement of cash flows reflecting cash flows for the financial year; and
+    (2) The financial statements must contain, in relation to each financial statement, budgeted figures for the financial year.
     
-    *   (d) a statement of the commitments as at the balance date; and
+    (2A) In this section,---
     
-    *   (e) a statement of the contingent liabilities as at the balance date; and
+    _financial statements_ has the same meaning as in [section 6][133] of the Financial Reporting Act 2013
     
-    *   (f) a statement of accounting policies; and
-    
-    *   (g) any other statements that are necessary to fairly reflect its financial operations for the financial year and its financial position at the end of the financial year; and
-    
-    *   (h) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, paragraph (g), budgeted figures for the financial year; and
-    
-    *   (i) in relation to each statement required by this subsection (other than by paragraph (f)), comparative actual figures for the previous financial year.
+    _generally accepted accounting practice_ has the same meaning as in [section 8][134] of the Financial Reporting Act 2013\.
     
     (3) The statement of responsibility for the financial statements must---
         
-    *   (a) contain a statement of the Board's responsibility for the preparation of the annual financial statements and the judgments in them; and
+    *   (a) contain a statement of the Board's responsibility for the preparation of the financial statements and the judgments in them; and
     
     *   (b) contain a statement of the Board's responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
     
+    Section 60(1): replaced, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 60(2): replaced, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 60(2A): inserted, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 60(3)(a): amended, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 61 Audit
     
-*   (1) The Board must, within 90 days after the end of each financial year, submit the report on operations, the annual financial statements, and the statement of responsibility required under [section 59(1)(a) and (b)][71] to the Auditor-General for audit.
+*   (1) The Board must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under [section 59(1)(a) and (b)][71] to the Auditor-General for audit.
     
     (2) The Auditor-General must audit those documents, and provide an audit report on them to the Board, within 30 days after receiving them.
+    
+    Section 61(1): amended, on 1 April 2014, by [section 126][132] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 62 Obligation for Board to provide annual report to Minister
     
@@ -1091,9 +1093,9 @@ New Zealand Registered Architects' Board
         
     *   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); or
     
-    *   (b) there would, under the [Official Information Act 1982][133], be good reason for withholding the information if---
+    *   (b) there would, under the [Official Information Act 1982][135], be good reason for withholding the information if---
             
-        *   (i) the request had been made under [section 12][134] of that Act and [section 9(2)(a)][135] of that Act applied; and
+        *   (i) the request had been made under [section 12][136] of that Act and [section 9(2)(a)][137] of that Act applied; and
         
         *   (ii) the need to protect the privacy of any person were not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; or
         
@@ -1171,13 +1173,13 @@ New Zealand Registered Architects' Board
     
     (4) The rules must be consistent with this Act.
     
-    Compare: 2002 No 17 [s 39][136]
+    Compare: 2002 No 17 [s 39][138]
     
-    Section 67(2)(j): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
+    Section 67(2)(j): replaced, on 30 August 2013, by [section 5][139] of the Registered Architects Amendment Act 2012 (2012 No 66).
     
-    Section 67(2)(k): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
+    Section 67(2)(k): replaced, on 30 August 2013, by [section 5][139] of the Registered Architects Amendment Act 2012 (2012 No 66).
     
-    Section 67(2)(l): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
+    Section 67(2)(l): replaced, on 30 August 2013, by [section 5][139] of the Registered Architects Amendment Act 2012 (2012 No 66).
 
 ##### 68 Particular requirements for preparation and approval of rules
     
@@ -1189,7 +1191,7 @@ New Zealand Registered Architects' Board
     
     *   (c) take into account international best practice and New Zealand's international obligations.
     
-    Compare: 2002 No 17 [s 40][138]
+    Compare: 2002 No 17 [s 40][140]
 
 ##### 69 Rules must be approved by Minister
     
@@ -1251,9 +1253,9 @@ New Zealand Registered Architects' Board
 
 ##### 74 Application of Legislation Act 2012 to rules
     
-*   The rules are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][139] and must be presented to the House of Representatives under [section 41][140] of that Act.
+*   The rules are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][141] and must be presented to the House of Representatives under [section 41][142] of that Act.
     
-    Section 74: replaced, on 5 August 2013, by [section 77(3)][141] of the Legislation Act 2012 (2012 No 119).
+    Section 74: replaced, on 5 August 2013, by [section 77(3)][143] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1362,15 +1364,15 @@ Miscellaneous provisions
 
 ##### 82 Related amendments to other Acts
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][142]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][144]_.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][143]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][145]_.
 
 #### Other transitional and consequential provisions
 
 ##### 83 Related amendment to Privacy Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][144]_.
+*   _Amendment(s) incorporated in the [Act(s)][146]_.
 
 ##### 84 Dissolution of Architects Education and Registration Board
     
@@ -1394,7 +1396,7 @@ Miscellaneous provisions
     
     *   (b) the Architects Regulations 2002 (SR 2002/398) are revoked:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][143]_.
+    *   (c) _Amendment(s) incorporated in the [Act(s)][145]_.
     
     
 
@@ -1406,7 +1408,7 @@ Miscellaneous provisions
 
 ##### 87 Securities Act 1978 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][145]_.
+*   _Amendment(s) incorporated in the [Act(s)][147]_.
 
 ---
 
@@ -1425,7 +1427,7 @@ Further provisions applying to Board and its members
         
     *   (a) state the date on which the appointment takes effect; and
     
-    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][146] at the time of the certificate.
+    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][148] at the time of the certificate.
     
     
 
@@ -1435,13 +1437,13 @@ Further provisions applying to Board and its members
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a member or promoter of, or being concerned or taking part in the management of, a company under [section 382][147], [section 383][148], or [section 385][149] of the Companies Act 1993:
+    *   (b) a person who is prohibited from being a member or promoter of, or being concerned or taking part in the management of, a company under [section 382][149], [section 383][150], or [section 385][151] of the Companies Act 1993:
     
-    *   (c) a person who is subject to a property order made under [section 10][150], [section 11][151], [section 12][152], [section 30][153], or [section 31][154] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][155] of that Act:
+    *   (c) a person who is subject to a property order made under [section 10][152], [section 11][153], [section 12][154], [section 30][155], or [section 31][156] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][157] of that Act:
     
     *   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
     
-    *   (e) a person who has failed to disclose interests under [clause 1(2)][156]:
+    *   (e) a person who has failed to disclose interests under [clause 1(2)][158]:
     
     *   (f) a person who is not a natural person.
     
@@ -1465,7 +1467,7 @@ Further provisions applying to Board and its members
         
         
     
-    (2) This clause is subject to [clause 8][157].
+    (2) This clause is subject to [clause 8][159].
 
 ##### 4 Concurrent offices
     
@@ -1509,11 +1511,11 @@ Further provisions applying to Board and its members
     
 *   A member ceases to hold office if he or she---
         
-    *   (a) resigns in accordance with [clause 6][158]; or
+    *   (a) resigns in accordance with [clause 6][160]; or
     
-    *   (b) is removed from office in accordance with [clause 7][159] or any other enactment; or
+    *   (b) is removed from office in accordance with [clause 7][161] or any other enactment; or
     
-    *   (c) becomes disqualified from being a member under [clause 2][160]; or
+    *   (c) becomes disqualified from being a member under [clause 2][162]; or
     
     *   (d) otherwise ceases to hold office in accordance with any enactment.
     
@@ -1525,13 +1527,13 @@ Further provisions applying to Board and its members
     
 *   (1) A member is accountable to the Minister for performing his or her duties and responsibilities as a member.
     
-    (2) If the Board breaches any of its duties under [clause 11][161],---
+    (2) If the Board breaches any of its duties under [clause 11][163],---
         
     *   (a) each member of the Board is accountable to the Minister for the breach; and
     
     *   (b) that breach justifies all or any of the members being removed from office.
     
-    (3) The duties of members and the Board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][161]) and only to the Minister and the Board (in the case of all other duties), and do not provide any ground of action for any other person.
+    (3) The duties of members and the Board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][163]) and only to the Minister and the Board (in the case of all other duties), and do not provide any ground of action for any other person.
 
 ##### 10 Duties of members
     
@@ -1613,11 +1615,11 @@ Further provisions applying to Board and its members
 
 ##### 14 Obligation to disclose interest
     
-*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 15][162] as soon as practicable after the member becomes aware that he or she is interested.
+*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 15][164] as soon as practicable after the member becomes aware that he or she is interested.
 
 ##### 15 Method of disclosure of interest
     
-*   (1) If [clause 14][163] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
+*   (1) If [clause 14][165] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
         
     *   (a) the chairperson or, if there is no chairperson, the deputy chairperson; or
     
@@ -1653,7 +1655,7 @@ Further provisions applying to Board and its members
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clauses 14][163] and [15][162].
+    *   (d) in complying with [clauses 14][165] and [15][164].
     
     (2) A member may disclose, make use of, or act on the information if---
         
@@ -1821,7 +1823,7 @@ Further provisions applying to Board and its members
         
     *   (a) 2 or more of its members; or
     
-    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 36][164].
+    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 36][166].
     
     (3) An obligation that, if entered into by an individual, is required to be in writing may be entered into on behalf of the Board in writing by a person acting under the Board's express or implied authority.
     
@@ -1837,7 +1839,7 @@ Further provisions applying to Board and its members
 
 ##### 36 Attorneys
     
-*   (1) The Board may, by an instrument in writing executed in accordance with [clause 35(2)][165], appoint a person as its attorney either generally or in relation to a specified matter.
+*   (1) The Board may, by an instrument in writing executed in accordance with [clause 35(2)][167], appoint a person as its attorney either generally or in relation to a specified matter.
     
     (2) An act of the attorney in accordance with the instrument binds the Board.
 
@@ -1887,7 +1889,7 @@ Further provisions applying to Board and its members
 
 ##### 39 Application of Acts to members and employees
     
-*   No person is, by reason only of that person's appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][166] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][167].
+*   No person is, by reason only of that person's appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][168] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][169].
 
 #### Financial provisions
 
@@ -1903,7 +1905,7 @@ Further provisions applying to Board and its members
 
 ##### 41 Bank accounts
     
-*   (1) The Board must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][168]).
+*   (1) The Board must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][170]).
     
     (2) All money received by the Board must be paid into that bank account or 1 of those bank accounts as soon as practicable after it has been received.
     
@@ -1911,7 +1913,7 @@ Further provisions applying to Board and its members
 
 ##### 42 Investment of money
     
-*   Any money that belongs to the Board and that is not immediately required may be invested subject to the restrictions in [section 161][169] of the Crown Entities Act 2004 (applied as if the Board were a Crown entity).
+*   Any money that belongs to the Board and that is not immediately required may be invested subject to the restrictions in [section 161][171] of the Crown Entities Act 2004 (applied as if the Board were a Crown entity).
 
 ##### 43 Board not to borrow without consent of Minister of Finance
     
@@ -1919,7 +1921,7 @@ Further provisions applying to Board and its members
 
 ##### 44 Auditor-General to be auditor of Board
     
-*   The Board is a public entity as defined in [section 4][170] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Board is a public entity as defined in [section 4][172] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 #### Subsidiaries
 
@@ -1939,17 +1941,19 @@ Further provisions applying to Board and its members
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][171] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][172] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][173] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][174] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][173] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][174] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][175] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][176] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][141]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][132]
     
-    [Registered Architects Amendment Act 2012][175] (2012 No 66)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][143]
+    
+    [Registered Architects Amendment Act 2012][177] (2012 No 66)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][108]
 
@@ -2087,47 +2091,49 @@ Further provisions applying to Board and its members
 [129]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144867
 [130]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM3360366
 [131]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344347
-[132]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM324886
-[133]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM64784
-[134]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65382
-[135]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65371
-[136]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144871
-[137]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444609
-[138]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144872
-[139]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2997643
-[140]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998573
-[141]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998633
-[142]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM431296
-[143]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88987
-[144]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM298477
-[145]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM30446
-[146]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344321
-[147]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323249
-[148]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323252
-[149]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323259
-[150]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126583
-[151]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126585
-[152]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126587
-[153]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127009
-[154]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127010
-[155]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127016
-[156]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344307
-[157]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344314
-[158]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344312
-[159]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344313
-[160]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344308
-[161]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344318
-[162]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344323
-[163]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344322
-[164]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344351
-[165]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344350
-[166]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM129109
-[167]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM446000
-[168]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM199363
-[169]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM330566
-[170]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88548
-[171]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998516
-[172]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998515
-[173]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998532
-[174]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[175]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444602
+[132]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM5740665
+[133]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4632890
+[134]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4632894
+[135]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM64784
+[136]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65382
+[137]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65371
+[138]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144871
+[139]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444609
+[140]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144872
+[141]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2997643
+[142]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998573
+[143]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998633
+[144]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM431296
+[145]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88987
+[146]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM298477
+[147]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM30446
+[148]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344321
+[149]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323249
+[150]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323252
+[151]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323259
+[152]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126583
+[153]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126585
+[154]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126587
+[155]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127009
+[156]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127010
+[157]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127016
+[158]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344307
+[159]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344314
+[160]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344312
+[161]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344313
+[162]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344308
+[163]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344318
+[164]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344323
+[165]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344322
+[166]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344351
+[167]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344350
+[168]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM129109
+[169]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM446000
+[170]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM199363
+[171]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM330566
+[172]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88548
+[173]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998516
+[174]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998515
+[175]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998532
+[176]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[177]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444602
