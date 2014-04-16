@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -765,15 +765,11 @@ Administration
     
     *   (b) financial statements for the Board and every subsidiary (within the meaning of [section 5][78] of the Companies Act 1993) of the Board for that year.
     
-    (2) The [Financial Reporting Act 1993][82] applies to the Board and all the financial statements referred to in subsection (1) as if---
-        
-    *   (a) the Board's subsidiaries were companies within the meaning of that Act; and
+    (2) The financial statements must be prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][82] of the Financial Reporting Act 2013).
     
-    *   (b) the Board and the Board's subsidiaries were a group within the meaning of that Act; and
+    Section 24(1)(b): amended, on 5 December 2013, by [section 14][83] of the Companies Amendment Act 2013 (2013 No 111).
     
-    *   (c) the Board were both a company and an issuer within the meaning of that Act (and a company within the meaning of the [Companies Act 1993][83]).
-    
-    Section 24(1)(b): amended, on 5 December 2013, by [section 14][84] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 24(2): replaced, on 1 April 2014, by [section 126][84] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 25 Audit of financial statements
     
@@ -785,11 +781,15 @@ Administration
     
     (2) Where, at the end of the period to which any statements referred to in [section 24][31] relate, there is no person appointed auditor under subsection (1), the statements must be audited by an auditor appointed by the Minister.
     
-    (3) For the purposes of the audit of any statement referred to in [section 24][31], an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the [Companies Act 1993][83].
+    (2A) The person appointed as the auditor must be the Auditor-General or a person who is a qualified auditor within the meaning of [section 35][85] of the Financial Reporting Act 2013\.
+    
+    (3) For the purposes of the audit of any statement referred to in [section 24][31], an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the [Companies Act 1993][86].
     
     (4) Where the Board or the Minister appoints the Auditor-General to audit any statements, the Auditor-General may audit them.
     
-    Section 25(4): amended, on 1 July 2001, pursuant to [section 52][85] of the Public Audit Act 2001 (2001 No 10).
+    Section 25(2A): inserted, on 1 April 2014, by [section 126][84] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 25(4): amended, on 1 July 2001, pursuant to [section 52][87] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 26 Remuneration of auditor
     
@@ -815,7 +815,7 @@ Administration
     
     *   (b) a copy of the statements and the report of its auditor on them; and
     
-    *   (c) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][86] of the Companies Act 1993; and those paragraphs apply as if references to---
+    *   (c) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][88] of the Companies Act 1993; and those paragraphs apply as if references to---
             
         *   (i) an accounting period were references to that year; and
         
@@ -1062,9 +1062,9 @@ Pork Industry Board levy
     
     *   (b) if the estimate concerned has been confirmed or substituted under [section 38(3)(c)][47], within 18 days or any longer period the Board allows of the giving of the notice confirming it or substituting it for another.
     
-    (6) All levy money received by the Director-General must be accounted for in full to the Board, subject to [section 17(2) and (3)][87] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997\.
+    (6) All levy money received by the Director-General must be accounted for in full to the Board, subject to [section 17(2) and (3)][89] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997\.
     
-    Section 37(6): substituted, on 20 April 2010, by [section 7(2)][88] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 37(6): substituted, on 20 April 2010, by [section 7(2)][90] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
 
 ##### 38 Licensee may dispute estimate
     
@@ -1126,7 +1126,7 @@ Pork Industry Board levy
 
 ##### 41 Levy money to be held in trust accounts
     
-*   (1) Where any licensed premises are (regularly or from time to time) used for the slaughter of pigs, the licensee must keep for those premises a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][89]; and---
+*   (1) Where any licensed premises are (regularly or from time to time) used for the slaughter of pigs, the licensee must keep for those premises a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][91]; and---
         
     *   (a) ensure that it is so named as to identify those premises and that it is a trust account kept by the licensee for the purposes of this section; and
     
@@ -1210,7 +1210,7 @@ Pork Industry Board levy
         
         
     
-    (2A) The provisions of [Part 4][90] of the Search and Surveillance Act 2012 (except [subpart 2][91], [sections 118][92] and [119][93], and [subpart 8][94]) apply.
+    (2A) The provisions of [Part 4][92] of the Search and Surveillance Act 2012 (except [subpart 2][93], [sections 118][94] and [119][95], and [subpart 8][96]) apply.
     
     (3) An authorised person must not under subsection (1) or subsection (2) enter any place that is not a place of business except with---
         
@@ -1220,11 +1220,11 @@ Pork Industry Board levy
     
     (4) In this section and [section 45][54], _authorised person_ means a person who is for the time being an employee or agent of the Board authorised by the Board to exercise the powers conferred by subsections (1) and (2).
     
-    Section 44(2A): inserted, on 1 October 2012, by [section 292(2)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 44(2A): inserted, on 1 October 2012, by [section 292(2)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 45 Warrant to inspect place other than place of business
     
-*   (1) An issuing officer (within the meaning of [section 3][96] of the Search and Surveillance Act 2012), who on an application made in the manner provided in [subpart 3][97] of Part 4 of that Act by an authorised person is satisfied that there are reasonable grounds to believe that---
+*   (1) An issuing officer (within the meaning of [section 3][98] of the Search and Surveillance Act 2012), who on an application made in the manner provided in [subpart 3][99] of Part 4 of that Act by an authorised person is satisfied that there are reasonable grounds to believe that---
         
     *   (a) an offence against subsection (1) or subsection (2) of [section 49][59] has been committed; and
     
@@ -1238,7 +1238,7 @@ Pork Industry Board levy
     
     may issue to the authorised person a warrant authorising the person to enter and inspect the place.
     
-    (2) An issuing officer (within the meaning of [section 3][96] of the Search and Surveillance Act 2012), who on an application made in the manner provided in [subpart 3][97] of Part 4 of that Act by an authorised person is satisfied that, as a consequence of the inspection under [section 44][53] of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business---
+    (2) An issuing officer (within the meaning of [section 3][98] of the Search and Surveillance Act 2012), who on an application made in the manner provided in [subpart 3][99] of Part 4 of that Act by an authorised person is satisfied that, as a consequence of the inspection under [section 44][53] of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business---
         
     *   (a) any document relating to levy money or the slaughter of pigs; or
     
@@ -1246,25 +1246,25 @@ Pork Industry Board levy
     
     may issue to the authorised person a warrant authorising the person to enter and inspect the other place.
     
-    (3) The provisions of [Part 4][90] of the Search and Surveillance Act 2012 (except [sections 118][92] and [119][93]) apply.
+    (3) The provisions of [Part 4][92] of the Search and Surveillance Act 2012 (except [sections 118][94] and [119][95]) apply.
     
-    Section 45(1): amended, on 1 October 2012, by [section 292(3)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 45(1): amended, on 1 October 2012, by [section 292(3)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 45(2): amended, on 1 October 2012, by [section 292(4)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 45(2): amended, on 1 October 2012, by [section 292(4)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 45(3): replaced, on 1 October 2012, by [section 292(5)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 45(3): replaced, on 1 October 2012, by [section 292(5)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 46 Duties of persons executing warrants
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 1 October 2012, by [section 292(6)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 46: repealed, on 1 October 2012, by [section 292(6)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47 Other duties of persons carrying out inspections
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 1 October 2012, by [section 292(6)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47: repealed, on 1 October 2012, by [section 292(6)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 5  
 Miscellaneous provisions
@@ -1295,7 +1295,7 @@ Miscellaneous provisions
     
     *   (b) in relation to pigs, pork products, or co-products of kinds specified in the request.
     
-    (5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the [State Sector Act 1988][98] as the chief executive of the department of State referred to in [section 5][99] of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+    (5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the [State Sector Act 1988][100] as the chief executive of the department of State referred to in [section 5][101] of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
     
     (6) The Board---
         
@@ -1361,11 +1361,11 @@ Miscellaneous provisions
     
     commits an offence, and is liable on conviction to a fine not exceeding $15,000\.
     
-    Section 49(1): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(1): amended, on 1 July 2013, by [section 413][102] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 49(2): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(2): amended, on 1 July 2013, by [section 413][102] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 49(3): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(3): amended, on 1 July 2013, by [section 413][102] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Regulations
     
@@ -1576,7 +1576,7 @@ Provisions applying to directors of Board
     
     (2) For the purposes of this schedule a director is not interested in a transaction to which the Board is a party if the transaction comprises only the giving by the Board of security to a third party which has no connection with the director, at the request of the third party, in respect of a debt or obligation of the Board for which the director or another person has personally assumed responsibility in whole or in part under a guarantee, indemnity, or by the deposit of a security.
     
-    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][101] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][103] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Disclosure of interest
     
@@ -1592,7 +1592,7 @@ Provisions applying to directors of Board
     
     (4) Every director who fails to comply with subclause (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Schedule 1 clause 10(4): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 1 clause 10(4): amended, on 1 July 2013, by [section 413][102] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Avoidance of transactions
     
@@ -1614,7 +1614,7 @@ Provisions applying to directors of Board
 
 ##### 12 Effect on third parties
     
-*   The avoidance of a transaction under [clause 11][102] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
+*   The avoidance of a transaction under [clause 11][104] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
         
     *   (a) from a person other than the Board; and
     
@@ -1626,7 +1626,7 @@ Provisions applying to directors of Board
 
 ##### 13 Application of clauses 10 and 11 in certain cases
     
-*   Nothing in [clauses 10][103] and [11][102] applies in relation to---
+*   Nothing in [clauses 10][105] and [11][104] applies in relation to---
         
     *   (a) the fixing of any levy by the Board; or
     
@@ -1660,7 +1660,7 @@ Provisions applying to directors of Board
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clause 10][103].
+    *   (d) in complying with [clause 10][105].
     
     (2) A director may disclose, make use of, or act on the information if---
         
@@ -1777,9 +1777,9 @@ Provisions applying to Board and board of directors
     
     (7) Except as provided in this Act and any regulations made under it, the board of directors may regulate its procedure at meetings in any manner it thinks fit.
     
-    Schedule 2 clause 5(3): amended, on 31 July 2002, by [section 4][104] of the Pork Industry Board Amendment Act 2001 (2001 No 76).
+    Schedule 2 clause 5(3): amended, on 31 July 2002, by [section 4][106] of the Pork Industry Board Amendment Act 2001 (2001 No 76).
     
-    Schedule 2 clause 5(6)(a): amended, on 31 July 2002, by [section 4][104] of the Pork Industry Board Amendment Act 2001 (2001 No 76). 
+    Schedule 2 clause 5(6)(a): amended, on 31 July 2002, by [section 4][106] of the Pork Industry Board Amendment Act 2001 (2001 No 76). 
 
 ##### 6 Chairperson and Deputy Chairperson
     
@@ -1801,13 +1801,13 @@ Provisions applying to Board and board of directors
 
 ##### 7 Contracts of Board
     
-*   (1) Subject to [clause 8][105], a contract or other enforceable obligation may be entered into by the Board as follows:
+*   (1) Subject to [clause 8][107], a contract or other enforceable obligation may be entered into by the Board as follows:
         
     *   (a) an obligation which, if entered into by a natural person, would, by law, be required to be by deed, may be entered into on behalf of the Board in writing signed under the name of the Board by---
             
         *   (i) 2 or more directors; or
         
-        *   (ii) 1 or more persons authorised by the Board under [clause 8][105]:
+        *   (ii) 1 or more persons authorised by the Board under [clause 8][107]:
         
         
     
@@ -1868,7 +1868,7 @@ Forms of warrant to search place other than place of business
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 October 2012, by [section 292(6)][95] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 3: repealed, on 1 October 2012, by [section 292(6)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -1879,7 +1879,7 @@ Enactments repealed
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][106]._
+_Amendment(s) incorporated in the [Act(s)][108]._
 
 ##### Meat Amendment Act 1985 (1985 No 142)
 
@@ -1887,7 +1887,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][107]._
+_Amendment(s) incorporated in the [Act(s)][109]._
 
 ##### Pork Industry Board Act 1982 (1982 No 138)
 
@@ -1897,15 +1897,15 @@ _Amendment(s) incorporated in the [Act(s)][107]._
 
 ##### Poultry Board Act Repeal Act 1989 (1989 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][108]._
+_Amendment(s) incorporated in the [Act(s)][110]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][109]._
+_Amendment(s) incorporated in the [Act(s)][111]._
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][110]._
+_Amendment(s) incorporated in the [Act(s)][112]._
 
 #### 
 
@@ -1919,27 +1919,29 @@ _Amendment(s) incorporated in the [Act(s)][110]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][111] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][112] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][113] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][114] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][113] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][114] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][115] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][116] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][84]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][83]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 292][95]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][84]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][100]
+    Search and Surveillance Act 2012 (2012 No 24): [section 292][97]
     
-    Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 7][88]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][102]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][101]
+    Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 7][90]
     
-    [Pork Industry Board Amendment Act 2001][115] (2001 No 76)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][103]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][85]
+    [Pork Industry Board Amendment Act 2001][117] (2001 No 76)
+    
+    Public Audit Act 2001 (2001 No 10): [section 52][87]
     
     Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][73]
 
@@ -2027,37 +2029,39 @@ _Amendment(s) incorporated in the [Act(s)][110]._
 [79]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM320806
 [80]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422444
 [81]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM320657
-[82]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM323597
-[83]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM319569
-[84]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM5620822
-[85]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM88956
-[86]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM321118
-[87]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM418634
-[88]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2853310
-[89]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM199363
-[90]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136770
-[91]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM4355336
-[92]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136813
-[93]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136815
-[94]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136883
-[95]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2137055
-[96]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136542
-[97]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136781
-[98]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM129109
-[99]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM378150
-[100]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM3360714
-[101]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM333795
-[102]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422459
-[103]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422458
-[104]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113340
-[105]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422478
-[106]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM367258
-[107]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM101358
-[108]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM143212
-[109]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM163182
-[110]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM135633
-[111]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998516
-[112]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998515
-[113]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998532
-[114]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
+[82]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM4632894
+[83]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM5620822
+[84]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM5740665
+[85]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM4632944
+[86]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM319569
+[87]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM88956
+[88]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM321118
+[89]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM418634
+[90]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2853310
+[91]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM199363
+[92]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136770
+[93]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM4355336
+[94]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136813
+[95]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136815
+[96]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136883
+[97]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2137055
+[98]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136542
+[99]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136781
+[100]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM129109
+[101]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM378150
+[102]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM3360714
+[103]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM333795
+[104]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422459
+[105]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422458
+[106]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113340
+[107]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422478
+[108]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM367258
+[109]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM101358
+[110]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM143212
+[111]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM163182
+[112]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM135633
+[113]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998516
+[114]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998515
+[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998532
+[116]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[117]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
