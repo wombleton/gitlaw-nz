@@ -162,11 +162,11 @@ Imperial enactments in force in New Zealand
 
 ## Enactments relating to habeas corpus
 
-_Items omitted_.
+_Items repealed_.
 
 ## Enactments relating to property
 
-_Heading repealed and items omitted_.
+_Heading and items repealed_.
 
 ## Enactments relating to boundaries
 
@@ -178,7 +178,7 @@ _Heading repealed and items omitted_.
 
 ## Enactments relating to the Judicial Committee of the Privy Council
 
-_Heading repealed and items omitted_.
+_Heading and items repealed_.
 
 ## Enactments relating to Prize
 
@@ -210,40 +210,40 @@ _Items omitted_.
 
 _Items omitted_.
     
-*   Schedule 1 Enactments relating to habeas corpus: (1640) 16 Cha 1, c 10---Habeas Corpus Act 1640: section 6 ceased to have effect as part of the law of New Zealand, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
-*   Schedule 1 Enactments relating to habeas corpus: (1679) 31 Cha 2, c 2---Habeas Corpus Act 1679: sections 1--11 ceased to have effect as part of the law of New Zealand, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
-*   Schedule 1 Enactments relating to habeas corpus: (1816) 56 Geo 3, c 100---Habeas Corpus Act 1816 ceased to have effect as part of the law of New Zealand, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
+*   Schedule 1 Enactments relating to habeas corpus: (1640) 16 Cha 1, c 10---Habeas Corpus Act 1640: section 6 repealed, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
+*   Schedule 1 Enactments relating to habeas corpus: (1679) 31 Cha 2, c 2---Habeas Corpus Act 1679: sections 1--11 repealed, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
+*   Schedule 1 Enactments relating to habeas corpus: (1816) 56 Geo 3, c 100---Habeas Corpus Act 1816 repealed, on 26 May 2001, by [section 22(2)][56] of the Habeas Corpus Act 2001 (2001 No 31).
 *   Schedule 1 Enactments relating to property heading: repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1267) 52 Hen 3 ([The Statute of Marlborough][58]), c 23 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1289--90) 18 Edw 1, St 1---([_Quia Emptores_][59]), c 1, c 3 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1539) 31 Hen 8, c 1---[Partition Act 1539][60] ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1540) 32 Hen 8, c 32---[Partition Act 1540][61] ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1540) 32 Hen 8, c 34---[Grantees of Reversions Act 1540][62]: except section 3 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1689) 2 Will and Mar, Sess 1, c 5---[Distress Act 1689][63]: except sections 3 and 4 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1705) 4 and 5 Anne, c 3---[Administration of Justice Act 1705][64]: sections 9 and 10 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1709) 8 Anne, c 18---[Landlord and Tenant Act 1709][65]: sections 1, 4, 6, and 7 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1730) 4 Geo 2, c 28---[Landlord and Tenant Act 1730][66]: sections 2, 4, 5, and 6 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1737) 11 Geo 2, c 19---[Distress for Rent Act 1737][67]: sections 1, 2, 7, 8, 11, 14, 16, and 17 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1832) 2 and 3 Will 4, c 71---[Prescription Act 1832][68]: sections 1, 2, and 4--8 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Enactments relating to property: (1851) 14 and 15 Vict, c 25---[Landlord and Tenant Act 1851][69]: sections 1--4 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1267) 52 Hen 3 ([The Statute of Marlborough][58]), c 23 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1289--90) 18 Edw 1, St 1---([_Quia Emptores_][59]), c 1, c 3 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1539) 31 Hen 8, c 1---[Partition Act 1539][60] repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1540) 32 Hen 8, c 32---[Partition Act 1540][61] repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1540) 32 Hen 8, c 34---[Grantees of Reversions Act 1540][62]: except section 3 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1689) 2 Will and Mar, Sess 1, c 5---[Distress Act 1689][63]: except sections 3 and 4 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1705) 4 and 5 Anne, c 3---[Administration of Justice Act 1705][64]: sections 9 and 10 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1709) 8 Anne, c 18---[Landlord and Tenant Act 1709][65]: sections 1, 4, 6, and 7 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1730) 4 Geo 2, c 28---[Landlord and Tenant Act 1730][66]: sections 2, 4, 5, and 6 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1737) 11 Geo 2, c 19---[Distress for Rent Act 1737][67]: sections 1, 2, 7, 8, 11, 14, 16, and 17 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1832) 2 and 3 Will 4, c 71---[Prescription Act 1832][68]: sections 1, 2, and 4--8 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Enactments relating to property: (1851) 14 and 15 Vict, c 25---[Landlord and Tenant Act 1851][69]: sections 1--4 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
 *   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council heading: repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1833) 3 and 4 Will 4, c 41---[Judicial Committee Act 1833][71]: section 1 \[as amended by section 1 of the Statute Law Revision Act 1874 (37 and 38 Vict, c 35) and section 1 of the Statute Law Revision (No 2) Act 1888 (51 and 52 Vict, c 57)\], section 3, section 5 \[as amended by section 16 of the Court of Chancery Act 1851 (14 and 15 Vict, c 83)\], and sections 6--9, 11--13, 15--21, 23, 24, and 28 \[as amended by section 6 of the Judicial Committee Act 1843 (6 and 7 Vict, c 38)\] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1844) 7 and 8 Vict, c 69---[Judicial Committee Act 1844][72]: sections 1 and 8 ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1851) 14 and 15 Vict, c 83---[Court of Chancery Act 1851][73]: section 16 \[as amended by section 1 of the Statute Law Revision Act 1875 (38 and 39 Vict, c 66)\] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1853) 16 and 17 Vict, c 85---[Privy Council Registrar Act 1853][74] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1876) 39 and 40 Vict, c 59---[Appellate Jurisdiction Act 1876][75]: the final paragraph of section 6 ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1881) 44 and 45 Vict, c 3---[Judicial Committee Act 1881][76] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1887) 50 and 51 Vict, c 70---[Appellate Jurisdiction Act 1887][77]: sections 3 and 5 ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1895) 58 and 59 Vict, c 44---[Judicial Committee Amendment Act 1895][78] \[as amended by section 3 of the Appellate Jurisdiction Act 1913 (3 and 4 Geo 5, c 21) and section 13 of the Administration of Justice Act 1928 (UK)\] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1908) 8 Edw 7, c 51---[Appellate Jurisdiction Act 1908][79]: sections 1, 3(1), 4, 5, and 7 ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1915) 5 and 6 Geo 5, c 92---[Judicial Committee Act 1915][80] ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1833) 3 and 4 Will 4, c 41---[Judicial Committee Act 1833][71]: section 1 \[as amended by section 1 of the Statute Law Revision Act 1874 (37 and 38 Vict, c 35) and section 1 of the Statute Law Revision (No 2) Act 1888 (51 and 52 Vict, c 57)\], section 3, section 5 \[as amended by section 16 of the Court of Chancery Act 1851 (14 and 15 Vict, c 83)\], and sections 6--9, 11--13, 15--21, 23, 24, and 28 \[as amended by section 6 of the Judicial Committee Act 1843 (6 and 7 Vict, c 38)\] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1844) 7 and 8 Vict, c 69---[Judicial Committee Act 1844][72]: sections 1 and 8 repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1851) 14 and 15 Vict, c 83---[Court of Chancery Act 1851][73]: section 16 \[as amended by section 1 of the Statute Law Revision Act 1875 (38 and 39 Vict, c 66)\] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1853) 16 and 17 Vict, c 85---[Privy Council Registrar Act 1853][74] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1876) 39 and 40 Vict, c 59---[Appellate Jurisdiction Act 1876][75]: the final paragraph of section 6 repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1881) 44 and 45 Vict, c 3---[Judicial Committee Act 1881][76] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1887) 50 and 51 Vict, c 70---[Appellate Jurisdiction Act 1887][77]: sections 3 and 5 repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1895) 58 and 59 Vict, c 44---[Judicial Committee Amendment Act 1895][78] \[as amended by section 3 of the Appellate Jurisdiction Act 1913 (3 and 4 Geo 5, c 21) and section 13 of the Administration of Justice Act 1928 (UK)\] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1908) 8 Edw 7, c 51---[Appellate Jurisdiction Act 1908][79]: sections 1, 3(1), 4, 5, and 7 repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 1 Enactments relating to the Judicial Committee of the Privy Council: (1915) 5 and 6 Geo 5, c 92---[Judicial Committee Act 1915][80] repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
 *   Schedule 1 Enactments relating to Prize: Naval Prize Act 1864 amended, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 1 Other enactments: (1774) 14 Geo 3, c 78---[Fires Prevention (Metropolis) Act 1774][81]: section 83, and section 86 \[as amended by the Statute Law Revision Act 1861 (24 and 25 Vict, c 101)\] ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
-*   Schedule 1 Other enactments: (1828) 9 Geo 4, c 14---[Statute of Frauds Amendment Act 1828][82]: section 6 ceased to have effect as part of the law of New Zealand, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Other enactments: (1774) 14 Geo 3, c 78---[Fires Prevention (Metropolis) Act 1774][81]: section 83, and section 86 \[as amended by the Statute Law Revision Act 1861 (24 and 25 Vict, c 101)\] repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1 Other enactments: (1828) 9 Geo 4, c 14---[Statute of Frauds Amendment Act 1828][82]: section 6 repealed, on 1 January 2008, by [section 365(4)][57] of the Property Law Act 2007 (2007 No 91).
 *   Schedule 1 Other enactments: Wills Act 1837 amended, on 1 November 2007, by [section 39(1)][83] of the Wills Act 2007 (2007 No 36).
 *   Schedule 1 Other enactments: Wills Act Amendment Act 1852 amended, on 1 November 2007, by [section 39(2)][83] of the Wills Act 2007 (2007 No 36).
-*   Schedule 1 Other enactments: (1881) 44 and 45 Vict, c 69---Fugitive Offenders Act 1881, except sections 11, 20, 21, 23, 25, 27, 32, 36, and 38 ceased to have effect as part of the law of New Zealand, on 1 September 1999, by [section 111][17] of the Extradition Act 1999 (1999 No 55).
-*   Schedule 1 Other enactments: (1915) 5 and 6 Geo 5, c 39---Fugitive Offenders (Protected States) Act 1915 ceased to have effect as part of the law of New Zealand, on 1 September 1999, by [section 111][17] of the Extradition Act 1999 (1999 No 55).
+*   Schedule 1 Other enactments: (1881) 44 and 45 Vict, c 69---Fugitive Offenders Act 1881, except sections 11, 20, 21, 23, 25, 27, 32, 36, and 38 repealed, on 1 September 1999, by [section 111][17] of the Extradition Act 1999 (1999 No 55).
+*   Schedule 1 Other enactments: (1915) 5 and 6 Geo 5, c 39---Fugitive Offenders (Protected States) Act 1915 repealed, on 1 September 1999, by [section 111][17] of the Extradition Act 1999 (1999 No 55).
 
 ---
 
@@ -260,29 +260,29 @@ Imperial subordinate legislation in force in New Zealand
 
 ## Orders in Council relating to the Judicial Committee of the Privy Council
 
-_Heading repealed and items omitted_.
+_Heading and items repealed_.
 
 ## Order in Council relating to Prize
 
-_Heading repealed and item omitted_.
+_Heading and item repealed_.
 
 ## Order in Council relating to merchant shipping
 
-_Heading repealed and item omitted_.
+_Heading and item repealed_.
 
 ## Order in Council relating to fugitive offenders
 
 1925 No 1031---Order in Council applying Part 2 of the Fugitive Offenders Act 1881 to New Zealand (SR & O and SI Rev 1948, Vol IX, 534; _Gazette_ 1926, Vol 1, p 77).
     
 *   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council heading: repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1909 No 1228---Order in Council making continuing order directing that all Appeals to His Majesty in Council shall be referred to the Judicial Committee (SR & O and SI Rev 1948, Vol XI, 205) ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1910 No 70 (L3)---New Zealand (Appeals to the Privy Council) Order 1910 (SR & O and SI Rev 1948, Vol XI, 409; SR 1973/181) ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1972 No 1994---New Zealand (Appeals to the Privy Council) (Amendment) Order 1972 (SI 1972/1994; SR 1973/181) ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1982 No 1676---Judicial Committee (General Appellate Jurisdiction) Rules Order 1982 (SI 1982/1676) ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1909 No 1228---Order in Council making continuing order directing that all Appeals to His Majesty in Council shall be referred to the Judicial Committee (SR & O and SI Rev 1948, Vol XI, 205) repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1910 No 70 (L3)---New Zealand (Appeals to the Privy Council) Order 1910 (SR & O and SI Rev 1948, Vol XI, 409; SR 1973/181) repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1972 No 1994---New Zealand (Appeals to the Privy Council) (Amendment) Order 1972 (SI 1972/1994; SR 1973/181) repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 2 Orders in Council relating to the Judicial Committee of the Privy Council: 1982 No 1676---Judicial Committee (General Appellate Jurisdiction) Rules Order 1982 (SI 1982/1676) repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
 *   Schedule 2 Order in Council relating to Prize heading: repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule 2 Order in Council relating to Prize: 1939 No 1466 (L23)---Prize Court Rules 1939 (SR & O and SI Rev 1948, Vol XVIII, 561) ceased to have effect as part of the law of New Zealand, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule 2 Order in Council relating to Prize: 1939 No 1466 (L23)---Prize Court Rules 1939 (SR & O and SI Rev 1948, Vol XVIII, 561) repealed, on 1 January 2004, by [section 48(1)][70] of the Supreme Court Act 2003 (2003 No 53).
 *   Schedule 2 Order in Council relating to merchant shipping heading: repealed, on 29 October 1992, by [section 88(2)][84] of the Ship Registration Act 1992 (1992 No 89).
-*   Schedule 2 Order in Council relating to merchant shipping: 1946 No 1086---Merchant Shipping (Registration of New Zealand Government Ships) Order 1946 (SR & O and SI Rev 1948, Vol XIV, 78; SR 1946/174) ceased to have effect as part of the law of New Zealand, on 29 October 1992, by [section 88(2)][84] of the Ship Registration Act 1992 (1992 No 89).
+*   Schedule 2 Order in Council relating to merchant shipping: 1946 No 1086---Merchant Shipping (Registration of New Zealand Government Ships) Order 1946 (SR & O and SI Rev 1948, Vol XIV, 78; SR 1946/174) repealed, on 29 October 1992, by [section 88(2)][84] of the Ship Registration Act 1992 (1992 No 89).
 
 ---
 
