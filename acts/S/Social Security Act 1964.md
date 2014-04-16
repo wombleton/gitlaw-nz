@@ -13444,7 +13444,7 @@ Long-term residential care in hospital or rest home
         
         
     
-    *   (b) is eligible for publicly funded health and disability services under an Eligibility Direction issued under [section 32][103], or continued under [section 112][1245], of the New Zealand Public Health and Disability Act 2000
+    *   (b) is eligible for publicly funded health and disability services under an Eligibility Direction issued under [section 32][1245], or continued under [section 112][1246], of the New Zealand Public Health and Disability Act 2000
     
     _exempt person_ means a resident assessed as requiring care who belongs to a class of exempt persons, as those classes are defined in regulations made under [section 155][529]
     
@@ -13468,23 +13468,23 @@ Long-term residential care in hospital or rest home
     
     _section 88 notice_ means a notice given under [section 88][1244] of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons
     
-    _service agreement_ means a service agreement entered into between a funder and provider under [section 25][1246] of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons.
+    _service agreement_ means a service agreement entered into between a funder and provider under [section 25][1247] of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons.
     
     Section 136: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 136 **contracted care provider**: inserted, on 22 November 2006, by [section 6(2)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **contracted care provider**: inserted, on 22 November 2006, by [section 6(2)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **contracted care services**: replaced, on 22 November 2006, by [section 6(1)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **contracted care services**: replaced, on 22 November 2006, by [section 6(1)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **cost of contracted care services**: replaced, on 22 November 2006, by [section 6(1)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **cost of contracted care services**: replaced, on 22 November 2006, by [section 6(1)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **personal allowance**: inserted, on 22 November 2006, by [section 6(2)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **personal allowance**: inserted, on 22 November 2006, by [section 6(2)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **resident assessed as requiring care** paragraph (b): amended, on 22 November 2006, by [section 6(3)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **resident assessed as requiring care** paragraph (b): amended, on 22 November 2006, by [section 6(3)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **section 88 notice**: inserted, on 22 November 2006, by [section 6(2)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **section 88 notice**: inserted, on 22 November 2006, by [section 6(2)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 136 **service agreement**: inserted, on 22 November 2006, by [section 6(2)][1247] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 136 **service agreement**: inserted, on 22 November 2006, by [section 6(2)][1248] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 #### Needs assessment
     
@@ -13508,7 +13508,7 @@ Long-term residential care in hospital or rest home
     
     *   (b) the provider (if any) who is currently providing long-term residential care to the person.
     
-    (7) For the purposes of a needs assessment (and, in particular, consent to a needs assessment), the Code of Health and Disability Services Consumers' Rights (made under [section 74][1248] of the Health and Disability Commissioner Act 1994) applies as if---
+    (7) For the purposes of a needs assessment (and, in particular, consent to a needs assessment), the Code of Health and Disability Services Consumers' Rights (made under [section 74][1249] of the Health and Disability Commissioner Act 1994) applies as if---
         
     *   (a) the needs assessment were a service; and
     
@@ -13538,11 +13538,11 @@ Long-term residential care in hospital or rest home
     
     Section 138: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 138(1)(a): replaced, on 22 November 2006, by [section 7][1249] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 138(1)(a): replaced, on 22 November 2006, by [section 7][1250] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 138(1)(b): replaced, on 22 November 2006, by [section 7][1249] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 138(1)(b): replaced, on 22 November 2006, by [section 7][1250] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 138(1)(c): inserted, on 22 November 2006, by [section 7][1249] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 138(1)(c): inserted, on 22 November 2006, by [section 7][1250] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 #### Liability to pay
     
@@ -13564,7 +13564,7 @@ Long-term residential care in hospital or rest home
     
     Section 139: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 139(1): replaced, on 22 November 2006, by [section 8][1250] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 139(1): replaced, on 22 November 2006, by [section 8][1251] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 140 Funder's liability in respect of persons whose assets are above applicable asset threshold or who have not been means assessed
     
@@ -13588,9 +13588,9 @@ Long-term residential care in hospital or rest home
     
 *   (1) This section applies to a resident assessed as requiring care who---
         
-    *   (a) has been means assessed as to assets under [Part 2][1251] of Schedule 27 and been found to have assets equal to or less than the applicable asset threshold; and
+    *   (a) has been means assessed as to assets under [Part 2][1252] of Schedule 27 and been found to have assets equal to or less than the applicable asset threshold; and
     
-    *   (b) has had a contribution determined following a means assessment as to income under [Part 3][1252] of Schedule 27\.
+    *   (b) has had a contribution determined following a means assessment as to income under [Part 3][1253] of Schedule 27\.
     
     (2) In the case of a person to whom this section applies, the funder must pay the difference between the cost of contracted care services provided to the person and the person's contribution determined following a means assessment as to income.
     
@@ -13600,7 +13600,7 @@ Long-term residential care in hospital or rest home
     
     Section 141: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 141(4): amended, on 22 November 2006, by [section 9][1253] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 141(4): amended, on 22 November 2006, by [section 9][1254] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 142 Funder's liability in respect of exempt persons and elderly victims of crime
     
@@ -13634,13 +13634,13 @@ Long-term residential care in hospital or rest home
         
     *   (a) on the date on which the person, being a resident assessed as requiring care, is confirmed under regulations made under [section 155][529] as being an exempt person or elderly victim of crime, as the case requires; or
     
-    *   (b) in the case of a person to whom [section 10][1254] of the Social Security (Long-term Residential Care) Amendment Act 2004 applies, on the date on which this section comes into force.
+    *   (b) in the case of a person to whom [section 10][1255] of the Social Security (Long-term Residential Care) Amendment Act 2004 applies, on the date on which this section comes into force.
     
     Section 142: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 142(1): replaced, on 22 November 2006, by [section 10][1255] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 142(1): replaced, on 22 November 2006, by [section 10][1256] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 142(1A): inserted, on 22 November 2006, by [section 10][1255] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 142(1A): inserted, on 22 November 2006, by [section 10][1256] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 143 Residents assessed as requiring care aged 50 to 64 not required to pay out of assets
     
@@ -13652,11 +13652,11 @@ Long-term residential care in hospital or rest home
         
     *   (a) may not be means tested as to assets, and, if the person has already been means tested as to assets, the result of that test is to be disregarded; and
     
-    *   (b) is not required to pay for contracted care services out of assets, but is required to pay only the contribution (as determined by a means test as to income under [Part 3][1252] of Schedule 27) towards the cost of those services.
+    *   (b) is not required to pay for contracted care services out of assets, but is required to pay only the contribution (as determined by a means test as to income under [Part 3][1253] of Schedule 27) towards the cost of those services.
     
     Section 143: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 143(2): amended, on 22 November 2006, by [section 11][1256] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 143(2): amended, on 22 November 2006, by [section 11][1257] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 #### Means assessment
     
@@ -13698,11 +13698,11 @@ Long-term residential care in hospital or rest home
     
     Section 145: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 145(f): inserted, on 22 November 2006, by [section 12][1257] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 145(f): inserted, on 22 November 2006, by [section 12][1258] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 146 Means assessment as to assets
     
-*   (1) The first stage of a means assessment is a means assessment as to assets, conducted under [Part 2][1251] of Schedule 27\.
+*   (1) The first stage of a means assessment is a means assessment as to assets, conducted under [Part 2][1252] of Schedule 27\.
     
     (2) The means assessment as to assets must assess the value of the non-exempt assets of the person as at the date of means assessment and must determine whether those assets are above, equal to, or less than the applicable asset threshold.
     
@@ -13712,7 +13712,7 @@ Long-term residential care in hospital or rest home
 
 ##### 147 Means assessment as to income
     
-*   (1) The second stage of a means assessment is a means assessment as to income, conducted under [Part 3][1252] of Schedule 27\.
+*   (1) The second stage of a means assessment is a means assessment as to income, conducted under [Part 3][1253] of Schedule 27\.
     
     (2) A means assessment as to income must be conducted if the person's assets, as assessed by a means assessment as to assets, are equal to or less than the applicable asset threshold.
     
@@ -13728,9 +13728,9 @@ Long-term residential care in hospital or rest home
     
     Section 147: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 147(4)(a): amended, on 22 November 2006, by [section 13][1258] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 147(4)(a): amended, on 22 November 2006, by [section 13][1259] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 147(4)(b): amended, on 22 November 2006, by [section 13][1258] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 147(4)(b): amended, on 22 November 2006, by [section 13][1259] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 147A Deprivation of assets and income
     
@@ -13738,7 +13738,7 @@ Long-term residential care in hospital or rest home
     
     (2) If the chief executive is satisfied that a person who has been means assessed, or the spouse or partner of that person, has directly or indirectly deprived himself or herself of any income or property (other than an exempt asset), the chief executive may in his or her discretion include that income or property in a review of the person's means assessment under [section 150][523] as at the date of means assessment as if the deprivation had not occurred.
     
-    Section 147A: inserted, on 22 November 2006, by [section 14][1259] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 147A: inserted, on 22 November 2006, by [section 14][1260] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 148 Notice of means assessment (including reviews)
     
@@ -13768,7 +13768,7 @@ Long-term residential care in hospital or rest home
     
     *   (b) the spouse or partner of the person who has been means assessed:
     
-    *   (c) the holder of an enduring power of attorney (given in accordance with [Part 9][1260] of the Protection of Personal and Property Rights Act 1988) who acts under the enduring power of attorney in relation to the property of the means tested person or the spouse or partner:
+    *   (c) the holder of an enduring power of attorney (given in accordance with [Part 9][1261] of the Protection of Personal and Property Rights Act 1988) who acts under the enduring power of attorney in relation to the property of the means tested person or the spouse or partner:
     
     *   (d) the provider who provides services to the person who has been means assessed.
     
@@ -13780,13 +13780,13 @@ Long-term residential care in hospital or rest home
     
     Section 149: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 149(1): amended, on 1 July 2005, by [section 7][1261] of the Social Security Amendment Act 2005 (2005 No 21).
+    Section 149(1): amended, on 1 July 2005, by [section 7][1262] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Section 149(1A): inserted, on 22 November 2006, by [section 15][1262] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 149(1A): inserted, on 22 November 2006, by [section 15][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 149(2)(b): amended, on 1 July 2005, by [section 7][1261] of the Social Security Amendment Act 2005 (2005 No 21).
+    Section 149(2)(b): amended, on 1 July 2005, by [section 7][1262] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Section 149(2)(c): amended, on 1 July 2005, by [section 7][1261] of the Social Security Amendment Act 2005 (2005 No 21).
+    Section 149(2)(c): amended, on 1 July 2005, by [section 7][1262] of the Social Security Amendment Act 2005 (2005 No 21).
 
 ##### 150 Review of means assessment
     
@@ -13830,15 +13830,15 @@ Long-term residential care in hospital or rest home
     
     Section 150: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 150(2A): inserted, on 22 November 2006, by [section 16(1)][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 150(2A): inserted, on 22 November 2006, by [section 16(1)][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 150(3): amended, on 22 November 2006, by [section 16(2)][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 150(3): amended, on 22 November 2006, by [section 16(2)][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 150(4): replaced, on 22 November 2006, by [section 16(3)][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 150(4): replaced, on 22 November 2006, by [section 16(3)][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 150(4A): inserted, on 22 November 2006, by [section 16(3)][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 150(4A): inserted, on 22 November 2006, by [section 16(3)][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 150(4B): inserted, on 22 November 2006, by [section 16(3)][1263] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 150(4B): inserted, on 22 November 2006, by [section 16(3)][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 151 Conjugal status for purpose of means assessment
     
@@ -13868,7 +13868,7 @@ Long-term residential care in hospital or rest home
     
     Section 152: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 152(2): replaced, on 22 November 2006, by [section 17][1264] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 152(2): replaced, on 22 November 2006, by [section 17][1265] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 153 Residential care loan scheme
     
@@ -13906,21 +13906,21 @@ Long-term residential care in hospital or rest home
     
     *   (e) prescribing, for the purpose of [section 147A][520], rules relating to deprivation of property, income, or both, and the circumstances in which those rules apply:
     
-    *   (f) prescribing the gifting period and the allowable gifts, or the value of any allowable gifts, for the purpose of [Part 2][1251] of Schedule 27:
+    *   (f) prescribing the gifting period and the allowable gifts, or the value of any allowable gifts, for the purpose of [Part 2][1252] of Schedule 27:
     
-    *   (g) amending the maximum value of pre-paid funerals for the purposes of paragraph (d) of the definition of exempt assets in [Part 2][1251] of Schedule 27:
+    *   (g) amending the maximum value of pre-paid funerals for the purposes of paragraph (d) of the definition of exempt assets in [Part 2][1252] of Schedule 27:
     
-    *   (h) prescribing assets, or an amount of assets, that are exempt assets for the purpose of paragraph (f) of the definition of exempt assets in [Part 2][1251] of Schedule 27:
+    *   (h) prescribing assets, or an amount of assets, that are exempt assets for the purpose of paragraph (f) of the definition of exempt assets in [Part 2][1252] of Schedule 27:
     
     *   (i) increasing the applicable asset thresholds and the income-from-assets exemption in accordance with subsection (2):
     
-    *   (j) prescribing an amount or type of income, or an amount of a certain type of income, that is not to be included in a means assessment as to income, as provided for in paragraph (k) of the definition of income in [Part 3][1252] of Schedule 27:
+    *   (j) prescribing an amount or type of income, or an amount of a certain type of income, that is not to be included in a means assessment as to income, as provided for in paragraph (k) of the definition of income in [Part 3][1253] of Schedule 27:
     
     *   (k) prescribing the amount of personal allowance:
     
     *   (l) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
     
-    (2) The applicable asset thresholds set out in [Part 1][1265] of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in [Part 3][1252] of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the all groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
+    (2) The applicable asset thresholds set out in [Part 1][1266] of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in [Part 3][1253] of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the all groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
     
     (2A) The adjustments (by any percentage movement in the All Groups index number of the New Zealand Consumers Price Index) required under subsection (2) as at 1 July in any year from 2011 to 2017 (inclusive) insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds) must, despite that subsection, be calculated,---
         
@@ -13940,40 +13940,40 @@ Long-term residential care in hospital or rest home
     
     Section 155: inserted, on 1 July 2005, by [section 5][1241] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
     
-    Section 155(1)(a): repealed, on 1 July 2006, by [section 9][1266] of the War Pensions Amendment Act 2006 (2006 No 32).
+    Section 155(1)(a): repealed, on 1 July 2006, by [section 9][1267] of the War Pensions Amendment Act 2006 (2006 No 32).
     
-    Section 155(1)(e): amended, on 22 November 2006, by [section 18(1)][1267] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 155(1)(e): amended, on 22 November 2006, by [section 18(1)][1268] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 155(1)(i): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(1)][1268] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Section 155(1)(i): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(1)][1269] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Section 155(1)(k): amended, on 22 November 2006, by [section 18(2)][1267] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 155(1)(k): amended, on 22 November 2006, by [section 18(2)][1268] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 155(2): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(2)][1268] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Section 155(2): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(2)][1269] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Section 155(2): amended, on 7 July 2010, by [section 17][1269] of the Social Security Amendment Act (No 2) 2010 (2010 No 85).
+    Section 155(2): amended, on 7 July 2010, by [section 17][1270] of the Social Security Amendment Act (No 2) 2010 (2010 No 85).
     
-    Section 155(2): amended, on 22 November 2006, by [section 18(3)][1267] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Section 155(2): amended, on 22 November 2006, by [section 18(3)][1268] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Section 155(2A): inserted, on 27 September 2010, by [section 32][1270] of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010 (2010 No 105).
+    Section 155(2A): inserted, on 27 September 2010, by [section 32][1271] of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010 (2010 No 105).
     
-    Section 155(2A): amended, on 24 October 2012, by [section 4][1271] of the Social Security (Indexation---Budget Measures) Amendment Act 2012 (2012 No 24).
+    Section 155(2A): amended, on 24 October 2012, by [section 4][1272] of the Social Security (Indexation---Budget Measures) Amendment Act 2012 (2012 No 24).
     
-    Section 155(2A): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(3)][1268] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Section 155(2A): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(3)][1269] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Section 155(3): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(4)][1268] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Section 155(3): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(4)][1269] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Section 155(3)(b): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(5)][1268] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Section 155(3)(b): amended, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 5(5)][1269] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
 
 ## Part 5  
 Financial support for young people
     
-*   Part 5: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Part 5: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 156 Purpose
     
 *   The purpose of this Part is to specify the supports, obligations, and sanctions that apply to certain young people who receive financial assistance under this Act.
     
-    Section 156: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 156: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 157 Interpretation
     
@@ -13983,11 +13983,11 @@ Financial support for young people
     
     _approved training_ means an employment-related training course approved by the chief executive
     
-    _full-time course_ has the same meaning as in [regulation 2(1)][1273] of the Student Allowances Regulations 1998
+    _full-time course_ has the same meaning as in [regulation 2(1)][1274] of the Student Allowances Regulations 1998
     
     _in-hand allowance_ means the component of a youth support payment set out in clause 6 of [Schedule 26][588] under that name
     
-    _NCEA level 2_ means a level 2 National Certificate of Educational Achievement issued by the New Zealand Qualifications Authority established under [Part 20][1274] of the Education Act 1989
+    _NCEA level 2_ means a level 2 National Certificate of Educational Achievement issued by the New Zealand Qualifications Authority established under [Part 20][1275] of the Education Act 1989
     
     _parents_, in relation to a young person,---
         
@@ -13999,7 +13999,7 @@ Financial support for young people
             
         *   (i) the chief executive of the department responsible for administering the [Children, Young Persons, and Their Families Act 1989][625] in his or her official capacity; or
         
-        *   (ii) any body or organisation approved under [section 396][1275] of that Act
+        *   (ii) any body or organisation approved under [section 396][1276] of that Act
         
         
     
@@ -14015,7 +14015,7 @@ Financial support for young people
     
     *   (d) a veteran's pension paid at a rate specified in clause 2 of [Schedule 11][632] of the War Pensions Act 1954
     
-    _teen parent unit_ means an educational facility for teenage parents attached to a State school (within the meaning of the [Education Act 1989][1276])
+    _teen parent unit_ means an educational facility for teenage parents attached to a State school (within the meaning of the [Education Act 1989][1277])
     
     _WFF tax credit_ has the same meaning as in [section YA 1][639] of the Income Tax Act 2007
     
@@ -14027,19 +14027,19 @@ Financial support for young people
     
     *   (b) in [section 123E][440], means a person aged at least 15 years but under the age of 18 years.
     
-    Section 157: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 157: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 157 **specified beneficiary** paragraph (a): repealed, on 15 July 2013, by [section 93(1)][1277] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 157 **specified beneficiary** paragraph (a): repealed, on 15 July 2013, by [section 93(1)][1278] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 157 **specified beneficiary** paragraph (b): amended, on 15 July 2013, by [section 93(2)][1277] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 157 **specified beneficiary** paragraph (b): amended, on 15 July 2013, by [section 93(2)][1278] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 157 **specified beneficiary** paragraph (b): amended, on 15 July 2013, by [section 108][1278] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 157 **specified beneficiary** paragraph (b): amended, on 15 July 2013, by [section 108][1279] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Section 157 **specified beneficiary** paragraph (b): amended, on 15 July 2013, by [section 128(2)(a)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 #### Youth payment
     
-*   Heading: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Heading: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 158 Youth payment: basic criteria
     
@@ -14073,9 +14073,9 @@ Financial support for young people
     
     (3) Nothing in subsection (2)(e) affects the entitlement of a young person to receive a youth payment if, during a temporary period, the person has income sufficient to abate the payment fully but the person otherwise fulfils the conditions of entitlement to the payment.
     
-    Compare: 1964 No 136 [ss 60F(1), (2)][1279], [89(5)][1280]
+    Compare: 1964 No 136 [ss 60F(1), (2)][1280], [89(5)][1281]
     
-    Section 158: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 158: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 159 Youth payment: single young persons
     
@@ -14093,11 +14093,11 @@ Financial support for young people
     
     *   (c) he or she has ceased to be subject to---
             
-        *   (i) an agreement under [section 140][1281] of the Children, Young Persons, and Their Families Act 1989; or
+        *   (i) an agreement under [section 140][1282] of the Children, Young Persons, and Their Families Act 1989; or
         
-        *   (ii) an order under [section 78][1282], [101][1283], or [283(n)][1284] of that Act; or
+        *   (ii) an order under [section 78][1283], [101][1284], or [283(n)][1285] of that Act; or
         
-        *   (iii) a sole guardianship order under [section 110][1285] of that Act; or
+        *   (iii) a sole guardianship order under [section 110][1286] of that Act; or
         
         
     
@@ -14109,9 +14109,9 @@ Financial support for young people
     
     *   (b) the chief executive is not satisfied that there are good and sufficient reasons for the young person not to live with that parent or guardian.
     
-    Compare: 1964 No 136, [s 60FA][1286]
+    Compare: 1964 No 136, [s 60FA][1287]
     
-    Section 159: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 159: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 160 Youth payment: young persons who are or have been married, or in civil union or de facto relationship
     
@@ -14123,7 +14123,7 @@ Financial support for young people
     
     *   (c) [section 158(2)][534] applies to him or her.
     
-    Section 160: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 160: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 161 Youth payment: ground of hardship
     
@@ -14135,15 +14135,15 @@ Financial support for young people
     
     *   (c) the young person is unable to earn a sufficient income to support himself or herself and his or her spouse or partner (if any).
     
-    Compare: 1964 No 136 [s 90(1)][1287]
+    Compare: 1964 No 136 [s 90(1)][1288]
     
-    Section 161: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 161: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 162 Youth payment: continuation after age 18
     
 *   (1) A youth payment granted when the young person concerned was aged under 18 years continues, if he or she is otherwise qualified for it,---
         
-    *   (a) in the case of a payment granted on an application made on or after the commencement of [Part 1][1288] of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 18 during the period; or
+    *   (a) in the case of a payment granted on an application made on or after the commencement of [Part 1][1289] of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 18 during the period; or
     
     *   (b) in the case only of a payment granted to a young person who, on the day when he or she turns 18, is (in the chief executive's opinion) continuing in a course of education, training, or work-based learning, until,---
             
@@ -14171,13 +14171,13 @@ Financial support for young people
     
     *   (e) jobseeker support.
     
-    Section 162: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 162: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 162(2)(a): replaced, on 15 July 2013, by [section 78][1289] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 162(2)(a): replaced, on 15 July 2013, by [section 78][1290] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 162(2)(b): repealed, on 15 July 2013, by [section 78][1289] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 162(2)(b): repealed, on 15 July 2013, by [section 78][1290] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 162(2)(c): repealed, on 15 July 2013, by [section 109][1290] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 162(2)(c): repealed, on 15 July 2013, by [section 109][1291] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Section 162(2)(e): replaced, on 15 July 2013, by [section 128(1)(n)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
@@ -14189,11 +14189,11 @@ Financial support for young people
     
     (3) Subsection (2) is subject to [section 178][557].
     
-    Section 163: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 163: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 #### Young parent payment
     
-*   Heading: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Heading: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 164 Young parent payment: basic criteria
     
@@ -14235,9 +14235,9 @@ Financial support for young people
     
     (4) For the purposes of subsection (2)(b), a dependent child of a young person who is married, in a civil union, or in a de facto relationship must also be treated as a dependent child of the young person's spouse or partner.
     
-    Compare: 1964 No 136 [ss 3(5)][1291], [60F(1), (2)][1279], [89(5)][1280]
+    Compare: 1964 No 136 [ss 3(5)][1292], [60F(1), (2)][1280], [89(5)][1281]
     
-    Section 164: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 164: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 165 Young parent payment: single young persons
     
@@ -14261,7 +14261,7 @@ Financial support for young people
     
     *   (b) he or she is living with or being financially supported by a parent or guardian; and
     
-    *   (c) the family scheme income (within the meaning of the Income Tax Act 2007) of the parent or guardian concerned and the spouse or partner (if any) of the parent or guardian concerned is less than the amount that would, in accordance with [sections MD 1][1292] and [MD 13][1293] of that Act, fully abate the amount of the parent or guardian concerned's family tax credit entitlement under that Act.
+    *   (c) the family scheme income (within the meaning of the Income Tax Act 2007) of the parent or guardian concerned and the spouse or partner (if any) of the parent or guardian concerned is less than the amount that would, in accordance with [sections MD 1][1293] and [MD 13][1294] of that Act, fully abate the amount of the parent or guardian concerned's family tax credit entitlement under that Act.
     
     (4) This subsection applies to a single young person who is aged 18 years.
     
@@ -14269,7 +14269,7 @@ Financial support for young people
     
     (6) Nothing in this section entitles a parent or guardian to whom subsection (5) applies to a family tax credit.
     
-    Section 165: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 165: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 166 Young parent payment: persons who are or have been married, or in civil union or de facto relationship
     
@@ -14279,9 +14279,9 @@ Financial support for young people
     
     *   (b) he or she is married, or in a civil union or a de facto relationship, but his or her spouse or partner is not a specified beneficiary within the meaning of paragraphs (b) to (d) of the definition of that term in [section 157][532].
     
-    Compare: 1964 No 136 [s 60FB][1294]
+    Compare: 1964 No 136 [s 60FB][1295]
     
-    Section 166: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 166: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 167 Young parent payment: ground of hardship
     
@@ -14293,15 +14293,15 @@ Financial support for young people
     
     *   (c) the young person is unable to earn a sufficient income to support himself or herself, and his or her spouse or partner (if any) and dependent children.
     
-    Compare: 1964 No 136 [s 90(1)][1287]
+    Compare: 1964 No 136 [s 90(1)][1288]
     
-    Section 167: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 167: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 168 Young parent payment: continuation after age 19
     
 *   (1) A young parent payment granted when the young person concerned was aged under 19 years continues, if he or she is otherwise qualified for it,---
         
-    *   (a) in the case of a payment granted on an application made on or after the commencement of [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 19 during the period; or
+    *   (a) in the case of a payment granted on an application made on or after the commencement of [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 19 during the period; or
     
     *   (b) in the case only of a payment granted to a young person who, on the day when he or she turns 19, is (in the chief executive's opinion) continuing in a course of education, training, or work-based learning, until,---
             
@@ -14329,13 +14329,13 @@ Financial support for young people
     
     *   (e) jobseeker support.
     
-    Section 168: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 168: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 168(2)(a): replaced, on 15 July 2013, by [section 79][1295] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 168(2)(a): replaced, on 15 July 2013, by [section 79][1296] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 168(2)(b): repealed, on 15 July 2013, by [section 79][1295] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 168(2)(b): repealed, on 15 July 2013, by [section 79][1296] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 168(2)(c): repealed, on 15 July 2013, by [section 110][1296] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 168(2)(c): repealed, on 15 July 2013, by [section 110][1297] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Section 168(2)(e): replaced, on 15 July 2013, by [section 128(1)(o)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
@@ -14347,11 +14347,11 @@ Financial support for young people
     
     (3) Subsection (2) is subject to [section 178][557].
     
-    Section 169: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 169: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 #### Obligations
     
-*   Heading: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Heading: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 170 Youth support payments: obligations
     
@@ -14397,7 +14397,7 @@ Financial support for young people
     
     *   (b) to keep every dependent child under the age of 5 years up-to-date with checks under---
             
-        *   (i) the programme that immediately before the commencement of [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 was known as WellChild; or
+        *   (i) the programme that immediately before the commencement of [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 was known as WellChild; or
         
         *   (ii) any similar programme established in its place:
         
@@ -14423,9 +14423,9 @@ Financial support for young people
     
     (5) A failure without good and sufficient reason to comply with obligations under this section is subject to sanctions, as provided in [sections 173][552] and [174][553].
     
-    Section 170: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 170: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 170(2)(c): amended, on 15 July 2013, by [section 117][1297] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 170(2)(c): amended, on 15 July 2013, by [section 117][1298] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 ##### 171 Obligations of spouses and partners of specified beneficiaries
     
@@ -14447,17 +14447,17 @@ Financial support for young people
     
     *   (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to obligations under [section 60Q][209], is a failure to comply with [section 60Q(2)][209] for the purposes of [section 116B][422].
     
-    Section 171: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 171: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 171(1)(b): amended, on 15 October 2012, by [section 47(1)][1298] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 171(1)(b): amended, on 15 October 2012, by [section 47(1)][1299] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 171(2)(b): amended, on 15 October 2012, by [section 47(1)][1298] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 171(2)(b): amended, on 15 October 2012, by [section 47(1)][1299] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 171(3)(b): amended, on 15 July 2013, by [section 135][1299] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 171(3)(b): amended, on 15 July 2013, by [section 135][1300] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 171(3)(b): amended, on 15 October 2012, by [section 47(1)][1298] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 171(3)(b): amended, on 15 October 2012, by [section 47(1)][1299] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 171(3)(b): amended, on 15 October 2012, by [section 47(2)][1298] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 171(3)(b): amended, on 15 October 2012, by [section 47(2)][1299] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 172 Department to explain obligations to young person
     
@@ -14467,13 +14467,13 @@ Financial support for young people
     
     *   (b) the consequences of failure to comply with them and (in particular) the sanctions that may be imposed under this Act for failing to comply with them.
     
-    Compare: 1964 No 136 [ss 60GAC][1300], [105C][1301]
+    Compare: 1964 No 136 [ss 60GAC][1301], [105C][1302]
     
-    Section 172: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 172: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 #### Sanction regime
     
-*   Heading: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Heading: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 173 Sanctions for failure by young person receiving youth payment to comply with obligations under section 170
     
@@ -14507,7 +14507,7 @@ Financial support for young people
     
     (5) This section overrides every other provision of this Act.
     
-    Section 173: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 173: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
     Section 173(2)(a): amended, on 15 July 2013, by [section 61(22)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
@@ -14547,7 +14547,7 @@ Financial support for young people
     
     (6) This section overrides every other provision of this Act.
     
-    Section 174: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 174: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
     Section 174(2)(a): amended, on 15 July 2013, by [section 61(22)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
@@ -14589,7 +14589,7 @@ Financial support for young people
     
     (6) The cancellation of a young person's youth payment or young parent payment under [section 173][552] or [174][553] has no effect on his or her entitlement to receive any disability allowance, or child disability allowance.
     
-    Section 175: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 175: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 176 Sanctions generally
     
@@ -14613,7 +14613,7 @@ Financial support for young people
     
     *   (b) if the failure that led to the cancellation was a failure to comply with [section 170(1)(a)][548], an education incentive payment is payable only if the young person again meets the conditions of entitlement to that payment set out in regulations under this Act.
     
-    Section 176: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 176: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 177 Effect of sanction on young parent payment
     
@@ -14625,9 +14625,9 @@ Financial support for young people
     
     (2) While subsection (1)(b) applies to a young person, the amounts payable must be paid to him or her or on his or her account personally.
     
-    Compare: 1964 No 136 [s 121][1302]
+    Compare: 1964 No 136 [s 121][1303]
     
-    Section 177: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 177: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 178 Incentive payment may be cancelled if young person's actions inconsistent with purpose
     
@@ -14635,11 +14635,11 @@ Financial support for young people
     
     (2) The cancellation makes the young person ineligible for the incentive payment again until the chief executive decides that it may be re-granted.
     
-    Section 178: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 178: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 #### Administration
     
-*   Heading: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Heading: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 179 Money management in relation to youth support payments: general
     
@@ -14675,11 +14675,11 @@ Financial support for young people
     
     (9) This section overrides [section 82(1) to (3)][325].
     
-    (10) Subsection (4) overrides [section 80KS][1303] of the Tax Administration Act 1994\.
+    (10) Subsection (4) overrides [section 80KS][1304] of the Tax Administration Act 1994\.
     
     (11) [Section 84(1)][329] is subject to regulations under this Act made for the purposes of subsection (4).
     
-    Section 179: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 179: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 180 Young person beneficiaries may elect money management
     
@@ -14699,7 +14699,7 @@ Financial support for young people
     
     (3) The young person may revoke the election at any time.
     
-    Section 180: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 180: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ##### 181 Chief executive may assign contracted service provider to young person
     
@@ -14711,7 +14711,7 @@ Financial support for young people
     
     *   (c) at any time [section 171][549] applies to the young person.
     
-    Section 181: inserted, on 20 August 2012, by [section 24][1272] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 181: inserted, on 20 August 2012, by [section 24][1273] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ---
 
@@ -14742,8 +14742,8 @@ Rates of generally abolished former widows' benefits under section 21 as saved b
 
 [s 3C][10]
 
-*   Schedule 3: replaced, on 10 March 2003, by [section 30][1304] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
-*   Schedule 3 heading: replaced, on 15 July 2013, by [section 80][1305] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 3: replaced, on 10 March 2003, by [section 30][1305] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
+*   Schedule 3 heading: replaced, on 15 July 2013, by [section 80][1306] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 1To a beneficiary with 1 or more dependent children $295.37 a week, subject to Income Test 1
 
@@ -14751,9 +14751,9 @@ Rates of generally abolished former widows' benefits under section 21 as saved b
 
 3For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
-*   Schedule 3 clause 1: replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 3 clause 1: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 3 clause 2: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 3 clause 1: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 3 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 3 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
@@ -14781,7 +14781,7 @@ Rate of sole parent support
 ## Schedule 4  
 Maximum rates of orphans' benefits and unsupported childs' benefits
     
-*   Schedule 4: replaced, on 1 October 1990, by [section 21(1)][1308] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
+*   Schedule 4: replaced, on 1 October 1990, by [section 21(1)][1309] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
 
 1(a)In respect of a child aged 14 years or over $200.65 a week
 
@@ -14793,10 +14793,10 @@ Maximum rates of orphans' benefits and unsupported childs' benefits
 
 2 The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.
 
-*   Schedule 4 clause 1(a): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(b): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(c): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(d): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 4 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 4 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 4 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 4 clause 1(d): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
@@ -14817,8 +14817,8 @@ Rates of supported living payment benefits
 [ss 40I][127], [40J][128]
 
 *   Schedule 6: replaced, on 1 July 1996, by section 39(1) of the Social Security Amendment Act 1996 (1996 No 20).
-*   Schedule 6 heading: amended, on 15 July 2013, by [section 94(1)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 6 heading: amended, on 15 July 2013, by [section 94(2)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 heading: amended, on 15 July 2013, by [section 94(1)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 heading: amended, on 15 July 2013, by [section 94(2)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 1(a)To a single beneficiary under the age of 18 years without dependent children $208.58 a week, subject to Income Test 1
 
@@ -14846,30 +14846,30 @@ provided that, in computing the income of any beneficiary for the purpose of thi
 
 3 Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $214.79 a week.
 
-*   Schedule 6 clause 1(a): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(a): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(b): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(b): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 6 clause 1(c): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
+*   Schedule 6 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(c): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(d): repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 6 clause 1(e): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(d): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
+*   Schedule 6 clause 1(e): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(e): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(e): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(f): amended, on 15 July 2013, by [section 94(3)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 6 clause 1(f): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(f): amended, on 15 July 2013, by [section 94(3)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 1(f): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(f): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(f): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(g): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(g): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(g): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(g): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(h): inserted, on 15 July 2013, by [section 94(4)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 1(h): inserted, on 15 July 2013, by [section 94(4)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 *   Schedule 6 clause 1 proviso: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
-*   Schedule 6 clause 2: amended, on 15 July 2013, by [section 94(5)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 6 clause 2: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 2: amended, on 15 July 2013, by [section 94(5)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 2: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 3: inserted, on 15 July 2013, by [section 94(6)][1309] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 3: inserted, on 15 July 2013, by [section 94(6)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 ---
 
@@ -14891,7 +14891,7 @@ Rates of benefit payable to person receiving a sickness benefit immediately befo
 
 \[Repealed\]
     
-*   Schedule 8: repealed, on 27 September 2010, by [section 33][1311] of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010 (2010 No 105).
+*   Schedule 8: repealed, on 27 September 2010, by [section 33][1312] of the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010 (2010 No 105).
 
 ---
 
@@ -14901,10 +14901,10 @@ Rates of jobseeker support
 [ss 3C][10], [88M][361]
 
 *   Schedule 9: replaced, on 1 July 1996, by section 39(1) of the Social Security Amendment Act 1996 (1996 No 20).
-*   Schedule 9 heading: replaced, on 1 July 2001, by [section 44(1)][1312] of the Social Security Amendment Act 2001 (2001 No 1).
-*   Schedule 9 heading: amended, on 15 July 2013, by [section 127(1)][1313] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 heading: amended, on 15 July 2013, by [section 127(2)][1313] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 heading: amended, on 15 July 2013, by [section 111][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 heading: replaced, on 1 July 2001, by [section 44(1)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
+*   Schedule 9 heading: amended, on 15 July 2013, by [section 127(1)][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 heading: amended, on 15 July 2013, by [section 127(2)][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 heading: amended, on 15 July 2013, by [section 111][1315] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 1(aa)To a single beneficiary under the age of 20 years who is--- $137.47 a week, subject to Income Test 3
 
@@ -14918,7 +14918,7 @@ Rates of jobseeker support
 
 (i)by [clause 2(9) and (11)][837] of Schedule 32; or 
 
-(ii)by [clause 10(6) and (8)][1315] of Schedule 32 
+(ii)by [clause 10(6) and (8)][1316] of Schedule 32 
 
 (b)To any other single beneficiary without dependent children $206.21 a week, subject to Income Test 3
 
@@ -14960,48 +14960,48 @@ Rates of jobseeker support
 
 6_\[Repealed\]_
 
-*   Schedule 9 clause 1(aa): inserted, on 1 July 1998, by [section 10(2)][1316] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 9 clause 1(aa): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(aa): inserted, on 1 July 1998, by [section 10(2)][1317] of the Social Security Amendment Act 1998 (1998 No 19).
+*   Schedule 9 clause 1(aa): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(aa): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(aa): amended, on 1 July 2001, by [section 44(2)][1312] of the Social Security Amendment Act 2001 (2001 No 1).
-*   Schedule 9 clause 1(a): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(aa): amended, on 1 July 2001, by [section 44(2)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
+*   Schedule 9 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(a): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(a): amended, on 1 July 2001, by [section 44(3)][1312] of the Social Security Amendment Act 2001 (2001 No 1).
-*   Schedule 9 clause 1(a): amended, on 1 July 1998, by [section 10(3)][1316] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 9 clause 1(ab): inserted, on 15 July 2013, by [section 60(1)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(b): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(a): amended, on 1 July 2001, by [section 44(3)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
+*   Schedule 9 clause 1(a): amended, on 1 July 1998, by [section 10(3)][1317] of the Social Security Amendment Act 1998 (1998 No 19).
+*   Schedule 9 clause 1(ab): inserted, on 15 July 2013, by [section 60(1)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(b): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(ba): inserted, on 15 July 2013, by [section 60(2)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(a)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(b)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(c): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(ba): inserted, on 15 July 2013, by [section 60(2)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
+*   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(a)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(b)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(c): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(d): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(d): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(d): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(d): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(d): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(d): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(e): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(e): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(e): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(e): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(e): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(e): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(f): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(f): amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(f): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(f): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(f): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(f): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 9 clause 1(g): repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(h): repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(i): repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(j): repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 2: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 9 clause 3: repealed, on 1 July 1996, by [section 2(2)][1318] of the Social Security Amendment Act (No 3) 1996 (1996 No 49).
+*   Schedule 9 clause 1(g): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(h): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(i): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 1(j): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 9 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 3: repealed, on 1 July 1996, by [section 2(2)][1319] of the Social Security Amendment Act (No 3) 1996 (1996 No 49).
 *   Schedule 9 clause 4: repealed, on 1 January 1998, by [section 10(1)][991] of the Social Security Amendment Act (No 3) 1997 (1997 No 23).
-*   Schedule 9 clause 5: replaced, on 1 October 1998, by [section 56(2)][1319] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 9 clause 5: amended, on 15 July 2013, by [section 127(3)][1313] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 5: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 9 clause 5: amended, on 1 July 2001, by [section 44(4)][1312] of the Social Security Amendment Act 2001 (2001 No 1).
-*   Schedule 9 clause 5A: inserted, on 15 July 2013, by [section 60(4)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 5B: inserted, on 15 July 2013, by [section 60(4)][1317] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 5: replaced, on 1 October 1998, by [section 56(2)][1320] of the Social Security Amendment Act 1998 (1998 No 19).
+*   Schedule 9 clause 5: amended, on 15 July 2013, by [section 127(3)][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 5: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 5: amended, on 1 July 2001, by [section 44(4)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
+*   Schedule 9 clause 5A: inserted, on 15 July 2013, by [section 60(4)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 5B: inserted, on 15 July 2013, by [section 60(4)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 *   Schedule 9 clause 6: repealed, on 1 October 1998, by [section 40(2)(c)][850] of the Social Security Amendment Act 1998 (1998 No 19).
 
 ---
@@ -15011,13 +15011,13 @@ Special income exemption in respect of sick benefits from friendly or like socie
 
 [s 66][272]
 
-*   Schedule 10: replaced, on 20 July 1983, by [section 12(1)][1320] of the Social Security Amendment Act 1983 (1983 No 138).
-*   Schedule 10 heading: amended, on 15 July 2013, by [section 82(1)][1321] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 10: replaced, on 20 July 1983, by [section 12(1)][1321] of the Social Security Amendment Act 1983 (1983 No 138).
+*   Schedule 10 heading: amended, on 15 July 2013, by [section 82(1)][1322] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 Maximum rate$2 a week in the case of jobseeker support on the ground of sickness, injury, or disability, and $104 a year in the case of New Zealand Superannuation, supported living payment on the ground of sickness, injury, disability, or total blindness, or sole parent support
 
-*   Schedule 10: amended, on 15 July 2013, by [section 82(2)][1321] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 10: amended, on 15 July 2013, by [section 112][1322] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 10: amended, on 15 July 2013, by [section 82(2)][1322] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 10: amended, on 15 July 2013, by [section 112][1323] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 ---
 
@@ -15037,7 +15037,7 @@ Maximum increase in rate of benefit payable to parent of deceased member of forc
 
 [s 69][278]
 
-*   Schedule 12: replaced, on 20 July 1983, by [section 12(1)][1320] of the Social Security Amendment Act 1983 (1983 No 138).
+*   Schedule 12: replaced, on 20 July 1983, by [section 12(1)][1321] of the Social Security Amendment Act 1983 (1983 No 138).
 
 Maximum rate$1 a week
 
@@ -15054,7 +15054,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Finance Act 1941 (1941 No 4) (1957 Reprint, Vol 14, p 581)
 
-_Amendment(s) incorporated in the [Act(s)][1323]_.
+_Amendment(s) incorporated in the [Act(s)][1324]_.
 
 ##### Finance Act (No 3) 1944 (1944 No 31) (1957 Reprint, Vol 14, p 586)
 
@@ -15062,15 +15062,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Finance Act (No 2) 1945 (1945 No 45) (1957 Reprint, Vol 14, p 590)
 
-_Amendment(s) incorporated in the [Act(s)][1324]_.
+_Amendment(s) incorporated in the [Act(s)][1325]_.
 
 ##### Finance Act (No 2) 1948 (1948 No 78) (1957 Reprint, Vol 14, p 593)
 
-_Amendment(s) incorporated in the [Act(s)][1325]_.
+_Amendment(s) incorporated in the [Act(s)][1326]_.
 
 ##### Finance Act (No 2) 1952 (1952 No 81) (1957 Reprint, Vol 14, p 602)
 
-_Amendment(s) incorporated in the [Act(s)][1326]_.
+_Amendment(s) incorporated in the [Act(s)][1327]_.
 
 ##### Public Revenues Amendment Act 1963 (1963 No 46)
 
@@ -15149,8 +15149,8 @@ Rates of generally abolished former DPB for solo parents under section 27B as sa
 
 [s 3C][10]
 
-*   Schedule 16: replaced, on 10 March 2003, by [section 30][1304] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
-*   Schedule 16 heading: replaced, on 15 July 2013, by [section 83][1327] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 16: replaced, on 10 March 2003, by [section 30][1305] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
+*   Schedule 16 heading: replaced, on 15 July 2013, by [section 83][1328] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 1To a beneficiary with 1 or more dependent children $295.37 a week, subject to Income Test 1
 
@@ -15158,9 +15158,9 @@ Rates of generally abolished former DPB for solo parents under section 27B as sa
 
 3For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
-*   Schedule 16 clause 1: replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 16 clause 1: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 16 clause 2: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 16 clause 1: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 16 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 16 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
@@ -15180,7 +15180,7 @@ Accommodation supplement
 
 [ss 61E][248], [61EA][249], [61FC][255], [61FD][256]
 
-*   Schedule 18: replaced, on 1 July 1993, by [section 34(1)][1328] of the Social Security Amendment Act (No 3) 1993 (1993 No 57).
+*   Schedule 18: replaced, on 1 July 1993, by [section 34(1)][1329] of the Social Security Amendment Act (No 3) 1993 (1993 No 57).
 
 ## Part 1  
 Preliminary
@@ -15405,7 +15405,7 @@ Preliminary
     
     _Area 4_ means any part of New Zealand not included in Area 1, Area 2, or Area 3
     
-    _base rate_ means, subject to [clause 4A][1329],---
+    _base rate_ means, subject to [clause 4A][1330],---
         
     *   (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of a main benefit under this Act he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
     
@@ -15437,17 +15437,17 @@ Preliminary
         
         
     
-    Schedule 18 Part 1 clause 1 **Area 1**: replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Area 1**: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 1 **Area 2**: replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Area 2**: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 1 **Area 3**: inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Area 3**: inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 1 **Area 4**: inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Area 4**: inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 1 **Auckland**: repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Auckland**: repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 1 **base rate**: amended, on 20 May 2010, by [section 3(1)][1330] of the Social Security Amendment Act 2010 (2010 No 30).
+    Schedule 18 Part 1 clause 1 **base rate**: amended, on 20 May 2010, by [section 3(1)][1331] of the Social Security Amendment Act 2010 (2010 No 30).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (a): amended, on 15 July 2013, by [section 61(24)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
@@ -15455,7 +15455,7 @@ Preliminary
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][690] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (b): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1331] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (b): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1332] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (b): amended, on 1 January 1998, by [section 10(1)][991] of the Social Security Amendment Act (No 3) 1997 (1997 No 23).
     
@@ -15465,13 +15465,13 @@ Preliminary
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][690] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1331] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1332] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (d): amended, on 1 January 1998, by [section 10(1)][991] of the Social Security Amendment Act (No 3) 1997 (1997 No 23).
     
@@ -15481,25 +15481,25 @@ Preliminary
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (da): amended, on 15 July 2013, by [section 61(24)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (da): amended, on 12 December 2012, by [section 7][1333] of the Social Security Amendment Act (No 2) 2012 (2012 No 114).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (da): amended, on 12 December 2012, by [section 7][1334] of the Social Security Amendment Act (No 2) 2012 (2012 No 114).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (da): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (da): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (e): replaced, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (e): replaced, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (e)(i): amended, on 15 July 2013, by [section 128(2)(b)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (e)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][690] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (e)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1331] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (e)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1332] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (f): replaced, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (f): replaced, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (f): amended, on 15 July 2013, by [section 128(2)(b)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (g): replaced, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (g): replaced, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (g): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
     
@@ -15509,13 +15509,13 @@ Preliminary
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (g)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][690] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 18 Part 1 clause 1 **base rate** paragraph (g)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1331] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 18 Part 1 clause 1 **base rate** paragraph (g)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 300][1332] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (g)(iii): amended, on 15 July 2013, by [section 128(2)(b)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Schedule 18 Part 1 clause 1 **base rate** paragraph (g)(iii): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Schedule 18 Part 1 clause 1 **Wellington**: repealed, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 1 **Wellington**: repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 
 *   2 The amount of accommodation supplement assessed under this schedule shall be reduced---
         
@@ -15529,9 +15529,9 @@ Preliminary
         
         
     
-    Schedule 18 Part 1 clause 2(a): repealed, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 2(a): repealed, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Schedule 18 Part 1 clause 2(b): replaced, on 1 October 2004, by [section 19][1332] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Schedule 18 Part 1 clause 2(b): replaced, on 1 October 2004, by [section 19][1333] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Schedule 18 Part 1 clause 2(b): amended, on 15 July 2013, by [section 128(1)(p)][691] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
@@ -15539,7 +15539,7 @@ Preliminary
 
 *   3 In assessing the income of a person in receipt of sole parent support or a young parent payment for the purposes of section 61EC and of this schedule, the chief executive, in his or her discretion, may disregard an amount of up to $20 a week of that person's earnings which are used to meet the cost of placing his or her dependent child or dependent children in a day-care centre registered under the Child Care Centre Regulations 1985 or in any other day-care facility approved by the chief executive.
     
-    Schedule 18 Part 1 clause 3: amended, on 15 July 2013, by [section 84][1334] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Schedule 18 Part 1 clause 3: amended, on 15 July 2013, by [section 84][1335] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Schedule 18 Part 1 clause 3: amended, on 20 August 2012, by [section 28(1)][694] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
@@ -15549,7 +15549,7 @@ Preliminary
 
 *   4A In determining the base rate in relation to a person in respect of any period that is wholly or partly within the period commencing on 1 October 2010 and ending on the close of 31 March 2011, the chief executive must, under paragraph (b) or (d) or (e)(ii) or (g)(ii) of the definition of base rate in clause 1, use the applicable annual rate, or as the case requires, the maximum annual rate of family tax credit in force immediately before 1 October 2010 as if sections 61 to 63 of the Taxation (Budget Measures) Act 2010 had not been enacted.
     
-    Schedule 18 Part 1 clause 4A: inserted, on 20 May 2010, by [section 3(2)][1330] of the Social Security Amendment Act 2010 (2010 No 30).
+    Schedule 18 Part 1 clause 4A: inserted, on 20 May 2010, by [section 3(2)][1331] of the Social Security Amendment Act 2010 (2010 No 30).
 
 ## Part 2  
 Rates of accommodation supplement
@@ -15628,57 +15628,57 @@ Rates of accommodation supplement
 
 *   Schedule 18 Part 2 clause 1: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 1: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 18 Part 2 clause 1: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 1(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 1: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 1(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 1(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 1(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 1(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 1(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 1(c): replaced, on 1 April 2005, by[section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 1(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 1(c): replaced, on 1 April 2005, by[section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 1(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 2: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 18 Part 2 clause 2: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 2(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 2: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 2(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 2(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 2(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 2(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 2(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 2(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 2(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 3: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 3(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 2(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 2(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 3: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 3(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 3(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 3(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 3(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 3(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 3(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 3(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 3(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 3(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 4: amended, on 1 April 2007, by[section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 4: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 4: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
-*   Schedule 18 Part 2 clause 4: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 4(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 4: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 4(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 4(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 4(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 4(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 4(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 4(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 4(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 4(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 4(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 5: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 5: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 18 Part 2 clause 5: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
-*   Schedule 18 Part 2 clause 5: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 5(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 5: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 5(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 5(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 5(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 5(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 5(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 5(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 5(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 5(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 5(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 6: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
-*   Schedule 18 Part 2 clause 6: amended, on 1 July 1997, by [section 4][1335] of the Social Security Amendment Act 1997 (1997 No 21).
-*   Schedule 18 Part 2 clause 6(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 6: amended, on 1 July 1997, by [section 4][1336] of the Social Security Amendment Act 1997 (1997 No 21).
+*   Schedule 18 Part 2 clause 6(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 6(a): amended, on 1 October 1996, by section 3(2)(a) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 6(b): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 6(b): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 18 Part 2 clause 6(b): amended, on 1 October 1996, by section 3(2)(b) of the Social Security Amendment Act (No 5) 1996 (1996 No 155).
-*   Schedule 18 Part 2 clause 6(c): replaced, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 18 Part 2 clause 6(d): inserted, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 6(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 18 Part 2 clause 6(d): inserted, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 
 ## Part 3  
 Average regional rental
@@ -15692,7 +15692,7 @@ Maximum additional amount payable to a beneficiary resident in an institution or
 
 \[Repealed\]
     
-*   Schedule 18 Part 4: repealed (with effect on 1 July 1995), on 17 September 1997, by [section 28(1)][1336] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
+*   Schedule 18 Part 4: repealed (with effect on 1 July 1995), on 17 September 1997, by [section 28(1)][1337] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
 
 ---
 
@@ -15710,17 +15710,17 @@ Rates of child disability allowance and disability allowance
 
 3Rate of special disability allowance under [section 69C(5)][282]$37.76 a week
 
-*   Schedule 19 clause 1: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 19 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 19 clause 1: amended, on 1 September 1998, by [section 12(4)(d)][776] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 19 clause 2: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 19 clause 3: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 19 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 19 clause 3: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
 ## Schedule 20  
 Rates of contributions by liable parents to cost of domestic purposes benefit
 
-[s 27N(1)][1337]
+[s 27N(1)][1338]
 
 \[Repealed\]
     
@@ -15731,7 +15731,7 @@ Rates of contributions by liable parents to cost of domestic purposes benefit
 ## Schedule 21  
 Rates of family care grants
 
-[ss 86D][1338], [86E(2)][1339]
+[ss 86D][1339], [86E(2)][1340]
 
 \[Repealed\]
     
@@ -15751,7 +15751,7 @@ Rates of benefits payable to long-term hospital patients
 2_\[Repealed\]_ 
 
 *   Schedule 22 clause 1: amended, on 15 July 2013, by [section 61(26)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 22 clause 1: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 22 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 22 clause 1: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 22 clause 1: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 22 clause 2: repealed, on 15 July 2013, by [section 61(27)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
@@ -15796,7 +15796,7 @@ Rates and component of youth payment and young parent payment, and criteria for 
 
 [ss 163][539], [169][546]
 
-*   Schedule 26: replaced, on 20 August 2012, by [section 25][1340] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+*   Schedule 26: replaced, on 20 August 2012, by [section 25][1341] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
 ### Rates of youth payment and young parent payment
 
@@ -15860,13 +15860,13 @@ Rates and component of youth payment and young parent payment, and criteria for 
 
 *   12 For the purposes of clause 10 or 11 and a rate of young parent payment, the chief executive may, in his or her discretion, disregard up to $20 a week of the personal earnings of the young person used to meet the costs of child care for any of the person's dependent children.
 
-*   Schedule 26 clause 1: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 2: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 3: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 4: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 5: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 10: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 11: amended, on 1 April 2013, by [clause 4][1307] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 3: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 4: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 5: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 10: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 11: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
@@ -15875,7 +15875,7 @@ Means assessment under Part 4
 
 [s 136][505]
 
-*   Schedule 27: replaced, on 1 July 2005, by [section 6][1341] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
+*   Schedule 27: replaced, on 1 July 2005, by [section 6][1342] of the Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101).
 
 ## Part 1  
 Applicable asset thresholds
@@ -15890,31 +15890,31 @@ Applicable asset thresholds
     
     *   (b) whose spouse or partner is also a resident assessed as requiring care; or
     
-    *   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under [clause 2][1342], to have Threshold A apply to him or her rather than Threshold B.
+    *   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under [clause 2][1343], to have Threshold A apply to him or her rather than Threshold B.
     
     (3) Threshold B is $117,811 and applies to every resident assessed as requiring care---
         
     *   (a) whose spouse or partner is not a resident assessed as requiring care; and
     
-    *   (b) who has not elected, under [clause 2][1342], to have Threshold A apply to him or her.
+    *   (b) who has not elected, under [clause 2][1343], to have Threshold A apply to him or her.
     
-    Schedule 27 Part 1 clause 1: replaced, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 7][1343] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Schedule 27 Part 1 clause 1: replaced, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 7][1344] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Schedule 27 Part 1 clause 1(2): amended, on 1 July 2013, by [regulation 3(1)][1344] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 1 clause 1(2): amended, on 1 July 2013, by [regulation 3(1)][1345] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
     
-    Schedule 27 Part 1 clause 1(3): amended, on 1 July 2013, by [regulation 3(2)][1344] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 1 clause 1(3): amended, on 1 July 2013, by [regulation 3(2)][1345] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
 
 ##### 2 Certain residents may elect which threshold to apply
     
-*   (1) A resident assessed as requiring care whose spouse or partner is not a resident assessed as requiring care may elect to have Threshold A in [clause 1][1345] apply to him or her instead of having Threshold B in clause 1 apply.
+*   (1) A resident assessed as requiring care whose spouse or partner is not a resident assessed as requiring care may elect to have Threshold A in [clause 1][1346] apply to him or her instead of having Threshold B in clause 1 apply.
     
-    (2) A resident's election before 1 July 2012 and under this clause (as in force before 1 July 2012) to have Column A of the table in [clause 1][1345] (as in force before 1 July 2012) apply to him or her is, after 30 June 2012, treated as an election to have Threshold A in clause 1 apply to him or her.
+    (2) A resident's election before 1 July 2012 and under this clause (as in force before 1 July 2012) to have Column A of the table in [clause 1][1346] (as in force before 1 July 2012) apply to him or her is, after 30 June 2012, treated as an election to have Threshold A in clause 1 apply to him or her.
     
-    Schedule 27 Part 1 clause 2: replaced, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 7][1343] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
+    Schedule 27 Part 1 clause 2: replaced, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 7][1344] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
 
 ##### 3 Explanation of election
     
-*   The effect of making an election under [clause 2][1342] is that the person's applicable asset threshold will increase, but the value of any interest in the residential dwelling and the car of the person's spouse or partner will be included in the calculation of the person's assets (_see_ paragraphs (a) and (b) of the definition of exempt assets in [Part 2][1346]).
+*   The effect of making an election under [clause 2][1343] is that the person's applicable asset threshold will increase, but the value of any interest in the residential dwelling and the car of the person's spouse or partner will be included in the calculation of the person's assets (_see_ paragraphs (a) and (b) of the definition of exempt assets in [Part 2][1347]).
     
     Schedule 27 Part 1 clause 3: amended, on 1 July 2005, by section 7 of the Social Security Amendment Act 2005 (2005 No 21).
 
@@ -15935,9 +15935,9 @@ Means assessment as to assets
     
     _exempt assets_, in relation to the person being means tested, means---
         
-    *   (a) any interest in a residential dwelling that is the principal residence of the person's spouse or partner or a dependent child of the person; but this exemption does not apply to a person who has made an election under [clause 2][1342]:
+    *   (a) any interest in a residential dwelling that is the principal residence of the person's spouse or partner or a dependent child of the person; but this exemption does not apply to a person who has made an election under [clause 2][1343]:
     
-    *   (b) any interest in 1 car or similar vehicle that is for the personal use of the person's spouse or partner; but this exemption does not apply to a person who has made an election under [clause 2][1342]:
+    *   (b) any interest in 1 car or similar vehicle that is for the personal use of the person's spouse or partner; but this exemption does not apply to a person who has made an election under [clause 2][1343]:
     
     *   (c) the value of any _ex gratia_ payment by the Government of New Zealand or the Government of any other country to the person because the person or his or her spouse or partner was a prisoner of war or civilian internee of Japan during the Second World War:
     
@@ -15949,7 +15949,7 @@ Means assessment as to assets
             
         *   (i) money withdrawn from such a scheme:
         
-        *   (ii) money that the member is entitled to withdraw from the scheme under [clause 4(3)][1347] of the KiwiSaver scheme rules under that Act:
+        *   (ii) money that the member is entitled to withdraw from the scheme under [clause 4(3)][1348] of the KiwiSaver scheme rules under that Act:
         
         *   (iii) money that the member has applied to withdraw and that would be a permitted withdrawal under those rules:
         
@@ -15957,9 +15957,9 @@ Means assessment as to assets
     
     *   (f) any assets, or amount of assets, of the person or his or her spouse or partner declared by regulations made under [section 155][529] to be exempt assets.
     
-    Schedule 27 Part 2 clause 4 **assets**: amended, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 2 clause 4 **assets**: amended, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 2 clause 4 **assets** paragraph (c): repealed, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 2 clause 4 **assets** paragraph (c): repealed, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
     Schedule 27 Part 2 clause 4 **exempt assets** paragraph (e): amended, on 3 March 2010, pursuant to [section 5(1)(b)][684] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
@@ -16014,29 +16014,29 @@ Means assessment relating to income
     
     *   (c) $2,852 if the person's spouse or partner is not a resident assessed as requiring care.
     
-    Schedule 27 Part 3 clause 5 **income** paragraph (a): amended, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income** paragraph (a): amended, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income** paragraph (c): replaced, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income** paragraph (c): replaced, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income** paragraph (d): replaced, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income** paragraph (d): replaced, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income** paragraph (e): repealed, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income** paragraph (e): repealed, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income** paragraph (i): amended, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income** paragraph (i): amended, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption**: replaced, on 22 November 2006, by [section 19(1)][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption**: replaced, on 22 November 2006, by [section 19(1)][1350] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (a): amended, on 1 July 2013, by [regulation 3(3)(a)][1344] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (a): amended, on 1 July 2013, by [regulation 3(3)(a)][1345] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (b): amended, on 1 July 2013, by [regulation 3(3)(b)][1344] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (b): amended, on 1 July 2013, by [regulation 3(3)(b)][1345] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (c): amended, on 1 July 2013, by [regulation 3(3)(c)][1344] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (c): amended, on 1 July 2013, by [regulation 3(3)(c)][1345] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
     
-    Schedule 27 Part 3 clause 5 **personal allowance**: repealed, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 5 **personal allowance**: repealed, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ##### 6 Annual income
     
-*   For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in [clause 5][1350]) for the period of 52 weeks commencing on the date of means assessment.
+*   For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in [clause 5][1351]) for the period of 52 weeks commencing on the date of means assessment.
 
 ##### 7 Weekly income
     
@@ -16046,7 +16046,7 @@ Means assessment relating to income
     
 *   The weekly contribution payable by a person whose income is assessed is the person's weekly income less the personal allowance (as defined in [section 136][505]).
     
-    Schedule 27 Part 3 clause 8: amended, on 22 November 2006, by [section 20][1348] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
+    Schedule 27 Part 3 clause 8: amended, on 22 November 2006, by [section 20][1349] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
 ---
 
@@ -16107,27 +16107,27 @@ The stand down period for a benefit to which [section 80BA][315] applies is---
 
 *   Schedule 28 clause 1: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 28 clause 1: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 28 clause 1(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 28 clause 1(b): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(c): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(d): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(e): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(f): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(g): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(h): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(i): repealed, on 2 July 2007, by [section 16(1)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 1(j): amended, on 2 July 2007, by [section 16(1)(b)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 28 clause 1(b): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(c): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(d): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(e): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(f): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(g): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(h): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(i): repealed, on 2 July 2007, by [section 16(1)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 1(j): amended, on 2 July 2007, by [section 16(1)(b)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
 *   Schedule 28 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 28 clause 2(a): amended, on 1 April 2005, by [section 20(1)][1306] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 28 clause 2(b): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(c): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(d): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(e): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(f): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(g): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(h): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(i): repealed, on 2 July 2007, by [section 16(2)(a)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
-*   Schedule 28 clause 2(j): amended, on 2 July 2007, by [section 16(2)(b)][1351] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(a): amended, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 28 clause 2(b): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(c): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(d): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(e): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(f): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(g): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(h): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(i): repealed, on 2 July 2007, by [section 16(2)(a)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
+*   Schedule 28 clause 2(j): amended, on 2 July 2007, by [section 16(2)(b)][1352] of the Social Security Amendment Act 2007 (2007 No 20).
 
 ---
 
@@ -16147,7 +16147,7 @@ Method of calculating ability to make payments towards costs of home-based disab
 
 [s 69FA][286]
 
-*   Schedule 30: inserted, on 17 September 1997, by [section 29][1352] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
+*   Schedule 30: inserted, on 17 September 1997, by [section 29][1353] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
 
 *   1 In this schedule, specified outgoings, in relation to any person, means the annual total of---
         
@@ -16208,7 +16208,7 @@ Asset and income limits that may be applied to certain assistance
 
 [ss 61DB][240], [61DD][242], [61EA(3)][249], [69C(1)][282], [124(1A)][445]
 
-*   Schedule 31: inserted, on 1 April 2005, by [section 22(1)][1353] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+*   Schedule 31: inserted, on 1 April 2005, by [section 22(1)][1354] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 
 ## Part 1  
 Asset limits
@@ -16221,12 +16221,12 @@ Asset limits
 
 4For any other sole parent $1,454.71
 
-*   Schedule 31 Part 1 clause 1: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 1 clause 2: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 1: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 2: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 31 Part 1 clause 2: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 1 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 1 clause 3: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 1 clause 4: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 3: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 4: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ## Part 2  
 Income limits
@@ -16243,13 +16243,13 @@ Income limits
 
 9For any other sole parent $692.18
 
-*   Schedule 31 Part 2 clause 5: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 6: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 7: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 5: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 6: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 7: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 31 Part 2 clause 7: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 2 clause 7: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 2 clause 8: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 9: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 8: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 9: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ## Part 3  
 Disability allowance income limits
@@ -16266,13 +16266,13 @@ Disability allowance income limits
 
 14For any other sole parent $748.07
 
-*   Schedule 31 Part 3 clause 10: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 11: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 12: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 10: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 11: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 12: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 31 Part 3 clause 12: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 3 clause 12: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 3 clause 13: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 14: amended, on 1 April 2013, by [clause 6(1)][1310] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 13: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 14: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 
 ---
 
@@ -16281,47 +16281,47 @@ Transitional and savings provisions related to amendments to this Act
 
 [s 3C][10]
 
-*   Schedule 32: inserted, on 15 July 2013, by [section 140][1354] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 32: inserted, on 15 July 2013, by [section 140][1355] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 ## Contents
 
-[Social Security Amendment Act 2001][1355]
+[Social Security Amendment Act 2001][1356]
 
-[1][1356][][1356][Transfer from community wage to unemployment benefit on 1 July 2001][1356]
+[1][1357][][1357][Transfer from community wage to unemployment benefit on 1 July 2001][1357]
 
-[Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1357]
+[Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1358]
 
 [2][837][][837][Transfer from DPBs for solo parents and widows' benefits to sole parent support or jobseeker support on 15 July 2013][837]
 
-[3][1358][][1358][Reciprocity agreement applicants for, or recipients of, certain DPBs for solo parents or widows' benefits][1358]
+[3][1359][][1359][Reciprocity agreement applicants for, or recipients of, certain DPBs for solo parents or widows' benefits][1359]
 
-[4][1359][][1359][Transfer from invalids' benefits and DPBs for care of sick or infirm to supported living payment on 15 July 2013][1359]
+[4][1360][][1360][Transfer from invalids' benefits and DPBs for care of sick or infirm to supported living payment on 15 July 2013][1360]
 
-[5][1360][][1360][Social Security (Supported Living Payments Benefit) Regulations 1998][1360]
+[5][1361][][1361][Social Security (Supported Living Payments Benefit) Regulations 1998][1361]
 
-[6][1361][][1361][Transfer to emergency benefit of certain people 65 years old or older][1361]
+[6][1362][][1362][Transfer to emergency benefit of certain people 65 years old or older][1362]
 
-[7][1362][][1362][Transfer from unemployment benefit to jobseeker support on 15 July 2013][1362]
+[7][1363][][1363][Transfer from unemployment benefit to jobseeker support on 15 July 2013][1363]
 
-[8][1363][][1363][Transfer from sickness benefit to jobseeker support on 15 July 2013][1363]
+[8][1364][][1364][Transfer from sickness benefit to jobseeker support on 15 July 2013][1364]
 
-[9][1364][][1364][Social Security (Jobseeker Support---Medical Examinations) Regulations 2010][1364]
+[9][1365][][1365][Social Security (Jobseeker Support---Medical Examinations) Regulations 2010][1365]
 
-[10][1315][][1315][Transfer from DPBs for women alone to jobseeker support on 15 July 2013][1315]
+[10][1316][][1316][Transfer from DPBs for women alone to jobseeker support on 15 July 2013][1316]
 
-[11][1365][][1365][Appeals, and appeal boards, under section 53A][1365]
+[11][1366][][1366][Appeals, and appeal boards, under section 53A][1366]
 
-[12][1366][][1366][Temporary exemption from full-time student ineligibility for certain transferees to jobseeker support][1366]
+[12][1367][][1367][Temporary exemption from full-time student ineligibility for certain transferees to jobseeker support][1367]
 
-[13][1367][][1367][Residential requirements: overseas residents' entitlements under reciprocity agreements unaffected by section 74AA(1)(c)][1367]
+[13][1368][][1368][Residential requirements: overseas residents' entitlements under reciprocity agreements unaffected by section 74AA(1)(c)][1368]
 
-[14][1368][][1368][When beneficiaries can be paid benefit while overseas: travel booked before, but occurring after, 15 July 2013][1368]
+[14][1369][][1369][When beneficiaries can be paid benefit while overseas: travel booked before, but occurring after, 15 July 2013][1369]
 
-[15][1369][][1369][Saving of failures and sanctions not saved by other clauses][1369]
+[15][1370][][1370][Saving of failures and sanctions not saved by other clauses][1370]
 
-[16][1370][][1370][Unamended references to former benefits or amounts][1370]
+[16][1371][][1371][Unamended references to former benefits or amounts][1371]
 
-[17][1371][][1371][Regulations for transitional and savings purposes][1371]
+[17][1372][][1372][Regulations for transitional and savings purposes][1372]
 
 ---
 
@@ -16363,7 +16363,7 @@ Transitional and savings provisions related to amendments to this Act
     
 *   ###### Widows' benefits and DPBs for solo parents abolished
     
-    (1) The following are (subject to the savings in [clause 3][1358]) abolished on 15 July 2013:
+    (1) The following are (subject to the savings in [clause 3][1359]) abolished on 15 July 2013:
         
     *   (a) domestic purposes benefits under section 27B:
     
@@ -16447,7 +16447,7 @@ Transitional and savings provisions related to amendments to this Act
     
     ###### Clause does not apply to reciprocity agreement applicants or recipients
     
-    (19) Subclauses (2) to (18) do not apply to a person to whom [clause 3(1) or (3)][1358] applies.
+    (19) Subclauses (2) to (18) do not apply to a person to whom [clause 3(1) or (3)][1359] applies.
 
 ##### 3 Reciprocity agreement applicants for, or recipients of, certain DPBs for solo parents or widows' benefits
     
@@ -16527,7 +16527,7 @@ Transitional and savings provisions related to amendments to this Act
     
     (9) Subclause (8) applies to a person even if the benefit in subclause (8)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (10) commences until the suspension or reduction would have ended, or the benefit in subclause (8)(a) or (b) would otherwise have become payable again.
     
-    (10) A person to whom subclause (8) applies is, subject to subclauses (9) and (11) to (14) and to a review under section 81, entitled to a supported living payment under [section 40B][119] at the appropriate rate in [Schedule 6][1361] (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing---
+    (10) A person to whom subclause (8) applies is, subject to subclauses (9) and (11) to (14) and to a review under section 81, entitled to a supported living payment under [section 40B][119] at the appropriate rate in [Schedule 6][1362] (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing---
         
     *   (a) on 15 July 2013, if subclause (8)(a) applies to the person; or
     
@@ -16551,7 +16551,7 @@ Transitional and savings provisions related to amendments to this Act
     
     *   (b) had been granted a domestic purposes benefit under section 27G that was subject to a stand down period under [sections 80 to 80BA][311].
     
-    (16) Subclause (15)(a) applies, without limitation, to a domestic purposes benefit under section 27G that the person is entitled to continue to receive under the savings provision that is [section 30(2)][1372] of the Social Security (Youth Support and Work Focus) Amendment Act 2012\.
+    (16) Subclause (15)(a) applies, without limitation, to a domestic purposes benefit under section 27G that the person is entitled to continue to receive under the savings provision that is [section 30(2)][1373] of the Social Security (Youth Support and Work Focus) Amendment Act 2012\.
     
     (17) Subclause (15) applies to a person even if the benefit in subclause (15)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under [section 117][424] or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (18) commences until the suspension or reduction would have ended, or the benefit in subclause (15)(a) or (b) would otherwise have become payable again.
     
@@ -16577,7 +16577,7 @@ Transitional and savings provisions related to amendments to this Act
 
 ##### 5 Social Security (Supported Living Payments Benefit) Regulations 1998
     
-*   The [Social Security (Supported Living Payments Benefit) Regulations 1998][1373], as renamed and amended on 15 July 2013 by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1374], after 14 July 2014---
+*   The [Social Security (Supported Living Payments Benefit) Regulations 1998][1374], as renamed and amended on 15 July 2013 by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1375], after 14 July 2014---
         
     *   (a) must be treated as if they set out a period for the purposes of [section 40B(2)(a)][119]; and
     
@@ -16691,7 +16691,7 @@ Transitional and savings provisions related to amendments to this Act
 
 ##### 9 Social Security (Jobseeker Support---Medical Examinations) Regulations 2010
     
-*   The Social Security (Jobseeker Support---Medical Examinations) Regulations 2010, as renamed and amended on 15 July 2013 by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1374], after 14 July 2013---
+*   The Social Security (Jobseeker Support---Medical Examinations) Regulations 2010, as renamed and amended on 15 July 2013 by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1375], after 14 July 2013---
         
     *   (a) must be treated as if they specify a kind of health practitioner for the purposes of [section 88E(2)(d)][353]; and
     
@@ -16729,7 +16729,7 @@ Transitional and savings provisions related to amendments to this Act
     
     (7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the reduction or suspension would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
     
-    (8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under [section 81][324], entitled to jobseeker support at the appropriate rate in [Schedule 9][1375] (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing---
+    (8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under [section 81][324], entitled to jobseeker support at the appropriate rate in [Schedule 9][1376] (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing---
         
     *   (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
     
@@ -16767,7 +16767,7 @@ Transitional and savings provisions related to amendments to this Act
     
     *   (b) under [clause 2(11)][837] in respect of a widow's benefit under section 21; or
     
-    *   (c) under [clause 8(7)][1363] in respect of a sickness benefit under section 54 or 54A.
+    *   (c) under [clause 8(7)][1364] in respect of a sickness benefit under section 54 or 54A.
     
     (2) This subclause applies to a person who is a full-time student (as defined in section 3(1)) at the close of 14 July 2013, is receiving a main benefit under this Act (as defined in subclause (3)) at the close of 14 July 2013, and is transferred to jobseeker support at any time after 14 July 2013---
         
@@ -16875,7 +16875,7 @@ Transitional and savings provisions related to amendments to this Act
     
     *   (b) not an enactment that is the whole of, or a portion of, or made under, the Social Security Act 1964; and
     
-    *   (c) not amended by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1374].
+    *   (c) not amended by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1375].
     
     (2) A reference in column 1 of a row of the following table to a former benefit or amount under this Act must, unless the context otherwise requires, be read as a reference to the new benefit or amount in column 2 of that row.
     
@@ -16913,7 +16913,7 @@ Transitional and savings provisions related to amendments to this Act
     
 *   (1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
         
-    *   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1374]:
+    *   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1375]:
     
     *   (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
     
@@ -16943,7 +16943,7 @@ Commencement20 October 1972
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Social Security Amendment Act 1972][1376], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Social Security Amendment Act 1972][1377], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
 
 ## Part 1  
 Monetary benefits
@@ -16966,7 +16966,7 @@ Commencement14 November 1973
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Social Security Amendment Act 1973][1377], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Social Security Amendment Act 1973][1378], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
 
 ## Part 1  
 Monetary benefits
@@ -16991,7 +16991,7 @@ Commencement10 October 1975
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Social Security Amendment Act 1975][1378], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Social Security Amendment Act 1975][1379], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
 
 ## Part 3  
 General provisions
@@ -17016,7 +17016,7 @@ Commencement11 October 1978
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Social Security Amendment Act 1978][1379], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Social Security Amendment Act 1978][1380], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
 
 ##### 16 Additional benefit
     
@@ -17097,7 +17097,7 @@ Commencement30 June 1993
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Social Security Amendment Act (No 3) 1993][1380], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Social Security Amendment Act (No 3) 1993][1381], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
 
 ##### 5 Abolition of miners' benefits
     
@@ -17155,7 +17155,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Social Security Amendment Act 1994][1381], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Social Security Amendment Act 1994][1382], and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on the day after the day on which it receives the Royal assent.
 
@@ -17707,7 +17707,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Social Security Amendment Act 2005][1382].
+*   (1) This Act is the [Social Security Amendment Act 2005][1383].
     
     (2) In this Act, the Social Security Act 1964 is called ""the principal Act"".
 
@@ -17739,7 +17739,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Social Security (Social Assistance) Amendment Act 2005][1383].
+*   (1) This Act is the [Social Security (Social Assistance) Amendment Act 2005][1384].
     
     (2) In this Act, the Social Security Act 1964 is called ""the principal Act"".
 
@@ -17779,7 +17779,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Social Security (Long-term Residential Care) Amendment Act 2006][1384].
+*   This Act is the [Social Security (Long-term Residential Care) Amendment Act 2006][1385].
 
 ##### 2 Commencement
     
@@ -17818,7 +17818,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Social Security Amendment Act 2007][1385].
+*   This Act is the [Social Security Amendment Act 2007][1386].
 
 ##### 2 Commencement
     
@@ -17893,7 +17893,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010][1386].
+*   This Act is the [Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010][1387].
 
 ##### 2 Commencement
     
@@ -18087,11 +18087,11 @@ Consequential provisions taking effect on 15 October 2012
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1387] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1388] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1388] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1389] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1389] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1390] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1390] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1391] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
@@ -18101,43 +18101,43 @@ Consequential provisions taking effect on 15 October 2012
     
     Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 161][972]
     
-    [Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013][1391] (SR 2013/189)
+    [Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013][1392] (SR 2013/189)
     
     Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][936]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][710]
     
-    [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1374] (2013 No 13)
+    [Social Security (Benefit Categories and Work Focus) Amendment Act 2013][1375] (2013 No 13)
     
     Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [section 16(1)][654]
     
-    [Social Security (Rates of Benefits and Allowances) Order 2013][1392] (SR 2013/19)
+    [Social Security (Rates of Benefits and Allowances) Order 2013][1393] (SR 2013/19)
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][927]
     
-    [Social Security Amendment Act (No 2) 2012][1393] (2012 No 114)
+    [Social Security Amendment Act (No 2) 2012][1394] (2012 No 114)
     
-    [Social Security (Indexation---Budget Measures) Amendment Act 2012][1394] (2012 No 82)
+    [Social Security (Indexation---Budget Measures) Amendment Act 2012][1395] (2012 No 82)
     
     [Social Security (Youth Support and Work Focus) Amendment Act 2012][1193] (2012 No 50)
     
-    [Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012][1395] (2012 No 40)
+    [Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012][1396] (2012 No 40)
     
-    [Social Security Amendment Act 2012][1396] (2012 No 18)
+    [Social Security Amendment Act 2012][1397] (2012 No 18)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][740]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][1085]
     
-    [Social Security Amendment Act 2011][1397] (2011 No 48)
+    [Social Security Amendment Act 2011][1398] (2011 No 48)
     
     Limitation Act 2010 (2010 No 110): [section 58][1100]
     
-    [Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010][1386] (2010 No 105)
+    [Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010][1387] (2010 No 105)
     
-    [Social Security Amendment Act (No 2) 2010][1398] (2010 No 85)
+    [Social Security Amendment Act (No 2) 2010][1399] (2010 No 85)
     
-    [Social Security Amendment Act 2010][1399] (2010 No 30)
+    [Social Security Amendment Act 2010][1400] (2010 No 30)
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][684]
     
@@ -18151,33 +18151,33 @@ Consequential provisions taking effect on 15 October 2012
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][885]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 300][1331]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 300][1332]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][690]
     
-    [Social Security Amendment Act 2007][1385] (2007 No 20)
+    [Social Security Amendment Act 2007][1386] (2007 No 20)
     
-    [Social Security (Entitlement Cards) Amendment Act 2007][1400] (2007 No 17)
+    [Social Security (Entitlement Cards) Amendment Act 2007][1401] (2007 No 17)
     
     Social Security Amendment Act 2006 (2006 No 90)
     
-    [Social Security (Long-term Residential Care) Amendment Act 2006][1384] (2006 No 67)
+    [Social Security (Long-term Residential Care) Amendment Act 2006][1385] (2006 No 67)
     
     KiwiSaver Act 2006 (2006 No 40): [section 231][905]
     
     Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [section 5(2)(h)][687]
     
-    War Pensions Amendment Act 2006 (2006 No 32): [section 9][1266]
+    War Pensions Amendment Act 2006 (2006 No 32): [section 9][1267]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][741]
     
     New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [sections 5(1)][718], [9(1)][652]
     
-    [Social Security (Social Assistance) Amendment Act 2005][1383] (2005 No 30)
+    [Social Security (Social Assistance) Amendment Act 2005][1384] (2005 No 30)
     
-    [Social Security Amendment Act 2005][1382] (2005 No 21)
+    [Social Security Amendment Act 2005][1383] (2005 No 21)
     
-    [Social Security (Long-term Residential Care) Amendment Act 2004][1401] (2004 No 101)
+    [Social Security (Long-term Residential Care) Amendment Act 2004][1402] (2004 No 101)
     
     [Social Security (Working for Families) Amendment Act 2004][1060] (2004 No 51)
     
@@ -18193,7 +18193,7 @@ Consequential provisions taking effect on 15 October 2012
     
     War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][651]
     
-    [Social Security (Personal Development and Employment) Amendment Act 2002][1402] (2002 No 28)
+    [Social Security (Personal Development and Employment) Amendment Act 2002][1403] (2002 No 28)
     
     Parole Act 2002 (2002 No 10): [section 125][1018]
     
@@ -18209,15 +18209,15 @@ Consequential provisions taking effect on 15 October 2012
     
     Accident Compensation Act 2001 (2001 No 49): [section 337(1)][685]
     
-    [Social Security Amendment Act (No 2) 2001][1403] (2001 No 44)
+    [Social Security Amendment Act (No 2) 2001][1404] (2001 No 44)
     
-    [Social Security Amendment Act 2001][1404] (2001 No 1)
+    [Social Security Amendment Act 2001][1405] (2001 No 1)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][668]
     
     Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88): [section 8][726]
     
-    [Social Security Amendment Act 2000][1405] (2000 No 81)
+    [Social Security Amendment Act 2000][1406] (2000 No 81)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][704]
     
@@ -18229,7 +18229,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    [Social Security Amendment Act (No 3) 1998][1406] (1998 No 104)
+    [Social Security Amendment Act (No 3) 1998][1407] (1998 No 104)
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [sections 10(1)(a)][876], [11][600]
     
@@ -18239,17 +18239,17 @@ Consequential provisions taking effect on 15 October 2012
     
     Student Allowance Regulations 1998 (SR 1998/277): [regulation 49][672]
     
-    [Social Security Amendment Act (No 2) 1998][1407] (1998 No 60)
+    [Social Security Amendment Act (No 2) 1998][1408] (1998 No 60)
     
-    [Social Security Amendment Act 1998][1408] (1998 No 19)
+    [Social Security Amendment Act 1998][1409] (1998 No 19)
     
-    [Social Security (Overseas Pensions) Amendment Act 1998][1409] (1998 No 10)
+    [Social Security (Overseas Pensions) Amendment Act 1998][1410] (1998 No 10)
     
-    [Social Security Amendment Act (No 4) 1997][1410] (1997 No 63)
+    [Social Security Amendment Act (No 4) 1997][1411] (1997 No 63)
     
-    [Social Security Amendment Act (No 3) 1997][1411] (1997 No 23)
+    [Social Security Amendment Act (No 3) 1997][1412] (1997 No 23)
     
-    [Social Security Amendment Act 1997][1412] (1997 No 21)
+    [Social Security Amendment Act 1997][1413] (1997 No 21)
     
     Social Security Amendment Act (No 6) 1996 (1996 No 157)
     
@@ -18259,7 +18259,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act (No 4) 1996 (1996 No 145)
     
-    [Social Security Amendment Act (No 3) 1996][1413] (1996 No 49)
+    [Social Security Amendment Act (No 3) 1996][1414] (1996 No 49)
     
     Social Security Amendment Act 1996 (1996 No 20)
     
@@ -18289,7 +18289,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][1013]
     
-    [Social Security Amendment Act 1992][1414] (1992 No 15)
+    [Social Security Amendment Act 1992][1415] (1992 No 15)
     
     Accident Rehabilitation and Compensation Insurance Act 1992 (1992 No 13): section 172(2)
     
@@ -18297,7 +18297,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act (No 4) 1991 (1991 No 124)
     
-    [Social Security Amendment Act (No 2) 1991][1415] (1991 No 78)
+    [Social Security Amendment Act (No 2) 1991][1416] (1991 No 78)
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][787]
     
@@ -18327,11 +18327,11 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act 1984 (1984 No 8)
     
-    [Social Security Amendment Act 1983][1416] (1983 No 138)
+    [Social Security Amendment Act 1983][1417] (1983 No 138)
     
     Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2)][674]
     
-    [Social Security Amendment Act 1982][1417] (1982 No 16)
+    [Social Security Amendment Act 1982][1418] (1982 No 16)
     
     Social Security Amendment Act 1981 (1981 No 46)
     
@@ -19620,176 +19620,177 @@ Consequential provisions taking effect on 15 October 2012
 [1242]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392744
 [1243]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367449
 [1244]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM81286
-[1245]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM81645
-[1246]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM80814
-[1247]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392747
-[1248]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM334171
-[1249]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392760
-[1250]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392761
-[1251]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367454
-[1252]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367463
-[1253]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392762
-[1254]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM323316
-[1255]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392763
-[1256]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392765
-[1257]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392766
-[1258]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392767
-[1259]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392768
-[1260]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM127554
-[1261]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM337179
-[1262]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392770
-[1263]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392771
-[1264]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392772
-[1265]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3313170
-[1266]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM374621
-[1267]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392773
-[1268]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481715
-[1269]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044320
-[1270]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170384
-[1271]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767608
-[1272]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360267
-[1273]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259355
-[1274]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM185966
-[1275]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM154552
-[1276]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM175958
-[1277]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542423
-[1278]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542457
-[1279]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362133
-[1280]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365136
-[1281]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM151026
-[1282]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150069
-[1283]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150420
-[1284]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM153436
-[1285]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150441
-[1286]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362146
-[1287]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365149
-[1288]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360218
-[1289]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542393
-[1290]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542459
-[1291]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM359124
-[1292]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1518504
-[1293]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1518553
-[1294]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362154
-[1295]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542394
-[1296]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542460
-[1297]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750287
-[1298]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360388
-[1299]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750295
-[1300]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362174
-[1301]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365326
-[1302]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365427
-[1303]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1264727
-[1304]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147480
-[1305]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750277
-[1306]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298067
-[1307]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032538
-[1308]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM214189
-[1309]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542426
-[1310]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032546
-[1311]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170385
-[1312]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM85696
-[1313]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542483
-[1314]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542461
-[1315]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502393
-[1316]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425648
-[1317]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750252
-[1318]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392581
-[1319]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425699
-[1320]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74493
-[1321]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542396
-[1322]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542462
-[1323]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM230187
-[1324]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM240102
-[1325]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM255099
-[1326]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM275648
-[1327]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542397
-[1328]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM302690
-[1329]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM4705469
-[1330]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988406
-[1331]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1172341
-[1332]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298066
-[1333]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991516
-[1334]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542398
-[1335]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408991
-[1336]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411746
-[1337]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM361399
-[1338]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3264811
-[1339]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3264812
-[1340]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360328
-[1341]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM323305
-[1342]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367452
-[1343]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481718
-[1344]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192106
-[1345]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367450
-[1346]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3313172
-[1347]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM379491
-[1348]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392778
-[1349]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392775
-[1350]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367464
-[1351]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408573
-[1352]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411747
-[1353]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298069
-[1354]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750301
-[1355]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502378
-[1356]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502379
-[1357]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502381
-[1358]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502384
-[1359]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502385
-[1360]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502386
-[1361]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502387
-[1362]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502388
-[1363]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502390
-[1364]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502392
-[1365]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502395
-[1366]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502396
-[1367]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502399
-[1368]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514400
-[1369]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514401
-[1370]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514402
-[1371]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514404
-[1372]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360339
-[1373]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM257542
-[1374]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542300
-[1375]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM366597
-[1376]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408388
-[1377]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM410494
-[1378]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM437158
-[1379]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM22166
-[1380]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM302646
-[1381]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM333522
-[1382]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM337168
-[1383]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM340496
-[1384]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392733
-[1385]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408544
-[1386]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170302
-[1387]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998516
-[1388]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998515
-[1389]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998532
-[1390]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1391]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192100
-[1392]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032540
-[1393]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991505
-[1394]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767600
-[1395]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481701
-[1396]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4015002
-[1397]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3558406
-[1398]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044300
-[1399]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988400
-[1400]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM407647
-[1401]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM322930
-[1402]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147416
-[1403]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM98377
-[1404]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM84994
-[1405]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM78352
-[1406]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM433090
-[1407]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM426841
-[1408]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425633
-[1409]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM424983
-[1410]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411704
-[1411]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM409504
-[1412]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408983
-[1413]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392575
-[1414]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259663
-[1415]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM247392
-[1416]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74466
-[1417]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM59035
+[1245]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM80833
+[1246]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM81645
+[1247]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM80814
+[1248]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392747
+[1249]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM334171
+[1250]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392760
+[1251]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392761
+[1252]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367454
+[1253]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367463
+[1254]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392762
+[1255]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM323316
+[1256]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392763
+[1257]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392765
+[1258]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392766
+[1259]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392767
+[1260]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392768
+[1261]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM127554
+[1262]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM337179
+[1263]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392770
+[1264]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392771
+[1265]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392772
+[1266]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3313170
+[1267]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM374621
+[1268]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392773
+[1269]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481715
+[1270]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044320
+[1271]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170384
+[1272]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767608
+[1273]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360267
+[1274]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259355
+[1275]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM185966
+[1276]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM154552
+[1277]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM175958
+[1278]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542423
+[1279]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542457
+[1280]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362133
+[1281]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365136
+[1282]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM151026
+[1283]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150069
+[1284]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150420
+[1285]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM153436
+[1286]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM150441
+[1287]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362146
+[1288]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365149
+[1289]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360218
+[1290]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542393
+[1291]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542459
+[1292]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM359124
+[1293]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1518504
+[1294]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1518553
+[1295]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362154
+[1296]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542394
+[1297]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542460
+[1298]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750287
+[1299]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360388
+[1300]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750295
+[1301]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM362174
+[1302]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365326
+[1303]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM365427
+[1304]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1264727
+[1305]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147480
+[1306]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750277
+[1307]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298067
+[1308]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032538
+[1309]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM214189
+[1310]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542426
+[1311]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032546
+[1312]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170385
+[1313]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM85696
+[1314]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542483
+[1315]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542461
+[1316]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502393
+[1317]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425648
+[1318]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750252
+[1319]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392581
+[1320]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425699
+[1321]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74493
+[1322]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542396
+[1323]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542462
+[1324]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM230187
+[1325]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM240102
+[1326]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM255099
+[1327]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM275648
+[1328]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542397
+[1329]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM302690
+[1330]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM4705469
+[1331]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988406
+[1332]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM1172341
+[1333]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298066
+[1334]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991516
+[1335]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542398
+[1336]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408991
+[1337]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411746
+[1338]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM361399
+[1339]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3264811
+[1340]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3264812
+[1341]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360328
+[1342]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM323305
+[1343]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367452
+[1344]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481718
+[1345]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192106
+[1346]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367450
+[1347]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM3313172
+[1348]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM379491
+[1349]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392778
+[1350]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392775
+[1351]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367464
+[1352]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408573
+[1353]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411747
+[1354]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298069
+[1355]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750301
+[1356]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502378
+[1357]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502379
+[1358]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502381
+[1359]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502384
+[1360]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502385
+[1361]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502386
+[1362]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502387
+[1363]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502388
+[1364]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502390
+[1365]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502392
+[1366]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502395
+[1367]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502396
+[1368]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5502399
+[1369]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514400
+[1370]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514401
+[1371]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514402
+[1372]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM5514404
+[1373]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4360339
+[1374]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM257542
+[1375]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542300
+[1376]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM366597
+[1377]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408388
+[1378]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM410494
+[1379]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM437158
+[1380]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM22166
+[1381]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM302646
+[1382]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM333522
+[1383]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM337168
+[1384]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM340496
+[1385]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392733
+[1386]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408544
+[1387]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170302
+[1388]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998516
+[1389]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998515
+[1390]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998532
+[1391]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1392]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192100
+[1393]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032540
+[1394]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991505
+[1395]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767600
+[1396]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481701
+[1397]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4015002
+[1398]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3558406
+[1399]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044300
+[1400]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988400
+[1401]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM407647
+[1402]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM322930
+[1403]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147416
+[1404]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM98377
+[1405]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM84994
+[1406]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM78352
+[1407]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM433090
+[1408]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM426841
+[1409]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425633
+[1410]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM424983
+[1411]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411704
+[1412]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM409504
+[1413]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408983
+[1414]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392575
+[1415]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259663
+[1416]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM247392
+[1417]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74466
+[1418]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM59035
