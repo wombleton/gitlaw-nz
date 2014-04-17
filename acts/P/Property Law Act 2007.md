@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1629,7 +1629,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     Section 20(4): amended, on 1 July 2013, by [section 413][491] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20(5): added, on 25 September 2008, by [section 26][492] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 20(5): inserted, on 25 September 2008, by [section 26][492] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 21 Irrevocable powers of attorney
     
@@ -3598,9 +3598,9 @@ Mortgages
     
     *   (b) as if the references in [sections 156(1)(b) and (c)][180] and [163(1)(a)][187] to the date of entry into possession were references to the date of the making of that order.
     
-    Section 139(1)(c): substituted, on 7 July 2010, by [section 4(1)][573] of the Property Law Amendment Act 2010 (2010 No 76).
+    Section 139(1)(c): replaced, on 7 July 2010, by [section 4(1)][573] of the Property Law Amendment Act 2010 (2010 No 76).
     
-    Section 139(3): added, on 7 July 2010, by [section 4(2)][573] of the Property Law Amendment Act 2010 (2010 No 76).
+    Section 139(3): inserted, on 7 July 2010, by [section 4(2)][573] of the Property Law Amendment Act 2010 (2010 No 76).
 
 ##### 140 Mortgagees in possession of accounts receivable
     
@@ -4142,7 +4142,7 @@ Mortgages
         
     *   (a) the mortgagee's registered office, residence, or address notified under [section 156(2)(d)][180]; or
     
-    *   (b) at any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
+    *   (b) any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
     
     Compare: 1952 No 51 [s 104MM][599]
 
@@ -4160,9 +4160,9 @@ Mortgages
         
         *   (iii) the [Companies Act 1993][449]; or
         
-        *   (iv) the [Financial Reporting Act 1993][602]; or
+        *   (iv) \[Repealed\]
         
-        *   (v) the [Takeovers Act 1993][603].
+        *   (v) the [Takeovers Act 1993][602].
         
         
     
@@ -4172,7 +4172,9 @@ Mortgages
     
     (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104NN][604]
+    Compare: 1952 No 51 [s 104NN][603]
+    
+    Section 167(1)(b)(iv): repealed, on 1 April 2014, by [section 126][604] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
     Section 167(4): amended, on 1 July 2013, by [section 413][491] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -4706,7 +4708,7 @@ Mortgages
     
     *   (b) the reasonable expenses of, and incidental to, the conduct of the sale (whether or not the land is in fact sold); and
     
-    *   (c) if the land is sold, a further fee of one-quarter of 1% of the purchase money, but the further fee must not be less than the minimum fee, and not more than the maximum fee, prescribed for the purposes of this paragraph.
+    *   (c) if the land is sold, a further fee of 0.25% of the purchase money, but the further fee must not be less than the minimum fee, and not more than the maximum fee, prescribed for the purposes of this paragraph.
     
     (2) In subsection (1)(c), _purchase money_ includes, in the case of a sale subject to any mortgage or other encumbrance having priority over the vendor mortgagee's mortgage, the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority at the time of the sale.
     
@@ -5823,7 +5825,7 @@ Leases of land
     
     *   (b) the [Deeds Registration Act 1908][460].
     
-    (2) On and after the making of the order---
+    (2) On and after the making of the order,---
         
     *   (a) the lessee and any sublessee continue to hold the land under the terms of the lease, without any need for a new lease or sublease to be entered into; and
     
@@ -7980,9 +7982,9 @@ Miscellaneous provisions
 
 ##### 369 Transitional provisions relating to Insolvency Act 2006
     
-*   (1) Until the commencement of [Part 6][448] of the Insolvency Act 2006, the definition of **bankrupt** in [section 4][5] of this Act must be read as if the reference to Part 6 of the Insolvency Act 2006 were a reference to [Part 17][771] of the Insolvency Act 1967\.
+*   (1) Until the commencement of [Part 6][448] of the Insolvency Act 2006, the definition of _bankrupt_ in [section 4][5] of this Act must be read as if the reference to Part 6 of the Insolvency Act 2006 were a reference to [Part 17][771] of the Insolvency Act 1967\.
     
-    (2) Until the commencement of [subpart 9][772] of Part 3 of the Insolvency Act 2006, the definition of **creditor** in [section 4][5] of this Act must be read as if the reference to the [Insolvency Act 2006][451] were a reference to the [Insolvency Act 1967][736].
+    (2) Until the commencement of [subpart 9][772] of Part 3 of the Insolvency Act 2006, the definition of _creditor_ in [section 4][5] of this Act must be read as if the reference to the [Insolvency Act 2006][451] were a reference to the [Insolvency Act 1967][736].
 
 ##### 370 Transitional provisions relating to Companies Amendment Act 2006
     
@@ -8013,19 +8015,21 @@ Form of certificate of non-revocation of power of attorney
 
 I, \[_full name_\] of \[_place and country of residence_\], \[_occupation_\], certify---
     
-*   \* 1 That by deed dated \[_date of instrument creating the power of attorney_\], \[_full name of donor of power of attorney_\] of \[_place and country of residence of donor_\*\*\] appointed me his/her/its\* attorney.
+*   \*1 That by deed dated \[_date of instrument creating the power of attorney_\], \[_full name of donor of power of attorney_\] of \[_place and country of residence of donor_†\] appointed me his/her/its\* attorney.
 
 (Alternative to be used if attorney is a body corporate)
     
-*   \* 1 That by deed dated \[_date of instrument creating the power of attorney_\], \[_full name of donor of power of attorney_\] of \[_place and country of residence of donor_\*\*\] appointed as attorney \[_full name of body corporate holding power of attorney_\], a body corporate having its registered office \[_or principal place of business_\] at \[_address of registered office or principal place of business_\], and I am authorised to give this certificate on its behalf. The capacity in which I give this certificate for the attorney is as \[_director, officer, or other capacity_\].
+*   \*1 That by deed dated \[_date of instrument creating the power of attorney_\], \[_full name of donor of power of attorney_\] of \[_place and country of residence of donor_†\] appointed as attorney \[_full name of body corporate holding power of attorney_\], a body corporate having its registered office \[_or principal place of business_\] at \[_address of registered office or principal place of business_\], and I am authorised to give this certificate on its behalf. The capacity in which I give this certificate for the attorney is as \[_director, officer, or other capacity_\].
 
-*   2 That I have not received notice of any event revoking the power of attorney \[\*\*\*and to the best of my knowledge and belief no such notice has been received by \[_full name of body corporate holding power of attorney_\] or by any employee or agent of that body corporate\].
+*   2 That I have not received notice of any event revoking the power of attorney \[‡and to the best of my knowledge and belief no such notice has been received by \[_full name of body corporate holding power of attorney_\] or by any employee or agent of that body corporate\].
 
 Signed at \[_place_\], \[_date_\].
 
-*   \*Delete if inapplicable.
-*   \*\*If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.
-*   \*\*\*Include if donor is a body corporate.
+\*Delete if inapplicable.
+
+†If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.
+
+‡Include if donor is a body corporate.
 
 ---
 
@@ -8654,13 +8658,13 @@ Covenants, conditions, and powers implied in leases of land
 ## Part 1  
 Preliminary
 
-#### _Interpretation_
+#### Interpretation
 
 ##### 1 Interpretation
     
 *   In this schedule, _leased premises_ includes all land comprised in the lease.
 
-#### _General covenants_
+#### General covenants
 
 ##### 2 General covenant between lessor and lessee on matters set out in Part 2 of this schedule
     
@@ -9009,13 +9013,13 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     **Deed of Conveyance**
     
-    This deed, made on \[_insert date_\], between \[_name of conveying party_\] of \[_place of residence_\], \[_occupation_\], the **conveying party** and \[_name of assignee_\] of \[_place of residence_\], \[_occupation_\], the **assignee**
+    This deed, made on \[_date_\], between \[_name of conveying party_\] of \[_place of residence_\], \[_occupation_\], the **conveying party** and \[_name of assignee_\] of \[_place of residence_\], \[_occupation_\], the **assignee**
     
     \[Recitals, if any,\]: \[Now this deed\]
     
-    witnesses that, in consideration of the sum of \[_amount_\] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land \[_insert description of land_\]: as shown on the plan drawn on this conveyance and coloured \[_insert description of colour used_\].
+    witnesses that, in consideration of the sum of \[_amount_\] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land \[_description of land_\]: as shown on the plan drawn on this conveyance and coloured \[_description of colour used_\].
     
-    Signed at , this day of \[_month_\], \[_year_\]
+    Signed at \[_place_, _date_\]
     
     \[_signature_\]
     
@@ -9133,7 +9137,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I \[_or we_\] mortgage to the mortgagee all my \[_or our_\] estate and interest in the land.
     
-    Signed at , this day of \[_month_\], \[_year_\]
+    Signed at \[_place_, _date_\]
     
     \[_signature or signatures_\]
     
@@ -9942,7 +9946,7 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][892] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][893] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][892] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][893] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -9951,6 +9955,8 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 ###### 4 Amendments incorporated in this reprint
     
 *   Auctioneers Act 2013 (2013 No 148): [section 28(3)][507]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][604]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][471]
     
@@ -9967,6 +9973,8 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
     Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][477]
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1)][784]
+    
+    Property Law Act 2007 (2007 No 91): [section 364(2)][430]
     
     Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90): [section 26][492]
 
@@ -10574,9 +10582,9 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 [599]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267879
 [600]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327381
 [601]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM25999
-[602]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323597
-[603]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM325508
-[604]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267881
+[602]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM325508
+[603]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267881
+[604]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM5740665
 [605]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267064
 [606]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267885
 [607]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267883
@@ -10801,7 +10809,7 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 [826]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM345336
 [827]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386947
 [828]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386967
-[829]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387877
+[829]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268980
 [830]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM391455
 [831]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM76609
 [832]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM251185
