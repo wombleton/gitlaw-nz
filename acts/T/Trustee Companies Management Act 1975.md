@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -75,7 +75,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [24][26][][26][Application of Companies Act 1993][26]
 
-[24A][27][][27][Application of Financial Reporting Act 1993][27]
+[24A][27][][27][Application of Financial Reporting Act 1993][27] \[Repealed\]
 
 [25][28][][28][Regulations][28]
 
@@ -482,9 +482,9 @@ An Act to make special provision for the protection of persons who have benefici
 
 ##### 24A Application of Financial Reporting Act 1993
     
-*   The [Financial Reporting Act 1993][52] shall not apply to any trustee company or associated company to which this Act applies.
+*   \[Repealed\]
     
-    Section 24A: inserted, on 1 July 1994, by [section 2][53] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 24A: repealed, on 1 April 2014, by [section 126][52] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 25 Regulations
     
@@ -517,15 +517,17 @@ Provisions of Companies Act 1955 which do not apply to companies to which this A
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][54] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][55] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][53] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][54] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][56] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][57] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][55] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][38]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][52]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][44]
     
@@ -536,8 +538,6 @@ Provisions of Companies Act 1955 which do not apply to companies to which this A
     Public Trust Act 2001 (2001 No 100): [section 170(1)][40]
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][34]
-    
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][53]
     
     Public Finance Act 1989 (1989 No 44): [section 86(1)][48]
     
@@ -607,9 +607,8 @@ Provisions of Companies Act 1955 which do not apply to companies to which this A
 [49]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM320614
 [50]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM320877
 [51]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM321131
-[52]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM323597
-[53]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM328986
-[54]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998516
-[55]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998515
-[56]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998532
-[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[52]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM5740665
+[53]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998516
+[54]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998515
+[55]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998532
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
