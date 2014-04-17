@@ -13607,6 +13607,8 @@ Provisions relating to when disclosure is required and exclusions for offers and
 
 [27 ][852][][852][False or misleading statements and omissions][852]
 
+[27A][1132][][1132][Offeror is FMC reporting entity in prescribed circumstances][1132]
+
 [28 ][881][][881][Persons who must inform offeror about deficiencies in disclosure document under clause 26][881]
 
 [29 ][1315][][1315][Regulations may prevent exclusions from applying in inappropriate circumstances][1315]
