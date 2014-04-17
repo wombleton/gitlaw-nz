@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement1 October 1992
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -23,45 +23,45 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Power of Board to transfer undertaking to company][4]
+[3][4][][4][Power of Board to transfer undertaking to company][4]
 
-[4][5] [Principal objective to be successful business][5]
+[4][5][][5][Principal objective to be successful business][5]
 
-[5][6] [Restrictions on issue and transfer of equity securities][6]
+[5][6][][6][Restrictions on issue and transfer of equity securities][6]
 
-[6][7] [Liabilities in respect of undertakings][7]
+[6][7][][7][Liabilities in respect of undertakings][7]
 
-[7][8] [Consequential provisions on transfer of undertaking to company][8]
+[7][8][][8][Consequential provisions on transfer of undertaking to company][8]
 
-[8][9] [Employment deemed to be continuous][9]
+[8][9][][9][Employment deemed to be continuous][9]
 
-[9][10] [Saving of certain transactions][10]
+[9][10][][10][Saving of certain transactions][10]
 
-[10][11] [Effect of registration under Land Transfer Act 1952][11]
+[10][11][][11][Effect of registration under Land Transfer Act 1952][11]
 
-[11][12] [Board may transfer other land to company][12]
+[11][12][][12][Board may transfer other land to company][12]
 
-[12][13] [Powers of District Land Registrar, etc][13]
+[12][13][][13][Powers of District Land Registrar, etc][13]
 
-[13][14] [Execution of covenant][14]
+[13][14][][14][Execution of covenant][14]
 
-[14][15] [Discharge of covenant][15]
+[14][15][][15][Discharge of covenant][15]
 
-[15][16] [Stamp duty exemption][16]
+[15][16][][16][Stamp duty exemption][16]
 
-[16][17] [Gift duty exemption][17]
+[16][17][][17][Gift duty exemption][17]
 
-[17][18] [Application of Income Tax Act 2007 and Goods and Services Tax Act 1985][18]
+[17][18][][18][Application of Income Tax Act 2007 and Goods and Services Tax Act 1985][18]
 
-[18][19] [Auditor-General to be auditor of company][19]
+[18][19][][19][Auditor-General to be auditor of company][19]
 
-[19][20] [Deeming provisions][20]
+[19][20][][20][Deeming provisions][20]
 
-[20][21] [Abolition of Board, repeals, and revocations, etc][21]
+[20][21][][21][Abolition of Board, repeals, and revocations, etc][21]
 
 [Schedule 1][22]  
 [Canterbury Land District---Selwyn District][22]
@@ -298,9 +298,11 @@ An Act---
 
 ##### 18 Auditor-General to be auditor of company
     
-*   Despite [sections 196 to 203][46] of the Companies Act 1993, the company and every subsidiary of the company is a public entity as defined in [section 4][25] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   Despite [sections 207P to 207V][46] of the Companies Act 1993, the company and every subsidiary of the company is a public entity as defined in [section 4][25] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     Section 18: substituted, on 1 July 2001, by [section 53][47] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 18: amended, on 1 April 2014, by [section 126][48] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 19 Deeming provisions
     
@@ -308,11 +310,11 @@ An Act---
         
     *   (a) the transfer of the undertaking to the company shall be in full satisfaction of the duties, requirements, and obligations of the Board and each member of the Board under the Act, and no person shall question the validity of such transfer:
     
-    *   (b) the Board and the Councils shall not be required to comply with the provisions of [sections 594I to 594P][48] of the Local Government Act 1974 in transferring the undertaking from the Board to the company:
+    *   (b) the Board and the Councils shall not be required to comply with the provisions of [sections 594I to 594P][49] of the Local Government Act 1974 in transferring the undertaking from the Board to the company:
     
     *   (c) on the transfer of the undertaking from the Board to the company the provisions of [Part 34A][29] of the Local Government Act 1974 relating to the transfer and divestment of undertakings shall be deemed to have been complied with:
     
-    *   (d) the provisions of [sections 594F][49], [594R][50], [594S][36], [594T][51], [594U][52], [594V][53], [594W][54], [594X][55], [594Y][56], [594Z][57], [594ZA][58], [594ZB][59], [594ZC][60], [594ZD][61], [594ZE][62], [594ZF][63], [594ZG][64], [594ZH][65], [594ZI][35], [594ZJ][33], [594ZK][34], [594ZN][66], and [594ZP][67] of the Local Government Act 1974 shall apply to the Board and the Councils as holders of equity securities in the company and shall apply to the Board as if it were a local authority as defined in that Act.
+    *   (d) the provisions of [sections 594F][50], [594R][51], [594S][36], [594T][52], [594U][53], [594V][54], [594W][55], [594X][56], [594Y][57], [594Z][58], [594ZA][59], [594ZB][60], [594ZC][61], [594ZD][62], [594ZE][63], [594ZF][64], [594ZG][65], [594ZH][66], [594ZI][35], [594ZJ][33], [594ZK][34], [594ZN][67], and [594ZP][68] of the Local Government Act 1974 shall apply to the Board and the Councils as holders of equity securities in the company and shall apply to the Board as if it were a local authority as defined in that Act.
     
     
 
@@ -332,7 +334,7 @@ An Act---
     
     (5) This section shall come into force on a date to be fixed by the Governor-General by Order in Council on the advice of the Minister of Local Government.
     
-    Section 20: brought into force, on 8 October 1998, by the [Selwyn Plantation Board Empowering Act Commencement Order 1998][68] (SR 1998/261).
+    Section 20: brought into force, on 8 October 1998, by the [Selwyn Plantation Board Empowering Act Commencement Order 1998][69] (SR 1998/261).
 
 ---
 
@@ -576,7 +578,7 @@ Enactments repealed
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 485)
 
-_Amendment(s) incorporated in the [Act(s)][69]._
+_Amendment(s) incorporated in the [Act(s)][70]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, pp 555, 556)
 
@@ -584,27 +586,27 @@ _Amendment(s) incorporated in the [Act(s)][32]._
 
 ##### Local Government Amendment Act 1985 (1985 No 60) (RS Vol 25, p 652)
 
-_Amendment(s) incorporated in the [Act(s)][70]._
+_Amendment(s) incorporated in the [Act(s)][71]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][71]._
+_Amendment(s) incorporated in the [Act(s)][72]._
 
 ##### Local Legislation Act 1964 (1964 No 117)
 
-_Amendment(s) incorporated in the [Act(s)][72]._
+_Amendment(s) incorporated in the [Act(s)][73]._
 
 ##### Local Legislation Act 1969 (1969 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][73]._
+_Amendment(s) incorporated in the [Act(s)][74]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 686)
 
-_Amendment(s) incorporated in the [Act(s)][74]._
+_Amendment(s) incorporated in the [Act(s)][75]._
 
 ##### Reserves and Other Lands Disposal Act 1975 (1975 No 134)
 
-_Amendment(s) incorporated in the [Act(s)][75]._
+_Amendment(s) incorporated in the [Act(s)][76]._
 
 ##### Selwyn Plantation Board Act 1953 (1953 No 96)
 
@@ -625,78 +627,37 @@ Enactment amended
 
 _Amendment(s) incorporated in the [Act(s)][32]._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Selwyn Plantation Board Empowering Act 1992\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][76] ![](/images/external_link.gif).
+*   This is a reprint of the Selwyn Plantation Board Empowering Act 1992 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][77] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][77] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][78] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][78] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][79] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][80] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][79] and [17E][80] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][48]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][45]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][45]
     
     Public Audit Act 2001 (2001 No 10): [sections 52][27] [53][47], [54(1)(a)][28]
     
-    [Selwyn Plantation Board Empowering Act Commencement Order 1998][68] (SR 1998/261)
+    [Selwyn Plantation Board Empowering Act Commencement Order 1998][69] (SR 1998/261)
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/1992/0004/latest/whole.html#DLM2803700
 [2]: http://www.legislation.govt.nz/act/local/1992/0004/latest/whole.html#DLM80650
 [3]: http://www.legislation.govt.nz/act/local/1992/0004/latest/whole.html#DLM80651
@@ -742,38 +703,38 @@ _Amendment(s) incorporated in the [Act(s)][32]._
 [43]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM81034
 [44]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422515
 [45]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM1523176
-[46]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM320877
+[46]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM6041591
 [47]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM88957
-[48]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422556
-[49]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422544
-[50]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422590
-[51]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422597
-[52]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422600
-[53]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422603
-[54]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422606
-[55]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422609
-[56]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422613
-[57]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422616
-[58]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422621
-[59]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422624
-[60]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422627
-[61]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422632
-[62]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422638
-[63]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422641
-[64]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422644
-[65]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422647
-[66]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422669
-[67]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422676
-[68]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM258912
-[69]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM390522
-[70]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM75663
-[71]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM123625
-[72]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM356386
-[73]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM394835
-[74]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM431685
-[75]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM437732
-[76]: http://www.pco.parliament.govt.nz/reprints/
-[77]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM195439
-[78]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[79]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM195468
-[80]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM195470
+[48]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM5740665
+[49]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422556
+[50]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422544
+[51]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422590
+[52]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422597
+[53]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422600
+[54]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422603
+[55]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422606
+[56]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422609
+[57]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422613
+[58]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422616
+[59]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422621
+[60]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422624
+[61]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422627
+[62]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422632
+[63]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422638
+[64]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422641
+[65]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422644
+[66]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422647
+[67]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422669
+[68]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM422676
+[69]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM258912
+[70]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM390522
+[71]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM75663
+[72]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM123625
+[73]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM356386
+[74]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM394835
+[75]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM431685
+[76]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM437732
+[77]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM2998516
+[78]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM2998515
+[79]: http://www.legislation.govt.nz/act/local/1992/0004/latest/link.aspx?id=DLM2998532
+[80]: http://www.pco.parliament.govt.nz/editorial-conventions/
