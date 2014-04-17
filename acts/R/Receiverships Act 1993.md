@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -754,7 +754,7 @@ An Act to reform the law relating to receivers
     
     *   (c) the [Companies Act 1993][81]; or
     
-    *   (d) the [Financial Reporting Act 1993][90]; or
+    *   (d) \[Repealed\]
     
     *   (e) the [Takeovers Act 1993][84]---
     
@@ -766,13 +766,15 @@ An Act to reform the law relating to receivers
     
     Section 28: substituted, on 1 July 1994, by section 4 of the Receiverships Amendment Act 1994 (1994 No 14).
     
-    Section 28(1): amended, on 1 May 2002, by [section 4(1)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1): amended, on 1 May 2002, by [section 4(1)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
     
     Section 28(1)(a): repealed, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 28(1)(aa): inserted, on 1 May 2002, by [section 4(2)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1)(aa): inserted, on 1 May 2002, by [section 4(2)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 28(1A): inserted, on 1 May 2002, by [section 4(3)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1)(d): repealed, on 1 April 2014, by [section 126][91] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 28(1A): inserted, on 1 May 2002, by [section 4(3)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
     
     Section 28(2): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1491,7 +1493,7 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 
 ##### 15 Exception in relation to Commissioners and commission
     
-*   If a Commissioner of a local authority is or has been appointed under [section 255][121] or [section 258][122] of the Local Government Act 2002 or if a commission has been appointed under [clause 14][123] of Schedule 15 of that Act (either before or after the appointment of a receiver in respect of some or all of the assets or rates of that local authority under [section 40A][47] or [section 40B(1)][48]), the High Court may order that any receiver so appointed may not, until the High Court so orders, exercise any of the rights, powers, and duties of a receiver.
+*   If a Commissioner of a local authority is or has been appointed under [section 255][121] or [section 258][122] of the Local Government Act 2002 or if a commission has been appointed under clause 14 of [Schedule 15][123] of that Act (either before or after the appointment of a receiver in respect of some or all of the assets or rates of that local authority under [section 40A][47] or [section 40B(1)][48]), the High Court may order that any receiver so appointed may not, until the High Court so orders, exercise any of the rights, powers, and duties of a receiver.
     
     Compare: 1974 No 123 [s 122ZM(2)(q)][107]
 
@@ -1525,7 +1527,7 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][125] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][125] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -1534,6 +1536,8 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 ###### 4 Amendments incorporated in this reprint
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][72]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][91]
     
     Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][116]
     
@@ -1651,8 +1655,8 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 [87]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3360714
 [88]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM320845
 [89]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM327381
-[90]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323597
-[91]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91097
+[90]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91097
+[91]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM5740665
 [92]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46737
 [93]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM45599
 [94]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323547
@@ -1683,8 +1687,8 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 [119]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM122241
 [120]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM390002
 [121]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174077
-[122]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174081
-[123]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM176421
+[122]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM4925967
+[123]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM176403
 [124]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998516
 [125]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998515
 [126]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998532
