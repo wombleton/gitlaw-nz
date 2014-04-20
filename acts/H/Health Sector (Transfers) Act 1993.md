@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1175,9 +1175,7 @@ Provisions relating to transfer of assets and liabilities
 
 ##### 14 Shares issued for non-cash consideration
     
-*   \[Repealed\]
-    
-    Schedule 1 clause 14: repealed, on 5 December 2013, by [section 14][137] of the Companies Amendment Act 2013 (2013 No 111).
+*   Nothing in subsections (1)(b), (2), and (3) of section 60 of the Companies Act 1955 shall apply in respect of shares issued by a transferee consequent upon the transfer of assets, or assets and liabilities, to the transferee under this Act.
 
 ##### 15 Transfer without consideration
     
@@ -1224,15 +1222,15 @@ Other enactments amended
 
 ##### Alcoholic Liquor Advisory Council Act 1976 (1976 No 143) (RS Vol 26, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][138]._
+_Amendment(s) incorporated in the [Act(s)][137]._
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97) (RS Vol 17, p 13)
 
-_Amendment(s) incorporated in the [Act(s)][139]._
+_Amendment(s) incorporated in the [Act(s)][138]._
 
 ##### Burial and Cremation Act 1964 (1964 No 75) (RS Vol 16, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][139]._
 
 ##### Children's Health Camps Act 1972 (1972 No 21) (RS Vol 24, p 97)
 
@@ -1248,7 +1246,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Contraception, Sterilisation, and Abortion Act 1977 (1977 No 112) (RS Vol 28, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][141]._
+_Amendment(s) incorporated in the [Act(s)][140]._
 
 ##### Dental Act 1988 (1988 No 150)
 
@@ -1264,11 +1262,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) (RS Vol 6, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][142]._
+_Amendment(s) incorporated in the [Act(s)][141]._
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][143]._
+_Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Health Benefits (Reciprocity with Australia) Act 1986 (1986 No 30)
 
@@ -1276,15 +1274,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Health Benefits (Reciprocity with the United Kingdom) Act 1982 (1982 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][144]._
+_Amendment(s) incorporated in the [Act(s)][143]._
 
 ##### Health Research Council Act 1990 (1990 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][145]._
+_Amendment(s) incorporated in the [Act(s)][144]._
 
 ##### Human Tissue Act 1964 (1964 No 19) (RS Vol 16, p 169)
 
-_Amendment(s) incorporated in the [Act(s)][146],_
+_Amendment(s) incorporated in the [Act(s)][145],_
 
 ##### Income Tax Act 1976 (1976 No 65) (RS Vol 12, p 1)
 
@@ -1296,7 +1294,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463)
 
-_Amendment(s) incorporated in the [Act(s)][147]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Local Elections and Polls Act 1976 (1976 No 144) (RS Vol 28, p 683)
 
@@ -1304,15 +1302,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][148]._
+_Amendment(s) incorporated in the [Act(s)][147]._
 
 ##### Local Government Amendment Act 1979 (1979 No 59) (RS Vol 25, p 609)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][148]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 ##### Maternal Mortality Research Act 1968 (1968 No 26) (RS Vol 17, p 321)
 
@@ -1328,15 +1326,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][151]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][151]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Nurse Maude District Nursing Association Act 1967 (1967 No 1 (P))
 
@@ -1392,11 +1390,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][154] ._
+_Amendment(s) incorporated in the [Act(s)][153] ._
 
 ##### Radiation Protection Act 1965 (1965 No 23) (RS Vol 18, p 673)
 
-_Amendment(s) incorporated in the [Act(s)][155]._
+_Amendment(s) incorporated in the [Act(s)][154]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -1408,11 +1406,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][156]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][157]._
+_Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -1420,7 +1418,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Tuberculosis Act 1948 (1948 No 36) (RS Vol 11, p 693)
 
-_Amendment(s) incorporated in the[Act(s)][158]._
+_Amendment(s) incorporated in the[Act(s)][157]._
 
 ---
 
@@ -1514,7 +1512,7 @@ Repeals relating to Social Security Act 1964
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][159]._
+_Amendment(s) incorporated in the [Act(s)][158]._
 
 ##### Nurses Amendment Act 1990 (1990 No 107)
 
@@ -1538,21 +1536,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Amendment Act 1972 (1972 No 133) (RS Vol 13, p 571)
 
-_Amendment(s) incorporated in the [Act(s)][160]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Social Security Amendment Act 1973 (1973 No 34) (RS Vol 13, p 575)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][160]._
 
 ##### Social Security Amendment Act 1975 (1975 No 123) (RS Vol 13, p 580)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][161]._
 
 ##### Social Security Amendment Act 1977 (1977 No 120) (RS Vol 13, p 587)
 
 ##### Social Security Amendment Act (No 2) 1977 (1977 No 133) (RS Vol 13, p 590)
 
-_Amendment(s) incorporated in the [Act(s)][163]._
+_Amendment(s) incorporated in the [Act(s)][162]._
 
 ##### Social Security Amendment Act 1979 (1979 No 14) (RS Vol 13, p 596)
 
@@ -1568,17 +1566,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Amendment Act 1982 (1982 No 16) (RS Vol 13, p 607)
 
-_Amendment(s) incorporated in the [Act(s)][164]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Social Security Amendment Act (No 2) 1984 (1984 No 19)
 
 ##### Social Security Amendment Act 1986 (1986 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][164]._
 
 ##### Social Security Amendment Act (No 2) 1990 (1990 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][166]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Social Security Amendment Act (No 3) 1991 (1991 No 83)
 
@@ -1745,7 +1743,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Health Sector (Transfers) Amendment Act 2000][167].
+*   (1) This Act is the [Health Sector (Transfers) Amendment Act 2000][166].
     
     (2) In this Act, the Act known before the commencement of this Act as the Health Reforms (Transitional Provisions) Act 1993 is called ""the principal Act"".
 
@@ -1781,17 +1779,15 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][168] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][169] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][167] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][168] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][170] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][171] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][169] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][170] ![](/images/external_link.gif).
 
-###### 4 Amendments incorporated in this reprint
+###### 5 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][137]
-    
-    Legislation Act 2012 (2012 No 119): [section 77(3)][80]
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][80]
     
     New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][74], [34][71]
     
@@ -1807,7 +1803,7 @@ Commencementsee section 2
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 59(1)][116]
     
-    [Health Sector (Transfers) Amendment Act 2000][167] (2000 No 92)
+    [Health Sector (Transfers) Amendment Act 2000][166] (2000 No 92)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][73]
     
@@ -1958,38 +1954,37 @@ Commencementsee section 2
 [134]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM246311
 [135]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM253256
 [136]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295197
-[137]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM5620822
-[138]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM439968
-[139]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM380084
-[140]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM355078
-[141]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM17679
-[142]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM264952
-[143]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM48686
-[144]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM66507
-[145]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM213016
-[146]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM350960
-[147]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM390002
-[148]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM415531
-[149]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM34653
-[150]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM122241
-[151]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM53789
-[152]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM262175
-[153]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM436100
-[154]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM324218
-[155]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM372538
-[156]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM223190
-[157]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM129109
-[158]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM248403
-[159]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM90400
-[160]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM408842
-[161]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM410832
-[162]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM437158
-[163]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM20979
-[164]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM59080
-[165]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM93810
-[166]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM214187
-[167]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83566
-[168]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998516
-[169]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998515
-[170]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998532
-[171]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[137]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM439968
+[138]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM380084
+[139]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM355078
+[140]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM17679
+[141]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM264952
+[142]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM48686
+[143]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM66507
+[144]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM213016
+[145]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM350960
+[146]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM390002
+[147]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM415531
+[148]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM34653
+[149]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM122241
+[150]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM53789
+[151]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM262175
+[152]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM436100
+[153]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM324218
+[154]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM372538
+[155]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM223190
+[156]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM129109
+[157]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM248403
+[158]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM90400
+[159]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM408842
+[160]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM410832
+[161]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM437158
+[162]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM20979
+[163]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM59080
+[164]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM93810
+[165]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM214187
+[166]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83566
+[167]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998516
+[168]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998515
+[169]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998532
+[170]: http://www.pco.parliament.govt.nz/editorial-conventions/
