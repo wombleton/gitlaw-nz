@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -6059,7 +6059,7 @@ Funeral grants
     
     *   (c) any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent---
     
-    the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased person's reasonable funeral expenses if---
+    the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased person's reasonable funeral expenses if---
         
     *   (d) those funeral expenses cannot be paid from the aggregate of---
             
@@ -6075,7 +6075,7 @@ Funeral grants
     
     Section 61DB heading: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Section 61DB: amended, on 1 April 2013 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+    Section 61DB: amended, on 1 April 2014 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
     
     Section 61DB: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
@@ -6091,19 +6091,19 @@ Funeral grants
 
 ##### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
     
-*   If a person, other than a child, dies and [section 61DB][240] does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+*   If a person, other than a child, dies and [section 61DB][240] does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
     
     Section 61DC: replaced, on 1 August 1991, by [section 16(1)][884] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
     
     Section 61DC heading: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
     
-    Section 61DC: amended, on 1 April 2013 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+    Section 61DC: amended, on 1 April 2014 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
     
     Section 61DC: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 61DD Children's funeral grants
     
-*   If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,971.37 to meet the deceased child's reasonable funeral expenses if---
+*   If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,998.57 to meet the deceased child's reasonable funeral expenses if---
         
     *   (a) those funeral expenses cannot be paid from the aggregate of---
             
@@ -6117,7 +6117,7 @@ Funeral grants
     
     Section 61DD: replaced, on 1 August 1991, by [section 16(1)][884] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
     
-    Section 61DD: amended, on 1 April 2013 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+    Section 61DD: amended, on 1 April 2014 (applying in respect of persons who die on or after that date), by [clause 3(1)][890] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
     
     Section 61DD: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
@@ -14745,15 +14745,15 @@ Rates of generally abolished former widows' benefits under section 21 as saved b
 *   Schedule 3: replaced, on 10 March 2003, by [section 30][1305] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
 *   Schedule 3 heading: replaced, on 15 July 2013, by [section 80][1306] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
-1To a beneficiary with 1 or more dependent children $295.37 a week, subject to Income Test 1
+1To a beneficiary with 1 or more dependent children $299.45 a week, subject to Income Test 1
 
-2To a beneficiary without any dependent children $214.79 a week, subject to Income Test 1
+2To a beneficiary without any dependent children $217.75 a week, subject to Income Test 1
 
 3For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
 *   Schedule 3 clause 1: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 3 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 3 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 3 clause 1: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 3 clause 2: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -14764,7 +14764,7 @@ Rate of sole parent support
 
 *   Schedule 3A: inserted, on 15 July 2013, by [section 81(1)][667] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
-*   1 To a beneficiary with 1 or more dependent children: $295.37 a week, subject to Income Test 1\.
+*   1 To a beneficiary with 1 or more dependent children: $299.45 a week, subject to Income Test 1\.
 
 *   2 For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
@@ -14774,7 +14774,7 @@ Rate of sole parent support
     
     *   (b) considers that treatment of it to be reasonable in the circumstances.
     
-    
+    Schedule 3A clause 1: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -14783,20 +14783,20 @@ Maximum rates of orphans' benefits and unsupported childs' benefits
     
 *   Schedule 4: replaced, on 1 October 1990, by [section 21(1)][1309] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
 
-1(a)In respect of a child aged 14 years or over $200.65 a week
+1(a)In respect of a child aged 14 years or over $203.42 a week
 
-(b)In respect of a child aged over 10 years and under 14 years $183.53 a week
+(b)In respect of a child aged over 10 years and under 14 years $186.06 a week
 
-(c)In respect of a child aged over 5 years and under 10 years $166.32 a week
+(c)In respect of a child aged over 5 years and under 10 years $168.62 a week
 
-(d)In respect of a child aged under 5 years $143.32 a week
+(d)In respect of a child aged under 5 years $145.30 a week
 
 2 The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause.
 
-*   Schedule 4 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 4 clause 1(d): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 4 clause 1(a): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 4 clause 1(b): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 4 clause 1(c): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 4 clause 1(d): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -14820,21 +14820,21 @@ Rates of supported living payment benefits
 *   Schedule 6 heading: amended, on 15 July 2013, by [section 94(1)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 *   Schedule 6 heading: amended, on 15 July 2013, by [section 94(2)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
-1(a)To a single beneficiary under the age of 18 years without dependent children $208.58 a week, subject to Income Test 1
+1(a)To a single beneficiary under the age of 18 years without dependent children $211.46 a week, subject to Income Test 1
 
-(b)To any other single beneficiary without dependent children $257.75 a week, subject to Income Test 1
+(b)To any other single beneficiary without dependent children $261.31 a week, subject to Income Test 1
 
-(c)To a single beneficiary with 1 or more dependent children $338.60 a week, subject to Income Test 1
+(c)To a single beneficiary with 1 or more dependent children $343.27 a week, subject to Income Test 1
 
 (d)_\[Repealed\]_ 
 
-(e)To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) $214.79 a week, subject to Income Test 2
+(e)To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) $217.75 a week, subject to Income Test 2
 
-(f)To a beneficiary (with or without dependent children) receiving a supported living payment under [section 40B][119] on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right $214.79 a week, increased by $214.79 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1
+(f)To a beneficiary (with or without dependent children) receiving a supported living payment under [section 40B][119] on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right $217.75 a week, increased by $217.75 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1
 
-(g)To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension $214.79 a week, subject to Income Test 1
+(g)To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension $217.75 a week, subject to Income Test 1
 
-(h)To a beneficiary (with or without dependent children) receiving a supported living payment under [section 40D][121] on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right $214.79 a week, subject to Income Test 1
+(h)To a beneficiary (with or without dependent children) receiving a supported living payment under [section 40D][121] on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right $217.75 a week, subject to Income Test 1
 
 provided that, in computing the income of any beneficiary for the purpose of this schedule, the chief executive shall---
 
@@ -14842,34 +14842,36 @@ provided that, in computing the income of any beneficiary for the purpose of thi
 
 (b)disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts.
 
-2 Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case $344.79 a week, increased by $42.96 a week if the beneficiary is a single person
+2 Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case $347.75 a week, increased by $43.56 a week if the beneficiary is a single person
 
-3 Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $214.79 a week.
+3 Despite paragraphs (e), (g), and (h) of clause 1, the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed $217.75 a week.
 
-*   Schedule 6 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(a): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(a): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(b): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(b): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 6 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(c): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(c): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(d): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 6 clause 1(e): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(e): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(e): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(e): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
+*   Schedule 6 clause 1(f): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(f): amended, on 15 July 2013, by [section 94(3)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 6 clause 1(f): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 1(f): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(f): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 6 clause 1(g): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 6 clause 1(g): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1(g): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(g): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 1(h): inserted, on 15 July 2013, by [section 94(4)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 1(h): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 1 proviso: amended, on 1 October 1998, by [section 11][600] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+*   Schedule 6 clause 2: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 6 clause 2: amended, on 15 July 2013, by [section 94(5)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 6 clause 2: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 6 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 6 clause 3: inserted, on 15 July 2013, by [section 94(6)][1310] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 6 clause 3: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -14906,31 +14908,31 @@ Rates of jobseeker support
 *   Schedule 9 heading: amended, on 15 July 2013, by [section 127(2)][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 *   Schedule 9 heading: amended, on 15 July 2013, by [section 111][1315] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
-1(aa)To a single beneficiary under the age of 20 years who is--- $137.47 a week, subject to Income Test 3
+1(aa)To a single beneficiary under the age of 20 years who is--- $139.37 a week, subject to Income Test 3
 
 (i)living with a parent (as that term is defined in [section 3(1)][7]); and 
 
 (ii)whose benefit commenced on or after 1 July 1998 
 
-(a)To any other single beneficiary under the age of 25 years without dependent children $171.84 a week, subject to Income Test 3
+(a)To any other single beneficiary under the age of 25 years without dependent children $174.21 a week, subject to Income Test 3
 
-(ab)To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support--- $214.79 a week, subject to Income Test 1
+(ab)To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support--- $217.75 a week, subject to Income Test 1
 
 (i)by [clause 2(9) and (11)][837] of Schedule 32; or 
 
 (ii)by [clause 10(6) and (8)][1316] of Schedule 32 
 
-(b)To any other single beneficiary without dependent children $206.21 a week, subject to Income Test 3
+(b)To any other single beneficiary without dependent children $209.06 a week, subject to Income Test 3
 
-(ba)To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and _see also_ the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) $295.37 a week, subject to Income Test 1
+(ba)To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and _see also_ the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) $299.45 a week, subject to Income Test 1
 
-(c)To any other single beneficiary with 1 or more dependent children $295.37 a week, subject to Income Test 1
+(c)To any other single beneficiary with 1 or more dependent children $299.45 a week, subject to Income Test 1
 
-(d)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) $171.84 a week, subject to Income Test 4
+(d)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) $174.21 a week, subject to Income Test 4
 
-(e)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right $171.84 a week, increased by $171.84 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3
+(e)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right $174.21 a week, increased by $174.21 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3
 
-(f)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension $171.84 a week, subject to Income Test 3
+(f)To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension $174.21 a week, subject to Income Test 3
 
 (g)_\[Repealed\]_ 
 
@@ -14940,13 +14942,13 @@ Rates of jobseeker support
 
 (j)_\[Repealed\]_ 
 
-2Maximum increase in respect of a housekeeper $171.84 a week
+2Maximum increase in respect of a housekeeper $174.21 a week
 
 3_\[Repealed\]_
 
 4_\[Repealed\]_
 
-5Special rate of benefit for persons to whom [section 88M(4)][361] applies $171.84 a week, subject to Income Test 4
+5Special rate of benefit for persons to whom [section 88M(4)][361] applies $174.21 a week, subject to Income Test 4
 
 5AA single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(ba), includes, without limitation, any such beneficiary who is--- 
 
@@ -14961,44 +14963,45 @@ Rates of jobseeker support
 6_\[Repealed\]_
 
 *   Schedule 9 clause 1(aa): inserted, on 1 July 1998, by [section 10(2)][1317] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 9 clause 1(aa): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(aa): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(aa): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(aa): amended, on 1 July 2001, by [section 44(2)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
-*   Schedule 9 clause 1(a): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(a): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(a): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(a): amended, on 1 July 2001, by [section 44(3)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
 *   Schedule 9 clause 1(a): amended, on 1 July 1998, by [section 10(3)][1317] of the Social Security Amendment Act 1998 (1998 No 19).
 *   Schedule 9 clause 1(ab): inserted, on 15 July 2013, by [section 60(1)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(b): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(ab): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 9 clause 1(b): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(b): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(ba): inserted, on 15 July 2013, by [section 60(2)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(ba): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(c): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2005 No 51).
-*   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(a)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+*   Schedule 9 clause 1(c): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(c): amended, on 15 July 2013, by [section 60(3)(b)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 1(c): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 1(c): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(d): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(d): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(d): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(d): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(d): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(e): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(e): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(e): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(e): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(e): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(f): replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 1(f): amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 1(f): amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 1(f): amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(f): amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 9 clause 1(g): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 9 clause 1(h): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 9 clause 1(i): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
 *   Schedule 9 clause 1(j): repealed, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 9 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 9 clause 2: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 3: repealed, on 1 July 1996, by [section 2(2)][1319] of the Social Security Amendment Act (No 3) 1996 (1996 No 49).
 *   Schedule 9 clause 4: repealed, on 1 January 1998, by [section 10(1)][991] of the Social Security Amendment Act (No 3) 1997 (1997 No 23).
 *   Schedule 9 clause 5: replaced, on 1 October 1998, by [section 56(2)][1320] of the Social Security Amendment Act 1998 (1998 No 19).
+*   Schedule 9 clause 5: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 9 clause 5: amended, on 15 July 2013, by [section 127(3)][1314] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 9 clause 5: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 9 clause 5: amended, on 1 July 2001, by [section 44(4)][1313] of the Social Security Amendment Act 2001 (2001 No 1).
 *   Schedule 9 clause 5A: inserted, on 15 July 2013, by [section 60(4)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 *   Schedule 9 clause 5B: inserted, on 15 July 2013, by [section 60(4)][1318] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
@@ -15152,15 +15155,15 @@ Rates of generally abolished former DPB for solo parents under section 27B as sa
 *   Schedule 16: replaced, on 10 March 2003, by [section 30][1305] of the Social Security (Personal Development and Employment) Amendment Act 2002 (2002 No 28).
 *   Schedule 16 heading: replaced, on 15 July 2013, by [section 83][1328] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
-1To a beneficiary with 1 or more dependent children $295.37 a week, subject to Income Test 1
+1To a beneficiary with 1 or more dependent children $299.45 a week, subject to Income Test 1
 
-2To a beneficiary without any dependent children $214.79 a week, subject to Income Test 1
+2To a beneficiary without any dependent children $217.75 a week, subject to Income Test 1
 
 3For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
 *   Schedule 16 clause 1: replaced, on 1 April 2005, by [section 20(1)][1307] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
-*   Schedule 16 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 16 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 16 clause 1: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 16 clause 2: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -15704,16 +15707,16 @@ Rates of child disability allowance and disability allowance
 *   Schedule 19: replaced, on 6 November 1985, by section 25(1) of the Social Security Amendment Act (No 2) 1985 (1985 No 159).
 *   Schedule 19 heading: amended, on 1 September 1998, by [section 12(4)(d)][776] of the Social Security Amendment Act 1998 (1998 No 19).
 
-1Rate of child disability allowance$45.62 a week
+1Rate of child disability allowance$46.25 a week
 
-2Maximum rate of disability allowance under [section 69C(1)][282]$60.54 a week
+2Maximum rate of disability allowance under [section 69C(1)][282]$61.38 a week
 
-3Rate of special disability allowance under [section 69C(5)][282]$37.76 a week
+3Rate of special disability allowance under [section 69C(5)][282]$38.28 a week
 
-*   Schedule 19 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 19 clause 1: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 19 clause 1: amended, on 1 September 1998, by [section 12(4)(d)][776] of the Social Security Amendment Act 1998 (1998 No 19).
-*   Schedule 19 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 19 clause 3: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 19 clause 2: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 19 clause 3: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -15746,12 +15749,12 @@ Rates of benefits payable to long-term hospital patients
 
 *   Schedule 22: inserted, on 6 November 1985, by section 27(1) of the Social Security Amendment Act (No 2) 1985 (1985 No 159).
 
-1To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act $42.64 a week
+1To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act $43.23 a week
 
 2_\[Repealed\]_ 
 
+*   Schedule 22 clause 1: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 22 clause 1: amended, on 15 July 2013, by [section 61(26)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
-*   Schedule 22 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
 *   Schedule 22 clause 1: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 22 clause 1: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 22 clause 2: repealed, on 15 July 2013, by [section 61(27)][673] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
@@ -15804,7 +15807,7 @@ Rates and component of youth payment and young parent payment, and criteria for 
 
 *   1 For a single young person without dependent children.
 
-171.84 a week subject to clause 10
+174.21 a week subject to clause 10
 
 *   2 For a single young person who---
         
@@ -15814,19 +15817,19 @@ Rates and component of youth payment and young parent payment, and criteria for 
     
     
 
-137.47 a week subject to clause 10
+139.37 a week subject to clause 10
 
 *   3 For any other single young person with a dependent child or children.
 
-295.37 a week subject to clause 10
+299.45 a week subject to clause 10
 
 *   4 For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children.
 
-171.84 a week subject to clause 11
+174.21 a week subject to clause 11
 
 *   5 For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children.
 
-171.84 a week subject to clause 11
+174.21 a week subject to clause 11
 
 ### Component
 
@@ -15854,19 +15857,19 @@ Rates and component of youth payment and young parent payment, and criteria for 
 
 ### Abatement rates and income limits
 
-*   10 The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person's weekly income that exceeds $208.00, but no amount of youth payment or young parent payment or incentive payment is payable if the young person's weekly income exceeds $258.00\.
+*   10 The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person's weekly income that exceeds $210.88, but no amount of youth payment or young parent payment or incentive payment is payable if the young person's weekly income exceeds $260.88\.
 
-*   11 The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $208.00, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $308.00\.
+*   11 The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $210.88, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $310.88\.
 
 *   12 For the purposes of clause 10 or 11 and a rate of young parent payment, the chief executive may, in his or her discretion, disregard up to $20 a week of the personal earnings of the young person used to meet the costs of child care for any of the person's dependent children.
 
-*   Schedule 26 clause 1: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 2: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 3: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 4: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 5: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 10: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 26 clause 11: amended, on 1 April 2013, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 26 clause 1: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 2: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 3: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 4: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 5: amended, on 1 April 2014, by [clause 4][1308] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 10: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 26 clause 11: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -16213,66 +16216,66 @@ Asset and income limits that may be applied to certain assistance
 ## Part 1  
 Asset limits
 
-1For a single person without dependent children $1,031.36
+1For a single person without dependent children $1,045.59
 
-2For a person who is married or in a civil union or in a de facto relationship with or without dependent children $1,718.52
+2For a person who is married or in a civil union or in a de facto relationship with or without dependent children $1,742.24
 
-3For a sole parent with 1 dependent child $1,354.21
+3For a sole parent with 1 dependent child $1,372.90
 
-4For any other sole parent $1,454.71
+4For any other sole parent $1,474.78
 
-*   Schedule 31 Part 1 clause 1: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 1 clause 2: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 1: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 1 clause 2: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 31 Part 1 clause 2: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 1 clause 2: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 1 clause 3: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 1 clause 4: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 1 clause 3: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 1 clause 4: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ## Part 2  
 Income limits
 
 **Per week**
 
-5For a single person aged 16 or 17 years without dependent children $471.09
+5For a single person aged 16 or 17 years without dependent children $477.59
 
-6For any other single person without dependent children $541.43
+6For any other single person without dependent children $548.90
 
-7For a person who is married or in a civil union or in a de facto relationship with or without dependent children $786.39
+7For a person who is married or in a civil union or in a de facto relationship with or without dependent children $797.24
 
-8For a sole parent with 1 dependent child $656.99
+8For a sole parent with 1 dependent child $666.06
 
-9For any other sole parent $692.18
+9For any other sole parent $701.73
 
-*   Schedule 31 Part 2 clause 5: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 6: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 7: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 5: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 2 clause 6: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 2 clause 7: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 31 Part 2 clause 7: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 2 clause 7: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 2 clause 8: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 2 clause 9: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 2 clause 8: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 2 clause 9: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ## Part 3  
 Disability allowance income limits
 
 **Per week**
 
-10For a single person aged 16 or 17 years without dependent children $509.10
+10For a single person aged 16 or 17 years without dependent children $516.13
 
-11For any other single person without dependent children $595.92
+11For any other single person without dependent children $607.36
 
-12For a person who is married or in a civil union or in a de facto relationship with or without dependent children $882.79
+12For a person who is married or in a civil union or in a de facto relationship with or without dependent children $900.57
 
-13For a sole parent with 1 dependent child $710.02
+13For a sole parent with 1 dependent child $719.82
 
-14For any other sole parent $748.07
+14For any other sole parent $758.39
 
-*   Schedule 31 Part 3 clause 10: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 11: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 12: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 10: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 3 clause 11: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 3 clause 12: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 31 Part 3 clause 12: amended, on 1 April 2007, by [section 5][686] of the Social Security Amendment Act 2005 (2005 No 21).
 *   Schedule 31 Part 3 clause 12: amended, on 26 April 2005, by [section 3][661] of the Social Security Amendment Act 2005 (2005 No 21).
-*   Schedule 31 Part 3 clause 13: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
-*   Schedule 31 Part 3 clause 14: amended, on 1 April 2013, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2013 (SR 2013/19).
+*   Schedule 31 Part 3 clause 13: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 31 Part 3 clause 14: amended, on 1 April 2014, by [clause 6(1)][1311] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -18087,7 +18090,7 @@ Consequential provisions taking effect on 15 October 2012
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1388] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1389] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1388] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1389] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -18095,7 +18098,9 @@ Consequential provisions taking effect on 15 October 2012
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [sections 4(1)][1025], [15][648], [29][1196]
+*   Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39): [sections 3][890], [4][1308], [6(1)][1311]
+    
+    Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [sections 4(1)][1025], [15][648], [29][1196]
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][682]
     
@@ -18111,33 +18116,31 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [section 16(1)][654]
     
-    [Social Security (Rates of Benefits and Allowances) Order 2013][1393] (SR 2013/19)
-    
     Legislation Act 2012 (2012 No 119): [section 77(3)][927]
     
-    [Social Security Amendment Act (No 2) 2012][1394] (2012 No 114)
+    [Social Security Amendment Act (No 2) 2012][1393] (2012 No 114)
     
-    [Social Security (Indexation---Budget Measures) Amendment Act 2012][1395] (2012 No 82)
+    [Social Security (Indexation---Budget Measures) Amendment Act 2012][1394] (2012 No 82)
     
     [Social Security (Youth Support and Work Focus) Amendment Act 2012][1193] (2012 No 50)
     
-    [Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012][1396] (2012 No 40)
+    [Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012][1395] (2012 No 40)
     
-    [Social Security Amendment Act 2012][1397] (2012 No 18)
+    [Social Security Amendment Act 2012][1396] (2012 No 18)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][740]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][1085]
     
-    [Social Security Amendment Act 2011][1398] (2011 No 48)
+    [Social Security Amendment Act 2011][1397] (2011 No 48)
     
     Limitation Act 2010 (2010 No 110): [section 58][1100]
     
     [Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010][1387] (2010 No 105)
     
-    [Social Security Amendment Act (No 2) 2010][1399] (2010 No 85)
+    [Social Security Amendment Act (No 2) 2010][1398] (2010 No 85)
     
-    [Social Security Amendment Act 2010][1400] (2010 No 30)
+    [Social Security Amendment Act 2010][1399] (2010 No 30)
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][684]
     
@@ -18157,7 +18160,7 @@ Consequential provisions taking effect on 15 October 2012
     
     [Social Security Amendment Act 2007][1386] (2007 No 20)
     
-    [Social Security (Entitlement Cards) Amendment Act 2007][1401] (2007 No 17)
+    [Social Security (Entitlement Cards) Amendment Act 2007][1400] (2007 No 17)
     
     Social Security Amendment Act 2006 (2006 No 90)
     
@@ -18177,7 +18180,7 @@ Consequential provisions taking effect on 15 October 2012
     
     [Social Security Amendment Act 2005][1383] (2005 No 21)
     
-    [Social Security (Long-term Residential Care) Amendment Act 2004][1402] (2004 No 101)
+    [Social Security (Long-term Residential Care) Amendment Act 2004][1401] (2004 No 101)
     
     [Social Security (Working for Families) Amendment Act 2004][1060] (2004 No 51)
     
@@ -18193,7 +18196,7 @@ Consequential provisions taking effect on 15 October 2012
     
     War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][651]
     
-    [Social Security (Personal Development and Employment) Amendment Act 2002][1403] (2002 No 28)
+    [Social Security (Personal Development and Employment) Amendment Act 2002][1402] (2002 No 28)
     
     Parole Act 2002 (2002 No 10): [section 125][1018]
     
@@ -18209,15 +18212,15 @@ Consequential provisions taking effect on 15 October 2012
     
     Accident Compensation Act 2001 (2001 No 49): [section 337(1)][685]
     
-    [Social Security Amendment Act (No 2) 2001][1404] (2001 No 44)
+    [Social Security Amendment Act (No 2) 2001][1403] (2001 No 44)
     
-    [Social Security Amendment Act 2001][1405] (2001 No 1)
+    [Social Security Amendment Act 2001][1404] (2001 No 1)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][668]
     
     Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88): [section 8][726]
     
-    [Social Security Amendment Act 2000][1406] (2000 No 81)
+    [Social Security Amendment Act 2000][1405] (2000 No 81)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][704]
     
@@ -18229,7 +18232,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    [Social Security Amendment Act (No 3) 1998][1407] (1998 No 104)
+    [Social Security Amendment Act (No 3) 1998][1406] (1998 No 104)
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [sections 10(1)(a)][876], [11][600]
     
@@ -18239,17 +18242,17 @@ Consequential provisions taking effect on 15 October 2012
     
     Student Allowance Regulations 1998 (SR 1998/277): [regulation 49][672]
     
-    [Social Security Amendment Act (No 2) 1998][1408] (1998 No 60)
+    [Social Security Amendment Act (No 2) 1998][1407] (1998 No 60)
     
-    [Social Security Amendment Act 1998][1409] (1998 No 19)
+    [Social Security Amendment Act 1998][1408] (1998 No 19)
     
-    [Social Security (Overseas Pensions) Amendment Act 1998][1410] (1998 No 10)
+    [Social Security (Overseas Pensions) Amendment Act 1998][1409] (1998 No 10)
     
-    [Social Security Amendment Act (No 4) 1997][1411] (1997 No 63)
+    [Social Security Amendment Act (No 4) 1997][1410] (1997 No 63)
     
-    [Social Security Amendment Act (No 3) 1997][1412] (1997 No 23)
+    [Social Security Amendment Act (No 3) 1997][1411] (1997 No 23)
     
-    [Social Security Amendment Act 1997][1413] (1997 No 21)
+    [Social Security Amendment Act 1997][1412] (1997 No 21)
     
     Social Security Amendment Act (No 6) 1996 (1996 No 157)
     
@@ -18259,7 +18262,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act (No 4) 1996 (1996 No 145)
     
-    [Social Security Amendment Act (No 3) 1996][1414] (1996 No 49)
+    [Social Security Amendment Act (No 3) 1996][1413] (1996 No 49)
     
     Social Security Amendment Act 1996 (1996 No 20)
     
@@ -18289,7 +18292,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][1013]
     
-    [Social Security Amendment Act 1992][1415] (1992 No 15)
+    [Social Security Amendment Act 1992][1414] (1992 No 15)
     
     Accident Rehabilitation and Compensation Insurance Act 1992 (1992 No 13): section 172(2)
     
@@ -18297,7 +18300,7 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act (No 4) 1991 (1991 No 124)
     
-    [Social Security Amendment Act (No 2) 1991][1416] (1991 No 78)
+    [Social Security Amendment Act (No 2) 1991][1415] (1991 No 78)
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][787]
     
@@ -18327,11 +18330,11 @@ Consequential provisions taking effect on 15 October 2012
     
     Social Security Amendment Act 1984 (1984 No 8)
     
-    [Social Security Amendment Act 1983][1417] (1983 No 138)
+    [Social Security Amendment Act 1983][1416] (1983 No 138)
     
     Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2)][674]
     
-    [Social Security Amendment Act 1982][1418] (1982 No 16)
+    [Social Security Amendment Act 1982][1417] (1982 No 16)
     
     Social Security Amendment Act 1981 (1981 No 46)
     
@@ -19265,7 +19268,7 @@ Consequential provisions taking effect on 15 October 2012
 [887]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM285542
 [888]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367716
 [889]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367718
-[890]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032518
+[890]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5941015
 [891]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298030
 [892]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298031
 [893]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298032
@@ -19683,10 +19686,10 @@ Consequential provisions taking effect on 15 October 2012
 [1305]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147480
 [1306]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4750277
 [1307]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM298067
-[1308]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032538
+[1308]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5940919
 [1309]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM214189
 [1310]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542426
-[1311]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032546
+[1311]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5940923
 [1312]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3170385
 [1313]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM85696
 [1314]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4542483
@@ -19768,29 +19771,28 @@ Consequential provisions taking effect on 15 October 2012
 [1390]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998532
 [1391]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [1392]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192100
-[1393]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5032540
-[1394]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991505
-[1395]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767600
-[1396]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481701
-[1397]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4015002
-[1398]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3558406
-[1399]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044300
-[1400]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988400
-[1401]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM407647
-[1402]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM322930
-[1403]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147416
-[1404]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM98377
-[1405]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM84994
-[1406]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM78352
-[1407]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM433090
-[1408]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM426841
-[1409]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425633
-[1410]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM424983
-[1411]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411704
-[1412]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM409504
-[1413]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408983
-[1414]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392575
-[1415]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259663
-[1416]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM247392
-[1417]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74466
-[1418]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM59035
+[1393]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991505
+[1394]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767600
+[1395]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481701
+[1396]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4015002
+[1397]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3558406
+[1398]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM3044300
+[1399]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2988400
+[1400]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM407647
+[1401]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM322930
+[1402]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM147416
+[1403]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM98377
+[1404]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM84994
+[1405]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM78352
+[1406]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM433090
+[1407]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM426841
+[1408]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM425633
+[1409]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM424983
+[1410]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM411704
+[1411]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM409504
+[1412]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM408983
+[1413]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392575
+[1414]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM259663
+[1415]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM247392
+[1416]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM74466
+[1417]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM59035
