@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 # Partnership Act 1908Public Act1908 No 139
 
@@ -11,7 +11,7 @@ Date of assent4 August 1908
 
 Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
-This Act is administered in the Ministry of Business, Innovation and Employment.
+This Act is administered in the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -96,81 +96,99 @@ This Act is administered in the Ministry of Business, Innovation and Employment.
 
 [34][39][][39][Rights of assignee of share of partnership][39]
 
-[Dissolution of partnership and its consequences][40]
+[Financial reporting][40]
 
-[35][41][][41][Dissolution by expiration or notice][41]
+[34A][41][][41][Non-application of provisions if alternative financial reporting duties under financial markets legislation][41]
 
-[36][42][][42][Dissolution by death, bankruptcy, or charge][42]
+[34B][42][][42][Accounting records][42]
 
-[37][43][][43][Dissolution by illegality of partnership][43]
+[34C][43][][43][Financial statements must be prepared][43]
 
-[38][44][][44][Dissolution by the court][44]
+[34D][44][][44][Interpretation for purposes of financial reporting provisions][44]
 
-[39][45][][45][Rights of persons dealing with firm against apparent members][45]
+[34E][45][][45][Financial statements must be audited ][45]
 
-[40][46][][46][Right of partners to notify dissolution][46]
+[34F][46][][46][Audit must be carried out in accordance with auditing and assurance standards][46]
 
-[41][47][][47][Continuing authority of partners for purposes of winding up][47]
+[34G][47][][47][Financial reporting offences][47]
 
-[42][48][][48][Rights of partners as to application of partnership property][48]
+[34H][48][][48][Partnerships may opt out of audit requirement][48]
 
-[43][49][][49][Apportionment of premium where partnership prematurely dissolved][49]
+[Dissolution of partnership and its consequences][49]
 
-[44][50][][50][Rights where partnership dissolved for fraud or misrepresentation][50]
+[35][50][][50][Dissolution by expiration or notice][50]
 
-[45][51][][51][Right of outgoing partner to share profits made after dissolution][51]
+[36][51][][51][Dissolution by death, bankruptcy, or charge][51]
 
-[46][52][][52][Retiring or deceased partner's share to be a debt][52]
+[37][52][][52][Dissolution by illegality of partnership][52]
 
-[47][53][][53][Distribution of assets on final settlement of accounts][53]
+[38][53][][53][Dissolution by the court][53]
 
-[Part 2][54]  
-[Special partnerships][54]
+[39][54][][54][Rights of persons dealing with firm against apparent members][54]
+
+[40][55][][55][Right of partners to notify dissolution][55]
+
+[41][56][][56][Continuing authority of partners for purposes of winding up][56]
+
+[42][57][][57][Rights of partners as to application of partnership property][57]
+
+[43][58][][58][Apportionment of premium where partnership prematurely dissolved][58]
+
+[44][59][][59][Rights where partnership dissolved for fraud or misrepresentation][59]
+
+[45][60][][60][Right of outgoing partner to share profits made after dissolution][60]
+
+[46][61][][61][Retiring or deceased partner's share to be a debt][61]
+
+[47][62][][62][Distribution of assets on final settlement of accounts][62]
+
+[Part 2][63]  
+[Special partnerships][63]
 
 \[Repealed\]
 
-[48][55][][55][Part 1 not to affect special partnerships][55] \[Repealed\]
+[48][64][][64][Part 1 not to affect special partnerships][64] \[Repealed\]
 
-[49][56][][56][Special partnerships may be formed, except for banking and insurance][56] \[Repealed\]
+[49][65][][65][Special partnerships may be formed, except for banking and insurance][65] \[Repealed\]
 
-[50][57][][57][General and special partners, and their liabilities][57] \[Repealed\]
+[50][66][][66][General and special partners, and their liabilities][66] \[Repealed\]
 
-[51][58][][58][Certificates to be signed by partners][58] \[Repealed\]
+[51][67][][67][Certificates to be signed by partners][67] \[Repealed\]
 
-[52][59][][59][Style of partnership][59] \[Repealed\]
+[52][68][][68][Style of partnership][68] \[Repealed\]
 
-[53][60][][60][When special partner deemed general partner][60] \[Repealed\]
+[53][69][][69][When special partner deemed general partner][69] \[Repealed\]
 
-[54][61][][61][Certificates to be acknowledged and registered][61] \[Repealed\]
+[54][70][][70][Certificates to be acknowledged and registered][70] \[Repealed\]
 
-[55][62][][62][False statement in certificate: partners liable as general partners][62] \[Repealed\]
+[55][71][][71][False statement in certificate: partners liable as general partners][71] \[Repealed\]
 
-[56][63][][63][Copy of certificate to be published][63] \[Repealed\]
+[56][72][][72][Copy of certificate to be published][72] \[Repealed\]
 
-[57][64][][64][Duration of partnerships][64] \[Repealed\]
+[57][73][][73][Duration of partnerships][73] \[Repealed\]
 
-[58][65][][65][Certificate to be signed on renewal][65] \[Repealed\]
+[58][74][][74][Certificate to be signed on renewal][74] \[Repealed\]
 
-[59][66][][66][Capital stock not to be withdrawn][66] \[Repealed\]
+[59][75][][75][Capital stock not to be withdrawn][75] \[Repealed\]
 
-[60][67][][67][When special partners liable to refund capital withdrawn][67] \[Repealed\]
+[60][76][][76][When special partners liable to refund capital withdrawn][76] \[Repealed\]
 
-[61][68][][68][Suits to be by and against general partners][68] \[Repealed\]
+[61][77][][77][Suits to be by and against general partners][77] \[Repealed\]
 
-[62][69][][69][Dissolution, how effected][69] \[Repealed\]
+[62][78][][78][Dissolution, how effected][78] \[Repealed\]
 
-[63][70][][70][Cases not specially provided for][70] \[Repealed\]
+[63][79][][79][Cases not specially provided for][79] \[Repealed\]
 
-[64][71][][71][Accounting][71] \[Repealed\]
+[64][80][][80][Accounting][80] \[Repealed\]
 
-[65][72][][72][Frauds by partners][72] \[Repealed\]
+[65][81][][81][Frauds by partners][81] \[Repealed\]
 
-[66][73][][73][Books of account to be kept, and to be open to inspection][73] \[Repealed\]
+[66][82][][82][Books of account to be kept, and to be open to inspection][82] \[Repealed\]
 
-[67][74][][74][Liability of special partners if books not kept, etc][74] \[Repealed\]
+[67][83][][83][Liability of special partners if books not kept, etc][83] \[Repealed\]
 
-[Schedule][75]  
-[Enactments consolidated][75]
+[Schedule][84]  
+[Enactments consolidated][84]
 
 ---
 
@@ -187,7 +205,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     (4) This Act is divided into Parts, as follows:
         
     *   [Part 1][5]---The General Law relating to Partners. ([Sections 4 to 47][7].)
-    *   [Part 2][54]---Special Partnerships. ([Sections 48 to 67][55].)
+    *   [Part 2][63]---Special Partnerships. ([Sections 48 to 67][64].)
     
     
 
@@ -216,13 +234,13 @@ The general law relating to partners
     
 *   (1) Partnership is the relation which subsists between persons carrying on a business in common with a view to profit.
     
-    (2) But the relation between members of any company or association registered as a company under the [Companies Act 1993][76] or any other Act of the General Assembly for the time being in force and relating to the registration of joint stock, trading, or mining companies, or formed or incorporated by or in pursuance of any other Act of the General Assembly or letters patent, or Royal Charter, is not a partnership within the meaning of this Act.
+    (2) But the relation between members of any company or association registered as a company under the [Companies Act 1993][85] or any other Act of the General Assembly for the time being in force and relating to the registration of joint stock, trading, or mining companies, or formed or incorporated by or in pursuance of any other Act of the General Assembly or letters patent, or Royal Charter, is not a partnership within the meaning of this Act.
     
     Compare: 1891 No 6 s 4; Partnership Act 1890 s 1 (UK)
     
-    Section 4(2): amended, on 5 December 2013, by [section 14][77] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 4(2): amended, on 5 December 2013, by [section 14][86] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 4(2): amended, on 1 July 1994, by [section 2][78] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 4(2): amended, on 1 July 1994, by [section 2][87] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 5 Rules for determining existence of partnership
     
@@ -412,13 +430,13 @@ The general law relating to partners
     
     Compare: 1891 No 6 s 26; Partnership Act 1890 s 23(1)-(3) (UK)
     
-    Section 26(2): amended, on 1 April 1980, pursuant to [section 12][79] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 26(2): amended, on 1 April 1980, pursuant to [section 12][88] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 26(2A): inserted, on 27 November 1947, by [section 46][80] of the Statutes Amendment Act 1947 (1947 No 60).
+    Section 26(2A): inserted, on 27 November 1947, by [section 46][89] of the Statutes Amendment Act 1947 (1947 No 60).
     
-    Section 26(2A): amended, on 1 April 1980, pursuant to [section 18(2)][81] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 26(2A): amended, on 1 April 1980, pursuant to [section 18(2)][90] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 26(2A): amended, on 1 April 1980, pursuant to [section 12][79] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 26(2A): amended, on 1 April 1980, pursuant to [section 12][88] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 27 Rules as to interests and duties of partners
     
@@ -499,6 +517,120 @@ The general law relating to partners
     (2) In case of a dissolution of the partnership, whether as respects all the partners or as respects the assigning partner, the assignee is entitled to receive the share of the partnership assets to which the assigning partner is entitled as between himself and the other partners, and, for the purpose of ascertaining that share, to an account as from the date of the dissolution.
     
     Compare: 1891 No 6 s 34; Partnership Act 1890 s 31 (UK)
+
+#### Financial reporting
+    
+*   Heading: inserted, on 1 April 2014, by section 110 of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34A Non-application of provisions if alternative financial reporting duties under financial markets legislation
+    
+*   [Sections 34C to 34H][43] do not apply to a partnership in relation to an accounting period if financial statements of the partnership are required to be prepared for that period under [subpart 3][91] of Part 7 of the Financial Markets Conduct Act 2013 or [section 55][92] of the Financial Reporting Act 2013\.
+    
+    Section 34A: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34B Accounting records
+    
+*   (1) The partners of a large partnership must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the partnership; and
+    
+    *   (b) will enable the partnership to ensure that the financial statements of the partnership comply with generally accepted accounting practice; and
+    
+    *   (c) will enable the financial statements of the partnership to be readily and properly audited (if those statements are required to be audited).
+    
+    (2) The partners of a large partnership must establish and maintain a satisfactory system of control of its accounting records.
+    
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
+    
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    Section 34B: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34C Financial statements must be prepared
+    
+*   The partners of a large partnership must ensure that, within 5 months after the balance date of the partnership, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the partnership and that balance date; and
+    
+    *   (b) dated and signed on behalf of the partners by 2 partners.
+    
+    Section 34C: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34D Interpretation for purposes of financial reporting provisions
+    
+*   (1) In [sections 34A to 34H][41], _accounting period_, _applicable auditing and assurance standard_, and _applicable financial reporting standard_ have the same meanings as in [section 5][94] of the Financial Reporting Act 2013\.
+    
+    (2) In [sections 34A to 34H][41],---
+    
+    _balance date_ has the same meaning as in [section 41][95] of the Financial Reporting Act 2013
+    
+    _financial statements_ has the same meaning as in [section 6][96] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][97] of the Financial Reporting Act 2013
+    
+    _large partnership_ means a partnership that is large under [section 45][98] of the Financial Reporting Act 2013
+    
+    _qualified auditor_ has the same meaning as in [section 35][99] of the Financial Reporting Act 2013\.
+    
+    Section 34D: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34E Financial statements must be audited 
+    
+*   (1) The partners of a large partnership must ensure that the financial statements of the partnership are audited by a qualified auditor.
+    
+    (2) This section does not apply to a partnership if the partnership opts out of this section under [section 34H][48].
+    
+    (3) _See_ [sections 37 to 39][100] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a large partnership).
+    
+    Section 34E: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34F Audit must be carried out in accordance with auditing and assurance standards
+    
+*   (1) An auditor must, in carrying out an audit for the purposes of [section 34E][45], comply with all applicable auditing and assurance standards.
+    
+    (2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+    
+    Section 34F: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34G Financial reporting offences
+    
+*   (1) Subsection (2) applies if---
+        
+    *   (a) the partners of a partnership fail to comply with [section 34B][42]; or
+    
+    *   (b) the partners of a partnership are required to comply with [section 34C][43] and financial statements of the partnership---
+            
+        *   (i) are not completed and signed within the time specified in that section; or
+        
+        *   (ii) fail to comply with an applicable financial reporting standard; or
+        
+        
+    
+    *   (c) the partners of a partnership fail to comply with [section 34E][45].
+    
+    (2) Every partner of the partnership commits an offence and is liable on conviction to a fine not exceeding $50,000\.
+    
+    (3) It is a defence to a partner charged with an offence under this section in respect of a requirement referred to in subsection (1) if the partner proves that---
+        
+    *   (a) the partnership took all reasonable and proper steps to ensure that the requirement would be complied with; or
+    
+    *   (b) the partner took all reasonable steps to ensure that the requirement would be complied with; or
+    
+    *   (c) in the circumstances, the partner could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
+    
+    Section 34G: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 34H Partnerships may opt out of audit requirement
+    
+*   (1) This section applies to a partnership unless the partnership agreement for the partnership expressly provides that this section does not apply.
+    
+    (2) The partnership may, within 6 months from the start of an accounting period, opt out of compliance with [section 34E][45] (audit requirement) in relation to that accounting period by way of a resolution passed or signed by partners who together are entitled to share in at least 95% of the capital of the firm.
+    
+    (3) If the partnership opts out of compliance with [section 34E][45] in relation to an accounting period under this section, the section does not apply to the partnership in relation to that period.
+    
+    Section 34H: inserted, on 1 April 2014, by [section 110][93] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Dissolution of partnership and its consequences
 
@@ -639,127 +771,127 @@ Special partnerships
 
 \[Repealed\]
     
-*   Part 2: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+*   Part 2: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 48 Part 1 not to affect special partnerships
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 48: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 49 Special partnerships may be formed, except for banking and insurance
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 49: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 50 General and special partners, and their liabilities
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 50: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 51 Certificates to be signed by partners
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 51: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 52 Style of partnership
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 52: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 53 When special partner deemed general partner
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 53: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 54 Certificates to be acknowledged and registered
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 54: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 55 False statement in certificate: partners liable as general partners
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 55: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 56 Copy of certificate to be published
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 56: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 57 Duration of partnerships
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 57: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 58 Certificate to be signed on renewal
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 58: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 59 Capital stock not to be withdrawn
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 59: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 60 When special partners liable to refund capital withdrawn
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 60: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 61 Suits to be by and against general partners
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 61: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 62 Dissolution, how effected
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 62: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 63 Cases not specially provided for
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 63: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 64 Accounting
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 64: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 65 Frauds by partners
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 65: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 66 Books of account to be kept, and to be open to inspection
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 66: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 67 Liability of special partners if books not kept, etc
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 2 May 2008, by [section 117][82] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 67: repealed, on 2 May 2008, by [section 117][101] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ---
 
@@ -792,7 +924,7 @@ Miscellaneous
 
 ##### 122 Transitional provision for special partnerships
     
-*   [Part 2][54] of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under [section 57][64] of that Part.
+*   [Part 2][63] of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under [section 57][73] of that Part.
 
 #### 
 
@@ -806,13 +938,15 @@ Miscellaneous
 
 ###### 2 About this eprint
     
-*   This eprint is not an official version of the legislation under [section 18][83] of the Legislation Act 2012\.
+*   This eprint is not an official version of the legislation under [section 18][102] of the Legislation Act 2012\.
 
 ###### 3 Amendments incorporated in this eprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][77]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 109][103], [110][93]
     
-    Limited Partnerships Act 2008 (2008 No 1): [section 117][82]
+    Companies Amendment Act 2013 (2013 No 111): [section 14][86]
+    
+    Limited Partnerships Act 2008 (2008 No 1): [section 117][101]
 
 
 
@@ -856,47 +990,67 @@ Miscellaneous
 [37]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172731
 [38]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172732
 [39]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172733
-[40]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172734
-[41]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172735
-[42]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172736
-[43]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172737
-[44]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172738
-[45]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172739
-[46]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172740
-[47]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172741
-[48]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172742
-[49]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172743
-[50]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172744
-[51]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172745
-[52]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172746
-[53]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172747
-[54]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172748
-[55]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172749
-[56]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172750
-[57]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172751
-[58]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172752
-[59]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172753
-[60]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172754
-[61]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172755
-[62]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172756
-[63]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172757
-[64]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172758
-[65]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172759
-[66]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172760
-[67]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172761
-[68]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172763
-[69]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172764
-[70]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172765
-[71]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172766
-[72]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172767
-[73]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172768
-[74]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172769
-[75]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172770
-[76]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM319569
-[77]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM5620822
-[78]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM328986
-[79]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM35049
-[80]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM246611
-[81]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM35085
-[82]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM1139292
-[83]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM2998516
+[40]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043800
+[41]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043801
+[42]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043802
+[43]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043803
+[44]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043804
+[45]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043818
+[46]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043819
+[47]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043820
+[48]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM6043821
+[49]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172734
+[50]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172735
+[51]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172736
+[52]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172737
+[53]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172738
+[54]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172739
+[55]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172740
+[56]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172741
+[57]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172742
+[58]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172743
+[59]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172744
+[60]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172745
+[61]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172746
+[62]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172747
+[63]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172748
+[64]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172749
+[65]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172750
+[66]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172751
+[67]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172752
+[68]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172753
+[69]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172754
+[70]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172755
+[71]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172756
+[72]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172757
+[73]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172758
+[74]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172759
+[75]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172760
+[76]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172761
+[77]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172763
+[78]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172764
+[79]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172765
+[80]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172766
+[81]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172767
+[82]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172768
+[83]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172769
+[84]: http://www.legislation.govt.nz/act/public/1908/0139/latest/whole.html#DLM172770
+[85]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM319569
+[86]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM5620822
+[87]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM328986
+[88]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM35049
+[89]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM246611
+[90]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM35085
+[91]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4702249
+[92]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632981
+[93]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM5740585
+[94]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632837
+[95]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632954
+[96]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632890
+[97]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632894
+[98]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM5206501
+[99]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632944
+[100]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM4632947
+[101]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM1139292
+[102]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM2998516
+[103]: http://www.legislation.govt.nz/act/public/1908/0139/latest/link.aspx?id=DLM5740583
