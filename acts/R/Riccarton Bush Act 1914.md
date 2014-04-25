@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 # Riccarton Bush Act 1914Local Act1914 No 15
 
@@ -9,9 +9,7 @@ Date of assent2 November 1914
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 ---
 
@@ -463,13 +461,15 @@ An Act to incorporate the Trustees of the Riccarton Bush
     
     (2) A financial plan must---
         
-    *   (a) be prepared in accordance with generally accepted accounting practice, as defined in [section 3][51] of the Financial Reporting Act 1993; and
+    *   (a) be prepared in accordance with generally accepted accounting practice, as defined in [section 8][51] of the Financial Reporting Act 2013; and
     
     *   (b) contain information that the council reasonably considers to be appropriate; and
     
     *   (c) be in the form that the council reasonably considers to be appropriate.
     
     Section 22: inserted, on 14 November 2012, by [section 10][50] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
+    
+    Section 22(2)(a): amended, on 1 April 2014, by [section 126][52] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 23 Council approval of financial plan
     
@@ -511,11 +511,11 @@ An Act to incorporate the Trustees of the Riccarton Bush
 
 ##### 24 Statement of intent
     
-*   [Sections 65][52], [66][41], and [67][42] and [Schedule 8][43] of the Local Government Act 2002 apply to the Board and the council as if---
+*   [Sections 65][53], [66][41], and [67][42] and [Schedule 8][43] of the Local Government Act 2002 apply to the Board and the council as if---
         
     *   (a) references to the shareholders or any of the shareholders were references to the council:
     
-    *   (b) the reference in [clause 1(c)][53] of Schedule 8 to directors were a reference to Board members.
+    *   (b) the reference in [clause 1(c)][54] of Schedule 8 to directors were a reference to Board members.
     
     Section 24: inserted, on 14 November 2012, by [section 10][50] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
 
@@ -557,7 +557,7 @@ An Act to incorporate the Trustees of the Riccarton Bush
     
     (6) The Board must give every person who makes a submission and who indicates a wish to be heard in support of his, her, or its submission a reasonable opportunity of appearing before the Board in support of the submission.
     
-    (7) The Board must adopt a management plan within 5 years after the commencement of the [Riccarton Bush Amendment Act 2012][54].
+    (7) The Board must adopt a management plan within 5 years after the commencement of the [Riccarton Bush Amendment Act 2012][55].
     
     (8) The Board must keep the management plan under continuous review and amend it to meet changed circumstances or to reflect increased knowledge. 
     
@@ -573,7 +573,7 @@ An Act to incorporate the Trustees of the Riccarton Bush
 
 ##### 28 Additional land
     
-*   (1) The land described in [Schedule 2][37] vests in the Board on the date of commencement of the [Riccarton Bush Amendment Act 2012][54].
+*   (1) The land described in [Schedule 2][37] vests in the Board on the date of commencement of the [Riccarton Bush Amendment Act 2012][55].
     
     (2) The Board may acquire any other land or interest in land on the terms that the Board thinks fit.
     
@@ -601,41 +601,35 @@ All that area in the Canterbury Land District, containing 15 acres 2 roods and 3
 
 [s 28][35]
 
-*   Schedule 2: inserted, on 14 November 2012, by [section 11][55] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
+*   Schedule 2: inserted, on 14 November 2012, by [section 11][56] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
 
 3339 m² being Lot 1 on Deposited Plan 13668 and being the land comprised in computer freehold register CB511/172
 
----
-
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Riccarton Bush Act 1914\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Riccarton Bush Act 1914 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][56] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][57] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   [Riccarton Bush Amendment Act 2012][54] (2012 No 4 (L))
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][52]
+    
+    [Riccarton Bush Amendment Act 2012][55] (2012 No 4 (L))
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/1914/0015/latest/whole.html#DLM39532
 [2]: http://www.legislation.govt.nz/act/local/1914/0015/latest/whole.html#DLM39533
 [3]: http://www.legislation.govt.nz/act/local/1914/0015/latest/whole.html#DLM39537
@@ -686,9 +680,10 @@ All that area in the Canterbury Land District, containing 15 acres 2 roods and 3
 [48]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM3360714
 [49]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501322
 [50]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501323
-[51]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM324886
-[52]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM171892
-[53]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM176026
-[54]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501300
-[55]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501343
-[56]: http://www.pco.parliament.govt.nz/eprints/
+[51]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4632894
+[52]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM5740665
+[53]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM171892
+[54]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM176026
+[55]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501300
+[56]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501343
+[57]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM2998516
