@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 # Incorporated Societies Act 1908Public Act1908 No 212
 
@@ -11,7 +11,7 @@ Date of assent15 September 1908
 
 Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -385,11 +385,11 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (4) Nothing in this section applies to a society that is---
         
-    *   (a) an issuer within the meaning of [section 4][53] of the Financial Reporting Act 1993; or
+    *   (a) an FMC reporting entity (as defined in [section 451][53] of the Financial Markets Conduct Act 2013) or a person that is subject to [section 55][54] of the Financial Reporting Act 2013; or
     
-    *   (b) a charitable entity within the meaning of [section 4][54] of the Charities Act 2005\.
+    *   (b) a charitable entity within the meaning of [section 4(1)][55] of the Charities Act 2005\.
     
-    Section 23(4): replaced, on 1 July 2005, by [section 76][55] of the Charities Act 2005 (2005 No 39).
+    Section 23(4): replaced, on 1 April 2014, by [section 126][56] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 23A Power to compromise with creditors and members
     
@@ -403,7 +403,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (5) In this section and in [section 23B][27] of this Act---
     
-    _creditor_ includes every person who has a claim that in the liquidation of a society would be admitted as a claim in accordance with [Part 16][56] of the Companies Act 1993 (as applied by [section 24(3)][28] and [section 26(3)][30] of this Act)
+    _creditor_ includes every person who has a claim that in the liquidation of a society would be admitted as a claim in accordance with [Part 16][57] of the Companies Act 1993 (as applied by [section 24(3)][28] and [section 26(3)][30] of this Act)
     
     _officer of the society who is in default_ means any officer of the society who---
         
@@ -413,13 +413,13 @@ An Act to make provision for the incorporation of societies which are not establ
     
     Section 23A: inserted, on 14 October 1981, by section 4 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
     
-    Section 23A(1): amended, on 1 July 1994, by [section 2(1)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 23A(1): amended, on 1 July 1994, by [section 2(1)][58] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Section 23A(2): amended, on 1 July 1994, by [section 2(2)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 23A(2): amended, on 1 July 1994, by [section 2(2)][58] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
     Section 23A(4): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 23A(5) **creditor**: replaced, on 1 July 1994, by [section 2(3)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 23A(5) **creditor**: replaced, on 1 July 1994, by [section 2(3)][58] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 23B Information as to compromises with creditors and members
     
@@ -451,9 +451,9 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (2) In subsection (1) of this section, the term _resolution_ means a resolution carried by a majority of the valid votes cast by members voting at the general meeting in person or, if so allowed by the society's rules, by proxy; and, for the purposes of that subsection, the resolution shall be taken to be confirmed at the subsequent general meeting if the confirmation is carried by such a majority.
     
-    (3) Subject to this Act and to any regulations made under it, the provisions of [Part 16][56] of the Companies Act 1993 shall apply to the liquidation of the society, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under [section 241(2)(a)][58] of that Act.
+    (3) Subject to this Act and to any regulations made under it, the provisions of [Part 16][57] of the Companies Act 1993 shall apply to the liquidation of the society, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under [section 241(2)(a)][59] of that Act.
     
-    Section 24: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 24: replaced, on 1 July 1994, by [section 3(1)][60] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 25 High Court may put society into liquidation
     
@@ -469,7 +469,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     *   (e) if the High Court or a Judge thereof is of the opinion that it is just and equitable that the society should be put into liquidation.
     
-    Section 25: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 25: replaced, on 1 July 1994, by [section 3(1)][60] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 26 Application to court to appoint liquidator
     
@@ -477,13 +477,13 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (2) All costs incurred by the Registrar in making an application shall, unless the court or a Judge thereof otherwise orders, be a first charge on the assets of the society.
     
-    (3) Subject to this Act and to any regulations made under it, [Parts 16][56] and [17][60] of the Companies Act 1993 shall apply, with such modifications as may be necessary,---
+    (3) Subject to this Act and to any regulations made under it, [Parts 16][57] and [17][61] of the Companies Act 1993 shall apply, with such modifications as may be necessary,---
         
-    *   (a) to the application for the appointment of a liquidator as if the application was an application under [section 241(2)(c)][58] of that Act; and
+    *   (a) to the application for the appointment of a liquidator as if the application was an application under [section 241(2)(c)][59] of that Act; and
     
-    *   (b) to the liquidation as if the liquidator had been appointed under [section 241(2)(c)][58] of that Act.
+    *   (b) to the liquidation as if the liquidator had been appointed under [section 241(2)(c)][59] of that Act.
     
-    Section 26: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 26: replaced, on 1 July 1994, by [section 3(1)][60] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 27 Division of surplus assets on winding up
     
@@ -511,25 +511,25 @@ An Act to make provision for the incorporation of societies which are not establ
         
         
     
-    (5) Where by any direction under this section any estate or interest in land under the [Land Transfer Act 1952][61] is vested in any person, then, subject to the provisions of that direction, the District Land Registrar for the land registration district in which the land is situated, on application made to him by that person in such form as may be prescribed by the Governor-General by Order in Council and on the registration or deposit of such documents or plans as the District Land Registrar may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the direction.
+    (5) Where by any direction under this section any estate or interest in land under the [Land Transfer Act 1952][62] is vested in any person, then, subject to the provisions of that direction, the District Land Registrar for the land registration district in which the land is situated, on application made to him by that person in such form as may be prescribed by the Governor-General by Order in Council and on the registration or deposit of such documents or plans as the District Land Registrar may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the direction.
     
     (6) Except as provided in the foregoing provisions of this section, no appeal shall lie against any direction of the Registrar given under this section.
     
     (7) This section shall bind the Crown.
     
-    Section 27(1): amended, on 1 July 1994, by [section 4][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 27(1): amended, on 1 July 1994, by [section 4][63] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Section 27(1): amended, on 17 October 1922, by [section 4(2)(a) and (b)][63] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
+    Section 27(1): amended, on 17 October 1922, by [section 4(2)(a) and (b)][64] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
     
     Section 27(2): amended, on 10 December 1976, by section 2(1) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
     
-    Section 27(2): amended, on 17 October 1922, by [section 4(2)(c)][63] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
+    Section 27(2): amended, on 17 October 1922, by [section 4(2)(c)][64] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
     
-    Section 27(2): amended, on 1 July 1994, by [section 4(2)][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 27(2): amended, on 1 July 1994, by [section 4(2)][63] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
     Section 27(3): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
     
-    Section 27(3)(b): amended, on 1 July 1994, by [section 4][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    Section 27(3)(b): amended, on 1 July 1994, by [section 4][63] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
     Section 27(4): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
     
@@ -577,7 +577,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (6) At the time the declaration of revocation is recorded in the register the society is revived, as if no dissolution had taken place, with effect from the time that the society was dissolved.
     
-    Section 28: substituted, on 7 July 2010, by [section 4][64] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 28: substituted, on 7 July 2010, by [section 4][65] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
 
 ##### 29 Corporate body may become member of society
     
@@ -591,9 +591,9 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   In estimating---
         
-    *   (a) the number of subscribers to the rules of a society for the purposes of [section 4][5] or [section 7][8] of this Act, or to the rules of a branch or group of branches for the purposes of [section 3][65] of the Incorporated Societies Amendment Act 1920; or
+    *   (a) the number of subscribers to the rules of a society for the purposes of [section 4][5] or [section 7][8] of this Act, or to the rules of a branch or group of branches for the purposes of [section 3][66] of the Incorporated Societies Amendment Act 1920; or
     
-    *   (b) the number of members of a society for the purposes of [section 4][5] or [section 25][29] of this Act or of a branch for the purposes of [section 2][66] or [section 3][65] of the Incorporated Societies Amendment Act 1920---
+    *   (b) the number of members of a society for the purposes of [section 4][5] or [section 25][29] of this Act or of a branch for the purposes of [section 2][67] or [section 3][66] of the Incorporated Societies Amendment Act 1920---
     
     every corporate body that is a subscriber or member shall be taken as the equivalent of 3 subscribers or 3 members, as the case may require.
     
@@ -619,7 +619,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (2) The Registrar shall keep a seal for the authentication of any documents required for the purposes of this Act.
     
-    (2A) The Registrar may from time to time, in his discretion, direct the transfer of any register that is kept in the office of an Assistant Registrar under or by virtue of [section 2][67] of the Incorporated Societies Amendment Act 1922 from that office to any other such office, and may also direct that any documents so kept, and relating to any society, be so transferred. Forthwith after any such transfer the Registrar shall give notice in the _Gazette_ of the transfer.
+    (2A) The Registrar may from time to time, in his discretion, direct the transfer of any register that is kept in the office of an Assistant Registrar under or by virtue of [section 2][68] of the Incorporated Societies Amendment Act 1922 from that office to any other such office, and may also direct that any documents so kept, and relating to any society, be so transferred. Forthwith after any such transfer the Registrar shall give notice in the _Gazette_ of the transfer.
     
     (3) There shall be paid to the Registrar such fees as may be prescribed by regulations in respect of such matters as may be so prescribed.
     
@@ -627,11 +627,11 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (5) All expenses incurred in the administration of this Act shall be paid out of money appropriated by Parliament.
     
-    Section 33(1A): inserted, on 7 July 2010, by [section 5][68] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 33(1A): inserted, on 7 July 2010, by [section 5][69] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
     
     Section 33(2A): inserted, on 5 November 1971, by section 7 of the Incorporated Societies Amendment Act 1971 (1971 No 43).
     
-    Section 33(3): replaced, on 26 November 1953, by [section 2(1)][69] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
+    Section 33(3): replaced, on 26 November 1953, by [section 2(1)][70] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
     
     Section 33(4): amended, on 1 April 1978, pursuant to section 114(6) of the Public Finance Act 1977 (1977 No 65).
 
@@ -663,7 +663,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (1A) To avoid doubt, in subsection (1) **registers, records, accounts, books, or papers** includes any of those things in an electronic form.
     
-    (2) Nothing in subsection (1) of this section limits or affects the [Tax Administration Act 1994][70] or the [Statistics Act 1975][71].
+    (2) Nothing in subsection (1) of this section limits or affects the [Tax Administration Act 1994][71] or the [Statistics Act 1975][72].
     
     (3) \[Repealed\]
     
@@ -697,21 +697,21 @@ An Act to make provision for the incorporation of societies which are not establ
     
     Section 34A: replaced, on 6 December 1983, by section 2 of the Incorporated Societies Amendment Act 1983 (1983 No 54).
     
-    Section 34(1A): inserted, on 7 July 2010, by [section 6][72] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 34(1A): inserted, on 7 July 2010, by [section 6][73] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
     
     Section 34A(2): amended, on 1 April 1995, by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 34A(3): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(3): repealed, on 1 April 1987, by [section 25(1)][74] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 34A(5)(a): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 34A(5)(a): replaced, on 1 October 1995, by [section 10(3)][75] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 34A(5)(b): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 34A(5)(b): replaced, on 1 October 1995, by [section 10(3)][75] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 34A(6): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(6): repealed, on 1 April 1987, by [section 25(1)][74] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 34A(7): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 34A(7): replaced, on 1 October 1995, by [section 10(3)][75] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 34A(8): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(8): repealed, on 1 April 1987, by [section 25(1)][74] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 34B Appeals from decisions of Registrar
     
@@ -739,7 +739,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 January 1972, by [section 101(1)][75] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 35: repealed, on 1 January 1972, by [section 101(1)][76] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 36 Regulations
     
@@ -754,7 +754,7 @@ Application for incorporation
 
 [s 7(1)(a)][8]
 
-*   Schedule 1 heading: amended, on 15 December 2005, by [section 7][76] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
+*   Schedule 1 heading: amended, on 15 December 2005, by [section 7][77] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
 
 We, the several persons whose names are subscribed hereto, being members of the above-mentioned society, hereby make application for the incorporation of the society under the foregoing rules, in accordance with the Incorporated Societies Act 1908\.
 
@@ -769,29 +769,35 @@ Table of fees payable to the Registrar
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 April 1954, by [section 2(2)(a)][69] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
+*   Schedule 2: repealed, on 1 April 1954, by [section 2(2)(a)][70] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
 
 #### 
 
 ---
 
-##### Eprint notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is an eprint of the Incorporated Societies Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+*   This is a reprint of the Incorporated Societies Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 About this eprint
+###### 2 Legal status
     
-*   This eprint is not an official version of the legislation under [section 18][77] of the Legislation Act 2012\.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][78] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][79] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 Amendments incorporated in this eprint
+###### 3 Editorial and format changes
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][45]
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][80] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][81] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][56]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][45]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
     
-    [Incorporated Societies Amendment Act 2010][78] (2010 No 68)
+    [Incorporated Societies Amendment Act 2010][82] (2010 No 68)
     
     Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 164][50]
 
@@ -850,29 +856,33 @@ Table of fees payable to the Registrar
 [50]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2286150
 [51]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361793
 [52]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361794
-[53]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM324887
-[54]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM344376
-[55]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM345521
-[56]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321666
-[57]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327454
-[58]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321678
-[59]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327455
-[60]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM322825
-[61]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM269031
-[62]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327456
-[63]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195720
-[64]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042505
-[65]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192030
-[66]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192027
-[67]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195718
-[68]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042509
-[69]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM282032
-[70]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM348342
-[71]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM430704
-[72]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042510
-[73]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM101353
-[74]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM367235
-[75]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM401040
-[76]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361796
-[77]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998516
-[78]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042500
+[53]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM4702241
+[54]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM4632981
+[55]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM344376
+[56]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM5740665
+[57]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321666
+[58]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327454
+[59]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321678
+[60]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327455
+[61]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM322825
+[62]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM269031
+[63]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327456
+[64]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195720
+[65]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042505
+[66]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192030
+[67]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192027
+[68]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195718
+[69]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042509
+[70]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM282032
+[71]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM348342
+[72]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM430704
+[73]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042510
+[74]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM101353
+[75]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM367235
+[76]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM401040
+[77]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361796
+[78]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998516
+[79]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998515
+[80]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998532
+[81]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[82]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042500
