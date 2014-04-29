@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 14 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -235,7 +235,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [66][105][][105][Reduction or termination of fixed-term tenancy][105]
 
-[Part  2A][106]  
+[Part 2A][106]  
 [Boarding house tenancies][106]
 
 [Application][107]
@@ -1226,13 +1226,13 @@ Tenancy agreements
     
     (2) The landlord shall, before the date on which the variation or renewal of the tenancy is to take effect, provide the tenant with a copy of the variation or renewal.
     
-    Section 13B: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7). 
+    Section 13B: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 13C Tenancy agreements not unenforceable on grounds not in writing
     
 *   Notwithstanding anything to the contrary in any other enactment, no tenancy agreement, or variation or renewal of a tenancy agreement, shall be unenforceable on the grounds that it is not in writing.
     
-    Section 13C: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7). 
+    Section 13C: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 13D Exceptions to requirements relating to tenancy agreements
     
@@ -1244,7 +1244,7 @@ Tenancy agreements
     
     *   (c) any variation of a tenancy agreement made by, or at the direction of, the Tribunal.
     
-    Section 13D: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7). 
+    Section 13D: inserted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 13D: amended, on 1 October 2010, by [section 11][289] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1276,7 +1276,7 @@ Tenancy agreements
     
     (2) \[Repealed\]
     
-    Section 15: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7). 
+    Section 15: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 15(2): repealed, on 1 October 2010, by [section 10(2)][288] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1288,7 +1288,7 @@ Tenancy agreements
     
     (3) The obligation in subsection (1) does not apply to a contact person whose name and contact details are contained in a boarding house tenancy agreement.
     
-    Section 16: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7). 
+    Section 16: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 16(2): repealed, on 1 October 2010, by [section 10(2)][288] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -1724,13 +1724,15 @@ Tenancy agreements
     
     (2A) Despite subsection (2), a tenant who is a party to a fixed term tenancy of premises held in a stratum estate under the [Unit Titles Act 2010][261] may apply under subsection (1) within 3 months after the tenant is notified of a change or otherwise becomes aware of a change in the body corporate operational rules made under that Act, if that change affects the tenant.
     
-    (3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of [section 42(1)][308] of the Housing Restructuring and Tenancy Matters Act 1992) for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
+    (3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of [section 2(1)][308] of the Housing Restructuring and Tenancy Matters Act 1992) for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
     
     (4) An order made under this section shall take effect on and from a date to be specified in the order, which may be the date of the order or any earlier or later date, but being no earlier than the date of the application for the order and no later than 30 days after the date of the order.
     
-    Compare: 1955 No 50 ss 20, [21][309]; 1961 No 66 s 7; 1973 No 26 ss 6, 8; Residential Tenancies Act 1978--1981 s 36(1)--(3) (SA)
+    Compare: 1955 No 50 ss 20, 21; 1961 No 66 s 7; 1973 No 26 ss 6, 8; Residential Tenancies Act 1978--1981 s 36(1)--(3) (SA)
     
-    Section 25(2A): inserted, on 1 October 2010, by [section 21][310] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 25(2A): inserted, on 1 October 2010, by [section 21][309] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    
+    Section 25(3): amended, on 14 April 2014, by [section 25][310] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
     Section 25(3): amended, on 1 July 2006, by [section 5(2)(g)][311] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
@@ -2890,7 +2892,7 @@ Tenancy agreements
     
     Section 66(4): added, on 1 October 2010, by [section 48(3)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
-## Part  2A  
+## Part 2A  
 Boarding house tenancies
     
 *   Part 2A: inserted, on 1 October 2010, by [section 49][367] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
@@ -3770,13 +3772,17 @@ The Tenancy Tribunal
     
     *   (p) to approve the assignment by the tenant of the rights of the tenant under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
     
+    *   (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the [District Courts Act 1947][387]:
+    
     *   (q) to make orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
+    
+    (2A) If subsection (2)(pa) applies, then [section 78(2AB) to (2AD)][153] apply.
     
     (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
     
-    (4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by [section 264][387] of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
+    (4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by [section 264][388] of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
     
-    (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord's conduct in the landlord's capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the [Health and Disability Commissioner Act 1994][388].
+    (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord's conduct in the landlord's capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the [Health and Disability Commissioner Act 1994][389].
     
     (5) Despite subsection (1), the Tribunal does not have jurisdiction to require any party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $50,000\.
     
@@ -3786,31 +3792,35 @@ The Tenancy Tribunal
     
     (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
     
-    Section 77(1): substituted, on 1 October 2010, by [section 57(1)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(1): substituted, on 1 October 2010, by [section 57(1)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(2)(ab): inserted, on 1 October 2010, by [section 57(2)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(ab): inserted, on 1 October 2010, by [section 57(2)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(2)(ka): inserted, on 1 October 2010, by [section 57(3)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(ka): inserted, on 1 October 2010, by [section 57(3)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(2)(ma): inserted, on 1 October 2010, by [section 57(4)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(ma): inserted, on 1 October 2010, by [section 57(4)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(2)(mb): inserted, on 1 October 2010, by [section 57(4)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(mb): inserted, on 1 October 2010, by [section 57(4)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(2)(mc): inserted, on 1 October 2010, by [section 57(4)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(mc): inserted, on 1 October 2010, by [section 57(4)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 77(2)(o): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 77(2)(p): amended, on 1 October 2010, by [section 57(5)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(2)(p): amended, on 1 October 2010, by [section 57(5)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    
+    Section 77(2)(pa): inserted, on 14 April 2014, by [section 4(1)][391] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 77(2A): inserted, on 14 April 2014, by [section 4(2)][391] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
     
     Section 77(4): substituted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
-    Section 77(4A): inserted, on 1 October 2010, by [section 57(6)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(4A): inserted, on 1 October 2010, by [section 57(6)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(5): substituted, on 1 October 2010, by [section 57(7)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(5): substituted, on 1 October 2010, by [section 57(7)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(6): amended, on 1 October 2010, by [section 57(8)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(6): amended, on 1 October 2010, by [section 57(8)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(7): substituted, on 1 October 2010, by [section 57(9)][389] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(7): substituted, on 1 October 2010, by [section 57(9)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 78 Orders of Tribunal
     
@@ -3848,17 +3858,59 @@ The Tenancy Tribunal
     
     (2A) Where the Tribunal makes an order under any of paragraphs (b), (c), or (h) of subsection (1), the Tribunal may at the same time make an order under subsection (1)(d) to be complied with as an alternative to compliance with the first-mentioned order.
     
+    (2AB) The Tribunal may record in an order made under subsection (1)(d) (a _money order_) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the [District Courts Act 1947][387] if---
+        
+    *   (a) the money order was made at a hearing at which both parties were present; and
+    
+    *   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
+    
+    *   (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (2AC).
+    
+    (2AC) If subsection (2AB) applies, the money order must include the following details:
+        
+    *   (a) the employer to whom the attachment order will relate; and
+    
+    *   (b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the _earnings period_); and
+    
+    *   (c) the amount or percentage to be deducted from salary or wages for the earnings period; and
+    
+    *   (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
+    
+    *   (e) the name and address of the person to whom the amounts deducted are to be paid; and
+    
+    *   (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
+    
+    (2AD) Nothing in subsection (2AC)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from [section 84I(3)][392] of the District Courts Act 1947\.
+    
+    (2AE) If subsection (2AC) is complied with, the money order may be filed in any District Court and, if so filed, [sections 79(5C)][393] and [84F to 84N][394] of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
+    
+    (2AF) For the purposes of subsection (2AB)(a), _hearing_ includes mediation.
+    
+    (2AG) In this section, _employer_ and _salary or wages_ have the same meanings as in [section 84F][394] of the District Courts Act 1947\.
+    
     (2B) Where the Tribunal makes any 2 orders under subsection (2) or subsection (2A), it is the right of the person in whose favour the order is made to choose which order to enforce under [section 107][188].
     
     (3) Any order made by the Tribunal may be unconditional or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
     
-    Section 78(1A): inserted, on 1 October 2010, by [section 58][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 78(1A): inserted, on 1 October 2010, by [section 58][395] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 78(1B): inserted, on 1 October 2010, by [section 58][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 78(1B): inserted, on 1 October 2010, by [section 58][395] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 78(2A): inserted, on 1 May 1996, by [section 32][391] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 78(2A): inserted, on 1 May 1996, by [section 32][396] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 78(2B): inserted, on 1 May 1996, by [section 32][391] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 78(2AB): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2AC): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2AD): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2AE): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2AF): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2AG): inserted, on 14 April 2014, by [section 5][397] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
+    
+    Section 78(2B): inserted, on 1 May 1996, by [section 32][396] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 79 Jurisdiction to make interim orders
     
@@ -3912,17 +3964,17 @@ The Tenancy Tribunal
     
     (4) Any proceedings transferred to a District Court under this section shall be deemed to have been commenced by action in that court, and shall be dealt with by that court accordingly.
     
-    Section 83(2): substituted, on 1 May 1996, by [section 33][392] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 83(2): substituted, on 1 May 1996, by [section 33][398] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 83A Referral of complaints to Health and Disability Commissioner
     
-*   If a dispute or part of a dispute raises a question as to the landlord's conduct in the landlord's capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the [Health and Disability Commissioner Act 1994][388], the Tribunal may---
+*   If a dispute or part of a dispute raises a question as to the landlord's conduct in the landlord's capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the [Health and Disability Commissioner Act 1994][389], the Tribunal may---
         
     *   (a) consult with the Health and Disability Commissioner about the appropriateness of referring the dispute to the Health and Disability Commissioner; and
     
     *   (b) following that consultation, refer the dispute in whole or in part to the Health and Disability Commissioner for his or her consideration.
     
-    Section 83A: inserted, on 1 October 2010, by [section 59][393] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 83A: inserted, on 1 October 2010, by [section 59][399] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 84 Jurisdiction of Tribunal generally exercisable by any Tenancy Adjudicator
     
@@ -3952,11 +4004,11 @@ The Tenancy Tribunal
     
     (5) The chief executive must publish every determination under subsection (3) and every variation or replacement under subsection (4) in the _Gazette_ and on the Internet.
     
-    Section 86: substituted, on 1 October 2010, by [section 60][394] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 86: substituted, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 86(1): amended, on 12 December 2012, by [section 7(1)][395] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 86(1): amended, on 12 December 2012, by [section 7(1)][401] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 86(3): replaced, on 12 December 2012, by [section 7(2)][395] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 86(3): replaced, on 12 December 2012, by [section 7(2)][401] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
 
 ##### 87 Duties of chief executive on receipt of application
     
@@ -3966,13 +4018,13 @@ The Tenancy Tribunal
     
     (3) For the purposes of this section and [section 88][165], the _appropriate Registrar_ is the Registrar nearest any premises in respect of which an application is made under this Act or any other Registrar that the chief executive considers appropriate for the purposes of the application.
     
-    Section 87: substituted, on 1 October 2010, by [section 60][394] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 87: substituted, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 87(1): amended, on 12 December 2012, by [section 8(1)][396] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 87(1): amended, on 12 December 2012, by [section 8(1)][402] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 87(2): amended, on 12 December 2012, by [section 8(2)][396] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 87(2): amended, on 12 December 2012, by [section 8(2)][402] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 87(3): inserted, on 12 December 2012, by [section 8(3)][396] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 87(3): inserted, on 12 December 2012, by [section 8(3)][402] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
 
 ##### 88 Functions of Tenancy Mediators
     
@@ -3998,19 +4050,35 @@ The Tenancy Tribunal
     
     (7) Where any copy of an order made by a Tenancy Mediator is sealed under this section, it shall have effect as an order of the Tribunal, and shall be enforceable accordingly.
     
-    Section 88(3)(a): amended, on 12 December 2012, by [section 9][397] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    (8) If a Tenancy Mediator makes an order under [section 78(1)(d)][153] to give effect to an agreed settlement, [section 78(2AB) to (2AD)][153] apply to the order, subject to the following modifications:
+        
+    *   (a) [section 78(2AB) and (2AD)][153] must be read as if---
+            
+        *   (i) the references to the money order were references to the agreed settlement; and
+        
+        *   (ii) the reference to the Tribunal were a reference to the Tenancy Mediator; and
+        
+        *   (iii) the reference to a hearing were a reference to mediation:
+        
+        
     
-    Section 88(3)(a): amended, on 1 October 2010, by [section 61(1)][398] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    *   (b) the order made by the Tenancy Mediator under [section 78(1)(d)][153] may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
     
-    Section 88(3)(b): amended, on 12 December 2012, by [section 9][397] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
+    Section 88(3)(a): amended, on 12 December 2012, by [section 9][403] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 88(3)(b): amended, on 1 October 2010, by [section 61(1)][398] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 88(3)(a): amended, on 1 October 2010, by [section 61(1)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 88(4): amended, on 1 October 2010, by [section 61(1)][398] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 88(3)(b): amended, on 12 December 2012, by [section 9][403] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 88(5): amended, on 1 October 2010, by [section 61(2)][398] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 88(3)(b): amended, on 1 October 2010, by [section 61(1)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 88(6)(a): substituted, on 1 October 2010, by [section 61(3)][398] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 88(4): amended, on 1 October 2010, by [section 61(1)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    
+    Section 88(5): amended, on 1 October 2010, by [section 61(2)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    
+    Section 88(6)(a): substituted, on 1 October 2010, by [section 61(3)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    
+    Section 88(8): inserted, on 14 April 2014, by [section 6][405] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
 
 ##### 89 Statements made in mediation to be subject to privilege
     
@@ -4058,11 +4126,11 @@ The Tenancy Tribunal
     
     Section 90(1): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 90(1): amended, on 1 October 2010, by [section 62][399] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 90(1): amended, on 1 October 2010, by [section 62][406] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 90(2)(d): amended, on 1 May 1996, by [section 35][400] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 90(2)(d): amended, on 1 May 1996, by [section 35][407] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 90(2)(e): added, on 1 May 1996, by [section 35][400] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 90(2)(e): added, on 1 May 1996, by [section 35][407] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 91 Notice of hearing by Tribunal
     
@@ -4078,7 +4146,7 @@ The Tenancy Tribunal
     
     *   (d) a statement warning each party to whom the notice is given that if that party does not attend the hearing, the Tribunal may proceed to determine, dismiss, or adjourn the matter in that party's absence.
     
-    Section 91(2)(d): amended, on 1 May 1996, by [section 36(2)][401] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 91(2)(d): amended, on 1 May 1996, by [section 36(2)][408] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 91A Service on tenants following application
     
@@ -4106,7 +4174,7 @@ The Tenancy Tribunal
     
     (3) This section overrides [section 136(1) and (2)][232].
     
-    Section 91A: inserted, on 1 October 2010, by [section 63][402] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 91A: inserted, on 1 October 2010, by [section 63][409] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 91B Hearing may proceed even if party not served
     
@@ -4116,7 +4184,7 @@ The Tenancy Tribunal
     
     *   (b) the failure to serve the party as required is not due to any fault or unreasonable delay by the applicant.
     
-    Section 91B: inserted, on 1 October 2010, by [section 63][402] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 91B: inserted, on 1 October 2010, by [section 63][409] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 92 Non-attendance at hearing after due notice
     
@@ -4124,9 +4192,9 @@ The Tenancy Tribunal
     
     (2) Where subsection (1) applies and neither the applicant nor the other party attends the hearing, the Tribunal may determine the matter only if it is satisfied that it has before it all the written information that it needs to make a proper determination.
     
-    Section 92(1): amended, on 1 May 1996, by [section 36(1)][401] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 92(1): amended, on 1 May 1996, by [section 36(1)][408] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 92(2): added, on 1 October 2010, by [section 64][403] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 92(2): added, on 1 October 2010, by [section 64][410] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 93 Right of audience
     
@@ -4176,13 +4244,13 @@ The Tenancy Tribunal
         
         the party's affairs because of the party's absence, age, or disability.
     
-    Section 93(2)(b): amended, on 1 October 2010, by [section 65][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 93(2)(b): amended, on 1 October 2010, by [section 65][411] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 93(2)(c): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 93(7)(b): amended, on 1 May 1996, by [section 37][405] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 93(7)(b): amended, on 1 May 1996, by [section 37][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 93(7)(c): added, on 1 May 1996, by [section 37][405] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 93(7)(c): added, on 1 May 1996, by [section 37][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 94 Minors and persons under disability
     
@@ -4194,11 +4262,11 @@ The Tenancy Tribunal
     
     *   (b) when approving a representative under [section 93(5)][172] or at any time thereafter, authorise that representative to control the conduct of the minor's case.
     
-    (3) In any proceedings before the Tribunal, any manager or person appointed to administer another's affairs under the [Protection of Personal and Property Rights Act 1988][406] shall, subject to that Act, control the conduct of the case of the person whose affairs they manage or administer.
+    (3) In any proceedings before the Tribunal, any manager or person appointed to administer another's affairs under the [Protection of Personal and Property Rights Act 1988][413] shall, subject to that Act, control the conduct of the case of the person whose affairs they manage or administer.
     
     (4) A person who is empowered by or under this section to control the conduct of the case of another person may do all such things in the proceedings as the person so empowered could do if that person were a party to the proceedings in place of that other person.
     
-    (5) Nothing in this section shall restrict the application of [section 12][407] of the Minors' Contracts Act 1969 to---
+    (5) Nothing in this section shall restrict the application of [section 12][414] of the Minors' Contracts Act 1969 to---
         
     *   (a) a settlement agreed to by or on behalf of a minor; or
     
@@ -4216,7 +4284,7 @@ The Tenancy Tribunal
     
     and also includes any order made in any such proceedings.
     
-    Section 94(3): substituted, on 1 May 1996, by [section 38][408] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 94(3): substituted, on 1 May 1996, by [section 38][415] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 95 Proceedings usually to be in public
     
@@ -4228,9 +4296,9 @@ The Tenancy Tribunal
     
     (4) Notwithstanding any order made under subsection (3), the Tribunal may permit a report or description of the proceedings or of any part of the proceedings to be included in any publication that is of a bona fide professional or technical nature.
     
-    Section 95(2): amended, on 1 October 2010, by [section 66][409] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 95(2): amended, on 1 October 2010, by [section 66][416] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 95(3): amended, on 1 October 2010, by [section 66][409] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 95(3): amended, on 1 October 2010, by [section 66][416] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 96 Further provisions relating to procedure generally
     
@@ -4298,7 +4366,7 @@ The Tenancy Tribunal
     
     (2) The allowances, travelling expenses, and fees payable to a witness pursuant to subsection (1) shall be paid by such party or parties to the proceedings as the Tribunal shall order or, if the Tribunal so decides, shall be met from any appropriation by Parliament for that purpose.
     
-    Section 98A: inserted, on 1 May 1996, by [section 39][410] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 98A: inserted, on 1 May 1996, by [section 39][417] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 99 Tribunal may require inquiry and report by Tenancy Mediator or suitable person
     
@@ -4312,11 +4380,11 @@ The Tenancy Tribunal
     
     *   (b) has, for that purpose, all the functions, duties, and powers of a Tenancy Mediator.
     
-    Section 99 heading: amended, on 1 October 2010, by [section 67(1)][411] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 99 heading: amended, on 1 October 2010, by [section 67(1)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 99(2): amended, on 1 October 2010, by [section 67(2)][411] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 99(2): amended, on 1 October 2010, by [section 67(2)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 99(3): added, on 1 October 2010, by [section 67(3)][411] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 99(3): added, on 1 October 2010, by [section 67(3)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 100 Tenancy Mediator or Tribunal may require valuer's report in certain proceedings
     
@@ -4324,7 +4392,7 @@ The Tenancy Tribunal
     
     (2) In any case where the Crown or any instrument of the Crown is a party, the registered valuer shall not be an employee of the Crown.
     
-    Section 100: substituted, on 1 May 1996, by [section 40(1)][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 100: substituted, on 1 May 1996, by [section 40(1)][419] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 101 Protection of persons appearing, etc
     
@@ -4376,17 +4444,17 @@ The Tenancy Tribunal
     
     (5) The Tribunal may make an order to give effect, in whole or in part, to a provision in a tenancy agreement requiring one party (the _debtor_) to reimburse the other party (the _creditor_) for any reasonable expenses or commissions paid or incurred by the creditor in recovering, or attempting to recover, any overdue payment that the debtor owes to the creditor under an order of the Tribunal.
     
-    Section 102(1): amended, on 1 October 2010, by [section 68(1)][413] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 102(1): amended, on 1 October 2010, by [section 68(1)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 102(2)(a): amended, on 1 May 1996, by [section 41(1)][414] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 102(2)(a): amended, on 1 May 1996, by [section 41(1)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(2)(d): added, on 1 May 1996, by [section 41(2)][414] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 102(2)(d): added, on 1 May 1996, by [section 41(2)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(3)(a): substituted, on 1 May 1996, by [section 41(3)][414] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 102(3)(a): substituted, on 1 May 1996, by [section 41(3)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(4): added, on 1 October 2010, by [section 68(2)][413] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 102(4): added, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 102(5): added, on 1 October 2010, by [section 68(2)][413] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 102(5): added, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 103 Reference of questions of law to High Court
     
@@ -4416,9 +4484,9 @@ The Tenancy Tribunal
 
 ##### 106 Enforcement of possession orders
     
-*   (1) Every possession order shall, on being filed in the appropriate District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the [District Courts Act 1947][415].
+*   (1) Every possession order shall, on being filed in the appropriate District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the [District Courts Act 1947][387].
     
-    (2) Where any such order is filed in a District Court, [section 79(5)][416] of the District Courts Act 1947 shall apply as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
+    (2) Where any such order is filed in a District Court, [section 79(5)][393] of the District Courts Act 1947 shall apply as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
 
 ##### 107 Enforcement of orders other than possession orders and work orders
     
@@ -4434,11 +4502,11 @@ The Tenancy Tribunal
     
     (6) The chief executive may advance to any person who seeks to enforce an order pursuant to subsection (1) the amount of any filing fee payable by that person; and, where the chief executive does make any such advance, the amount of the advance shall be recoverable from the other party as a debt due to the Crown.
     
-    Section 107(2): substituted, on 1 May 1996, by [section 42][417] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 107(2): substituted, on 1 May 1996, by [section 42][422] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 107(3): amended, on 1 October 2010, by [section 69][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 107(3): amended, on 1 October 2010, by [section 69][423] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 107(6): substituted, on 18 August 1992, by [section 8][419] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 107(6): substituted, on 18 August 1992, by [section 8][424] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 108 Enforcement of work orders
     
@@ -4476,13 +4544,13 @@ The Tenancy Tribunal
     
     (7) After the expiration of 12 months from the date of a work order, it shall not be enforced without the leave of the Tribunal.
     
-    Section 108(2A): inserted, on 1 October 2010, by [section 70][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 108(2A): inserted, on 1 October 2010, by [section 70][425] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 108(4): amended, on 18 August 1992, by [section 9(1)][421] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 108(4): amended, on 18 August 1992, by [section 9(1)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 108(5): amended, on 18 August 1992, by [section 9(2)][421] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 108(5): amended, on 18 August 1992, by [section 9(2)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 108(6): substituted, on 18 August 1992, by [section 9(3)][421] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 108(6): substituted, on 18 August 1992, by [section 9(3)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 109 Unlawful acts
     
@@ -4522,19 +4590,19 @@ The Tenancy Tribunal
     
     (7) Notwithstanding subsection (5) and [section 124(4)(d)][217], if the chief executive is acting under section 124(3)(b), any amount ordered by the Tribunal to be paid under this section on the application of the chief executive shall be paid to the chief executive and retained by the Crown.
     
-    Section 109(1): amended, on 18 August 1992, by [section 10(1)][422] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 109(1): amended, on 18 August 1992, by [section 10(1)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(2): substituted, on 1 May 1996, by [section 43(1)][423] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 109(2): substituted, on 1 May 1996, by [section 43(1)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 109(4): substituted, on 1 October 2010, by [section 71][424] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 109(4): substituted, on 1 October 2010, by [section 71][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 109(4A): inserted, on 1 October 2010, by [section 71][424] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 109(4A): inserted, on 1 October 2010, by [section 71][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 109(5): amended, on 18 August 1992, by [section 10(2)][422] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 109(5): amended, on 18 August 1992, by [section 10(2)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(6): substituted, on 18 August 1992, by [section 10(3)][422] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 109(6): substituted, on 18 August 1992, by [section 10(3)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(7): added, on 1 May 1996, by [section 43(3)][423] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 109(7): added, on 1 May 1996, by [section 43(3)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 109A Tribunal may restrain further commissions of unlawful acts
     
@@ -4548,7 +4616,7 @@ The Tenancy Tribunal
     
     (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $2,000\.
     
-    Section 109A: inserted, on 1 October 2010, by [section 72][425] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 109A: inserted, on 1 October 2010, by [section 72][430] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 109A(5): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -4566,7 +4634,7 @@ The Tenancy Tribunal
     
     Section 110(1): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 110(1): amended, on 1 October 2010, by [section 73][426] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 110(1): amended, on 1 October 2010, by [section 73][431] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 111 Giving false evidence
     
@@ -4592,15 +4660,15 @@ The Tenancy Tribunal
     
     Compare: 1988 No 110 s 56
     
-    Section 112: substituted, on 1 May 1996, by [section 44][427] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 112: substituted, on 1 May 1996, by [section 44][432] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 112(1): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 112(1): amended, on 1 October 2010, by [section 74][428] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112(1): amended, on 1 October 2010, by [section 74][433] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 #### Contact information for enforcement purposes
     
-*   Heading: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+*   Heading: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112A Interpretation
     
@@ -4626,7 +4694,7 @@ The Tenancy Tribunal
     
     _specified database_ means a database operated by a specified agency and prescribed by regulation as a specified database for the purposes of [section 112C(2)][198].
     
-    Section 112A: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112A: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112B Application for contact information
     
@@ -4656,7 +4724,7 @@ The Tenancy Tribunal
     
     (4) If a judgment creditor is entitled under an enactment to recover any costs relating to the enforcement of an order, then the prescribed fee paid by an applicant under this section is to be treated as a cost that is recoverable, unless the judgment debtor proves that the information was publicly available at the time the applicant applied for the information.
     
-    Section 112B: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112B: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112C Application referred to specified agency
     
@@ -4676,7 +4744,7 @@ The Tenancy Tribunal
     
     *   (b) if it does not find contact information about the judgment debtor, or if it believes that the judgment debtor is dead, advise the chief executive of that fact.
     
-    Section 112C: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112C: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112D Response to applicant
     
@@ -4696,7 +4764,7 @@ The Tenancy Tribunal
     
     (4) If the chief executive does not advise the applicant under any of subsections (1) to (3) within 30 days of receipt of the application, the chief executive must write to the applicant explaining the reason for the delay.
     
-    Section 112D: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112D: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112E Specified information sent to District Court
     
@@ -4714,7 +4782,7 @@ The Tenancy Tribunal
         
         
     
-    Section 112E: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112E: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 112F Non-disclosure of contact information
     
@@ -4728,7 +4796,7 @@ The Tenancy Tribunal
     
     *   (b) no longer current.
     
-    Section 112F: inserted, on 1 October 2010, by [section 75][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 112F: inserted, on 1 October 2010, by [section 75][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 #### Miscellaneous provisions
 
@@ -4736,13 +4804,13 @@ The Tenancy Tribunal
     
 *   The chief executive must ensure that assistance is reasonably available from his or her staff to any person who seeks it in completing any forms required by this Act or any rules made under [section 116][206], or in doing anything in relation to the filing of an application or an appeal against an order of the Tribunal, or the enforcement of an order of the Tribunal.
     
-    Section 113: substituted, on 1 October 2010, by [section 76][430] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 113: substituted, on 1 October 2010, by [section 76][435] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 114 Powers of entry of Tenancy Mediators
     
 *   (1) Subject to the succeeding provisions of this section, every Tenancy Mediator shall, in the performance of his or her functions under [section 99(1)][179] in relation to any dispute, have power at any reasonable time to enter the residential premises to which the dispute relates and to inspect those premises and any fixtures, fittings, and chattels in those premises.
     
-    (2) In respect of premises in any defence area (within the meaning of the [Defence Act 1990][431]), the exercise by a Tenancy Mediator of the power conferred by subsection (1) shall be subject to such conditions relating to security as the officer in charge of the defence area may require.
+    (2) In respect of premises in any defence area (within the meaning of the [Defence Act 1990][436]), the exercise by a Tenancy Mediator of the power conferred by subsection (1) shall be subject to such conditions relating to security as the officer in charge of the defence area may require.
     
     (3) Except with the written authority of the Tribunal given in any particular case, no Tenancy Mediator shall exercise the power conferred by subsection (1) without first giving to each party to the dispute at least 24 hours' written notice of intention to do so.
     
@@ -4764,13 +4832,13 @@ The Tenancy Tribunal
     
     (7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, obstructs or hinders any Tenancy Mediator in the exercise of the power conferred by subsection (1).
     
-    Section 114(2): amended, on 1 April 1990, pursuant to [section 105(2)][432] of the Defence Act 1990 (1990 No 28).
+    Section 114(2): amended, on 1 April 1990, pursuant to [section 105(2)][437] of the Defence Act 1990 (1990 No 28).
     
-    Section 114(6): substituted, on 1 October 2010, by [section 77(1)][433] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 114(6): substituted, on 1 October 2010, by [section 77(1)][438] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 114(7): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 114(7): amended, on 1 October 2010, by [section 77(2)][433] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 114(7): amended, on 1 October 2010, by [section 77(2)][438] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 115 Principal Tenancy Adjudicator may issue practice directions
     
@@ -4818,9 +4886,9 @@ The Tenancy Tribunal
     
     *   (j) the searching of the records of the Tribunal.
     
-    Section 116(2)(d): amended, on 1 October 2010, by [section 78][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 116(2)(d): amended, on 1 October 2010, by [section 78][439] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 116(2)(g): amended, on 1 October 2010, by [section 78][434] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 116(2)(g): amended, on 1 October 2010, by [section 78][439] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 #### Appeals
 
@@ -4838,7 +4906,7 @@ The Tenancy Tribunal
     
     *   (c) against a work order, or the failure to make a work order, where the value of the work that would be in dispute on appeal is less than $1,000\.
     
-    (3) A District Court shall have jurisdiction to hear and determine an appeal under this section notwithstanding any limits imposed on such courts in their ordinary civil jurisdiction by [sections 29 to 34][435] of the District Courts Act 1947\.
+    (3) A District Court shall have jurisdiction to hear and determine an appeal under this section notwithstanding any limits imposed on such courts in their ordinary civil jurisdiction by [sections 29 to 34][440] of the District Courts Act 1947\.
     
     (4) The provisions of [section 85][161], with any necessary modifications, shall apply in respect of the hearing and determination by a District Court of an appeal brought under this section.
     
@@ -4856,13 +4924,13 @@ The Tenancy Tribunal
     
     (11) Where the appeal relates to an order terminating the tenancy made on the ground of non-payment of rent, a stay of proceedings shall not be granted unless the application for stay is supported by a receipt or other written evidence tending to show that the rent was not in fact in arrear at the date of the hearing before the Tribunal.
     
-    Section 117(1A): inserted, on 1 October 2010, by [section 79(1)][436] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 117(1A): inserted, on 1 October 2010, by [section 79(1)][441] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 117(2)(b): substituted, on 1 May 1996, by [section 45][437] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 117(2)(b): substituted, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 117(2)(c): added, on 1 May 1996, by [section 45][437] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 117(2)(c): added, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 117(5): amended, on 1 October 2010, by [section 79(2)][436] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 117(5): amended, on 1 October 2010, by [section 79(2)][441] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 118 Powers of District Court Judge on appeal
     
@@ -4903,19 +4971,19 @@ Administration
 
 #### Functions and powers of chief executive
     
-*   Heading: substituted, on 18 August 1992, by [section 11][438] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+*   Heading: substituted, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 121 Chief executive responsible for administration of Act
     
 *   The chief executive is responsible for the general administration of this Act.
     
-    Section 121: substituted, on 18 August 1992, by [section 11][438] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 121: substituted, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 122 Director-General may delegate powers
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 18 August 1992, by [section 12][439] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 122: repealed, on 18 August 1992, by [section 12][444] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 123 General functions and powers of chief executive
     
@@ -4945,7 +5013,7 @@ Administration
     
     Section 123(1)(d): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 123(1)(da): inserted, on 1 October 2010, by [section 80][440] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 123(1)(da): inserted, on 1 October 2010, by [section 80][445] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 123(1)(e): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
@@ -5003,7 +5071,7 @@ Administration
     
     Section 124(2): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 124(3): substituted, on 1 May 1996, by [section 46(1)][441] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 124(3): substituted, on 1 May 1996, by [section 46(1)][446] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 124(4)(a): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
@@ -5019,7 +5087,7 @@ Administration
     
     Section 124(6): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 124(7): amended, on 1 May 1996, by [section 46(2)][441] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 124(7): amended, on 1 May 1996, by [section 46(2)][446] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 124(7): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
@@ -5033,7 +5101,7 @@ Administration
 
 ##### 126 Annual report
     
-*   (1) The chief executive shall, as soon as practicable after 30 June in each year, submit to the Minister a report on the administration of this Act during the year ending on that day; and shall include that report in the annual report of the department prepared pursuant to [section 43][442] of the Public Finance Act 1989\.
+*   (1) The chief executive shall, as soon as practicable after 30 June in each year, submit to the Minister a report on the administration of this Act during the year ending on that day; and shall include that report in the annual report of the department prepared pursuant to [section 43][447] of the Public Finance Act 1989\.
     
     (2) The report shall show separately---
         
@@ -5041,21 +5109,21 @@ Administration
     
     *   (b) the auditor's report on those financial statements.
     
-    Section 126: substituted, on 18 August 1992, by [section 13(1)][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 126: substituted, on 18 August 1992, by [section 13(1)][448] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 126(1): amended, on 1 October 2010, by [section 81][444] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 126(1): amended, on 1 October 2010, by [section 81][449] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 126(1): amended, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 126(1): amended, on 25 January 2005, by [section 37(1)][450] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 126(2): substituted, on 1 May 1996, by [section 47][446] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 126(2): substituted, on 1 May 1996, by [section 47][451] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 #### Residential Tenancies Trust Account
     
-*   Heading: substituted, on 18 August 1992, by [section 14][447] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+*   Heading: substituted, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 127 Residential Tenancies Trust Account
     
-*   (1) The following sums shall be deemed to be trust money for the purposes of [Part 7][448] of the Public Finance Act 1989:
+*   (1) The following sums shall be deemed to be trust money for the purposes of [Part 7][453] of the Public Finance Act 1989:
         
     *   (a) all sums paid to the chief executive by way of bond under [section 20][36] or [section 21][37], as the case may be:
     
@@ -5065,9 +5133,9 @@ Administration
     
     and shall be paid into a Trust Bank Account called the Residential Tenancies Trust Account under that Part of that Act.
     
-    (2) Subject to subsection (3), the trust money in the Residential Tenancies Trust Account shall be managed and invested in accordance with [Part 7][448] of the Public Finance Act 1989\.
+    (2) Subject to subsection (3), the trust money in the Residential Tenancies Trust Account shall be managed and invested in accordance with [Part 7][453] of the Public Finance Act 1989\.
     
-    (3) Nothing in subsection (2) of [section 68][449], and [sections 69][450] and [70][451] of the Public Finance Act 1989 applies in respect of the Residential Tenancies Trust Account.
+    (3) Nothing in subsection (2) of [section 68][454], and [sections 69][455] and [70][456] of the Public Finance Act 1989 applies in respect of the Residential Tenancies Trust Account.
     
     (4) Subject to [sections 22 to 22D][39] and to subsection (5), no money shall be paid out of the Residential Tenancies Trust Account except---
         
@@ -5089,49 +5157,49 @@ Administration
     
     (7B) Despite subsection (7A), during the first year after the commencement of this section, payment of money into a Crown Bank Account may be delayed to enable the chief executive to exercise the powers under [section 22D][43].
     
-    (8) All money credited to Part A of the Residential Tenancies Fund immediately before the commencement of the [Residential Tenancies Amendment Act 1992][452] shall be deemed to be credited to the Residential Tenancies Trust Account.
+    (8) All money credited to Part A of the Residential Tenancies Fund immediately before the commencement of the [Residential Tenancies Amendment Act 1992][457] shall be deemed to be credited to the Residential Tenancies Trust Account.
     
-    (9) All money credited to Part B of the Residential Tenancies Fund immediately before the commencement of the [Residential Tenancies Amendment Act 1992][452] shall be deemed to be the property of the Crown.
+    (9) All money credited to Part B of the Residential Tenancies Fund immediately before the commencement of the [Residential Tenancies Amendment Act 1992][457] shall be deemed to be the property of the Crown.
     
-    Section 127: substituted, on 18 August 1992, by [section 14][447] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 127: substituted, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 127(4): amended, on 1 October 2010, by [section 82(1)][453] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 127(4): amended, on 1 October 2010, by [section 82(1)][458] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 127(7A): inserted, on 1 October 2010, by [section 82(2)][453] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 127(7A): inserted, on 1 October 2010, by [section 82(2)][458] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 127(7B): inserted, on 1 October 2010, by [section 82(2)][453] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 127(7B): inserted, on 1 October 2010, by [section 82(2)][458] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 128 Auditor-General to be auditor of Residential Tenancies Trust Account
     
-*   (1) The Residential Tenancies Trust Account is to be treated as a public entity as defined in [section 4][454] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   (1) The Residential Tenancies Trust Account is to be treated as a public entity as defined in [section 4][459] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (2) Without limiting subsection (1), the chief executive may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor to be an additional auditor of the Residential Tenancies Trust Account.
     
-    Section 128: substituted, on 1 July 2001, by [section 53][455] of the Public Audit Act 2001 (2001 No 10).
+    Section 128: substituted, on 1 July 2001, by [section 53][460] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 129 Part B of the Fund
     
 *   \[Repealed\]
     
-    Section 129: repealed, on 18 August 1992, by [section 15][456] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 129: repealed, on 18 August 1992, by [section 15][461] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 130 Corporation may make money available
     
 *   \[Repealed\]
     
-    Section 130: repealed, on 18 August 1992, by [section 15][456] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 130: repealed, on 18 August 1992, by [section 15][461] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 131 Corporation may borrow
     
 *   \[Repealed\]
     
-    Section 131: repealed, on 18 August 1992, by [section 15][456] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 131: repealed, on 18 August 1992, by [section 15][461] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 132 No execution
     
 *   No money from time to time standing to the credit of the Residential Tenancies Trust Account shall be taken in or be subject to execution, whether by way of garnishee or otherwise, without the written consent of the chief executive.
     
-    Section 132: substituted, on 18 August 1992, by [section 16][457] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 132: substituted, on 18 August 1992, by [section 16][462] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ## Part 5  
 Miscellaneous provisions
@@ -5148,7 +5216,7 @@ Miscellaneous provisions
     
     Section 133(2): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 133(2): amended, on 1 October 2010, by [section 83][458] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 133(2): amended, on 1 October 2010, by [section 83][463] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 134 Waiver by landlord of breach by tenant
     
@@ -5164,7 +5232,7 @@ Miscellaneous provisions
     
 *   Any amount that is, by virtue of any provision of this Act or of any order of the Tribunal, to be paid to the chief executive shall be paid by such method as may be prescribed by regulations made under [section 140][237].
     
-    Section 134A: inserted, on 1 May 1996, by [section 49(1)][459] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 134A: inserted, on 1 May 1996, by [section 49(1)][464] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 135 Recovery of money paid by mistake
     
@@ -5232,25 +5300,25 @@ Miscellaneous provisions
     
     Compare: Residential Tenancies Act 1978--1981 s 93 (SA)
     
-    Section 136(1)(b): substituted, on 1 October 2010, by [section 84(1)][460] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(b): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(1)(c): substituted, on 1 October 2010, by [section 84(1)][460] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(c): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(1)(d): substituted, on 1 October 2010, by [section 84(1)][460] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(d): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(2): substituted, on 1 May 1996, by [section 50(3)][461] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(2): substituted, on 1 May 1996, by [section 50(3)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(2)(c): substituted, on 1 October 2010, by [section 84(2)][460] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(2)(c): substituted, on 1 October 2010, by [section 84(2)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(2A): inserted, on 1 October 2010, by [section 84(3)][460] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(2A): inserted, on 1 October 2010, by [section 84(3)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(3): amended, on 1 May 1996, by [section 50(4)][461] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(3): amended, on 1 May 1996, by [section 50(4)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(4): amended, on 1 May 1996, by [section 50(5)][461] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(4): amended, on 1 May 1996, by [section 50(5)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(7): amended, on 1 May 1996, by [section 50(6)][461] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(7): amended, on 1 May 1996, by [section 50(6)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(8): added, on 1 May 1996, by [section 50(7)][461] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(8): added, on 1 May 1996, by [section 50(7)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 136A Calculation of periods
     
@@ -5260,7 +5328,7 @@ Miscellaneous provisions
     
     *   (b) ends with the close of the last day of the period.
     
-    Section 136A: inserted, on 1 October 2010, by [section 85][462] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136A: inserted, on 1 October 2010, by [section 85][467] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 137 Prohibited transactions
     
@@ -5280,7 +5348,7 @@ Miscellaneous provisions
 
 ##### 138 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][463] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][468] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
     Section 138: replaced, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5334,25 +5402,25 @@ Miscellaneous provisions
     
     Compare: Residential Tenancies Act 1978--1981 s 95 (SA)
     
-    Section 140(1)(da): inserted, on 1 May 1996, by [section 49(2)][459] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 140(1)(da): inserted, on 1 May 1996, by [section 49(2)][464] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 140(1)(ea): inserted, on 1 October 2010, by [section 86][464] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 140(1)(ea): inserted, on 1 October 2010, by [section 86][469] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 140(2): added, on 18 August 1992, by [section 17][465] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 140(2): added, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 140(3): added, on 18 August 1992, by [section 17][465] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 140(3): added, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 141 Schedule 1 may be amended by Order in Council
     
 *   \[Repealed\]
     
-    Section 141: repealed, on 1 October 2010, by [section 87][466] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 141: repealed, on 1 October 2010, by [section 87][471] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 142 Effect of Property Law Act 2007
     
-*   (1) Nothing in [Part 4][467] of the Property Law Act 2007 applies to a tenancy to which this Act applies.
+*   (1) Nothing in [Part 4][472] of the Property Law Act 2007 applies to a tenancy to which this Act applies.
     
-    (2) However, the Tribunal, in exercising its jurisdiction in accordance with [section 85][161] of this Act, may look to [Part 4][467] of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
+    (2) However, the Tribunal, in exercising its jurisdiction in accordance with [section 85][161] of this Act, may look to [Part 4][472] of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
     
     Section 142: substituted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
 
@@ -5360,30 +5428,28 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 143: repealed, on 18 August 1992, by [section 18][468] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 143: repealed, on 18 August 1992, by [section 18][473] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 144 Repeals, revocations, and amendments
     
 *   (1) The enactments specified in [Schedule 2][244] are hereby repealed.
     
-    (2) The regulations specified in [Schedule 3][469] are hereby revoked.
+    (2) The regulations specified in [Schedule 3][245] are hereby revoked.
     
-    (3) The enactments specified in [Schedule 4][470] are hereby amended in the manner indicated in that schedule.
+    (3) The enactments specified in [Schedule 4][246] are hereby amended in the manner indicated in that schedule.
 
 ---
 
 ## Schedule 1  
 Clauses for rent increases in fixed-term tenancy agreements
 
-[s 24(1A)][471]
+[s 24(1A)][474]
 
-*   Schedule 1: substituted, on 1 October 2010, by [section 88][472] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+*   Schedule 1: substituted, on 1 October 2010, by [section 88][475] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 _Select one of the following:_
 
 ##### Provision A
-
-#### __
 
 The landlord may review the rent from time to time and may increase the rent in accordance with [section 24][46] of the Residential Tenancies Act 1986\. No increase will take effect within 180 days after the date of the commencement of the tenancy or within 180 days after the date on which the last increase took effect.
 
@@ -5402,9 +5468,9 @@ Amounts for unlawful acts
 
 [s 109(4)][190]
 
-*   Schedule 1A: inserted, on 1 October 2010, by [section 88][472] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+*   Schedule 1A: inserted, on 1 October 2010, by [section 88][475] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
-**Section** **Amount **  
+**Section** **Amount**  
 **($)**
 
 [12][18] (Unlawful discrimination)4,000
@@ -5522,7 +5588,7 @@ Enactments amended
 
 ##### Housing Act 1955 (1955 No 51) (RS Vol 7, p 297)
 
-_Amendment(s) incorporated in the [Act(s)][473]_.
+_Amendment(s) incorporated in the [Act(s)][476]_.
 
 ##### Legal Aid Act 1969 (1969 No 47) (Reprinted 1975, Vol 3, p 2111)
 
@@ -5534,7 +5600,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][474]_.
+_Amendment(s) incorporated in the [Act(s)][477]_.
 
 ---
 
@@ -5546,7 +5612,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Residential Tenancies Amendment Act 1996][475], and shall be read together with and deemed part of the Residential Tenancies Act 1986 (hereinafter referred to as the principal Act).
+*   (1) This Act may be cited as the [Residential Tenancies Amendment Act 1996][478], and shall be read together with and deemed part of the Residential Tenancies Act 1986 (hereinafter referred to as the **principal Act**).
     
     (2) Except as provided in sections 3, 4, 6, 7, and 17 of this Act, this Act shall come into force on 1 May 1996\.
 
@@ -5588,13 +5654,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Residential Tenancies Amendment Act 2010][476].
+*   This Act is the [Residential Tenancies Amendment Act 2010][479].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2: this Act brought into force, on 1 October 2010, by the [Residential Tenancies Amendment Act 2010 Commencement Order 2010][477] (SR 2010/258).
+    Section 2: this Act brought into force, on 1 October 2010, by the [Residential Tenancies Amendment Act 2010 Commencement Order 2010][480] (SR 2010/258).
 
 ##### 3 Principal Act amended
     
@@ -5663,7 +5729,7 @@ Transitional provisions
     
 *   (1) This section applies to goods left on the premises by a tenant under a tenancy that is terminated before the commencement of section 44 of this Act.
     
-    (2) The principal Act applies to the goods as if sections 24 and 44 of this Act had not been enacted. 
+    (2) The principal Act applies to the goods as if sections 24 and 44 of this Act had not been enacted.
 
 ##### 93 Boarding house tenancies
     
@@ -5721,23 +5787,27 @@ Transitional provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][478] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][479] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][481] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][482] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][480] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][481] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][483] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][484] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][255]
+*   Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][310]
+    
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][255]
     
     Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][270]
     
-    [Residential Tenancies Amendment Act 2012][482] (2012 No 113)
+    [Residential Tenancies Amendment Act 2012][485] (2012 No 113)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][337]
     
-    [Residential Tenancies Amendment Act 2010][476] (2010 No 95)
+    [Residential Tenancies Amendment Act 2011][486] (2011 No 46)
+    
+    [Residential Tenancies Amendment Act 2010][479] (2010 No 95)
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1)][271]
     
@@ -5747,7 +5817,7 @@ Transitional provisions
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][251]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][445]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][450]
     
     Corrections Act 2004 (2004 No 50): [section 206][267]
     
@@ -5755,17 +5825,17 @@ Transitional provisions
     
     Human Rights Amendment Act 2001 (2001 No 96): [sections 70(1)][372], [71(1)][285]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][455]
+    Public Audit Act 2001 (2001 No 10): [section 53][460]
     
     Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22): [section 7(1)][312]
     
-    [Residential Tenancies Amendment Act 1996][475] (1996 No 7)
+    [Residential Tenancies Amendment Act 1996][478] (1996 No 7)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][380]
     
-    [Residential Tenancies Amendment Act 1992][452] (1992 No 79)
+    [Residential Tenancies Amendment Act 1992][457] (1992 No 79)
     
-    Defence Act 1990 (1990 No 28): [section 105(2)][432]
+    Defence Act 1990 (1990 No 28): [section 105(2)][437]
     
     Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][269]
 
@@ -6079,9 +6149,9 @@ Transitional provisions
 [305]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373659
 [306]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991280
 [307]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991281
-[308]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM269660
-[309]: http://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html#DLM96430
-[310]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991283
+[308]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM269435
+[309]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991283
+[310]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM5646466
 [311]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM374680
 [312]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM57867
 [313]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991284
@@ -6158,99 +6228,103 @@ Transitional provisions
 [384]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373681
 [385]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991401
 [386]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM262436
-[387]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM969472
-[388]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM333583
-[389]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991402
-[390]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991403
-[391]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373682
-[392]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373683
-[393]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991404
-[394]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991406
-[395]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991314
-[396]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991315
-[397]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991316
-[398]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991409
-[399]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991410
-[400]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373685
-[401]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373686
-[402]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991411
-[403]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991414
-[404]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991415
-[405]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373687
-[406]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM126527
-[407]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM392392
-[408]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373688
-[409]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991416
-[410]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373689
-[411]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991417
-[412]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373690
-[413]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991418
-[414]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373691
-[415]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM242775
-[416]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243933
-[417]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373692
-[418]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2927644
-[419]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270379
-[420]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991421
-[421]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270380
-[422]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270381
-[423]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373693
-[424]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991422
-[425]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991423
-[426]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991425
-[427]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373694
-[428]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991426
-[429]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991427
-[430]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991444
-[431]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM204972
-[432]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM206946
-[433]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991446
-[434]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991447
-[435]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243611
-[436]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991448
-[437]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373695
-[438]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270382
-[439]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270383
-[440]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991449
-[441]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373696
-[442]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162464
-[443]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270384
-[444]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991450
-[445]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM328867
-[446]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373697
-[447]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270385
-[448]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162980
-[449]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162984
-[450]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162985
-[451]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162987
-[452]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270365
-[453]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991451
-[454]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM88548
-[455]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM88957
-[456]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270386
-[457]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270387
-[458]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991452
-[459]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373699
-[460]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991453
-[461]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373800
-[462]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991454
-[463]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3360067
-[464]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991456
-[465]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270388
-[466]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991457
-[467]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM969393
-[468]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270389
-[469]: http://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html#DLM96432
-[470]: http://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html#DLM96434
-[471]: http://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html#DLM2381106
-[472]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991458
-[473]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM291039
-[474]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM310742
-[475]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373636
-[476]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2038600
-[477]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3168504
-[478]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998516
-[479]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998515
-[480]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998532
-[481]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[482]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991302
+[387]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM242775
+[388]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM969472
+[389]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM333583
+[390]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991402
+[391]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3558303
+[392]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243986
+[393]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243933
+[394]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243965
+[395]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991403
+[396]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373682
+[397]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3558304
+[398]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373683
+[399]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991404
+[400]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991406
+[401]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991314
+[402]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991315
+[403]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991316
+[404]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991409
+[405]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3558310
+[406]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991410
+[407]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373685
+[408]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373686
+[409]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991411
+[410]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991414
+[411]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991415
+[412]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373687
+[413]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM126527
+[414]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM392392
+[415]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373688
+[416]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991416
+[417]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373689
+[418]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991417
+[419]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373690
+[420]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991418
+[421]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373691
+[422]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373692
+[423]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2927644
+[424]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270379
+[425]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991421
+[426]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270380
+[427]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270381
+[428]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373693
+[429]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991422
+[430]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991423
+[431]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991425
+[432]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373694
+[433]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991426
+[434]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991427
+[435]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991444
+[436]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM204972
+[437]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM206946
+[438]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991446
+[439]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991447
+[440]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM243611
+[441]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991448
+[442]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373695
+[443]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270382
+[444]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270383
+[445]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991449
+[446]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373696
+[447]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162464
+[448]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270384
+[449]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991450
+[450]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM328867
+[451]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373697
+[452]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270385
+[453]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162980
+[454]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162984
+[455]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162985
+[456]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM162987
+[457]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270365
+[458]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991451
+[459]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM88548
+[460]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM88957
+[461]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270386
+[462]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270387
+[463]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991452
+[464]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373699
+[465]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991453
+[466]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373800
+[467]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991454
+[468]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3360067
+[469]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991456
+[470]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270388
+[471]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991457
+[472]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM969393
+[473]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM270389
+[474]: http://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html#DLM2381106
+[475]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM1991458
+[476]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM291039
+[477]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM310742
+[478]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM373636
+[479]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2038600
+[480]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3168504
+[481]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998516
+[482]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998515
+[483]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM2998532
+[484]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[485]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM4991302
+[486]: http://www.legislation.govt.nz/act/public/1986/0120/latest/link.aspx?id=DLM3558311
