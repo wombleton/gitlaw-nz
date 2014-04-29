@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 14 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2), (3)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -3842,7 +3842,7 @@ Personal property securities register
     
     Section 167A: inserted, on 13 February 2012 (except as it relates to subparagraphs (i), (ii), and (iv) of section 167A(1)(b)), by [section 5][378] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
     
-    Section 167A(1)(b)(i): not yet in force.
+    Section 167A(1)(b)(i): brought into force, on 14 April 2014, by [section 5][378] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
     
     Section 167A(1)(b)(ii): brought into force, on 1 August 2012, by [section 5][378] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
     
@@ -4638,7 +4638,7 @@ Schedule 4 **Motor Vehicle Securities (Fees) Regulations 1999**: amended, on 1 M
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][427] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][428] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][427] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][428] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
