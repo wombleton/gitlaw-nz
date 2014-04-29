@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 14 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -266,7 +266,7 @@ This Act is administered by the Ministry of Justice.
 
 [68][116][][116][Removal of judgment or order of High Court into District Court][116]
 
-[69][117][][117][Removal of judgment from one court to another][117]
+[69][117][][117][Removal of judgment from one court to another][117] \[Repealed\]
 
 [70][118][][118][Removal of judgment of abolished court][118]
 
@@ -304,202 +304,224 @@ This Act is administered by the Ministry of Justice.
 
 [79][134][][134][Nature of proceedings for enforcement of judgment][134]
 
-[80][135][][135][Enforcement of judgments more than 6 years old][135]
+[79A][135][][135][Judgment may be enforced in any District Court][135]
 
-[81][136][][136][Enforcement of order for payment by instalments][136]
+[80][136][][136][Enforcement of judgments more than 6 years old][136]
 
-[82][137][][137][Proceedings on cross-judgments][137]
+[81][137][][137][Enforcement of order for payment by instalments][137]
 
-[83][138][][138][Power to stay proceedings for enforcement][138]
+[82][138][][138][Proceedings on cross-judgments][138]
 
-[84][139][][139][Stay of proceedings on appeal][139]
+[83][139][][139][Power to stay proceedings for enforcement][139]
 
-[Discovery in aid of execution][140]
+[84][140][][140][Stay of proceedings on appeal][140]
 
-[84A][141][][141][Notice to judgment debtor to complete financial statement][141]
+[Information about judgment debtor's means][141]
 
-[84B][142][][142][Order for examination of judgment debtor][142]
+[84A][142][][142][Filing of financial statement][142]
 
-[84C][143][][143][Where judgment debtor does not appear at examination or order cannot be served][143]
+[84B][143][][143][Notice to complete financial statement][143]
 
-[84D][144][][144][Conduct of examination][144]
+[84C][144][][144][Court to request information about judgment debtor's means][144]
 
-[84E][145][][145][Orders by court][145]
+[84D][145][][145][Court may order hearing if information about judgment debtor's means not provided, etc][145]
 
-[Attachment orders][146]
+[84E][146][][146][Application for financial assessment hearing][146]
 
-[84F][147][][147][Interpretation][147]
+[84EA][147][][147][Power to arrest judgment debtor or officer][147]
 
-[84G][148][][148][Attachment orders][148]
+[84EB][148][][148][Financial assessment hearing][148]
 
-[84H][149][][149][Attachment order to be served on employer][149]
+[84EC][149][][149][Orders by court following filing of financial statement, etc][149]
 
-[84I][150][][150][Effect of attachment orders][150]
+[Attachment orders][150]
 
-[84J][151][][151][Liability of employer][151]
+[84F][151][][151][Interpretation][151]
 
-[84K][152][][152][Wrongful treatment of employee][152]
+[84G][152][][152][Attachment orders][152]
 
-[84L][153][][153][Extent to which attachment orders bind the Crown][153]
+[84H][153][][153][Content of attachment orders][153]
 
-[84M][154][][154][Variation, suspension, and discharge of attachment orders][154]
+[84I][154][][154][Effect of attachment orders][154]
 
-[Review of Registrar's decision][155]
+[84J][155][][155][Liability of employer][155]
 
-[84N][156][][156][Review of Registrar's decision][156]
+[84K][156][][156][Wrongful treatment of employee][156]
 
-[Contempt][157]
+[84L][157][][157][Extent to which attachment orders bind the Crown][157]
 
-[84O][158][][158][Contempt procedures][158]
+[84M][158][][158][Variation, suspension, and discharge of attachment orders][158]
 
-[84P][159][][159][Application of Part 1 of Legal Services Act 1991][159] \[Repealed\]
+[Review of Registrar's decision][159]
 
-[84Q][160][][160][Judgment debtor doing community work to be discharged on payment][160]
+[84N][160][][160][Review of Registrar's decision][160]
 
-[Warrant of distress][161]
+[Contempt][161]
 
-[85][162][][162][Warrant of distress][162]
+[84O][162][][162][Contempt procedures][162]
 
-[85A][163][][163][Immobilisation of motor vehicles][163]
+[84OA][163][][163][Process for dealing with application for contempt procedures][163]
 
-[86][164][][164][Disposal of bills of exchange, etc, seized][164]
+[84OB][164][][164][Warrant to arrest may be issued if judgment debtor cannot be served or fails to appear at hearing][164]
 
-[87][165][][165][Penalty for rescue of goods seized][165]
+[84P][165][][165][Application of Part 1 of Legal Services Act 1991][165] \[Repealed\]
 
-[Sale of goods seized][166]
+[84Q][166][][166][Judgment debtor doing community work to be discharged on payment][166]
 
-[88][167][][167][Period to elapse before sale][167]
+[Warrants to seize property][167]
 
-[89][168][][168][Sale of goods by public auction unless otherwise ordered][168]
+[85][168][][168][Warrant to seize property][168]
 
-[90][169][][169][Protection of bailiff selling goods under execution without notice of claim by third party][169]
+[85A][169][][169][Immobilisation of motor vehicles][169]
 
-[91][170][][170][Procedure when goods seized are secured under bill of sale][170]
+[86][170][][170][Disposal of bills of exchange, etc, seized][170]
 
-[Claims in respect of goods seized][171]
+[87][171][][171][Penalty for rescue of goods seized][171]
 
-[92][172][][172][Priority of High Court and District Court executions][172]
+[Sale of goods seized][172]
 
-[93][173][][173][Sale of goods where claim made thereto][173]
+[88][173][][173][Period to elapse before sale][173]
 
-[94][174][][174][Bailiff's interpleader][174]
+[89][174][][174][Sale of goods by public auction unless otherwise ordered][174]
 
-[95][175][][175][Claims for rent where goods seized under execution][175] \[Repealed\]
+[90][175][][175][Protection of bailiff selling goods under execution without notice of claim by third party][175]
 
-[Garnishee proceedings][176]
+[91][176][][176][Procedure when goods seized are secured under bill of sale][176]
 
-[96][177][][177][Garnishee proceedings][177]
+[91A][177][][177][Personal property securities register to be checked][177]
 
-[Charging orders][178]
+[Claims in respect of goods seized][178]
 
-[96A][179][][179][Charging orders][179]
+[92][179][][179][Priority of High Court and District Court executions][179]
 
-[Committals][180]
+[93][180][][180][Sale of goods where claim made thereto][180]
 
-[97][181][][181][Issue and execution of orders or warrants of committal][181]
+[94][181][][181][Third party claim process][181]
 
-[98][182][][182][Power of Judge to order discharge][182]
+[95][182][][182][Claims for rent where goods seized under execution][182] \[Repealed\]
 
-[Warrant for the recovery of land][183]
+[Garnishee proceedings][183]
 
-[99][184][][184][Warrant for the recovery of land][184]
+[96][184][][184][Garnishee proceedings][184]
 
-[100][185][][185][Irregularity in execution of warrant can only be sued for as special damage][185]
+[Charging orders][185]
 
-[101][186][][186][Person illegally obtaining warrant liable for trespass][186]
+[96A][186][][186][Charging orders][186]
 
-[102][187][][187][Execution of warrant may be stayed on giving bond][187]
+[Committals][187]
 
-[Recovery of chattels][188]
+[97][188][][188][Issue and execution of orders or warrants of committal][188]
 
-[103][189][][189][Warrant for the recovery of chattels][189]
+[98][189][][189][Power of Judge to order discharge][189]
 
-[104][190][][190][Further proceedings if chattels not recovered][190]
+[Warrant for the recovery of land][190]
 
-[Liability and protection of officers][191]
+[99][191][][191][Warrant for the recovery of land][191]
 
-[105][192][][192][Neglect by bailiffs][192]
+[100][192][][192][Irregularity in execution of warrant can only be sued for as special damage][192]
 
-[106][193][][193][Irregularity in executing warrants][193]
+[101][193][][193][Person illegally obtaining warrant liable for trespass][193]
 
-[107][194][][194][Actions against bailiffs acting under warrants][194]
+[102][194][][194][Execution of warrant may be stayed on giving bond][194]
 
-[108][195][][195][Action to be brought within 6 months, and 1 month's notice to be given][195]
+[Recovery of chattels][195]
 
-[Part 7][196]  
-[Miscellaneous and general][196]
+[103][196][][196][Warrant for the recovery of chattels][196]
 
-[Writs of arrest][197]
+[104][197][][197][Further proceedings if chattels not recovered][197]
 
-[109][198][][198][Absconding debtors may be held to bail][198]
+[Liability and protection of officers][198]
 
-[110][199][][199][Successful plaintiff entitled to execution, successful defendant entitled to compensation][199]
+[105][199][][199][Neglect by bailiffs][199]
 
-[Interpleader][200]
+[106][200][][200][Irregularity in executing warrants][200]
 
-[111][201][][201][Interpleader][201]
+[107][201][][201][Actions against bailiffs acting under warrants][201]
 
-[Contempt][202]
+[108][202][][202][Action to be brought within 6 months, and 1 month's notice to be given][202]
 
-[112][203][][203][Penalty for contempt of court][203]
+[Service][203]
 
-[Financial provisions][204]
+[108A][204][][204][Service of documents under this Part][204]
 
-[113][205][][205][Payment and recovery of fees][205]
+[108B][205][][205][Service provisions modified in special cases][205]
 
-[114][206][][206][Enforcement of fines][206]
+[Part 7][206]  
+[Miscellaneous and general][206]
 
-[115][207][][207][Fines and fees to be paid to Crown Bank Account][207]
+[Writs of arrest][207]
 
-[Miscellaneous][208]
+[109][208][][208][Absconding debtors may be held to bail][208]
 
-[116][209][][209][Prescribed documents to be sealed][209]
+[110][209][][209][Successful plaintiff entitled to execution, successful defendant entitled to compensation][209]
 
-[116A][210][][210][Proof of service of documents by officer or constable][210]
+[Interpleader][210]
 
-[117][211][][211][Subtenant to give notice of proceeding to subtenant's immediate landlord][211]
+[111][211][][211][Interpleader][211]
 
-[118][212][][212][Actions on lost instruments][212]
+[Contempt][212]
 
-[119][213][][213][Immunity of Judges][213]
+[112][213][][213][Penalty for contempt of court][213]
 
-[120][214][][214][No privilege to solicitors][214]
+[Financial provisions][214]
 
-[121][215][][215][Constables, etc, to assist][215]
+[113][215][][215][Payment and recovery of fees][215]
 
-[122][216][][216][District Courts Rules][216]
+[114][216][][216][Enforcement of fines][216]
 
-[123][217][][217][Regulations][217]
+[115][217][][217][Fines and fees to be paid to Crown Bank Account][217]
 
-[123A][218][][218][Reviews of decisions of Registrars concerning fees][218]
+[Miscellaneous][218]
 
-[124][219][][219][Application of Act][219]
+[116][219][][219][Prescribed documents to be sealed][219]
 
-[125][220][][220][Repeals and savings][220]
+[116A][220][][220][Proof of service of documents][220]
 
-[Schedule 1][221]  
-[Criminal Record Book][221]
+[117][221][][221][Subtenant to give notice of proceeding to subtenant's immediate landlord][221]
+
+[118][222][][222][Actions on lost instruments][222]
+
+[119][223][][223][Immunity of Judges][223]
+
+[120][224][][224][No privilege to solicitors][224]
+
+[121][225][][225][Constables, etc, to assist][225]
+
+[122][226][][226][District Courts Rules][226]
+
+[123][227][][227][Regulations][227]
+
+[123AA][228][][228][Chief executive of Ministry of Justice may approve forms][228]
+
+[123A][229][][229][Reviews of decisions of Registrars concerning fees][229]
+
+[124][230][][230][Application of Act][230]
+
+[125][231][][231][Repeals and savings][231]
+
+[Schedule 1][232]  
+[Criminal Record Book][232]
 
 \[Repealed\]
 
-[Schedule 1A][222]  
-[Offences triable in either District Court or High Court and offences triable only in High Court][222]
+[Schedule 1A][233]  
+[Offences triable in either District Court or High Court and offences triable only in High Court][233]
 
 \[Repealed\]
 
-[Schedule 2][223]  
-[Enactments (repealed by this Act) formerly regulating or providing for matters which can be regulated or provided for by rules][223]
+[Schedule 2][234]  
+[Enactments (repealed by this Act) formerly regulating or providing for matters which can be regulated or provided for by rules][234]
 
-[Schedule 3][224]  
-[Enactments repealed][224]
+[Schedule 3][235]  
+[Enactments repealed][235]
 
 ---
 
 An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
     
-*   Title: amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][226] of the Constitution Act 1986 (1986 No 114).
-*   Title: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+*   Title: amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][237] of the Constitution Act 1986 (1986 No 114).
+*   Title: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 1 Short Title and commencement
     
@@ -507,9 +529,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) This Act shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Proclamation.
     
-    Section 1(1): amended, on 1 April 1980, by [section 2(1)][228] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 1(1): amended, on 1 April 1980, by [section 2(1)][239] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 1(2): District Courts Act 1947 brought into force, on 1 January 1949, by [clause 2][229] of the District Courts Act Commencement Order 1948 (SR 1948/196).
+    Section 1(2): District Courts Act 1947 brought into force, on 1 January 1949, by [clause 2][240] of the District Courts Act Commencement Order 1948 (SR 1948/196).
 
 ##### 2 Interpretation
     
@@ -519,9 +541,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _Community Magistrate_ means a Community Magistrate appointed under [section 11A][23]; and includes the Chief Community Magistrate
     
+    _constable_ has the meaning given by [section 4][241] of the Policing Act 2008
+    
     _court_ or _District Court_ means a court constituted under this Act
     
-    _High Court Rules_ means the rules from time to time set out in [Schedule 2][230] of the Judicature Act 1908
+    _financial assessment hearing_ has the meaning given by [section 84E][146]
+    
+    _financial statement_ has the meaning given by [section 84A][142]
+    
+    _High Court Rules_ means the rules from time to time set out in [Schedule 2][242] of the Judicature Act 1908
     
     _interlocutory application_---
         
@@ -543,56 +571,66 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _party_ means any person who is a plaintiff or defendant in any proceeding; and includes any person added to the proceeding
     
+    _Police employee_ has the meaning given by [section 4][241] of the Policing Act 2008
+    
     _prescribed_ means prescribed by the rules for the time being in force
     
     _proceeding_ means any application to the court for the exercise of the civil jurisdiction of the court other than an interlocutory application
     
     _Registrar_ means the Registrar of a court, and includes any Deputy Registrar
     
-    _rules_ means the District Courts Rules made under [section 122][216]
+    _rules_ means the District Courts Rules made under [section 122][226]
     
-    _trial Judge_ means a Judge appointed under [section 28B][231] to exercise the criminal jurisdiction of the courts under [Part 2A][54].
+    _trial Judge_ means a Judge appointed under section 28B to exercise the criminal jurisdiction of the courts under Part 2A.
     
-    (2) Except as expressly provided in this Act, nothing in this Act shall be deemed to relate to any court in respect of the exercise of the criminal jurisdiction referred to in the [Criminal Procedure Act 2011][232] and every reference to a court shall be deemed to relate to a court in which civil proceedings may be taken.
+    (2) Except as expressly provided in this Act, nothing in this Act shall be deemed to relate to any court in respect of the exercise of the criminal jurisdiction referred to in the [Criminal Procedure Act 2011][243] and every reference to a court shall be deemed to relate to a court in which civil proceedings may be taken.
     
     Compare: 1928 No 14 s 2; County Courts Act 1934 s 191 (UK)
     
-    Section 2(1) **action**: repealed, on 1 July 1992, by [section 2(1)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **action**: repealed, on 1 July 1992, by [section 2(1)][244] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 2(1) **Community Magistrate**: inserted, on 30 June 1998, by [section 2][234] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 2(1) **Community Magistrate**: inserted, on 30 June 1998, by [section 2][245] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 2(1) **court** and **Magistrate's Court**: repealed, on 1 April 1980, by [section 3(1)][235] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **constable**: inserted, on 14 April 2014, by [section 4][246] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 2(1) **court** or **District Court**: inserted, on 1 April 1980, by [section 3(1)][235] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **court** and **Magistrate's Court**: repealed, on 1 April 1980, by [section 3(1)][247] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 2(1) **High Court Rules**: inserted, on 1 July 1992, by [section 2(2)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **court** or **District Court**: inserted, on 1 April 1980, by [section 3(1)][247] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 2(1) **interlocutory application**: inserted, on 1 July 1992, by [section 2(2)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **financial assessment hearing**: inserted, on 14 April 2014, by [section 4][246] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 2(1) **Judge**: inserted, on 1 April 1980, by [section 3(1)][235] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **financial statement**: inserted, on 14 April 2014, by [section 4][246] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 2(1) **Magistrate**: repealed, on 1 April 1980, by [section 3(2)][235] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **High Court Rules**: inserted, on 1 July 1992, by [section 2(2)][244] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 2(1) **matter**: repealed, on 1 July 1992, by [section 2(3)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **interlocutory application**: inserted, on 1 July 1992, by [section 2(2)][244] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 2(1) **party**: substituted, on 1 July 1992, by [section 2(4)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **Judge**: inserted, on 1 April 1980, by [section 3(1)][247] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 2(1) **proceeding**: inserted, on 1 July 1992, by [section 2(5)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **Magistrate**: repealed, on 1 April 1980, by [section 3(2)][247] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 2(1) **proceedings**: repealed, on 1 July 1992, by [section 2(5)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **matter**: repealed, on 1 July 1992, by [section 2(3)][244] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 2(1) **rules**: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **party**: substituted, on 1 July 1992, by [section 2(4)][244] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 2(1) **trial Judge**: added, on 1 October 1991, by [section 2(6)][233] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 2(1) **Police employee**: inserted, on 14 April 2014, by [section 4][246] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 2(2): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 2(1) **proceeding**: inserted, on 1 July 1992, by [section 2(5)][244] of the District Courts Amendment Act 1991 (1991 No 61).
+    
+    Section 2(1) **proceedings**: repealed, on 1 July 1992, by [section 2(5)][244] of the District Courts Amendment Act 1991 (1991 No 61).
+    
+    Section 2(1) **rules**: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 2(1) **trial Judge**: added, on 1 October 1991, by [section 2(6)][244] of the District Courts Amendment Act 1991 (1991 No 61).
+    
+    Section 2(2): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ## Part 1  
 Constitution and administration
 
 #### District Courts
     
-*   Heading: substituted, on 1 April 1980, by [section 4][236] of the District Courts Amendment Act 1979 (1979 No 125).
+*   Heading: substituted, on 1 April 1980, by [section 4][248] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 3 Courts constituted
     
@@ -600,15 +638,15 @@ Constitution and administration
     
     (2) Each court shall have a seal, which shall be kept by the Registrar.
     
-    Section 3: substituted, on 1 April 1980, by [section 4][236] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 3: substituted, on 1 April 1980, by [section 4][248] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 4 Appointment of places for holding of courts
     
 *   (1) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of civil jurisdiction.
     
-    (2) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct Judge-alone trials in accordance with the [Criminal Procedure Act 2011][232].
+    (2) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct Judge-alone trials in accordance with the [Criminal Procedure Act 2011][243].
     
-    (2A) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct jury trials in accordance with the [Criminal Procedure Act 2011][232].
+    (2A) The Governor-General may from time to time appoint cities, boroughs, or other places in which courts may be held for the exercise of jurisdiction to conduct jury trials in accordance with the [Criminal Procedure Act 2011][243].
     
     (3) The Governor-General may from time to time authorize any court held in any city, borough, or other place appointed under the last preceding subsection to deal with any specified class of matters not within the criminal jurisdiction of the court.
     
@@ -620,11 +658,11 @@ Constitution and administration
     
     Section 4 heading: substituted, on 1 May 1981, by section 2 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 4(2): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 4(2): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 4(2A): replaced, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 4(2A): replaced, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 4(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 4(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 4A Sittings of court at other places
     
@@ -640,23 +678,23 @@ Constitution and administration
     
     Section 4A: inserted, on 29 June 1974, by section 2(1) of the District Courts Amendment Act 1974 (1974 No 20).
     
-    Section 4A(1): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 4A(1): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 4A(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 4A(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 4A(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 4A(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 4B Disputes Tribunals
     
-*   (1) A court constituted under [section 4][7] shall have a division for the hearing and determination of claims within the meaning of the [Disputes Tribunals Act 1988][237] where, under [section 4(4)][238] of that Act, the notice establishing a Disputes Tribunal so provides.
+*   (1) A court constituted under [section 4][7] shall have a division for the hearing and determination of claims within the meaning of the [Disputes Tribunals Act 1988][249] where, under [section 4(4)][250] of that Act, the notice establishing a Disputes Tribunal so provides.
     
-    (2) Notwithstanding subsection (1), the jurisdiction of a Disputes Tribunal shall be limited to such as is conferred on it by the [Disputes Tribunals Act 1988][237], or by any other enactment, and except as provided in that Act, or in any other enactment, no provision of this Act or of any rules or regulations made under this Act shall apply to a Disputes Tribunal.
+    (2) Notwithstanding subsection (1), the jurisdiction of a Disputes Tribunal shall be limited to such as is conferred on it by the [Disputes Tribunals Act 1988][249], or by any other enactment, and except as provided in that Act, or in any other enactment, no provision of this Act or of any rules or regulations made under this Act shall apply to a Disputes Tribunal.
     
-    Section 4B: substituted, on 1 March 1989, by [section 82(2)][239] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 4B: substituted, on 1 March 1989, by [section 82(2)][251] of the Disputes Tribunals Act 1988 (1988 No 110).
 
 #### District Court Judges
     
-*   Heading: substituted, on 1 April 1980, by [section 6(1)][240] of the District Courts Amendment Act 1979 (1979 No 125).
+*   Heading: substituted, on 1 April 1980, by [section 6(1)][252] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 5 Appointment and qualifications
     
@@ -684,21 +722,21 @@ Constitution and administration
     
     (5) No Judge shall practise as a barrister or solicitor.
     
-    Section 5: substituted, on 1 April 1980, by [section 6(1)][240] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 5: substituted, on 1 April 1980, by [section 6(1)][252] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 5(2): substituted, on 20 May 2004, by [section 3(1)][241] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 5(2): substituted, on 20 May 2004, by [section 3(1)][253] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 5(2): amended, on 23 March 2010, by [section 4][242] of the District Courts (District Court Judges) Amendment Act 2010 (2010 No 6).
+    Section 5(2): amended, on 23 March 2010, by [section 4][254] of the District Courts (District Court Judges) Amendment Act 2010 (2010 No 6).
     
-    Section 5(2A): inserted, on 20 May 2004, by [section 3(1)][241] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 5(2A): inserted, on 20 May 2004, by [section 3(1)][253] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 5(2B): inserted, on 20 May 2004, by [section 3(1)][241] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 5(2B): inserted, on 20 May 2004, by [section 3(1)][253] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 5(3)(b): amended, on 1 October 2003, pursuant to [section 14(1)][243] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 5(3)(b): amended, on 1 October 2003, pursuant to [section 14(1)][255] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 5(3)(b): amended, on 1 July 1995, by [section 3(1)(c)][244] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 5(3)(b): amended, on 1 July 1995, by [section 3(1)(c)][256] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 5(4): substituted, on 20 May 2004, by [section 3(2)][241] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 5(4): substituted, on 20 May 2004, by [section 3(2)][253] of the District Courts Amendment Act 2004 (2004 No 42).
 
 ##### 5AA Judges act on full-time basis but may be authorised to act part-time
     
@@ -722,7 +760,7 @@ Constitution and administration
     
     (8) This section applies to persons who hold office as District Court Judges regardless of whether they act as District Court Judges, as Environment Judges, or in any other judicial office.
     
-    Section 5AA: inserted, on 20 May 2004, by [section 4][245] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 5AA: inserted, on 20 May 2004, by [section 4][257] of the District Courts Amendment Act 2004 (2004 No 42).
 
 ##### 5A Chief District Court Judge
     
@@ -734,19 +772,19 @@ Constitution and administration
     
     (4) Whenever by reason of illness, absence from New Zealand, or any other cause the Chief District Court Judge is prevented from exercising the duties of his office, the Governor-General may, by writing under his hand, appoint 1 of the other Judges to act as Chief District Court Judge until the Chief District Court Judge resumes his duties, and during that period to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief District Court Judge.
     
-    Section 5A: inserted, on 1 April 1980, by [section 7][246] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 5A: inserted, on 1 April 1980, by [section 7][258] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 5A(4): amended, on 1 May 1981, by section 5 of the District Courts Amendment Act 1980 (1980 No 83).
 
 ##### 5B Appointment of jury trial Judges
     
-*   (1) The Governor-General must, by warrant, appoint sufficient Judges to exercise the criminal jurisdiction of the courts in respect of jury trials under the [Criminal Procedure Act 2011][232].
+*   (1) The Governor-General must, by warrant, appoint sufficient Judges to exercise the criminal jurisdiction of the courts in respect of jury trials under the [Criminal Procedure Act 2011][243].
     
     (2) The fact that a Judge is appointed under this section does not limit or affect the power of that Judge to exercise any other jurisdiction of the court or the powers of a Judge.
     
     Compare: 1947 No 16 s 28B
     
-    Section 5B: inserted, on 1 July 2013, by [section 4][247] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 5B: inserted, on 1 July 2013, by [section 4][259] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 6 Salaries and allowances
     
@@ -766,39 +804,39 @@ Constitution and administration
     
     (2C) For the purpose of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (2A) or the payment of reduced salary and allowances under subsection (2B) is not a diminution of salary.
     
-    (3) Subject to the [Remuneration Authority Act 1977][248], any determination made under subsection (1) of this section, and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+    (3) Subject to the [Remuneration Authority Act 1977][260], any determination made under subsection (1) of this section, and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
     
     (4) Every such determination, and every provision of any such determination, in respect of which no date is specified as aforesaid shall come into force on the date of the making of the determination.
     
-    Section 6: substituted, on 1 April 1985, by [section 2][249] of the District Courts Amendment Act (No 3) 1985 (1985 No 137).
+    Section 6: substituted, on 1 April 1985, by [section 2][261] of the District Courts Amendment Act (No 3) 1985 (1985 No 137).
     
-    Section 6(1): substituted, on 20 May 2004, by [section 5(1)][250] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 6(1): substituted, on 20 May 2004, by [section 5(1)][262] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 6(2A): inserted, on 20 May 2004, by [section 5(2)][250] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 6(2A): inserted, on 20 May 2004, by [section 5(2)][262] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 6(2B): inserted, on 20 May 2004, by [section 5(2)][250] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 6(2B): inserted, on 20 May 2004, by [section 5(2)][262] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 6(2C): inserted, on 20 May 2004, by [section 5(2)][250] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 6(2C): inserted, on 20 May 2004, by [section 5(2)][262] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 6(3): amended, on 1 April 2003, by [section 4(1)][251] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 6(3): amended, on 1 April 2003, by [section 4(1)][263] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 7 Tenure of office
     
 *   (1) The Governor-General may, if he thinks fit, remove a Judge for inability or misbehaviour.
     
-    (1A) To avoid doubt, a Judge may be removed under subsection (1) for inability or misbehaviour related to the exercise, contemplated by [section 8(d)][17], of the judicial authority conferred on a coroner by the [Coroners Act 2006][252].
+    (1A) To avoid doubt, a Judge may be removed under subsection (1) for inability or misbehaviour related to the exercise, contemplated by [section 8(d)][17], of the judicial authority conferred on a coroner by the [Coroners Act 2006][264].
     
     (2) Every Judge shall retire from office on attaining the age of 70 years.
     
     Compare: 1928 No 14 ss 7(2), 9
     
-    Section 7(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(1A): inserted, on 1 July 2007, by [section 146][253] of the Coroners Act 2006 (2006 No 38).
+    Section 7(1A): inserted, on 1 July 2007, by [section 146][265] of the Coroners Act 2006 (2006 No 38).
     
-    Section 7(2): amended, on 6 March 2007, by [section 4][254] of the District Courts Amendment Act 2007 (2007 No 1).
+    Section 7(2): amended, on 6 March 2007, by [section 4][266] of the District Courts Amendment Act 2007 (2007 No 1).
     
-    Section 7(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 8 _Ex officio_ functions of Judges
     
@@ -808,17 +846,17 @@ Constitution and administration
     
     *   (b) shall, though sitting alone, have all such powers, functions, and discretions, unless otherwise specially provided, as now are or hereafter may be exercised by 2 Justices:
     
-    *   (c) shall have full power to do alone whatever is authorized to be done by 2 Justices under the [Criminal Procedure Act 2011][232], or under any other Act now or hereafter in force in New Zealand:
+    *   (c) shall have full power to do alone whatever is authorized to be done by 2 Justices under the [Criminal Procedure Act 2011][243], or under any other Act now or hereafter in force in New Zealand:
     
     *   (d) shall be a Coroner for New Zealand.
     
     Compare: 1928 No 14 s 14
     
-    Section 8 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 8: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 8(c): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 8(c): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 9 Assignment and rostering of District Court Judges
     
@@ -846,13 +884,13 @@ Constitution and administration
     
     Compare: 1928 No 14 s 12
     
-    Section 10 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(2): amended, on 6 March 2007, by [section 5][255] of the District Courts Amendment Act 2007 (2007 No 1).
+    Section 10(2): amended, on 6 March 2007, by [section 5][267] of the District Courts Amendment Act 2007 (2007 No 1).
     
-    Section 10(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 10(2): amended, on 18 November 1964, by section 3 of the District Courts Amendment Act 1964 (1964 No 99).
 
@@ -860,9 +898,9 @@ Constitution and administration
     
 *   (1) Any person who has retired from office as a Judge on attaining the age of 70 years, or who has sooner resigned, may be appointed from time to time as an acting Judge by the Governor-General by warrant under his hand.
     
-    (1A) Notwithstanding [section 28B][231], any person so appointed may, at the same time or at any subsequent time during the term of his appointment, be appointed to exercise the criminal jurisdiction of the courts under [Part 2A][54]; and any such appointment shall take effect during any period when, and in any place where, that person is entitled under subsection (4) to act as a Judge.
+    (1A) Notwithstanding section 28B, any person so appointed may, at the same time or at any subsequent time during the term of his appointment, be appointed to exercise the criminal jurisdiction of the courts under Part 2A; and any such appointment shall take effect during any period when, and in any place where, that person is entitled under subsection (4) to act as a Judge.
     
-    (2) Notwithstanding the provisions of [section 435][256] of the Children, Young Persons, and Their Families Act 1989, any person so appointed may at the same time or at any subsequent time during the term of that person's appointment be designated as a Youth Court Judge, and any such designation shall take effect during any period when and in any place where pursuant to subsection (4) that person is entitled to act as a Judge.
+    (2) Notwithstanding the provisions of [section 435][268] of the Children, Young Persons, and Their Families Act 1989, any person so appointed may at the same time or at any subsequent time during the term of that person's appointment be designated as a Youth Court Judge, and any such designation shall take effect during any period when and in any place where pursuant to subsection (4) that person is entitled to act as a Judge.
     
     (3) Each such appointment shall be for a term not exceeding 2 years or, if the person has attained the age of 72 years, not exceeding 12 months.
     
@@ -874,21 +912,21 @@ Constitution and administration
     
     Section 10A heading: amended, on 1 May 1981, by section 6 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 10A(1): amended, on 6 March 2007, by [section 6][257] of the District Courts Amendment Act 2007 (2007 No 1).
+    Section 10A(1): amended, on 6 March 2007, by [section 6][269] of the District Courts Amendment Act 2007 (2007 No 1).
     
-    Section 10A(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10A(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 10A(1A): inserted, on 1 May 1981, by section 6 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 10A(2): substituted, on 1 November 1989, by [section 449][258] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
+    Section 10A(2): substituted, on 1 November 1989, by [section 449][270] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
     
-    Section 10A(4): substituted, on 1 April 1980, by [section 8(2)][259] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10A(4): substituted, on 1 April 1980, by [section 8(2)][271] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10A(5): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10A(5): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 11 Jurisdiction of Judge in Chatham Islands
     
-*   (1) The Governor-General may from time to time by warrant under his hand appoint a fit person to be a Judge to exercise criminal and civil jurisdiction, other than the jurisdiction conferred by [Part 2A][54], in the Chatham Islands.
+*   (1) The Governor-General may from time to time by warrant under his hand appoint a fit person to be a Judge to exercise criminal and civil jurisdiction, other than the jurisdiction conferred by Part 2A, in the Chatham Islands.
     
     (2) A Judge so appointed shall hold office during the pleasure of the Governor-General, and shall receive in each and every year such salary as is from time to time appropriated for the purpose by Parliament.
     
@@ -900,15 +938,15 @@ Constitution and administration
     
     Section 11(1): amended, on 1 May 1981, by section 7 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 11(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Community Magistrates
     
-*   Heading: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+*   Heading: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
 
 ##### 11A Appointment of Community Magistrates
     
@@ -918,13 +956,13 @@ Constitution and administration
         
     *   (a) is capable, by reason of that person's personal qualities, experience, and skills, of performing the functions of a Community Magistrate; and
     
-    *   (b) has been designated, in accordance with a selection process prescribed by regulations made under [section 123][217], as a person qualified for appointment as a Community Magistrate.
+    *   (b) has been designated, in accordance with a selection process prescribed by regulations made under [section 123][227], as a person qualified for appointment as a Community Magistrate.
     
     (3) The Minister must, before giving advice in relation to any appointment under subsection (1), consult with such persons as the Minister considers appropriate.
     
-    Compare: 1988 No 110 [s 7(1), (2)][261]
+    Compare: 1988 No 110 [s 7(1), (2)][273]
     
-    Section 11A: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11A: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
 
 ##### 11B Right to hold other office and to engage in other employment
     
@@ -938,7 +976,7 @@ Constitution and administration
     
     (2) No Community Magistrate may---
         
-    *   (a) hold a current practising certificate under the [Law Practitioners Act 1982][262]; or
+    *   (a) hold a current practising certificate under the [Law Practitioners Act 1982][274]; or
     
     *   (b) hold office as a constable or as a traffic officer; or
     
@@ -954,33 +992,33 @@ Constitution and administration
         
         
     
-    *   (d) be a party to a prison management contract entered into under [section 198(1)][263] of the Corrections Act 2004 or to a security contract entered into under [section 166][264] of the Corrections Act 2004; or
+    *   (d) be a party to a prison management contract entered into under [section 198(1)][275] of the Corrections Act 2004 or to a security contract entered into under [section 166][276] of the Corrections Act 2004; or
     
-    *   (e) be a security officer within the meaning of [section 3(1)][265] of the Corrections Act 2004; or
+    *   (e) be a security officer within the meaning of [section 3(1)][277] of the Corrections Act 2004; or
     
-    *   (f) be a social worker within the meaning of [section 2(1)][266] of the Children, Young Persons, and Their Families Act 1989\.
+    *   (f) be a social worker within the meaning of [section 2(1)][278] of the Children, Young Persons, and Their Families Act 1989\.
     
-    Compare: 1988 No 110 [s 7(5)][261]
+    Compare: 1988 No 110 [s 7(5)][273]
     
-    Section 11B: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11B: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 11B(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][267] of the Policing Act 2008 (2008 No 72).
+    Section 11B(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][279] of the Policing Act 2008 (2008 No 72).
     
-    Section 11B(2)(c)(iii): repealed, on 1 October 2003, by [section 12(2)][268] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 11B(2)(c)(iii): repealed, on 1 October 2003, by [section 12(2)][280] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 11B(2)(d): amended, on 8 December 2009, by [section 8(2)][269] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 11B(2)(d): amended, on 8 December 2009, by [section 8(2)][281] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
-    Section 11B(2)(d): amended, on 1 June 2005, by [section 206][270] of the Corrections Act 2004 (2004 No 50).
+    Section 11B(2)(d): amended, on 1 June 2005, by [section 206][282] of the Corrections Act 2004 (2004 No 50).
     
-    Section 11B(2)(e): amended, on 1 June 2005, by [section 206][270] of the Corrections Act 2004 (2004 No 50).
+    Section 11B(2)(e): amended, on 1 June 2005, by [section 206][282] of the Corrections Act 2004 (2004 No 50).
 
 ##### 11C Functions and powers of Community Magistrates
     
 *   (1) The functions and powers of Community Magistrates are to carry out such functions and powers as are conferred on Community Magistrates---
         
-    *   (a) by the [Criminal Procedure Act 2011][232]; or
+    *   (a) by the [Criminal Procedure Act 2011][243]; or
     
-    *   (b) by the [Summary Offences Act 1981][271]; or
+    *   (b) by the [Summary Offences Act 1981][283]; or
     
     *   (c) by any other enactment.
     
@@ -992,9 +1030,9 @@ Constitution and administration
     
     (3) The fact that a Community Magistrate sits in any particular court is conclusive evidence of his or her authority to do so.
     
-    Section 11C: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11C: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 11C(1)(a): replaced, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11C(1)(a): replaced, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11CA No proceeding against Community Magistrate unless he or she acted without jurisdiction
     
@@ -1002,25 +1040,25 @@ Constitution and administration
     
     (2) If a warrant to seize property or warrant of commitment is granted by a Community Magistrate in good faith in reliance on a conviction or order entered or made by 1 or more Justices or 1 or more Community Magistrates, no proceeding may be commenced against the Community Magistrate who granted the warrant by reason of any defect in the conviction or order, or by reason of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
     
-    Compare: 1927 No 37 ss 341, 344, 345, 348; 1957 No 87 [s 193][272]
+    Compare: 1927 No 37 ss 341, 344, 345, 348; 1957 No 87 [s 193][284]
     
-    Section 11CA: inserted, on 1 July 2013, by [section 5][273] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11CA: inserted, on 1 July 2013, by [section 5][285] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11CB No proceeding against Community Magistrate to be commenced in District Court
     
 *   No proceeding against any Community Magistrate by any person claiming to have been injured by an act done by the Community Magistrate in excess of jurisdiction or without jurisdiction may be commenced in a District Court.
     
-    Compare: 1927 No 37 s 353; 1957 No 87 [s 194][274]
+    Compare: 1927 No 37 s 353; 1957 No 87 [s 194][286]
     
-    Section 11CB: inserted, on 1 July 2013, by [section 5][273] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11CB: inserted, on 1 July 2013, by [section 5][285] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11CC Onus of proof
     
 *   In any proceeding commenced against a Community Magistrate by a person claiming to have been injured by an act done by the Community Magistrate in excess of jurisdiction or without jurisdiction, the onus of proving the excess or want of jurisdiction lies on the person alleging it.
     
-    Compare: 1927 No 37 s 365; 1957 No 87 [s 195][275]
+    Compare: 1927 No 37 s 365; 1957 No 87 [s 195][287]
     
-    Section 11CC: inserted, on 1 July 2013, by [section 5][273] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11CC: inserted, on 1 July 2013, by [section 5][285] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11CD Plaintiff may be ordered to give security for costs
     
@@ -1030,9 +1068,9 @@ Constitution and administration
     
     (3) If security is ordered to be given, the court or Judge may direct that in the meantime all proceedings are stayed.
     
-    Compare: 1927 No 37 ss 357, 359; 1957 No 87 [s 196][276]
+    Compare: 1927 No 37 ss 357, 359; 1957 No 87 [s 196][288]
     
-    Section 11CD: inserted, on 1 July 2013, by [section 5][273] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11CD: inserted, on 1 July 2013, by [section 5][285] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11CE Indemnity to Community Magistrate
     
@@ -1060,9 +1098,9 @@ Constitution and administration
     
     (7) A copy of the application must be served by the Community Magistrate on the Attorney-General, who is entitled to appear and oppose it.
     
-    Compare: 1957 No 87 [s 197][277]
+    Compare: 1957 No 87 [s 197][289]
     
-    Section 11CE: inserted, on 1 July 2013, by [section 5][273] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 11CE: inserted, on 1 July 2013, by [section 5][285] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 11D Chief Community Magistrate
     
@@ -1070,7 +1108,7 @@ Constitution and administration
     
     (2) No person may be appointed as Chief Community Magistrate unless that person has held a practising certificate as a barrister or solicitor for at least 5 years.
     
-    (3) The criteria and procedures for appointment of a person as Chief Community Magistrate may be prescribed by regulations made under [section 123][217]; but the failure to make any such regulations does not preclude the appointment of a person as Chief Community Magistrate.
+    (3) The criteria and procedures for appointment of a person as Chief Community Magistrate may be prescribed by regulations made under [section 123][227]; but the failure to make any such regulations does not preclude the appointment of a person as Chief Community Magistrate.
     
     (4) Subject to subsection (5), the Chief Community Magistrate holds office so long as he or she holds office as a Community Magistrate.
     
@@ -1078,7 +1116,7 @@ Constitution and administration
     
     (6) Whenever by reason of illness, absence from New Zealand, or any other cause the Chief Community Magistrate is prevented from exercising the duties of his or her office, the Governor-General may, by writing under his or her hand, appoint 1 of the other Community Magistrates to act as Chief Community Magistrate until the Chief Community Magistrate resumes his or her duties and, during that period, to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Community Magistrate.
     
-    Section 11D: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11D: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
 
 ##### 11E Functions of Chief Community Magistrate
     
@@ -1086,7 +1124,7 @@ Constitution and administration
         
     *   (a) the undertaking of appropriate measures to ensure that the integrity of the office of Community Magistrate is maintained and that the Community Magistrates operate effectively and efficiently within the framework of the District Courts:
     
-    *   (b) such other functions as are conferred on the Chief Community Magistrate by regulations made under [section 123][217] or by any other enactment.
+    *   (b) such other functions as are conferred on the Chief Community Magistrate by regulations made under [section 123][227] or by any other enactment.
     
     (2) Without limiting the generality of subsection (1), the Chief Community Magistrate---
         
@@ -1098,9 +1136,9 @@ Constitution and administration
     
     *   (d) may, where appropriate, liaise with interested persons on matters affecting the office of Community Magistrate.
     
-    Section 11E: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11E: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 11E(2)(c): amended, on 1 October 2003, pursuant to [section 14(1)][243] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 11E(2)(c): amended, on 1 October 2003, pursuant to [section 14(1)][255] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 11F Tenure of office
     
@@ -1110,15 +1148,15 @@ Constitution and administration
     
     (3) Any Community Magistrate may at any time resign the office of Community Magistrate by notice in writing addressed to the Minister of Justice.
     
-    Section 11F: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11F: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 11F(1): amended, on 6 March 2007, by [section 7][278] of the District Courts Amendment Act 2007 (2007 No 1).
+    Section 11F(1): amended, on 6 March 2007, by [section 7][290] of the District Courts Amendment Act 2007 (2007 No 1).
 
 ##### 11G Remuneration and allowances of Community Magistrates
     
 *   (1) There is to be paid to the Chief Community Magistrate, out of public money,---
         
-    *   (a) remuneration by way of salary, fees, or allowances at such rate as is determined from time to time by the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][248]; and
+    *   (a) remuneration by way of salary, fees, or allowances at such rate as is determined from time to time by the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][260]; and
     
     *   (b) such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time by the Governor-General by Order in Council.
     
@@ -1134,13 +1172,13 @@ Constitution and administration
     
     (5) Every such Order in Council, and any provision of any such order, in respect of which no date is specified as aforesaid, comes into force on the date of the making of the order.
     
-    (6) Every Order in Council made under subsection (1)(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][279] and must be presented to the House of Representatives under [section 41][280] of that Act.
+    (6) Every Order in Council made under subsection (1)(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][291] and must be presented to the House of Representatives under [section 41][292] of that Act.
     
-    Section 11G: inserted, on 30 June 1998, by [section 3][260] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 11G: inserted, on 30 June 1998, by [section 3][272] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 11G(1)(a): amended, on 1 April 2003, by [section 4(1)][251] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 11G(1)(a): amended, on 1 April 2003, by [section 4(1)][263] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 11G(6): replaced, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
+    Section 11G(6): replaced, on 5 August 2013, by [section 77(3)][293] of the Legislation Act 2012 (2012 No 119).
 
 ##### 11H Retired Community Magistrates
     
@@ -1162,9 +1200,9 @@ Constitution and administration
     
     (5) While an acting Community Magistrate appointed under this section acts as a Community Magistrate, but not otherwise, he or she has all the jurisdiction, powers, protections, privileges, and immunities of a Community Magistrate.
     
-    Section 11H: inserted, on 20 May 2004, by [section 6][282] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 11H: inserted, on 20 May 2004, by [section 6][294] of the District Courts Amendment Act 2004 (2004 No 42).
     
-    Section 11H(1): amended, on 6 March 2007, by [section 8][283] of the District Courts Amendment Act 2007 (2007 No 1).
+    Section 11H(1): amended, on 6 March 2007, by [section 8][295] of the District Courts Amendment Act 2007 (2007 No 1).
 
 #### Registrars
 
@@ -1182,7 +1220,7 @@ Constitution and administration
     
     Compare: 1928 No 14 s 15
     
-    Section 12(2A): inserted, on 23 July 2011, by [section 5][284] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 12(2A): inserted, on 23 July 2011, by [section 5][296] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 13 Record of proceedings to be kept by Registrar
     
@@ -1194,9 +1232,9 @@ Constitution and administration
     
     Compare: 1928 No 14 ss 17, 18, 93
     
-    Section 13(1): amended, on 1 October 2003, pursuant to [section 14(1)][243] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 13(1): amended, on 1 October 2003, pursuant to [section 14(1)][255] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 13(1): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 13(1): amended, on 1 July 1995, by [section 10(1)][297] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 14 Deputy Registrars
     
@@ -1210,11 +1248,11 @@ Constitution and administration
     
     Compare: 1928 No 14 ss 19, 21
     
-    Section 14(1A): inserted, on 23 July 2011, by [section 6][286] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 14(1A): inserted, on 23 July 2011, by [section 6][298] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 14(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(3): amended, on 1 July 1992, by [section 3][287] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 14(3): amended, on 1 July 1992, by [section 3][299] of the District Courts Amendment Act 1992 (1992 No 17).
 
 #### Bailiffs
 
@@ -1230,9 +1268,9 @@ Constitution and administration
     
     Compare: 1928 No 14 s 20(1), (3)
     
-    Section 15(1A): inserted, on 23 July 2011, by [section 7][288] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 15(1A): inserted, on 23 July 2011, by [section 7][300] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 15(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 15(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 16 Deputy bailiffs
     
@@ -1244,9 +1282,9 @@ Constitution and administration
     
     Compare: 1928 No 14 s 21
     
-    Section 16(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 16(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 16(1A): inserted, on 23 July 2011, by [section 8][289] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 16(1A): inserted, on 23 July 2011, by [section 8][301] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 17 Powers and duties of bailiffs
     
@@ -1276,19 +1314,19 @@ Constitution and administration
     
     Compare: 1928 No 14 s 22
     
-    Section 17(1)(a): substituted, on 1 October 2008, by [section 118(2)][290] of the Policing Act 2008 (2008 No 72).
+    Section 17(1)(a): substituted, on 1 October 2008, by [section 118(2)][302] of the Policing Act 2008 (2008 No 72).
     
-    Section 17(1)(d): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 17(1)(d): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 17(2): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 17(2): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 17(3): added, on 1 October 2008, by [section 118(3)][290] of the Policing Act 2008 (2008 No 72).
+    Section 17(3): added, on 1 October 2008, by [section 118(3)][302] of the Policing Act 2008 (2008 No 72).
 
 ##### 17A Sections 121, 128, and 129 of Search and Surveillance Act 2012 inapplicable to bailiffs
     
-*   [Sections 121][292], [128][293], and [129][294] of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to any bailiff.
+*   [Sections 121][304], [128][305], and [129][306] of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to any bailiff.
     
-    Section 17A: replaced, on 1 October 2012, by [section 329][295] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 17A: replaced, on 1 October 2012, by [section 329][307] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Miscellaneous provisions as to officers
 
@@ -1302,7 +1340,7 @@ Constitution and administration
     
     Section 18: amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 18: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 18: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 19 Misconduct of officers
     
@@ -1320,15 +1358,15 @@ Constitution and administration
     
     Compare: 1928 No 14 ss 25, 26; County Courts Act 1934 s 32 (UK)
     
-    Section 19(1): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 19(1): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 19(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 19(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 19(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 19(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 19(3): amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 19(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 19(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 20 Officers of court not to act as solicitors therein
     
@@ -1338,7 +1376,7 @@ Constitution and administration
     
     Compare: County Courts Act 1934 s 30 (UK)
     
-    Section 20(2): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 20(2): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
     Section 20(2): amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
 
@@ -1354,17 +1392,17 @@ Constitution and administration
     
     (4) Sittings for the conduct of jury trials may be held in a courthouse in any city, borough, or place appointed for the purpose under [section 4(2A)][7].
     
-    Section 21(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 21(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 21(3): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 21(3): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 21(3): amended, on 30 June 1998, by [section 4][296] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 21(3): amended, on 30 June 1998, by [section 4][308] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 21(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 21(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 21(4): added, on 1 May 1981, by section 8(2) of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 21(4): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 21(4): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 22 Times of sittings
     
@@ -1376,13 +1414,13 @@ Constitution and administration
     
     Compare: 1928 No 14 s 6(1)
     
-    Section 22(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 22(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 22(1) proviso: amended, on 1 April 1980, by [section 8(3)][259] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 22(1) proviso: amended, on 1 April 1980, by [section 8(3)][271] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 22(2): amended, on 30 June 1998, by [section 5][297] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 22(2): amended, on 30 June 1998, by [section 5][309] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 22(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 22(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 23 Adjourned sittings
     
@@ -1392,23 +1430,23 @@ Constitution and administration
     
     Compare: 1928 No 14 s 43; County Courts Act 1934 s 36 (UK)
     
-    Section 23(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ## Part 2  
 Criminal jurisdiction
 
 \[Repealed\]
     
-*   Part 2: repealed, on 1 April 1958, by [section 214(1)][298] of the Summary Proceedings Act 1957 (1957 No 87).
+*   Part 2: repealed, on 1 April 1958, by [section 214(1)][310] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ## Part 2A  
 Criminal jurisdiction in respect of indictable offences
 
 \[Repealed\]
     
-*   Part 2A: repealed, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+*   Part 2A: repealed, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ## Part 3  
 Civil jurisdiction and transfer of proceedings
@@ -1443,9 +1481,9 @@ Civil jurisdiction and transfer of proceedings
     
     (2) For the purposes of this section the expression _penalty_ shall not include a fine to which any person is liable on conviction.
     
-    Section 30: substituted, on 1 July 1992, by [section 6(1)][299] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 30: substituted, on 1 July 1992, by [section 6(1)][311] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 30(2): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 30(2): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 31 Extending jurisdiction in actions for recovery of land
     
@@ -1467,17 +1505,17 @@ Civil jurisdiction and transfer of proceedings
     
     Section 31 heading: amended, on 13 November 1989, by section 3 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 31(1): amended, on 1 July 1992, by [section 7(1)(a)][300] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 31(1): amended, on 1 July 1992, by [section 7(1)(a)][312] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 31(1): amended, on 1 July 1992, by [section 7(1)(b)][300] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 31(1): amended, on 1 July 1992, by [section 7(1)(b)][312] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 31(2): repealed, on 21 October 1949, by [section 48(2)(a)][301] of the Statutes Amendment Act 1949 (1949 No 51).
+    Section 31(2): repealed, on 21 October 1949, by [section 48(2)(a)][313] of the Statutes Amendment Act 1949 (1949 No 51).
 
 ##### 32 Landlord's right where rent is in arrear or premises deserted
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 January 2008, by [section 364(1)][302] of the Property Law Act 2007 (2007 No 91).
+    Section 32: repealed, on 1 January 2008, by [section 364(1)][314] of the Property Law Act 2007 (2007 No 91).
 
 ##### 33 Jurisdiction as to building societies
     
@@ -1487,17 +1525,17 @@ Civil jurisdiction and transfer of proceedings
     
     *   (b) the recovery of money and enforcement of claims by or against any building society not exceeding in amount or value the sum of $200,000:
     
-    *   (c) all other matters arising under the [Building Societies Act 1965][303] not exceeding in amount or value the sum of $200,000\.
+    *   (c) all other matters arising under the [Building Societies Act 1965][315] not exceeding in amount or value the sum of $200,000\.
     
     Compare: 1928 No 14 s 27(j)
     
-    Section 33(a): amended, on 1 July 1992, by [section 8(1)][304] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 33(a): amended, on 1 July 1992, by [section 8(1)][316] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 33(b): amended, on 1 July 1992, by [section 8(1)][304] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 33(b): amended, on 1 July 1992, by [section 8(1)][316] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 33(c): amended, on 1 July 1992, by [section 8(1)][304] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 33(c): amended, on 1 July 1992, by [section 8(1)][316] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 33(c): amended, on 1 January 1966, pursuant to [section 139(1)][305] of the Building Societies Act 1965 (1965 No 22).
+    Section 33(c): amended, on 1 January 1966, pursuant to [section 139(1)][317] of the Building Societies Act 1965 (1965 No 22).
 
 #### Equity proceedings
 
@@ -1509,9 +1547,9 @@ Civil jurisdiction and transfer of proceedings
     
     *   (b) jurisdiction to hear and determine any proceeding for the dissolution or winding up of any partnership (whether or not the existence of the partnership is in dispute), where the whole assets of the partnership do not exceed in amount or value the sum of $200,000\.
     
-    (2) Where jurisdiction in respect of any proceeding or class of proceeding is, by virtue of any provision of any Act (not being [section 16][306] of the Judicature Act 1908) that relates expressly to that proceeding or class of proceeding, exercisable by the High Court or any other court (not being a District Court), District Courts shall not by virtue of subsection (1)(a) or [section 29(1)][57] have the equitable jurisdiction of the High Court in respect of that proceeding or class of proceeding.
+    (2) Where jurisdiction in respect of any proceeding or class of proceeding is, by virtue of any provision of any Act (not being [section 16][318] of the Judicature Act 1908) that relates expressly to that proceeding or class of proceeding, exercisable by the High Court or any other court (not being a District Court), District Courts shall not by virtue of subsection (1)(a) or [section 29(1)][57] have the equitable jurisdiction of the High Court in respect of that proceeding or class of proceeding.
     
-    (2A) Notwithstanding subsection (2), the District Courts shall have the power to make orders pursuant to [section 49][307] of the Administration Act 1969\.
+    (2A) Notwithstanding subsection (2), the District Courts shall have the power to make orders pursuant to [section 49][319] of the Administration Act 1969\.
     
     (3) No proceeding for the dissolution or winding up of a partnership or order thereon shall prevent any creditor from petitioning for an adjudication of bankruptcy against any member or members thereof.
     
@@ -1535,17 +1573,17 @@ Civil jurisdiction and transfer of proceedings
     
     (2) Where any proceeding, in which the plaintiff has abandoned part of the plaintiff's claim under this section, is heard in a court, the plaintiff shall not recover an amount exceeding $200,000 together with costs thereon, and the judgment of the court in the proceeding shall be in full discharge of all demands in respect of the cause of action, and entry of the judgment shall be made accordingly.
     
-    Section 36: substituted, on 1 July 1992, by [section 10(1)][308] of the Districts Courts Amendment Act 1991 (1991 No 61).
+    Section 36: substituted, on 1 July 1992, by [section 10(1)][320] of the Districts Courts Amendment Act 1991 (1991 No 61).
 
 ##### 37 Extension of jurisdiction in admiralty by agreement between the parties
     
-*   If, but for the amount or value of the subject-matter claimed or in issue, a court would have had jurisdiction in admiralty or under [sections 29 to 34][57] or [section 111][201] and the parties, by memorandum signed by them or by their respective solicitors or agents, agree that a court shall have jurisdiction to hear and determine the proceedings, that court shall, notwithstanding anything in any enactment, have jurisdiction to hear and determine the proceedings.
+*   If, but for the amount or value of the subject-matter claimed or in issue, a court would have had jurisdiction in admiralty or under [sections 29 to 34][57] or [section 111][211] and the parties, by memorandum signed by them or by their respective solicitors or agents, agree that a court shall have jurisdiction to hear and determine the proceedings, that court shall, notwithstanding anything in any enactment, have jurisdiction to hear and determine the proceedings.
     
     Compare: 1928 No 14 s 27(h); County Courts Act 1934 ss 43, 53 (UK)
     
     Section 37 heading: amended, on 9 October 1975, by section 2 of the District Courts Amendment Act 1975 (1975 No 87).
     
-    Section 37: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 37: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 37: amended, on 9 October 1975, by section 2 of the District Courts Amendment Act 1975 (1975 No 87).
     
@@ -1557,7 +1595,7 @@ Civil jurisdiction and transfer of proceedings
     
     Compare: 1928 No 14 s 32
     
-    Section 38: amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 38: amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 39 Proceedings against absent defendant
     
@@ -1577,7 +1615,7 @@ Civil jurisdiction and transfer of proceedings
     
     Compare: 1928 No 14 s 5(2); County Courts Act 1934 s 70 (UK)
     
-    Section 40: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 40: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 41 General ancillary jurisdiction
     
@@ -1591,9 +1629,9 @@ Civil jurisdiction and transfer of proceedings
     
     Compare: County Courts Act 1934 s 71 (UK)
     
-    Section 41: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 41: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 41: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 42 Ancillary powers of Judge
     
@@ -1613,7 +1651,7 @@ Civil jurisdiction and transfer of proceedings
 
 #### Transfer of proceeding
     
-*   Heading: substituted, on 1 July 1992, by [section 11(1)][310] of the District Courts Amendment Act 1991 (1991 No 61).
+*   Heading: substituted, on 1 July 1992, by [section 11(1)][322] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 43 Transfer to High Court of proceeding within jurisdiction
     
@@ -1629,7 +1667,7 @@ Civil jurisdiction and transfer of proceedings
     
     (6) Notwithstanding the foregoing provisions of this section, the High Court or a Judge thereof on the application of any party to the proceeding may order the removal into the High Court, by order for certiorari or otherwise, of any proceeding commenced in a District Court, if the High Court or Judge thereof thinks it desirable that the proceeding should be heard and determined in the High Court. Any such removal shall be on such terms as to payment of costs, giving security, or otherwise as the High Court or a Judge thereof thinks fit to impose.
     
-    Section 43: substituted, on 1 July 1992, by [section 11(1)][310] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 43: substituted, on 1 July 1992, by [section 11(1)][322] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 44 Transfer of proceedings beyond jurisdiction
     
@@ -1639,13 +1677,13 @@ Civil jurisdiction and transfer of proceedings
     
     Compare: 1928 No 14 s 175; County Courts Act 1934 s 64 (UK)
     
-    Section 44: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 44: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 44: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 44: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 45 Transfer of proceedings where there is a counterclaim
     
-*   (1) Where, in any proceeding commenced in a court, any counterclaim or set-off and counterclaim which involves matter beyond the jurisdiction of a court has been filed by any defendant, any party to the proceeding may, within such time as may be prescribed by the [High Court Rules][230], apply to the High Court or a Judge thereof for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
+*   (1) Where, in any proceeding commenced in a court, any counterclaim or set-off and counterclaim which involves matter beyond the jurisdiction of a court has been filed by any defendant, any party to the proceeding may, within such time as may be prescribed by the [High Court Rules][242], apply to the High Court or a Judge thereof for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
     
     (2) On any such application the High Court or Judge may, as it or he thinks fit, order either---
         
@@ -1663,25 +1701,25 @@ Civil jurisdiction and transfer of proceedings
     
     Compare: County Courts Act 1934 s 63 (UK)
     
-    Section 45(1): substituted, on 1 July 1992, by [section 21(1)][309] of the Districts Courts Amendment Act 1991 (1991 No 61).
+    Section 45(1): substituted, on 1 July 1992, by [section 21(1)][321] of the Districts Courts Amendment Act 1991 (1991 No 61).
     
-    Section 45(2): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(2): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45(2)(a): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(2)(a): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45(2)(b): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(2)(b): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45(2)(c): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(2)(c): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45(2)(c): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(2)(c): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45(2) proviso: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(2) proviso: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45(4): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(4): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 45A Removal of summary judgment application from District Court to High Court
     
@@ -1697,17 +1735,17 @@ Civil jurisdiction and transfer of proceedings
     
     *   (b) refer the application or matter back to the District Court with such directions as the High Court thinks fit.
     
-    Section 45A: inserted, on 1 July 1992, by [section 4][311] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 45A: inserted, on 1 July 1992, by [section 4][323] of the District Courts Amendment Act 1992 (1992 No 17).
 
 #### Removal of question of law into High Court
     
-*   Heading: inserted, on 1 July 1992, by [section 4][311] of the District Courts Amendment Act 1992 (1992 No 17).
+*   Heading: inserted, on 1 July 1992, by [section 4][323] of the District Courts Amendment Act 1992 (1992 No 17).
 
 ##### 45B Removal of question of law into High Court
     
 *   A District Court may order the removal into the High Court of any question of law ordered to be argued, and, on removal, the High Court shall have the same power to decide the question as the District Court had.
     
-    Section 45B: inserted, on 1 July 1992, by [section 4][311] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 45B: inserted, on 1 July 1992, by [section 4][323] of the District Courts Amendment Act 1992 (1992 No 17).
 
 ##### 46 Transfer of proceeding from High Court to District Court
     
@@ -1721,7 +1759,7 @@ Civil jurisdiction and transfer of proceedings
     
     (2) Where the subject-matter of a proceeding that has been commenced in the High Court is within the jurisdiction of District Courts, the High Court or a Judge of that court may, of its or the Judge's own motion, order that the proceeding be transferred to a District Court unless, in the opinion of the High Court or the Judge, some important question of law or fact is likely to arise in the proceeding.
     
-    Section 46: substituted, on 1 July 1992, by [section 12(1)][312] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 46: substituted, on 1 July 1992, by [section 12(1)][324] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 47 Procedure on transfer of proceeding from High Court to District Court
     
@@ -1731,7 +1769,7 @@ Civil jurisdiction and transfer of proceedings
     
     provided that the transfer shall not affect any right of appeal in the High Court or to the Court of Appeal from the order directing the transfer, or the right to enforce in the High Court any judgment signed, or order made, in that court before the transfer.
     
-    Section 47: substituted, on 1 July 1992, by [section 12(1)][312] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 47: substituted, on 1 July 1992, by [section 12(1)][324] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 48 Costs in cases transferred or removed
     
@@ -1747,7 +1785,7 @@ Civil jurisdiction and transfer of proceedings
     
     provided that, as regards so much of the proceedings in any proceeding transferred from the High Court to the District Court as take place in the High Court before the transfer,---
         
-    *   (d) the costs thereof shall be subject to the provisions of the [High Court Rules][230]; and
+    *   (d) the costs thereof shall be subject to the provisions of the [High Court Rules][242]; and
     
     *   (e) the powers of a Judge to make an order allowing costs on the High Court scale shall, subject to any order of the High Court or of the Judge by whom the transfer was ordered, be exercisable by the District Court Judge.
     
@@ -1759,11 +1797,11 @@ Civil jurisdiction and transfer of proceedings
     
     the costs in the District Court of that application, matter, or proceeding, both before and after the removal into the High Court under [section 45A][79] or [section 45B][81], shall be determined by the District Court:
     
-    provided that any costs incurred in the High Court in relation to the removal shall be determined by the High Court and shall be subject to the provisions of the [High Court Rules][230]; but may be included in any judgment or order made by the District Court as if they were costs determined by the District Court.
+    provided that any costs incurred in the High Court in relation to the removal shall be determined by the High Court and shall be subject to the provisions of the [High Court Rules][242]; but may be included in any judgment or order made by the District Court as if they were costs determined by the District Court.
     
-    Section 48: substituted, on 1 July 1992, by [section 12(1)][312] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 48: substituted, on 1 July 1992, by [section 12(1)][324] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 48(2): added, on 1 July 1992, by [section 5][313] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 48(2): added, on 1 July 1992, by [section 5][325] of the District Courts Amendment Act 1992 (1992 No 17).
 
 ## Part 4  
 Procedure
@@ -1778,11 +1816,11 @@ Procedure
     
     Compare: 1928 No 14 s 48; County Courts Act 1934 s 76 (UK)
     
-    Section 49(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 49(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 49(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 49(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 49(2): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 49(2): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 50 Amount of wages, etc, for which minor may sue
     
@@ -1790,27 +1828,27 @@ Procedure
     
     (2) Any minor who is or has been married or in a civil union or is above the age of 18 years may sue or be sued without a next friend or guardian _ad litem_ upon any cause of action arising out of contract or tort in respect of which he might sue or be sued by a next friend or guardian; and judgment may be given in the proceeding, and such proceedings may be had and taken to enforce the judgment as if the minor were of full age.
     
-    (3) Any minor who is or has been married or in a civil union or is above the age of 18 years may make or be a party to an application under [section 8][314] of the Domestic Actions Act 1975 without a next friend or guardian _ad litem_; and orders may be made on the application, and such proceedings may be had and taken to enforce any such order, as if the minor were of full age.
+    (3) Any minor who is or has been married or in a civil union or is above the age of 18 years may make or be a party to an application under [section 8][326] of the Domestic Actions Act 1975 without a next friend or guardian _ad litem_; and orders may be made on the application, and such proceedings may be had and taken to enforce any such order, as if the minor were of full age.
     
     Compare: 1928 No 14 s 47; County Courts Act 1934 s 77 (UK)
     
     Section 50 heading: substituted, on 1 January 1972, by section 5 of the District Courts Amendment Act 1971 (1971 No 56).
     
-    Section 50(1): amended, on 1 July 1992, by [section 13(1)][315] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 50(1): amended, on 1 July 1992, by [section 13(1)][327] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 50(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 50(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 50(1): amended, on 1 January 1971, by [section 6][316] of the Age of Majority Act 1970 (1970 No 137).
+    Section 50(1): amended, on 1 January 1971, by [section 6][328] of the Age of Majority Act 1970 (1970 No 137).
     
-    Section 50(2): amended, on 26 April 2005, by [section 7][317] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 50(2): amended, on 26 April 2005, by [section 7][329] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 50(2): amended, on 1 July 1992, by [section 13(2)][315] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 50(2): amended, on 1 July 1992, by [section 13(2)][327] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 50(2): amended, on 1 January 1970, by [section 18][318] of the Minors' Contracts Act 1969 (1969 No 41).
+    Section 50(2): amended, on 1 January 1970, by [section 18][330] of the Minors' Contracts Act 1969 (1969 No 41).
     
-    Section 50(3): added, on 3 October 1975, by [section 9(3)][319] of the Domestic Actions Act 1975 (1975 No 53).
+    Section 50(3): added, on 3 October 1975, by [section 9(3)][331] of the Domestic Actions Act 1975 (1975 No 53).
     
-    Section 50(3): amended, on 26 April 2005, by [section 7][317] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 50(3): amended, on 26 April 2005, by [section 7][329] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 51 Persons jointly liable
     
@@ -1820,7 +1858,7 @@ Procedure
     
     Compare: 1928 No 14 s 56; County Courts Act 1934 s 78 (UK)
     
-    Section 51(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 51(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 52 Bankruptcy of plaintiff
     
@@ -1832,13 +1870,13 @@ Procedure
     
     Compare: 1928 No 14 s 63; County Courts Act 1934 s 76 (UK)
     
-    Section 52(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 52(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 52(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 52(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 52(2): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 52(2): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 52(3): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 52(3): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 #### Witnesses and evidence
 
@@ -1884,15 +1922,15 @@ Procedure
     
     Section 56: substituted, on 19 October 1966, by section 3 of the District Courts Amendment Act 1966 (1966 No 69).
     
-    Section 56: amended, on 30 June 1998, by [section 6][320] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 56: amended, on 30 June 1998, by [section 6][332] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 56: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 56: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 56: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 56: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 #### Discovery
     
-*   Heading: inserted, on 1 July 1992, by [section 6][321] of the District Courts Amendment Act 1992 (1992 No 17).
+*   Heading: inserted, on 1 July 1992, by [section 6][333] of the District Courts Amendment Act 1992 (1992 No 17).
 
 ##### 56A Powers of court exercisable before commencement of proceeding
     
@@ -1906,7 +1944,7 @@ Procedure
     
     Compare: County Courts Act 1984 s 52 (UK)
     
-    Section 56A: inserted, on 1 July 1992, by [section 6][321] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 56A: inserted, on 1 July 1992, by [section 6][333] of the District Courts Amendment Act 1992 (1992 No 17).
 
 ##### 56B Power of court to order particular discovery against non-party after proceeding commenced
     
@@ -1918,7 +1956,7 @@ Procedure
     
     *   (c) to produce such of those documents as are in that person's possession, custody, or power to the court or any other prescribed person.
     
-    Section 56B: inserted, on 1 July 1992, by [section 6][321] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 56B: inserted, on 1 July 1992, by [section 6][333] of the District Courts Amendment Act 1992 (1992 No 17).
 
 #### Hearing
 
@@ -1932,7 +1970,7 @@ Procedure
     
     Compare: 1928 No 14 s 67
     
-    Section 57(1): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 57(1): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 58 Trial by Judge
     
@@ -1942,9 +1980,9 @@ Procedure
     
     Compare: 1928 No 14 s 99; County Courts Act 1934 s 87 (UK)
     
-    Section 58 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 58 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 58: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 58: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 59 Equity and good conscience
     
@@ -1968,11 +2006,11 @@ Procedure
     
     Compare: County Courts Act 1934 s 108 (UK)
     
-    Section 60 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 60 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 60(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 60(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 60(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 60(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 61 Power of Judge to refer to arbitration
     
@@ -1992,13 +2030,13 @@ Procedure
     
     Compare: 1928 No 14 ss 154, 155; County Courts Act 1934 s 89 (UK)
     
-    Section 61 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 61 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 61(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 61(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 61(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 61(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 61(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 61(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 62 Power of Judge to refer to Registrar or referee
     
@@ -2018,15 +2056,15 @@ Procedure
     
     Compare: County Courts Act 1934 s 90 (UK)
     
-    Section 62 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62(1)(a): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62(1)(a): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 62A Reference by consent
     
@@ -2038,11 +2076,11 @@ Procedure
     
     Section 62A: inserted, on 25 October 1960, by section 3 of the District Courts Amendment Act 1960 (1960 No 112).
     
-    Section 62A(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62A(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62A(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62A(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62A(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62A(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Judgments and orders
 
@@ -2060,13 +2098,13 @@ Procedure
     
     (3) In any proceedings for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
     
-    (4) In this section the term _the prescribed rate_ means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by [Order in Council][322].
+    (4) In this section the term _the prescribed rate_ means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by [Order in Council][334].
     
-    Section 62B: inserted, on 13 January 1983, by [section 4(1)][323] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
+    Section 62B: inserted, on 13 January 1983, by [section 4(1)][335] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
     
-    Section 62B(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 62B(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 62B(4): 5.0% per year prescribed as the rate for the purposes of section 62B, on 1 July 2011, by [clause 4][324] of the District Courts (Prescribed Rate of Interest) Order 2011 (SR 2011/176).
+    Section 62B(4): 5.0% per year prescribed as the rate for the purposes of section 62B, on 1 July 2011, by [clause 4][336] of the District Courts (Prescribed Rate of Interest) Order 2011 (SR 2011/176).
 
 ##### 63 Finality of judgments and orders
     
@@ -2074,7 +2112,7 @@ Procedure
     
     Compare: 1928 No 14 s 116; County Courts Act 1934 s 95 (UK)
     
-    Section 63: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 63: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 64 Want of form
     
@@ -2096,7 +2134,7 @@ Procedure
     
     Compare: 1928 No 14 ss 100(1), 124; County Courts Act 1934 s 96 (UK)
     
-    Section 65(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 65(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 65A Interest on judgment debts
     
@@ -2114,7 +2152,7 @@ Procedure
     
     (5) Notwithstanding subsection (2) or subsection (3), where any enforcement process is issued in respect of the judgment debt, no interest shall be payable in excess of the amount specified in the process unless a further such process is issued.
     
-    Section 65A: inserted, on 13 January 1983, by [section 5][325] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
+    Section 65A: inserted, on 13 January 1983, by [section 5][337] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
 
 #### Removal of judgments
 
@@ -2134,35 +2172,35 @@ Procedure
     
     Compare: 1928 No 14 s 156
     
-    Section 66 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66 heading: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66 heading: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 66(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66(1): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(1): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 66(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66(3): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(3): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 66(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66(4): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(4): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 66(4): amended, on 1 April 1973, by [section 18(3)][326] of the Judicature Amendment Act 1972 (1972 No 130).
+    Section 66(4): amended, on 1 April 1973, by [section 18(3)][338] of the Judicature Amendment Act 1972 (1972 No 130).
     
-    Section 66(5): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(5): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 66(6): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(6): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 67 Proceeding in High Court on judgment or order of District Court
     
 *   A proceeding may be brought in the High Court on a judgment or order of a District Court, but no costs shall be allowed in such proceeding to the plaintiff unless the Judge of the High Court certifies that the proceeding was necessary and proper for the enforcement of the judgment of the District Court against the person or property of the defendant.
     
-    Section 67: substituted, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 67: substituted, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 68 Removal of judgment or order of High Court into District Court
     
@@ -2190,45 +2228,37 @@ Procedure
     
     Section 68: substituted, on 1 January 1972, by section 7 of the District Courts Amendment Act 1971 (1971 No 56).
     
-    Section 68 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68 heading: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 68 heading: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 68(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 68(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 68(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(1): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 68(1): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 68(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(2)(a): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(2)(a): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(2)(b): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(2)(b): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(2)(c)(i): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(2)(c)(i): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(3): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 68(3): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 68(4): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 68(4): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 68(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 68(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 68(4): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 68(4): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 69 Removal of judgment from one court to another
     
-*   (1) Where any final judgment or order for the payment of any sum of money is obtained in any one proceeding in a court, the judgment or order may be removed into any other court, and for that purpose the Registrar, upon the application of the judgment creditor or of any person on his behalf, shall issue a certificate thereof in the prescribed form. Every such certificate shall bear on the face thereof a statement that it has been issued for the purposes of this section, and it shall not be available for any other purpose.
+*   \[Repealed\]
     
-    (2) No such certificate shall be issued before the expiration of the time allowed for giving notice of appeal or before the time at which execution could be issued out of the court first aforesaid, and if proceedings for enforcement of the judgment or order have been issued out of that court no such certificate shall be issued until after the withdrawal or completion of those proceedings.
-    
-    (3) The person obtaining the certificate may file the same in any other court by delivering it at the office of the Registrar; and thereupon all proceedings may be taken and enforced in and by that other court for the amount recoverable under the judgment or order, and any fees and costs paid or payable in connection with the obtaining and filing of the certificate, as fully and effectually as if the judgment or order had been a judgment of that other court signed and entered up at the time of filing the certificate, and no further proceedings shall be had or taken in the court from which the judgment or order has been removed as aforesaid.
-    
-    Section 69 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
-    
-    Section 69(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
-    
-    Section 69(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 69: repealed, on 14 April 2014, by [section 10][339] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 70 Removal of judgment of abolished court
     
@@ -2240,46 +2270,46 @@ Procedure
     
     Compare: 1928 No 14 s 158
     
-    Section 70(1): amended, on 1 October 2003, pursuant to [section 14(1)][243] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 70(1): amended, on 1 October 2003, pursuant to [section 14(1)][255] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 70(1): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 70(1): amended, on 1 July 1995, by [section 10(1)][297] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 70(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 70(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 70(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 70(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 70(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 70(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Determination of questions concerning rules
     
-*   Heading: inserted, on 1 February 2009, by [section 10(2)][327] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
+*   Heading: inserted, on 1 February 2009, by [section 10(2)][340] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
 
 ##### 70A Application of rules
     
-*   If, in any civil proceeding, any question arises as to the application of any provision of rules made under [section 122][216] or the [High Court Rules][230], the court may, either on the application of a party or on its own initiative, determine the question and give any directions it thinks fit in the interests of justice.
+*   If, in any civil proceeding, any question arises as to the application of any provision of rules made under [section 122][226] or the [High Court Rules][242], the court may, either on the application of a party or on its own initiative, determine the question and give any directions it thinks fit in the interests of justice.
     
-    Section 70A: inserted, on 1 February 2009, by [section 10(2)][327] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
+    Section 70A: inserted, on 1 February 2009, by [section 10(2)][340] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
 
 ## Part 5  
 Appeals
     
-*   Part 5: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+*   Part 5: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 71 Interpretation
     
 *   In this Part,---
     
-    _decision_ includes a judgment and an interim or final order (other than an order under [section 112][203])
+    _decision_ includes a judgment and an interim or final order (other than an order under [section 112][213])
     
     _make_ includes give.
     
-    Section 71: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 71: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 71A Right to appeal
     
 *   \[Repealed\]
     
-    Section 71A: repealed, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 71A: repealed, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 72 General right of appeal
     
@@ -2291,7 +2321,7 @@ Appeals
     
     (2) A party to proceedings in a District Court may appeal to the High Court against the whole or any part of any decision to which subsection (1) applies made by the District Court in or in relation to the proceedings.
     
-    Section 72: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 72: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 73 Agreements that decision would be binding
     
@@ -2299,21 +2329,21 @@ Appeals
     
     (2) Subsection (1) overrides [section 72][124].
     
-    Section 73: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 73: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 74 Security for appeal
     
-*   (1) Unless granted legal aid under the [Legal Services Act 2000][329], an appellant under [section 72][124] may be required by the [High Court Rules][230] to give the Registrar of the High Court security for costs.
+*   (1) Unless granted legal aid under the [Legal Services Act 2000][342], an appellant under [section 72][124] may be required by the [High Court Rules][242] to give the Registrar of the High Court security for costs.
     
-    (2) If any security required is not given within the time required by the [High Court Rules][230], the appellant's appeal must be treated as having been abandoned.
+    (2) If any security required is not given within the time required by the [High Court Rules][242], the appellant's appeal must be treated as having been abandoned.
     
-    Section 74: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 74: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 75 Appeals to be by way of rehearing
     
 *   All appeals under [section 72][124] must be by way of rehearing.
     
-    Section 75: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 75: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 76 Powers of High Court on appeal
     
@@ -2353,7 +2383,7 @@ Appeals
     
     (6) The powers given by this section may be exercised in favour of any respondent or party to the proceedings concerned, even if the respondent or party did not appeal against the decision concerned.
     
-    Section 76: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 76: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 77 Repayment of judgment sum and interest
     
@@ -2367,21 +2397,21 @@ Appeals
         
     *   (a) may order party B to repay to party A some or all of the amount paid by party A; and
     
-    *   (b) may also order party B to pay to party A interest at a rate not greater than the prescribed rate (within the meaning of [section 87(3)][330] of the Judicature Act 1908) on the sum ordered to be repaid.
+    *   (b) may also order party B to pay to party A interest at a rate not greater than the prescribed rate (within the meaning of [section 87(3)][343] of the Judicature Act 1908) on the sum ordered to be repaid.
     
-    Section 77: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 77: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 78 Enforcement proceedings
     
 *   For the purposes of enforcement proceedings, a judgment or order of the High Court under paragraph (a) or paragraph (c) of [section 76(1)][128], or [section 77(2)][129], must be treated as if it were a judgment or order of the District Court in which the decision appealed against was made.
     
-    Section 78: substituted, on 24 November 2003, by [section 3][328] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 78: substituted, on 24 November 2003, by [section 3][341] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 78A Right of appeal in respect of contempt of court
     
 *   \[Repealed\]
     
-    Section 78A: repealed, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 78A: repealed, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ## Part 6  
 Enforcement of judgments
@@ -2392,11 +2422,11 @@ Enforcement of judgments
     
 *   (1) Any judgment or order of any court or of any District Court Judge for the payment of a sum of money may be enforced in District Courts by any 1 or more of the proceedings following, that is to say,---
         
-    *   (a) execution against the goods and chattels of the judgment debtor under a distress warrant:
+    *   (a) execution against the goods and chattels of the judgment debtor under a warrant to seize property:
     
     *   (b) garnishee proceedings for the attachment of money due to the judgment debtor:
     
-    *   (ba) proceedings for a charging order in respect of any property held by the judgment debtor and specified in [section 96A(1A)][179]:
+    *   (ba) proceedings for a charging order in respect of any property held by the judgment debtor and specified in [section 96A(1A)][186]:
     
     *   (c) proceedings for an attachment order against the salary or wages of the judgment debtor.
     
@@ -2414,33 +2444,89 @@ Enforcement of judgments
     
     (4) A judgment or order for the delivery of specific chattels may be enforced, by order of the District Court Judge, either under a warrant for the recovery of chattels or by committal.
     
-    (5) Except by leave of a District Court Judge, no proceedings for the enforcement of a judgment or order shall be commenced in any court until after the expiry of 48 hours from the time of the entering of the judgment or the making of the order:
+    (5) An attachment order to enforce a judgment or order for the payment of money may be made, and proceedings for such an attachment order may be commenced, at any time after the judgment is entered or the order made.
     
-    provided that if the judgment or order is one which may be appealed against without the leave of the court, any District Court Judge may order a stay of any proceedings for the enforcement of the judgment or order until after the time allowed for giving notice of appeal has expired.
+    (5A) Except as provided in subsection (5), proceedings to enforce a judgment or order may not be commenced unless---
+        
+    *   (a) at least 48 hours have expired after the judgment was entered or the order made; or
+    
+    *   (b) a Judge grants leave.
+    
+    (5B) Despite subsections (5) and (5A), if a judgment or order may be appealed against without the leave of the court, a Judge may order a stay of any proceedings to enforce the judgment or order, or order that an attachment order to enforce the judgment or order not take effect, until after the time allowed for giving notice of appeal has expired.
+    
+    (5C) Despite subsections (5) and (5A), an attachment order may be made, and proceedings for such an attachment order may be commenced, immediately after a judgment or order for the payment of money is filed if,---
+        
+    *   (a) in the case of a money order (as defined in [section 19(1A)][344] of the Disputes Tribunals Act 1988 or, as the case may be, [section 78(2AB)][345] of the Residential Tenancies Act 1986),---
+            
+        *   (i) the money order records that the parties have agreed to enforce the payment of money specified in the money order by way of an attachment order made under this Act; and
+        
+        *   (ii) [section 19(1B)][344] of the Disputes Tribunals Act 1988 or, as the case may be, [section 78(2AC)][345] of the Residential Tenancies Act 1986 is complied with; or
+        
+        
+    
+    *   (b) in the case of a judgment or order made by a court,---
+            
+        *   (i) the judgment or order records that the parties have agreed to enforce the payment of money specified in the judgment or order by way of an attachment order made under this Act; and
+        
+        *   (ii) subsection (5D) is complied with.
+        
+        
+    
+    (5D) This subsection is complied with if---
+        
+    *   (a) the judgment or order was given or made at or following a hearing at which both parties were present; and
+    
+    *   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
+    
+    *   (c) both parties agreed on the terms of the attachment order, including the details specified in [section 84H][153]; and
+    
+    *   (d) the judgment or order includes the details specified in [section 84H][153].
+    
+    (5E) Nothing in subsection (5D)(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from [section 84I(3)][154].
+    
+    (5F) For the purposes of subsection (5D), _hearing_ includes a judicial settlement conference held under the rules.
     
     (6) It is hereby declared that 2 or more proceedings for the enforcement of a judgment or order may be taken concurrently, but the judgment creditor shall not be entitled to recover a greater sum than the amount owing under the judgment or order and the costs and fees of any proceedings for enforcement.
     
     Compare: 1928 No 14 ss 121, 200
     
-    Section 79(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 79(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 79(1)(a): amended, on 14 April 2014, by [section 11(1)][346] of the District Courts Amendment Act 2011 (2011 No 30).
     
     Section 79(1)(ba): inserted, on 30 March 1987, by section 3(1) of the District Courts Amendment Act 1987 (1987 No 26).
     
     Section 79(1)(c): substituted, on 13 November 1989, by section 8 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 79(2): amended, on 1 January 1986, by [section 11(2)][331] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
+    Section 79(2): amended, on 1 January 1986, by [section 11(2)][347] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
     
-    Section 79(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 79(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 79(2): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 79(2): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 79(2A): inserted, on 1 July 1992, by [section 7][332] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 79(2A): inserted, on 1 July 1992, by [section 7][348] of the District Courts Amendment Act 1992 (1992 No 17).
     
-    Section 79(4): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 79(4): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 79(5): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 79(5): replaced, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 79(5) proviso: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 79(5A): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 79(5B): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 79(5C): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 79(5D): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 79(5E): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 79(5F): inserted, on 14 April 2014, by [section 11(2)][346] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 79A Judgment may be enforced in any District Court
+    
+*   A judgment or order of a District Court or a District Court Judge may be enforced in the District Court in which the judgment was entered or order made or in any other District Court (and enforcement proceedings may be taken concurrently in accordance with [section 79(6)][134] in more than 1 District Court).
+    
+    Section 79A: inserted, on 14 April 2014, by [section 12][349] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 80 Enforcement of judgments more than 6 years old
     
@@ -2452,7 +2538,7 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 119
     
-    Section 80(1A): inserted, on 5 December 2013, by [section 4][333] of the District Courts Amendment Act 2013 (2013 No 114).
+    Section 80(1A): inserted, on 5 December 2013, by [section 4][350] of the District Courts Amendment Act 2013 (2013 No 114).
 
 ##### 81 Enforcement of order for payment by instalments
     
@@ -2474,127 +2560,227 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 124; County Courts Act 1934 s 119 (UK)
     
-    Section 83: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 83: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 84 Stay of proceedings on appeal
     
 *   Notice of appeal shall not operate as a stay of proceedings under the decision appealed from unless the court or a Judge so orders or the amount of the judgment or order appealed against and its cost is deposited with the Registrar to abide the event of the appeal, or security is given to the satisfaction of the Registrar for that amount.
     
-    Compare: 1938 No 20 [s 38][334]
+    Compare: 1938 No 20 [s 38][351]
     
-    Section 84: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 84: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
-#### Discovery in aid of execution
+#### Information about judgment debtor's means
     
-*   Heading: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+*   Heading: replaced, on 14 April 2014, by [section 13][352] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84A Notice to judgment debtor to complete financial statement
+##### 84A Filing of financial statement
     
-*   (1) Any person who has obtained a judgment or order for the payment of money may serve on the judgment debtor a notice in the prescribed form requiring him or her to complete and return to that person, within 14 days after the date on which the notice is served on the judgment debtor, a statement in the prescribed form of---
+*   (1) In this Act, _financial statement_ means a statement, in a form approved by the chief executive of the Ministry of Justice, of a judgment debtor's---
         
-    *   (a) the judgment debtor's income and expenditure for the preceding 52 weeks; and
+    *   (a) assets and liabilities; and
     
-    *   (b) the judgment debtor's assets and liabilities.
+    *   (b) income and expenditure for the preceding 52 weeks.
     
-    (2) An additional copy of the prescribed form, for the judgment debtor's own use, shall be served with the notice.
+    (2) A financial statement may be completed by the judgment creditor or the judgment debtor.
     
-    Compare: 1908 No 89 Schedule 2 [r 620][335]
+    (3) If the financial statement is completed by the judgment creditor, the statement must include details of the source of the information contained in the statement and the date to which the information relates.
     
-    Section 84A: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+    (4) A completed financial statement may be filed in the court at any time after a judgment or order for the payment of money is entered or made.
+    
+    (5) The party who files a completed financial statement must serve a copy of the statement on the other party.
+    
+    Section 84A: replaced, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84B Order for examination of judgment debtor
+##### 84B Notice to complete financial statement
     
-*   (1) Whether or not a notice has been served pursuant to [section 84A][141], any person who has obtained a judgment or order for the payment of a sum of money may apply to the court _ex parte_ for an order that the judgment debtor or, if the judgment debtor is a corporation, an officer of the judgment debtor, do attend before the court and be orally examined as to the judgment debtor's income, expenditure, assets, liabilities, and generally as to the judgment debtor's means for satisfying the judgment debt.
+*   (1) If a judgment creditor serves a notice to complete a financial statement on the judgment debtor, the judgment debtor must, within 14 days after the date of service,---
+        
+    *   (a) complete a financial statement; and
     
-    (2) Whether or not a notice has been served pursuant to [section 84A][141], any judgment debtor may apply to the court _ex parte_ for an order under subsection (1).
+    *   (b) return it to the judgment creditor.
     
-    (3) Upon granting the application, the court may order the production at the examination of any books or other documents, and may impose such terms and conditions as it shall think proper in respect of the conduct of the examination or otherwise.
+    (2) The notice to complete a financial statement must be---
+        
+    *   (a) in a form approved by the chief executive of the Ministry of Justice; and
     
-    (4) Where the order has been made on the application of the judgment creditor, a copy of the order in the prescribed form shall be served personally upon the judgment debtor at least 3 days before the date of the examination, and, if requested by the judgment debtor, the person effecting the service shall at the time of service pay or tender to the judgment debtor the travel expenses estimated to be payable under the [Witnesses and Interpreters Fees Regulations 1974][336].
+    *   (b) accompanied by 2 copies of the approved form for a financial statement (1 for the judgment debtor to complete and return, the other for the judgment debtor's use).
     
-    (5) Where the order has been made on the application of the judgment debtor, a copy of the order in the prescribed form shall be served personally upon the judgment creditor at least 3 days before the date of the examination.
-    
-    (6) The jurisdiction of the District Court under this section may be exercised by the Registrar.
-    
-    Compare: 1908 No 89 Schedule 2 [r 621][337]; SR 1981/259 r 236
-    
-    Section 84B: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
-    
-    Section 84B(4): amended, on 5 March 1999, by [section 2][338] of the District Courts Amendment Act 1999 (1999 No 4).
-    
-    Section 84B(6): added, on 1 July 1994, by section 2 of the District Courts Amendment Act 1994 (1994 No 29).
+    Section 84B: replaced, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84C Where judgment debtor does not appear at examination or order cannot be served
+##### 84C Court to request information about judgment debtor's means
     
-*   (1) If---
-        
-    *   (a) any order made under [section 84B][142] cannot be served on the judgment debtor; or
+*   (1) If a judgment creditor makes an application in a form approved by the chief executive of the Ministry of Justice, the court must request the judgment debtor to provide the court with information about the judgment debtor's means for satisfying the judgment debt.
     
-    *   (b) the judgment debtor fails to appear before the District Court at the time and place specified in any order made under that section, or at any subsequent time and place to which the examination is adjourned,---
+    (2) The request may be made by any means of communication that the court considers appropriate.
     
-    the order shall not be enforced by committal, but a Judge or a Registrar may issue a warrant to arrest the debtor.
+    (3) The information may be provided at any place and using any means of communication that the court considers appropriate; and the court may request the person providing the information to verify it on oath.
     
-    (2) Where the judgment debtor is arrested pursuant to this section, the following provisions shall apply:
-        
-    *   (a) the judgment debtor shall be brought before a Judge or a Registrar as soon as possible for the purpose of commencing or continuing the examination:
+    (4) The jurisdiction of the court under this section may be exercised by the Registrar.
     
-    *   (b) the judgment debtor shall be bailable as of right:
-    
-    *   (c) [section 168][339] of the Criminal Procedure Act 2011 and [Parts 1 to 3][340] of the Bail Act 2000 shall apply with any necessary modifications as if any such appearance at the examination before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-    
-    *   (d) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and [Parts 1 to 3][340] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][341] of that Act.
-    
-    Compare: 1957 No 87 [s 88][342]; 1987 No 165 [s 14][343]
-    
-    Section 84C: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
-    
-    Section 84C(1): amended, on 10 April 2006, by [section 4(1)][344] of the District Courts Amendment Act 2006 (2006 No 8).
-    
-    Section 84C(2)(c): amended, on 1 July 2013, by [section 6(1)(a)][345] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-    
-    Section 84C(2)(c): amended, on 1 January 2001, by [section 74(2)][346] of the Bail Act 2000 (2000 No 38).
-    
-    Section 84C(2)(d): replaced, on 4 September 2013, by [section 43(2)][347] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 84C: replaced, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84D Conduct of examination
+##### 84D Court may order hearing if information about judgment debtor's means not provided, etc
     
-*   (1) An examination under [section 84B][142] shall be made orally on oath before a District Court Judge or Registrar.
+*   (1) This section applies if---
+        
+    *   (a) no information about the judgment debtor's means for satisfying the judgment debt is provided to the court following a request under [section 84C][144]; or
     
-    (2) The judgment debtor shall appear personally, and may be represented by a barrister or solicitor who may examine the judgment debtor and be heard on the matter of the judgment debtor's means for satisfying the judgment.
+    *   (b) the court wishes to obtain information about the judgment debtor's means for satisfying the judgment debt in addition to information provided under [section 84C][144] before exercising its powers under [section 84EC][149]; or
     
-    (3) The judgment debtor may be cross-examined by or on behalf of the judgment creditor.
+    *   (c) a person providing information to the court under [section 84C][144] refuses to verify it on oath.
     
-    (4) Any witness may be cross-examined by or on behalf of the judgment debtor or judgment creditor.
+    (2) The court may issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to attend a hearing and be questioned by the court about the judgment debtor's means for satisfying the judgment debt.
     
-    (5) Any examination under [section 84B][142] may from time to time be adjourned by the court to a time and place to be appointed.
+    (3) If the court issues a summons, the court may also---
+        
+    *   (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
     
-    Compare: 1980 No 94 [s 128][348]
+    *   (b) order that the hearing be held at a place other than in a court:
     
-    Section 84D: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+    *   (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
+    
+    (4) The summons must be served on the judgment debtor by a person referred to in [section 108A(3)(a)][204] and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
+    
+    (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the judgment debtor has passed after the date on which the summons was served.
+    
+    (6) The court may cancel a hearing if, before the date of the hearing,---
+        
+    *   (a) such information about the judgment debtor's means for satisfying the judgment debt is provided that, in the opinion of the court, it is unnecessary for the hearing to take place; and
+    
+    *   (b) if the court so requests, the person providing the information verifies it on oath.
+    
+    (7) If a hearing takes place,---
+        
+    *   (a) the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor must appear in person:
+    
+    *   (b) the court may require the judgment debtor or officer and any witness to take an oath before giving evidence:
+    
+    *   (c) the judgment debtor may be represented by a barrister or solicitor who may question the judgment debtor or officer and be heard on the matter of the judgment debtor's means for satisfying the judgment debt:
+    
+    *   (d) the judgment debtor or officer may be questioned by the court:
+    
+    *   (e) any witness may be questioned by or on behalf of the judgment debtor or by the court.
+    
+    (8) A hearing may from time to time be adjourned by the court to a time and place to be appointed.
+    
+    (9) The jurisdiction of the court under this section may be exercised by the Registrar.
+    
+    Section 84D: replaced, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84E Orders by court
+##### 84E Application for financial assessment hearing
     
-*   (1) Upon completion of an examination under [section 84B][142], the District Court may, after giving the judgment creditor and judgment debtor an opportunity to be heard, do any 1 or more of the following:
+*   (1) This section applies if a judgment creditor applies, in a form approved by the chief executive of the Ministry of Justice, for a hearing (a _financial assessment hearing_) for the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to be questioned about the judgment debtor's means for satisfying the judgment debt.
+    
+    (2) The court must issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or an officer of the judgment debtor to attend the hearing.
+    
+    (3) The court may also---
         
-    *   (a) direct that 1 or more of the proceedings referred to in [section 79(1)][134] be commenced or continued, as the case may be, and also direct any steps to be taken in such proceedings, and, for any such purpose, issue any warrant or summons or make any order:
+    *   (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
     
-    *   (b) make an order that the money owing under the judgment be paid by such instalments payable at such times as the court may fix:
+    *   (b) order that the hearing be held at a place other than in a court:
     
-    *   (c) stay any proceedings for the enforcement of the judgment:
+    *   (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
     
-    *   (d) make an order varying any order relating to the enforcement of the judgment made under this Act.
+    (4) The summons must be served on the judgment debtor by a person referred to in [section 108A(3)(b)][204].
     
-    (2) The court may do any 1 or more of the things referred to in subsection (1) as it considers appropriate, notwithstanding---
+    (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the parties has passed after the date on which the summons was served.
+    
+    (6) The court may cancel a hearing at the request of the judgment creditor.
+    
+    (7) The jurisdiction of the court under this section may be exercised by the Registrar.
+    
+    Section 84E: replaced, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 84EA Power to arrest judgment debtor or officer
+    
+*   (1) This section applies if a summons issued under [section 84D][145] or [84E][146] cannot be served on a judgment debtor.
+    
+    (2) This section also applies if---
         
-    *   (a) that no application was made for the direction, order, or stay in question; or
+    *   (a) a summons was served on a judgment debtor at least 3 working days or any shorter period agreed under [section 84D(5)][145] or [84E(5)][146] before the date of the hearing to which the summons relates; but
     
-    *   (b) that application was made for a different direction, order, or stay.
+    *   (b) the judgment debtor fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
     
-    (3) The jurisdiction of the District Court under this section may be exercised by the Registrar.
+    (3) This section applies in relation to a judgment debtor that is a body corporate if---
+        
+    *   (a) a summons was served on an officer of the judgment debtor (the _relevant officer_) at least 3 working days or any shorter period agreed under [section 84D(5)][145] or [84E(5)][146] before the date of the hearing to which the summons relates; and
     
-    Compare: 1980 No 94 [s 129][349]
+    *   (b) an officer of the judgment debtor (whether or not the relevant officer) fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
     
-    Section 84E: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+    (4) The summons must not be enforced by committal, but a Judge or Registrar may issue a warrant to arrest the judgment debtor or relevant officer.
+    
+    (5) If the judgment debtor or relevant officer is arrested under this section, the following provisions apply:
+        
+    *   (a) the judgment debtor or relevant officer must be brought before a Judge or Registrar as soon as possible for the purpose of commencing or continuing the hearing:
+    
+    *   (b) the judgment debtor or relevant officer is bailable as of right:
+    
+    *   (c) [section 168][354] of the Criminal Procedure Act 2011 and [Parts 1 to 3][355] of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
+    
+    *   (d) if the judgment debtor or relevant officer cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor or relevant officer, and [Parts 1 to 3][355] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][356] of that Act.
+    
+    (6) In this section, _summons_ means---
+        
+    *   (a) a summons to attend a hearing under [section 84D][145]:
+    
+    *   (b) a summons to attend a financial assessment hearing.
+    
+    Section 84EA: inserted, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 84EB Financial assessment hearing
+    
+*   (1) The judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor must appear in person at a financial assessment hearing.
+    
+    (2) The court may require the judgment debtor or officer and any witness to take an oath before giving evidence.
+    
+    (3) The judgment debtor may be represented at the hearing by a barrister or solicitor who may question the judgment debtor or officer and be heard on the matter of the judgment debtor's means for satisfying the judgment debt.
+    
+    (4) The judgment debtor or officer may be questioned by or on behalf of the judgment creditor or by the court.
+    
+    (5) Any witness may be questioned by or on behalf of the judgment creditor or judgment debtor or by the court.
+    
+    (6) A financial assessment hearing may from time to time be adjourned by the court to a time and place to be appointed.
+    
+    (7) The jurisdiction of the court under this section may be exercised by the Registrar.
+    
+    Section 84EB: inserted, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 84EC Orders by court following filing of financial statement, etc
+    
+*   (1) This section applies if, after a judgment or order for the payment of money has been entered or made,---
+        
+    *   (a) a financial statement is filed in the court; or
+    
+    *   (b) the judgment debtor provides the court with information about the judgment debtor's means for satisfying the judgment debt under [section 84C][144]; or
+    
+    *   (c) a hearing under [section 84D][145] or a financial assessment hearing takes place.
+    
+    (2) The court may do any 1 or more of the following:
+        
+    *   (a) direct that 1 or more of the proceedings referred to in [section 79(1)][134] be commenced or continued (as the case may be), and direct that any steps be taken in such proceedings, and, for any such purpose, issue any warrant or summons or make any order:
+    
+    *   (b) make an attachment order under [section 84G][152]:
+    
+    *   (c) order that the money owing under the judgment or order be paid in instalments:
+    
+    *   (d) stay any proceedings to enforce the judgment or order:
+    
+    *   (e) vary any order made under this Act relating to the enforcement of the judgment or order.
+    
+    (3) The court may do any of the things referred to in subsection (2) even though---
+        
+    *   (a) no application is made for the direction, order, or stay in question; or
+    
+    *   (b) an application is made for a different direction, order, or stay; or
+    
+    *   (c) no hearing takes place; or
+    
+    *   (d) in a case where a financial statement is filed in the court by 1 party, the other party has not had the opportunity to make representations to the court about the financial statement.
+    
+    (4) The jurisdiction of the court under this section may be exercised by the Registrar.
+    
+    Section 84EC: inserted, on 14 April 2014, by [section 14][353] of the District Courts Amendment Act 2011 (2011 No 30).
 
 #### Attachment orders
     
@@ -2602,15 +2788,17 @@ Enforcement of judgments
 
 ##### 84F Interpretation
     
-*   In [sections 84G to 84M][148], unless the context otherwise requires,---
+*   In [sections 84G to 84M][152], unless the context otherwise requires,---
+    
+    _earnings period_ has the meaning given by [section 84H][153]
     
     _employer_, in relation to a judgment debtor, includes,---
         
     *   (a) a person by whom a retiring allowance or pension or other payment of a similar nature is payable to the judgment debtor:
     
-    *   (b) the Accident Compensation Corporation in respect of weekly compensation payable to the judgment debtor under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][350]:
+    *   (b) the Accident Compensation Corporation in respect of weekly compensation payable to the judgment debtor under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][357]:
     
-    *   (c) the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][351] in respect of a benefit payable to the judgment debtor
+    *   (c) the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][358] in respect of a benefit payable to the judgment debtor
     
     _salary or wages_ includes---
         
@@ -2622,123 +2810,129 @@ Enforcement of judgments
     
     *   (ad) a payment in consideration of work performed under a contract for services:
     
-    *   (b) all payments of weekly compensation made under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][350] by the Accident Compensation Corporation:
+    *   (b) all payments of weekly compensation made under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][357] by the Accident Compensation Corporation:
     
-    *   (c) a benefit within the meaning of the [Social Security Act 1964][351].
+    *   (c) a benefit within the meaning of the [Social Security Act 1964][358].
     
-    Compare: 1957 No 87 [s 79][352]; 1980 No 94 [s 2][353]; 1986 No 88 s 2; 1987 No 165 [s 14][343]
+    Compare: 1957 No 87 [s 79][359]; 1980 No 94 [s 2][360]; 1986 No 88 s 2; 1987 No 165 [s 14][361]
     
     Section 84F: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84F **employer** paragraph (b): substituted, on 1 April 2002, by [section 337(1)][354] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 84F **earnings period**: inserted, on 14 April 2014, by [section 15][362] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84F **employer** paragraph (c): amended, on 1 October 1998, by [section 11][355] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 84F **employer** paragraph (b): substituted, on 1 April 2002, by [section 337(1)][363] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 84F **salary or wages** paragraph (ab): inserted, on 10 April 2006, by [section 5][356] of the District Courts Amendment Act 2006 (2006 No 8).
+    Section 84F **employer** paragraph (c): amended, on 1 October 1998, by [section 11][364] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 84F **salary or wages** paragraph (ac): inserted, on 10 April 2006, by [section 5][356] of the District Courts Amendment Act 2006 (2006 No 8).
+    Section 84F **salary or wages** paragraph (ab): inserted, on 10 April 2006, by [section 5][365] of the District Courts Amendment Act 2006 (2006 No 8).
     
-    Section 84F **salary or wages** paragraph (ad): inserted, on 10 April 2006, by [section 5][356] of the District Courts Amendment Act 2006 (2006 No 8).
+    Section 84F **salary or wages** paragraph (ac): inserted, on 10 April 2006, by [section 5][365] of the District Courts Amendment Act 2006 (2006 No 8).
     
-    Section 84F **salary or wages** paragraph (b): substituted, on 1 April 2002, by [section 337(1)][354] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 84F **salary or wages** paragraph (ad): inserted, on 10 April 2006, by [section 5][365] of the District Courts Amendment Act 2006 (2006 No 8).
     
-    Section 84F **salary or wages** paragraph (c): amended, on 1 October 1998, by [section 57][357] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 84F **salary or wages** paragraph (b): substituted, on 1 April 2002, by [section 337(1)][363] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    
+    Section 84F **salary or wages** paragraph (c): amended, on 1 October 1998, by [section 57][366] of the Social Security Amendment Act 1998 (1998 No 19).
 
 ##### 84G Attachment orders
     
-*   (1) The court may, on the application of the judgment creditor at any time after judgment has been entered, make an attachment order under this section.
-    
-    (2) No attachment order shall be made unless the judgment debtor has been examined under [section 84B][142].
-    
-    (3) An attachment order may be made against a person who is proved to the satisfaction of the court to be an employer of the judgment debtor.
-    
-    (4) The attachment order shall specify the person to whom the amounts to be deducted are to be paid.
-    
-    (5) Every attachment order may be made for a fixed period or so as to remain in force until the judgment debt has been paid in full.
-    
-    (6) Every attachment order shall specify an amount (known as the protected earnings rate) below which the net earnings or benefit paid to the judgment debtor shall not be reduced by reason of compliance with the order.
-    
-    (7) No attachment order under this Act shall operate so that, together with---
+*   (1) The court may make an attachment order to enforce a judgment or order for the payment of money---
         
-    *   (a) any attachment order under any other Act; and
+    *   (a) in the circumstances referred to in [section 79(5C)][134]; or
     
-    *   (b) any deduction notice made under the [Family Proceedings Act 1980][358] or issued under [section 27Y][359] of the Social Security Act 1964; and
+    *   (b) in the circumstances referred to in [section 84EC(1)][149]; or
     
-    *   (c) in the case of a benefit within the meaning of the [Social Security Act 1964][351], any adjustment to or deduction from benefit under [section 27X][360] or [section 86][361] of that Act,---
+    *   (c) on the application of the judgment creditor or judgment debtor.
     
-    the net earnings or any benefit of the judgment debtor are reduced below the protected earnings rate, and, where necessary, the specified amount to be deducted in any attachment order under this Act shall be reduced or cancelled accordingly.
+    (2) If an application is made under subsection (1)(c),---
+        
+    *   (a) the party who makes the application must serve a copy of it on the other party; and
     
-    (8) \[Repealed\]
+    *   (b) the court may make the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
     
-    (9) Nothing in [section 84][362] of the Social Security Act 1964 shall apply to an attachment order under this section.
+    (3) If an attachment order is made, it must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
     
-    (10) The jurisdiction of the District Court under this section may be exercised by the Registrar.
+    (4) Except as otherwise ordered by the court, an attachment order takes effect when a copy of the order is served on the employer.
     
-    Compare: 1957 No 87 [s 103][363]; 1980 No 94 [s 105][364]; 1987 No 165 [s 14][343]
+    (5) The jurisdiction of the court under this section may be exercised by the Registrar.
     
-    Section 84G: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
-    
-    Section 84G(7)(c): amended, 1 October 1998, by [section 57][357] of the Social Security Amendment Act 1998 (1998 No 19).
-    
-    Section 84G(8): repealed, on 1 March 1996, by [section 6][365] of the District Courts Amendment Act 1995 (1995 No 65).
+    Section 84G: replaced, on 14 April 2014, by [section 16][367] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 84H Attachment order to be served on employer
+##### 84H Content of attachment orders
     
-*   (1) Where an attachment order is made, a copy of the order shall be served on the employer to whom it relates, either personally or by leaving it at the employer's place of residence or business, or by sending it by letter addressed to the employer at the employer's place of residence or business.
+*   An attachment order must be in a form approved by the chief executive of the Ministry of Justice and must specify---
+        
+    *   (a) the employer to whom the order relates; and
     
-    (2) Where service of an attachment order is effected by letter, then, in the absence of proof to the contrary, the order shall be deemed to have been served on the fourth working day after the day on which it was posted, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
+    *   (b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the _earnings period_); and
     
-    (3) Every attachment order shall take effect when a copy of the order is served on the employer in accordance with this section.
+    *   (c) the amount or percentage to be deducted from the judgment debtor's salary or wages for the earnings period; and
     
-    Compare: 1957 No 87 [s 104][366]; 1980 No 94 [s 106][367]; 1987 No 165 [s 14][343]
+    *   (d) the amount or percentage below which the net amount paid to the judgment debtor for the earnings period must not fall; and
     
-    Section 84H: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+    *   (e) the name and address of the person to whom the amounts deducted are to be paid; and
+    
+    *   (f) that the order is to remain in force until the judgment debt has been paid in full or, if the order is to remain in force for a fixed period, that period.
+    
+    Section 84H: replaced, on 14 April 2014, by [section 16][367] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 84I Effect of attachment orders
     
-*   (1) An attachment order shall direct that the money due and payable under the judgment shall, by way of weekly payments of such amount as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
+*   (1) An attachment order shall direct that the money due and payable under the judgment shall, by way of sums of such amount, and payable by reference to such earnings period, as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
     
     (2) The charge so created---
         
-    *   (a) shall accrue from week to week, and on such day of the week as is specified in the attachment order; and
+    *   (a) shall accrue from earnings period to earnings period, and on such day of the earnings period as is specified in the attachment order; and
     
     *   (b) shall attach to all salary or wages that become due by the employer to the judgment debtor at any time while the attachment order is in force, whether or not the contract of employment in respect of which the salary or wages so become due existed at the date of the attachment order; and
     
-    *   (c) shall be subject to---
-            
-        *   (i) any charge created by any attachment order or deduction notice made under the [Family Proceedings Act 1980][358]:
-        
-        *   (ii) any charge created by any attachment order made under the [Summary Proceedings Act 1957][368]:
-        
-        *   (iii) any deduction notice issued under the [Child Support Act 1991][369]:
-        
-        *   (iiia) any deduction notice issued under [section 157][370] of the Tax Administration Act 1994 (as applied by [section 193][371] of the Student Loan Scheme Act 2011):
-        
-        *   (iv) in the case of an attachment order against a benefit within the meaning of the [Social Security Act 1964][351], any deduction from or adjustment to that benefit under [section 86][361] of that Act,---
-        
-        (whether the charge was created or the adjustment or deduction was authorised before or after the making of the attachment order under this Act); but
+    *   (c) shall be subject to any charge created by an attachment order under the [Family Proceedings Act 1980][368] or the [Summary Proceedings Act 1957][369] and to any item referred to in subsection (5)(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
     
     *   (d) shall prevail over and have priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created by the judgment debtor.
     
-    Compare: 1980 No 94 [s 107][372]
+    (3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
+    
+    (4) Nothing in [section 84][370] of the Social Security Act 1964 applies to an attachment order.
+    
+    (5) The items are---
+        
+    *   (a) a deduction notice under the [Child Support Act 1991][371], the [Family Proceedings Act 1980][368], the [Social Security Act 1964][358], or the [Tax Administration Act 1994][372]:
+    
+    *   (b) a deduction for the recovery of payments under [section 86][373] of the Social Security Act 1964:
+    
+    *   (c) a charge created by an attachment order under this or any other Act.
+    
+    (6) In this section,---
+    
+    _net earnings_, in relation to an earnings period, means the balance left after deducting from the judgment debtor's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][374] if the salary or wages were the only salary or wages paid to the judgment debtor by the employer for the earnings period
+    
+    _protected earnings rate_, in relation to an earnings period, means the higher of---
+        
+    *   (a) 60% of net earnings for the earnings period; and
+    
+    *   (b) the amount or percentage referred to in [section 84H(d)][153].
+    
+    Compare: 1980 No 94 [s 107][375]
     
     Section 84I: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84I(2)(c)(iii): substituted, on 1 July 1992, by [section 246(1)][373] of the Child Support Act 1991 (1991 No 142).
+    Section 84I(1): amended, on 14 April 2014, by [section 17(1)][376] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84I(2)(c)(iiia): inserted, on 21 December 1992, by [section 88][374] of the Student Loan Scheme Act 1992 (1992 No 141).
+    Section 84I(2)(a): amended, on 14 April 2014, by [section 17(2)][376] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84I(2)(c)(iiia): amended, on 1 April 2012, by [section 223][375] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 84I(2)(c): replaced, on 14 April 2014, by [section 17(3)][376] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84I(2)(c)(iiia): amended, on 1 April 1995, by section YB 1 of the Income Tax Act 1994 (1994 No 164).
+    Section 84I(3): inserted, on 14 April 2014, by [section 17(4)][376] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84I(2)(c)(iv): amended, on 1 October 1998, by [section 57][357] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 84I(4): inserted, on 14 April 2014, by [section 17(4)][376] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84I(2)(c)(iv): amended, on 1 July 1992, by [section 246(2)][373] of the Child Support Act 1991 (1991 No 142).
+    Section 84I(5): inserted, on 14 April 2014, by [section 17(4)][376] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84I(6): inserted, on 14 April 2014, by [section 17(4)][376] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 84J Liability of employer
     
-*   (1) Subject to [section 84G(7)][148], as long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the judgment debtor by way of salary or wages,---
+*   (1) Subject to [section 84I(3)][154], as long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the judgment debtor by way of salary or wages,---
         
     *   (a) deduct from that money such sum as is sufficient to satisfy the charge on the money so far as the same has accrued before the day on which the salary or wages becomes due and payable; and
     
@@ -2748,33 +2942,37 @@ Enforcement of judgments
     
     (3) All sums so deducted shall be deemed to have been paid by the judgment debtor in satisfaction of the judgment debtor's liability to pay the judgment debt.
     
-    (4) Where a judgment debtor in respect of whom an attachment order is in force leaves or is dismissed from the employment of the employer, the employer shall within 7 days notify the Registrar of the court in which the attachment order was issued.
+    (4) If the judgment debtor gives notice of resignation, or is given notice of dismissal, from the employment of the employer to whom the attachment order relates, the employer must, within 7 days after receiving or giving the notice, notify the person referred to in [section 84H(e)][153] of the date of the last day of the judgment debtor's employment.
+    
+    (4A) If the employer to whom the attachment order relates ceases to pay salary or wages to the judgment debtor for a reason other than the judgment debtor's dismissal or resignation from the employment of the employer, the employer must, within 7 days after ceasing to pay the salary or wages, notify the person referred to in [section 84H(e)][153] of the day on which the salary or wages ceased to be paid.
     
     (5) Where the employer makes default in the payment of any money in satisfaction of any such charge, that money shall become a debt due by the employer to the judgment creditor, and may be recovered by the judgment creditor by action in any court of competent jurisdiction.
     
     (6) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
     
-    Compare: 1957 No 87 [s 106][376]; 1980 No 94 [s 116][377]; 1987 No 165 [s 14][343]
+    Compare: 1957 No 87 [s 106][377]; 1980 No 94 [s 116][378]; 1987 No 165 [s 14][361]
     
     Section 84J: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84J(6): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 84J(1): amended, on 14 April 2014, by [section 18(1)][379] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84J(4): replaced, on 14 April 2014, by [section 18(2)][379] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84J(4A): inserted, on 14 April 2014, by [section 18(2)][379] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84J(6): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 84K Wrongful treatment of employee
     
-*   (1) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of an attachment order having been served on the employer.
+*   Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of---
+        
+    *   (a) the employee having been ordered to pay money owing under 1 or more judgments or orders imposed by a District Court or the High Court for the payment of a sum of money; or
     
-    (2) In the prosecution for an offence against subsection (1) in which it is proved that the employer, within 6 months after the serving on the employer of an attachment order in respect of any employee, dismissed the employee or altered the employee's position in the employer's business or undertaking to the employee's prejudice, it shall be deemed to be proved that the action was taken by reason of the order having been served on the employer unless the employer proves to the contrary.
+    *   (b) an attachment order having been served on the employer; or
     
-    (3) This section also applies to attachment orders made in the High Court.
+    *   (c) the employer becoming aware that an attachment order is being made or has been made in respect of the employee.
     
-    Compare: 1957 No 87 [s 106][376]; 1980 No 94 [s 116][377]; 1987 No 165 [s 14][343]
-    
-    Section 84K: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
-    
-    Section 84K(1): amended, on 1 July 2013, by [section 8(1)(a)][378] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-    
-    Section 84K(3): added, on 1 February 2009, by [section 10(3)][327] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
+    Section 84K: replaced, on 14 April 2014, by [section 19][380] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 84L Extent to which attachment orders bind the Crown
     
@@ -2804,53 +3002,57 @@ Enforcement of judgments
     
     *   (e) includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
     
-    (2) [Sections 84G][148] to [84K][152] and [section 84M][154] shall bind the Crown to the extent of and subject to subsections (3) and (4).
+    (2) [Sections 84G][152] to [84K][156] and [section 84M][158] shall bind the Crown to the extent of and subject to subsections (3) and (4).
     
-    (3) Where the judgment debtor is a servant of the Crown, an attachment order may be made against the Crown as employer, and---
+    (3) If the judgment debtor is a servant of the Crown, an attachment order may be made against the Crown as employer.
+    
+    (4) Where the judgment debtor is entitled to a benefit within the meaning of the [Social Security Act 1964][358], an attachment order may be made against the chief executive of the department for the time being responsible for the administration of that Act, and---
         
-    *   (a) the employing department shall be named in the order as the employer; and
-    
-    *   (b) service of the order shall be effected on the chief executive of the employing department, and also on any officer of the Crown (described by the name of the office, the name of the department, and the place where the officer is stationed) specified in the order; and
-    
-    *   (c) service of the order shall be effected in accordance with [section 84H][149], and, where service is effected by post, it shall be sufficient if the letter is addressed to the person to be served by that person's official title or any sufficient description without that person's personal name.
-    
-    (4) Where the judgment debtor is entitled to a benefit within the meaning of the [Social Security Act 1964][351], an attachment order may be made against the chief executive of the department for the time being responsible for the administration of that Act, and---
-        
-    *   (a) service of the order must be effected by leaving a copy of the order at, or sending a copy of the order by post to,---
+    *   (a) service of the order must be effected---
             
-        *   (i) the District Office of that department nearest to the judgment debtor's place of residence; or
+        *   (i) by leaving a copy of the order at, or sending a copy of the order by post to, either the District Office of the department nearest to the judgment debtor's place of residence or an address notified by the chief executive of the department to the chief executive of the Ministry of Justice; or
         
-        *   (ii) an address notified by the chief executive of that department to the chief executive of the Ministry of Justice; and
+        *   (ii) by sending the order in electronic form to an email address notified by the chief executive of the department to the chief executive of the Ministry of Justice; and
         
         
     
-    *   (b) [section 84K][152] shall not apply.
+    *   (b) [section 84K][156] shall not apply.
     
-    Compare: 1957 No 87 [s 106B][379]; 1980 No 94 [s 117][380]; 1987 No 165 [s 14][343]
+    Compare: 1957 No 87 [s 106B][381]; 1980 No 94 [s 117][382]; 1987 No 165 [s 14][361]
     
     Section 84L: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84L(1) **employing department** paragraph (b): substituted, on 1 October 1995, by [section 31][381] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 84L(1) **employing department** paragraph (b): substituted, on 1 October 1995, by [section 31][383] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
-    Section 84L(1) **employing department** paragraph (b)(i): amended, on 2 October 2001, by [section 40][382] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 84L(1) **employing department** paragraph (b)(i): amended, on 2 October 2001, by [section 40][384] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 84L(4): amended, on 1 October 1998, by [section 11][355] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 84L(3): replaced, on 14 April 2014, by [section 20(1)][385] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 84L(4): amended, on 1 October 1998, by [section 57][357] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 84L(4): amended, on 1 October 1998, by [section 11][364] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 84L(4)(a): substituted, on 10 April 2006, by [section 6][383] of the District Courts Amendment Act 2006 (2006 No 8).
+    Section 84L(4): amended, on 1 October 1998, by [section 57][366] of the Social Security Amendment Act 1998 (1998 No 19).
+    
+    Section 84L(4)(a): replaced, on 14 April 2014, by [section 20(2)][385] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 84M Variation, suspension, and discharge of attachment orders
     
-*   (1) Any attachment order may at any time be varied, suspended, or discharged by a District Court, on the application on notice of the judgment creditor or judgment debtor, on good cause being shown to the satisfaction of the court why the order should be so varied, suspended, or discharged.
+*   (1) A judgment creditor or judgment debtor may apply to the court at any time for an attachment order to be varied, suspended, or discharged.
     
-    (2) The variation, suspension, or discharge shall take effect when notice of it is served on the employer in accordance with [section 84H][149].
+    (2) The party who makes an application under subsection (1) must serve a copy of the application on the other party.
     
-    (3) The jurisdiction of a District Court under this section may be exercised by the Registrar of the court.
+    (3) If an application under subsection (1) is made, the court may vary, suspend, or discharge the attachment order if good cause is shown to the satisfaction of the court why the order should be so varied, suspended, or discharged.
     
-    Compare: 1968 No 62 s 99; 1980 No 94 [s 109][384]
+    (4) The court may vary, suspend, or discharge the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
     
-    Section 84M: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
+    (5) If an attachment order is varied, suspended, or discharged under subsection (3), notice of the variation, suspension, or discharge must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
+    
+    (6) A variation, suspension, or discharge of an attachment order takes effect when the notice referred to in subsection (5) is served on the employer, unless (in the case of a discharge) subsection (7) applies.
+    
+    (7) An attachment order may also be discharged at any time by written notice from the judgment creditor to the employer to whom the order relates; and the discharge takes effect when the notice is given to the employer.
+    
+    (8) The jurisdiction of the court under this section may be exercised by the Registrar.
+    
+    Section 84M: replaced, on 14 April 2014, by [section 21][386] of the District Courts Amendment Act 2011 (2011 No 30).
 
 #### Review of Registrar's decision
     
@@ -2858,19 +3060,25 @@ Enforcement of judgments
 
 ##### 84N Review of Registrar's decision
     
-*   (1) Any person affected by any order or direction made by a Registrar under [section 84B][142] or [section 84C][143] or [section 84E][145] or [section 84G][148] or [section 84M][154] may apply to a District Court Judge for a review of the order or direction.
+*   (1) Any person affected by any order or direction made by a Registrar under [section 84C][144] or [section 84E][146] or [section 84G][152] or [section 84M][158] may apply to a District Court Judge for a review of the order or direction.
     
-    (2) Every such application shall be made within 21 days of the making of the order or direction, or within such further time as a Judge, on application, may allow.
+    (1A) However, a judgment creditor may apply for a review of an order or direction made by a Registrar under [section 84EC][149] or [84G][152] only if a financial assessment hearing that was attended by the judgment creditor or his or her representative has taken place.
+    
+    (2) An application under subsection (1) shall be made within 21 days of the making of the order or direction, or within such further time as a Judge, on application, may allow.
     
     (3) The Judge may, on receiving any such application, order that any such order or direction shall be suspended pending the review.
     
     (4) On any such review the Judge may confirm, rescind, or vary the Registrar's order or direction, and the order or direction shall have effect, or cease to have effect, accordingly.
     
-    Compare: 1957 No 87 [s 106F][385]; 1987 No 165 [s 14][343]
+    Compare: 1957 No 87 [s 106F][387]; 1987 No 165 [s 14][361]
     
     Section 84N: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84N(1): amended, on 1 July 1994, by section 3 of the District Courts Amendment Act 1994 (1994 No 29).
+    Section 84N(1): amended, on 14 April 2014, by [section 22(1)][388] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84N(1A): inserted, on 14 April 2014, by [section 22(2)][388] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 84N(2): amended, on 14 April 2014, by [section 22(3)][388] of the District Courts Amendment Act 2011 (2011 No 30).
 
 #### Contempt
     
@@ -2878,93 +3086,109 @@ Enforcement of judgments
 
 ##### 84O Contempt procedures
     
-*   (1) Where---
+*   (1) No order may be made under subsection (3) unless any of the circumstances described in subsection (2) apply and the court is satisfied beyond reasonable doubt that---
         
-    *   (a) a judgment debtor has been examined under [section 84B][142]; and
+    *   (a) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
     
-    *   (b) the court is satisfied beyond reasonable doubt that---
-            
-        *   (i) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
+    *   (b) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful.
+    
+    (2) The circumstances referred to in subsection (1) are as follows:
         
-        *   (ii) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful,---
+    *   (a) a financial statement has been filed in court:
+    
+    *   (b) the court has been provided with information about the judgment debtor's means for satisfying the judgment debt under [section 84C][144]:
+    
+    *   (c) a hearing under [section 84D][145] or a financial assessment hearing has taken place.
+    
+    (3) The court may, on the application of a judgment creditor, order the judgment debtor to do community work, not exceeding 200 hours, as the court thinks fit.
+    
+    (4) Alternatively, the court may impose any of the orders referred to in [section 79(1), (3), or (4)][134] or do any of the things referred to in [section 84EC(2)][149] instead of or in addition to ordering the judgment debtor to do community work under subsection (3).
+    
+    (5) An order made under subsection (3) has effect as if it were a sentence of community work, and the relevant provisions of [Part 2][389] of the Sentencing Act 2002, with any necessary modifications, apply accordingly.
+    
+    (6) If a District Court, acting under this section, orders a respondent to do community work, the judgment debtor has the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court before a Judge alone in relation to a charge.
+    
+    (7) An order made under subsection (3) does not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
+    
+    Section 84O: replaced, on 14 April 2014, by [section 23][390] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 84OA Process for dealing with application for contempt procedures
+    
+*   (1) On receipt of an application under [section 84O(3)][162], the Registrar must---
         
+    *   (a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
+    
+    *   (b) if not so satisfied, refer the application to a Judge.
+    
+    (2) On the referral of the application under subsection (1)(b), the Judge must---
         
+    *   (a) deal with the application on the papers; and
     
-    the court may, on the application of the judgment creditor, order the respondent to do community work for a number of hours, not exceeding 200 hours, as the court thinks fit.
+    *   (b) consider whether he or she is satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so.
     
-    (2) Every application under subsection (1) shall be supported by an affidavit setting out the details of the judgment debtor's alleged disobedience.
+    (3) If the Judge is so satisfied, he or she must direct the Registrar to appoint a time and place for the hearing of the application.
     
-    (3) A copy of the application and affidavit referred to in subsection (2) shall be served on the judgment debtor.
+    (4) If the Judge is not so satisfied, he or she must decline the application.
     
-    (4) If a copy of that application and affidavit cannot be served on the judgment debtor, or if the judgment debtor fails to appear at the hearing of the application, the Judge may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
+    (5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in [section 108A(3)(c)][204].
     
-    (5) A warrant under subsection (4) shall cease to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
+    (6) The Registrar must notify the judgment creditor of the time and place so appointed.
     
-    (6) Where a judgment debtor is arrested under a warrant issued under subsection (4), the following provisions shall apply:
+    (7) If the application is declined under subsection (4), the Registrar must notify the judgment creditor that the application has been declined.
+    
+    Section 84OA: inserted, on 14 April 2014, by [section 23][390] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 84OB Warrant to arrest may be issued if judgment debtor cannot be served or fails to appear at hearing
+    
+*   (1) If a copy of the application cannot be served on the judgment debtor under [section 84OA(5)][163], or if the judgment debtor fails to appear at the hearing of the application, a Judge or Registrar may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
+    
+    (2) A warrant under subsection (1) ceases to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
+    
+    (3) If a judgment debtor is arrested under a warrant issued under subsection (1), the following provisions apply:
         
-    *   (a) the judgment debtor shall be bailable as of right:
+    *   (a) the judgment debtor must be brought before a Judge or, if a Judge is not available, the Registrar:
     
-    *   (b) [section 168][339] of the Criminal Procedure Act 2011 and [Parts 1 to 3][340] of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
+    *   (b) if the judgment debtor is brought before the Registrar, the Registrar must appoint a time and place for the judgment debtor to appear before a Judge for the purpose of commencing or continuing the hearing:
     
-    *   (c) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and [Parts 1 to 3][340] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][341] of that Act.
+    *   (c) the judgment debtor is bailable as of right:
     
-    (7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction, had been sentenced to community work, and the relevant provisions of [Part 2][386] of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
+    *   (d) [section 168][354] of the Criminal Procedure Act 2011 and [Parts 1 to 3][355] of the Bail Act 2000 apply, with any modifications that may be necessary, as if the hearing of the application referred to in subsection (1) were the hearing of a charge:
     
-    (8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court.
+    *   (e) if the judgment debtor cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and [Parts 1 to 3][355] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][356] of that Act.
     
-    (9) Detention pursuant to this section shall not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
-    
-    (10) [Section 30][387] of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
-    
-    Compare: 1980 No 94 [s 130][388]
-    
-    Section 84O: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
-    
-    Section 84O(1): amended, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
-    
-    Section 84O(6)(b): amended, on 1 July 2013, by [section 9(1)(a)][390] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-    
-    Section 84O(6)(b): amended, on 1 January 2001, by [section 74(2)][346] of the Bail Act 2000 (2000 No 38).
-    
-    Section 84O(6)(c): replaced, on 4 September 2013, by [section 43(3)][347] of the Bail Amendment Act 2013 (2013 No 66).
-    
-    Section 84O(7): amended, on 1 July 2013, by [section 11(1)(a)][391] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-    
-    Section 84O(7): amended, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
-    
-    Section 84O(8): amended, on 1 July 2013, by [section 11(1)(b)][391] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
-    
-    Section 84O(8): amended, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
-    
-    Section 84O(10): substituted, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
+    Section 84OB: inserted, on 14 April 2014, by [section 23][390] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 84P Application of Part 1 of Legal Services Act 1991
     
 *   \[Repealed\]
     
-    Section 84P: repealed, on 1 February 2001, by [section 127(1)(a)][392] of the Legal Services Act 2000 (2000 No 46).
+    Section 84P: repealed, on 1 February 2001, by [section 127(1)(a)][391] of the Legal Services Act 2000 (2000 No 46).
 
 ##### 84Q Judgment debtor doing community work to be discharged on payment
     
-*   (1) Where a judgment debtor is doing community work pursuant to an order under [section 84O][158], the judgment debtor may pay, or cause to be paid, the amount due in respect of the judgment debt.
+*   (1) Where a judgment debtor is doing community work pursuant to an order under [section 84O][162], the judgment debtor may pay, or cause to be paid, the amount due in respect of the judgment debt.
     
-    (2) If the judgment debtor pays, or causes to be paid, the amount due, a probation officer, on being notified by the Registrar of the payment of that sum, must notify the judgment debtor that he or she is no longer required to report to a community work centre, unless there is some other reason for the judgment debtor being required to report.
+    (2) If the judgment debtor pays, or causes to be paid, the amount due, a probation officer, on being notified by the Registrar of the payment of that sum, must notify the judgment debtor that he or she is no longer required to report for community work, unless there is some other reason for the judgment debtor being required to report.
     
-    Compare: 1980 No 94 [s 133][393]
+    Compare: 1980 No 94 [s 133][392]
     
     Section 84Q: inserted, on 1 January 1990, by section 9 of the District Courts Amendment Act 1989 (1989 No 107).
     
-    Section 84Q heading: amended, on 10 April 2006, by [section 8][394] of the District Courts Amendment Act 2006 (2006 No 8).
+    Section 84Q heading: amended, on 10 April 2006, by [section 8][393] of the District Courts Amendment Act 2006 (2006 No 8).
     
-    Section 84Q(1): amended, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
+    Section 84Q(1): amended, on 30 June 2002, by [section 186][394] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 84Q(2): substituted, on 30 June 2002, by [section 186][389] of the Sentencing Act 2002 (2002 No 9).
+    Section 84Q(2): substituted, on 30 June 2002, by [section 186][394] of the Sentencing Act 2002 (2002 No 9).
+    
+    Section 84Q(2): amended, on 14 April 2014, by [section 24][395] of the District Courts Amendment Act 2011 (2011 No 30).
 
-#### Warrant of distress
-
-##### 85 Warrant of distress
+#### Warrants to seize property
     
-*   (1) A warrant of distress shall require the bailiff or constable to whom it is directed to levy or cause to be levied such sum of money as is adjudged or ordered to be paid, or so much thereof as then remains unpaid, and also the costs of the execution, and of previous proceedings (if any) for the enforcement of the judgment or order, by seizure and sale of the goods and chattels of the person liable under the judgment or order, and the warrant shall authorize the bailiff or constable aforesaid to seize---
+*   Heading: replaced, on 14 April 2014, by [section 25][396] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 85 Warrant to seize property
+    
+*   (1) A warrant to seize property shall require the bailiff or constable to whom it is directed to levy or cause to be levied such sum of money as is adjudged or ordered to be paid, or so much thereof as then remains unpaid, and also the costs of the execution, and of previous proceedings (if any) for the enforcement of the judgment or order, by seizure and sale of the goods and chattels of the person liable under the judgment or order, and the warrant shall authorize the bailiff or constable aforesaid to seize---
         
     *   (a) any of the goods and chattels of that person, except his necessary tools of trade to a value not exceeding $500 and his necessary household furniture and effects, including the wearing apparel of himself and his family to a value not exceeding $2,000; and
     
@@ -2972,7 +3196,13 @@ Enforcement of judgments
     
     (2) The Governor-General may from time to time, by Order in Council, amend subsection (1) by increasing any amount specified in that subsection.
     
+    (3) A warrant to seize property must be in a form approved by the chief executive of the Ministry of Justice.
+    
     Compare: 1928 No 14 ss 121, 129
+    
+    Section 85 heading: replaced, on 14 April 2014, by [section 26(1)][397] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 85(1): amended, on 14 April 2014, by [section 26(2)][397] of the District Courts Amendment Act 2011 (2011 No 30).
     
     Section 85(1)(a): substituted, on 15 November 1967, by section 4 of the District Courts Amendment Act 1967 (1967 No 42).
     
@@ -2981,10 +3211,12 @@ Enforcement of judgments
     Section 85(1)(a): amended, on 6 November 1986, by section 3(1)(b) of the District Courts Amendment Act 1986 (1986 No 84).
     
     Section 85(2): added, on 6 November 1986, by section 3(2) of the District Courts Amendment Act 1986 (1986 No 84).
+    
+    Section 85(3): inserted, on 14 April 2014, by [section 26(3)][397] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 85A Immobilisation of motor vehicles
     
-*   (1) A bailiff or constable executing a distress warrant may, instead of seizing a motor vehicle under a warrant of distress, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid sum.
+*   (1) A bailiff or constable executing a warrant to seize property may, while seizing, or instead of seizing, a motor vehicle, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid sum.
     
     (2) No vehicle may be immobilised under subsection (1) unless, at the time of its immobilisation, the vehicle---
         
@@ -2998,13 +3230,29 @@ Enforcement of judgments
     
     *   (b) must, on the direction of the Registrar, seize the vehicle.
     
-    (4) A person commits an offence if, without reasonable excuse, he or she tampers with, removes, or attempts to remove a device attached to a vehicle under subsection (1).
+    (4) A person commits an offence if, without reasonable excuse, the person---
+        
+    *   (a) tampers with, removes, or attempts to remove a device attached to a motor vehicle under subsection (1); or
+    
+    *   (b) removes, or attempts to remove,---
+            
+        *   (i) a motor vehicle to which a device is, or has been, attached; or
+        
+        *   (ii) any part of that vehicle; or
+        
+        *   (iii) any other property from that vehicle.
+        
+        
     
     (5) A person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 85A: inserted, on 5 March 1999, by [section 3][395] of the District Courts Amendment Act 1999 (1999 No 4).
+    Section 85A: inserted, on 5 March 1999, by [section 3][398] of the District Courts Amendment Act 1999 (1999 No 4).
     
-    Section 85A(5): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 85A(1): amended, on 14 April 2014, by [section 27(1)][399] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 85A(4): replaced, on 14 April 2014, by [section 27(2)][399] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 85A(5): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ##### 86 Disposal of bills of exchange, etc, seized
     
@@ -3016,89 +3264,129 @@ Enforcement of judgments
 
 ##### 87 Penalty for rescue of goods seized
     
-*   If any person rescues or attempts to rescue any goods seized in execution under a warrant of distress, he shall be liable, either on an order made by the Judge in that behalf or on conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
+*   If any person rescues or attempts to rescue any goods seized in execution under a warrant to seize property, he shall be liable, either on an order made by the Judge in that behalf or on conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
     
     Compare: 1928 No 14 s 23
     
-    Section 87: amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 87: amended, on 14 April 2014, by [section 28][400] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 87: amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
     Section 87: amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 87: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 87: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Sale of goods seized
 
 ##### 88 Period to elapse before sale
     
-*   No goods seized in execution under a distress warrant shall be sold for the purpose of satisfying the warrant until the expiration of a period of at least 5 days next following the day on which the goods have been so seized unless---
+*   No goods seized in execution under a warrant to seize property shall be sold for the purpose of satisfying the warrant until the expiration of a period of at least 7 days next following the day on which the goods have been so seized unless---
         
     *   (a) the goods are of a perishable nature; or
     
     *   (b) the person whose goods have been seized so requests in writing.
     
     Compare: 1928 No 14 s 123(1)
+    
+    Section 88: amended, on 14 April 2014, by [section 29(1)][401] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 88: amended, on 14 April 2014, by [section 29(2)][401] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 89 Sale of goods by public auction unless otherwise ordered
     
-*   (1) Goods seized in execution under a warrant of distress shall be sold by public auction unless a court otherwise orders.
+*   (1) Goods seized in execution under a warrant to seize property shall be sold by public auction unless a court otherwise orders.
     
-    (2) Any bailiff authorized to execute a warrant of distress may, with the prior written authority of the Registrar, sell by auction the goods and chattels seized thereunder without having taken out an auctioneer's licence, anything in the [Auctioneers Act 1928][396] or in any other enactment or rule of law to the contrary notwithstanding.
+    (2) Any bailiff authorized to execute a warrant to seize property may, with the prior written authority of the Registrar, sell by auction the goods and chattels seized thereunder without having taken out an auctioneer's licence, anything in the [Auctioneers Act 1928][402] or in any other enactment or rule of law to the contrary notwithstanding.
+    
+    (3) The jurisdiction of a court under this section may be exercised by the Registrar.
     
     Compare: 1928 No 14 s 123(3)
+    
+    Section 89(1): amended, on 14 April 2014, by [section 30(1)][403] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 89(2): amended, on 14 April 2014, by [section 30(1)][403] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 89(3): inserted, on 14 April 2014, by [section 30(2)][403] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 90 Protection of bailiff selling goods under execution without notice of claim by third party
     
-*   (1) Where any goods in the possession of an execution debtor at the time of seizure by a bailiff charged with the enforcement of a distress warrant issued from a court are sold by the bailiff without any claim having been made to them---
+*   (1) Where any goods in the possession of an execution debtor at the time of seizure by a bailiff charged with the enforcement of a warrant to seize property issued from a court are sold by the bailiff without any claim having been made to them---
         
-    *   (a) the purchaser of the goods so sold shall acquire a good title to those goods; and
+    *   (a) the purchaser of the goods so sold shall acquire a good title to those goods free of all ownership interests and other proprietary interests held in them before the sale; and
     
     *   (b) no person shall be entitled to recover against the bailiff, or anyone lawfully acting under his authority, for any sale of the goods, or for paying over the proceeds thereof prior to receipt of a claim to the goods, unless it is proved that the person from whom recovery is sought had notice, or might by making reasonable inquiry have ascertained, that the goods were not the property of the execution debtor.
     
     (2) Nothing in this section shall affect the right of any claimant, who may prove that at the time of sale he had a title to any goods so seized, to any remedy to which he may be entitled against any person other than the bailiff.
     
-    (3) The provisions of this section shall have effect subject to the [sections 108 to 112][397] of the Insolvency Act 2006 and [sections 251][398] and [252][399] of the Companies Act 1993\.
+    (3) The provisions of this section shall have effect subject to the [sections 108 to 112][404] of the Insolvency Act 2006 and [sections 251][405] and [252][406] of the Companies Act 1993\.
     
     Compare: County Courts Act 1934 s 130 (UK)
     
     Section 90 heading: amended, on 1 May 1981, by section 11 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 90(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 90(1): amended, on 14 April 2014, by [section 31(1)][407] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 90(3): amended, on 3 December 2007, by [section 445][400] of the Insolvency Act 2006 (2006 No 55).
+    Section 90(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 90(3): amended, on 30 June 1997, pursuant to [section 2(1)][401] of the Companies Act Repeal Act 1993 (1993 No 126).
+    Section 90(1)(a): amended, on 14 April 2014, by [section 31(2)][407] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 90(3): amended, on 3 December 2007, by [section 445][408] of the Insolvency Act 2006 (2006 No 55).
+    
+    Section 90(3): amended, on 30 June 1997, pursuant to [section 2(1)][409] of the Companies Act Repeal Act 1993 (1993 No 126).
     
     Section 90(3): amended, on 1 May 1981, by section 11 of the District Courts Amendment Act 1980 (1980 No 83).
 
 ##### 91 Procedure when goods seized are secured under bill of sale
     
-*   Where goods have been seized under a warrant of distress, and some third person claims under a bill of sale or otherwise to be entitled to the goods by way of security for a debt, a Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as he thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as he deems just.
+*   (1) Where goods have been seized under a warrant to seize property, and some third person claims under a bill of sale or otherwise to be entitled to the goods by way of security for a debt, a Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as he thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as he deems just.
+    
+    (2) The purchaser of property sold under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
     
     Compare: 1928 No 14 s 138
     
-    Section 91: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 91(1): amended, on 14 April 2014, by [section 32(1)][410] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 91(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 91(2): inserted, on 14 April 2014, by [section 32(2)][410] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 91A Personal property securities register to be checked
+    
+*   (1) If property is seized under a warrant to seize property, the Registrar must, on the next working day after the property is seized, check whether a financing statement that relates to the property has been registered on the personal property securities register kept under the [Personal Property Securities Act 1999][411].
+    
+    (2) If a financing statement has been registered, the bailiff must promptly notify the person named as the secured party in the financing statement of the following:
+        
+    *   (a) that the court may, under [section 89][174], sell the property after the expiration of 7 days from the date of seizure if the judgment debt remains unpaid and no claim has been made in respect of the property by a person other than the judgment debtor:
+    
+    *   (b) the rights that may be available to the person under [sections 93][180] and [94][181].
+    
+    Section 91A: inserted, on 14 April 2014, by [section 33][412] of the District Courts Amendment Act 2011 (2011 No 30).
 
 #### Claims in respect of goods seized
 
 ##### 92 Priority of High Court and District Court executions
     
-*   (1) Where a writ or warrant against the goods of a party has issued from the High Court, and a warrant of distress against the goods of the same party has issued under the provisions of this Act, the right to the goods seized shall be determined, as the case may be, by the priority of the time of the delivery of the writ or warrant to the Sheriff to be executed or of the application to the Registrar for the warrant of distress.
+*   (1) Where a writ or warrant against the goods of a party has issued from the High Court, and a warrant to seize property against the goods of the same party has issued under the provisions of this Act, the right to the goods seized shall be determined, as the case may be, by the priority of the time of the delivery of the writ or warrant to the Sheriff to be executed or of the application to the Registrar for the warrant to seize property.
     
-    (2) The Sheriff on demand shall, by writing signed by him, inform the bailiff to whom the warrant of distress is directed of the precise time of the delivery of the writ or warrant, and the bailiff of the District Court to whom the warrant of distress is directed shall on demand show the warrant to any Sheriff's officer, and such writing purporting to be so signed, and any endorsement on the warrant concerning the time of application to the Registrar for the warrant, shall respectively be sufficient justification to any Sheriff or bailiff acting thereon.
+    (2) The Sheriff on demand shall, by writing signed by him, inform the bailiff to whom the warrant to seize property is directed of the precise time of the delivery of the writ or warrant, and the bailiff of the District Court to whom the warrant to seize property is directed shall on demand show the warrant to any Sheriff's officer, and such writing purporting to be so signed, and any endorsement on the warrant concerning the time of application to the Registrar for the warrant, shall respectively be sufficient justification to any Sheriff or bailiff acting thereon.
     
     Compare: 1928 No 14 s 128
     
-    Section 92 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 92 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 92 heading: amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 92 heading: amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 92(1): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 92(1): amended, on 14 April 2014, by [section 34][413] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 92(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 92(1): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
+    
+    Section 92(2): amended, on 14 April 2014, by [section 34][413] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 92(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 93 Sale of goods where claim made thereto
     
-*   (1) Where a claim is made to or in respect of any goods seized in execution under a distress warrant issued out of a court, the claimant may---
+*   (1) Where a claim is made to or in respect of any goods seized in execution under a warrant to seize property issued out of a court, the claimant may---
         
     *   (a) deposit with the bailiff either---
             
@@ -3114,19 +3402,27 @@ Enforcement of judgments
     
     (3) In default of the claimant complying with the foregoing provisions of this section, the bailiff shall sell the goods as if no such claim had been made, and shall pay into court the proceeds of the sale to abide the decision of the Judge.
     
+    (4) The purchaser of property sold under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
+    
     Compare: 1928 No 14 s 136; County Courts Act 1934 s 132 (UK)
     
-    Section 93(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93(1): amended, on 14 April 2014, by [section 35(1)][414] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 93(1)(a)(ii): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 93(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93(1)(a)(ii): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 93(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 93(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 93(4): inserted, on 14 April 2014, by [section 35(2)][414] of the District Courts Amendment Act 2011 (2011 No 30).
 
-##### 94 Bailiff's interpleader
+##### 94 Third party claim process
     
-*   (1) If a claim is made to or in respect of any goods or chattels seized in execution under a warrant of distress issued by a court, or in respect of the proceeds or value thereof, the bailiff may, before or after the return of the warrant, and whether an action has been commenced against him for such seizure or not, obtain from the Registrar a summons calling before the court the party at whose instance the process issued and the party making the claim.
+*   (1) If a claim is made to or in respect of any goods or chattels seized in execution under a warrant to seize property issued by a court, or in respect of the proceeds or value thereof, the bailiff may, before or after the return of the warrant, and whether an action has been commenced against him for such seizure or not, obtain from the Registrar a summons calling before the court the party at whose instance the process issued and the party making the claim.
+    
+    (1A) If a claim is made under [section 93][180] in respect of property that is the subject of a financing statement registered on the personal property securities register kept under the [Personal Property Securities Act 1999][411], the bailiff must obtain from the Registrar a summons calling before the court the party making the claim.
     
     (2) Upon the issue of the summons any action brought in any District Court or other court in respect of the claim or of any damage arising out of the execution of the warrant shall be stayed.
     
@@ -3134,17 +3430,23 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 137; County Courts Act 1934 s 133 (UK)
     
-    Section 94(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94 heading: replaced, on 14 April 2014, by [section 36(1)][415] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 94(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(1): amended, on 14 April 2014, by [section 36(2)][415] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 94(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 94(1A): inserted, on 14 April 2014, by [section 36(3)][415] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 94(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 94(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 95 Claims for rent where goods seized under execution
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 1 January 2008, by [section 364(1)][302] of the Property Law Act 2007 (2007 No 91).
+    Section 95: repealed, on 1 January 2008, by [section 364(1)][314] of the Property Law Act 2007 (2007 No 91).
 
 #### Garnishee proceedings
 
@@ -3176,9 +3478,9 @@ Enforcement of judgments
     
     Section 96(4): added, on 1 January 1972, by section 10 of the District Courts Amendment Act 1971 (1971 No 56).
     
-    Section 96(4): amended, on 10 September 1993, pursuant to [section 23(1)][402] of the Private Savings (Transfer of Undertakings) Act 1992 (1992 No 21).
+    Section 96(4): amended, on 10 September 1993, pursuant to [section 23(1)][416] of the Private Savings (Transfer of Undertakings) Act 1992 (1992 No 21).
     
-    Section 96(4): amended, on 1 April 1987, by [section 32(1)][403] of the State-Owned Enterprises Act 1986 (1986 No 124).
+    Section 96(4): amended, on 1 April 1987, by [section 32(1)][417] of the State-Owned Enterprises Act 1986 (1986 No 124).
 
 #### Charging orders
     
@@ -3218,7 +3520,7 @@ Enforcement of judgments
     
     (4) A charging order may be varied or discharged at any time by the court.
     
-    (5) Where a charging order is made in respect of the registered estate or interest of the judgment debtor in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][404], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
+    (5) Where a charging order is made in respect of the registered estate or interest of the judgment debtor in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][418], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
     
     (6) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument of title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
     
@@ -3240,13 +3542,13 @@ Enforcement of judgments
     
 *   (1) Whenever any order or warrant for the committal of any person to prison is made or issued by a court in pursuance of this Act or the rules the order or warrant shall be directed to a bailiff or constable, who shall thereby be empowered to take the person against whom the order is made or warrant issued, and it shall be the duty of every constable to assist in the execution of every such order or warrant.
     
-    (2) Any person committed to prison by any court in pursuance of this Act or the rules shall be committed to a prison established under or deemed to be established under the [Corrections Act 2004][405], and the prison manager of the prison mentioned in any such order or warrant shall be bound to receive and keep the person therein mentioned until he is lawfully discharged.
+    (2) Any person committed to prison by any court in pursuance of this Act or the rules shall be committed to a prison established under or deemed to be established under the [Corrections Act 2004][419], and the prison manager of the prison mentioned in any such order or warrant shall be bound to receive and keep the person therein mentioned until he is lawfully discharged.
     
     Compare: County Courts Act 1934 ss 140, 141 (UK)
     
-    Section 97(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 97(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 97(2): amended, on 1 June 2005, by [section 206][270] of the Corrections Act 2004 (2004 No 50).
+    Section 97(2): amended, on 1 June 2005, by [section 206][282] of the Corrections Act 2004 (2004 No 50).
 
 ##### 98 Power of Judge to order discharge
     
@@ -3254,9 +3556,9 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 200
     
-    Section 98 heading: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 98 heading: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 98: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 98: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Warrant for the recovery of land
 
@@ -3278,7 +3580,7 @@ Enforcement of judgments
     
     Section 100(2): amended, on 1 May 1981, by section 12 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 100(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 100(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 101 Person illegally obtaining warrant liable for trespass
     
@@ -3290,11 +3592,11 @@ Enforcement of judgments
     
     Compare: 1928 No 14 ss 187, 188, 191
     
-    Section 101(2): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 101(2): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 101(3): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 101(3): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 101(3): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 101(3): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 102 Execution of warrant may be stayed on giving bond
     
@@ -3306,11 +3608,11 @@ Enforcement of judgments
     
     Compare: 1928 No 14 ss 189, 190
     
-    Section 102(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 102(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 102(2): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 102(2): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 102(3): substituted, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 102(3): substituted, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 #### Recovery of chattels
 
@@ -3326,13 +3628,15 @@ Enforcement of judgments
     
 *   (1) If the chattels are not recovered under the warrant aforesaid, application may be made to a Judge for an order or warrant of committal. The order or warrant of committal shall direct the committal of the person named therein for such period as the Judge thinks fit not exceeding 1 month.
     
-    (2) If possession of the chattels is not recovered under the warrant referred to in the last preceding section, whether or not an order or warrant of committal is issued, the person entitled to the recovery of the chattels may obtain the issue of a warrant of distress for the value of the chattels, such value to be assessed in such manner as a Judge may direct.
+    (2) If possession of the chattels is not recovered under the warrant referred to in the last preceding section, whether or not an order or warrant of committal is issued, the person entitled to the recovery of the chattels may obtain the issue of a warrant to seize property for the value of the chattels, such value to be assessed in such manner as a Judge may direct.
     
     Compare: 1928 No 14 s 131(2), (3)
     
-    Section 104(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 104(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 104(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 104(2): amended, on 14 April 2014, by [section 37][420] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 104(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Liability and protection of officers
 
@@ -3344,9 +3648,9 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 24
     
-    Section 105(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 105(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 105(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 105(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 106 Irregularity in executing warrants
     
@@ -3362,9 +3666,9 @@ Enforcement of judgments
     
     Compare: 1928 No 14 s 193
     
-    Section 106: amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 106: amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 106 proviso: amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 106 proviso: amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
     Section 106 proviso: amended, on 1 May 1981, by section 13 of the District Courts Amendment Act 1980 (1980 No 83).
 
@@ -3380,11 +3684,11 @@ Enforcement of judgments
     
     Compare: County Courts Act 1934 s 147 (UK)
     
-    Section 107(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 107(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 107(1)(a): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 107(1)(a): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 107(2): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 107(2): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 108 Action to be brought within 6 months, and 1 month's notice to be given
     
@@ -3394,11 +3698,93 @@ Enforcement of judgments
     
     (3) In any proceeding commenced against a person for anything done in pursuance of this Act, the production of the warrant of the court shall be deemed sufficient proof of the authority of the court previous to the issue of the warrant.
     
-    Section 108(1): repealed, on 1 January 1952, by [section 35(2)][406] of the Limitation Act 1950 (1950 No 65).
+    Section 108(1): repealed, on 1 January 1952, by [section 35(2)][421] of the Limitation Act 1950 (1950 No 65).
     
-    Section 108(2): repealed, on 1 January 1952, by [section 35(2)][406] of the Limitation Act 1950 (1950 No 65).
+    Section 108(2): repealed, on 1 January 1952, by [section 35(2)][421] of the Limitation Act 1950 (1950 No 65).
     
-    Section 108(3): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 108(3): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
+
+#### Service
+    
+*   Heading: inserted, on 14 April 2014, by [section 38][422] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 108A Service of documents under this Part
+    
+*   (1) If a person is required to serve a document under [sections 84A to 94][142], the requirement may be met in any of the following ways:
+        
+    *   (a) by---
+            
+        *   (i) delivering the document to the recipient or bringing it to the recipient's notice if the recipient refuses to accept it; or
+        
+        *   (ii) leaving the document for the recipient at the recipient's place of residence with another person who appears to be of or over the age of 14 years; or
+        
+        *   (iii) leaving the document for the recipient at the recipient's place of business or place of work with another person:
+        
+        
+    
+    *   (b) by sending the document to the recipient by prepaid post addressed to the recipient's last known place of residence or business:
+    
+    *   (c) if the recipient has a known electronic address, by sending it to the recipient at that address in electronic form.
+    
+    (2) For recipients to whom [section 108B][205] applies, subsection (1) is modified to the extent provided by that section.
+    
+    (3) Despite subsection (1), the following documents must be served in accordance with subsection (1)(a) or, where applicable, [section 108B(2)(b) or (4)][205]:
+        
+    *   (a) a summons issued under [section 84D][145], which must be served by an authorised process server:
+    
+    *   (b) a summons issued under [section 84E][146], which must be served by or on behalf of the judgment creditor or by an authorised process server:
+    
+    *   (c) a copy of the application and notice of the time and place appointed for the hearing of the application that is required to be served on the judgment debtor under [section 84OA(5)][163], which must be served by or on behalf of the judgment creditor or by an authorised process server.
+    
+    (4) This section is subject to [section 84L(4)(a)][157].
+    
+    (5) In this section and in [section 108B][205],---
+    
+    _authorised process server_ means a person who is---
+        
+    *   (a) a constable; or 
+    
+    *   (b) a Police employee authorised by the Commissioner of Police to serve documents under this Act; or
+    
+    *   (c) an officer of the court; or
+    
+    *   (d) a person or a member of a class of persons authorised by a District Court Judge or Registrar to serve documents either generally or in respect of a particular case or class of case; or
+    
+    *   (e) an officer or employee of a corporation that is authorised by the Secretary for Justice to serve documents under this Part
+    
+    _officer_, in relation to a body corporate or Crown organisation, includes a person involved in the decision making or management of the body or organisation
+    
+    _recipient_ means the person required to be served
+    
+    _serve_, in relation to a document,---
+        
+    *   (a) includes giving the document to a person; but
+    
+    *   (b) does not include filing the document in a court under rules of court.
+    
+    Section 108A: inserted, on 14 April 2014, by [section 38][422] of the District Courts Amendment Act 2011 (2011 No 30).
+
+##### 108B Service provisions modified in special cases
+    
+*   (1) If a document is served in accordance with this section, it is, for the purposes of [section 108A][204], taken to be served on the recipient concerned.
+    
+    (2) If the recipient is a body corporate or a Crown organisation, a document may be served---
+        
+    *   (a) if it may be served under [section 108A(1)(b) or (c)][204], by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
+    
+    *   (b) by being delivered to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
+    
+    (3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by [section 108A][204].
+    
+    (4) In addition to the ways of service authorised by [section 108A][204], a document may be served by delivering or sending it to, or by leaving it with,---
+        
+    *   (a) in the case of a recipient who lives or works on board a vessel (including a vessel belonging to the Royal New Zealand Navy), the person on board who is apparently in charge of the vessel:
+    
+    *   (b) in the case of a recipient who is a member of the New Zealand Armed Forces, the officer apparently in command of the unit or detachment to which the recipient belongs:
+    
+    *   (c) in the case of a recipient who is a prisoner, the manager or other officer apparently in charge of the prison.
+    
+    Section 108B: inserted, on 14 April 2014, by [section 38][422] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ## Part 7  
 Miscellaneous and general
@@ -3409,7 +3795,7 @@ Miscellaneous and general
     
 *   (1) Where it appears to the satisfaction of any Judge by affidavit of the plaintiff or his authorised agent that the plaintiff has a good cause of action against a defendant for a sum within the jurisdiction of a court for which a proceeding has been commenced under this Act, and that there is probable cause (the grounds of which shall be stated in the affidavit) for believing that the defendant is about to leave New Zealand with the intention of evading the payment of that sum, the Judge may issue a writ of arrest under his hand returnable immediately; and, if payment of that sum is not made before execution of the writ, the defendant shall be brought before a Judge who, upon investigation of the case, may either discharge the defendant or hold him to bail, with or without sureties at the discretion of the Judge, for any sum not exceeding the amount sworn to in the affidavit, with costs:
     
-    provided that the Judge may, before issuing the writ, require the person asking for the issue thereof to lodge in the court any sum of money not exceeding $2,000, or to give security therefor to the satisfaction of the court, to abide the decision of the court under paragraph (b) of [section 110][199].
+    provided that the Judge may, before issuing the writ, require the person asking for the issue thereof to lodge in the court any sum of money not exceeding $2,000, or to give security therefor to the satisfaction of the court, to abide the decision of the court under paragraph (b) of [section 110][209].
     
     (2) In default of bail being so given, or the amount with costs being deposited with the Registrar, as hereinafter provided, the Judge may order the defendant to be detained in some prison or lock-up, and to be brought from there to a court at a time to be stated in the order, being not more than 4 clear days from the date of the order, unless he sooner gives the prescribed security or makes the required deposit.
     
@@ -3421,21 +3807,21 @@ Miscellaneous and general
     
     Section 109: substituted, on 1 January 1972, by section 11(1) of the District Courts Amendment Act 1971 (1971 No 56).
     
-    Section 109(1): amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 109(1): amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 109(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 109(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 109(1) proviso: amended, on 1 May 1981, by section 14 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 109(1) proviso: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 109(1) proviso: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 109(2): amended, on 1 June 2005, by [section 206][270] of the Corrections Act 2004 (2004 No 50).
+    Section 109(2): amended, on 1 June 2005, by [section 206][282] of the Corrections Act 2004 (2004 No 50).
     
-    Section 109(2): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 109(2): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 109(4): substituted, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 109(4): substituted, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 109(5): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 109(5): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 110 Successful plaintiff entitled to execution, successful defendant entitled to compensation
     
@@ -3447,13 +3833,13 @@ Miscellaneous and general
     
     Compare: 1928 No 14 s 152
     
-    Section 110: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 110: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 110(a): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 110(a): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 110(b): amended, on 1 May 1981, by section 15(1) of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 110(b): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 110(b): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Interpleader
 
@@ -3463,7 +3849,7 @@ Miscellaneous and general
     
     Compare: 1928 No 14 s 27(g)
     
-    Section 111: amended, on 1 July 1992, by [section 15(1)][407] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 111: amended, on 1 July 1992, by [section 15(1)][423] of the District Courts Amendment Act 1991 (1991 No 61).
 
 #### Contempt
 
@@ -3481,15 +3867,15 @@ Miscellaneous and general
     
     Compare: 1928 No 14 ss 196, 197
     
-    Section 112 heading: substituted, on 13 January 1983, by [section 7][408] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
+    Section 112 heading: substituted, on 13 January 1983, by [section 7][424] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
     
-    Section 112: amended, on 13 January 1983, by [section 7(a)][408] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
+    Section 112: amended, on 13 January 1983, by [section 7(a)][424] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
     
-    Section 112: amended, on 13 January 1983, by [section 7(b)][408] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
+    Section 112: amended, on 13 January 1983, by [section 7(b)][424] of the District Courts Amendment Act (No 2) 1982 (1982 No 130).
     
-    Section 112: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 112: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 112(a): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 112(a): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Financial provisions
 
@@ -3511,35 +3897,35 @@ Miscellaneous and general
     
     Section 113(1A): inserted, on 1 July 1994, by section 4 of the District Courts Amendment Act 1994 (1994 No 29).
     
-    Section 113(2): substituted, on 9 October 2001, by [section 3][409] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 113(2): substituted, on 9 October 2001, by [section 3][425] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 113(2A): inserted, on 9 October 2001, by [section 3][409] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 113(2A): inserted, on 9 October 2001, by [section 3][425] of the District Courts Amendment Act 2001 (2001 No 82).
 
 ##### 114 Enforcement of fines
     
-*   The payment of any fine imposed by a court under this Act may be enforced, upon the order of a Judge, in like manner as the payment of any fine imposed on conviction may be enforced under the provisions of the [Summary Proceedings Act 1957][368].
+*   The payment of any fine imposed by a court under this Act may be enforced, upon the order of a Judge, in like manner as the payment of any fine imposed on conviction may be enforced under the provisions of the [Summary Proceedings Act 1957][369].
     
     Compare: 1928 No 14 s 201
     
-    Section 114: amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 114: amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
-    Section 114: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 114: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 114: amended, on 1 April 1958, pursuant to [section 214(1)][298] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 114: amended, on 1 April 1958, pursuant to [section 214(1)][310] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ##### 115 Fines and fees to be paid to Crown Bank Account
     
-*   All fees and fines payable in respect of proceedings in courts or before Judges shall be paid into a Crown Bank Account or a Departmental Bank Account in accordance with the [Public Finance Act 1989][410]:
+*   All fees and fines payable in respect of proceedings in courts or before Judges shall be paid into a Crown Bank Account or a Departmental Bank Account in accordance with the [Public Finance Act 1989][426]:
     
     provided that fees in respect of keeping possession, and of storing, removing, and selling goods seized under a warrant shall be paid to the bailiff or person charged with the execution of the warrant, to be paid by him to the person entitled thereto.
     
     Compare: 1928 No 14 s 178
     
-    Section 115 heading: amended, on 1 July 1989, pursuant to [section 83(7)][411] of the Public Finance Act 1989 (1989 No 44).
+    Section 115 heading: amended, on 1 July 1989, pursuant to [section 83(7)][427] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 115: amended, on 1 July 1989, by [section 86(1)][412] of the Public Finance Act 1989 (1989 No 44).
+    Section 115: amended, on 1 July 1989, by [section 86(1)][428] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 115: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 115: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Miscellaneous
 
@@ -3551,35 +3937,55 @@ Miscellaneous and general
     
     Compare: 1928 No 14 s 39; County Courts Act 1934 s 176 (UK)
     
-    Section 116 heading: substituted, on 1 April 1980, by [section 17][413] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 116 heading: substituted, on 1 April 1980, by [section 17][429] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 116(1): substituted, on 1 April 1980, by [section 17][413] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 116(1): substituted, on 1 April 1980, by [section 17][429] of the District Courts Amendment Act 1979 (1979 No 125).
 
-##### 116A Proof of service of documents by officer or constable
+##### 116A Proof of service of documents
     
-*   (1) Where any summons or any other document is served by any officer of a court or by any constable, the service may be proved either by an endorsement on a copy of the document showing the fact and the time and mode of service or in any other manner prescribed by the rules. Any such endorsement shall be signed by the person who served the summons or document.
+*   (1) If any summons or any other document is served by a person who is authorised to do so under this Act, the rules, or any other enactment, the service may be proved---
+        
+    *   (a) by an endorsement on a copy of the document or, where applicable, on a printout that records an electronic document, showing the fact, date, time, and mode of service; or
     
-    (2) Every officer or constable who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
+    *   (b) in any other manner prescribed by the rules.
     
-    (3) \[Repealed\]
+    (1A) An endorsement under subsection (1)(a) must be signed by the person who served the summons or document.
+    
+    (2) A person who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
+    
+    (3) If a document is served by sending it by prepaid post, then, unless the contrary is shown, the document is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+    
+    (4) If a document is served by sending it in electronic form, then, unless the contrary is shown, the document is served at the time the electronic communication first enters an information system outside the control of its originator, and in proving service it is sufficient to prove that the document concerned was properly addressed and sent.
+    
+    (5) In this section, _information system_ means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
     
     Compare: County Courts Act 1934 s 175 (UK)
     
     Section 116A: inserted, on 12 May 1955, by section 2 of the District Courts Amendment Act 1955 (1955 No 13).
     
-    Section 116A(1): amended, on 1 July 1992, by [section 16(1)][414] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 116A heading: amended, on 14 April 2014, by [section 39(1)][430] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 116A(2): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 116A(1): replaced, on 14 April 2014, by [section 39(2)][430] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 116A(1A): inserted, on 14 April 2014, by [section 39(2)][430] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 116A(2): amended, on 14 April 2014, by [section 39(3)][430] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 116A(2): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
     Section 116A(2): amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 116A(3): repealed, on 1 April 1958, by [section 214(1)][298] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 116A(3): replaced, on 14 April 2014, by [section 39(4)][430] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 116A(4): inserted, on 14 April 2014, by [section 39(4)][430] of the District Courts Amendment Act 2011 (2011 No 30).
+    
+    Section 116A(5): inserted, on 14 April 2014, by [section 39(4)][430] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 117 Subtenant to give notice of proceeding to subtenant's immediate landlord
     
 *   Every subtenant to whom there is delivered notice of any proceeding taken under this Act for the recovery of any land demised to or held by the subtenant, or to whose knowledge it comes, shall forthwith give notice thereof to the subtenant's immediate landlord, and if the subtenant fails to do so the subtenant shall be liable to forfeit to the subtenant's immediate landlord an amount equal to not more than 3 years' improved or rack rent of the land, to be recovered by a proceeding taken in any District Court or other court having jurisdiction in respect of claims for such an amount.
     
-    Section 117: substituted, on 1 July 1992, by [section 17(1)][415] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 117: substituted, on 1 July 1992, by [section 17(1)][431] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 118 Actions on lost instruments
     
@@ -3587,13 +3993,13 @@ Miscellaneous and general
     
     Compare: 1928 No 14 s 44
     
-    Section 118: amended, on 1 July 1992, by [section 21(1)][309] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 118: amended, on 1 July 1992, by [section 21(1)][321] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 119 Immunity of Judges
     
 *   Every District Court Judge has, at all times, the same immunities as a Judge of the High Court.
     
-    Section 119: substituted, on 20 May 2004, by [section 7][416] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 119: substituted, on 20 May 2004, by [section 7][432] of the District Courts Amendment Act 2004 (2004 No 42).
 
 ##### 120 No privilege to solicitors
     
@@ -3609,15 +4015,15 @@ Miscellaneous and general
     
     Compare: 1928 No 14 s 199
     
-    Section 121(1): amended, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+    Section 121(1): amended, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
     
     Section 121(1): amended, on 1 May 1981, by section 16 of the District Courts Amendment Act 1980 (1980 No 83).
     
-    Section 121(1): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 121(1): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 122 District Courts Rules
     
-*   (1) The Governor-General may from time to time, by Order in Council, with the concurrence of the Chief District Court Judge and 2 or more members of the Rules Committee established under [section 51B][417] of the Judicature Act 1908 of whom at least 1 is a District Court Judge, make rules regulating the practice and procedure of the court in the exercise of jurisdiction conferred by this Act.
+*   (1) The Governor-General may from time to time, by Order in Council, with the concurrence of the Chief District Court Judge and 2 or more members of the Rules Committee established under [section 51B][433] of the Judicature Act 1908 of whom at least 1 is a District Court Judge, make rules regulating the practice and procedure of the court in the exercise of jurisdiction conferred by this Act.
     
     (1A) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of the court in relation to the exercise of jurisdiction conferred by other Acts.
     
@@ -3627,7 +4033,7 @@ Miscellaneous and general
         
     *   (a) prescribing the manner and the court in which proceedings are to be commenced and the procedure to be adopted where proceedings are commenced in one court which should, under the Act or the rules, have been commenced in another court:
     
-    *   (aa) applying, with or without modifications, provisions of the [High Court Rules][230]:
+    *   (aa) applying, with or without modifications, provisions of the [High Court Rules][242]:
     
     *   (b) prescribing the circumstances in which proceedings may be transferred from one Court to another, and the procedure consequent on any such transfer:
     
@@ -3671,7 +4077,7 @@ Miscellaneous and general
     
     *   (j) regulating and providing for any other matters which were regulated or provided for by the District Courts Rules in force on the date of the passing of this Act:
     
-    *   (k) regulating or providing for any other matters which immediately prior to the coming into force of this Act were regulated or provided for by the enactments (repealed by this Act) which are referred to in [Schedule 2][223]:
+    *   (k) regulating or providing for any other matters which immediately prior to the coming into force of this Act were regulated or provided for by the enactments (repealed by this Act) which are referred to in [Schedule 2][234]:
     
     *   (l) providing for any other matters in respect of which rules are contemplated or specially authorized by this Act.
     
@@ -3679,43 +4085,43 @@ Miscellaneous and general
     
     Compare: 1928 No 14 ss 3, 16, 18, 69, 81
     
-    Section 122(1): substituted, on 31 August 1999, by [section 2(1)][418] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
+    Section 122(1): substituted, on 31 August 1999, by [section 2(1)][434] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
     
-    Section 122(1A): inserted, on 31 August 1999, by [section 2(1)][418] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
+    Section 122(1A): inserted, on 31 August 1999, by [section 2(1)][434] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
     
-    Section 122(2): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 122(2): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 122(3)(a): amended, on 1 October 1991, by [section 18(1)][419] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 122(3)(a): amended, on 1 October 1991, by [section 18(1)][435] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 122(3)(aa): inserted, on 1 October 1991, by [section 18(2)][419] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 122(3)(aa): inserted, on 1 October 1991, by [section 18(2)][435] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 122(3)(c): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 122(3)(c): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 122(3)(c): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 122(3)(c): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 122(3)(ca): inserted, on 1 July 1992, by [section 8(1)][420] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 122(3)(ca): inserted, on 1 July 1992, by [section 8(1)][436] of the District Courts Amendment Act 1992 (1992 No 17).
     
-    Section 122(3)(d): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 122(3)(d): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 122(3)(d): amended, on 1 April 1980, pursuant to [section 12][291] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 122(3)(d): amended, on 1 April 1980, pursuant to [section 12][303] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 122(3)(e): substituted, on 1 October 1991, by [section 18(3)][419] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 122(3)(e): substituted, on 1 October 1991, by [section 18(3)][435] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 122(3)(f): substituted, on 1 October 1991, by [section 18(3)][419] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 122(3)(f): substituted, on 1 October 1991, by [section 18(3)][435] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 122(3)(fa): inserted, on 1 July 1992, by [section 8(2)][420] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 122(3)(fa): inserted, on 1 July 1992, by [section 8(2)][436] of the District Courts Amendment Act 1992 (1992 No 17).
     
-    Section 122(3)(ga): inserted, on 1 July 1992, by [section 8(3)][420] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 122(3)(ga): inserted, on 1 July 1992, by [section 8(3)][436] of the District Courts Amendment Act 1992 (1992 No 17).
     
-    Section 122(3)(h): repealed, on 31 August 1999, by [section 2(2)][418] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
+    Section 122(3)(h): repealed, on 31 August 1999, by [section 2(2)][434] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
     
-    Section 122(3)(i): repealed, on 31 August 1999, by [section 2(2)][418] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
+    Section 122(3)(i): repealed, on 31 August 1999, by [section 2(2)][434] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
     
-    Section 122(3)(ia): inserted, on 1 July 1992, by [section 8(4)][420] of the District Courts Amendment Act 1992 (1992 No 17).
+    Section 122(3)(ia): inserted, on 1 July 1992, by [section 8(4)][436] of the District Courts Amendment Act 1992 (1992 No 17).
     
-    Section 122(3)(ib): inserted, on 13 February 2012, by [section 40][421] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 122(3)(ib): inserted, on 13 February 2012, by [section 40][437] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 122(3)(j): amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 122(3)(j): amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 123 Regulations
     
@@ -3745,7 +4151,7 @@ Miscellaneous and general
             
         *   (i) an application for the exercise of a power specified in paragraph (ba); or
         
-        *   (ii) an application for review under [section 123A][218]:
+        *   (ii) an application for review under [section 123A][229]:
         
         
     
@@ -3759,39 +4165,53 @@ Miscellaneous and general
     
     *   (be) providing for the manner in which an application for the exercise of a power specified in paragraph (ba) or paragraph (bc) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice:
     
-    *   (bf) amending [Schedule 1A][222] by adding offences to, or removing offences from, Part 1 or Part 2 of that schedule:
+    *   (bf) amending [Schedule 1A][233] by adding offences to, or removing offences from, Part 1 or Part 2 of that schedule:
     
-    *   (bg) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from [Part 1][222] or [Part 2][222] of Schedule 1A:
+    *   (bg) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from [Part 1][233] or [Part 2][233] of Schedule 1A:
     
     *   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
     (2) No fee is payable for an application for the exercise of a power specified in subsection (1)(ba) or (bc).
     
-    Section 123: substituted, on 31 August 1999, by [section 3][422] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
+    Section 123: substituted, on 31 August 1999, by [section 3][438] of the District Courts Amendment Act (No 2) 1999 (1999 No 89).
     
-    Section 123(1)(a): amended, on 13 February 2012, by [section 41][423] of the District Courts Amendment Act 2011 (2011 No 30).
+    Section 123(1)(a): amended, on 13 February 2012, by [section 41][439] of the District Courts Amendment Act 2011 (2011 No 30).
     
-    Section 123(1)(ba): inserted, on 9 October 2001, by [section 4(1)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(1)(ba): inserted, on 9 October 2001, by [section 4(1)][440] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 123(1)(bb): inserted, on 9 October 2001, by [section 4(1)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(1)(bb): inserted, on 9 October 2001, by [section 4(1)][440] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 123(1)(bc): inserted, on 9 October 2001, by [section 4(1)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(1)(bc): inserted, on 9 October 2001, by [section 4(1)][440] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 123(1)(bd): inserted, on 9 October 2001, by [section 4(1)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(1)(bd): inserted, on 9 October 2001, by [section 4(1)][440] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 123(1)(be): inserted, on 9 October 2001, by [section 4(1)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(1)(be): inserted, on 9 October 2001, by [section 4(1)][440] of the District Courts Amendment Act 2001 (2001 No 82).
     
-    Section 123(1)(be): amended, on 1 October 2003, pursuant to [section 14(1)][243] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 123(1)(be): amended, on 1 October 2003, pursuant to [section 14(1)][255] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 123(1)(bf): inserted, on 26 June 2008, by [section 7][425] of the District Courts Amendment Act (No 2) 2008 (2008 No 39).
+    Section 123(1)(bf): inserted, on 26 June 2008, by [section 7][441] of the District Courts Amendment Act (No 2) 2008 (2008 No 39).
     
-    Section 123(1)(bg): inserted, on 26 June 2008, by [section 7][425] of the District Courts Amendment Act (No 2) 2008 (2008 No 39).
+    Section 123(1)(bg): inserted, on 26 June 2008, by [section 7][441] of the District Courts Amendment Act (No 2) 2008 (2008 No 39).
     
-    Section 123(2): added, on 9 October 2001, by [section 4(2)][424] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123(2): added, on 9 October 2001, by [section 4(2)][440] of the District Courts Amendment Act 2001 (2001 No 82).
+
+##### 123AA Chief executive of Ministry of Justice may approve forms
+    
+*   (1) The chief executive of the Ministry of Justice may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
+    
+    (2) Without limiting subsection (1),---
+        
+    *   (a) more than 1 form may be approved and issued in relation to the same matter; and
+    
+    *   (b) a form may be described by any name that the chief executive considers appropriate even though it relates to a matter that is described by a different name under this Act, so long as the form refers to the appropriate provision of this Act.
+    
+    (3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
+    
+    Section 123AA: inserted, on 14 April 2014, by [section 42][442] of the District Courts Amendment Act 2011 (2011 No 30).
 
 ##### 123A Reviews of decisions of Registrars concerning fees
     
-*   (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under [section 123(1)(ba)][217] may apply to a Judge for a review of that decision.
+*   (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under [section 123(1)(ba)][227] may apply to a Judge for a review of that decision.
     
     (2) An application under subsection (1) may be made within 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar, or within any further time that the Judge allows on application made for that purpose either before or after the expiration of those 20 working days.
     
@@ -3809,17 +4229,17 @@ Miscellaneous and general
     
     Compare: 1991 No 71 s 16
     
-    Section 123A: inserted, on 9 October 2001, by [section 5][426] of the District Courts Amendment Act 2001 (2001 No 82).
+    Section 123A: inserted, on 9 October 2001, by [section 5][443] of the District Courts Amendment Act 2001 (2001 No 82).
 
 ##### 124 Application of Act
     
 *   Where under any Act any power, authority, or jurisdiction is given to Judges, the proceedings shall be had and determined in a court in accordance with this Act and the rules unless some other procedure is specially provided or required, and Judges in the exercise of that power, authority, or jurisdiction shall have all the powers given under this Act to Judges and to courts, but, except as aforesaid or as expressly provided in this Act or the rules, nothing in this Act or the rules shall derogate from or affect the provisions of any other Act conferring any power, authority, or jurisdiction on Judges or on courts.
     
-    Section 124: amended, on 1 April 1980, pursuant to [section 18(1)][227] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 124: amended, on 1 April 1980, pursuant to [section 18(1)][238] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 125 Repeals and savings
     
-*   (1) The enactments mentioned in [Schedule 3][224] are hereby repealed.
+*   (1) The enactments mentioned in [Schedule 3][235] are hereby repealed.
     
     (2) All courts, jurisdictions, offices, appointments, Orders in Council, orders, warrants, rules, regulations, seals, forms, books, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated.
     
@@ -3834,29 +4254,29 @@ Miscellaneous and general
 ## Schedule 1  
 Criminal Record Book
 
-[s 28][427]
+s 28
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 April 1958, by [section 214(1)][298] of the Summary Proceedings Act 1957 (1957 No 87).
+*   Schedule 1: repealed, on 1 April 1958, by [section 214(1)][310] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ---
 
 ## Schedule 1A  
 Offences triable in either District Court or High Court and offences triable only in High Court
 
-[ss 28A(1)][428], [28F(3)][429]
+ss 28A(1), 28F(3)
 
 \[Repealed\]
     
-*   Schedule 1A: repealed, on 1 July 2013, by [section 12][225] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
+*   Schedule 1A: repealed, on 1 July 2013, by [section 12][236] of the District Courts Amendment Act (No 2) 2011 (2011 No 88).
 
 ---
 
 ## Schedule 2  
 Enactments (repealed by this Act) formerly regulating or providing for matters which can be regulated or provided for by rules
 
-[s 122(3)(k)][216]
+[s 122(3)(k)][226]
 
 ##### Magistrates' Courts Act 1928
 
@@ -3864,22 +4284,22 @@ Sections 4, 34, 41, 45, 46, 49 to 52, 55, 57 to 66, 68, 70 to 80, 82 to 88, 91, 
 
 ##### Statutes Amendment Act 1936
 
-[Sections 49 to 52][430].
+[Sections 49 to 52][444].
 
 ##### Statutes Amendment Act 1938
 
-[Section 36][431].
+[Section 36][445].
 
 ---
 
 ## Schedule 3  
 Enactments repealed
 
-[s 125][220]
+[s 125][231]
 
 ##### Finance Act (No 2) 1945 (1945 No 45)
 
-[Section 42][432].
+[Section 42][446].
 
 ##### Justices of the Peace Act 1927 (1927 No 37) (1931 Reprint, Vol II, pp 372, 491)
 
@@ -3891,11 +4311,11 @@ Subsections (1) and (2) of section 74 and Schedule 2\.
 
 ##### Statutes Amendment Act 1936 (1936 No 58)
 
-[Sections 49 to 52][430].
+[Sections 49 to 52][444].
 
 ##### Statutes Amendment Act 1938 (1938 No 20)
 
-[Sections 35 to 38][433].
+[Sections 35 to 38][447].
 
 ---
 
@@ -3907,7 +4327,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [District Courts Amendment Act (No 2) 2008][434].
+*   This Act is the [District Courts Amendment Act (No 2) 2008][448].
 
 ##### 2 Commencement
     
@@ -3946,7 +4366,7 @@ Pursuant to section 123 of the District Courts Act 1947, His Excellency the Gove
 
 ##### 1 Title
     
-*   These regulations are the [District Courts (Categorisation of Offences) Regulations 2008][435].
+*   These regulations are the [District Courts (Categorisation of Offences) Regulations 2008][449].
 
 ##### 2 Commencement
     
@@ -3973,7 +4393,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [District Courts Amendment Act 2011][436].
+*   This Act is the [District Courts Amendment Act 2011][450].
 
 ##### 2 Commencement
     
@@ -3981,7 +4401,13 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(2): sections 9, 40, 41, and 44(1) brought into force, on 13 February 2012, by the [District Courts Amendment Act 2011 Commencement Order 2011][437] (SR 2011/386).
+    Section 2(2): sections 9, 40, 41, and 44(1) brought into force, on 13 February 2012, by the [District Courts Amendment Act 2011 Commencement Order 2011][451] (SR 2011/386).
+    
+    Section 2(2): sections 4, 10--39, 42, 43, 44(2)--(4), and the Schedule brought into force, on 14 April 2014, by the [District Courts Amendment Act 2011 Commencement Order 2013][452] (SR 2013/410).
+
+##### 3 Principal Act amended
+    
+*   This Act amends the District Courts Act 1947\.
 
 ##### 44 Transitional provisions
     
@@ -4005,145 +4431,135 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][438] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][439] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][453] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][454] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][440] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][441] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][455] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][456] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [District Courts Amendment Act 2013][442] (2013 No 114)
+*   [District Courts Amendment Act 2013][457] (2013 No 114)
     
-    Bail Amendment Act 2013 (2013 No 66): [section 43][347]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][293]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][281]
+    Search and Surveillance Act 2012 (2012 No 24): [section 329][307]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 329][295]
+    [District Courts Amendment Act (No 2) 2011][458] (2011 No 88)
     
-    [District Courts Amendment Act (No 2) 2011][443] (2011 No 88)
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][459]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][444]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][460]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][375]
+    [District Courts Amendment Act 2011][450] (2011 No 30)
     
-    [District Courts Amendment Act 2011][436] (2011 No 30)
+    District Courts (Prescribed Rate of Interest) Order 2011 (SR 2011/176): [clause 4][336]
     
-    District Courts (Prescribed Rate of Interest) Order 2011 (SR 2011/176): [clause 4][324]
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][461]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][445]
+    [District Courts (District Court Judges) Amendment Act 2010][462] (2010 No 6)
     
-    [District Courts (District Court Judges) Amendment Act 2010][446] (2010 No 6)
+    Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59): [section 8(2)][281]
     
-    Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59): [section 8(2)][269]
+    Judicature (High Court Rules) Amendment Act 2008 (2008 No 90): [section 10][340]
     
-    Judicature (High Court Rules) Amendment Act 2008 (2008 No 90): [section 10][327]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][279], [118][302]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][267], [118][290]
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [sections 16][463], [18][464]
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [sections 16][447], [18][448]
+    [District Courts Amendment Act (No 2) 2008][448] (2008 No 39)
     
-    [District Courts Amendment Act (No 2) 2008][434] (2008 No 39)
+    Crimes Amendment Act (No 2) 2008 (2008 No 37): [section 4(5)][465]
     
-    Crimes Amendment Act (No 2) 2008 (2008 No 37): [section 4(5)][449]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][314]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][302]
+    [District Courts Amendment Act 2007][466] (2007 No 1)
     
-    [District Courts Amendment Act 2007][450] (2007 No 1)
+    Insolvency Act 2006 (2006 No 55): [section 445][408]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][400]
+    Coroners Act 2006 (2006 No 38): [section 146][265]
     
-    Coroners Act 2006 (2006 No 38): [section 146][253]
+    [District Courts Amendment Act 2006][467] (2006 No 8)
     
-    [District Courts Amendment Act 2006][451] (2006 No 8)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][329]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][317]
+    Corrections Act 2004 (2004 No 50): [section 206][282]
     
-    Corrections Act 2004 (2004 No 50): [section 206][270]
+    [District Courts Amendment Act 2004][468] (2004 No 42)
     
-    [District Courts Amendment Act 2004][452] (2004 No 42)
+    State Sector Amendment Act 2003 (2003 No 41): [sections 12(2)][280], [14(1)][255]
     
-    State Sector Amendment Act 2003 (2003 No 41): [sections 12(2)][268], [14(1)][243]
+    [District Courts Amendment Act 2002][469] (2002 No 63)
     
-    [District Courts Amendment Act 2002][453] (2002 No 63)
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][263]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][251]
+    Sentencing Act 2002 (2002 No 9): [section 186][394]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][389]
+    [District Courts Amendment Act 2001][470] (2001 No 82)
     
-    [District Courts Amendment Act 2001][454] (2001 No 82)
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][363]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][354]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][384]
     
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][382]
-    
-    Legal Services Act 2000 (2000 No 46): [section 127(1)(a)][392]
-    
-    Bail Act 2000 (2000 No 38): [section 74(2)][346]
+    Legal Services Act 2000 (2000 No 46): [section 127(1)(a)][391]
     
     District Courts Amendment Act (No 2) 1999 (1999 No 89)
     
-    [District Courts Amendment Act 1999][455] (1999 No 4)
+    [District Courts Amendment Act 1999][471] (1999 No 4)
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][355]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][364]
     
-    [District Courts Amendment Act 1998][456] (1998 No 76)
+    [District Courts Amendment Act 1998][472] (1998 No 76)
     
-    Social Security Amendment Act 1998 (1998 No 19): [section 57][357]
+    Social Security Amendment Act 1998 (1998 No 19): [section 57][366]
     
     District Courts Amendment Act 1996 (1996 No 119)
     
-    Crimes Amendment Act (No 2) 1995 (1995 No 68): [section 4(2)][457]
+    Crimes Amendment Act (No 2) 1995 (1995 No 68): [section 4(2)][473]
     
     District Courts Amendment Act 1995 (1995 No 65)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(c)][244], [10(1)][285]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(c)][256], [10(1)][297]
     
-    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][381]
-    
-    Income Tax Act 1994 (1994 No 164): section YB 1
+    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][383]
     
     District Courts Amendment Act 1994 (1994 No 29)
     
-    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][401]
+    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][409]
     
     Crimes Amendment Act (No 2) 1993 (1993 No 46): section 5(1)
     
-    Student Loan Scheme Act 1992 (1992 No 141): [section 88][374]
-    
     District Courts Amendment Act (No 2) 1992 (1992 No 53)
     
-    Private Savings (Transfer of Undertakings) Act 1992 (1992 No 21): [section 23(1)][402]
+    Private Savings (Transfer of Undertakings) Act 1992 (1992 No 21): [section 23(1)][416]
     
-    [District Courts Amendment Act 1992][458] (1992 No 17)
-    
-    Child Support Act 1991 (1991 No 142): [section 246][373]
+    [District Courts Amendment Act 1992][474] (1992 No 17)
     
     District Courts Amendment Act (No 2) 1991 (1991 No 107)
     
     Summary Proceedings Amendment Act 1991 (1991 No 62): section 8(2)
     
-    [District Courts Amendment Act 1991][459] (1991 No 61)
+    [District Courts Amendment Act 1991][475] (1991 No 61)
     
     District Courts Amendment Act 1989 (1989 No 107)
     
-    Public Finance Act 1989 (1989 No 44): [sections 83(7)][411], [86(1)][412]
+    Public Finance Act 1989 (1989 No 44): [sections 83(7)][427], [86(1)][428]
     
-    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][258]
+    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][270]
     
-    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][239]
+    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][251]
     
     District Courts Amendment Act 1987 (1987 No 26)
     
-    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][403]
+    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][417]
     
     Constitution Act 1986 (1986 No 114): section 29(2)
     
     District Courts Amendment Act 1986 (1986 No 84)
     
-    [District Courts Amendment Act (No 3) 1985][460] (1985 No 137)
+    [District Courts Amendment Act (No 3) 1985][476] (1985 No 137)
     
-    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 11(2)][331]
+    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 11(2)][347]
     
     District Courts Amendment Act 1983 (1983 No 49)
     
@@ -4151,29 +4567,29 @@ Commencementsee section 2
     
     District Courts Amendment Act 1980 (1980 No 83)
     
-    [District Courts Amendment Act 1979][461] (1979 No 125)
+    [District Courts Amendment Act 1979][477] (1979 No 125)
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][291]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][303]
     
     District Courts Amendment Act 1975 (1975 No 87)
     
-    Domestic Actions Act 1975 (1975 No 53): [section 9(3)][319]
+    Domestic Actions Act 1975 (1975 No 53): [section 9(3)][331]
     
     District Courts Amendment Act 1974 (1974 No 20)
     
-    Judicature Amendment Act 1972 (1972 No 130): [section 18(3)][326]
+    Judicature Amendment Act 1972 (1972 No 130): [section 18(3)][338]
     
     District Courts Amendment Act 1971 (1971 No 56)
     
-    Age of Majority Act 1970 (1970 No 137): [section 6][316]
+    Age of Majority Act 1970 (1970 No 137): [section 6][328]
     
-    Minors' Contracts Act 1969 (1969 No 41): [section 18][318]
+    Minors' Contracts Act 1969 (1969 No 41): [section 18][330]
     
     District Courts Amendment Act 1967 (1967 No 42)
     
     District Courts Amendment Act 1966 (1966 No 69)
     
-    Building Societies Act 1965 (1965 No 22): [section 139(1)][305]
+    Building Societies Act 1965 (1965 No 22): [section 139(1)][317]
     
     District Courts Amendment Act 1964 (1964 No 99)
     
@@ -4183,15 +4599,15 @@ Commencementsee section 2
     
     District Courts Amendment Act 1960 (1960 No 112)
     
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][298]
+    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][310]
     
     District Courts Amendment Act 1955 (1955 No 13)
     
-    Limitation Act 1950 (1950 No 65): [section 35(2)][406]
+    Limitation Act 1950 (1950 No 65): [section 35(2)][421]
     
-    Statutes Amendment Act 1949 (1949 No 51): [section 48(2)(a)][301]
+    Statutes Amendment Act 1949 (1949 No 51): [section 48(2)(a)][313]
     
-    [District Courts Act Commencement Order 1948][462] (SR 1948/196)
+    [District Courts Act Commencement Order 1948][478] (SR 1948/196)
 
 
 
@@ -4330,331 +4746,347 @@ Commencementsee section 2
 [132]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243931
 [133]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243932
 [134]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243933
-[135]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243940
-[136]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243941
-[137]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243942
-[138]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243943
-[139]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243945
-[140]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243947
-[141]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243948
-[142]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243950
-[143]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243954
-[144]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243960
-[145]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243962
-[146]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243964
-[147]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243965
-[148]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243980
-[149]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243984
-[150]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243986
-[151]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243993
-[152]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243995
-[153]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243997
-[154]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244309
-[155]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244311
-[156]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244312
-[157]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244315
-[158]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244316
-[159]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244325
-[160]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244329
-[161]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244334
-[162]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244335
-[163]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244340
-[164]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244342
-[165]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244343
-[166]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244346
-[167]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244347
-[168]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244348
-[169]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244349
-[170]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244353
-[171]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244355
-[172]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244356
-[173]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244358
-[174]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244360
-[175]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244363
-[176]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244364
-[177]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244365
-[178]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244371
-[179]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244372
-[180]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244375
-[181]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244376
-[182]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244381
-[183]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244383
-[184]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244384
-[185]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244385
-[186]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244388
-[187]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244391
-[188]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244395
-[189]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244396
-[190]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244397
-[191]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244399
-[192]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244400
-[193]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244402
-[194]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244406
-[195]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244408
-[196]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244411
-[197]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244412
-[198]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244413
-[199]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244420
-[200]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244423
-[201]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244424
-[202]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244430
-[203]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244431
-[204]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244436
-[205]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244437
-[206]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244442
-[207]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244445
-[208]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244448
-[209]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244449
-[210]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244451
-[211]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244456
-[212]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244458
-[213]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244460
-[214]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244464
-[215]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244465
-[216]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244468
-[217]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244478
-[218]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244481
-[219]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244483
-[220]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244486
-[221]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244488
-[222]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244490
-[223]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244612
-[224]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244613
-[225]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058121
-[226]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM94263
-[227]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35085
-[228]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35057
-[229]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3717
-[230]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147653
-[231]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243281
-[232]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3359902
-[233]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230238
-[234]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427915
-[235]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35058
-[236]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35059
-[237]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133281
-[238]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133619
-[239]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM134169
-[240]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35062
-[241]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293788
-[242]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2753102
-[243]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM201378
-[244]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367228
-[245]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293789
-[246]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35063
-[247]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058113
-[248]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM15636
-[249]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM81032
-[250]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293791
-[251]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167443
-[252]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM377056
-[253]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM378303
-[254]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404764
-[255]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404765
-[256]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155048
-[257]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404766
-[258]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155091
-[259]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35066
-[260]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427916
-[261]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133630
-[262]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM62319
-[263]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM297118
-[264]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM296556
-[265]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM294857
-[266]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147094
-[267]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1102349
-[268]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM201376
-[269]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1888329
-[270]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM297136
-[271]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM53347
-[272]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313782
-[273]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058115
-[274]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313791
-[275]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313795
-[276]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313798
-[277]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM314005
-[278]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404767
-[279]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2997643
-[280]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998573
-[281]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998633
-[282]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293792
-[283]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404768
-[284]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929743
-[285]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367235
-[286]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929744
-[287]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259681
-[288]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929745
-[289]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556502
-[290]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1351225
-[291]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35049
-[292]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2136818
-[293]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4355802
-[294]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2136830
-[295]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2137125
-[296]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427917
-[297]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427918
-[298]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM314306
-[299]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230243
-[300]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230244
-[301]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM260550
-[302]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM969644
-[303]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367767
-[304]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230245
-[305]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM372510
-[306]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM145728
-[307]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM392884
-[308]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230248
-[309]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230259
-[310]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230249
-[311]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259682
-[312]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230250
-[313]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259683
-[314]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM434495
-[315]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230251
-[316]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM396805
-[317]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM333795
-[318]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM392622
-[319]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM434497
-[320]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427919
-[321]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259684
-[322]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1319700
-[323]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63966
-[324]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3738607
-[325]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63967
-[326]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM408384
-[327]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1463527
-[328]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167896
-[329]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM71806
-[330]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147379
-[331]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM75961
-[332]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259685
-[333]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM5621707
-[334]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226380
-[335]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155160
-[336]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM42088
-[337]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155162
-[338]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM19364
-[339]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3360288
-[340]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM68901
-[341]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM68931
-[342]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312264
-[343]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM122235
-[344]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371867
-[345]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058103
-[346]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM69643
-[347]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4869225
-[348]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41401
-[349]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41403
-[350]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM99493
-[351]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM359106
-[352]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM311866
-[353]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM39728
-[354]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM104117
-[355]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM429013
-[356]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371868
-[357]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM426000
-[358]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM39722
-[359]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM361558
-[360]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM361553
-[361]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM364809
-[362]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM364489
-[363]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312591
-[364]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41253
-[365]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371217
-[366]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312596
-[367]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41255
-[368]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM310742
-[369]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM253150
-[370]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM356984
-[371]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3180387
-[372]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41257
-[373]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM257707
-[374]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM288685
-[375]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3180446
-[376]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312616
-[377]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41277
-[378]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058105
-[379]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312627
-[380]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41279
-[381]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM366271
-[382]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM99003
-[383]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371869
-[384]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41261
-[385]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312653
-[386]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM135593
-[387]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM135591
-[388]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41405
-[389]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM137267
-[390]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058106
-[391]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058108
-[392]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM73104
-[393]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41411
-[394]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371871
-[395]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM19365
-[396]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM205305
-[397]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM386412
-[398]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM321901
-[399]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM321902
-[400]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM387857
-[401]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM328327
-[402]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM261024
-[403]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM98437
-[404]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM269031
-[405]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM294848
-[406]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM262646
-[407]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230253
-[408]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63969
-[409]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113904
-[410]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM160808
-[411]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM163167
-[412]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM163175
-[413]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35084
-[414]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230254
-[415]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230255
-[416]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293794
-[417]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM146601
-[418]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM32228
-[419]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230256
-[420]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259686
-[421]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929819
-[422]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM32229
-[423]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929820
-[424]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113905
-[425]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1379112
-[426]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113906
-[427]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243270
-[428]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243274
-[429]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243295
-[430]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM221398
-[431]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226376
-[432]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM239781
-[433]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226374
-[434]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1379103
-[435]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1434900
-[436]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929702
-[437]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4116400
-[438]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998516
-[439]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998515
-[440]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998532
-[441]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[442]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM5621700
-[443]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058109
-[444]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3865810
-[445]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2836314
-[446]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2753103
-[447]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1380048
-[448]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1380050
-[449]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1378602
-[450]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404757
-[451]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371860
-[452]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293782
-[453]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167890
-[454]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113398
-[455]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM19358
-[456]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427909
-[457]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371234
-[458]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259674
-[459]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230232
-[460]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM81026
-[461]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35051
-[462]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3716
+[135]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6084941
+[136]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243940
+[137]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243941
+[138]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243942
+[139]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243943
+[140]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243945
+[141]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243947
+[142]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243948
+[143]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243950
+[144]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243954
+[145]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243960
+[146]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243962
+[147]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6084959
+[148]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6084962
+[149]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6084963
+[150]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243964
+[151]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243965
+[152]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243980
+[153]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243984
+[154]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243986
+[155]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243993
+[156]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243995
+[157]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM243997
+[158]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244309
+[159]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244311
+[160]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244312
+[161]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244315
+[162]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244316
+[163]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6085527
+[164]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6085528
+[165]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244325
+[166]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244329
+[167]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244334
+[168]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244335
+[169]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244340
+[170]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244342
+[171]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244343
+[172]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244346
+[173]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244347
+[174]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244348
+[175]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244349
+[176]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244353
+[177]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6085578
+[178]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244355
+[179]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244356
+[180]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244358
+[181]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244360
+[182]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244363
+[183]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244364
+[184]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244365
+[185]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244371
+[186]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244372
+[187]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244375
+[188]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244376
+[189]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244381
+[190]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244383
+[191]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244384
+[192]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244385
+[193]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244388
+[194]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244391
+[195]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244395
+[196]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244396
+[197]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244397
+[198]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244399
+[199]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244400
+[200]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244402
+[201]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244406
+[202]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244408
+[203]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6086402
+[204]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6086403
+[205]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6086412
+[206]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244411
+[207]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244412
+[208]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244413
+[209]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244420
+[210]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244423
+[211]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244424
+[212]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244430
+[213]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244431
+[214]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244436
+[215]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244437
+[216]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244442
+[217]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244445
+[218]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244448
+[219]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244449
+[220]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244451
+[221]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244456
+[222]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244458
+[223]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244460
+[224]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244464
+[225]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244465
+[226]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244468
+[227]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244478
+[228]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM6086446
+[229]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244481
+[230]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244483
+[231]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244486
+[232]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244488
+[233]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244490
+[234]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244612
+[235]: http://www.legislation.govt.nz/act/public/1947/0016/latest/whole.html#DLM244613
+[236]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058121
+[237]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM94263
+[238]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35085
+[239]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35057
+[240]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3717
+[241]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1102132
+[242]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147653
+[243]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3359902
+[244]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230238
+[245]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427915
+[246]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929734
+[247]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35058
+[248]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35059
+[249]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133281
+[250]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133619
+[251]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM134169
+[252]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35062
+[253]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293788
+[254]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2753102
+[255]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM201378
+[256]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367228
+[257]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293789
+[258]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35063
+[259]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058113
+[260]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM15636
+[261]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM81032
+[262]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293791
+[263]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167443
+[264]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM377056
+[265]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM378303
+[266]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404764
+[267]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404765
+[268]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155048
+[269]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404766
+[270]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM155091
+[271]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35066
+[272]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427916
+[273]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133630
+[274]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM62319
+[275]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM297118
+[276]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM296556
+[277]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM294857
+[278]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147094
+[279]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1102349
+[280]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM201376
+[281]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1888329
+[282]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM297136
+[283]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM53347
+[284]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313782
+[285]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058115
+[286]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313791
+[287]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313795
+[288]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM313798
+[289]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM314005
+[290]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404767
+[291]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2997643
+[292]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998573
+[293]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998633
+[294]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293792
+[295]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404768
+[296]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929743
+[297]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367235
+[298]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929744
+[299]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259681
+[300]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929745
+[301]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556502
+[302]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1351225
+[303]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35049
+[304]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2136818
+[305]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4355802
+[306]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2136830
+[307]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2137125
+[308]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427917
+[309]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427918
+[310]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM314306
+[311]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230243
+[312]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230244
+[313]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM260550
+[314]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM969644
+[315]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM367767
+[316]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230245
+[317]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM372510
+[318]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM145728
+[319]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM392884
+[320]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230248
+[321]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230259
+[322]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230249
+[323]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259682
+[324]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230250
+[325]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259683
+[326]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM434495
+[327]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230251
+[328]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM396805
+[329]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM333795
+[330]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM392622
+[331]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM434497
+[332]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427919
+[333]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259684
+[334]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1319700
+[335]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63966
+[336]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3738607
+[337]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63967
+[338]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM408384
+[339]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929746
+[340]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1463527
+[341]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167896
+[342]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM71806
+[343]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM147379
+[344]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM133657
+[345]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM95580
+[346]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929747
+[347]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM75961
+[348]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259685
+[349]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929748
+[350]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM5621707
+[351]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226380
+[352]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929750
+[353]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929752
+[354]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3360288
+[355]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM68901
+[356]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM68931
+[357]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM99493
+[358]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM359106
+[359]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM311866
+[360]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM39728
+[361]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM122235
+[362]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929765
+[363]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM104117
+[364]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM429013
+[365]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371868
+[366]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM426000
+[367]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929768
+[368]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM39722
+[369]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM310742
+[370]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM364489
+[371]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM253150
+[372]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM348342
+[373]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM364809
+[374]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1512300
+[375]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41257
+[376]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929772
+[377]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312616
+[378]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41277
+[379]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929777
+[380]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556507
+[381]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312627
+[382]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41279
+[383]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM366271
+[384]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM99003
+[385]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929778
+[386]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929779
+[387]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM312653
+[388]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929781
+[389]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM135593
+[390]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556509
+[391]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM73104
+[392]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM41411
+[393]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371871
+[394]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM137267
+[395]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929783
+[396]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929784
+[397]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929786
+[398]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM19365
+[399]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929787
+[400]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929788
+[401]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929789
+[402]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM205305
+[403]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929790
+[404]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM386412
+[405]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM321901
+[406]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM321902
+[407]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929791
+[408]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM387857
+[409]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM328327
+[410]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929792
+[411]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM45599
+[412]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556513
+[413]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929793
+[414]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929794
+[415]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929795
+[416]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM261024
+[417]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM98437
+[418]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM269031
+[419]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM294848
+[420]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929796
+[421]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM262646
+[422]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929797
+[423]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230253
+[424]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM63969
+[425]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113904
+[426]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM160808
+[427]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM163167
+[428]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM163175
+[429]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35084
+[430]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929818
+[431]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230255
+[432]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293794
+[433]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM146601
+[434]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM32228
+[435]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230256
+[436]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259686
+[437]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929819
+[438]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM32229
+[439]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929820
+[440]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113905
+[441]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1379112
+[442]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3556525
+[443]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113906
+[444]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM221398
+[445]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226376
+[446]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM239781
+[447]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM226374
+[448]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1379103
+[449]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1434900
+[450]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2929702
+[451]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4116400
+[452]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM5637209
+[453]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998516
+[454]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998515
+[455]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2998532
+[456]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[457]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM5621700
+[458]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM4058109
+[459]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3865810
+[460]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3180446
+[461]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2836314
+[462]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM2753103
+[463]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1380048
+[464]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1380050
+[465]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM1378602
+[466]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM404757
+[467]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371860
+[468]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM293782
+[469]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM167890
+[470]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM113398
+[471]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM19358
+[472]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM427909
+[473]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM371234
+[474]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM259674
+[475]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM230232
+[476]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM81026
+[477]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM35051
+[478]: http://www.legislation.govt.nz/act/public/1947/0016/latest/link.aspx?id=DLM3716
