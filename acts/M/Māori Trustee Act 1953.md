@@ -9,13 +9,11 @@ Date of assent26 November 1953
 
 Commencementsee section 1(2)
 
-*   Act name: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-
 ---
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
@@ -25,212 +23,212 @@ This Act is administered by Te Puni Kōkiri.
 
 ## Contents
 
-[Title][2]
+[Title][1]
 
-[1][3][][3][Short Title and commencement][3]
+[1][2][][2][Short Title and commencement][2]
 
-[2][4][][4][Interpretation][4]
+[2][3][][3][Interpretation][3]
 
-[Māori Trustee established][5]
+[Māori Trustee established][4]
 
-[3][6][][6][Māori Trustee established][6]
+[3][5][][5][Māori Trustee established][5]
 
-[Capacity, powers, and status of Māori Trustee][7]
+[Capacity, powers, and status of Māori Trustee][6]
 
-[4][8][][8][Capacity and powers of Māori Trustee][8]
+[4][7][][7][Capacity and powers of Māori Trustee][7]
 
-[5][9][][9][Independence of Māori Trustee][9]
+[5][8][][8][Independence of Māori Trustee][8]
 
-[Provisions relating to appointment of Māori Trustee][10]
+[Provisions relating to appointment of Māori Trustee][9]
 
-[6][11][][11][Appointment of Māori Trustee][11]
+[6][10][][10][Appointment of Māori Trustee][10]
 
-[6A][12][][12][Continuation of appointment][12]
+[6A][11][][11][Continuation of appointment][11]
 
-[6B][13][][13][Termination of appointment of Māori Trustee][13]
+[6B][12][][12][Termination of appointment of Māori Trustee][12]
 
-[Appointments by Māori Trustee][14]
+[Appointments by Māori Trustee][13]
 
-[6C][15][][15][Deputy Māori Trustee][15]
+[6C][14][][14][Deputy Māori Trustee][14]
 
-[6D][16][][16][Other employees][16]
+[6D][15][][15][Other employees][15]
 
-[Delegation][17]
+[Delegation][16]
 
-[6E][18][][18][Delegation by Māori Trustee][18]
+[6E][17][][17][Delegation by Māori Trustee][17]
 
-[Further provisions relating to powers and functions of Māori Trustee][19]
+[Further provisions relating to powers and functions of Māori Trustee][18]
 
-[7][20][][20][Judicial notice of appointment of Māori Trustee, etc][20]
+[7][19][][19][Judicial notice of appointment of Māori Trustee, etc][19]
 
-[8][21][][21][Contracts of Māori Trustee][21]
+[8][20][][20][Contracts of Māori Trustee][20]
 
-[9][22][][22][Delegation of powers of Māori Trustee][22]
+[9][21][][21][Delegation of powers of Māori Trustee][21]
 
-[10][23][][23][Authorised officer may make declaration on behalf of Māori Trustee][23]
+[10][22][][22][Authorised officer may make declaration on behalf of Māori Trustee][22]
 
-[11][24][][24][Māori Trustee may accept special trusts][24]
+[11][23][][23][Māori Trustee may accept special trusts][23]
 
-[12][25][][25][Pending grant of probate or administration, Māori Trustee may administer estates of deceased Maoris][25]
+[12][24][][24][Pending grant of probate or administration, Māori Trustee may administer estates of deceased Maoris][24]
 
-[12A][26][][26][Power of Māori Trustee to elect to administer small estates without grant of administration][26]
+[12A][25][][25][Power of Māori Trustee to elect to administer small estates without grant of administration][25]
 
-[12B][27][][27][Elections in respect of unadministered balance of an estate][27]
+[12B][26][][26][Elections in respect of unadministered balance of an estate][26]
 
-[12BA][28][][28][Court fees payable on elections, etc][28]
+[12BA][27][][27][Court fees payable on elections, etc][27]
 
-[12C][29][][29][Intestate estates][29]
+[12C][28][][28][Intestate estates][28]
 
-[12D][30][][30][Application for probate in testate estates][30]
+[12D][29][][29][Application for probate in testate estates][29]
 
-[12DA][31][][31][Appointment of Māori Trustee by executors, administrators, and trustees][31]
+[12DA][30][][30][Appointment of Māori Trustee by executors, administrators, and trustees][30]
 
-[12E][32][][32][Place of application][32]
+[12E][31][][31][Place of application][31]
 
-[13][33][][33][General authority for Māori Trustee to act as agent or trustee or in other representative capacity][33]
+[13][32][][32][General authority for Māori Trustee to act as agent or trustee or in other representative capacity][32]
 
-[13A][34][][34][Māori Trustee not required to give bond][34]
+[13A][33][][33][Māori Trustee not required to give bond][33]
 
-[13B][35][][35][Māori Trustee may enter into joint ventures][35]
+[13B][34][][34][Māori Trustee may enter into joint ventures][34]
 
-[14][36][][36][Māori Trustee may use revenues of land administered by him in acquisition of other land required for incidental purposes][36]
+[14][35][][35][Māori Trustee may use revenues of land administered by him in acquisition of other land required for incidental purposes][35]
 
-[14A][37][][37][Māori Trustee may recognise committee of beneficial owners][37]
+[14A][36][][36][Māori Trustee may recognise committee of beneficial owners][36]
 
-[15][38][][38][Māori Trustee may grant easements over land administered by him][38]
+[15][37][][37][Māori Trustee may grant easements over land administered by him][37]
 
-[16][39][][39][Māori Trustee may sell personal property][39]
+[16][38][][38][Māori Trustee may sell personal property][38]
 
-[16A][40][][40][Payment of claims when assets insufficient][40] \[Repealed\]
+[16A][39][][39][Payment of claims when assets insufficient][39] \[Repealed\]
 
-[Māori Trustee's Account][41]
+[Māori Trustee's Account][40]
 
-[17][42][][42][Māori Trustee's Account][42]
+[17][41][][41][Māori Trustee's Account][41]
 
-[18][43][][43][Branch accounts][43] \[Repealed\]
+[18][42][][42][Branch accounts][42] \[Repealed\]
 
-[19][44][][44][Cheques drawn on Maori Trustee's Account][44] \[Repealed\]
+[19][43][][43][Cheques drawn on Maori Trustee's Account][43] \[Repealed\]
 
-[20][45][][45][Cheques drawn on branch account][45] \[Repealed\]
+[20][44][][44][Cheques drawn on branch account][44] \[Repealed\]
 
-[21][46][][46][Authority to sign cheques or other instruments][46] \[Repealed\]
+[21][45][][45][Authority to sign cheques or other instruments][45] \[Repealed\]
 
-[22][47][][47][Other accounts][47]
+[22][46][][46][Other accounts][46]
 
-[Separate funds within Māori Trustee's Account][48]
+[Separate funds within Māori Trustee's Account][47]
 
-[23][49][][49][Accounts within the Māori Trustee's Account][49]
+[23][48][][48][Accounts within the Māori Trustee's Account][48]
 
-[Special investment accounts][50]
+[Special investment accounts][49]
 
-[24][51][][51][Māori Trustee may receive moneys for investment otherwise than in Common Fund][51]
+[24][50][][50][Māori Trustee may receive moneys for investment otherwise than in Common Fund][50]
 
-[24A][52][][52][Māori Trustee may borrow money][52]
+[24A][51][][51][Māori Trustee may borrow money][51]
 
-[Common Fund][53]
+[Common Fund][52]
 
-[25][54][][54][Deposits in Common Fund][54]
+[25][53][][53][Deposits in Common Fund][53]
 
-[26][55][][55][Money held in Common Fund invested in Fund][55]
+[26][54][][54][Money held in Common Fund invested in Fund][54]
 
-[26A][56][][56][Management fees][56]
+[26A][55][][55][Management fees][55]
 
-[26B][57][][57][Disclosure requirements][57]
+[26B][56][][56][Disclosure requirements][56]
 
-[27][58][][58][Guarantee of Common Fund][58]
+[27][57][][57][Guarantee of Common Fund][57]
 
-[28][59][][59][Investment of Common Fund][59]
+[28][58][][58][Investment of Common Fund][58]
 
-[29][60][][60][Margin of security][60]
+[29][59][][59][Margin of security][59]
 
-[30][61][][61][Unclaimed moneys in Common Fund][61]
+[30][60][][60][Unclaimed moneys in Common Fund][60]
 
-[30A][62][][62][Unclaimed agency money][62]
+[30A][61][][61][Unclaimed agency money][61]
 
-[General Purposes Fund][63]
+[General Purposes Fund][62]
 
-[31][64][][64][Investment of moneys in General Purposes Fund][64]
+[31][63][][63][Investment of moneys in General Purposes Fund][63]
 
-[32][65][][65][Special purposes for which moneys in General Purposes Fund may be used][65]
+[32][64][][64][Special purposes for which moneys in General Purposes Fund may be used][64]
 
-[32A][66][][66][Guarantees and indemnities][66]
+[32A][65][][65][Guarantees and indemnities][65]
 
-[33][67][][67][Authorising establishment and maintenance of Maori hostels out of General Purposes Fund][67]
+[33][66][][66][Authorising establishment and maintenance of Maori hostels out of General Purposes Fund][66]
 
-[34][68][][68][Assurance Fund][68] \[Repealed\]
+[34][67][][67][Assurance Fund][67] \[Repealed\]
 
-[35][69][][69][Limited authority to make donations out of General Purposes Fund for philanthropic or other purposes][69] \[Repealed\]
+[35][68][][68][Limited authority to make donations out of General Purposes Fund for philanthropic or other purposes][68] \[Repealed\]
 
-[36][70][][70][Acquisition, use, and disposal of buildings][70]
+[36][69][][69][Acquisition, use, and disposal of buildings][69]
 
-[37][71][][71][Māori Trustee may provide housing accommodation for officers of department][71]
+[37][70][][70][Māori Trustee may provide housing accommodation for officers of department][70]
 
-[38][72][][72][Māori Trustee may apply money in General Purposes Fund for purposes of property vested in or controlled by him][72]
+[38][71][][71][Māori Trustee may apply money in General Purposes Fund for purposes of property vested in or controlled by him][71]
 
-[39][73][][73][Māori Trustee may acquire land on behalf of Maoris][73]
+[39][72][][72][Māori Trustee may acquire land on behalf of Maoris][72]
 
-[40][74][][74][Māori Trustee may acquire land to provide sites for Maori dwellings][74]
+[40][73][][73][Māori Trustee may acquire land to provide sites for Maori dwellings][73]
 
-[41][75][][75][Contribution to Crown Bank Account towards expenses of Maori Trust Office][75] \[Repealed\]
+[41][74][][74][Contribution to Crown Bank Account towards expenses of Maori Trust Office][74] \[Repealed\]
 
-[41A][76][][76][Reserved and Vested Land Purchase Fund][76] \[Repealed\]
+[41A][75][][75][Reserved and Vested Land Purchase Fund][75] \[Repealed\]
 
-[41B][77][][77][Payments out of Purchase Fund][77] \[Repealed\]
+[41B][76][][76][Payments out of Purchase Fund][76] \[Repealed\]
 
-[41C][78][][78][Maori Trustee may purchase interests in reserved land and vested land][78] \[Repealed\]
+[41C][77][][77][Maori Trustee may purchase interests in reserved land and vested land][77] \[Repealed\]
 
-[41D][79][][79][Maori Trustee may acquire uneconomic interests in reserved land and vested land][79] \[Repealed\]
+[41D][78][][78][Maori Trustee may acquire uneconomic interests in reserved land and vested land][78] \[Repealed\]
 
-[41E][80][][80][Disposition of interests acquired][80] \[Repealed\]
+[41E][79][][79][Disposition of interests acquired][79] \[Repealed\]
 
-[41F][81][][81][Exemption from stamp duty][81] \[Repealed\]
+[41F][80][][80][Exemption from stamp duty][80] \[Repealed\]
 
-[Miscellaneous provisions][82]
+[Miscellaneous provisions][81]
 
-[42][83][][83][Māori Trustee may accept chattel security, etc][83]
+[42][82][][82][Māori Trustee may accept chattel security, etc][82]
 
-[43][84][][84][Assignment of rents to Māori Trustee][84]
+[43][83][][83][Assignment of rents to Māori Trustee][83]
 
-[44][85][][85][Māori Trustee may apply moneys held by him on behalf of Maori in satisfaction of moneys payable to Māori Trustee by that Maori][85]
+[44][84][][84][Māori Trustee may apply moneys held by him on behalf of Maori in satisfaction of moneys payable to Māori Trustee by that Maori][84]
 
-[45][86][][86][Māori Trustee may accept payment and give discharge for moneys payable to Maoris][86]
+[45][85][][85][Māori Trustee may accept payment and give discharge for moneys payable to Maoris][85]
 
-[45A][87][][87][Payment to Māori Trustee of proceeds of Maori land held for 6 years or more][87]
+[45A][86][][86][Payment to Māori Trustee of proceeds of Maori land held for 6 years or more][86]
 
-[46][88][][88][Court may direct that rents in respect of Maori land be paid to Māori Trustee][88]
+[46][87][][87][Court may direct that rents in respect of Maori land be paid to Māori Trustee][87]
 
-[46A][89][][89][Māori Trustee not obliged to act on orders for payment][89]
+[46A][88][][88][Māori Trustee not obliged to act on orders for payment][88]
 
-[46B][90][][90][Assignment of money in hands of Māori Trustee][90]
+[46B][89][][89][Assignment of money in hands of Māori Trustee][89]
 
-[46C][91][][91][Power of Māori Trustee to make small payments without order][91]
+[46C][90][][90][Power of Māori Trustee to make small payments without order][90]
 
-[46D][92][][92][Disposition of small sums held for beneficiaries][92] \[Repealed\]
+[46D][91][][91][Disposition of small sums held for beneficiaries][91] \[Repealed\]
 
-[47][93][][93][Court may direct payment to Maori Trustee of compensation for land taken under Part 4 of Public Works Act 1928][93] \[Repealed\]
+[47][92][][92][Court may direct payment to Maori Trustee of compensation for land taken under Part 4 of Public Works Act 1928][92] \[Repealed\]
 
-[48][94][][94][Māori Trustee may charge commission in respect of his services][94]
+[48][93][][93][Māori Trustee may charge commission in respect of his services][93]
 
-[48A][95][][95][Māori Trustee may bar small claims][95]
+[48A][94][][94][Māori Trustee may bar small claims][94]
 
-[49][96][][96][Māori Trustee may register memorial of charge against land][96]
+[49][95][][95][Māori Trustee may register memorial of charge against land][95]
 
-[50][97][][97][Memorandum of extension of lease][97]
+[50][96][][96][Memorandum of extension of lease][96]
 
-[51][98][][98][Maori Trustee to furnish annual balance sheet][98] \[Repealed\]
+[51][97][][97][Maori Trustee to furnish annual balance sheet][97] \[Repealed\]
 
-[52][99][][99][Regulations][99]
+[52][98][][98][Regulations][98]
 
-[53][100][][100][Repeals and savings][100] \[Repealed\]
+[53][99][][99][Repeals and savings][99] \[Repealed\]
 
-[Schedule][101]  
-[Enactments repealed][101]
+[Schedule][100]  
+[Enactments repealed][100]
 
 ---
 
 An Act to consolidate and amend certain provisions of the law relating to the Māori Trustee
     
-*   Title: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Title: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 1 Short Title and commencement
     
@@ -238,7 +236,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (2) This Act shall come into force on 1 April 1954\.
     
-    Section 1(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 1(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 2 Interpretation
     
@@ -248,27 +246,27 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (3) Without limiting subsection (1), in this Act, unless the context otherwise requires,---
     
-    _Appropriation Account_ means the account provided for under [section 23][49]
+    _Appropriation Account_ means the account provided for under [section 23][48]
     
-    _Common Fund_ means the separate fund authorised by [section 23(1)(b)][49]
+    _Common Fund_ means the separate fund authorised by [section 23(1)(b)][48]
     
-    _General Purposes Fund_ means the separate fund authorised by [section 23(1)(c)][49]
+    _General Purposes Fund_ means the separate fund authorised by [section 23(1)(c)][48]
     
     _Māori Trustee_---
         
-    *   (a) means the Māori Trustee established by [section 3][6]; and
+    *   (a) means the Māori Trustee established by [section 3][5]; and
     
     *   (b) includes, as the context requires, the Māori Trustee who---
             
-        *   (i) is appointed under [section 6][11]; or
+        *   (i) is appointed under [section 6][10]; or
         
-        *   (ii) continues to hold office under [section 6A][12].
+        *   (ii) continues to hold office under [section 6A][11].
         
         
     
     Section 2 heading: replaced, on 1 July 2009, by [section 4(1)][102] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 2(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 2(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 2(3): inserted, on 1 July 2009, by [section 4(2)][102] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -338,7 +336,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
         
         *   (ii) the person's successor is appointed; or
         
-        *   (iii) the person ceases to be the Māori Trustee in a circumstance provided for in [section 6B][13].
+        *   (iii) the person ceases to be the Māori Trustee in a circumstance provided for in [section 6B][12].
         
         
     
@@ -346,7 +344,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 
 ##### 6A Continuation of appointment
     
-*   Despite [section 6][11], the person holding office as the Maori Trustee immediately before the commencement of the [Māori Trustee Amendment Act 2009][104] is the Māori Trustee within the meaning of this Act and may hold that office for a period of up to 5 years from the commencement of the Māori Trustee Amendment Act 2009, as may be determined by the Minister and notified in accordance with [section 6(3)][11].
+*   Despite [section 6][10], the person holding office as the Maori Trustee immediately before the commencement of the [Māori Trustee Amendment Act 2009][104] is the Māori Trustee within the meaning of this Act and may hold that office for a period of up to 5 years from the commencement of the Māori Trustee Amendment Act 2009, as may be determined by the Minister and notified in accordance with [section 6(3)][10].
     
     Section 6A: inserted, on 1 July 2009, by [section 5][103] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -454,9 +452,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 7
     
-    Section 7 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 7 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 7: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 7: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 8 Contracts of Māori Trustee
     
@@ -468,13 +466,13 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 8
     
-    Section 8 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 8 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 8(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 8(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 8(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 8(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 8(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 8(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 9 Delegation of powers of Māori Trustee
     
@@ -494,25 +492,25 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1945 No 42 [s 3][106]; 1952 No 9 s 12
     
-    Section 9 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(1): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(1): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 9(7): inserted, on 14 December 1976, by [section 22][107] of the Maori Purposes Act 1976 (1976 No 148).
     
-    Section 9(7): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(7): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 10 Authorised officer may make declaration on behalf of Māori Trustee
     
@@ -524,17 +522,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 9(1)
     
-    Section 10 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 10(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 10(1): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10(1): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 10(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 10(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 10(3): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 10(3): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 11 Māori Trustee may accept special trusts
     
@@ -550,17 +548,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 15
     
-    Section 11 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 11(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 11(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 11(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 11(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 11(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 11(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 11(5): amended, on 10 October 1975, by [section 16(1)][108] of the Maori Purposes Act 1975 (1975 No 135).
 
@@ -588,39 +586,39 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 18
     
-    Section 12 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12(1): replaced, on 24 October 1969, by [section 10][109] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 12(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12(1) first proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(1) first proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12(1) first proviso: amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12(1) second proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(1) second proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12(1) second proviso: amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 12(2): replaced, on 24 October 1969, by [section 10][109] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 12(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12(2A): inserted, on 24 October 1969, by [section 10][109] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 12(2A): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(2A): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12(2B): inserted, on 24 October 1969, by [section 10][109] of the Maori Purposes Act 1969 (1969 No 127).
     
     Section 12(2C): inserted, on 24 October 1969, by [section 10][109] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 12(2C): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(2C): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 12A Power of Māori Trustee to elect to administer small estates without grant of administration
     
@@ -640,25 +638,25 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12A: inserted, on 1 April 1968, by section 148(1) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 12A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12A(1): amended, on 4 December 1982, by [section 15(1)(a)][112] of the Maori Purposes Act 1982 (1982 No 124).
     
     Section 12A(1): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12A(5): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12A(6): amended, on 4 December 1982, by [section 15(1)(b)][112] of the Maori Purposes Act 1982 (1982 No 124).
     
@@ -676,15 +674,15 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12B: inserted, on 1 April 1968, by section 148(1) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 12B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12B(1): amended, on 4 December 1982, by [section 16(1)(a)][114] of the Maori Purposes Act 1982 (1982 No 124).
     
     Section 12B(1): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12B(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12B(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12B(3): amended, on 4 December 1982, by [section 16(1)(b)][114] of the Maori Purposes Act 1982 (1982 No 124).
     
@@ -692,7 +690,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 
 ##### 12BA Court fees payable on elections, etc
     
-*   (1) The fee payable to the Registrar of the High Court for the filing of any election under [section 12A][26] or [section 12B][27] shall be such as may from time to time be prescribed by regulations made under this Act.
+*   (1) The fee payable to the Registrar of the High Court for the filing of any election under [section 12A][25] or [section 12B][26] shall be such as may from time to time be prescribed by regulations made under this Act.
     
     (2) A copy of any such election certified as a correct copy under the seal of the High Court shall be equivalent to an exemplification of that election for all purposes, and the only fee payable in respect thereof shall be a sealing fee of such amount as may from time to time be prescribed by regulations made under this Act.
     
@@ -710,11 +708,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12C: inserted, on 1 April 1968, by section 148(1) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 12C(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12C(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12C(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12C(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12C(2) second proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12C(2) second proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 12D Application for probate in testate estates
     
@@ -734,19 +732,19 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12D: inserted, on 1 April 1968, by section 148(1) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 12D(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12D(1): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12D(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12D(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12D(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12D(5)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(5)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12D(5)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12D(5)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 12DA Appointment of Māori Trustee by executors, administrators, and trustees
     
@@ -764,17 +762,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12DA: inserted, on 20 June 1991, by section 2 of the Maori Trustee Amendment Act 1991 (1991 No 41).
     
-    Section 12DA heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12DA(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12DA(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12DA(1)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA(1)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12DA(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 12DA(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12DA(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12DA(3): amended, on 1 March 2002, pursuant to [section 152(1)][115] of the Public Trust Act 2001 (2001 No 100).
 
@@ -784,7 +782,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 12E: inserted, on 1 April 1968, by section 148(1) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 12E: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 12E: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 12E: amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -800,15 +798,15 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 ss 19, 23
     
-    Section 13 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 13(4): amended, on 1 April 1968, by section 89(2) of the Maori Affairs Amendment Act 1967 (1967 No 124).
 
@@ -818,9 +816,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 13A: inserted, on 1 April 1968, by section 148(2) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 13A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13A: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13A: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 13B Māori Trustee may enter into joint ventures
     
@@ -836,17 +834,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 13B: inserted, on 20 June 1991, by section 3 of the Maori Trustee Amendment Act 1991 (1991 No 41).
     
-    Section 13B heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13B(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13B(2)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B(2)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 13B(2)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 13B(2)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 14 Māori Trustee may use revenues of land administered by him in acquisition of other land required for incidental purposes
     
@@ -858,21 +856,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (4) Except as provided in subsection (3), all land acquired by the Māori Trustee pursuant to this section shall be held by him on the trusts for which he holds the land for the benefit of which the first-mentioned land was acquired.
     
-    (5) If the revenues available for the acquisition of any land pursuant to this section are not sufficient for the purpose, the Māori Trustee may, in accordance with the provisions of [section 38][72], advance the amount required out of the General Purposes Fund of the Māori Trustee's Account.
+    (5) If the revenues available for the acquisition of any land pursuant to this section are not sufficient for the purpose, the Māori Trustee may, in accordance with the provisions of [section 38][71], advance the amount required out of the General Purposes Fund of the Māori Trustee's Account.
     
     Compare: 1930 No 33 s 20
     
-    Section 14 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 14A Māori Trustee may recognise committee of beneficial owners
     
@@ -896,35 +894,35 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 14A: inserted, on 27 November 1970, by [section 16][118] of the Maori Purposes Act 1970 (1970 No 120).
     
-    Section 14A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 14A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 14A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 15 Māori Trustee may grant easements over land administered by him
     
-*   (1) Where any land is vested in or administered by the Māori Trustee in any manner referred to in [section 14][36] he may, if he thinks fit, from time to time grant rights of way or other easements over the land, or dedicate any part thereof for the purposes of a road or street, as if he were the absolute owner thereof, and, with the approval of the court, may sell any such land or may exchange any part thereof for any other land.
+*   (1) Where any land is vested in or administered by the Māori Trustee in any manner referred to in [section 14][35] he may, if he thinks fit, from time to time grant rights of way or other easements over the land, or dedicate any part thereof for the purposes of a road or street, as if he were the absolute owner thereof, and, with the approval of the court, may sell any such land or may exchange any part thereof for any other land.
     
     (2) The powers conferred by this section are in addition to any powers conferred on the Māori Trustee by the Act or by the deed, will, or other instrument by which the land or the control thereof is vested in or conferred on the Māori Trustee and, with the approval of the court, may be exercised notwithstanding any prohibitions or restrictions imposed by any such Act or instrument.
     
     (3) All moneys received by the Māori Trustee as purchase money, compensation, or otherwise in respect of the exercise by him of any powers conferred by this section shall be held by him as if they were revenues derived from the land administered by him as aforesaid.
     
-    Section 15 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 15 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 15(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 15(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 15(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 15(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 15(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 15(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 16 Māori Trustee may sell personal property
     
@@ -932,9 +930,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 24
     
-    Section 16 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 16 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 16: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 16: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 16A Payment of claims when assets insufficient
     
@@ -944,7 +942,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 
 #### Māori Trustee's Account
     
-*   Heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 17 Māori Trustee's Account
     
@@ -960,7 +958,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     *   (c) for the purposes to or for which moneys in the Māori Trustee's Common Fund or in any Special Investment Account are expended, invested, or applied:
     
-    *   (d) for the purposes of paragraphs (a) and (b) of subsection (1) of [section 32][65], [sections 34][68], [38][72], [39][73], [40][74], and [44][85].
+    *   (d) for the purposes of paragraphs (a) and (b) of subsection (1) of [section 32][64], [sections 34][67], [38][71], [39][72], [40][73], and [44][84].
     
     *   (e) \[Repealed\]
     
@@ -970,19 +968,19 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 40(1), (3)
     
-    Section 17 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 17 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 17(1): replaced, on 4 December 1982, by [section 17(1)][120] of the Maori Purposes Act 1982 (1982 No 124).
     
-    Section 17(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 17(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 17(2): repealed, on 1 July 1989, by [section 86(1)][121] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 17(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 17(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 17(3): amended, on 1 July 1989, by [section 86(1)][121] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 17(3)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 17(3)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 17(3)(e): repealed, on 1 December 1961, by [section 16(3)][122] of the Maori Purposes Act 1961 (1961 No 129).
     
@@ -1018,21 +1016,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
 *   (1) The Māori Trustee may, as and when he thinks fit to do so, open and keep at any bank or banks approved by the Minister of Finance, or at any branches or agencies of any such bank or banks, such other accounts (including imprest and subsidiary accounts) as he considers necessary or desirable for the exercise of his functions and powers.
     
-    (2) [Sections 19][44] and [21][46], with any necessary modifications, shall apply in respect of any account opened and kept under this section.
+    (2) [Sections 19][43] and [21][45], with any necessary modifications, shall apply in respect of any account opened and kept under this section.
     
     Section 22: replaced, on 4 December 1982, by [section 18][127] of the Maori Purposes Act 1982 (1982 No 124).
     
-    Section 22(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 22(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### Separate funds within Māori Trustee's Account
     
-*   Heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 23 Accounts within the Māori Trustee's Account
     
 *   (1) The Māori Trustee's Account shall comprise the following separate funds or accounts, namely:
         
-    *   (a) such Special Investment Accounts as may be required for the purposes of [section 24][51]:
+    *   (a) such Special Investment Accounts as may be required for the purposes of [section 24][50]:
     
     *   (b) the Common Fund:
     
@@ -1048,7 +1046,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     *   (h) the Appropriation Account.
     
-    (2) All moneys received by the Māori Trustee for investment pursuant to [section 24][51] shall be credited to a Special Investment Account in the name of the person or body for whose benefit the moneys are received for investment.
+    (2) All moneys received by the Māori Trustee for investment pursuant to [section 24][50] shall be credited to a Special Investment Account in the name of the person or body for whose benefit the moneys are received for investment.
     
     (3) All moneys held by the Māori Trustee in trust for any person or persons, whether defined or not, or for any special purpose, not being moneys required as hereinbefore provided to be credited to a Special Investment Account, shall be credited to the Common Fund.
     
@@ -1062,9 +1060,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (6) The Māori Trustee shall, as at the commencement of this Act, apportion to the several separate funds or accounts to be kept in accordance with the foregoing provisions of this section the existing assets and liabilities of the Māori Trustee's Account.
     
-    Section 23 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 23(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 23(1)(d): repealed, on 14 April 1987, by section 3(2)(a) of the Maori Affairs Amendment Act 1987 (1987 No 73).
     
@@ -1076,9 +1074,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 23(1)(h): inserted, on 1 July 2009, by [section 10(1)][128] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 23(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 23(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 23(3): amended, on 14 April 1987, by section 3(2)(b) of the Maori Affairs Amendment Act 1987 (1987 No 73).
     
@@ -1086,11 +1084,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 23(4A): repealed, on 14 December 1976, by [section 24(4)(b)][123] of the Maori Purposes Act 1976 (1976 No 148).
     
-    Section 23(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 23(5A): inserted, on 1 July 2009, by [section 10(2)][128] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 23(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 23(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### Special investment accounts
 
@@ -1106,31 +1104,31 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 53
     
-    Section 24 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 24A Māori Trustee may borrow money
     
 *   (1) The Māori Trustee may from time to time, with the prior approval of the Minister, borrow money (whether by way of overdraft or otherwise), and may pledge any securities held by him in respect of the investments of the Common Fund or the General Purposes Fund.
     
-    (2) Where accommodation by way of overdraft is approved under this section in any financial year of the Māori Trustee, the Māori Trustee's Account, or any other account kept by the Māori Trustee pursuant to [section 22][47], may be in overdraft at the end of that financial year.
+    (2) Where accommodation by way of overdraft is approved under this section in any financial year of the Māori Trustee, the Māori Trustee's Account, or any other account kept by the Māori Trustee pursuant to [section 22][46], may be in overdraft at the end of that financial year.
     
     Section 24A: replaced, on 4 December 1982, by [section 19(1)][129] of the Maori Purposes Act 1982 (1982 No 124).
     
-    Section 24A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 24A(2): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 24A(2): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### Common Fund
 
@@ -1142,15 +1140,15 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 16(1)
     
-    Section 25(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 25(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 25(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 25(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 26 Money held in Common Fund invested in Fund
     
 *   (1) All money held in trust in the Common Fund is invested in that fund, and any income derived from investment of the money forms part of the Common Fund.
     
-    (2) Unless an exception is provided for in regulations made under [section 52(a)(i)][99], the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under [section 52(a)(ii)][99].
+    (2) Unless an exception is provided for in regulations made under [section 52(a)(i)][98], the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under [section 52(a)(ii)][98].
     
     (3) Distributable income payable under subsection (2) must be calculated in accordance with the following formula:
     
@@ -1164,11 +1162,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     **b**
     > 
-    > is the total amount of the management fees that the Māori Trustee is entitled to charge or retain under [section 26A][56]
+    > is the total amount of the management fees that the Māori Trustee is entitled to charge or retain under [section 26A][55]
     
     **c**
     > 
-    > is the amount of distributable income that must be paid annually under subsection (2), which must be apportioned in accordance with regulations made under [section 52(b)][99].
+    > is the amount of distributable income that must be paid annually under subsection (2), which must be apportioned in accordance with regulations made under [section 52(b)][98].
     
     (4) The Māori Trustee must review, on a quarterly basis, the extent to which the distributable income payable under subsection (2) is commensurate with fair market distributable income paid for the relevant quarter, relative to funds that are---
         
@@ -1182,17 +1180,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 
 ##### 26A Management fees
     
-*   The Māori Trustee may charge or retain a management fee, calculated in accordance with regulations made under [section 52(c)][99], for the management of money held in trust in the Common Fund.
+*   The Māori Trustee may charge or retain a management fee, calculated in accordance with regulations made under [section 52(c)][98], for the management of money held in trust in the Common Fund.
     
     Section 26A: inserted, on 1 July 2009, by [section 11][130] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 26B Disclosure requirements
     
-*   (1) The Māori Trustee must report to account holders on the matters and in the manner prescribed by regulations made under [section 52(d)][99], including---
+*   (1) The Māori Trustee must report to account holders on the matters and in the manner prescribed by regulations made under [section 52(d)][98], including---
         
     *   (a) the amount of distributable income payable in respect of each account; and
     
-    *   (b) the management fee charged or retained under [section 26A][56]; and
+    *   (b) the management fee charged or retained under [section 26A][55]; and
     
     *   (c) the net amount of distributable income to be paid; and
     
@@ -1210,11 +1208,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 42
     
-    Section 27(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 27(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 27(1): amended, on 25 January 2005, pursuant to[section 83(7)][131] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 27(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 27(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 27(2): amended, on 25 January 2005, pursuant to[section 83(7)][131] of the Public Finance Act 1989 (1989 No 44).
 
@@ -1242,7 +1240,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 47(c)
     
-    Section 29: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 29: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 29: amended, on 1 October 1989, by [section 13(1][133]) of the Maori Affairs Restructuring Act 1989 (1989 No 68).
 
@@ -1276,7 +1274,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (8) Notice of the filing of a list of unclaimed moneys for any district shall be published in the _Gazette_ and shall also be given in such other manner as the Māori Trustee thinks adequate in the circumstances.
     
-    (9) Except as provided in [section 30A][62], any unclaimed money in respect of which claims are not established within 12 months after the date of the publication in the _Gazette_ of a notice of the filing of a list of that unclaimed money shall remain within the Common Fund.
+    (9) Except as provided in [section 30A][61], any unclaimed money in respect of which claims are not established within 12 months after the date of the publication in the _Gazette_ of a notice of the filing of a list of that unclaimed money shall remain within the Common Fund.
     
     (10) The Māori Trustee may, without complying with any of the foregoing provisions of this section, dispose of any money of the classes specified in subsection (11) as if it were unclaimed money, whether or not it is unclaimed money within the meaning of this section.
     
@@ -1296,31 +1294,31 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (15) If in respect of any unclaimed moneys disposed of in accordance with the foregoing provisions of this section, a claim is lawfully established, the amount of that claim shall be paid out of the General Purposes Fund which may at any time thereafter be reimbursed out of other unclaimed moneys.
     
-    Section 30(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 30(2): repealed, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 30(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 30(5)(a): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(5)(a): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 30(8): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(8): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 30(9): replaced, on 24 June 1996, by section 2(1) of the Maori Trustee Amendment Act 1996 (1996 No 34).
     
     Section 30(10): replaced, on 1 December 1961, by [section 16(1)][122] of the Maori Purposes Act 1961 (1961 No 129).
     
-    Section 30(10): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(10): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 30(11): replaced, on 1 December 1961, by [section 16(1)][122] of the Maori Purposes Act 1961 (1961 No 129).
     
     Section 30(11)(a): amended, on 1 April 1968, by section 149 of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 30(11)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(11)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 30(11)(b): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(11)(b): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 30(11)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30(11)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 30(12): repealed, on 1 April 1968, by section 73(2)(a) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
@@ -1330,7 +1328,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 
 ##### 30A Unclaimed agency money
     
-*   (1) In this section _unclaimed agency money_ means unclaimed money within the meaning of [section 30][61] that is held by the Māori Trustee as agent for---
+*   (1) In this section _unclaimed agency money_ means unclaimed money within the meaning of [section 30][60] that is held by the Māori Trustee as agent for---
         
     *   (a) any trust constituted under the Maori Affairs Act 1953; or
     
@@ -1338,15 +1336,15 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     *   (c) any Maori Trust Board.
     
-    (2) In respect of any unclaimed agency money, the provisions of subsection (3) of this section shall apply instead of the provisions of subsection (9) of [section 30][61]; but, except in that regard, the provisions of that section shall apply to all unclaimed agency money as they apply to any other unclaimed money within the meaning of that section.
+    (2) In respect of any unclaimed agency money, the provisions of subsection (3) of this section shall apply instead of the provisions of subsection (9) of [section 30][60]; but, except in that regard, the provisions of that section shall apply to all unclaimed agency money as they apply to any other unclaimed money within the meaning of that section.
     
-    (3) Any unclaimed agency money in respect of which claims are not established within 12 months after the date of the publication in the _Gazette_ of the notice required by subsection (8) of [section 30][61], shall be paid by the Māori Trustee to the trust or the Maori incorporation or the Maori Trust Board, as the case may require.
+    (3) Any unclaimed agency money in respect of which claims are not established within 12 months after the date of the publication in the _Gazette_ of the notice required by subsection (8) of [section 30][60], shall be paid by the Māori Trustee to the trust or the Maori incorporation or the Maori Trust Board, as the case may require.
     
     Section 30A: inserted, on 20 June 1991, by section 4(1) of the Maori Trustee Amendment Act 1991 (1991 No 41).
     
-    Section 30A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 30A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 30A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### General Purposes Fund
 
@@ -1378,7 +1376,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 47(g); 1931 No 31 s 95
     
-    Section 32(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 32(1): amended, on 1 October 1989, by [section 13(1)][133] of Maori Affairs Restructuring Act 1989 (1989 No 68).
     
@@ -1392,11 +1390,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 32(1B): repealed, on 24 June 1996, by section 3(1)(c) of the Maori Trustee Amendment Act 1996 (1996 No 34).
     
-    Section 32(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 32(2): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 32(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 32A Guarantees and indemnities
     
@@ -1414,15 +1412,15 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 32A: inserted, on 20 June 1991, by section 5 of the Maori Trustee Amendment Act 1991 (1991 No 41).
     
-    Section 32A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 32A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 32A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 32A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 32A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 32A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 33 Authorising establishment and maintenance of Maori hostels out of General Purposes Fund
     
@@ -1454,21 +1452,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 33(2): replaced, on 25 October 1963, by [section 16][139] of the Maori Purposes Act 1963 (1963 No 123).
     
-    Section 33(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 33(2)(d): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(2)(d): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 33(2)(e): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(2)(e): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 33(2A): inserted, on 25 October 1963, by [section 16][139] of the Maori Purposes Act 1963 (1963 No 123).
     
     Section 33(2A): amended, on 17 December 1971, by [section 7 ][140]of the Maori Purposes Act 1971 (1971 No 151).
     
-    Section 33(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 33(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 33(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 33(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 34 Assurance Fund
     
@@ -1510,23 +1508,23 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 36: replaced, on 30 July 1985, by section 4(1) of the Maori Trustee Amendment Act 1985 (1985 No 116).
     
-    Section 36(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 36(1): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 36(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 36(2): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 36(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 36(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 36(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 36(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 36(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 36(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 37 Māori Trustee may provide housing accommodation for officers of department
     
@@ -1548,21 +1546,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1950 No 98 s 4
     
-    Section 37 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 37 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 37(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 37(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 37(1): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 37(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 37(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 37(2): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 37(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 37(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 37(4): replaced, on 1 April 1963, by section 4 of the Maori Trustee Amendment Act 1962 (1962 No 46).
     
-    Section 37(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 37(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 37(4): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
 
@@ -1578,17 +1576,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 50
     
-    Section 38 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 38 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 38(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 38(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 38(1): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
     Section 38(1) proviso: repealed, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 38(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 38(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 38(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 38(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 38(4): amended, on 1 April 1963, by section 5 of the Maori Trustee Amendment Act 1962 (1962 No 46).
     
@@ -1612,19 +1610,19 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1931 No 31 s 106
     
-    Section 39 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 39(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 39(1): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 39(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 39(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 39(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 39(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 39(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 40 Māori Trustee may acquire land to provide sites for Maori dwellings
     
@@ -1638,21 +1636,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (5) All moneys expended by the Māori Trustee for the purposes of this section shall be paid out of the General Purposes Fund of the Māori Trustee's Account, and all purchase money, rents, or other moneys received by him in respect of any land acquired under this section shall be paid into that Fund.
     
-    Section 40 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 40(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 40(1): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 40(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 40(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 40(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 40(4): amended, on 1 October 1989, by [section 13(1)][133] of the Maori Affairs Restructuring Act 1989 (1989 No 68).
     
-    Section 40(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 40(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 41 Contribution to Crown Bank Account towards expenses of Maori Trust Office
     
@@ -1706,11 +1704,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 51
     
-    Section 42 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 42 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 42(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 42(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 42(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 42(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 43 Assignment of rents to Māori Trustee
     
@@ -1718,9 +1716,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1930 No 33 s 52
     
-    Section 43 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 43 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 43: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 43: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 44 Māori Trustee may apply moneys held by him on behalf of Maori in satisfaction of moneys payable to Māori Trustee by that Maori
     
@@ -1730,11 +1728,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1931 No 31 s 98
     
-    Section 44 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 44 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 44(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 44(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 44(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 44(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 45 Māori Trustee may accept payment and give discharge for moneys payable to Maoris
     
@@ -1746,13 +1744,13 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1931 No 31 s 110
     
-    Section 45 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 45A Payment to Māori Trustee of proceeds of Maori land held for 6 years or more
     
@@ -1764,7 +1762,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (4) Any money paid to the Māori Trustee under this section shall be received by him subject to an obligation to pay it, after the making of all appropriate deductions, to the person who, in accordance with the information supplied to him under subsection (3), is entitled to receive payment thereof. The receipt of the Māori Trustee for any such money shall, to the extent thereof, be a good discharge to the person making the payment to the Māori Trustee.
     
-    (5) For the purposes of [section 30][61] (relating to the disposal of unclaimed money), any money received by the Māori Trustee under this section shall be deemed to have been in his possession since it first came into the possession of the solicitor or other person by whom it was paid to the Māori Trustee.
+    (5) For the purposes of [section 30][60] (relating to the disposal of unclaimed money), any money received by the Māori Trustee under this section shall be deemed to have been in his possession since it first came into the possession of the solicitor or other person by whom it was paid to the Māori Trustee.
     
     (6) Nothing in this section shall be construed to require payment to the Māori Trustee of money which is retained by any person with the express authority of the person beneficially entitled to the money or which is held subject to any trust or obligation other than a trust or obligation to pay it to that person.
     
@@ -1772,19 +1770,19 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 45A: inserted, on 1 April 1968, by [section 5(1)][150] of the Maori Purposes Act 1967 (1967 No 145).
     
-    Section 45A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 45A(1): amended, on 16 November 2009, by [section 173][151] of the Real Estate Agents Act 2008 (2008 No 66).
     
-    Section 45A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 45A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 45A(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 45A(7): amended, on 16 November 2009, by [section 173][151] of the Real Estate Agents Act 2008 (2008 No 66).
     
@@ -1802,13 +1800,13 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Compare: 1931 No 31 s 530(3)
     
-    Section 46 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 46A Māori Trustee not obliged to act on orders for payment
     
@@ -1816,9 +1814,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 46A: inserted, on 1 April 1963, by section 6 of the Maori Trustee Amendment Act 1962 (1962 No 46).
     
-    Section 46A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46A: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46A: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 46B Assignment of money in hands of Māori Trustee
     
@@ -1854,21 +1852,21 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 46B: inserted, on 1 April 1968, by section 148(4) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 46B heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 46B(2)(g): repealed, on 20 May 1999, by [section 7][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
     
-    Section 46B(2)(h): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(2)(h): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46B(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46B(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(3)(b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46B(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46B(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 46C Power of Māori Trustee to make small payments without order
     
@@ -1878,11 +1876,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 46C: inserted, on 1 April 1968, by section 148(5) of the Maori Affairs Amendment Act 1967 (1967 No 124).
     
-    Section 46C heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46C heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46C(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46C(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 46C(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 46C(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 46D Disposition of small sums held for beneficiaries
     
@@ -1906,17 +1904,17 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (4) The Māori Trustee may, in his discretion, remit or reduce any commission or fees to which he would be entitled in accordance with this section.
     
-    Section 48 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48(3): amended, on 1 July 2009, pursuant to [section 30(2)(b)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48(3): amended, on 1 July 2009, pursuant to [section 30(2)(b)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 48A Māori Trustee may bar small claims
     
@@ -1930,11 +1928,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     Section 48A: inserted, on 17 December 1971, by [section 6][156] of the Maori Purposes Act 1971 (1971 No 151).
     
-    Section 48A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48A heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48A(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 48A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 48A(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 49 Māori Trustee may register memorial of charge against land
     
@@ -1948,23 +1946,23 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (3) The foregoing provisions of this section shall apply notwithstanding that the land in respect of which any charge is created may be vested in the Māori Trustee.
     
-    Section 49 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 49 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 49(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 49(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 49(2): replaced, on 24 October 1969, by [section 12][157] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 49(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 49(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 49(2): amended, on 1 January 2008, by [section 364(1)][158] of the Property Law Act 2007 (2007 No 91).
     
     Section 49(2A): inserted, on 24 October 1969, by [section 12][157] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 49(2A): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 49(2A): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 49(2B): inserted, on 24 October 1969, by [section 12][157] of the Maori Purposes Act 1969 (1969 No 127).
     
-    Section 49(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 49(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 50 Memorandum of extension of lease
     
@@ -1976,9 +1974,9 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
     (4) The provisions of this section shall extend and apply to any such lease notwithstanding that the lease has expired, whether before or after the commencement of this Act, before the execution of any such memorandum of extension and notwithstanding that the lease was not originally granted by the Māori Trustee.
     
-    Section 50(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 50(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 50(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][0] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 50(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][101] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 51 Maori Trustee to furnish annual balance sheet
     
@@ -1990,7 +1988,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
     
 *   The Governor-General may, by Order in Council, on the recommendation of the Minister of Māori Affairs, make regulations---
         
-    *   (a) for the purpose of [section 26(2)][55],---
+    *   (a) for the purpose of [section 26(2)][54],---
             
         *   (i) defining any special circumstances or cases in which the Māori Trustee, though required to credit distributable income to an account, is not required to pay distributable income under that section, including, without limitation, prescribing the sum of money below which the Māori Trustee is not required to make a distributable income payment:
         
@@ -1998,11 +1996,11 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
         
         
     
-    *   (b) for the purpose of [section 26(3)][55], providing for the apportionment of distributable income:
+    *   (b) for the purpose of [section 26(3)][54], providing for the apportionment of distributable income:
     
-    *   (c) for the purpose of [section 26A][56], prescribing the basis on which the management fee must be calculated and charged or retained:
+    *   (c) for the purpose of [section 26A][55], prescribing the basis on which the management fee must be calculated and charged or retained:
     
-    *   (d) for the purpose of [section 26B(1)][57], prescribing how, when, and to whom, in each financial year, the Māori Trustee must make the required disclosures:
+    *   (d) for the purpose of [section 26B(1)][56], prescribing how, when, and to whom, in each financial year, the Māori Trustee must make the required disclosures:
     
     *   (e) for other purposes expressly provided for in this Act:
     
@@ -2021,7 +2019,7 @@ An Act to consolidate and amend certain provisions of the law relating to the M�
 ## Schedule  
 Enactments repealed
 
-[s 53(1)][100]
+[s 53(1)][99]
 
 ##### Maori Purposes Act 1931 (1931 No 32) (Reprint of Statutes, Vol VI, p 419)
 
@@ -2274,7 +2272,7 @@ Transitional provisions and consequential amendments
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][172] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][172] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -2284,11 +2282,11 @@ Transitional provisions and consequential amendments
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][174] and [17E][175] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][174] and [17E][175] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
     *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
     *   •typeface and type size (Times Roman, generally in 11.5 point)
@@ -2381,108 +2379,108 @@ Transitional provisions and consequential amendments
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM1583888
-[1]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM195466
-[2]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282040
-[3]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282042
-[4]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282043
-[5]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203962
-[6]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282045
-[7]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203965
-[8]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282050
-[9]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282053
-[10]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202030
-[11]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282054
-[12]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202031
-[13]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202032
-[14]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202034
-[15]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202035
-[16]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202036
-[17]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202037
-[18]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202038
-[19]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203978
-[20]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282055
-[21]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282056
-[22]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282057
-[23]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282059
-[24]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282060
-[25]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282062
-[26]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282065
-[27]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282072
-[28]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282079
-[29]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282081
-[30]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282083
-[31]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282086
-[32]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282089
-[33]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282092
-[34]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282094
-[35]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282096
-[36]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282098
-[37]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282099
-[38]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282701
-[39]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282702
-[40]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282703
-[41]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204174
-[42]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282706
-[43]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282710
-[44]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282713
-[45]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282717
-[46]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282721
-[47]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282726
-[48]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204184
-[49]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282729
-[50]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204194
-[51]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282737
-[52]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282739
-[53]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204204
-[54]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282744
-[55]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282745
-[56]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202064
-[57]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202065
-[58]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282746
-[59]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282748
-[60]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282751
-[61]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282754
-[62]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282764
-[63]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204224
-[64]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282768
-[65]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282771
-[66]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282783
-[67]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282785
-[68]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282788
-[69]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282790
-[70]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282793
-[71]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282797
-[72]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282903
-[73]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282906
-[74]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282911
-[75]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282915
-[76]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282917
-[77]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282919
-[78]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282921
-[79]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282923
-[80]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282925
-[81]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282927
-[82]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204268
-[83]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282930
-[84]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282931
-[85]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282932
-[86]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282933
-[87]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282934
-[88]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282938
-[89]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282939
-[90]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282941
-[91]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282945
-[92]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282947
-[93]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282950
-[94]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282952
-[95]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282953
-[96]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282955
-[97]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282958
-[98]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282960
-[99]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282962
-[100]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282964
-[101]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282965
+[0]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282040
+[2]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282042
+[3]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282043
+[4]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203962
+[5]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282045
+[6]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203965
+[7]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282050
+[8]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282053
+[9]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202030
+[10]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282054
+[11]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202031
+[12]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202032
+[13]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202034
+[14]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202035
+[15]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202036
+[16]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202037
+[17]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202038
+[18]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2203978
+[19]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282055
+[20]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282056
+[21]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282057
+[22]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282059
+[23]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282060
+[24]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282062
+[25]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282065
+[26]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282072
+[27]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282079
+[28]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282081
+[29]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282083
+[30]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282086
+[31]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282089
+[32]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282092
+[33]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282094
+[34]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282096
+[35]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282098
+[36]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282099
+[37]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282701
+[38]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282702
+[39]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282703
+[40]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204174
+[41]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282706
+[42]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282710
+[43]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282713
+[44]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282717
+[45]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282721
+[46]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282726
+[47]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204184
+[48]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282729
+[49]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204194
+[50]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282737
+[51]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282739
+[52]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204204
+[53]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282744
+[54]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282745
+[55]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202064
+[56]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2202065
+[57]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282746
+[58]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282748
+[59]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282751
+[60]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282754
+[61]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282764
+[62]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204224
+[63]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282768
+[64]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282771
+[65]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282783
+[66]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282785
+[67]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282788
+[68]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282790
+[69]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282793
+[70]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282797
+[71]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282903
+[72]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282906
+[73]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282911
+[74]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282915
+[75]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282917
+[76]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282919
+[77]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282921
+[78]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282923
+[79]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282925
+[80]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282927
+[81]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM2204268
+[82]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282930
+[83]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282931
+[84]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282932
+[85]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282933
+[86]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282934
+[87]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282938
+[88]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282939
+[89]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282941
+[90]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282945
+[91]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282947
+[92]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282950
+[93]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282952
+[94]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282953
+[95]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282955
+[96]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282958
+[97]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282960
+[98]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282962
+[99]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282964
+[100]: http://www.legislation.govt.nz/act/public/1953/0095/latest/whole.html#DLM282965
+[101]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM1583888
 [102]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM1583810
 [103]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM1583819
 [104]: http://www.legislation.govt.nz/act/public/1953/0095/latest/link.aspx?id=DLM1583800
