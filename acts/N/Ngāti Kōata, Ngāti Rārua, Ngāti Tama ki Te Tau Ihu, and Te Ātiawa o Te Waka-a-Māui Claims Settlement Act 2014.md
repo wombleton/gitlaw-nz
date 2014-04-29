@@ -2215,7 +2215,7 @@ Cultural redress
 
 ##### 50 Issue and amendment of deeds of recognition
     
-*   (1) Deeds of recognition must be issued to the trustees of the settlement trust of an iwi in respect of the statutory areas with which the iwi has an association as listed in Schedule 1, except the areas referred to as---
+*   (1) Deeds of recognition must be issued to the trustees of the settlement trust of an iwi in respect of the statutory areas with which the iwi has an association as listed in [Schedule 1][292], except the areas referred to as---
         
     *   (a) Westhaven (Te Tai Tapu) Marine Reserve and Westhaven (Whanganui Inlet) Wildlife Management Reserve; and
     
@@ -2339,13 +2339,13 @@ Cultural redress
     
     _overlay site_---
         
-    *   (a) means a site that is declared under section 57 to be subject to the overlay classification; but
+    *   (a) means a site that is declared under [section 57][78] to be subject to the overlay classification; but
     
-    *   (b) does not include an area that is declared under section 71(1) to no longer be subject to the overlay classification
+    *   (b) does not include an area that is declared under [section 71(1)][92] to no longer be subject to the overlay classification
     
-    _protection principles_, for an overlay site, means the protection principles set out for the site in paragraph 4.1 of part 1 (or, for Te Ātiawa o Te Waka-a-Māui, of part 3) of the documents schedule of the relevant deed of settlement, including any amendments made to the principles under section 60(3)
+    _protection principles_, for an overlay site, means the protection principles set out for the site in paragraph 4.1 of part 1 (or, for Te Ātiawa o Te Waka-a-Māui, of part 3) of the documents schedule of the relevant deed of settlement, including any amendments made to the principles under [section 60(3)][81]
     
-    _relevant iwi_, for an overlay site, means the 1 or more iwi listed in Schedule 2 as having an association with the overlay site
+    _relevant iwi_, for an overlay site, means the 1 or more iwi listed in [Schedule 2][293] as having an association with the overlay site
     
     _relevant trustees_, for an overlay site, means the trustees of the settlement trust of each of the relevant iwi for the overlay site
     
@@ -2361,7 +2361,7 @@ Cultural redress
 
 ##### 57 Declaration of overlay classification
     
-*   Each site described in Schedule 2 is declared to be subject to the overlay classification.
+*   Each site described in [Schedule 2][293] is declared to be subject to the overlay classification.
 
 ##### 58 Acknowledgement by the Crown of statements of iwi values
     
@@ -2371,11 +2371,11 @@ Cultural redress
     
 *   The only purposes of the overlay classification are---
         
-    *   (a) to require the New Zealand Conservation Authority and relevant Conservation Boards to consult the relevant trustees and to have particular regard to the statements of iwi values, the protection principles, and the views of the relevant trustees, as provided for in sections 61 and 62; and
+    *   (a) to require the New Zealand Conservation Authority and relevant Conservation Boards to consult the relevant trustees and to have particular regard to the statements of iwi values, the protection principles, and the views of the relevant trustees, as provided for in [sections 61][82] and [62][83]; and
     
-    *   (b) to require the New Zealand Conservation Authority to give the relevant trustees an opportunity to make submissions, as provided for in section 63; and
+    *   (b) to require the New Zealand Conservation Authority to give the relevant trustees an opportunity to make submissions, as provided for in [section 63][84]; and
     
-    *   (c) to enable the taking of action under sections 64 to 69\.
+    *   (c) to enable the taking of action under [sections 64 to 69][85].
     
     
 
@@ -2441,9 +2441,9 @@ Cultural redress
     
     *   (b) the protection principles for each overlay site, as soon as practicable after the settlement date; and
     
-    *   (c) any amendment to the protection principles agreed under section 60(3), as soon as practicable after the amendment has been agreed in writing.
+    *   (c) any amendment to the protection principles agreed under [section 60(3)][81], as soon as practicable after the amendment has been agreed in writing.
     
-    (2) The Director-General may notify in the _Gazette_ any action (including any specified action) taken or intended to be taken under section 66 or 67\.
+    (2) The Director-General may notify in the _Gazette_ any action (including any specified action) taken or intended to be taken under [section 66][87] or [67][88].
 
 ##### 66 Actions by Director-General
     
@@ -2465,7 +2465,7 @@ Cultural redress
     
 *   The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
         
-    *   (a) to provide for the implementation of objectives included in a strategy or plan under section 67(1):
+    *   (a) to provide for the implementation of objectives included in a strategy or plan under [section 67(1)][88]:
     
     *   (b) to regulate or prohibit activities or conduct by members of the public in relation to an overlay site:
     
@@ -2485,7 +2485,7 @@ Cultural redress
     
 *   The Minister of Conservation may make bylaws for 1 or more of the following purposes:
         
-    *   (a) to provide for the implementation of objectives included in a strategy or plan under section 67(1):
+    *   (a) to provide for the implementation of objectives included in a strategy or plan under [section 67(1)][88]:
     
     *   (b) to regulate or prohibit activities or conduct by members of the public in relation to an overlay site:
     
@@ -2567,7 +2567,7 @@ Cultural redress
     
 *   In this Act, unless the context requires another meaning,---
     
-    _cultural redress property_ means each of the following sites, and each site means the land described by that name in Schedule 3:
+    _cultural redress property_ means each of the following sites, and each site means the land described by that name in [Schedule 3][294]:
         
     *   ###### Sites that vest in fee simple
     
@@ -2695,19 +2695,19 @@ Cultural redress
     
     (2) The fee simple estate in Whangarae Bay (Okiwi Bay) then vests in the trustees of Te Pātaka a Ngāti Kōata.
     
-    (3) The trustees of Te Pātaka a Ngāti Kōata, as occupiers of Whangarae Bay (Okiwi Bay), are then bound by a fencing covenant (as defined in section 2 of the Fencing Act 1978) in favour of the Crown, as occupier of Section 3 SO 430484\.
+    (3) The trustees of Te Pātaka a Ngāti Kōata, as occupiers of Whangarae Bay (Okiwi Bay), are then bound by a fencing covenant (as defined in [section 2][367] of the Fencing Act 1978) in favour of the Crown, as occupier of Section 3 SO 430484\.
     
-    (4) To avoid doubt, section 5(2) of the Fencing Act 1978 applies to the fencing covenant.
+    (4) To avoid doubt, [section 5(2)][368] of the Fencing Act 1978 applies to the fencing covenant.
     
     (5) The Minister of Conservation must provide the trustees of Te Pātaka a Ngāti Kōata with a registrable easement for a right to convey water over the area shown as B on SO 430484 in favour of Whangarae Bay (Okiwi Bay) on the terms and conditions set out in part 5.1 of the documents schedule of the deed of settlement for Ngāti Kōata.
     
     (6) The easement---
         
-    *   (a) is enforceable in accordance with its terms, despite [Part 3B][367] of the Conservation Act 1987; and
+    *   (a) is enforceable in accordance with its terms, despite [Part 3B][369] of the Conservation Act 1987; and
     
-    *   (b) is to be treated as having been granted in accordance with Part 3B of that Act; and
+    *   (b) is to be treated as having been granted in accordance with [Part 3B][369] of that Act; and
     
-    *   (c) is registrable under section 17ZA(2) of that Act, as if it were a deed to which that provision applied.
+    *   (c) is registrable under [section 17ZA(2)][370] of that Act, as if it were a deed to which that provision applied.
     
     (7) Subsections (1) to (6) do not take effect until the trustees of Te Pātaka a Ngāti Kōata have provided the Crown with a registrable easement instrument (containing restrictive covenants) for Whangarae Bay (Okiwi Bay) in favour of Section 3 SO 430484 on the terms and conditions set out in part 5.2 of the documents schedule of the deed of settlement for Ngāti Kōata.
     
@@ -2723,11 +2723,11 @@ Cultural redress
     
     (4) The easement---
         
-    *   (a) is enforceable in accordance with its terms, despite [Part 3B][367] of the Conservation Act 1987; and
+    *   (a) is enforceable in accordance with its terms, despite [Part 3B][369] of the Conservation Act 1987; and
     
-    *   (b) is to be treated as having been granted in accordance with Part 3B of that Act; and
+    *   (b) is to be treated as having been granted in accordance with [Part 3B][369] of that Act; and
     
-    *   (c) is registrable under section 17ZA(2) of that Act, as if it were a deed to which that provision applied.
+    *   (c) is registrable under section [17ZA(2)][370] of that Act, as if it were a deed to which that provision applied.
     
     
 
@@ -2739,7 +2739,7 @@ Cultural redress
 
 ##### 80 Wairau Pā
     
-*   (1) Wairau Pā ceases to be a marginal strip under [Part 4A][368] of the Conservation Act 1987\.
+*   (1) Wairau Pā ceases to be a marginal strip under [Part 4A][371] of the Conservation Act 1987\.
     
     (2) The fee simple estate in Wairau Pā then vests in the trustees of the Ngāti Rārua Settlement Trust.
 
@@ -2819,7 +2819,7 @@ Cultural redress
 
 ##### 88 Puketawai
     
-*   (1) The stopped road shown as A on SO 12178, Nelson Land District, vests in the Crown as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+*   (1) The stopped road shown as A on SO 12178, Nelson Land District, vests in the Crown as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (2) The reservation of Puketawai (being part of Kaiteriteri Recreation Reserve) as a recreation reserve subject to the [Reserves Act 1977][366] is then revoked.
     
@@ -2865,7 +2865,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of Te Pātaka a Ngāti Kōata have provided the Crown with a registrable covenant in relation to the part of Lucky Bay shown as A on SO 436126 on the terms and conditions set out in part 5.3 of the documents schedule of the deed of settlement for Ngāti Kōata.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 91 Whangarae Estuary
     
@@ -2875,7 +2875,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of Te Pātaka a Ngāti Kōata have provided the Crown with a registrable covenant in relation to the part of Whangarae Estuary shown as C on SO 430484 on the terms and conditions set out in part 5.4 of the documents schedule of the deed of settlement for Ngāti Kōata.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 92 Wharf Road (Okiwi Bay)
     
@@ -2885,7 +2885,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of Te Pātaka a Ngāti Kōata have provided the Crown with a registrable covenant in relation to Wharf Road (Okiwi Bay) on the terms and conditions set out in part 5.5 of the documents schedule of the deed of settlement for Ngāti Kōata.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 93 Te Tai Tapu (Snake Creek)
     
@@ -2901,9 +2901,9 @@ Cultural redress
     
     (4) The covenant is to be treated as a conservation covenant for the purposes of---
         
-    *   (a) [section 77][370] of the Reserves Act 1977; and
+    *   (a) [section 77][373] of the Reserves Act 1977; and
     
-    *   (b) [section 27][371] of the Conservation Act 1987\.
+    *   (b) [section 27][374] of the Conservation Act 1987\.
     
     
 
@@ -2915,7 +2915,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of the Ngāti Rārua Settlement Trust have provided the Crown with a registrable covenant in relation to Coombe Rocks on the terms and conditions set out in part 5.6 of the documents schedule of the deed of settlement for Ngāti Rārua.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 95 Hori Bay
     
@@ -2931,9 +2931,9 @@ Cultural redress
     
     (4) The covenant is to be treated as a conservation covenant for the purposes of---
         
-    *   (a) [section 77][370] of the Reserves Act 1977; and
+    *   (a) [section 77][373] of the Reserves Act 1977; and
     
-    *   (b) [section 27][371] of the Conservation Act 1987\.
+    *   (b) [section 27][374] of the Conservation Act 1987\.
     
     
 
@@ -2947,9 +2947,9 @@ Cultural redress
     
     (4) The covenant is to be treated as a conservation covenant for the purposes of---
         
-    *   (a) [section 77][370] of the Reserves Act 1977; and
+    *   (a) [section 77][373] of the Reserves Act 1977; and
     
-    *   (b) [section 27][371] of the Conservation Act 1987\.
+    *   (b) [section 27][374] of the Conservation Act 1987\.
     
     
 
@@ -2961,7 +2961,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of the Te Ātiawa o Te Waka-a-Māui Trust have provided the Crown with a registrable covenant in relation to Onauku Bay (Arapaoa Island) on the terms and conditions set out in part 5.6 of the documents schedule of the deed of settlement for Te Ātiawa o Te Waka-a-Māui.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 98 Anatoia Islands
     
@@ -2971,7 +2971,7 @@ Cultural redress
     
     (3) Subsections (1) and (2) do not take effect until the trustees of the Te Ātiawa o Te Waka-a-Māui Trust have provided the Crown with a registrable covenant in relation to the Anatoia Islands on the terms and conditions set out in part 5.7 of the documents schedule of the deed of settlement for Te Ātiawa o Te Waka-a-Māui.
     
-    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (4) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 99 Te Tai Tapu (Anatori South)
     
@@ -2987,9 +2987,9 @@ Cultural redress
     
     (4) The covenant is to be treated as a conservation covenant for the purposes of---
         
-    *   (a) [section 77][370] of the Reserves Act 1977; and
+    *   (a) [section 77][373] of the Reserves Act 1977; and
     
-    *   (b) [section 27][371] of the Conservation Act 1987\.
+    *   (b) [section 27][374] of the Conservation Act 1987\.
     
     
 
@@ -3007,9 +3007,9 @@ Cultural redress
     
     (4) The covenant is to be treated as a conservation covenant for the purposes of---
         
-    *   (a) [section 77][370] of the Reserves Act 1977; and
+    *   (a) [section 77][373] of the Reserves Act 1977; and
     
-    *   (b) [section 27][371] of the Conservation Act 1987\.
+    *   (b) [section 27][374] of the Conservation Act 1987\.
     
     
 
@@ -3021,7 +3021,7 @@ Cultural redress
     
     (2) The fee simple estate in Moukirikiri Island then vests in the trustees of Te Pātaka a Ngāti Kōata.
     
-    (3) Moukirikiri Island is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Moukirikiri Island is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Moukirikiri Island Scenic Reserve.
 
@@ -3031,7 +3031,7 @@ Cultural redress
     
     (2) The fee simple estate in Pah Point (Whanganui Inlet) then vests in the trustees of the Ngāti Rārua Settlement Trust.
     
-    (3) Pah Point (Whanganui Inlet) is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Pah Point (Whanganui Inlet) is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Pah Point (Whanganui Inlet) Scenic Reserve.
     
@@ -3043,7 +3043,7 @@ Cultural redress
     
     (2) The fee simple estate in Waikutakuta / Robin Hood Bay then vests in the trustees of the Ngāti Rārua Settlement Trust.
     
-    (3) Waikutakuta / Robin Hood Bay is then declared a reserve and classified as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+    (3) Waikutakuta / Robin Hood Bay is then declared a reserve and classified as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (4) The reserve is named Waikutakuta / Robin Hood Bay Recreation Reserve.
 
@@ -3053,7 +3053,7 @@ Cultural redress
     
     (2) The fee simple estate in Tākaka River Mouth then vests in the trustees of the Ngāti Tama ki Te Waipounamu Trust.
     
-    (3) Tākaka River Mouth is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Tākaka River Mouth is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Ngāti Tama ki Te Tau Ihu Scenic Reserve.
 
@@ -3063,7 +3063,7 @@ Cultural redress
     
     (2) The fee simple estate in Parapara Peninsula then vests in the trustees of the Ngāti Tama ki Te Waipounamu Trust.
     
-    (3) Parapara Peninsula is then declared a reserve and classified as a historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+    (3) Parapara Peninsula is then declared a reserve and classified as a historic reserve subject to [section 18][376] of the Reserves Act 1977\.
     
     (4) The reserve is named Parapara Peninsula Historic Reserve.
 
@@ -3073,7 +3073,7 @@ Cultural redress
     
     (2) The fee simple estate in Momorangi Point then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) Momorangi Point is then declared a reserve and classified as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+    (3) Momorangi Point is then declared a reserve and classified as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (4) The reserve is named Momorangi Point Recreation Reserve.
     
@@ -3101,7 +3101,7 @@ Cultural redress
     
     (2) The fee simple estate in Wedge Point then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) Wedge Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Wedge Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Te Ātiawa Wedge Point Scenic Reserve.
 
@@ -3111,7 +3111,7 @@ Cultural redress
     
     (2) The fee simple estate in Ngākuta Point then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) Ngākuta Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Ngākuta Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Ngākuta Point Scenic Reserve.
 
@@ -3121,29 +3121,29 @@ Cultural redress
     
     (2) The fee simple estate in Ngaruru (Arapaoa Island) then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) The parts of Ngaruru (Arapaoa Island) that are Sections 1 and 3 on SO 428534 are then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) The parts of Ngaruru (Arapaoa Island) that are Sections 1 and 3 on SO 428534 are then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Te Ātiawa Arapaoa Scenic Reserve.
     
     (5) Subsections (1) to (4) do not take effect until the trustees of the Te Ātiawa o Te Waka-a-Māui Trust have provided the Crown with a registrable covenant in relation to the part of Ngaruru (Arapaoa Island) that is Section 2 SO 428534 on the terms and conditions set out in part 5.8 of the documents schedule of the deed of settlement for Te Ātiawa o Te Waka-a-Māui.
     
-    (6) The covenant is to be treated as a conservation covenant for the purposes of [section 77][370] of the Reserves Act 1977\.
+    (6) The covenant is to be treated as a conservation covenant for the purposes of [section 77][373] of the Reserves Act 1977\.
 
 ##### 110 Arapawa Māori Rowing Club site
     
 *   (1) The road shown as Section 2 on SO 426964 is stopped.
     
-    (2) [Section 345(3)][374] of the Local Government Act 1974 does not apply to the stopping of the road.
+    (2) [Section 345(3)][377] of the Local Government Act 1974 does not apply to the stopping of the road.
     
-    (3) The stopped road then vests in the Crown as Crown land subject to the [Land Act 1948][375].
+    (3) The stopped road then vests in the Crown as Crown land subject to the [Land Act 1948][378].
     
     (4) The reservation of any part of the Arapawa Māori Rowing Club site as a recreation reserve subject to the [Reserves Act 1977][366] is then revoked.
     
-    (5) The land whose reservation is revoked under subsection (4) then vests in the Crown as Crown land subject to the [Land Act 1948][375].
+    (5) The land whose reservation is revoked under subsection (4) then vests in the Crown as Crown land subject to the [Land Act 1948][378].
     
     (6) The fee simple estate in the Arapawa Māori Rowing Club site then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (7) The Arapawa Māori Rowing Club site is then declared a reserve and classified as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+    (7) The Arapawa Māori Rowing Club site is then declared a reserve and classified as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (8) The reserve is named Te Ātiawa Arapaoa Waka Recreation Reserve.
     
@@ -3155,7 +3155,7 @@ Cultural redress
     
     (2) The fee simple estate in Katoa Point then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) Katoa Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Katoa Point is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Te Ātiawa Kura te Au Scenic Reserve.
 
@@ -3165,7 +3165,7 @@ Cultural redress
     
     (2) The fee simple estate in Moioio Island then vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) Moioio Island is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Moioio Island is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Moioio Island Scenic Reserve.
 
@@ -3181,11 +3181,11 @@ Cultural redress
     
     *   (c) a share vests in the trustees of the Te Ātiawa o Te Waka-a-Māui Trust.
     
-    (3) The Pūponga Point Pā site is then declared a reserve and classified as a historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+    (3) The Pūponga Point Pā site is then declared a reserve and classified as a historic reserve subject to [section 18][376] of the Reserves Act 1977\.
     
     (4) The reserve is named Pūponga Point Pā Historic Reserve.
     
-    (5) The joint management body established by [section 126(1)][154] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][376] of that Act.
+    (5) The joint management body established by [section 126(1)][154] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][379] of that Act.
     
     (6) Subsection (5) continues to apply despite any subsequent transfer under section 130\.
     
@@ -3209,7 +3209,7 @@ Cultural redress
         
         
     
-    *   (b) under section 95(2)(a) of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014,---
+    *   (b) under [section 95(2)(a)][380] of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014,---
             
         *   (i) a share vests in the trustees of the Ngāti Apa ki te Rā Tō Trust; and
         
@@ -3219,13 +3219,13 @@ Cultural redress
         
         
     
-    (3) Mātangi Āwhio (Nelson) is then declared a reserve and classified as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+    (3) Mātangi Āwhio (Nelson) is then declared a reserve and classified as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (4) The reserve is named Mātangi Āwhio (Nelson) Recreation Reserve.
     
-    (5) Nelson City Council is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the Council under [section 26][376] of that Act.
+    (5) Nelson City Council is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the Council under [section 26][379] of that Act.
     
-    (6) Subsection (5) continues to apply despite any subsequent transfer under section 130\.
+    (6) Subsection (5) continues to apply despite any subsequent transfer under [section 130][158].
     
     (7) Any improvements in or on Mātangi Āwhio (Nelson) do not vest in any of the trustees, despite the vestings referred to in subsection (2).
 
@@ -3237,17 +3237,17 @@ Cultural redress
         
     *   (a) a share vests in the trustees of the Ngāti Rārua Settlement Trust under this paragraph; and
     
-    *   (b) a share vests in the trustees of the Rangitāne o Wairau Settlement Trust under section 96(2)(a) of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014; and
+    *   (b) a share vests in the trustees of the Rangitāne o Wairau Settlement Trust under [section 96(2)(a)][381] of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014; and
     
-    *   (c) a share vests in the trustee of the Toa Rangatira Trust under section 76(2)(a) of the Ngati Toa Rangatira Claims Settlement Act 2014\.
+    *   (c) a share vests in the trustee of the Toa Rangatira Trust under [section 76(2)(a)][382] of the Ngati Toa Rangatira Claims Settlement Act 2014\.
     
-    (3) Pukatea / Whites Bay is then declared a reserve and classified as a recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+    (3) Pukatea / Whites Bay is then declared a reserve and classified as a recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
     
     (4) The reserve is named Pukatea / Whites Bay Recreation Reserve.
     
-    (5) The joint management body established by [section 127(1)][155] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][376] of that Act.
+    (5) The joint management body established by [section 127(1)][155] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][379] of that Act.
     
-    (6) Subsection (5) continues to apply despite any subsequent transfer under section 130\.
+    (6) Subsection (5) continues to apply despite any subsequent transfer under [section 130][158].
 
 ##### 116 Horahora-kākahu
     
@@ -3257,15 +3257,15 @@ Cultural redress
         
     *   (a) a share vests in the trustees of the Ngāti Rārua Settlement Trust under this paragraph; and
     
-    *   (b) a share vests in the trustees of the Rangitāne o Wairau Settlement Trust under section 97(2)(a) of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014; and
+    *   (b) a share vests in the trustees of the Rangitāne o Wairau Settlement Trust under [section 97(2)(a)][383] of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014; and
     
-    *   (c) a share vests in the trustee of the Toa Rangatira Trust under section 77(2)(a) of the Ngati Toa Rangatira Claims Settlement Act 2014\.
+    *   (c) a share vests in the trustee of the Toa Rangatira Trust under [section 77(2)(a)][384] of the Ngati Toa Rangatira Claims Settlement Act 2014\.
     
-    (3) Horahora-kākahu is then declared a reserve and classified as a historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+    (3) Horahora-kākahu is then declared a reserve and classified as a historic reserve subject to [section 18][376] of the Reserves Act 1977\.
     
     (4) The reserve is named Horahora-kākahu Historic Reserve.
     
-    (5) The joint management body established by [section 127(1)][155] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][376] of that Act.
+    (5) The joint management body established by [section 127(1)][155] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][379] of that Act.
     
     (6) Subsection (5) continues to apply despite any subsequent transfer under section 130\.
     
@@ -3279,15 +3279,15 @@ Cultural redress
         
     *   (a) a share vests in the trustees of the Ngāti Rārua Settlement Trust under this paragraph; and
     
-    *   (b) a share vests in the trustee of the Toa Rangatira Trust under section 78(2)(a) of the Ngati Toa Rangatira Claims Settlement Act 2014\.
+    *   (b) a share vests in the trustee of the Toa Rangatira Trust under [section 78(2)(a)][385] of the Ngati Toa Rangatira Claims Settlement Act 2014\.
     
-    (3) Tokomaru / Mount Robertson is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][372] of the Reserves Act 1977\.
+    (3) Tokomaru / Mount Robertson is then declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][375] of the Reserves Act 1977\.
     
     (4) The reserve is named Tokomaru / Mount Robertson Scenic Reserve.
     
-    (5) The joint management body established by [section 128(1)][156] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][376] of that Act.
+    (5) The joint management body established by [section 128(1)][156] is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve, as if the reserve were vested in the body (as if in trustees) under [section 26][379] of that Act.
     
-    (6) Subsection (5) continues to apply despite any subsequent transfer under section 130\.
+    (6) Subsection (5) continues to apply despite any subsequent transfer under [section 130][158].
     
     (7) Subsections (1) to (6) do not take effect until the trustees of the Ngāti Rārua Settlement Trust and the trustee of the Toa Rangatira Trust have provided the Crown with a registrable right of way easement in gross over the area shown as A on SO 426595 on the terms and conditions set out in part 5.7 of the documents schedule of the deed of settlement for Ngāti Rārua.
     
@@ -3305,7 +3305,7 @@ Cultural redress
 
 ##### 118 Properties are subject to, or benefit from, interests
     
-*   Each cultural redress property vested in the relevant trustees under subpart 4 is subject to, or benefits from, any interests listed for the property in Schedule 3\.
+*   Each cultural redress property vested in the relevant trustees under [subpart 4][96] is subject to, or benefits from, any interests listed for the property in [Schedule 3][294].
 
 ##### 119 Interests in land for reserve sites that are jointly vested sites
     
@@ -3323,21 +3323,21 @@ Cultural redress
     
     (2) This section applies to all, or only the part, of the site that remains a reserve under the [Reserves Act 1977][366] (the _reserve land_).
     
-    (3) If the reserve site is affected by an interest listed for the property in Schedule 3 that is an interest in land, the interest applies as if the administering body were the grantor, or the grantee, of the interest in respect of the reserve land.
+    (3) If the reserve site is affected by an interest listed for the property in [Schedule 3][294] that is an interest in land, the interest applies as if the administering body were the grantor, or the grantee, of the interest in respect of the reserve land.
     
     (4) Any interest in land that affects the reserve land must be dealt with for the purposes of registration as if the administering body were the registered proprietor of the reserve land.
     
-    (5) However, subsections (3) and (4) do not affect the registration of the easement referred to in section 117(7).
+    (5) However, subsections (3) and (4) do not affect the registration of the easement referred to in [section 117(7)][142].
     
-    (6) Subsections (3) and (4) continue to apply despite any subsequent transfer of the reserve land under section 130\.
+    (6) Subsections (3) and (4) continue to apply despite any subsequent transfer of the reserve land under [section 130][158].
 
 ##### 120 Interests that are not interests in land
     
-*   (1) This section applies if a cultural redress property is subject to an interest listed for the property in Schedule 3 that is not an interest in land and for which there is a grantor, whether or not the interest also applies to land outside the property.
+*   (1) This section applies if a cultural redress property is subject to an interest listed for the property in [Schedule 3][294] that is not an interest in land and for which there is a grantor, whether or not the interest also applies to land outside the property.
     
     (2) The interest applies as if the owners of the cultural redress property were the grantor of the interest in respect of the property, except to the extent that subsection (3) applies.
     
-    (3) If all or part of the cultural redress property is reserve land to which section 119 applies, the interest applies as if the administering body of the reserve land were the grantor of the interest in respect of the reserve land.
+    (3) If all or part of the cultural redress property is reserve land to which [section 119][146] applies, the interest applies as if the administering body of the reserve land were the grantor of the interest in respect of the reserve land.
     
     (4) The interest applies---
         
@@ -3351,23 +3351,23 @@ Cultural redress
 
 ##### 121 Registration of ownership
     
-*   (1) This section applies in relation to the fee simple estate in a cultural redress property vested in any trustees under subpart 4\.
+*   (1) This section applies in relation to the fee simple estate in a cultural redress property vested in any trustees under [subpart 4][96].
     
     (2) To the extent that a cultural redress property (other than Puketawai or a jointly vested site) is all of the land contained in a computer freehold register, the Registrar-General must, on written application by an authorised person,---
         
-    *   (a) register the trustees in whom the property is vested under subpart 4 as the proprietors of the fee simple estate in the land; and
+    *   (a) register the trustees in whom the property is vested under [subpart 4][96] as the proprietors of the fee simple estate in the land; and
     
     *   (b) record anything in the register, and do anything else, that is necessary to give effect to this Part and to part 5 of the relevant deed of settlement.
     
     (3) To the extent that subsection (2) does not apply to a cultural redress property (other than a jointly vested site), or in the case of Puketawai, the Registrar-General must, in accordance with a written application by an authorised person,---
         
-    *   (a) create 1 or more computer freehold registers for the fee simple estate in the property in the names of the trustees in whom the property is vested under subpart 4; and
+    *   (a) create 1 or more computer freehold registers for the fee simple estate in the property in the names of the trustees in whom the property is vested under [subpart 4][96]; and
     
     *   (b) record on the relevant registers any interests that are registered, notified, or notifiable and that are described in the application.
     
     (4) For a jointly vested site, the Registrar-General must, in accordance with written applications by an authorised person,---
         
-    *   (a) create 1 or more computer freehold registers for each undivided equal share of the fee simple estate in the property in the names of the trustees in whom the share is vested under subpart 4; and
+    *   (a) create 1 or more computer freehold registers for each undivided equal share of the fee simple estate in the property in the names of the trustees in whom the share is vested under [subpart 4][96]; and
     
     *   (b) record on the relevant registers any interests that are registered, notified, or notifiable and that are described in the applications.
     
@@ -3377,29 +3377,29 @@ Cultural redress
         
     *   (a) 24 months after the settlement date; or
     
-    *   (b) any later date that may be agreed in writing by the Crown and the trustees in whom the property is vested under subpart 4\.
+    *   (b) any later date that may be agreed in writing by the Crown and the trustees in whom the property is vested under [subpart 4][96].
     
     (7) In this section, _authorised person_ means a person authorised by the Director-General.
 
 ##### 122 Application of Part 4A of Conservation Act 1987
     
-*   (1) The vesting of the fee simple estate in a cultural redress property in any trustees under [subpart 4][96] is a disposition for the purposes of [Part 4A][368] of the Conservation Act 1987, but [sections 24(2A)][377], [24A][378], and [24AA][379] of that Act do not apply to the disposition.
+*   (1) The vesting of the fee simple estate in a cultural redress property in any trustees under [subpart 4][96] is a disposition for the purposes of [Part 4A][371] of the Conservation Act 1987, but [sections 24(2A)][386], [24A][387], and [24AA][388] of that Act do not apply to the disposition.
     
     (2) Despite subsection (1),---
         
-    *   (a) the rest of [section 24][377] of the Conservation Act 1987 does not apply to the vesting of a reserve site in any trustees under subpart 4; and
+    *   (a) the rest of [section 24][386] of the Conservation Act 1987 does not apply to the vesting of a reserve site in any trustees under [subpart 4][96]; and
     
-    *   (b) the marginal strips reserved by [section 24][377] of the Conservation Act 1987 from the vesting of Catherine Cove under section 76(2) are reduced to a width of 3 metres; and
+    *   (b) the marginal strips reserved by [section 24][386] of the Conservation Act 1987 from the vesting of Catherine Cove under [section 76(2)][99] are reduced to a width of 3 metres; and
     
-    *   (c) the marginal strip reserved by [section 24][377] of the Conservation Act 1987 from the vesting of Whangarae Bay (Okiwi Bay) under section 77(2) is reduced to a width of 10 metres; and
+    *   (c) the marginal strip reserved by [section 24][386] of the Conservation Act 1987 from the vesting of Whangarae Bay (Okiwi Bay) under [section 77(2)][100] is reduced to a width of 10 metres; and
     
-    *   (d) the marginal strip reserved by [section 24][377] of the Conservation Act 1987 from the vesting of Glenhope (Kawatiri) under section 78(2) is reduced to a width of 10 metres; and
+    *   (d) the marginal strip reserved by [section 24][386] of the Conservation Act 1987 from the vesting of Glenhope (Kawatiri) under [section 78(2)][101] is reduced to a width of 10 metres; and
     
-    *   (e) the marginal strip reserved by [section 24][377] of the Conservation Act 1987 from the vesting of Lucky Bay under section 90(2) is reduced to a width of 10 metres in certain areas as shown on SO 436126; and
+    *   (e) the marginal strip reserved by [section 24][386] of the Conservation Act 1987 from the vesting of Lucky Bay under [section 90(2)][114] is reduced to a width of 10 metres in certain areas as shown on SO 436126; and
     
-    *   (f) the marginal strips reserved by [section 24][377] of the Conservation Act 1987 from the vesting of Coombe Rocks under section 94(2) are reduced to a width of 10 metres; and
+    *   (f) the marginal strips reserved by [section 24][386] of the Conservation Act 1987 from the vesting of Coombe Rocks under [section 94(2)][118] are reduced to a width of 10 metres; and
     
-    *   (g) the marginal strips reserved by [section 24][377] of the Conservation Act 1987 from the vesting of the Anatoia Islands under section 98(2) are---
+    *   (g) the marginal strips reserved by [section 24][386] of the Conservation Act 1987 from the vesting of the Anatoia Islands under [section 98(2)][122] are---
             
         *   (i) reduced to a width of 3 metres in Sections 2, 3, 4, 5, and 6 SO 426664; and
         
@@ -3407,41 +3407,41 @@ Cultural redress
         
         
     
-    (3) If the reservation, under [subpart 4][96], of a reserve site is revoked in relation to all or part of the site, then the vesting of the site in any trustees under subpart 4 is no longer exempt from the rest of [section 24][377] of the Conservation Act 1987 in relation to all or that part of the site (as the case may be).
+    (3) If the reservation, under [subpart 4][96], of a reserve site is revoked in relation to all or part of the site, then the vesting of the site in any trustees under [subpart 4][96] is no longer exempt from the rest of [section 24][386] of the Conservation Act 1987 in relation to all or that part of the site (as the case may be).
 
 ##### 123 Recording application of Part 4A of Conservation Act 1987, sections of this Act, and fencing covenant
     
 *   (1) The Registrar-General must record on any computer freehold register for a reserve site (other than a jointly vested site)---
         
-    *   (a) that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that [section 24][377] of that Act does not apply; and
+    *   (a) that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that [section 24][386] of that Act does not apply; and
     
-    *   (b) that the land is subject to sections 122(3) and 129\.
+    *   (b) that the land is subject to [sections 122(3)][149] and [129][157].
     
-    (2) The Registrar-General must record on any computer freehold register created under section 121 for a reserve site that is a jointly vested site (being Pūponga Point Pā site, Mātangi Āwhio (Nelson), Pukatea / Whites Bay, Horahora-kākahu, and Tokomaru / Mount Robertson)---
+    (2) The Registrar-General must record on any computer freehold register created under [section 121][148] for a reserve site that is a jointly vested site (being Pūponga Point Pā site, Mātangi Āwhio (Nelson), Pukatea / Whites Bay, Horahora-kākahu, and Tokomaru / Mount Robertson)---
         
-    *   (a) that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that [section 24][377] of that Act does not apply; and
+    *   (a) that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that [section 24][386] of that Act does not apply; and
     
-    *   (b) that the land is subject to sections 119(4), 122(3), and 130\.
+    *   (b) that the land is subject to [sections 119(4)][146], [122(3)][149], and [130][158].
     
     (3) The Registrar-General must record on any computer freehold register for---
         
-    *   (a) Catherine Cove that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strips are reduced to a width of 3 metres; and
+    *   (a) Catherine Cove that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strips are reduced to a width of 3 metres; and
     
     *   (b) Whangarae Bay (Okiwi Bay) that---
             
-        *   (i) the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres; and
+        *   (i) the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres; and
         
-        *   (ii) the land is subject to the fencing covenant referred to in section 77(3); and
+        *   (ii) the land is subject to the fencing covenant referred to in [section 77(3)][100]; and
         
         
     
-    *   (c) Glenhope (Kawatiri) that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres; and
+    *   (c) Glenhope (Kawatiri) that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres; and
     
-    *   (d) Lucky Bay that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres in certain areas as shown on SO 436126; and
+    *   (d) Lucky Bay that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strip is reduced to a width of 10 metres in certain areas as shown on SO 436126; and
     
-    *   (e) Coombe Rocks that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strips are reduced to a width of 10 metres; and
+    *   (e) Coombe Rocks that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strips are reduced to a width of 10 metres; and
     
-    *   (f) the Anatoia Islands that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that the marginal strips are---
+    *   (f) the Anatoia Islands that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that the marginal strips are---
             
         *   (i) reduced to a width of 3 metres in Sections 2, 3, 4, 5, and 6 SO 426664; and
         
@@ -3449,65 +3449,65 @@ Cultural redress
         
         
     
-    (4) The Registrar-General must record on any computer freehold register for any other cultural redress property that the land is subject to [Part 4A][368] of the Conservation Act 1987\.
+    (4) The Registrar-General must record on any computer freehold register for any other cultural redress property that the land is subject to [Part 4A][371] of the Conservation Act 1987\.
     
-    (5) A notification made under any of subsections (1) to (4) that land is subject to [Part 4A][368] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][380] of that Act.
+    (5) A notification made under any of subsections (1) to (4) that land is subject to [Part 4A][371] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][389] of that Act.
     
-    (6) For a reserve site other than a jointly vested site, if the reservation of the site under subpart 4 is revoked in relation to---
+    (6) For a reserve site other than a jointly vested site, if the reservation of the site under [subpart 4][96] is revoked in relation to---
         
     *   (a) all of the site, then the Director-General must apply in writing to the Registrar-General to remove from any computer freehold register for the site---
             
-        *   (i) the notification that [section 24][377] of the Conservation Act 1987 does not apply to the site; and
+        *   (i) the notification that [section 24][386] of the Conservation Act 1987 does not apply to the site; and
         
-        *   (ii) the notifications that the site is subject to sections 122(3) and 129; or
+        *   (ii) the notifications that the site is subject to [sections 122(3)][149] and [129][157]; or
         
         
     
     *   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on any computer freehold register for the part of the site that remains a reserve.
     
-    (7) For a reserve site that is a jointly vested site, if the reservation of the site under subpart 4 is revoked in relation to---
+    (7) For a reserve site that is a jointly vested site, if the reservation of the site under [subpart 4][96] is revoked in relation to---
         
-    *   (a) all of the site, then the Director-General must apply in writing to the Registrar-General to remove from any computer freehold register created under section 121 for the site---
+    *   (a) all of the site, then the Director-General must apply in writing to the Registrar-General to remove from any computer freehold register created under [section 121][148] for the site---
             
-        *   (i) the notification that [section 24][377] of the Conservation Act 1987 does not apply to the site; and
+        *   (i) the notification that [section 24][386] of the Conservation Act 1987 does not apply to the site; and
         
-        *   (ii) the notification that the site is subject to sections 119(4), 122(3), and 130; or
+        *   (ii) the notification that the site is subject to [sections 119(4)][146], [122(3)][149], and [130][158]; or
         
         
     
-    *   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on any computer freehold register, created under section 121 or derived from a computer freehold register created under section 121, for the part of the site that remains a reserve.
+    *   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on any computer freehold register, created under [section 121][148] or derived from a computer freehold register created under section 121, for the part of the site that remains a reserve.
     
     (8) The Registrar-General must comply with an application received in accordance with subsection (6)(a) or (7)(a).
 
 ##### 124 Application of other enactments
     
-*   (1) [Sections 24][381] and [25][382] of the Reserves Act 1977 do not apply to the revocation, under subpart 4, of the reserve status of a cultural redress property.
+*   (1) [Sections 24][390] and [25][391] of the Reserves Act 1977 do not apply to the revocation, under [subpart 4][96], of the reserve status of a cultural redress property.
     
-    (2) [Section 11][383] and [Part 10][384] of the Resource Management Act 1991 do not apply to---
+    (2) [Section 11][392] and [Part 10][393] of the Resource Management Act 1991 do not apply to---
         
-    *   (a) the vesting of the fee simple estate in a cultural redress property under subpart 4; or
+    *   (a) the vesting of the fee simple estate in a cultural redress property under [subpart 4][96]; or
     
     *   (b) any matter incidental to, or required for the purpose of, the vesting.
     
-    (3) The vesting of the fee simple estate in a cultural redress property under subpart 4 does not---
+    (3) The vesting of the fee simple estate in a cultural redress property under [subpart 4][96] does not---
         
     *   (a) limit [section 10][310] or [11][311] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (4) The permission of a council under [section 348][385] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of a deed of settlement in relation to a cultural redress property.
+    (4) The permission of a council under [section 348][394] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of a deed of settlement in relation to a cultural redress property.
 
 #### Provisions relating to reserve sites
 
 ##### 125 Application of Reserves Act 1977 to reserve sites
     
-*   (1) The trustees in whom a reserve site is vested under subpart 4 are the administering body of the reserve site, except as provided by sections 113(5), 114(5), 115(5), 116(5), and 117(5).
+*   (1) The trustees in whom a reserve site is vested under [subpart 4][96] are the administering body of the reserve site, except as provided by [sections 113(5)][138], [114(5)][139], [115(5)][140], [116(5)][141], and [117(5)][142].
     
-    (2) [Sections 48A][386], [114][387], and [115][388] of the Reserves Act 1977 apply to a reserve site, despite sections 48A(6), 114(5), and 115(6) of that Act.
+    (2) [Sections 48A][395], [114][396], and [115][397] of the Reserves Act 1977 apply to a reserve site, despite sections 48A(6), 114(5), and 115(6) of that Act.
     
-    (3) [Sections 78(1)(a)][389], [79 to 81][390], and [88][391] of the Reserves Act 1977 do not apply in relation to a reserve site (other than Mātangi Āwhio (Nelson)).
+    (3) [Sections 78(1)(a)][398], [79 to 81][399], and [88][400] of the Reserves Act 1977 do not apply in relation to a reserve site (other than Mātangi Āwhio (Nelson)).
     
-    (4) If the reservation, under [subpart 4][39], of a reserve site is revoked under [section 24][381] of the Reserves Act 1977 in relation to all or part of the site, [section 25][382] (except subsection (2)) of that Act does not apply to the revocation.
+    (4) If the reservation, under [subpart 4][39], of a reserve site is revoked under [section 24][390] of the Reserves Act 1977 in relation to all or part of the site, [section 25][391] (except subsection (2)) of that Act does not apply to the revocation.
 
 ##### 126 Joint management body for Pūponga Point Pā site
     
@@ -3531,7 +3531,7 @@ Cultural redress
     
     (5) A member may be appointed, reappointed, or discharged at the discretion of the appointer.
     
-    (6) [Sections 32 to 34][392] of the Reserves Act 1977 apply to the joint management body as if it were a board.
+    (6) [Sections 32 to 34][401] of the Reserves Act 1977 apply to the joint management body as if it were a board.
     
     (7) However, the first meeting of the body must be held no later than 2 months after the settlement date.
 
@@ -3557,7 +3557,7 @@ Cultural redress
     
     (5) A member may be appointed, reappointed, or discharged at the discretion of the appointer.
     
-    (6) [Sections 32 to 34][392] of the Reserves Act 1977 apply to the joint management body as if it were a board.
+    (6) [Sections 32 to 34][401] of the Reserves Act 1977 apply to the joint management body as if it were a board.
     
     (7) Subsection (6) applies subject to subsections (8) and (9).
     
@@ -3567,7 +3567,7 @@ Cultural redress
         
     *   (a) those provisions apply; and
     
-    *   (b) [section 32][392] of the Reserves Act 1977 does not apply.
+    *   (b) [section 32][401] of the Reserves Act 1977 does not apply.
     
     
 
@@ -3591,7 +3591,7 @@ Cultural redress
     
     (5) A member may be appointed, reappointed, or discharged at the discretion of the appointer.
     
-    (6) [Sections 32 to 34][392] of the Reserves Act 1977 apply to the joint management body as if it were a board.
+    (6) [Sections 32 to 34][401] of the Reserves Act 1977 apply to the joint management body as if it were a board.
     
     (7) Subsection (6) applies subject to subsections (8) and (9).
     
@@ -3601,7 +3601,7 @@ Cultural redress
         
     *   (a) those provisions apply; and
     
-    *   (b) [section 32][392] of the Reserves Act 1977 does not apply.
+    *   (b) [section 32][401] of the Reserves Act 1977 does not apply.
     
     
 
@@ -3647,7 +3647,7 @@ Cultural redress
 
 ##### 130 Subsequent transfer of jointly vested sites
     
-*   (1) This section applies to all, or only the part, of a jointly vested site that remains a reserve under the [Reserves Act 1977][366] after the site has vested in any trustees under [subpart 4][96] of this Part, subpart 4 of Part 2 of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014, or subpart 3 of Part 2 of the Ngati Toa Rangatira Claims Settlement Act 2014 (the _reserve land_).
+*   (1) This section applies to all, or only the part, of a jointly vested site that remains a reserve under the [Reserves Act 1977][366] after the site has vested in any trustees under [subpart 4][96] of this Part, [subpart 4][402] of Part 2 of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014, or [subpart 3][403] of Part 2 of the Ngati Toa Rangatira Claims Settlement Act 2014 (the _reserve land_).
     
     (2) The fee simple estate in the reserve land may be transferred only if---
         
@@ -3667,7 +3667,7 @@ Cultural redress
 
 ##### 132 Saving of bylaws, etc, in relation to reserve sites
     
-*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister of Conservation has made or imposed under the [Reserves Act 1977][366] or the [Conservation Act 1987][303] in relation to a reserve site before the site vests in any trustees under subpart 4\.
+*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister of Conservation has made or imposed under the [Reserves Act 1977][366] or the [Conservation Act 1987][303] in relation to a reserve site before the site vests in any trustees under [subpart 4][96].
     
     (2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the [Reserves Act 1977][366] or the [Conservation Act 1987][303].
 
@@ -3679,11 +3679,11 @@ Cultural redress
     
     (2) The official geographic name of the Crown protected area is discontinued in respect of the land, or the part of the land, and the Board must amend the Gazetteer accordingly.
     
-    (3) A reserve site is not a Crown protected area, despite anything in the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    (3) A reserve site is not a Crown protected area, despite anything in the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][404].
     
-    (4) A reserve site must not have a name assigned to it, or have its name changed, under [section 16(10)][393] of the Reserves Act 1977 without the written consent of the owners of the site, and section 16(10A) of that Act does not apply to the proposed name.
+    (4) A reserve site must not have a name assigned to it, or have its name changed, under [section 16(10)][405] of the Reserves Act 1977 without the written consent of the owners of the site, and section 16(10A) of that Act does not apply to the proposed name.
     
-    (5) In this section, _Board_, _Crown protected area_, _Gazetteer_, and _official geographic name_ have the meanings given by section 4 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    (5) In this section, _Board_, _Crown protected area_, _Gazetteer_, and _official geographic name_ have the meanings given by [section 4][406] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ### Subpart 6---Delayed vesting of cleared land
 
@@ -3695,7 +3695,7 @@ Cultural redress
     
     _French Pass School and teachers' residence_ means the land described by that name in Schedule 4
     
-    _vesting date_, in relation to cleared land, means the land's date of vesting specified in a written notice under section 135(3)(c).
+    _vesting date_, in relation to cleared land, means the land's date of vesting specified in a written notice under [section 135(3)(c)][165].
 
 ##### 135 French Pass School and teachers' residence
     
@@ -3753,13 +3753,13 @@ Cultural redress
 
 ##### 137 Application of other enactments to cleared land
     
-*   (1) The vesting of the fee simple estate in cleared land under this subpart is a disposition for the purposes of [Part 4A][368] of the Conservation Act 1987, but [sections 24(2A)][377], [24A][378], and [24AA][379] of that Act do not apply to the disposition.
+*   (1) The vesting of the fee simple estate in cleared land under this subpart is a disposition for the purposes of [Part 4A][371] of the Conservation Act 1987, but [sections 24(2A)][386], [24A][387], and [24AA][388] of that Act do not apply to the disposition.
     
-    (2) The Registrar-General must record on any computer freehold register for cleared land that the land is subject to [Part 4A][368] of the Conservation Act 1987\.
+    (2) The Registrar-General must record on any computer freehold register for cleared land that the land is subject to [Part 4A][371] of the Conservation Act 1987\.
     
-    (3) A notification made under subsection (2) is to be treated as having been made in compliance with [section 24D(1)][380] of the Conservation Act 1987\.
+    (3) A notification made under subsection (2) is to be treated as having been made in compliance with [section 24D(1)][389] of the Conservation Act 1987\.
     
-    (4) [Section 11][383] and [Part 10][384] of the Resource Management Act 1991 do not apply to---
+    (4) [Section 11][392] and [Part 10][393] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting of the fee simple estate in cleared land under this subpart; or
     
@@ -3789,13 +3789,13 @@ Cultural redress
         
     *   (a) the fee simple estate in Kaka Point vests in the Crown as a gift back to the Crown by the trustees for the people of New Zealand; and
     
-    *   (b) Kaka Point is then changed in classification to be a historic reserve subject to [section 18][373] of the Reserves Act 1977 and the historic reserve is named Kaka Point Historic Reserve.
+    *   (b) Kaka Point is then changed in classification to be a historic reserve subject to [section 18][376] of the Reserves Act 1977 and the historic reserve is named Kaka Point Historic Reserve.
     
     (3) Despite the vestings,---
         
     *   (a) Kaka Point remains a reserve under the [Reserves Act 1977][366], and that Act continues to apply to the reserve, as if the vestings had not occurred; and
     
-    *   (b) the Kaiteriteri Recreation Reserve Board remains the administering body appointed to control and manage the reserve under [section 30][394] of the Reserves Act 1977; and
+    *   (b) the Kaiteriteri Recreation Reserve Board remains the administering body appointed to control and manage the reserve under [section 30][407] of the Reserves Act 1977; and
     
     *   (c) any other enactment or any instrument that applied to Kaka Point immediately before the settlement date continues to apply to it as if the vestings had not occurred; and
     
@@ -3803,11 +3803,11 @@ Cultural redress
     
     *   (e) the Crown retains all liability for Kaka Point as if the vestings had not occurred.
     
-    (4) The vestings are not affected by [Part 4A][368] of the Conservation Act 1987, [section 11][383] and [Part 10][384] of the Resource Management Act 1991, or any other enactment.
+    (4) The vestings are not affected by [Part 4A][371] of the Conservation Act 1987, [section 11][392] and [Part 10][393] of the Resource Management Act 1991, or any other enactment.
     
     (5) To the extent that the statutory acknowledgement or a deed of recognition applies to Kaka Point, it applies only after Kaka Point vests back in the Crown.
     
-    (6) The Registrar-General must, on written application by an authorised person, record on any computer freehold register that contains all or part of Kaka Point that, under this section, the land in Kaka Point is classified as a historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+    (6) The Registrar-General must, on written application by an authorised person, record on any computer freehold register that contains all or part of Kaka Point that, under this section, the land in Kaka Point is classified as a historic reserve subject to [section 18][376] of the Reserves Act 1977\.
     
     (7) The written application must be made as soon as is reasonably practicable on or after the seventh day after the settlement date.
     
@@ -3815,7 +3815,7 @@ Cultural redress
     
     _authorised person_ means a person authorised by the Director-General
     
-    _Kaka Point_ means the land described by that name in Schedule 4\.
+    _Kaka Point_ means the land described by that name in [Schedule 4][295].
 
 ##### 139 Vesting and gifting back of Te Tai Tapu
     
@@ -3823,7 +3823,7 @@ Cultural redress
         
     *   (a) the trustees of the Ngāti Rārua Settlement Trust, the trustees of the Ngāti Tama ki Te Waipounamu Trust, and the trustees of the Te Ātiawa o Te Waka-a-Māui Trust under this paragraph; and
     
-    *   (b) the trustees of the Ngāti Apa ki te Rā Tō Trust under section 113(1)(a) of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014\.
+    *   (b) the trustees of the Ngāti Apa ki te Rā Tō Trust under [section 113(1)(a)][408] of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014\.
     
     (2) On the seventh day after the settlement date, the fee simple estate in Te Tai Tapu vests in the Crown as a gift back to the Crown by the trustees for the people of New Zealand.
     
@@ -3837,11 +3837,11 @@ Cultural redress
     
     *   (d) the Crown retains all liability for Te Tai Tapu as if the vestings had not occurred.
     
-    (4) The vestings are not affected by [Part 4A][368] of the Conservation Act 1987, [section 11][383] and [Part 10][384] of the Resource Management Act 1991, or any other enactment.
+    (4) The vestings are not affected by [Part 4A][371] of the Conservation Act 1987, [section 11][392] and [Part 10][393] of the Resource Management Act 1991, or any other enactment.
     
     (5) To the extent that the statutory acknowledgement or a deed of recognition applies to Te Tai Tapu, it applies only after Te Tai Tapu vests back in the Crown.
     
-    (6) In this section, _Te Tai Tapu_ means the land described by that name in Schedule 4\.
+    (6) In this section, _Te Tai Tapu_ means the land described by that name in [Schedule 4][295].
 
 ### Subpart 8---Easement over part of D'Urville Island Scenic Reserve
 
@@ -3853,11 +3853,11 @@ Cultural redress
     
     (3) The easement---
         
-    *   (a) is enforceable in accordance with its terms, despite [Part 3B][367] of the Conservation Act 1987; and
+    *   (a) is enforceable in accordance with its terms, despite [Part 3B][369] of the Conservation Act 1987; and
     
-    *   (b) is to be treated as having been granted in accordance with Part 3B of that Act.
+    *   (b) is to be treated as having been granted in accordance with [Part 3B][369] of that Act.
     
-    (4) The permission of a council under [section 348][385] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way in relation to the easement.
+    (4) The permission of a council under [section 348][394] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way in relation to the easement.
 
 ### Subpart 9---Geographic names
 
@@ -3865,11 +3865,11 @@ Cultural redress
     
 *   In this subpart,---
     
-    _New Zealand Geographic Board_ has the meaning given to Board by section 4 of the NZGB Act
+    _New Zealand Geographic Board_ has the meaning given to Board by [section 4][406] of the NZGB Act
     
-    _NZGB Act_ means the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+    _NZGB Act_ means the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][404]
     
-    _official geographic name_ has the meaning given by section 4 of the NZGB Act.
+    _official geographic name_ has the meaning given by [section 4][406] of the NZGB Act.
 
 ##### 142 New names of features
     
@@ -3893,17 +3893,17 @@ Cultural redress
     
     *   (d) clause 5.41.2 of the deed of settlement for Te Ātiawa o Te Waka-a-Māui.
     
-    (3) Each assignment or alteration is to be treated as if it were an assignment or alteration of the official geographic name by a determination of the New Zealand Geographic Board, under section 19 of the NZGB Act, that takes effect on the settlement date.
+    (3) Each assignment or alteration is to be treated as if it were an assignment or alteration of the official geographic name by a determination of the New Zealand Geographic Board, under [section 19][409] of the NZGB Act, that takes effect on the settlement date.
 
 ##### 143 Publication of new names
     
-*   (1) The New Zealand Geographic Board must, as soon as practicable after the settlement date, give public notice of each assignment or alteration of a name under section 142 in accordance with section 21(2) and (3) of the NZGB Act.
+*   (1) The New Zealand Geographic Board must, as soon as practicable after the settlement date, give public notice of each assignment or alteration of a name under [section 142][175] in accordance with [section 21(2) and (3)][410] of the NZGB Act.
     
     (2) However, the notices must state that the assignments and alterations took effect on the settlement date.
 
 ##### 144 Alteration of new names
     
-*   (1) The New Zealand Geographic Board need not comply with the requirements of sections 16, 17, 18, 19(1), and 20 of the NZGB Act in making a determination to alter the official geographic name of a feature named by this subpart.
+*   (1) The New Zealand Geographic Board need not comply with the requirements of [sections 16][411], [17][412], [18][413], [19(1)][409], and [20][414] of the NZGB Act in making a determination to alter the official geographic name of a feature named by this subpart.
     
     (2) Instead, the Board may make the determination as long as it has the written consent of the following trustees:
         
@@ -3913,7 +3913,7 @@ Cultural redress
     
     *   (c) the trustee of the Toa Rangatira Trust.
     
-    (3) To avoid doubt, the Board must give public notice of the determination in accordance with section 21(2) and (3) of the NZGB Act.
+    (3) To avoid doubt, the Board must give public notice of the determination in accordance with [section 21(2) and (3)][410] of the NZGB Act.
 
 ### Subpart 10---Minerals fossicking right
 
@@ -3943,7 +3943,7 @@ Cultural redress
 
 ##### 147 Access to riverbed to search for and remove sand, shingle, or other natural material
     
-*   A person who is authorised to search for sand, shingle, or other natural material in, and remove the material from, a riverbed under section 146 may access the riverbed over conservation land for that purpose, but only---
+*   A person who is authorised to search for sand, shingle, or other natural material in, and remove the material from, a riverbed under [section 146][180] may access the riverbed over conservation land for that purpose, but only---
         
     *   (a) on foot; or
     
@@ -3955,25 +3955,25 @@ Cultural redress
 
 ##### 148 Obligations if accessing riverbed
     
-*   A person who accesses a riverbed under section 146 or 147 must take all reasonable care to do no more than minor damage to vegetation on, and other natural features of, the riverbed and surrounding areas.
+*   A person who accesses a riverbed under [section 146][180] or [147][181] must take all reasonable care to do no more than minor damage to vegetation on, and other natural features of, the riverbed and surrounding areas.
 
 ##### 149 Relationship with other enactments
     
-*   (1) A person exercising a right under section 146 or 147 must comply with all other lawful requirements (for example, under the [Resource Management Act 1991][350]).
+*   (1) A person exercising a right under [section 146][180] or [147][181] must comply with all other lawful requirements (for example, under the [Resource Management Act 1991][350]).
     
     (2) However,---
         
-    *   (a) a person may exercise a right under section 146 or 147 despite not having any authorisation required by the conservation legislation; and
+    *   (a) a person may exercise a right under [section 146][180] or [147][181] despite not having any authorisation required by the conservation legislation; and
     
-    *   (b) a person may exercise a right under section 146 despite not having any authorisation required by the [Land Act 1948][375].
+    *   (b) a person may exercise a right under [section 146][180] despite not having any authorisation required by the [Land Act 1948][378].
     
-    (3) The rights under sections 146 and 147 do not apply in relation to any part of a riverbed that is---
+    (3) The rights under [sections 146][180] and [147][181] do not apply in relation to any part of a riverbed that is---
         
-    *   (a) an ecological area declared under [section 18][395] of the Conservation Act 1987; or
+    *   (a) an ecological area declared under [section 18][415] of the Conservation Act 1987; or
     
     *   (b) an archaeological site (as defined by [section 2][356] of the Historic Places Act 1993); or
     
-    *   (c) land described in [Schedule 4][396] of the Crown Minerals Act 1991\.
+    *   (c) land described in [Schedule 4][416] of the Crown Minerals Act 1991\.
     
     
 
@@ -4015,7 +4015,7 @@ Cultural redress
     
     _coastal marine area_ has the meaning given by [section 2(1)][302] of the Resource Management Act 1991
     
-    _kaitiaki plan_ means the plan lodged with Marlborough District Council under section 154
+    _kaitiaki plan_ means the plan lodged with Marlborough District Council under [section 154][190]
     
     _Queen Charlotte Sound / Tōtaranui_ means the area with the general location (but not the precise boundaries) indicated on deed plan OTS--202--134\.
 
@@ -4063,11 +4063,11 @@ Cultural redress
     
     (3) The council must include in the regional policy statement or regional coastal plan a statement of the resource management issues of significance to Te Ātiawa o Te Waka-a-Māui as set out in the kaitiaki plan.
     
-    (4) The council must refer to the kaitiaki plan to the extent that it is relevant in its report under [section 32(5)][397] of the Resource Management Act 1991 on an evaluation of the proposed regional policy statement or regional coastal plan.
+    (4) The council must refer to the kaitiaki plan to the extent that it is relevant in its report under [section 32(5)][417] of the Resource Management Act 1991 on an evaluation of the proposed regional policy statement or regional coastal plan.
 
 ##### 156 Limitation of rights
     
-*   The kaitiaki plan does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights (including rights under the [Marine and Coastal Area (Takutai Moana) Act 2011][398]) relating to, the coastal marine area of Queen Charlotte Sound / Tōtaranui.
+*   The kaitiaki plan does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights (including rights under the [Marine and Coastal Area (Takutai Moana) Act 2011][418]) relating to, the coastal marine area of Queen Charlotte Sound / Tōtaranui.
 
 ### Subpart 13---Acknowledgement of historical association with West of Separation Point / Te Matau
 
@@ -4105,13 +4105,13 @@ Cultural redress
 
 ##### 160 Advisory committee may provide advice
     
-*   (1) The advisory committee may provide written advice, in reply to an invitation under section 161, in relation to the management of rivers and fresh water within the region of a relevant council before the council---
+*   (1) The advisory committee may provide written advice, in reply to an invitation under [section 161][199], in relation to the management of rivers and fresh water within the region of a relevant council before the council---
         
-    *   (a) makes any decisions on the review of a policy statement or plan under [section 79][399] of the Resource Management Act 1991; or
+    *   (a) makes any decisions on the review of a policy statement or plan under [section 79][419] of the Resource Management Act 1991; or
     
-    *   (b) starts to prepare or change a policy statement or plan under Part 1 of Schedule 1 of that Act; or
+    *   (b) starts to prepare or change a policy statement or plan under [Part 1][420] of Schedule 1 of that Act; or
     
-    *   (c) notifies a proposed policy statement or plan under clause 5 of Schedule 1 of that Act.
+    *   (c) notifies a proposed policy statement or plan under [clause 5][421] of Schedule 1 of that Act.
     
     (2) If the committee and a relevant council agree in writing, the committee may provide written advice to the council on any other matter in relation to the [Resource Management Act 1991][350].
     
@@ -4119,17 +4119,17 @@ Cultural redress
 
 ##### 161 Council must invite and have regard to advice
     
-*   (1) A relevant council must comply with this section before performing any action referred to in section 160(1)(a) to (c).
+*   (1) A relevant council must comply with this section before performing any action referred to in [section 160(1)(a) to (c)][422].
     
     (2) The council must provide a written invitation to the advisory committee to provide written advice in relation to the action.
     
-    (3) The council must have regard to advice received from the committee under section 160(1) in reply to an invitation if the advice is received---
+    (3) The council must have regard to advice received from the committee under [section 160(1)][198] in reply to an invitation if the advice is received---
         
     *   (a) before the day that is 2 months after the day on which the committee received the invitation; or
     
     *   (b) before any other day agreed to by the council and the committee.
     
-    (4) The council must have regard to any advice received from the committee under section 160(2) if it is reasonably practicable to do so.
+    (4) The council must have regard to any advice received from the committee under [section 160(2)][198] if it is reasonably practicable to do so.
 
 ##### 162 Procedure and meetings of advisory committee
     
@@ -4157,7 +4157,7 @@ Cultural redress
 
 ##### 163 Advisory committee may request information
     
-*   (1) The advisory committee may make a written request for information from a relevant council in relation to an action or a proposed action of a council referred to in section 160(1)(a) to (c).
+*   (1) The advisory committee may make a written request for information from a relevant council in relation to an action or a proposed action of a council referred to in [section 160(1)(a) to (c)][198].
     
     (2) The council must provide the requested information to the committee if it is reasonably practicable to do so.
 
@@ -4246,9 +4246,9 @@ Commercial redress
     
     (9) The authorised person may grant a covenant for the later creation of a computer freehold register for any land that is to be transferred to the trustees of a settlement trust.
     
-    (10) Despite the [Land Transfer Act 1952][400],---
+    (10) Despite the [Land Transfer Act 1952][423],---
         
-    *   (a) the authorised person may request the Registrar-General to register the covenant under the [Land Transfer Act 1952][400] by creating a computer interest register; and
+    *   (a) the authorised person may request the Registrar-General to register the covenant under the [Land Transfer Act 1952][423] by creating a computer interest register; and
     
     *   (b) the Registrar-General must comply with the request.
     
@@ -4264,17 +4264,17 @@ Commercial redress
     
     (2) Any such easement---
         
-    *   (a) is enforceable in accordance with its terms, despite [Part 3B][367] of the Conservation Act 1987; and
+    *   (a) is enforceable in accordance with its terms, despite [Part 3B][369] of the Conservation Act 1987; and
     
-    *   (b) is to be treated as having been granted in accordance with [Part 3B][367] of that Act; and
+    *   (b) is to be treated as having been granted in accordance with [Part 3B][369] of that Act; and
     
-    *   (c) is registrable under [section 17ZA(2)][401] of that Act, as if it were a deed to which that provision applied.
+    *   (c) is registrable under [section 17ZA(2)][370] of that Act, as if it were a deed to which that provision applied.
     
     
 
 ##### 168 Application of other enactments
     
-*   (1) [Section 11][383] and [Part 10][384] of the Resource Management Act 1991 do not apply to---
+*   (1) [Section 11][392] and [Part 10][393] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the transfer of the fee simple estate in a commercial redress property or deferred selection property to the trustees of a settlement trust; or
     
@@ -4288,13 +4288,13 @@ Commercial redress
     
     *   (b) affect other rights to subsurface minerals.
     
-    (3) The transfer of the fee simple estate in a commercial redress property or deferred selection property to the trustees of a settlement trust is a disposition for the purposes of [Part 4A][368] of the Conservation Act 1987, but [sections 24(2A)][377], [24A][378], and [24AA][379] of that Act do not apply to the disposition.
+    (3) The transfer of the fee simple estate in a commercial redress property or deferred selection property to the trustees of a settlement trust is a disposition for the purposes of [Part 4A][371] of the Conservation Act 1987, but [sections 24(2A)][386], [24A][387], and [24AA][388] of that Act do not apply to the disposition.
     
-    (4) In exercising the powers conferred by section 165, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer of a commercial redress property or deferred selection property.
+    (4) In exercising the powers conferred by [section 165][205], the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer of a commercial redress property or deferred selection property.
     
     (5) Subsection (4) is subject to subsections (2) and (3).
     
-    (6) The permission of a council under [section 348][385] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of part 6 of a deed of settlement, and part 6 of the property redress schedule of a deed of settlement, in relation to a commercial redress property or deferred selection property.
+    (6) The permission of a council under [section 348][394] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of part 6 of a deed of settlement, and part 6 of the property redress schedule of a deed of settlement, in relation to a commercial redress property or deferred selection property.
 
 ##### 169 Transfer of certain commercial redress properties and deferred selection properties
     
@@ -4326,13 +4326,13 @@ Commercial redress
     
     (9) If the land, or any part of the land, in the property referred to in subsection (7)(a) is, immediately before the transfer, all or part of a Crown protected area, then upon transfer the official geographic name of the Crown protected area is discontinued in respect of the land, or the part of the land, and the Board must amend the Gazetteer accordingly.
     
-    (10) [Sections 24][381] and [25][382] of the Reserves Act 1977 do not apply to the revocation of reserve status under subsection (6) or (8).
+    (10) [Sections 24][390] and [25][391] of the Reserves Act 1977 do not apply to the revocation of reserve status under subsection (6) or (8).
     
     (11) Subsection (12) applies to the deferred selection property described as Batchelor Ford Road in part 4 of the property redress schedule of the deed of settlement for Ngāti Tama ki Te Tau Ihu if the property transfers to the trustees of the Ngāti Tama ki Te Waipounamu Trust in accordance with part 6 of that schedule.
     
-    (12) The marginal strip reserved by [section 24][377] of the Conservation Act 1987 from the transfer of the deferred selection property is reduced to a width of 5 metres, despite [section 168(3)][208].
+    (12) The marginal strip reserved by [section 24][386] of the Conservation Act 1987 from the transfer of the deferred selection property is reduced to a width of 5 metres, despite [section 168(3)][208].
     
-    (13) In subsections (4) and (9), _Board_, _Crown protected area_, _Gazetteer_, and _official geographic name_ have the meanings given by section 4 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    (13) In subsections (4) and (9), _Board_, _Crown protected area_, _Gazetteer_, and _official geographic name_ have the meanings given by [section 4][406] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ##### 170 Transfer of properties subject to lease
     
@@ -4344,25 +4344,25 @@ Commercial redress
     
     *   (c) that, after the transfer, is to be subject to a lease back to the Crown.
     
-    (2) Despite section 168(3) (which refers to section 24(2A) of the Conservation Act 1987), the rest of section 24 of that Act does not apply to the transfer of the property.
+    (2) Despite [section 168(3)][208] (which refers to [section 24(2A)][386] of the Conservation Act 1987), the rest of section 24 of that Act does not apply to the transfer of the property.
     
     (3) The transfer instrument for the transfer of the property must include a notification that the land is to become subject to subsections (6) and (7) upon the registration of the transfer.
     
     (4) The Registrar-General must, upon the registration of the transfer of the property, record on any computer freehold register for the property---
         
-    *   (a) that the land is subject to [Part 4A][368] of the Conservation Act 1987, but that [section 24][377] of that Act does not apply; and
+    *   (a) that the land is subject to [Part 4A][371] of the Conservation Act 1987, but that [section 24][386] of that Act does not apply; and
     
     *   (b) that the land is subject to subsections (6) and (7).
     
-    (5) A notification made under subsection (4) that land is subject to [Part 4A][368] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][380] of that Act.
+    (5) A notification made under subsection (4) that land is subject to [Part 4A][371] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][389] of that Act.
     
-    (6) If the lease referred to in subsection (1)(c) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of the property, the transfer of the property is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the property, as the case may be.
+    (6) If the lease referred to in subsection (1)(c) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of the property, the transfer of the property is no longer exempt from the rest of [section 24][386] of the Conservation Act 1987 in relation to all or that part of the property, as the case may be.
     
     (7) If the lease referred to in subsection (1)(c) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of the property, then the registered proprietors of the property must apply in writing to the Registrar-General to,---
         
     *   (a) if none of the property remains subject to such a lease, remove from the computer freehold register for the property any notifications that---
             
-        *   (i) section 24 of the Conservation Act 1987 does not apply to the land; and
+        *   (i) [section 24][386] of the Conservation Act 1987 does not apply to the land; and
         
         *   (ii) the land is subject to subsections (6) and (7); or
         
@@ -4370,7 +4370,7 @@ Commercial redress
     
     *   (b) if only part of the property remains subject to such a lease (the _leased part_), amend any notifications on the computer freehold register for the property to record that, in relation to only the leased part,---
             
-        *   (i) section 24 of the Conservation Act 1987 does not apply to that part; and
+        *   (i) [section 24][386] of the Conservation Act 1987 does not apply to that part; and
         
         *   (ii) that part is subject to subsections (6) and (7).
         
@@ -4388,7 +4388,7 @@ Commercial redress
     
     _Crown forestry rental trust_ means the trust established by the Crown forestry rental trust deed
     
-    _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][402] of the Crown Forest Assets Act 1989
+    _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][424] of the Crown Forest Assets Act 1989
     
     _relevant Crown forestry licence_, for a licensed property, means the Crown forestry licence described in relation to the property in part 3 of the property redress schedule of a deed of settlement
     
@@ -4396,11 +4396,11 @@ Commercial redress
 
 ##### 172 Licensed property ceases to be Crown forest land
     
-*   (1) A licensed property ceases to be Crown forest land under the [Crown Forest Assets Act 1989][403] upon the registration of the transfer of the fee simple estate in the property to the relevant trustees.
+*   (1) A licensed property ceases to be Crown forest land under the [Crown Forest Assets Act 1989][425] upon the registration of the transfer of the fee simple estate in the property to the relevant trustees.
     
     (2) However, although the licensed property does not cease to be Crown forest land until the transfer to the relevant trustees is registered, neither the Crown nor any court or tribunal may do any thing or omit to do any thing if that act or omission would, between the settlement date and the date of registration,---
         
-    *   (a) be permitted by the [Crown Forest Assets Act 1989][403]; but
+    *   (a) be permitted by the [Crown Forest Assets Act 1989][425]; but
     
     *   (b) be inconsistent with part 6 of a deed of settlement.
     
@@ -4426,11 +4426,11 @@ Commercial redress
     
     *   (d) clause 6.22 of the deed of settlement for Ngati Toa Rangatira.
     
-    (4) The Crown must give notice in accordance with [section 17(4)(b)][404] of the Crown Forest Assets Act 1989 in respect of each relevant Crown forestry licence, even though the Waitangi Tribunal has not made recommendations under [section 8HB(1)(a)][405] of the Treaty of Waitangi Act 1975 for the return of the 1 or more licensed properties to which the licence applies.
+    (4) The Crown must give notice in accordance with [section 17(4)(b)][426] of the Crown Forest Assets Act 1989 in respect of each relevant Crown forestry licence, even though the Waitangi Tribunal has not made recommendations under [section 8HB(1)(a)][427] of the Treaty of Waitangi Act 1975 for the return of the 1 or more licensed properties to which the licence applies.
     
     (5) Notice given by the Crown under subsection (4) has effect as if---
         
-    *   (a) the Waitangi Tribunal had made recommendations under [section 8HB(1)(a)][405] of the Treaty of Waitangi Act 1975 for the return of each licensed property; and
+    *   (a) the Waitangi Tribunal had made recommendations under [section 8HB(1)(a)][427] of the Treaty of Waitangi Act 1975 for the return of each licensed property; and
     
     *   (b) the recommendations had become final on the settlement date.
     
@@ -4438,13 +4438,13 @@ Commercial redress
         
     *   (a) on the settlement date; and
     
-    *   (b) under [section 36][406] of the Crown Forest Assets Act 1989\.
+    *   (b) under [section 36][428] of the Crown Forest Assets Act 1989\.
     
-    (7) However, [section 36(1)(b)][406] of the Crown Forest Assets Act 1989 does not apply to a licensed property.
+    (7) However, [section 36(1)(b)][428] of the Crown Forest Assets Act 1989 does not apply to a licensed property.
 
 ##### 174 Effect of transfer of licensed property
     
-*   (1) Section 173 applies whether or not---
+*   (1) [Section 173][215] applies whether or not---
         
     *   (a) the transfer of the fee simple estate in the 1 or more licensed properties to which the relevant Crown forestry licence applies has been registered; or
     
@@ -4460,7 +4460,7 @@ Commercial redress
         
     *   (a) for the period starting on the settlement date until the completion of the processes referred to in subsections (1) and (2) for the 1 or more licensed properties to which the licence applies; and
     
-    *   (b) that is not part of the rental proceeds referred to in section 173(2)(a).
+    *   (b) that is not part of the rental proceeds referred to in [section 173(2)(a)][215].
     
     (4) The licence fee payable is the amount calculated in the manner described in---
         
@@ -4484,15 +4484,15 @@ Commercial redress
 
 ##### 175 Unlicensed land
     
-*   The unlicensed land ceases to be Crown forest land, and any Crown forestry assets associated with that land cease to be Crown forestry assets, under the [Crown Forest Assets Act 1989][403].
+*   The unlicensed land ceases to be Crown forest land, and any Crown forestry assets associated with that land cease to be Crown forestry assets, under the [Crown Forest Assets Act 1989][425].
 
 ##### 176 Management of marginal strips
     
-*   (1) Any lessee of the unlicensed land under registered lease 9269596.1 is to be treated as if it had been appointed, under [section 24H(1)][407] of the Conservation Act 1987, to be the manager of any marginal strip within the unlicensed land.
+*   (1) Any lessee of the unlicensed land under registered lease 9269596.1 is to be treated as if it had been appointed, under [section 24H(1)][429] of the Conservation Act 1987, to be the manager of any marginal strip within the unlicensed land.
     
     (2) The lessee may do 1 or more of the following things in relation to the marginal strip:
         
-    *   (a) exercise the powers of a manager under [section 24H][407] of the Conservation Act 1987:
+    *   (a) exercise the powers of a manager under [section 24H][429] of the Conservation Act 1987:
     
     *   (b) establish, develop, grow, manage, replant, and maintain a forest on the marginal strip as if the marginal strip were subject to the lease of the unlicensed land:
     
@@ -4552,7 +4552,7 @@ Commercial redress
     
     (3) An amendment to a Crown forestry licence or registered lease is of no effect to the extent that it would---
         
-    *   (a) delay the date from which a person may exercise a right of access under section 178; or
+    *   (a) delay the date from which a person may exercise a right of access under [section 178][222]; or
     
     *   (b) adversely affect the right of access in any other way.
     
@@ -4582,7 +4582,7 @@ Commercial redress
 
 ##### 181 Interpretation
     
-*   In this subpart and Schedule 5, unless the context requires another meaning,---
+*   In this subpart and [Schedule 5][296], unless the context requires another meaning,---
     
     _deferred selection RFR land_ means a property---
         
@@ -4618,7 +4618,7 @@ Commercial redress
         
         
     
-    _expiry date_, for an offer, means its expiry date under sections 184(2)(a) and 185
+    _expiry date_, for an offer, means its expiry date under [sections 184(2)(a)][232] and [185][233]
     
     _general RFR land_ means land described in part 4 of the attachments to the deed of settlement for a settlement iwi if, on the settlement date, the land is---
         
@@ -4646,7 +4646,7 @@ Commercial redress
         
     *   (a) for general RFR land, the settlement trust of the iwi whose deed of settlement describes the land:
     
-    *   (b) for other RFR land, the 1 offer trust whose trustees accept an offer to dispose of the land under section 187
+    *   (b) for other RFR land, the 1 offer trust whose trustees accept an offer to dispose of the land under [section 187][235]
     
     _RFR landowner_, for RFR land,---
         
@@ -4654,9 +4654,9 @@ Commercial redress
     
     *   (b) means a Crown body, if the body holds the fee simple estate in the land; and
     
-    *   (c) includes a local authority to which RFR land has been disposed of under section 190(1); but
+    *   (c) includes a local authority to which RFR land has been disposed of under [section 190(1)][239]; but
     
-    *   (d) to avoid doubt, does not include an administering body in which RFR land is vested under section 191(1)
+    *   (d) to avoid doubt, does not include an administering body in which RFR land is vested under [section 191(1)][240]
     
     _RFR period_ means,---
         
@@ -4674,7 +4674,7 @@ Commercial redress
     
     *   (c) is not conservation land; and
     
-    *   (d) is not subject to a pastoral lease under Part 1 of the Crown Pastoral Land Act 1998
+    *   (d) is not subject to a pastoral lease under [Part 1][430] of the Crown Pastoral Land Act 1998
     
     _specified iwi RFR land_ means the land described as the summit of Tokomaru / Mount Robertson in part 5 of the attachments to the deed of settlement for Ngāti Rārua or Ngati Toa Rangatira if, on the settlement date, the land is vested in the Crown or held in fee simple by the Crown.
 
@@ -4692,23 +4692,23 @@ Commercial redress
     
     *   (e) the specified area RFR land; and
     
-    *   (f) land obtained in exchange for a disposal of RFR land under section 195(1)(c) or 196\.
+    *   (f) land obtained in exchange for a disposal of RFR land under [section 195(1)(c)][245] or [196][246].
     
     (2) However, land ceases to be RFR land if---
         
     *   (a) the fee simple estate in the land transfers from the RFR landowner to---
             
-        *   (i) the trustees of a recipient trust or their nominee (for example, under a contract formed under section 188); or
+        *   (i) the trustees of a recipient trust or their nominee (for example, under a contract formed under [section 188][236]); or
         
-        *   (ii) any other person (including the Crown or a Crown body) under section 183(3); or
+        *   (ii) any other person (including the Crown or a Crown body) under [section 183(3)][230]; or
         
         
     
     *   (b) the fee simple estate in the land transfers or vests from the RFR landowner to or in a person other than the Crown or a Crown body under---
             
-        *   (i) any of sections 192 to 199; or
+        *   (i) any of [sections 192 to 199][242]; or
         
-        *   (ii) anything referred to in section 200(1); or
+        *   (ii) anything referred to in [section 200(1)][250]; or
         
         
     
@@ -4722,17 +4722,17 @@ Commercial redress
     
 *   (1) An RFR landowner must not dispose of RFR land to any person other than the trustees of a recipient trust or their nominee unless the land is disposed of under subsection (2) or (3).
     
-    (2) The RFR land may be disposed of under any of sections 189 to 199 or under anything referred to in section 200(1).
+    (2) The RFR land may be disposed of under any of [sections 189 to 199][238] or under anything referred to in [section 200(1)][250].
     
     (3) The RFR land may be disposed of within 2 years after the expiry date of an offer by the RFR landowner to dispose of the land to the trustees of an offer trust, if the offer to those trustees was---
         
-    *   (a) made in accordance with section 184; and
+    *   (a) made in accordance with [section 184][232]; and
     
     *   (b) made on terms that were the same as, or more favourable to the trustees than, the terms of the disposal to the person referred to in subsection (1); and
     
-    *   (c) not withdrawn under section 186; and
+    *   (c) not withdrawn under [section 186][234]; and
     
-    *   (d) not accepted under section 187\.
+    *   (d) not accepted under [section 187][235].
     
     
 
@@ -4770,7 +4770,7 @@ Commercial redress
     
     *   (c) the earlier offer was not withdrawn.
     
-    (4) For an offer of RFR land other than general RFR land, if the RFR landowner has received notice of acceptance from the trustees of 2 or more offer trusts at the end of the expiry date specified in the notice of offer given under section 184, the expiry date is extended only for the trustees of those 2 or more offer trusts to the 20th working day after the day on which the trustees receive the landowner's notice given under section 187(4).
+    (4) For an offer of RFR land other than general RFR land, if the RFR landowner has received notice of acceptance from the trustees of 2 or more offer trusts at the end of the expiry date specified in the notice of offer given under [section 184][232], the expiry date is extended only for the trustees of those 2 or more offer trusts to the 20th working day after the day on which the trustees receive the landowner's notice given under [section 187(4)][235].
 
 ##### 186 Withdrawal of offer 
     
@@ -4790,7 +4790,7 @@ Commercial redress
         
     *   (a) the offer is accepted only if the RFR landowner has received notice of acceptance from the trustees of only 1 offer trust at the end of the expiry date; and
     
-    *   (b) if the landowner has received notice of acceptance from the trustees of 2 or more offer trusts at the end of the expiry date specified in the notice of offer given under section 184, the landowner has 10 working days to give notice under subsection (4) to the trustees of those 2 or more offer trusts.
+    *   (b) if the landowner has received notice of acceptance from the trustees of 2 or more offer trusts at the end of the expiry date specified in the notice of offer given under [section 184][232], the landowner has 10 working days to give notice under subsection (4) to the trustees of those 2 or more offer trusts.
     
     (4) The notice must---
         
@@ -4802,7 +4802,7 @@ Commercial redress
 
 ##### 188 Formation of contract 
     
-*   (1) If the trustees of an offer trust accept, under section 187, an offer by an RFR landowner to dispose of RFR land, a contract for the disposal of the land is formed between the landowner and the trustees on the terms in the offer, including the terms set out in subsections (3) to (6).
+*   (1) If the trustees of an offer trust accept, under [section 187][235], an offer by an RFR landowner to dispose of RFR land, a contract for the disposal of the land is formed between the landowner and the trustees on the terms in the offer, including the terms set out in subsections (3) to (6).
     
     (2) The terms of the contract may be varied by written agreement between the landowner and the trustees.
     
@@ -4828,11 +4828,11 @@ Commercial redress
     
     *   (b) a Crown body.
     
-    (2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with [section 143(5)][408] or [206][409] of the Education Act 1989\.
+    (2) To avoid doubt, the Crown may dispose of RFR land to a Crown body in accordance with [section 143(5)][431] or [206][432] of the Education Act 1989\.
 
 ##### 190 Disposals of existing public works to local authorities
     
-*   (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with [section 50][410] of the Public Works Act 1981 to a local authority (as defined by [section 2][318] of that Act).
+*   (1) An RFR landowner may dispose of RFR land that is a public work, or part of a public work, in accordance with [section 50][433] of the Public Works Act 1981 to a local authority (as defined by [section 2][318] of that Act).
     
     (2) To avoid doubt, if RFR land is disposed of to a local authority under subsection (1), the local authority becomes---
         
@@ -4844,7 +4844,7 @@ Commercial redress
 
 ##### 191 Disposals of reserves to administering bodies
     
-*   (1) An RFR landowner may dispose of RFR land in accordance with [section 26][376] or [26A][411] of the Reserves Act 1977\.
+*   (1) An RFR landowner may dispose of RFR land in accordance with [section 26][379] or [26A][434] of the Reserves Act 1977\.
     
     (2) To avoid doubt, if RFR land that is a reserve is vested in an administering body under subsection (1), the administering body does not become---
         
@@ -4852,7 +4852,7 @@ Commercial redress
     
     *   (b) subject to the obligations of an RFR landowner under this subpart.
     
-    (3) However, if RFR land vests back in the Crown under [section 25][382] or [27][412] of the Reserves Act 1977, the Crown becomes---
+    (3) However, if RFR land vests back in the Crown under [section 25][391] or [27][435] of the Reserves Act 1977, the Crown becomes---
         
     *   (a) the RFR landowner of the land; and
     
@@ -4888,11 +4888,11 @@ Commercial redress
     
 *   An RFR landowner may dispose of RFR land in accordance with---
         
-    *   (a) [section 54(1)(d)][413] of the Land Act 1948; or
+    *   (a) [section 54(1)(d)][436] of the Land Act 1948; or
     
-    *   (b) [section 355(3)][414] of the Resource Management Act 1991; or
+    *   (b) [section 355(3)][437] of the Resource Management Act 1991; or
     
-    *   (c) [subpart 3][415] of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011\.
+    *   (c) [subpart 3][438] of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
     
 
@@ -4900,25 +4900,25 @@ Commercial redress
     
 *   (1) An RFR landowner may dispose of RFR land in accordance with---
         
-    *   (a) [section 40(2) or (4)][416] or [41][417] of the Public Works Act 1981 (including as applied by another enactment); or
+    *   (a) [section 40(2) or (4)][439] or [41][440] of the Public Works Act 1981 (including as applied by another enactment); or
     
-    *   (b) [section 52][418], [105(1)][419], [106][420], [114(3)][421], [117(7)][422], or [119][423] of the Public Works Act 1981; or
+    *   (b) [section 52][441], [105(1)][442], [106][443], [114(3)][444], [117(7)][445], or [119][446] of the Public Works Act 1981; or
     
-    *   (c) [section 117(3)(a)][422] of the Public Works Act 1981; or
+    *   (c) [section 117(3)(a)][445] of the Public Works Act 1981; or
     
-    *   (d) [section 117(3)(b)][422] of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+    *   (d) [section 117(3)(b)][445] of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
     
-    *   (e) [section 23(1) or (4)][424], [24(4)][425], or [26][426] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    *   (e) [section 23(1) or (4)][447], [24(4)][448], or [26][449] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
-    (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under [section 41(e)][417] of the Public Works Act 1981\.
+    (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under [section 134][450] of Te Ture Whenua Maori Act 1993 after an application by an RFR landowner under [section 41(e)][440] of the Public Works Act 1981\.
 
 ##### 196 Disposals for reserve or conservation purposes
     
 *   An RFR landowner may dispose of RFR land in accordance with---
         
-    *   (a) [section 15][427] of the Reserves Act 1977; or
+    *   (a) [section 15][451] of the Reserves Act 1977; or
     
-    *   (b) [section 16A][428] or [24E][429] of the Conservation Act 1987\.
+    *   (b) [section 16A][452] or [24E][453] of the Conservation Act 1987\.
     
     
 
@@ -4932,7 +4932,7 @@ Commercial redress
         
     *   (a) that was held for education purposes on the settlement date to a person who, immediately before the disposal, is a tenant of the land or of all or part of a building on the land; or
     
-    *   (b) under [section 67][430] of the Land Act 1948, if the disposal is to a lessee under a lease of the land---
+    *   (b) under [section 67][454] of the Land Act 1948, if the disposal is to a lessee under a lease of the land---
             
         *   (i) granted before the settlement date; or
         
@@ -4940,7 +4940,7 @@ Commercial redress
         
         
     
-    *   (c) under [section 93(4)][431] of the Land Act 1948\.
+    *   (c) under [section 93(4)][455] of the Land Act 1948\.
     
     
 
@@ -5000,11 +5000,11 @@ Commercial redress
     
     (4) The giving of the notice does not, of itself, mean that an obligation has arisen under---
         
-    *   (a) section 207(4) of the Education Act 1989; or
+    *   (a) [section 207(4)][456] of the Education Act 1989; or
     
-    *   (b) section 23(1) or 24(4) of the New Zealand Railways Corporation Restructuring Act 1990; or
+    *   (b) [section 23(1)][447] or [24(4)][448] of the New Zealand Railways Corporation Restructuring Act 1990; or
     
-    *   (c) section 40 of the Public Works Act 1981 or that section as applied by another enactment.
+    *   (c) [section 40][439] of the Public Works Act 1981 or that section as applied by another enactment.
     
     
 
@@ -5022,9 +5022,9 @@ Commercial redress
     
     *   (c) identify the person to whom the land is being disposed of; and
     
-    *   (d) explain how the disposal complies with section 183; and
+    *   (d) explain how the disposal complies with [section 183][230]; and
     
-    *   (e) if the disposal is being made under section 183(3), include a copy of the written contract for the disposal.
+    *   (e) if the disposal is being made under [section 183(3)][230], include a copy of the written contract for the disposal.
     
     
 
@@ -5034,17 +5034,17 @@ Commercial redress
         
     *   (a) the fee simple estate in the land is to transfer from the RFR landowner to---
             
-        *   (i) the trustees of a recipient trust or their nominee (for example, under a contract formed under section 188); or
+        *   (i) the trustees of a recipient trust or their nominee (for example, under a contract formed under [section 188][236]); or
         
-        *   (ii) any other person (including the Crown or a Crown body) under section 183(3); or
+        *   (ii) any other person (including the Crown or a Crown body) under [section 183(3)][230]; or
         
         
     
     *   (b) the fee simple estate in the land is to transfer or vest from the RFR landowner to or in a person other than the Crown or a Crown body under---
             
-        *   (i) any of sections 192 to 199; or
+        *   (i) any of [sections 192 to 199][242]; or
         
-        *   (ii) anything referred to in section 200(1).
+        *   (ii) anything referred to in [section 200(1)][250].
         
         
     
@@ -5060,7 +5060,7 @@ Commercial redress
 
 ##### 205 Notice requirements
     
-*   Schedule 5 applies to notices given under this subpart by or to---
+*   [Schedule 5][296] applies to notices given under this subpart by or to---
         
     *   (a) an RFR landowner; or
     
@@ -5084,7 +5084,7 @@ Commercial redress
         
     *   (a) the settlement date, for RFR land for which there is a computer register on the settlement date; or
     
-    *   (b) receiving a notice under section 201 that the land has become RFR land or that a computer register has been created for RFR land, for any other land.
+    *   (b) receiving a notice under [section 201][252] that the land has become RFR land or that a computer register has been created for RFR land, for any other land.
     
     (3) Each certificate must state that it is issued under this section.
     
@@ -5092,7 +5092,7 @@ Commercial redress
     
     (5) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under this section, record on each computer register identified in the certificate that the land described in the certificate (and contained in the computer register) is---
         
-    *   (a) RFR land as defined by section 182; and
+    *   (a) RFR land as defined by [section 182][228]; and
     
     *   (b) subject to this subpart (which restricts disposal, including leasing, of the land).
     
@@ -5100,7 +5100,7 @@ Commercial redress
 
 ##### 207 Removal of memorials when land to be transferred or vested
     
-*   (1) The chief executive of LINZ must, before registration of the transfer or vesting of land described in a notice received under section 204, issue to the Registrar-General a certificate that---
+*   (1) The chief executive of LINZ must, before registration of the transfer or vesting of land described in a notice received under [section 204][255], issue to the Registrar-General a certificate that---
         
     *   (a) specifies the legal description of the land and identifies the computer register that contains the land; and
     
@@ -5110,19 +5110,19 @@ Commercial redress
     
     (2) The chief executive must provide a copy of each certificate to the trustees of the 1 or more offer trusts as soon as is reasonably practicable after issuing the certificate.
     
-    (3) If the Registrar-General receives a certificate issued under this section, he or she must, immediately before registering the transfer or vesting described in the certificate, remove from the computer register identified in the certificate any memorial recorded under section 206 for the land described in the certificate.
+    (3) If the Registrar-General receives a certificate issued under this section, he or she must, immediately before registering the transfer or vesting described in the certificate, remove from the computer register identified in the certificate any memorial recorded under [section 206][258] for the land described in the certificate.
 
 ##### 208 Removal of memorials when RFR period ends
     
 *   (1) The chief executive of LINZ must, as soon as is reasonably practicable after the RFR period ends for any RFR land, issue to the Registrar-General a certificate that---
         
-    *   (a) identifies each computer register for the RFR land for which the RFR period has ended that still has a memorial recorded on it under section 206; and
+    *   (a) identifies each computer register for the RFR land for which the RFR period has ended that still has a memorial recorded on it under [section 206][258]; and
     
     *   (b) states that it is issued under this section.
     
     (2) The chief executive must provide a copy of each certificate to the trustees of the 1 or more offer trusts as soon as is reasonably practicable after issuing the certificate.
     
-    (3) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under this section, remove a memorial recorded under section 206 from any computer register identified in the certificate.
+    (3) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under this section, remove a memorial recorded under [section 206][258] from any computer register identified in the certificate.
 
 #### General provisions
 
@@ -5156,7 +5156,7 @@ Commercial redress
     
     *   (d) specifying the street address, postal address, or fax number for notices to the assignees.
     
-    (3) This subpart and Schedule 5 apply to the assignees (instead of to the RFR holder) as if the assignees were the trustees of the relevant offer trust, with all necessary modifications.
+    (3) This subpart and [Schedule 5][296] apply to the assignees (instead of to the RFR holder) as if the assignees were the trustees of the relevant offer trust, with all necessary modifications.
     
     (4) In this section, _RFR holder_ means the 1 or more persons who have the rights and obligations of the trustees of an offer trust under this subpart, either because---
         
@@ -5177,23 +5177,23 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
     
     _assets_ means assets of any kind, whether real or personal property, money, rights, or interests
     
-    _charitable trust board_ means the trustees of the Ngati Tama Manawhenua Ki Te Tau Ihu Trust incorporated as a board under the Charitable Trusts Act 1957 (with registration number 574867)
+    _charitable trust board_ means the trustees of the Ngati Tama Manawhenua Ki Te Tau Ihu Trust incorporated as a board under the [Charitable Trusts Act 1957][457] (with registration number 574867)
     
-    _exempt income_ has the meaning given by section YA 1 of the Income Tax Act 2007
+    _exempt income_ has the meaning given by [section YA 1][458] of the Income Tax Act 2007
     
-    _Inland Revenue Acts_ has the meaning given by section 3(1) of the Tax Administration Act 1994
+    _Inland Revenue Acts_ has the meaning given by [section 3(1)][459] of the Tax Administration Act 1994
     
     _liabilities_ includes debts, charges, duties, and other obligations, whether present, future, actual, contingent, payable, or to be observed or performed in New Zealand or elsewhere
     
-    _NTTW Trust_ means the Ngāti Tama ki Te Waipounamu Trust (as defined by section 22)
+    _NTTW Trust_ means the Ngāti Tama ki Te Waipounamu Trust (as defined by [section 22][28])
     
     _NTTW trustees_ means the trustees of the NTTW Trust
     
     _subsidiary_ means the Tama Asset Holding Company Limited
     
-    _taxable income_ has the meaning given by section YA 1 of the Income Tax Act 2007
+    _taxable income_ has the meaning given by [section YA 1][458] of the Income Tax Act 2007
     
-    _transferred employee_ means a person to whom section 222 applies.
+    _transferred employee_ means a person to whom [section 222][280] applies.
     
     (2) In this Part, unless the context requires another meaning, terms used and not defined in this Part, but defined in the Inland Revenue Acts, have the meanings given in those Acts.
 
@@ -5281,7 +5281,7 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
     
 *   (1) A document, matter, or thing that would have been admissible in evidence for or against the charitable trust board is, on and after the commencement of this Act, admissible in evidence for or against the NTTW trustees.
     
-    (2) In this section, _document_ has the meaning given by section 4(1) of the Evidence Act 2006\.
+    (2) In this section, _document_ has the meaning given by [section 4(1)][460] of the Evidence Act 2006\.
 
 ##### 221 Registers
     
@@ -5339,13 +5339,13 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
 
 ##### 227 Taxation in respect of transfer of assets and liabilities of charitable trust board
     
-*   (1) On and from the date on which the assets and liabilities of the charitable trust board vest in the NTTW trustees under section 214(1),---
+*   (1) On and from the date on which the assets and liabilities of the charitable trust board vest in the NTTW trustees under [section 214(1)][270],---
         
     *   (a) the NTTW trustees are deemed to be the same person as the charitable trust board; and
     
     *   (b) everything done by the charitable trust board before that date is deemed to have been done by the NTTW trustees on the date that it was done by the charitable trust board.
     
-    (2) Income derived or expenditure incurred by the charitable trust board before the assets and liabilities vest in the NTTW trustees does not become income derived or expenditure incurred by the NTTW trustees just because the assets and liabilities vest in the NTTW trustees under section 214(1).
+    (2) Income derived or expenditure incurred by the charitable trust board before the assets and liabilities vest in the NTTW trustees does not become income derived or expenditure incurred by the NTTW trustees just because the assets and liabilities vest in the NTTW trustees under [section 214(1)][270].
     
     (3) If income of the charitable trust board is derived from a financial arrangement, trading stock, revenue account property, or depreciable property and is exempt income of the charitable trust board but is not exempt income of the NTTW trustees, the NTTW trustees are to be treated as having acquired the financial arrangement, trading stock, revenue account property, or depreciable property---
         
@@ -5361,15 +5361,15 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
     
     **a**
     > 
-    > is the total of the amounts derived by the charitable trust board that, but for the application of sections CW 41 and CW 42 of the Income Tax Act 2007, would have been taxable income derived by the charitable trust board before the commencement of this Act
+    > is the total of the amounts derived by the charitable trust board that, but for the application of [sections CW 41][461] and [CW 42][462] of the Income Tax Act 2007, would have been taxable income derived by the charitable trust board before the commencement of this Act
     
     **b**
     > 
     > is the total of the amounts described in variable a that have been distributed before the commencement of this Act.
     
-    (5) The undistributed charitable amount described in subsection (4) is excluded from the corpus of the NTTW Trust for the purposes of the Income Tax Act 2007, to the extent to which it is otherwise included but for this subsection.
+    (5) The undistributed charitable amount described in subsection (4) is excluded from the corpus of the NTTW Trust for the purposes of the [Income Tax Act 2007][463], to the extent to which it is otherwise included but for this subsection.
     
-    (6) If the NTTW trustees distribute any of the undistributed charitable amount to a person, that amount is treated as beneficiary income for the purposes of the Income Tax Act 2007, unless subsection (7) applies.
+    (6) If the NTTW trustees distribute any of the undistributed charitable amount to a person, that amount is treated as beneficiary income for the purposes of the [Income Tax Act 2007][463], unless subsection (7) applies.
     
     (7) If the NTTW trustees distribute any of the undistributed charitable amount for a charitable purpose, the distribution is exempt income of the recipient.
 
@@ -5377,19 +5377,19 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
 
 ##### 228 Election by NTTW trustees to be Maori authority
     
-*   (1) If the NTTW trustees are a Maori authority (having made an election under section HF 11 of the Income Tax Act 2007), to the extent that the amount referred to in section 227(4) is distributed in an income year, that distribution will be---
+*   (1) If the NTTW trustees are a Maori authority (having made an election under [section HF 11][464] of the Income Tax Act 2007), to the extent that the amount referred to in [section 227(4)][286] is distributed in an income year, that distribution will be---
         
     *   (a) exempt income if the distribution is applied for a charitable purpose; or
     
     *   (b) a taxable Maori authority distribution.
     
-    (2) If this section applies, the distribution must be disregarded for the purposes of section HF 8 of the Income Tax Act 2007\.
+    (2) If this section applies, the distribution must be disregarded for the purposes of [section HF 8][465] of the Income Tax Act 2007\.
 
 #### Subsidiary
 
 ##### 229 Taxation in respect of assets and liabilities of subsidiary
     
-*   (1) This section applies if income of the subsidiary is derived from a financial arrangement, trading stock, revenue account property, or depreciable property and is exempt income of the subsidiary before the commencement of this Act and ceases to be exempt income as a result of the application of section 215\.
+*   (1) This section applies if income of the subsidiary is derived from a financial arrangement, trading stock, revenue account property, or depreciable property and is exempt income of the subsidiary before the commencement of this Act and ceases to be exempt income as a result of the application of [section 215][271].
     
     (2) The subsidiary is to be treated as having acquired the financial arrangement, trading stock, revenue account property, or depreciable property for a consideration that is its market value on the commencement of this Act.
 
@@ -5397,15 +5397,15 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
     
 *   (1) This section applies if---
         
-    *   (a) the subsidiary is a Maori authority (having made an election under section HF 11 of the Income Tax Act 2007); and
+    *   (a) the subsidiary is a Maori authority (having made an election under [section HF 11][464] of the Income Tax Act 2007); and
     
-    *   (b) income derived by the subsidiary before the commencement of this Act that was exempt income under sections CW 41 and CW 42 of that Act is, after the commencement of this Act, distributed by the subsidiary in an income year.
+    *   (b) income derived by the subsidiary before the commencement of this Act that was exempt income under [sections CW 41][461] and [CW 42][462] of that Act is, after the commencement of this Act, distributed by the subsidiary in an income year.
     
     (2) The distribution---
         
     *   (a) must be treated as a taxable Maori authority distribution; and
     
-    *   (b) must be disregarded for the purposes of section HF 8 of the Income Tax Act 2007\.
+    *   (b) must be disregarded for the purposes of [section HF 8][465] of the Income Tax Act 2007\.
     
     
 
@@ -5414,7 +5414,7 @@ Transitional matters for Ngāti Tama ki Te Tau Ihu---governance reorganisation a
 ## Schedule 1  
 Statutory areas
 
-ss 40(2), 50
+[ss 40(2)][57], [50][68]
 
 **Statutory area** **Location** **Iwi with association**
 
@@ -5515,7 +5515,7 @@ Te Tau Ihu coastal marine area As shown on OTS--202--63 Ngāti Kōata, Ngāti R�
 ## Schedule 2  
 Overlay sites
 
-ss 56(2), 57
+[ss 56(2)][77], [57][78]
 
 **Overlay site** **Location** **Description** **Iwi with association**
 
@@ -5562,7 +5562,7 @@ The Brothers As shown on OTS--202--38 _Marlborough Land District---Marlborough D
 ## Schedule 3  
 Cultural redress properties
 
-ss 75, 118--120
+[ss 75][97], [118--120][145]
 
 ## Sites that vest in fee simple
 
@@ -5580,11 +5580,11 @@ _Nelson Land District---Marlborough District_
 
 0.1110 hectares, more or less, being Section 1 SO 430484\. Part _Gazette_ 1977, p 2084\. 
 
-Subject to the fencing covenant referred to in section 77(3).
+Subject to the fencing covenant referred to in [section 77(3)][100].
 
-Together with the easement for a right to convey water referred to in section 77(5).
+Together with the easement for a right to convey water referred to in [section 77(5)][100].
 
-Subject to the easement instrument (containing restrictive covenants) referred to in section 77(7).
+Subject to the easement instrument (containing restrictive covenants) referred to in [section 77(7)][100].
 
 Glenhope (Kawatiri) 
 
@@ -5592,7 +5592,7 @@ _Nelson Land District---Tasman District_
 
 3.4090 hectares, more or less, being Sections 1 and 2 SO 427227\. Part _Gazette_ notices 197875.1 and 145403\. 
 
-Together with the right of way easement referred to in section 78(3).
+Together with the right of way easement referred to in [section 78(3)][101].
 
 Kawatiri Confluence 
 
@@ -5636,21 +5636,21 @@ _Nelson Land District---Tasman District_
 
 0.1642 hectares, more or less, being Section 1 SO 463616\. Part computer interest register 497569\. 
 
-Subject to the right of way easement referred to in section 85(3)(a).
+Subject to the right of way easement referred to in [section 85(3)(a)][108].
 
-Together with the right of way easements referred to in section 85(3)(b) and (c)(i).
+Together with the right of way easements referred to in [section 85(3)(b) and (c)(i)][108].
 
 0.1600 hectares, more or less, being Section 2 SO 463616\. Part computer interest register 497569\. 
 
-Subject to the right of way easement referred to in section 85(3)(b).
+Subject to the right of way easement referred to in [section 85(3)(b)][108].
 
-Together with the right of way easements referred to in section 85(3)(a) and (c).
+Together with the right of way easements referred to in [section 85(3)(a) and (c)][108].
 
 0.1700 hectares, more or less, being Section 3 SO 463616\. Part computer interest register 497569\. 
 
-Subject to the right of way easement referred to in section 85(3)(c).
+Subject to the right of way easement referred to in [section 85(3)(c)][108].
 
-Together with the right of way easements referred to in section 85(3)(a) and (b).
+Together with the right of way easements referred to in [section 85(3)(a) and (b)][108].
 
 Pūponga Farm, Cape House 
 
@@ -5658,7 +5658,7 @@ _Nelson Land District---Tasman District_
 
 4.9739 hectares, more or less, being Section 1 SO 426796 (excluding coal held in computer freehold register NL33/168). Part computer freehold register NL11B/741\. 
 
-Subject to the easement for a right to convey water referred to in section 86(3).
+Subject to the easement for a right to convey water referred to in [section 86(3)][109].
 
 Pūponga Farm, Triangle Flat 
 
@@ -5672,11 +5672,11 @@ _Nelson Land District---Tasman District_
 
 11.8284 hectares, more or less, being Section 1 SO 426273\. Part _Gazette_ notice 236390.2, part computer freehold register 264531, and balance computer freehold register NL2B/246 (limited as to parcels). 
 
-Subject to covenant 6357240.1 under [section 108(2)(d)][432] of the Resource Management Act 1991 (which affects the land formerly Part Sections 53, 95, 96, and 97 Block X Kaiteriteri Survey District).
+Subject to covenant 6357240.1 under [section 108(2)(d)][466] of the Resource Management Act 1991 (which affects the land formerly Part Sections 53, 95, 96, and 97 Block X Kaiteriteri Survey District).
 
 Subject to a right of way easement created by conveyance 17D--23241 (which affects the land formerly Part Section 67 Motueka District).
 
-Subject to the pedestrian right of way easement in gross (if any) referred to in section 88(5).
+Subject to the pedestrian right of way easement in gross (if any) referred to in [section 88(5)][111].
 
 Together with a waste pipeline easement created by transfer 75179 (which affects the land formerly Part Sections 53, 95, 96, and 97 Block X Kaiteriteri Survey District).
 
@@ -5698,7 +5698,7 @@ _Nelson Land District---Marlborough District_
 
 10.0900 hectares, more or less, being Section 2 SO 430484\. Part _Gazette_ 1977, p 2084\. 
 
-Subject to the conservation covenant referred to in section 91(3).
+Subject to the conservation covenant referred to in [section 91(3)][115].
 
 Wharf Road (Okiwi Bay) 
 
@@ -5706,7 +5706,7 @@ _Nelson Land District---Marlborough District_
 
 1.3500 hectares, more or less, being Section 1 SO 429448\. Part _Gazette_ 1914, p 3604\. 
 
-Subject to the conservation covenant referred to in section 92(3).
+Subject to the conservation covenant referred to in [section 92(3)][116].
 
 Subject to an unregistered right of way easement with concession number PAC 10/04/185 (dated 25 March 2010) to F M and A G Ericson.
 
@@ -5716,9 +5716,9 @@ _Nelson Land District---Tasman District_
 
 10.0775 hectares, more or less, being Section 4 SO 426795\. Part computer freehold register NL7B/167\. 
 
-Subject to the right of way easement in gross referred to in section 93(3)(a).
+Subject to the right of way easement in gross referred to in [section 93(3)(a)][117].
 
-Subject to the conservation covenant referred to in section 93(3)(b).
+Subject to the conservation covenant referred to in [section 93(3)(b)][117].
 
 Together with a right of way easement created by transfer 193282.2\.
 
@@ -5730,7 +5730,7 @@ _Marlborough Land District---Marlborough District_
 
 1.5782 hectares, more or less, being Sections 1 and 2 SO 429090\. 
 
-Subject to the conservation covenant referred to in section 94(3).
+Subject to the conservation covenant referred to in [section 94(3)][118].
 
 Hori Bay 
 
@@ -5738,9 +5738,9 @@ _Nelson Land District---Nelson City_
 
 112.0000 hectares, more or less, being Section 1 SO 427909\. Part _Gazette_ 1980, p 1793\. 
 
-Subject to the right of way easement in gross referred to in section 95(3)(a).
+Subject to the right of way easement in gross referred to in [section 95(3)(a)][119].
 
-Subject to the conservation covenant referred to in section 95(3)(b).
+Subject to the conservation covenant referred to in [section 95(3)(b)][119].
 
 Together with right of way easements created by instrument K3184\.
 
@@ -5750,7 +5750,7 @@ _Nelson Land District---Tasman District_
 
 1.0830 hectares, more or less, being Section 1 SO 426799\. Part _Gazette_ 1894, p 374\. 
 
-Subject to the conservation covenant referred to in section 96(3).
+Subject to the conservation covenant referred to in [section 96(3)][120].
 
 Onauku Bay (Arapaoa Island) 
 
@@ -5758,7 +5758,7 @@ _Marlborough Land District---Marlborough District_
 
 2.2120 hectares, more or less, being Section 1 SO 431107\. Part Nelson Provincial Gazette 1857, p 52\. 
 
-Subject to the conservation covenant referred to in section 97(3). 
+Subject to the conservation covenant referred to in [section 97(3)][121]. 
 
 Anatoia Islands 
 
@@ -5766,7 +5766,7 @@ _Marlborough Land District---Marlborough District_
 
 0.2157 hectares, more or less, being Sections 1, 2, 3, 4, 5, and 6 SO 426664\. 
 
-Subject to the conservation covenant referred to in section 98(3).
+Subject to the conservation covenant referred to in [section 98(3)][122].
 
 Te Tai Tapu (Anatori South) 
 
@@ -5774,7 +5774,7 @@ _Nelson Land District---Tasman District_
 
 14.9999 hectares, more or less, being Section 1 SO 426795\. Part computer freehold register NL7B/167\. 
 
-Subject to the conservation covenant referred to in section 99(3).
+Subject to the conservation covenant referred to in [section 99(3)][123].
 
 Together with a right of way easement created by transfer 193282.2\.
 
@@ -5786,7 +5786,7 @@ _Nelson Land District---Tasman District_
 
 4.4394 hectares, more or less, being Section 3 SO 426795\. Part computer freehold register NL7B/167\. 
 
-Subject to the conservation covenant referred to in section 100(3).
+Subject to the conservation covenant referred to in [section 100(3)][124].
 
 Together with a right of way easement created by transfer 193282.2\.
 
@@ -5802,7 +5802,7 @@ _Nelson Land District---Marlborough District_
 
 0.7360 hectares, more or less, being Section 1 SO 446888\. Part _Gazette_ 1980, p 629\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Pah Point (Whanganui Inlet) 
 
@@ -5810,7 +5810,7 @@ _Nelson Land District---Tasman District_
 
 1.0000 hectare, more or less, being Section 1 SO 460588\. Part computer freehold register NL7B/167\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Together with a right of way easement created by transfer 193282.2\.
 
@@ -5822,7 +5822,7 @@ _Marlborough Land District---Marlborough District_
 
 0.0800 hectares, more or less, being Section 3 SO 428338\. Part computer freehold register MB2D/634\. 
 
-Recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+Recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
 
 Tākaka River Mouth 
 
@@ -5830,7 +5830,7 @@ _Nelson Land District---Tasman District_
 
 3.7495 hectares, more or less, being Sections 1, 2, and 3 SO 463617\. Part computer freehold register NL9C/1308\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Parapara Peninsula 
 
@@ -5838,11 +5838,11 @@ _Nelson Land District---Tasman District_
 
 11.2570 hectares, more or less, being Section 1 SO 460738\. All transfer 250684.1\. 
 
-Historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+Historic reserve subject to [section 18][376] of the Reserves Act 1977\.
 
 Together with a pipeline and water easement specified in easement certificate 159309.1 (which affects Lot 1 DP 8871).
 
-Subject to a right of way easement specified in easement certificate 162410.1 (surrendered over part in favour of Lot 1 DP 16719 by transfer 339753.2, and subject to (now) [section 243(a)][433] of the Resource Management Act 1991).
+Subject to a right of way easement specified in easement certificate 162410.1 (surrendered over part in favour of Lot 1 DP 16719 by transfer 339753.2, and subject to (now) [section 243(a)][467] of the Resource Management Act 1991).
 
 Momorangi Point 
 
@@ -5850,9 +5850,9 @@ _Marlborough Land District---Marlborough District_
 
 0.2026 hectares, more or less, being Section 1 SO 429183\. Part _Gazette_ notice 69676\. 
 
-Recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+Recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
 
-Subject to the easements for a right to convey water referred to in section 106(5).
+Subject to the easements for a right to convey water referred to in [section 106(5)][131].
 
 Wedge Point 
 
@@ -5860,7 +5860,7 @@ _Marlborough Land District---Marlborough District_
 
 2.0300 hectares, more or less, being Section 1 SO 426669\. Part _Gazette_ 1927, p 2527\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Ngākuta Point 
 
@@ -5868,7 +5868,7 @@ _Marlborough Land District---Marlborough District_
 
 2.3269 hectares, more or less, being Section 12 Block XI Linkwater Survey District. All _Gazette_ 1912, p 704\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Ngaruru (Arapaoa Island) 
 
@@ -5878,9 +5878,9 @@ _Marlborough Land District---Marlborough District_
 
 0.5783 hectares, more or less, being Section 2 SO 428534\. Part _Gazette_ notice 95422\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977 (which affects Sections 1 and 3 SO 428534).
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977 (which affects Sections 1 and 3 SO 428534).
 
-Subject to the conservation covenant referred to in section 109(5) (which affects Section 2 SO 428534).
+Subject to the conservation covenant referred to in [section 109(5)][134] (which affects Section 2 SO 428534).
 
 Arapawa Māori Rowing Club site 
 
@@ -5888,7 +5888,7 @@ _Marlborough Land District---Marlborough District_
 
 0.0228 hectares, more or less, being Sections 1 and 2 SO 426964\. Part _Gazette_ notice 90101 and all _Gazette_ 2012, p 3494\. 
 
-Recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+Recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
 
 Katoa Point 
 
@@ -5896,7 +5896,7 @@ _Marlborough Land District---Marlborough District_
 
 92.2119 hectares, more or less, being Sections 1, 2, 3, and 4 SO 447705\. Part _Gazette_ notice 123314\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Subject to an unregistered easement in gross for a right to convey underground electricity and phone cabling in favour of Marlborough Lines Limited with concession number PAC 10/04/146\.
 
@@ -5906,7 +5906,7 @@ _Marlborough Land District---Marlborough District_
 
 0.7960 hectares, more or less, being Section 1 SO 446852\. Part Proclamation 330\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
 Pūponga Point Pā site 
 
@@ -5914,7 +5914,7 @@ _Nelson Land District---Tasman District_
 
 14.8600 hectares, more or less, being Section 1 SO 426798\. Part _Gazette_ 1976, p 2417\. 
 
-Historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+Historic reserve subject to [section 18][376] of the Reserves Act 1977\.
 
 Subject to an unregistered guiding concession with concession number NM--30464--GUI to J Richards.
 
@@ -5932,7 +5932,7 @@ _Nelson Land District---Nelson City_
 
 0.2061 hectares, more or less, being Section 1212 City of Nelson. All _Gazette_ 1952, p 1290\. 
 
-Recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+Recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
 
 Pukatea / Whites Bay 
 
@@ -5940,7 +5940,7 @@ _Marlborough Land District---Marlborough District_
 
 1.3160 hectares, more or less, being Section 1 SO 429266\. Part _Gazette_ notice 30056 and part _Gazette_ notice 54787\. 
 
-Recreation reserve subject to [section 17][369] of the Reserves Act 1977\.
+Recreation reserve subject to [section 17][372] of the Reserves Act 1977\.
 
 Horahora-kākahu 
 
@@ -5948,7 +5948,7 @@ _Marlborough Land District---Marlborough District_
 
 2.3470 hectares, more or less, being Section 1 SO 447529\. All _Gazette_ 1913, p 2821\. 
 
-Historic reserve subject to [section 18][373] of the Reserves Act 1977\.
+Historic reserve subject to [section 18][376] of the Reserves Act 1977\.
 
 Tokomaru / Mount Robertson 
 
@@ -5956,9 +5956,9 @@ _Marlborough Land District---Marlborough District_
 
 49.6000 hectares, more or less, being Section 1 SO 426595\. Part _Gazette_ notice 135293\. 
 
-Scenic reserve subject to [section 19(1)(a)][372] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][375] of the Reserves Act 1977\.
 
-Subject to the right of way easement in gross referred to in section 117(7).
+Subject to the right of way easement in gross referred to in [section 117(7)][142].
 
 Subject to an unregistered telecommunications licence and easement with concession number NM--27041--TEL (dated 5 May 2010) to Airways Corporation of New Zealand Limited.
 
@@ -5967,7 +5967,7 @@ Subject to an unregistered telecommunications licence and easement with concessi
 ## Schedule 4  
 Properties for delayed vesting or vesting and gifting back
 
-ss 134, 138(8), 139(6)
+[ss 134][164], [138(8)][169], [139(6)][170]
 
 **Name of site** **Description**
 
@@ -5988,11 +5988,11 @@ As shown on SO 433299\.
 ## Schedule 5  
 Notices in relation to RFR land
 
-ss 205, 211(3)
+[ss 205][256], [211(3)][264]
 
 ##### 1 Requirements for giving notice
     
-*   A notice by or to an RFR landowner, or the trustees of an offer trust or recipient trust, under subpart 4 of Part 3 must be---
+*   A notice by or to an RFR landowner, or the trustees of an offer trust or recipient trust, under [subpart 4][225] of Part 3 must be---
         
     *   (a) in writing and signed by---
             
@@ -6006,9 +6006,9 @@ ss 205, 211(3)
             
         *   (i) specified for the trustees in accordance with the relevant deed of settlement, for a notice to the trustees; or
         
-        *   (ii) specified by the RFR landowner in an offer made under section 184, specified in a later notice given to the trustees, or identified by the trustees as the current address or fax number of the RFR landowner, for a notice by the trustees to an RFR landowner; or
+        *   (ii) specified by the RFR landowner in an offer made under [section 184][232], specified in a later notice given to the trustees, or identified by the trustees as the current address or fax number of the RFR landowner, for a notice by the trustees to an RFR landowner; or
         
-        *   (iii) of the national office of LINZ, for a notice given to the chief executive of LINZ under section 201 or 204; and
+        *   (iii) of the national office of LINZ, for a notice given to the chief executive of LINZ under [section 201][252] or [204][255]; and
         
         
     
@@ -6423,70 +6423,104 @@ This Act is administered by the Ministry of Justice.
 [364]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104086
 [365]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM36962
 [366]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444304
-[367]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104633
-[368]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104697
-[369]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444605
-[370]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444912
-[371]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM106603
-[372]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444610
-[373]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444607
-[374]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM420626
-[375]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM250585
-[376]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444650
-[377]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104699
-[378]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104910
-[379]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104914
-[380]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104928
-[381]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444632
-[382]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444648
-[383]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM231942
-[384]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM236786
-[385]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM420676
-[386]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444702
-[387]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM445052
-[388]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM445059
-[389]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444920
-[390]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444929
-[391]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444949
-[392]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444659
-[393]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444492
-[394]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444657
-[395]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104682
-[396]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM247378
-[397]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM232582
-[398]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM3213102
-[399]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM233814
-[400]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM269031
-[401]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104660
-[402]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192355
-[403]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM191768
-[404]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192331
-[405]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM435597
-[406]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192358
-[407]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104939
-[408]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM182044
-[409]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM184646
-[410]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46305
-[411]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444652
-[412]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444654
-[413]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM251706
-[414]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM239322
-[415]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM3213310
-[416]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46055
-[417]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46068
-[418]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46307
-[419]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46966
-[420]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46968
-[421]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47315
-[422]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47324
-[423]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47332
-[424]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223118
-[425]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223119
-[426]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223131
-[427]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444484
-[428]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104281
-[429]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104933
-[430]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM251778
-[431]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM252152
-[432]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM234810
-[433]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM237620
+[367]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM21813
+[368]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM21851
+[369]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104633
+[370]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104660
+[371]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104697
+[372]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444605
+[373]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444912
+[374]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM106603
+[375]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444610
+[376]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444607
+[377]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM420626
+[378]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM250585
+[379]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444650
+[380]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5214737
+[381]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5214738
+[382]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5953895
+[383]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5214739
+[384]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5953896
+[385]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5953897
+[386]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104699
+[387]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104910
+[388]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104914
+[389]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104928
+[390]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444632
+[391]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444648
+[392]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM231942
+[393]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM236786
+[394]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM420676
+[395]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444702
+[396]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM445052
+[397]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM445059
+[398]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444920
+[399]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444929
+[400]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444949
+[401]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444659
+[402]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5214703
+[403]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5953867
+[404]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065400
+[405]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444492
+[406]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065420
+[407]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444657
+[408]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5214770
+[409]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065495
+[410]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065497
+[411]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065492
+[412]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065493
+[413]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065494
+[414]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1065496
+[415]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104682
+[416]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM247378
+[417]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM232582
+[418]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM3213102
+[419]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM233814
+[420]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM240690
+[421]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM241213
+[422]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM5955102
+[423]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM269031
+[424]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192355
+[425]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM191768
+[426]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192331
+[427]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM435597
+[428]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM192358
+[429]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104939
+[430]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM426987
+[431]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM182044
+[432]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM184646
+[433]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46305
+[434]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444652
+[435]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444654
+[436]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM251706
+[437]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM239322
+[438]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM3213310
+[439]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46055
+[440]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46068
+[441]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46307
+[442]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46966
+[443]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM46968
+[444]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47315
+[445]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47324
+[446]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM47332
+[447]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223118
+[448]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223119
+[449]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM223131
+[450]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM291297
+[451]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM444484
+[452]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104281
+[453]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM104933
+[454]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM251778
+[455]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM252152
+[456]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM184649
+[457]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM308795
+[458]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1520575
+[459]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM348353
+[460]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM393471
+[461]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1513269
+[462]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1513271
+[463]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1512300
+[464]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1517497
+[465]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM1517489
+[466]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM234810
+[467]: http://www.legislation.govt.nz/act/public/2014/0020/latest/link.aspx?id=DLM237620
