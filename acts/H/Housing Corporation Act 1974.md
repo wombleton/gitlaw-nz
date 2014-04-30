@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 14 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -725,15 +725,19 @@ Functions and powers of Corporation
     
     (2) If, because its statement of intent requires it to do so, the Corporation provides services that it cannot provide on normal business terms, the Crown may wholly or partly recompense it for doing so.
     
-    (3) In subsection (1)(b), _income-related rents_ and _market rents_ have the meanings given to those terms by [section 42(1)][140] of the Housing Restructuring and Tenancy Matters Act 1992\.
+    (3) In subsection (1)(b), _income-related rents_ and _market rents_ have the meanings given to those terms by [section 2(1)][140] of the Housing Restructuring and Tenancy Matters Act 1992\.
     
-    (4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under [section 7][141] of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by [section 65][142] of that Act) has effect as if it were an agreement entered into under a direction under [section 20(1)(b)][32].
+    (4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under [section 7][141] of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under [section 20(1)(b)][32].
     
     (5) Nothing in this section limits or affects the generality of [section 20][32].
     
     Section 20B: inserted, on 1 July 2001, by [section 10][137] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
+    Section 20B(3): amended, on 14 April 2014, by [section 25][142] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    
     Section 20B(3): amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    
+    Section 20B(4): amended, on 14 April 2014, by [section 25][142] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
     Section 20B(4): amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
@@ -1237,7 +1241,7 @@ Restructuring of housing entities
     
 *   (1) On the commencement of the [Housing Corporation Amendment Act 2001][104], the shares in the capital of the company held immediately before that commencement by the responsible Minister and the Minister of Finance vest in the Corporation.
     
-    (2) In subsection (1), _company_ and _responsible Minister_ have the meanings given to those terms by [section 2(1)][185] of the Housing Restructuring and Tenancy Matters Act 1992\.
+    (2) In subsection (1), _company_ and _responsible Minister_ have the meanings given to those terms by [section 2(1)][140] of the Housing Restructuring and Tenancy Matters Act 1992\.
     
     Section 52: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
@@ -1311,7 +1315,7 @@ Restructuring of housing entities
 
 ##### 56 Vesting to take effect as amalgamation for certain purposes
     
-*   (1) For the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][186] of the Tax Administration Act 1994),---
+*   (1) For the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][185] of the Tax Administration Act 1994),---
         
     *   (a) the vesting of the assets and liabilities of an existing company under [section 53][80] is an amalgamation and a qualifying amalgamation of the company and the Corporation; and
     
@@ -1323,9 +1327,9 @@ Restructuring of housing entities
     
     (2) If the assets and liabilities of an existing company vest in the Corporation under [section 53][80],---
         
-    *   (a) [section FO 12(1)(b) and (d)][187] of the Income Tax Act 2007 must be treated as having been satisfied; and
+    *   (a) [section FO 12(1)(b) and (d)][186] of the Income Tax Act 2007 must be treated as having been satisfied; and
     
-    *   (b) for the purposes of [section FE 10][188] of that Act, the company must be treated as having been solvent immediately before the vesting day.
+    *   (b) for the purposes of [section FE 10][187] of that Act, the company must be treated as having been solvent immediately before the vesting day.
     
     (3) \[Repealed\]
     
@@ -1335,11 +1339,11 @@ Restructuring of housing entities
     
     Section 56: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][189] of the Income Tax Act 2007 (2007 No 97).
+    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][188] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 56(3): repealed, on 1 April 2014, by [section 126][190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 56(3): repealed, on 1 April 2014, by [section 126][189] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 56(4): amended, on 1 April 2014, by [section 126][190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 56(4): amended, on 1 April 2014, by [section 126][189] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 57 Certain matters not affected by vesting
     
@@ -1403,7 +1407,7 @@ Restructuring of housing entities
 
 ##### 60 Application of Privacy Act 1993
     
-*   (1) For the purposes of the [Privacy Act 1993][191],---
+*   (1) For the purposes of the [Privacy Act 1993][190],---
         
     *   (a) the use by the Corporation or its employees of any information gathered or held by an existing company is a directly related purpose; and
     
@@ -1422,7 +1426,7 @@ Transfer of employees to Corporation
     
 *   In this Part, unless the context otherwise requires,---
     
-    _employment agreement_ has the meaning given to it by [section 5][192] of the Employment Relations Act 2000
+    _employment agreement_ has the meaning given to it by [section 5][191] of the Employment Relations Act 2000
     
     _old agreement_, in relation to a transferred employee, means the employment agreement applying to him or her immediately before he or she became a transferred employee
     
@@ -1436,7 +1440,7 @@ Transfer of employees to Corporation
         
     *   (a) an employee of an existing company; or
     
-    *   (b) an employee of a department listed in [Schedule 1][193] of the State Sector Act 1988 whose chief executive is satisfied that the employee's duties are no longer to be carried out by the department but are instead to be carried out by the Corporation.
+    *   (b) an employee of a department listed in [Schedule 1][192] of the State Sector Act 1988 whose chief executive is satisfied that the employee's duties are no longer to be carried out by the department but are instead to be carried out by the Corporation.
     
     Section 62: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
@@ -1517,181 +1521,181 @@ Further provisions relating to Corporation
 
 [s 3D][11]
 
-*   Schedule 1A: inserted, on 1 July 2001, by [section 23][194] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Schedule 1A: inserted, on 1 July 2001, by [section 23][193] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Contents
 
-[1][195][][195][Interpretation][195] \[Repealed\]
+[1][194][][194][Interpretation][194] \[Repealed\]
 
-[Members' appointments][196]
-
-\[Repealed\]
-
-[2][197][][197][Criteria for appointments][197] \[Repealed\]
-
-[3][198][][198][Method of appointment][198] \[Repealed\]
-
-[4][199][][199][When appointment takes effect][199] \[Repealed\]
-
-[5][200][][200][Position where concurrent office][200] \[Repealed\]
-
-[Term of office][201]
+[Members' appointments][195]
 
 \[Repealed\]
 
-[6][202][][202][Term of office][202] \[Repealed\]
+[2][196][][196][Criteria for appointments][196] \[Repealed\]
 
-[7][203][][203][Restrictions on persons who may be members][203] \[Repealed\]
+[3][197][][197][Method of appointment][197] \[Repealed\]
 
-[8][204][][204][Members must consent and certify to appointment and disclose interests][204] \[Repealed\]
+[4][198][][198][When appointment takes effect][198] \[Repealed\]
 
-[Duties of members][205]
+[5][199][][199][Position where concurrent office][199] \[Repealed\]
 
-\[Repealed\]
-
-[9][206][][206][Duties of members][206] \[Repealed\]
-
-[Liability of members][207]
+[Term of office][200]
 
 \[Repealed\]
 
-[10][208][][208][Liability of members and committee members][208] \[Repealed\]
+[6][201][][201][Term of office][201] \[Repealed\]
 
-[Resignation and removal of members][209]
+[7][202][][202][Restrictions on persons who may be members][202] \[Repealed\]
 
-\[Repealed\]
+[8][203][][203][Members must consent and certify to appointment and disclose interests][203] \[Repealed\]
 
-[11][210][][210][Resignation][210] \[Repealed\]
-
-[12][211][][211][Removal from office][211] \[Repealed\]
-
-[Vacancies in Corporation's membership][212]
+[Duties of members][204]
 
 \[Repealed\]
 
-[13][213][][213][Effect of vacancy in membership][213] \[Repealed\]
+[9][205][][205][Duties of members][205] \[Repealed\]
 
-[Remuneration][214]
-
-\[Repealed\]
-
-[14][215][][215][Remuneration of members][215] \[Repealed\]
-
-[Chairperson and deputy chairperson][216]
+[Liability of members][206]
 
 \[Repealed\]
 
-[15][217][][217][Appointment][217] \[Repealed\]
+[10][207][][207][Liability of members and committee members][207] \[Repealed\]
 
-[16][218][][218][Term of office][218] \[Repealed\]
-
-[17][219][][219][Resignation][219] \[Repealed\]
-
-[18][220][][220][Exercise of chairperson's functions, duties, and powers during vacancy, etc][220] \[Repealed\]
-
-[Acts not to be called into question][221]
+[Resignation and removal of members][208]
 
 \[Repealed\]
 
-[19][222][][222][Acts not to be called into question][222] \[Repealed\]
+[11][209][][209][Resignation][209] \[Repealed\]
 
-[Disclosure of interest][223]
+[12][210][][210][Removal from office][210] \[Repealed\]
 
-\[Repealed\]
-
-[20][224][][224][Obligation to disclose interest][224] \[Repealed\]
-
-[21][225][][225][Meaning of interested][225] \[Repealed\]
-
-[22][226][][226][Disclosure of interest][226] \[Repealed\]
-
-[23][227][][227][Consequences of disclosure][227] \[Repealed\]
-
-[24][228][][228][Matters to be delegated to committee][228] \[Repealed\]
-
-[25][229][][229][Exceptions][229] \[Repealed\]
-
-[26][230][][230][Effect of non-compliance][230] \[Repealed\]
-
-[Use of information][231]
+[Vacancies in Corporation's membership][211]
 
 \[Repealed\]
 
-[27][232][][232][Restrictions on disclosure or use of information][232] \[Repealed\]
+[13][212][][212][Effect of vacancy in membership][212] \[Repealed\]
 
-[28][233][][233][When member may rely on certain information and advice][233] \[Repealed\]
-
-[29][234][][234][When clause 28 applies][234] \[Repealed\]
-
-[Procedure of Corporation: General][235]
+[Remuneration][213]
 
 \[Repealed\]
 
-[30][236][][236][Procedure generally][236] \[Repealed\]
+[14][214][][214][Remuneration of members][214] \[Repealed\]
 
-[Procedure of Corporation: Meetings][237]
-
-\[Repealed\]
-
-[31][238][][238][Ordinary meetings][238] \[Repealed\]
-
-[32][239][][239][Special meetings][239] \[Repealed\]
-
-[33][240][][240][Methods of holding meetings][240] \[Repealed\]
-
-[34][241][][241][Quorum][241] \[Repealed\]
-
-[35][242][][242][Who presides at meetings][242] \[Repealed\]
-
-[36][243][][243][Voting at meetings][243] \[Repealed\]
-
-[37][244][][244][Resolutions][244] \[Repealed\]
-
-[38][245][][245][Method of contracting][245] \[Repealed\]
-
-[39][246][][246][Attorneys][246] \[Repealed\]
-
-[Delegations][247]
-
-[40][248][][248][Ability for Corporation to delegate functions and powers][248] \[Repealed\]
-
-[41][249][][249][Certain powers must not be delegated][249]
-
-[42][250][][250][Effect of delegation][250] \[Repealed\]
-
-[43][251][][251][Presumption of acting in accordance with delegation][251] \[Repealed\]
-
-[44][252][][252][Other matters relating to delegation][252] \[Repealed\]
-
-[Subsidiaries][253]
+[Chairperson and deputy chairperson][215]
 
 \[Repealed\]
 
-[45][254][][254][Subsidiaries][254] \[Repealed\]
+[15][216][][216][Appointment][216] \[Repealed\]
 
-[Committees][255]
+[16][217][][217][Term of office][217] \[Repealed\]
+
+[17][218][][218][Resignation][218] \[Repealed\]
+
+[18][219][][219][Exercise of chairperson's functions, duties, and powers during vacancy, etc][219] \[Repealed\]
+
+[Acts not to be called into question][220]
 
 \[Repealed\]
 
-[46][256][][256][Corporation committees][256] \[Repealed\]
+[19][221][][221][Acts not to be called into question][221] \[Repealed\]
 
-[Employees][257]
+[Disclosure of interest][222]
 
-[47][258][][258][Appointment of chief executive][258] \[Repealed\]
+\[Repealed\]
 
-[48][259][][259][Appointment of other employees][259] \[Repealed\]
+[20][223][][223][Obligation to disclose interest][223] \[Repealed\]
 
-[49][260][][260][Liability of employees][260] \[Repealed\]
+[21][224][][224][Meaning of interested][224] \[Repealed\]
 
-[50][261][][261][Personnel policy][261] \[Repealed\]
+[22][225][][225][Disclosure of interest][225] \[Repealed\]
 
-[51][262][][262][Equal employment opportunities][262] \[Repealed\]
+[23][226][][226][Consequences of disclosure][226] \[Repealed\]
 
-[52][263][][263][Superannuation or retiring allowances][263] \[Repealed\]
+[24][227][][227][Matters to be delegated to committee][227] \[Repealed\]
 
-[53][264][][264][Application of certain Acts to members and employees][264] \[Repealed\]
+[25][228][][228][Exceptions][228] \[Repealed\]
 
-[54][265][][265][Existing Government Superannuation Fund members][265]
+[26][229][][229][Effect of non-compliance][229] \[Repealed\]
+
+[Use of information][230]
+
+\[Repealed\]
+
+[27][231][][231][Restrictions on disclosure or use of information][231] \[Repealed\]
+
+[28][232][][232][When member may rely on certain information and advice][232] \[Repealed\]
+
+[29][233][][233][When clause 28 applies][233] \[Repealed\]
+
+[Procedure of Corporation: General][234]
+
+\[Repealed\]
+
+[30][235][][235][Procedure generally][235] \[Repealed\]
+
+[Procedure of Corporation: Meetings][236]
+
+\[Repealed\]
+
+[31][237][][237][Ordinary meetings][237] \[Repealed\]
+
+[32][238][][238][Special meetings][238] \[Repealed\]
+
+[33][239][][239][Methods of holding meetings][239] \[Repealed\]
+
+[34][240][][240][Quorum][240] \[Repealed\]
+
+[35][241][][241][Who presides at meetings][241] \[Repealed\]
+
+[36][242][][242][Voting at meetings][242] \[Repealed\]
+
+[37][243][][243][Resolutions][243] \[Repealed\]
+
+[38][244][][244][Method of contracting][244] \[Repealed\]
+
+[39][245][][245][Attorneys][245] \[Repealed\]
+
+[Delegations][246]
+
+[40][247][][247][Ability for Corporation to delegate functions and powers][247] \[Repealed\]
+
+[41][248][][248][Certain powers must not be delegated][248]
+
+[42][249][][249][Effect of delegation][249] \[Repealed\]
+
+[43][250][][250][Presumption of acting in accordance with delegation][250] \[Repealed\]
+
+[44][251][][251][Other matters relating to delegation][251] \[Repealed\]
+
+[Subsidiaries][252]
+
+\[Repealed\]
+
+[45][253][][253][Subsidiaries][253] \[Repealed\]
+
+[Committees][254]
+
+\[Repealed\]
+
+[46][255][][255][Corporation committees][255] \[Repealed\]
+
+[Employees][256]
+
+[47][257][][257][Appointment of chief executive][257] \[Repealed\]
+
+[48][258][][258][Appointment of other employees][258] \[Repealed\]
+
+[49][259][][259][Liability of employees][259] \[Repealed\]
+
+[50][260][][260][Personnel policy][260] \[Repealed\]
+
+[51][261][][261][Equal employment opportunities][261] \[Repealed\]
+
+[52][262][][262][Superannuation or retiring allowances][262] \[Repealed\]
+
+[53][263][][263][Application of certain Acts to members and employees][263] \[Repealed\]
+
+[54][264][][264][Existing Government Superannuation Fund members][264]
 
 ---
 
@@ -2017,9 +2021,9 @@ Further provisions relating to Corporation
 
 ##### 41 Certain powers must not be delegated
     
-*   (1) Despite [section 73][266] of the Crown Entities Act 2004, the Corporation must not delegate the power to grant a power of attorney.
+*   (1) Despite [section 73][265] of the Crown Entities Act 2004, the Corporation must not delegate the power to grant a power of attorney.
     
-    (2) Despite [sections 73(4)][266] and [74(1)(b)(i)][267] of the Crown Entities Act 2004,---
+    (2) Despite [sections 73(4)][265] and [74(1)(b)(i)][266] of the Crown Entities Act 2004,---
         
     *   (a) the Corporation may delegate its general power of delegation to the chief executive; but
     
@@ -2117,11 +2121,11 @@ Further provisions relating to Corporation
 
 ##### 54 Existing Government Superannuation Fund members
     
-*   (1) Despite [clause 53][264], a person who, immediately before becoming an employee of the Corporation, was a contributor to the Government Superannuation Fund under [Part 2][268] or [Part 2A][269] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be employed in the Government service so long as that person continues to be an employee of the Corporation; and that Act applies to that person in all respects as if that person's service as an employee of the Corporation were Government service.
+*   (1) Despite [clause 53][263], a person who, immediately before becoming an employee of the Corporation, was a contributor to the Government Superannuation Fund under [Part 2][267] or [Part 2A][268] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be employed in the Government service so long as that person continues to be an employee of the Corporation; and that Act applies to that person in all respects as if that person's service as an employee of the Corporation were Government service.
     
     (2) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][270] in accordance with subclause (1), _controlling authority_, in relation to that employee, means the Corporation.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][269] in accordance with subclause (1), _controlling authority_, in relation to that employee, means the Corporation.
 
 ---
 
@@ -2132,11 +2136,11 @@ Enactments amended
 
 ##### Family Benefits (Home Ownership) Act 1964 (1964 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][271]._
+_Amendment(s) incorporated in the [Act(s)][270]._
 
 ##### Housing Act 1955 (1955 No 51) (1957 Reprint, Vol 6, p 221)
 
-_Amendment(s) incorporated in the [Act(s)][272]._
+_Amendment(s) incorporated in the [Act(s)][271]._
 
 ##### Life Insurance Act 1908 (1908 No 105) (1957 Reprint, Vol 8, p 336)
 
@@ -2180,7 +2184,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][273]._
+_Amendment(s) incorporated in the [Act(s)][272]._
 
 ##### State Services Act 1962 (1962 No 132) (Reprinted 1971, Vol 4, p 2533)
 
@@ -2215,7 +2219,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Housing Corporation Amendment Act 1992][274], and shall be read together with and deemed part of the Housing Corporation Act 1974 (hereinafter referred to as the ""principal Act"").
+*   (1) This Act may be cited as the [Housing Corporation Amendment Act 1992][273], and shall be read together with and deemed part of the Housing Corporation Act 1974 (hereinafter referred to as the ""principal Act"").
     
     (2) Except as provided in subsections (3), (4), and (5), this Act shall come into force on the date on which it receives the Royal assent.
     
@@ -2255,15 +2259,17 @@ Commencementsee section 1
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][275] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][276] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][274] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][275] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][277] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][278] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][276] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][277] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][190]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][189]
+    
+    Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][142]
     
     Crown Entities Amendment Act 2013 (2013 No 51): [section 42][114]
     
@@ -2273,7 +2279,7 @@ Commencementsee section 1
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][157]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][189]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][188]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][134]
     
@@ -2285,23 +2291,23 @@ Commencementsee section 1
     
     Local Government Act 2002 (2002 No 84): [section 262][146]
     
-    [Housing Corporation Amendment Act 2001][279] (2001 No 37)
+    [Housing Corporation Amendment Act 2001][278] (2001 No 37)
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][169]
     
     Housing Corporation Amendment Act 1992 (1992 No 78)
     
-    [Housing Corporation Amendment Act 1991][280] (1991 No 91)
+    [Housing Corporation Amendment Act 1991][279] (1991 No 91)
     
     State Sector Amendment Act (No 2) 1989 (1989 No 136): [section 32(1)][127]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][281], [83(7)][147]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][280], [83(7)][147]
     
     Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][165]
     
     Housing Corporation Amendment Act 1987 (1987 No 68)
     
-    [Housing Corporation Act Commencement Order 1974][282] (SR 1974/245)
+    [Housing Corporation Act Commencement Order 1974][281] (SR 1974/245)
 
 
 
@@ -2445,9 +2451,9 @@ Commencementsee section 1
 [137]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95870
 [138]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330363
 [139]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330364
-[140]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269660
+[140]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269435
 [141]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269488
-[142]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269875
+[142]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5646466
 [143]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291330
 [144]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM170872
 [145]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373455
@@ -2490,101 +2496,100 @@ Commencementsee section 1
 [182]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96736
 [183]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95893
 [184]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95896
-[185]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269435
-[186]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM348353
-[187]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1516805
-[188]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM262035
-[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
-[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5740665
-[191]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM296638
-[192]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM58337
-[193]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM130706
-[194]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96734
-[195]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039503
-[196]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039510
-[197]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412499
-[198]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412501
-[199]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412503
-[200]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412505
-[201]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039511
-[202]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412508
-[203]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412510
-[204]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412512
-[205]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039512
-[206]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412515
-[207]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039513
-[208]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412518
-[209]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039514
-[210]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412521
-[211]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412523
-[212]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039515
-[213]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412526
-[214]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039516
-[215]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412529
-[216]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039517
-[217]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412532
-[218]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412534
-[219]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412536
-[220]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412538
-[221]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039518
-[222]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412541
-[223]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039519
-[224]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412544
-[225]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412546
-[226]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412548
-[227]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412550
-[228]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412552
-[229]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412554
-[230]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412556
-[231]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039520
-[232]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412559
-[233]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412561
-[234]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412563
-[235]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039521
-[236]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412566
-[237]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039522
-[238]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412569
-[239]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412571
-[240]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412573
-[241]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412575
-[242]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412577
-[243]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412579
-[244]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412581
-[245]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412583
-[246]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412585
-[247]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039523
-[248]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412588
-[249]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412590
-[250]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412593
-[251]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412595
-[252]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412597
-[253]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039524
-[254]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412700
-[255]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039525
-[256]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412704
-[257]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039526
-[258]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412707
-[259]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412709
-[260]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412711
-[261]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412713
-[262]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412715
-[263]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412717
-[264]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412719
-[265]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412721
-[266]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330308
-[267]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330309
-[268]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446395
-[269]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446842
-[270]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446000
-[271]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM351688
-[272]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291039
-[273]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM399728
-[274]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM270362
-[275]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998516
-[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998515
-[277]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998532
-[278]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[279]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
-[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
-[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
-[282]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
+[185]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM348353
+[186]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1516805
+[187]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM262035
+[188]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
+[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5740665
+[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM296638
+[191]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM58337
+[192]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM130706
+[193]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96734
+[194]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039503
+[195]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039510
+[196]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412499
+[197]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412501
+[198]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412503
+[199]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412505
+[200]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039511
+[201]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412508
+[202]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412510
+[203]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412512
+[204]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039512
+[205]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412515
+[206]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039513
+[207]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412518
+[208]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039514
+[209]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412521
+[210]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412523
+[211]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039515
+[212]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412526
+[213]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039516
+[214]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412529
+[215]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039517
+[216]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412532
+[217]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412534
+[218]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412536
+[219]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412538
+[220]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039518
+[221]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412541
+[222]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039519
+[223]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412544
+[224]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412546
+[225]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412548
+[226]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412550
+[227]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412552
+[228]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412554
+[229]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412556
+[230]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039520
+[231]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412559
+[232]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412561
+[233]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412563
+[234]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039521
+[235]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412566
+[236]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039522
+[237]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412569
+[238]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412571
+[239]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412573
+[240]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412575
+[241]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412577
+[242]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412579
+[243]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412581
+[244]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412583
+[245]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412585
+[246]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039523
+[247]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412588
+[248]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412590
+[249]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412593
+[250]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412595
+[251]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412597
+[252]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039524
+[253]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412700
+[254]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039525
+[255]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412704
+[256]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039526
+[257]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412707
+[258]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412709
+[259]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412711
+[260]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412713
+[261]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412715
+[262]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412717
+[263]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412719
+[264]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412721
+[265]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330308
+[266]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330309
+[267]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446395
+[268]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446842
+[269]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446000
+[270]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM351688
+[271]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291039
+[272]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM399728
+[273]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM270362
+[274]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998516
+[275]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998515
+[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998532
+[277]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[278]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
+[279]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
+[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
+[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
