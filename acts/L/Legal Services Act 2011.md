@@ -1,5 +1,5 @@
 Reprint  
-as at 31 March 2014
+as at 14 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -787,23 +787,25 @@ Legal aid
     
     *   (i) proceedings before a body established under [section 63(1)(a)(i)][264] of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under [section 62][265] of that Act:
     
-    *   (j) proceedings before the Immigration and Protection Tribunal, as established by the [Immigration Act 2009][266], in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in [sections 194(1)][267] and [195][268] of that Act, or against liability for deportation arising under [section 162][269] of that Act:
+    *   (ia) proceedings before any body established under the [Housing Restructuring and Tenancy Matters Act 1992][266] to hear appeals under sections 132 to 135 of that Act or proceedings before any body established under that Act to hear appeals under sections 183 to 188 of that Act:
     
-    *   (k) the processing, under [Part 5][270] of the Immigration Act 2009, of any claim for recognition as a refugee or a protected person:
+    *   (j) proceedings before the Immigration and Protection Tribunal, as established by the [Immigration Act 2009][267], in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in [sections 194(1)][268] and [195][269] of that Act, or against liability for deportation arising under [section 162][270] of that Act:
     
-    *   (l) any proceedings before the District Court or High Court following an application made under [section 316][271] or [324][272] of the Immigration Act 2009:
+    *   (k) the processing, under [Part 5][271] of the Immigration Act 2009, of any claim for recognition as a refugee or a protected person:
     
-    *   (m) any appeal or review proceedings (as defined in [section 4][273] of the Immigration Act 2009) in respect of proceedings or matters to which paragraph (j) or (k) applies:
+    *   (l) any proceedings before the District Court or High Court following an application made under [section 316][272] or [324][273] of the Immigration Act 2009:
     
-    *   (n) any proceedings or application under or in relation to the [Immigration Act 1987][274] for which legal aid could have been granted under any of paragraphs (j), (k), (l), and (m) of [section 7(1)][275] of the Legal Services Act 2000 as in force before their repeal by the [Immigration Act 2009][266]:
+    *   (m) any appeal or review proceedings (as defined in [section 4][274] of the Immigration Act 2009) in respect of proceedings or matters to which paragraph (j) or (k) applies:
     
-    *   (o) all applications, submissions, and appeals under the [Resource Management Act 1991][276] or to the Environment Court under any other Act:
+    *   (n) any proceedings or application under or in relation to the [Immigration Act 1987][275] for which legal aid could have been granted under any of paragraphs (j), (k), (l), and (m) of [section 7(1)][276] of the Legal Services Act 2000 as in force before their repeal by the [Immigration Act 2009][267]:
+    
+    *   (o) all applications, submissions, and appeals under the [Resource Management Act 1991][277] or to the Environment Court under any other Act:
     
     *   (p) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
     
-    *   (q) proceedings before the tribunal under the [Weathertight Homes Resolution Services Act 2006][277]:
+    *   (q) proceedings before the tribunal under the [Weathertight Homes Resolution Services Act 2006][278]:
     
-    *   (r) proceedings before a Tribunal under [subpart 2][278] of Part 2 of the Prisoners' and Victims' Claims Act 2005 in respect of 1 or more victims' claims under that subpart.
+    *   (r) proceedings before a Tribunal under [subpart 2][279] of Part 2 of the Prisoners' and Victims' Claims Act 2005 in respect of 1 or more victims' claims under that subpart.
     
     (2) To avoid any doubt, subsection (1)(e)(v) applies, without limitation, to the following proceedings:
         
@@ -817,17 +819,17 @@ Legal aid
         
     *   (a) a lawyer is acting in the proceedings as permitted by any of the following sections of that Act:
             
-        *   (i) section 7A(2); or
+        *   (i) [section 7A(2)][280]; or
         
-        *   (ii) section 7A(4)(b)(ii) or (iii); or
+        *   (ii) [section 7A(4)(b)(ii) or (iii)][280]; or
         
-        *   (iii) section 7A(4)(c); or
+        *   (iii) [section 7A(4)(c)][280]; or
         
-        *   (iv) section 7A(6); or
+        *   (iv) [section 7A(6)][280]; or
         
         
     
-    *   (b) a lawyer is acting in the proceedings as permitted by section 7A(4)(a) or (b)(i) of that Act, but the proceedings are not of a kind specified in subsection (3B); or
+    *   (b) a lawyer is acting in the proceedings as permitted by [section 7A(4)(a) or (b)(i)][280] of that Act, but the proceedings are not of a kind specified in subsection (3B); or
     
     *   (c) a lawyer is providing legal advice to a party who---
             
@@ -851,7 +853,7 @@ Legal aid
     
     *   (b) proceedings where every person in respect of whom the order is sought has either died or cannot be found.
     
-    (4) Despite subsection (1), but subject to subsection (5)(e), legal aid is not available in proceedings under [Part 4][279] of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage or civil union) unless the Commissioner is of the opinion---
+    (4) Despite subsection (1), but subject to subsection (5)(e), legal aid is not available in proceedings under [Part 4][281] of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage or civil union) unless the Commissioner is of the opinion---
         
     *   (a) that the unusual complexity of the case requires that the applicant be legally represented; or
     
@@ -861,29 +863,31 @@ Legal aid
         
     *   (a) relator actions:
     
-    *   (b) election petitions under the [Electoral Act 1993][280]:
+    *   (b) election petitions under the [Electoral Act 1993][282]:
     
-    *   (c) petitions for inquiry under the [Local Electoral Act 2001][281]:
+    *   (c) petitions for inquiry under the [Local Electoral Act 2001][283]:
     
     *   (d) proceedings incidental to any proceedings mentioned in any of paragraphs (a) to (c):
     
-    *   (e) proceedings under [section 37][282] of the Family Proceedings Act 1980 (which relates to the dissolution of marriage or civil union), or appeals in proceedings under that section:
+    *   (e) proceedings under [section 37][284] of the Family Proceedings Act 1980 (which relates to the dissolution of marriage or civil union), or appeals in proceedings under that section:
     
-    *   (f) any appeal to the Immigration and Protection Tribunal against a decision concerning a residence class visa under [section 187][283] of the Immigration Act 2009 (or any appeal to the Residence Appeal Authority under [section 18C][284] of the Immigration Act 1987):
+    *   (f) any appeal to the Immigration and Protection Tribunal against a decision concerning a residence class visa under [section 187][285] of the Immigration Act 2009 (or any appeal to the Residence Appeal Authority under [section 18C][286] of the Immigration Act 1987):
     
-    *   (g) any appeal to the Immigration and Protection Tribunal on humanitarian grounds against liability for deportation by a person liable for deportation under [section 154][285] of the Immigration Act 2009 (or any appeal to the Removal Review Authority under [Part 2][286] of the Immigration Act 1987):
+    *   (g) any appeal to the Immigration and Protection Tribunal on humanitarian grounds against liability for deportation by a person liable for deportation under [section 154][287] of the Immigration Act 2009 (or any appeal to the Removal Review Authority under [Part 2][288] of the Immigration Act 1987):
     
-    *   (h) proceedings before a Commission of Inquiry under the [Commissions of Inquiry Act 1908][287] (other than a Commission of Inquiry established or appointed by or under another enactment but deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908).
+    *   (h) proceedings before a Commission of Inquiry under the [Commissions of Inquiry Act 1908][289] (other than a Commission of Inquiry established or appointed by or under another enactment but deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908).
     
-    (6) Subsections (3A) and (3B) do not apply in respect of any proceedings commenced under the [Care of Children Act 2004][223] before the date of commencement of [section 5][288] of the Care of Children Amendment Act (No 2) 2013\.
+    (6) Subsections (3A) and (3B) do not apply in respect of any proceedings commenced under the [Care of Children Act 2004][223] before the date of commencement of [section 5][290] of the Care of Children Amendment Act (No 2) 2013\.
     
-    Compare: 2000 No 42 [s 7][275]
+    Compare: 2000 No 42 [s 7][276]
     
-    Section 7(3A): inserted, on 31 March 2014, by [section 4(1)][289] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
+    Section 7(1)(ia): inserted, on 14 April 2014, by [section 25][291] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 7(3B): inserted, on 31 March 2014, by [section 4(1)][289] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
+    Section 7(3A): inserted, on 31 March 2014, by [section 4(1)][292] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
     
-    Section 7(6): inserted, on 31 March 2014, by [section 4(2)][289] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
+    Section 7(3B): inserted, on 31 March 2014, by [section 4(1)][292] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
+    
+    Section 7(6): inserted, on 31 March 2014, by [section 4(2)][292] of the Legal Services Amendment Act (No 2) 2013 (2013 No 81).
 
 ##### 8 When legal aid may be granted: criminal matters
     
@@ -933,7 +937,7 @@ Legal aid
     
     *   (b) a proceeding to which [section 6(c)][9] applies.
     
-    (5) Despite subsection (1)(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in [section 2(1)][290] of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in a Youth Court.
+    (5) Despite subsection (1)(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in [section 2(1)][293] of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in a Youth Court.
 
 ##### 9 Prescribed offences
     
@@ -963,7 +967,7 @@ Legal aid
         
     *   (a) a natural person, whether resident in New Zealand or not; or
     
-    *   (b) a trustee corporation (as defined in [section 2(1)][291] of the Administration Act 1969) that applies for legal aid in connection with proceedings in which it is concerned in a representative, fiduciary, or official capacity.
+    *   (b) a trustee corporation (as defined in [section 2(1)][294] of the Administration Act 1969) that applies for legal aid in connection with proceedings in which it is concerned in a representative, fiduciary, or official capacity.
     
     (2) The Commissioner must refuse to grant legal aid to an applicant whose income or disposable capital exceeds the relevant maximum level prescribed in regulations, unless the Commissioner is satisfied that there are special circumstances, having regard to---
         
@@ -1015,13 +1019,13 @@ Legal aid
     
     *   (e) whether it is in the public interest that legal aid be granted.
     
-    Section 10(2): replaced, on 2 September 2013, by [section 6(1)][292] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 10(2): replaced, on 2 September 2013, by [section 6(1)][295] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 10(2A): inserted, on 2 September 2013, by [section 6(1)][292] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 10(2A): inserted, on 2 September 2013, by [section 6(1)][295] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 10(3A): inserted, on 2 September 2013, by [section 6(2)][292] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 10(3A): inserted, on 2 September 2013, by [section 6(2)][295] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 10(6)(c): repealed, on 2 September 2013, by [section 6(3)][292] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 10(6)(c): repealed, on 2 September 2013, by [section 6(3)][295] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 11 When legal aid may be granted: civil matters continued
     
@@ -1047,7 +1051,7 @@ Legal aid
     
     (4) [Section 10(4)(d)(i)][13] does not apply to original proceedings under an enactment specified in [Schedule 2][213].
     
-    (5) The Commissioner may grant legal aid to an applicant in respect of a civil proceeding under the [Criminal Proceeds (Recovery) Act 2009][293] if the Commissioner considers that the interests of justice require that the applicant be granted legal aid.
+    (5) The Commissioner may grant legal aid to an applicant in respect of a civil proceeding under the [Criminal Proceeds (Recovery) Act 2009][296] if the Commissioner considers that the interests of justice require that the applicant be granted legal aid.
     
     (6) In considering whether the interests of justice require that an applicant be granted legal aid under subsection (5), the Commissioner must have regard to---
         
@@ -1055,13 +1059,13 @@ Legal aid
     
     *   (b) whether there are any complex factual, legal, or evidential matters in the proceeding that require the applicant to be legally represented.
     
-    (7) [Section 10(3) and (4)][13] do not apply to an application for legal aid in respect of a civil proceeding under the [Criminal Proceeds (Recovery) Act 2009][293].
+    (7) [Section 10(3) and (4)][13] do not apply to an application for legal aid in respect of a civil proceeding under the [Criminal Proceeds (Recovery) Act 2009][296].
 
 ##### 12 Other situations where legal aid refused or limited: civil matters
     
 *   (1) Subject to subsection (2), the Commissioner may not grant legal aid in respect of---
         
-    *   (a) proceedings involving a decision under the [Immigration Act 2009][266] in relation to a person who---
+    *   (a) proceedings involving a decision under the [Immigration Act 2009][267] in relation to a person who---
             
         *   (i) is unlawfully in New Zealand in terms of that Act; or
         
@@ -1077,7 +1081,7 @@ Legal aid
         
         
     
-    *   (b) proceedings involving a decision or matter under the [Immigration Act 1987][274] in relation to a person who---
+    *   (b) proceedings involving a decision or matter under the [Immigration Act 1987][275] in relation to a person who---
             
         *   (i) was unlawfully in New Zealand in terms of that Act; or
         
@@ -1087,7 +1091,7 @@ Legal aid
     
     (2) Subsection (1) does not apply in respect of---
         
-    *   (a) proceedings referred to in subsection (1)(b) for which a person was granted legal aid before the date fixed under [section 2(1)][294] of the Immigration Act 2009 for the coming into force of that Act; or
+    *   (a) proceedings referred to in subsection (1)(b) for which a person was granted legal aid before the date fixed under [section 2(1)][297] of the Immigration Act 2009 for the coming into force of that Act; or
     
     *   (b) proceedings specified in [section 7(1)(j) to (n)][10] of this Act.
     
@@ -1107,13 +1111,13 @@ Legal aid
     
     (6) In this section, _rules of court_ includes the rules governing the procedure of any court, tribunal, authority, or other body before whom the proceedings are heard.
     
-    Compare: 2000 No 42 [s 10][295]
+    Compare: 2000 No 42 [s 10][298]
 
 ##### 13 Legal aid not available to insured or indemnified persons
     
 *   A person who has any form of indemnification or insurance in respect of the legal costs of bringing or defending any proceedings is not entitled to legal aid in respect of those proceedings, unless or until the person has exhausted any benefits available under the indemnification or insurance.
     
-    Compare: 2000 No 42 [s 11][296]
+    Compare: 2000 No 42 [s 11][299]
 
 ### Subpart 2---Application and grant
 
@@ -1141,7 +1145,7 @@ Legal aid
     
     (3) In this section, _final disposition_ means the final disposition of the matter to which the application relates, by a court, tribunal, or any other means.
     
-    Compare: 2000 No 42 [s 12][297]
+    Compare: 2000 No 42 [s 12][300]
 
 ##### 15 Special provisions relating to minors and mentally disordered persons
     
@@ -1161,7 +1165,7 @@ Legal aid
     
     (5) The Commissioner may waive any of the requirements or conditions set out in subsections (2) to (4).
     
-    Compare: 2000 No 42 [s 13][298]
+    Compare: 2000 No 42 [s 13][301]
 
 ##### 16 Decision on application for legal aid
     
@@ -1205,9 +1209,9 @@ Legal aid
     
     (5) This section is subject to [section 16A][21].
     
-    Compare: 2000 No 42 [s 14][299]
+    Compare: 2000 No 42 [s 14][302]
     
-    Section 16(5): inserted, on 2 September 2013, by [section 7][300] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 16(5): inserted, on 2 September 2013, by [section 7][303] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 16A Use of automated electronic systems for certain grants of legal aid
     
@@ -1229,9 +1233,9 @@ Legal aid
     
     (7) The Commissioner may from time to time, by notice in the _Gazette_, specify the amount of the maximum grant for any grant made in the manner authorised by subsection (1).
     
-    (8) A notice under subsection (7) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][301] and must be presented to the House of Representatives under [section 41][302] of that Act.
+    (8) A notice under subsection (7) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][304] and must be presented to the House of Representatives under [section 41][305] of that Act.
     
-    Section 16A: inserted, on 2 September 2013, by [section 8][303] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 16A: inserted, on 2 September 2013, by [section 8][306] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 17 Commissioner must notify applicant when legal aid declined
     
@@ -1251,7 +1255,7 @@ Legal aid
     
     (3) A grant of legal aid may be subject to the condition that the aided person must authorise a charge to be registered in favour of the Commissioner over specified property of the aided person as security for the interim repayment or the repayment, or both.
     
-    (4) The Commissioner may lodge a caveat under [section 137][304] of the Land Transfer Act 1952 on property over which a charge could be registered in favour of the Commissioner, regardless of whether the aided person has complied with any condition imposed under subsection (3).
+    (4) The Commissioner may lodge a caveat under [section 137][307] of the Land Transfer Act 1952 on property over which a charge could be registered in favour of the Commissioner, regardless of whether the aided person has complied with any condition imposed under subsection (3).
     
     (5) Subsection (1), the provisions of subsection (3) relating to a charge as security for payment of an interim repayment required by a condition referred to in subsection (1), and subsection (4)---
         
@@ -1273,9 +1277,9 @@ Legal aid
     
     *   (e) applications for legal aid by a person who is charged with or convicted of a prescribed offence and to whom [section 9(2)][12] does not apply.
     
-    Compare: 2000 No 42 [s 15][305]
+    Compare: 2000 No 42 [s 15][308]
     
-    Section 18(7): replaced, on 2 September 2013, by [section 9][306] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 18(7): replaced, on 2 September 2013, by [section 9][309] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 18A User charge payable by aided person
     
@@ -1299,7 +1303,7 @@ Legal aid
     
     (5) A grant of legal aid is also within subsection (4) if it is made on an application for matters referred to in that subsection as well as for other matters.
     
-    Section 18A: inserted, on 2 September 2013, by [section 10][307] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 18A: inserted, on 2 September 2013, by [section 10][310] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 19 Special provisions about conditions on grants to persons involved in proceedings under Domestic Violence Act 1995
     
@@ -1319,7 +1323,7 @@ Legal aid
     
     *   (c) advise person A of the Commissioner's decision, and explain how he or she decided what proportion of the grant should be subject to conditions.
     
-    Compare: 2000 No 42 [s 16][308]
+    Compare: 2000 No 42 [s 16][311]
 
 ##### 20 Interim repayments payable
     
@@ -1327,7 +1331,7 @@ Legal aid
     
     (2) The Commissioner may require an aided person to start making interim repayments at any time after legal aid has been granted.
     
-    Compare: 2000 No 42 [s 17][309]
+    Compare: 2000 No 42 [s 17][312]
 
 ##### 21 Amount of repayment payable
     
@@ -1371,13 +1375,13 @@ Legal aid
     
     (7) If an aided person was granted legal aid for a prescribed offence and the Commissioner is required by [section 9(2)][12] to redetermine the person's means, the cost of services for the purposes of calculating a repayment under subsection (4) includes the cost of services calculated under the grant before the aided person's means were redetermined.
     
-    Compare: 2000 No 42 [s 18][310]
+    Compare: 2000 No 42 [s 18][313]
 
 ##### 22 Lead providers
     
 *   If more than 1 provider provides services under a grant of legal aid, any obligation of the Commissioner to pay or to communicate with a person providing services under the grant is owed only to the lead provider, and not to any other provider.
     
-    Compare: 2000 No 42 [s 19][311]
+    Compare: 2000 No 42 [s 19][314]
 
 ##### 23 Maximum grant
     
@@ -1389,7 +1393,7 @@ Legal aid
     
     (4) However, every grant of legal aid in respect of victims' claims proceedings (as defined in section 4(1)) must specify a maximum grant of the amount prescribed for the purposes of this subsection by regulations.
     
-    Compare: 2000 No 42 [s 20][312]
+    Compare: 2000 No 42 [s 20][315]
 
 ### Subpart 3---After legal aid is granted
 
@@ -1401,7 +1405,7 @@ Legal aid
     
     (3) If the grant of legal aid is withdrawn, the provider under the grant must notify all other parties to the proceedings of that fact.
     
-    Compare: 2000 No 42 [s 21][313]
+    Compare: 2000 No 42 [s 21][316]
 
 ##### 25 Commissioner to be notified of change in circumstances
     
@@ -1421,7 +1425,7 @@ Legal aid
     
     (4) For the purposes of subsection (1), an aided person is deemed to have waived any legal professional privilege that might otherwise prevent a person acting for the aided person from complying with subsection (1).
     
-    Compare: 2000 No 42 [s 22][314]
+    Compare: 2000 No 42 [s 22][317]
 
 ##### 26 Commissioner to keep aided person informed
     
@@ -1453,7 +1457,7 @@ Legal aid
         
         
     
-    Compare: 2000 No 42 [s 23][315]
+    Compare: 2000 No 42 [s 23][318]
 
 ##### 27 Private mediation
     
@@ -1471,7 +1475,7 @@ Legal aid
     
     *   (b) there is a reasonable likelihood that private mediation will resolve the dispute or part of the dispute.
     
-    Compare: 2000 No 42 [s 23A][316]
+    Compare: 2000 No 42 [s 23A][319]
 
 ##### 28 Application for amendment to grant of legal aid
     
@@ -1507,7 +1511,7 @@ Legal aid
     
     (6) In this section, _final disposition_ means the final disposition of the matter to which the application relates, by a court, tribunal, or any other means.
     
-    Compare: 2000 No 42 [s 24][317]
+    Compare: 2000 No 42 [s 24][320]
 
 ##### 29 Withdrawal of, or amendment to, grant of legal aid: criminal matters
     
@@ -1525,7 +1529,7 @@ Legal aid
     
     *   (b) amend the conditions on a grant of legal aid (other than the condition referred to in [section 18(2)][23]) if the Commissioner considers that the conditions of the grant of legal aid are no longer appropriate.
     
-    Compare: 2000 No 42 [s 25][318]
+    Compare: 2000 No 42 [s 25][321]
 
 ##### 30 Withdrawal of, or amendment to, grant of legal aid: civil matters
     
@@ -1565,7 +1569,7 @@ Legal aid
     
     (3) In relation to a civil matter, the Commissioner may at any time amend the conditions on a grant of legal aid (other than the condition referred to in [section 18(2)][23]) if the Commissioner considers that the conditions of the grant of legal aid are no longer appropriate.
     
-    Compare: 2000 No 42 [s 26][319]
+    Compare: 2000 No 42 [s 26][322]
 
 ##### 31 Withdrawal of grant
     
@@ -1589,7 +1593,7 @@ Legal aid
     
     (4) This section does not apply to legal aid granted on an interim basis.
     
-    Compare: 2000 No 42 [s 27][320]
+    Compare: 2000 No 42 [s 27][323]
 
 ##### 32 Consequences of withdrawing legal aid
     
@@ -1613,7 +1617,7 @@ Legal aid
     
     (5) The Commissioner is not obliged to pay for any services provided to an aided person after the date on which legal aid is withdrawn.
     
-    Compare: 2000 No 42 [s 28][321]
+    Compare: 2000 No 42 [s 28][324]
 
 ### Subpart 4---How Commissioner may enforce conditions of grant
 
@@ -1629,15 +1633,15 @@ Legal aid
     
     *   (d) the amount of any expense reasonably incurred by the Commissioner for the purpose of enforcing or securing a debt payable to the Commissioner by the aided person, but only if the expense is of a kind specified by the regulations for the purposes of this paragraph.
     
-    Compare: 2000 No 42 [s 30][322]
+    Compare: 2000 No 42 [s 30][325]
     
-    Section 33: amended, on 2 September 2013, by [section 11(1)][323] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 33: amended, on 2 September 2013, by [section 11(1)][326] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 33(b): amended, on 2 September 2013, by [section 11(2)][323] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 33(b): amended, on 2 September 2013, by [section 11(2)][326] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 33(c): inserted, on 2 September 2013, by [section 11(2)][323] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 33(c): inserted, on 2 September 2013, by [section 11(2)][326] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 33(d): inserted, on 2 September 2013, by [section 11(2)][323] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 33(d): inserted, on 2 September 2013, by [section 11(2)][326] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 34 Amounts payable in respect of grant are debts due to Commissioner
     
@@ -1655,13 +1659,13 @@ Legal aid
     
     (5) Despite subsection (4), the Commissioner may, after having regard to the principles in that subsection, make whatever arrangements the Commissioner considers appropriate in the circumstances.
     
-    Compare: 2000 No 42 [s 31][324]
+    Compare: 2000 No 42 [s 31][327]
     
-    Section 34 heading: amended, on 2 September 2013, by [section 12(1)][325] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 34 heading: amended, on 2 September 2013, by [section 12(1)][328] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 34(1): replaced, on 2 September 2013, by [section 12(2)][325] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 34(1): replaced, on 2 September 2013, by [section 12(2)][328] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 34(2): repealed, on 2 September 2013, by [section 12(2)][325] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 34(2): repealed, on 2 September 2013, by [section 12(2)][328] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 35 Commissioner may adjust rate of payment of debt, etc
     
@@ -1705,7 +1709,7 @@ Legal aid
     
     *   (c) the date on which the decision takes place (which must be no earlier than the day after the date that the Commissioner reasonably believes the aided person will receive notice under this subsection).
     
-    Compare: 2000 No 42 [s 31A][326]
+    Compare: 2000 No 42 [s 31A][329]
 
 ##### 36 Charges on proceeds of proceedings
     
@@ -1717,13 +1721,13 @@ Legal aid
     
     (4) A charge created by this section may be registered,---
         
-    *   (a) in the case of land, against that land in accordance with the [Statutory Land Charges Registration Act 1928][327]; or
+    *   (a) in the case of land, against that land in accordance with the [Statutory Land Charges Registration Act 1928][330]; or
     
-    *   (b) in the case of any other property, against that property in accordance with the Chattels Transfer Act 1924, the [Personal Property Securities Act 1999][328], or the Motor Vehicle Securities Act 1989, as appropriate.
+    *   (b) in the case of any other property, against that property in accordance with the Chattels Transfer Act 1924, the [Personal Property Securities Act 1999][331], or the Motor Vehicle Securities Act 1989, as appropriate.
     
     (5) Subsection (1) does not apply to property returned, transferred, or granted to an aided person as a result of proceedings before the Waitangi Tribunal.
     
-    Compare: 2000 No 42 [s 32][329]
+    Compare: 2000 No 42 [s 32][332]
 
 ##### 37 Commissioner may exempt property from charge
     
@@ -1739,7 +1743,7 @@ Legal aid
     
     *   (b) advise the aided person of the decision, and of the aided person's right to apply for a reconsideration under [section 51][75] and a review under [section 52][77].
     
-    Compare: 2000 No 42 [s 33][330]
+    Compare: 2000 No 42 [s 33][333]
 
 ##### 38 Transfer of charge
     
@@ -1753,7 +1757,7 @@ Legal aid
     
     *   (b) subjecting any property agreed to be subject to a charge to the charge as agreed.
     
-    Compare: 2000 No 42 [s 34][331]
+    Compare: 2000 No 42 [s 34][334]
 
 ##### 39 Enforcement of charge
     
@@ -1765,15 +1769,15 @@ Legal aid
     
     (2) A transfer or act done with the intention, or having the effect, of defeating a charge referred to in subsection (1) is void as against the Commissioner, except where the transfer or act is to or in favour of a purchaser in good faith for value who, at the time of the transfer or act, had no notice of the charge.
     
-    Compare: 2000 No 42 [s 35][332]
+    Compare: 2000 No 42 [s 35][335]
 
 ##### 40 Interest on unpaid legal aid debt
     
-*   (1) Subsection (2) applies to any amount that is payable in respect of a grant of legal aid made on or after the commencement of this section (as substituted by [section 13][333] of the Legal Services Amendment Act 2013).
+*   (1) Subsection (2) applies to any amount that is payable in respect of a grant of legal aid made on or after the commencement of this section (as substituted by [section 13][336] of the Legal Services Amendment Act 2013).
     
     (2) An aided person must pay the Commissioner interest, calculated in accordance with, and at the rate or rates prescribed by, the regulations on any debt that is owed, during any period specified in the regulations, by the aided person to the Commissioner in respect of a grant of legal aid.
     
-    (3) Subsection (4) applies to a debt (a **prior debt**) that is owed by an aided person to the Commissioner in respect of a grant of legal aid made before the commencement of this section (as substituted by the [Legal Services Amendment Act 2013][334]).
+    (3) Subsection (4) applies to a debt (a **prior debt**) that is owed by an aided person to the Commissioner in respect of a grant of legal aid made before the commencement of this section (as substituted by the [Legal Services Amendment Act 2013][337]).
     
     (4) The Commissioner may, by written notice, require the aided person to pay interest in respect of the prior debt (whether or not the person is in default), and then, as from the date stated in the notice for the purpose, subsection (2) applies to the person and to the prior debt.
     
@@ -1785,9 +1789,9 @@ Legal aid
     
     (6) The interest must be calculated and paid in accordance with the regulations.
     
-    (7) Subsection (4) does not affect any subsisting requirement under [section 40(1)][48] (as in force before the commencement of [section 13][333] of the Legal Services Amendment Act 2013).
+    (7) Subsection (4) does not affect any subsisting requirement under [section 40(1)][48] (as in force before the commencement of [section 13][336] of the Legal Services Amendment Act 2013).
     
-    Section 40: replaced, on 2 September 2013, by [section 13][333] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 40: replaced, on 2 September 2013, by [section 13][336] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41 Aided person to enforce judgment or out-of-court settlement
     
@@ -1795,11 +1799,11 @@ Legal aid
     
     (2) If the aided person fails to take such steps, the Commissioner may enforce the judgment or out-of-court settlement as if it were in favour of the Commissioner, and may recover the costs of doing so from the aided person.
     
-    Compare: 2000 No 42 [s 36][335]
+    Compare: 2000 No 42 [s 36][338]
 
 #### Deduction notices
     
-*   Heading: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+*   Heading: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41A Interpretation
     
@@ -1807,17 +1811,17 @@ Legal aid
     
     _benefit_---
         
-    *   (a) means a benefit within the meaning of the [Social Security Act 1964][337]; but
+    *   (a) means a benefit within the meaning of the [Social Security Act 1964][340]; but
     
     *   (b) does not include---
             
-        *   (i) an orphan's benefit payable under [section 28][338] of the Social Security Act 1964; or
+        *   (i) an orphan's benefit payable under [section 28][341] of the Social Security Act 1964; or
         
-        *   (ii) an unsupported child's benefit payable under [section 29][339] of that Act; or
+        *   (ii) an unsupported child's benefit payable under [section 29][342] of that Act; or
         
-        *   (iii) a child disability allowance payable under [section 39A][340] of that Act; or
+        *   (iii) a child disability allowance payable under [section 39A][343] of that Act; or
         
-        *   (iv) a disability allowance payable under [section 69C][341] of that Act
+        *   (iv) a disability allowance payable under [section 69C][344] of that Act
         
         
     
@@ -1827,7 +1831,7 @@ Legal aid
         
     *   (a) any part of an amount of that kind; and
     
-    *   (b) an amount of that kind that may not be recovered by civil action in a court of law because of the [Limitation Act 2010][342]
+    *   (b) an amount of that kind that may not be recovered by civil action in a court of law because of the [Limitation Act 2010][345]
     
     _payment_, in relation to a third party, includes payments made, or to be made, by the third party as---
         
@@ -1837,7 +1841,7 @@ Legal aid
     
     *   (c) a benefit:
     
-    *   (d) weekly compensation under the [Accident Compensation Act 2001][343]:
+    *   (d) weekly compensation under the [Accident Compensation Act 2001][346]:
     
     *   (e) a bonus or an incentive payment:
     
@@ -1849,9 +1853,9 @@ Legal aid
     
     _third party_ means the person required to make 1 or more deductions under a deduction notice.
     
-    Compare: 1957 No 87 [ss 2(1)][344], [79][345]
+    Compare: 1957 No 87 [ss 2(1)][347], [79][348]
     
-    Section 41A: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41A: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41B Deduction of overdue amounts
     
@@ -1885,31 +1889,31 @@ Legal aid
     
     (7) Every deduction notice is subject to [sections 41C to 41J][53].
     
-    Compare: 1964 No 136 [s 86A][346]
+    Compare: 1964 No 136 [s 86A][349]
     
-    Section 41B: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41B: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41C Issue of deduction notice to State sector employer
     
-*   In any case where an aided person is employed within a department (within the meaning of the [State Sector Act 1988][347]), a deduction notice may be issued to the chief executive of that department in respect of any salary or wages payable to the aided person.
+*   In any case where an aided person is employed within a department (within the meaning of the [State Sector Act 1988][350]), a deduction notice may be issued to the chief executive of that department in respect of any salary or wages payable to the aided person.
     
-    Compare: 1964 No 136 [s 86B][348]
+    Compare: 1964 No 136 [s 86B][351]
     
-    Section 41C: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41C: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41D Discharge of obligation
     
 *   In any case where a third party deducts, under a deduction notice, any money payable to an aided person, the aided person is, to the extent of the amount deducted, discharged from his or her obligation to pay the overdue amount.
     
-    Compare: 1964 No 136 [s 86C][349]
+    Compare: 1964 No 136 [s 86C][352]
     
-    Section 41D: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41D: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41E Deduction notices issued to banks
     
 *   (1) Where the third party is a bank, any money held by the bank to the credit of the aided person is subject to the provisions of [section 41B][52] and the amount required to be deducted under the deduction notice is, without prejudice to any other remedies against the aided person or any other person, deemed to be held in trust for the Commissioner and is a debt due to the Commissioner and may be recovered in any court or tribunal of competent jurisdiction.
     
-    (2) For the purposes of this section, _bank_ means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the [Friendly Societies and Credit Unions Act 1982][350], and a building society within the meaning of the [Building Societies Act 1965][351]; but does not include the Reserve Bank of New Zealand established under the [Reserve Bank of New Zealand Act 1989][352] (except in relation to an account maintained by that bank for an employee of the bank).
+    (2) For the purposes of this section, _bank_ means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the [Friendly Societies and Credit Unions Act 1982][353], and a building society within the meaning of the [Building Societies Act 1965][354]; but does not include the Reserve Bank of New Zealand established under the [Reserve Bank of New Zealand Act 1989][355] (except in relation to an account maintained by that bank for an employee of the bank).
     
     (3) For the purposes of this section, _money held by the bank to the credit of the aided person_ includes money, and any interest on money, that is on deposit or deposited with a bank to the credit of the aided person, whether or not---
         
@@ -1925,9 +1929,9 @@ Legal aid
     
     *   (b) can be withdrawn from the account by or on behalf of the aided person without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
     
-    Compare: 1964 No 136 [s 86D][353]
+    Compare: 1964 No 136 [s 86D][356]
     
-    Section 41E: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41E: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41F Making of deductions
     
@@ -1939,9 +1943,9 @@ Legal aid
     
     (2) A third party must, on request, give the aided person a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
     
-    Compare: 1964 No 136 [s 86E][354]
+    Compare: 1964 No 136 [s 86E][357]
     
-    Section 41F: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41F: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41G Offences in relation to deduction notices
     
@@ -1955,15 +1959,15 @@ Legal aid
     
     (2) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses an employee or alters an employee's position in the employer's business or undertaking to the employee's prejudice by reason of a deduction notice having been issued to the employer.
     
-    Compare: 1957 No 87 [s 106A][355]; 1964 No 136 [s 86F][356]
+    Compare: 1957 No 87 [s 106A][358]; 1964 No 136 [s 86F][359]
     
-    Section 41G: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41G: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41H Protected earnings
     
 *   (1) Despite anything in [sections 41B to 41G][52], where a deduction notice is issued to an employer of an aided person, the employer must not, in making deductions under the deduction notice, reduce the amount paid to the aided person by way of salary or wages in respect of any week to an amount that is less than 60% of the amount calculated as being the aided person's net ordinary weekly pay for a week.
     
-    (2) For the purposes of this section, the aided person's net ordinary weekly pay for a week is the balance left after deducting from the aided person's ordinary weekly pay (as defined in [section 8][357] of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][358] if that ordinary weekly pay were the only salary or wages paid to the aided person by the employer in respect of a week.
+    (2) For the purposes of this section, the aided person's net ordinary weekly pay for a week is the balance left after deducting from the aided person's ordinary weekly pay (as defined in [section 8][360] of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][361] if that ordinary weekly pay were the only salary or wages paid to the aided person by the employer in respect of a week.
     
     (3) For the purposes of this section, where deductions are required to be made from a payment of a kind described in any of paragraphs (b) to (d) of the definition of payment in [section 41A][51], then---
         
@@ -1971,9 +1975,9 @@ Legal aid
     
     *   (b) the person required to make the payment is deemed to be the employer of the aided person.
     
-    Compare: 1964 No 136 [s 86G][359]
+    Compare: 1964 No 136 [s 86G][362]
     
-    Section 41H: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41H: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41I Penalty for late deductions
     
@@ -1995,21 +1999,21 @@ Legal aid
     
     (5) An amount payable to the Commissioner under subsection (1) is a debt due to the Commissioner and may be recovered in any court or tribunal of competent jurisdiction.
     
-    Compare: 1964 No 136 [s 86I][360]
+    Compare: 1964 No 136 [s 86I][363]
     
-    Section 41I: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41I: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 41J Notices given to third parties
     
 *   The provisions of [section 115][164] apply to a deduction notice given to a third party under [section 41B][52] except that if the third party is an agency, such as a business, government department, Crown entity or other instrument of the Crown, the notice may be left at, or posted to, the head office of the agency or to the office of the agency responsible for making the payment to which the deduction notice relates.
     
-    Compare: 1964 No 136 [s 86J][361]
+    Compare: 1964 No 136 [s 86J][364]
     
-    Section 41J: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 41J: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Decisions not to recover debt, write-offs, and refunds
     
-*   Heading: inserted, on 2 September 2013, by [section 14][336] of the Legal Services Amendment Act 2013 (2013 No 43).
+*   Heading: inserted, on 2 September 2013, by [section 14][339] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 42 Commissioner may decide not to recover debt in certain circumstances
     
@@ -2037,7 +2041,7 @@ Legal aid
     
     *   (c) a serious illness suffered by the aided person or the aided person's dependant.
     
-    Compare: 2000 No 42 [s 36A][362]
+    Compare: 2000 No 42 [s 36A][365]
 
 ##### 43 Commissioner may write off amounts payable
     
@@ -2059,7 +2063,7 @@ Legal aid
     
     (6) In subsection (1), _serious hardship_ has the meaning given in [section 42(4)][62].
     
-    Compare: 2000 No 42 [s 37][363]
+    Compare: 2000 No 42 [s 37][366]
 
 ##### 44 Commissioner to refund excess payments
     
@@ -2071,9 +2075,9 @@ Legal aid
     
     (2) In assessing the cost of services for the purposes of subsection (1)(b), any interest paid under [section 40][48] must be disregarded.
     
-    Compare: 2000 No 42 [s 39][364]
+    Compare: 2000 No 42 [s 39][367]
     
-    Section 44(2): inserted, on 2 September 2013, by [section 15][365] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 44(2): inserted, on 2 September 2013, by [section 15][368] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ### Subpart 5---Award of costs in civil proceedings
 
@@ -2107,7 +2111,7 @@ Legal aid
     
     *   (b) the means of the next friend or guardian _ad litem_ are taken as being the means of the aided person.
     
-    Compare: 2000 No 42 [s 40][366]
+    Compare: 2000 No 42 [s 40][369]
 
 ##### 46 Costs of successful opponent of aided person
     
@@ -2131,7 +2135,7 @@ Legal aid
     
     (7) The Commissioner may make a payment under this section to a lawyer who is not a provider under this Act.
     
-    Compare: 2000 No 42 [s 41][367]
+    Compare: 2000 No 42 [s 41][370]
 
 ### Subpart 6---Legal aid grants for Treaty of Waitangi claims
 
@@ -2161,7 +2165,7 @@ Legal aid
     
     (4) Nothing in this section prevents an applicant from making a further application for legal aid in respect of the proceedings to which the first application relates.
     
-    Compare: 2000 No 42 [s 42][368]
+    Compare: 2000 No 42 [s 42][371]
 
 ##### 48 Assessment of financial resources
     
@@ -2179,15 +2183,15 @@ Legal aid
     
     (4) In subsection (1), _incorporated body_ includes---
         
-    *   (a) a Māori Trust Board (within the meaning of [section 2(1)][369] of the Maori Trust Boards Act 1955):
+    *   (a) a Māori Trust Board (within the meaning of [section 2(1)][372] of the Maori Trust Boards Act 1955):
     
-    *   (b) a Māori incorporation (within the meaning of [section 4][370] of Te Ture Whenua Maori Act 1993):
+    *   (b) a Māori incorporation (within the meaning of [section 4][373] of Te Ture Whenua Maori Act 1993):
     
-    *   (c) a trust constituted under [Part 12][371] or [section 338][372] of Te Ture Whenua Maori Act 1993:
+    *   (c) a trust constituted under [Part 12][374] or [section 338][375] of Te Ture Whenua Maori Act 1993:
     
-    *   (d) a trust continued as an ahu whenua trust by [section 354][373] of Te Ture Whenua Maori Act 1993\.
+    *   (d) a trust continued as an ahu whenua trust by [section 354][376] of Te Ture Whenua Maori Act 1993\.
     
-    Compare: 2000 No 42 [s 43][374]
+    Compare: 2000 No 42 [s 43][377]
 
 ##### 49 Commissioner to refer application to Waitangi Tribunal
     
@@ -2197,7 +2201,7 @@ Legal aid
     
     (3) The Waitangi Tribunal must supply to the Commissioner the information sought under this section.
     
-    Compare: 2000 No 42 [s 44][375]
+    Compare: 2000 No 42 [s 44][378]
 
 ##### 50 Repayment under grant of legal aid
     
@@ -2213,7 +2217,7 @@ Legal aid
     
     (4) Every repayment required in accordance with this section under a grant of legal aid is recoverable in the same way as any other repayment required to be paid under this Act.
     
-    Compare: 2000 No 42 [s 45][376]
+    Compare: 2000 No 42 [s 45][379]
 
 ### Subpart 7---Reconsideration, review, and appeals of legal aid decisions
 
@@ -2237,11 +2241,11 @@ Legal aid
     
     (7) A person must not, other than under [section 52(3)][77], apply for a review of a decision of the Commissioner unless the person has first sought and obtained a reconsideration of that decision under this section.
     
-    Compare: 2000 No 42 [ss 29][377], [55(a)][378]
+    Compare: 2000 No 42 [ss 29][380], [55(a)][381]
     
-    Section 51(1A): inserted, on 2 September 2013, by [section 16(1)][379] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 51(1A): inserted, on 2 September 2013, by [section 16(1)][382] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 51(2): amended, on 2 September 2013, by [section 16(2)][379] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 51(2): amended, on 2 September 2013, by [section 16(2)][382] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Reviews
 
@@ -2287,11 +2291,11 @@ Legal aid
     
     (4) In this section, **decision** includes a failure or refusal to make or reconsider a decision.
     
-    Compare: 2000 No 42 [s 54][380]
+    Compare: 2000 No 42 [s 54][383]
     
-    Section 52(2)(da): inserted, on 2 September 2013, by [section 17(1)][381] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 52(2)(da): inserted, on 2 September 2013, by [section 17(1)][384] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 52(3A): inserted, on 2 September 2013, by [section 17(2)][381] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 52(3A): inserted, on 2 September 2013, by [section 17(2)][384] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 53 Application for review
     
@@ -2301,7 +2305,7 @@ Legal aid
     
     (3) In deciding whether to accept a late application for review under subsection (2), the chairperson must have regard to whether the applicant made a late application for reconsideration of the original decision, and the applicant's reasons for that late application.
     
-    Compare: 2000 No 42 [s 55][378]
+    Compare: 2000 No 42 [s 55][381]
 
 ##### 54 Powers and duties of chairperson of Tribunal on receipt of application for review
     
@@ -2313,7 +2317,7 @@ Legal aid
     
     *   (c) must provide a copy of the application for review to the Commissioner.
     
-    Compare: 2000 No 42 [s 55A][382]
+    Compare: 2000 No 42 [s 55A][385]
 
 ##### 55 Review of decision by Tribunal
     
@@ -2329,7 +2333,7 @@ Legal aid
     
     (4) The review must be conducted on the papers, with all reasonable speed.
     
-    Compare: 2000 No 42 [s 56][383]
+    Compare: 2000 No 42 [s 56][386]
 
 ##### 56 Determination of review
     
@@ -2337,7 +2341,7 @@ Legal aid
     
     (2) Every determination by the Tribunal must be accompanied by a brief summary of the reasons for it.
     
-    Compare: 2000 No 42 [s 57][384]
+    Compare: 2000 No 42 [s 57][387]
 
 ##### 57 Tribunal may direct Commissioner to reconsider
     
@@ -2349,7 +2353,7 @@ Legal aid
     
     *   (b) the Commissioner must reconsider the decision, taking into account the reasons for the direction and any matters set out by the Tribunal.
     
-    Compare: 2000 No 42 [s 58][385]
+    Compare: 2000 No 42 [s 58][388]
 
 ##### 58 Chairperson may direct publication of Tribunal decisions
     
@@ -2361,19 +2365,19 @@ Legal aid
     
 *   If the Commissioner or an applicant considers that the Tribunal's determination is wrong in law, the Commissioner or the applicant (as the case may be) may appeal to the High Court on the question of law, and the appeal must be dealt with in accordance with the rules of court.
     
-    Compare: 2000 No 42 [s 59][386]
+    Compare: 2000 No 42 [s 59][389]
 
 ##### 60 Appeals to Court of Appeal and Supreme Court
     
-*   [Subpart 8][387] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under [section 59][85] as if the decision had been made under [section 300][388] of that Act.
+*   [Subpart 8][390] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under [section 59][85] as if the decision had been made under [section 300][391] of that Act.
     
-    Section 60: replaced, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 60: replaced, on 1 July 2013, by [section 413][392] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 References on questions of law to High Court
     
 *   The chairperson of the Tribunal may state a case for the opinion of the High Court on any point of law that arises on a review under this subpart of a decision of the Commissioner.
     
-    Compare: 2000 No 42 [s 61][390]
+    Compare: 2000 No 42 [s 61][393]
 
 ### Subpart 8---Legal Aid Tribunal
 
@@ -2411,7 +2415,7 @@ Legal aid
     
     (4) If the person to be appointed chairperson is a provider, his or her approval to provide legal aid services under this Act ceases when the person assumes office as chairperson.
     
-    Compare: 2000 No 42 [s 62][391]
+    Compare: 2000 No 42 [s 62][394]
 
 ##### 65 Chairperson of Tribunal
     
@@ -2447,13 +2451,13 @@ Legal aid
     
     (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    (5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with [clause 4][392] of Schedule 3 for work undertaken in that capacity.
+    (5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with [clause 4][395] of Schedule 3 for work undertaken in that capacity.
     
-    Compare: 2000 No 42 [s 62A][393]
+    Compare: 2000 No 42 [s 62A][396]
 
 ##### 67 Further provisions that apply to Tribunal in Schedule 3
     
-*   [Part 1][394] of Schedule 3 contains further provisions that apply to the Tribunal.
+*   [Part 1][397] of Schedule 3 contains further provisions that apply to the Tribunal.
 
 ## Part 3  
 Administration of legal services system
@@ -2502,7 +2506,7 @@ Administration of legal services system
     
 *   Without limiting [section 68(2)(c)][98], the methods of delivery of legal services may include---
         
-    *   (a) making arrangements, subject to the [Lawyers and Conveyancers Act 2006][395], for the services of non-lawyers to be made available:
+    *   (a) making arrangements, subject to the [Lawyers and Conveyancers Act 2006][398], for the services of non-lawyers to be made available:
     
     *   (b) entering into agreements with individual lawyers, groups of lawyers, or law firms for the provision of legal services:
     
@@ -2516,13 +2520,13 @@ Administration of legal services system
 
 ##### 70 Legal Services Commissioner
     
-*   (1) A person must be appointed under the [State Sector Act 1988][347] to hold office as Legal Services Commissioner.
+*   (1) A person must be appointed under the [State Sector Act 1988][350] to hold office as Legal Services Commissioner.
     
     (2) The person to be appointed Commissioner must be an existing employee of the Ministry or be appointed an employee of the Ministry when appointed Commissioner.
     
     (3) The Commissioner must, except to the extent that [section 71(2)][102] applies, act under the direction of the Minister and the Secretary.
     
-    Compare: 2000 No 42 [s 91][393]
+    Compare: 2000 No 42 [s 91][396]
 
 ##### 71 Functions of Commissioner
     
@@ -2548,7 +2552,7 @@ Administration of legal services system
     
     (2) The Commissioner must act independently when performing any function stated in subsection (1)(a) to (d).
     
-    Compare: 2000 No 42 [s 92][396]
+    Compare: 2000 No 42 [s 92][399]
 
 ##### 72 Commissioner may delegate powers, functions, or duties
     
@@ -2570,7 +2574,7 @@ Administration of legal services system
     
     *   (g) continues according to its tenor despite any change in the person holding office as the Commissioner.
     
-    Compare: 2000 No 42 [s 62A][393]; 2002 No 12 [s 8(5)][397]; 2008 No 72 [s 17][398]
+    Compare: 2000 No 42 [s 62A][396]; 2002 No 12 [s 8(5)][400]; 2008 No 72 [s 17][401]
 
 ##### 73 Powers of delegate
     
@@ -2642,7 +2646,7 @@ Administration of legal services system
     
     (7) The Secretary must, after giving an approval or temporary approval, give a copy of it to the New Zealand Law Society. 
     
-    Section 77(2): amended, on 2 September 2013, by [section 18][399] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 77(2): amended, on 2 September 2013, by [section 18][402] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 78 Selection committees
     
@@ -2696,7 +2700,7 @@ Administration of legal services system
 
 ##### 80 Further provisions relating to committees in Schedule 3
     
-*   [Part 2][400] of Schedule 3 contains further provisions that apply to selection committees and the performance review committee.
+*   [Part 2][403] of Schedule 3 contains further provisions that apply to selection committees and the performance review committee.
 
 ##### 81 Obligations relating to professional conduct
     
@@ -2710,7 +2714,7 @@ Administration of legal services system
     
     (3) Subsections (1) and (2) are subject to any express provisions of this Act.
     
-    Compare: 2000 No 42 [s 65][401]
+    Compare: 2000 No 42 [s 65][404]
 
 ##### 82 Review of decisions of Secretary regarding approvals
     
@@ -2744,9 +2748,9 @@ Administration of legal services system
     
     (3) A person appointed under this section must be enrolled as a barrister and solicitor of the High Court of New Zealand and must have at least 7 years' legal experience.
     
-    Section 84(2): amended, on 2 September 2013, by [section 19(1)][402] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 84(2): amended, on 2 September 2013, by [section 19(1)][405] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 84(3): amended, on 2 September 2013, by [section 19(2)][402] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 84(3): amended, on 2 September 2013, by [section 19(2)][405] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 85 Function of Review Authority
     
@@ -2764,15 +2768,15 @@ Administration of legal services system
 
 ##### 87 Further provisions in Schedule 3
     
-*   [Part 3][403] of Schedule 3 contains further provisions that apply to the Review Authority.
+*   [Part 3][406] of Schedule 3 contains further provisions that apply to the Review Authority.
 
 ##### 87A Deputy Review Authority
     
-*   (1) A Deputy Review Authority appointed under [section 84(2)][118] has the functions, powers, duties, and immunities of the Review Authority and every reference to the Review Authority in [sections 85 to 87][119] and in [Part 3][403] of Schedule 3 is taken to include a reference to a Deputy Review Authority.
+*   (1) A Deputy Review Authority appointed under [section 84(2)][118] has the functions, powers, duties, and immunities of the Review Authority and every reference to the Review Authority in [sections 85 to 87][119] and in [Part 3][406] of Schedule 3 is taken to include a reference to a Deputy Review Authority.
     
     (2) This section is subject to [section 87B][123].
     
-    Section 87A: inserted, on 2 September 2013, by [section 20][404] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 87A: inserted, on 2 September 2013, by [section 20][407] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 87B Scope of functions of Deputy Review Authority
     
@@ -2808,7 +2812,7 @@ Administration of legal services system
     
     (5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person's authority to do so.
     
-    Section 87B: inserted, on 2 September 2013, by [section 20][404] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 87B: inserted, on 2 September 2013, by [section 20][407] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Quality assurance checks
 
@@ -2840,7 +2844,7 @@ Administration of legal services system
     
     (2) The aided person may request an examination at any time before the 20th day (or such longer time as the Commissioner, on application, allows) after the person has received notice of the cost of services.
     
-    Compare: 2000 No 42 [s 38][405]
+    Compare: 2000 No 42 [s 38][408]
 
 ##### 91 Secretary may audit providers
     
@@ -2866,7 +2870,7 @@ Administration of legal services system
     
     *   (b) any substantial or unresolved complaints concerning delivery of legal aid services or specified legal services.
     
-    Compare: 2000 No 42 [s 78][406]
+    Compare: 2000 No 42 [s 78][409]
 
 ##### 92 Compliance with audits
     
@@ -2888,7 +2892,7 @@ Administration of legal services system
     
     (6) [Section 109][155] applies to the disclosure of privileged communications under this section.
     
-    Compare: 2000 No 42 [s 79][407]
+    Compare: 2000 No 42 [s 79][410]
 
 ### Subpart 3---Community law centres
 
@@ -2900,7 +2904,7 @@ Administration of legal services system
     
     (2) A body may, for the purposes of this Act, be a community law centre even if it performs functions in addition to those described in subsection (1).
     
-    Compare: 2000 No 42 [s 85][408]
+    Compare: 2000 No 42 [s 85][411]
 
 ##### 94 Secretary may enter into contracts with community law centres
     
@@ -2912,7 +2916,7 @@ Administration of legal services system
     
     *   (b) any other money.
     
-    Compare: 2000 No 42 [s 87(1), (3)][409]
+    Compare: 2000 No 42 [s 87(1), (3)][412]
 
 ##### 95 Reporting on funding of community law centres
     
@@ -2956,9 +2960,9 @@ Administration of legal services system
     
     *   (c) the disbursements claimed by the lead provider and any other provider who acted on the matter.
     
-    Compare: 2000 No 42 [s 74][410]
+    Compare: 2000 No 42 [s 74][413]
     
-    Section 97(2)(a): amended, on 2 September 2013, by [section 21][411] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 97(2)(a): amended, on 2 September 2013, by [section 21][414] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 98 Time frame for claiming for payment
     
@@ -2998,11 +3002,11 @@ Administration of legal services system
     
     (5) The Commissioner may decline any claim that was not made in accordance with the time frame referred to in [section 98][140].
     
-    Compare: 2000 No 42 [s 75][412]
+    Compare: 2000 No 42 [s 75][415]
     
-    Section 99(4): replaced, on 2 September 2013, by [section 22][413] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 99(4): replaced, on 2 September 2013, by [section 22][416] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 99(5): inserted, on 2 September 2013, by [section 22][413] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 99(5): inserted, on 2 September 2013, by [section 22][416] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 100 Secretary must pay approved claims 
     
@@ -3010,7 +3014,7 @@ Administration of legal services system
     
     (2) The Secretary must not withhold payment of part of a claim on the ground that another part of the claim has been deferred for examination or declined.
     
-    Compare: 2000 No 42 [s 76][414]
+    Compare: 2000 No 42 [s 76][417]
 
 #### Enforcement
 
@@ -3058,7 +3062,7 @@ Administration of legal services system
     
     *   (d) the provider is no longer entitled to hold a practising certificate:
     
-    *   (e) the Disciplinary Tribunal has made any of the following orders under [section 242(1)][415] of the Lawyers and Conveyancers Act 2006:
+    *   (e) the Disciplinary Tribunal has made any of the following orders under [section 242(1)][418] of the Lawyers and Conveyancers Act 2006:
             
         *   (i) striking a practitioner off the roll:
         
@@ -3086,13 +3090,13 @@ Administration of legal services system
     
     *   (b) the fact that the person has not received the notice is, despite [section 115(2)][164], only relevant if it is proved that the failure occurred through no fault of the person.
     
-    Compare: 2000 No 42 [s 73][416]
+    Compare: 2000 No 42 [s 73][419]
     
-    Section 103(1)(c): replaced, on 2 September 2013, by [section 23(1)][417] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 103(1)(c): replaced, on 2 September 2013, by [section 23(1)][420] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 103(4)(a): amended, on 2 September 2013, by [section 23(2)][417] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 103(4)(a): amended, on 2 September 2013, by [section 23(2)][420] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 103(5): inserted, on 2 September 2013, by [section 23(3)][417] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 103(5): inserted, on 2 September 2013, by [section 23(3)][420] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Further provisions relating to providers
 
@@ -3108,13 +3112,13 @@ Administration of legal services system
     
     *   (b) authorised by the Commissioner acting under the authority of this Act or the regulations.
     
-    Compare: 2000 No 42 [s 66][418]
+    Compare: 2000 No 42 [s 66][421]
 
 ##### 106 Providers to pay legal aid disbursements
     
 *   Except as otherwise authorised by the Secretary, providers must pay all disbursements relating to a legally aided matter, but may claim for reimbursement of those costs under [section 97][139].
     
-    Compare: 2000 No 42 [s 67][419]
+    Compare: 2000 No 42 [s 67][422]
 
 ##### 107 Providers to protect Commissioner's interests in relation to charges and proceeds of proceedings
     
@@ -3138,7 +3142,7 @@ Administration of legal services system
     
     (4) If a person to whom this section applies fails to fulfil his or her duties under this section, the money that should have been paid to the Commissioner under a charge or from proceeds of proceedings may be deducted from any money owing by the Commissioner to that person.
     
-    Compare: 2000 No 42 [s 68][420]
+    Compare: 2000 No 42 [s 68][423]
 
 ### Subpart 5---Miscellaneous provisions
 
@@ -3166,7 +3170,7 @@ Administration of legal services system
     
     (6) The Commissioner may advise any person who disclosed a communication under subsection (5) whether the grant has been withdrawn or amended.
     
-    Compare: 2000 No 42 [s 109][421]
+    Compare: 2000 No 42 [s 109][424]
 
 ##### 109 Disclosure of privileged communications under section 92 or 96
     
@@ -3192,7 +3196,7 @@ Administration of legal services system
     
     (2) The Commissioner may seek verification from a third party of any information provided under this section, but must not seek verification until it has notified the aided person or applicant that it intends to do so.
     
-    Compare: 2000 No 42 [s 109A][422]
+    Compare: 2000 No 42 [s 109A][425]
 
 #### Offences
 
@@ -3208,29 +3212,29 @@ Administration of legal services system
     
     (2) If a person is convicted of an offence under subsection (1), the Commissioner may recover from that person, as a debt due to the Commissioner, any amount paid under a grant of legal aid.
     
-    (3) Despite anything to the contrary in [section 25][423] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this section ends on the date that is 2 years after the date on which the offence was committed.
+    (3) Despite anything to the contrary in [section 25][426] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this section ends on the date that is 2 years after the date on which the offence was committed.
     
-    Compare: 2000 No 42 [s 110][424]
+    Compare: 2000 No 42 [s 110][427]
     
-    Section 111(1): amended, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 111(1): amended, on 1 July 2013, by [section 413][392] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 111(3): replaced, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 111(3): replaced, on 1 July 2013, by [section 413][392] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 112 Offence in relation to applications for approval 
     
 *   Every provider commits an offence, and is liable on conviction to a fine not exceeding $5,000, who makes a false or misleading representation in relation to any application for, or that relates to an approval to provide, legal aid services or specified legal services.
     
-    Compare: 2000 No 42 [s 111][425]
+    Compare: 2000 No 42 [s 111][428]
     
-    Section 112: amended, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112: amended, on 1 July 2013, by [section 413][392] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Offences in relation to examination and audit
     
 *   Every provider or former provider commits an offence and is liable on conviction to a fine not exceeding $5,000 who, having received a notice under [section 92(3)][130], fails to comply with section 92(1) to such a degree that the auditors conducting the examination or audit to which the notice relates are unable to satisfactorily conclude the examination or audit.
     
-    Compare: 2000 No 42 [s 112][426]
+    Compare: 2000 No 42 [s 112][429]
     
-    Section 113: amended, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113: amended, on 1 July 2013, by [section 413][392] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations
 
@@ -3400,33 +3404,33 @@ Administration of legal services system
     
     (10) All regulations made under subsection (1)(v) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
     
-    Compare: 2000 No 42 [s 113][427]
+    Compare: 2000 No 42 [s 113][430]
     
-    Section 114(1)(ca): inserted, on 2 September 2013, by [section 24(1)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(ca): inserted, on 2 September 2013, by [section 24(1)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(cb): inserted, on 2 September 2013, by [section 24(1)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(cb): inserted, on 2 September 2013, by [section 24(1)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(cc): inserted, on 2 September 2013, by [section 24(1)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(cc): inserted, on 2 September 2013, by [section 24(1)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(cd): inserted, on 2 September 2013, by [section 24(1)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(cd): inserted, on 2 September 2013, by [section 24(1)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(ea): inserted, on 2 September 2013, by [section 24(2)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(ea): inserted, on 2 September 2013, by [section 24(2)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(ia): inserted, on 2 September 2013, by [section 24(3)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(ia): inserted, on 2 September 2013, by [section 24(3)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(k): replaced, on 2 September 2013, by [section 24(4)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(k): replaced, on 2 September 2013, by [section 24(4)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(o)(ii): amended, on 2 September 2013, by [section 24(5)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(o)(ii): amended, on 2 September 2013, by [section 24(5)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(1)(w): replaced, on 2 September 2013, by [section 24(6)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(1)(w): replaced, on 2 September 2013, by [section 24(6)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(2): amended, on 2 September 2013, by [section 24(7)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(2): amended, on 2 September 2013, by [section 24(7)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(5): repealed, on 2 September 2013, by [section 24(8)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(5): repealed, on 2 September 2013, by [section 24(8)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(6): repealed, on 2 September 2013, by [section 24(8)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(6): repealed, on 2 September 2013, by [section 24(8)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 114(7): repealed, on 2 September 2013, by [section 24(8)][428] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 114(7): repealed, on 2 September 2013, by [section 24(8)][431] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Service
 
@@ -3444,11 +3448,11 @@ Administration of legal services system
     
     (3) In proving delivery, it is sufficient to prove that the letter was properly addressed and posted.
     
-    Compare: 2000 No 42 [s 114][429]
+    Compare: 2000 No 42 [s 114][432]
     
-    Section 115(1)(b): amended, on 2 September 2013, by [section 25][430] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 115(1)(b): amended, on 2 September 2013, by [section 25][433] of the Legal Services Amendment Act 2013 (2013 No 43).
     
-    Section 115(1)(c): amended, on 2 September 2013, by [section 25][430] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Section 115(1)(c): amended, on 2 September 2013, by [section 25][433] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 #### Effect of rights conferred by this Act
 
@@ -3460,7 +3464,7 @@ Administration of legal services system
     
     *   (b) the principles on which the discretion of any court or tribunal is normally exercised.
     
-    Compare: 2000 No 42 [s 115][431]
+    Compare: 2000 No 42 [s 115][434]
 
 ## Part 4  
 Transitional and savings provisions, amendments to other enactments, and repeals
@@ -3473,7 +3477,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 118 Public Advisory Committee disestablished
     
-*   (1) The Public Advisory Committee established under [section 104][432] of the Legal Services Act 2000 is disestablished.
+*   (1) The Public Advisory Committee established under [section 104][435] of the Legal Services Act 2000 is disestablished.
     
     (2) No member of the Public Advisory Committee is entitled to compensation as a result of the Committee ceasing to exist. 
 
@@ -3575,7 +3579,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     _remaining applications for review_ means applications for review made to the Review Panel before the commencement of this Act and includes those applications for review in respect of which a review was commenced but not determined before the commencement of this Act
     
-    _Review Panel_ means the Legal Aid Review Panel established under [section 62][391] of the former Act.
+    _Review Panel_ means the Legal Aid Review Panel established under [section 62][394] of the former Act.
 
 ##### 127 Review Panel continues until close of final transition day
     
@@ -3583,9 +3587,9 @@ Transitional and savings provisions, amendments to other enactments, and repeals
         
     *   (a) the Review Panel continues for the purpose of determining remaining applications for review; and
     
-    *   (b) the members of the Review Panel remain members of the Review Panel unless or until they cease to be members in accordance with [section 62(6), (7), or (9)][391] of the former Act; and
+    *   (b) the members of the Review Panel remain members of the Review Panel unless or until they cease to be members in accordance with [section 62(6), (7), or (9)][394] of the former Act; and
     
-    *   (c) [sections 55 to 57][378], [59][386], [61 to 63][390], and [64A][433] of the former Act continue in effect as if they had not been repealed. 
+    *   (c) [sections 55 to 57][381], [59][389], [61 to 63][393], and [64A][436] of the former Act continue in effect as if they had not been repealed. 
     
     (2) The Ministry must provide the resources and administrative support necessary to enable the Review Panel to perform its functions for the purposes of this section.
 
@@ -3599,7 +3603,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     (2) No member of the Review Panel is entitled to compensation as a result of the expiry under this section of his or her term of office.
     
-    Compare: 2000 No 42 [s 124][434]
+    Compare: 2000 No 42 [s 124][437]
 
 ##### 129 Tribunal must deal with remaining applications
     
@@ -3607,7 +3611,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 130 Applications under section 54(3) of former Act may be made to Tribunal after final transition day
     
-*   Despite the repeal of the former Act, a provider or former listed provider may, after the final transition day, apply to the Tribunal for a review under [section 54(3)][380] of the former Act of a decision relating to the amount payable by the Legal Services Agency to that provider in respect of any services provided before the commencement of this Act.
+*   Despite the repeal of the former Act, a provider or former listed provider may, after the final transition day, apply to the Tribunal for a review under [section 54(3)][383] of the former Act of a decision relating to the amount payable by the Legal Services Agency to that provider in respect of any services provided before the commencement of this Act.
 
 ##### 131 Application of this Act and former Act to determination of remaining applications for review, and applications under section 54(3) of former Act
     
@@ -3615,11 +3619,11 @@ Transitional and savings provisions, amendments to other enactments, and repeals
         
     *   (a) any remaining applications for review:
     
-    *   (b) any application for review under [section 54(3)][380] of the former Act.
+    *   (b) any application for review under [section 54(3)][383] of the former Act.
     
     (2) For the purpose of any proceedings that must be determined in accordance with this subsection,---
         
-    *   (a) the provisions of the former [Act][237] and the [Legal Services Regulations 2006][435] continue to apply to the matter that is the subject of the proceeding as if those enactments had not been repealed or revoked:
+    *   (a) the provisions of the former [Act][237] and the [Legal Services Regulations 2006][438] continue to apply to the matter that is the subject of the proceeding as if those enactments had not been repealed or revoked:
     
     *   (b) the provisions of this Act and the regulations apply only to the manner in which the proceeding must be conducted or processed (for example, matters relating to procedure).
     
@@ -3637,7 +3641,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     (4) This section does not apply to a grant of legal aid that is the subject of a remaining application for review within the meaning of [section 126][181], until after that application has been determined.
     
-    Compare: 2000 No 42 [s 117][436]
+    Compare: 2000 No 42 [s 117][439]
 
 #### Legal aid for certain types of legal assistance in respect of Waitangi Tribunal proceedings under former Act 
 
@@ -3651,7 +3655,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     *   (c) in arriving at or giving effect to any out-of-court settlement that avoids or brings to an end any proceedings.
     
-    (2) Until the close of the expiry day, every application or grant to which this section applies must be dealt with by the Commissioner as if the applicable provisions of the former [Act][237] and the [Legal Services Regulations 2006][435] had not been repealed or revoked.
+    (2) Until the close of the expiry day, every application or grant to which this section applies must be dealt with by the Commissioner as if the applicable provisions of the former [Act][237] and the [Legal Services Regulations 2006][438] had not been repealed or revoked.
     
     (3) Despite [section 132][188], the Commissioner must on the close of the expiry day cease funding any grant to which this section applies, or any grant arising out of an application to which this section applies. 
     
@@ -3693,7 +3697,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     (3) An approval conferred by subsection (1) is subject to the provisions of this Act as if the approval had been granted under this Act.
     
-    (4) If, immediately before the commencement of this Act, a listed provider's approval is cancelled or temporarily suspended under the former Act, [sections 72A][437] and [73][416] of the former Act continue, despite the repeal of the former Act, to apply to that approval.
+    (4) If, immediately before the commencement of this Act, a listed provider's approval is cancelled or temporarily suspended under the former Act, [sections 72A][440] and [73][419] of the former Act continue, despite the repeal of the former Act, to apply to that approval.
     
     (5) A contract between a listed provider and the Legal Services Agency that is in force immediately before the commencement of this Act is deemed to be a contract between the provider and the Secretary.
 
@@ -3707,7 +3711,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     (2) On and after the commencement of this Act, an application that was properly made before that date under the Legal Services Act 1991, must, to the extent that it was not dealt with before that date, be dealt with as if the application had been properly made under this Act.
     
-    Compare: 2000 No 42 [s 117][436]
+    Compare: 2000 No 42 [s 117][439]
 
 ##### 137 Repayments in respect of certain legal aid granted under Legal Services Act 1991
     
@@ -3737,7 +3741,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
     
     *   (b) whether or not a repayment has previously been made or was required to be made (before or after the commencement of this Act) under the former Act.
     
-    Compare: 2000 No 42 [s 117A][438]
+    Compare: 2000 No 42 [s 117A][441]
 
 ### Subpart 4---Amendments to other enactments
 
@@ -3749,7 +3753,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 139 Reference of complaint or matter to Disciplinary Tribunal
     
-*   [Section 154][439] is amended by adding the following subsection as subsection (2):
+*   [Section 154][442] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) If the person who is the subject of the complaint or matter is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice."
     > 
@@ -3759,7 +3763,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 140 Notice of determination
     
-*   [Section 158][440] is amended by adding the following subsection:
+*   [Section 158][443] is amended by adding the following subsection:
     
     > *   "(3) If the person who is the subject of the determination is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice."
     > 
@@ -3769,7 +3773,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 141 Laying of charge with Disciplinary Tribunal
     
-*   [Section 212][441] is amended by adding the following subsection:
+*   [Section 212][444] is amended by adding the following subsection:
     
     > *   "(5) If the Legal Complaints Review Officer decides to lay, or directs a Standards Committee to lay, a charge against a person who is a provider under the Legal Services Act 2011, the Legal Complaints Review Officer must give written notice of the decision to the Secretary for Justice."
     > 
@@ -3779,7 +3783,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 142 Obligation to report outcomes and recommendations
     
-*   [Section 213][442] is amended by adding the following subsection:
+*   [Section 213][445] is amended by adding the following subsection:
     
     > *   "(3) If the person who is the subject of the review is a provider under the Legal Services Act 2011, the Legal Complaints Review Officer must report both the outcome of the review and any recommendations made as a result of the review to the Secretary for Justice."
     > 
@@ -3789,7 +3793,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 143 Order for striking off, cancellation of registration, restoration, or suspension to be filed in High Court
     
-*   [Section 255][443] is amended by adding the following subsection:
+*   [Section 255][446] is amended by adding the following subsection:
     
     > *   "(5) If the person who is the subject of the order is a provider under the Legal Services Act 2011, the chairperson of the Disciplinary Tribunal must give a copy of the order to the Secretary for Justice."
     > 
@@ -3811,7 +3815,7 @@ Transitional and savings provisions, amendments to other enactments, and repeals
 
 ##### 146 Revocation of Legal Services Regulations 2006
     
-*   The [Legal Services Regulations 2006][435] (SR 2006/180) are revoked.
+*   The [Legal Services Regulations 2006][438] (SR 2006/180) are revoked.
 
 ---
 
@@ -3840,33 +3844,33 @@ Definition of income and disposable capital
         
     *   (a) means the person's total gross income during the 12 months immediately before the application for legal aid, or during such other period of 12 months as the Commissioner considers appropriate in the circumstances; and
     
-    *   (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in [section 3(1)][444] of the Social Security Act 1964; and
+    *   (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in [section 3(1)][447] of the Social Security Act 1964; and
     
-    *   (c) includes a benefit payable under any of [Parts 1A to 1P][445] of the Social Security Act 1964; but does not include---
+    *   (c) includes a benefit payable under any of [Parts 1A to 1P][448] of the Social Security Act 1964; but does not include---
             
-        *   (i) an orphan's benefit payable under [section 28][338] of that Act; or
+        *   (i) an orphan's benefit payable under [section 28][341] of that Act; or
         
-        *   (ii) an unsupported child's benefit payable under [section 29][339] of that Act; or
+        *   (ii) an unsupported child's benefit payable under [section 29][342] of that Act; or
         
-        *   (iii) a child disability allowance payable under [section 39A][340] of that Act; or
+        *   (iii) a child disability allowance payable under [section 39A][343] of that Act; or
         
-        *   (iv) an emergency benefit payable under [section 61][446] of that Act; or
+        *   (iv) an emergency benefit payable under [section 61][449] of that Act; or
         
-        *   (v) an accommodation supplement payable under [section 61EA][447] of that Act; or
+        *   (v) an accommodation supplement payable under [section 61EA][450] of that Act; or
         
-        *   (vi) a special benefit fixed under [section 61G][448] of that Act; or
+        *   (vi) a special benefit fixed under [section 61G][451] of that Act; or
         
-        *   (vii) a disability allowance payable under [section 69C][341] of that Act; and
+        *   (vii) a disability allowance payable under [section 69C][344] of that Act; and
         
         
     
-    *   (d) excludes any payment payable under a welfare programme approved by the Minister under [section 124(1)(d)][449] of the Social Security Act 1964; but
+    *   (d) excludes any payment payable under a welfare programme approved by the Minister under [section 124(1)(d)][452] of the Social Security Act 1964; but
     
-    *   (e) includes any tax credit or amount received under [subparts MA to MF][450] and [MZ][451] of the Income Tax Act 2007 or [subpart KD][452] of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or Part 11A of the Income Tax Act 1976\.
+    *   (e) includes any tax credit or amount received under [subparts MA to MF][453] and [MZ][454] of the Income Tax Act 2007 or [subpart KD][455] of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or Part 11A of the Income Tax Act 1976\.
     
-    (2) Subclause (1) is subject to [clauses 4][453] and [5][454].
+    (2) Subclause (1) is subject to [clauses 4][456] and [5][457].
     
-    Schedule 1 clause 2(1)(c): amended, on 15 July 2013, by [section 138][455] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Schedule 1 clause 2(1)(c): amended, on 15 July 2013, by [section 138][458] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
 
 ##### 3 Meaning of disposable capital
     
@@ -3884,9 +3888,9 @@ Definition of income and disposable capital
     
     *   (f) the value of the subject matter of the proceedings unless the Commissioner determines a proportion of that value that should be included in the assessment of the person's total assets:
     
-    *   (g) the value of any property that is the subject of a restraining order under the [Criminal Proceeds (Recovery) Act 2009][293].
+    *   (g) the value of any property that is the subject of a restraining order under the [Criminal Proceeds (Recovery) Act 2009][296].
     
-    (2) This clause is subject to [clauses 4][453] and [5][454].
+    (2) This clause is subject to [clauses 4][456] and [5][457].
 
 ##### 4 Resources of spouse or partner, or of parents of minor
     
@@ -3944,9 +3948,9 @@ Definition of income and disposable capital
     
     *   (b) in the circumstances of the case, the Commissioner considers that it would be inequitable to include all or part of the land or interest.
     
-    (4) For the purposes of this clause, **Māori land** has the same meaning as in [section 4][370] of Te Ture Whenua Maori Act 1993\.
+    (4) For the purposes of this clause, **Māori land** has the same meaning as in [section 4][373] of Te Ture Whenua Maori Act 1993\.
     
-    (5) This clause operates despite anything in [clauses 2][456], [3][457], and [4][453], or anything in regulations.
+    (5) This clause operates despite anything in [clauses 2][459], [3][460], and [4][456], or anything in regulations.
 
 ##### 6 Resources of representative, fiduciary, etc
     
@@ -3967,19 +3971,19 @@ Specified enactments
 
 [Adoption Act 1955][218]
 
-[Adult Adoption Information Act 1985][458]
+[Adult Adoption Information Act 1985][461]
 
-[Alcoholism and Drug Addiction Act 1966][459]
+[Alcoholism and Drug Addiction Act 1966][462]
 
 [Care of Children Act 2004][223]
 
-[Child Support Act 1991][460]
+[Child Support Act 1991][463]
 
-[Children, Young Persons, and Their Families Act 1989][228] (other than [Parts 4][461] and [5][462] and [sections 351 to 360][463])
+[Children, Young Persons, and Their Families Act 1989][228] (other than [Parts 4][464] and [5][465] and [sections 351 to 360][466])
 
 [Domestic Violence Act 1995][222]
 
-[Family Proceedings Act 1980][221] (other than [Parts 6 to 8][464])
+[Family Proceedings Act 1980][221] (other than [Parts 6 to 8][467])
 
 [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][246]
 
@@ -4017,7 +4021,7 @@ Further provisions that apply to Legal Aid Tribunal
     
     *   (c) the Governor-General informs the member by written notice (with a copy to the chairperson) that the member is not to be reappointed and no successor is to be appointed at that time; or
     
-    *   (d) the member vacates office under [clause 7][465].
+    *   (d) the member vacates office under [clause 7][468].
     
     
 
@@ -4053,9 +4057,9 @@ Further provisions that apply to Legal Aid Tribunal
     
     (2) A member may at any time resign by written notice to the Minister.
     
-    (3) A member ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][466].
+    (3) A member ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][469].
     
-    Compare: 2000 No 42 [s 62(6), (7), (9)][391]; 2008 No 66 [Schedule 1 cl 3(1)][467]
+    Compare: 2000 No 42 [s 62(6), (7), (9)][394]; 2008 No 66 [Schedule 1 cl 3(1)][470]
 
 ## Part 2  
 Further provisions that apply to performance review committee or any selection committee
@@ -4100,7 +4104,7 @@ Further provisions that apply to performance review committee or any selection c
 
 ##### 14 Members not in service of the Crown
     
-*   A person is not employed in the service of the Crown, for the purposes of the [State Sector Act 1988][347] or the Government Superannuation Fund Act 1956, merely as a result of being a member of a committee.
+*   A person is not employed in the service of the Crown, for the purposes of the [State Sector Act 1988][350] or the Government Superannuation Fund Act 1956, merely as a result of being a member of a committee.
 
 ##### 15 Vacation of office
     
@@ -4108,7 +4112,7 @@ Further provisions that apply to performance review committee or any selection c
     
     (2) A member may at any time resign by written notice to the Secretary.
     
-    (3) A member ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][466].
+    (3) A member ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][469].
     
     (4) If a member is an employee of the Ministry, his or her membership ceases when he or she ceases to be an employee of the Ministry.
 
@@ -4163,9 +4167,9 @@ Further provisions that apply to the Review Authority
     
     (2) The Review Authority may at any time resign by written notice to the Minister.
     
-    (3) The Review Authority ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][466].
+    (3) The Review Authority ceases to hold office if he or she is adjudged bankrupt under the [Insolvency Act 2006][469].
     
-    Schedule 3 clause 24: replaced, on 2 September 2013, by [section 26][468] of the Legal Services Amendment Act 2013 (2013 No 43).
+    Schedule 3 clause 24: replaced, on 2 September 2013, by [section 26][471] of the Legal Services Amendment Act 2013 (2013 No 43).
 
 ##### 25 Procedure
     
@@ -4182,47 +4186,47 @@ Consequential amendments
 
 [s 144][208]
 
-##### [Criminal Investigations (Bodily Samples) Act 1995][469] (1995 No 55)
+##### [Criminal Investigations (Bodily Samples) Act 1995][472] (1995 No 55)
 
-[Section 67(3)][470]: repeal.
+[Section 67(3)][473]: repeal.
 
-##### [Crimes Act 1961][471] (1961 No 43)
+##### [Crimes Act 1961][474] (1961 No 43)
 
-[Section 392(1B)(c)][472]: repeal and substitute:
+[Section 392(1B)(c)][475]: repeal and substitute:
 
 > *   "(c) the Legal Services Commissioner, on request by the Commissioner."
 > 
 > 
 
-##### [Criminal Proceeds (Recovery) Act 2009][293] (2009 No 8)
+##### [Criminal Proceeds (Recovery) Act 2009][296] (2009 No 8)
 
-[Section 82(1)(b)][473]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 82(1)(b)][476]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-[Section 83(1)(b)][474]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 83(1)(b)][477]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-[Section 85(b): ][475]omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 85(b): ][478]omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-##### [Crown Entities Act 2004][476] (2004 No 115)
+##### [Crown Entities Act 2004][479] (2004 No 115)
 
-Item relating to Legal Services Agency in [Part 1][477] of Schedule 1: omit.
+Item relating to Legal Services Agency in [Part 1][480] of Schedule 1: omit.
 
-##### [Juries Act 1981][478] (1981 No 23)
+##### [Juries Act 1981][481] (1981 No 23)
 
-[Section 8(haa)][479]: repeal.
+[Section 8(haa)][482]: repeal.
 
-##### [Lawyers and Conveyancers Act 2006][395] (2006 No 1)
+##### [Lawyers and Conveyancers Act 2006][398] (2006 No 1)
 
 Definition of **community law centre** in [section 6][238]: repeal and substitute:
 
 > "_community law centre_ means a community law centre within the meaning of section 93 of the Legal Services Act 2011 that is providing community legal services under a contract entered into by the Secretary for Justice pursuant to section 94 of that Act".
 
-[Section 9(1)(e)][480]: omit ""Legal Services Agency"" and substitute ""Ministry of Justice"".
+[Section 9(1)(e)][483]: omit ""Legal Services Agency"" and substitute ""Ministry of Justice"".
 
-[Section 31(4)][481]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 31(4)][484]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-[Section 298(1)][482]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 298(1)][485]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-[Section 307(4)(a), (b), and (c)][483]: repeal and substitute:
+[Section 307(4)(a), (b), and (c)][486]: repeal and substitute:
 
 > *   "(a) in the course of his or her employment by a community law centre, provides to the public---
 >         
@@ -4238,27 +4242,27 @@ Definition of **community law centre** in [section 6][238]: repeal and substitut
 > 
 > 
 
-##### [Ombudsmen Act 1975][484] (1975 No 9)
+##### [Ombudsmen Act 1975][487] (1975 No 9)
 
-Item relating to the Legal Services Agency in [Part 2][485] of Schedule 1: omit.
+Item relating to the Legal Services Agency in [Part 2][488] of Schedule 1: omit.
 
-##### [Prisoners' and Victims' Claims Act 2005][486] (2005 No 74)
+##### [Prisoners' and Victims' Claims Act 2005][489] (2005 No 74)
 
-[Section 18(1)(a)(i)][487]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
+[Section 18(1)(a)(i)][490]: omit ""Legal Services Agency"" and substitute ""Secretary for Justice"".
 
-[Section 18(1)(a)(iii)][487]: omit ""section 32 of the Legal Services Act 2000"" and substitute ""section 36 of the Legal Services Act 2011"".
+[Section 18(1)(a)(iii)][490]: omit ""section 32 of the Legal Services Act 2000"" and substitute ""section 36 of the Legal Services Act 2011"".
 
-##### [Privacy Act 1993][488] (1993 No 28)
+##### [Privacy Act 1993][491] (1993 No 28)
 
-[Schedule 5][489]: under the heading **Ministry of Justice Records**: omit ""Legal Services Agency"" in each place where it appears and substitute in each case ""Legal Services Commissioner"".
+[Schedule 5][492]: under the heading **Ministry of Justice Records**: omit ""Legal Services Agency"" in each place where it appears and substitute in each case ""Legal Services Commissioner"".
 
-[Schedule 5][489]: under the heading **Police records**: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
+[Schedule 5][492]: under the heading **Police records**: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
 
-[Schedule 5][489]: under the heading **Registrar of Motor Vehicles records**: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
+[Schedule 5][492]: under the heading **Registrar of Motor Vehicles records**: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
 
-##### [Te Ture Whenua Maori Act 1993][490] (1993 No 4)
+##### [Te Ture Whenua Maori Act 1993][493] (1993 No 4)
 
-[Section 98(4)][491]: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
+[Section 98(4)][494]: omit ""Legal Services Agency"" and substitute ""Legal Services Commissioner"".
 
 ---
 
@@ -4270,7 +4274,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Legal Services Amendment Act 2013][334].
+*   This Act is the [Legal Services Amendment Act 2013][337].
 
 ##### 2 Commencement
     
@@ -4278,7 +4282,7 @@ Commencementsee section 2
     
     (2) If any provision of this Act has not earlier been brought into force under subsection (1), it comes into force on the day that is 1 year after the date on which this Act receives the Royal assent. 
     
-    Section 2(1): this Act brought into force, on 2 September 2013, by the [Legal Services Amendment Act 2013 Commencement Order 2013][492] (SR 2013/308).
+    Section 2(1): this Act brought into force, on 2 September 2013, by the [Legal Services Amendment Act 2013 Commencement Order 2013][495] (SR 2013/308).
 
 ##### 27 Transitional provision
     
@@ -4314,21 +4318,23 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][493] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][494] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][496] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][497] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][495] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][496] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][498] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][499] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Legal Services Amendment Act (No 2) 2013][497] (2013 No 81)
+*   Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][291]
     
-    [Legal Services Amendment Act 2013][334] (2013 No 43)
+    [Legal Services Amendment Act (No 2) 2013][500] (2013 No 81)
     
-    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [section 138][455]
+    [Legal Services Amendment Act 2013][337] (2013 No 43)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][389]
+    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [section 138][458]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][392]
     
     Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][254]
     
@@ -4602,235 +4608,238 @@ Commencementsee section 2
 [263]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM154308
 [264]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM269869
 [265]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM269867
-[266]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440300
-[267]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440904
-[268]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440906
-[269]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440850
-[270]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440774
-[271]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1441108
-[272]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1441118
-[273]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440311
-[274]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM108017
-[275]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71928
-[276]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM230264
-[277]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM403529
-[278]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM351424
-[279]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40259
-[280]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM307518
-[281]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM93300
-[282]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40295
-[283]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440895
-[284]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM110441
-[285]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440841
-[286]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM111314
-[287]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM139130
-[288]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4896290
-[289]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5617309
-[290]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM147094
-[291]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM392635
-[292]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841664
-[293]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=BILL-SCDRAFT-7242
-[294]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440307
-[295]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71943
-[296]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71948
-[297]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71950
-[298]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71953
-[299]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71956
-[300]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5300302
-[301]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2997643
-[302]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998573
-[303]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5300303
-[304]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM271228
-[305]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71958
-[306]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841665
-[307]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935442
-[308]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71961
-[309]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71963
-[310]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71965
-[311]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71967
-[312]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71968
-[313]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71971
-[314]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71972
-[315]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71974
-[316]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71978
-[317]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71981
-[318]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71985
-[319]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71987
-[320]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71991
-[321]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71993
-[322]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71998
-[323]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935444
-[324]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72201
-[325]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942401
-[326]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72203
-[327]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM204851
-[328]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM45599
-[329]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72205
-[330]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72207
-[331]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72208
-[332]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72209
-[333]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935445
-[334]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935402
-[335]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72212
-[336]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841668
-[337]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM359106
-[338]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361606
-[339]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361613
-[340]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361659
-[341]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM363196
-[342]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2033100
-[343]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM99493
-[344]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM310749
-[345]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM311866
-[346]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364857
-[347]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM129109
-[348]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364864
-[349]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364866
-[350]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM59731
-[351]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367767
-[352]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM199363
-[353]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364868
-[354]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364872
-[355]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM312620
-[356]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364874
-[357]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM236852
-[358]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1512300
-[359]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364876
-[360]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364884
-[361]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364887
-[362]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2751928
-[363]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72213
-[364]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72218
-[365]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935447
-[366]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72221
-[367]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72223
-[368]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72227
-[369]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289320
-[370]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289897
-[371]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM291869
-[372]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM292881
-[373]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM293012
-[374]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72228
-[375]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72230
-[376]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72231
-[377]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71996
-[378]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72251
-[379]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942403
-[380]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72247
-[381]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942404
-[382]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72252
-[383]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72255
-[384]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72258
-[385]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72259
-[386]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72261
-[387]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360482
-[388]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360489
-[389]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360714
-[390]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72264
-[391]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72266
-[392]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143041
-[393]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72268
-[394]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143037
-[395]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364938
-[396]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72722
-[397]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM142450
-[398]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1102196
-[399]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841692
-[400]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143046
-[401]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72278
-[402]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935448
-[403]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143059
-[404]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935449
-[405]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72216
-[406]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72298
-[407]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72299
-[408]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72709
-[409]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72713
-[410]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72293
-[411]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935453
-[412]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72294
-[413]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942405
-[414]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72295
-[415]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366797
-[416]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72290
-[417]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935455
-[418]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72279
-[419]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72280
-[420]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72281
-[421]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72758
-[422]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72760
-[423]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360067
-[424]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72763
-[425]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72765
-[426]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72766
-[427]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72768
-[428]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935456
-[429]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72773
-[430]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942406
-[431]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72775
-[432]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72748
-[433]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72274
-[434]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72797
-[435]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM395629
-[436]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72783
-[437]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72288
-[438]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72786
-[439]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366194
-[440]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366700
-[441]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366762
-[442]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366763
-[443]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367312
-[444]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM359124
-[445]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364890
-[446]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362536
-[447]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362856
-[448]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362924
-[449]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365476
-[450]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1518406
-[451]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1518621
-[452]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM265342
-[453]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143031
-[454]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143032
-[455]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4750298
-[456]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143027
-[457]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143029
-[458]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM80512
-[459]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM380084
-[460]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM253150
-[461]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM152191
-[462]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM154027
-[463]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM154093
-[464]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40476
-[465]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143045
-[466]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM385298
-[467]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1152187
-[468]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935459
-[469]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM368903
-[470]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM369821
-[471]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM327381
-[472]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM332104
-[473]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451229
-[474]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451231
-[475]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451234
-[476]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM329630
-[477]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM331113
-[478]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM44098
-[479]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM44673
-[480]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365708
-[481]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365740
-[482]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367361
-[483]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367383
-[484]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM430983
-[485]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM431296
-[486]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM350820
-[487]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM351440
-[488]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM296638
-[489]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM298798
-[490]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289881
-[491]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM291203
-[492]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5383018
-[493]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998516
-[494]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998515
-[495]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998532
-[496]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[497]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5617303
+[266]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM269427
+[267]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440300
+[268]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440904
+[269]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440906
+[270]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440850
+[271]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440774
+[272]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1441108
+[273]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1441118
+[274]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440311
+[275]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM108017
+[276]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71928
+[277]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM230264
+[278]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM403529
+[279]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM351424
+[280]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM6027320
+[281]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40259
+[282]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM307518
+[283]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM93300
+[284]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40295
+[285]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440895
+[286]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM110441
+[287]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440841
+[288]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM111314
+[289]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM139130
+[290]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4896290
+[291]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5646466
+[292]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5617309
+[293]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM147094
+[294]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM392635
+[295]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841664
+[296]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=BILL-SCDRAFT-7242
+[297]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1440307
+[298]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71943
+[299]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71948
+[300]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71950
+[301]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71953
+[302]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71956
+[303]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5300302
+[304]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2997643
+[305]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998573
+[306]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5300303
+[307]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM271228
+[308]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71958
+[309]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841665
+[310]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935442
+[311]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71961
+[312]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71963
+[313]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71965
+[314]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71967
+[315]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71968
+[316]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71971
+[317]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71972
+[318]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71974
+[319]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71978
+[320]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71981
+[321]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71985
+[322]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71987
+[323]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71991
+[324]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71993
+[325]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71998
+[326]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935444
+[327]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72201
+[328]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942401
+[329]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72203
+[330]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM204851
+[331]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM45599
+[332]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72205
+[333]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72207
+[334]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72208
+[335]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72209
+[336]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935445
+[337]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935402
+[338]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72212
+[339]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841668
+[340]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM359106
+[341]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361606
+[342]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361613
+[343]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM361659
+[344]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM363196
+[345]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2033100
+[346]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM99493
+[347]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM310749
+[348]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM311866
+[349]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364857
+[350]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM129109
+[351]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364864
+[352]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364866
+[353]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM59731
+[354]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367767
+[355]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM199363
+[356]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364868
+[357]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364872
+[358]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM312620
+[359]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364874
+[360]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM236852
+[361]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1512300
+[362]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364876
+[363]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364884
+[364]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364887
+[365]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2751928
+[366]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72213
+[367]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72218
+[368]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935447
+[369]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72221
+[370]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72223
+[371]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72227
+[372]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289320
+[373]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289897
+[374]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM291869
+[375]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM292881
+[376]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM293012
+[377]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72228
+[378]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72230
+[379]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72231
+[380]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM71996
+[381]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72251
+[382]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942403
+[383]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72247
+[384]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942404
+[385]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72252
+[386]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72255
+[387]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72258
+[388]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72259
+[389]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72261
+[390]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360482
+[391]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360489
+[392]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360714
+[393]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72264
+[394]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72266
+[395]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143041
+[396]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72268
+[397]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143037
+[398]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM364938
+[399]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72722
+[400]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM142450
+[401]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1102196
+[402]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4841692
+[403]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143046
+[404]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72278
+[405]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935448
+[406]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143059
+[407]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935449
+[408]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72216
+[409]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72298
+[410]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72299
+[411]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72709
+[412]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72713
+[413]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72293
+[414]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935453
+[415]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72294
+[416]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942405
+[417]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72295
+[418]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366797
+[419]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72290
+[420]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935455
+[421]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72279
+[422]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72280
+[423]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72281
+[424]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72758
+[425]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72760
+[426]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3360067
+[427]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72763
+[428]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72765
+[429]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72766
+[430]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72768
+[431]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935456
+[432]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72773
+[433]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4942406
+[434]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72775
+[435]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72748
+[436]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72274
+[437]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72797
+[438]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM395629
+[439]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72783
+[440]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72288
+[441]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM72786
+[442]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366194
+[443]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366700
+[444]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366762
+[445]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM366763
+[446]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367312
+[447]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM359124
+[448]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5468363
+[449]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362536
+[450]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362856
+[451]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM362924
+[452]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365476
+[453]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1518406
+[454]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1518621
+[455]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM265342
+[456]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143031
+[457]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143032
+[458]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM4750298
+[459]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143027
+[460]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143029
+[461]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM80512
+[462]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM380084
+[463]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM253150
+[464]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM152191
+[465]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM154027
+[466]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM154093
+[467]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM40476
+[468]: http://www.legislation.govt.nz/act/public/2011/0004/latest/whole.html#DLM3143045
+[469]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM385298
+[470]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1152187
+[471]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM3935459
+[472]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM368903
+[473]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM369821
+[474]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM327381
+[475]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM332104
+[476]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451229
+[477]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451231
+[478]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM1451234
+[479]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM329630
+[480]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM331113
+[481]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM44098
+[482]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM44673
+[483]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365708
+[484]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM365740
+[485]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367361
+[486]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM367383
+[487]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM430983
+[488]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM431296
+[489]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM350820
+[490]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM351440
+[491]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM296638
+[492]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM298798
+[493]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM289881
+[494]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM291203
+[495]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5383018
+[496]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998516
+[497]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998515
+[498]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM2998532
+[499]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[500]: http://www.legislation.govt.nz/act/public/2011/0004/latest/link.aspx?id=DLM5617303
