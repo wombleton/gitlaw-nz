@@ -1,5 +1,5 @@
 Reprint  
-as at 15 July 2013
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -352,19 +352,19 @@ An Act to consolidate and amend the law relating to minimum wages
     
 *   This Act shall not apply to---
         
-    *   (a) apprentices under apprenticeship contracts (within the meaning of [section 2][41] of the Industry Training Act 1992):
+    *   (a) \[Repealed\]
     
-    *   (b) apprentices bound by an indenture of apprenticeship entered into under the [Maori Housing Amendment Act 1938][42], the [New Zealand Railways Corporation Act 1981][43], the Defence Act 1971, the Post Office Act 1959, or the State Services Act 1962, or under any other Act:
+    *   (b) apprentices bound by an indenture of apprenticeship entered into under the [Maori Housing Amendment Act 1938][41], the [New Zealand Railways Corporation Act 1981][42], the Defence Act 1971, the Post Office Act 1959, or the State Services Act 1962, or under any other Act:
     
     *   (c) \[Repealed\]
     
     *   (d) inmates of any charitable institution (not being persons residing on the premises by reason only of their being employed therein) who, as such inmates, do any work in or in connection with the institution.
     
-    Compare: 1945 No 44 s 3; 1946 No 40 [s 55][44]; 1968 No 94 s 2; 1970 No 137 [s 6][38]
+    Compare: 1945 No 44 s 3; 1946 No 40 [s 55][43]; 1968 No 94 s 2; 1970 No 137 [s 6][38]
     
-    Section 9(a): substituted, on 1 July 1992, by [section 19][45] of the Industry Training Act 1992 (1992 No 55).
+    Section 9(a): repealed, on 23 April 2014, by [section 23][44] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
     
-    Section 9(c): repealed, on 17 June 2003, by [section 4][46] of the Minimum Wage Amendment Act 2003 (2003 No 24).
+    Section 9(c): repealed, on 17 June 2003, by [section 4][45] of the Minimum Wage Amendment Act 2003 (2003 No 24).
 
 ##### 10 Penalties and jurisdiction
     
@@ -374,7 +374,7 @@ An Act to consolidate and amend the law relating to minimum wages
 
 ##### 11 Recovery of wages
     
-*   Without affecting any other remedies for the recovery of wages or other money payable by an employer to any worker whose wages are prescribed under this Act, where there has been any default in payment of any such wages or other money or where any payment of any such wages or other money has been made at a rate lower than that prescribed under this Act or otherwise legally payable to the worker, the whole or any part, as the case may require, of any such wages or other money may be recovered by the worker or by a Labour Inspector to the use of the worker by action commenced in the Employment Relations Authority in the same manner as an action under [section 131][47] of the Employment Relations Act 2000, notwithstanding the acceptance by the worker of any payment at a lower rate or any express or implied agreement to the contrary, and subsection (2) of that section shall apply accordingly.
+*   Without affecting any other remedies for the recovery of wages or other money payable by an employer to any worker whose wages are prescribed under this Act, where there has been any default in payment of any such wages or other money or where any payment of any such wages or other money has been made at a rate lower than that prescribed under this Act or otherwise legally payable to the worker, the whole or any part, as the case may require, of any such wages or other money may be recovered by the worker or by a Labour Inspector to the use of the worker by action commenced in the Employment Relations Authority in the same manner as an action under [section 131][46] of the Employment Relations Act 2000, notwithstanding the acceptance by the worker of any payment at a lower rate or any express or implied agreement to the contrary, and subsection (2) of that section shall apply accordingly.
     
     Section 11: substituted, on 15 May 1991, by section 8(1) of the Minimum Wage Amendment Act 1991 (1991 No 27).
     
@@ -382,7 +382,7 @@ An Act to consolidate and amend the law relating to minimum wages
 
 ##### 11A Compliance order
     
-*   [Sections 137][48] and [138][49] of the Employment Relations Act 2000 apply to the non-observance or non-compliance with any provision of, or requirement given under, this Act as if it were a provision of, or requirement given under, [Parts 5 to 9][50] of the Employment Relations Act 2000, and proceedings under that Act may be commenced by the worker or employer affected by the non-observance or non-compliance.
+*   [Sections 137][47] and [138][48] of the Employment Relations Act 2000 apply to the non-observance or non-compliance with any provision of, or requirement given under, this Act as if it were a provision of, or requirement given under, [Parts 5 to 9][49] of the Employment Relations Act 2000, and proceedings under that Act may be commenced by the worker or employer affected by the non-observance or non-compliance.
     
     Section 11A: substituted, on 2 October 2000, by [section 240][30] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -419,7 +419,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][51]._
+_Amendment(s) incorporated in the [Act(s)][50]._
 
 ##### Minimum Wage Act 1945 (1945 No 44) (RS Vol 3, p 633)
 
@@ -431,7 +431,7 @@ _Amendment(s) incorporated in the [Act(s)][51]._
 
 ##### Statutes Amendment Act 1946 (1946 No 40) (RS Vol 3, p 636)
 
-_Amendment(s) incorporated in the [Act(s)][44]._
+_Amendment(s) incorporated in the [Act(s)][43]._
 
 ---
 
@@ -443,7 +443,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Minimum Wage Amendment Act 2007][52].
+*   This Act is the [Minimum Wage Amendment Act 2007][51].
 
 ##### 2 Commencement
     
@@ -500,82 +500,39 @@ Miscellaneous provisions
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Minimum Wage Act 1983\. The reprint incorporates all the amendments to the Act as at 15 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][53] ![](/images/external_link.gif).
+*   This is a reprint of the Minimum Wage Act 1983 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][54] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][52] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][53] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][55] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][54] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][55] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][56] and [17E][57] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16): [section 23][44]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 86][35], [97][36], [129][34]
+    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 86][35], [97][36], [129][34]
     
     [Minimum Wage (Starting-out Wage) Amendment Act 2013][33] (2013 No 8)
     
-    [Minimum Wage (New Entrants) Amendment Act 2007][58] (2007 No 37)
+    [Minimum Wage (New Entrants) Amendment Act 2007][56] (2007 No 37)
     
-    [Minimum Wage Amendment Act 2007][52] (2007 No 12)
+    [Minimum Wage Amendment Act 2007][51] (2007 No 12)
     
-    [Minimum Wage Amendment Act 2003][59] (2003 No 24)
+    [Minimum Wage Amendment Act 2003][57] (2003 No 24)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][30]
-    
-    Industry Training Act 1992 (1992 No 55): section 19
     
     Minimum Wage Amendment Act 1991 (1991 No 27)
     
@@ -587,7 +544,7 @@ Miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1983/0115/latest/whole.html#DLM74095
 [2]: http://www.legislation.govt.nz/act/public/1983/0115/latest/whole.html#DLM74097
 [3]: http://www.legislation.govt.nz/act/public/1983/0115/latest/whole.html#DLM74098
@@ -628,22 +585,20 @@ Miscellaneous provisions
 [38]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM396805
 [39]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM304475
 [40]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM406428
-[41]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM266252
-[42]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM224191
-[43]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM57005
-[44]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM242416
-[45]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM266697
-[46]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM197072
-[47]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60376
-[48]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60387
-[49]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60393
-[50]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM58658
-[51]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM396810
-[52]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM406421
-[53]: http://www.pco.parliament.govt.nz/reprints/
-[54]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM195439
+[41]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM224191
+[42]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM57005
+[43]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM242416
+[44]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM5640500
+[45]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM197072
+[46]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60376
+[47]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60387
+[48]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM60393
+[49]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM58658
+[50]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM396810
+[51]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM406421
+[52]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM2998516
+[53]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM2998515
+[54]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM2998532
 [55]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[56]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM195468
-[57]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM195470
-[58]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM967906
-[59]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM197065
+[56]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM967906
+[57]: http://www.legislation.govt.nz/act/public/1983/0115/latest/link.aspx?id=DLM197065
