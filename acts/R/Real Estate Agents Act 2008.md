@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -713,7 +713,9 @@ Real Estate Agents Authority
     
     (2) The Authority may, where it considers it appropriate to do so, consult with representatives of the real estate industry about any matter that relates to the functions of the Authority.
     
-    (3) For the avoidance of doubt, nothing in subsection (1) affects the role of an industry training organisation for the time being recognised under the [Industry Training Act 1992][238] as an industry training organisation for the real estate industry.
+    (3) For the avoidance of doubt, nothing in subsection (1) affects the role of an industry training organisation for the time being recognised under the [Industry Training and Apprenticeships Act 1992][238] as an industry training organisation for the real estate industry.
+    
+    Section 12(3): amended, on 23 April 2014, by [section 23][239] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
 
 #### Membership of Authority
 
@@ -729,7 +731,7 @@ Real Estate Agents Authority
     
     (5) The Minister must consult with REINZ when making the first appointment of licensees or former licensees under subsection (4).
     
-    (6) In addition to the criteria for appointments set out in [section 29][239] of the Crown Entities Act 2004, the Minister must, when making any appointment, consider the need for the Authority to represent the views of a broad range of interests, including consumer and industry interests.
+    (6) In addition to the criteria for appointments set out in [section 29][240] of the Crown Entities Act 2004, the Minister must, when making any appointment, consider the need for the Authority to represent the views of a broad range of interests, including consumer and industry interests.
 
 #### Practice rules
 
@@ -795,7 +797,7 @@ Real Estate Agents Authority
     
 *   (1) Every notice under [section 14][21], [15][22], or [18][25] comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the _Gazette_.
     
-    (2) A notice under [section 14][21], [15][22], or [18][25] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][240] and must be presented to the House of Representatives under [section 41][241] of that Act.
+    (2) A notice under [section 14][21], [15][22], or [18][25] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][241] and must be presented to the House of Representatives under [section 41][242] of that Act.
     
     (3) The Authority must ensure that an up-to-date version of each notice that the Authority has published under either of [section 14][21], [15][22], or [18][25] is---
         
@@ -809,7 +811,7 @@ Real Estate Agents Authority
         
         
     
-    Section 19(2): replaced, on 5 August 2013, by [section 77(3)][242] of the Legislation Act 2012 (2012 No 119).
+    Section 19(2): replaced, on 5 August 2013, by [section 77(3)][243] of the Legislation Act 2012 (2012 No 119).
 
 #### Fees and levies
 
@@ -849,13 +851,13 @@ Real Estate Agents Authority
     
     *   (b) exempt from liability to pay that levy, in whole or in part, any class or classes of licensee, and may provide for the waiver or refund of the whole or part of that levy.
     
-    Compare: 2003 No 48 [s 131][243]
+    Compare: 2003 No 48 [s 131][244]
 
 ##### 23 Further provisions relating to fees and levies
     
 *   (1) Every notice under any of [sections 20][28] to 22 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the _Gazette_.
     
-    (2) A notice under any of [sections 20 to 22][28] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][240] and must be presented to the House of Representatives under [section 41][241] of that Act.
+    (2) A notice under any of [sections 20 to 22][28] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][241] and must be presented to the House of Representatives under [section 41][242] of that Act.
     
     (3) The Authority must ensure that an up-to-date version of each notice that the authority has published under any of [sections 20][28] to 22 is---
         
@@ -875,9 +877,9 @@ Real Estate Agents Authority
     
     (6) If any fee is payable to the Authority under this Act, the Registrar may decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable, until the fee is paid.
     
-    Compare: 2003 No 48 [s 132][244]
+    Compare: 2003 No 48 [s 132][245]
     
-    Section 23(2): replaced, on 5 August 2013, by [section 77(3)][242] of the Legislation Act 2012 (2012 No 119).
+    Section 23(2): replaced, on 5 August 2013, by [section 77(3)][243] of the Legislation Act 2012 (2012 No 119).
 
 ##### 24 Payment of fees, levies, and fines
     
@@ -899,7 +901,7 @@ Real Estate Agents Authority
     
     *   (d) that the agent has died; or
     
-    *   (e) that the agent has been adjudicated a bankrupt or has been subject to [subpart 4][245] of Part 5 of the Insolvency Act 2006, or has been placed in receivership or liquidation under the [Companies Act 1993][221]; or
+    *   (e) that the agent has been adjudicated a bankrupt or has been subject to [subpart 4][246] of Part 5 of the Insolvency Act 2006, or has been placed in receivership or liquidation under the [Companies Act 1993][221]; or
     
     *   (f) if the agent is a building society, that the building society is being dissolved; or
     
@@ -911,7 +913,7 @@ Real Estate Agents Authority
     
     *   (j) that there are reasonable grounds to believe that the agent operates a trust account that has been administered fraudulently or recklessly.
     
-    Compare: 1976 No 9 [s 88][246]
+    Compare: 1976 No 9 [s 88][247]
 
 ##### 26 Power to take possession of documents
     
@@ -929,7 +931,7 @@ Real Estate Agents Authority
         
         
     
-    Compare: 1976 No 9 [s 88(2)][246] 
+    Compare: 1976 No 9 [s 88(2)][247] 
 
 ##### 27 Administration of trust account in certain cases
     
@@ -937,7 +939,7 @@ Real Estate Agents Authority
     
     (2) A copy of every order made by the Authority under this section must be served on the banker, and on receipt of that copy the bank in which the trust account is kept must allow the person appointed by the order to administer the trust account.
     
-    Compare: 1976 No 9 [s 33][247]
+    Compare: 1976 No 9 [s 33][248]
 
 ##### 28 Appointment of interim administrator in certain cases
     
@@ -961,9 +963,9 @@ Real Estate Agents Authority
     
 *   (1) The Authority may direct an audit of an agent's trust account at any time and appoint an auditor to carry out that audit.
     
-    (2) No person is qualified for appointment as an auditor of the trust account unless the person is a qualified auditor (within the meaning of [section 35][248] of the Financial Reporting Act 2013).
+    (2) No person is qualified for appointment as an auditor of the trust account unless the person is a qualified auditor (within the meaning of [section 35][249] of the Financial Reporting Act 2013).
     
-    Section 29(2): inserted, on 1 April 2014, by [section 126][249] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 29(2): inserted, on 1 April 2014, by [section 126][250] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 30 Authority may inspect certain financial records
     
@@ -975,7 +977,7 @@ Real Estate Agents Authority
     
     (2) The Authority may, by notice, require any person (including, without limitation, any banker) who has possession or control of financial records or other records that relate to any money received by any person specified in subsection (1) to produce those records to a person authorised by the Authority and to permit that person to inspect and copy those records.
     
-    Compare: 1976 No 9 [s 89][250]
+    Compare: 1976 No 9 [s 89][251]
 
 ##### 31 District Court Judge may order Authority to return documents
     
@@ -983,7 +985,7 @@ Real Estate Agents Authority
     
     (2) Within 14 days after the notice has been served, the agent, or any of his or her partners, may apply to a District Court Judge for an order directing the Authority to return any document specified in the order to the person from whom it was received, or for any other order that the District Court Judge thinks fit.
     
-    Compare: 1976 No 9 [s 90][251]
+    Compare: 1976 No 9 [s 90][252]
 
 ##### 32 High Court Judge may give directions to administrator of trust account or cancel appointment
     
@@ -1086,7 +1088,7 @@ Licensing
     
     (3) A company may be licensed as an agent if at least 1 officer of the company satisfies the Registrar of the matters set out in subsection (1).
     
-    Compare: 1976 No 9 [s 17(1)][252], (3)
+    Compare: 1976 No 9 [s 17(1)][253], (3)
 
 ##### 37 Persons prohibited from being licensed
     
@@ -1094,7 +1096,7 @@ Licensing
         
     *   (a) a person who has been convicted, whether in New Zealand or another country, of a crime involving dishonesty (or of a crime that, if committed in New Zealand, would be a crime involving dishonesty) within the 10 years preceding the application for a licence:
     
-    *   (b) a person who has been convicted of an offence under [sections 14][253], [17][254] to 22, or [24][255] of the Fair Trading Act 1986, within the 5 years preceding the application for a licence:
+    *   (b) a person who has been convicted of an offence under [sections 14][254], [17][255] to 22, or [24][256] of the Fair Trading Act 1986, within the 5 years preceding the application for a licence:
     
     *   (c) a person whose licence or certificate of approval has been cancelled within the preceding 5 years or whose licence is suspended at the time of application under the [Real Estate Agents Act 1976][225]:
     
@@ -1110,17 +1112,17 @@ Licensing
     
     *   (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and who has been disqualified from holding a licence or whose licence has been suspended under the [Real Estate Agents Act 1976][225]:
     
-    *   (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the [Companies Act 1993][221], the [Securities Markets Act 1988][256], or the [Takeovers Act 1993][257]:
+    *   (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the [Companies Act 1993][221], the [Securities Markets Act 1988][257], or the [Takeovers Act 1993][258]:
     
     *   (h) a company, or other corporate entity or partnership, where a person concerned in its management is disqualified from being licensed in his or her own right under paragraph (a):
     
     *   (i) a person described in [section 7(1)][8] (which relates to the exemption of lawyers and conveyancers from this Act) who is subject to the provisions of the [Lawyers and Conveyancers Act 2006][229].
     
-    (2) A person is not eligible to hold an agent's licence if he or she is an undischarged bankrupt or is subject to [subpart 4][245] of Part 5 of the Insolvency Act 2006\.
+    (2) A person is not eligible to hold an agent's licence if he or she is an undischarged bankrupt or is subject to [subpart 4][246] of Part 5 of the Insolvency Act 2006\.
     
-    Compare: 1976 No 9 [s 17(2)][252]
+    Compare: 1976 No 9 [s 17(2)][253]
     
-    Section 37(1)(d): replaced, on 12 December 2012, by [section 4][258] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
+    Section 37(1)(d): replaced, on 12 December 2012, by [section 4][259] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
 
 ##### 38 Application for licence
     
@@ -1128,17 +1130,17 @@ Licensing
         
     *   (a) be made to the Registrar in the prescribed form; and
     
-    *   (b) be accompanied by a declaration made in the form prescribed in the [Oaths and Declarations Act 1957][259] that the person is eligible to obtain a licence by virtue of [section 36][48] and is not prohibited from being licensed under [section 37][49]; and
+    *   (b) be accompanied by a declaration made in the form prescribed in the [Oaths and Declarations Act 1957][260] that the person is eligible to obtain a licence by virtue of [section 36][48] and is not prohibited from being licensed under [section 37][49]; and
     
     *   (c) be accompanied by the prescribed fee (if any).
     
-    Compare: 1976 No 9 [s18][260]
+    Compare: 1976 No 9 [s18][261]
 
 ##### 39 Applicant must advertise application
     
 *   The applicant must advertise the application for a licence in the prescribed manner.
     
-    Compare: 1976 No 9 [s 20(1)][261]
+    Compare: 1976 No 9 [s 20(1)][262]
 
 ##### 40 Objections to issue of licence
     
@@ -1156,9 +1158,9 @@ Licensing
     
     (4) The Registrar must send a copy of the notice to the applicant.
     
-    Compare: 1976 No 9 [s 20(2)--(5)][261]
+    Compare: 1976 No 9 [s 20(2)--(5)][262]
     
-    Section 40(3A): inserted, on 5 December 2013, by [section 4][262] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 40(3A): inserted, on 5 December 2013, by [section 4][263] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
 
 ##### 41 Written submission in response by applicant
     
@@ -1168,7 +1170,7 @@ Licensing
     
     (3) A written response to the Registrar may include a request for a hearing under [section 42(4)][54].
     
-    Section 41(3): inserted, on 5 December 2013, by [section 5][263] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 41(3): inserted, on 5 December 2013, by [section 5][264] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
 
 ##### 42 Procedure in Registrar determining licence application and objection
     
@@ -1190,7 +1192,7 @@ Licensing
     
     *   (d) consider the evidence put before him or her, including any written submission in response that is provided by the applicant under [section 41][53].
     
-    Section 42: replaced, on 5 December 2013, by [section 6][264] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 42: replaced, on 5 December 2013, by [section 6][265] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
 
 ##### 43 Registrar to license applicant or decline application
     
@@ -1228,11 +1230,11 @@ Licensing
     
     *   (c) notify the applicant of his or her right of review by the Tribunal against the decision.
     
-    Compare: 1976 No 9 [s 23][265]
+    Compare: 1976 No 9 [s 23][266]
     
-    Section 43(1): amended, on 5 December 2013, by [section 7][266] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 43(1): amended, on 5 December 2013, by [section 7][267] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
     
-    Section 43(1)(c): amended, on 12 December 2012, by [section 5][267] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
+    Section 43(1)(c): amended, on 12 December 2012, by [section 5][268] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
 
 #### Provisions relating to licences
 
@@ -1242,7 +1244,7 @@ Licensing
     
     (2) If a company is the holder of an agent's licence, at least 1 officer of the company must, at any given time, hold an agent's licence.
     
-    Compare: 1976 No 9 [s 30][268]
+    Compare: 1976 No 9 [s 30][269]
 
 ##### 45 Duty to produce evidence of issue of licence
     
@@ -1288,7 +1290,7 @@ Licensing
     
 *   (1) A branch manager's licence or a salesperson's licence authorises the licensee to carry out real estate agency work for or on behalf of an agent.
     
-    (2) The licence also authorises the licensee to sell or to offer to sell, on behalf of the agent, any land by auction without having to be licensed under the [Auctioneers Act 1928][269].
+    (2) The licence also authorises the licensee to sell or to offer to sell, on behalf of the agent, any land by auction without having to be licensed under the [Auctioneers Act 1928][270].
 
 ##### 50 Salespersons must be supervised
     
@@ -1328,7 +1330,7 @@ Licensing
     
     (5) The grant of a renewal of a licence takes effect from the date of expiry of the previous licence.
     
-    Compare: 1976 No 9 [s 29][270]
+    Compare: 1976 No 9 [s 29][271]
 
 ##### 53 Expiry of licence
     
@@ -1448,7 +1450,7 @@ Licensing
     
     (2) Any of the following persons may apply to the Registrar in the prescribed form for permission to carry on or appoint some other person to carry on the licensee's business as an agent for a period specified by the Registrar:
         
-    *   (a) in the case of a licensee who is a person subject to a property order under the [Protection of Personal and Property Rights Act 1988][271], the manager of his or her estate; or
+    *   (a) in the case of a licensee who is a person subject to a property order under the [Protection of Personal and Property Rights Act 1988][272], the manager of his or her estate; or
     
     *   (b) in the case of a licensee who is deceased, his or her personal representative; or
     
@@ -1464,7 +1466,7 @@ Licensing
     
     (4) Despite subsection (3), an authority given under that subsection in any event ceases to have effect when the application for the Registrar's permission under subsection (2) is determined.
     
-    Compare: 1976 No 9 [s 32][272]
+    Compare: 1976 No 9 [s 32][273]
 
 #### Register of licensees
 
@@ -1480,7 +1482,7 @@ Licensing
     
     (3) The Registrar must make any other entries in the register that may be required, permitted, or directed to be entered by or under this Act or the regulations.
     
-    Compare: 1976 No 9 [s 36][273]
+    Compare: 1976 No 9 [s 36][274]
 
 ##### 64 Purpose of register
     
@@ -1584,7 +1586,7 @@ Licensing
     
     *   (b) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers.
     
-    Compare: 1976 No 9 [s 38][274]
+    Compare: 1976 No 9 [s 38][275]
 
 ##### 69 Search of register
     
@@ -1598,11 +1600,11 @@ Licensing
     
     (3) The Registrar must supply copies of all or part of the register on request and on payment of a reasonable charge for the production of the copy if the provision of those copies is consistent with the register's purposes.
     
-    Section 69(1): amended, on 7 July 2010, by [section 4][275] of the Real Estate Agents Amendment Act 2010 (2010 No 82).
+    Section 69(1): amended, on 7 July 2010, by [section 4][276] of the Real Estate Agents Amendment Act 2010 (2010 No 82).
 
 ##### 70 When search constitutes interference with privacy of individual
     
-*   A person who searches the register for a purpose that is not a purpose set out in [section 64][84] must be treated, for the purposes of [Part 8][276] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][277] of that Act.
+*   A person who searches the register for a purpose that is not a purpose set out in [section 64][84] must be treated, for the purposes of [Part 8][277] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][278] of that Act.
 
 ## Part 4  
 Complaints and discipline
@@ -1679,13 +1681,13 @@ Complaints and discipline
     
     (6) The Authority must designate one of the members as the chairperson of the Committee, and another member as the deputy chairperson.
     
-    Section 75(2): amended, on 5 December 2013, by [section 8(1)][278] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 75(2): amended, on 5 December 2013, by [section 8(1)][279] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
     
-    Section 75(3): repealed, on 5 December 2013, by [section 8(2)][278] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 75(3): repealed, on 5 December 2013, by [section 8(2)][279] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
     
-    Section 75(4): repealed, on 5 December 2013, by [section 8(2)][278] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 75(4): repealed, on 5 December 2013, by [section 8(2)][279] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
     
-    Section 75(5): amended, on 5 December 2013, by [section 8(3)][278] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 75(5): amended, on 5 December 2013, by [section 8(3)][279] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
 
 ##### 76 Panel
     
@@ -1765,7 +1767,7 @@ Complaints and discipline
     
     (2) Despite anything in subsection (1), the Committee may, in its discretion, decide not to take any further action on a complaint if, in the course of the investigation of the complaint, it appears to the Committee that, having regard to all the circumstances of the case, any further action is unnecessary or inappropriate.
     
-    Compare: 2006 No 1 [s 138][279]
+    Compare: 2006 No 1 [s 138][280]
 
 ##### 81 Notice of decision
     
@@ -1781,7 +1783,7 @@ Complaints and discipline
     
     *   (b) describe the right of appeal conferred by [section 111][136].
     
-    Compare: 2006 No 1 [s 139][280]
+    Compare: 2006 No 1 [s 139][281]
 
 ##### 82 Inquiry by Committee
     
@@ -1789,7 +1791,7 @@ Complaints and discipline
     
     (2) The Committee may authorise any person to assist it with its inquiry.
     
-    Compare: 2006 No 1 [s 140][281]
+    Compare: 2006 No 1 [s 140][282]
 
 ##### 83 Notice to licensee
     
@@ -1801,7 +1803,7 @@ Complaints and discipline
     
     *   (c) may, by written notice served on the licensee, request that specified information be supplied to the Committee in writing.
     
-    Compare: 2006 No 1 [s 141][282]
+    Compare: 2006 No 1 [s 141][283]
 
 ##### 84 Procedure of Committee
     
@@ -1811,7 +1813,7 @@ Complaints and discipline
     
     (3) The Committee may regulate its procedure in any manner that it thinks fit as long as it is consistent with this Act and any regulations made under it.
     
-    Compare: 2006 No 1 [s 142][283]
+    Compare: 2006 No 1 [s 142][284]
 
 ##### 85 Powers to call for information or documents
     
@@ -1831,7 +1833,7 @@ Complaints and discipline
         
         
     
-    Compare: 2003 No 48 [s 77][284]
+    Compare: 2003 No 48 [s 77][285]
 
 ##### 86 Compliance with requirement to provide information or document
     
@@ -1839,9 +1841,9 @@ Complaints and discipline
     
     (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
     
-    (3) No person is required to produce to the Committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than this Act, the [Official Information Act 1982][285], or the [Privacy Act 1993][286]).
+    (3) No person is required to produce to the Committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than this Act, the [Official Information Act 1982][286], or the [Privacy Act 1993][287]).
     
-    Compare: 2003 No 48 [s 78][287]
+    Compare: 2003 No 48 [s 78][288]
 
 ##### 87 Negotiation, conciliation, and mediation
     
@@ -1875,7 +1877,7 @@ Complaints and discipline
     
     (5) Nothing in this section prevents the discovery or affects the admissibility of any evidence (being evidence which is otherwise discoverable or admissible and which existed independently of any negotiation, conciliation, or mediation conducted under a direction given under subsection (1) for the purpose of resolving a complaint or any issue involved in a complaint) merely because the evidence was presented in the course of the negotiation, conciliation, or mediation.
     
-    Compare: 2006 No 1 [s 143][288]
+    Compare: 2006 No 1 [s 143][289]
 
 ##### 88 Evidence
     
@@ -1885,11 +1887,11 @@ Complaints and discipline
     
     (3) The Committee may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Committee thinks fit, verifying that statement by oath.
     
-    (4) The [Evidence Act 2006][289] applies (subject to subsections (1) to (3)) to the Committee in the same manner as if it were a court within the meaning of that Act.
+    (4) The [Evidence Act 2006][290] applies (subject to subsections (1) to (3)) to the Committee in the same manner as if it were a court within the meaning of that Act.
     
     (5) This section is subject to [sections 84(1)][108] and [87(4)][111].
     
-    Compare: 2006 No 1 [s 151][290]
+    Compare: 2006 No 1 [s 151][291]
 
 ##### 89 Power of Committee to determine complaint or allegation
     
@@ -1905,7 +1907,7 @@ Complaints and discipline
     
     (3) Nothing in this section limits the power of the Committee to make, at any time, a decision under [section 80][104] with regard to a complaint.
     
-    Compare: 2006 No 1 [s 152(1)--(3)][291]
+    Compare: 2006 No 1 [s 152(1)--(3)][292]
 
 ##### 90 Hearings on papers
     
@@ -1915,7 +1917,7 @@ Complaints and discipline
     
     (3) Consideration of the written material may be undertaken in whatever manner the Committee thinks fit.
     
-    Compare: 2006 No 1 [s 153(1),][292] (7), (8)
+    Compare: 2006 No 1 [s 153(1),][293] (7), (8)
 
 ##### 91 Reference of complaint to Disciplinary Tribunal
     
@@ -1925,13 +1927,13 @@ Complaints and discipline
     
     *   (b) give written notice of that determination and a copy of the charge to the person to whom the charge relates and to the complainant.
     
-    Compare: 2006 No 1 [s 154][293]
+    Compare: 2006 No 1 [s 154][294]
 
 ##### 92 Application for suspension of licence
     
 *   If, under [section 91(a)][115], a Committee lays before the Disciplinary Tribunal a charge against a licensee, the Committee may apply to the Tribunal for an order that, pending the determination of the charge, the licence of the licensee be suspended.
     
-    Compare: 2006 No 1 [s 155][294]
+    Compare: 2006 No 1 [s 155][295]
 
 ##### 93 Power of Committee to make orders
     
@@ -1963,7 +1965,7 @@ Complaints and discipline
     
     (2) An order under this section may be made on and subject to any terms and conditions that the Committee thinks fit.
     
-    Compare: 2006 No 1 [s 156(1)][295]
+    Compare: 2006 No 1 [s 156(1)][296]
 
 ##### 94 Notice of determination
     
@@ -1977,7 +1979,7 @@ Complaints and discipline
     
     *   (c) describe the right of appeal conferred by [section 111][136].
     
-    Compare: 2006 No 1 [s 158][296]
+    Compare: 2006 No 1 [s 158][297]
 
 ##### 95 Members of Committee not personally liable
     
@@ -1991,7 +1993,7 @@ Complaints and discipline
     
     (2) Subsection (1) does not apply if the person acts in bad faith.
     
-    Compare: 2006 No 1 [s 185][297]
+    Compare: 2006 No 1 [s 185][298]
 
 ##### 96 Protection and privileges of witnesses
     
@@ -2003,13 +2005,13 @@ Complaints and discipline
     
     *   (c) the production of papers, documents, records, or things to the Committee.
     
-    Compare: 2006 No 1 [s 186(1)][298]
+    Compare: 2006 No 1 [s 186(1)][299]
 
 ##### 97 Privileges and immunities of counsel
     
 *   Every counsel appearing before a Committee has the same privileges and immunities as counsel in a court of law.
     
-    Compare: 2006 No 1 [s 187][299]
+    Compare: 2006 No 1 [s 187][300]
 
 ##### 98 Enforcement of orders
     
@@ -2037,7 +2039,7 @@ Complaints and discipline
     
     (5) The Minister must designate one of the members referred to in subsection (2)(b) as the deputy chairperson of the Tribunal.
     
-    Section 100(2)(b): amended, on 12 December 2012, by [section 6][300] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
+    Section 100(2)(b): amended, on 12 December 2012, by [section 6][301] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
 
 ##### 101 Constitution of Tribunal for hearings
     
@@ -2097,7 +2099,7 @@ Complaints and discipline
     
     (4) The Disciplinary Tribunal may, in any case, deliberate in private on its decision or on any question arising in the course of a hearing.
     
-    Compare: 2006 No 1 [s 238][301]
+    Compare: 2006 No 1 [s 238][302]
 
 ##### 108 Restrictions on publication
     
@@ -2113,7 +2115,7 @@ Complaints and discipline
     
     (3) Subsection (1)(c) does not apply to any communications between the Disciplinary Tribunal and the Authority.
     
-    Compare: 2006 No 1 [s 240][302]
+    Compare: 2006 No 1 [s 240][303]
 
 ##### 109 Evidence
     
@@ -2123,11 +2125,11 @@ Complaints and discipline
     
     (3) The Disciplinary Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][289] applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][290] applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
     
-    (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of [section 108][303] of the Crimes Act 1961 (which relates to perjury).
+    (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of [section 108][304] of the Crimes Act 1961 (which relates to perjury).
     
-    Compare: 2006 No 1 [s 239][304]
+    Compare: 2006 No 1 [s 239][305]
 
 ##### 110 Determination of charges and orders that may be made if charge proved
     
@@ -2249,7 +2251,7 @@ Complaints and discipline
     
     (2) To enable the Registrar to fulfil the duties imposed by this section, the Registrar of the court in which the interim order is made must send a copy of the order to the Registrar as soon as practicable.
     
-    Compare: 2007 No 15 [s 83][305]
+    Compare: 2007 No 15 [s 83][306]
 
 ##### 119 Determination of appeal
     
@@ -2257,7 +2259,7 @@ Complaints and discipline
     
     (2) This section is subject to the right of a party to appeal to the Court of Appeal on a question of law under [section 120][146].
     
-    Compare: 2007 No 15 [s 84][306]
+    Compare: 2007 No 15 [s 84][307]
 
 ##### 120 Appeal to Court of Appeal on question of law
     
@@ -2267,7 +2269,7 @@ Complaints and discipline
     
     (3) The decision of the Court of Appeal on any appeal under this section is final.
     
-    Compare: 2007 No 15 [s 85][307]
+    Compare: 2007 No 15 [s 85][308]
 
 ## Part 5  
 Duties relating to real estate agency work
@@ -2298,7 +2300,7 @@ Duties relating to real estate agency work
     
     (3) The required name information must be capable of being easily read from outside each office or shop maintained by the agent for the purposes of the business.
     
-    Compare: 1976 No 9 [s 53][308]
+    Compare: 1976 No 9 [s 53][309]
 
 #### Receipt of money and audit of accounts
 
@@ -2314,7 +2316,7 @@ Duties relating to real estate agency work
     
     (5) Nothing in this section takes away or affects any just lien or claim that an agent who holds money to which this section applies has against the money.
     
-    Compare: 1976 No 9 [s 56][309]
+    Compare: 1976 No 9 [s 56][310]
 
 ##### 123 Money to be held by agent for 10 working days
     
@@ -2324,7 +2326,7 @@ Duties relating to real estate agency work
     
     (3) If at any time while holding any money on behalf of any party to the transaction, the agent receives written notice of any requisitions or objections in respect of the title to any land affected by the transaction, the agent must not at any time pay that money to any person except in accordance with a court order or an authority signed by all the parties to the transaction.
     
-    Compare: 1976 No 9 [s 57][310]
+    Compare: 1976 No 9 [s 57][311]
 
 ##### 124 Agent to furnish account to client
     
@@ -2332,7 +2334,7 @@ Duties relating to real estate agency work
     
     (2) If an agent is in doubt on reasonable grounds as to the person who is lawfully entitled to any money, the agent must take all reasonable steps to ascertain as soon as practicable the person who is entitled and is not required to render an account under this section until the person lawfully entitled has been ascertained.
     
-    Compare: 1976 No 9 [s 58][311]
+    Compare: 1976 No 9 [s 58][312]
 
 ##### 125 Agents' trust accounts to be audited
     
@@ -2342,7 +2344,7 @@ Duties relating to real estate agency work
     
     (3) Subsection (2) is subject to any rights of disclosure that may be prescribed for the purposes of the audit.
     
-    Compare: 1976 No 9 [s 60][312]
+    Compare: 1976 No 9 [s 60][313]
 
 #### Agency agreements
 
@@ -2372,7 +2374,7 @@ Duties relating to real estate agency work
     
     *   (c) failure to make the order would be unjust.
     
-    (4) This section overrides the [Illegal Contracts Act 1970][313].
+    (4) This section overrides the [Illegal Contracts Act 1970][314].
     
     Compare: Property, Stock and Business Agents Act 2002 s 55(1), (4), (5) (NSW)
 
@@ -2410,7 +2412,7 @@ Duties relating to real estate agency work
     
     *   (b) specifies the estimated amount of those rebates, discounts, or commissions (to the extent that the amount can reasonably be estimated).
     
-    (2) This section does not limit the liability of any person under the [Secret Commissions Act 1910][314].
+    (2) This section does not limit the liability of any person under the [Secret Commissions Act 1910][315].
     
     Compare: Property, Stock and Business Agents Act 2002 s 57(1) (NSW)
 
@@ -2466,7 +2468,7 @@ Duties relating to real estate agency work
     
 *   As soon as practicable after a person signs a contractual document and gives that document to a licensee carrying out real estate agency work in connection with the document, the licensee must give the person an accurate copy of the document.
     
-    Compare: 1976 No 9 [s 65][315]
+    Compare: 1976 No 9 [s 65][316]
 
 ##### 133 Approved guide to be provided when contractual document provided
     
@@ -2492,7 +2494,7 @@ Duties relating to real estate agency work
     
     (4) A contravention of this section does not affect the validity of any contract.
     
-    Section 133(2)(b): amended, on 5 December 2013, by [section 9][316] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
+    Section 133(2)(b): amended, on 5 December 2013, by [section 9][317] of the Real Estate Agents Amendment Act 2013 (2013 No 129).
 
 ##### 134 Contracts for acquisition by licensee or related person may be cancelled
     
@@ -2544,7 +2546,7 @@ Duties relating to real estate agency work
     
     *   (b) the valuation, when supplied, is greater than the valuation specified in the prescribed form of consent as the provisional valuation.
     
-    Compare: 1976 No 9 [s 64][317]
+    Compare: 1976 No 9 [s 64][318]
 
 ##### 136 Disclosure of other benefits that licensee stands to gain from transaction
     
@@ -2582,7 +2584,7 @@ Duties relating to real estate agency work
     
     *   (i) an entity that has an interest in the licensee or an entity (not being an entity listed on the New Zealand Stock Exchange) in which the licensee has an interest.
     
-    Section 137(2)(h): replaced, on 12 December 2012, by [section 7][318] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
+    Section 137(2)(h): replaced, on 12 December 2012, by [section 7][319] of the Real Estate Agents Amendment Act 2012 (2012 No 112).
 
 ## Part 6  
 Miscellaneous provisions
@@ -2605,13 +2607,13 @@ Miscellaneous provisions
     
     (2) All money forfeited to the Crown under subsection (1) is recoverable at the suit of the Crown in any court of competent jurisdiction, or may be assessed by the court by which the defendant is convicted, and be recoverable as a fine.
     
-    Compare: 1976 No 9 [s 16(2)][319], (3)
+    Compare: 1976 No 9 [s 16(2)][320], (3)
 
 ##### 140 Offences to be punishable on summary conviction
     
 *   \[Repealed\]
     
-    Section 140: repealed, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 140: repealed, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to requirement to be licensed
 
@@ -2661,7 +2663,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a company, to a fine not exceeding $50,000\.
     
-    Section 145(2): amended, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to Authority's powers of possession and inspection of documents
 
@@ -2685,7 +2687,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a company, to a fine not exceeding $50,000\.
     
-    Section 148(2): amended, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 148(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 149 Offence to fail to pay person lawfully entitled to money received
     
@@ -2709,7 +2711,7 @@ Miscellaneous provisions
     
     *   (b) in the case of a company, to a fine not exceeding $100,000\.
     
-    Section 152(2): amended, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 152(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to investigation
 
@@ -2761,7 +2763,7 @@ Miscellaneous provisions
     
     (2) Subsection (1) is subject to [section 110(3)][135].
     
-    Compare: 1976 No 9 [s 120][321]
+    Compare: 1976 No 9 [s 120][322]
 
 ### Subpart 4---Regulations
 
@@ -2817,7 +2819,7 @@ Miscellaneous provisions
     
     *   (b) has consulted with representatives of organisations that, in the opinion of the Minister, have an interest in the proposed exemption.
     
-    Section 156(1)(j): repealed, on 7 July 2010, by [section 5][322] of the Real Estate Agents Amendment Act 2010 (2010 No 82).
+    Section 156(1)(j): repealed, on 7 July 2010, by [section 5][323] of the Real Estate Agents Amendment Act 2010 (2010 No 82).
 
 ### Subpart 5---Provisions relating to repeal of Real Estate Agents Act 1976
 
@@ -2829,7 +2831,7 @@ Miscellaneous provisions
 
 ##### 158 Transfer of assets and liabilities
     
-*   On the commencement of this section, the assets and liabilities of the Real Estate Agents Licensing Board constituted under [section 4][323] of the Real Estate Agents Act 1976 vest in REINZ.
+*   On the commencement of this section, the assets and liabilities of the Real Estate Agents Licensing Board constituted under [section 4][324] of the Real Estate Agents Act 1976 vest in REINZ.
 
 ##### 159 Membership of REINZ
     
@@ -2841,25 +2843,25 @@ Miscellaneous provisions
     
 *   (1) Despite the repeal of the [Real Estate Agents Act 1976][225] by [section 157][200], the following provisions of that Act continue to be in force until the date on which the Real Estate Agents Fidelity Guarantee Fund is wound up:
         
-    *   (a) [sections 71][324] to 75(1):
+    *   (a) [sections 71][325] to 75(1):
     
-    *   (b) [sections 79][325] to 87:
+    *   (b) [sections 79][326] to 87:
     
-    *   (c) the [Schedule][326].
+    *   (c) the [Schedule][327].
     
-    (2) For the purposes of subsection (1), [section 79][325] of the Real Estate Agents Act 1976 has effect as if the references in that section to real estate agents were references to real estate agents within the meaning of this Act.
+    (2) For the purposes of subsection (1), [section 79][326] of the Real Estate Agents Act 1976 has effect as if the references in that section to real estate agents were references to real estate agents within the meaning of this Act.
     
-    Compare: 2006 No 1 [s 363][327]
+    Compare: 2006 No 1 [s 363][328]
 
 ##### 161 Claims in relation to Real Estate Agents Fidelity Guarantee Fund
     
 *   (1) No person has any claim against the Real Estate Agents Fidelity Guarantee Fund in relation to any theft committed on or after the date on which the repeal of the [Real Estate Agents Act 1976][225] takes effect.
     
-    (2) No person has any claim against the Real Estate Agents Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the [Real Estate Agents Act 1976][225] takes effect unless that person has, on or before the last date for submitting claims, given notice of the claim in writing to the Council of REINZ or to the committee of management appointed under [section 74(1)][328] of the Real Estate Agents Act 1976\.
+    (2) No person has any claim against the Real Estate Agents Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the [Real Estate Agents Act 1976][225] takes effect unless that person has, on or before the last date for submitting claims, given notice of the claim in writing to the Council of REINZ or to the committee of management appointed under [section 74(1)][329] of the Real Estate Agents Act 1976\.
     
     (3) The last date for submitting a claim is the last day of the period of 12 months beginning with the date on which a report under [section 163(1)][207] is submitted by the Council of REINZ to the Minister.
     
-    Compare: 2006 No 1 [s 365][329]
+    Compare: 2006 No 1 [s 365][330]
 
 ##### 162 Public notice of last day for making claims
     
@@ -2867,7 +2869,7 @@ Miscellaneous provisions
     
     (2) The public notice under subsection (1) must be given at least twice before that last date, the first such notice being given not less than 3 months before that date and the second being given not more than 1 month and not less than 14 days before that date.
     
-    Compare: 2006 No 1 [s 366][330]
+    Compare: 2006 No 1 [s 366][331]
 
 ##### 163 Winding up of Real Estate Agents Fidelity Guarantee Fund
     
@@ -2889,17 +2891,17 @@ Miscellaneous provisions
     
     (7) The Governor-General may, by Order in Council, declare that the Real Estate Agents Fidelity Guarantee Fund is wound up on a date specified in the order.
     
-    Compare: 2006 No 1 [s 367][331]
+    Compare: 2006 No 1 [s 367][332]
 
 ##### 164 Application of Real Estate Agents Fidelity Guarantee Fund on winding up
     
-*   On the date specified in the Order in Council made under [section 163(7)][207] on which the Real Estate Agents Fidelity Guarantee Fund is wound up, any remaining assets of the fund continue to be the property of REINZ but cease to be held in trust for the purposes stated in [section 81][332] of the Real Estate Agents Act 1976\.
+*   On the date specified in the Order in Council made under [section 163(7)][207] on which the Real Estate Agents Fidelity Guarantee Fund is wound up, any remaining assets of the fund continue to be the property of REINZ but cease to be held in trust for the purposes stated in [section 81][333] of the Real Estate Agents Act 1976\.
 
 #### Transitional provisions
 
 ##### 165 Continuation in office for purposes of transitional provisions
     
-*   (1) For the purposes of [sections 166][211] to 172, the Real Estate Agents Licensing Board constituted under [section 4][323] of the Real Estate Agents Act 1976, the Registrar of Real Estate Agents appointed under [section 35][333] of that Act, and every Regional Disciplinary Committee, and subcommittee of a Regional Disciplinary Committee, established pursuant to the rules of the Real Estate Institute under [section 70][334] of that Act continue in office and continue to have all the powers necessary to fulfil those purposes.
+*   (1) For the purposes of [sections 166][211] to 172, the Real Estate Agents Licensing Board constituted under [section 4][324] of the Real Estate Agents Act 1976, the Registrar of Real Estate Agents appointed under [section 35][334] of that Act, and every Regional Disciplinary Committee, and subcommittee of a Regional Disciplinary Committee, established pursuant to the rules of the Real Estate Institute under [section 70][335] of that Act continue in office and continue to have all the powers necessary to fulfil those purposes.
     
     (2) If there is a vacancy in any of the bodies or in the office of Registrar referred to in subsection (1), the Minister may appoint any person the Minister considers appropriate to fill the vacancy.
 
@@ -2931,9 +2933,9 @@ Miscellaneous provisions
 
 ##### 168 Continuing effect of permits issued under Real Estate Agents Act 1976
     
-*   (1) Every permit issued under [section 34][335] of the Real Estate Agents Act 1976 that is in effect immediately before the commencement of this section continues in effect according to its tenor despite any provision of this Act (other than this section).
+*   (1) Every permit issued under [section 34][336] of the Real Estate Agents Act 1976 that is in effect immediately before the commencement of this section continues in effect according to its tenor despite any provision of this Act (other than this section).
     
-    (2) The Authority has, and may exercise, the power conferred on the Real Estate Licensing Board by [section 34(5)][335] of the Real Estate Agents Act 1976\.
+    (2) The Authority has, and may exercise, the power conferred on the Real Estate Licensing Board by [section 34(5)][336] of the Real Estate Agents Act 1976\.
     
     (3) Every permit referred to in subsection (1), unless sooner expired or revoked, expires on the date that is 2 years after the commencement of this section.
 
@@ -2951,15 +2953,15 @@ Miscellaneous provisions
 
 ##### 170 Continuing effect of agency agreements entered into before repeal of Real Estate Agents Act 1976
     
-*   (1) The repeal by [section 157][200] of the Real Estate Agents Act 1976 does not affect the continuation of any subsisting contracts of the kind described in [section 62(b)][336] of that Act, and any such contract continues to be governed by that Act.
+*   (1) The repeal by [section 157][200] of the Real Estate Agents Act 1976 does not affect the continuation of any subsisting contracts of the kind described in [section 62(b)][337] of that Act, and any such contract continues to be governed by that Act.
     
     (2) A contract of the kind described in subsection (1) may be renewed only by an agency agreement to which [section 126][156] applies.
     
-    (3) [Section 62][336] of the Real Estate Agents Act 1976 continues to apply to any service or work performed, before the commencement of [section 157][200], by any person as a real estate agent under that Act.
+    (3) [Section 62][337] of the Real Estate Agents Act 1976 continues to apply to any service or work performed, before the commencement of [section 157][200], by any person as a real estate agent under that Act.
 
 ##### 171 Continuation of pending disciplinary proceedings
     
-*   (1) All applications under any of [sections 94][337], [95][338], and [99][339] of the Real Estate Agents Act 1976, every inquiry under [section 97][340] of that Act, every complaint laid under [section 102][341] of that Act with a Regional Disciplinary Committee, and every matter referred to a subcommittee of a Regional Disciplinary Committee in accordance with rules made under [section 70][334] of that Act that have been commenced before the commencement of this section and that have not been completed before that commencement are to be continued and completed as if that Act had not been repealed.
+*   (1) All applications under any of [sections 94][338], [95][339], and [99][340] of the Real Estate Agents Act 1976, every inquiry under [section 97][341] of that Act, every complaint laid under [section 102][342] of that Act with a Regional Disciplinary Committee, and every matter referred to a subcommittee of a Regional Disciplinary Committee in accordance with rules made under [section 70][335] of that Act that have been commenced before the commencement of this section and that have not been completed before that commencement are to be continued and completed as if that Act had not been repealed.
     
     (2) If the Real Estate Agents Licensing Board, in completing any application referred to in subsection (1), determines that the licence of a licensee is to be cancelled or that a licensee is to be suspended, the Board must promptly notify the Authority of that determination and the Authority must give effect to the determination by taking the appropriate action under this Act.
     
@@ -2996,7 +2998,7 @@ Provisions relating to Tribunal
     
     (2) A member of the Tribunal is eligible for reappointment from time to time.
     
-    (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][342], continues to hold office, by virtue of the appointment for the term that has expired, until---
+    (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][343], continues to hold office, by virtue of the appointment for the term that has expired, until---
         
     *   (a) that member is reappointed; or
     
@@ -3010,17 +3012,17 @@ Provisions relating to Tribunal
     
 *   (1) A member of the Tribunal may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
-    (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is adjudged bankrupt under the [Insolvency Act 2006][343].
+    (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is adjudged bankrupt under the [Insolvency Act 2006][344].
     
     (3) A member of the Tribunal may at any time resign his or her office by giving notice in writing to the Minister.
 
 ##### 4 Remuneration
     
-*   The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the [Fees and Travelling Allowances Act 1951][344], and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
+*   The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the [Fees and Travelling Allowances Act 1951][345], and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
 
 ##### 5 Members of Tribunal
     
-*   No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][345] or in the State services for the purposes of the [State Sector Act 1988][346].
+*   No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][346] or in the State services for the purposes of the [State Sector Act 1988][347].
 
 ##### 6 Witness summons
     
@@ -3032,11 +3034,11 @@ Provisions relating to Tribunal
 
 ##### 7 Witnesses' expenses
     
-*   (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][347], and those regulations apply accordingly.
+*   (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][348], and those regulations apply accordingly.
     
     (2) The Tribunal may disallow the whole or any part of any sum payable under subclause (1).
     
-    Schedule 1 clause 7(1): amended, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 1 clause 7(1): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Power to take evidence on oath
     
@@ -3044,7 +3046,7 @@ Provisions relating to Tribunal
     
     (2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
     
-    Schedule 1 clause 8(2): amended, on 1 July 2013, by [section 413][320] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 1 clause 8(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Protection and privileges of witnesses
     
@@ -3085,7 +3087,7 @@ Amendments to other enactments
 
 [s 173][218]
 
-##### [Auctioneers Act 1928][269] (1928 No 29)
+##### [Auctioneers Act 1928][270] (1928 No 29)
 
 Section 13: repeal.
 
@@ -3093,11 +3095,11 @@ Section 13: repeal.
 
 Part 1 of Schedule 1: insert in its appropriate alphabetical order: ""Real Estate Agents Authority"".
 
-##### [Employment Relations Act 2000][348] (2000 No 24)
+##### [Employment Relations Act 2000][349] (2000 No 24)
 
 Section 6(4): omit ""Real Estate Agents Act 1976"" and substitute ""Real Estate Agents Act 2008"".
 
-##### [Financial Transactions Reporting Act 1996][349] (1996 No 9)
+##### [Financial Transactions Reporting Act 1996][350] (1996 No 9)
 
 The definition of **real estate agent** in section 2(1): repeal and substitute:
 
@@ -3115,13 +3117,13 @@ Section 36: insert the following subsection after subsection (2):
 > 
 > 
 
-##### [Maori Trustee Act 1953][350] (1953 No 95)
+##### [Maori Trustee Act 1953][351] (1953 No 95)
 
 Section 45A(1): omit ""as a real estate agent under the Real Estate Agents Act 1976"" and substitute ""as an agent under the Real Estate Agents Act 2008"".
 
 Section 45A(7): omit ""the Real Estate Agents Act 1976"" and substitute ""the Real Estate Agents Act 2008"".
 
-##### [Privacy Act 1993][286] (1993 No 28)
+##### [Privacy Act 1993][287] (1993 No 28)
 
 Part 1 of Schedule 2: insert the following item in its appropriate alphabetical order:
 
@@ -3129,11 +3131,11 @@ Part 1 of Schedule 2: insert the following item in its appropriate alphabetical 
 > 
 > 
 
-##### [Summary Proceedings Act 1957][351] (1957 No 87)
+##### [Summary Proceedings Act 1957][352] (1957 No 87)
 
 Part 2 of Schedule 1: omit the item relating to the Real Estate Agents Act 1976\.
 
-##### [Unclaimed Money Act 1971][352] (1971 No 28)
+##### [Unclaimed Money Act 1971][353] (1971 No 28)
 
 Section 5(1)(h): omit ""any real estate agent within the meaning of the Real Estate Agents Act 1976"" and substitute ""any agent within the meaning of the Real Estate Agents Act 2008"".
 
@@ -3149,27 +3151,29 @@ Section 5(1)(h): omit ""any real estate agent within the meaning of the Real Est
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][353] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][354] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][354] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][355] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][355] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][356] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][356] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][357] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][234]
+*   Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16): [section 23][239]
     
-    [Real Estate Agents Amendment Act 2013][357] (2013 No 129)
+    Auctioneers Act 2013 (2013 No 148): [section 28(3)][234]
     
-    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][249]
+    [Real Estate Agents Amendment Act 2013][358] (2013 No 129)
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][242]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][250]
     
-    [Real Estate Agents Amendment Act 2012][358] (2012 No 112)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][243]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][320]
+    [Real Estate Agents Amendment Act 2012][359] (2012 No 112)
     
-    [Real Estate Agents Amendment Act 2010][359] (2010 No 82)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][321]
+    
+    [Real Estate Agents Amendment Act 2010][360] (2010 No 82)
 
 
 
@@ -3412,124 +3416,125 @@ Section 5(1)(h): omit ""any real estate agent within the meaning of the Real Est
 [236]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM329630
 [237]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM330360
 [238]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM266245
-[239]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM329955
-[240]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2997643
-[241]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998573
-[242]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998633
-[243]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM204354
-[244]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM204355
-[245]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM387707
-[246]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438588
-[247]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438257
-[248]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4632944
-[249]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5740665
-[250]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438595
-[251]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438599
-[252]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438177
-[253]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96911
-[254]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96942
-[255]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96950
-[256]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM139726
-[257]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM325508
-[258]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991112
-[259]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM314552
-[260]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438187
-[261]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438195
-[262]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624108
-[263]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5149018
-[264]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624110
-[265]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438206
-[266]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624112
-[267]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991113
-[268]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438238
-[269]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM205305
-[270]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438227
-[271]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM126527
-[272]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438248
-[273]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438266
-[274]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438274
-[275]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044005
-[276]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM297439
-[277]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM297441
-[278]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624113
-[279]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366176
-[280]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366177
-[281]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366178
-[282]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366179
-[283]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366180
-[284]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM203883
-[285]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM64784
-[286]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM296638
-[287]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM203884
-[288]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366181
-[289]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM393462
-[290]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366190
-[291]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366192
-[292]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366193
-[293]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366194
-[294]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366195
-[295]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366196
-[296]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366700
-[297]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366730
-[298]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366731
-[299]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366733
-[300]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991114
-[301]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366792
-[302]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366795
-[303]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM328793
-[304]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366793
-[305]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407396
-[306]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407397
-[307]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407398
-[308]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438448
-[309]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438482
-[310]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438486
-[311]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438489
-[312]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438499
-[313]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM396434
-[314]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM177642
-[315]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438521
-[316]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624114
-[317]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438516
-[318]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991115
-[319]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438171
-[320]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3360714
-[321]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438714
-[322]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044006
-[323]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438119
-[324]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438546
-[325]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438566
-[326]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438738
-[327]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367868
-[328]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438554
-[329]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367870
-[330]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367871
-[331]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367872
-[332]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438570
-[333]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438265
-[334]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438537
-[335]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438261
-[336]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438504
-[337]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438614
-[338]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438621
-[339]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438637
-[340]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438625
-[341]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438652
-[342]: http://www.legislation.govt.nz/act/public/2008/0066/latest/whole.html#DLM1152190
-[343]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM385298
-[344]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM264952
-[345]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM446000
-[346]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM129109
-[347]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3359902
-[348]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM58316
-[349]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM373803
-[350]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM282037
-[351]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM310742
-[352]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM398422
-[353]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998516
-[354]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998515
-[355]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998532
-[356]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[357]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624100
-[358]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991105
-[359]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044000
+[239]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5640500
+[240]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM329955
+[241]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2997643
+[242]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998573
+[243]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998633
+[244]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM204354
+[245]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM204355
+[246]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM387707
+[247]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438588
+[248]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438257
+[249]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4632944
+[250]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5740665
+[251]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438595
+[252]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438599
+[253]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438177
+[254]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96911
+[255]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96942
+[256]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM96950
+[257]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM139726
+[258]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM325508
+[259]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991112
+[260]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM314552
+[261]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438187
+[262]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438195
+[263]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624108
+[264]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5149018
+[265]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624110
+[266]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438206
+[267]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624112
+[268]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991113
+[269]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438238
+[270]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM205305
+[271]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438227
+[272]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM126527
+[273]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438248
+[274]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438266
+[275]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438274
+[276]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044005
+[277]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM297439
+[278]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM297441
+[279]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624113
+[280]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366176
+[281]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366177
+[282]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366178
+[283]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366179
+[284]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366180
+[285]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM203883
+[286]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM64784
+[287]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM296638
+[288]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM203884
+[289]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366181
+[290]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM393462
+[291]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366190
+[292]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366192
+[293]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366193
+[294]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366194
+[295]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366195
+[296]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366196
+[297]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366700
+[298]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366730
+[299]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366731
+[300]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366733
+[301]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991114
+[302]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366792
+[303]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366795
+[304]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM328793
+[305]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM366793
+[306]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407396
+[307]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407397
+[308]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM407398
+[309]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438448
+[310]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438482
+[311]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438486
+[312]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438489
+[313]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438499
+[314]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM396434
+[315]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM177642
+[316]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438521
+[317]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624114
+[318]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438516
+[319]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991115
+[320]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438171
+[321]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3360714
+[322]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438714
+[323]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044006
+[324]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438119
+[325]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438546
+[326]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438566
+[327]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438738
+[328]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367868
+[329]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438554
+[330]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367870
+[331]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367871
+[332]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM367872
+[333]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438570
+[334]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438265
+[335]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438537
+[336]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438261
+[337]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438504
+[338]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438614
+[339]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438621
+[340]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438637
+[341]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438625
+[342]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM438652
+[343]: http://www.legislation.govt.nz/act/public/2008/0066/latest/whole.html#DLM1152190
+[344]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM385298
+[345]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM264952
+[346]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM446000
+[347]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM129109
+[348]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3359902
+[349]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM58316
+[350]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM373803
+[351]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM282037
+[352]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM310742
+[353]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM398422
+[354]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998516
+[355]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998515
+[356]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM2998532
+[357]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[358]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM5624100
+[359]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM4991105
+[360]: http://www.legislation.govt.nz/act/public/2008/0066/latest/link.aspx?id=DLM3044000
