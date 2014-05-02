@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2011
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -25,49 +25,49 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Contractual capacity of minors][5]
 
-[4][6] [Married minors][6] \[Repealed\]
+[4][6][][6][Married minors][6] \[Repealed\]
 
-[5][7] [Certain contracts concerning life insurance, and contracts of service][7]
+[5][7][][7][Certain contracts concerning life insurance, and contracts of service][7]
 
-[6][8] [Contracts of minors][8]
+[6][8][][8][Contracts of minors][8]
 
-[7][9] [Compensation or restitution][9]
+[7][9][][9][Compensation or restitution][9]
 
-[8][10] [Applications under section 5 or section 6][10]
+[8][10][][10][Applications under section 5 or section 6][10]
 
-[9][11] [Minor may enter into contract with approval of District Court][11]
+[9][11][][11][Minor may enter into contract with approval of District Court][11]
 
 [Miscellaneous provisions][12]
 
-[10][13] [Guarantees and indemnities][13]
+[10][13][][13][Guarantees and indemnities][13]
 
-[11][14] [Contracts to marry][14] \[Repealed\]
+[11][14][][14][Contracts to marry][14] \[Repealed\]
 
-[12][15] [Settlement of claims by minors][15]
+[12][15][][15][Settlement of claims by minors][15]
 
-[13][16] [Variation of certain orders made under section 12][16]
+[13][16][][16][Variation of certain orders made under section 12][16]
 
-[14][17] [Jurisdiction of District Courts][17]
+[14][17][][17][Jurisdiction of District Courts][17]
 
-[14A][18] [Jurisdiction of Disputes Tribunals][18]
+[14A][18][][18][Jurisdiction of Disputes Tribunals][18]
 
-[15][19] [Act to be a code][19]
+[15][19][][19][Act to be a code][19]
 
-[16][20] [Agreements relating to trusts][20]
+[16][20][][20][Agreements relating to trusts][20]
 
-[17][21] [Insurances by minors and dealings by minors with policies][21] \[Repealed\]
+[17][21][][21][Insurances by minors and dealings by minors with policies][21] \[Repealed\]
 
-[18][22] [Consequential amendments][22]
+[18][22][][22][Consequential amendments][22]
 
-[19][23] [Repeals and revocation][23]
+[19][23][][23][Repeals and revocation][23]
 
 [Schedule 1][24]  
 [Enactments amended][24]
@@ -139,13 +139,13 @@ An Act to restate and reform the law relating to minors' contracts
     
     (4) Nothing in subsection (2) shall apply to---
         
-    *   (a) any contract of apprenticeship to which the [Industry Training Act 1992][30] applies; or
+    *   (a) \[Repealed\]
     
     *   (b) any indenture of apprenticeship to which section 29 of the Shipping and Seamen Act 1952 applies; or
     
-    *   (c) any indenture of apprenticeship entered into under [section 95][31] of the Defence Act 1990, section 222A of the Post Office Act 1959, section 83B of the Government Railways Act 1949, section 175B of the Coal Mines Act 1925, or section 70 of the State Services Act 1962; or
+    *   (c) any indenture of apprenticeship entered into under [section 95][30] of the Defence Act 1990, section 222A of the Post Office Act 1959, section 83B of the Government Railways Act 1949, section 175B of the Coal Mines Act 1925, or section 70 of the State Services Act 1962; or
     
-    *   (d) any agreement entered into under [section 4A][32] of the Maori Housing Amendment Act 1938\.
+    *   (d) any agreement entered into under [section 4A][31] of the Maori Housing Amendment Act 1938\.
     
     (5) Nothing in this section shall apply to---
         
@@ -153,19 +153,19 @@ An Act to restate and reform the law relating to minors' contracts
     
     *   (b) the compromise or settlement of any claim for money or damages made by or on behalf of any minor (whether alone or in conjunction with any other person).
     
-    Section 5 heading: substituted, on 26 April 2005, by [section 5(1)][33] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 5 heading: substituted, on 26 April 2005, by [section 5(1)][32] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 5(1)(a): repealed, on 26 April 2005, by [section 5(2)][33] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 5(1)(a): repealed, on 26 April 2005, by [section 5(2)][32] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 5(1)(b): substituted, on 1 April 1986, by [section 10][34] of the Insurance Law Reform Act 1985 (1985 No 117).
+    Section 5(1)(b): substituted, on 1 April 1986, by [section 10][33] of the Insurance Law Reform Act 1985 (1985 No 117).
     
-    Section 5(4)(a): amended, on 1 July 1992, pursuant to [section 14(1)][35] of the Industry Training Act 1992 (1992 No 55).
+    Section 5(4)(a): repealed, on 23 April 2014, by [section 23][34] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
     
-    Section 5(4)(c): amended, on 1 April 1990, pursuant to [section 105(2)][36] of the Defence Act 1990 (1990 No 28).
+    Section 5(4)(c): amended, on 1 April 1990, pursuant to [section 105(2)][35] of the Defence Act 1990 (1990 No 28).
     
     Section 5(4)(c): amended (with effect on 1 January 1970), on 8 November 1974, by section 2 of the Minors' Contracts Amendment Act 1974 (1974 No 107).
     
-    Section 5(5)(a): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 5(5)(a): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 6 Contracts of minors
     
@@ -213,15 +213,15 @@ An Act to restate and reform the law relating to minors' contracts
     
     *   (b) the compromise or settlement of any claim for money or damages made by or on behalf of any minor (whether alone or in conjunction with any other person).
     
-    (5) Nothing in this section shall limit or affect [section 20][38] of the Trustee Act 1956\.
+    (5) Nothing in this section shall limit or affect [section 20][37] of the Trustee Act 1956\.
     
-    Section 6 heading: substituted, on 26 April 2005, by [section 6(1)][39] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 6 heading: substituted, on 26 April 2005, by [section 6(1)][38] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 6(1): substituted, on 26 April 2005, by [section 6(2)][39] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 6(1): substituted, on 26 April 2005, by [section 6(2)][38] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
     Section 6(2): substituted, on 8 December 1971, by section 2 of the Minors' Contracts Amendment Act 1971 (1971 No 111).
     
-    Section 6(4)(a): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 6(4)(a): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 7 Compensation or restitution
     
@@ -261,27 +261,27 @@ An Act to restate and reform the law relating to minors' contracts
     
     (4) Any person to whom any such application is referred under subsection (3) may file a report in the District Court setting out the results of his consideration and examination of the application and making in respect thereof such recommendations as he thinks proper, and may appear and be heard at the hearing of the application; but no such person shall be under any obligation to consider or examine any such application until his reasonable costs and expenses have been paid or secured to his satisfaction.
     
-    (5) A District Court shall not approve a contract under this section where the contract relates to property held on trust and the court is of the opinion that it is a case in which it would be more appropriate for an application to be made under [section 64][40] or [section 64A][41] of the Trustee Act 1956\.
+    (5) A District Court shall not approve a contract under this section where the contract relates to property held on trust and the court is of the opinion that it is a case in which it would be more appropriate for an application to be made under [section 64][39] or [section 64A][40] of the Trustee Act 1956\.
     
-    Compare: 1908 No 86 s 12A; 1951 No 81 [s 14][42]
+    Compare: 1908 No 86 s 12A; 1951 No 81 [s 14][41]
     
-    Section 9 heading: amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9 heading: amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(1): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(1): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(2): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(2): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(2)(b): amended, on 1 July 2005, by [section 151][43] of the Care of Children Act 2004 (2004 No 90).
+    Section 9(2)(b): amended, on 1 July 2005, by [section 151][42] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 9(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][44] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 9(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][43] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 9(3): amended, on 1 March 2002, by [section 170(1)][45] of the Public Trust Act 2001 (2001 No 100).
+    Section 9(3): amended, on 1 March 2002, by [section 170(1)][44] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 9(4): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(4): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 5(5): added, on 27 November 1970, by section 2(1) of the Minor's Contract Amendment Act 1970 (1970 No 88).
     
-    Section 9(5): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(5): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Miscellaneous provisions
 
@@ -293,7 +293,7 @@ An Act to restate and reform the law relating to minors' contracts
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 3 October 1975, by [section 6(6)][46] of the Domestic Actions Act 1975 (1975 No 53).
+    Section 11: repealed, on 3 October 1975, by [section 6(6)][45] of the Domestic Actions Act 1975 (1975 No 53).
 
 ##### 12 Settlement of claims by minors
     
@@ -333,45 +333,45 @@ An Act to restate and reform the law relating to minors' contracts
         
     *   (a) the Deaths by Accidents Compensation Act 1952; or
     
-    *   (b) [section 50][47] of the District Courts Act 1947; or
+    *   (b) [section 50][46] of the District Courts Act 1947; or
     
-    *   (c) the [Accident Compensation Act 2001][48]; or
+    *   (c) the [Accident Compensation Act 2001][47]; or
     
-    *   (d) [section 149(3A)][49] of the Employment Relations Act 2000\.
+    *   (d) [section 149(3A)][48] of the Employment Relations Act 2000\.
     
-    Compare: 1945 No 40 [s 35][50]; 1957 No 36 s 66
+    Compare: 1945 No 40 [s 35][49]; 1957 No 36 s 66
     
     Section 12(1)(a): substituted, on 27 November 1970, by section 3(1) of the Minors' Contracts Amendment Act 1970 (1970 No 88).
     
     Section 12(1)(b): amended, on 27 November 1970, by section 3(2) of the Minors' Contracts Amendment Act 1970 (1970 No 88).
     
-    Section 12(4): amended, on 1 March 2002, by [section 170(1)][45] of the Public Trust Act 2001 (2001 No 100).
+    Section 12(4): amended, on 1 March 2002, by [section 170(1)][44] of the Public Trust Act 2001 (2001 No 100).
     
     Section 12(4): amended (with effect on 1 January 1970), on 27 November 1970, by section 3(3) of the Minors' Contracts Amendment Act 1970 (1970 No 88).
     
-    Section 12(5): amended, on 26 April 2005, by [section 7(1)][51] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 12(5): amended, on 26 April 2005, by [section 7(1)][50] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 12(5): amended, on 26 April 2005, by [section 7(2)][51] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 12(5): amended, on 26 April 2005, by [section 7(2)][50] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 12(6): repealed, on 1 March 2002, by [section 170(1)][45] of the Public Trust Act 2001 (2001 No 100).
+    Section 12(6): repealed, on 1 March 2002, by [section 170(1)][44] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 12(7): amended, on 1 March 1989, by [section 80][52] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 12(7): amended, on 1 March 1989, by [section 80][51] of the Disputes Tribunals Act 1988 (1988 No 110).
     
     Section 12(7): amended, on 1 November 1976, by section 45 of the Small Claims Tribunals Act 1976 (1976 No 35).
     
-    Section 12(8)(b): amended, on 1 April 1980, pursuant to [section 2(3)][53] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(8)(b): amended, on 1 April 1980, pursuant to [section 2(3)][52] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(8)(c): substituted, on 1 April 2002, by [section 337(1)][54] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 12(8)(c): substituted, on 1 April 2002, by [section 337(1)][53] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 12(8)(c): amended, on 1 April 2011, by [section 40][55] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 12(8)(c): amended, on 1 April 2011, by [section 40][54] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 12(8)(c): amended, on 3 March 2010, pursuant to [section 5(1)(b)][56] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 12(8)(c): amended, on 3 March 2010, pursuant to [section 5(1)(b)][55] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 12(8)(d): added, on 1 April 2011, by [section 40][55] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 12(8)(d): added, on 1 April 2011, by [section 40][54] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 13 Variation of certain orders made under section 12
     
-*   (1) The court may at any time vary any order made by it under [section 12][15] of this Act or under [section 35][50] of the Statutes Amendment Act 1945 or in respect of a minor under section 66 of the Public Trust Office Act 1957 or [Part 9A][57] of the Protection of Personal and Property Rights Act 1988, whether or not the order has been varied under this section, in so far as the order relates to the payment, investment, or application of money held on trust or the income therefrom.
+*   (1) The court may at any time vary any order made by it under [section 12][15] of this Act or under [section 35][49] of the Statutes Amendment Act 1945 or in respect of a minor under section 66 of the Public Trust Office Act 1957 or [Part 9A][56] of the Protection of Personal and Property Rights Act 1988, whether or not the order has been varied under this section, in so far as the order relates to the payment, investment, or application of money held on trust or the income therefrom.
     
     (2) Any order under this section may be made by the court of its own motion or on an application made by:
         
@@ -381,7 +381,7 @@ An Act to restate and reform the law relating to minors' contracts
     
     *   (c) any other person who adduces proof of circumstances which in the opinion of the court make it proper that he should make the application.
     
-    Section 13(1): amended, on 1 March 2002, by [section 170(1)][45] of the Public Trust Act 2001 (2001 No 100).
+    Section 13(1): amended, on 1 March 2002, by [section 170(1)][44] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 14 Jurisdiction of District Courts
     
@@ -391,27 +391,27 @@ An Act to restate and reform the law relating to minors' contracts
     
     *   (b) the value of the consideration for the promise or act of any minor under the contract is not more than $200,000; or
     
-    *   (c) the parties agree, in accordance with [section 37][58] of the District Courts Act 1947, that a District Court shall have jurisdiction to hear and determine the application.
+    *   (c) the parties agree, in accordance with [section 37][57] of the District Courts Act 1947, that a District Court shall have jurisdiction to hear and determine the application.
     
-    (2) For the purposes of [section 43][59] of the District Courts Act 1947, an application made to a District Court pursuant to subsection (2) of [section 5][7] or subsection (2) of [section 6][8] shall be deemed to be an action.
+    (2) For the purposes of [section 43][58] of the District Courts Act 1947, an application made to a District Court pursuant to subsection (2) of [section 5][7] or subsection (2) of [section 6][8] shall be deemed to be an action.
     
-    Section 14 heading: amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14 heading: amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(1): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(1): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(1)(b): amended, on 1 July 1992, by [section 19(1)][60] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 14(1)(b): amended, on 1 July 1992, by [section 19(1)][59] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 14(1)(c): amended, on 1 April 1980, pursuant to [section 2(3)][53] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(1)(c): amended, on 1 April 1980, pursuant to [section 2(3)][52] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(1)(c): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(1)(c): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(2): amended, on 1 April 1980, pursuant to [section 2(3)][53] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(2): amended, on 1 April 1980, pursuant to [section 2(3)][52] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(2): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(2): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 14A Jurisdiction of Disputes Tribunals
     
-*   (1) A Disputes Tribunal established under the [Disputes Tribunals Act 1988][61] shall have jurisdiction to exercise the powers conferred by any of the provisions of [sections 5 to 7][7] in any case where---
+*   (1) A Disputes Tribunal established under the [Disputes Tribunals Act 1988][60] shall have jurisdiction to exercise the powers conferred by any of the provisions of [sections 5 to 7][7] in any case where---
         
     *   (a) the occasion for the exercise of the power arises in the course of proceedings properly before that Tribunal; and
     
@@ -429,19 +429,19 @@ An Act to restate and reform the law relating to minors' contracts
     
     and an order of a Tribunal that exceeds any such restriction shall be entirely of no effect.
     
-    (3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][62] of the Disputes Tribunals Act 1988, subsections (1) and (2) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000\.
+    (3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][61] of the Disputes Tribunals Act 1988, subsections (1) and (2) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000\.
     
-    Section 14A: substituted, on 1 March 1989, by [section 81][63] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 14A: substituted, on 1 March 1989, by [section 81][62] of the Disputes Tribunals Act 1988 (1988 No 110).
     
-    Section 14A(1)(b): amended, on 1 August 2009, by [section 8][64] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14A(1)(b): amended, on 1 August 2009, by [section 8][63] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 14A(2)(a): amended, on 1 August 2009, by [section 8][64] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14A(2)(a): amended, on 1 August 2009, by [section 8][63] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 14A(2)(b): amended, on 1 August 2009, by [section 8][64] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14A(2)(b): amended, on 1 August 2009, by [section 8][63] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 14A(2)(c): amended, on 1 August 2009, by [section 8][64] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14A(2)(c): amended, on 1 August 2009, by [section 8][63] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 14A(3): amended, on 1 August 2009, by [section 8][64] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14A(3): amended, on 1 August 2009, by [section 8][63] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 15 Act to be a code
     
@@ -471,17 +471,17 @@ An Act to restate and reform the law relating to minors' contracts
     
     Section 16: substituted, on 8 November 1974, by section 3(1) of the Minors' Contracts Amendment Act 1974 (1974 No 107).
     
-    Section 16(2): amended, on 26 April 2005, by [section 8][65] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
+    Section 16(2): amended, on 26 April 2005, by [section 8][64] of the Minors' Contracts Amendment Act 2005 (2005 No 16).
     
-    Section 16(2): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 16(2): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 14(3): amended, on 1 April 1980, pursuant to [section 18(2)][37] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 14(3): amended, on 1 April 1980, pursuant to [section 18(2)][36] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 17 Insurances by minors and dealings by minors with policies
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 April 1986, by [section 11(e)][66] of the Insurance Law Reform Act 1985 (1985 No 117).
+    Section 17: repealed, on 1 April 1986, by [section 11(e)][65] of the Insurance Law Reform Act 1985 (1985 No 117).
 
 ##### 18 Consequential amendments
     
@@ -502,7 +502,7 @@ Enactments amended
 
 ##### Magistrates' Courts Act 1947 (1947 No 16) (1957 Reprint, Vol 8, p 647)
 
-_Amendment(s) incorporated in the [Act(s)][47]._
+_Amendment(s) incorporated in the [Act(s)][46]._
 
 ##### Property Law Act 1952 (1952 No 51) (1957 Reprint, Vol 12, p 136)
 
@@ -514,7 +514,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Sale of Goods Act 1908 (1908 No 168) (1957 Reprint, Vol 13, p 615)
 
-_Amendment(s) incorporated in the [Act(s)][67]._
+_Amendment(s) incorporated in the [Act(s)][66]._
 
 ---
 
@@ -525,7 +525,7 @@ Enactments repealed
 
 ##### Finance Act (No 2) 1948 (1948 No 78) (1957 Reprint, Vol 13, pp 248, 266)
 
-_Amendment(s) incorporated in the [Act(s)][68]._
+_Amendment(s) incorporated in the [Act(s)][67]._
 
 ##### Infants Act 1908 (1908 No 86) (1957 Reprint, Vol 6, pp 587, 595)
 
@@ -533,106 +533,63 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (1957 Reprint, Vol 6, pp 597, 614)
 
-_Amendment(s) incorporated in the [Act(s)][50]._
+_Amendment(s) incorporated in the [Act(s)][49]._
 
 ##### Statutes Amendment Act 1951 (1951 No 81) (1957 Reprint, Vol 6, pp 596, 615)
 
-_Amendment(s) incorporated in the [Act(s)][42]._
+_Amendment(s) incorporated in the [Act(s)][41]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Minors' Contracts Act 1969\. The reprint incorporates all the amendments to the Act as at 1 April 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][69] ![](/images/external_link.gif).
+*   This is a reprint of the Minors' Contracts Act 1969 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][70] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][68] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][69] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][71] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][70] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][71] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][72] and [17E][73] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16): [section 23][34]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Employment Relations Amendment Act 2010 (2010 No 125): [section 40][54]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][55]
     
+    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][63]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][43]
     
-*   Employment Relations Amendment Act 2010 (2010 No 125): [section 40][55]
+    [Minors' Contracts Amendment Act 2005 (2005 No 16)][72]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][56]
+    Care of Children Act 2004 (2004 No 90): [section 151][42]
     
-    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][64]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][44]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][44]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][53]
     
-    [Minors' Contracts Amendment Act 2005 (2005 No 16)][74]
+    District Courts Amendment Act 1991 (1991 No 61): [section 19(1)][59]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][43]
-    
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][45]
-    
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][54]
-    
-    Industry Training Act 1992 (1992 No 55): [section 14(1)][35]
-    
-    District Courts Amendment Act 1991 (1991 No 61): [section 19(1)][60]
-    
-    Defence Act 1990 (1990 No 28): [section 105(2)][36]
+    Defence Act 1990 (1990 No 28): [section 105(2)][35]
     
     Disputes Tribunals Act 1988 (1988 No 110): [sections 79--81][26]
     
-    Insurance Law Reform Act 1985 (1985 No 117): [sections 10][34], [11(e)][66]
+    Insurance Law Reform Act 1985 (1985 No 117): [sections 10][33], [11(e)][65]
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][53], [18(2)][37]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][52], [18(2)][36]
     
     Small Claims Tribunals Act 1976 (1976 No 35): section 45
     
-    Domestic Actions Act 1975 (1975 No 53): [section 6(6)][46]
+    Domestic Actions Act 1975 (1975 No 53): [section 6(6)][45]
     
     Minors' Contracts Amendment Act 1974 (1974 No 107)
     
@@ -642,7 +599,7 @@ _Amendment(s) incorporated in the [Act(s)][42]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1969/0041/latest/whole.html#DLM392353
 [2]: http://www.legislation.govt.nz/act/public/1969/0041/latest/whole.html#DLM392355
 [3]: http://www.legislation.govt.nz/act/public/1969/0041/latest/whole.html#DLM392356
@@ -672,48 +629,46 @@ _Amendment(s) incorporated in the [Act(s)][42]._
 [27]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336325
 [28]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336328
 [29]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM170346
-[30]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM266245
-[31]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM206922
-[32]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM224632
-[33]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336329
-[34]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM76606
-[35]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM266684
-[36]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM206946
-[37]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM35085
-[38]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305222
-[39]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336330
-[40]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305547
-[41]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305550
-[42]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM265565
-[43]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM317988
-[44]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM1583888
-[45]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM124529
-[46]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM434483
-[47]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243699
-[48]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM99493
-[49]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM60919
-[50]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM239144
-[51]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336331
-[52]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM134165
-[53]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM35057
-[54]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM104117
-[55]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM3172577
-[56]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2773701
-[57]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM127574
-[58]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243648
-[59]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243668
-[60]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM230257
-[61]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM133281
-[62]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM133648
-[63]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM134166
-[64]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM1919616
-[65]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336332
-[66]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM76607
-[67]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM174605
-[68]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM255623
-[69]: http://www.pco.parliament.govt.nz/reprints/
-[70]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM195439
+[30]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM206922
+[31]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM224632
+[32]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336329
+[33]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM76606
+[34]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM5640500
+[35]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM206946
+[36]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM35085
+[37]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305222
+[38]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336330
+[39]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305547
+[40]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM305550
+[41]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM265565
+[42]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM317988
+[43]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM1583888
+[44]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM124529
+[45]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM434483
+[46]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243699
+[47]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM99493
+[48]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM60919
+[49]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM239144
+[50]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336331
+[51]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM134165
+[52]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM35057
+[53]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM104117
+[54]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM3172577
+[55]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2773701
+[56]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM127574
+[57]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243648
+[58]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM243668
+[59]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM230257
+[60]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM133281
+[61]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM133648
+[62]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM134166
+[63]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM1919616
+[64]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336332
+[65]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM76607
+[66]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM174605
+[67]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM255623
+[68]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2998516
+[69]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2998515
+[70]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM2998532
 [71]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[72]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM195468
-[73]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM195470
-[74]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336319
+[72]: http://www.legislation.govt.nz/act/public/1969/0041/latest/link.aspx?id=DLM336319
