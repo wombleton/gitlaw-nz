@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -2176,7 +2176,7 @@ Rights to primary and secondary education
     
     _hostel_ means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
     
-    _industry training organisation_ has the same meaning as in [section 2][1008] of the Industry Training Act 1992
+    _industry training organisation_ has the same meaning as in [section 2][1008] of the Industry Training and Apprenticeships Act 1992
     
     _institution_ has the same meaning as it has in [section 159][470]
     
@@ -2246,7 +2246,7 @@ Rights to primary and secondary education
     
     _student_, in relation to a school or institution, means a person enrolled at the school or institution
     
-    _tertiary component_, in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in [section 5][1009] of the Modern Apprenticeship Training Act 2000), or participation in tertiary education that---
+    _tertiary component_, in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in [section 13C][1009] of the Industry Training and Apprenticeships Act 1992), or participation in tertiary education that---
         
     *   (a) is provided by any 1 or more of the following:
             
@@ -2322,6 +2322,8 @@ Rights to primary and secondary education
     
     Section 2(1) **industry training organisation**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
+    Section 2(1) **industry training organisation**: amended, on 23 April 2014, by [section 23][1019] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
+    
     Section 2(1) **institution**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
     Section 2(1) **intermediate school**: inserted, on 1 January 1990, by [section 15(1)][1012] of the Education Amendment Act 1989 (1989 No 156).
@@ -2332,29 +2334,29 @@ Rights to primary and secondary education
     
     Section 2(1) **managers of a private school**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 2(1) **Minister**: replaced, on 1 January 1992, by [section 2(1)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 2(1) **Minister**: replaced, on 1 January 1992, by [section 2(1)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 2(1) **Ministry**: replaced, on 1 January 1992, by [section 2(1)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 2(1) **Ministry**: replaced, on 1 January 1992, by [section 2(1)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 2(1) **overcrowding**: inserted, on 20 June 1991, by [section 6(1)][1020] of the Education Amendment Act 1991 (1991 No 43).
+    Section 2(1) **overcrowding**: inserted, on 20 June 1991, by [section 6(1)][1021] of the Education Amendment Act 1991 (1991 No 43).
     
     Section 2(1) **participating student**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 2(1) **partnership school contract**: inserted, on 13 June 2013, by [section 4(1)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **partnership school contract**: inserted, on 13 June 2013, by [section 4(1)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 2(1) **partnership school kura hourua**: inserted, on 13 June 2013, by [section 4(1)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **partnership school kura hourua**: inserted, on 13 June 2013, by [section 4(1)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 2(1) **primary partnership school kura hourua**: inserted, on 13 June 2013, by [section 4(1)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **primary partnership school kura hourua**: inserted, on 13 June 2013, by [section 4(1)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
     Section 2(1) **primary school**: replaced, on 1 January 1990, by [section 15(1)][1012] of the Education Amendment Act 1989 (1989 No 156).
     
-    Section 2(1) **principal**: replaced, on 13 June 2013, by [section 4(2)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **principal**: replaced, on 13 June 2013, by [section 4(2)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
     Section 2(1) **provider group**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
     Section 2(1) **registered establishment**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 2(1) **registered school**: replaced, on 13 June 2013, by [section 4(3)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **registered school**: replaced, on 13 June 2013, by [section 4(3)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
     Section 2(1) **review officer**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
@@ -2366,39 +2368,41 @@ Rights to primary and secondary education
     
     Section 2(1) **serious criminal activity**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 2(1) **sponsor**: inserted, on 13 June 2013, by [section 4(1)][1021] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **sponsor**: inserted, on 13 June 2013, by [section 4(1)][1022] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 2(1) **State school**: amended, on 20 May 2010, by [section 4(1)][1022] of the Education Amendment Act 2010 (2010 No 25).
+    Section 2(1) **State school**: amended, on 20 May 2010, by [section 4(1)][1023] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 2(1) **tertiary component**: inserted, on 21 December 2010, by [section 4][1013] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 2(2): replaced, on 20 May 2010, by [section 4(2)][1022] of the Education Amendment Act 2010 (2010 No 25).
+    Section 2(1) **tertiary component**: amended, on 23 April 2014, by [section 23][1019] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
+    
+    Section 2(2): replaced, on 20 May 2010, by [section 4(2)][1023] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 2(3): repealed, on 30 August 2011, by [section 4(4)][1011] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 2(4): inserted, on 1 January 2003, by [section 4(2)][1023] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 2(4): inserted, on 1 January 2003, by [section 4(2)][1024] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
     Section 2(4): amended, at 2 am on 29 November 2010, by [section 406(1)][1015] of the Immigration Act 2009 (2009 No 51).
     
-    Section 2(5): inserted, on 1 January 2003, by [section 4(2)][1023] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 2(5): inserted, on 1 January 2003, by [section 4(2)][1024] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 2(6): inserted, on 1 January 2003, by [section 4(2)][1023] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 2(6): inserted, on 1 January 2003, by [section 4(2)][1024] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 3 Right to free primary and secondary education
     
-*   Except as provided in this Act or the [Private Schools Conditional Integration Act 1975][1024], every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
+*   Except as provided in this Act or the [Private Schools Conditional Integration Act 1975][1025], every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
     
-    Compare: 1964 No 135 [ss 75(2)][1025], [85(1)][1026]
+    Compare: 1964 No 135 [ss 75(2)][1026], [85(1)][1027]
     
-    Section 3: amended, on 13 June 2013, by [section 5][1027] of the Education Amendment Act 2013 (2013 No 34).
+    Section 3: amended, on 13 June 2013, by [section 5][1028] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 3: amended, on 30 August 2011, by [section 5][1028] of the Education Amendment Act 2011 (2011 No 66).
+    Section 3: amended, on 30 August 2011, by [section 5][1029] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 3A Restriction on attendance at certain schools
     
 *   \[Repealed\]
     
-    Section 3A: repealed, on 25 October 2001, by [section 4][1029] of the Education Standards Act 2001 (2001 No 88).
+    Section 3A: repealed, on 25 October 2001, by [section 4][1030] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 4 Enrolment of international students
     
@@ -2436,27 +2440,27 @@ Rights to primary and secondary education
     
     but in that case the student shall not be counted for the purpose of calculating or ascertaining the school's entitlement to teachers or funding.
     
-    Section 4: replaced, on 1 January 1992, by [section 3(1)][1030] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 4: replaced, on 1 January 1992, by [section 3(1)][1031] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 4 heading: amended, on 30 August 2011, by [section 6(1)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4 heading: amended, on 30 August 2011, by [section 6(1)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(1): amended, on 30 August 2011, by [section 6(2)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(1): amended, on 30 August 2011, by [section 6(2)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(1)(b): amended, on 20 May 2010, by [section 5][1032] of the Education Amendment Act 2010 (2010 No 25).
+    Section 4(1)(b): amended, on 20 May 2010, by [section 5][1033] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 4(2): amended, on 30 August 2011, by [section 6(2)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(2): amended, on 30 August 2011, by [section 6(2)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(3): replaced, on 30 August 2011, by [section 6(3)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(3): replaced, on 30 August 2011, by [section 6(3)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(4): replaced, on 30 August 2011, by [section 6(3)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(4): replaced, on 30 August 2011, by [section 6(3)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(5): replaced, on 30 August 2011, by [section 6(3)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(5): replaced, on 30 August 2011, by [section 6(3)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(6): repealed, on 30 August 2011, by [section 6(3)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(6): repealed, on 30 August 2011, by [section 6(3)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(7): amended, on 30 August 2011, by [section 6(2)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(7): amended, on 30 August 2011, by [section 6(2)][1032] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4(8): amended, on 30 August 2011, by [section 6(2)][1031] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4(8): amended, on 30 August 2011, by [section 6(2)][1032] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 4A Certain international students may enrol at State schools as of right
     
@@ -2472,13 +2476,13 @@ Rights to primary and secondary education
     
     an international student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student.
     
-    Section 4A: replaced, on 1 January 1992, by [section 3(1)][1030] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 4A: replaced, on 1 January 1992, by [section 3(1)][1031] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 4A heading: amended, on 30 August 2011, by [section 7(1)][1033] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4A heading: amended, on 30 August 2011, by [section 7(1)][1034] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4A(1): amended, on 30 August 2011, by [section 7(2)][1033] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4A(1): amended, on 30 August 2011, by [section 7(2)][1034] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4A(3): amended, on 30 August 2011, by [section 7(3)][1033] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4A(3): amended, on 30 August 2011, by [section 7(3)][1034] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 4B Fees for international students
     
@@ -2528,29 +2532,29 @@ Rights to primary and secondary education
     
     *   (d) all other fees (if any) prescribed by the board.
     
-    Section 4B: inserted, on 1 January 1992, by [section 3(1)][1030] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 4B: inserted, on 1 January 1992, by [section 3(1)][1031] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 4B heading: amended, on 30 August 2011, by [section 8(1)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B heading: amended, on 30 August 2011, by [section 8(1)][1035] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4B(1): amended, on 30 August 2011, by [section 8(2)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B(1): amended, on 30 August 2011, by [section 8(2)][1035] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4B(2): amended, on 30 August 2011, by [section 8(2)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B(2): amended, on 30 August 2011, by [section 8(2)][1035] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4B(3): amended, on 30 August 2011, by [section 8(3)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B(3): amended, on 30 August 2011, by [section 8(3)][1035] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4B(4): amended, on 30 August 2011, by [section 8(3)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B(4): amended, on 30 August 2011, by [section 8(3)][1035] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4B(7): amended, on 30 August 2011, by [section 8(3)][1034] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4B(7): amended, on 30 August 2011, by [section 8(3)][1035] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 4C Minister may exempt certain international students from payment of fees
     
 *   The Minister may, by notice in the _Gazette_, exempt international students of a particular kind or description from the payment of all or a specified proportion or amount of the amount required by [section 4B][9] to be paid; and that section shall have effect accordingly.
     
-    Section 4C: inserted, on 1 January 1992, by [section 3(1)][1030] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 4C: inserted, on 1 January 1992, by [section 3(1)][1031] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 4C heading: amended, on 30 August 2011, by [section 9(1)][1035] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4C heading: amended, on 30 August 2011, by [section 9(1)][1036] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4C: amended, on 30 August 2011, by [section 9(2)][1035] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4C: amended, on 30 August 2011, by [section 9(2)][1036] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 4D Boards to reimburse the Crown for expenditure in respect of international students
     
@@ -2572,21 +2576,21 @@ Rights to primary and secondary education
     
     (4) If before 1 July in any year the Minister has not set under subsection (1) fees to be paid by boards in respect of international students enrolled at State schools in the following year, there shall be deemed to have been set under that subsection the fees set (or deemed to have been set) in the year before.
     
-    Section 4D: inserted, on 1 January 1992, by [section 3(1)][1030] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 4D: inserted, on 1 January 1992, by [section 3(1)][1031] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 4D heading: amended, on 30 August 2011, by [section 10(1)][1036] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4D heading: amended, on 30 August 2011, by [section 10(1)][1037] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4D(1): amended, on 30 August 2011, by [section 10(2)][1036] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4D(1): amended, on 30 August 2011, by [section 10(2)][1037] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4D(2)(b): amended, on 30 August 2011, by [section 10(2)][1036] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4D(2)(b): amended, on 30 August 2011, by [section 10(2)][1037] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4D(3): amended, on 30 August 2011, by [section 10(3)][1036] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4D(3): amended, on 30 August 2011, by [section 10(3)][1037] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4D(3A): inserted, on 17 May 2006, by [section 4][1037] of the Education Amendment Act 2006 (2006 No 19).
+    Section 4D(3A): inserted, on 17 May 2006, by [section 4][1038] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 4D(3B): inserted, on 17 May 2006, by [section 4][1037] of the Education Amendment Act 2006 (2006 No 19).
+    Section 4D(3B): inserted, on 17 May 2006, by [section 4][1038] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 4D(4): amended, on 30 August 2011, by [section 10(2)][1036] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4D(4): amended, on 30 August 2011, by [section 10(2)][1037] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 4E Courses for international students
     
@@ -2598,11 +2602,11 @@ Rights to primary and secondary education
     
     *   (b) the standard of instruction provided in it will be no lower than the standard that would be expected in any similar class, course, or programme for domestic students.
     
-    Section 4E: inserted, on 21 December 2010, by [section 5][1038] of the Education Amendment Act (No 3) 2010 (2010 No 134).
+    Section 4E: inserted, on 21 December 2010, by [section 5][1039] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 4E heading: amended, on 30 August 2011, by [section 11(1)][1039] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4E heading: amended, on 30 August 2011, by [section 11(1)][1040] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 4E(1): amended, on 30 August 2011, by [section 11(2)][1039] of the Education Amendment Act 2011 (2011 No 66).
+    Section 4E(1): amended, on 30 August 2011, by [section 11(2)][1040] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 5 Restrictions on enrolment at primary school
     
@@ -2618,15 +2622,15 @@ Rights to primary and secondary education
     
     shall in any year be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school.
     
-    (4) Notwithstanding subsection (1), at any time before 1 January 1993, this Act shall apply to children attending pre-school classes at any school specified in [section 3(2)][1040] of the Education Amendment Act 1990 as if they are enrolled at the school; but on that day, all those classes shall be deemed to have been disestablished.
+    (4) Notwithstanding subsection (1), at any time before 1 January 1993, this Act shall apply to children attending pre-school classes at any school specified in [section 3(2)][1041] of the Education Amendment Act 1990 as if they are enrolled at the school; but on that day, all those classes shall be deemed to have been disestablished.
     
     (5) Nothing in subsection (4) limits or affects [section 308(4)][896].
     
-    Compare: 1964 No 135 [s 109(1)][1041]
+    Compare: 1964 No 135 [s 109(1)][1042]
     
-    Section 5(4): inserted, on 23 July 1990, by [section 3(1)][1040] of the Education Amendment Act 1990 (1990 No 60).
+    Section 5(4): inserted, on 23 July 1990, by [section 3(1)][1041] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 5(5): inserted, on 23 July 1990, by [section 3(1)][1040] of the Education Amendment Act 1990 (1990 No 60).
+    Section 5(5): inserted, on 23 July 1990, by [section 3(1)][1041] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 6 Restrictions on enrolment at secondary school
     
@@ -2638,7 +2642,7 @@ Rights to primary and secondary education
     
     shall in any year be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school, unless the person turned 13 before 1 April in the previous year.
     
-    Compare: 1964 No 135 [s 85(1)][1026]
+    Compare: 1964 No 135 [s 85(1)][1027]
 
 ##### 7 Additional restrictions on enrolment at correspondence school
     
@@ -2672,7 +2676,7 @@ Rights to primary and secondary education
     
     (7) Every person lawfully enrolled at a correspondence school immediately before the commencement of this Act who is entitled under [section 3][5] to free education at a State school shall be deemed to have been so enrolled pursuant to a direction given under subsection (2)(b) on that commencement.
     
-    Compare: 1964 No 135 [s 110][1042]
+    Compare: 1964 No 135 [s 110][1043]
 
 ##### 7A Certain domestic students may be required to pay fees for tuition from correspondence schools
     
@@ -2688,15 +2692,15 @@ Rights to primary and secondary education
     
     (2) Nothing in subsection (1) gives any person a right to enrol at or receive tuition from a correspondence school.
     
-    Section 7A: inserted, on 1 January 1990, by [section 6][1043] of the Education Amendment Act 1989 (1989 No 156).
+    Section 7A: inserted, on 1 January 1990, by [section 6][1044] of the Education Amendment Act 1989 (1989 No 156).
     
-    Section 7A heading: amended, on 23 July 1990, by [section 4][1044] of the Education Amendment Act 1990 (1990 No 60).
+    Section 7A heading: amended, on 23 July 1990, by [section 4][1045] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 7A(1)(a): replaced, on 23 July 1990, by [section 4][1044] of the Education Amendment Act 1990 (1990 No 60).
+    Section 7A(1)(a): replaced, on 23 July 1990, by [section 4][1045] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 7A(1)(a): amended, on 1 January 1993, by [section 5(2)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 7A(1)(a): amended, on 1 January 1993, by [section 5(2)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 7A(1)(ab): replaced, on 13 June 2013, by [section 6][1046] of the Education Amendment Act 2013 (2013 No 34).
+    Section 7A(1)(ab): replaced, on 13 June 2013, by [section 6][1047] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 7B Fees for evening classes, etc
     
@@ -2708,7 +2712,7 @@ Rights to primary and secondary education
     
     unless there have been paid to the board the fees (if any) prescribed by the board for attendance at those classes.
     
-    Section 7B: inserted, on 1 January 1990, by [section 6][1043] of the Education Amendment Act 1989 (1989 No 156).
+    Section 7B: inserted, on 1 January 1990, by [section 6][1044] of the Education Amendment Act 1989 (1989 No 156).
 
 ##### 8 Equal rights to primary and secondary education
     
@@ -2718,7 +2722,7 @@ Rights to primary and secondary education
     
     (3) Subsections (1) and (2) come into force on 1 January 1990\.
     
-    Compare: 1964 No 135 [s 112A][1047]
+    Compare: 1964 No 135 s 112A
 
 ##### 9 Special education
     
@@ -3373,7 +3377,7 @@ Enrolment schemes, and suspension, expulsion, and exclusion of students
     
     *   (e) in the case of a designated character school, the application of the sections must not result in inconsistency with the school's charter or [section 156][426]; and
     
-    *   (f) in the case of an integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or the [Private Schools Conditional Integration Act 1975][1024].
+    *   (f) in the case of an integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or the [Private Schools Conditional Integration Act 1975][1025].
     
     (2) [Sections 11A to 11PA][24] do not apply to any State school of a type specified by the Secretary by notice in the _Gazette_.
     
@@ -3764,13 +3768,13 @@ Enrolment and attendance of students
     
     (2) Before a child's seventh birthday, the child is not required to be enrolled at any school more than 3 kilometres walking distance from the child's residence.
     
-    Compare: 1964 No 135 [ss 108][1085], [109][1041]
+    Compare: 1964 No 135 [ss 108][1085], [109][1042]
     
-    Section 20 heading: amended, on 1 January 1993, by [section 5][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 20 heading: amended, on 1 January 1993, by [section 5][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 20(1): amended, on 30 August 2011, by [section 13][1086] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 20(1): amended, on 1 January 1993, by [section 5(1)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 20(1): amended, on 1 January 1993, by [section 5(1)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
 
 ##### 21 Long term exemptions from enrolment
     
@@ -3862,7 +3866,7 @@ Enrolment and attendance of students
     
     Compare: 1964 No 135 [s 112][1092]
     
-    Section 22(1): amended, on 1 January 1993, by [section 5(3)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 22(1): amended, on 1 January 1993, by [section 5(3)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 22(3): amended, on 1 October 1999, by [section 13][1080] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
@@ -4102,7 +4106,7 @@ Enrolment and attendance of students
     
     Compare: 1969 No 135 s 119
     
-    Section 28(2)(b): amended, on 1 January 1993, by [section 5(2)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 28(2)(b): amended, on 1 January 1993, by [section 5(2)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 28(3): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -4166,7 +4170,7 @@ Enrolment and attendance of students
     
     Compare: 1964 No 135 [ss 121][1109], [122][1110]
     
-    Section 30(1): amended, on 1 January 1993, by [section 5(2)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 30(1): amended, on 1 January 1993, by [section 5(2)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 30(1)(ab): inserted, on 21 December 2010, by [section 8(1)][1111] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
@@ -4216,7 +4220,7 @@ Enrolment and attendance of students
     
     Section 31(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1114] of the Policing Act 2008 (2008 No 72).
     
-    Section 31(4): amended, on 1 January 1993, by [section 5(2)][1045] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 31(4): amended, on 1 January 1993, by [section 5(2)][1046] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 31(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1114] of the Policing Act 2008 (2008 No 72).
     
@@ -5098,9 +5102,9 @@ Control and management of State schools
     
     Section 60 **international student**: inserted, on 30 August 2011, by [section 15(2)][1141] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 60 **Minister**: inserted, on 1 January 1992, by [section 2(3)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 60 **Minister**: inserted, on 1 January 1992, by [section 2(3)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 60 **Ministry**: inserted, on 1 January 1992, by [section 2(3)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 60 **Ministry**: inserted, on 1 January 1992, by [section 2(3)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 60 **national curriculum objective**: repealed, on 1 January 1992, by [section 9(2)][1143] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
@@ -5112,7 +5116,7 @@ Control and management of State schools
     
     Section 60 **review officer**: inserted, on 23 July 1990, by [section 15][1142] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 60 **Secretary**: inserted, on 1 January 1992, by [section 2(3)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 60 **Secretary**: inserted, on 1 January 1992, by [section 2(3)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 60 **Teachers Council**: inserted, on 20 May 2010, by [section 16(5)][1140] of the Education Amendment Act 2010 (2010 No 25).
     
@@ -5686,7 +5690,7 @@ Control and management of State schools
         
     *   (a) may apply to any land and buildings occupied by a board (regardless of who owns the property); but
     
-    *   (b) to the extent that it applies to the board of an integrated school, is subject to the [Private Schools Conditional Integration Act 1975][1024] and to the integration agreement for the time being in force between the Minister and the proprietors of the school.
+    *   (b) to the extent that it applies to the board of an integrated school, is subject to the [Private Schools Conditional Integration Act 1975][1025] and to the integration agreement for the time being in force between the Minister and the proprietors of the school.
     
     (2) Terms and conditions under subsection (1) may include such matters as standards of maintenance, standards of capital works, and minimum safety and health requirements.
     
@@ -5760,7 +5764,7 @@ Control and management of State schools
     
     (4) [Section 70(5)][176] applies to a _Gazette_ notice under subsection (3)(a).
     
-    (5) In relation to an integrated school, this section applies subject to the [Private Schools Conditional Integration Act 1975][1024] and to any integration agreement in force between the Minister and the proprietors of the school.
+    (5) In relation to an integrated school, this section applies subject to the [Private Schools Conditional Integration Act 1975][1025] and to any integration agreement in force between the Minister and the proprietors of the school.
     
     Compare: 1949 No 24 [ss 6][1187], [6A][1188]
     
@@ -5788,7 +5792,7 @@ Control and management of State schools
     
     (6) [Section 70(5)][176] applies to a _Gazette_ notice under subsection (5)(b).
     
-    (7) In relation to an integrated school, this section applies subject to the [Private Schools Conditional Integration Act 1975][1024] and to any integration agreement in force between the Minister and the proprietors of the school.
+    (7) In relation to an integrated school, this section applies subject to the [Private Schools Conditional Integration Act 1975][1025] and to any integration agreement in force between the Minister and the proprietors of the school.
     
     Compare: 1949 No 24 [s 6D][1189]
     
@@ -6888,7 +6892,7 @@ School boards
     
     *   (d) in relation to a trustee of a combined board that administers special institutions, means those institutions or any of them
     
-    _integrated_, in relation to a school, or a school of a particular class, means for the time being established as an integrated school, or integrated school of that class, under the [Private Schools Conditional Integration Act 1975][1024]
+    _integrated_, in relation to a school, or a school of a particular class, means for the time being established as an integrated school, or integrated school of that class, under the [Private Schools Conditional Integration Act 1975][1025]
     
     _intermediate school_ has the same meaning as in [section 145(1)][1232]
     
@@ -6966,9 +6970,9 @@ School boards
     
     Section 92(1) **intermediate school**: replaced, on 1 January 1990, by [section 15(3)][1012] of the Education Amendment Act 1989 (1989 No 156).
     
-    Section 92(1) **Minister**: replaced, on 1 January 1992, by [section 2(4)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 92(1) **Minister**: replaced, on 1 January 1992, by [section 2(4)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 92(1) **Ministry**: inserted, on 1 January 1992, by [section 2(4)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 92(1) **Ministry**: inserted, on 1 January 1992, by [section 2(4)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 92(1) **partner**: inserted, on 26 April 2005, by [section 7][1061] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -6978,7 +6982,7 @@ School boards
     
     Section 92(1) **secondary school**: inserted, on 1 January 1990, by [section 15(3)][1012] of the Education Amendment Act 1989 (1989 No 156).
     
-    Section 92(1) **Secretary**: replaced, on 1 January 1992, by [section 2(4)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 92(1) **Secretary**: replaced, on 1 January 1992, by [section 2(4)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 92(1) **special institution** paragraph (c): amended, on 20 May 2010, by [section 24(3)][1236] of the Education Amendment Act 2010 (2010 No 25).
     
@@ -8235,7 +8239,7 @@ Teacher registration
     
     Section 120 **list of authorised people**: inserted, on 1 January 1997, by [section 10(1)][1286] of the Education Amendment Act 1996 (1996 No 98).
     
-    Section 120 **Minister**: replaced, on 1 January 1992, by [section 2(2)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 120 **Minister**: replaced, on 1 January 1992, by [section 2(2)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 120 **partnership school kura hourua**: inserted, on 13 June 2013, by [section 23(4)][1291] of the Education Amendment Act 2013 (2013 No 34).
     
@@ -10435,7 +10439,7 @@ Miscellaneous
 
 ##### 141 Consequential amendments to Private Schools Conditional Integration Act 1975
     
-*   The [Private Schools Conditional Integration Act 1975][1024] is hereby consequentially amended in the manner indicated in [Schedule 8][993].
+*   The [Private Schools Conditional Integration Act 1975][1025] is hereby consequentially amended in the manner indicated in [Schedule 8][993].
 
 ##### 142 Other consequential amendments, repeals, revocations, and savings
     
@@ -10652,7 +10656,7 @@ Establishment of schools
     
     _correspondence school_ means a school for the time being designated under [section 152(1)][415] as a correspondence school
     
-    _integrated school_ means a school for the time being established as an integrated school under the [Private Schools Conditional Integration Act 1975][1024]
+    _integrated school_ means a school for the time being established as an integrated school under the [Private Schools Conditional Integration Act 1975][1025]
     
     _intermediate department_ means a department established under [section 149][412]
     
@@ -10702,9 +10706,9 @@ Establishment of schools
     
     Section 145(1) **correspondence school**: inserted, on 19 December 1998, by [section 33][1403] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 145(1) **Minister**: replaced, on 1 January 1992, by [section 2(5)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 145(1) **Minister**: replaced, on 1 January 1992, by [section 2(5)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 145(1) **Ministry**: replaced, on 1 January 1992, by [section 2(5)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 145(1) **Ministry**: replaced, on 1 January 1992, by [section 2(5)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 145(1) **single sex school**: inserted, on 25 October 2001, by [section 40][1404] of the Education Standards Act 2001 (2001 No 88).
     
@@ -12031,7 +12035,7 @@ General provisions relating to tertiary education
     
     _grant_, in relation to an award, includes confer and issue
     
-    _industry training organisation_ means a body corporate for the time being recognised under [section 5][1455] or [section 8(1)][1456] of the Industry Training Act 1992
+    _industry training organisation_ means a body corporate for the time being recognised under [section 5][1455] or [section 8(1)][1456] of the Industry Training and Apprenticeships Act 1992
     
     _institution_ means---
         
@@ -12203,13 +12207,15 @@ General provisions relating to tertiary education
     
     Section 159(1) **industry training organisation**: inserted, on 1 January 2003, by [section 7(3)][1457] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
+    Section 159(1) **industry training organisation**: amended, on 23 April 2014, by [section 23][1019] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
+    
     Section 159(1) **institution** paragraph (ba): inserted, on 1 January 2003, by [section 7(4)][1457] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
     Section 159(1) **international student**: inserted, on 30 August 2011, by [section 17(2)][1458] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 159(1) **Minister**: replaced, on 1 January 1992, by [section 2(5)][1019] of the Education Amendment Act No (4) 1991 (1991 No 136).
+    Section 159(1) **Minister**: replaced, on 1 January 1992, by [section 2(5)][1020] of the Education Amendment Act No (4) 1991 (1991 No 136).
     
-    Section 159(1) **Ministry**: replaced, on 1 January 1992, by [section 2(5)][1019] of the Education Amendment Act No (4) 1991 (1991 No 136).
+    Section 159(1) **Ministry**: replaced, on 1 January 1992, by [section 2(5)][1020] of the Education Amendment Act No (4) 1991 (1991 No 136).
     
     Section 159(1) **nationally recognised award**: repealed, on 30 August 2011, by [section 17(1)][1458] of the Education Amendment Act 2011 (2011 No 66).
     
@@ -16466,17 +16472,17 @@ Membership of associations of tertiary students
 
 ##### 229D Sections 229A to 229CA apply to private training establishments
     
-*   [Sections 229A to 229CA][1626] apply to private training establishments; and, for the purpose of those sections,---
+*   [Sections 229A to 229CA][680] apply to private training establishments; and, for the purpose of those sections,---
         
     *   (a) every reference to an institution includes a reference to a private training establishment; and
     
     *   (b) every reference to a council includes a reference to the governing body of the private training establishment.
     
-    Section 229D: replaced, on 8 July 2000, by [section 25][1627] of the Education Amendment Act 2000 (2000 No 21).
+    Section 229D: replaced, on 8 July 2000, by [section 25][1626] of the Education Amendment Act 2000 (2000 No 21).
     
-    Section 229D heading: amended, on 1 January 2012, by [section 7(1)][1628] of the Education (Freedom of Association) Amendment Act 2011 (2011 No 80).
+    Section 229D heading: amended, on 1 January 2012, by [section 7(1)][1627] of the Education (Freedom of Association) Amendment Act 2011 (2011 No 80).
     
-    Section 229D: amended, on 1 January 2012, by [section 7(2)][1628] of the Education (Freedom of Association) Amendment Act 2011 (2011 No 80).
+    Section 229D: amended, on 1 January 2012, by [section 7(2)][1627] of the Education (Freedom of Association) Amendment Act 2011 (2011 No 80).
 
 ## Part 17  
 Education Review Office
@@ -16500,11 +16506,11 @@ Education Review Office
 ## Part 18  
 Private training establishments
     
-*   Part 18: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Part 18: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Interpretation
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232 Interpretation
     
@@ -16534,11 +16540,11 @@ Private training establishments
     
     *   (b) any member of staff in charge of academic issues, marketing, administration, finance, student fee trust funds, or student services.
     
-    Section 232: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Programmes and training schemes in which international students enrolled
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232A Requirements that private training establishments must comply with before enrolling international students
     
@@ -16574,7 +16580,7 @@ Private training establishments
     
     Compare: 1989 No 80 [s 232][690]
     
-    Section 232A: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232A: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232B Exemptions
     
@@ -16596,7 +16602,7 @@ Private training establishments
     
     Compare: 1989 No 80 [s 232(2), (3)][690]
     
-    Section 232B: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232B: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232C Requirement to be registered before providing approved programmes or training schemes
     
@@ -16604,11 +16610,11 @@ Private training establishments
     
     Compare: 1989 No 80 [s 233][699]
     
-    Section 232C: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232C: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Applications for registration
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232D Applications for registration of private training establishments
     
@@ -16646,7 +16652,7 @@ Private training establishments
     
     Compare: 1989 No 80 [ss 234][707], [235][716]
     
-    Section 232D: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232D: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 232E Authority may verify identity of governing members of private training establishment
     
@@ -16658,11 +16664,11 @@ Private training establishments
     
     (2) When acting under subsection (1), the Authority may interview any governing member of the establishment for the purpose of verifying his or her identity.
     
-    Section 232E: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 232E: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Determination of application
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233 Grant or refusal of application
     
@@ -16712,7 +16718,7 @@ Private training establishments
     
     *   (b) if it refuses or withdraws registration, give reasons for doing so.
     
-    Section 233: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233A Criteria for determining whether governing member of private training establishment is fit and proper person
     
@@ -16722,7 +16728,7 @@ Private training establishments
     
     *   (b) whether the person was a governing member of a registered private training establishment that was closed, sold due to insolvency, or taken over; and
     
-    *   (c) whether the person has been convicted of any offence involving fraud, violence, or dishonesty, or any offence under this Act or [section 352][1630] of the Immigration Act 2009; and
+    *   (c) whether the person has been convicted of any offence involving fraud, violence, or dishonesty, or any offence under this Act or [section 352][1629] of the Immigration Act 2009; and
     
     *   (d) whether the person is a defendant in proceedings in respect of an offence described in paragraph (c); and
     
@@ -16736,11 +16742,11 @@ Private training establishments
     
     (2) If the applicant has had direct involvement in the provision of education services that have failed, the Authority must give the applicant an opportunity to explain why the risk of this occurring again is unlikely.
     
-    Section 233A: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233A: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Conditions and other requirements of registration
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233B Conditions of registration
     
@@ -16772,19 +16778,19 @@ Private training establishments
     
     (7) When conditions are imposed, amended, or revoked, the Authority must give written notice to the establishment of the new, amended, or revoked conditions.
     
-    Compare: 1989 No 80 [s 236AA][1631]
+    Compare: 1989 No 80 s 236AA
     
-    Section 233B: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233B: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233C Annual fee
     
 *   Every registered private training establishment must pay the Authority an annual registration fee of an amount prescribed by or determined under rules made under [section 253][774].
     
-    Section 233C: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233C: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Cancellation and lapse of registration
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233D Cancellation of registration
     
@@ -16808,7 +16814,7 @@ Private training establishments
             
         *   (i) this Act; or
         
-        *   (ii) [section 352][1630] of the Immigration Act 2009; or
+        *   (ii) [section 352][1629] of the Immigration Act 2009; or
         
         
     
@@ -16828,7 +16834,7 @@ Private training establishments
     
     Compare: 1989 No 80 [s 237][727]
     
-    Section 233D: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233D: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 233E Effect of cancellation
     
@@ -16850,7 +16856,7 @@ Private training establishments
     
     Compare: 1989 No 80 [s 237(5), (6)][727]
     
-    Section 233E: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 233E: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234 Lapse of registration
     
@@ -16882,11 +16888,11 @@ Private training establishments
     
     (4) The Authority must give written notice of the lapse of an accreditation to the establishment.
     
-    Section 234: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Fees for domestic students
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234A Fees for domestic students must not exceed maximums set in conditions of funding
     
@@ -16896,13 +16902,13 @@ Private training establishments
     
     (3) In subsection (1), _the maximum amount_ means the maximum specified in a condition imposed under [section 159YC][522] or [159ZD(2)][545] (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
     
-    Compare: 1989 No 80 [s 236C][1632]
+    Compare: 1989 No 80 s 236C
     
-    Section 234A: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234A: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Information that must be given to prospective students
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234B Information that private training establishments must give prospective students
     
@@ -16932,11 +16938,11 @@ Private training establishments
     
     Compare: 1989 No 80 [s 236A][726]
     
-    Section 234B: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234B: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Protection of student fees
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234C Interpretation
     
@@ -16946,11 +16952,11 @@ Private training establishments
     
     _refund period_ means, in relation to a domestic student who is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required
     
-    _trustee_ means Public Trust, a trustee company under the [Trustee Companies Act 1967][1633], a chartered accountant in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
+    _trustee_ means Public Trust, a trustee company under the [Trustee Companies Act 1967][1630], a chartered accountant in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
     
     (2) In [sections 234D to 235C][714], the requirement that funds paid by or on behalf of a student be deposited with an independent trustee applies to all components of any fee payable by the student (for example, it includes any component of the fee payable by the student in respect of accommodation costs or agent commissions).
     
-    Section 234C: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234C: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234D Application of rules relating to student fee protection
     
@@ -16958,7 +16964,7 @@ Private training establishments
     
     (2) A person to whom this section applies must comply with the requirements of the rules made under [section 253][774] that relate to student fee protection.
     
-    Section 234D: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234D: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 234E Student fees must be deposited with independent trustee
     
@@ -16982,7 +16988,7 @@ Private training establishments
     
     *   (b) must, if approval for a trustee is withdrawn, appoint a new trustee in accordance with the rules.
     
-    Section 234E: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 234E: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235 Refund entitlements of domestic students
     
@@ -17002,7 +17008,7 @@ Private training establishments
     
     *   (b) the private training establishment may, if the Authority approves, make alternative arrangements in relation to the fees paid.
     
-    Section 235: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235A Refund entitlements of international students
     
@@ -17026,7 +17032,7 @@ Private training establishments
     
     (4) In this section, _refund period_ means the period referred to in [section 235B(1)(a)][718] as specified in the notice made under section 235B.
     
-    Section 235A: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235A: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235B Refund requirements set by _Gazette_ notice
     
@@ -17050,7 +17056,7 @@ Private training establishments
     
     (3) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][1075] and must be presented to the House of Representatives under [section 41][1076] of that Act.
     
-    Section 235B: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235B: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 235B(3): replaced, on 5 August 2013, by [section 77(3)][1078] of the Legislation Act 2012 (2012 No 119).
 
@@ -17058,7 +17064,7 @@ Private training establishments
     
 *   Any fees paid by or on behalf of any student who withdraws from a programme or training scheme because of the closure of the programme or scheme are subject to the protections set out in the rules made under [section 253][774].
     
-    Section 235C: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235C: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235D Ministerial direction to registered private training establishments relating to compulsory student services fees
     
@@ -17120,21 +17126,21 @@ Private training establishments
     
     (6) In subsection (1), _compulsory student services fees_ are fees for the provision of student services that a student must pay to a registered private training establishment as a condition of enrolment in a programme or training scheme at the establishment.
     
-    Section 235D: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235D: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Information sharing with other government departments
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235E Private training establishment to notify immigration officer if student withdraws from programme or training scheme
     
-*   (1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or training scheme at the establishment, an immigration officer (within the meaning of [section 4][1634] of the Immigration Act 2009) is given written notice of the name of the student and the programme or training scheme, and the day on which the student withdrew.
+*   (1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or training scheme at the establishment, an immigration officer (within the meaning of [section 4][1631] of the Immigration Act 2009) is given written notice of the name of the student and the programme or training scheme, and the day on which the student withdrew.
     
     (2) Subsection (1) does not apply to a student if the establishment is satisfied on reasonable grounds that the student is a domestic student.
     
-    Compare: 1989 No 80 [s 236B][1635]
+    Compare: 1989 No 80 s 236B
     
-    Section 235E: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235E: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 235F Disclosure of enrolment information by private training establishments
     
@@ -17206,9 +17212,9 @@ Private training establishments
     
     (9) [Section 104][1603] of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in [section 226A][672] of this Act, the Commissioner, before seeking a report on any of the matters in section 104(2)(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the [Social Security Act 1964][1601].
     
-    Compare: 1989 No 80 [s 238B][1636]
+    Compare: 1989 No 80 s 238B
     
-    Section 235F: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 235F: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 235F(1) **benefit**: amended, on 15 July 2013, by [section 114][1606] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
@@ -17236,9 +17242,9 @@ Private training establishments
     
     (3) The maximum penalty for an offence against subsection (1) or (2) is a fine not exceeding $5,000, and, if the offence is a continuing one, a fine not exceeding $500 for each day the offence continues.
     
-    Compare: 1989 No 80 [s 238C][1637]
+    Compare: 1989 No 80 s 238C
     
-    Section 236: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 236: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 236(1): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
@@ -17246,7 +17252,7 @@ Private training establishments
 
 #### Student records
     
-*   Heading: inserted, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 236A Duties of private training establishments to maintain student records
     
@@ -17274,25 +17280,25 @@ Private training establishments
     
     (2) If a private training establishment closes, the establishment must, in respect of each student, forward his or her records kept under this section to the student's new education provider, or to the student if there is no new education provider.
     
-    Section 236A: replaced, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 236A: replaced, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 237 Cancellation of registration
     
 *   \[Repealed\]
     
-    Section 237: repealed, on 30 August 2011, by [section 32][1629] of the Education Amendment Act 2011 (2011 No 66).
+    Section 237: repealed, on 30 August 2011, by [section 32][1628] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 238 Notice
     
 *   \[Repealed\]
     
-    Section 238: repealed, on 1 January 2003, by [section 25(2)][1638] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 238: repealed, on 1 January 2003, by [section 25(2)][1632] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ## Part 18A  
 International students
     
-*   Part 18A: inserted, on 25 October 2001, by [section 48][1639] of the Education Standards Act 2001 (2001 No 88).
-*   Part 18A heading: amended, on 12 December 2002, by [section 27][1640] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+*   Part 18A: inserted, on 25 October 2001, by [section 48][1633] of the Education Standards Act 2001 (2001 No 88).
+*   Part 18A heading: amended, on 12 December 2002, by [section 27][1634] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 238D Interpretation
     
@@ -17324,17 +17330,17 @@ International students
     
     _review panel_ means the review panel established by the code.
     
-    Section 238D: inserted, on 25 October 2001, by [section 48][1639] of the Education Standards Act 2001 (2001 No 88).
+    Section 238D: inserted, on 25 October 2001, by [section 48][1633] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 238D **international student** paragraph (a): repealed, on 12 December 2002, by [section 28][1641] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 238D **international student** paragraph (a): repealed, on 12 December 2002, by [section 28][1635] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 238D **international student** paragraph (c): replaced, on 30 August 2011, by [section 33][1642] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238D **international student** paragraph (c): replaced, on 30 August 2011, by [section 33][1636] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 238D **provider** paragraph (c): amended, on 17 May 2006, by [section 46(a)][1643] of the Education Amendment Act 2006 (2006 No 19).
+    Section 238D **provider** paragraph (c): amended, on 17 May 2006, by [section 46(a)][1637] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 238D **provider** paragraph (d): inserted, on 17 May 2006, by [section 46(b)][1643] of the Education Amendment Act 2006 (2006 No 19).
+    Section 238D **provider** paragraph (d): inserted, on 17 May 2006, by [section 46(b)][1637] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 238D **provider** paragraph (d): amended, on 1 January 2008, by [section 34][1644] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
+    Section 238D **provider** paragraph (d): amended, on 1 January 2008, by [section 34][1638] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
 
 ##### 238E Signatories to code may enrol persons as international students
     
@@ -17352,9 +17358,9 @@ International students
     
     (4) Until 1 July 2003, nothing in subsection (1) or subsection (2) applies to providers who enrol international students only on courses of less than 3 months' duration (as that term is defined in [section 232(4)][690]).
     
-    Section 238E: inserted, on 25 October 2001, by [section 48][1639] of the Education Standards Act 2001 (2001 No 88).
+    Section 238E: inserted, on 25 October 2001, by [section 48][1633] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 238E(4): inserted, on 12 December 2002, by [section 29][1645] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 238E(4): inserted, on 12 December 2002, by [section 29][1639] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 238EA Obligation on provider to enrol person as international student
     
@@ -17364,7 +17370,7 @@ International students
     
     *   (b) accepts tuition fees from the person.
     
-    Section 238EA: inserted, on 30 August 2011, by [section 34][1646] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238EA: inserted, on 30 August 2011, by [section 34][1640] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 238F Code
     
@@ -17394,11 +17400,11 @@ International students
     
     (5) The Minister must notify the making of the code in the _Gazette_ and make copies available for inspection free of charge, or for purchase at a reasonable cost, in such form and at such places as the Minister determines.
     
-    Section 238F: inserted, on 25 October 2001, by [section 48][1639] of the Education Standards Act 2001 (2001 No 88).
+    Section 238F: inserted, on 25 October 2001, by [section 48][1633] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 238F(2)(e): amended, on 30 August 2011, by [section 35(a)][1647] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238F(2)(e): amended, on 30 August 2011, by [section 35(a)][1641] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 238F(2)(e): amended, on 30 August 2011, by [section 35(b)][1647] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238F(2)(e): amended, on 30 August 2011, by [section 35(b)][1641] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 238G Sanctions
     
@@ -17428,7 +17434,7 @@ International students
     
     (5) At any time pending a final determination by the review panel, it may refer a matter back to the IEAA with directions to reconsider the whole or any specified part of the matter.
     
-    Section 238G: inserted, on 25 October 2001, by [section 48][1639] of the Education Standards Act 2001 (2001 No 88).
+    Section 238G: inserted, on 25 October 2001, by [section 48][1633] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 238H Export education levy
     
@@ -17450,15 +17456,15 @@ International students
     
     (4) \[Repealed\]
     
-    Section 238H: replaced, on 12 December 2002, by [section 30][1648] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 238H: replaced, on 12 December 2002, by [section 30][1642] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 238H(2)(b): amended, on 30 August 2011, by [section 36(1)][1649] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238H(2)(b): amended, on 30 August 2011, by [section 36(1)][1643] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 238H(2)(d): amended, on 20 May 2010, by [section 51][1650] of the Education Amendment Act 2010 (2010 No 25).
+    Section 238H(2)(d): amended, on 20 May 2010, by [section 51][1644] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 238H(2)(e): repealed, on 31 August 2004, by [section 3][1651] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
+    Section 238H(2)(e): repealed, on 31 August 2004, by [section 3][1645] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
     
-    Section 238H(4): repealed, on 30 August 2011, by [section 36(2)][1649] of the Education Amendment Act 2011 (2011 No 66).
+    Section 238H(4): repealed, on 30 August 2011, by [section 36(2)][1643] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 238I Purpose and administration of export education levy
     
@@ -17532,18 +17538,18 @@ International students
     
     *   (c) present a copy of the report to the House of Representatives.
     
-    Section 238I: inserted, on 12 December 2002, by [section 30][1648] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 238I: inserted, on 12 December 2002, by [section 30][1642] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 238I(1)(ab): inserted, on 31 August 2004, by [section 4(1)][1652] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
+    Section 238I(1)(ab): inserted, on 31 August 2004, by [section 4(1)][1646] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
     
-    Section 238I(1A): inserted, on 31 August 2004, by [section 4(2)][1652] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
+    Section 238I(1A): inserted, on 31 August 2004, by [section 4(2)][1646] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
     
-    Section 238I(1B): inserted, on 31 August 2004, by [section 4(2)][1652] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
+    Section 238I(1B): inserted, on 31 August 2004, by [section 4(2)][1646] of the Education (Export Education Levy) Amendment Act 2004 (2004 No 75).
 
 ## Part 19  
 Vice-Chancellors Committee
     
-*   Part 19: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+*   Part 19: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 239 Definitions
     
@@ -17553,7 +17559,7 @@ Vice-Chancellors Committee
     
     _member_ means a member of the Committee.
     
-    Section 239: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 239: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 240 Establishment of Committee
     
@@ -17573,11 +17579,11 @@ Vice-Chancellors Committee
     
     *   (c) otherwise doing and suffering all that bodies corporate may lawfully do and suffer.
     
-    (6) [Sections 153 to 156][1654] of the Crown Entities Act 2004 apply to the Committee as if it were a Crown entity within the meaning of that Act.
+    (6) [Sections 153 to 156][1648] of the Crown Entities Act 2004 apply to the Committee as if it were a Crown entity within the meaning of that Act.
     
     (7) [Schedule 14][1000] applies to the Committee.
     
-    Section 240: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 240: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 240(6): replaced, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -17613,11 +17619,11 @@ Vice-Chancellors Committee
     
     *   (i) to perform any other functions conferred on it by this Act or any other enactment.
     
-    Section 241: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 241: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 241(b): replaced, on 30 August 2011, by [section 37][1655] of the Education Amendment Act 2011 (2011 No 66).
+    Section 241(b): replaced, on 30 August 2011, by [section 37][1649] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 241(ba): inserted, on 30 August 2011, by [section 37][1655] of the Education Amendment Act 2011 (2011 No 66).
+    Section 241(ba): inserted, on 30 August 2011, by [section 37][1649] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 242 Powers of Committee
     
@@ -17627,7 +17633,7 @@ Vice-Chancellors Committee
     
     *   (b) all other powers reasonably necessary to enable it to perform its functions efficiently and effectively.
     
-    Section 242: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 242: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 243 Devolution of certain property
     
@@ -17641,7 +17647,7 @@ Vice-Chancellors Committee
     
     (5) The Committee may transfer any real or personal property that vests in the Committee under this section for a particular purpose to any university for a like purpose and, if any property is so transferred, no tax is payable in respect of the transaction.
     
-    Section 243: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 243: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 243(5): amended, on 20 May 1999, by [section 7][1589] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
@@ -17667,7 +17673,7 @@ Vice-Chancellors Committee
     
     (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
     
-    Section 244: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 244: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 244(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
@@ -17687,16 +17693,16 @@ Vice-Chancellors Committee
     
 *   All statutes, regulations, rulings, and decisions, and all other acts of authority, of the Senate of the University of New Zealand or any committee or board of that Senate or University or of the Chancellor or Vice-Chancellor or any officer of that University, so far as they were subsisting immediately before the commencement of this section by virtue of section 53(1) of the Universities Act 1961 and are capable of application to the Vice-Chancellors Committee, apply to that Committee except so far as they are repealed, replaced, or amended by any enactment, or by regulations, rulings, decisions, or other acts of authority of that Committee under powers conferred by this Act or any other enactment.
     
-    Section 245: inserted, on 23 July 1990, by [section 41][1653] of the Education Amendment Act 1990 (1990 No 60).
+    Section 245: inserted, on 23 July 1990, by [section 41][1647] of the Education Amendment Act 1990 (1990 No 60).
 
 ## Part 20  
 New Zealand Qualifications Authority
     
-*   Part 20: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Part 20: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Interpretation
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 246 Interpretation
     
@@ -17722,13 +17728,13 @@ New Zealand Qualifications Authority
     
     _rules_ means rules made under [section 253][774].
     
-    Section 246: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 246: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 246 **relevant school** paragraph (ba): inserted, on 13 June 2013, by [section 32][1657] of the Education Amendment Act 2013 (2013 No 34).
+    Section 246 **relevant school** paragraph (ba): inserted, on 13 June 2013, by [section 32][1651] of the Education Amendment Act 2013 (2013 No 34).
 
 #### Functions of Qualifications Authority
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 246A Functions of Authority
     
@@ -17770,9 +17776,9 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 253][774]
     
-    Section 246A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 246A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 246A(1)(f): amended, on 13 June 2013, by [section 33][1658] of the Education Amendment Act 2013 (2013 No 34).
+    Section 246A(1)(f): amended, on 13 June 2013, by [section 33][1652] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 247 Certain functions of Authority in relation to entrance to universities
     
@@ -17796,11 +17802,11 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 257][797]
     
-    Section 247: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 247: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### New Zealand Qualifications Framework
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 248 New Zealand Qualifications Framework
     
@@ -17824,11 +17830,11 @@ New Zealand Qualifications Authority
     
     (4) To avoid doubt, _qualifications_ includes university qualifications.
     
-    Section 248: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 248: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Directory of Assessment Standards
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 248A Directory of Assessment Standards
     
@@ -17842,13 +17848,13 @@ New Zealand Qualifications Authority
     
     *   (b) must be made in accordance with the rules.
     
-    Section 248A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 248A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 248B Standard-setting bodies
     
 *   (1) An approved standard-setting body includes---
         
-    *   (a) an industry training organisation within the meaning of the [Industry Training Act 1992][1476]; and
+    *   (a) an industry training organisation within the meaning of the [Industry Training and Apprenticeships Act 1992][1476]; and
     
     *   (b) the Ministry of Education; and
     
@@ -17866,11 +17872,13 @@ New Zealand Qualifications Authority
     
     *   (c) carry out national moderation of assessment of students.
     
-    Section 248B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 248B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
+    
+    Section 248B(1)(a): amended, on 23 April 2014, by [section 23][1019] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
 
 #### Approval of programmes
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 249 Approval of programmes
     
@@ -17914,7 +17922,7 @@ New Zealand Qualifications Authority
     
     *   (c) does not apply to secondary school qualifications.
     
-    Section 249: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 249: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 249A Conditions on programme approvals
     
@@ -17938,11 +17946,11 @@ New Zealand Qualifications Authority
     
     (5) When conditions are imposed, amended, or revoked, the Authority must give notice in writing to the institution that holds the approval of the new, amended, or revoked conditions.
     
-    Section 249A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 249A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Accreditation to provide approved programmes
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 250 Accreditation to provide approved programmes
     
@@ -17972,7 +17980,7 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 261][801]
     
-    Section 250: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 250: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 250A Conditions on accreditation
     
@@ -17996,7 +18004,7 @@ New Zealand Qualifications Authority
     
     (5) When conditions are imposed, amended, or revoked, the Authority must give notice in writing to the accredited institution of the new, amended, or revoked conditions.
     
-    Section 250A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 250A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 250B Lapse of accreditation
     
@@ -18014,7 +18022,7 @@ New Zealand Qualifications Authority
     
     (3) The Authority must give written notice of the lapse of an accreditation to the institution concerned.
     
-    Section 250B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 250B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 250C Withdrawal of accreditation
     
@@ -18032,11 +18040,11 @@ New Zealand Qualifications Authority
     
     (5) This section does not limit the Authority's power to withdraw an accreditation under [section 255(7)][785].
     
-    Section 250C: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 250C: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Training schemes and consents to assess against standards
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 251 Application for training scheme approval
     
@@ -18062,7 +18070,7 @@ New Zealand Qualifications Authority
     
     *   (b) any workplace training component of any training scheme.
     
-    Section 251: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 251: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 251A Conditions of training scheme approval
     
@@ -18070,7 +18078,7 @@ New Zealand Qualifications Authority
     
     (2) The Authority may impose conditions on a training scheme approval, and for that purpose, [section 250A(2) to (5)][761] apply as if each reference to accreditation were a reference to a training scheme approval under this section.
     
-    Section 251A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 251A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 251B Withdrawal of training scheme approval
     
@@ -18090,7 +18098,7 @@ New Zealand Qualifications Authority
     
     (4) The Authority may withdraw a training scheme approval at the written request of the institution concerned.
     
-    Section 251B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 251B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 251C Lapse of training scheme approval
     
@@ -18104,11 +18112,11 @@ New Zealand Qualifications Authority
     
     (3) The Authority must give written notice of the lapse of a training scheme approval to the institution concerned.
     
-    Section 251C: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 251C: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Consent to assess against standards
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 252 Consent to assess against standards
     
@@ -18132,7 +18140,7 @@ New Zealand Qualifications Authority
     
     (7) Despite subsection (4), the Authority may withdraw a consent at the written request of the institution concerned.
     
-    Section 252: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 252: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 252A Conditions
     
@@ -18140,7 +18148,7 @@ New Zealand Qualifications Authority
     
     (2) The Authority may impose conditions on a consent to assess against standards, and for that purpose [section 250A(2) to (5)][761] apply as if each reference to accreditation were a reference to a consent to assess against standards.
     
-    Section 252A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 252A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 252B When a consent expires or ceases to have effect
     
@@ -18152,11 +18160,11 @@ New Zealand Qualifications Authority
     
     (2) If the status of any standard to which the consent relates is discontinued on the Directory of Assessment Standards, the consent ceases to have effect in respect of that standard.
     
-    Section 252B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 252B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Rules
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 253 Rules
     
@@ -18199,6 +18207,10 @@ New Zealand Qualifications Authority
     *   (f) prescribing matters relating to the general operation of the Qualifications Framework and the Directory of Assessment Standards:
     
     *   (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
+    
+    *   (ga) prescribing the amount of, or the method for determining, the annual registration fee required under [section 11F][1653] of the Industry Training and Apprenticeships Act 1992, and when and how that fee is payable:
+    
+    *   (gb) prescribing quality assurance requirements for industry training organisations, including, without limitation, requirements relating to the matters described in [section 13B][1654] of the Industry Training and Apprenticeships Act 1992:
     
     *   (h) providing for the review, amendment, removal, or alteration of the status of qualifications and standards, including their components (including where amendments to titles occur, consequential amendments to programmes of study or training titles, accreditations, and consents to assess against standards):
     
@@ -18254,13 +18266,17 @@ New Zealand Qualifications Authority
     
     *   (b) made available in printed form for purchase at a reasonable price on request by members of the public.
     
-    (7) Any rules made under this section are regulations for the purposes of the [Regulations (Disallowance) Act 1989][1659], but are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][1660].
+    (7) Any rules made under this section are regulations for the purposes of the [Regulations (Disallowance) Act 1989][1655], but are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][1656].
     
-    Section 253: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 253: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
+    
+    Section 253(1)(ga): inserted, on 23 April 2014, by [section 25][1657] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
+    
+    Section 253(1)(gb): inserted, on 23 April 2014, by [section 25][1657] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
 
 #### Functions and powers of Authority in relation to universities
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 253A Exercise of certain powers of Authority by Vice-Chancellors Committee
     
@@ -18282,11 +18298,11 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 260][800]
     
-    Section 253A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 253A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Granting of awards
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 253B Powers of Authority in granting of awards
     
@@ -18308,11 +18324,11 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 254][782]
     
-    Section 253B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 253B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Use of certain terms in name of registered establishment
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 253C Minister may consent to registered establishments using certain terms in their names
     
@@ -18340,13 +18356,13 @@ New Zealand Qualifications Authority
     
     *   (b) suspend the consent for a specified period, at the expiry of which the Minister must either lift the suspension or withdraw the consent.
     
-    Compare: 1989 No 80 [s 264A][1661]
+    Compare: 1989 No 80 s 264A
     
-    Section 253C: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 253C: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Fees
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 254 Fees
     
@@ -18382,7 +18398,9 @@ New Zealand Qualifications Authority
     
     *   (b) charge fees to any person or institution for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority, or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed:
     
-    *   (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority.
+    *   (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority (including quality assurance activities undertaken in accordance with the Authority's functions under the [Industry Training and Apprenticeships Act 1992][1476]):
+    
+    *   (d) charge an application fee to a body corporate applying for recognition as an industry training organisation under [section 6][1658] of the Industry Training and Apprenticeships Act 1992\.
     
     (3) A fee may not be charged under subsection (2)(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
     
@@ -18394,11 +18412,15 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 266][806]
     
-    Section 254: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 254: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
+    
+    Section 254(2)(c): replaced, on 23 April 2014, by [section 26][1659] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
+    
+    Section 254(2)(d): inserted, on 23 April 2014, by [section 26][1659] of the Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16).
 
 #### Enforcement powers of Authority
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 254A Power to obtain information
     
@@ -18414,7 +18436,7 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 255][785]
     
-    Section 254A: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 254A: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 255 Compliance notices
     
@@ -18470,7 +18492,7 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 255A][786]
     
-    Section 255: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 255: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 255A Powers of entry and inspection
     
@@ -18508,11 +18530,11 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 78A][189]
     
-    Section 255A: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 255A: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Research
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256 Research
     
@@ -18520,15 +18542,15 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 256][788]
     
-    Section 256: replaced, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256: replaced, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 #### Provisions relating to continuation, constitution, and operation of New Zealand Qualifications Authority
     
-*   Heading: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+*   Heading: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256A Continuation of New Zealand Qualifications Authority
     
-*   (1) There continues to be a New Zealand Qualifications Authority, which is the same body as the body of that name existing immediately before the commencement of the [Education Amendment Act 2011][1662].
+*   (1) There continues to be a New Zealand Qualifications Authority, which is the same body as the body of that name existing immediately before the commencement of the [Education Amendment Act 2011][1660].
     
     (2) The Authority is a Crown entity for the purposes of [section 7][1170] of the Crown Entities Act 2004\.
     
@@ -18538,7 +18560,7 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 248][752]
     
-    Section 256A: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256A: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256B Constitution
     
@@ -18550,15 +18572,15 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 249][757]
     
-    Section 256B: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256B: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256C Chief executive
     
 *   The Authority must from time to time appoint a chief executive of the Authority, on terms and conditions agreed by the Authority and the person appointed in accordance with [section 117][1346] of the Crown Entities Act 2004\.
     
-    Compare: 1989 No 80 [s 254B][1663]
+    Compare: 1989 No 80 s 254B
     
-    Section 256C: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256C: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256D Delegation by Authority
     
@@ -18570,19 +18592,19 @@ New Zealand Qualifications Authority
     
     Compare: 1989 No 80 [s 251][765]
     
-    Section 256D: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256D: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256E Membership of Government Superannuation Fund
     
 *   Employment in the service of the Authority is Government service within the meaning of the [Government Superannuation Fund Act 1956][1349].
     
-    Section 256E: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256E: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256F Child care allowances
     
 *   A member may be paid any allowances in respect of child care that the Authority determines.
     
-    Section 256F: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256F: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 256G Taxation
     
@@ -18594,86 +18616,86 @@ New Zealand Qualifications Authority
     
     *   (b) any obligation imposed by that Act.
     
-    Compare: 1989 No 80 [s 254E][1664]
+    Compare: 1989 No 80 s 254E
     
-    Section 256G: inserted, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 256G: inserted, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 257 Entrance to universities
     
 *   \[Repealed\]
     
-    Section 257: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 257: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 258 Approval of courses
     
 *   \[Repealed\]
     
-    Section 258: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 258: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 259 Accreditation to provide approved courses
     
 *   \[Repealed\]
     
-    Section 259: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 259: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 260 Exercise of certain powers of Authority
     
 *   \[Repealed\]
     
-    Section 260: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 260: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 261 Only accredited institutions to provide approved courses
     
 *   \[Repealed\]
     
-    Section 261: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 261: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 262 Notice
     
 *   \[Repealed\]
     
-    Section 262: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 262: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 263 Awards for approved nationally recognised courses
     
 *   \[Repealed\]
     
-    Section 263: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 263: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 264 Applications for consents by Authority
     
 *   \[Repealed\]
     
-    Section 264: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 264: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 265 Examination and assessment
     
 *   \[Repealed\]
     
-    Section 265: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 265: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 266 Fees
     
 *   \[Repealed\]
     
-    Section 266: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 266: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 267 Saving of certain statutes, etc, of University of New Zealand
     
 *   \[Repealed\]
     
-    Section 267: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 267: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 268 Powers of Minister
     
 *   \[Repealed\]
     
-    Section 268: repealed, on 30 August 2011, by [section 38][1656] of the Education Amendment Act 2011 (2011 No 66).
+    Section 268: repealed, on 30 August 2011, by [section 38][1650] of the Education Amendment Act 2011 (2011 No 66).
 
 ## Part 21  
 Education New Zealand
     
-*   Part 21: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+*   Part 21: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 269 Education New Zealand established
     
@@ -18683,13 +18705,13 @@ Education New Zealand
     
     (3) The [Crown Entities Act 2004][1172] applies to Education New Zealand except to the extent that this Act expressly provides otherwise.
     
-    Section 269: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 269: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 269A Interpretation
     
 *   In this Part, unless the context otherwise requires, _board_ means the board of Education New Zealand.
     
-    Section 269A: inserted, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 269A: inserted, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 270 Functions
     
@@ -18723,7 +18745,7 @@ Education New Zealand
     
     (4) In this section, _providers_ means any organisation that provides education, training, or education-related services.
     
-    Section 270: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 270: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 271 International education strategy
     
@@ -18735,7 +18757,7 @@ Education New Zealand
     
     (2) Before issuing the Government's international education strategy, the Minister must consult with organisations or people that, in the Minister's opinion, have a substantial interest in international education and ought to be consulted.
     
-    Section 271: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 271: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 272 Membership of board of Education New Zealand
     
@@ -18747,7 +18769,7 @@ Education New Zealand
     
     *   (b) any organisations or people that, in the Minister's opinion, have a substantial interest in the board's operations.
     
-    Section 272: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 272: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 272A Special advisers to the board
     
@@ -18769,7 +18791,7 @@ Education New Zealand
     
     (6) Every person purporting to act under a delegation under subsection (5) is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
     
-    Section 272A: inserted, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 272A: inserted, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 272B International education stakeholder advisory committee
     
@@ -18791,7 +18813,7 @@ Education New Zealand
     
     (7) The committee may determine its own procedure.
     
-    Section 272B: inserted, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 272B: inserted, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 273 Chief executive
     
@@ -18805,7 +18827,7 @@ Education New Zealand
     
     (2) The chief executive must not be a member of the board.
     
-    Section 273: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 273: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 273A Responsibilities of chief executive
     
@@ -18815,7 +18837,7 @@ Education New Zealand
     
     *   (b) the achievement of outcomes identified in the statement of intent of Education New Zealand.
     
-    Section 273A: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 273A: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 273B Superannuation
     
@@ -18827,15 +18849,15 @@ Education New Zealand
     
     (4) For the purpose of applying the [Government Superannuation Fund Act 1956][1349], the chief executive of Education New Zealand is the controlling authority.
     
-    Section 273B: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 273B: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 274 Application of Part 2 of Commerce Act 1986
     
-*   (1) For the purposes of [section 43][1666] of the Commerce Act 1986, the Governor-General may, by Order in Council, specifically authorise any act, matter, or thing, or kind of act, matter or thing, to be done or omitted to be done by Education New Zealand.
+*   (1) For the purposes of [section 43][1662] of the Commerce Act 1986, the Governor-General may, by Order in Council, specifically authorise any act, matter, or thing, or kind of act, matter or thing, to be done or omitted to be done by Education New Zealand.
     
-    (2) [Part 2][1667] of the Commerce Act 1986 does not apply to any act, matter, or thing, or kind of act, matter, or thing that is specifically authorised under subsection (1).
+    (2) [Part 2][1663] of the Commerce Act 1986 does not apply to any act, matter, or thing, or kind of act, matter, or thing that is specifically authorised under subsection (1).
     
-    Section 274: replaced, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 274: replaced, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 274A Transfer of Ministry employees to Education New Zealand
     
@@ -18861,9 +18883,9 @@ Education New Zealand
     
     *   (b) the employee is offered employment in an equivalent position in Education New Zealand (whether or not the employee accepts the offer).
     
-    (4) This section overrides any provision to the contrary in [Part 6A][1668] of the Employment Relations Act 2000\.
+    (4) This section overrides any provision to the contrary in [Part 6A][1664] of the Employment Relations Act 2000\.
     
-    Section 274A: inserted, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 274A: inserted, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 274B No compensation for technical redundancy of employees of Education New Zealand Trust
     
@@ -18883,31 +18905,31 @@ Education New Zealand
     
     *   (d) on terms that treat the period of service with Education New Zealand Trust (and every other period of service recognised by Education New Zealand Trust as continuous service) as if it were continuous service with Education New Zealand.
     
-    Section 274B: inserted, on 30 August 2011, by [section 39][1665] of the Education Amendment Act 2011 (2011 No 66).
+    Section 274B: inserted, on 30 August 2011, by [section 39][1661] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 275 Power of Secretary to obtain information
     
 *   \[Repealed\]
     
-    Section 275: repealed, on 25 June 1993, by [section 19][1669] of the Education Amendment Act 1993 (1993 No 51).
+    Section 275: repealed, on 25 June 1993, by [section 19][1665] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 276 Powers of Board
     
 *   \[Repealed\]
     
-    Section 276: repealed, on 1 January 2003, by [section 41][1670] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 276: repealed, on 1 January 2003, by [section 41][1666] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 277 Transitional provisions relating to Education and Training Support Agency
     
 *   \[Repealed\]
     
-    Section 277: repealed, on 1 January 2003, by [section 41][1670] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 277: repealed, on 1 January 2003, by [section 41][1666] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ## Part 22  
 Careers New Zealand
     
-*   Part 22: inserted, on 23 July 1990, by [section 44][1671] of the Education Amendment Act 1990 (1990 No 60).
-*   Part 22 heading: replaced, on 30 August 2011, by [section 40][1672] of the Education Amendment Act 2011 (2011 No 66).
+*   Part 22: inserted, on 23 July 1990, by [section 44][1667] of the Education Amendment Act 1990 (1990 No 60).
+*   Part 22 heading: replaced, on 30 August 2011, by [section 40][1668] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 278 Interpretation
     
@@ -18919,13 +18941,13 @@ Careers New Zealand
     
     _Service_ means the Service continued by [section 279][828].
     
-    Section 278: inserted, on 23 July 1990, by [section 44][1671] of the Education Amendment Act 1990 (1990 No 60).
+    Section 278: inserted, on 23 July 1990, by [section 44][1667] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 278 heading: replaced, on 19 December 1998, by [section 48][1673] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 278 heading: replaced, on 19 December 1998, by [section 48][1669] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
     Section 278 **document of accountability**: repealed, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 278 **Service**: replaced, on 19 December 1998, by [section 48][1673] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 278 **Service**: replaced, on 19 December 1998, by [section 48][1669] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ##### 279 Careers New Zealand is service for purposes of this Part
     
@@ -18939,17 +18961,17 @@ Careers New Zealand
     
     (5) \[Repealed\]
     
-    (6) The Service is the same body as the Service that existed under this section immediately before the commencement of [sections 40][1672] and [41][1674] of the Education Amendment Act 2011\.
+    (6) The Service is the same body as the Service that existed under this section immediately before the commencement of [sections 40][1668] and [41][1670] of the Education Amendment Act 2011\.
     
-    Section 279: replaced, on 19 December 1998, by [section 49(1)][1675] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 279: replaced, on 19 December 1998, by [section 49(1)][1671] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 279 heading: replaced, on 1 January 2008, by [section 37(1)][1676] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
+    Section 279 heading: replaced, on 1 January 2008, by [section 37(1)][1672] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
     
-    Section 279 heading: amended, on 30 August 2011, by [section 41(1)][1674] of the Education Amendment Act 2011 (2011 No 66).
+    Section 279 heading: amended, on 30 August 2011, by [section 41(1)][1670] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 279(1): amended, on 30 August 2011, by [section 41(2)][1674] of the Education Amendment Act 2011 (2011 No 66).
+    Section 279(1): amended, on 30 August 2011, by [section 41(2)][1670] of the Education Amendment Act 2011 (2011 No 66).
     
-    Section 279(1): amended, on 1 January 2008, by [section 37(2)][1676] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
+    Section 279(1): amended, on 1 January 2008, by [section 37(2)][1672] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
     
     Section 279(2): replaced, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -18959,7 +18981,7 @@ Careers New Zealand
     
     Section 279(5): repealed, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 279(6): replaced, on 30 August 2011, by [section 41(3)][1674] of the Education Amendment Act 2011 (2011 No 66).
+    Section 279(6): replaced, on 30 August 2011, by [section 41(3)][1670] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 280 Functions of Service
     
@@ -18991,15 +19013,15 @@ Careers New Zealand
     
     (3) Before the day on which the Board's first statement of intent takes effect, the Service shall not administer any scheme, activity, or programme, otherwise than in accordance with the Board's charter for the time being.
     
-    Section 280: inserted, on 23 July 1990, by [section 44][1671] of the Education Amendment Act 1990 (1990 No 60).
+    Section 280: inserted, on 23 July 1990, by [section 44][1667] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 280(1)(a): amended, on 1 January 2008, by [section 38][1677] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
+    Section 280(1)(a): amended, on 1 January 2008, by [section 38][1673] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
     
-    Section 280(2): inserted, on 25 June 1993, by [section 22][1678] of the Education Amendment Act 1993 (1993 No 51).
+    Section 280(2): inserted, on 25 June 1993, by [section 22][1674] of the Education Amendment Act 1993 (1993 No 51).
     
     Section 280(2): amended, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 280(3): inserted, on 25 June 1993, by [section 22][1678] of the Education Amendment Act 1993 (1993 No 51).
+    Section 280(3): inserted, on 25 June 1993, by [section 22][1674] of the Education Amendment Act 1993 (1993 No 51).
     
     Section 280(3): amended, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -19021,11 +19043,11 @@ Careers New Zealand
     
     (5) \[Repealed\]
     
-    Section 281: replaced, on 19 December 1998, by [section 50][1679] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 281: replaced, on 19 December 1998, by [section 50][1675] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
     Section 281(2)(a): amended, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 281(2)(b): amended, on 20 May 2010, by [section 62][1680] of the Education Amendment Act 2010 (2010 No 25).
+    Section 281(2)(b): amended, on 20 May 2010, by [section 62][1676] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 281(2)(b): amended, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -19051,9 +19073,9 @@ Careers New Zealand
     
     *   (e) to be flexible and responsive to the needs of individuals and the community.
     
-    Section 282: inserted, on 23 July 1990, by [section 44][1671] of the Education Amendment Act 1990 (1990 No 60).
+    Section 282: inserted, on 23 July 1990, by [section 44][1667] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 282(a): amended, on 1 January 2008, by [section 39][1681] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
+    Section 282(a): amended, on 1 January 2008, by [section 39][1677] of the Education (Tertiary Reforms) Amendment Act 2007 (2007 No 106).
     
     Section 282(d): repealed, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -19061,7 +19083,7 @@ Careers New Zealand
     
 *   \[Repealed\]
     
-    Section 283: repealed, on 25 June 1993, by [section 23][1682] of the Education Amendment Act 1993 (1993 No 51).
+    Section 283: repealed, on 25 June 1993, by [section 23][1678] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 283A Minister may require Board to negotiate document of accountability
     
@@ -19083,7 +19105,7 @@ Careers New Zealand
     
     *   (b) the persons for whom or which the services are to be provided.
     
-    Section 283C: replaced, on 20 May 2010, by [section 63][1683] of the Education Amendment Act 2010 (2010 No 25).
+    Section 283C: replaced, on 20 May 2010, by [section 63][1679] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 283D Amendments to documents
     
@@ -19129,7 +19151,7 @@ Careers New Zealand
     
     *   (c) the provisions of the [Crown Entities Act 2004][1172], and [section 286A][845], apply to the person as if he or she were a board under the Crown Entities Act 2004, with necessary modifications.
     
-    Section 283H: inserted, on 25 June 1993, by [section 23][1682] of the Education Amendment Act 1993 (1993 No 51).
+    Section 283H: inserted, on 25 June 1993, by [section 23][1678] of the Education Amendment Act 1993 (1993 No 51).
     
     Section 283H(1): replaced, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -19151,13 +19173,13 @@ Careers New Zealand
     
 *   \[Repealed\]
     
-    Section 284: repealed, on 25 June 1993, by [section 23][1682] of the Education Amendment Act 1993 (1993 No 51).
+    Section 284: repealed, on 25 June 1993, by [section 23][1678] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 285 Power of Secretary to obtain information
     
 *   \[Repealed\]
     
-    Section 285: repealed, on 25 June 1993, by [section 23][1682] of the Education Amendment Act 1993 (1993 No 51).
+    Section 285: repealed, on 25 June 1993, by [section 23][1678] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 286 Powers of Board
     
@@ -19165,7 +19187,7 @@ Careers New Zealand
     
     (2) The Board has power for the purpose of the performance of the functions of the Service to charge for services provided by the Service.
     
-    Section 286: inserted, on 23 July 1990, by [section 44][1671] of the Education Amendment Act 1990 (1990 No 60).
+    Section 286: inserted, on 23 July 1990, by [section 44][1667] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 286(1): repealed, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -19273,7 +19295,7 @@ Tertiary Research Board
 ## Part 24  
 Miscellaneous provisions
     
-*   Part 24: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+*   Part 24: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 292 Offences relating to use of certain terms
     
@@ -19331,7 +19353,7 @@ Miscellaneous provisions
     
     Compare: 1989 No 80 [s 292][859]
     
-    Section 292: replaced, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292: replaced, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292(4): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19369,7 +19391,7 @@ Miscellaneous provisions
     
     (2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 292A: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292A: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292A(2): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19397,7 +19419,7 @@ Miscellaneous provisions
     
     Compare: 1986 No 121 [s 45(1), (2), (5)][131]
     
-    Section 292B: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292B: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 292C Offence to issue false qualifications and falsify records
     
@@ -19413,7 +19435,7 @@ Miscellaneous provisions
     
     (4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 292C: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292C: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292C(4): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19423,7 +19445,7 @@ Miscellaneous provisions
     
     (2) A private training establishment that commits an offence against this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 292D: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292D: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292D(2): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19455,7 +19477,7 @@ Miscellaneous provisions
     
     _training scheme_ has the meaning given to it in [section 159(1)][470].
     
-    Section 292E: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292E: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292E(5): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19467,7 +19489,7 @@ Miscellaneous provisions
     
     (3) A body that commits an offence against this section is liable, on conviction, to a fine not exceeding $10,000\.
     
-    Section 292F: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292F: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292F(3): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19479,7 +19501,7 @@ Miscellaneous provisions
     
     (3) A private training establishment or person that commits an offence against this section is liable, on conviction, to a fine not exceeding $10,000\.
     
-    Section 292G: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292G: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
     
     Section 292G(3): amended, on 4 October 2013, by [regulation 3(1)][1614] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -19495,7 +19517,7 @@ Miscellaneous provisions
     
     Compare: 1989 No 80 [s 292(12)][859]
     
-    Section 292H: inserted, on 30 August 2011, by [section 42][1685] of the Education Amendment Act 2011 (2011 No 66).
+    Section 292H: inserted, on 30 August 2011, by [section 42][1681] of the Education Amendment Act 2011 (2011 No 66).
 
 ##### 293 Transitional provisions consequential on repeal of Adult Education Act 1963
     
@@ -19507,11 +19529,11 @@ Miscellaneous provisions
     
     (2) The District Land Registrar for the Wellington land registration district shall make such entries in the register, and generally do all such other things, as may be necessary to give full effect to the provisions of this section in relation to the land at 192 Tinakori Road, Wellington, contained in Register Book Volume 41 Folio 132\.
     
-    Section 293: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 293: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 294 Taxes and duties in relation to property of former National Council of Adult Education
     
-*   (1) For the purposes of the Acts specified in the Schedule of the [Tax Administration Act 1994][1686] and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge---
+*   (1) For the purposes of the Acts specified in the Schedule of the [Tax Administration Act 1994][1682] and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge---
         
     *   (a) the National Council of Adult Education referred to in [section 293(1)(a)][868] (in this section referred to as the _National Council_) and the trustees referred to in that section (in this section referred to as the _trustees_) shall be deemed to be the same person with effect on and from the date on which the real and personal property of the National Council vests in the trustees pursuant to that section; and
     
@@ -19531,7 +19553,7 @@ Miscellaneous provisions
     
     (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
     
-    Section 294: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 294: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 294(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
@@ -19581,7 +19603,7 @@ Miscellaneous provisions
     
     (8) The Authority shall give to the Board any assistance that the Board requires for the purpose of complying with section 19 of the Trades Certification Act 1966 as that section applies by virtue of subsection (7)(a) of this section and is responsible for paying any expenses incurred by the Board (including remuneration and expenses of members of the Board) in so complying.
     
-    Section 295: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 295: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 296 Taxes and duties in relation to property of former New Zealand Trades Certification Board
     
@@ -19593,11 +19615,11 @@ Miscellaneous provisions
     
     (2) For the purposes of determining whether---
         
-    *   (a) any taxpayer satisfies the requirements of [section IF 1(1)(a)][1687] of the Income Tax Act 2004; or
+    *   (a) any taxpayer satisfies the requirements of [section IF 1(1)(a)][1683] of the Income Tax Act 2004; or
     
-    *   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of [section IG 1][1688] of the Income Tax Act 2004; or
+    *   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of [section IG 1][1684] of the Income Tax Act 2004; or
     
-    *   (c) any debit arises to be recorded in a taxpayer's imputation credit account under [section ME 5(1)(i)][1689] of the Income Tax Act 2004, or in a taxpayer's dividend withholding payment account under [section MG 5(1)(i)][1690] of that Act, or in a taxpayer's branch equivalent tax account under [section MF 4(3)(d)][1691] of that Act,---
+    *   (c) any debit arises to be recorded in a taxpayer's imputation credit account under [section ME 5(1)(i)][1685] of the Income Tax Act 2004, or in a taxpayer's dividend withholding payment account under [section MG 5(1)(i)][1686] of that Act, or in a taxpayer's branch equivalent tax account under [section MF 4(3)(d)][1687] of that Act,---
     
     shares held by the Board in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by [section 295(2)(a)][870] shall be treated as having been acquired by the Qualifications Authority at the time when they were acquired by the Board.
     
@@ -19605,21 +19627,21 @@ Miscellaneous provisions
     
     (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
     
-    Section 296: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 296: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 296(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
     Section 296(2)(a): replaced, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 296(2)(a): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1692] of the Income Tax Act 2004 (2004 No 35).
+    Section 296(2)(a): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1688] of the Income Tax Act 2004 (2004 No 35).
     
     Section 296(2)(b): replaced, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 296(2)(b): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1692] of the Income Tax Act 2004 (2004 No 35).
+    Section 296(2)(b): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1688] of the Income Tax Act 2004 (2004 No 35).
     
     Section 296(2)(c): replaced, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 296(2)(c): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1692] of the Income Tax Act 2004 (2004 No 35).
+    Section 296(2)(c): amended, on 1 April 2005 (effective for 2005--06 income year and later income years, except when the context requires otherwise), by [section YA 2][1688] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 297 Transitional provisions consequential on repeal of Universities Act 1961
     
@@ -19677,13 +19699,13 @@ Miscellaneous provisions
     
     (11) \[Repealed\]
     
-    Section 297: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 297: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 297(11): repealed, on 1 January 2003, by [section 45(2)(b)][1535] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 298 Taxes and duties in relation to certain property of former University Grants Committee
     
-*   (1) For the purposes of the Acts specified in the Schedule of the [Tax Administration Act 1994][1686] and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge---
+*   (1) For the purposes of the Acts specified in the Schedule of the [Tax Administration Act 1994][1682] and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge---
         
     *   (a) the University Grants Committee and the Minister shall be deemed to be the same person with effect on and from the date on which real and personal property of that Committee vests in the Minister pursuant to [section 297(1)(a)][872]; and
     
@@ -19703,7 +19725,7 @@ Miscellaneous provisions
     
     (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
     
-    Section 298: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 298: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 298(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
@@ -19749,7 +19771,7 @@ Miscellaneous provisions
     
     (7) The Qualifications Authority shall give to the previous Authority and a Course Committee any assistance that the previous Authority or Course Committee requires for the purpose of complying with its obligations under or arising by virtue of subsection (6) and is responsible for paying any expenses incurred by the previous Authority or Course Committee (including remuneration and expenses of members of the previous Authority or Course Committee) in so complying.
     
-    Section 299: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 299: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 300 Taxes and duties in relation to property of former Authority for Advanced Vocational Awards
     
@@ -19773,7 +19795,7 @@ Miscellaneous provisions
     
     (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
     
-    Section 300: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 300: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 300(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
@@ -19793,7 +19815,7 @@ Miscellaneous provisions
     
 *   The Governor-General may, from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of [Parts 13 to 24][468] and for the due administration of those provisions.
     
-    Section 301: inserted, on 23 July 1990, by [section 46][1684] of the Education Amendment Act 1990 (1990 No 60).
+    Section 301: inserted, on 23 July 1990, by [section 46][1680] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 301A Change of names of education entities
     
@@ -19805,13 +19827,13 @@ Miscellaneous provisions
     
     (2) An education entity established or continued by this Act does not cease to be such an entity merely because its name is changed under this section.
     
-    Section 301A: inserted, on 19 December 1998, by [section 52][1693] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 301A: inserted, on 19 December 1998, by [section 52][1689] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ## Part 25  
 Student allowances and administration of student loans
     
-*   Part 25: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
-*   Part 25 heading: amended, on 1 November 1999, by [section 4][1695] of the Education Amendment Act 1999 (1999 No 107).
+*   Part 25: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
+*   Part 25 heading: amended, on 1 November 1999, by [section 4][1691] of the Education Amendment Act 1999 (1999 No 107).
 
 ##### 302 Interpretation
     
@@ -19831,19 +19853,19 @@ Student allowances and administration of student loans
     
     _student loan_ has the same meaning as in [section 4(1)][1602] of the Student Loan Scheme Act 2011
     
-    _student loan information_ means information held by the Ministry for the purposes of the administration of the student loan scheme under the [Student Loan Scheme Act 2011][1696].
+    _student loan information_ means information held by the Ministry for the purposes of the administration of the student loan scheme under the [Student Loan Scheme Act 2011][1692].
     
-    Section 302: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
+    Section 302: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 302 **Minister**: inserted, on 1 January 1992, by [section 2(6)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 302 **Minister**: inserted, on 1 January 1992, by [section 2(6)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 302 **Ministry**: inserted, on 1 January 1992, by [section 2(6)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 302 **Ministry**: inserted, on 1 January 1992, by [section 2(6)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 302 **Secretary**: inserted, on 1 January 1992, by [section 2(6)][1019] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 302 **Secretary**: inserted, on 1 January 1992, by [section 2(6)][1020] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
     Section 302 **student loan**: replaced, on 1 April 2012, by [section 223][1609] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 302 **student loan information**: inserted, on 1 November 1999, by [section 5][1697] of the Education Amendment Act 1999 (1999 No 107).
+    Section 302 **student loan information**: inserted, on 1 November 1999, by [section 5][1693] of the Education Amendment Act 1999 (1999 No 107).
     
     Section 302 **student loan information**: amended, on 1 April 2012, by [section 223][1609] of the Student Loan Scheme Act 2011 (2011 No 62).
 
@@ -19887,7 +19909,7 @@ Student allowances and administration of student loans
     
     _CPI_ means the consumers price index-all groups published by Statistics New Zealand
     
-    _standard tax_ means the amount of tax reckoned on a weekly basis that would be withholdable in accordance with tax code ""M"" stated in [section 24B][1698] of the Tax Administration Act 1994\.
+    _standard tax_ means the amount of tax reckoned on a weekly basis that would be withholdable in accordance with tax code ""M"" stated in [section 24B][1694] of the Tax Administration Act 1994\.
     
     (4) The power to make regulations under subsection (1) includes (and is deemed always to have included) power to make regulations---
         
@@ -19901,23 +19923,23 @@ Student allowances and administration of student loans
     
     Compare: 1964 No 135 s 203(2)
     
-    Section 303: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
+    Section 303: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 303(2)(b): amended, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 303(3A): inserted, on 17 May 2006, by [section 47][1699] of the Education Amendment Act 2006 (2006 No 19).
+    Section 303(3A): inserted, on 17 May 2006, by [section 47][1695] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 303(3B): inserted, on 27 September 2010, by [section 4][1700] of the Education Amendment Act (No 2) 2010 (2010 No 103).
+    Section 303(3B): inserted, on 27 September 2010, by [section 4][1696] of the Education Amendment Act (No 2) 2010 (2010 No 103).
     
-    Section 303(3C): inserted, on 27 September 2010, by [section 4][1700] of the Education Amendment Act (No 2) 2010 (2010 No 103).
+    Section 303(3C): inserted, on 27 September 2010, by [section 4][1696] of the Education Amendment Act (No 2) 2010 (2010 No 103).
     
-    Section 303(3C): amended, on 24 October 2012, by [section 3][1701] of the Education (Student Allowances Indexation---Budget Measures) Amendment Act 2012 (2012 No 79).
+    Section 303(3C): amended, on 24 October 2012, by [section 3][1697] of the Education (Student Allowances Indexation---Budget Measures) Amendment Act 2012 (2012 No 79).
     
-    Section 303(3D): inserted, on 27 September 2010, by [section 4][1700] of the Education Amendment Act (No 2) 2010 (2010 No 103).
+    Section 303(3D): inserted, on 27 September 2010, by [section 4][1696] of the Education Amendment Act (No 2) 2010 (2010 No 103).
     
-    Section 303(3E): inserted, on 27 September 2010, by [section 4][1700] of the Education Amendment Act (No 2) 2010 (2010 No 103).
+    Section 303(3E): inserted, on 27 September 2010, by [section 4][1696] of the Education Amendment Act (No 2) 2010 (2010 No 103).
     
-    Section 303(3F): inserted, on 27 September 2010, by [section 4][1700] of the Education Amendment Act (No 2) 2010 (2010 No 103).
+    Section 303(3F): inserted, on 27 September 2010, by [section 4][1696] of the Education Amendment Act (No 2) 2010 (2010 No 103).
     
     Section 303(4): inserted, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
@@ -19937,7 +19959,7 @@ Student allowances and administration of student loans
     
     (3) The member may at any time be removed from office by the Minister by notice in the _Gazette_ for inability to adequately perform the duties of office, bankruptcy, neglect of duty, or misconduct, proved to the Minister's satisfaction, and may at any time resign office by written notice to the Minister.
     
-    (4) The Authority is a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][1702].
+    (4) The Authority is a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][1698].
     
     (5) The member is entitled to receive---
         
@@ -19949,11 +19971,11 @@ Student allowances and administration of student loans
     
     (7) The Authority is the body formerly known as the Tertiary Assistance Grants Appeal Authority.
     
-    Section 304: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
+    Section 304: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 304(2A): inserted, on 17 May 2006, by [section 48][1703] of the Education Amendment Act 2006 (2006 No 19).
+    Section 304(2A): inserted, on 17 May 2006, by [section 48][1699] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 304(3): amended, on 25 October 2001, by [section 58][1704] of the Education Standards Act 2001 (2001 No 88).
+    Section 304(3): amended, on 25 October 2001, by [section 58][1700] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 305 Appeals
     
@@ -20001,7 +20023,7 @@ Student allowances and administration of student loans
     
     (5) When substituting for any decision of the Secretary any other decision that the Secretary might have made, the Authority may (if it thinks that in all the circumstances to do so would be appropriate) require the Secretary to pay a sum fixed by the Authority, being all or part of the costs incurred by the Authority in hearing the appeal; and in that case the Secretary shall cause that sum to be paid to the chief executive of the Ministry of Justice.
     
-    Section 305: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
+    Section 305: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 305(2): amended, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
@@ -20009,7 +20031,7 @@ Student allowances and administration of student loans
     
     Section 305(3)(c): amended, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 305(5): amended, on 1 October 2003, pursuant to [section 14(2)][1705] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 305(5): amended, on 1 October 2003, pursuant to [section 14(2)][1701] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 306 Procedures to be prescribed
     
@@ -20023,9 +20045,9 @@ Student allowances and administration of student loans
     
     (3) The Ministry of Justice shall provide for the Authority all administrative and secretarial services necessary to enable it to perform its functions.
     
-    Section 306: inserted, on 23 July 1990, by [section 48][1694] of the Education Amendment Act 1990 (1990 No 60).
+    Section 306: inserted, on 23 July 1990, by [section 48][1690] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 306(3): amended, on 1 October 2003, pursuant to [section 14(1)][1705] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 306(3): amended, on 1 October 2003, pursuant to [section 14(1)][1701] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 306A Disclosure of enrolment information by secondary schools
     
@@ -20105,41 +20127,41 @@ Student allowances and administration of student loans
     
     (7) \[Repealed\]
     
-    Section 307: replaced, on 19 December 1998, by [section 53][1706] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 307: replaced, on 19 December 1998, by [section 53][1702] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 307 heading: amended, on 20 May 2010, by [section 64(1)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307 heading: amended, on 20 May 2010, by [section 64(1)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307 heading: amended, on 1 November 1999, by [section 6][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307 heading: amended, on 1 November 1999, by [section 6][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(1): amended, on 20 May 2010, by [section 64(2)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(1): amended, on 20 May 2010, by [section 64(2)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(1) **change in the recipient's circumstances**: inserted, on 20 May 2010, by [section 64(3)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(1) **change in the recipient's circumstances**: inserted, on 20 May 2010, by [section 64(3)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(1) **non-recipient**: inserted, on 20 May 2010, by [section 64(3)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(1) **non-recipient**: inserted, on 20 May 2010, by [section 64(3)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(1) **recipient**: amended, on 1 November 1999, by [section 6(1)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(1) **recipient**: amended, on 1 November 1999, by [section 6(1)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(3)(a)(i): amended, on 1 November 1999, by [section 6(2)(a)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(3)(a)(i): amended, on 1 November 1999, by [section 6(2)(a)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(3)(a)(ii): amended, on 1 November 1999, by [section 6(2)(b)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(3)(a)(ii): amended, on 1 November 1999, by [section 6(2)(b)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(3)(c)(i): amended, on 1 November 1999, by [section 6(2)(a)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(3)(c)(i): amended, on 1 November 1999, by [section 6(2)(a)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(3)(c)(ii): amended, on 1 November 1999, by [section 6(2)(b)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(3)(c)(ii): amended, on 1 November 1999, by [section 6(2)(b)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(4)(a): amended, on 1 November 1999, by [section 6(2)(a)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(4)(a): amended, on 1 November 1999, by [section 6(2)(a)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(4)(b): amended, on 1 November 1999, by [section 6(2)(b)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(4)(b): amended, on 1 November 1999, by [section 6(2)(b)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(5): replaced, on 1 November 1999, by [section 6(3)][1708] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307(5): replaced, on 1 November 1999, by [section 6(3)][1704] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307(5): amended, on 20 May 2010, by [section 64(4)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(5): amended, on 20 May 2010, by [section 64(4)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(6): replaced, on 20 May 2010, by [section 64(5)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(6): replaced, on 20 May 2010, by [section 64(5)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(6A): repealed, on 20 May 2010, by [section 64(5)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(6A): repealed, on 20 May 2010, by [section 64(5)][1703] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307(7): repealed, on 20 May 2010, by [section 64(5)][1707] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307(7): repealed, on 20 May 2010, by [section 64(5)][1703] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 307AAA Suspension or refusal for not providing information
     
@@ -20153,7 +20175,7 @@ Student allowances and administration of student loans
     
     (3) Payments must not be made under a statutory allowance while it is suspended under subsection (1).
     
-    Section 307AAA: inserted, on 20 May 2010, by [section 65][1709] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307AAA: inserted, on 20 May 2010, by [section 65][1705] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 307AA Offences concerning allowances and student loans
     
@@ -20183,21 +20205,21 @@ Student allowances and administration of student loans
     
     *   (c) wilfully fails to comply with [section 307(6)][885].
     
-    (3) Despite anything to the contrary in [section 25][1710] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 12 months after the date on which the offence was brought to the Ministry's attention.
+    (3) Despite anything to the contrary in [section 25][1706] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 12 months after the date on which the offence was brought to the Ministry's attention.
     
-    Section 307AA: inserted, on 19 December 1998, by [section 53][1706] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 307AA: inserted, on 19 December 1998, by [section 53][1702] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 307AA heading: amended, on 1 November 1999, by [section 7][1711] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307AA heading: amended, on 1 November 1999, by [section 7][1707] of the Education Amendment Act 1999 (1999 No 107).
     
     Section 307AA(1): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 307AA(1): amended, on 20 May 2010, by [section 66(1)][1712] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307AA(1): amended, on 20 May 2010, by [section 66(1)][1708] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307AA(2): replaced, on 20 May 2010, by [section 66(2)][1712] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307AA(2): replaced, on 20 May 2010, by [section 66(2)][1708] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 307AA(2): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 307AA(2A): replaced, on 20 May 2010, by [section 66(2)][1712] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307AA(2A): replaced, on 20 May 2010, by [section 66(2)][1708] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 307AA(2A): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -20213,21 +20235,21 @@ Student allowances and administration of student loans
     
     (2) Subsection (1) applies whether the allowance or money referred to in that subsection first became payable before or after 17 May 2006\.
     
-    Section 307AB: replaced, on 20 September 2007, by [section 6][1713] of the Education Amendment Act 2007 (2007 No 52).
+    Section 307AB: replaced, on 20 September 2007, by [section 6][1709] of the Education Amendment Act 2007 (2007 No 52).
 
 ##### 307AC Bonded scholarships
     
 *   (1) The Minister may, by notice in the _Gazette_, declare that any allowance to which [section 307AB][888] applies is a bonded scholarship.
     
-    (2) The effect of declaring an allowance to be a bonded scholarship is that, under [section 7][1714] of the Student Loan Scheme Act 2011, the [Student Loan Scheme Act 2011][1696] applies to enable the recovery of money in accordance with the terms of the scholarship.
+    (2) The effect of declaring an allowance to be a bonded scholarship is that, under [section 7][1710] of the Student Loan Scheme Act 2011, the [Student Loan Scheme Act 2011][1692] applies to enable the recovery of money in accordance with the terms of the scholarship.
     
-    Section 307AC: inserted, on 17 May 2006, by [section 50][1715] of the Education Amendment Act 2006 (2006 No 19).
+    Section 307AC: inserted, on 17 May 2006, by [section 50][1711] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 307AC(1): replaced, on 20 September 2007, by [section 7(1)][1716] of the Education Amendment Act 2007 (2007 No 52).
+    Section 307AC(1): replaced, on 20 September 2007, by [section 7(1)][1712] of the Education Amendment Act 2007 (2007 No 52).
     
     Section 307AC(2): amended, on 1 April 2012, by [section 223][1609] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 307AC(2): amended, on 20 September 2007, by [section 7(2)][1716] of the Education Amendment Act 2007 (2007 No 52).
+    Section 307AC(2): amended, on 20 September 2007, by [section 7(2)][1712] of the Education Amendment Act 2007 (2007 No 52).
 
 ##### 307A Use of student allowance information for purposes of Social Security Act 1964
     
@@ -20241,15 +20263,15 @@ Student allowances and administration of student loans
     
     _beneficiary information_ means information held by the department about a beneficiary
     
-    _benefit_ has the same meaning as in [section 3(1)][1717] of the Social Security Act 1964; and includes---
+    _benefit_ has the same meaning as in [section 3(1)][1713] of the Social Security Act 1964; and includes---
         
-    *   (a) a lump sum payable under [section 61DB][1718] or [section 61DC][1719] or [section 61DD][1720] of that Act:
+    *   (a) a lump sum payable under [section 61DB][1714] or [section 61DC][1715] or [section 61DD][1716] of that Act:
     
-    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][1721]of that Act
+    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][1717]of that Act
     
     _department_ means the department for the time being responsible for the administration of the [Social Security Act 1964][1601]
     
-    _tax file number_ has the same meaning as in [section YA 1][1722] of the Income Tax Act 2007\.
+    _tax file number_ has the same meaning as in [section YA 1][1718] of the Income Tax Act 2007\.
     
     (2) During any period in which the Ministry and the department are the same department,---
         
@@ -20295,29 +20317,29 @@ Student allowances and administration of student loans
     
     Section 307A: replaced, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 307A(1) **allowance**: amended, on 17 May 2006, by [section 51][1723] of the Education Amendment Act 2006 (2006 No 19).
+    Section 307A(1) **allowance**: amended, on 17 May 2006, by [section 51][1719] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 307A(1) **benefit** paragraph (b): amended, on 25 January 2005, pursuant to [section 65R(3)][1207] of the Public Finance Act 1989 (1989 No 44).
     
     Section 307A(1) **tax file number**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1549] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 307A(2)(a): amended, on 1 November 1999, by [section 8(1)(a)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(a): amended, on 1 November 1999, by [section 8(1)(a)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(b): amended, on 1 November 1999, by [section 8(1)(b)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(b): amended, on 1 November 1999, by [section 8(1)(b)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(c)(i): amended, on 1 November 1999, by [section 8(1)(c)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(c)(i): amended, on 1 November 1999, by [section 8(1)(c)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(c)(ii): amended, on 1 November 1999, by [section 8(1)(d)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(c)(ii): amended, on 1 November 1999, by [section 8(1)(d)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(d)(i): amended, on 1 November 1999, by [section 8(1)(e)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(d)(i): amended, on 1 November 1999, by [section 8(1)(e)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(d)(ii): amended, on 1 November 1999, by [section 8(1)(e)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(d)(ii): amended, on 1 November 1999, by [section 8(1)(e)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(da): inserted, on 1 November 1999, by [section 8(2)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(da): inserted, on 1 November 1999, by [section 8(2)][1720] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307A(2)(e): amended, on 20 May 2010, by [section 67][1725] of the Education Amendment Act 2010 (2010 No 25).
+    Section 307A(2)(e): amended, on 20 May 2010, by [section 67][1721] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 307A(2)(e): amended, on 1 November 1999, by [section 8(1)(f)][1724] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307A(2)(e): amended, on 1 November 1999, by [section 8(1)(f)][1720] of the Education Amendment Act 1999 (1999 No 107).
 
 ##### 307B Recovery of debts
     
@@ -20341,23 +20363,23 @@ Student allowances and administration of student loans
         
         
     
-    *   (ab) in the case of a debt described in [section 85A][1726] of the Social Security Act 1964, by deduction from any allowance; or
+    *   (ab) in the case of a debt described in [section 85A][1722] of the Social Security Act 1964, by deduction from any allowance; or
     
     *   (b) at the suit of the Secretary; or
     
-    *   (c) by deduction notice under [section 86A][1727] of the Social Security Act 1964\.
+    *   (c) by deduction notice under [section 86A][1723] of the Social Security Act 1964\.
     
-    (3) For the purposes of subsection (2)(c), [sections 86A][1727] and [86B to 86J][1728] of the Social Security Act 1964 apply with any necessary modifications.
+    (3) For the purposes of subsection (2)(c), [sections 86A][1723] and [86B to 86J][1724] of the Social Security Act 1964 apply with any necessary modifications.
     
     Section 307B: inserted, on 1 October 1998, by [section 11][1604] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 307B(1): replaced, on 1 November 1999, by [section 9(1)][1729] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307B(1): replaced, on 1 November 1999, by [section 9(1)][1725] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307B(2)(a): replaced, on 1 November 1999, by [section 9(2)][1729] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307B(2)(a): replaced, on 1 November 1999, by [section 9(2)][1725] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307B(2)(aa): inserted, on 1 November 1999, by [section 9(2)][1729] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307B(2)(aa): inserted, on 1 November 1999, by [section 9(2)][1725] of the Education Amendment Act 1999 (1999 No 107).
     
-    Section 307B(2)(ab): inserted, on 1 November 1999, by [section 9(2)][1729] of the Education Amendment Act 1999 (1999 No 107).
+    Section 307B(2)(ab): inserted, on 1 November 1999, by [section 9(2)][1725] of the Education Amendment Act 1999 (1999 No 107).
     
     Section 307B(2)(ab): amended, on 20 August 2012, by [section 28(2)][1608] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
 
@@ -20365,7 +20387,7 @@ Student allowances and administration of student loans
     
 *   \[Repealed\]
     
-    Section 307C: repealed, on 1 April 2007, by [section 42][1730] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 307C: repealed, on 1 April 2007, by [section 42][1726] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
 
 ##### 307D Details of academic performance
     
@@ -20377,16 +20399,16 @@ Student allowances and administration of student loans
     
     (2) In this section, _Ministry of Education_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of [Part 13][468].
     
-    Section 307D: inserted, on 17 May 2006, by [section 52(1)][1731] of the Education Amendment Act 2006 (2006 No 19).
+    Section 307D: inserted, on 17 May 2006, by [section 52(1)][1727] of the Education Amendment Act 2006 (2006 No 19).
 
 ## Part 26  
 Early childhood education and care
     
-*   Part 26: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Part 26: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 #### Interpretation
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 308 Overview
     
@@ -20404,7 +20426,7 @@ Early childhood education and care
     
     *   (f) provides for a range of other matters generally in relation to early childhood education and care, including administration, curriculum, Police vetting of employees, powers of entry, and offences.
     
-    Section 308: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 308: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 309 Interpretation
     
@@ -20424,7 +20446,7 @@ Early childhood education and care
     
     *   (c) any other home nominated by the parents of the children
     
-    _hospital-based education and care service_ means the provision of education or care to 3 or more children under the age of 6 who are receiving hospital care within the meaning of [section 4(1)][1733] of the Health and Disability Services (Safety) Act 2001
+    _hospital-based education and care service_ means the provision of education or care to 3 or more children under the age of 6 who are receiving hospital care within the meaning of [section 4(1)][1729] of the Health and Disability Services (Safety) Act 2001
     
     _licensed early childhood education and care centre_ means an early childhood education and care centre in respect of which the service provider holds a current licence issued under regulations made under [section 317][913]
     
@@ -20466,13 +20488,13 @@ Early childhood education and care
     
     *   (c) a parent of the child.
     
-    Section 309: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 309: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 309 **hospital-based education and care service**: replaced, on 20 May 2010, by [section 68(1)][1734] of the Education Amendment Act 2010 (2010 No 25).
+    Section 309 **hospital-based education and care service**: replaced, on 20 May 2010, by [section 68(1)][1730] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 309 **playgroup**: replaced, on 20 May 2010, by [section 68(2)][1734] of the Education Amendment Act 2010 (2010 No 25).
+    Section 309 **playgroup**: replaced, on 20 May 2010, by [section 68(2)][1730] of the Education Amendment Act 2010 (2010 No 25).
     
-    Section 309 **unsupervised access to children**: inserted, on 20 May 2010, by [section 68(3)][1734] of the Education Amendment Act 2010 (2010 No 25).
+    Section 309 **unsupervised access to children**: inserted, on 20 May 2010, by [section 68(3)][1730] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 310 Meaning of early childhood education and care centre
     
@@ -20488,11 +20510,11 @@ Early childhood education and care
     
     *   (b) hostels (within the meaning of [section 2(1)][4]):
     
-    *   (c) residences (within the meaning of [section 2(1)][1735] of the Children, Young Persons, and Their Families Act 1989):
+    *   (c) residences (within the meaning of [section 2(1)][1731] of the Children, Young Persons, and Their Families Act 1989):
     
-    *   (d) institutions under the control of the Ministry of Health or a district health board established by or under [section 19][1736] of the New Zealand Public Health and Disability Act 2000:
+    *   (d) institutions under the control of the Ministry of Health or a district health board established by or under [section 19][1732] of the New Zealand Public Health and Disability Act 2000:
     
-    *   (e) hospital care institutions (within the meaning of [section 58(4)][1737] of the Health and Disability Services (Safety) Act 2001):
+    *   (e) hospital care institutions (within the meaning of [section 58(4)][1733] of the Health and Disability Services (Safety) Act 2001):
     
     *   (f) children's health camps operated by Children's Health Camps---The New Zealand Foundation for Child and Family Health and Development:
     
@@ -20530,17 +20552,17 @@ Early childhood education and care
     
     (4) An early childhood education and care centre may be operated within the premises of a registered school; and its status as an early childhood education and care centre is not affected by the fact of its being operated within those premises.
     
-    Section 310: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 310: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 310(2)(ha): inserted, on 21 December 2010, by [section 34(1)][1738] of the Education Amendment Act (No 3) 2010 (2010 No 134).
+    Section 310(2)(ha): inserted, on 21 December 2010, by [section 34(1)][1734] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 310(3)(a): amended, on 21 December 2010, by [section 34(2)][1738] of the Education Amendment Act (No 3) 2010 (2010 No 134).
+    Section 310(3)(a): amended, on 21 December 2010, by [section 34(2)][1734] of the Education Amendment Act (No 3) 2010 (2010 No 134).
     
-    Section 310(3)(b)(i): amended, on 21 December 2010, by [section 34(2)][1738] of the Education Amendment Act (No 3) 2010 (2010 No 134).
+    Section 310(3)(b)(i): amended, on 21 December 2010, by [section 34(2)][1734] of the Education Amendment Act (No 3) 2010 (2010 No 134).
 
 #### Funding
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 311 Funding of certain early childhood services and certificated playgroups
     
@@ -20596,29 +20618,29 @@ Early childhood education and care
     
     *   (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)(b), the grant is used only for those purposes.
     
-    Section 311: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 311: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 311A Grants to licence-exempt centres
     
 *   \[Repealed\]
     
-    Section 311A: repealed, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 311A: repealed, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 311B Reporting requirements if grant paid to licence-exempt centre
     
 *   \[Repealed\]
     
-    Section 311B: repealed, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 311B: repealed, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 312 Loans to licensed early childhood services
     
 *   The Minister may, on any terms and conditions the Minister considers appropriate, lend to the service provider for any licensed early childhood service public money appropriated by Parliament for the purpose.
     
-    Section 312: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 312: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 #### Administration and curriculum
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 313 Administrative requirements
     
@@ -20634,7 +20656,7 @@ Early childhood education and care
     
     *   (e) any other records that are necessary to enable the service's performance to be monitored adequately.
     
-    Section 313: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 313: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 314 Curriculum framework
     
@@ -20662,13 +20684,13 @@ Early childhood education and care
     
     (5) If a curriculum framework is prescribed under this section, every service provider for a licensed early childhood service or who operates a certificated playgroup, and to whom that curriculum framework applies, must implement that curriculum framework in accordance with any requirements prescribed in regulations made under [section 317][913] or [section 319][915], as the case may be.
     
-    Section 314: replaced, on 17 May 2006, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 314: replaced, on 17 May 2006, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 314(5): inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 314(5): inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 #### Licensing and certification provisions
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 315 Service providers operating early childhood education and care centres to be licensed
     
@@ -20690,7 +20712,7 @@ Early childhood education and care
     
     (4) This section is subject to [section 319O][942].
     
-    Section 315: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 315: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 315(3): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -20698,25 +20720,25 @@ Early childhood education and care
     
 *   \[Repealed\]
     
-    Section 315AA: repealed, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 315AA: repealed, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 315AB Internal procedures relating to Police vets
     
 *   \[Repealed\]
     
-    Section 315AB: repealed, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 315AB: repealed, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 315A Payment of fees for attendance of children at kindergartens
     
 *   \[Repealed\]
     
-    Section 315A: repealed, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 315A: repealed, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 316 Certain service providers may be licensed
     
 *   A service provider for a home-based education and care service or a hospital-based education and care service may, but need not, apply for a licence under regulations made under [section 317][913] in respect of the home-based education and care service or hospital-based education and care service provided by the service provider.
     
-    Section 316: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 316: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 317 Regulations relating to licensing
     
@@ -20776,7 +20798,7 @@ Early childhood education and care
     
     (5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1075] and must be presented to the House of Representatives under [section 41][1076] of that Act.
     
-    Section 317: replaced, on 17 May 2006, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 317: replaced, on 17 May 2006, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 317(2)(j): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -20786,7 +20808,7 @@ Early childhood education and care
     
 *   A service provider who operates a playgroup may, but need not, apply for a certificate issued under regulations made under [section 319][915] in respect of the playgroup.
     
-    Section 318: replaced, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 318: replaced, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319 Regulations relating to certification of playgroups
     
@@ -20830,21 +20852,21 @@ Early childhood education and care
     
     (3) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1075] and must be presented to the House of Representatives under [section 41][1076] of that Act.
     
-    Section 319: replaced, on 17 May 2006, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319: replaced, on 17 May 2006, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 319(3): replaced, on 5 August 2013, by [section 77(3)][1078] of the Legislation Act 2012 (2012 No 119).
 
 ##### 319AA Application of Legislation Act 2012 to certain material incorporated by reference
     
-*   (1) This section applies if [section 49][1739] of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under [section 317(2)(b)][913] or [319(1)(b)][915] of this Act.
+*   (1) This section applies if [section 49][1735] of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under [section 317(2)(b)][913] or [319(1)(b)][915] of this Act.
     
-    (2) When this section applies, [subpart 2][1740] of Part 3 of the Legislation Act 2012 (other than [section 51][1741]) applies.
+    (2) When this section applies, [subpart 2][1736] of Part 3 of the Legislation Act 2012 (other than [section 51][1737]) applies.
     
     Section 319AA: inserted, on 5 August 2013, by [section 77(3)][1078] of the Legislation Act 2012 (2012 No 119).
 
 #### Powers of entry and inspection
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319A Parent's right of entry
     
@@ -20852,7 +20874,7 @@ Early childhood education and care
         
     *   (a) is subject to an order of a court that prohibits access to, or contact with, the child, either generally or with respect to the child while, or at a time when the child is, attending the centre or service; or
     
-    *   (b) is subject to a warning under [section 4][1742] of the Trespass Act 1980 to stay off the premises; or
+    *   (b) is subject to a warning under [section 4][1738] of the Trespass Act 1980 to stay off the premises; or
     
     *   (c) is suffering from a contagious or infectious disease likely to have a detrimental effect on the children if passed on to them; or
     
@@ -20860,7 +20882,7 @@ Early childhood education and care
     
     *   (e) is, in the opinion of a person responsible for the operation of the centre or service, exhibiting behaviour that is or is likely to be disruptive to the effective operation of the centre or service.
     
-    Section 319A: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319A: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319B Powers of entry and inspection without warrant
     
@@ -20896,7 +20918,7 @@ Early childhood education and care
     
     (6) For the purposes of this section and [section 319C][920], inspection, in relation to any premises, includes observing any children present there.
     
-    Section 319B: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319B: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319C Powers of entry and inspection with warrant
     
@@ -20932,11 +20954,11 @@ Early childhood education and care
     
     *   (b) the date specified as the date of expiry under subsection (3)(d).
     
-    Section 319C: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319C: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 #### Police vetting of employees
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319D Police vetting of non-teaching and unregistered employees at licensed early childhood services
     
@@ -20948,7 +20970,7 @@ Early childhood education and care
     
     *   (c) who is not a registered teacher or holder of a limited authority to teach.
     
-    Section 319D: replaced, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319D: replaced, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319E Police vetting of contractors and their employees who work at licensed early childhood services
     
@@ -20956,7 +20978,7 @@ Early childhood education and care
     
     (2) In this section, _contractor_ means a person who, under contract (other than an employment contract), works at a licensed early childhood service.
     
-    Section 319E: replaced, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319E: replaced, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319F Police vet must be obtained before person has unsupervised access to children
     
@@ -20964,7 +20986,7 @@ Early childhood education and care
     
     (2) The service provider of a licensed early childhood service that is required under [section 319D][922] to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the service.
     
-    Section 319F: replaced, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319F: replaced, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319FA Procedures relating to Police vets under section 319D or 319E
     
@@ -20980,11 +21002,11 @@ Early childhood education and care
         
         
     
-    Section 319FA: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319FA: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 #### Police vetting of household members for home-based services
     
-*   Heading: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+*   Heading: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319FB Police vetting of adult members of household where licensed home-based education and care service provided
     
@@ -20996,13 +21018,13 @@ Early childhood education and care
     
     (2) In this section, _adult_ means a person who is of or over the age of 17 years.
     
-    Section 319FB: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319FB: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319FC When Police vet under section 319FB must be obtained
     
 *   A Police vet required under [section 319FB][927] must be obtained before the adult is, or is likely to be, present when the service is being provided.
     
-    Section 319FC: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319FC: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319FD Procedures relating to Police vets under section 319FB
     
@@ -21018,11 +21040,11 @@ Early childhood education and care
         
         
     
-    Section 319FD: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319FD: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 #### Service provider to obtain further Police vets under this Part every 3 years
     
-*   Heading: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+*   Heading: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 319FE Further Police vets to be obtained every 3 years
     
@@ -21036,11 +21058,11 @@ Early childhood education and care
     
     (3) The requirement for a further Police vet under this section does not apply to a person on whom a Police vet under [section 319D][922] or [319E][923] would not be required if he or she were about to be appointed to a position at the licensed early childhood service or to work at the service at the time that the further Police vet would otherwise be required.
     
-    Section 319FE: inserted, on 20 May 2010, by [section 69][1743] of the Education Amendment Act 2010 (2010 No 25).
+    Section 319FE: inserted, on 20 May 2010, by [section 69][1739] of the Education Amendment Act 2010 (2010 No 25).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319G Offence of insulting, abusing, or intimidating staff
     
@@ -21050,7 +21072,7 @@ Early childhood education and care
     
     *   (b) while on centre premises or in any other place where children are assembled for purposes associated with the centre.
     
-    Section 319G: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319G: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 319G: amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -21058,7 +21080,7 @@ Early childhood education and care
     
 *   Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by [section 319A][918], [319B][919], or [319C][920].
     
-    Section 319H: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319H: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 319H: amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -21074,13 +21096,13 @@ Early childhood education and care
     
     *   (c) any contract or undertaking to the contrary entered into or given before the commencement of the Education Amendment Act (No 3) 1990\.
     
-    Section 319I: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319I: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319J Centres situated on property owned by, or leased to, the Crown
     
 *   (1) The continued operation of an early childhood education and care centre on land owned by, or leased to, the Crown, and the occupation by an early childhood education and care centre of any building on any such land, may be governed by---
         
-    *   (a) a lease or tenancy or licence between the Crown and the service provider who operates the centre under [section 45][1744] of the Public Works Act 1981; or
+    *   (a) a lease or tenancy or licence between the Crown and the service provider who operates the centre under [section 45][1740] of the Public Works Act 1981; or
     
     *   (b) a lease or licence between a board and the service provider under [section 70B][178] of the Education Act 1989; or
     
@@ -21112,11 +21134,11 @@ Early childhood education and care
     
     (4) In this section, _lease_ includes a sublease.
     
-    Section 319J: replaced, on 13 June 2013, by [section 34][1745] of the Education Amendment Act 2013 (2013 No 34).
+    Section 319J: replaced, on 13 June 2013, by [section 34][1741] of the Education Amendment Act 2013 (2013 No 34).
 
 #### Transitional provisions
     
-*   Heading: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+*   Heading: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319K Existing early childhood centres deemed to be licensed
     
@@ -21150,7 +21172,7 @@ Early childhood education and care
     
     (7) Every notice under subsection (3) or subsection (6) must give reasons for the action taken.
     
-    (8) Every early childhood centre must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as an early childhood centre licensed under regulations made under [section 317][913] (as inserted by [section 53][1732] of the Education Amendment Act 2006).
+    (8) Every early childhood centre must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as an early childhood centre licensed under regulations made under [section 317][913] (as inserted by [section 53][1728] of the Education Amendment Act 2006).
     
     (9) Subsections (1) to (6) do not limit any powers to cancel, suspend, or reclassify a licence conferred by the regulations referred to in [section 319N(1)(a) and (b)][941].
     
@@ -21166,7 +21188,7 @@ Early childhood education and care
     
     *   (b) in relation to an early childhood centre for which a provisional or full licence was in force immediately before the commencement of this section, the date that is 6 years after the commencement of this section.
     
-    Section 319K: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319K: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319L Existing chartered care arrangers deemed to be licensed
     
@@ -21196,9 +21218,9 @@ Early childhood education and care
     
     (7) Every notice under subsection (3) or subsection (6) must give reasons for the action taken.
     
-    (8) Every home-based education and care service must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as a home-based education and care service licensed under regulations made under [section 317][913] (as inserted by [section 53][1732] of the Education Amendment Act 2006).
+    (8) Every home-based education and care service must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as a home-based education and care service licensed under regulations made under [section 317][913] (as inserted by [section 53][1728] of the Education Amendment Act 2006).
     
-    Section 319L: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319L: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319M Funding conditions during transitional period
     
@@ -21212,19 +21234,19 @@ Early childhood education and care
     
     (3) The Minister may at any time, while this section applies in respect of any service provider, amend, revoke, or replace any statement of desirable objectives and practices referred to in subsection (2) by notice in the _Gazette_.
     
-    Section 319M: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319M: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319N Existing regulations preserved
     
-*   (1) The following regulations are to be treated as regulations made under [section 317][913] (as inserted by [section 53][1732] of the Education Amendment Act 2006):
+*   (1) The following regulations are to be treated as regulations made under [section 317][913] (as inserted by [section 53][1728] of the Education Amendment Act 2006):
         
-    *   (a) the [Education (Early Childhood Centres) Regulations 1998][1746] (SR 1998/85):
+    *   (a) the [Education (Early Childhood Centres) Regulations 1998][1742] (SR 1998/85):
     
-    *   (b) the [Education (Early Childhood Centres) Fees Regulations 1990][1747] (SR 1990/262):
+    *   (b) the [Education (Early Childhood Centres) Fees Regulations 1990][1743] (SR 1990/262):
     
-    *   (c) the [Education (Home-Based Care) Order 1992][1748] (SR 1992/238).
+    *   (c) the [Education (Home-Based Care) Order 1992][1744] (SR 1992/238).
     
-    (2) Despite subsection (1), the regulations referred to in subsection (1) are not to be treated as regulations made under [section 317][913] (as inserted by [section 53][1732] of the Education Amendment Act 2006) for the purposes of the following provisions:
+    (2) Despite subsection (1), the regulations referred to in subsection (1) are not to be treated as regulations made under [section 317][913] (as inserted by [section 53][1728] of the Education Amendment Act 2006) for the purposes of the following provisions:
         
     *   (a) [section 319K(1)(b), (2), and (5)][938]; and
     
@@ -21234,26 +21256,26 @@ Early childhood education and care
     
     (3) The regulations and order referred to in subsection (1) may be amended under [section 317][913].
     
-    Section 319N: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319N: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 319O Licence-exempt centres may continue
     
 *   (1) The service provider for an early childhood education and care centre, that immediately before the commencement of this section was a licence-exempt centre, may continue to operate that centre without a licence issued under regulations made under [section 317][913] for a period that expires 6 years after the date of the commencement of this section.
     
-    (2) Despite the repeal of [sections 311A][901] and [311B][902] by the [Education Amendment Act 2006][1749], grants may continue to be paid after the commencement of this section to a service provider operating any early childhood education and care centre that, immediately before the commencement of this section, was a licence-exempt centre, for any period that the Minister considers reasonable (not exceeding 6 years after the date of the commencement of this section).
+    (2) Despite the repeal of [sections 311A][901] and [311B][902] by the [Education Amendment Act 2006][1745], grants may continue to be paid after the commencement of this section to a service provider operating any early childhood education and care centre that, immediately before the commencement of this section, was a licence-exempt centre, for any period that the Minister considers reasonable (not exceeding 6 years after the date of the commencement of this section).
     
-    (3) For the purposes of subsection (2), [section 309][897] (as it read before the commencement of [section 53][1732] of the Education Amendment Act 2006) and [sections 311A][901] and [311B][902] continue to apply as if---
+    (3) For the purposes of subsection (2), [section 309][897] (as it read before the commencement of [section 53][1728] of the Education Amendment Act 2006) and [sections 311A][901] and [311B][902] continue to apply as if---
         
     *   (a) they were still in force; and
     
     *   (b) every reference to the management of a centre were a reference to the service provider who operates the centre.
     
-    Section 319O: inserted, on 1 December 2008, by [section 53][1732] of the Education Amendment Act 2006 (2006 No 19).
+    Section 319O: inserted, on 1 December 2008, by [section 53][1728] of the Education Amendment Act 2006 (2006 No 19).
 
 ## Part 27  
 Recognition and funding of other services
     
-*   Part 27: inserted, on 1 January 1992, by [section 33][1750] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+*   Part 27: inserted, on 1 January 1992, by [section 33][1746] of the Education Amendment Act (No 4) 1991 (1991 No 136).
 
 ##### 320 Interpretation
     
@@ -21273,9 +21295,9 @@ Recognition and funding of other services
     
     _Secretary_ means the chief executive of the Ministry.
     
-    Section 320: inserted, on 1 January 1992, by [section 33][1750] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 320: inserted, on 1 January 1992, by [section 33][1746] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 320 **educational body**, or **body**: inserted, on 1 January 2003, by [section 42][1751] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 320 **educational body**, or **body**: inserted, on 1 January 2003, by [section 42][1747] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 321 Grants to educational bodies
     
@@ -21293,13 +21315,13 @@ Recognition and funding of other services
     
     (7) During the financial year during which a grant was paid to a body under this section, and during the next financial year, the Secretary may by written notice to the body require it to give to the Secretary in writing any financial report, or statistical or other information, relating to the body specified in the notice, within a time specified in the notice; and the body shall take all reasonable steps to comply with the notice.
     
-    Section 321: inserted, on 1 January 1992, by [section 33][1750] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 321: inserted, on 1 January 1992, by [section 33][1746] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 321 heading: amended, on 1 January 2003, by [section 43(1)][1752] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 321 heading: amended, on 1 January 2003, by [section 43(1)][1748] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 321(1): replaced, on 1 January 2003, by [section 43(2)][1752] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 321(1): replaced, on 1 January 2003, by [section 43(2)][1748] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 321(2): replaced, on 1 January 2003, by [section 43(2)][1752] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 321(2): replaced, on 1 January 2003, by [section 43(2)][1748] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ##### 322 Educational bodies to keep accounts
     
@@ -21327,20 +21349,20 @@ Recognition and funding of other services
     
     (4) \[Repealed\]
     
-    Section 322: inserted, on 1 January 1992, by [section 33][1750] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 322: inserted, on 1 January 1992, by [section 33][1746] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 322 heading: amended, on 1 January 2003, by [section 44(1)][1753] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 322 heading: amended, on 1 January 2003, by [section 44(1)][1749] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 322(2): replaced, on 1 January 2003, by [section 44(2)][1753] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 322(2): replaced, on 1 January 2003, by [section 44(2)][1749] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 322(3): repealed, on 1 January 2003, by [section 44(2)][1753] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 322(3): repealed, on 1 January 2003, by [section 44(2)][1749] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
     
-    Section 322(4): repealed, on 1 January 2003, by [section 44(2)][1753] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+    Section 322(4): repealed, on 1 January 2003, by [section 44(2)][1749] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ## Part 28  
 Review of educational services
     
-*   Part 28: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+*   Part 28: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 323 Interpretation
     
@@ -21360,23 +21382,23 @@ Review of educational services
     
     _parent_, in [sections 328A to 328D][955], means the mother, father, or guardian of a person who has been exempted from the requirements of [section 20][61]
     
-    _registered school_ has the same meaning as it has in [section 2(1)][1755]
+    _registered school_ has the same meaning as it has in [section 2(1)][4]
     
     _review officer_ means a person for the time being designated under [section 326][951]; and includes the Chief Review Officer.
     
-    Section 323: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 323: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
     
-    Section 323 **applicable service**: amended, on 19 December 1998, by [section 56(1)][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 323 **applicable service**: amended, on 19 December 1998, by [section 56(1)][1751] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 323 **hostel**: inserted, on 25 October 2001, by [section 62(1)][1757] of the Education Standards Act 2001 (2001 No 88).
+    Section 323 **hostel**: inserted, on 25 October 2001, by [section 62(1)][1752] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 323 **parent**: inserted, on 19 December 1998, by [section 56(2)][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 323 **parent**: inserted, on 19 December 1998, by [section 56(2)][1751] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 323 **registered school**: inserted, on 25 October 2001, by [section 62(2)][1757] of the Education Standards Act 2001 (2001 No 88).
+    Section 323 **registered school**: inserted, on 25 October 2001, by [section 62(2)][1752] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 324 Educational services to which this Part applies
     
-*   (1) This Part applies to every educational service (other than a service provided only to or for people over 16 who are not enrolled at a State school within the meaning of [section 2(1)][1758])---
+*   (1) This Part applies to every educational service (other than a service provided only to or for people over 16 who are not enrolled at a State school within the meaning of [section 2(1)][1753])---
         
     *   (a) that is provided by an organisation---
             
@@ -21396,9 +21418,9 @@ Review of educational services
     
     (2) [Sections 328A to 328D][955] apply in relation to educational services provided to persons who are exempted from the requirements of [section 20][61]; and, for the purposes of this subsection and sections 328A to 328D, **educational service** is to be construed in that context and the meaning it has in the definition of the term applicable service in [section 323][948] does not apply.
     
-    Section 324: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 324: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
     
-    Section 324(2): inserted, on 19 December 1998, by [section 57][1759] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Section 324(2): inserted, on 19 December 1998, by [section 57][1754] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ##### 325 Chief Review Officer to perform certain functions
     
@@ -21408,7 +21430,7 @@ Review of educational services
             
         *   (i) when directed by the Minister to do so; or
         
-        *   (ii) notwithstanding [section 32][1760] of the State Sector Act 1988, of the Chief Review Officer's own motion,---
+        *   (ii) notwithstanding [section 32][1755] of the State Sector Act 1988, of the Chief Review Officer's own motion,---
         
         reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide; and
     
@@ -21416,13 +21438,13 @@ Review of educational services
     
     *   (c) give the Minister such other assistance and advice on the performance of applicable organisations as the Minister from time to time requires.
     
-    Section 325: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 325: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 326 Review officers
     
 *   The Chief Review Officer may designate any suitably qualified person (whether or not an employee of the Chief Review Officer) a review officer; and shall ensure that every person for the time being so designated has a certificate to that effect, in a form approved by the Chief Review Officer.
     
-    Section 326: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 326: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 327 Powers of entry and inspection
     
@@ -21450,17 +21472,17 @@ Review of educational services
     
     *   (e) meet and talk with any person to whom an applicable service is being provided.
     
-    Section 327: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 327: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 328 Review officers to prove identity
     
 *   Every review officer who enters any place under the authority of [section 327][952] shall, on first entering and, if requested, at any later time, produce to the person apparently in charge the review officer's certificate of designation.
     
-    Section 328: inserted, on 25 June 1993, by [section 25][1754] of the Education Amendment Act 1993 (1993 No 51).
+    Section 328: inserted, on 25 June 1993, by [section 25][1750] of the Education Amendment Act 1993 (1993 No 51).
 
 #### Provisions concerning students with enrolment exemption
     
-*   Heading: inserted, on 19 December 1998, by [section 58][1761] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+*   Heading: inserted, on 19 December 1998, by [section 58][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ##### 328A Functions of Chief Review Officer
     
@@ -21472,13 +21494,13 @@ Review of educational services
     
     *   (c) must give the Minister such other assistance and advice on the educational services provided to persons exempted from the requirements of [section 20][61] as the Minister from time to time requires.
     
-    Sections 328A: inserted, on 19 December 1998, by [section 58][1761] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Sections 328A: inserted, on 19 December 1998, by [section 58][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ##### 328B Review officers
     
 *   Review officers designated under [section 326][951] are also review officers for the purposes of [section 328A][955], and [sections 328C][957] and [328D][958] apply to them accordingly.
     
-    Sections 328B: inserted, on 19 December 1998, by [section 58][1761] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Sections 328B: inserted, on 19 December 1998, by [section 58][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ##### 328C Powers of review officers for purposes of sections 328A to 328D
     
@@ -21502,19 +21524,19 @@ Review of educational services
     
     (2) Nothing in this section confers on a review officer the power to enter any dwellinghouse without the consent of the owner or occupier.
     
-    Sections 328C: inserted, on 19 December 1998, by [section 58][1761] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Sections 328C: inserted, on 19 December 1998, by [section 58][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Section 328C(2): amended, on 20 May 2010, by [section 70][1762] of the Education Amendment Act 2010 (2010 No 25).
+    Section 328C(2): amended, on 20 May 2010, by [section 70][1757] of the Education Amendment Act 2010 (2010 No 25).
 
 ##### 328D Review officers to prove identity before acting under section 328C
     
 *   Every review officer who exercises any power under [section 328C][957] must, before exercising that power and, if requested, at any later time, produce to the parent or other person providing the educational service concerned the review officer's certificate of designation.
     
-    Sections 328D: inserted, on 19 December 1998, by [section 58][1761] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Sections 328D: inserted, on 19 December 1998, by [section 58][1756] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 #### Provisions concerning hostels
     
-*   Heading: inserted, on 25 October 2001, by [section 63][1763] of the Education Standards Act 2001 (2001 No 88).
+*   Heading: inserted, on 25 October 2001, by [section 63][1758] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 328E Functions of Chief Review Officer
     
@@ -21526,13 +21548,13 @@ Review of educational services
     
     *   (c) must give the Minister any other assistance and advice on the provision of a safe physical and emotional environment that supports learning for students accommodated at hostels that the Minister from time to time requires.
     
-    Section 328E: inserted, on 25 October 2001, by [section 63][1763] of the Education Standards Act 2001 (2001 No 88).
+    Section 328E: inserted, on 25 October 2001, by [section 63][1758] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 328F Review officers
     
 *   Review officers designated under [section 326][951] are also review officers for the purposes of [section 328E][960], and [sections 328G][962] and [328H][963] apply to them accordingly.
     
-    Section 328F: inserted, on 25 October 2001, by [section 63][1763] of the Education Standards Act 2001 (2001 No 88).
+    Section 328F: inserted, on 25 October 2001, by [section 63][1758] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 328G Powers of review officers for purposes of sections 328E to 328H
     
@@ -21564,24 +21586,24 @@ Review of educational services
     
     (3) This section does not limit any other powers of a review officer under this Act.
     
-    Section 328G: inserted, on 25 October 2001, by [section 63][1763] of the Education Standards Act 2001 (2001 No 88).
+    Section 328G: inserted, on 25 October 2001, by [section 63][1758] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 328H Review officers to prove identity before acting under section 328G
     
 *   Every review officer who exercises any power under [section 328G][962] must, before exercising that power and, if requested, at any later time, produce to the person apparently in charge the review officer's certificate of designation.
     
-    Section 328H: inserted, on 25 October 2001, by [section 63][1763] of the Education Standards Act 2001 (2001 No 88).
+    Section 328H: inserted, on 25 October 2001, by [section 63][1758] of the Education Standards Act 2001 (2001 No 88).
 
 ## Part 29  
 Learning Media Limited
     
-*   Part 29: inserted, on 25 June 1993, by [section 27][1764] of the Education Amendment Act 1993 (1993 No 51).
+*   Part 29: inserted, on 25 June 1993, by [section 27][1759] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 329 Interpretation
     
 *   In this Part, unless the context otherwise requires,---
     
-    _company_ means Learning Media Limited, a State enterprise under the [State-Owned Enterprises Act 1986][1765]
+    _company_ means Learning Media Limited, a State enterprise under the [State-Owned Enterprises Act 1986][1760]
     
     the _Ministry_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
     
@@ -21593,73 +21615,73 @@ Learning Media Limited
     
     *   (b) the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Public Finance Act 1989][1453].
     
-    Section 329: inserted, on 25 June 1993, by [section 27][1764] of the Education Amendment Act 1993 (1993 No 51).
+    Section 329: inserted, on 25 June 1993, by [section 27][1759] of the Education Amendment Act 1993 (1993 No 51).
     
-    Section 329 **company**: replaced, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 329 **company**: replaced, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
     
-    Section 329 the **Minister**: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 329 the **Minister**: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 330 Incorporation of company
     
 *   \[Repealed\]
     
-    Section 330: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 330: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 331 Principal objective of company
     
 *   (1) The company's principal objective is to provide, pursuant to contracts with the Secretary, the basic materials and services necessary to support the national education guidelines (within the meaning of [section 60][148]).
     
-    (2) Subsection (1) does not limit [section 4][1767] of the State-Owned Enterprises Act 1986\.
+    (2) Subsection (1) does not limit [section 4][1762] of the State-Owned Enterprises Act 1986\.
     
-    Section 331: replaced, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 331: replaced, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 332 Crown shareholding
     
 *   \[Repealed\]
     
-    Section 332: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 332: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 333 Application of Government Superannuation Fund Act 1956
     
-*   [Section 2A][1768] of the Government Superannuation Fund Act 1956 applies to the company.
+*   [Section 2A][1763] of the Government Superannuation Fund Act 1956 applies to the company.
     
-    Section 333: inserted, on 25 June 1993, by [section 27][1764] of the Education Amendment Act 1993 (1993 No 51).
+    Section 333: inserted, on 25 June 1993, by [section 27][1759] of the Education Amendment Act 1993 (1993 No 51).
 
 ##### 334 Application of Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 334: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 334: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 335 Auditor
     
 *   \[Repealed\]
     
-    Section 335: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 335: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 336 Application of Companies Act 1955
     
 *   \[Repealed\]
     
-    Section 336: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 336: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 337 Personnel policy
     
 *   \[Repealed\]
     
-    Section 337: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 337: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 338 Equal employment opportunities programme
     
 *   \[Repealed\]
     
-    Section 338: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 338: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 339 Consultation with State Services Commissioner
     
 *   \[Repealed\]
     
-    Section 339: repealed, on 25 January 2005, by [section 5][1766] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
+    Section 339: repealed, on 25 January 2005, by [section 5][1761] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 
 ##### 340 Existing rights, assets, liabilities, and debts
     
@@ -21677,18 +21699,18 @@ Learning Media Limited
     
     (2) All patents, trademarks, designs, copyright, and other intellectual property of the Crown (whether enforceable under any enactment or by law) formerly exercisable or used, exclusively or substantially, by the learning media section of the Ministry, all rights exercisable by the Crown in respect of any such intellectual property, and all liabilities of the Crown contracted in relation to any such intellectual property, shall remain assets, rights, and liabilities of the Crown.
     
-    Section 340: inserted, on 25 June 1993, by [section 27][1764] of the Education Amendment Act 1993 (1993 No 51).
+    Section 340: inserted, on 25 June 1993, by [section 27][1759] of the Education Amendment Act 1993 (1993 No 51).
 
 ## Part 30  
 National student numbers
     
-*   Part 30: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+*   Part 30: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 341 Purpose
     
 *   The purpose of this Part is to authorise the use by authorised users of national student numbers for specific purposes, in order to facilitate the accurate use and transfer, by authorised users, of information relating to individual students.
     
-    Section 341: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 341: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 342 Interpretation
     
@@ -21722,11 +21744,11 @@ National student numbers
     
     _Secretary_ means the chief executive of the Ministry.
     
-    Section 342: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 342: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 342 **early childhood service**: inserted, on 13 June 2013, by [section 35(1)][1770] of the Education Amendment Act 2013 (2013 No 34).
+    Section 342 **early childhood service**: inserted, on 13 June 2013, by [section 35(1)][1765] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 342 **education provider** paragraph (a): amended, on 13 June 2013, by [section 35(2)][1770] of the Education Amendment Act 2013 (2013 No 34).
+    Section 342 **education provider** paragraph (a): amended, on 13 June 2013, by [section 35(2)][1765] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 343 Assigning national student numbers
     
@@ -21744,9 +21766,9 @@ National student numbers
     
     (2) On the date on which this Part comes into force, every national student number that is already assigned to a person is deemed to be a national student number assigned under this section to that person.
     
-    Section 343: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 343: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 343(1A): inserted, on 13 June 2013, by [section 36][1771] of the Education Amendment Act 2013 (2013 No 34).
+    Section 343(1A): inserted, on 13 June 2013, by [section 36][1766] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 344 Use of national student numbers
     
@@ -21778,19 +21800,19 @@ National student numbers
     
     (6) An authorised user that is required to use national student numbers for a specific purpose must use national student numbers for that purpose.
     
-    Section 344: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 344: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 344(2)(ab): inserted, on 13 June 2013, by [section 37][1772] of the Education Amendment Act 2013 (2013 No 34).
+    Section 344(2)(ab): inserted, on 13 June 2013, by [section 37][1767] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 345 Person may use or disclose own national student number
     
 *   Despite anything in this Part, a person may use or disclose his or her own national student number for any purpose.
     
-    Section 345: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 345: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 345 heading: amended, on 13 June 2013, by [section 38(1)][1773] of the Education Amendment Act 2013 (2013 No 34).
+    Section 345 heading: amended, on 13 June 2013, by [section 38(1)][1768] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 345: amended, on 13 June 2013, by [section 38(2)][1773] of the Education Amendment Act 2013 (2013 No 34).
+    Section 345: amended, on 13 June 2013, by [section 38(2)][1768] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 346 Offences
     
@@ -21798,11 +21820,11 @@ National student numbers
     
     (2) A person (**person A**) who is not an authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse, keeps a record of, or requires the disclosure of, the national student number of another person **(person B**) if the number is, or is capable by person A of being, linked to any information that may lead person A to the identification of person B.
     
-    Section 346: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 346: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 346(1): amended, on 1 July 2013, by [section 413][1048] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 346(2): replaced, on 13 June 2013, by [section 39][1774] of the Education Amendment Act 2013 (2013 No 34).
+    Section 346(2): replaced, on 13 June 2013, by [section 39][1769] of the Education Amendment Act 2013 (2013 No 34).
 
 ##### 347 Regulations
     
@@ -21810,7 +21832,7 @@ National student numbers
     
     (2) A recommendation for an Order in Council to be made under this section may not be made unless the Privacy Commissioner has been consulted on the recommendation.
     
-    Section 347: inserted, on 17 May 2006, by [section 54][1769] of the Education Amendment Act 2006 (2006 No 19).
+    Section 347: inserted, on 17 May 2006, by [section 54][1764] of the Education Amendment Act 2006 (2006 No 19).
 
 ---
 
@@ -21887,11 +21909,11 @@ Van Asch College, Christchurch
 
 Waimokoia School, Auckland
     
-*   Schedule 5 Central Regional Health School, Wellington: inserted, on 1 July 2000, by [clause 3][1775] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
-*   Schedule 5 Felix Donnelly College, Tuakau: inserted, on 1 July 2000, by [clause 3][1775] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
-*   Schedule 5 Homai Vision Education Centre, Auckland: inserted, on 1 July 2000, by [clause 3][1775] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
-*   Schedule 5 Northern Hospitals School, Auckland: inserted, on 1 July 2000, by [clause 3][1775] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
-*   Schedule 5 Southern Regional Health School, Christchurch: inserted, on 1 July 2000, by [clause 3][1775] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
+*   Schedule 5 Central Regional Health School, Wellington: inserted, on 1 July 2000, by [clause 3][1770] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
+*   Schedule 5 Felix Donnelly College, Tuakau: inserted, on 1 July 2000, by [clause 3][1770] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
+*   Schedule 5 Homai Vision Education Centre, Auckland: inserted, on 1 July 2000, by [clause 3][1770] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
+*   Schedule 5 Northern Hospitals School, Auckland: inserted, on 1 July 2000, by [clause 3][1770] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
+*   Schedule 5 Southern Regional Health School, Christchurch: inserted, on 1 July 2000, by [clause 3][1770] of the Education (Specified Institutions) Order 2000 (SR 2000/44).
 
 ---
 
@@ -21901,47 +21923,47 @@ Application of Crown Entities Act 2004 to school boards of trustees
 [s 65H][167]
 
 *   Schedule 5A: inserted, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
-*   Schedule 5A heading: amended, on 20 May 2010, by [section 71(1)][1776] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 5A heading: amended, on 20 May 2010, by [section 71(1)][1771] of the Education Amendment Act 2010 (2010 No 25).
 
 **Section****Brief description**
 
-[Sections 3 to 8][1777]Crown entities and categories
+[Sections 3 to 8][1772]Crown entities and categories
 
 [Section 10][1452]Interpretation
 
-[Section 99][1778]Application to multi-parent subsidiaries
+[Section 99][1773]Application to multi-parent subsidiaries
 
-[Section 102][1779]Interface with Companies Act 1993 and other Acts
+[Section 102][1774]Interface with Companies Act 1993 and other Acts
 
-[Section 107][1780]Directions under section 107
+[Section 107][1775]Directions under section 107
 
-[Section 113][1781]Safeguarding independence of Crown entities
+[Section 113][1776]Safeguarding independence of Crown entities
 
-[Section 114][1782]Crown entity must comply with directions given under statutory power of direction
+[Section 114][1777]Crown entity must comply with directions given under statutory power of direction
 
-[Section 115][1783]Procedure for all Ministerial directions
+[Section 115][1778]Procedure for all Ministerial directions
 
-[Section 119][1784]Cross reference to State Sector Act 1988, [sections 84 to 84B][1785]
+[Section 119][1779]Cross reference to State Sector Act 1988, [sections 84 to 84B][1780]
 
-[Section 131(2)][1786]Application of [Ombudsmen Act 1975][1438] and [Official Information Act 1982][1444]
+[Section 131(2)][1781]Application of [Ombudsmen Act 1975][1438] and [Official Information Act 1982][1444]
 
-[Section 133][1787]Minister's power to request information
+[Section 133][1782]Minister's power to request information
 
-[Section 134][1788]Reasons for refusing to supply information
+[Section 134][1783]Reasons for refusing to supply information
 
-[Section 135][1789]Officials for the purposes of sections of the [Crimes Act 1961][1790]
+[Section 135][1784]Officials for the purposes of sections of the [Crimes Act 1961][1785]
 
-[Section 136][1791]Interpretation for [Part 4][1179]
+[Section 136][1786]Interpretation for [Part 4][1179]
 
-[Section 137][1792]Application of [subpart 2][1793] of Part 4
+[Section 137][1787]Application of [subpart 2][1788] of Part 4
 
 [Section 155][1216], with the variation specified in [section 87(4)][226] of the Education Act 1989Statement of responsibility for financial statements
 
-[Section 157][1794]Variation of reporting requirements of multi-parent subsidiaries
+[Section 157][1789]Variation of reporting requirements of multi-parent subsidiaries
 
 [Section 158][1531]Bank accounts
 
-[Section 159][1795]Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
+[Section 159][1790]Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
 
 [Sections 160 to 164][1174]Restrictions on acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions
 
@@ -21949,20 +21971,20 @@ Application of Crown Entities Act 2004 to school boards of trustees
 
 [Section 168(1)][1532] and (2), except that the reference to [section 154][1590] must be read as a reference to [section 87(3)][226] of the Education Act 1989Accounting records
 
-[Section 173][1796]Regulations
+[Section 173][1791]Regulations
 
-[Section 176][1797]Application of provisions of the [Public Finance Act 1989][1453]
+[Section 176][1792]Application of provisions of the [Public Finance Act 1989][1453]
 
-[Section 178][1798]Application of Archives Act 1957
+[Section 178][1793]Application of Archives Act 1957
 
-[Section 179][1799][Public Bodies Contracts Act 1959][1800] does not apply
+[Section 179][1794][Public Bodies Contracts Act 1959][1795] does not apply
 
-[Section 180][1801][Local Authorities (Members' Interests) Act 1968][1802] does not apply
+[Section 180][1796][Local Authorities (Members' Interests) Act 1968][1797] does not apply
 
-[Sections 181][1803], [188][1804], [191][1805], [193][1806], [194][1807], [195][1808], [196][1177], [197][1178], [198][1217], [199][1809], [200][1068]Transitional and savings provisions and associated consequential amendments
+[Sections 181][1798], [188][1799], [191][1800], [193][1801], [194][1802], [195][1803], [196][1177], [197][1178], [198][1217], [199][1804], [200][1068]Transitional and savings provisions and associated consequential amendments
 
 *   Schedule 5A: amended, on 18 July 2013, by [section 42][1211] of the Crown Entities Amendment Act 2013 (2013 No 51).
-*   Schedule 5A: amended, on 20 May 2010, by [section 71(2)][1776] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 5A: amended, on 20 May 2010, by [section 71(2)][1771] of the Education Amendment Act 2010 (2010 No 25).
 
 ---
 
@@ -22003,7 +22025,7 @@ Other provisions applying to boards
 
 ##### 1B Acts in breach of statute are invalid
     
-*   (1) An act of a board is invalid, unless [clause 1C][1810] applies, if it is---
+*   (1) An act of a board is invalid, unless [clause 1C][1805] applies, if it is---
         
     *   (a) an act that is contrary to, or outside the authority of, an Act; or
     
@@ -22015,7 +22037,7 @@ Other provisions applying to boards
 
 ##### 1C Some natural person acts protected
     
-*   (1) [Clause 1B][1811] or any rule of law to similar effect does not prevent a person dealing with a board from enforcing a transaction that is a natural person act unless the person dealing with the board had, or ought reasonably to have had, knowledge---
+*   (1) [Clause 1B][1806] or any rule of law to similar effect does not prevent a person dealing with a board from enforcing a transaction that is a natural person act unless the person dealing with the board had, or ought reasonably to have had, knowledge---
         
     *   (a) of an express restriction in an Act that makes the act contrary to, or outside the authority of, the Act; or
     
@@ -22039,7 +22061,7 @@ Other provisions applying to boards
     
     (3) A person who relies on subclause (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
     
-    (4) A board must report, in its annual report, each transaction that the board has performed in the year to which the report relates that was invalid under [clause 1B][1811] but enforced in reliance on subclause (1).
+    (4) A board must report, in its annual report, each transaction that the board has performed in the year to which the report relates that was invalid under [clause 1B][1806] but enforced in reliance on subclause (1).
     
     (5) For the avoidance of doubt, this section does not affect any person's remedies (for example, remedies in contract) under the general law.
     
@@ -22049,7 +22071,7 @@ Other provisions applying to boards
     
 *   It is irrelevant to the validity of an act that the act is not, or would not be, in the best interests of a board.
     
-    Compare: 1993 No 105 s [17(3)][1812]
+    Compare: 1993 No 105 s [17(3)][1807]
     
     Schedule 6 clause 1D: inserted, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -22073,13 +22095,13 @@ Other provisions applying to boards
     
     (3) Nothing in this clause affects a person's right to apply, in accordance with the law, for judicial review.
     
-    Compare: 1993 No 105 [s 18][1813]
+    Compare: 1993 No 105 [s 18][1808]
     
     Schedule 6 clause 1E: inserted, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 1F Interpretation
     
-*   In [clauses 1B to 1E][1811], unless the context otherwise requires,---
+*   In [clauses 1B to 1E][1806], unless the context otherwise requires,---
     
     _act_ includes a transfer of property, rights, or interests to or by a board
     
@@ -22105,7 +22127,7 @@ Other provisions applying to boards
 
 ##### 1G Directions under section 107 of Crown Entities Act 2004
     
-*   (1) A board must comply with any direction given under [section 107][1780] of the Crown Entities Act 2004\.
+*   (1) A board must comply with any direction given under [section 107][1775] of the Crown Entities Act 2004\.
     
     (2) The board may be dissolved under [section 78I(1)(e)][202] if it does not.
     
@@ -22157,7 +22179,7 @@ Other provisions applying to boards
     
     *   (c) the fact that any elected, appointed, or co-opted trustee acted as a trustee while a person who may not (in terms of [section 103(1)][271]) become an elected, appointed, or co-opted trustee; or
     
-    *   (d) the fact that a person continued acting as a trustee after the person's office as a trustee became vacant and (in the case of a person whose election as a trustee has been declared invalid under [clause 9][1814] or by a court), before the person's election was declared invalid.
+    *   (d) the fact that a person continued acting as a trustee after the person's office as a trustee became vacant and (in the case of a person whose election as a trustee has been declared invalid under [clause 9][1809] or by a court), before the person's election was declared invalid.
     
     
 
@@ -22173,7 +22195,7 @@ Other provisions applying to boards
     
     *   (c) when the person for the time being appointed ceases to be a trustee, or resigns the task by notice in writing to the board.
     
-    Schedule 6 clause 7: replaced, on 17 May 2006, by [section 55][1815] of the Education Amendment Act 2006 (2006 No 19).
+    Schedule 6 clause 7: replaced, on 17 May 2006, by [section 55][1810] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 8 Meetings
     
@@ -22181,7 +22203,7 @@ Other provisions applying to boards
     
     (2) Where a board does not at any meeting determine a time and place for its next meeting, the time and place of its next meeting shall be determined---
         
-    *   (a) by the person for the time being appointed under [clause 7][1816]; or
+    *   (a) by the person for the time being appointed under [clause 7][1811]; or
     
     *   (b) where no such person is for the time being appointed, and a trustee who presided at the board's previous meeting is still a trustee, by the trustee; and
     
@@ -22193,7 +22215,7 @@ Other provisions applying to boards
         
         by the principal.
     
-    (3) When a casual vacancy occurs, the person for the time being appointed under [clause 7][1816] or, where there is no such person, the principal must fix a place for a meeting of the board to deal with the vacancy, and a time for the meeting that is---
+    (3) When a casual vacancy occurs, the person for the time being appointed under [clause 7][1811] or, where there is no such person, the principal must fix a place for a meeting of the board to deal with the vacancy, and a time for the meeting that is---
         
     *   (a) within 28 days of the vacancy occurring, if it occurs during any period of 6 months commencing on 1 October in a year before an election year; or
     
@@ -22203,7 +22225,7 @@ Other provisions applying to boards
     
     (5) At a meeting of a board,---
         
-    *   (a) the person for the time being appointed under [clause 7][1816] shall preside if present; and
+    *   (a) the person for the time being appointed under [clause 7][1811] shall preside if present; and
     
     *   (b) otherwise, a trustee (not being the principal or a staff or student representative) appointed by the board at the meeting shall preside.
     
@@ -22237,7 +22259,7 @@ Other provisions applying to boards
     
     (12) Except as provided in this Act, every board shall determine its own procedures.
     
-    Schedule 6 clause 8(3): replaced, on 20 May 2010, by [section 72][1817] of the Education Amendment Act 2010 (2010 No 25).
+    Schedule 6 clause 8(3): replaced, on 20 May 2010, by [section 72][1812] of the Education Amendment Act 2010 (2010 No 25).
     
     Schedule 6 clause 8(8): amended, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -22283,11 +22305,11 @@ Other provisions applying to boards
     
     (4) Every notice under this clause shall have effect according to its tenor.
     
-    Schedule 6 clause 9 heading: amended, on 19 December 1998, by [section 59][1818] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Schedule 6 clause 9 heading: amended, on 19 December 1998, by [section 59][1813] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Schedule 6 clause 9(3): replaced, on 19 December 1998, by [section 59][1818] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Schedule 6 clause 9(3): replaced, on 19 December 1998, by [section 59][1813] of the Education Amendment Act (No 2) 1998 (1998 No 118).
     
-    Schedule 6 clause 9(3A): inserted, on 19 December 1998, by [section 59][1818] of the Education Amendment Act (No 2) 1998 (1998 No 118).
+    Schedule 6 clause 9(3A): inserted, on 19 December 1998, by [section 59][1813] of the Education Amendment Act (No 2) 1998 (1998 No 118).
 
 ---
 
@@ -22307,7 +22329,7 @@ Consequential amendments to Private Schools Conditional Integration Act 1975
 
 [s 141][397]
 
-_Amendment(s) incorporated in the [Act(s)][1024]._
+_Amendment(s) incorporated in the [Act(s)][1025]._
 
 ---
 
@@ -22331,33 +22353,33 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Education Lands Act 1949 (1949 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1819]_.
+_Amendment(s) incorporated in the [Act(s)][1814]_.
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][1820]_.
+_Amendment(s) incorporated in the [Act(s)][1815]_.
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][1821]_.
+_Amendment(s) incorporated in the [Act(s)][1816]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1822]_.
+_Amendment(s) incorporated in the [Act(s)][1817]_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][1823]_.
+_Amendment(s) incorporated in the [Act(s)][1818]_.
 
-Schedule 10: amended, on 20 May 2010, by [section 73(1)][1824] of the Education Amendment Act 2010 (2010 No 25).
+Schedule 10: amended, on 20 May 2010, by [section 73(1)][1819] of the Education Amendment Act 2010 (2010 No 25).
 
-Schedule 10: amended, on 20 May 2010, by [section 73(2)][1824] of the Education Amendment Act 2010 (2010 No 25).
+Schedule 10: amended, on 20 May 2010, by [section 73(2)][1819] of the Education Amendment Act 2010 (2010 No 25).
 
-Schedule 10: amended, on 20 May 2010, by [section 73(3)][1824] of the Education Amendment Act 2010 (2010 No 25).
+Schedule 10: amended, on 20 May 2010, by [section 73(3)][1819] of the Education Amendment Act 2010 (2010 No 25).
 
-Schedule 10: amended, on 20 May 2010, by [section 73(4)][1824] of the Education Amendment Act 2010 (2010 No 25).
+Schedule 10: amended, on 20 May 2010, by [section 73(4)][1819] of the Education Amendment Act 2010 (2010 No 25).
 
-Schedule 10: amended, on 20 May 2010, by [section 73(5)][1824] of the Education Amendment Act 2010 (2010 No 25).
+Schedule 10: amended, on 20 May 2010, by [section 73(5)][1819] of the Education Amendment Act 2010 (2010 No 25).
 
 ---
 
@@ -22366,7 +22388,7 @@ Consequential repeals
 
 [s 142(3)][398]
 
-*   Schedule 11 heading: amended, on 23 July 1990, by [section 34][1825] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 11 heading: amended, on 23 July 1990, by [section 34][1820] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### Education Act 1964 (1964 No 135) (Reprinted 1975, Vol 3, p 1699)
 
@@ -22388,13 +22410,13 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Education Amendment Act 1972 (1972 No 34) (Reprinted 1975, Vol 3, p 1886)
 
-_Amendment(s) incorporated in the [Act(s)][1826]_.
+_Amendment(s) incorporated in the [Act(s)][1821]_.
 
 ##### Education Amendment Act (No 2) 1974 (1974 No 136)
 
 **(Reprinted 1975, Vol 3, p 1888)**
 
-_Amendment(s) incorporated in the [Act(s)][1826]_
+_Amendment(s) incorporated in the [Act(s)][1821]_
 
 ##### Education Amendment Act 1975 (1975 No 26)
 
@@ -22422,11 +22444,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Education Amendment Act (No 2) 1982 (1982 No 155)
 
-_Amendment(s) incorporated in the [Act(s)][1827]_.
+_Amendment(s) incorporated in the [Act(s)][1822]_.
 
 ##### Education Amendment Act 1983 (1983 No 57)
 
-_Amendment(s) incorporated in the [Act(s)][1828]_.
+_Amendment(s) incorporated in the [Act(s)][1823]_.
 
 ##### Education Amendment Act (No 2) 1987 (1987 No 177)
 
@@ -22434,7 +22456,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][1829]_.
+_Amendment(s) incorporated in the [Act(s)][1824]_.
 
 ##### School Trustees Act 1989 (1989 No 3)
 
@@ -22558,23 +22580,23 @@ Application of Crown Entities Act 2004 to tertiary education institutions
 [s 203][617]
 
 *   Schedule 13A: replaced, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
-*   Schedule 13A heading: amended, on 20 May 2010, by [section 74(1)][1830] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 13A heading: amended, on 20 May 2010, by [section 74(1)][1825] of the Education Amendment Act 2010 (2010 No 25).
 
 **Section****Brief description**
 
-[Section 3 to 8][1777]Crown entities and categories
+[Section 3 to 8][1772]Crown entities and categories
 
 [Section 10][1452]Interpretation
 
-[Section 119][1784]Cross reference to State Sector Act 1988, [sections 84 to 84B][1785]
+[Section 119][1779]Cross reference to State Sector Act 1988, [sections 84 to 84B][1780]
 
-[Section 131(2)][1786]Application of [Official Information Act 1982][1444] and [Ombudsmen Act 1975][1438]
+[Section 131(2)][1781]Application of [Official Information Act 1982][1444] and [Ombudsmen Act 1975][1438]
 
-[Section 135][1789] (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries)Officials for the purposes of sections of the [Crimes Act 1961][1790]
+[Section 135][1784] (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries)Officials for the purposes of sections of the [Crimes Act 1961][1785]
 
-[Section 136][1791]Interpretation for [Part 4][1179]
+[Section 136][1786]Interpretation for [Part 4][1179]
 
-[Section 137][1792]Application of [subpart 2][1793] of Part 4
+[Section 137][1787]Application of [subpart 2][1788] of Part 4
 
 [Section 154][1590], as amended by the Education Act 1989 [section 220(2) to (2B)][635], in [Schedule 6][1176]Financial statements
 
@@ -22582,7 +22604,7 @@ Application of Crown Entities Act 2004 to tertiary education institutions
 
 [Section 156][1591]Audit report
 
-[Section 157][1794]Allows for variation of reporting requirements of multi-parent subsidiaries
+[Section 157][1789]Allows for variation of reporting requirements of multi-parent subsidiaries
 
 [Section 220][635] Education Act 1989Inclusion of financial statements in annual report
 
@@ -22592,17 +22614,17 @@ Application of Crown Entities Act 2004 to tertiary education institutions
 
 [Section 168(1), (2)][1532]Accounting records
 
-[Sections 171(1)(b), (2)][1831], [172][1832]Offences and penalties
+[Sections 171(1)(b), (2)][1826], [172][1827]Offences and penalties
 
-[Section 176][1797]Application of provisions of the [Public Finance Act 1989][1453]
+[Section 176][1792]Application of provisions of the [Public Finance Act 1989][1453]
 
-[Section 178][1798]Application of Archives Act 1957
+[Section 178][1793]Application of Archives Act 1957
 
-[Sections 181][1803], [188][1804], [191][1805], [193][1806], [194][1807], [198][1217], [199][1809], [200][1068]Transitional and savings provisions and associated consequential amendments
+[Sections 181][1798], [188][1799], [191][1800], [193][1801], [194][1802], [198][1217], [199][1804], [200][1068]Transitional and savings provisions and associated consequential amendments
 
-*   Schedule 13A: amended, on 20 May 2010, by [section 74(2)][1830] of the Education Amendment Act 2010 (2010 No 25).
-*   Schedule 13A: amended, on 20 May 2010, by [section 74(3)(a)][1830] of the Education Amendment Act 2010 (2010 No 25).
-*   Schedule 13A: amended, on 20 May 2010, by [section 74(3)(b)][1830] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 13A: amended, on 20 May 2010, by [section 74(2)][1825] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 13A: amended, on 20 May 2010, by [section 74(3)(a)][1825] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 13A: amended, on 20 May 2010, by [section 74(3)(b)][1825] of the Education Amendment Act 2010 (2010 No 25).
 
 ---
 
@@ -22611,7 +22633,7 @@ Administrative provisions applying to Vice-Chancellors Committee
 
 [s 240(7)][739]
 
-*   Schedule 14: inserted, on 23 July 1990, by [section 47][1833] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 14: inserted, on 23 July 1990, by [section 47][1828] of the Education Amendment Act 1990 (1990 No 60).
 
 ##### 1 Meetings of Committee
     
@@ -22723,9 +22745,9 @@ Administrative provisions applying to Vice-Chancellors Committee
     
 *   (1) As soon as is practicable after the end of every financial year, the Committee shall give to the Minister a report on its operations for the year.
     
-    (2) The Committee must include in every annual report of the Committee the financial statements and statement of service performance prepared by the Committee, in accordance with [sections 153 to 156][1654] of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility under [section 155][1216] of that Act relating to those financial statements.
+    (2) The Committee must include in every annual report of the Committee the financial statements and statement of service performance prepared by the Committee, in accordance with [sections 153 to 156][1648] of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility under [section 155][1216] of that Act relating to those financial statements.
     
-    (3) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150][1834] of the Crown Entities Act 2004\.
+    (3) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150][1829] of the Crown Entities Act 2004\.
     
     Schedule 14 clause 10(2): replaced, on 25 January 2005, by [section 200][1068] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -22751,7 +22773,7 @@ Administrative provisions applying to the Agency continued by section 270
 
 \[Repealed\]
     
-*   Schedule 16: repealed, on 1 January 2003, by [section 41][1670] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
+*   Schedule 16: repealed, on 1 January 2003, by [section 41][1666] of the Education (Tertiary Reform) Amendment Act 2002 (2002 No 50).
 
 ---
 
@@ -22785,7 +22807,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Education Amendment Act (No 4) 1991][1835], and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Education Amendment Act (No 4) 1991][1830], and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in sections 5(5), 16(2), 17(2), 18(2), and 34, this Act shall come into force on 1 January 1992\.
 
@@ -22835,7 +22857,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Education Standards Act 2001][1836].
+*   (1) This Act is the [Education Standards Act 2001][1831].
     
     (2) In this Act, the Education Act 1989 is called ""the principal Act"".
 
@@ -22857,7 +22879,7 @@ Commencementsee section 2
     
     *   (f) section 83\.
     
-    Section 2(2)(d): brought into force, on 1 February 2002, by the [Education Standards Act Commencement Order 2001][1837] (SR 2001/384).
+    Section 2(2)(d): brought into force, on 1 February 2002, by the [Education Standards Act Commencement Order 2001][1832] (SR 2001/384).
 
 ## Part 2  
 Transitional and miscellaneous provisions, and consequential amendments
@@ -22926,11 +22948,11 @@ Transitional and miscellaneous provisions, and consequential amendments
     
     *   (c) modifying the definition of teaching position in section 120 of the principal Act for the purposes of applying it to Kura Kaupapa Maori, or early childhood services, or both.
     
-    Section 69(2): amended, on 17 May 2006, by [section 56(1)][1838] of the Education Amendment Act 2006 (2006 No 19).
+    Section 69(2): amended, on 17 May 2006, by [section 56(1)][1833] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 69(2)(b)(ii): replaced, on 17 May 2006, by [section 56(2)][1838] of the Education Amendment Act 2006 (2006 No 19).
+    Section 69(2)(b)(ii): replaced, on 17 May 2006, by [section 56(2)][1833] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 69(2)(c): amended, on 17 May 2006, by [section 56(3)][1838] of the Education Amendment Act 2006 (2006 No 19).
+    Section 69(2)(c): amended, on 17 May 2006, by [section 56(3)][1833] of the Education Amendment Act 2006 (2006 No 19).
 
 #### Transitional provisions relating to New Zealand Teachers Council
 
@@ -23256,7 +23278,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Education (Tertiary Reform) Amendment Act 2002][1839].
+*   (1) This Act is the [Education (Tertiary Reform) Amendment Act 2002][1834].
     
     (2) In this Act, the Education Act 1989 is called ""the principal Act"".
 
@@ -23418,7 +23440,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004][1840].
+*   (1) This Act is the [Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004][1835].
     
     (2) In this Act, the Education Act 1989 is called ""the principal Act"".
 
@@ -23449,7 +23471,7 @@ Preliminary provisions
     
     _collective agreement_ means an employment agreement that is binding on 1 or more employers and 2 or more employees
     
-    _effective date_ means the date on which this Act comes into force (as set out in [section 2][1841])
+    _effective date_ means the date on which this Act comes into force (as set out in [section 2][1836])
     
     _employment agreement_, in relation to an employee,---
         
@@ -23518,7 +23540,7 @@ Disestablishment of Board and associated matters
     
     *   (b) the commencement or continuation of proceedings by or against the Board; those proceedings may instead be commenced or continued by or against the Crown.
     
-    (3) If the transfer of an asset or liability under [section 5][1842] is registrable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
+    (3) If the transfer of an asset or liability under [section 5][1837] is registrable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
     
     (4) Subsection (2) does not limit sections 5 to 9\.
 
@@ -23552,7 +23574,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Education (Tertiary Reforms) Amendment Act 2007][1843].
+*   This Act is the [Education (Tertiary Reforms) Amendment Act 2007][1838].
 
 ##### 2 Commencement
     
@@ -23655,7 +23677,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Education (Polytechnics) Amendment Act 2009][1844].
+*   This Act is the [Education (Polytechnics) Amendment Act 2009][1839].
 
 ##### 2 Commencement
     
@@ -23821,7 +23843,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Education Amendment Act (No 3) 2010][1845].
+*   This Act is the [Education Amendment Act (No 3) 2010][1840].
 
 ##### 2 Commencement
     
@@ -23863,7 +23885,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Education Amendment Act 2011][1662].
+*   This Act is the [Education Amendment Act 2011][1660].
 
 ##### 2 Commencement
     
@@ -23952,7 +23974,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Education (Freedom of Association) Amendment Act 2011][1846].
+*   This Act is the [Education (Freedom of Association) Amendment Act 2011][1841].
 
 ##### 2 Commencement
     
@@ -23986,19 +24008,21 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1847] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1848] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1842] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1843] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1849] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1850] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1844] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1845] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][1614]
+*   Industry Training and Apprenticeships Amendment Act 2014 (2014 No 16): [sections 23][1846], [25][1847], [26][1848]
+    
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][1614]
     
     Crown Entities Amendment Act 2013 (2013 No 51): [section 42][1211]
     
-    [Education Amendment Act 2013][1851] (2013 No 34)
+    [Education Amendment Act 2013][1849] (2013 No 34)
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][1164]
     
@@ -24006,7 +24030,7 @@ Commencementsee section 2
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][1078]
     
-    [Education (Student Allowances Indexation---Budget Measures) Amendment Act 2012][1852] (2012 No 79)
+    [Education (Student Allowances Indexation---Budget Measures) Amendment Act 2012][1850] (2012 No 79)
     
     Education (Extension of Application Period) Order 2012 (SR 2012/204): [clause 3][1222]
     
@@ -24014,49 +24038,49 @@ Commencementsee section 2
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][1048]
     
-    [Education (Freedom of Association) Amendment Act 2011][1846] (2011 No 80)
+    [Education (Freedom of Association) Amendment Act 2011][1841] (2011 No 80)
     
-    [Education Amendment Act 2011][1662] (2011 No 66)
+    [Education Amendment Act 2011][1660] (2011 No 66)
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][1609]
     
-    [Education Amendment Act (No 3) 2010][1845] (2010 No 134)
+    [Education Amendment Act (No 3) 2010][1840] (2010 No 134)
     
     Research, Science, and Technology Act 2010 (2010 No 131): [section 18][1536]
     
-    [Education Amendment Act (No 2) 2010][1853] (2010 No 103)
+    [Education Amendment Act (No 2) 2010][1851] (2010 No 103)
     
-    [Education Amendment Act 2010][1854] (2010 No 25)
+    [Education Amendment Act 2010][1852] (2010 No 25)
     
-    [Education (Polytechnics) Amendment Act 2009][1844] (2009 No 70)
+    [Education (Polytechnics) Amendment Act 2009][1839] (2009 No 70)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][1015]
     
-    [Education (National Standards) Amendment Act 2008][1855] (2008 No 108)
+    [Education (National Standards) Amendment Act 2008][1853] (2008 No 108)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][1114]
     
     Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 4][1264]
     
-    [Education (Tertiary Reforms) Amendment Act 2007][1843] (2007 No 106)
+    [Education (Tertiary Reforms) Amendment Act 2007][1838] (2007 No 106)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][1549]
     
-    [Education Amendment Act 2007][1856] (2007 No 52)
+    [Education Amendment Act 2007][1854] (2007 No 52)
     
     Crimes (Substituted Section 59) Amendment Act 2007 (2007 No 18): [section 6(2)][1372]
     
-    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 42][1730]
+    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 42][1726]
     
     Securities Amendment Act 2006 (2006 No 46): [section 25][1265]
     
-    [Education Amendment Act 2006][1749] (2006 No 19)
+    [Education Amendment Act 2006][1745] (2006 No 19)
     
     Public Records Act 2005 (2005 No 40): [section 67(1)][1388]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1061]
     
-    State-Owned Enterprises Amendment Act 2004 (2004 No 116): [section 5][1766]
+    State-Owned Enterprises Amendment Act 2004 (2004 No 116): [section 5][1761]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][1068]
     
@@ -24064,27 +24088,27 @@ Commencementsee section 2
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][1588]
     
-    [Education (Export Education Levy) Amendment Act 2004][1857] (2004 No 75)
+    [Education (Export Education Levy) Amendment Act 2004][1855] (2004 No 75)
     
     Building Act 2004 (2004 No 72): [section 414][1380]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][1692]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][1688]
     
     State Sector Amendment Act 2004 (2004 No 15): [section 6][1161]
     
-    [Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004][1840] (2004 No 14)
+    [Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004][1835] (2004 No 14)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][1014]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14][1705]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14][1701]
     
     Local Government Act 2002 (2002 No 84): [section 262][1585]
     
-    [Education (Tertiary Reform) Amendment Act 2002][1839] (2002 No 50)
+    [Education (Tertiary Reform) Amendment Act 2002][1834] (2002 No 50)
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][1282]
     
-    [Education Standards Act Commencement Order 2001][1837] (SR 2001/384)
+    [Education Standards Act Commencement Order 2001][1832] (SR 2001/384)
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][1235]
     
@@ -24092,11 +24116,11 @@ Commencementsee section 2
     
     Employment Relations Act 2000 (2000 No 24): [sections 240][1191], [241][1529]
     
-    [Education Amendment Act 2000][1858] (2000 No 21)
+    [Education Amendment Act 2000][1856] (2000 No 21)
     
-    [Education (Specified Institutions) Order 2000][1859] (SR 2000/44)
+    [Education (Specified Institutions) Order 2000][1857] (SR 2000/44)
     
-    [Education Amendment Act 1999][1860] (1999 No 107)
+    [Education Amendment Act 1999][1858] (1999 No 107)
     
     Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][1080]
     
@@ -24104,15 +24128,15 @@ Commencementsee section 2
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][1589]
     
-    [Education Amendment Act (No 2) 1998][1861] (1998 No 118)
+    [Education Amendment Act (No 2) 1998][1859] (1998 No 118)
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][1604]
     
     Education (Tertiary Students Association Voluntary Membership) Amendment Act 1998 (1998 No 90)
     
-    [Education Amendment Act 1998][1862] (1998 No 21)
+    [Education Amendment Act 1998][1860] (1998 No 21)
     
-    [Education Amendment Act 1996][1863] (1996 No 98)
+    [Education Amendment Act 1996][1861] (1996 No 98)
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
@@ -24122,7 +24146,7 @@ Commencementsee section 2
     
     Education Amendment Act (No 2) 1993 (1993 No 77)
     
-    [Education Amendment Act 1993][1864] (1993 No 51)
+    [Education Amendment Act 1993][1862] (1993 No 51)
     
     Foreign Affairs Amendment Act 1993 (1993 No 48): [section 9(2)][1464]
     
@@ -24132,9 +24156,9 @@ Commencementsee section 2
     
     Building Act 1991 (1991 No 150): section 92(1)
     
-    [Education Amendment Act (No 4) 1991][1835] (1991 No 136)
+    [Education Amendment Act (No 4) 1991][1830] (1991 No 136)
     
-    [Education Amendment Act (No 2) 1991][1865] (1991 No 90)
+    [Education Amendment Act (No 2) 1991][1863] (1991 No 90)
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][1312]
     
@@ -24144,7 +24168,7 @@ Commencementsee section 2
     
     [Education Amendment Act 1989][1418] (1989 No 156)
     
-    Education Act 1989 (1989 No 80): [section 9(8)][1866]
+    Education Act 1989 (1989 No 80): [section 9(8)][1864]
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][1207]
 
@@ -25159,7 +25183,7 @@ Commencementsee section 2
 [1006]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM204329
 [1007]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1440300
 [1008]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM266252
-[1009]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM84665
+[1009]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM6091990
 [1010]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358141
 [1011]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612023
 [1012]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM199311
@@ -25169,35 +25193,35 @@ Commencementsee section 2
 [1016]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18901
 [1017]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM57274
 [1018]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM117870
-[1019]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253116
-[1020]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM229823
-[1021]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807413
-[1022]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1823300
-[1023]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165800
-[1024]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM437346
-[1025]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM357859
-[1026]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM357882
-[1027]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807428
-[1028]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612030
-[1029]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM117874
-[1030]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253117
-[1031]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612031
-[1032]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956412
-[1033]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612032
-[1034]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612033
-[1035]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612034
-[1036]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612035
-[1037]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372905
-[1038]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025344
-[1039]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612036
-[1040]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212622
-[1041]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358208
-[1042]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358210
-[1043]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM199302
-[1044]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212623
-[1045]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253119
-[1046]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807429
-[1047]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358219
+[1019]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM266906
+[1020]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253116
+[1021]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM229823
+[1022]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807413
+[1023]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1823300
+[1024]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165800
+[1025]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM437346
+[1026]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM357859
+[1027]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM357882
+[1028]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807428
+[1029]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612030
+[1030]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM117874
+[1031]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253117
+[1032]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612031
+[1033]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956412
+[1034]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612032
+[1035]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612033
+[1036]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612034
+[1037]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612035
+[1038]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372905
+[1039]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025344
+[1040]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612036
+[1041]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212622
+[1042]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358208
+[1043]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM358210
+[1044]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM199302
+[1045]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212623
+[1046]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253119
+[1047]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807429
 [1048]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3360714
 [1049]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956413
 [1050]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612037
@@ -25490,7 +25514,7 @@ Commencementsee section 2
 [1337]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118384
 [1338]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3369509
 [1339]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331133
-[1340]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM129724
+[1340]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM5478454
 [1341]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330360
 [1342]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM329199
 [1343]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956463
@@ -25776,244 +25800,242 @@ Commencementsee section 2
 [1623]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18957
 [1624]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612090
 [1625]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2301310
-[1626]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185170
-[1627]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM57267
-[1628]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3256911
-[1629]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612092
-[1630]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1441160
-[1631]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185757
-[1632]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185765
-[1633]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM381179
-[1634]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1440311
-[1635]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185763
-[1636]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185777
-[1637]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM185902
-[1638]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166200
-[1639]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118467
-[1640]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166204
-[1641]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166205
-[1642]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612266
-[1643]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372972
-[1644]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062904
-[1645]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166206
-[1646]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612268
-[1647]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612270
-[1648]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166207
-[1649]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612271
-[1650]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956478
-[1651]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310537
-[1652]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310538
-[1653]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212666
-[1654]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330555
-[1655]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612273
-[1656]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612275
-[1657]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807561
-[1658]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807563
-[1659]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM195534
-[1660]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM195097
-[1661]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM186282
-[1662]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612005
-[1663]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM186222
-[1664]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM186228
-[1665]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612353
-[1666]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM88405
-[1667]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM88261
-[1668]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM59172
-[1669]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302612
-[1670]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166227
-[1671]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212670
-[1672]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3882512
-[1673]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18965
-[1674]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3882513
-[1675]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18966
-[1676]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062908
-[1677]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062909
-[1678]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302616
-[1679]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18967
-[1680]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956495
-[1681]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062910
-[1682]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302617
-[1683]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956496
-[1684]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212673
-[1685]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612370
-[1686]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM348342
-[1687]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264664
-[1688]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264686
-[1689]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM267574
-[1690]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM268865
-[1691]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM268817
-[1692]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM277147
-[1693]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18970
-[1694]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212676
-[1695]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42732
-[1696]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3179903
-[1697]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42733
-[1698]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1252632
-[1699]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372974
-[1700]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3170107
-[1701]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4767107
-[1702]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264952
-[1703]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372975
-[1704]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118803
-[1705]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM201378
-[1706]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18971
-[1707]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956498
-[1708]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42738
-[1709]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956503
-[1710]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3360067
-[1711]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42739
-[1712]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956505
-[1713]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968213
-[1714]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3180068
-[1715]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372977
-[1716]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968215
-[1717]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM359146
-[1718]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362709
-[1719]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362736
-[1720]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362759
-[1721]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM365476
-[1722]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1520575
-[1723]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372980
-[1724]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42740
-[1725]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956506
-[1726]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364804
-[1727]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364857
-[1728]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364864
-[1729]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42741
-[1730]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM406795
-[1731]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372981
-[1732]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372985
-[1733]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM119982
-[1734]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956507
-[1735]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM147094
-[1736]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM80802
-[1737]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM120598
-[1738]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025402
-[1739]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998598
-[1740]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998584
-[1741]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998601
-[1742]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM36944
-[1743]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956516
-[1744]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM46096
-[1745]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807565
-[1746]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM247710
-[1747]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM141697
-[1748]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165941
-[1749]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372796
-[1750]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253147
-[1751]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166229
-[1752]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166233
-[1753]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166234
-[1754]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302619
-[1755]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM177421
-[1756]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18975
-[1757]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118819
-[1758]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM177431
-[1759]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18976
-[1760]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM129548
-[1761]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18977
-[1762]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956523
-[1763]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118824
-[1764]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302621
-[1765]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM97376
-[1766]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM333210
-[1767]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM98017
-[1768]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM446173
-[1769]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373054
-[1770]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807569
-[1771]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807573
-[1772]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807574
-[1773]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807575
-[1774]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807576
-[1775]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3457
-[1776]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956524
-[1777]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM329637
-[1778]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330344
-[1779]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330347
-[1780]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330355
-[1781]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330361
-[1782]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330363
-[1783]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330364
-[1784]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330369
-[1785]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM130334
-[1786]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330399
-[1787]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330501
-[1788]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330502
-[1789]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330503
-[1790]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM327381
-[1791]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330506
-[1792]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330537
-[1793]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330536
-[1794]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330559
-[1795]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330564
-[1796]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330580
-[1797]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330583
-[1798]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330587
-[1799]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330588
-[1800]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM324218
-[1801]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330589
-[1802]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM390002
-[1803]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330590
-[1804]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330598
-[1805]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331101
-[1806]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331103
-[1807]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331104
-[1808]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331105
-[1809]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331109
-[1810]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187909
-[1811]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187907
-[1812]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM320119
-[1813]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM320120
-[1814]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187939
-[1815]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373072
-[1816]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187931
-[1817]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956525
-[1818]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18979
-[1819]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM257454
-[1820]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM122241
-[1821]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM65921
-[1822]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM431204
-[1823]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM130706
-[1824]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956526
-[1825]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212658
-[1826]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM406598
-[1827]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM64779
-[1828]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM74021
-[1829]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM34678
-[1830]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956527
-[1831]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330578
-[1832]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330579
-[1833]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212674
-[1834]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330552
-[1835]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253110
-[1836]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM117862
-[1837]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM98544
-[1838]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373074
-[1839]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165292
-[1840]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM241035
-[1841]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM5824002
-[1842]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM5824024
-[1843]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062805
-[1844]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2294200
-[1845]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025302
-[1846]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2301300
-[1847]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998516
-[1848]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998515
-[1849]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998532
-[1850]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1851]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807401
-[1852]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4767100
-[1853]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3170102
-[1854]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956400
-[1855]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1765400
-[1856]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968203
-[1857]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310530
-[1858]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM57202
-[1859]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3451
-[1860]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42716
-[1861]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18094
-[1862]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM426059
-[1863]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM403254
-[1864]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302583
-[1865]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM248241
-[1866]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM177471
+[1626]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM57267
+[1627]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3256911
+[1628]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612092
+[1629]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1441160
+[1630]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM381179
+[1631]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1440311
+[1632]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166200
+[1633]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118467
+[1634]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166204
+[1635]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166205
+[1636]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612266
+[1637]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372972
+[1638]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062904
+[1639]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166206
+[1640]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612268
+[1641]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612270
+[1642]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166207
+[1643]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612271
+[1644]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956478
+[1645]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310537
+[1646]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310538
+[1647]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212666
+[1648]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330555
+[1649]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612273
+[1650]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612275
+[1651]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807561
+[1652]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807563
+[1653]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM6091973
+[1654]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM6091986
+[1655]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM195534
+[1656]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM195097
+[1657]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM266912
+[1658]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM266622
+[1659]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM266925
+[1660]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612005
+[1661]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612353
+[1662]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM88405
+[1663]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM88261
+[1664]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM59172
+[1665]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302612
+[1666]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166227
+[1667]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212670
+[1668]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3882512
+[1669]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18965
+[1670]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3882513
+[1671]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18966
+[1672]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062908
+[1673]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062909
+[1674]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302616
+[1675]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18967
+[1676]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956495
+[1677]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062910
+[1678]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302617
+[1679]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956496
+[1680]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212673
+[1681]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3612370
+[1682]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM348342
+[1683]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264664
+[1684]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264686
+[1685]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM267574
+[1686]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM268865
+[1687]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM268817
+[1688]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM277147
+[1689]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18970
+[1690]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212676
+[1691]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42732
+[1692]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3179903
+[1693]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42733
+[1694]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1252632
+[1695]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372974
+[1696]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3170107
+[1697]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4767107
+[1698]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM264952
+[1699]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372975
+[1700]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118803
+[1701]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM201378
+[1702]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18971
+[1703]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956498
+[1704]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42738
+[1705]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956503
+[1706]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3360067
+[1707]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42739
+[1708]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956505
+[1709]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968213
+[1710]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3180068
+[1711]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372977
+[1712]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968215
+[1713]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM359146
+[1714]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362709
+[1715]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362736
+[1716]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM362759
+[1717]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM365476
+[1718]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1520575
+[1719]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372980
+[1720]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42740
+[1721]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956506
+[1722]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364804
+[1723]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364857
+[1724]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM364864
+[1725]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42741
+[1726]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM406795
+[1727]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372981
+[1728]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372985
+[1729]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM119982
+[1730]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956507
+[1731]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM147094
+[1732]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM80802
+[1733]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM120598
+[1734]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025402
+[1735]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998598
+[1736]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998584
+[1737]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998601
+[1738]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM36944
+[1739]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956516
+[1740]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM46096
+[1741]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807565
+[1742]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM247710
+[1743]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM141697
+[1744]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165941
+[1745]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM372796
+[1746]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253147
+[1747]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166229
+[1748]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166233
+[1749]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM166234
+[1750]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302619
+[1751]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18975
+[1752]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118819
+[1753]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM177431
+[1754]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18976
+[1755]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM129548
+[1756]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18977
+[1757]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956523
+[1758]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM118824
+[1759]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302621
+[1760]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM97376
+[1761]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM333210
+[1762]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM98017
+[1763]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM446173
+[1764]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373054
+[1765]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807569
+[1766]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807573
+[1767]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807574
+[1768]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807575
+[1769]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807576
+[1770]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3457
+[1771]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956524
+[1772]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM329637
+[1773]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330344
+[1774]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330347
+[1775]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330355
+[1776]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330361
+[1777]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330363
+[1778]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330364
+[1779]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330369
+[1780]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM130334
+[1781]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330399
+[1782]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330501
+[1783]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330502
+[1784]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330503
+[1785]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM327381
+[1786]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330506
+[1787]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330537
+[1788]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330536
+[1789]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330559
+[1790]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330564
+[1791]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330580
+[1792]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330583
+[1793]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330587
+[1794]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330588
+[1795]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM324218
+[1796]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330589
+[1797]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM390002
+[1798]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330590
+[1799]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330598
+[1800]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331101
+[1801]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331103
+[1802]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331104
+[1803]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331105
+[1804]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM331109
+[1805]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187909
+[1806]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187907
+[1807]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM320119
+[1808]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM320120
+[1809]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187939
+[1810]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373072
+[1811]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM187931
+[1812]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956525
+[1813]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18979
+[1814]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM257454
+[1815]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM122241
+[1816]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM65921
+[1817]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM431204
+[1818]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM130706
+[1819]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956526
+[1820]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212658
+[1821]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM406598
+[1822]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM64779
+[1823]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM74021
+[1824]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM34678
+[1825]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956527
+[1826]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330578
+[1827]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330579
+[1828]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM212674
+[1829]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM330552
+[1830]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM253110
+[1831]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM117862
+[1832]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM98544
+[1833]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM373074
+[1834]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM165292
+[1835]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM241035
+[1836]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM5824002
+[1837]: http://www.legislation.govt.nz/act/public/1989/0080/latest/whole.html#DLM5824024
+[1838]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1062805
+[1839]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2294200
+[1840]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3025302
+[1841]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2301300
+[1842]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998516
+[1843]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998515
+[1844]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM2998532
+[1845]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1846]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM5640500
+[1847]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM5640504
+[1848]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM5640505
+[1849]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4807401
+[1850]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM4767100
+[1851]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3170102
+[1852]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1956400
+[1853]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM1765400
+[1854]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM968203
+[1855]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM310530
+[1856]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM57202
+[1857]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM3451
+[1858]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM42716
+[1859]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM18094
+[1860]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM426059
+[1861]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM403254
+[1862]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM302583
+[1863]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM248241
+[1864]: http://www.legislation.govt.nz/act/public/1989/0080/latest/link.aspx?id=DLM177471
