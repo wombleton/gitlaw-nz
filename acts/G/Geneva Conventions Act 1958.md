@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement18 September 1958
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Foreign Affairs and Trade.
 
@@ -31,7 +31,7 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [Punishment of offenders against Conventions or First Protocol][4]
 
-[3][5][][5][Punishment for grave breaches of Conventions or First Protocol][5]
+[3][5][][5][Punishment for grave breaches of Conventions or First Protocol or Third Protocol][5]
 
 [Provisions as to certain legal proceedings][6]
 
@@ -51,7 +51,7 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [9][14][][14][Regulations][14]
 
-[10][15][][15][Application of Act to island territories][15]
+[10][15][][15][Application to Tokelau][15]
 
 [11][16][][16][Repeal and savings][16]
 
@@ -68,10 +68,13 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 [Geneva Convention relative to the Protection of Civilian Persons in Time of War of August 12, 1949][20]
 
 [Schedule 5][21]  
-[Protocol I][21]
+[Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts][21]
 
 [Schedule 6][22]  
-[Protocol II][22]
+[Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts][22]
+
+[Schedule 7][23]  
+[Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem][23]
 
 ---
 
@@ -97,7 +100,7 @@ An Act to enable effect to be given to certain International Conventions done at
     
     _the Fourth Convention_ means the Geneva Convention relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in [Schedule 4][20]
     
-    _New Zealand aircraft_ means any aircraft that is registered or required to be registered in New Zealand under the [Civil Aviation Act 1990][23]; and includes any aircraft belonging to or in the service of Her Majesty in right of New Zealand, whether a civil or a military aircraft
+    _New Zealand aircraft_ means any aircraft that is registered or required to be registered in New Zealand under the [Civil Aviation Act 1990][24]; and includes any aircraft belonging to or in the service of Her Majesty in right of New Zealand, whether a civil or a military aircraft
     
     _New Zealand ship_ means a New Zealand ship or ship belonging to Her Majesty as those terms are defined in the Shipping and Seamen Act 1952; and includes an unregistered ship which is by Part 12 of that Act required to be registered in New Zealand or in some other Commonwealth country
     
@@ -105,35 +108,45 @@ An Act to enable effect to be given to certain International Conventions done at
     
     _protected prisoner of war_ means a person protected by the [Third Convention][19]
     
-    _the Protecting Power_, in relation to a protected prisoner of war or a protected internee, means the Power or organisation which is carrying out, in the interests of the Power of which he is a national, or of whose forces he is, or was at any material time, a member, the duties assigned to Protecting Powers under the [Third Convention][19] or the [Fourth Convention][20], as the case may be
+    _the Protecting Power_, in relation to a protected prisoner of war or a protected internee, means the Power or organisation which is carrying out, in the interests of the Power of which he or she is a national, or of whose forces he or she is, or was at any material time, a member, the duties assigned to Protecting Powers under the [Third Convention][19] or the [Fourth Convention][20], as the case may be
     
-    _the Protocols_ means the [First Protocol][17] and the [Second Protocol][18]
+    _the Protocols_ means the [First Protocol][17], the Second Protocol, and the Third Protocol
     
     _the First Protocol_ means the Protocol Additional to the Conventions and relating to the protection of victims of international armed conflicts, adopted at Geneva on 8 June 1977, a copy of which Protocol (not including the annexes to that Protocol) is set out in [Schedule 5][21]
     
-    _the Second Protocol_ means the Protocol Additional to the Conventions and relating to the protection of victims of non-international armed conflicts, adopted at Geneva on 8 June 1977, a copy of which Protocol is set out in [Schedule 6][22].
+    _the Second Protocol_ means the Protocol Additional to the Conventions and relating to the protection of victims of non-international armed conflicts, adopted at Geneva on 8 June 1977, a copy of which Protocol is set out in [Schedule 6][22]
     
-    (2) If the ratification on behalf of New Zealand of any of the Conventions or of either of the Protocols is subject to a reservation or is accompanied by a declaration, that Convention or that Protocol, as the case may require, shall, for the purposes of this Act, have effect and be construed subject to and in accordance with that reservation or declaration.
+    _the Third Protocol_ means the Protocol Additional to the Conventions and relating to the adoption of an additional distinctive emblem, adopted at Geneva on 8 December 2005, a copy of which is set out in Schedule 7\.
     
-    Section 2(1) **court**: repealed, on 1 July 2009, by [section 87][24] of the Court Martial Act 2007 (2007 No 101).
+    (2) If the ratification on behalf of New Zealand of any of the Conventions or the Protocols is subject to a reservation or is accompanied by a declaration, that Convention or that Protocol, as the case may require, shall, for the purposes of this Act, have effect and be construed subject to and in accordance with that reservation or declaration.
     
-    Section 2(1) **New Zealand aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][25] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **court**: repealed, on 1 July 2009, by [section 87][25] of the Court Martial Act 2007 (2007 No 101).
+    
+    Section 2(1) **New Zealand aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][26] of the Civil Aviation Act 1990 (1990 No 98).
+    
+    Section 2(1) **the Protecting Power**: amended, on 23 April 2014, by [section 4(1)][27] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
     Section 2(1) **the Protocols**: inserted, on 10 July 1987, by section 3(1) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
+    
+    Section 2(1) **the Protocols**: amended, on 23 April 2014, by [section 4(3)][27] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
     Section 2(1) **the First Protocol**: inserted, on 10 July 1987, by section 3(1) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
     
     Section 2(1) **the Second Protocol**: inserted, on 10 July 1987, by section 3(1) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
     
+    Section 2(1) **the Third Protocol**: inserted, on 23 April 2014, by [section 4(2)][27] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
     Section 2(2): replaced, on 10 July 1987, by section 3(2) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
+    
+    Section 2(2): amended, on 23 April 2014, by [section 4(4)][27] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
 
 #### Punishment of offenders against Conventions or First Protocol
     
 *   Heading: replaced, on 10 July 1987, by section 4 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
 
-##### 3 Punishment for grave breaches of Conventions or First Protocol
+##### 3 Punishment for grave breaches of Conventions or First Protocol or Third Protocol
     
-*   (1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the [First Protocol][21] is guilty of an offence.
+*   (1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the [First Protocol][21] or the [Third Protocol][23] is guilty of an offence.
     
     (2) For the purposes of this section---
         
@@ -153,9 +166,11 @@ An Act to enable effect to be given to certain International Conventions done at
         
         *   (iii) an act referred to in paragraph 3 of Article 85 of that Protocol committed against persons or property protected by that paragraph; or
         
-        *   (iv) an act or omission referred to in paragraph 4 of Article 85 of that Protocol committed against or omitted in respect of persons or property protected by that paragraph.
+        *   (iv) an act or omission referred to in paragraph 4 of Article 85 of that Protocol committed against or omitted in respect of persons or property protected by that paragraph:
         
         
+    
+    *   (f) a grave breach of the [Third Protocol][28] is a breach of that Protocol involving the perfidious use, in violation of Article 37 of the First Protocol, of the distinctive emblem of the red crystal (as if it were a distinctive emblem specified in paragraph (3)(f) of Article 85 of the First Protocol).
     
     (3) This section applies to persons regardless of their nationality or citizenship.
     
@@ -181,13 +196,19 @@ An Act to enable effect to be given to certain International Conventions done at
     
     Section 3: replaced, on 10 July 1987, by section 4 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
     
-    Section 3(1): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 3 heading: amended, on 23 April 2014, by [section 5(1)][29] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
-    Section 3(4)(b): replaced, on 1 October 2000, by [section 185][27] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    Section 3(1): amended, on 23 April 2014, by [section 5(2)][29] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
-    Section 3(7): amended, on 1 July 1993, by [section 6(1)][28] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 3(1): amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 3(8): repealed, on 1 July 2009, by [section 87][24] of the Court Martial Act 2007 (2007 No 101).
+    Section 3(2)(f): inserted, on 23 April 2014, by [section 5(3)][29] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 3(4)(b): replaced, on 1 October 2000, by [section 185][31] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    
+    Section 3(7): amended, on 1 July 1993, by [section 6(1)][32] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    
+    Section 3(8): repealed, on 1 July 2009, by [section 87][25] of the Court Martial Act 2007 (2007 No 101).
 
 #### Provisions as to certain legal proceedings
 
@@ -197,17 +218,17 @@ An Act to enable effect to be given to certain International Conventions done at
         
     *   (a) a protected prisoner of war is brought up for trial for any offence; or
     
-    *   (b) a protected internee is brought up for trial for an offence for which that court has power to sentence him to imprisonment for a term of 2 years or more---
+    *   (b) a protected internee is brought up for trial for an offence for which that court has power to sentence him or her to imprisonment for a term of 2 years or more---
     
     shall not proceed with the trial until it is proved to the satisfaction of the court that a notice containing the particulars mentioned in subsection (2), so far as they are known to the prosecutor, has been served not less than 3 weeks previously on the Protecting Power (if there is a Protecting Power), on the accused, and (if the accused is a protected prisoner of war) on the prisoners' representative.
     
     (2) The particulars referred to in subsection (1) are---
         
-    *   (a) the full name and description of the accused, including the date of his birth and his profession or trade, if any, and, if the accused is a protected prisoner of war, his rank and his army, regimental, personal, or serial number;
+    *   (a) the full name and description of the accused, including the date of his or her birth and his or her profession or trade, if any, and, if the accused is a protected prisoner of war, his or her rank and his or her army, regimental, personal, or serial number;
     
-    *   (b) his place of detention, internment, or residence;
+    *   (b) his or her place of detention, internment, or residence;
     
-    *   (c) the offence with which he is charged; and
+    *   (c) the offence with which he or she is charged; and
     
     *   (d) the court before which the trial is to take place and the time and place appointed for the trial.
     
@@ -223,9 +244,17 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (5) Any court which adjourns a trial for the purpose of enabling the requirements of this section to be complied with may, notwithstanding anything in any other enactment or any rule of law, remand the accused for the period of the adjournment.
     
-    Section 4 heading: amended, on 17 May 2005, by [section 3][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 4 heading: amended, on 17 May 2005, by [section 3][33] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
     
-    Section 4(1)(b): amended, on 17 May 2005, by [section 3][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 4(1)(b): amended, on 23 April 2014, by [section 6(1)][34] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 4(1)(b): amended, on 17 May 2005, by [section 3][33] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    
+    Section 4(2)(a): amended, on 23 April 2014, by [section 6(2)][34] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 4(2)(b): amended, on 23 April 2014, by [section 6(2)][34] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 4(2)(c): amended, on 23 April 2014, by [section 6(3)][34] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
 
 ##### 5 Legal representation of prisoners of war
     
@@ -237,25 +266,29 @@ An Act to enable effect to be given to certain International Conventions done at
     
     and if the court adjourns the trial for the purpose of enabling the requirements of this subsection to be complied with, then, notwithstanding anything in any other enactment or rule of law, the court may remand the accused for the period of the adjournment.
     
-    (2) In the absence of counsel accepted by the accused as representing him, counsel instructed for the purpose on behalf of the Protecting Power shall, without prejudice to the requirements of paragraph (b) of subsection (1), be regarded for the purposes of that subsection as representing the accused.
+    (2) In the absence of counsel accepted by the accused as representing him or her, counsel instructed for the purpose on behalf of the Protecting Power shall, without prejudice to the requirements of paragraph (b) of subsection (1), be regarded for the purposes of that subsection as representing the accused.
     
-    (3) If the court adjourns the trial in pursuance of subsection (1) by reason that the accused is not represented by counsel, the court shall direct that a counsel be assigned to watch over the interests of the accused at any further proceedings in connection with the offence; and at any such further proceedings, in the absence of counsel either accepted by the accused as representing him or instructed as mentioned in subsection (2), counsel assigned in pursuance of this subsection shall, without prejudice to the requirements of paragraph (b) of subsection (1), be regarded for the purposes of the said subsection (1) as representing the accused.
+    (3) If the court adjourns the trial in pursuance of subsection (1) by reason that the accused is not represented by counsel, the court shall direct that a counsel be assigned to watch over the interests of the accused at any further proceedings in connection with the offence; and at any such further proceedings, in the absence of counsel either accepted by the accused as representing him or her or instructed as mentioned in subsection (2), counsel assigned in pursuance of this subsection shall, without prejudice to the requirements of paragraph (b) of subsection (1), be regarded for the purposes of the said subsection (1) as representing the accused.
     
     (4) A counsel shall be assigned in pursuance of subsection (3) in such manner as may be prescribed by regulations made under this Act, and any counsel so assigned shall be entitled to receive, out of money appropriated by Parliament for the purpose, such remuneration and disbursements as may be in like manner prescribed. While there are no regulations for the purposes of this section or so far as any such regulations do not apply, the provisions of the Legal Services Act 1991 and of any regulations made under that Act shall apply to the assignment, remuneration, and disbursement of counsel under this section.
+    
+    Section 5(2): amended, on 23 April 2014, by [section 7(1)][35] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 5(3): amended, on 23 April 2014, by [section 7(2)][35] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
     Section 5(4): amended, on 1 February 1992, by section 159(1) of the Legal Services Act 1991 (1991 No 71).
 
 ##### 6 Appeals by protected persons
     
-*   (1) Where a protected prisoner of war or a protected internee has been sentenced by a court to imprisonment for a term of 2 years or more, the time allowed in relation to the institution of an appeal or an application for leave to appeal against the conviction or sentence shall, notwithstanding anything to the contrary in any other enactment, be the period from the date of his conviction or, in the case of an appeal against sentence, of his sentence to the expiration of 28 days after the date on which the convicted person receives a notice that the Protecting Power has been notified of his conviction and sentence, being a notice given,---
+*   (1) Where a protected prisoner of war or a protected internee has been sentenced by a court to imprisonment for a term of 2 years or more, the time allowed in relation to the institution of an appeal or an application for leave to appeal against the conviction or sentence shall, notwithstanding anything to the contrary in any other enactment, be the period from the date of his or her conviction or, in the case of an appeal against sentence, of his or her sentence to the expiration of 28 days after the date on which the convicted person receives a notice that the Protecting Power has been notified of his or her conviction and sentence, being a notice given,---
         
     *   (a) in the case of a protected prisoner of war, by an officer of the New Zealand armed forces; or
     
-    *   (b) in the case of a protected internee, by or on behalf of the person in charge of the prison or place in which he is confined.
+    *   (b) in the case of a protected internee, by or on behalf of the person in charge of the prison or place in which he or she is confined.
     
     (2) \[Repealed\]
     
-    (3) Where subsection (1) applies in relation to a convicted person, then, unless the court otherwise orders, an order of the court relating to the restitution of property or the payment of compensation to an aggrieved person shall not take effect, and any provision of law relating to the revesting of property on conviction shall not take effect in relation to the conviction, while an appeal by the convicted person against his conviction or sentence is possible.
+    (3) Where subsection (1) applies in relation to a convicted person, then, unless the court otherwise orders, an order of the court relating to the restitution of property or the payment of compensation to an aggrieved person shall not take effect, and any provision of law relating to the revesting of property on conviction shall not take effect in relation to the conviction, while an appeal by the convicted person against his or her conviction or sentence is possible.
     
     (4) Subsections (1) and (2) shall not apply in relation to an appeal against a conviction or sentence if, at the time of the conviction or sentence, there is no Protecting Power.
     
@@ -263,13 +296,19 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (6) \[Repealed\]
     
-    Section 6(1): amended, on 17 May 2005, by [section 4(1)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(1): amended, on 23 April 2014, by [section 8(1)][36] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
-    Section 6(2): repealed, on 1 December 1983, by [section 208(1)][31] of the Armed Forces Discipline Act 1971 (1971 No 53).
+    Section 6(1): amended, on 17 May 2005, by [section 4(1)][37] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
     
-    Section 6(5): repealed, on 17 May 2005, by [section 4(2)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(1)(b): amended, on 23 April 2014, by [section 8(2)][36] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
-    Section 6(6): repealed, on 17 May 2005, by [section 4(2)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(2): repealed, on 1 December 1983, by [section 208(1)][38] of the Armed Forces Discipline Act 1971 (1971 No 53).
+    
+    Section 6(3): amended, on 23 April 2014, by [section 8(3)][36] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 6(5): repealed, on 17 May 2005, by [section 4(2)][37] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    
+    Section 6(6): repealed, on 17 May 2005, by [section 4(2)][37] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
 
 ##### 7 Reduction of sentence, and custody of protected prisoners of war and internees
     
@@ -279,17 +318,21 @@ An Act to enable effect to be given to certain International Conventions done at
     
     *   (b) in fixing any penalty other than imprisonment in respect of the offence, take that period of custody into account.
     
-    (2) Where the Minister of Justice is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, while awaiting trial, in a place other than a camp or place in which protected prisoners of war are detained, for an aggregate period of not less than 3 months, that Minister may direct that the prisoner shall be transferred from that custody to the custody of an officer of the New Zealand armed forces and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed for his trial.
+    (2) Where the Minister of Justice is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, while awaiting trial, in a place other than a camp or place in which protected prisoners of war are detained, for an aggregate period of not less than 3 months, that Minister may direct that the prisoner shall be transferred from that custody to the custody of an officer of the New Zealand armed forces and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed for his or her trial.
+    
+    Section 7(2): amended, on 23 April 2014, by [section 9][39] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
 
 #### Prevention of abuse of Red Cross and other emblems
 
 ##### 8 Use of Red Cross and other emblems
     
-*   (1) Subject to the provisions of this section, it shall not be lawful for any person, without the authority of the Minister of Defence or a person authorised by him in writing to give consent under this section, to use for any purpose whatsoever any of the following emblems, designations, designs, or wordings, that is to say:
+*   (1) Subject to the provisions of this section, it shall not be lawful for any person, without the authority of the Minister of Defence or a person authorised by him or her in writing to give consent under this section, to use for any purpose whatsoever any of the following emblems, designations, designs, or wordings, that is to say:
         
     *   (a) the emblem of a red cross with vertical and horizontal arms of the same length on, and completely surrounded by, a white ground, or the designation ""Red Cross"" or ""Geneva Cross"":
     
     *   (b) the emblem of a red crescent moon on, and completely surrounded by, a white ground, or the designation ""Red Crescent"":
+    
+    *   (ba) the emblem of a red crystal, composed of a red frame in the shape of a square on edge on a white ground, or the designation ""Red Crystal"":
     
     *   (c) the following emblem in red on, and completely surrounded by, a white ground, that is to say, a lion passing from right to left of, and with its face turned towards, the observer, holding erect in its raised right forepaw a scimitar, with, appearing above the lion's back, the upper half of the sun shooting forth rays, or the designation ""Red Lion and Sun"":
     
@@ -297,19 +340,21 @@ An Act to enable effect to be given to certain International Conventions done at
     
     *   (e) any design or wording so nearly resembling any of the emblems or designations specified in the foregoing provisions of this subsection as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems.
     
-    (2) If any person contravenes the foregoing provisions of this section he shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
+    (2) If any person contravenes the foregoing provisions of this section he or she shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
     
     (3) The Minister of Defence or a person authorised by that Minister to give consents under this section shall not refuse to give such a consent, and shall not withdraw such a consent, except for the purpose of giving effect to the provisions of the Conventions or of the Protocols.
     
     (4) In the case of a trade mark registered before the passing of this Act, the foregoing provisions of this section shall not apply by reason only of its consisting of or containing a design or wording which reproduces or resembles an emblem or designation specified in paragraph (b) or paragraph (c) of subsection (1).
     
-    (5) Where a person is charged with using a design or wording to which subsection (4) applies for any purpose and it is proved that he used it otherwise than as, or as part of, a trade mark registered as aforesaid, it shall be a defence for him to prove---
+    (4A) In the case of a trade mark registered before subsection (1)(ba) comes into force, subsections (1) to (3) do not apply by reason only of the trade mark consisting of or containing a design or wording that reproduces or resembles the emblem or the designation specified in subsection (1)(ba).
+    
+    (5) If a person is charged with using a design or wording to which subsection (4) or (4A) applies for any purpose and it is proved that he or she used it otherwise than as, or as part of, a trade mark registered as aforesaid, it is a defence for him or her to prove---
         
-    *   (a) that he lawfully used that design or wording for that purpose before the passing of this Act; or
+    *   (a) that he or she lawfully used that design or wording for that purpose before the passing of this Act or subsection (1)(ba) comes into force (as the case may be); or
     
-    *   (b) in a case where he is charged with using the design or wording upon goods, that the design or wording had been applied to the goods before he acquired them by some other person who had manufactured or dealt with the goods in the course of trade and who lawfully used the design or wording upon similar goods before the passing of this Act.
+    *   (b) in a case where he or she is charged with using the design or wording upon goods, that the design or wording had been applied to the goods before he or she acquired them by some other person who had manufactured or dealt with the goods in the course of trade and who lawfully used the design or wording upon similar goods before the passing of this Act or subsection (1)(ba) comes into force (as the case may be).
     
-    (6) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of any director, manager, secretary or other officer of the body corporate, or any person purporting to act in any such capacity, he, as well as the body corporate, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+    (6) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of any director, manager, secretary or other officer of the body corporate, or any person purporting to act in any such capacity, he or she, as well as the body corporate, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
     
     (7) This section extends to the use in or outside New Zealand of an emblem, designation, design, or wording referred to in subsection (1) on any New Zealand ship or New Zealand aircraft.
     
@@ -317,11 +362,23 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (9) Subsection (2) of section 18 of the Trade Marks Act 1953 is hereby consequentially repealed.
     
-    Section 8(2): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(1): amended, on 23 April 2014, by [section 10(1)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
-    Section 8(2): amended, on 12 December 2012, by [section 10(3)(b)][32] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    Section 8(1)(ba): inserted, on 23 April 2014, by [section 10(2)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 8(2): amended, on 23 April 2014, by [section 10(3)(a)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 8(2): amended, on 12 December 2012, by [section 10(3)(b)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
     Section 8(3): amended, on 10 July 1987, by section 5(2) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
+    
+    Section 8(4A): inserted, on 23 April 2014, by [section 10(4)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 8(5): replaced, on 23 April 2014, by [section 10(5)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    
+    Section 8(6): amended, on 23 April 2014, by [section 10(6)][40] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
 
 #### Miscellaneous
 
@@ -345,55 +402,17 @@ An Act to enable effect to be given to certain International Conventions done at
     
     Section 9: replaced, on 10 July 1987, by section 6 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
 
-##### 10 Application of Act to island territories
+##### 10 Application to Tokelau
     
-*   (1) This Act shall be in force in the Cook Islands, and Tokelau.
+*   (1) This Act is in force in Tokelau.
     
-    (2) In this Act, except in this section, both in New Zealand and in the Cook Islands, and Tokelau, the term **New Zealand** shall be construed as including the Cook Islands, and Tokelau.
+    (2) In this Act, except in this section, _New Zealand_ includes Tokelau.
     
-    (3) Every reference in this Act to the Attorney-General shall be construed,---
-        
-    *   (a) in the application of this Act to the Cook Islands, other than Niue, as including the High Commissioner of the Cook Islands:
+    (3) Every reference in this Act to the Attorney-General includes, in relation to Tokelau, the Administrator of Tokelau.
     
-    *   (b) in the application of this Act to the Island of Niue, as including the Cabinet of Ministers of Niue:
+    (4) The other Ministers specified in this Act may exercise the powers conferred on them by this Act in Tokelau.
     
-    *   (c) in the application of this Act to Tokelau, as including the Administrator of Tokelau.
-    
-    *   (d) \[Repealed\]
-    
-    (4) The other Ministers specified in this Act may exercise the powers conferred on them by this Act in the Cook Islands, and Tokelau.
-    
-    (5) All criminal jurisdiction conferred by this Act may be exercised by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction.
-    
-    (6) \[Repealed\]
-    
-    Section 10 heading: amended, at 11 pm on 1 January 1962, pursuant to [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(1): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
-    
-    Section 10(1): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(2): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
-    
-    Section 10(2): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(3)(a): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][35] of the Cook Islands Amendment Act 1964 (1964 No 70).
-    
-    Section 10(3)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][36] of the Niue Amendment Act 1974 (1974 No 43).
-    
-    Section 10(3)(c): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122). 
-    
-    Section 10(3)(d): repealed, at 11 pm on 1 January 1962, by [section 10(1)][37] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(4): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
-    
-    Section 10(4): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(5): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
-    
-    Section 10(5): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
-    
-    Section 10(6): repealed, at 11 pm on 1 January 1962, by [section 10(1)][37] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10: replaced, on 23 April 2014, by [section 11][41] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
 
 ##### 11 Repeal and savings
     
@@ -3977,12 +3996,11 @@ Done at Geneva this twelfth day of August 1949, in the English and French langua
 ---
 
 ## Schedule 5  
-Protocol I
+Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts
     
 *   Schedule 5: inserted, on 10 July 1987, by section 7 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
 
-### Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts   
-(Protocol I)
+### **Protocol I**
 
 *   #### Preamble
     
@@ -5464,12 +5482,11 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 ---
 
 ## Schedule 6  
-Protocol II
+Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts
     
 *   Schedule 6: inserted, on 10 July 1987, by section 7 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
 
-### Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts   
-(Protocol II)
+### **Protocol II**
 
 *   #### Preamble
     
@@ -5740,98 +5757,230 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 
 ---
 
-#### Contents
+## Schedule 7  
+Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem
+
+[s 2(1)][3]
+
+*   Schedule 7: inserted, on 23 April 2014, by [section 12][42] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+
+### **Protocol III**
+
+*   #### Preamble
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+    _The High Contracting Parties,_
+    
+    (PP1) _Reaffirming_ the provisions of the Geneva Conventions of 12 August 1949 (in particular Articles 26, 38, 42 and 44 of the First Geneva Convention) and, where applicable, their Additional Protocols of 8 June 1977 (in particular Articles 18 and 38 of Additional Protocol I and Article 12 of Additional Protocol II), concerning the use of distinctive emblems,
+    
+    (PP2) _Desiring_ to supplement the aforementioned provisions so as to enhance their protective value and universal character,
+    
+    (PP3) _Noting_ that this Protocol is without prejudice to the recognized right of High Contracting Parties to continue to use the emblems they are using in conformity with their obligations under the Geneva Conventions and, where applicable, the Protocols additional thereto,
+    
+    (PP4) _Recalling_ that the obligation to respect persons and objects protected by the Geneva Conventions and the Protocols additional thereto derives from their protected status under international law and is not dependent on use of the distinctive emblems, signs or signals,
+    
+    (PP5) _Stressing_ that the distinctive emblems are not intended to have any religious, ethnic, racial, regional or political significance,
+    
+    (PP6) _Emphasizing_ the importance of ensuring full respect for the obligations relating to the distinctive emblems recognized in the Geneva Conventions, and, where applicable, the Protocols additional thereto,
+    
+    (PP7) _Recalling_ that Article 44 of the First Geneva Convention makes the distinction between the protective use and the indicative use of the distinctive emblems,
+    
+    (PP8) _Recalling further_ that National Societies undertaking activities on the territory of another State must ensure that the emblems they intend to use within the framework of such activities may be used in the country where the activity takes place and in the country or countries of transit,
+    
+    (PP9) _Recognizing_ the difficulties that certain States and National Societies may have with the use of the existing distinctive emblems,
+    
+    (PP10) _Noting_ the determination of the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and the International Red Cross and Red Crescent Movement to retain their current names and emblems,
+    
+    _Have agreed on the following:_
+
+## Article 1  
+Respect for and scope of application of this Protocol
+    
+*   1\. The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
+
+*   2\. This Protocol reaffirms and supplements the provisions of the four Geneva Conventions of 12 August 1949 (""the Geneva Conventions"") and, where applicable, of their two Additional Protocols of 8 June 1977 (""the 1977 Additional Protocols"") relating to the distinctive emblems, namely the red cross, the red crescent and the red lion and sun, and shall apply in the same situations as those referred to in these provisions.
+
+## Article 2  
+Distinctive emblems
+    
+*   1\. This Protocol recognizes an additional distinctive emblem in addition to, and for the same purposes as, the distinctive emblems of the Geneva Conventions. The distinctive emblems shall enjoy equal status.
+
+*   2\. This additional distinctive emblem, composed of a red frame in the shape of a square on edge on a white ground, shall conform to the illustration in the Annex to this Protocol. This distinctive emblem is referred to in this Protocol as the ""third Protocol emblem"".
+
+*   3\. The conditions for use of and respect for the third Protocol emblem are identical to those for the distinctive emblems established by the Geneva Conventions and, where applicable, the 1977 Additional Protocols.
+
+*   4\. The medical services and religious personnel of armed forces of High Contracting Parties may, without prejudice to their current emblems, make temporary use of any distinctive emblem referred to in paragraph 1 of this Article where this may enhance protection.
+
+## Article 3  
+Indicative use of the third Protocol emblem
+    
+*   1\. National Societies of those High Contracting Parties which decide to use the third Protocol emblem may, in using the emblem in conformity with relevant national legislation, choose to incorporate within it, for indicative purposes:
+        
+    *   a) a distinctive emblem recognized by the Geneva Conventions or a combination of these emblems; or
+    
+    *   b) another emblem which has been in effective use by a High Contracting Party and was the subject of a communication to the other High Contracting Parties and the International Committee of the Red Cross through the depositary prior to the adoption of this Protocol.
+    
+    *   Incorporation shall conform to the illustration in the Annex to this Protocol.
+    
+    
+
+*   2\. A National Society which chooses to incorporate within the third Protocol emblem another emblem in accordance with paragraph 1 above, may, in conformity with national legislation, use the designation of that emblem and display it within its national territory.
+
+*   3\. National Societies may, in accordance with national legislation and in exceptional circumstances and to facilitate their work, make temporary use of the distinctive emblem referred to in Article 2 of this Protocol.
+
+*   4\. This Article does not affect the legal status of the distinctive emblems recognized in the Geneva Conventions and in this Protocol, nor does it affect the legal status of any particular emblem when incorporated for indicative purposes in accordance with paragraph 1 of this Article.
+
+## Article 4  
+International Committee of the Red Cross and International Federation of Red Cross and Red Crescent Societies
+    
+*   The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, and their duly authorized personnel, may use, in exceptional circumstances and to facilitate their work, the distinctive emblem referred to in Article 2 of this Protocol.
+
+## Article 5  
+Missions under United Nations auspices
+    
+*   The medical services and religious personnel participating in operations under the auspices of the United Nations may, with the agreement of participating States, use one of the distinctive emblems mentioned in Articles 1 and 2\.
+
+## Article 6  
+Prevention and repression of misuse
+    
+*   1\. The provisions of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, governing prevention and repression of misuse of the distinctive emblems shall apply equally to the third Protocol emblem. In particular, the High Contracting Parties shall take measures necessary for the prevention and repression, at all times, of any misuse of the distinctive emblems mentioned in Articles 1 and 2 and their designations, including the perfidious use and the use of any sign or designation constituting an imitation thereof.
+
+*   2\. Notwithstanding paragraph 1 above, High Contracting Parties may permit prior users of the third Protocol emblem, or of any sign constituting an imitation thereof, to continue such use, provided that the said use shall not be such as would appear, in time of armed conflict, to confer the protection of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, and provided that the rights to such use were acquired before the adoption of this Protocol.
+
+## Article 7  
+Dissemination
+    
+*   The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that this instrument may become known to the armed forces and to the civilian population.
+
+## Article 8  
+Signature
+    
+*   This Protocol shall be open for signature by the Parties to the Geneva Conventions on the day of its adoption and will remain open for a period of twelve months.
+
+## Article 9  
+Ratification
+    
+*   This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Geneva Conventions and the 1977 Additional Protocols.
+
+## Article 10  
+Accession
+    
+*   This Protocol shall be open for accession by any Party to the Geneva Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
+
+## Article 11  
+Entry into force
+    
+*   1\. This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
+
+*   2\. For each Party to the Geneva Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
+
+## Article 12  
+Treaty relations upon entry into force of this Protocol
+    
+*   1\. When the Parties to the Geneva Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
+
+*   2\. When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
+
+## Article 13  
+Amendment
+    
+*   1\. Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties, the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, whether a conference should be convened to consider the proposed amendment.
+
+*   2\. The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol.
+
+## Article 14  
+Denunciation
+    
+*   1\. In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in a situation of armed conflict or occupation, the denunciation shall not take effect before the end of the armed conflict or occupation.
+
+*   2\. The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
+
+*   3\. The denunciation shall have effect only in respect of the denouncing Party.
+
+*   4\. Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict or occupation, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
+
+## Article 15  
+Notifications
+    
+*   The depositary shall inform the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol, of:
+        
+    *   a) signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 8, 9 and 10;
+    
+    *   b) the date of entry into force of this Protocol under Article 11 within ten days of said entry into force;
+    
+    *   c) communications received under Article 13;
+    
+    *   d) denunciations under Article 14\.
+    
+    
+
+## Article 16  
+Registration
+    
+*   1\. After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
+
+*   2\. The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
+
+## Article 17  
+Authentic texts
+    
+*   The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Geneva Conventions.
+
+## Annex  
+Third Protocol Emblem
+
+#### (Article 2, paragraph 2 and Article 3, paragraph 1 of the Protocol)
+
+##### Article 2---Distinctive emblems
+
+![. ](images/genevaannex1.jpg)
+
+##### Article 3---Indicative use of the third Protocol emblem
+
+![. ](images/genevaannex2v2.jpg)
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Geneva Conventions Act 1958\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][38] ![](/images/external_link.gif).
+*   This is a reprint of the Geneva Conventions Act 1958 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][39] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][43] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][44] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][40] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][45] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][46] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][41] and [17E][42] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012][47] (2012 No 96)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][30]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Court Martial Act 2007 (2007 No 101): [section 87][25]
     
+    [Geneva Conventions Amendment Act 2005][48] (2005 No 54)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 185][31]
     
-*   [Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012][43] (2012 No 96)
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
-    
-    Court Martial Act 2007 (2007 No 101): [section 87][24]
-    
-    [Geneva Conventions Amendment Act 2005][44] (2005 No 54)
-    
-    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 185][27]
-    
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][28]
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][32]
     
     Legal Services Act 1991 (1991 No 71): section 159(1)
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][25]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][26]
     
     Geneva Conventions Amendment Act 1987 (1987 No 144)
     
-    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][34]
-    
-    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c)][36]
-    
-    Armed Forces Discipline Act 1971 (1971 No 53): [section 208(1)][31]
-    
-    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][35]
-    
-    Western Samoa Act 1961 (1961 No 68): [sections 9][33], [10(1)][37]
+    Armed Forces Discipline Act 1971 (1971 No 53): [section 208(1)][38]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM318004
 [2]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM318007
 [3]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM318008
@@ -5854,25 +6003,29 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 [20]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM318914
 [21]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM319401
 [22]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM319674
-[23]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM214686
-[24]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM1002056
-[25]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM218728
-[26]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM3360714
-[27]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM65527
-[28]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM302525
-[29]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348055
-[30]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348056
-[31]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM404242
-[32]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827816
-[33]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336822
-[34]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM439964
-[35]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM355058
-[36]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM413764
-[37]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336823
-[38]: http://www.pco.parliament.govt.nz/reprints/
-[39]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195439
-[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[41]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195468
-[42]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195470
-[43]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827800
-[44]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348049
+[23]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM6092827
+[24]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM214686
+[25]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM1002056
+[26]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM218728
+[27]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827811
+[28]: http://www.legislation.govt.nz/act/public/1958/0019/latest/whole.html#DLM6092828
+[29]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM4688502
+[30]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM3360714
+[31]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM65527
+[32]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM302525
+[33]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348055
+[34]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM4688503
+[35]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM4688504
+[36]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM4688505
+[37]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348056
+[38]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM404242
+[39]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM4688506
+[40]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827816
+[41]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827817
+[42]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827820
+[43]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2998516
+[44]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2998515
+[45]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2998532
+[46]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[47]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827800
+[48]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348049
