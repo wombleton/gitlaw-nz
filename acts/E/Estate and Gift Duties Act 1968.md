@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 30 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1378,7 +1378,7 @@ Exemptions and reliefs from gift duty
     
     *   (ba) any gift to the Museum of New Zealand Te Papa Tongarewa Board for the purposes of the [Museum of New Zealand Te Papa Tongarewa Act 1992][192]:
     
-    *   (c) any gift to the Arts Council of New Zealand Toi Aotearoa for the purposes of the [Arts Council of New Zealand Toi Aotearoa Act 1994][193]:
+    *   (c) any gift to the Arts Council of New Zealand Toi Aotearoa for the purposes of the [Arts Council of New Zealand Toi Aotearoa Act 2014][193]:
     
     *   (d) any gift to the Health Research Council of New Zealand for the purposes of health research:
     
@@ -1452,25 +1452,23 @@ Exemptions and reliefs from gift duty
     
     Section 73(2)(ba): inserted, on 1 July 1992, by [section 31][217] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
     
-    Section 73(2)(c): amended, on 1 July 1994, pursuant to [section 33][218] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
+    Section 73(2)(c): replaced, on 30 April 2014, by [section 27][218] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
     
-    Section 73(2)(c): amended, on 1 July 1994, pursuant to [section 35][219] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
+    Section 73(2)(d): replaced, on 1 October 1990, by [section 54][219] of the Health Research Council Act 1990 (1990 No 68).
     
-    Section 73(2)(d): replaced, on 1 October 1990, by [section 54][220] of the Health Research Council Act 1990 (1990 No 68).
-    
-    Section 73(2)(da): replaced, on 1 January 2003, by [section 62][221] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
+    Section 73(2)(da): replaced, on 1 January 2003, by [section 62][220] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
     
     Section 73(2)(e): amended, on 1 October 1987, pursuant to [section 3][196] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
     Section 73(2)(f): inserted (with effect on 1 January 1969), on 11 September 1969, by section 5(1) of the Estate and Gift Duties Amendment Act 1969 (1969 No 26). 
     
-    Section 73(2)(g): repealed, on 1 April 1976, by [section 93(1)][222] of the Fire Service Act 1975 (1975 No 42).
+    Section 73(2)(g): repealed, on 1 April 1976, by [section 93(1)][221] of the Fire Service Act 1975 (1975 No 42).
     
-    Section 73(2)(h): inserted, on 1 January 1973, by [section 34(3)][223] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
+    Section 73(2)(h): inserted, on 1 January 1973, by [section 34(3)][222] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
     
-    Section 73(2)(i): repealed, on 1 April 1987, by [section 40(1)(c)][224] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
+    Section 73(2)(i): repealed, on 1 April 1987, by [section 40(1)(c)][223] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
     
-    Section 73(2)(j): inserted, on 21 December 1977, by [section 30(4)][225] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
+    Section 73(2)(j): inserted, on 21 December 1977, by [section 30(4)][224] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
     
     Section 73(2)(jb): inserted, on 1 July 2008, by [section 57(3)][211] of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36).
     
@@ -1480,19 +1478,19 @@ Exemptions and reliefs from gift duty
     
     Section 73(2)(k): inserted, on 10 April 1995 (applying with respect to gifts made on or after that date), by section 2(1) of the Estate and Gift Duties Amendment Act 1995 (1995 No 23).
     
-    Section 73(2)(ka): inserted, on 1 July 2003, by [section 262][226] of the Local Government Act 2002 (2002 No 84). 
+    Section 73(2)(ka): inserted, on 1 July 2003, by [section 262][225] of the Local Government Act 2002 (2002 No 84). 
     
     Section 73(2)(kb): inserted (with effect on 1 July 2008), on 7 September 2010, by [section 195(4)][213] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 73(2)(l): inserted, on 1 July 1996, by [section 18][227] of the New Zealand Antarctic Institute Act 1996 (1996 No 38).
+    Section 73(2)(l): inserted, on 1 July 1996, by [section 18][226] of the New Zealand Antarctic Institute Act 1996 (1996 No 38).
     
-    Section 73(2)(l): amended (with effect on 1 April 1999), on 19 December 2007, by [section 269(1)][228] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 73(2)(l): amended (with effect on 1 April 1999), on 19 December 2007, by [section 269(1)][227] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 73(2)(m): replaced, on 1 April 2008, by [section 269(2)][228] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 73(2)(m): replaced, on 1 April 2008, by [section 269(2)][227] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 73(2)(m): amended (with effect on 1 April 2003), on 19 December 2007, by [section 269(3)][228] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 73(2)(m): amended (with effect on 1 April 2003), on 19 December 2007, by [section 269(3)][227] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 73(2)(n): replaced, on 1 April 2008, by [section 269(4)][228] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 73(2)(n): replaced, on 1 April 2008, by [section 269(4)][227] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 73(2)(n): amended (with effect on 1 April 2008), on 7 September 2010, by [section 195(5)][213] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -1500,15 +1498,15 @@ Exemptions and reliefs from gift duty
 
 ##### 73B Exemption for certain gifts of trading stock
     
-*   A gift by a person to a person who is not an associated person under the [Income Tax Act 2007][229] shall not constitute a dutiable gift if the gift is---
+*   A gift by a person to a person who is not an associated person under the [Income Tax Act 2007][228] shall not constitute a dutiable gift if the gift is---
         
-    *   (a) of trading stock as defined in [section EB 2][230] of the Income Tax Act 2007; and
+    *   (a) of trading stock as defined in [section EB 2][229] of the Income Tax Act 2007; and
     
-    *   (b) made for the purpose of relief from the adverse effects of a Canterbury earthquake, as defined in [section 4][231] of the Canterbury Earthquake Recovery Act 2011; and
+    *   (b) made for the purpose of relief from the adverse effects of a Canterbury earthquake, as defined in [section 4][230] of the Canterbury Earthquake Recovery Act 2011; and
     
     *   (c) made within the period beginning on 4 September 2010 and ending on 31 March 2012\.
     
-    Section 73B: inserted (with effect on 4 September 2010), on 24 May 2011, by [section 13][232] of the Taxation (Canterbury Earthquake Measures) Act 2011 (2011 No 24).
+    Section 73B: inserted (with effect on 4 September 2010), on 24 May 2011, by [section 13][231] of the Taxation (Canterbury Earthquake Measures) Act 2011 (2011 No 24).
 
 ##### 74 Exemption for certain elections by members of group superannuation schemes
     
@@ -1530,39 +1528,39 @@ Exemptions and reliefs from gift duty
 
 ##### 74A Exemption for gifts between members of consolidated group
     
-*   No gift shall constitute a dutiable gift where the donor and the donee are at the time the gift is made members of the same consolidated group within the meaning of the consolidation rules of the [Income Tax Act 2007][229].
+*   No gift shall constitute a dutiable gift where the donor and the donee are at the time the gift is made members of the same consolidated group within the meaning of the consolidation rules of the [Income Tax Act 2007][228].
     
     Section 74A: inserted, on 14 December 1992, by section 2 of the Estate and Gift Duties Amendment Act (No 2) 1992 (1992 No 117).
     
-    Section 74A: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 74A: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
     Section 74A: amended, on 1 April 1995 (applying with respect to the tax on income derived in the 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
 
 ##### 74B Exemption for dividends
     
-*   No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the [Income Tax Act 2007][229]) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of that Act, or would constitute such a dividend but for the application of [section CD 27][234] of that Act.
+*   No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the [Income Tax Act 2007][228]) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of that Act, or would constitute such a dividend but for the application of [section CD 27][233] of that Act.
     
     Section 74B: inserted, on 14 December 1992, by section 2 of the Estate and Gift Duties Amendment Act (No 2) 1992 (1992 No 117).
     
-    Section 74B: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 74B: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 74C Exemption for gifts in respect of amalgamating companies
     
 *   (1) No gift shall constitute a dutiable gift where the donor is an amalgamating company (as defined in [section YA 1][207] of the Income Tax Act 2007), the donee is the amalgamated company (as so defined), and the gift occurs as part of the amalgamation (as so defined).
     
-    (2) No gift shall constitute a dutiable gift where the donor is a shareholder in an amalgamating company, the donee is the amalgamated company or a company which directly or indirectly wholly owns the amalgamated company, the gift occurs as part of the amalgamation, and the amalgamation occurs under [section 222][235] of the Companies Act 1993\.
+    (2) No gift shall constitute a dutiable gift where the donor is a shareholder in an amalgamating company, the donee is the amalgamated company or a company which directly or indirectly wholly owns the amalgamated company, the gift occurs as part of the amalgamation, and the amalgamation occurs under [section 222][234] of the Companies Act 1993\.
     
     Section 74C: inserted (with effect on 1 July 1994), on 14 September 1994, by section 5 of the Estate and Gift Duties Amendment Act 1994 (1994 No 78).
     
     Section 74C(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by section ZA 2(1) of the Income Tax Act 2007 (2007 No 97).
     
-    Section 74C(2): amended, on 5 December 2013, by [section 14][236] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 74C(2): amended, on 5 December 2013, by [section 14][235] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 74D Exemption for gifts in respect of distribution by co-operative company or company owned by co-operative company
     
-*   No gift shall constitute a dutiable gift if the donor is a co-operative company or a company owned by a co-operative company, the donee is a member of the co-operative company, and the gift is an amount of a distribution that is excluded from being a dividend by [section CD 34][237] of the Income Tax Act 2007\.
+*   No gift shall constitute a dutiable gift if the donor is a co-operative company or a company owned by a co-operative company, the donee is a member of the co-operative company, and the gift is an amount of a distribution that is excluded from being a dividend by [section CD 34][236] of the Income Tax Act 2007\.
     
-    Section 74D: inserted, on 3 April 2006 (applying for gifts made after 1 October 2005), by [section 299][238] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 74D: inserted, on 3 April 2006 (applying for gifts made after 1 October 2005), by [section 299][237] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 74D: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by section ZA 2(1) of the Income Tax Act 2007 (2007 No 97).
 
@@ -1594,7 +1592,7 @@ Exemptions and reliefs from gift duty
     
     *   (d) \[Repealed\]
     
-    *   (e) any payment made by an employer to the extent to which it is allowed as a deduction under [section DC 1][239] of the Income Tax Act 2007\.
+    *   (e) any payment made by an employer to the extent to which it is allowed as a deduction under [section DC 1][238] of the Income Tax Act 2007\.
     
     (2) Any issue or sale of shares under a share purchase scheme as defined in [section YA 1][207] of the Income Tax Act 2007 made by a company or by the trustee of the scheme to any employee, to the extent that it is a gift, shall not constitute a dutiable gift.
     
@@ -1602,11 +1600,11 @@ Exemptions and reliefs from gift duty
     
     Section 75(1): amended, on 2 August 1974, by section 2(1) of the Estate and Gift Duties Amendment Act (No 2) 1974 (1974 No 33).
     
-    Section 75(1)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75(1)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
     Section 75(1)(b)(ii): amended, on 1 April 2007, by [section 3(2)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
-    Section 75(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
     Section 75(1)(b)(ii): amended (with effect on 1 July 1994), on 14 September 1994, by section 6 of the Estate and Gift Duties Amendment Act 1994 (1994 No 78).
     
@@ -1618,13 +1616,13 @@ Exemptions and reliefs from gift duty
     
     Section 75(1)(c): amended (with effect on 16 September 1977 and applying to the estates of all persons dying on or after that date and to all gifts made on or after that date), on 25 November 1977, by section 6(a) of the Estate and Gift Duties Amendment Act 1977 (1977 No 58).
     
-    Section 75(1)(c)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75(1)(c)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
     Section 75(1)(c)(ii): amended, on 1 April 2007, by [section 3(2)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
     Section 75(1)(c)(ii): amended, on 26 April 2005, by [section 3(1)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
-    Section 75(1)(c)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75(1)(c)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
     Section 75(1)(c)(ii): amended (with effect on 1 July 1994), on 14 September 1994, by section 6 of the Estate and Gift Duties Amendment Act 1994 (1994 No 78).
     
@@ -1636,37 +1634,37 @@ Exemptions and reliefs from gift duty
     
     Section 75(1)(c)(iii): amended (with effect on 16 September 1977 and applying to the estates of all persons dying on or after that date and to all gifts made on or after that date), on 25 November 1977, by section 6(c) of the Estate and Gift Duties Amendment Act 1977 (1977 No 58).
     
-    Section 75(1)(d): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75(1)(d): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 75(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 75(1)(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75(1)(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
     Section 75(1)(e): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 75(2): inserted, on 2 August 1974, by section 2(1) of the Estate and Gift Duties Amendment Act (No 2) 1974 (1974 No 33). 
     
-    Section 75(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 75(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 75A Exemption for certain dispositions of relationship property
     
 *   (1) In this section,---
     
-    _agreement_ means an agreement made under [Part 6][241] of the Property (Relationships) Act 1976
+    _agreement_ means an agreement made under [Part 6][240] of the Property (Relationships) Act 1976
     
-    _child of the civil union_ has the meaning given to it by [section 2][242] of the Property (Relationships) Act 1976
+    _child of the civil union_ has the meaning given to it by [section 2][241] of the Property (Relationships) Act 1976
     
-    _child of the de facto relationship_ has the meaning given to it by [section 2][242] of the Property (Relationships) Act 1976
+    _child of the de facto relationship_ has the meaning given to it by [section 2][241] of the Property (Relationships) Act 1976
     
-    _child of the marriage_ has the meaning given to it by [section 2][242] of the Property (Relationships) Act 1976
+    _child of the marriage_ has the meaning given to it by [section 2][241] of the Property (Relationships) Act 1976
     
-    _de facto partner_ has the meaning given to it by [section 2][242] of the Property (Relationships) Act 1976
+    _de facto partner_ has the meaning given to it by [section 2][241] of the Property (Relationships) Act 1976
     
     _disposition of relationship property_ means a disposition of property (being a disposition of relationship property) made by or under an agreement
     
-    _relationship property_ means any relationship property as defined in [section 2][242] of the Property (Relationships) Act 1976\.
+    _relationship property_ means any relationship property as defined in [section 2][241] of the Property (Relationships) Act 1976\.
     
     (2) If, immediately after a disposition of relationship property is made to a party to an agreement, the value of all legal and equitable interests of that party in the relationship property of both parties to the agreement does not exceed 50% of the total value of that relationship property, the disposition of relationship property does not constitute a gift.
     
@@ -1678,7 +1676,7 @@ Exemptions and reliefs from gift duty
     
     *   (b) if the disposition is made later than 3 months after the date of execution, the date of disposition.
     
-    (5) Any disposition of property by or under an order of the court under [section 25][243] of the Property (Relationships) Act 1976 does not constitute a gift to the extent that the disposition is to a spouse, civil union partner or de facto partner or former spouse, civil union partner or de facto partner or is solely for the benefit of minor or dependent children of the marriage or, as the case requires, minor or dependent children of the civil union or de facto relationship.
+    (5) Any disposition of property by or under an order of the court under [section 25][242] of the Property (Relationships) Act 1976 does not constitute a gift to the extent that the disposition is to a spouse, civil union partner or de facto partner or former spouse, civil union partner or de facto partner or is solely for the benefit of minor or dependent children of the marriage or, as the case requires, minor or dependent children of the civil union or de facto relationship.
     
     (6) If any disposition of relationship property is made by or under an agreement, a copy of that agreement must be delivered to the Commissioner within 3 months after the date of disposition of that property and, for this purpose, even though no gift may have been made exceeding $12,000 in value, the provisions of [sections 79][126], [80][127], and [95][148] apply, with any necessary modifications, as if---
         
@@ -1690,9 +1688,9 @@ Exemptions and reliefs from gift duty
     
     (7) The application of this section is affected by---
         
-    *   (a) [section 7(2)][244] of the Estate and Gift Duties Amendment Act 1983:
+    *   (a) [section 7(2)][243] of the Estate and Gift Duties Amendment Act 1983:
     
-    *   (b) [section 3(2)][245] of the Estate and Gift Duties Amendment Act 1993\.
+    *   (b) [section 3(2)][244] of the Estate and Gift Duties Amendment Act 1993\.
     
     Section 75A: replaced, on 1 August 2001, by [section 64(2)][176] of the Property (Relationships) Amendment Act 2001 (2001 No 5). 
     
@@ -1700,7 +1698,7 @@ Exemptions and reliefs from gift duty
     
     Section 75A(5): amended, on 26 April 2005, by [section 3(1)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
-    Section 75A(6): amended, on 17 October 2002 (applying on and after 1 August 2001), by [section 108(1)][246] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 75A(6): amended, on 17 October 2002 (applying on and after 1 August 2001), by [section 108(1)][245] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 75B Exemption for base price adjustment under financial arrangements rules in Income Tax Act 2007
     
@@ -1710,7 +1708,7 @@ Exemptions and reliefs from gift duty
     
     *   (b) _dividend_ means a dividend derived by a person from the release of an obligation to repay an amount lent:
     
-    *   (c) _financial arrangement_ is defined in [section EW 3(3)(a) or (b)][247] of that Act.
+    *   (c) _financial arrangement_ is defined in [section EW 3(3)(a) or (b)][246] of that Act.
     
     (2) The forgiveness or remission of a liability, in whole or in part, under a financial arrangement is not a gift under this Act if and to the extent that the forgiveness or remission must be taken into account under the financial arrangements rules when a person calculates their income because it---
         
@@ -1720,41 +1718,41 @@ Exemptions and reliefs from gift duty
     
     (3) If and to the extent that a transaction is a dividend, the transaction is not a gift under this Act.
     
-    Section 75B: replaced, on 20 May 1999 (applying to financial arrangements entered on and after that date), by [section 118(1)][248] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 75B: replaced, on 20 May 1999 (applying to financial arrangements entered on and after that date), by [section 118(1)][247] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 75B heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75B heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 75B heading: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75B heading: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 75B(1): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75B(1): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 75B(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75B(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 75B(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][233] of the Income Tax Act 2007 (2007 No 97).
+    Section 75B(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 75B(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75B(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 75B(2)(a): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75B(2)(a): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 75B(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][240] of the Income Tax Act 2004 (2004 No 35).
+    Section 75B(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][239] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 75BA Exemption for gifts of financial arrangements under accrual rules in Income Tax Act 1994 (Part EH, Division 2)
     
 *   \[Repealed\]
     
-    Section 75BA: repealed, on 24 October 2001 (applying on 20 May 1999, but not applying to a financial arrangement that is transferred by way of gift between 10 October 2000 and 2 April 2001), by [section 243(1)][249] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 75BA: repealed, on 24 October 2001 (applying on 20 May 1999, but not applying to a financial arrangement that is transferred by way of gift between 10 October 2000 and 2 April 2001), by [section 243(1)][248] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 75BB Exemption for gifts of financial arrangements under accruals rules in Income Tax Act 1994 (Part EH, Division 1)
     
 *   \[Repealed\]
     
-    Section 75BB: repealed, on 24 October 2001 (applying on the implementation date (as defined in section EZ 45 of the Income Tax Act 2004), but not applying to a financial arrangement that is transferred by way of gift between 10 October 2000 and 2 April 2001), by [section 244(1)][250] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 75BB: repealed, on 24 October 2001 (applying on the implementation date (as defined in section EZ 45 of the Income Tax Act 2004), but not applying to a financial arrangement that is transferred by way of gift between 10 October 2000 and 2 April 2001), by [section 244(1)][249] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 75BC Exemption for gifts of financial arrangements under accruals rules in Income Tax Act 1976
     
 *   \[Repealed\]
     
-    Section 75BC: repealed, on 24 October 2001 (applying on the implementation date (as defined in section 64B of the Income Tax Act 1976)), by [section 245(1)][251] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 75BC: repealed, on 24 October 2001 (applying on the implementation date (as defined in section 64B of the Income Tax Act 1976)), by [section 245(1)][250] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 75C Exemption for certain dispositions of property under Waikato Electricity Authority Act 1988
     
@@ -1774,13 +1772,13 @@ Exemptions and reliefs from gift duty
     
 *   (1) This section applies upon the making of regulations to dissolve the New Zealand Raspberry Marketing Council, the Raspberry Marketing Export Authority and the District Raspberry Marketing Committees established under the Raspberry Marketing Regulations 1979\.
     
-    (2) In this section, _current grower_, _district committee_ and _grower_ have the meaning set out in the [Raspberry Marketing Authorities (Dissolution) Regulations 1999][252].
+    (2) In this section, _current grower_, _district committee_ and _grower_ have the meaning set out in the [Raspberry Marketing Authorities (Dissolution) Regulations 1999][251].
     
-    (3) When the [Raspberry Marketing Authorities (Dissolution) Regulations 1999][252] are made, the making and coming into force does not constitute a dutiable gift to district committees, growers or current growers.
+    (3) When the [Raspberry Marketing Authorities (Dissolution) Regulations 1999][251] are made, the making and coming into force does not constitute a dutiable gift to district committees, growers or current growers.
     
     (4) When the Cold Storage Nelson Limited shares owned by the Nelson Raspberry Marketing Committee vest in Rubus Investments Nelson Limited, the vesting does not constitute a dutiable gift to Rubus Investments Nelson Limited.
     
-    Section 75D: inserted, on 8 September 1999 (applying on and after 12 July 1999), by [section 82(1)][253] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 75D: inserted, on 8 September 1999 (applying on and after 12 July 1999), by [section 82(1)][252] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
 
 #### Reliefs
 
@@ -1835,7 +1833,7 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 s 59(1), (2); 1964 No 74 s 7(1)
     
-    Section 79(1): amended, on 1 April 1984 (applying in respect of all gifts made on or after that day), by [section 8(1)][254] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
+    Section 79(1): amended, on 1 April 1984 (applying in respect of all gifts made on or after that day), by [section 8(1)][253] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
 
 ##### 80 Donee to deliver gift statement in default of donor
     
@@ -1845,7 +1843,7 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 s 61; 1964 No 74 s 7(2)
     
-    Section 80(1): amended, on 1 April 1984 (applying in respect of all gifts made on or after that day), by [section 8(2)][254] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
+    Section 80(1): amended, on 1 April 1984 (applying in respect of all gifts made on or after that day), by [section 8(2)][253] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
 
 ##### 81 High Court may order gift statement to be delivered
     
@@ -1853,7 +1851,7 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 s 71
     
-    Section 81 heading: amended, on 1 April 1980, pursuant to [section 12][255] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 81 heading: amended, on 1 April 1980, pursuant to [section 12][254] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 82 Assessment of gift duty
     
@@ -1873,7 +1871,7 @@ Assessment and collection of gift duty
     
     (6B) A composition is not a good discharge from duty if it has been procured by fraud or by failure to disclose material facts.
     
-    (7) Except as provided by [Part 8A][256] of the Tax Administration Act 1994 (which applies in relation to challenges to assessments of tax)---
+    (7) Except as provided by [Part 8A][255] of the Tax Administration Act 1994 (which applies in relation to challenges to assessments of tax)---
         
     *   (a) no assessment or amended assessment of gift duty, penalty on gift duty, or interest on gift duty shall be disputed in any court or in any proceedings (including proceedings before a Taxation Review Authority); and
     
@@ -1881,13 +1879,13 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 ss 59(1), 65, 73, 78(1)
     
-    Section 82(6): replaced, on 24 May 1999, by [section 9][257] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 82(6): replaced, on 24 May 1999, by [section 9][256] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 82(6A): inserted, on 24 May 1999, by [section 9][257] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 82(6A): inserted, on 24 May 1999, by [section 9][256] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 82(6B): inserted, on 24 May 1999, by [section 9][257] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 82(6B): inserted, on 24 May 1999, by [section 9][256] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 82(7): replaced, on 1 October 1996, by [section 3][258] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 82(7): replaced, on 1 October 1996, by [section 3][257] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
 
 ##### 83 Penalty on unpaid gift duty
     
@@ -1897,7 +1895,7 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 s 64
     
-    Section 83(1): replaced, on 26 July 1996, by [section 4][259] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 83(1): replaced, on 26 July 1996, by [section 4][258] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 84 Interest on unpaid gift duty
     
@@ -1907,9 +1905,9 @@ Assessment and collection of gift duty
     
     (3) For the purposes of [sections 78][125], [86][133], and [87][134], all interest on gift duty shall be deemed to be gift duty.
     
-    Section 84(1): repealed, on 26 July 1996, by [section 5][260] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 84(1): repealed, on 26 July 1996, by [section 5][259] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
-    Section 84(2): repealed, on 26 July 1996, by [section 5][260] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 84(2): repealed, on 26 July 1996, by [section 5][259] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 85 When gift duty payable
     
@@ -1949,17 +1947,17 @@ Assessment and collection of gift duty
     
     Compare: 1955 No 105 ss 56(2)--(4), 82, 83
     
-    Section 87(4): repealed, on 24 May 1999, by [section 10][261] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 87(4): repealed, on 24 May 1999, by [section 10][260] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 87A Registration of charge for gift duty
     
-*   (1) If gift duty constitutes a charge on land or an interest in land that is subject to the [Land Transfer Act 1952][262] or the [Deeds Registration Act 1908][263] or a mining privilege, lease or licence under the Mining Act 1971, the Commissioner may register the charge by depositing a certificate under the Commissioner's hand setting out the description of the land, interest in land, mining privilege, lease or licence so charged, including a reference to any relevant certificate of title, with---
+*   (1) If gift duty constitutes a charge on land or an interest in land that is subject to the [Land Transfer Act 1952][261] or the [Deeds Registration Act 1908][262] or a mining privilege, lease or licence under the Mining Act 1971, the Commissioner may register the charge by depositing a certificate under the Commissioner's hand setting out the description of the land, interest in land, mining privilege, lease or licence so charged, including a reference to any relevant certificate of title, with---
         
-    *   (a) in the case of land subject to the [Land Transfer Act 1952][262] or a mining privilege, lease or licence that has been registered under the Land Transfer Act 1952 in accordance with the [Mining Tenures Registration Act 1962][264], the District Land Registrar for the land registration district in which the land is situated:
+    *   (a) in the case of land subject to the [Land Transfer Act 1952][261] or a mining privilege, lease or licence that has been registered under the Land Transfer Act 1952 in accordance with the [Mining Tenures Registration Act 1962][263], the District Land Registrar for the land registration district in which the land is situated:
     
     *   (b) in the case of any other mining privilege, lease or licence, the Mining Registrar in whose office the mining privilege, lease or licence is registered:
     
-    *   (c) in the case of land subject to the [Deeds Registration Act 1908][263], the Registrar of Deeds for the district in which the land is situated.
+    *   (c) in the case of land subject to the [Deeds Registration Act 1908][262], the Registrar of Deeds for the district in which the land is situated.
     
     (2) If subsection (1) applies, the appropriate Registrar must, without payment of a fee, register the certificate against the title to the land, or privilege, lease or licence so charged.
     
@@ -1967,7 +1965,7 @@ Assessment and collection of gift duty
     
     (4) When a charge has been satisfied, the Commissioner must deposit a release of the charge with the appropriate Registrar and the Registrar must, without payment of a fee, register the release against the title to the land, or privilege, lease or licence.
     
-    Section 87A: inserted, on 24 May 1999, by [section 11][265] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 87A: inserted, on 24 May 1999, by [section 11][264] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 87B Enforcement of charge for gift duty by High Court
     
@@ -1983,103 +1981,103 @@ Assessment and collection of gift duty
     
     (3) If property has been sold under a High Court order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
     
-    (4) A vesting order made by the High Court has the same effect as if all persons entitled to the property had been free from disability and had executed all proper conveyances, transfers and assignments of the property specified in the order, and in the case of land, an interest in land or a mining privilege, lease or licence under the Mining Act 1971, the purchaser's title must be registered under the [Land Transfer Act 1952][262], the [Deeds Registration Act 1908][263] or the Mining Act 1971 accordingly.
+    (4) A vesting order made by the High Court has the same effect as if all persons entitled to the property had been free from disability and had executed all proper conveyances, transfers and assignments of the property specified in the order, and in the case of land, an interest in land or a mining privilege, lease or licence under the Mining Act 1971, the purchaser's title must be registered under the [Land Transfer Act 1952][261], the [Deeds Registration Act 1908][262] or the Mining Act 1971 accordingly.
     
-    Section 87B: inserted, on 24 May 1999, by [section 11][265] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 87B: inserted, on 24 May 1999, by [section 11][264] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 88 Remission of penalty and interest on gift duty
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 1 April 1997, by [section 6(1)][266] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 88: repealed, on 1 April 1997, by [section 6(1)][265] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 89 Refund of gift duty, penalty, and interest paid in excess
     
-*   (1) Subject to subsection (2), where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that gift duty, penalty on gift duty, or interest on gift duty has been paid in excess, whether as a result of any remission under [Part 11][267] of the Tax Administration Act 1994 or otherwise howsoever, he or she may refund the excess to the person entitled.
+*   (1) Subject to subsection (2), where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that gift duty, penalty on gift duty, or interest on gift duty has been paid in excess, whether as a result of any remission under [Part 11][266] of the Tax Administration Act 1994 or otherwise howsoever, he or she may refund the excess to the person entitled.
     
     (2) Where gift duty has been reassessed under [section 68G][99], the Commissioner shall refund to the person entitled thereto any gift duty, penalty on gift duty, or interest on gift duty paid in excess, together with interest computed and payable in accordance with [Part 7][164] of the Tax Administration Act 1994\.
     
     (3) All money payable under this Act by way of refund of gift duty, penalty on gift duty, or interest on gift duty shall be paid out of a Crown Bank Account without further appropriation than this Act.
     
-    (4) A refund made under this section must be made in accordance with the requirements of [section 184A][268] of the Tax Administration Act 1994\.
+    (4) A refund made under this section must be made in accordance with the requirements of [section 184A][267] of the Tax Administration Act 1994\.
     
     Compare: 1955 No 105 ss 52, 80(1), 81
     
-    Section 89(1): amended, on 26 July 1996, by [section 7(a)][269] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 89(1): amended, on 26 July 1996, by [section 7(a)][268] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
-    Section 89(2): amended, on 24 May 1999, by [section 12][270] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 89(2): amended, on 24 May 1999, by [section 12][269] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 89(2): amended, on 26 July 1996, by [section 7(b)][269] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 89(2): amended, on 26 July 1996, by [section 7(b)][268] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
     
-    Section 89(3): amended, on 25 January 2005, pursuant to [section 65R(3)][271] of the Public Finance Act 1989 (1989 No 44).
+    Section 89(3): amended, on 25 January 2005, pursuant to [section 65R(3)][270] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 89(4): inserted, on 7 October 1998 (applying to refunds of gift duty, penalty, and interest paid in excess arising on and after 1 April 2000), by [section 77(1)][272] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 89(4): inserted, on 7 October 1998 (applying to refunds of gift duty, penalty, and interest paid in excess arising on and after 1 April 2000), by [section 77(1)][271] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 ## Part 7  
 Objections
 
 \[Repealed\]
     
-*   Part 7: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+*   Part 7: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
 
 ##### 90 Objections to assessments
     
 *   \[Repealed\]
     
-    Section 90: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 90: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
 
 ##### 90A Application of Parts 4A and 8A of Tax Administration Act 1994
     
-*   (1) [Parts 4A][274] and [8A][256] of the Tax Administration Act 1994 apply with respect to every notice of assessment or amended assessment issued by the Commissioner under this Act on or after 1 October 1996\.
+*   (1) [Parts 4A][273] and [8A][255] of the Tax Administration Act 1994 apply with respect to every notice of assessment or amended assessment issued by the Commissioner under this Act on or after 1 October 1996\.
     
     (2) Subsection (1) does not apply to any notice of amended assessment issued by the Commissioner under this Act on or after 1 October 1996, if, before that date, the person who has been assessed has made a competent objection to a notice of assessment that precedes the notice of amended assessment.
     
-    Section 90A: inserted, on 1 October 1996, by [section 9][275] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 90A: inserted, on 1 October 1996, by [section 9][274] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
     
-    Section 90A(1): amended, on 24 October 2001 (applying to the 2002--03 and subsequent income years) by [section 246(1)][276] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90A(1): amended, on 24 October 2001 (applying to the 2002--03 and subsequent income years) by [section 246(1)][275] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 90A(2): amended, on 24 October 2001 (applying to the 2002--03 and subsequent income years) by [section 246(1)][276] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90A(2): amended, on 24 October 2001 (applying to the 2002--03 and subsequent income years) by [section 246(1)][275] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 91 Commissioner may alter assessment, or objection may be submitted to Taxation Review Authority
     
 *   \[Repealed\]
     
-    Section 91: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 91: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 92 When objection may be referred in first instance to High Court
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 92: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 92A Test case procedure
     
 *   \[Repealed\]
     
-    Section 92A: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 92A: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 93 Removal of case into Court of Appeal
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 93: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 94 Objections to special valuations of land
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 1 October 1996, by [section 8(1)][273] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 94: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ## Part 8  
 Miscellaneous provisions
 
 ##### 95 Application of Part 9 of Tax Administration Act 1994
     
-*   [Part 9][277] of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997\.
+*   [Part 9][276] of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997\.
     
-    Section 95: replaced, on 26 July 1996, by [section 10][278] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 95: replaced, on 26 July 1996, by [section 10][277] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
-    Section 95: amended (with effect on 31 March 1997), on 23 September 1997, by [section 119(2)][279] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 95: amended (with effect on 31 March 1997), on 23 September 1997, by [section 119(2)][278] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
 
 ##### 96 Giving of notices
     
@@ -2091,7 +2089,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 26 July 1996, by [section 11][280] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
+    Section 97: repealed, on 26 July 1996, by [section 11][279] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 98 Commissioner may destroy records after 15 years
     
@@ -2148,7 +2146,7 @@ Scale of rates of estate duty
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 13][281] of the Estate Duty Repeal Act 1999 (1999 No 64).
+*   Schedule 1: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 13][280] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ---
 
@@ -2889,7 +2887,7 @@ Scale of rates of gift duty
 
 [s 62][85]
 
-*   Schedule 3: replaced, on 1 April 1984 (rates of gift duty applying to all dutiable gifts made on or after that day), by [section 5(1)][282] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
+*   Schedule 3: replaced, on 1 April 1984 (rates of gift duty applying to all dutiable gifts made on or after that day), by [section 5(1)][281] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
 
 **Value of item b in section 62**Rate 
 
@@ -2924,7 +2922,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Joint Family Homes Act 1964 (1964 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][283]._
+_Amendment(s) incorporated in the [Act(s)][282]._
 
 ##### Land and Income Tax Act 1954 (1954 No 67) (Reprinted 1967, Vol 3, p 1878)
 
@@ -2936,7 +2934,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63) (1957 Reprint, Vol 11, p 619)
 
-_Amendment(s) incorporated in the [Act(s)][284]._
+_Amendment(s) incorporated in the [Act(s)][283]._
 
 ---
 
@@ -3007,7 +3005,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Purposes Act 1955 (1955 No 106) (Reprinted 1964, Vol 3, p 2185)
 
-_Amendment(s) incorporated in the [Act(s)][285]._
+_Amendment(s) incorporated in the [Act(s)][284]._
 
 ##### Medical Research Council Act 1950 (1950 No 20) (1957 Reprint, Vol 9, p 591)
 
@@ -3015,7 +3013,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63) (1957 Reprint, Vol 11, p 637)
 
-_Amendment(s) incorporated in the [Act(s)][284]._
+_Amendment(s) incorporated in the [Act(s)][283]._
 
 ##### Queen Elizabeth the Second Arts Council of New Zealand Act 1963 (1963 No 54)
 
@@ -3033,19 +3031,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][286] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][287] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][285] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][286] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][288] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][289] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][287] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][288] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][236]
+*   Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][218]
+    
+    Companies Amendment Act 2013 (2013 No 111): [section 14][235]
     
     Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [section 245][175]
     
-    Taxation (Canterbury Earthquake Measures) Act 2011 (2011 No 24): [section 13][232]
+    Taxation (Canterbury Earthquake Measures) Act 2011 (2011 No 24): [section 13][231]
     
     Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [section 195][213]
     
@@ -3053,47 +3053,47 @@ _Amendment(s) incorporated in the Act(s)._
     
     Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36): [section 57][211]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 269][228]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 269][227]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][233]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][232]
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][215]
     
-    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [section 299][238]
+    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [section 299][237]
     
     Charities Act 2005 (2005 No 39): [section 72][212]
     
-    [Estate and Gift Duties Amendment Act 2005][290] (2005 No 8)
+    [Estate and Gift Duties Amendment Act 2005][289] (2005 No 8)
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][240]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][239]
     
-    Local Government Act 2002 (2002 No 84): [section 262][226]
+    Local Government Act 2002 (2002 No 84): [section 262][225]
     
-    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][221]
+    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][220]
     
-    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [section 108][246]
+    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [section 108][245]
     
-    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 243--246][249]
+    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 243--246][248]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [sections 64(2)][176], [65][291]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [sections 64(2)][176], [65][290]
     
-    Taxation (Remedial Matters) Act 1999 (1999 No 98): [section 82][253]
+    Taxation (Remedial Matters) Act 1999 (1999 No 98): [section 82][252]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [Part 1][292]
+    Estate Duty Repeal Act 1999 (1999 No 64): [Part 1][291]
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][181]
     
-    Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59): [section 118][248]
+    Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59): [section 118][247]
     
-    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [section 77][272]
+    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [section 77][271]
     
-    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [section 119][279]
+    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [section 119][278]
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
-    [Estate and Gift Duties Amendment Act 1996][293] (1996 No 62)
+    [Estate and Gift Duties Amendment Act 1996][292] (1996 No 62)
     
-    New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][227]
+    New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][226]
     
     Estate and Gift Duties Amendment Act 1995 (1995 No 23)
     
@@ -3101,9 +3101,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Estate and Gift Duties Amendment Act 1994 (1994 No 78)
     
-    Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19): [sections 33][218], [35][219]
-    
-    [Estate and Gift Duties Amendment Act 1993][294] (1993 No 132)
+    [Estate and Gift Duties Amendment Act 1993][293] (1993 No 132)
     
     Historic Places Act 1993 (1993 No 38): [section 118(1)][214]
     
@@ -3113,7 +3111,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Estate and Gift Duties Amendment Act 1992 (1992 No 3)
     
-    Health Research Council Act 1990 (1990 No 68): [section 54][220]
+    Health Research Council Act 1990 (1990 No 68): [section 54][219]
     
     Estate and Gift Duties Amendment Act 1990 (1990 No 25)
     
@@ -3121,23 +3119,23 @@ _Amendment(s) incorporated in the Act(s)._
     
     Estate and Gift Duties Amendment Act (No 2) 1989 (1989 No 153)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][271]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][270]
     
-    Superannuation Schemes Act 1989 (1989 No 10): [sections 31(1)][170], [32(3)][295]
+    Superannuation Schemes Act 1989 (1989 No 10): [sections 31(1)][170], [32(3)][294]
     
-    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(c)][224]
+    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(c)][223]
     
     Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4): [section 3][196]
     
-    [Estate and Gift Duties Amendment Act 1983][296] (1983 No 3)
+    [Estate and Gift Duties Amendment Act 1983][295] (1983 No 3)
     
     Inland Revenue Department Amendment Act 1980 (1980 No 32): section 8(2)
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][255]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][254]
     
-    [Estate and Gift Duties Amendment Act 1979][297] (1979 No 24)
+    [Estate and Gift Duties Amendment Act 1979][296] (1979 No 24)
     
-    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 30(4)][225]
+    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 30(4)][224]
     
     Estate and Gift Duties Amendment Act 1977 (1977 No 58)
     
@@ -3145,13 +3143,13 @@ _Amendment(s) incorporated in the Act(s)._
     
     Superannuation Schemes Act 1976 (1976 No 3): section 11(3)
     
-    Fire Service Act 1975 (1975 No 42): [section 93(1)][222]
+    Fire Service Act 1975 (1975 No 42): [section 93(1)][221]
     
     Protected Objects Act 1975 (1975 No 41): [section 23(b)][216]
     
     Estate and Gift Duties Amendment Act (No 2) 1974 (1974 No 33)
     
-    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(3)][223]
+    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(3)][222]
     
     Estate and Gift Duties Amendment Act 1972 (1972 No 25)
     
@@ -3356,7 +3354,7 @@ _Amendment(s) incorporated in the Act(s)._
 [190]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM300510
 [191]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM432115
 [192]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM260203
-[193]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM330161
+[193]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3007300
 [194]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM157116
 [195]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM246946
 [196]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM100572
@@ -3381,83 +3379,82 @@ _Amendment(s) incorporated in the Act(s)._
 [215]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM376605
 [216]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM432533
 [217]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM260276
-[218]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM330647
-[219]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM330650
-[220]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM213342
-[221]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM157684
-[222]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM434405
-[223]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM407085
-[224]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM102238
-[225]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM9027
-[226]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM174088
-[227]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM391307
-[228]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1172266
-[229]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512300
-[230]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1514284
-[231]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3570801
-[232]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3691736
-[233]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1523176
-[234]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512632
-[235]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM321146
-[236]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM5620822
-[237]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512650
-[238]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM370747
-[239]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1513758
-[240]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM277147
-[241]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441361
-[242]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441012
-[243]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441455
-[244]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66553
-[245]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328339
-[246]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM149779
-[247]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1515237
-[248]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM29342
-[249]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116847
-[250]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116848
-[251]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116850
-[252]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM289229
-[253]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM39206
-[254]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66554
-[255]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM35049
-[256]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM355922
-[257]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30096
-[258]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393715
-[259]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393716
-[260]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393717
-[261]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30097
-[262]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM269031
-[263]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM141134
-[264]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM339688
-[265]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30098
-[266]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393718
-[267]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM358317
-[268]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM358789
-[269]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393719
-[270]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30501
-[271]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM162942
-[272]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM433070
-[273]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393720
-[274]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM353135
-[275]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393721
-[276]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116851
-[277]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM356110
-[278]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393722
-[279]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM412966
-[280]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393723
-[281]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30502
-[282]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66551
-[283]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM352254
-[284]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM246644
-[285]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM293837
-[286]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998516
-[287]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998515
-[288]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998532
-[289]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[290]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM335077
-[291]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM87571
-[292]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30077
-[293]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393706
-[294]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328332
-[295]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM144055
-[296]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66541
-[297]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM32022
+[218]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3007375
+[219]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM213342
+[220]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM157684
+[221]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM434405
+[222]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM407085
+[223]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM102238
+[224]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM9027
+[225]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM174088
+[226]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM391307
+[227]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1172266
+[228]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512300
+[229]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1514284
+[230]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3570801
+[231]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3691736
+[232]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1523176
+[233]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512632
+[234]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM321146
+[235]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM5620822
+[236]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1512650
+[237]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM370747
+[238]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1513758
+[239]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM277147
+[240]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441361
+[241]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441012
+[242]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM441455
+[243]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66553
+[244]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328339
+[245]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM149779
+[246]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1515237
+[247]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM29342
+[248]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116847
+[249]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116848
+[250]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116850
+[251]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM289229
+[252]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM39206
+[253]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66554
+[254]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM35049
+[255]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM355922
+[256]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30096
+[257]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393715
+[258]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393716
+[259]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393717
+[260]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30097
+[261]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM269031
+[262]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM141134
+[263]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM339688
+[264]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30098
+[265]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393718
+[266]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM358317
+[267]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM358789
+[268]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393719
+[269]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30501
+[270]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM162942
+[271]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM433070
+[272]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393720
+[273]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM353135
+[274]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393721
+[275]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM116851
+[276]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM356110
+[277]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393722
+[278]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM412966
+[279]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393723
+[280]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30502
+[281]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66551
+[282]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM352254
+[283]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM246644
+[284]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM293837
+[285]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998516
+[286]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998515
+[287]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998532
+[288]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[289]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM335077
+[290]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM87571
+[291]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30077
+[292]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393706
+[293]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328332
+[294]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM144055
+[295]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66541
+[296]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM32022
