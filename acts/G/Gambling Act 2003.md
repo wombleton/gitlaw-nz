@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 30 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7145,7 +7145,7 @@ Institutions
     
 *   (1) The Board may allocate from the profits of New Zealand lotteries a specified sum of money for expenditure, in accordance with the terms of their statutes, by any of the following bodies:
         
-    *   (a) the Arts Council of New Zealand Toi Aotearoa constituted under the [Arts Council of New Zealand Toi Aotearoa Act 1994][554]:
+    *   (a) the Arts Council of New Zealand Toi Aotearoa constituted under the [Arts Council of New Zealand Toi Aotearoa Act 2014][554]:
     
     *   (b) the New Zealand Film Commission established under the [New Zealand Film Commission Act 1978][555]:
     
@@ -7157,7 +7157,7 @@ Institutions
     
     *   (b) on receipt of the notification, the Secretary must cause the amount allocated to be paid to the body concerned at the intervals that the Board determines.
     
-    
+    Section 279(1)(a): amended, on 30 April 2014, by [section 27][557] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
 
 #### Distribution committees
 
@@ -7173,7 +7173,7 @@ Institutions
     
     (5) The Minister may vary the purposes in respect of which any distribution committee has been established, and may disestablish any distribution committee.
     
-    (6) [Part 2][557] of Schedule 5 applies in relation to the members and proceedings of distribution committees.
+    (6) [Part 2][558] of Schedule 5 applies in relation to the members and proceedings of distribution committees.
     
     (7) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][498] and must be presented to the House of Representatives under [section 41][499] of that Act.
     
@@ -7293,9 +7293,9 @@ Institutions
     
     Compare: 1977 No 84 s 116U
     
-    Section 286(2): amended, on 5 December 2013, by [section 4(1)][558] of the Gambling Amendment Act 2013 (2013 No 118).
+    Section 286(2): amended, on 5 December 2013, by [section 4(1)][559] of the Gambling Amendment Act 2013 (2013 No 118).
     
-    Section 286(3): inserted, on 5 December 2013, by [section 4(2)][558] of the Gambling Amendment Act 2013 (2013 No 118).
+    Section 286(3): inserted, on 5 December 2013, by [section 4(2)][559] of the Gambling Amendment Act 2013 (2013 No 118).
 
 ##### 287 Investment of money
     
@@ -7351,7 +7351,7 @@ Institutions
 
 ##### 291 Crown entity
     
-*   The Board is is, for the purposes of [subpart 2][559] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][560] of that Act.
+*   The Board is is, for the purposes of [subpart 2][560] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][561] of that Act.
     
     Compare: 1977 No 84 s 116YA
     
@@ -7371,7 +7371,7 @@ Institutions
     
 *   (1) If the Minister so directs, there may be paid out of the undistributed profits of New Zealand lotteries to any appointed member of the Board, and to any member of a distribution committee or subcommittee, any remuneration by way of fees or allowances that may be approved by the Minister.
     
-    (2) The Board and each distribution committee and subcommittee are statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][561], and travelling allowances or expenses in accordance with the provisions of that Act are to be paid out of the undistributed profits of New Zealand lotteries to members of the Board and members of the committees and subcommittees accordingly.
+    (2) The Board and each distribution committee and subcommittee are statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][562], and travelling allowances or expenses in accordance with the provisions of that Act are to be paid out of the undistributed profits of New Zealand lotteries to members of the Board and members of the committees and subcommittees accordingly.
     
     Compare: 1977 No 84 s 116ZB
 
@@ -7409,7 +7409,7 @@ Institutions
     
 *   (1) As soon as practicable after the end of each financial year, the Board must deliver to the Minister a report on its operations and the operations of each distribution committee during that financial year.
     
-    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][562] of the Crown Entities Act 2004\.
+    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][563] of the Crown Entities Act 2004\.
     
     Compare: 1977 No 84 s 116Z
     
@@ -7431,7 +7431,7 @@ Institutions
     
     (3) The Authority must deliver to the Minister, before the date of dissolution, a report on its operations for the previous financial year and for the period until dissolution.
     
-    (4) The Minister must present a copy of that report to the House of Representatives in accordance with [section 44A][563] of the Public Finance Act 1989\.
+    (4) The Minister must present a copy of that report to the House of Representatives in accordance with section 44A of the Public Finance Act 1989\.
 
 ##### 298 Consequences of dissolution
     
@@ -9854,7 +9854,7 @@ _Amendment(s) incorporated in the [Act(s)][613]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][560]_.
+_Amendment(s) incorporated in the [Act(s)][561]_.
 
 ##### Securities Markets Act 1988 (1988 No 234)
 
@@ -9912,7 +9912,9 @@ _Amendment(s) incorporated in the [Act(s)][620]_.
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Gambling Amendment Act 2013][625] (2013 No 118)
+*   Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][557]
+    
+    [Gambling Amendment Act 2013][625] (2013 No 118)
     
     Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 89][519], [90][522]
     
@@ -10512,16 +10514,16 @@ _Amendment(s) incorporated in the [Act(s)][620]_.
 [551]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211281
 [552]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330571
 [553]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM328867
-[554]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330161
+[554]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3007300
 [555]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM22639
 [556]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM157116
-[557]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211287
-[558]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5622307
-[559]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162719
-[560]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM163544
-[561]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM264952
-[562]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330552
-[563]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162472
+[557]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3007375
+[558]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211287
+[559]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5622307
+[560]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162719
+[561]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM163544
+[562]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM264952
+[563]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330552
 [564]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36926
 [565]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5282214
 [566]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36944
@@ -10536,7 +10538,7 @@ _Amendment(s) incorporated in the [Act(s)][620]_.
 [575]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136542
 [576]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136813
 [577]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136815
-[578]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM129724
+[578]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5478454
 [579]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360067
 [580]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360057
 [581]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM311346
