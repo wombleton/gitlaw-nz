@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -798,7 +798,7 @@ Preliminary provisions
     
     _approved dispute resolution scheme_ has the same meaning as in [section 4][331] of the FSP Act, but also includes the reserve scheme within the meaning of [section 71][332] of the FSP Act
     
-    _approved rating agency_ means a rating agency nominated or approved under the [Reserve Bank of New Zealand Act 1989][333] or [section 62][334] of the Insurance (Prudential Supervision) Act 2010
+    _approved rating agency_ means a rating agency nominated or approved under the [Non-bank Deposit Takers Act 2013][333] or [section 62][334] of the Insurance (Prudential Supervision) Act 2010
     
     _associated entity_, in relation to a QFE, means an entity that, under an approval given under [section 67(4)][104] or [71][110], is an associated entity of that QFE
     
@@ -1146,9 +1146,11 @@ Preliminary provisions
     
     Section 5 **approved rating agency**: substituted, on 1 February 2011, by [section 241(2)][365] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
+    Section 5 **approved rating agency**: amended, on 1 May 2014, by [section 92(2)][366] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
+    
     Section 5 **associated entity**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **authorised**: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 5 **authorised**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 5 **authorised advertisement**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1170,7 +1172,7 @@ Preliminary provisions
     
     Section 5 **category 2 product**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **chartered accountant**: amended, on 7 July 2010, by [section 10][367] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 5 **chartered accountant**: amended, on 7 July 2010, by [section 10][368] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
     Section 5 **class of financial products**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1182,9 +1184,9 @@ Preliminary provisions
     
     Section 5 **client property**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **Commission**: repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 5 **Commission**: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 5 **Commissioner for Financial Advisers** or **Commissioner**: repealed, on 1 May 2011, by [section 5][369] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 5 **Commissioner for Financial Advisers** or **Commissioner**: repealed, on 1 May 2011, by [section 5][370] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
     Section 5 **conduct obligation**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1208,7 +1210,7 @@ Preliminary provisions
     
     Section 5 **financial service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **FMA**: inserted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 5 **FMA**: inserted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 5 **incorporated law firm**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1230,7 +1232,7 @@ Preliminary provisions
     
     Section 5 **on behalf of the business of another person** or **on behalf of another person's business**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **overseas regulator**: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 5 **overseas regulator**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 5 **partner entity**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1262,7 +1264,7 @@ Preliminary provisions
     
     Section 5 **standard conditions**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **standard conditions**: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 5 **standard conditions**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 5 **statutory officer**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -1294,15 +1296,15 @@ Preliminary provisions
     
     (2) Subsection (1) applies whether the person providing or receiving the service is the person carrying on the business, a controlling owner, a director, an agent, or any other person.
     
-    Section 5A: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5A: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5A(1)(b): amended, on 1 April 2014, by [section 13][371] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 5A(1)(b): amended, on 1 April 2014, by [section 13][372] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 5B Who are retail clients
     
 *   A _retail client_ is a client of a financial adviser or broker who is not a wholesale client.
     
-    Section 5B: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5B: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5C Who are wholesale clients
     
@@ -1324,9 +1326,9 @@ Preliminary provisions
     
     *   (e) a related body corporate of an entity to which paragraph (d) applies:
     
-    *   (f) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under [clause 3(1)(b)][372] of Schedule 4 of the National Provident Fund Restructuring Act 1990):
+    *   (f) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under [clause 3(1)(b)][373] of Schedule 4 of the National Provident Fund Restructuring Act 1990):
     
-    *   (g) a person who falls within 1 or more of the categories listed in [section 3(2)][373], [5(2CB)][359], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
+    *   (g) a person who falls within 1 or more of the categories listed in [section 3(2)][374], [5(2CB)][359], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
     
     *   (h) an eligible investor under [section 5D][10].
     
@@ -1334,11 +1336,11 @@ Preliminary provisions
     
     (3) In this section, a _private offer of securities_ means an offer of securities that---
         
-    *   (a) does not constitute an offer of securities to the public under [section 3][373] of the Securities Act 1978; or
+    *   (a) does not constitute an offer of securities to the public under [section 3][374] of the Securities Act 1978; or
     
-    *   (b) is exempt from [Part 2][358] (other than [sections 38B][374] and [58][375]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act.
+    *   (b) is exempt from [Part 2][358] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act.
     
-    Section 5C: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5C: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5D Who are eligible investors
     
@@ -1360,7 +1362,7 @@ Preliminary provisions
     
     (3) A certification relating only to a discretionary investment management service or a broking service (or both) does not need to certify as to the matters referred to in subsection (1)(a)(i).
     
-    Section 5D: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5D: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5E Acceptance of certification
     
@@ -1376,7 +1378,7 @@ Preliminary provisions
     
     (4) Contravention of this section may give rise to a pecuniary penalty order or compensatory order (_see_ [sections 137K][259] and [137L][260]).
     
-    Section 5E: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5E: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5F Revocation of certification
     
@@ -1384,7 +1386,7 @@ Preliminary provisions
     
     (2) A revocation is effective only in relation to services provided after it is given.
     
-    Section 5F: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5F: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5G How to opt out of being wholesale client
     
@@ -1398,7 +1400,7 @@ Preliminary provisions
     
     (5) This section does not apply if a person is a wholesale client by reason of being an eligible investor.
     
-    Section 5G: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5G: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5H Giving revocation of certification or notification of opt out
     
@@ -1412,7 +1414,7 @@ Preliminary provisions
     
     (2) The revocation or notification is treated as received by the person no later than 7 days after it is posted or 2 days after it is faxed or emailed, unless the person to whom it is posted or sent proves that it was not received (otherwise than through fault on the person's part).
     
-    Section 5H: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5H: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5I Meaning of acting on behalf of B's business and acting through A
     
@@ -1430,7 +1432,7 @@ Preliminary provisions
     
     (2) If A is providing services on behalf of B's business, then B is _acting through_ A to provide those services.
     
-    Section 5I: inserted, on 1 July 2010, by [section 9][370] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5I: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 6 Act binds the Crown
     
@@ -1449,15 +1451,15 @@ Financial advisers and their disclosure and conduct obligations
     
     (4) [Subpart 2][45] describes the disclosure and conduct obligations of a financial adviser under this Act and when they apply.
     
-    Section 7: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 7: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ### Subpart 1---Key definitions for financial adviser services
     
-*   Subpart 1: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Subpart 1: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### What are financial adviser services
     
-*   Heading: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 8 Who is financial adviser
     
@@ -1465,7 +1467,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) _See_ [section 16][31] for the types of financial advisers and [sections 20D to 20F][42] for how the Act's requirements apply in the case of a person who provides a financial adviser service on behalf of another person's business.
     
-    Section 8: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 8: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 9 What is financial adviser service
     
@@ -1483,7 +1485,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (4) A person does not provide a financial adviser service for the purposes of this Act if exempted under [section 13][26], [14][27], or [148][290] or in the regulations.
     
-    Section 9: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 9: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 10 When person gives financial advice
     
@@ -1503,7 +1505,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (e) recommending that a person consult a financial adviser.
     
-    Section 10: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 10: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 11 When person provides investment planning service
     
@@ -1515,7 +1517,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) A service may be an investment planning service regardless of whether the analysis and identification is of the individual's particular financial situation and goals or of the financial situations and goals attributable to the class of persons that the individual is identified as coming within.
     
-    Section 11: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 11: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 12 When person provides discretionary investment management service
     
@@ -1527,7 +1529,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) In determining whether A has that authority, it does not matter if B has the right to be consulted on, or to countermand, A's decisions.
     
-    Section 12: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 12: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 13 Exemption for incidental service
     
@@ -1543,7 +1545,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (4) Regulations may declare a class of service provided in the course of a class of business to be incidental, or that a class of business is not a financial service, for the purposes of subsection (1).
     
-    Section 13: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 13: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 14 Other exemptions
     
@@ -1595,19 +1597,19 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (m) any form of communication made by or on behalf of an issuer that is contained in, or given in connection with, an offer of securities that---
             
-        *   (i) does not constitute an offer of securities to the public under [section 3][373] of the Securities Act 1978; or
+        *   (i) does not constitute an offer of securities to the public under [section 3][374] of the Securities Act 1978; or
         
-        *   (ii) is exempt from [Part 2][358] (other than [sections 38B][374] and [58][375]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act:
+        *   (ii) is exempt from [Part 2][358] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act:
         
         
     
-    *   (n) a person providing a relevant service in the course of carrying on a business of dealing in futures contracts within the scope of an authorisation under [section 38(1)(a)][377] of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
+    *   (n) a person providing a relevant service in the course of carrying on a business of dealing in futures contracts within the scope of an authorisation under [section 38(1)(a)][378] of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
     
     *   ###### Documents required by law
     
     *   (o) providing or making available to a person any of the following documents or information:
             
-        *   (i) a prospectus, an investment statement, or an advertisement within the meaning of [section 2A][378] of the Securities Act 1978:
+        *   (i) a prospectus, an investment statement, or an advertisement within the meaning of [section 2A][379] of the Securities Act 1978:
         
         *   (ii) a document or information that is required by law to be provided or made available (for example, an annual report of a company), whether directly or as a condition of carrying out any activity or as a condition of an exemption from any enactment:
         
@@ -1627,11 +1629,11 @@ Financial advisers and their disclosure and conduct obligations
     
     (3) In this section, _relevant service_ means a service that, but for subsection (1), would be a financial adviser service.
     
-    Section 14: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 14: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### When financial adviser service is personalised service or class service
     
-*   Heading: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 15 When financial adviser service is personalised service or class service
     
@@ -1651,11 +1653,11 @@ Financial advisers and their disclosure and conduct obligations
     
     (3) A financial adviser service is a _class service_ if it is not a personalised service.
     
-    Section 15: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 15: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ### Subpart 1A---Restrictions on providing financial adviser services
     
-*   Subpart 1A: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Subpart 1A: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 16 Types of financial adviser
     
@@ -1671,11 +1673,11 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (e) any other person (whether an individual or an entity) who is an exempt provider.
     
-    Section 16: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 16: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Restrictions on providing financial adviser services
     
-*   Heading: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 17 Who may provide financial adviser service
     
@@ -1695,7 +1697,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section may give rise to an offence (_see_ [section 114][207]).
     
-    Section 17: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 17: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 18 Who is permitted to provide personalised service to retail clients
     
@@ -1723,7 +1725,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Subsection (1)(a)(ii) is subject to any limitation on the scope of services that may be provided by the QFE adviser under the terms and conditions for the QFE under [section 67A][105] or a determination under [section 75B(4)][117].
     
-    Section 18: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 18: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 19 Who is permitted to provide class service to retail clients
     
@@ -1737,7 +1739,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (d) an exempt provider (whether an individual or an entity), other than an overseas financial adviser (_see_ paragraph (a) of the definition of exempt provider in [section 5][6]).
     
-    Section 19: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 19: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20 Who is permitted to provide financial adviser service to wholesale clients
     
@@ -1751,11 +1753,11 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (d) an exempt provider (whether an individual or an entity).
     
-    Section 20: substituted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20: substituted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Restrictions on holding out
     
-*   Heading: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20A Who may hold themselves out as authorised financial adviser
     
@@ -1763,7 +1765,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section may give rise to an offence (_see_ [section 115][208]).
     
-    Section 20A: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20A: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20B Who may hold themselves out as financial planner or investment planner
     
@@ -1781,7 +1783,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section may give rise to an offence (_see_ [section 115][208]).
     
-    Section 20B: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20B: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20C Who may hold themselves out as QFE or having QFE status
     
@@ -1789,17 +1791,17 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section may give rise to an offence (_see_ [section 115][208]).
     
-    Section 20C: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20C: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Persons acting in course of business of employers and principals
     
-*   Heading: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20D Application of FSP Act to employees, etc
     
 *   Any person required, by this Act, to register to provide a financial adviser service must be treated, under the FSP Act, as being in the business of providing a financial service for the purposes of that Act (even if the person does not carry on that business).
     
-    Section 20D: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20D: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20E Who must be member of dispute resolution scheme
     
@@ -1809,7 +1811,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (b) A's obligation to be a member of an approved dispute resolution scheme arises only by virtue of the financial adviser services provided on behalf of B's business.
     
-    Section 20E: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20E: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 20F Who is responsible for financial adviser obligations
     
@@ -1831,13 +1833,13 @@ Financial advisers and their disclosure and conduct obligations
     
     (4) Subsections (1) to (3) do not affect the liability of A or B under any other Act or rule of law for A's actions.
     
-    Section 20F: inserted, on 1 July 2010, by [section 10][376] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 20F: inserted, on 1 July 2010, by [section 10][377] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ### Subpart 2---Financial advisers' disclosure and conduct obligations
 
 #### Disclosure obligations for personalised services for retail clients
     
-*   Heading: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 21 What is disclosure obligation and when does it apply
     
@@ -1847,7 +1849,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (3) Contravention of a disclosure obligation may give rise to an offence (_see_ [section 117][211]).
     
-    Section 21: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 21: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 22 Financial adviser must make disclosure before providing personalised service to retail client
     
@@ -1859,7 +1861,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Subsection (1) does not apply to a QFE adviser acting in that capacity.
     
-    Section 22: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 22: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 23 What financial adviser must disclose
     
@@ -1899,9 +1901,9 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (n) matters required to be disclosed by the authorised financial adviser's terms and conditions of authorisation.
     
-    Section 23: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 23: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 23(2)(k): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 23(2)(k): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 24 Disclosure statement
     
@@ -1925,7 +1927,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (3) Regulations may provide for the form that a disclosure statement must take.
     
-    Section 24: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 24: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 25 QFE must make disclosure before personalised service provided to retail client
     
@@ -1949,13 +1951,13 @@ Financial advisers and their disclosure and conduct obligations
     
     (3) Regulations may provide for the form that the disclosure must take.
     
-    Section 25: substituted, on 1 July 2010, by [section 11][379] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 25: substituted, on 1 July 2010, by [section 11][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 26 Disclosure by qualifying financial entity
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 26: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 27 Disclosure must not be misleading, deceptive, or confusing
     
@@ -2029,7 +2031,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (b) the form of a joint disclosure statement.
     
-    Section 31(2)(c): substituted, on 1 July 2010, by [section 12][380] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 31(2)(c): substituted, on 1 July 2010, by [section 12][381] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Conduct obligations
 
@@ -2047,13 +2049,13 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (d) [sections 46 to 48][77] apply to a QFE and (in some cases) members of a QFE group, irrespective of the type of service.
     
-    Section 32: substituted, on 1 July 2010, by [section 13][381] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 32: substituted, on 1 July 2010, by [section 13][382] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Conduct obligations that apply to all financial advisers
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2010, by [section 13][381] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: repealed, on 1 July 2010, by [section 13][382] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 33 Financial adviser must exercise care, diligence, and skill
     
@@ -2067,7 +2069,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (c) the type of financial adviser.
     
-    Section 33: substituted, on 1 July 2010, by [section 13][381] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 33: substituted, on 1 July 2010, by [section 13][382] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 34 Financial adviser must not engage in misleading or deceptive conduct
     
@@ -2075,9 +2077,9 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) A person who knowingly or recklessly contravenes subsection (1) commits an offence (_see_ [section 118][213]).
     
-    Compare: 1988 No 234 [s 13(1)][382]
+    Compare: 1988 No 234 [s 13(1)][383]
     
-    Section 34(1): amended, on 1 July 2010, by [section 14][383] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 34(1): amended, on 1 July 2010, by [section 14][384] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 35 Advertisement by financial adviser must not be misleading, deceptive, or confusing
     
@@ -2095,7 +2097,7 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (c) comply with any prescribed record-keeping or procedural requirements relating to those matters.
     
-    Section 36: substituted, on 1 July 2010, by [section 15][384] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 36: substituted, on 1 July 2010, by [section 15][385] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Conduct obligations that apply to authorised financial advisers only
 
@@ -2115,47 +2117,47 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) A person who contravenes subsection (1) commits an offence (_see_ [section 121][217]).
     
-    Compare: 1988 No 234 [s 41S][385]
+    Compare: 1988 No 234 [s 41S][386]
     
-    Section 38 heading: amended, on 1 July 2010, by [section 16(1)][386] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 38 heading: amended, on 1 July 2010, by [section 16(1)][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 38(1): amended, on 1 July 2010, by [section 16(2)][386] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 38(1): amended, on 1 July 2010, by [section 16(2)][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 39 Authorised financial adviser must pay client's money into separate trust account
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 39: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 40 Authorised financial adviser must account for client's money or property
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 40: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 41 Authorised financial adviser must keep records of client's money and other property
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 41: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 42 Restrictions on use of client's money or property
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 42: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 43 Protection of client's money or property held on trust
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 43: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 44 Meaning of received or held
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 1 July 2010, by [section 17][387] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 44: repealed, on 1 July 2010, by [section 17][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 45 Authorised financial adviser must comply with terms and conditions of his or her authorisation
     
@@ -2189,23 +2191,23 @@ Financial advisers and their disclosure and conduct obligations
     
     *   (b) the FMA believes that disclosure of the information is essential to the effective investigation of the alleged breach or is otherwise essential, having regard to the principles of natural justice.
     
-    Section 45A: inserted, on 1 July 2010, by [section 18][388] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 45A: inserted, on 1 July 2010, by [section 18][389] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 45A heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 45A(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 45A(2)(d): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A(2)(d): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 45A(2)(d)(ii): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A(2)(d)(ii): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 45A(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 45A(3)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 45A(3)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Conduct obligations related to QFEs
     
-*   Heading: substituted, on 1 July 2010, by [section 19][389] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: substituted, on 1 July 2010, by [section 19][390] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 46 QFE must comply with terms and conditions of grant of QFE status
     
@@ -2213,7 +2215,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section give rise to the offences described in [section 129][226].
     
-    Section 46: substituted, on 1 July 2010, by [section 19][389] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 46: substituted, on 1 July 2010, by [section 19][390] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 47 QFE or member of QFE group must not engage in misleading or deceptive conduct in relation to financial adviser service by employee, agent, or nominated representative
     
@@ -2221,7 +2223,7 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section give rise to the offences described in [section 130][227].
     
-    Section 47: substituted, on 1 July 2010, by [section 19][389] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 47: substituted, on 1 July 2010, by [section 19][390] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 48 Advertisement by QFE or member of QFE group in relation to financial adviser service must not be misleading, deceptive, or confusing
     
@@ -2229,11 +2231,11 @@ Financial advisers and their disclosure and conduct obligations
     
     (2) Contraventions of this section give rise to the offences described in [section 131][228].
     
-    Section 48: substituted, on 1 July 2010, by [section 19][389] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 48: substituted, on 1 July 2010, by [section 19][390] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### FMA's direction in respect of breach of disclosure or conduct obligation
     
-*   Heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 49 FMA may give financial adviser direction in respect of breach of disclosure or conduct obligation
     
@@ -2255,21 +2257,21 @@ Financial advisers and their disclosure and conduct obligations
     
     (6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a financial adviser.
     
-    Section 49 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(4)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(4)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(4)(c): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(4)(c): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 49(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 49(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ## Part 3  
 Authorised financial advisers and qualifying financial entities
@@ -2282,9 +2284,9 @@ Authorised financial advisers and qualifying financial entities
     
     (3) [Subpart 2][99] describes what is a qualifying financial entity (a _QFE_), how an entity achieves QFE status, and the powers of the FMA in relation to a QFE.
     
-    Section 50(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 50(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 50(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 50(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 1---Authorised financial advisers
 
@@ -2302,7 +2304,7 @@ Authorised financial advisers and qualifying financial entities
     
 *   Any individual may apply to the FMA to be authorised.
     
-    Section 52: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 52: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 53 Application to be authorised
     
@@ -2320,7 +2322,7 @@ Authorised financial advisers and qualifying financial entities
         
     *   (a) the FMA is satisfied that---
             
-        *   (i) A is registered or complies with [section 13(a) and (b)][390] of the FSP Act; and
+        *   (i) A is registered or complies with [section 13(a) and (b)][391] of the FSP Act; and
         
         *   (ii) A is a person of good character; and
         
@@ -2338,13 +2340,13 @@ Authorised financial advisers and qualifying financial entities
         
         
     
-    Section 54(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 54(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 54(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 54(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 54(b)(i): amended, on 1 July 2010, by [section 20][391] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 54(b)(i): amended, on 1 July 2010, by [section 20][392] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 54(b)(ii): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 54(b)(ii): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 55 FMA must approve or decline application for authorisation
     
@@ -2384,17 +2386,17 @@ Authorised financial advisers and qualifying financial entities
     
     (6) Subsection (1)(d) does not limit or affect anything in [section 18][34].
     
-    Section 55: substituted, on 1 July 2010, by [section 21][392] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 55: substituted, on 1 July 2010, by [section 21][393] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 55 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 55A Variation of terms and conditions and period of authorisation
     
@@ -2424,23 +2426,23 @@ Authorised financial advisers and qualifying financial entities
     
     (8) The FMA must give the authorised financial adviser notice of any decision taken under subsection (7)(a) or (b).
     
-    Section 55A: inserted, on 1 July 2010, by [section 21][392] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 55A: inserted, on 1 July 2010, by [section 21][393] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 55A(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(7): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(7): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 55A(8): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 55A(8): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 56 FMA must notify Registrar of authorisation
     
@@ -2454,11 +2456,11 @@ Authorised financial advisers and qualifying financial entities
     
     (2) The FMA may publicly notify the authorisation and the other matters referred to in subsection (1) as it thinks fit.
     
-    Section 56 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 56 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 56(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 56(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 56(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 56(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 57 Termination of authorisation
     
@@ -2474,11 +2476,11 @@ Authorised financial advisers and qualifying financial entities
     
     (2) The FMA must notify the Registrar in writing of termination of authorisation under subsection (1)(a), (b), or (d).
     
-    Section 57(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 57(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 57(1)(d): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 57(1)(d): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 57(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 57(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 58 Renewal of authorisation
     
@@ -2502,13 +2504,13 @@ Authorised financial advisers and qualifying financial entities
     
     (6) The renewal of authorisation takes effect from the date of expiry of the previous authorisation.
     
-    Section 58(4): substituted, on 1 July 2010, by [section 22][393] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 58(4): substituted, on 1 July 2010, by [section 22][394] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 58(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 58(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### FMA's powers in relation to default by authorised financial adviser
     
-*   Heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 59 FMA's powers in relation to default by authorised financial adviser
     
@@ -2522,7 +2524,7 @@ Authorised financial advisers and qualifying financial entities
     
     *   (d) is the subject of a recommendation by the disciplinary committee under [section 101(3)(a), (b), or (c)][190]; or
     
-    *   (e) has failed to pay a fee as required by this Act or the regulations or a levy as required by [section 68][394] of the Financial Markets Authority Act 2011 or regulations made under that section.
+    *   (e) has failed to pay a fee as required by this Act or the regulations or a levy as required by [section 68][395] of the Financial Markets Authority Act 2011 or regulations made under that section.
     
     (2) In any case to which this section applies, the FMA may, after following the procedure set out in [section 60][96] and subject to subsection (3),---
         
@@ -2542,21 +2544,21 @@ Authorised financial advisers and qualifying financial entities
     
     (5) The FMA may publicly notify the action it takes under subsection (2) as it sees fit.
     
-    Section 59 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(1)(e): substituted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(1)(e): substituted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(2)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(2)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 59(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 59(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 60 Reasonable opportunity to be heard
     
@@ -2566,7 +2568,7 @@ Authorised financial advisers and qualifying financial entities
     
     *   (b) given that person or his or her representative a reasonable opportunity to make written submissions and be heard on the question.
     
-    Section 60: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 60: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 61 FMA may give authorised financial adviser direction
     
@@ -2588,21 +2590,21 @@ Authorised financial advisers and qualifying financial entities
     
     (6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against an authorised financial adviser.
     
-    Section 61 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(4)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(4)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(4)(c): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(4)(c): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 61(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 61(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 62 Other provisions concerning FMA's powers in relation to default by authorised financial adviser
     
@@ -2610,9 +2612,9 @@ Authorised financial advisers and qualifying financial entities
     
     (2) Suspension or cancellation under [section 59(2)][95] is effective when a written notice of the suspension or cancellation is sent to the person concerned by the FMA.
     
-    Section 62 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 62 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 62(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 62(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 2---Qualifying financial entities
 
@@ -2628,7 +2630,7 @@ Authorised financial advisers and qualifying financial entities
     
     (3) Subsection (2) does not limit any obligation or liability imposed on a partner entity.
     
-    Section 63: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 63: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 64 Who may apply for QFE status
     
@@ -2638,9 +2640,9 @@ Authorised financial advisers and qualifying financial entities
     
     *   (b) 2 or more related bodies corporate for joint QFE status.
     
-    Section 64: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 64: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 64: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 64: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 65 Application for QFE status
     
@@ -2660,7 +2662,7 @@ Authorised financial advisers and qualifying financial entities
     
     *   (c) monitoring those standards.
     
-    Section 65: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 65: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 66 Eligibility for QFE status
     
@@ -2686,11 +2688,11 @@ Authorised financial advisers and qualifying financial entities
     
     *   (b) in doing so, take into account the scope of category 1 products in respect of which those QFE advisers provide financial adviser services.
     
-    Section 66: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 66: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 66(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 66(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 66(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 66(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 67 FMA must approve or decline application for QFE status
     
@@ -2716,19 +2718,19 @@ Authorised financial advisers and qualifying financial entities
     
     (6) The FMA is not precluded from approving an entity as an associated entity of a QFE merely because the entity is, or is proposed to be, the associated entity of another QFE.
     
-    Section 67: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 67: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 67 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 67A Associated entities may be subject to special terms and conditions in certain cases
     
@@ -2752,15 +2754,15 @@ Authorised financial advisers and qualifying financial entities
     
     *   (c) the way in which the QFE is to supervise the associated entity.
     
-    Section 67A: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 67A: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 67A(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67A(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67A(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67A(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67A(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67A(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 67A(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67A(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 68 Determination of application
     
@@ -2784,11 +2786,11 @@ Authorised financial advisers and qualifying financial entities
         
         
     
-    Section 68: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 68: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 68(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 68(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 68(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 68(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 69 Name of QFE group
     
@@ -2798,11 +2800,11 @@ Authorised financial advisers and qualifying financial entities
     
     (3) The FMA may ask the applicant or applicants to submit another name.
     
-    Section 69: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 69: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 69(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 69(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 69(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 69(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 70 FMA must notify Registrar of grant of QFE status
     
@@ -2818,19 +2820,19 @@ Authorised financial advisers and qualifying financial entities
     
     (2) The FMA may publicly notify the grant of QFE status and the other matters referred to in subsection (1) as it thinks fit.
     
-    Section 70: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 70: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 70 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 70 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 70(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 70(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 70(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 70(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Commission's powers in relation to default by QFE
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: repealed, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 71 Addition of associated entities
     
@@ -2854,11 +2856,11 @@ Authorised financial advisers and qualifying financial entities
     
     *   (b) may publicly notify the inclusion of the associated entity in the QFE group as it thinks fit.
     
-    Section 71: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 71: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 71(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 71(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 71(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 71(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 72 Termination of status of associated entity
     
@@ -2870,9 +2872,9 @@ Authorised financial advisers and qualifying financial entities
     
     *   (c) the QFE status of the relevant QFE is terminated.
     
-    Section 72: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 72: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 72(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 72(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 73 Certification of QFE group
     
@@ -2880,9 +2882,9 @@ Authorised financial advisers and qualifying financial entities
     
     (2) A certificate issued under subsection (1) is, in the absence of proof to the contrary, evidence of its contents.
     
-    Section 73: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 73: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 73(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 73(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 74 Nominated representatives of QFEs or partner entities
     
@@ -2908,15 +2910,15 @@ Authorised financial advisers and qualifying financial entities
     
     (4) Every QFE must keep an up-to-date record of its nominated representatives.
     
-    Section 74: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 74: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 74(3)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 74(3)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Liability of employee or agent
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: repealed, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 75 Variation of terms and conditions and period of grant of QFE status
     
@@ -2944,21 +2946,21 @@ Authorised financial advisers and qualifying financial entities
     
     *   (c) propose new terms and conditions or a new period of grant by giving the QFE a further notice under subsection (3).
     
-    Section 75: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75(7): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75(7): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75A Termination of QFE status
     
@@ -2974,13 +2976,13 @@ Authorised financial advisers and qualifying financial entities
     
     (2) The FMA must notify the Registrar in writing of the termination of QFE status under subsection (1)(a), (b), or (d).
     
-    Section 75A: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75A: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75A(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75A(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75A(1)(d): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75A(1)(d): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75A(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75A(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75B FMA may designate certain QFE products as beyond scope of QFE advisers
     
@@ -2996,17 +2998,17 @@ Authorised financial advisers and qualifying financial entities
     
     (6) The FMA may at any time, by notice to the entity, revoke a determination under subsection (4).
     
-    Section 75B: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75B: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75B heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75B heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75B(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75B(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75B(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75B(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75B(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75B(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75B(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75B(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75C Renewal of QFE status
     
@@ -3024,12 +3026,12 @@ Authorised financial advisers and qualifying financial entities
     
     (5) The renewal of QFE status takes effect from the date of expiry of the previous grant of QFE status.
     
-    Section 75C: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75C: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### FMA's powers in relation to default by QFE or by members of QFE group
     
-*   Heading: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
-*   Heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75D FMA's powers in relation to QFE default
     
@@ -3043,7 +3045,7 @@ Authorised financial advisers and qualifying financial entities
     
     *   (d) the QFE or any partner entity of the QFE has failed to comply with a direction given to it by the FMA under [section 75F][122]; or
     
-    *   (e) the QFE or any partner entity of the QFE has failed to pay a fee as required by this Act or the regulations or a levy as required by [section 68][394] of the Financial Markets Authority Act 2011 or regulations made under that section.
+    *   (e) the QFE or any partner entity of the QFE has failed to pay a fee as required by this Act or the regulations or a levy as required by [section 68][395] of the Financial Markets Authority Act 2011 or regulations made under that section.
     
     (2) In any case to which this section applies, the FMA may, after following the procedure set out in [section 75E][121] and subject to subsections (3) and (4),---
         
@@ -3071,27 +3073,27 @@ Authorised financial advisers and qualifying financial entities
     
     (7) The FMA may publicly notify the action it takes under subsection (2) as it sees fit.
     
-    Section 75D: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75D: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75D heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(1)(d): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(1)(d): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(1)(e): substituted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(1)(e): substituted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(2)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(2)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75D(7): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75D(7): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75E Reasonable opportunity to be heard
     
@@ -3101,9 +3103,9 @@ Authorised financial advisers and qualifying financial entities
     
     *   (b) given the QFE and any partner entities of the QFE or their representatives a reasonable opportunity to make written submissions and be heard on the question.
     
-    Section 75E: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75E: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75E: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75E: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75F FMA may give QFE direction
     
@@ -3125,23 +3127,23 @@ Authorised financial advisers and qualifying financial entities
     
     (6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a QFE.
     
-    Section 75F: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75F: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75F heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(4)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(4)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(4)(c): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(4)(c): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75F(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75F(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75G Other provisions concerning FMA's powers in relation to QFE default
     
@@ -3151,13 +3153,13 @@ Authorised financial advisers and qualifying financial entities
     
     (3) Suspension or cancellation is effective when a written notice of the suspension or cancellation is sent to the QFE by the FMA.
     
-    Section 75G: inserted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 75G: inserted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 75G heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75G heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75G(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75G(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 75G(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 75G(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### QFE's obligations
 
@@ -3191,13 +3193,13 @@ Authorised financial advisers and qualifying financial entities
     
     (2) A contravention of subsection (1)(e) gives rise to the offences described in [section 133][230].
     
-    Section 76: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 76: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 76(1)(f): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(1)(f): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 76(1)(g): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(1)(g): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 76(1)(h): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(1)(h): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 77 QFE must provide annual report to FMA
     
@@ -3229,20 +3231,20 @@ Authorised financial advisers and qualifying financial entities
     
     (4) Contraventions of subsection (1) give rise to the offences described in [section 134][231].
     
-    Section 77: substituted, on 1 July 2010, by [section 23][395] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77: substituted, on 1 July 2010, by [section 23][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ## Part 3A  
 Brokers' disclosure and conduct obligations
     
-*   Part 3A: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Part 3A: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Who is broker and what is broking service
     
-*   Heading: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77A Who is broker
     
@@ -3250,7 +3252,7 @@ Brokers' disclosure and conduct obligations
     
     (2) _See_ [section 77U][154] for how the Act's requirements apply in the case of a person who provides a broking service on behalf of another person's business.
     
-    Section 77A: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77A: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77B What is broking service
     
@@ -3280,13 +3282,13 @@ Brokers' disclosure and conduct obligations
     
     Compare: Corporations Act 2001 s 766E(1) (Aust)
     
-    Section 77B: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77B: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77B(1): replaced, on 1 April 2014, by [section 35(1)][397] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77B(1): replaced, on 1 April 2014, by [section 35(1)][398] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77B(2): replaced, on 1 April 2014, by [section 35(1)][397] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77B(2): replaced, on 1 April 2014, by [section 35(1)][398] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77B compare note: inserted, on 1 April 2014, by [section 35(2)][397] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77B compare note: inserted, on 1 April 2014, by [section 35(2)][398] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77C Other exemptions
     
@@ -3302,9 +3304,9 @@ Brokers' disclosure and conduct obligations
         
         
     
-    *   (c) an operator of a designated settlement system under [section 156N][398] of the Reserve Bank of New Zealand Act 1989 providing a relevant service by the receipt, holding, payment, or transfer of money or property in accordance with the rules of that settlement system:
+    *   (c) an operator of a designated settlement system under [section 156N][399] of the Reserve Bank of New Zealand Act 1989 providing a relevant service by the receipt, holding, payment, or transfer of money or property in accordance with the rules of that settlement system:
     
-    *   (d) a person providing a relevant service in the course of carrying on the business of dealing in futures contracts within the scope of an authorisation under [section 38(1)(a)][377] of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
+    *   (d) a person providing a relevant service in the course of carrying on the business of dealing in futures contracts within the scope of an authorisation under [section 38(1)(a)][378] of the Securities Markets Act 1988 or an approval under section 38(1)(b) of that Act:
     
     *   (e) an employer providing a relevant service to an employee in connection with a financial product made available through the person's workplace:
     
@@ -3314,11 +3316,11 @@ Brokers' disclosure and conduct obligations
     
     (3) In this section, _relevant service_ means a service that, but for subsection (1), would be a broking service.
     
-    Section 77C: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77C: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Disclosure obligations for services for retail clients
     
-*   Heading: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77D What is disclosure obligation and when does it apply
     
@@ -3328,7 +3330,7 @@ Brokers' disclosure and conduct obligations
     
     (3) Contravention of a disclosure obligation may give rise to an offence (_see_ [section 117][211]).
     
-    Section 77D: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77D: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77E Broker must make disclosure before receiving client money or client property from retail client
     
@@ -3338,7 +3340,7 @@ Brokers' disclosure and conduct obligations
     
     *   (b) if not practicable before, as soon as practicable after receiving client money or client property from or on behalf of the client.
     
-    Section 77E: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77E: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77F What broker must disclose and form of disclosure
     
@@ -3372,17 +3374,17 @@ Brokers' disclosure and conduct obligations
     
     (2) Regulations for the purposes of this section may provide for the form that the disclosure must take.
     
-    Section 77F: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77F: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77F(1)(f)(iii): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77F(1)(f)(iii): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77F(1)(g): replaced, on 1 April 2014, by [section 37][399] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77F(1)(g): replaced, on 1 April 2014, by [section 37][400] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77G Disclosure must not be misleading, deceptive, or confusing
     
 *   Disclosure under a disclosure obligation must not be misleading, deceptive, or confusing at the time that the disclosure is made.
     
-    Section 77G: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77G: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77H Disclosure of additional information
     
@@ -3390,7 +3392,7 @@ Brokers' disclosure and conduct obligations
     
     (2) Additional disclosure that accompanies disclosure under a disclosure obligation must not be misleading, deceptive, or confusing at the time it is made.
     
-    Section 77H: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77H: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77I No compliance with disclosure obligation if disclosure out of date
     
@@ -3408,11 +3410,11 @@ Brokers' disclosure and conduct obligations
         
         
     
-    Section 77I: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77I: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Brokers' conduct obligations
     
-*   Heading: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77J What is conduct obligation and when does it apply
     
@@ -3424,19 +3426,19 @@ Brokers' disclosure and conduct obligations
         
     *   (a) apply to broking services provided to a retail client; and
     
-    *   (ab) apply to custodial and other broking services provided to every investor under a retail service of a DIMS licensee (as provided by [section 446][400] of the Financial Markets Conduct Act 2013); and
+    *   (ab) apply to custodial and other broking services provided to every investor under a retail service of a DIMS licensee (as provided by [section 446][401] of the Financial Markets Conduct Act 2013); and
     
     *   (ac) otherwise apply to broking services provided to a wholesale client only if provided by the regulations; and
     
-    *   (b) do not apply to a broker within the meaning of the [Insurance Intermediaries Act 1994][401] in relation to any money to which [section 14][402] or [15][403] of that Act applies.
+    *   (b) do not apply to a broker within the meaning of the [Insurance Intermediaries Act 1994][402] in relation to any money to which [section 14][403] or [15][404] of that Act applies.
     
-    Section 77J: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77J: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77J(3)(a): replaced, on 1 April 2014, by [section 38][404] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77J(3)(a): replaced, on 1 April 2014, by [section 38][405] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77J(3)(ab): inserted, on 1 April 2014, by [section 38][404] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77J(3)(ab): inserted, on 1 April 2014, by [section 38][405] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77J(3)(ac): inserted, on 1 April 2014, by [section 38][404] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77J(3)(ac): inserted, on 1 April 2014, by [section 38][405] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77K Broker must exercise care, diligence, and skill
     
@@ -3448,7 +3450,7 @@ Brokers' disclosure and conduct obligations
     
     *   (b) the nature of the service provided and the circumstances in which the service is provided.
     
-    Section 77K: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77K: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77L Broker must not engage in misleading or deceptive conduct
     
@@ -3456,7 +3458,7 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 118][213]).
     
-    Section 77L: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77L: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77M Advertisement of broking services must not be misleading, deceptive, or confusing
     
@@ -3464,13 +3466,13 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 119][214]).
     
-    Section 77M: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77M: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77N Restriction on use of term sharebroker
     
 *   \[Repealed\]
     
-    Section 77N: repealed, on 1 April 2014, by [section 39][405] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77N: repealed, on 1 April 2014, by [section 39][406] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77O Broker must not receive client money if offer for subscription illegal
     
@@ -3484,11 +3486,11 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 134B][234]).
     
-    Section 77O: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77O: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Obligations for handling client money and client property
     
-*   Heading: replaced, on 1 April 2014, by [section 41][406] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+*   Heading: replaced, on 1 April 2014, by [section 41][407] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77P Broker must pay client money into separate trust account and hold client property on trust
     
@@ -3500,7 +3502,7 @@ Brokers' disclosure and conduct obligations
             
         *   (i) a trust account of the broker or of a related person or entity specified in the regulations; or
         
-        *   (ii) (if [section 44][73] of this Act or [section 445][407] of the Financial Markets Conduct Act 2013 applies) a trust account of a person permitted to hold the money under that section.
+        *   (ii) (if [section 44][73] of this Act or [section 445][408] of the Financial Markets Conduct Act 2013 applies) a trust account of a person permitted to hold the money under that section.
         
         
     
@@ -3508,15 +3510,15 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 134C][235]).
     
-    Section 77P: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77P: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77P heading: amended, on 1 April 2014, by [section 42(1)][408] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77P heading: amended, on 1 April 2014, by [section 42(1)][409] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77P(1): amended, on 1 April 2014, by [section 42(2)][408] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77P(1): amended, on 1 April 2014, by [section 42(2)][409] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77P(1)(b): replaced, on 1 April 2014, by [section 42(3)][408] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77P(1)(b): replaced, on 1 April 2014, by [section 42(3)][409] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77P(1B): inserted, on 1 April 2014, by [section 42(4)][408] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77P(1B): inserted, on 1 April 2014, by [section 42(4)][409] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77Q Broker must account for client money and client property
     
@@ -3524,9 +3526,9 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 134D][236]).
     
-    Section 77Q: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77Q: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77Q(1): amended, on 1 April 2014, by [section 43][409] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77Q(1): amended, on 1 April 2014, by [section 43][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77R Broker must keep records of client money and client property
     
@@ -3550,17 +3552,17 @@ Brokers' disclosure and conduct obligations
     
     (4) Contravention of any of subsections (1) to (3) may give rise to an offence (_see_ [section 134E][237]).
     
-    Section 77R: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77R: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77R(1): amended, on 1 April 2014, by [section 44(1)][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77R(1): amended, on 1 April 2014, by [section 44(1)][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77R(2): amended, on 1 April 2014, by [section 44(2)][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77R(2): amended, on 1 April 2014, by [section 44(2)][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77R(2)(c): amended, on 1 April 2014, by [section 44(3)][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77R(2)(c): amended, on 1 April 2014, by [section 44(3)][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77R(2A): inserted, on 1 April 2014, by [section 44(4)][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77R(2A): inserted, on 1 April 2014, by [section 44(4)][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 77R(3): replaced, on 1 April 2014, by [section 44(5)][410] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77R(3): replaced, on 1 April 2014, by [section 44(5)][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77RA Broker must report on client money and client property
     
@@ -3570,7 +3572,7 @@ Brokers' disclosure and conduct obligations
     
     (3) In this section, _confirmation information_ means the information relating to the client money or client property, or transactions relating to it, that is prescribed.
     
-    Section 77RA: inserted, on 1 April 2014, by [section 45][411] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77RA: inserted, on 1 April 2014, by [section 45][412] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77S Restrictions on use of client money and client property
     
@@ -3582,9 +3584,9 @@ Brokers' disclosure and conduct obligations
     
     (2) Contravention of this section may give rise to an offence (_see_ [section 134F][239]).
     
-    Section 77S: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77S: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77S(1): amended, on 1 April 2014, by [section 46][412] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77S(1): amended, on 1 April 2014, by [section 46][413] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 77T Protection of client money and client property held on trust
     
@@ -3596,13 +3598,13 @@ Brokers' disclosure and conduct obligations
     
     (2) Nothing in [section 77S][151] or this section takes away or affects any lawful lien or claim that a broker who holds client money or client property has against the client money or client property.
     
-    Section 77T: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77T: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77T(1): amended, on 1 April 2014, by [section 47][413] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 77T(1): amended, on 1 April 2014, by [section 47][414] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 #### Persons acting in course of business of employers or principals
     
-*   Heading: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 77U Who is responsible for broker obligations
     
@@ -3616,12 +3618,12 @@ Brokers' disclosure and conduct obligations
     
     (3) Subsections (1) and (2) do not affect the liability of A or B under any other Act or rule of law for A's actions.
     
-    Section 77U: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77U: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### FMA's direction in respect of breach of disclosure or conduct obligation
     
-*   Heading: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
-*   Heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 77V FMA may give broker direction in respect of breach of disclosure or conduct obligation
     
@@ -3643,28 +3645,28 @@ Brokers' disclosure and conduct obligations
     
     (6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a broker.
     
-    Section 77V: inserted, on 1 July 2010, by [section 24][396] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 77V: inserted, on 1 July 2010, by [section 24][397] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 77V heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(4)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(4)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(4)(c): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(4)(c): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 77V(6): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 77V(6): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ## Part 4  
 How financial advisers and brokers are regulated
     
-*   Part 4 heading: amended, on 1 July 2010, by [section 25][414] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Part 4 heading: amended, on 1 July 2010, by [section 25][415] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 78 Outline of this Part
     
@@ -3686,29 +3688,29 @@ How financial advisers and brokers are regulated
     
     (4) [Subpart 3][205] deals with offences under this Act.
     
-    Section 78(2)(a): repealed, on 1 May 2011, by [section 6][415] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 78(2)(a): repealed, on 1 May 2011, by [section 6][416] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ### Subpart 1---Code of professional conduct and code committee
     
-*   Subpart 1 heading: amended, on 1 May 2011, by [section 7][416] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+*   Subpart 1 heading: amended, on 1 May 2011, by [section 7][417] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 #### Commissioner for Financial Advisers
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 8][417] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+*   Heading: repealed, on 1 May 2011, by [section 8][418] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 79 Commissioner for Financial Advisers
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 1 May 2011, by [section 8][417] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 79: repealed, on 1 May 2011, by [section 8][418] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 80 Functions of Commissioner
     
 *   \[Repealed\]
     
-    Section 80: repealed, on 1 May 2011, by [section 8][417] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 80: repealed, on 1 May 2011, by [section 8][418] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 #### Code committee
 
@@ -3716,7 +3718,7 @@ How financial advisers and brokers are regulated
     
 *   The code committee is established.
     
-    Section 81: substituted, on 1 May 2011, by [section 9][418] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 81: substituted, on 1 May 2011, by [section 9][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 82 Functions of code committee
     
@@ -3728,9 +3730,9 @@ How financial advisers and brokers are regulated
     
     *   (c) to recommend to the FMA changes to the code as the code committee thinks fit.
     
-    Section 82(a): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 82(a): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 82(c): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 82(c): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 83 Membership of code committee
     
@@ -3752,17 +3754,17 @@ How financial advisers and brokers are regulated
     
     (5) A member of the code committee may resign by notice in writing to the FMA.
     
-    Section 83(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 83(3): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(3): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 83(4): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(4): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 83(4)(a): amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(4)(a): amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 83(4)(b): amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(4)(b): amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 83(5): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 83(5): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 84 Proceedings of code committee
     
@@ -3778,19 +3780,19 @@ How financial advisers and brokers are regulated
     
     (6) Except as provided in this section and in any regulations made under this Act, the code committee may regulate its own procedure.
     
-    Compare: 2006 No 60 [s 56][420]
+    Compare: 2006 No 60 [s 56][421]
 
 ##### 85 Certain provisions of Crown Entities Act 2004 apply to members of code committee
     
-*   [Clause 15][421] of Schedule 5 of the Crown Entities Act 2004 (_Schedule 5_) applies as if the code committee were a committee appointed by the FMA under [clause 14][422] of Schedule 5 and with all other necessary modifications.
+*   [Clause 15][422] of Schedule 5 of the Crown Entities Act 2004 (_Schedule 5_) applies as if the code committee were a committee appointed by the FMA under [clause 14][423] of Schedule 5 and with all other necessary modifications.
     
-    Section 85: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 85: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 85A Funding of code committee
     
 *   The FMA must fund the code committee.
     
-    Section 85A: inserted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 85A: inserted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Code of professional conduct for authorised financial advisers
 
@@ -3814,9 +3816,9 @@ How financial advisers and brokers are regulated
     
     (5) Despite subsection (1), the code may provide for different minimum standards for individuals training to be authorised financial advisers.
     
-    Section 86(4): added, on 1 July 2010, by [section 26][423] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 86(4): added, on 1 July 2010, by [section 26][424] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 86(5): added, on 1 July 2010, by [section 26][423] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 86(5): added, on 1 July 2010, by [section 26][424] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 87 Code committee must prepare code
     
@@ -3852,13 +3854,13 @@ How financial advisers and brokers are regulated
     
     (4) This section is subject to [section 89][174].
     
-    Section 88 heading: amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 88 heading: amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 88(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 88(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 88(2): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 88(2): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 88(3): amended, on 28 July 2009, by [section 9][424] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 88(3): amended, on 28 July 2009, by [section 9][425] of the Financial Advisers Amendment Act 2009 (2009 No 24).
 
 ##### 89 FMA may require revision or consultation
     
@@ -3870,15 +3872,15 @@ How financial advisers and brokers are regulated
     
     (2) If the FMA considers that the draft code is not consistent with this Act, the FMA must, in directing the code committee to revise the draft code, state in what respects it considers that the draft code is not consistent.
     
-    Section 89 heading: amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 89 heading: amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 89(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 89(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 89(1)(b): amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 89(1)(b): amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 89(2): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 89(2): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 89(2): amended, on 1 May 2011, by [section 12(3)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 89(2): amended, on 1 May 2011, by [section 12(3)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 90 FMA's approval of revised draft code
     
@@ -3902,25 +3904,25 @@ How financial advisers and brokers are regulated
     
     *   (c) consider those submissions.
     
-    Section 90 heading: amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90 heading: amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 90(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 90(1)(b): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90(1)(b): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 90(1)(b)(i): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90(1)(b)(i): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 90(2): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90(2): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 90(2)(a): amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 90(2)(a): amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 91 Deadline for FMA's approval of draft code
     
 *   The FMA must approve the draft code within 90 days of receiving the draft code or, if [section 89][174] applies, within 90 days of receiving the revised draft code.
     
-    Section 91 heading: amended, on 1 May 2011, by [section 12(2)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 91 heading: amended, on 1 May 2011, by [section 12(2)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 91: amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 91: amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 92 Minister's approval required
     
@@ -3932,9 +3934,9 @@ How financial advisers and brokers are regulated
     
     (4) For the purposes of subsection (3), a reference in [sections 89][174] and [90][175] to the FMA must be read as a reference to the Minister.
     
-    Section 92(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 92(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 92(4): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 92(4): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 93 Deadline for Minister's approval of draft code
     
@@ -3948,13 +3950,13 @@ How financial advisers and brokers are regulated
     
     (3) Each provision in the code comes into force on the date stated in the notice that applies to the provision.
     
-    (4) The code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][425] and must be presented to the House of Representatives under [section 41][426] of that Act.
+    (4) The code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][426] and must be presented to the House of Representatives under [section 41][427] of that Act.
     
-    Section 94: substituted, on 1 July 2010, by [section 27][427] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 94: substituted, on 1 July 2010, by [section 27][428] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 94(1): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 94(1): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 94(4): replaced, on 5 August 2013, by [section 77(3)][428] of the Legislation Act 2012 (2012 No 119).
+    Section 94(4): replaced, on 5 August 2013, by [section 77(3)][429] of the Legislation Act 2012 (2012 No 119).
 
 #### Changes to code
 
@@ -3970,7 +3972,7 @@ How financial advisers and brokers are regulated
     
     (2) The procedure for changing the code is the same as the procedure set out in [sections 87 to 94][172] for the preparation and approval of the draft code.
     
-    Section 95(1)(b): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 95(1)(b): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ### Subpart 2---Complaints and disciplinary proceedings
 
@@ -3982,9 +3984,9 @@ How financial advisers and brokers are regulated
     
     (2) The FMA may initiate a complaint.
     
-    Section 96(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 96(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 96(2): amended, on 1 May 2011, by [section 12(1)][419] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 96(2): amended, on 1 May 2011, by [section 12(1)][420] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 97 Investigation by FMA
     
@@ -4002,17 +4004,17 @@ How financial advisers and brokers are regulated
     
     *   (b) the complaint is not sufficiently serious to warrant investigation.
     
-    Section 97 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 97 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 97(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 97(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 97(1)(b): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 97(1)(b): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 97(1)(c): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 97(1)(c): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 97(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 97(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 97(2): amended, on 28 July 2009, by [section 10][429] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 97(2): amended, on 28 July 2009, by [section 10][430] of the Financial Advisers Amendment Act 2009 (2009 No 24).
 
 #### Complaint about authorised financial adviser
 
@@ -4020,19 +4022,19 @@ How financial advisers and brokers are regulated
     
 *   When the FMA has, under [section 97][185], investigated a complaint about an authorised financial adviser, it must refer the complaint to the disciplinary committee if, in the FMA's opinion, the conduct complained of amounts to a breach of the code.
     
-    Section 98: substituted, on 1 July 2010, by [section 28][430] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 98: substituted, on 1 July 2010, by [section 28][431] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 98: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 98: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 98: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 98: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 98: amended, on 28 July 2009, by [section 10][429] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 98: amended, on 28 July 2009, by [section 10][430] of the Financial Advisers Amendment Act 2009 (2009 No 24).
 
 ##### 99 Disciplinary committee must give notice of complaint to financial adviser concerned
     
 *   If the FMA refers a complaint about an authorised financial adviser to the disciplinary committee, and the disciplinary committee considers that a hearing is necessary to deal with the complaint, the disciplinary committee must serve a written notice of the complaint on the financial adviser.
     
-    Section 99: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 99: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 100 Content of disciplinary committee's notice of complaint
     
@@ -4044,7 +4046,7 @@ How financial advisers and brokers are regulated
     
     *   (c) specify a date, which must not be sooner than 20 working days after the date of service of the notice, on which the disciplinary committee intends to hear the matter.
     
-    Section 100: amended, on 28 July 2009, by [section 11][431] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 100: amended, on 28 July 2009, by [section 11][432] of the Financial Advisers Amendment Act 2009 (2009 No 24).
 
 ##### 101 Disciplinary committee may discipline authorised financial adviser for breach of code
     
@@ -4084,13 +4086,13 @@ How financial advisers and brokers are regulated
     
     (7) This section applies whether or not A is an authorised financial adviser at the time of the complaint, the investigation, or the disciplinary proceeding.
     
-    Section 101(3)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 101(3)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 101(3)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 101(3)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 101(3)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 101(3)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 101(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 101(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 102 Reasonable opportunity to be heard
     
@@ -4116,7 +4118,7 @@ How financial advisers and brokers are regulated
     
     *   (b) take any of the actions referred to in [section 101(3)][190] as a result of disciplinary proceedings.
     
-    Section 104(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 104(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 105 Membership of disciplinary committee
     
@@ -4138,7 +4140,7 @@ How financial advisers and brokers are regulated
     
     (6) A member of the disciplinary committee may resign by notice in writing to the Minister.
     
-    Section 105(3): amended, on 1 May 2011, by [section 10][432] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 105(3): amended, on 1 May 2011, by [section 10][433] of the Financial Advisers Amendment Act 2011 (2011 No 9).
 
 ##### 106 Proceedings of disciplinary committee
     
@@ -4152,7 +4154,7 @@ How financial advisers and brokers are regulated
     
     (5) Except as provided for in this Act and in any regulations made under this Act, the disciplinary committee may regulate its own procedure.
     
-    Compare: 2006 No 60 [s 56][420]
+    Compare: 2006 No 60 [s 56][421]
 
 ##### 107 Disciplinary committee may hear evidence in disciplinary proceeding
     
@@ -4162,9 +4164,9 @@ How financial advisers and brokers are regulated
     
     *   (b) permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath, statutory declaration, or otherwise.
     
-    (2) A hearing before the disciplinary committee in a disciplinary proceeding is a judicial proceeding for the purposes of [sections 108][433] and [109][434] of the Crimes Act 1961\.
+    (2) A hearing before the disciplinary committee in a disciplinary proceeding is a judicial proceeding for the purposes of [sections 108][434] and [109][435] of the Crimes Act 1961\.
     
-    Compare: 2005 No 38 [s 30][435]
+    Compare: 2005 No 38 [s 30][436]
 
 ##### 108 District Court may authorise disciplinary committee to summon witnesses on disciplinary matters
     
@@ -4176,7 +4178,7 @@ How financial advisers and brokers are regulated
     
     *   (b) it is necessary or desirable that the summons be issued to compel the attendance of the witness at the hearing.
     
-    Compare: 2005 No 38 [s 31][436]
+    Compare: 2005 No 38 [s 31][437]
 
 ##### 109 Issuing of summons by disciplinary committee
     
@@ -4200,7 +4202,7 @@ How financial advisers and brokers are regulated
     
     (3) The disciplinary committee may require that any documents, things, or information produced under this section be verified by oath, statutory declaration, or otherwise.
     
-    Compare: 2005 No 38 [s 32][437]
+    Compare: 2005 No 38 [s 32][438]
 
 ##### 110 Serving of summons
     
@@ -4218,17 +4220,17 @@ How financial advisers and brokers are regulated
     
     (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
     
-    Compare: 2005 No 38 [s 33][438]
+    Compare: 2005 No 38 [s 33][439]
 
 ##### 111 Witnesses' fees, allowances, and expenses
     
-*   (1) A witness appearing before the disciplinary committee under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Criminal Procedure Act 2011][439].
+*   (1) A witness appearing before the disciplinary committee under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Criminal Procedure Act 2011][440].
     
     (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
     
-    Compare: 2005 No 38 [s 34][440]
+    Compare: 2005 No 38 [s 34][441]
     
-    Section 111(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 111(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 112 Protection for witnesses and counsel in disciplinary proceeding
     
@@ -4240,25 +4242,25 @@ How financial advisers and brokers are regulated
     
     (2) Every counsel appearing before the disciplinary committee in relation to a disciplinary matter has the same privileges and immunities as counsel in a court.
     
-    Compare: 2005 No 38 [s 36][442]
+    Compare: 2005 No 38 [s 36][443]
 
 ##### 113 Certain provisions of Crown Entities Act 2004 apply to members of disciplinary committee
     
-*   [Clause 15][421] of Schedule 5 of the Crown Entities Act 2004 (_Schedule 5_) applies as if the disciplinary committee were a committee appointed by the FMA under [clause 14][422] of Schedule 5 and with all other necessary modifications.
+*   [Clause 15][422] of Schedule 5 of the Crown Entities Act 2004 (_Schedule 5_) applies as if the disciplinary committee were a committee appointed by the FMA under [clause 14][423] of Schedule 5 and with all other necessary modifications.
     
-    Section 113: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 113: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 113A Funding of disciplinary committee
     
 *   The FMA must fund the disciplinary committee.
     
-    Section 113A: inserted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 113A: inserted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 3---Offences
 
 #### Offences: Restrictions on providing services and holding out
     
-*   Heading: substituted, on 1 July 2010, by [section 29][443] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: substituted, on 1 July 2010, by [section 29][444] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 114 Offence of providing financial adviser service without being permitted to do so
     
@@ -4276,11 +4278,11 @@ How financial advisers and brokers are regulated
     
     (3) A person (_A_) has a defence to a charge under subsection (1) or (2) if A proves on the balance of probabilities that A did not know, and ought not reasonably to have known, that A did not come within the requirements of the relevant section or sections.
     
-    Section 114: substituted, on 1 July 2010, by [section 29][443] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 114: substituted, on 1 July 2010, by [section 29][444] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 114(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 114(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 114(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 114(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 115 Offence of holding out as authorised financial adviser, financial planner, investment planner, or QFE
     
@@ -4290,19 +4292,19 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, to a fine not exceeding $50,000\.
     
-    Section 115: substituted, on 1 July 2010, by [section 29][443] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 115: substituted, on 1 July 2010, by [section 29][444] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 115: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 115: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 116 Offences in relation to employer or principal failing to maintain registration
     
 *   \[Repealed\]
     
-    Section 116: repealed (without coming into force), on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 116: repealed (without coming into force), on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Disclosure offences: Financial advisers, QFEs, and brokers
     
-*   Heading: amended, on 1 July 2010, by [section 30][444] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: amended, on 1 July 2010, by [section 30][445] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 117 Failure to make disclosure under or in accordance with disclosure obligation
     
@@ -4312,13 +4314,13 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $300,000\.
     
-    Section 117: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 117: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 117(b): amended, on 1 July 2010, by [section 31][445] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 117(b): amended, on 1 July 2010, by [section 31][446] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Conduct offences: Financial advisers and brokers
     
-*   Heading: amended, on 1 July 2010, by [section 32][446] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: amended, on 1 July 2010, by [section 32][447] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 118 Offence of misleading or deceptive conduct by financial adviser or broker
     
@@ -4328,9 +4330,9 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $300,000\.
     
-    Section 118: substituted, on 1 July 2010, by [section 33][447] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 118: substituted, on 1 July 2010, by [section 33][448] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 118: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 118: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 119 Offence of misleading, deceptive, or confusing advertisement by financial adviser or broker
     
@@ -4340,15 +4342,15 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $300,000\.
     
-    Section 119: substituted, on 1 July 2010, by [section 33][447] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 119: substituted, on 1 July 2010, by [section 33][448] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 119: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 119: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 120 Offence of contravening restrictions on use of term sharebroker
     
 *   \[Repealed\]
     
-    Section 120: repealed, on 1 April 2014, by [section 49][448] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 120: repealed, on 1 April 2014, by [section 49][449] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 #### Offences: Authorised financial advisers only
 
@@ -4356,59 +4358,59 @@ How financial advisers and brokers are regulated
     
 *   A person who contravenes [section 38(1)][67] commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    Section 121 heading: amended, on 1 July 2010, by [section 34][449] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 121 heading: amended, on 1 July 2010, by [section 34][450] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 121: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122 Offence of contravening requirement that authorised financial adviser pay client's money into separate trust account
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 1 July 2010, by [section 35][450] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 122: repealed, on 1 July 2010, by [section 35][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 123 Offence of failing to account for client's money or other property
     
 *   \[Repealed\]
     
-    Section 123: repealed, on 1 July 2010, by [section 35][450] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 123: repealed, on 1 July 2010, by [section 35][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 124 Offence in relation to records of client's money or property
     
 *   \[Repealed\]
     
-    Section 124: repealed, on 1 July 2010, by [section 35][450] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 124: repealed, on 1 July 2010, by [section 35][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 125 Offence of breaching restrictions on use of client's money or property
     
 *   \[Repealed\]
     
-    Section 125: repealed, on 1 July 2010, by [section 35][450] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 125: repealed, on 1 July 2010, by [section 35][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 126 Offence of failing to comply with terms and conditions of authorisation
     
 *   A person who contravenes [section 45(1)][74] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 126: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 126: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 127 Offence of failing to comply with FMA's direction
     
 *   A person who fails to comply with a direction of the FMA given under [section 61(3)][97] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 127 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 127 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 127: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 127: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 127: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 127: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 128 Offence of contravening condition of disciplinary committee's order
     
 *   A person who contravenes a condition of an order made by the disciplinary committee under [section 101(3)(e)][190] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 128: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 128: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences: QFEs and QFE groups only
     
-*   Heading: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 129 Offence of failing to comply with terms and conditions of QFE status
     
@@ -4420,11 +4422,11 @@ How financial advisers and brokers are regulated
     
     (2) If a partner entity of a QFE contravenes [section 46(1)][77], every partner entity of the QFE commits an offence and is liable on conviction to a fine not exceeding $25,000\.
     
-    Section 129: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 129: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 129(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 129(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 129(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 129(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 130 Offence of misleading or deceptive conduct in relation to financial adviser service by employee, agent, or nominated representative
     
@@ -4442,11 +4444,11 @@ How financial advisers and brokers are regulated
     
     *   (c) every partner entity of the QFE.
     
-    Section 130: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 130: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 130(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 130(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 131 Offence of misleading, etc, advertisement of financial adviser service by employee, agent, or nominated representative
     
@@ -4464,11 +4466,11 @@ How financial advisers and brokers are regulated
     
     *   (c) every partner entity of the QFE.
     
-    Section 131: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 131: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 131(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 131(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 131(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 131(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 132 Offence of failing to comply with FMA's direction
     
@@ -4478,13 +4480,13 @@ How financial advisers and brokers are regulated
     
     *   (b) every partner entity of the QFE.
     
-    Section 132: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 132: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 132 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 132 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 132: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 132: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 132: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 132: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 133 Offence of failing to comply with obligations in relation to authorised financial advisers
     
@@ -4494,9 +4496,9 @@ How financial advisers and brokers are regulated
     
     *   (b) every partner entity of the QFE.
     
-    Section 133: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 133: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 133: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 133: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134 Offence of failing to provide annual report
     
@@ -4506,9 +4508,9 @@ How financial advisers and brokers are regulated
     
     *   (b) every partner entity of the QFE.
     
-    Section 134: substituted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134: substituted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134A Defence to offences relating to entities in QFE groups
     
@@ -4518,11 +4520,11 @@ How financial advisers and brokers are regulated
     
     *   (b) took all reasonable steps to ensure that the members of the QFE group complied with the requirements of this Act.
     
-    Section 134A: inserted, on 1 July 2010, by [section 36][451] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134A: inserted, on 1 July 2010, by [section 36][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Offences: Broking services only
     
-*   Heading: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 134B Offence of receiving client money if offer for subscription illegal
     
@@ -4532,9 +4534,9 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $300,000\.
     
-    Section 134B: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134B: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134B: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134B: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134C Offence of contravening requirement to pay client money into separate trust account and hold client property on trust
     
@@ -4544,11 +4546,11 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134C: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134C: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134C heading: amended, on 1 April 2014, by [section 52][453] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 134C heading: amended, on 1 April 2014, by [section 52][454] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 134C: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134C: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134D Offence of failing to account for client money and client property
     
@@ -4558,9 +4560,9 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134D: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134D: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134D: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134D: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134E Offence in relation to records of client money and client property
     
@@ -4570,9 +4572,9 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134E: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134E: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134E: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134E: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134EA Offence of failing to report on client money and client property
     
@@ -4582,7 +4584,7 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134EA: inserted, on 1 April 2014, by [section 53][454] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 134EA: inserted, on 1 April 2014, by [section 53][455] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 134F Offence of breaching restrictions on use of client money and client property
     
@@ -4592,9 +4594,9 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134F: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134F: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134F: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134F: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134G Offence of failing to comply with FMA's direction
     
@@ -4604,33 +4606,33 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $25,000\.
     
-    Section 134G: inserted, on 1 July 2010, by [section 37][452] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 134G: inserted, on 1 July 2010, by [section 37][453] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 134G heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 134G heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 134G: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134G: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 134G: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 134G: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Miscellaneous offences
     
-*   Heading: inserted, on 1 July 2010, by [section 38(1)][455] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 38(1)][456] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 135 Offence of failing to comply with FMA's direction in respect of breach of disclosure or conduct obligation
     
 *   A person who fails to comply with a direction of the FMA given under [section 49(3)][81] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 135 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 135 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 135: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 135: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 135: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 135: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Miscellaneous offences
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2010, by [section 38(2)][455] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: repealed, on 1 July 2010, by [section 38(2)][456] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 136 Offence of false declaration, etc, in support of application for authorisation or grant of QFE status
     
@@ -4648,11 +4650,11 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of an entity, not exceeding $300,000\.
     
-    Section 136(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 136(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 136(1)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 136(1)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 136(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 136(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 137 Failure to comply with summons to attend disciplinary committee hearing
     
@@ -4672,19 +4674,19 @@ How financial advisers and brokers are regulated
     
     (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under [section 111][201] have not been paid or tendered to him or her.
     
-    Compare: 2005 No 38 [s 35][456]
+    Compare: 2005 No 38 [s 35][457]
     
-    Section 137 heading: amended, on 1 May 2011, by [section 11][457] of the Financial Advisers Amendment Act 2011 (2011 No 9).
+    Section 137 heading: amended, on 1 May 2011, by [section 11][458] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 137(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Injunctions, banning orders, and other remedies
     
-*   Subpart 4: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Subpart 4: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Injunctions
     
-*   Heading: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137A Injunctions against contraventions
     
@@ -4708,11 +4710,11 @@ How financial advisers and brokers are regulated
     
     *   (b) making it known that an act will or will not be done.
     
-    Compare: 1988 No 234 [ss 2][355], [42K][459], [42L][460]
+    Compare: 1988 No 234 [ss 2][355], [42K][460], [42L][461]
     
-    Section 137A: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137A: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137A(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137A(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137B Undertaking as to damages not required by FMA
     
@@ -4720,17 +4722,17 @@ How financial advisers and brokers are regulated
     
     (2) However, in determining the FMA's application for the grant of an interim injunction, the court must not take into account that the FMA is not required to give an undertaking as to damages.
     
-    Compare: 1988 No 234 [s 42M][461]
+    Compare: 1988 No 234 [s 42M][462]
     
-    Section 137B: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137B: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137B heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137B heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137B(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137B(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137B(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137B(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137B(2): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137B(2): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137C When court may make banning order
     
@@ -4746,25 +4748,25 @@ How financial advisers and brokers are regulated
         
         
     
-    *   (b) the person has been convicted of an offence against [section 58][375] or [59][462] of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
+    *   (b) the person has been convicted of an offence against [section 58][376] or [59][463] of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
     
-    *   (ba) the person has been convicted of an offence against [section 51][463] or [61][464] of the Financial Markets Authority Act 2011; or
+    *   (ba) the person has been convicted of an offence against [section 51][464] or [61][465] of the Financial Markets Authority Act 2011; or
     
-    *   (c) the person has been convicted of a crime involving dishonesty as defined in [section 2(1)][465] of the Crimes Act 1961; or
+    *   (c) the person has been convicted of a crime involving dishonesty as defined in [section 2(1)][466] of the Crimes Act 1961; or
     
-    *   (d) the person has persistently contravened this Act or the [Securities Act 1978][466]; or
+    *   (d) the person has persistently contravened this Act or the [Securities Act 1978][467]; or
     
     *   (e) the person has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in [section 137D][250].
     
-    Compare: 1988 No 234 [s 43K][467]
+    Compare: 1988 No 234 [s 43K][468]
     
-    Section 137C: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137C: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137C: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137C: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137C(b): amended, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137C(b): amended, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137C(ba): inserted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137C(ba): inserted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137D Terms of banning orders
     
@@ -4776,9 +4778,9 @@ How financial advisers and brokers are regulated
     
     *   (c) contributing, as employee or agent, to the provision of financial adviser services or broking services.
     
-    Compare: 1988 No 234 [s 43L][468]
+    Compare: 1988 No 234 [s 43L][469]
     
-    Section 137D: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137D: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137E Offence of contravening banning order
     
@@ -4788,25 +4790,25 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    (2) Despite anything to the contrary in [section 25][469] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
+    (2) Despite anything to the contrary in [section 25][470] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
     
-    Compare: 1988 No 234 [ss 43E(2)][470], [43M][471]
+    Compare: 1988 No 234 [ss 43E(2)][471], [43M][472]
     
-    Section 137E: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137E: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137E(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137E(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 137E(2): inserted, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137E(2): inserted, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Orders to preserve assets to satisfy claims
     
-*   Heading: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137F When High Court may prohibit payment or transfer of money, securities, or other property
     
 *   (1) This section applies if---
         
-    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][472] in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
+    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][473] in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
     
     *   (b) a prosecution has begun against a person for a contravention of this Act.
     
@@ -4822,13 +4824,13 @@ How financial advisers and brokers are regulated
     
     _relevant person_ means a person referred to in subsection (1).
     
-    Compare: 1988 No 234 [s 43P][473]
+    Compare: 1988 No 234 [s 43P][474]
     
-    Section 137F: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137F: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137F(1)(a): substituted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137F(1)(a): substituted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137F(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137F(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137G What orders may be made
     
@@ -4866,9 +4868,9 @@ How financial advisers and brokers are regulated
     
     (3) An order may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
     
-    Compare: 1988 No 234 [s 43Q][474]
+    Compare: 1988 No 234 [s 43Q][475]
     
-    Section 137G: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137G: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137H Interim orders
     
@@ -4878,19 +4880,19 @@ How financial advisers and brokers are regulated
     
     (3) In determining an application for the grant of an interim order, the court must not take into account that the applicant is not required to give an undertaking as to damages.
     
-    Compare: 1988 No 234 [s 43R][475]
+    Compare: 1988 No 234 [s 43R][476]
     
-    Section 137H: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137H: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137I Relationship with other law
     
 *   (1) Nothing in [sections 137G][254] and [137H][255] affects the powers that the court has apart from those sections.
     
-    (2) This section has effect subject to the [Insolvency Act 2006][476].
+    (2) This section has effect subject to the [Insolvency Act 2006][477].
     
-    Compare: 1988 No 234 [s 43S][477]
+    Compare: 1988 No 234 [s 43S][478]
     
-    Section 137I: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137I: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137J Offence of breaching orders
     
@@ -4900,19 +4902,19 @@ How financial advisers and brokers are regulated
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    (2) Despite anything to the contrary in [section 25][469] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
+    (2) Despite anything to the contrary in [section 25][470] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
     
-    Compare: 1988 No 234 [s 43T][478]
+    Compare: 1988 No 234 [s 43T][479]
     
-    Section 137J: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137J: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137J(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137J(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 137J(2): inserted, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137J(2): inserted, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Pecuniary and compensatory orders for contravening wholesale certification requirement
     
-*   Heading: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137K Pecuniary order for contravening wholesale certification requirement
     
@@ -4934,9 +4936,9 @@ How financial advisers and brokers are regulated
     
     (5) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
     
-    Section 137K: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137K: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137K(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137K(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137L Compensation for contravention of wholesale certification requirement
     
@@ -4950,31 +4952,31 @@ How financial advisers and brokers are regulated
     
     (5) In proceedings under this section, the court may make such orders as it thinks fit.
     
-    Section 137L: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137L: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137L(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137L(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Temporary banning orders against financial adviser and broker
     
-*   Heading: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 137M When FMA may make temporary banning orders for financial adviser services or broking services
     
 *   The FMA may make an order (a _temporary banning order_) against a person in accordance with [sections 137N to 137R][263] if the FMA is satisfied that---
         
-    *   (a) the person has persistently contravened this Act or the [Securities Act 1978][466]; or
+    *   (a) the person has persistently contravened this Act or the [Securities Act 1978][467]; or
     
     *   (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the FMA is satisfied are substantially similar to any of the activities referred to in [section 137N][263].
     
-    Compare: 1988 No 234 [s 42D][479]
+    Compare: 1988 No 234 [s 42D][480]
     
-    Section 137M: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137M: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137M heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137M heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137M: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137M: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137M(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137M(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137N Terms of temporary banning order
     
@@ -4986,16 +4988,16 @@ How financial advisers and brokers are regulated
     
     *   (c) contributing, as employee or agent, to the provision of financial adviser services or broking services.
     
-    Compare: 1988 No 234 [s 42E][480]
+    Compare: 1988 No 234 [s 42E][481]
     
-    Section 137N: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137N: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137N: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137N: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Process for FMA's orders
     
-*   Heading: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
-*   Heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137O FMA must follow steps before making orders
     
@@ -5019,21 +5021,21 @@ How financial advisers and brokers are regulated
     
     (2) However, the FMA may shorten these steps in accordance with [section 137P][266] in the circumstances specified in that section.
     
-    Compare: 1988 No 234 [s 42F][481]
+    Compare: 1988 No 234 [s 42F][482]
     
-    Section 137O: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137O: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137O heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137O(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137O(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137O(1)(c): substituted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O(1)(c): substituted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137O(1)(d): repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O(1)(d): repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137O(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137O(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137P FMA may shorten steps for specified orders
     
@@ -5045,17 +5047,17 @@ How financial advisers and brokers are regulated
     
     (2) However, the FMA must include in the notice under [section 137O][265] the reasons for acting urgently and must otherwise comply with the steps set out in that section.
     
-    Compare: 1988 No 234 [s 42G][482]
+    Compare: 1988 No 234 [s 42G][483]
     
-    Section 137P: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137P: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137P heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137P heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137P(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137P(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137P(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137P(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137P(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137P(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137Q FMA must give notice after making orders
     
@@ -5073,15 +5075,15 @@ How financial advisers and brokers are regulated
     
     (2) The FMA must also, as soon as practicable after making the temporary banning order, give notice on an Internet site maintained by or on behalf of the FMA (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
     
-    Compare: 1988 No 234 [s 42H][483]
+    Compare: 1988 No 234 [s 42H][484]
     
-    Section 137Q: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137Q: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137Q heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137Q heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137Q(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137Q(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137Q(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137Q(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137R General provisions on temporary banning orders
     
@@ -5093,17 +5095,17 @@ How financial advisers and brokers are regulated
     
     (4) A person that considers that a decision of the FMA in respect of a temporary banning order is wrong in law may appeal against the decision to the High Court on a question of law only.
     
-    Compare: 1988 No 234 [s 42I][484]
+    Compare: 1988 No 234 [s 42I][485]
     
-    Section 137R: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137R: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137R(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137R(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137R(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137R(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137R(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137R(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137R(4): substituted, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137R(4): substituted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 137S Offence of failing to comply with FMA's orders
     
@@ -5117,13 +5119,13 @@ How financial advisers and brokers are regulated
     
     *   (c) the court thinks that the contravention, in the circumstances of the case, ought reasonably to be excused.
     
-    Compare: 1988 No 234 [s 42J][485]
+    Compare: 1988 No 234 [s 42J][486]
     
-    Section 137S: inserted, on 1 July 2010, by [section 39][458] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 137S: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 137S heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137S heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137S(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 137S(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 General provisions
@@ -5154,27 +5156,27 @@ General provisions
     
     *   (b) must be lodged within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
     
-    Compare: 2005 No 38 [s 38][486]
+    Compare: 2005 No 38 [s 38][487]
     
-    Section 138(1)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 138(1)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 138(1)(a)(ii): amended, on 28 July 2009, by [section 13][487] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 138(1)(a)(ii): amended, on 28 July 2009, by [section 13][488] of the Financial Advisers Amendment Act 2009 (2009 No 24).
     
-    Section 138(1)(a)(iv): amended, on 1 July 2010, by [section 40][488] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 138(1)(a)(iv): amended, on 1 July 2010, by [section 40][489] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 139 Notice of right of appeal
     
 *   When notifying a person under this Act of any decision against which [section 138][272] gives him or her a right of appeal, the FMA or the disciplinary committee must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
     
-    Compare: 2005 No 38 [s 39][489]
+    Compare: 2005 No 38 [s 39][490]
     
-    Section 139: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 139: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 140 Decision to have effect pending determination of appeal
     
 *   A decision against which an appeal is lodged under this Part continues in force unless the District Court orders otherwise.
     
-    Compare: 2005 No 38 [s 40][490]
+    Compare: 2005 No 38 [s 40][491]
 
 ##### 141 Procedure on appeal
     
@@ -5194,13 +5196,13 @@ General provisions
     
     *   (b) any decision not appealed against at all.
     
-    Compare: 2005 No 38 [s 41][491]
+    Compare: 2005 No 38 [s 41][492]
 
 ##### 142 Court's decision final
     
 *   Except as provided in [section 146][280], the decision of the District Court on an appeal under this Part is final.
     
-    Compare: 2005 No 38 [s 42][492]
+    Compare: 2005 No 38 [s 42][493]
 
 ##### 143 Court may refer matter back for reconsideration
     
@@ -5224,13 +5226,13 @@ General provisions
         
         
     
-    Compare: 2005 No 38 [s 43][493]
+    Compare: 2005 No 38 [s 43][494]
 
 ##### 144 Orders as to costs
     
 *   On an appeal under this Part, the District Court may order any party to the appeal to pay to any other party to the appeal any or all of the costs incurred by the other party in respect of the appeal.
     
-    Compare: 2005 No 38 [s 44][494]
+    Compare: 2005 No 38 [s 44][495]
 
 ##### 145 Orders as to publication of names
     
@@ -5242,7 +5244,7 @@ General provisions
     
     *   (b) the public interest.
     
-    Compare: 2005 No 38 [s 45(1), (2)][495]
+    Compare: 2005 No 38 [s 45(1), (2)][496]
 
 ##### 146 Appeal on question of law
     
@@ -5250,7 +5252,7 @@ General provisions
     
     (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
     
-    (3) [Part 6][496] of the Criminal Procedure Act 2011 applies to the appeal---
+    (3) [Part 6][497] of the Criminal Procedure Act 2011 applies to the appeal---
         
     *   (a) so far as it is applicable and with all necessary modifications; but
     
@@ -5258,25 +5260,25 @@ General provisions
     
     (4) Subsection (3) overrides subsection (2).
     
-    Compare: 2005 No 38 [s 46][497]
+    Compare: 2005 No 38 [s 46][498]
     
-    Section 146(3): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 146(3): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Securities Commission: General powers
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 147 Commission may exercise powers under Securities Act 1978
     
 *   \[Repealed\]
     
-    Section 147: repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Standard conditions for incorporation in authorisation and grants
     
-*   Heading: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+*   Heading: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 147A Approval of standard conditions for incorporation in authorisations and grants of QFE status
     
@@ -5300,7 +5302,7 @@ General provisions
     
     *   (e) is necessary to avoid the defeat of the purpose of this Act; or
     
-    *   (f) is necessary or desirable in order to ensure timely and consistent implementation of changes to standard conditions for discretionary investment management services in connection with the commencement or implementation of the [Financial Markets (Repeals and Amendments) Act 2013][499].
+    *   (f) is necessary or desirable in order to ensure timely and consistent implementation of changes to standard conditions for discretionary investment management services in connection with the commencement or implementation of the [Financial Markets (Repeals and Amendments) Act 2013][500].
     
     (4) The notice in the _Gazette_ need not set out the standard conditions, but those conditions must be---
         
@@ -5308,17 +5310,17 @@ General provisions
     
     *   (b) made available in printed form for purchase on request by members of the public.
     
-    Section 147A: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 147A: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 147A(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147A(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147A(3)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147A(3)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147A(3)(e): amended, on 1 April 2014, by [section 58][500] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 147A(3)(e): amended, on 1 April 2014, by [section 58][501] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 147A(3)(f): inserted, on 1 April 2014, by [section 58][500] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 147A(3)(f): inserted, on 1 April 2014, by [section 58][501] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 147A(4)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147A(4)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 147B Requirement to consult on proposal to incorporate material by reference
     
@@ -5342,17 +5344,17 @@ General provisions
     
     (3) The FMA must consider any submissions received within the period specified under subsection (1)(d)(ii).
     
-    Section 147B: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 147B: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 147B(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147B(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147B(1)(c): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147B(1)(c): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147B(1)(d)(ii): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147B(1)(d)(ii): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147B(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147B(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 147B(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147B(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 147C Variation or revocation of standard conditions
     
@@ -5360,15 +5362,15 @@ General provisions
     
     (2) [Section 147A][284] and [147B][285] apply to any proposed approval of variation or revocation of standard conditions, with any necessary modifications.
     
-    Section 147C: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 147C: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 147C(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 147C(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 147D When standard conditions come into force
     
 *   The approval of standard conditions, or of variation or revocation of standard conditions, comes into force on the 28th day after the date on which the approval is notified in the _Gazette_.
     
-    Section 147D: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 147D: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 147E Incorporation of changed standard conditions into existing authorisations or grants
     
@@ -5378,7 +5380,7 @@ General provisions
     
     *   (b) in any other case, when, and to the extent that, the condition is incorporated on the renewal of the authorisation or grant under [section 58][93] or [75C][118].
     
-    Section 147E: inserted, on 1 July 2010, by [section 41][498] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 147E: inserted, on 1 July 2010, by [section 41][499] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Exemptions
 
@@ -5414,17 +5416,17 @@ General provisions
         
         
     
-    Section 148: substituted, on 1 July 2010, by [section 42][501] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 148: substituted, on 1 July 2010, by [section 42][502] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 148 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148(2)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148(2)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148(3): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148(3): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 148A FMA may vary or revoke exemption
     
@@ -5432,19 +5434,19 @@ General provisions
     
     (2) The FMA may revoke the exemption.
     
-    Section 148A: inserted, on 1 July 2010, by [section 42][501] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 148A: inserted, on 1 July 2010, by [section 42][502] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 148A heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148A heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148A(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148A(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 148A(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148A(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 148B Status of exemptions, variations, or revocations
     
-*   (1) For the purposes of the [Legislation Act 2012][425], an exemption under [section 148][290], or a variation or revocation of an exemption under [section 148A][291],---
+*   (1) For the purposes of the [Legislation Act 2012][426], an exemption under [section 148][290], or a variation or revocation of an exemption under [section 148A][291],---
         
-    *   (a) is a disallowable instrument and must be presented to the House of Representatives under [section 41][426] of that Act; and
+    *   (a) is a disallowable instrument and must be presented to the House of Representatives under [section 41][427] of that Act; and
     
     *   (b) is a legislative instrument only if it is a class exemption.
     
@@ -5464,11 +5466,11 @@ General provisions
     
     *   (c) does not include an exemption granted in relation to a particular person, service, or transaction.
     
-    Section 148B: inserted, on 1 July 2010, by [section 42][501] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 148B: inserted, on 1 July 2010, by [section 42][502] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 148B(1): replaced, on 5 August 2013, by [section 77(3)][428] of the Legislation Act 2012 (2012 No 119).
+    Section 148B(1): replaced, on 5 August 2013, by [section 77(3)][429] of the Legislation Act 2012 (2012 No 119).
     
-    Section 148B(2)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 148B(2)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 149 FMA must notify reasons for exemption other than class exemption
     
@@ -5476,23 +5478,23 @@ General provisions
     
     (2) However, the FMA may defer notifying or not notify the reasons for granting an exemption if the FMA is satisfied that it is proper to do so on the ground of commercial confidentiality.
     
-    Compare: 1988 No 234 [s 48A][502]
+    Compare: 1988 No 234 [s 48A][503]
     
-    Section 149 heading: amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 149 heading: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 149 heading: amended, on 1 July 2010, by [section 43(1)][503] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 149 heading: amended, on 1 July 2010, by [section 43(1)][504] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 149(1): substituted, on 1 July 2010, by [section 43(2)][503] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 149(1): substituted, on 1 July 2010, by [section 43(2)][504] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 149(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 149(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 149(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 149(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 150 Commission may vary or revoke exemption
     
 *   \[Repealed\]
     
-    Section 150: repealed, on 1 July 2010, by [section 44][504] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 150: repealed, on 1 July 2010, by [section 44][505] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 #### Information sharing
 
@@ -5518,13 +5520,13 @@ General provisions
     
     *   (d) an approved dispute resolution scheme:
     
-    *   (e) a licensing authority listed in [Schedule 2][505] of the FSP Act:
+    *   (e) a licensing authority listed in [Schedule 2][506] of the FSP Act:
     
     *   (f) an overseas regulator.
     
     (5) The FMA may impose any conditions in relation to communicating information to an agency to which this section applies, including (without limitation) conditions relating to---
         
-    *   (a) maintaining the confidentiality of the information (in particular, information that is personal information within the meaning of the [Privacy Act 1993][506]):
+    *   (a) maintaining the confidentiality of the information (in particular, information that is personal information within the meaning of the [Privacy Act 1993][507]):
     
     *   (b) the storing of, use of, or access to the information:
     
@@ -5532,21 +5534,21 @@ General provisions
     
     *   (d) payment of the costs incurred by the FMA in communicating the information.
     
-    Section 151(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 151(1)(a): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(1)(a): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 151(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 151(2): amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(2): amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 151(5): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(5): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 151(5)(d): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 151(5)(d): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Fees
     
-*   Heading: amended, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Heading: amended, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 152 FMA's fees, charges, and costs
     
@@ -5554,17 +5556,17 @@ General provisions
     
     (2) If regulations have been made under [section 155(2)][302] authorising the FMA to do so, the FMA may require payment of any costs incurred by the FMA.
     
-    Section 152 heading: amended, on 1 May 2011, by [section 84(5)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 152 heading: amended, on 1 May 2011, by [section 84(5)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 152(1): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 152(1): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 152(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 152(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 153 Levy
     
 *   \[Repealed\]
     
-    Section 153: repealed, on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 153: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Regulations
 
@@ -5592,7 +5594,7 @@ General provisions
     
     *   (gc) prescribing circumstances for the purposes of [section 44][73]:
     
-    *   (gd) prescribing eligibility criteria for authorisation for a service (including any preconditions or requirements that apply, or could be imposed by regulations, in relation to an application for a licence under [subpart 2][507] of Part 6 of the Financial Markets Conduct Act 2013 if the service was a market service):
+    *   (gd) prescribing eligibility criteria for authorisation for a service (including any preconditions or requirements that apply, or could be imposed by regulations, in relation to an application for a licence under [subpart 2][508] of Part 6 of the Financial Markets Conduct Act 2013 if the service was a market service):
     
     *   (h) specifying, for the purposes of [section 55(1)(d)][89], cases in which an authorisation under that paragraph may be granted and, for the purposes of [section 55(1A)][89], limits on the scope of discretionary investment management services (whether by funds under management, number of clients, nature of services, or other matters) that may be authorised under this Act:
     
@@ -5656,41 +5658,41 @@ General provisions
     
     (8) Any regulations made under paragraph (r) or (s) of subsection (1) that are in force on 30 June 2013 expire, and are revoked, on the close of that day.
     
-    Section 154: substituted, on 1 July 2010, by [section 46][508] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 154: substituted, on 1 July 2010, by [section 46][509] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 154(1)(ga): inserted, on 1 April 2014, by [section 61(2)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(ga): inserted, on 1 April 2014, by [section 61(2)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(gb): inserted, on 1 April 2014, by [section 61(2)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(gb): inserted, on 1 April 2014, by [section 61(2)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(gc): inserted, on 1 April 2014, by [section 61(2)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(gc): inserted, on 1 April 2014, by [section 61(2)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(gd): inserted, on 1 April 2014, by [section 61(2)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(gd): inserted, on 1 April 2014, by [section 61(2)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(h): amended, on 1 April 2014, by [section 61(3)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(h): amended, on 1 April 2014, by [section 61(3)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(l)(i): replaced, on 1 April 2014, by [section 61(4)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(l)(i): replaced, on 1 April 2014, by [section 61(4)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(l)(ia): inserted, on 1 April 2014, by [section 61(4)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(l)(ia): inserted, on 1 April 2014, by [section 61(4)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(l)(ii): replaced, on 1 April 2014, by [section 61(4)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(l)(ii): replaced, on 1 April 2014, by [section 61(4)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(l)(iii): amended, on 1 April 2014, by [section 61(5)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(l)(iii): amended, on 1 April 2014, by [section 61(5)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(1)(l)(iv): inserted, on 1 April 2014, by [section 61(6)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(1)(l)(iv): inserted, on 1 April 2014, by [section 61(6)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
     Section 154(1)(r): repealed, on 1 July 2013, by section 154(7).
     
     Section 154(1)(s): repealed, on 1 July 2013, by section 154(7).
     
-    Section 154(4): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 154(4): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 154(5): amended, on 1 April 2014, by [section 61(7)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(5): amended, on 1 April 2014, by [section 61(7)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(5)(a): amended, on 1 April 2014, by [section 61(8)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(5)(a): amended, on 1 April 2014, by [section 61(8)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(5)(b): amended, on 1 April 2014, by [section 61(9)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(5)(b): amended, on 1 April 2014, by [section 61(9)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 154(5)(c): replaced, on 1 April 2014, by [section 61(10)][509] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 154(5)(c): replaced, on 1 April 2014, by [section 61(10)][510] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 155 Regulations relating to fees, charges, and costs
     
@@ -5710,15 +5712,15 @@ General provisions
     
     (2) The Governor-General may from time to time, by Order in Council, make regulations authorising the FMA to require payment to it of any costs incurred by the FMA in the performance by the FMA of any function or duty, or the exercise of any power, under this Act.
     
-    Section 155(1)(a): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 155(1)(a): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 155(1)(a)(i): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 155(1)(a)(i): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 155(1)(a)(ii): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 155(1)(a)(ii): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 155(1)(b): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 155(1)(b): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 155(2): amended, on 1 May 2011, by [section 84(3)][366] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 155(2): amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Other matters
 
@@ -5726,7 +5728,7 @@ General provisions
     
 *   The provisions of this Act have effect no matter what any agreement may say.
     
-    Compare: 1988 No 234 [s 41V][510]
+    Compare: 1988 No 234 [s 41V][511]
 
 ##### 157 Territorial scope
     
@@ -5734,31 +5736,31 @@ General provisions
     
     (2) [Sections 33][61], [34][62], [49][81], [77K][141], [77L][142], [77V][156], and [118][213] also extend to any financial adviser service or broking service received by a client outside New Zealand if it is provided by a person who is ordinarily resident in New Zealand (within the meaning of section 4 of the Crimes Act 1961) or is incorporated or has a place of business in New Zealand.
     
-    Section 157: substituted, on 1 July 2010, by [section 47][511] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 157: substituted, on 1 July 2010, by [section 47][512] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 158 Breach of exemption conditions
     
 *   The breach of a term or condition of an exemption provided by regulations made under this Act or by notice under [section 148][290] is a breach of the obligation to which the exemption applies.
     
-    Compare: 1988 No 234 [s 49E][512]
+    Compare: 1988 No 234 [s 49E][513]
 
 ##### 159 Exemption or regulation in respect of specified overseas jurisdictions
     
 *   \[Repealed\]
     
-    Section 159: repealed, on 1 July 2010, by [section 48][513] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 159: repealed, on 1 July 2010, by [section 48][514] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 160 Time for filing charging document
     
-*   (1) Despite anything to the contrary in [section 25][469] of the Criminal Procedure Act 2011,---
+*   (1) Despite anything to the contrary in [section 25][470] of the Criminal Procedure Act 2011,---
         
     *   (a) a charging document may be filed at any time in respect of an offence against [section 137E][251] or [137J][257] of this Act; and
     
     *   (b) the limitation period in respect of an offence against [section 114][207], [115][208], [116][209], [120][215], [126][222], [127][223], [128][224], [134C][235], [134D][236], [134E][237], [134F][239], [134G][240], [135][241], or [137][244] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    (2) Nothing in subsection (1) affects the application of [section 25][469] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    (2) Nothing in subsection (1) affects the application of [section 25][470] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
-    Section 160: replaced, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 160: replaced, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 161 Ministry must review and report on operation of Act
     
@@ -5778,69 +5780,69 @@ General provisions
     
 *   \[Repealed\]
     
-    Section 161A: repealed (without coming into force), on 1 May 2011, by [section 82][368] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 161A: repealed (without coming into force), on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 162 KiwiSaver Act 2006 amended
     
-*   (1) This section amends the [KiwiSaver Act 2006][514].
+*   (1) This section amends the [KiwiSaver Act 2006][515].
     
-    (2) The heading to [section 206][515] is amended by omitting ""_investment advice_"" and substituting ""_financial adviser service_"".
+    (2) The heading to [section 206][516] is amended by omitting ""_investment advice_"" and substituting ""_financial adviser service_"".
     
-    (3) [Section 206][515] is amended by omitting ""give investment advice and is not an investment broker or a broker, for the purposes of the Investment Advisers (Disclosure) Act 1996"" and substituting ""perform a financial adviser service for the purposes of the Financial Advisers Act 2008"".
+    (3) [Section 206][516] is amended by omitting ""give investment advice and is not an investment broker or a broker, for the purposes of the Investment Advisers (Disclosure) Act 1996"" and substituting ""perform a financial adviser service for the purposes of the Financial Advisers Act 2008"".
 
 ##### 163 Securities Act 1978 amended
     
-*   (1) This section amends the [Securities Act 1978][466].
+*   (1) This section amends the [Securities Act 1978][467].
     
-    (2) [Section 10(1)(b)][516] is amended by inserting ""financial advisers,"" after ""securities,"" in the first place where it appears.
+    (2) [Section 10(1)(b)][517] is amended by inserting ""financial advisers,"" after ""securities,"" in the first place where it appears.
     
-    (3) [Section 10(1)(c)][516] is amended by inserting ""and financial advisers"" after ""securities"".
+    (3) [Section 10(1)(c)][517] is amended by inserting ""and financial advisers"" after ""securities"".
     
-    (4) [Section 10(1)(d)][516] is amended by inserting ""and the law and practice relating to financial advisers"" after ""securities"".
+    (4) [Section 10(1)(d)][517] is amended by inserting ""and the law and practice relating to financial advisers"" after ""securities"".
     
-    (5) [Section 11(1)][517] is amended by omitting ""10"" and substituting ""11"".
+    (5) [Section 11(1)][518] is amended by omitting ""10"" and substituting ""11"".
     
-    (6) [Section 11][517] is amended by inserting the following subsection after subsection (3B):
+    (6) [Section 11][518] is amended by inserting the following subsection after subsection (3B):
     
     > *   "(3C) One of the members must be appointed by the Governor-General as Commissioner for Financial Advisers under section 79(3) of the Financial Advisers Act 2008\."
     > 
     > 
     
-    (7) [Schedule 1][518] is amended by omitting the item ""Securities Markets Act 1988 Part 4"" and substituting the item ""Financial Advisers Act 2008"".
+    (7) [Schedule 1][519] is amended by omitting the item ""Securities Markets Act 1988 Part 4"" and substituting the item ""Financial Advisers Act 2008"".
 
 ##### 164 Securities Markets Act 1988 amended
     
-*   (1) This section amends the [Securities Markets Act 1988][519].
+*   (1) This section amends the [Securities Markets Act 1988][520].
     
     (2) [Section 2(1)][355] is amended by repealing the following definitions: **advertisement**, **advice advertisement**, **broker advertisement**, **investment advice** and **advice**, **investment adviser** and **adviser**, **investment advisers' disclosure obligations** and **investment advisers' obligations**, **investment broker** and **broker**, **investment brokers' disclosure obligations** and **investment brokers' obligations**, **investment brokers' service**, **investment money** and **money**, and **investment property** and **property**.
     
     (3) Paragraph (e) of the definition of **security** in [section 2(1)][355] is repealed.
     
-    (4) [Part 4][520] is repealed.
+    (4) [Part 4][521] is repealed.
     
-    (5) [Sections 42B(d)][521], [42D][479], [42E][480], [42G(3)(b)][482], [42N(b)][522], [42P(c)][523], [42S(f)][524], [42T(2)(b)][525], [42ZC][526], [42ZD][527], [43D][528], [43E(1)(a)][470], 43E(3)(a) and (b), and [43K to 43N][467] are repealed.
+    (5) [Sections 42B(d)][522], [42D][480], [42E][481], [42G(3)(b)][483], [42N(b)][523], [42P(c)][524], [42S(f)][525], [42T(2)(b)][526], [42ZC][527], [42ZD][528], [43D][529], [43E(1)(a)][471], 43E(3)(a) and (b), and [43K to 43N][468] are repealed.
     
     (6) \[Repealed\]
     
-    (7) [Sections 48(1)(c)][529] and [49C][530] are repealed.
+    (7) [Sections 48(1)(c)][530] and [49C][531] are repealed.
     
-    Section 164(6): repealed (without coming into force), on 28 July 2009, by [section 16][531] of the Financial Advisers Amendment Act 2009 (2009 No 24).
+    Section 164(6): repealed (without coming into force), on 28 July 2009, by [section 16][532] of the Financial Advisers Amendment Act 2009 (2009 No 24).
 
 ##### 165 Sharebrokers Act 1908 repealed
     
-*   The [Sharebrokers Act 1908][532] (1908 No 176) is repealed.
+*   The [Sharebrokers Act 1908][533] (1908 No 176) is repealed.
 
 ##### 166 Securities Markets (Investment Advisers and Brokers) Regulations 2007 revoked
     
-*   The [Securities Markets (Investment Advisers and Brokers) Regulations 2007][533] (SR 2007/374) are revoked.
+*   The [Securities Markets (Investment Advisers and Brokers) Regulations 2007][534] (SR 2007/374) are revoked.
 
 #### Transitional provisions
 
 ##### 167 Transitional provisions for existing offences and contravention under Securities Markets Act 1988
     
-*   (1) This section applies to an offence committed under, or a contravention of, the [Securities Markets Act 1988][519] before [section 164][314] comes into force.
+*   (1) This section applies to an offence committed under, or a contravention of, the [Securities Markets Act 1988][520] before [section 164][314] comes into force.
     
-    (2) The [Securities Markets Act 1988][519] continues to have effect as if it had not been amended by this Act for the purpose of---
+    (2) The [Securities Markets Act 1988][520] continues to have effect as if it had not been amended by this Act for the purpose of---
         
     *   (a) investigating an offence or contravention to which this section applies:
     
@@ -5860,7 +5862,7 @@ General provisions
     
     (4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given [section 54(b)][88], ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), [section 59(1)(a)][95] applies to that adviser as if he or she had ceased to be eligible for authorisation.
     
-    Section 168: added, on 1 July 2010, by [section 49][534] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 168: added, on 1 July 2010, by [section 49][535] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ---
 
@@ -5872,7 +5874,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Financial Advisers Amendment Act 2011][535].
+*   This Act is the [Financial Advisers Amendment Act 2011][536].
 
 ##### 2 Commencement
     
@@ -5916,33 +5918,35 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][536] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][537] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][537] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][538] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][538] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][539] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][539] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][540] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 11--61][329]
+*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][541]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][428]
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 11--61][329]
     
-    Criminal Procedure Act 2011: (2011 No 81): [section 413][441]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][429]
     
-    [Financial Advisers Amendment Act 2011][535] (2011 No 9)
+    Criminal Procedure Act 2011: (2011 No 81): [section 413][442]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][368], [84(3), (5)][366]
+    [Financial Advisers Amendment Act 2011][536] (2011 No 9)
+    
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][369], [84(3), (5)][367]
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][365]
     
-    [Financial Advisers Act Commencement Order 2010][540] (SR 2010/232)
+    [Financial Advisers Act Commencement Order 2010][542] (SR 2010/232)
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][367]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][368]
     
     [Financial Advisers Amendment Act 2010][320] (2010 No 40)
     
-    [Financial Advisers Amendment Act 2009][541] (2009 No 24)
+    [Financial Advisers Amendment Act 2009][543] (2009 No 24)
     
     [Financial Advisers Act Commencement Order 2008][321] (SR 2008/412)
     
@@ -6283,7 +6287,7 @@ Commencementsee section 2
 [330]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021602
 [331]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109434
 [332]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109587
-[333]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM199363
+[333]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3918902
 [334]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1794840
 [335]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM214131
 [336]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM367774
@@ -6316,179 +6320,181 @@ Commencementsee section 2
 [363]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM348353
 [364]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607816
 [365]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2478612
-[366]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231794
-[367]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3043113
-[368]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231793
-[369]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638247
-[370]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021703
-[371]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561200
-[372]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM226640
-[373]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27271
-[374]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28802
-[375]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM29406
-[376]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021719
-[377]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141794
-[378]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27259
-[379]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021749
-[380]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053128
-[381]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021756
-[382]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM140438
-[383]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021759
-[384]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021760
-[385]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141827
-[386]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021762
-[387]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021763
-[388]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021764
-[389]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021766
-[390]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109510
-[391]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021771
-[392]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021772
-[393]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021775
-[394]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231763
-[395]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021780
-[396]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021806
-[397]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561241
-[398]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM202025
-[399]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561250
-[400]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5155271
-[401]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331828
-[402]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331875
-[403]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331876
-[404]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561251
-[405]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561253
-[406]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561257
-[407]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM4091654
-[408]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561259
-[409]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561260
-[410]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561261
-[411]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561262
-[412]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561265
-[413]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561266
-[414]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021837
-[415]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638250
-[416]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638251
-[417]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638252
-[418]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638253
-[419]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638257
-[420]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM390885
-[421]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331148
-[422]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331147
-[423]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607856
-[424]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231154
-[425]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2997643
-[426]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998573
-[427]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607857
-[428]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998633
-[429]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231155
-[430]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607859
-[431]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231156
-[432]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638255
-[433]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328793
-[434]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328796
-[435]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344029
-[436]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344030
-[437]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344031
-[438]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344032
-[439]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3359902
-[440]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344033
-[441]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360714
-[442]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344035
-[443]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021838
-[444]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053133
-[445]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021844
-[446]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021845
-[447]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021846
-[448]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561268
-[449]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021850
-[450]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021851
-[451]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021852
-[452]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021860
-[453]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561271
-[454]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561272
-[455]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607867
-[456]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344034
-[457]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638256
-[458]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021868
-[459]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141844
-[460]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141845
-[461]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141846
-[462]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM29410
-[463]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3565221
-[464]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231753
-[465]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM327394
-[466]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM25999
-[467]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141882
-[468]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141883
-[469]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360067
-[470]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141876
-[471]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141884
-[472]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231004
-[473]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141887
-[474]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141888
-[475]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141889
-[476]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM385298
-[477]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141890
-[478]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141891
-[479]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141837
-[480]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141838
-[481]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141839
-[482]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141840
-[483]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141841
-[484]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141842
-[485]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141843
-[486]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344038
-[487]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231158
-[488]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021904
-[489]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344039
-[490]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344040
-[491]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344041
-[492]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344042
-[493]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344043
-[494]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344044
-[495]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344045
-[496]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360366
-[497]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344046
-[498]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021905
-[499]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561103
-[500]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561278
-[501]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021912
-[502]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142013
-[503]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021917
-[504]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021918
-[505]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1585437
-[506]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM296638
-[507]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM4091569
-[508]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021921
-[509]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561282
-[510]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141830
-[511]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053137
-[512]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142026
-[513]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021924
-[514]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM378371
-[515]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM379446
-[516]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27597
-[517]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27805
-[518]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM30439
-[519]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139726
-[520]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141807
-[521]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141835
-[522]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141847
-[523]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141849
-[524]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141852
-[525]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141853
-[526]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141862
-[527]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141863
-[528]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141875
-[529]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142009
-[530]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142024
-[531]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231162
-[532]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM175007
-[533]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1061313
-[534]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607870
-[535]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638238
-[536]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998516
-[537]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998515
-[538]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998532
-[539]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[540]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3148250
-[541]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231142
+[366]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3919128
+[367]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231794
+[368]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3043113
+[369]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231793
+[370]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638247
+[371]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021703
+[372]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561200
+[373]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM226640
+[374]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27271
+[375]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28802
+[376]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM29406
+[377]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021719
+[378]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141794
+[379]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27259
+[380]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021749
+[381]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053128
+[382]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021756
+[383]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM140438
+[384]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021759
+[385]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021760
+[386]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141827
+[387]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021762
+[388]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021763
+[389]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021764
+[390]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021766
+[391]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109510
+[392]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021771
+[393]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021772
+[394]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021775
+[395]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231763
+[396]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021780
+[397]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021806
+[398]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561241
+[399]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM202025
+[400]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561250
+[401]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5155271
+[402]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331828
+[403]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331875
+[404]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331876
+[405]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561251
+[406]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561253
+[407]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561257
+[408]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM4091654
+[409]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561259
+[410]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561260
+[411]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561261
+[412]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561262
+[413]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561265
+[414]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561266
+[415]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021837
+[416]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638250
+[417]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638251
+[418]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638252
+[419]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638253
+[420]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638257
+[421]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM390885
+[422]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331148
+[423]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM331147
+[424]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607856
+[425]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231154
+[426]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2997643
+[427]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998573
+[428]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607857
+[429]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998633
+[430]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231155
+[431]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607859
+[432]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231156
+[433]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638255
+[434]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328793
+[435]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328796
+[436]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344029
+[437]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344030
+[438]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344031
+[439]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344032
+[440]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3359902
+[441]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344033
+[442]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360714
+[443]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344035
+[444]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021838
+[445]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053133
+[446]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021844
+[447]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021845
+[448]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021846
+[449]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561268
+[450]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021850
+[451]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021851
+[452]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021852
+[453]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021860
+[454]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561271
+[455]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561272
+[456]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607867
+[457]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344034
+[458]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638256
+[459]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021868
+[460]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141844
+[461]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141845
+[462]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141846
+[463]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM29410
+[464]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3565221
+[465]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231753
+[466]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM327394
+[467]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM25999
+[468]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141882
+[469]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141883
+[470]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360067
+[471]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141876
+[472]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141884
+[473]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231004
+[474]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141887
+[475]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141888
+[476]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141889
+[477]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM385298
+[478]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141890
+[479]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141891
+[480]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141837
+[481]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141838
+[482]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141839
+[483]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141840
+[484]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141841
+[485]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141842
+[486]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141843
+[487]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344038
+[488]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231158
+[489]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021904
+[490]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344039
+[491]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344040
+[492]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344041
+[493]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344042
+[494]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344043
+[495]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344044
+[496]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344045
+[497]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3360366
+[498]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM344046
+[499]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021905
+[500]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561103
+[501]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561278
+[502]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021912
+[503]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142013
+[504]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021917
+[505]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021918
+[506]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1585437
+[507]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM296638
+[508]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM4091569
+[509]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021921
+[510]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561282
+[511]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141830
+[512]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3053137
+[513]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142026
+[514]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021924
+[515]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM378371
+[516]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM379446
+[517]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27597
+[518]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27805
+[519]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM30439
+[520]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139726
+[521]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141807
+[522]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141835
+[523]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141847
+[524]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141849
+[525]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141852
+[526]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141853
+[527]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141862
+[528]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141863
+[529]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141875
+[530]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142009
+[531]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM142024
+[532]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231162
+[533]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM175007
+[534]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1061313
+[535]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607870
+[536]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3638238
+[537]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998516
+[538]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998515
+[539]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998532
+[540]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[541]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5146659
+[542]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3148250
+[543]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231142
