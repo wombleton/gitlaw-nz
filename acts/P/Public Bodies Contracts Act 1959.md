@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 30 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencement23 October 1959
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -219,7 +219,7 @@ Accident Compensation Corporation [Accident Compensation Act 2001][21] (2001 No 
 
 Aotea Centre Board of Management [Auckland Aotea Centre Empowering Act 1985][22] (1985 No 9 (L))
 
-Arts Council of New Zealand Toi Aotearoa [Arts Council of New Zealand Toi Aotearoa Act 1994][23] (1994 No 19)
+Arts Council of New Zealand Toi Aotearoa [Arts Council of New Zealand Toi Aotearoa Act 2014][23] (2014 No 1)
 
 Broadcasting Commission [Broadcasting Act 1989][24] (1989 No 25)
 
@@ -296,86 +296,87 @@ Winston Churchill Memorial Trust Board [Winston Churchill Memorial Trust Act 196
 *   Schedule 1 Part 2 Accident Compensation Corporation: amended, on 3 March 2010, pursuant to [section 5(1)(b)][43] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 *   Schedule 1 Part 2 Aotea Centre Board of Management: inserted, on 17 December 1985, by [section 19(1)][44] of the Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)).
 *   Schedule 1 Part 2 Arts Council of New Zealand Toi Aotearoa: inserted, on 1 July 1994, by [section 34(2)][45] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
-*   Schedule 1 Part 2 Auckland Electric Power Board: repealed, on 1 October 1993, by [section 95(2)][46] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 2 Auckland Harbour Bridge Authority: repealed, on 1 April 1984, by [section 18(f)][47] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
+*   Schedule 1 Part 2 Arts Council of New Zealand Toi Aotearoa: amended, on 30 April 2014, by [section 27][46] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
+*   Schedule 1 Part 2 Auckland Electric Power Board: repealed, on 1 October 1993, by [section 95(2)][47] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2 Auckland Harbour Bridge Authority: repealed, on 1 April 1984, by [section 18(f)][48] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
 *   Schedule 1 Part 2 Auckland Metropolitan Drainage Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Part 2 Auckland Regional Authority: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Part 2 Auckland Transport Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Broadcasting Commission: inserted, on 1 July 1996, by [section 21][48] of the Broadcasting Amendment Act 1996 (1996 No 53).
-*   Schedule 1 Part 2 Carter Observatory Board: repealed, on 1 June 2010, by [section 12][49] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
+*   Schedule 1 Part 2 Broadcasting Commission: inserted, on 1 July 1996, by [section 21][49] of the Broadcasting Amendment Act 1996 (1996 No 53).
+*   Schedule 1 Part 2 Carter Observatory Board: repealed, on 1 June 2010, by [section 12][50] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
 *   Schedule 1 Part 2 Chatham Islands Council: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Children's Health Camps Board: repealed, on 1 April 2000, by [section 7][50] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 1 Part 2 Children's Health Camps Board: repealed, on 1 April 2000, by [section 7][51] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
 *   Schedule 1 Part 2 Christchurch Drainage Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Christchurch-Lyttelton Road Tunnel Authority: repealed, on 1 April 1984, by [section 18(f)][47] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
+*   Schedule 1 Part 2 Christchurch-Lyttelton Road Tunnel Authority: repealed, on 1 April 1984, by [section 18(f)][48] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
 *   Schedule 1 Part 2 Christchurch Town Hall Board of Management: inserted, on 31 August 1976, by section 21(1) of the Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L)).
 *   Schedule 1 Part 2 Christchurch Transport Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Consumer Council: repealed, on 1 January 1989, by [section 9][51] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
-*   Schedule 1 Part 2 Decimal Currency Board: inserted, on 3 November 1964, by [section 27(2)][52] of the Decimal Currency Act 1964 (1964 No 27).
-*   Schedule 1 Part 2 Dental Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][53] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-*   Schedule 1 Part 2 Dental Technicians Board: repealed, on 18 September 2004, by [section 175(4)][53] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-*   Schedule 1 Part 2 Development Finance Corporation of New Zealand: repealed (with effect on 1 April 1987), on 23 September 1988, by [section 12][54] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
+*   Schedule 1 Part 2 Consumer Council: repealed, on 1 January 1989, by [section 9][52] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
+*   Schedule 1 Part 2 Decimal Currency Board: inserted, on 3 November 1964, by [section 27(2)][53] of the Decimal Currency Act 1964 (1964 No 27).
+*   Schedule 1 Part 2 Dental Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][54] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 1 Part 2 Dental Technicians Board: repealed, on 18 September 2004, by [section 175(4)][54] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 1 Part 2 Development Finance Corporation of New Zealand: repealed (with effect on 1 April 1987), on 23 September 1988, by [section 12][55] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
 *   Schedule 1 Part 2 Dunedin Drainage and Sewerage Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Fishing Industry Board: repealed, on 1 October 2002, by [section 5(3)][55] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
-*   Schedule 1 Part 2 Foundation for Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][56] of the Research, Science, and Technology Act 2010 (2010 No 131).
+*   Schedule 1 Part 2 Fishing Industry Board: repealed, on 1 October 2002, by [section 5(3)][56] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+*   Schedule 1 Part 2 Foundation for Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][57] of the Research, Science, and Technology Act 2010 (2010 No 131).
 *   Schedule 1 Part 2 Government Railways Welfare Board: inserted, on 1 June 1972, by section 2(2) of the Government Railways Amendment Act 1971 (1971 No 13).
 *   Schedule 1 Part 2 Hillary Commission for Recreation and Sport: repealed, on 1 July 1992, pursuant to section 4(4) of the Sport, Fitness, and Leisure Amendment Act 1992 (1992 No 18).
-*   Schedule 1 Part 2 Hillary Commission for Sport, Fitness, and Leisure: repealed, on 1 January 2003, by [section 62][57] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
+*   Schedule 1 Part 2 Hillary Commission for Sport, Fitness, and Leisure: repealed, on 1 January 2003, by [section 62][58] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
 *   Schedule 1 Part 2 Human Rights Commission: inserted, on 1 September 1978, by section 86 of the Human Rights Commission Act 1977 (1977 No 49).
-*   Schedule 1 Part 2 Hutt Valley Drainage Board: amended, on 4 July 1967, pursuant to [section 88(1)(a)][58] of the Hutt Valley Drainage Act 1967 (1967 No 3 (L)).
+*   Schedule 1 Part 2 Hutt Valley Drainage Board: amended, on 4 July 1967, pursuant to [section 88(1)(a)][59] of the Hutt Valley Drainage Act 1967 (1967 No 3 (L)).
 *   Schedule 1 Part 2 Joint Council for Local Authorities Services: inserted, on 23 December 1977, by section 27 of the Joint Council for Local Authorities Services Act 1977 (1977 No 127).
 *   Schedule 1 Part 2 King George the Fifth Memorial Children's Health Camps Federation: repealed, on 1 August 1973, by section 13(4) of the Children's Health Camps Act 1972 (1972 No 21).
-*   Schedule 1 Part 2 Lakes District Waterways Authority: inserted, on 3 April 1985, by [section 7][59] of the Lakes District Waterways Authority (Shotover River) Empowering Act 1985 (1985 No 2 (L)).
+*   Schedule 1 Part 2 Lakes District Waterways Authority: inserted, on 3 April 1985, by [section 7][60] of the Lakes District Waterways Authority (Shotover River) Empowering Act 1985 (1985 No 2 (L)).
 *   Schedule 1 Part 2 Marlborough Forestry Corporation: repealed, on 1 July 1996, by section 11(2) of the Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)).
-*   Schedule 1 Part 2 Medical Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][53] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 1 Part 2 Medical Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][54] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 1 Part 2 National Council of Adult Education: inserted, on 1 January 1964, by section 29 of the Adult Education Act 1963 (1963 No 16).
-*   Schedule 1 Part 2 National Hydatids Council: repealed, on 1 July 1996, by [section 80][60] of the Dog Control Act 1996 (1996 No 13).
+*   Schedule 1 Part 2 National Hydatids Council: repealed, on 1 July 1996, by [section 80][61] of the Dog Control Act 1996 (1996 No 13).
 *   Schedule 1 Part 2 National Water and Soil Conservation Authority: inserted, on 1 April 1968, by section 33(2) of the Water and Soil Conservation Act 1967 (1967 No 135).
 *   Schedule 1 Part 2 Natural Gas Corporation of New Zealand: inserted, on 15 November 1967, by section 27(2) of the Natural Gas Corporation Act 1967 (1967 No 41).
-*   Schedule 1 Part 2 New Zealand Artificial Limb Board: inserted, on 1 April 1990, by [section 50][61] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
-*   Schedule 1 Part 2 New Zealand Artificial Limb Service: amended, on 5 December 2013, by [section 14][62] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
-*   Schedule 1 Part 2 New Zealand Artificial Limb Service: amended, on 5 December 2013, by [section 28][63] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Schedule 1 Part 2 New Zealand Artificial Limb Board: inserted, on 1 April 1990, by [section 50][62] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
+*   Schedule 1 Part 2 New Zealand Artificial Limb Service: amended, on 5 December 2013, by [section 14][63] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Schedule 1 Part 2 New Zealand Artificial Limb Service: amended, on 5 December 2013, by [section 28][64] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 *   Schedule 1 Part 2 New Zealand Broadcasting Authority: inserted, on 25 November 1968, by section 43(2) of the Broadcasting Authority Act 1968 (1968 No 33).
-*   Schedule 1 Part 2 New Zealand Council for Educational Research: inserted, on 1 January 1973, by [section 34(1)][64] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
-*   Schedule 1 Part 2 New Zealand Council for Postgraduate Medical Education: repealed, on 19 March 1990, by [section 4(c)][65] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
-*   Schedule 1 Part 2 New Zealand Council for Recreation and Sport: repealed, on 1 April 1987, by [section 40(1)(b)][66] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
-*   Schedule 1 Part 2 New Zealand Film Commission: inserted, on 13 November 1978, by [section 35][67] of the New Zealand Film Commission Act 1978 (1978 No 61).
-*   Schedule 1 Part 2 New Zealand Horticulture Export Authority: inserted, on 16 July 1987, by [section 64(2)][68] of the New Zealand Horticulture Export Authority Act 1987 (1987 No 93).
-*   Schedule 1 Part 2 New Zealand Industrial Design Council: repealed, on 10 December 1988, by [section 12][69] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
+*   Schedule 1 Part 2 New Zealand Council for Educational Research: inserted, on 1 January 1973, by [section 34(1)][65] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
+*   Schedule 1 Part 2 New Zealand Council for Postgraduate Medical Education: repealed, on 19 March 1990, by [section 4(c)][66] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
+*   Schedule 1 Part 2 New Zealand Council for Recreation and Sport: repealed, on 1 April 1987, by [section 40(1)(b)][67] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
+*   Schedule 1 Part 2 New Zealand Film Commission: inserted, on 13 November 1978, by [section 35][68] of the New Zealand Film Commission Act 1978 (1978 No 61).
+*   Schedule 1 Part 2 New Zealand Horticulture Export Authority: inserted, on 16 July 1987, by [section 64(2)][69] of the New Zealand Horticulture Export Authority Act 1987 (1987 No 93).
+*   Schedule 1 Part 2 New Zealand Industrial Design Council: repealed, on 10 December 1988, by [section 12][70] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
 *   Schedule 1 Part 2 New Zealand Inventions Development Authority: repealed, on 14 December 1976, by section 11(9) of the Development Finance Corporation Amendment Act 1976 (1976 No 133).
 *   Schedule 1 Part 2 New Zealand Maori Arts and Crafts Institute: inserted, on 23 November 1967, by section 2(2) of the New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104).
 *   Schedule 1 Part 2 New Zealand Milk Board: inserted, on 1 September 1968, by section 15 of the Milk Act 1967 (1967 No 53).
-*   Schedule 1 Part 2 New Zealand Planning Council: repealed, on 1 December 1991, by [section 7][70] of the New Zealand Planning Council Dissolution Act 1991 (1991 No 97).
+*   Schedule 1 Part 2 New Zealand Planning Council: repealed, on 1 December 1991, by [section 7][71] of the New Zealand Planning Council Dissolution Act 1991 (1991 No 97).
 *   Schedule 1 Part 2 New Zealand Pork Industry Board: inserted, on 1 January 1983, by section 43(3)(b) of the Pork Industry Board Act 1982 (1982 No 138).
 *   Schedule 1 Part 2 New Zealand Pork Industry Council: repealed, on 1 January 1983, by section 43(3)(a) of the Pork Industry Board Act 1982 (1982 No 138).
 *   Schedule 1 Part 2 New Zealand Potato Board: inserted, on 9 February 1978, by section 15 of the Potato Industry Act 1977 (1977 No 77).
-*   Schedule 1 Part 2 New Zealand Poultry Board: repealed, on 1 April 1989, by [section 4(2)][71] of the Poultry Board Act Repeal Act 1989 (1989 No 4).
+*   Schedule 1 Part 2 New Zealand Poultry Board: repealed, on 1 April 1989, by [section 4(2)][72] of the Poultry Board Act Repeal Act 1989 (1989 No 4).
 *   Schedule 1 Part 2 New Zealand Superannuation Board: repealed, on 6 August 1976, by section 11(3) of the Superannuation Schemes Act 1976 (1976 No 3).
 *   Schedule 1 Part 2 New Zealand Trades Certification Board: inserted, on 2 September 1966, by section 12(1) of the Trades Certification Act 1966 (1966 No 6).
-*   Schedule 1 Part 2 New Zealand Wheat Board: repealed, on 1 May 1987, by [section 14(3)][72] of the Wheat Board Amendment Act 1986 (1986 No 25).
+*   Schedule 1 Part 2 New Zealand Wheat Board: repealed, on 1 May 1987, by [section 14(3)][73] of the Wheat Board Amendment Act 1986 (1986 No 25).
 *   Schedule 1 Part 2 New Zealand Wool Testing Authority: repealed, on 1 January 1989, by section 20 of the Wool Testing Authority Dissolution Act 1988 (1988 No 166).
 *   Schedule 1 Part 2 North Shore Drainage Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Nursing Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][53] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-*   Schedule 1 Part 2 Plumbers, Gasfitters, and Drainlayers Board: inserted, on 1 April 1977, by [section 19(1)][73] of the Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69).
-*   Schedule 1 Part 2 Plumbers, Gasfitters, and Drainlayers Board: amended, on 1 April 2010, by [section 185][74] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+*   Schedule 1 Part 2 Nursing Council of New Zealand: repealed, on 18 September 2004, by [section 175(4)][54] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 1 Part 2 Plumbers, Gasfitters, and Drainlayers Board: inserted, on 1 April 1977, by [section 19(1)][74] of the Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69).
+*   Schedule 1 Part 2 Plumbers, Gasfitters, and Drainlayers Board: amended, on 1 April 2010, by [section 185][75] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
 *   Schedule 1 Part 2 Pollution Advisory Council: repealed, on 27 November 1970, by section 3(3) of the Water Pollution Amendment Act 1970 (1970 No 111).
 *   Schedule 1 Part 2 Pork Industry Council: repealed, on 1 January 1983, by section 43(3)(a) of the Pork Industry Board Act 1982 (1982 No 138).
 *   Schedule 1 Part 2 Queen Elizabeth the Second Arts Council of New Zealand: repealed, on 1 July 1994, by [section 34(2)][45] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
-*   Schedule 1 Part 2 Queen Elizabeth the Second National Trust: inserted, on 21 December 1977, by [section 15(2)][75] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
-*   Schedule 1 Part 2 Rotorua Maori Arts and Crafts Institute: repealed, on 23 November 1967, by [section 2(2)][76] of the New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104).
+*   Schedule 1 Part 2 Queen Elizabeth the Second National Trust: inserted, on 21 December 1977, by [section 15(2)][76] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
+*   Schedule 1 Part 2 Rotorua Maori Arts and Crafts Institute: repealed, on 23 November 1967, by [section 2(2)][77] of the New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104).
 *   Schedule 1 Part 2 Rural Electrical Reticulation Council: inserted, on 17 December 1968, by section 48(2) of the Electricity Act 1968 (1968 No 125).
-*   Schedule 1 Part 2 Rural Electrical Reticulation Council: amended, on 1 April 1993, by [section 173(2)][77] of the Electricity Act 1992 (1992 No 122).
+*   Schedule 1 Part 2 Rural Electrical Reticulation Council: amended, on 1 April 1993, by [section 173(2)][78] of the Electricity Act 1992 (1992 No 122).
 *   Schedule 1 Part 2 South Canterbury Wallaby Board: inserted, on 1 April 1972, by section 5(1) of the Agricultural Pests Destruction Amendment Act 1971 (1971 No 74).
-*   Schedule 1 Part 2 Sport and Recreation New Zealand: inserted, on 1 January 2003, by [section 62][57] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
-*   Schedule 1 Part 2 Standards Council: replaced, on 1 July 1988, by [section 30][78] of the Standards Act 1988 (1988 No 5).
-*   Schedule 1 Part 2 Testing Laboratory Registration Council: inserted, on 1 January 1973, by [section 28(1)][79] of the Testing Laboratory Registration Act 1972 (1972 No 36).
-*   Schedule 1 Part 2 Trade Union Education Authority: repealed, on 4 December 1992, by [section 10][80] of the Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102).
-*   Schedule 1 Part 2 Trustees of the National Library: repealed, on 6 May 2003, by [section 47][81] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+*   Schedule 1 Part 2 Sport and Recreation New Zealand: inserted, on 1 January 2003, by [section 62][58] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
+*   Schedule 1 Part 2 Standards Council: replaced, on 1 July 1988, by [section 30][79] of the Standards Act 1988 (1988 No 5).
+*   Schedule 1 Part 2 Testing Laboratory Registration Council: inserted, on 1 January 1973, by [section 28(1)][80] of the Testing Laboratory Registration Act 1972 (1972 No 36).
+*   Schedule 1 Part 2 Trade Union Education Authority: repealed, on 4 December 1992, by [section 10][81] of the Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102).
+*   Schedule 1 Part 2 Trustees of the National Library: repealed, on 6 May 2003, by [section 47][82] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
 *   Schedule 1 Part 2 University Grants Committee: replaced, on 1 January 1962, by section 14(1) of the Universities Act 1961 (1961 No 54).
-*   Schedule 1 Part 2 University of Hawke's Bay Trust Board: repealed, on 25 August 1998, by [section 6(1)(b)][82] of the University of Hawke's Bay Trust Board Dissolution and Vesting Act 1998 (1998 No 2 (P)).
+*   Schedule 1 Part 2 University of Hawke's Bay Trust Board: repealed, on 25 August 1998, by [section 6(1)(b)][83] of the University of Hawke's Bay Trust Board Dissolution and Vesting Act 1998 (1998 No 2 (P)).
 *   Schedule 1 Part 2 Veterinary Council of New Zealand: inserted, on 1 January 1995, by section 75(4) of the Veterinarians Act 1994 (1994 No 107).
-*   Schedule 1 Part 2 Veterinary Council of New Zealand: amended, on 22 December 2005, by [section 105][83] of the Veterinarians Act 2005 (2005 No 126).
-*   Schedule 1 Part 2 Waikato Electricity Authority: repealed, on 26 October 1993, by [section 79(2)][84] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 2 Waikato Valley Authority: repealed, on 1 April 1988, by [section 42(2)(a)][85] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+*   Schedule 1 Part 2 Veterinary Council of New Zealand: amended, on 22 December 2005, by [section 105][84] of the Veterinarians Act 2005 (2005 No 126).
+*   Schedule 1 Part 2 Waikato Electricity Authority: repealed, on 26 October 1993, by [section 79(2)][85] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2 Waikato Valley Authority: repealed, on 1 April 1988, by [section 42(2)(a)][86] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 *   Schedule 1 Part 2 Wairarapa Cadet Training Farm Trust Board: inserted, on 1 January 1970, by section 12(2) of the Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138).
 *   Schedule 1 Part 2 Wairarapa Cadet Training Farm Trust Board: amended, on 22 October 1981, pursuant to section 2(3) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
 *   Schedule 1 Part 2 War Pensions Advisory Board: inserted, on 1 April 1989, by section 10(3) of the War Pensions Amendment Act 1988 (1988 No 148).
@@ -383,9 +384,9 @@ Winston Churchill Memorial Trust Board [Winston Churchill Memorial Trust Act 196
 *   Schedule 1 Part 2 Water Allocation Council: repealed, on 1 April 1972, by section 22 of the Water and Soil Conservation Amendment Act (No 2) 1971 (1971 No 154).
 *   Schedule 1 Part 2 Water Pollution Control Council: repealed, on 1 April 1972, by section 22 of the Water and Soil Conservation Amendment Act (No 2) 1971 (1971 No 154).
 *   Schedule 1 Part 2 Water Resources Council: repealed, on 1 April 1984, by section 2(3) of the Water and Soil Conservation Amendment Act 1983 (1983 No 151).
-*   Schedule 1 Part 2 Wellington City and Suburban Water Supply Board: repealed, on 1 March 1973, by [section 120(1)][86] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
+*   Schedule 1 Part 2 Wellington City and Suburban Water Supply Board: repealed, on 1 March 1973, by [section 120(1)][87] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
 *   Schedule 1 Part 2 Wellington Regional Water Board: repealed, on 1 July 2003, by [section 262][12] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 2 Winston Churchill Memorial Trust Board: inserted, on 6 October 1965, by [section 29(1)][87] of the Winston Churchill Memorial Trust Act 1965 (1965 No 39).
+*   Schedule 1 Part 2 Winston Churchill Memorial Trust Board: inserted, on 6 October 1965, by [section 29(1)][88] of the Winston Churchill Memorial Trust Act 1965 (1965 No 39).
 
 ---
 
@@ -475,7 +476,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Christchurch District Drainage Act 1951 (1951 No 21 (L))
 
-_Amendment(s) incorporated in the [Act(s)][88]_.
+_Amendment(s) incorporated in the [Act(s)][89]_.
 
 ##### Christchurch-Lyttelton Road Tunnel Act 1956 (1956 No 16)
 
@@ -543,11 +544,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### River Boards Act 1908 (1908 No 165) (1931 Reprint, Vol IV, p 530)
 
-_Amendment(s) incorporated in the [Act(s)][89]_.
+_Amendment(s) incorporated in the [Act(s)][90]_.
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][90]_.
+_Amendment(s) incorporated in the [Act(s)][91]_.
 
 #### 
 
@@ -561,47 +562,49 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][91] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][92] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][92] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][93] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][93] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][94] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][94] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][95] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [sections 14][62], [28][63]
+*   Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][46]
     
-    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][56]
+    Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [sections 14][63], [28][64]
     
-    Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][49]
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][57]
+    
+    Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][50]
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][43]
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][74]
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][75]
     
-    Veterinarians Act 2005 (2005 No 126): [section 105][83]
+    Veterinarians Act 2005 (2005 No 126): [section 105][84]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][53]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][54]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][81]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][82]
     
     Local Government Act 2002 (2002 No 84): [section 262][12]
     
-    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][57]
+    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][58]
     
     Accident Compensation Act 2001 (2001 No 49): [section 337(1)][42]
     
-    Fishing Industry Board Repeal Act 2001 (2001 No 34):[section 5(3)][55]
+    Fishing Industry Board Repeal Act 2001 (2001 No 34):[section 5(3)][56]
     
-    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][50]
+    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][51]
     
-    University of Hawke's Bay Trust Board Dissolution and Vesting Act 1998 (1998 No 2 (P)): [section 6(1)(b)][82]
+    University of Hawke's Bay Trust Board Dissolution and Vesting Act 1998 (1998 No 2 (P)): [section 6(1)(b)][83]
     
-    Broadcasting Amendment Act 1996 (1996 No 53): [section 21][48]
+    Broadcasting Amendment Act 1996 (1996 No 53): [section 21][49]
     
     Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)): section 11(2)
     
-    Dog Control Act 1996 (1996 No 13): [section 80][60]
+    Dog Control Act 1996 (1996 No 13): [section 80][61]
     
     Veterinarians Act 1994 (1994 No 107): section 75(4)
     
@@ -611,49 +614,49 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][16]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][77]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][78]
     
-    Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102): [section 10][80]
+    Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102): [section 10][81]
     
-    Energy Companies Act 1992 (1992 No 56): sections [79(2)][84], [95(2)][46], [96(1)][17]
+    Energy Companies Act 1992 (1992 No 56): sections [79(2)][85], [95(2)][47], [96(1)][17]
     
     Sport, Fitness, and Leisure Amendment Act 1992 (1992 No 18): section 4(4)
     
-    New Zealand Planning Council Dissolution Act 1991 (1991 No 97): [section 7][70]
+    New Zealand Planning Council Dissolution Act 1991 (1991 No 97): [section 7][71]
     
     Education Amendment Act 1990 (1990 No 60): [section 50(4)][19]
     
-    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 50][61]
+    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 50][62]
     
-    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(c)][65]
+    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(c)][66]
     
-    Poultry Board Act Repeal Act 1989 (1989 No 4): [section 4(2)][71]
+    Poultry Board Act Repeal Act 1989 (1989 No 4): [section 4(2)][72]
     
-    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 12][69]
+    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 12][70]
     
     Wool Testing Authority Dissolution Act 1988 (1988 No 166): section 20
     
     War Pensions Amendment Act 1988 (1988 No 148): section 10(3)
     
-    Consumer Council Act Repeal Act 1988 (1988 No 144):[section 9][51]
+    Consumer Council Act Repeal Act 1988 (1988 No 144):[section 9][52]
     
-    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 12][54]
+    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 12][55]
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 42(2)(a)][85]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 42(2)(a)][86]
     
-    Standards Act 1988 (1988 No 5): [section 30][78]
+    Standards Act 1988 (1988 No 5): [section 30][79]
     
-    New Zealand Horticulture Export Authority Act 1987 (1987 No 93): [section 64(2)][68]
+    New Zealand Horticulture Export Authority Act 1987 (1987 No 93): [section 64(2)][69]
     
-    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(b)][66]
+    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(b)][67]
     
-    Wheat Board Amendment Act 1986 (1986 No 25): [section 14(3)][72]
+    Wheat Board Amendment Act 1986 (1986 No 25): [section 14(3)][73]
     
     Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)): [section 19(1)][44]
     
-    Lakes District Waterways Authority (Shotover River) Empowering Act 1985 (1985 No 2 (L)): [section 7][59]
+    Lakes District Waterways Authority (Shotover River) Empowering Act 1985 (1985 No 2 (L)): [section 7][60]
     
-    Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153): [section 18(f)][47]
+    Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153): [section 18(f)][48]
     
     Water and Soil Conservation Amendment Act 1983 (1983 No 151): section 2(3)
     
@@ -663,13 +666,13 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97): section 2(3)
     
-    New Zealand Film Commission Act 1978 (1978 No 61):[section 35][67]
+    New Zealand Film Commission Act 1978 (1978 No 61):[section 35][68]
     
     Noxious Plants Act 1978 (1978 No 15): section 120(2)
     
     Joint Council for Local Authorities Services Act 1977 (1977 No 127): section 27
     
-    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 15(2)][75]
+    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 15(2)][76]
     
     Potato Industry Act 1977 (1977 No 77): section 15
     
@@ -677,7 +680,7 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Development Finance Corporation Amendment Act 1976 (1976 No 133): section 11(9)
     
-    Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69): [section 19(1)][73]
+    Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69): [section 19(1)][74]
     
     Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L)): section 21(1)
     
@@ -693,13 +696,13 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Water and Soil Conservation Amendment Act 1973 (1973 No 24): section 15(1)
     
-    Testing Laboratory Registration Act 1972 (1972 No 36): [section 28(1)][79]
+    Testing Laboratory Registration Act 1972 (1972 No 36): [section 28(1)][80]
     
-    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(1)][64]
+    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(1)][65]
     
     Children's Health Camps Act 1972 (1972 No 21): section 13(4)
     
-    Wellington Regional Water Board Act 1972 (1972 No 3 (L)): [section 120(1)][86]
+    Wellington Regional Water Board Act 1972 (1972 No 3 (L)): [section 120(1)][87]
     
     Water and Soil Conservation Amendment Act (No 2) 1971 (1971 No 154): section 22
     
@@ -707,13 +710,13 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Government Railways Amendment Act 1971 (1971 No 13): section 2(2)
     
-    [Public Bodies Contracts Order 1971][95] (SR 1971/112)
+    [Public Bodies Contracts Order 1971][96] (SR 1971/112)
     
     Water Pollution Amendment Act 1970 (1970 No 111): section 3(3)
     
     Hospitals Amendment Act 1970 (1970 No 12): section 14(3)
     
-    Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138): [section 12(2)][96]
+    Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138): [section 12(2)][97]
     
     Electricity Act 1968 (1968 No 125): section 48(2)
     
@@ -723,19 +726,19 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
     
     Water and Soil Conservation Act 1967 (1967 No 135): section 33
     
-    New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104): [section 2(2)][76]
+    New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104): [section 2(2)][77]
     
     Milk Act 1967 (1967 No 53): sections 15, 71(1)
     
     Natural Gas Corporation Act 1967 (1967 No 41): section 27(2)
     
-    Hutt Valley Drainage Act 1967 (1967 No 3 (L)): [section 88(1)(a)][58]
+    Hutt Valley Drainage Act 1967 (1967 No 3 (L)): [section 88(1)(a)][59]
     
     Trades Certification Act 1966 (1966 No 6): section 12(1)
     
-    Winston Churchill Memorial Trust Act 1965 (1965 No 39): [section 29(1)][87]
+    Winston Churchill Memorial Trust Act 1965 (1965 No 39): [section 29(1)][88]
     
-    Decimal Currency Act 1964 (1964 No 27): [section 27(2)][52]
+    Decimal Currency Act 1964 (1964 No 27): [section 27(2)][53]
     
     Hydatids Amendment Act 1963 (1963 No 32): section 5(3)
     
@@ -768,7 +771,7 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
 [20]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM425411
 [21]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM99493
 [22]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM76787
-[23]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM330161
+[23]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM3007300
 [24]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM155364
 [25]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM351232
 [26]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM64669
@@ -791,54 +794,55 @@ _Amendment(s) incorporated in the [Act(s)][90]_.
 [43]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2773701
 [44]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM77330
 [45]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM330648
-[46]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM268394
-[47]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM75143
-[48]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM392928
-[49]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2272429
-[50]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM49649
-[51]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM136750
-[52]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM351618
-[53]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM205009
-[54]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM136724
-[55]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM92784
-[56]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM3431046
-[57]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM157684
-[58]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM65283
-[59]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM76720
-[60]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM375485
-[61]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM204569
-[62]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM5627425
-[63]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM5627446
-[64]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM407085
-[65]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM203557
-[66]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM102238
-[67]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM23061
-[68]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM118177
-[69]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM138779
-[70]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM248773
-[71]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM143214
-[72]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM92896
-[73]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM439414
-[74]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM397798
-[75]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM8886
-[76]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM384141
-[77]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM284137
-[78]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM128756
-[79]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM407719
-[80]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM280652
-[81]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM192277
-[82]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM118912
-[83]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM364675
-[84]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM268363
-[85]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM131666
-[86]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM70937
-[87]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM373413
-[88]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM55246
-[89]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM173582
-[90]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM232407
-[91]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998516
-[92]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998515
-[93]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998532
-[94]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[95]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM34492
-[96]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM394314
+[46]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM3007375
+[47]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM268394
+[48]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM75143
+[49]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM392928
+[50]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2272429
+[51]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM49649
+[52]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM136750
+[53]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM351618
+[54]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM205009
+[55]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM136724
+[56]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM92784
+[57]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM3431046
+[58]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM157684
+[59]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM65283
+[60]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM76720
+[61]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM375485
+[62]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM204569
+[63]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM5627425
+[64]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM5627446
+[65]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM407085
+[66]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM203557
+[67]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM102238
+[68]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM23061
+[69]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM118177
+[70]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM138779
+[71]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM248773
+[72]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM143214
+[73]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM92896
+[74]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM439414
+[75]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM397798
+[76]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM8886
+[77]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM384141
+[78]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM284137
+[79]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM128756
+[80]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM407719
+[81]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM280652
+[82]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM192277
+[83]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM118912
+[84]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM364675
+[85]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM268363
+[86]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM131666
+[87]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM70937
+[88]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM373413
+[89]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM55246
+[90]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM173582
+[91]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM232407
+[92]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998516
+[93]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998515
+[94]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM2998532
+[95]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[96]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM34492
+[97]: http://www.legislation.govt.nz/act/public/1959/0098/latest/link.aspx?id=DLM394314
