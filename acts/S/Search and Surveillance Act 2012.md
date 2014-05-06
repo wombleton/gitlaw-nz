@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -8022,9 +8022,9 @@ Amendments, repeals, and miscellaneous provisions
         
     *   (a) where an application has been made under that Part before 18 April 2012, and the application is not finally determined before that date, that Part continues to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) that Part (except for [section 312F][1040]) continues to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
+    *   (b) that Part (except for section 312F) continues to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) [section 312M][1041] of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
+    *   (c) section 312M of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
     
     (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [Part 11A][1008] of the Crimes Act 1961---
         
@@ -8040,9 +8040,9 @@ Amendments, repeals, and miscellaneous provisions
         
     *   (a) where an application has been made under any of those sections before 18 April 2012 and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) those sections (except for [section 18][1042]) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
+    *   (b) those sections (except for [section 18][1040]) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) [section 25][1043] of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
+    *   (c) [section 25][1041] of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
     
     (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [sections 14 to 29][1021] of the Misuse of Drugs Amendment Act 1978---
         
@@ -8056,7 +8056,7 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) Despite their repeal by [section 337][519], [sections 198 to 200][1031] of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
     
-    (2) Subsection (1) does not limit the application of the [Interpretation Act 1999][1044].
+    (2) Subsection (1) does not limit the application of the [Interpretation Act 1999][1042].
     
     (3) This section expires on the close of 30 June 2014\.
 
@@ -8066,9 +8066,9 @@ Amendments, repeals, and miscellaneous provisions
         
     *   (a) where an application has been made under any of those sections before 18 April 2012, and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) those sections (except for [section 200F][1045]) continue to apply to a continuing warrant and to any matter relating to the continuing warrant in all respects as if this Act (other than this section) had not been enacted; and
+    *   (b) those sections (except for [section 200F][1043]) continue to apply to a continuing warrant and to any matter relating to the continuing warrant in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) those sections continue to apply to anything done, before 18 April 2012, under [section 200G][1046] of that Act.
+    *   (c) those sections continue to apply to anything done, before 18 April 2012, under [section 200G][1044] of that Act.
     
     (2) In this section, _continuing warrant_ means a tracking device warrant or a warrant for removal of a tracking device issued under [sections 200A to 200P][1032] of the Summary Proceedings Act 1957---
         
@@ -8080,13 +8080,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 350 Transitional provision relating to covert video surveillance
     
-*   (1) For the purposes of assessing the lawfulness of a search (within the meaning of [section 4][1047] of the Temporary Act) under a continuing warrant, the search must be treated as if---
+*   (1) For the purposes of assessing the lawfulness of a search (within the meaning of [section 4][1045] of the Temporary Act) under a continuing warrant, the search must be treated as if---
         
     *   (a) this Act (other than this section) had not been enacted; and 
     
-    *   (b) [sections 5 to 7][1048] of the Temporary Act continued to apply; and
+    *   (b) [sections 5 to 7][1046] of the Temporary Act continued to apply; and
     
-    *   (c) for the words ""before the close of the day that is 6 months after the date on which this Act comes into force"" in [section 5(1)][1048] of that Act there were substituted the words ""while the continuing warrant is in force"".
+    *   (c) for the words ""before the close of the day that is 6 months after the date on which this Act comes into force"" in [section 5(1)][1046] of that Act there were substituted the words ""while the continuing warrant is in force"".
     
     (2) In this section,---
     
@@ -8096,7 +8096,7 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (b) on or after that date on an application made before that date
     
-    _Temporary Act_ means the [Video Camera Surveillance (Temporary Measures) Act 2011][1049].
+    _Temporary Act_ means the [Video Camera Surveillance (Temporary Measures) Act 2011][1047].
 
 ##### 351 Transitional provision relating to provisions brought into force under section 2
     
@@ -8108,7 +8108,7 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
     
-    (2) Subsection (1)(c) does not limit the provisions of the [Interpretation Act 1999][1044].
+    (2) Subsection (1)(c) does not limit the provisions of the [Interpretation Act 1999][1042].
     
     (3) In this section,---
     
@@ -8140,9 +8140,9 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 354 Transitional provision relating to Criminal Procedure Act 2011
     
-*   Until the commencement date (within the meaning of [section 394][1050] of the Criminal Procedure Act 2011),---
+*   Until the commencement date (within the meaning of [section 394][1048] of the Criminal Procedure Act 2011),---
         
-    *   (a) [section 13(3)(b)][19] must be read as if the reference to [section 377][578] of the Criminal Procedure Act 2011 were a reference to [section 404][1051] of the Crimes Act 1961; and
+    *   (a) [section 13(3)(b)][19] must be read as if the reference to [section 377][578] of the Criminal Procedure Act 2011 were a reference to [section 404][1049] of the Crimes Act 1961; and
     
     *   (b) [section 18(3)(a)][27] must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
     
@@ -8164,7 +8164,7 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) If the New Zealand Customs Service is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 220 to 229][313] are in force, taken to include a Customs officer. 
     
-    (2) If the Department of Internal Affairs is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 241 to 244][342] are in force, taken to include an inspector within the meaning of [section 2][1052] of the Films, Videos, and Publications Classification Act 1993\. 
+    (2) If the Department of Internal Affairs is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 241 to 244][342] are in force, taken to include an inspector within the meaning of [section 2][1050] of the Films, Videos, and Publications Classification Act 1993\. 
 
 ##### 356 Regulations providing for transitional matters
     
@@ -8295,13 +8295,13 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [114][706] Application and issue of search warrants All (except [subpart 6][213])
 
-[127][708] Applications for warrants under [sections 124 to 126][1053] All (except [subpart 6][213])
+[127][708] Applications for warrants under [sections 124 to 126][1051] All (except [subpart 6][213])
 
 [146][709] High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order All (except [subpart 6][213])
 
-[Crown Minerals Amendment Act 2013][1054] [99B][1055] Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, [Crown Minerals Act 1991][1056], or regulations made under that Act being complied with. All (except [sections 118][1057] and [119][1058])
+[Crown Minerals Amendment Act 2013][1052] [99B][1053] Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, [Crown Minerals Act 1991][1054], or regulations made under that Act being complied with. All (except [sections 118][166] and [119][168])
 
-[99C][1059] Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against [Crown Minerals Act 1991][1056] or regulations made under that Act. All (except [sections 118][1057] and [119][1058] in the case of an enforcement officer)
+[99C][1055] Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against [Crown Minerals Act 1991][1054] or regulations made under that Act. All (except [sections 118][166] and [119][168] in the case of an enforcement officer)
 
 [Customs and Excise Act 1996][710] [139(1)(d)][711] Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][710] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
@@ -8321,9 +8321,9 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [175C][727] Customs officer may seize or detain goods suspected to be certain risk goods or evidence of commission of certain offences, if those goods are discovered in the course of exercising powers of inspection, search, or examination under [Customs and Excise Act 1996][710] All (except [subparts 2][131] and [3][138])
 
-175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][710]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][582] or [Films, Videos, and Publications Classification Act 1993][1060] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
+175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][710]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][582] or [Films, Videos, and Publications Classification Act 1993][1056] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
 
-[Dairy Industry Restructuring Act 2001][730] [29I(1)][732] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1061] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
+[Dairy Industry Restructuring Act 2001][730] [29I(1)][732] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1057] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Dog Control Act 1996][738] [14(1) to (3)][739] Dog control officer who has good cause to suspect that offence against [Dog Control Act 1996][738] or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) [Subparts 1][127], [2][131], [4][154], and [7 to 10][230] (except that [sections 118][166] and [119][168] apply to constables only)
 
@@ -8339,15 +8339,15 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Electricity Industry Act 2010][749] [47(1)][750] Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code All (except [sections 118][166] and [119][168])
 
-[Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1062] [141(1) and (2)][1063] Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with All (except [subparts 2][131] and [8][236] and [sections 118][166] and [119][168])
+[Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1058] [141(1) and (2)][1059] Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with All (except [subparts 2][131] and [8][236] and [sections 118][166] and [119][168])
 
 [Extradition Act 1999][754] [83(2)][756] Issuing officer may issue search warrant to constable to search for evidence of extradition offence All (except [subpart 6][213])
 
 [Fair Trading Act 1986][980] [47(2)][981] Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of [Fair Trading Act 1986][980] All (except [sections 118][166] and [119][168])
 
-[Films, Videos, and Publications Classification Act 1993][1060] [109][759] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1060] (other than against [sections 126][1064] and [131A][1065]) All (except [sections 118][166] and [119][168])
+[Films, Videos, and Publications Classification Act 1993][1056] [109][759] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1056] (other than against [sections 126][1060] and [131A][1061]) All (except [sections 118][166] and [119][168])
 
-[109A(1)][760] and [109B][761] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1064] or [131A][1065] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
+[109A(1)][760] and [109B][761] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1060] or [131A][1061] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
 
 [Financial Markets Authority Act 2011][764] [29(1) and (3)][766] Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation All (except [sections 118][166] and [119][168])
 
@@ -8373,11 +8373,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [71B(1)][987] Various powers of entry conferred by Forests Act 1949 are subject to specified statutory restrictions (including all of [Part 4][126] of Search and Surveillance Act 2012) All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Gambling Act 2003][1066] [335(1)][787] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1066] of Gambling Act 2003 All (except [subpart 3][138])
+[Gambling Act 2003][1062] [335(1)][787] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1062] of Gambling Act 2003 All (except [subpart 3][138])
 
-[336(1)][788] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1066] or related offence involving gambling All (except [subpart 3][138])
+[336(1)][788] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1062] or related offence involving gambling All (except [subpart 3][138])
 
-[340(3)][790] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1066] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
+[340(3)][790] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1062] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Gas Act 1992][988] [43W(6) and (7)][989] Authorised person may enter home of industry participant under authority of warrant (which may be issued if there are reasonable grounds to believe it is necessary to issue warrant to ascertain whether industry participant has breached, or may breach, gas governance regulations or rules) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
@@ -8385,7 +8385,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Hazardous Substances and New Organisms Act 1996][794] [119(1)][795] Enforcement officer may obtain and execute search warrant to search for evidence of any substance or organism or related thing involved in offence against [Hazardous Substances and New Organisms Act 1996][794] All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Health Practitioners Competence Assurance Act 2003][797] [10(1)][798] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1067] or [9][1068] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
+[Health Practitioners Competence Assurance Act 2003][797] [10(1)][798] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1063] or [9][1064] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
 
 [Human Assisted Reproductive Technology Act 2004][799] [68(1)][800] Authorised person may enter place if he or she has reasonable grounds to believe that gamete, embryo, or foetus formed by prohibited action is located there or any assisted reproductive procedure or human reproductive research is conducted there, and inspect equipment at place and exercise other powers (such as powers of inspection and search and seizures at various times) All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
@@ -8407,7 +8407,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Insurance (Prudential Supervision) Act 2010][824] [132(1)][825] Investigator may enter and search any place by consent or with warrant for purposes of investigating affairs of licensed insurer or associated person All (except [sections 118][166] and [119][168]) 
 
-[230][826], [231][1069] Protection from liability for acts done in good faith [Subpart 7][230]
+[230][826], [231][1065] Protection from liability for acts done in good faith [Subpart 7][230]
 
 [International Crimes and International Criminal Court Act 2000][828] [102(1) and (2)][830] Constable may obtain and execute search warrant to search for evidence of international crime or anything related to such crime [Subparts 1 to 5][127], [7][230], [9][241], and [10][249] and also sections 161 and 162 
 
@@ -8419,7 +8419,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [International Energy Agreement Act 1976][991] [11][993] Regulations may be made allowing powers of entry conferred by [section 9][992] of International Energy Agreement Act 1976 to be exercised to ensure compliance with those regulations (note: regulations must not limit [section 6][9] of Search and Surveillance Act 2012 or [subpart 6][213] of Part 4 of that Act) [Section 6][9] and [subparts 1][127], [3][138], [6][213], [7][230], [9][241], and [10][249] 
 
-[International War Crimes Tribunals Act 1995][834] [48(1)][837] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1070] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
+[International War Crimes Tribunals Act 1995][834] [48(1)][837] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1066] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
 [48(2)][837] Constable, authorised by Attorney-General, may obtain and execute warrant to search for evidence of suspected offence that war crimes tribunal has jurisdiction to try, and for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
@@ -8461,7 +8461,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [62(1)][875] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that a person has taken or is intending to take certain proscribed actions and that meat products or related documents are or are likely to be at the place All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[62(2)][875] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1071] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
+[62(2)][875] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1067] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Motor Vehicle Sales Act 2003][879] [130(1)][880] Constable or Registrar of Motor Vehicles or person authorised by Registrar may obtain and execute search warrant to search for evidence of offence against [Motor Vehicle Sales Act 2003][879] that has been, or is being, committed or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
 
@@ -8481,29 +8481,29 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [25][891] If any constable or officer seizes any substance or goods under [Ozone Layer Protection Act 1996][889], [subparts 1][127], [6][213], [7][230], [9][241], and [10][249] of Part 4 of Search and Surveillance Act 2012 apply [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
 
-[Pork Industry Board Act 1997][895] [44(2)][896] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1072] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
+[Pork Industry Board Act 1997][895] [44(2)][896] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1068] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
 
-[45(1)][897] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1073] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
+[45(1)][897] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1069] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
 
 [45(2)][897] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that, as consequence of inspection of place of business under [section 44][896] of Pork Industry Board Act 1997, there are reasonable grounds to believe that there are certain documents relating to levy money or slaughter of pigs, or pork products from pigs subject to that levy, at that place All (except [sections 118][166] and [119][168])
 
-[Prostitution Reform Act 2003][901] [30(1)][902] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1074] or [34][1075] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
+[Prostitution Reform Act 2003][901] [30(1)][902] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1070] or [34][1071] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
 
-[Psychoactive Substances Act 2013][1076] [77][1077] Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1076] All (except [subpart 3][138])
+[Psychoactive Substances Act 2013][1072] [77][1073] Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1072] All (except [subpart 3][138])
 
-[79][1078] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1076] All (except [sections 118][166] and [119][168] apply to constables only)
+[79][1074] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1072] All (except [sections 118][166] and [119][168] apply to constables only)
 
 [Radiation Protection Act 1965][904] [24(2)][905] Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against [Radiation Protection Act 1965][904] may obtain and execute search warrant All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Radiocommunications Act 1989][906] [120][907] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][906] or any regulations made under [section 134(1)(g)][1079] of that Act All (except [sections 118][166] and [119][168])
+[Radiocommunications Act 1989][906] [120][907] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][906] or any regulations made under [section 134(1)(g)][1075] of that Act All (except [sections 118][166] and [119][168])
 
 [Reserve Bank of New Zealand Act 1989][909] [66I][910] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under [Reserve Bank of New Zealand Act 1989][909] All (except [sections 118][166] and [119][168])
 
-[106(1)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1080] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(1)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1076] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[106(2)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1081] or [117][1082] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(2)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1077] or [117][1078] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[157ZM(1)][913] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds to believe that deposit taker has committed offence against [Part 5D][1083] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[157ZM(1)][913] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds to believe that deposit taker has committed offence against [Part 5D][1079] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
 [Reserves Act 1977][916] [95(1)][918] Certain wildlife and related things found in possession of person in reserve may be seized by constable, ranger, or employee of administering body, if he or she has good cause to suspect that the person, in obtaining possession of the thing, has committed offence against [Reserves Act 1977][916] All (except [subpart 3][138])
 
@@ -8513,11 +8513,13 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Resource Management Act 1991][920] [334(1)][921] Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under [Resource Management Act 1991][920] or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Sale and Supply of Alcohol Act 2012][1084] [270][1085] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale and Supply of Alcohol Act 2012][1084] are occurring All
+[Road User Charges Act 2012][1080] [79][1081] Constable may obtain and execute a search warrant for evidence of offences against [Road User Charges Act 2012][1080] All (except [sections 118][166] and [119][168] apply to constables only)
 
-[Tax Administration Act 1994][927] [16][929] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][929] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1086], [103(3)(b)(ii)][1087], [103(4)(g)][1087], [103(7)][1087], [115(1)(b)][1088], [118][1089], [119][168], and [130(4)][187])
+[Sale and Supply of Alcohol Act 2012][1082] [270][1083] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale and Supply of Alcohol Act 2012][1082] are occurring All
 
-[16C(2)][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][929] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1086], [103(3)(b)(ii)][1087], [103(4)(g)][1087], [103(7)][1087], [115(1)(b)][1088], [118][1089], [119][168], and [130(4)][187])
+[Tax Administration Act 1994][927] [16][929] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][929] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1084], [103(3)(b)(ii)][1085], [103(4)(g)][1085], [103(7)][1085], [115(1)(b)][1086], [118][1087], [119][168], and [130(4)][187])
+
+[16C(2)][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][929] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1084], [103(3)(b)(ii)][1085], [103(4)(g)][1085], [103(7)][1085], [115(1)(b)][1086], [118][1087], [119][168], and [130(4)][187])
 
 [Trade in Endangered Species Act 1989][933] [37(1)][934] Officer who has reasonable grounds to believe that breach of [Trade in Endangered Species Act 1989][933] or of any regulations made under that Act has occurred may exercise certain entry, inspection, and related powers All (except [subpart 3][138])
 
@@ -8553,11 +8555,12 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [68][964] Property seized under search warrant issued under [section 65][961] of Wine Act 2003 may be disposed of [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-*   Schedule: amended, on 18 December 2013, by [section 417(1)][1090] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
-*   Schedule: amended, on 1 September 2013, by [section 164][1091] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
-*   Schedule: amended, on 18 July 2013, by [section 110(1)][1092] of the Psychoactive Substances Act 2013 (2013 No 53).
-*   Schedule: amended, on 28 June 2013, by [section 177][1093] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
-*   Schedule: amended, on 24 May 2013, by [section 65][1094] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule: amended, on 23 April 2014, by [section 16][1088] of the Road User Charges Amendment Act 2014 (2014 No 23).
+*   Schedule: amended, on 18 December 2013, by [section 417(1)][1089] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule: amended, on 1 September 2013, by [section 164][1090] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
+*   Schedule: amended, on 18 July 2013, by [section 110(1)][1091] of the Psychoactive Substances Act 2013 (2013 No 53).
+*   Schedule: amended, on 28 June 2013, by [section 177][1092] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+*   Schedule: amended, on 24 May 2013, by [section 65][1093] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 #### 
 
@@ -8571,31 +8574,33 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1095] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1096] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1094] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1095] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1097] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1098] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1096] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1097] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][608]
+*   Road User Charges Amendment Act 2014 (2014 No 23): [section 16][1088]
+    
+    Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][608]
     
     [Search and Surveillance Act Commencement Order 2013][550] (SR 2013/302)
     
-    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1092]
+    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1091]
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1091]
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1090]
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1094]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1093]
     
     Electronic Identity Verification Act 2012 (2012 No 123): [section 76][753]
     
-    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][1090]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][1089]
     
-    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1093]
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1092]
     
-    [Search and Surveillance Act Commencement Order 2012][1099] (SR 2012/229)
+    [Search and Surveillance Act Commencement Order 2012][1098] (SR 2012/229)
 
 
 
@@ -9604,10 +9609,10 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [1002]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329717
 [1003]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330211
 [1004]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330213
-[1005]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM331219
+[1005]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5827102
 [1006]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM331234
 [1007]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329848
-[1008]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330797
+[1008]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5789500
 [1009]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329814
 [1010]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057903
 [1011]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057910
@@ -9639,63 +9644,62 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [1037]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM128629
 [1038]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242335
 [1039]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM119011
-[1040]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330968
-[1041]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330994
-[1042]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23644
-[1043]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23666
-[1044]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM31458
-[1045]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314042
-[1046]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314044
-[1047]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048911
-[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048924
-[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048900
-[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3865811
-[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM332179
-[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313301
-[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451324
-[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756102
-[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756280
-[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242535
-[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM247359
-[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM247360
-[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756281
-[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
-[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
-[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3955410
-[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3956323
-[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
-[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
-[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
-[1067]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
-[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
-[1069]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
-[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
-[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
-[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
-[1073]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
-[1074]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
-[1075]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
-[1076]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5042900
-[1077]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5278446
-[1078]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043112
-[1079]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
-[1080]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
-[1081]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
-[1082]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
-[1083]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607314
-[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339302
-[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339787
-[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
-[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
-[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
-[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
-[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339984
-[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
-[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
-[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
-[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
-[1095]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
-[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
-[1097]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
-[1098]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1099]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
+[1040]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23644
+[1041]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23666
+[1042]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM31458
+[1043]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314042
+[1044]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314044
+[1045]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048911
+[1046]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048924
+[1047]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048900
+[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3865811
+[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM332179
+[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313301
+[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451324
+[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756102
+[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756280
+[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242535
+[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756281
+[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
+[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
+[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3955410
+[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3956323
+[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
+[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
+[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
+[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
+[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
+[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
+[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
+[1067]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
+[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
+[1069]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
+[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
+[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
+[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5042900
+[1073]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5278446
+[1074]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043112
+[1075]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
+[1076]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
+[1077]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
+[1078]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
+[1079]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607314
+[1080]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3394800
+[1081]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3395054
+[1082]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339302
+[1083]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339787
+[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
+[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
+[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
+[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
+[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM6040526
+[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339984
+[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
+[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
+[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
+[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
+[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
+[1095]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
+[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
+[1097]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1098]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
