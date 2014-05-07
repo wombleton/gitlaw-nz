@@ -1,5 +1,5 @@
 Reprint  
-as at 17 April 2014
+as at 23 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1449,85 +1449,94 @@ Ngāi Tahu Claims Settlement Act 1998, [section 461(3) and (4)][125]
 
 Ngai Tāmanuhiri Claims Settlement Act 2012, [section 13(4) and (5)][126]
 
-Ngāti Apa (North Island) Claims Settlement Act 2010, [section 13(3) and (4)][127]
+Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014, [section 22(4) and (5)][127]
 
-Ngāti Awa Claims Settlement Act 2005, [section 15(3) and (4)][128]
+Ngāti Apa (North Island) Claims Settlement Act 2010, [section 13(3) and (4)][128]
 
-Ngāti Mākino Claims Settlement Act 2012, [section 11(4) and (5)][129]
+Ngāti Awa Claims Settlement Act 2005, [section 15(3) and (4)][129]
 
-Ngāti Manawa Claims Settlement Act 2012, [section 13(3) to (6)][130]
+Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014, [section 25(4) and (5)][130]
 
-Ngāti Manuhiri Claims Settlement Act 2012, [section 14(4) and (5)][131]
+Ngāti Mākino Claims Settlement Act 2012, [section 11(4) and (5)][131]
 
-Ngāti Mutunga Claims Settlement Act 2006, [section 15(2) and (3)][132]
+Ngāti Manawa Claims Settlement Act 2012, [section 13(3) to (6)][132]
 
-Ngāti Pāhauwera Treaty Claims Settlement Act 2012, [section 14(4) and (5)][133]
+Ngāti Manuhiri Claims Settlement Act 2012, [section 14(4) and (5)][133]
 
-Ngati Porou Claims Settlement Act 2012, [section 13(4) and (5)][134]
+Ngāti Mutunga Claims Settlement Act 2006, [section 15(2) and (3)][134]
 
-Ngāti Rangiteaorere Claims Settlement Act 2014, [section 16(4) and (5)][135]
+Ngāti Pāhauwera Treaty Claims Settlement Act 2012, [section 14(4) and (5)][135]
 
-Ngāti Rangiwewehi Claims Settlement Act 2014, [section 16(4) and (5)][136]
+Ngati Porou Claims Settlement Act 2012, [section 13(4) and (5)][136]
 
-Ngati Ruanui Claims Settlement Act 2003, [section 15(3) and (4)][137]
+Ngāti Rangiteaorere Claims Settlement Act 2014, [section 16(4) and (5)][137]
 
-Ngati Tama Claims Settlement Act 2003, [section 12(3) and (4)][138]
+Ngāti Rangiwewehi Claims Settlement Act 2014, [section 16(4) and (5)][138]
 
-Ngāti Tūrangitukua Claims Settlement Act 1999, [section 9(3) and (4)][139]
+Ngati Ruanui Claims Settlement Act 2003, [section 15(3) and (4)][139]
 
-Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005, [section 15(3) and (4)][140]
+Ngati Tama Claims Settlement Act 2003, [section 12(3) and (4)][140]
 
-Ngāti Whare Claims Settlement Act 2012, [section 13(3) to (6)][141]
+Ngati Toa Rangatira Claims Settlement Act 2014, [section 16(4) and (5)][141]
 
-Ngāti Whātua o Kaipara Claims Settlement Act 2013, [section 14(4) and (5)][142]
+Ngāti Tūrangitukua Claims Settlement Act 1999, [section 9(3) and (4)][142]
 
-Ngāti Whātua Ōrākei Claims Settlement Act 2012, [section 13(4) and (5)][143]
+Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005, [section 15(3) and (4)][143]
 
-Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009, [section 10(4) and (5)][144]
+Ngāti Whare Claims Settlement Act 2012, [section 13(3) to (6)][144]
 
-Pouakani Claims Settlement Act 2000, [section 12(3) and (4)][145]
+Ngāti Whātua o Kaipara Claims Settlement Act 2013, [section 14(4) and (5)][145]
 
-Raukawa Claims Settlement Act 2014, [section 15(8) and (9)][146]
+Ngāti Whātua Ōrākei Claims Settlement Act 2012, [section 13(4) and (5)][146]
 
-Rongowhakaata Claims Settlement Act 2012, [section 15(4) and (5)][147]
+Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009, [section 10(4) and (5)][147]
 
-Tapuika Claims Settlement Act 2014, [section 15(4) and (5)][148]
+Pouakani Claims Settlement Act 2000, [section 12(3) and (4)][148]
 
-Te Arawa Lakes Settlement Act 2006, [section 15(4) and (5)][149]
+Raukawa Claims Settlement Act 2014, [section 15(8) and (9)][149]
 
-Te Roroa Claims Settlement Act 2008, [section 13(2) and (3)][150]
+Rongowhakaata Claims Settlement Act 2012, [section 15(4) and (5)][150]
 
-Te Uri o Hau Claims Settlement Act 2002, [section 17(3) and (4)][151]
+Tapuika Claims Settlement Act 2014, [section 15(4) and (5)][151]
 
-Waikato Raupatu Claims Settlement Act 1995, [section 9(2)][152]
+Te Arawa Lakes Settlement Act 2006, [section 15(4) and (5)][152]
 
-Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010, [section 90(2)][153]
+Te Roroa Claims Settlement Act 2008, [section 13(2) and (3)][153]
 
-Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
+Te Uri o Hau Claims Settlement Act 2002, [section 17(3) and (4)][154]
+
+Waikato Raupatu Claims Settlement Act 1995, [section 9(2)][155]
+
+Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010, [section 90(2)][156]
+
+Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][157]
     
-*   Schedule 3: amended, on 17 April 2014, by [section 16][155] of the Tapuika Claims Settlement Act 2014 (2014 No 15).
-*   Schedule 3: amended, on 17 April 2014, by [section 17][156] of the Ngāti Rangiwewehi Claims Settlement Act 2014 (2014 No 14).
-*   Schedule 3: amended, on 17 April 2014, by [section 17][157] of the Ngāti Rangiteaorere Claims Settlement Act 2014 (2014 No 13).
-*   Schedule 3: amended, on 17 April 2014, by [section 15][158] of the Maungaharuru-Tangitū Hapū Claims Settlement Act 2014 (2014 No 12).
-*   Schedule 3: amended, on 20 March 2014, by [section 16][159] of the Raukawa Claims Settlement Act 2014 (2014 No 7).
-*   Schedule 3: amended, on 13 June 2013, by [section 13][160] of the Waitaha Claims Settlement Act 2013 (2013 No 38).
-*   Schedule 3: amended, on 13 June 2013, by [section 15][161] of the Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37)
-*   Schedule 3: amended, on 1 February 2013, by [section 14][162] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
-*   Schedule 3: amended, on 20 November 2012, by [section 15][163] of the Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90).
-*   Schedule 3: amended, on 1 August 2012, by [section 14][164] of the Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55).
-*   Schedule 3: amended, on 1 August 2012, by [section 16][165] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
-*   Schedule 3: amended, on 1 August 2012, by [section 12][166] of the Ngāti Mākino Claims Settlement Act 2012 (2012 No 53).
-*   Schedule 3: amended, on 31 July 2012, by [section 15][167] of the Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52).
-*   Schedule 3: amended, on 6 April 2012, by [section 14][168] of the Ngati Porou Claims Settlement Act 2012 (2012 No 31).
-*   Schedule 3: amended, on 6 April 2012, by [section 15][169] of the Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30).
-*   Schedule 3: amended, on 6 April 2012, by [section 14][170] of the Ngāti Whare Claims Settlement Act 2012 (2012 No 28).
-*   Schedule 3: amended, on 6 April 2012, by [section 14][171] of the Ngāti Manawa Claims Settlement Act 2012 (2012 No 27).
-*   Schedule 3: amended, on 16 December 2010, by [section 14][172] of the Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129).
-*   Schedule 3: amended, on 25 November 2010, by [section 96][173] of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24).
-*   Schedule 3: amended, on 5 August 2009, by [section 11][174] of the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26).
-*   Schedule 3: amended, on 4 June 2009, by [section 15][175] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
-*   Schedule 3: amended, on 30 September 2008, by [section 14][176] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
-*   Schedule 3: amended, on 30 September 2008, by [section 33][177] of the Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99).
+*   Schedule 3: amended, on 23 April 2014, by [section 26][158] of the Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014 (2014 No 20).
+*   Schedule 3: amended, on 23 April 2014, by [section 23][159] of the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014 (2014 No 19).
+*   Schedule 3: amended, on 23 April 2014, by [section 17][160] of the Ngati Toa Rangatira Claims Settlement Act 2014 (2014 No 17).
+*   Schedule 3: amended, on 17 April 2014, by [section 16][161] of the Tapuika Claims Settlement Act 2014 (2014 No 15).
+*   Schedule 3: amended, on 17 April 2014, by [section 17][162] of the Ngāti Rangiwewehi Claims Settlement Act 2014 (2014 No 14).
+*   Schedule 3: amended, on 17 April 2014, by [section 17][163] of the Ngāti Rangiteaorere Claims Settlement Act 2014 (2014 No 13).
+*   Schedule 3: amended, on 17 April 2014, by [section 15][164] of the Maungaharuru-Tangitū Hapū Claims Settlement Act 2014 (2014 No 12).
+*   Schedule 3: amended, on 20 March 2014, by [section 16][165] of the Raukawa Claims Settlement Act 2014 (2014 No 7).
+*   Schedule 3: amended, on 13 June 2013, by [section 13][166] of the Waitaha Claims Settlement Act 2013 (2013 No 38).
+*   Schedule 3: amended, on 13 June 2013, by [section 15][167] of the Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37)
+*   Schedule 3: amended, on 1 February 2013, by [section 14][168] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
+*   Schedule 3: amended, on 20 November 2012, by [section 15][169] of the Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90).
+*   Schedule 3: amended, on 1 August 2012, by [section 14][170] of the Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55).
+*   Schedule 3: amended, on 1 August 2012, by [section 16][171] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
+*   Schedule 3: amended, on 1 August 2012, by [section 12][172] of the Ngāti Mākino Claims Settlement Act 2012 (2012 No 53).
+*   Schedule 3: amended, on 31 July 2012, by [section 15][173] of the Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52).
+*   Schedule 3: amended, on 6 April 2012, by [section 14][174] of the Ngati Porou Claims Settlement Act 2012 (2012 No 31).
+*   Schedule 3: amended, on 6 April 2012, by [section 15][175] of the Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30).
+*   Schedule 3: amended, on 6 April 2012, by [section 14][176] of the Ngāti Whare Claims Settlement Act 2012 (2012 No 28).
+*   Schedule 3: amended, on 6 April 2012, by [section 14][177] of the Ngāti Manawa Claims Settlement Act 2012 (2012 No 27).
+*   Schedule 3: amended, on 16 December 2010, by [section 14][178] of the Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129).
+*   Schedule 3: amended, on 25 November 2010, by [section 96][179] of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24).
+*   Schedule 3: amended, on 5 August 2009, by [section 11][180] of the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26).
+*   Schedule 3: amended, on 4 June 2009, by [section 15][181] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
+*   Schedule 3: amended, on 30 September 2008, by [section 14][182] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
+*   Schedule 3: amended, on 30 September 2008, by [section 33][183] of the Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99).
 
 #### 
 
@@ -1541,63 +1550,69 @@ Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][178] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][179] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][184] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][185] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][180] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][181] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][186] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][187] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Tapuika Claims Settlement Act 2014 (2014 No 15): [section 16][155]
+*   Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014 (2014 No 20): [section 26][158]
     
-    Ngāti Rangiwewehi Claims Settlement Act 2014 (2014 No 14): [section 17][156]
+    Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014 (2014 No 19): [section 23][159]
     
-    Ngāti Rangiteaorere Claims Settlement Act 2014 (2014 No 13): [section 17][157]
+    Ngati Toa Rangatira Claims Settlement Act 2014 (2014 No 17): [section 17][160]
     
-    Maungaharuru-Tangitū Hapū Claims Settlement Act 2014 (2014 No 12): [section 15][158]
+    Tapuika Claims Settlement Act 2014 (2014 No 15): [section 16][161]
     
-    Raukawa Claims Settlement Act 2014 (2014 No 7): [section 16][159]
+    Ngāti Rangiwewehi Claims Settlement Act 2014 (2014 No 14): [section 17][162]
     
-    Waitaha Claims Settlement Act 2013 (2013 No 38): [section 13][160]
+    Ngāti Rangiteaorere Claims Settlement Act 2014 (2014 No 13): [section 17][163]
     
-    Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37): [section 15][161]
+    Maungaharuru-Tangitū Hapū Claims Settlement Act 2014 (2014 No 12): [section 15][164]
     
-    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 14][162]
+    Raukawa Claims Settlement Act 2014 (2014 No 7): [section 16][165]
     
-    Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90): [section 15][163]
+    Waitaha Claims Settlement Act 2013 (2013 No 38): [section 13][166]
     
-    Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55): [section 14][164]
+    Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37): [section 15][167]
     
-    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 16][165]
+    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 14][168]
     
-    Ngāti Mākino Claims Settlement Act 2012 (2012 No 53): [section 12][166]
+    Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90): [section 15][169]
     
-    Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52): [section 15][167]
+    Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55): [section 14][170]
     
-    Ngati Porou Claims Settlement Act 2012 (2012 No 31): [section 14][168]
+    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 16][171]
     
-    Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30): [section 15][169]
+    Ngāti Mākino Claims Settlement Act 2012 (2012 No 53): [section 12][172]
     
-    Ngāti Whare Claims Settlement Act 2012 (2012 No 28): [section 14][170]
+    Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52): [section 15][173]
     
-    Ngāti Manawa Claims Settlement Act 2012 (2012 No 27): [section 14][171]
+    Ngati Porou Claims Settlement Act 2012 (2012 No 31): [section 14][174]
     
-    Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129): [section 14][172]
+    Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30): [section 15][175]
     
-    Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24): [section 96][173]
+    Ngāti Whare Claims Settlement Act 2012 (2012 No 28): [section 14][176]
     
-    Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26): [section 11][174]
+    Ngāti Manawa Claims Settlement Act 2012 (2012 No 27): [section 14][177]
     
-    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 14][176]
+    Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129): [section 14][178]
     
-    Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99): [section 33][177]
+    Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24): [section 96][179]
     
-    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 15][175]
+    Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26): [section 11][180]
     
-    [Treaty of Waitangi Amendment Act 2008][182] (2008 No 34)
+    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 14][182]
     
-    [Treaty of Waitangi Amendment Act 2006][183] (2006 No 77)
+    Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99): [section 33][183]
+    
+    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 15][181]
+    
+    [Treaty of Waitangi Amendment Act 2008][188] (2008 No 34)
+    
+    [Treaty of Waitangi Amendment Act 2006][189] (2006 No 77)
     
     Evidence Act 2006 (2006 No 69): [section 216][111]
     
@@ -1615,7 +1630,7 @@ Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
     
     Pouakani Claims Settlement Act 2000 (2000 No 90): [section 13][66]
     
-    [Treaty of Waitangi Amendment Act 1998][184] (1998 No 113)
+    [Treaty of Waitangi Amendment Act 1998][190] (1998 No 113)
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
@@ -1627,7 +1642,7 @@ Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
     
     State-Owned Enterprises Amendment Act 1992 (1992 No 27): [section 12][81]
     
-    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [sections 42, 43][185]
+    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [sections 42, 43][191]
     
     Education Amendment Act 1990 (1990 No 60): [section 50(1)][59]
     
@@ -1635,7 +1650,7 @@ Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
     
     Treaty of Waitangi Amendment Act 1988 (1988 No 233)
     
-    Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105): [sections 3--7][186]
+    Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105): [sections 3--7][192]
     
     State Sector Act 1988 (1988 No 20): [section 90(a)][47]
     
@@ -1776,63 +1791,69 @@ Waitaha Claims Settlement Act 2013, [section 12(4) and (5)][154]
 [124]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM359568
 [125]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM430672
 [126]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3947196
-[127]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2274872
-[128]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM339353
-[129]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4062785
-[130]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4339800
-[131]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326768
-[132]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM391599
-[133]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3562645
-[134]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3548914
-[135]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5324242
-[136]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5992527
-[137]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM193042
-[138]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM233958
-[139]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM44475
-[140]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM350064
-[141]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4339900
-[142]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4653152
-[143]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326111
-[144]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1525860
-[145]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM79840
-[146]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323525
-[147]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4321797
-[148]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5993534
-[149]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM381863
-[150]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1132448
-[151]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM155545
-[152]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM370556
-[153]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1630166
-[154]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4732469
-[155]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5993536
-[156]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5992529
-[157]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5324244
-[158]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323042
-[159]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323527
-[160]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4732471
-[161]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4653154
-[162]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326112
-[163]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326769
-[164]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3947198
-[165]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4321799
-[166]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4062787
-[167]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4329060
-[168]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3548916
-[169]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3562647
-[170]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4340066
-[171]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3276964
-[172]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2274874
-[173]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1630172
-[174]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1525862
-[175]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1375730
-[176]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1580100
-[177]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1378541
-[178]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998516
-[179]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998515
-[180]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998532
-[181]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[182]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1297524
-[183]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM398298
-[184]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM18047
-[185]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM223148
-[186]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM132568
+[127]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5214601
+[128]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2274872
+[129]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM339353
+[130]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5954834
+[131]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4062785
+[132]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4339800
+[133]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326768
+[134]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM391599
+[135]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3562645
+[136]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3548914
+[137]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5324242
+[138]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5992527
+[139]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM193042
+[140]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM233958
+[141]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5953786
+[142]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM44475
+[143]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM350064
+[144]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4339900
+[145]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4653152
+[146]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326111
+[147]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1525860
+[148]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM79840
+[149]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323525
+[150]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4321797
+[151]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5993534
+[152]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM381863
+[153]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1132448
+[154]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM155545
+[155]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM370556
+[156]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1630166
+[157]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4732469
+[158]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5954840
+[159]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5214603
+[160]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5953788
+[161]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5993536
+[162]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5992529
+[163]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5324244
+[164]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323042
+[165]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM5323527
+[166]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4732471
+[167]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4653154
+[168]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326112
+[169]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4326769
+[170]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3947198
+[171]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4321799
+[172]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4062787
+[173]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4329060
+[174]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3548916
+[175]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3562647
+[176]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM4340066
+[177]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM3276964
+[178]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2274874
+[179]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1630172
+[180]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1525862
+[181]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1375730
+[182]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1580100
+[183]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1378541
+[184]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998516
+[185]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998515
+[186]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM2998532
+[187]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[188]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM1297524
+[189]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM398298
+[190]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM18047
+[191]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM223148
+[192]: http://www.legislation.govt.nz/act/public/1975/0114/latest/link.aspx?id=DLM132568
