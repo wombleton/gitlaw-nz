@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -23,18 +23,18 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 ## Contents
 
-[1 ][1][][1][Title][1]
+[1][1][][1][Title][1]
 
-[2 ][2][][2][Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3 ][4][][4][Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4 ][5][][5][Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5 ][6][][6][Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Regulation of trustees and statutory supervisors][7]
@@ -43,120 +43,120 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Requirement to be licensed, etc][9]
 
-[6 ][10][][10][Trustee or statutory supervisor must be licensed][10]
+[6][10][][10][Trustee or statutory supervisor must be licensed][10]
 
-[7 ][11][][11][Licensee must comply with conditions imposed on licence][11]
+[7][11][][11][Licensee must comply with conditions imposed on licence][11]
 
-[8 ][12][][12][Requirement to be licensed: offences][12]
+[8][12][][12][Requirement to be licensed: offences][12]
 
-[9 ][13][][13][Requirement to be licensed: exception for certain FMA appointees][13]
+[9][13][][13][Requirement to be licensed: exception for certain FMA appointees][13]
 
 [Licences: general][14]
 
-[10 ][15][][15][FMA may license trustee, etc ][15]
+[10][15][][15][FMA may license trustee, etc][15]
 
-[11 ][16][][16][FMA may impose conditions on licence][16]
+[11][16][][16][FMA may impose conditions on licence][16]
 
-[12 ][17][][17][Duration of licence][17]
+[12][17][][17][Duration of licence][17]
 
-[13 ][18][][18][Information to be stated in licence][18]
+[13][18][][18][Information to be stated in licence][18]
 
-[14 ][19][][19][FMA must send licence and details to licensee and others][19]
+[14][19][][19][FMA must send licence and details to licensee and others][19]
 
 [Applications for, to vary, or to cancel licences][20]
 
-[15 ][21][][21][Application for, or to vary, licence][21]
+[15][21][][21][Application for, or to vary, licence][21]
 
-[16 ][22][][22][Decision on application for, or to vary, licence][22]
+[16][22][][22][Decision on application for, or to vary, licence][22]
 
-[17 ][23][][23][Application to cancel licence][23]
+[17][23][][23][Application to cancel licence][23]
 
-[18 ][24][][24][Notice, consultation, and submissions concerning decision under section 16(1)][24]
+[18][24][][24][Notice, consultation, and submissions concerning decision under section 16(1)][24]
 
-[19 ][25][][25][Appeal to High Court against FMA's decision on application][25]
+[19][25][][25][Appeal to High Court against FMA's decision on application][25]
 
 [Expiry of licences][26]
 
-[20 ][27][][27][Effect of expiry of licence][27]
+[20][27][][27][Effect of expiry of licence][27]
 
-[21 ][28][][28][Licensee must apply for new licence or notify issuer or operator before licence expires][28]
+[21][28][][28][Licensee must apply for new licence or notify issuer or operator before licence expires][28]
 
-[22 ][29][][29][Rejection of application for new licence: FMA may replace existing appointee][29]
+[22][29][][29][Rejection of application for new licence: FMA may replace existing appointee][29]
 
-[23 ][30][][30][Expiry of licence: issuer or operator may replace existing appointee or FMA appointee][30]
+[23][30][][30][Expiry of licence: issuer or operator may replace existing appointee or FMA appointee][30]
 
-[24 ][31][][31][Expiry of licence: existing appointee must provide documents][31]
+[24][31][][31][Expiry of licence: existing appointee must provide documents][31]
 
 [Subpart 2][32][---][32][Monitoring and enforcement][32]
 
 [Reports and investigations][33]
 
-[25 ][34][][34][Licensee must deliver regular reports to FMA][34]
+[25][34][][34][Licensee must deliver regular reports to FMA][34]
 
-[26 ][35][][35][Licensee must report breach of licensee obligation, etc][35]
+[26][35][][35][Licensee must report breach of licensee obligation, etc][35]
 
 [Action plans][36]
 
-[27 ][37][][37][FMA may require licensee to submit action plan][37]
+[27][37][][37][FMA may require licensee to submit action plan][37]
 
-[28 ][38][][38][Approval or rejection of action plan][38]
+[28][38][][38][Approval or rejection of action plan][38]
 
-[29 ][39][][39][FMA's powers if action plan rejected][39]
+[29][39][][39][FMA's powers if action plan rejected][39]
 
 [Variation of licences][40]
 
-[30 ][41][][41][FMA may vary licence because of material change of circumstances, etc][41]
+[30][41][][41][FMA may vary licence because of material change of circumstances, etc][41]
 
-[31 ][42][][42][Appeal to High Court against FMA's decision to vary licence][42]
+[31][42][][42][Appeal to High Court against FMA's decision to vary licence][42]
 
 [Removal of licensee and variation and cancellation of licences][43]
 
-[32 ][44][][44][FMA's powers if action plan not submitted, etc][44]
+[32][44][][44][FMA's powers if action plan not submitted, etc][44]
 
-[33 ][45][][45][Removal notice][45]
+[33][45][][45][Removal notice][45]
 
-[34 ][46][][46][Variation notice][46]
+[34][46][][46][Variation notice][46]
 
-[35 ][47][][47][Cancellation notice][47]
+[35][47][][47][Cancellation notice][47]
 
-[36 ][48][][48][Removal notice: FMA may give direction to existing appointee][48]
+[36][48][][48][Removal notice: FMA may give direction to existing appointee][48]
 
-[37 ][49][][49][Removal notice: FMA may replace existing appointee][49]
+[37][49][][49][Removal notice: FMA may replace existing appointee][49]
 
-[38 ][50][][50][Replacement notice: affected person may replace existing appointee or FMA appointee][50]
+[38][50][][50][Replacement notice: affected person may replace existing appointee or FMA appointee][50]
 
-[39 ][51][][51][Notice requiring documents: existing appointee, etc, must provide documents][51]
+[39][51][][51][Notice requiring documents: existing appointee, etc, must provide documents][51]
 
-[40 ][52][][52][Appeal to High Court against removal notice, etc][52]
+[40][52][][52][Appeal to High Court against removal notice, etc][52]
 
 [Pecuniary penalty and compensation orders][53]
 
-[41 ][54][][54][Pecuniary penalty orders][54]
+[41][54][][54][Pecuniary penalty orders][54]
 
-[42 ][55][][55][Compensation orders][55]
+[42][55][][55][Compensation orders][55]
 
-[43 ][56][][56][Further provisions relating to pecuniary penalty orders and compensation orders][56]
+[43][56][][56][Further provisions relating to pecuniary penalty orders and compensation orders][56]
 
 [Part 3][57]  
 [FMA's functions in relation to issuers and operators][57]
 
 [Duties of trustees and statutory supervisors to FMA in relation to issuers][58]
 
-[44 ][59][][59][Application of Part 3 to statutory supervisors of retirement villages][59]
+[44][59][][59][Application of Part 3 to statutory supervisors of retirement villages][59]
 
-[45 ][60][][60][FMA may require trustee or statutory supervisor to attest as to issuer's compliance with issuer obligations][60]
+[45][60][][60][FMA may require trustee or statutory supervisor to attest as to issuer's compliance with issuer obligations][60]
 
-[46 ][61][][61][Trustee or statutory supervisor must report breach or possible breach of issuer obligation][61]
+[46][61][][61][Trustee or statutory supervisor must report breach or possible breach of issuer obligation][61]
 
-[47 ][62][][62][Trustee or statutory supervisor must disclose information to FMA in certain circumstances][62]
+[47][62][][62][Trustee or statutory supervisor must disclose information to FMA in certain circumstances][62]
 
-[48 ][63][][63][Protection for trustee or statutory supervisor in respect of disclosure][63]
+[48][63][][63][Protection for trustee or statutory supervisor in respect of disclosure][63]
 
 [FMA's powers in relation to issuers][64]
 
-[49 ][65][][65][FMA may give direction to trustee or statutory supervisor to avoid material prejudice][65]
+[49][65][][65][FMA may give direction to trustee or statutory supervisor to avoid material prejudice][65]
 
-[50 ][66][][66][FMA may apply to High Court for orders relating to securities][66]
+[50][66][][66][FMA may apply to High Court for orders relating to securities][66]
 
 [Part 4][67]  
 [Miscellaneous and amendments to other Acts][67]
@@ -165,107 +165,107 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Directions][69]
 
-[51 ][70][][70][FMA may vary or cancel direction][70]
+[51][70][][70][FMA may vary or cancel direction][70]
 
-[52 ][71][][71][Protection for trustee, etc, who complies with FMA's direction][71]
+[52][71][][71][Protection for trustee, etc, who complies with FMA's direction][71]
 
 [Regulations][72]
 
-[53 ][73][][73][Regulations][73]
+[53][73][][73][Regulations][73]
 
 [Transitional provisions][74]
 
-[54 ][75][][75][Temporary licences][75]
+[54][75][][75][Temporary licences][75]
 
-[55 ][76][][76][Limitation of Act in relation to existing KiwiSaver schemes][76]
+[55][76][][76][Limitation of Act in relation to existing KiwiSaver schemes][76]
 
-[56 ][77][][77][FMA may grant exemptions][77]
+[56][77][][77][FMA may grant exemptions][77]
 
 [Subpart 2][78][---][78][Amendments to other Acts][78]
 
 [Amendments to Corporations (Investigation and Management) Act 1989][79]
 
-[57 ][80][][80][Amendments to Corporations (Investigation and Management) Act 1989][80]
+[57][80][][80][Amendments to Corporations (Investigation and Management) Act 1989][80]
 
-[58 ][81][][81][New section 11 substituted][81]
+[58][81][][81][New section 11 substituted][81]
 
 [11][82][][82][Disclosure of information to Registrar by statutory supervisor of retirement village][82]
 
-[59 ][83][][83][Section 12 repealed][83]
+[59][83][][83][Section 12 repealed][83]
 
-[60 ][84][][84][Amendments to Financial Markets Authority Act 2011][84]
+[60][84][][84][Amendments to Financial Markets Authority Act 2011][84]
 
 [Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008][85]
 
-[61 ][86][][86][Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008][86]
+[61][86][][86][Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008][86]
 
 [Amendments to KiwiSaver Act 2006][87]
 
-[62 ][88][][88][Amendments to KiwiSaver Act 2006][88]
+[62][88][][88][Amendments to KiwiSaver Act 2006][88]
 
 [Amendments to Retirement Villages Act 2003][89]
 
-[63 ][90][][90][Amendments to Retirement Villages Act 2003][90]
+[63][90][][90][Amendments to Retirement Villages Act 2003][90]
 
-[64 ][91][][91][Section 37 repealed][91]
+[64][91][][91][Section 37 repealed][91]
 
-[65 ][92][][92][Operator must appoint statutory supervisor][92]
+[65][92][][92][Operator must appoint statutory supervisor][92]
 
-[66 ][93][][93][Registrar's consent required for termination or non-renewal of appointment][93]
+[66][93][][93][Registrar's consent required for termination or non-renewal of appointment][93]
 
 [Amendments to Securities Act 1978][94]
 
-[67 ][95][][95][Amendments to Securities Act 1978][95]
+[67][95][][95][Amendments to Securities Act 1978][95]
 
-[68 ][96][][96][Restrictions on offer of securities to the public][96]
+[68][96][][96][Restrictions on offer of securities to the public][96]
 
-[69 ][97][][97][New section 48 substituted][97]
+[69][97][][97][New section 48 substituted][97]
 
 [48][98][][98][Removal of trustees and statutory supervisors][98]
 
-[70 ][99][][99][Trustees and statutory supervisors may apply to court for orders relating to securities][99]
+[70][99][][99][Trustees and statutory supervisors may apply to court for orders relating to securities][99]
 
-[71 ][100][][100][New section 50C inserted][100]
+[71][100][][100][New section 50C inserted][100]
 
 [50C][101][][101][Protection for auditors][101]
 
-[72 ][102][][102][When court may make management banning orders][102]
+[72][102][][102][When court may make management banning orders][102]
 
-[73 ][103][][103][Regulations and Orders in Council][103]
+[73][103][][103][Regulations and Orders in Council][103]
 
 [Amendment to Securities Markets Act 1988][104]
 
-[74 ][105][][105][Amendment to Securities Markets Act 1988][105]
+[74][105][][105][Amendment to Securities Markets Act 1988][105]
 
 [Amendment to Takeovers Act 1993][106]
 
-[75 ][107][][107][Amendment to Takeovers Act 1993][107]
+[75][107][][107][Amendment to Takeovers Act 1993][107]
 
 [Amendments to Trustee Companies Act 1967][108]
 
-[76 ][109][][109][Amendments to Trustee Companies Act 1967][109]
+[76][109][][109][Amendments to Trustee Companies Act 1967][109]
 
 [Amendments to Unit Trusts Act 1960][110]
 
-[77 ][111][][111][Amendments to Unit Trusts Act 1960 ][111]
+[77][111][][111][Amendments to Unit Trusts Act 1960][111]
 
-[78 ][112][][112][Section 5 repealed][112]
+[78][112][][112][Section 5 repealed][112]
 
-[79 ][113][][113][Appointment of trustee][113]
+[79][113][][113][Appointment of trustee][113]
 
-[80 ][114][][114][New section 10 substituted][114]
+[80][114][][114][New section 10 substituted][114]
 
 [10][115][][115][Removal of trustees][115]
 
-[81 ][116][][116][Implied provisions in trust deed][116]
+[81][116][][116][Implied provisions in trust deed][116]
 
-[82 ][117][][117][Meeting of unit holders][117]
+[82][117][][117][Meeting of unit holders][117]
 
-[83 ][118][][118][New section 19A inserted][118]
+[83][118][][118][New section 19A inserted][118]
 
 [19A][119][][119][Trustee may apply to High Court for orders relating to unit trust][119]
 
-[84 ][120][][120][Regulations][120]
+[84][120][][120][Regulations][120]
 
 ---
 
@@ -302,7 +302,7 @@ Preliminary provisions
     
     _deed of supervision_ has the meaning given in [section 5][122] of the Retirement Villages Act 2003 and includes every instrument that amends the deed of supervision
     
-    _deposit taker_ has the meaning given in [section 157C][123] of the Reserve Bank of New Zealand Act 1989
+    _deposit taker_ means an NBDT as defined in [section 5][123] of the Non-bank Deposit Takers Act 2013
     
     _FMA_ means the Financial Markets Authority established under [Part 2][124] of the Financial Markets Authority Act 2011
     
@@ -330,7 +330,7 @@ Preliminary provisions
     
     *   (e) the [KiwiSaver Act 2006][126]:
     
-    *   (f) [Part 5D][127] of the Reserve Bank of New Zealand Act 1989:
+    *   (f) the [Non-bank Deposit Takers Act 2013][127]:
     
     *   (g) the [Securities Act 1978][128]:
     
@@ -360,7 +360,7 @@ Preliminary provisions
     
     *   (e) the [KiwiSaver Act 2006][126]:
     
-    *   (f) [Part 5D][127] of the Reserve Bank of New Zealand Act 1989:
+    *   (f) the [Non-bank Deposit Takers Act 2013][127]:
     
     *   (g) the [Retirement Villages Act 2003][131]:
     
@@ -447,6 +447,12 @@ Preliminary provisions
     *   (b) varying or removing a condition previously imposed on the licence.
     
     (2) Unless the context otherwise requires, a term or expression that is defined in the [Securities Act 1978][128] (in relation to securities) or the [Retirement Villages Act 2003][131] (in relation to retirement villages) and used, but not defined, in this Act has the same meaning as in those Acts.
+    
+    Section 4(1) **deposit taker**: replaced, on 1 May 2014, by [section 92(2)][135] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
+    
+    Section 4(1) **issuer obligation** paragraph (f): replaced, on 1 May 2014, by [section 92(2)][135] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
+    
+    Section 4(1) **licensee obligation** paragraph (f): replaced, on 1 May 2014, by [section 92(2)][135] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
 
 ##### 5 Act binds the Crown
     
@@ -497,7 +503,7 @@ Regulation of trustees and statutory supervisors
     
     (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $300,000\.
     
-    Section 8(5): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(5): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Requirement to be licensed: exception for certain FMA appointees
     
@@ -505,7 +511,7 @@ Regulation of trustees and statutory supervisors
 
 #### Licences: general
 
-##### 10 FMA may license trustee, etc 
+##### 10 FMA may license trustee, etc
     
 *   (1) The FMA may license a person to be 1 or more of the following:
         
@@ -633,7 +639,7 @@ Regulation of trustees and statutory supervisors
         
     *   (a) made in the form required by the FMA; and
     
-    *   (b) accompanied by the fee prescribed under [section 67][136] of the Financial Markets Authority Act 2011\.
+    *   (b) accompanied by the fee prescribed under [section 67][137] of the Financial Markets Authority Act 2011\.
     
     (3) For the purpose of making a decision on an application, the FMA may require the applicant to supply information in addition to that contained in the application and may, at any time, require the applicant to verify that all, or any specified part, of the information provided in relation to the application (whether at the time of the application or at any later date) remains accurate at the time that verification is required under this subsection.
 
@@ -659,13 +665,13 @@ Regulation of trustees and statutory supervisors
     
     *   (c) in the case of an applicant for a licence that covers a security, the applicant---
             
-        *   (i) is registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][137]; or
+        *   (i) is registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][138]; or
         
-        *   (ii) complies with [section 13(a) and (b)][138] of that Act:
+        *   (ii) complies with [section 13(a) and (b)][139] of that Act:
         
         
     
-    *   (d) in the case of an applicant for a licence that covers a retirement village, the applicant complies with [section 13(a)][138] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008\.
+    *   (d) in the case of an applicant for a licence that covers a retirement village, the applicant complies with [section 13(a)][139] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008\.
     
     (3) Before making a decision under subsection (1), the FMA must assess the following matters:
         
@@ -697,7 +703,7 @@ Regulation of trustees and statutory supervisors
     
     (4) In this section,---
     
-    _director_ has the meaning given in [section 126][139] of the Companies Act 1993, but also includes, in the case of a body corporate that is not a company, a person (including a delegate) who occupies a position comparable to that of a director
+    _director_ has the meaning given in [section 126][140] of the Companies Act 1993, but also includes, in the case of a body corporate that is not a company, a person (including a delegate) who occupies a position comparable to that of a director
     
     _senior manager_, in relation to an applicant, means a person (including a delegate) who is not a director but occupies a position that allows the person to exercise significant influence over the management or administration of the applicant (for example, a chief executive or a chief financial officer).
 
@@ -873,9 +879,9 @@ Regulation of trustees and statutory supervisors
     
     _new appointee_ has the meaning given in [section 23(4)][30].
     
-    Section 24(4): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 24(4): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 24(6): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 24(6): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Monitoring and enforcement
 
@@ -1191,7 +1197,7 @@ Regulation of trustees and statutory supervisors
     
     (5) A person who, without reasonable excuse, fails to comply with a direction under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000\.
     
-    Section 36(5): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(5): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Removal notice: FMA may replace existing appointee
     
@@ -1271,9 +1277,9 @@ Regulation of trustees and statutory supervisors
     
     (7) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for a purpose referred to in subsection (6) commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    Section 39(5): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39(5): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 39(7): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39(7): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Appeal to High Court against removal notice, etc
     
@@ -1317,7 +1323,7 @@ Regulation of trustees and statutory supervisors
     
     (3) The maximum amount of a pecuniary penalty for a contravention of a licensee obligation is---
         
-    *   (a) $200,000, if the contravention or conduct materially prejudiced security holders' or residents' interests; and 
+    *   (a) $200,000, if the contravention or conduct materially prejudiced security holders' or residents' interests; and
     
     *   (b) $100,000, in all other cases.
     
@@ -1372,7 +1378,7 @@ FMA's functions in relation to issuers and operators
     
     *   (b) if unable to attest to the FMA as required, report the reason, including the details of any breach or suspected breach.
     
-    Compare: 1989 No 157 [s 157ZE][140]
+    Compare: 1989 No 157 [s 157ZE][141]
 
 ##### 46 Trustee or statutory supervisor must report breach or possible breach of issuer obligation
     
@@ -1382,7 +1388,7 @@ FMA's functions in relation to issuers and operators
     
     *   (b) advise the FMA of the steps (if any) that the trustee or supervisor intends to take in light of the breach or possible breach and the date by which the steps are to be taken.
     
-    Compare: 1989 No 157 [s 157ZF][141]
+    Compare: 1989 No 157 [s 157ZF][142]
 
 ##### 47 Trustee or statutory supervisor must disclose information to FMA in certain circumstances
     
@@ -1422,7 +1428,7 @@ FMA's functions in relation to issuers and operators
     
     *   (b) advise the FMA of the steps (if any) that the trustee or supervisor intends to take in light of the matter referred to in subsection (1) or (2) and the date by which the steps are to be taken.
     
-    Compare: 1989 No 157 [s 157ZG(1), (3)][142]
+    Compare: 1989 No 157 [s 157ZG(1), (3)][143]
 
 ##### 48 Protection for trustee or statutory supervisor in respect of disclosure
     
@@ -1434,7 +1440,7 @@ FMA's functions in relation to issuers and operators
     
     (4) In this section, _protected disclosure_ means a disclosure of information to the FMA in good faith by the trustee or statutory supervisor under any of [sections 45 to 47][60] of this Act.
     
-    Compare: 1989 No 157 [s 157ZH][143]
+    Compare: 1989 No 157 [s 157ZH][144]
 
 #### FMA's powers in relation to issuers
 
@@ -1466,7 +1472,7 @@ FMA's functions in relation to issuers and operators
     
     (6) To avoid doubt, the fact that the FMA has not given a direction under this section does not affect the FMA's ability to apply for orders under [sections 41][54], [42][55], and [50][66].
     
-    Section 49(5): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(5): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 FMA may apply to High Court for orders relating to securities
     
@@ -1476,9 +1482,9 @@ FMA's functions in relation to issuers and operators
     
     *   (b) either---
             
-        *   (i) the trustee or statutory supervisor is aware of the risk and has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, [section 49][144] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
+        *   (i) the trustee or statutory supervisor is aware of the risk and has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, [section 49][145] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
         
-        *   (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, [section 49][144] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960\.
+        *   (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, [section 49][145] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960\.
         
         
     
@@ -1488,9 +1494,9 @@ FMA's functions in relation to issuers and operators
     
     *   (b) either---
             
-        *   (i) the trustee or statutory supervisor has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, [section 49][144] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
+        *   (i) the trustee or statutory supervisor has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, [section 49][145] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
         
-        *   (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, [section 49][144] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960\.
+        *   (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, [section 49][145] of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960\.
         
         
     
@@ -1498,13 +1504,13 @@ FMA's functions in relation to issuers and operators
     
     (4) The court may direct that an application be served on any person that the court thinks fit.
     
-    (5) On an application, the court may, after giving the issuer, trustee, or statutory supervisor and any other persons that the court thinks fit the opportunity to be heard, make any order that the court may make under section 116K(4) of the KiwiSaver Act 2006, [section 49(3)][144] of the Securities Act 1978, or section 19A(4) of the Unit Trusts Act 1960\.
+    (5) On an application, the court may, after giving the issuer, trustee, or statutory supervisor and any other persons that the court thinks fit the opportunity to be heard, make any order that the court may make under section 116K(4) of the KiwiSaver Act 2006, [section 49(3)][145] of the Securities Act 1978, or section 19A(4) of the Unit Trusts Act 1960\.
     
     (6) The court may vary or cancel an order made under this section.
     
     (7) In exercising its powers under this section, the court must have regard to the interests of all creditors of the issuer.
     
-    Compare: 1978 No 103 [s 49][144]
+    Compare: 1978 No 103 [s 49][145]
 
 ## Part 4  
 Miscellaneous and amendments to other Acts
@@ -1533,7 +1539,7 @@ Miscellaneous and amendments to other Acts
     
     (4) In this section, _protected act_, in relation to a trustee or statutory supervisor means an act of, or omission to act on the part of, the trustee or statutory supervisor in compliance in good faith with a direction under [section 29][39], [36][48], or [49][65].
     
-    Compare: 1989 No 157 [s 157ZH][143]
+    Compare: 1989 No 157 [s 157ZH][144]
 
 #### Regulations
 
@@ -1563,7 +1569,7 @@ Miscellaneous and amendments to other Acts
         
     *   (a) a person who, immediately before the commencement of this Act, was a trustee or statutory supervisor in respect of a security or statutory supervisor in respect of a retirement village and either---
             
-        *   (i) was approved to be appointed under [section 48][145] of the Securities Act 1978, [section 5][146] of the Unit Trusts Act 1960, or [section 38][147] of the Retirement Villages Act 2003, whether unconditionally or subject to conditions; or
+        *   (i) was approved to be appointed under [section 48][146] of the Securities Act 1978, [section 5][147] of the Unit Trusts Act 1960, or [section 38][148] of the Retirement Villages Act 2003, whether unconditionally or subject to conditions; or
         
         *   (ii) did not need to be approved or is otherwise lawfully appointed; and
         
@@ -1573,7 +1579,7 @@ Miscellaneous and amendments to other Acts
     
     (2) However, this section does not apply to a person referred to in subsection (1)(b) if the FMA has---
         
-    *   (a) determined an application by that person for a licence; and 
+    *   (a) determined an application by that person for a licence; and
     
     *   (b) notified the person of that determination under [section 18][24].
     
@@ -1611,13 +1617,13 @@ Miscellaneous and amendments to other Acts
     
     *   (b) in relation to a KiwiSaver trustee, includes designated.
     
-    (9) In this section and in [section 55][76], **effective date** has the meaning given in [section 57][148] of the KiwiSaver Amendment Act 2011\.
+    (9) In this section and in [section 55][76], **effective date** has the meaning given in [section 57][149] of the KiwiSaver Amendment Act 2011\.
 
 ##### 55 Limitation of Act in relation to existing KiwiSaver schemes
     
 *   (1) This Act (including, to avoid doubt, the amendments to the [KiwiSaver Act 2006][126] made under this Act) applies in relation to an existing KiwiSaver scheme only on and from the effective date for that scheme.
     
-    (2) In this section, **existing KiwiSaver scheme** has the meaning given in [section 57][148] of the KiwiSaver Amendment Act 2011\.
+    (2) In this section, **existing KiwiSaver scheme** has the meaning given in [section 57][149] of the KiwiSaver Amendment Act 2011\.
 
 ##### 56 FMA may grant exemptions
     
@@ -1635,9 +1641,9 @@ Miscellaneous and amendments to other Acts
     
     (3) An exemption granted under subsection (1)(a)---
         
-    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][149]; and
+    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][150]; and
     
-    *   (b) must be presented to the House of Representatives under [section 41][150] of that Act; and
+    *   (b) must be presented to the House of Representatives under [section 41][151] of that Act; and
     
     *   (c) must, as soon as practicable after it is granted, be---
             
@@ -1665,9 +1671,9 @@ Miscellaneous and amendments to other Acts
     
     (8) To avoid doubt, [section 54][75] does not apply to a person if that person has been granted an exemption from [section 6][10].
     
-    Section 56(3)(a): replaced, on 5 August 2013, by [section 77(3)][151] of the Legislation Act 2012 (2012 No 119).
+    Section 56(3)(a): replaced, on 5 August 2013, by [section 77(3)][152] of the Legislation Act 2012 (2012 No 119).
     
-    Section 56(3)(b): replaced, on 5 August 2013, by [section 77(3)][151] of the Legislation Act 2012 (2012 No 119).
+    Section 56(3)(b): replaced, on 5 August 2013, by [section 77(3)][152] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 2---Amendments to other Acts
 
@@ -1675,11 +1681,11 @@ Miscellaneous and amendments to other Acts
 
 ##### 57 Amendments to Corporations (Investigation and Management) Act 1989
     
-*   [Sections 58][81] and [59][83] amend the [Corporations (Investigation and Management) Act 1989][152].
+*   [Sections 58][81] and [59][83] amend the [Corporations (Investigation and Management) Act 1989][153].
 
 ##### 58 New section 11 substituted
     
-*   [Section 11][153] is repealed and the following section substituted:
+*   [Section 11][154] is repealed and the following section substituted:
     
     > ##### "11 Disclosure of information to Registrar by statutory supervisor of retirement village
     >     
@@ -1707,27 +1713,27 @@ Miscellaneous and amendments to other Acts
 
 ##### 59 Section 12 repealed
     
-*   [Section 12][154] is repealed.
+*   [Section 12][155] is repealed.
 
 ##### 60 Amendments to Financial Markets Authority Act 2011
     
-*   (1) This section amends the [Financial Markets Authority Act 2011][155].
+*   (1) This section amends the [Financial Markets Authority Act 2011][156].
     
-    (2) [Part 1 of Schedule 1][156] is amended by inserting the following item in its appropriate alphabetical order: ""Securities Trustees and Statutory Supervisors Act 2011"".
+    (2) [Part 1 of Schedule 1][157] is amended by inserting the following item in its appropriate alphabetical order: ""Securities Trustees and Statutory Supervisors Act 2011"".
 
 #### Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008
 
 ##### 61 Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008
     
-*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][137].
+*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][138].
     
-    (2) [Section 5(ia)][157] is amended by inserting the following subparagraph after paragraph (ia)(i):
+    (2) [Section 5(ia)][158] is amended by inserting the following subparagraph after paragraph (ia)(i):
     
     > *   "(ia) as a statutory supervisor:"
     > 
     > 
     
-    (3) [Schedule 2][158] is amended by adding the following item:
+    (3) [Schedule 2][159] is amended by adding the following item:
     
     > Financial Markets Authority Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees Securities Trustees and Statutory Supervisors Act 2011
     > 
@@ -1775,17 +1781,17 @@ Miscellaneous and amendments to other Acts
 
 ##### 64 Section 37 repealed
     
-*   [Section 37][159] is repealed.
+*   [Section 37][160] is repealed.
 
 ##### 65 Operator must appoint statutory supervisor
     
-*   (1) [Section 38(1)][147] is amended by omitting ""for the village"" and substituting ""who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers the village"".
+*   (1) [Section 38(1)][148] is amended by omitting ""for the village"" and substituting ""who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers the village"".
     
-    (2) [Section 38(4)][147] is repealed.
+    (2) [Section 38(4)][148] is repealed.
 
 ##### 66 Registrar's consent required for termination or non-renewal of appointment
     
-*   [Section 39][160] is amended by adding the following subsection:
+*   [Section 39][161] is amended by adding the following subsection:
     
     > *   "(3) This section does not apply to the termination of the appointment of a statutory supervisor by the operator under section 23 or 38 of the Securities Trustees and Statutory Supervisors Act 2011\."
     > 
@@ -1807,7 +1813,7 @@ Miscellaneous and amendments to other Acts
 
 ##### 69 New section 48 substituted
     
-*   [Section 48][145] is repealed and the following section substituted:
+*   [Section 48][146] is repealed and the following section substituted:
     
     > ##### "48 Removal of trustees and statutory supervisors
     >     
@@ -1827,13 +1833,13 @@ Miscellaneous and amendments to other Acts
 
 ##### 70 Trustees and statutory supervisors may apply to court for orders relating to securities
     
-*   (1) [Section 49(1)][144] is amended by repealing paragraph (a) and substituting the following paragraph:
+*   (1) [Section 49(1)][145] is amended by repealing paragraph (a) and substituting the following paragraph:
     
     > *   "(a) there is a significant risk that the interests of the security holders will be materially prejudiced; or".
     > 
     > 
     
-    (2) [Section 49(3)][144] is amended by inserting the following paragraph after paragraph (f):
+    (2) [Section 49(3)][145] is amended by inserting the following paragraph after paragraph (f):
     
     > *   "(fa) remove a person as manager and appoint another person as manager (with any powers that the court orders):".
     > 
@@ -1875,13 +1881,13 @@ Miscellaneous and amendments to other Acts
 
 ##### 72 When court may make management banning orders
     
-*   [Section 60A(1)(b)(i)][161] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Markets Act 1988,"".
+*   [Section 60A(1)(b)(i)][162] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Markets Act 1988,"".
 
 ##### 73 Regulations and Orders in Council
     
-*   (1) [Section 70(1)(g)][162] is amended by omitting ""; and, without limiting the generality of the foregoing, clauses specifying the duties and powers of trustees or statutory supervisors, as the case may be, and the obligations of issuers may be prescribed as clauses that are deemed to be contained in such deeds"".
+*   (1) [Section 70(1)(g)][163] is amended by omitting ""; and, without limiting the generality of the foregoing, clauses specifying the duties and powers of trustees or statutory supervisors, as the case may be, and the obligations of issuers may be prescribed as clauses that are deemed to be contained in such deeds"".
     
-    (2) [Section 70][162] is amended by inserting the following subsection after subsection (1):
+    (2) [Section 70][163] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) Regulations made for the purposes of subsection (1)(g) may, without limitation, do all or any of the following:
     >         
@@ -1901,31 +1907,31 @@ Miscellaneous and amendments to other Acts
 
 ##### 74 Amendment to Securities Markets Act 1988
     
-*   (1) This section amends the [Securities Markets Act 1988][163].
+*   (1) This section amends the [Securities Markets Act 1988][164].
     
-    (2) [Section 43F(1)(b)(i)][164] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Act 1978,"".
+    (2) [Section 43F(1)(b)(i)][165] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Act 1978,"".
 
 #### Amendment to Takeovers Act 1993
 
 ##### 75 Amendment to Takeovers Act 1993
     
-*   (1) This section amends the [Takeovers Act 1993][165].
+*   (1) This section amends the [Takeovers Act 1993][166].
     
-    (2) [Section 44F(b)(i)][166] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Act 1978,"".
+    (2) [Section 44F(b)(i)][167] is amended by inserting ""the Securities Trustees and Statutory Supervisors Act 2011,"" after ""the Securities Act 1978,"".
 
 #### Amendments to Trustee Companies Act 1967
 
 ##### 76 Amendments to Trustee Companies Act 1967
     
-*   (1) This section amends the [Trustee Companies Act 1967][167].
+*   (1) This section amends the [Trustee Companies Act 1967][168].
     
-    (2) [Section 7(2)][168] is amended by repealing paragraph (m) and substituting the following paragraph:
+    (2) [Section 7(2)][169] is amended by repealing paragraph (m) and substituting the following paragraph:
     
     > *   "(m) statutory supervisor (as defined in the Retirement Villages Act 2003) in respect of a retirement village covered by the trustee company's licence under the Securities Trustees and Statutory Supervisors Act 2011:".
     > 
     > 
     
-    (3) [Section 7(2)][168] is amended by repealing paragraph (p) and substituting the following paragraph:
+    (3) [Section 7(2)][169] is amended by repealing paragraph (p) and substituting the following paragraph:
     
     > *   "(p) trustee or statutory supervisor (as defined in the Securities Trustees and Statutory Supervisors Act 2011) in respect of a security covered by the trustee company's licence under that Act:".
     > 
@@ -1935,21 +1941,21 @@ Miscellaneous and amendments to other Acts
 
 #### Amendments to Unit Trusts Act 1960
 
-##### 77 Amendments to Unit Trusts Act 1960 
+##### 77 Amendments to Unit Trusts Act 1960
     
 *   [Sections 78 to 84][112] amend the [Unit Trusts Act 1960][129].
 
 ##### 78 Section 5 repealed
     
-*   [Section 5][146] is repealed.
+*   [Section 5][147] is repealed.
 
 ##### 79 Appointment of trustee
     
-*   [Section 8(b)][169] is amended by omitting ""eligible in accordance with section 5 of this Act"" and substituting ""who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers the unit trust"".
+*   [Section 8(b)][170] is amended by omitting ""eligible in accordance with section 5 of this Act"" and substituting ""who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers the unit trust"".
 
 ##### 80 New section 10 substituted
     
-*   [Section 10][170] is repealed and the following section substituted:
+*   [Section 10][171] is repealed and the following section substituted:
     
     > ##### "10 Removal of trustees
     >     
@@ -1971,7 +1977,7 @@ Miscellaneous and amendments to other Acts
 
 ##### 81 Implied provisions in trust deed
     
-*   (1) [Section 12][171] is amended by inserting the following subsection after subsection (1):
+*   (1) [Section 12][172] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) A provision implied in a trust deed by regulations made under section 28(2)(e)---
     >         
@@ -1983,17 +1989,17 @@ Miscellaneous and amendments to other Acts
     > 
     > 
     
-    (2) [Section 12(2)][171] is amended by inserting "", the manager,"" after ""the trustee"".
+    (2) [Section 12(2)][172] is amended by inserting "", the manager,"" after ""the trustee"".
 
 ##### 82 Meeting of unit holders
     
-*   (1) [Section 18(2)][172] is amended by adding ""and any directions given by the Financial Markets Authority under the Securities Trustees and Statutory Supervisors Act 2011"".
+*   (1) [Section 18(2)][173] is amended by adding ""and any directions given by the Financial Markets Authority under the Securities Trustees and Statutory Supervisors Act 2011"".
     
-    (2) [Section 18(4)][172] is amended by omitting ""the trusts or any rule of law"" and inserting ""the trusts, a direction of the Financial Markets Authority, any rule of law,"".
+    (2) [Section 18(4)][173] is amended by omitting ""the trusts or any rule of law"" and inserting ""the trusts, a direction of the Financial Markets Authority, any rule of law,"".
 
 ##### 83 New section 19A inserted
     
-*   The following section is inserted after [section 19][173]:
+*   The following section is inserted after [section 19][174]:
     
     > ##### "19A Trustee may apply to High Court for orders relating to unit trust
     >     
@@ -2043,7 +2049,7 @@ Miscellaneous and amendments to other Acts
 
 ##### 84 Regulations
     
-*   (1) [Section 28(2)][174] is amended by adding the following paragraphs:
+*   (1) [Section 28(2)][175] is amended by adding the following paragraphs:
     
     > *   "(d) prescribing information and other matters that must be included in a trust deed:
     > 
@@ -2051,7 +2057,7 @@ Miscellaneous and amendments to other Acts
     > 
     > 
     
-    (2) [Section 28][174] is amended by adding the following subsection:
+    (2) [Section 28][175] is amended by adding the following subsection:
     
     > *   "(3) A provision prescribed for the purposes of subsection (2)(e) may, without limitation, do any of the following:
     >         
@@ -2079,17 +2085,19 @@ Miscellaneous and amendments to other Acts
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][175] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][176] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][176] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][177] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][177] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][178] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][178] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][179] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][151]
+*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][180]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][135]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][152]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][136]
 
 
 
@@ -2216,11 +2224,11 @@ Miscellaneous and amendments to other Acts
 [120]: http://www.legislation.govt.nz/act/public/2011/0010/latest/whole.html#DLM2651333
 [121]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM28187
 [122]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220373
-[123]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607346
+[123]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3918989
 [124]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3231062
 [125]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM26805
 [126]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM378371
-[127]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607314
+[127]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3918902
 [128]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM25999
 [129]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325263
 [130]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM379491
@@ -2228,47 +2236,49 @@ Miscellaneous and amendments to other Acts
 [132]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM378380
 [133]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220831
 [134]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325269
-[135]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3360714
-[136]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3637804
-[137]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109400
-[138]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109510
-[139]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM320630
-[140]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607385
-[141]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607386
-[142]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607387
-[143]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607388
-[144]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM28896
-[145]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM28895
-[146]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325433
-[147]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220884
-[148]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3638453
-[149]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2997643
-[150]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998573
-[151]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998633
-[152]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144263
-[153]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144909
-[154]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144911
-[155]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3231004
-[156]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3232235
-[157]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109499
-[158]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1585437
-[159]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220883
-[160]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220885
-[161]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM29434
-[162]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM30129
-[163]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM139726
-[164]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM141877
-[165]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325508
-[166]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM326702
-[167]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM381179
-[168]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM381446
-[169]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325448
-[170]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325452
-[171]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325456
-[172]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325468
-[173]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325470
-[174]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325493
-[175]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998516
-[176]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998515
-[177]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998532
-[178]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[135]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3919128
+[136]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3360714
+[137]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3637804
+[138]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109400
+[139]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109510
+[140]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM320630
+[141]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607385
+[142]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607386
+[143]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607387
+[144]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1607388
+[145]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM28896
+[146]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM28895
+[147]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325433
+[148]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220884
+[149]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3638453
+[150]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2997643
+[151]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998573
+[152]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998633
+[153]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144263
+[154]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144909
+[155]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM144911
+[156]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3231004
+[157]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM3232235
+[158]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1109499
+[159]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM1585437
+[160]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220883
+[161]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM220885
+[162]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM29434
+[163]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM30129
+[164]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM139726
+[165]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM141877
+[166]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325508
+[167]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM326702
+[168]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM381179
+[169]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM381446
+[170]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325448
+[171]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325452
+[172]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325456
+[173]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325468
+[174]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325470
+[175]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM325493
+[176]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998516
+[177]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998515
+[178]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM2998532
+[179]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[180]: http://www.legislation.govt.nz/act/public/2011/0010/latest/link.aspx?id=DLM5146659
