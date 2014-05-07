@@ -1,5 +1,5 @@
 Reprint  
-as at 2 December 2011
+as at 1 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -23,49 +23,49 @@ This Act is administered by the Department of Internal Affairs.
 
 ## Contents
 
-[1 ][1] [Title][1]
+[1 ][1][][1][Title][1]
 
-[2 ][2] [Commencement][2]
+[2 ][2][][2][Commencement][2]
 
 [Preliminary provisions][3]
 
-[3 ][4] [Purpose][4]
+[3 ][4][][4][Purpose][4]
 
-[4 ][5] [Interpretation][5]
+[4 ][5][][5][Interpretation][5]
 
-[5 ][6] [Application][6]
+[5 ][6][][6][Application][6]
 
-[6 ][7] [Act binds the Crown][7]
+[6 ][7][][7][Act binds the Crown][7]
 
-[Application of Reserve Bank of New Zealand Act 1989][8]
+[Application of Non-bank Deposit Takers Act 2013][8]
 
-[7 ][9] [Part 5D of Reserve Bank of New Zealand Act 1989 does not apply to Funding Agency][9]
+[7 ][9][][9][Funding Agency not a non-bank deposit taker][9]
 
 [Application of Securities Act 1978][10]
 
-[8 ][11] [Securities Act 1978 applies to Funding Agency as if it were local authority][11]
+[8 ][11][][11][Securities Act 1978 applies to Funding Agency as if it were local authority][11]
 
 [Application of Local Government Act 2002][12]
 
-[9 ][13] [Exemption from prohibitions and restrictions applying to council-controlled trading organisations][13]
+[9 ][13][][13][Exemption from prohibitions and restrictions applying to council-controlled trading organisations][13]
 
-[10 ][14] [Additional requirements to be specified in local authority's financial strategy][14]
+[10 ][14][][14][Additional requirements to be specified in local authority's financial strategy][14]
 
-[11 ][15] [Exemption from prohibition on borrowing in foreign currency][15]
+[11 ][15][][15][Exemption from prohibition on borrowing in foreign currency][15]
 
-[12 ][16] [Certain arrangements and transactions to be treated as incidental arrangements and protected transactions under Local Government Act 2002][16]
+[12 ][16][][16][Certain arrangements and transactions to be treated as incidental arrangements and protected transactions under Local Government Act 2002][16]
 
 [Amendments to Income Tax Act 2007][17]
 
-[13 ][18] [Principal Act amended][18]
+[13 ][18][][18][Principal Act amended][18]
 
-[14 ][19] [Definitions][19]
+[14 ][19][][19][Definitions][19]
 
 [Crown relationship with Funding Agency][20]
 
-[15 ][21] [Crown may lend money to Funding Agency][21]
+[15 ][21][][21][Crown may lend money to Funding Agency][21]
 
-[16 ][22] [No Crown guarantee for debts of Funding Agency][22]
+[16 ][22][][22][No Crown guarantee for debts of Funding Agency][22]
 
 ---
 
@@ -119,17 +119,21 @@ The Parliament of New Zealand enacts as follows:
     
 *   This Act binds the Crown.
 
-#### Application of Reserve Bank of New Zealand Act 1989
-
-##### 7 Part 5D of Reserve Bank of New Zealand Act 1989 does not apply to Funding Agency
+#### Application of Non-bank Deposit Takers Act 2013
     
-*   [Part 5D][27] of the Reserve Bank of New Zealand Act 1989 does not apply to the Funding Agency.
+*   Heading: replaced, on 1 May 2014, by [section 92(2)][27] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
+
+##### 7 Funding Agency not a non-bank deposit taker
+    
+*   The Funding Agency is not an NBDT (a non-bank deposit taker) for the purposes of the [Non-bank Deposit Takers Act 2013][28].
+    
+    Section 7: replaced, on 1 May 2014, by [section 92(2)][27] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
 
 #### Application of Securities Act 1978
 
 ##### 8 Securities Act 1978 applies to Funding Agency as if it were local authority
     
-*   The [Securities Act 1978][28] applies to the Funding Agency as if it were a local authority.
+*   The [Securities Act 1978][29] applies to the Funding Agency as if it were a local authority.
 
 #### Application of Local Government Act 2002
 
@@ -139,7 +143,7 @@ The Parliament of New Zealand enacts as follows:
     
     (2) Despite section 62 of the Local Government Act 2002, a local authority may give a guarantee, an indemnity, or a security in respect of the performance of any obligation by the Funding Agency.
     
-    (3) Despite [section 63][29] of the Local Government Act 2002, a local authority may lend money, or provide any other financial accommodation, to the Funding Agency on terms and conditions that are more favourable to the Funding Agency than those that would apply if the local authority were (without charging any rate or rate revenue as security) borrowing the money or obtaining the financial accommodation.
+    (3) Despite [section 63][30] of the Local Government Act 2002, a local authority may lend money, or provide any other financial accommodation, to the Funding Agency on terms and conditions that are more favourable to the Funding Agency than those that would apply if the local authority were (without charging any rate or rate revenue as security) borrowing the money or obtaining the financial accommodation.
     
     (4) Subsection (5) applies if a local authority gives a guarantee, an indemnity, or a security, or lends money or provides any other financial accommodation, under subsection (2) or (3) while the Funding Agency is a council-controlled trading organisation and, subsequently, the Funding Agency ceases to be a council-controlled trading organisation.
     
@@ -147,7 +151,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 10 Additional requirements to be specified in local authority's financial strategy
     
-*   (1) This section applies to a local authority if it has adopted a financial strategy under [section 101A][30] of the Local Government Act 2002 and it gives a guarantee in relation to---
+*   (1) This section applies to a local authority if it has adopted a financial strategy under [section 101A][31] of the Local Government Act 2002 and it gives a guarantee in relation to---
         
     *   (a) any indebtedness of the Funding Agency:
     
@@ -157,7 +161,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 11 Exemption from prohibition on borrowing in foreign currency
     
-*   [Section 113(1)][31] of the Local Government Act 2002 does not apply in relation to a guarantee by a local authority of any indebtedness of the Funding Agency.
+*   [Section 113(1)][32] of the Local Government Act 2002 does not apply in relation to a guarantee by a local authority of any indebtedness of the Funding Agency.
 
 ##### 12 Certain arrangements and transactions to be treated as incidental arrangements and protected transactions under Local Government Act 2002
     
@@ -173,9 +177,9 @@ The Parliament of New Zealand enacts as follows:
     
     (2) The arrangements are---
         
-    *   (a) incidental arrangements for the purposes of [sections 114][32] and [115][33] of the Local Government Act 2002; and
+    *   (a) incidental arrangements for the purposes of [sections 114][33] and [115][34] of the Local Government Act 2002; and
     
-    *   (b) protected transactions for the purposes of [sections 117 to 120][34] of the Local Government Act 2002\.
+    *   (b) protected transactions for the purposes of [sections 117 to 120][35] of the Local Government Act 2002\.
     
     
 
@@ -187,9 +191,9 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 14 Definitions
     
-*   (1) Paragraph (b) of the definition of _council-controlled organisation_ in [section YA 1][35] is amended by adding ""or the New Zealand Local Government Funding Agency Limited"".
+*   (1) Paragraph (b) of the definition of _council-controlled organisation_ in [section YA 1][36] is amended by adding ""or the New Zealand Local Government Funding Agency Limited"".
     
-    (2) The definition of _local authority_ in [section YA 1][35] is amended by adding the following subparagraph:
+    (2) The definition of _local authority_ in [section YA 1][36] is amended by adding the following subparagraph:
     
     > *   "(ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002".
     > 
@@ -221,76 +225,33 @@ The Parliament of New Zealand enacts as follows:
     
     (2) If the Funding Agency enters into any loan agreement or incidental arrangement, the agreement or arrangement must include a statement that the loan or liability under the agreement or arrangement is not guaranteed by the Crown.
     
-    (3) In this section, _incidental arrangement_ means an arrangement that would, if the Funding Agency were a local authority, come within the meaning of that term in [section 112][36] of the Local Government Act 2002\.
+    (3) In this section, _incidental arrangement_ means an arrangement that would, if the Funding Agency were a local authority, come within the meaning of that term in [section 112][37] of the Local Government Act 2002\.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Local Government Borrowing Act 2011\. The reprint incorporates all the amendments to the Act as at 2 December 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+*   This is a reprint of the Local Government Borrowing Act 2011 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][38] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][39] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][40] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][27]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2011/0077/latest/whole.html#DLM3989700
 [2]: http://www.legislation.govt.nz/act/public/2011/0077/latest/whole.html#DLM3989701
 [3]: http://www.legislation.govt.nz/act/public/2011/0077/latest/whole.html#DLM3620710
@@ -317,18 +278,18 @@ The Parliament of New Zealand enacts as follows:
 [24]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM320106
 [25]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM160819
 [26]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM170872
-[27]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM1607314
-[28]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM25999
-[29]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM171886
-[30]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM3414327
-[31]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172393
-[32]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172395
-[33]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172396
-[34]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172900
-[35]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM1520575
-[36]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172378
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM195470
+[27]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM3919128
+[28]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM3918902
+[29]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM25999
+[30]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM171886
+[31]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM3414327
+[32]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172393
+[33]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172395
+[34]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172396
+[35]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172900
+[36]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM1520575
+[37]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM172378
+[38]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM2998516
+[39]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM2998515
+[40]: http://www.legislation.govt.nz/act/public/2011/0077/latest/link.aspx?id=DLM2998532
+[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
