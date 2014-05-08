@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,32 +23,32 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 ## Contents
 
-[1 ][1][][1][Title][1]
+[1][1][][1][Title][1]
 
-[2 ][2][][2][Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [Purposes][4]
 
-[3 ][5][][5][Main purposes][5]
+[3][5][][5][Main purposes][5]
 
-[4 ][6][][6][Additional purposes][6]
+[4][6][][6][Additional purposes][6]
 
 [Overview][7]
 
-[5 ][8][][8][Overview][8]
+[5][8][][8][Overview][8]
 
 [Interpretation][9]
 
-[6 ][10][][10][Interpretation][10]
+[6][10][][10][Interpretation][10]
 
-[7 ][11][][11][Meaning of financial product][11]
+[7][11][][11][Meaning of financial product][11]
 
-[8 ][12][][12][Definitions relating to kinds of financial products][12]
+[8][12][][12][Definitions relating to kinds of financial products][12]
 
-[9 ][13][][13][Definitions of financial benefit and of managed investment scheme][13]
+[9][13][][13][Definitions of financial benefit and of managed investment scheme][13]
 
 [10][14][][14][Miscellaneous matters relating to definition of derivative][14]
 
@@ -56,1141 +56,1141 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [12][16][][16][Meaning of associated person and related body corporate][16]
 
-[13 ][17][][17][Miscellaneous interpretation provisions relating to statements and information][17]
+[13][17][][17][Miscellaneous interpretation provisions relating to statements and information][17]
 
-[14 ][18][][18][Status of examples][18]
+[14][18][][18][Status of examples][18]
 
 [Act binds the Crown][19]
 
-[15 ][20][][20][Act binds the Crown][20]
+[15][20][][20][Act binds the Crown][20]
 
 [General application provision][21]
 
-[16 ][22][][22][Application of Act][22]
+[16][22][][22][Application of Act][22]
 
 [Part 2][23]  
 [Fair dealing][23]
 
-[17 ][24][][24][Overview][24]
+[17][24][][24][Overview][24]
 
-[18 ][25][][25][Interpretation in this Part][25]
+[18][25][][25][Interpretation in this Part][25]
 
 [Misleading or deceptive conduct, false or misleading representations, and unsubstantiated representations][26]
 
-[19 ][27][][27][Misleading or deceptive conduct generally][27]
+[19][27][][27][Misleading or deceptive conduct generally][27]
 
-[20 ][28][][28][Misleading conduct in relation to financial products][28]
+[20][28][][28][Misleading conduct in relation to financial products][28]
 
-[21 ][29][][29][Misleading conduct in relation to financial services][29]
+[21][29][][29][Misleading conduct in relation to financial services][29]
 
-[22 ][30][][30][False or misleading representations][30]
+[22][30][][30][False or misleading representations][30]
 
-[23 ][31][][31][Unsubstantiated representations][31]
+[23][31][][31][Unsubstantiated representations][31]
 
-[24 ][32][][32][Court must have regard to certain matters][32]
+[24][32][][32][Court must have regard to certain matters][32]
 
-[25 ][33][][33][Limitation on commencement of proceedings in relation to unsubstantiated representations][33]
+[25][33][][33][Limitation on commencement of proceedings in relation to unsubstantiated representations][33]
 
-[26 ][34][][34][Section 23 does not apply to representations in PDSs, register entries, or other disclosure documents][34]
+[26][34][][34][Section 23 does not apply to representations in PDSs, register entries, or other disclosure documents][34]
 
-[27 ][35][][35][Section 23 subject to other enactments][35]
+[27][35][][35][Section 23 subject to other enactments][35]
 
-[28 ][36][][36][Certain conduct does not contravene various provisions][36]
+[28][36][][36][Certain conduct does not contravene various provisions][36]
 
-[29 ][37][][37][Limited application of provisions in relation to newspapers, magazines, broadcasting, etc][37]
+[29][37][][37][Limited application of provisions in relation to newspapers, magazines, broadcasting, etc][37]
 
-[30 ][38][][38][Defence for publisher][38]
+[30][38][][38][Defence for publisher][38]
 
-[31 ][39][][39][Licensed market operator does not contravene by notifying disclosures][39]
+[31][39][][39][Licensed market operator does not contravene by notifying disclosures][39]
 
-[32 ][40][][40][Other exceptions][40]
+[32][40][][40][Other exceptions][40]
 
-[33 ][41][][41][Territorial scope of sections 19 to 23][41]
+[33][41][][41][Territorial scope of sections 19 to 23][41]
 
 [Offers in course of unsolicited meetings][42]
 
-[34 ][43][][43][Prohibition of offers in course of unsolicited meetings with persons acting otherwise than in trade][43]
+[34][43][][43][Prohibition of offers in course of unsolicited meetings with persons acting otherwise than in trade][43]
 
-[35 ][44][][44][Right to withdraw][44]
+[35][44][][44][Right to withdraw][44]
 
-[36 ][45][][45][Offeror obligations if notice of withdrawal given][45]
+[36][45][][45][Offeror obligations if notice of withdrawal given][45]
 
-[37 ][46][][46][Director not liable if no misconduct or negligence][46]
+[37][46][][46][Director not liable if no misconduct or negligence][46]
 
 [Civil liability][47]
 
-[38 ][48][][48][Civil liability for certain contraventions of this Part][48]
+[38][48][][48][Civil liability for certain contraventions of this Part][48]
 
 [Part 3][49]  
 [Disclosure of offers of financial products][49]
 
 [Subpart 1][50][---][50][Application][50]
 
-[39 ][51][][51][Issue offers that need disclosure][51]
+[39][51][][51][Issue offers that need disclosure][51]
 
-[40 ][52][][52][Sale offers that need disclosure][52]
+[40][52][][52][Sale offers that need disclosure][52]
 
-[41 ][53][][53][Meaning of regulated offer and of regulated product][53]
+[41][53][][53][Meaning of regulated offer and of regulated product][53]
 
-[42 ][54][][54][Regulated offers that need to meet additional governance requirements][54]
+[42][54][][54][Regulated offers that need to meet additional governance requirements][54]
 
-[43 ][55][][55][Options over financial products][55]
+[43][55][][55][Options over financial products][55]
 
-[44 ][56][][56][Treatment of offers of convertible financial products][56]
+[44][56][][56][Treatment of offers of convertible financial products][56]
 
-[45 ][57][][57][Treatment of offers of renewals and variations][57]
+[45][57][][57][Treatment of offers of renewals and variations][57]
 
-[46 ][58][][58][Offers of financial products involving customised terms][58]
+[46][58][][58][Offers of financial products involving customised terms][58]
 
-[47 ][59][][59][Territorial scope of Part][59]
+[47][59][][59][Territorial scope of Part][59]
 
 [Subpart 2][60][---][60][Procedure for making regulated offers][60]
 
 [Product disclosure statement must be prepared and lodged][61]
 
-[48 ][62][][62][PDS must be prepared and lodged][62]
+[48][62][][62][PDS must be prepared and lodged][62]
 
-[49 ][63][][63][Purpose of PDS][63]
+[49][63][][63][Purpose of PDS][63]
 
 [Disclosure to investors][64]
 
-[50 ][65][][65][PDS must be given if offer requires disclosure][65]
+[50][65][][65][PDS must be given if offer requires disclosure][65]
 
-[51 ][66][][66][Certain situations in which section 50 does not need to be complied with][66]
+[51][66][][66][Certain situations in which section 50 does not need to be complied with][66]
 
-[52 ][67][][67][PDS treated as having been given if application form used was included in, or accompanied by, PDS][67]
+[52][67][][67][PDS treated as having been given if application form used was included in, or accompanied by, PDS][67]
 
-[53 ][68][][68][Offence to knowingly or recklessly contravene section 50][68]
+[53][68][][68][Offence to knowingly or recklessly contravene section 50][68]
 
-[54 ][69][][69][Right to withdraw][69]
+[54][69][][69][Right to withdraw][69]
 
-[55 ][70][][70][Offeror obligations if notice of withdrawal given][70]
+[55][70][][70][Offeror obligations if notice of withdrawal given][70]
 
-[56 ][71][][71][Director not liable if no misconduct or negligence][71]
+[56][71][][71][Director not liable if no misconduct or negligence][71]
 
 [Content and presentation of product disclosure statements and register entries][72]
 
-[57 ][73][][73][Disclosure of material information and content of PDS and register entry][73]
+[57][73][][73][Disclosure of material information and content of PDS and register entry][73]
 
-[58 ][74][][74][Register entry not required in prescribed circumstances][74]
+[58][74][][74][Register entry not required in prescribed circumstances][74]
 
-[59 ][75][][75][Meaning of material information in this Part][75]
+[59][75][][75][Meaning of material information in this Part][75]
 
-[60 ][76][][76][Consent of experts and persons who make endorsements][76]
+[60][76][][76][Consent of experts and persons who make endorsements][76]
 
-[61 ][77][][77][PDS must be worded and presented in clear, concise, and effective manner][77]
+[61][77][][77][PDS must be worded and presented in clear, concise, and effective manner][77]
 
-[62 ][78][][78][PDS must comply with prescribed requirements relating to form and presentation][78]
+[62][78][][78][PDS must comply with prescribed requirements relating to form and presentation][78]
 
 [Other provisions relating to lodging of PDS and other documents][79]
 
-[63 ][80][][80][Supply of prescribed information][80]
+[63][80][][80][Supply of prescribed information][80]
 
-[64 ][81][][81][Registrar must notify FMA of lodgement of PDS][81]
+[64][81][][81][Registrar must notify FMA of lodgement of PDS][81]
 
-[65 ][82][][82][Waiting period after lodgement before processing applications for financial products][82]
+[65][82][][82][Waiting period after lodgement before processing applications for financial products][82]
 
-[66 ][83][][83][FMA may extend period][83]
+[66][83][][83][FMA may extend period][83]
 
-[67 ][84][][84][Waiting period restriction does not prevent offeror from acting under another PDS][84]
+[67][84][][84][Waiting period restriction does not prevent offeror from acting under another PDS][84]
 
-[68 ][85][][85][FMA may remove restrictions if its consideration complete or consideration or further consideration unnecessary][85]
+[68][85][][85][FMA may remove restrictions if its consideration complete or consideration or further consideration unnecessary][85]
 
-[69 ][86][][86][Waiting period does not usually apply to continuous issue PDSs][86]
+[69][86][][86][Waiting period does not usually apply to continuous issue PDSs][86]
 
-[70 ][87][][87][No guarantee or representation as to compliance][87]
+[70][87][][87][No guarantee or representation as to compliance][87]
 
-[71 ][88][][88][When supplementary document or replacement PDS may be lodged][88]
+[71][88][][88][When supplementary document or replacement PDS may be lodged][88]
 
-[72 ][89][][89][Supplementary document][89]
+[72][89][][89][Supplementary document][89]
 
-[73 ][90][][90][Replacement PDS][90]
+[73][90][][90][Replacement PDS][90]
 
-[74 ][91][][91][Registrar must notify FMA of lodgement of supplementary document or replacement PDS][91]
+[74][91][][91][Registrar must notify FMA of lodgement of supplementary document or replacement PDS][91]
 
-[75 ][92][][92][Publication of lodgement][92]
+[75][92][][92][Publication of lodgement][92]
 
 [Amending register entry][93]
 
-[76 ][94][][94][When register entry may be amended][94]
+[76][94][][94][When register entry may be amended][94]
 
 [Conditions referred to in PDS][95]
 
-[77 ][96][][96][Minimum number or amount condition must be fulfilled before issue or transfer][96]
+[77][96][][96][Minimum number or amount condition must be fulfilled before issue or transfer][96]
 
-[78 ][97][][97][Issue or transfer void if quotation condition not fulfilled][97]
+[78][97][][97][Issue or transfer void if quotation condition not fulfilled][97]
 
 [Dealing with applications where condition referred to in PDS not met or disclosure defective][98]
 
-[79 ][99][][99][Application of section 80][99]
+[79][99][][99][Application of section 80][99]
 
-[80 ][100][][100][Choices open to offeror][100]
+[80][100][][100][Choices open to offeror][100]
 
-[81 ][101][][101][Director not liable if no misconduct or negligence][101]
+[81][101][][101][Director not liable if no misconduct or negligence][101]
 
 [Prohibition of offers where defective disclosure in PDS or register entry][102]
 
-[82 ][103][][103][False or misleading statements, omissions, and new matters requiring disclosure][103]
+[82][103][][103][False or misleading statements, omissions, and new matters requiring disclosure][103]
 
-[83 ][104][][104][Persons who must inform offeror about disclosure deficiencies][104]
+[83][104][][104][Persons who must inform offeror about disclosure deficiencies][104]
 
 [Expiry][105]
 
-[84 ][106][][106][Expiry][106]
+[84][106][][106][Expiry][106]
 
-[85 ][107][][107][How offeror must deal with applications on expiry][107]
+[85][107][][107][How offeror must deal with applications on expiry][107]
 
-[86 ][108][][108][Director not liable if no misconduct or negligence][108]
+[86][108][][108][Director not liable if no misconduct or negligence][108]
 
 [Money for financial products must be held in trust][109]
 
-[87 ][110][][110][Money for financial products must be held in trust][110]
+[87][110][][110][Money for financial products must be held in trust][110]
 
 [Offering financial products in entity that does not exist][111]
 
-[88 ][112][][112][Offering financial products of entity that does not exist][112]
+[88][112][][112][Offering financial products of entity that does not exist][112]
 
 [Subpart 3][113][---][113][Advertising][113]
 
-[89 ][114][][114][Advertising for regulated offers][114]
+[89][114][][114][Advertising for regulated offers][114]
 
-[90 ][115][][115][Distribution of PDS or registered documents][115]
+[90][115][][115][Distribution of PDS or registered documents][115]
 
-[91 ][116][][116][Advertising before PDS lodged][116]
+[91][116][][116][Advertising before PDS lodged][116]
 
-[92 ][117][][117][Advertising after PDS lodged][117]
+[92][117][][117][Advertising after PDS lodged][117]
 
-[93 ][118][][118][Documents to which subpart does not apply][118]
+[93][118][][118][Documents to which subpart does not apply][118]
 
-[94 ][119][][119][Defence for publishers][119]
+[94][119][][119][Defence for publishers][119]
 
 [Subpart 4][120][---][120][Ongoing disclosure and updating of registers][120]
 
 [Duty to update register of offers of financial products and register of managed investment schemes][121]
 
-[95 ][122][][122][Duty to notify changes to Registrar][122]
+[95][122][][122][Duty to notify changes to Registrar][122]
 
 [Disclosure to particular persons][123]
 
-[96 ][124][][124][Information to be made available to investors or other prescribed persons][124]
+[96][124][][124][Information to be made available to investors or other prescribed persons][124]
 
 [Public disclosure][125]
 
-[97 ][126][][126][Information to be made publicly available][126]
+[97][126][][126][Information to be made publicly available][126]
 
-[98 ][127][][127][Issuer must provide information to Registrar][127]
+[98][127][][127][Issuer must provide information to Registrar][127]
 
 [Defective ongoing disclosure][128]
 
-[99 ][129][][129][Defective ongoing disclosure][129]
+[99][129][][129][Defective ongoing disclosure][129]
 
 [Confirmation][130]
 
-[100 ][131][][131][Issuer or offeror must provide confirmation][131]
+[100][131][][131][Issuer or offeror must provide confirmation][131]
 
 [Subpart 5][132][---][132][Civil liability for certain contraventions of this Part][132]
 
-[101 ][133][][133][Part 3 offer provisions][133]
+[101][133][][133][Part 3 offer provisions][133]
 
 [Part 4][134]  
 [Governance of financial products][134]
 
-[102 ][135][][135][Overview][135]
+[102][135][][135][Overview][135]
 
 [Subpart 1][136][---][136][Governance of debt securities][136]
 
-[103 ][137][][137][Need for governing document and supervisor for regulated offer of debt security][137]
+[103][137][][137][Need for governing document and supervisor for regulated offer of debt security][137]
 
 [Governing document requirements][138]
 
-[104 ][139][][139][Contents of trust deed for debt securities][139]
+[104][139][][139][Contents of trust deed for debt securities][139]
 
-[105 ][140][][140][Limits on permitted exemptions and indemnities][140]
+[105][140][][140][Limits on permitted exemptions and indemnities][140]
 
-[106 ][141][][141][Trust deed must be legally enforceable][141]
+[106][141][][141][Trust deed must be legally enforceable][141]
 
-[107 ][142][][142][Effect of trust deed][142]
+[107][142][][142][Effect of trust deed][142]
 
-[108 ][143][][143][Changes to trust deed][143]
+[108][143][][143][Changes to trust deed][143]
 
-[109 ][144][][144][Power to make FMA-approved changes to trust deeds][144]
+[109][144][][144][Power to make FMA-approved changes to trust deeds][144]
 
-[110 ][145][][145][Lodging of changes to trust deed][145]
+[110][145][][145][Lodging of changes to trust deed][145]
 
 [Role of supervisor][146]
 
-[111 ][147][][147][Functions of supervisor][147]
+[111][147][][147][Functions of supervisor][147]
 
-[112 ][148][][148][General duties applying in exercise of supervisor's functions][148]
+[112][148][][148][General duties applying in exercise of supervisor's functions][148]
 
-[113 ][149][][149][Duty of supervisor to comply with professional standard of care][149]
+[113][149][][149][Duty of supervisor to comply with professional standard of care][149]
 
-[114 ][150][][150][Duty of issuer to provide reports to supervisor][150]
+[114][150][][150][Duty of issuer to provide reports to supervisor][150]
 
-[115 ][151][][151][Duty of issuer to provide requested information and reports to supervisor][151]
+[115][151][][151][Duty of issuer to provide requested information and reports to supervisor][151]
 
-[116 ][152][][152][Issuer must report contravention or possible contravention of issuer obligations][152]
+[116][152][][152][Issuer must report contravention or possible contravention of issuer obligations][152]
 
-[117 ][153][][153][Restriction on use of reports on contraventions][153]
+[117][153][][153][Restriction on use of reports on contraventions][153]
 
-[118 ][154][][154][Duty of issuer to report serious financial problems][154]
+[118][154][][154][Duty of issuer to report serious financial problems][154]
 
-[119 ][155][][155][Power of supervisor to engage expert][155]
+[119][155][][155][Power of supervisor to engage expert][155]
 
 [Meetings of product holders][156]
 
-[120 ][157][][157][Meetings of product holders][157]
+[120][157][][157][Meetings of product holders][157]
 
-[121 ][158][][158][Supervisor's attendance at meetings of product holders and power to appoint chair][158]
+[121][158][][158][Supervisor's attendance at meetings of product holders and power to appoint chair][158]
 
 [Change of supervisor][159]
 
-[122 ][160][][160][Change of supervisor][160]
+[122][160][][160][Change of supervisor][160]
 
-[123 ][161][][161][Lodging of notice of change of supervisor][161]
+[123][161][][161][Lodging of notice of change of supervisor][161]
 
 [Subpart 2][162][---][162][Governance of managed investment products][162]
 
-[124 ][163][][163][Overview][163]
+[124][163][][163][Overview][163]
 
 [Need to register][164]
 
-[125 ][165][][165][Need to register managed investment scheme for regulated offer of managed investment product][165]
+[125][165][][165][Need to register managed investment scheme for regulated offer of managed investment product][165]
 
 [Registration][166]
 
-[126 ][167][][167][Application for registration][167]
+[126][167][][167][Application for registration][167]
 
-[127 ][168][][168][Initial and ongoing registration requirements for all managed investment schemes][168]
+[127][168][][168][Initial and ongoing registration requirements for all managed investment schemes][168]
 
-[128 ][169][][169][Additional initial and ongoing registration requirements for KiwiSaver schemes][169]
+[128][169][][169][Additional initial and ongoing registration requirements for KiwiSaver schemes][169]
 
-[129 ][170][][170][Additional initial and ongoing registration requirements for superannuation schemes][170]
+[129][170][][170][Additional initial and ongoing registration requirements for superannuation schemes][170]
 
-[130 ][171][][171][Additional initial and ongoing registration requirements for workplace savings schemes][171]
+[130][171][][171][Additional initial and ongoing registration requirements for workplace savings schemes][171]
 
-[131 ][172][][172][Additional ongoing registration requirements for restricted schemes][172]
+[131][172][][172][Additional ongoing registration requirements for restricted schemes][172]
 
-[132 ][173][][173][Additional prescribed registration requirements for other particular prescribed types of schemes][173]
+[132][173][][173][Additional prescribed registration requirements for other particular prescribed types of schemes][173]
 
-[133 ][174][][174][Manager must ensure that ongoing registration requirements are complied with][174]
+[133][174][][174][Manager must ensure that ongoing registration requirements are complied with][174]
 
-[134 ][175][][175][Changes to registration as particular type of registered scheme][175]
+[134][175][][175][Changes to registration as particular type of registered scheme][175]
 
 [Governing document requirements][176]
 
-[135 ][177][][177][Contents of governing document for registered scheme][177]
+[135][177][][177][Contents of governing document for registered scheme][177]
 
-[136 ][178][][178][Limits on permitted exemptions and indemnities][178]
+[136][178][][178][Limits on permitted exemptions and indemnities][178]
 
-[137 ][179][][179][Governing document must be legally enforceable][179]
+[137][179][][179][Governing document must be legally enforceable][179]
 
-[138 ][180][][180][Effect of governing document][180]
+[138][180][][180][Effect of governing document][180]
 
-[139 ][181][][181][Changes to governing document][181]
+[139][181][][181][Changes to governing document][181]
 
-[140 ][182][][182][Power to make FMA and court-approved changes to governing documents][182]
+[140][182][][182][Power to make FMA and court-approved changes to governing documents][182]
 
-[141 ][183][][183][Lodging of changes to governing document][183]
+[141][183][][183][Lodging of changes to governing document][183]
 
 [Role of manager][184]
 
-[142 ][185][][185][Management and administration functions of manager][185]
+[142][185][][185][Management and administration functions of manager][185]
 
-[143 ][186][][186][General duties applying in exercise of manager's functions][186]
+[143][186][][186][General duties applying in exercise of manager's functions][186]
 
-[144 ][187][][187][Duty of manager and investment manager to comply with relevant professional standard of care][187]
+[144][187][][187][Duty of manager and investment manager to comply with relevant professional standard of care][187]
 
-[145 ][188][][188][Duties of directors and senior managers of manager][188]
+[145][188][][188][Duties of directors and senior managers of manager][188]
 
-[146 ][189][][189][Contracting out of management functions][189]
+[146][189][][189][Contracting out of management functions][189]
 
-[147 ][190][][190][Duty of manager to provide reports to supervisor or FMA][190]
+[147][190][][190][Duty of manager to provide reports to supervisor or FMA][190]
 
-[148 ][191][][191][Duty of manager to provide requested information and reports to supervisor][191]
+[148][191][][191][Duty of manager to provide requested information and reports to supervisor][191]
 
-[149 ][192][][192][Duty of manager to report contravention or possible contravention of issuer obligations][192]
+[149][192][][192][Duty of manager to report contravention or possible contravention of issuer obligations][192]
 
-[150 ][193][][193][Restriction on use of reports on contraventions][193]
+[150][193][][193][Restriction on use of reports on contraventions][193]
 
-[151 ][194][][194][Duty of manager to report serious financial problems][194]
+[151][194][][194][Duty of manager to report serious financial problems][194]
 
 [Role of supervisor][195]
 
-[152 ][196][][196][Functions of supervisor][196]
+[152][196][][196][Functions of supervisor][196]
 
-[153 ][197][][197][General duties applying in exercise of supervisor's functions][197]
+[153][197][][197][General duties applying in exercise of supervisor's functions][197]
 
-[154 ][198][][198][Duty of supervisor to comply with professional standard of care][198]
+[154][198][][198][Duty of supervisor to comply with professional standard of care][198]
 
-[155 ][199][][199][Power of supervisor to engage expert][199]
+[155][199][][199][Power of supervisor to engage expert][199]
 
 [Custodianship of scheme property][200]
 
-[156 ][201][][201][Requirement to have supervisor or other independent person as custodian][201]
+[156][201][][201][Requirement to have supervisor or other independent person as custodian][201]
 
-[157 ][202][][202][Custodian holds scheme property on trust][202]
+[157][202][][202][Custodian holds scheme property on trust][202]
 
-[158 ][203][][203][Custodian must keep records of scheme property][203]
+[158][203][][203][Custodian must keep records of scheme property][203]
 
-[159 ][204][][204][Custodian must report on scheme property][204]
+[159][204][][204][Custodian must report on scheme property][204]
 
-[160 ][205][][205][Duty of supervisor to refuse to act on wrongful directions][205]
+[160][205][][205][Duty of supervisor to refuse to act on wrongful directions][205]
 
 [Meetings of scheme participants][206]
 
-[161 ][207][][207][Meetings of scheme participants][207]
+[161][207][][207][Meetings of scheme participants][207]
 
-[162 ][208][][208][Supervisor's attendance at meetings of scheme participants and power to appoint chair][208]
+[162][208][][208][Supervisor's attendance at meetings of scheme participants and power to appoint chair][208]
 
-[163 ][209][][209][Manager and associated persons cannot vote if interested in resolution][209]
+[163][209][][209][Manager and associated persons cannot vote if interested in resolution][209]
 
 [Management of scheme][210]
 
-[164 ][211][][211][Requirement for statement of investment policy and objectives][211]
+[164][211][][211][Requirement for statement of investment policy and objectives][211]
 
-[165 ][212][][212][Changes to statement of investment policy and objectives][212]
+[165][212][][212][Changes to statement of investment policy and objectives][212]
 
-[166 ][213][][213][Lodging of statement of investment policy and objectives and changes to statement][213]
+[166][213][][213][Lodging of statement of investment policy and objectives and changes to statement][213]
 
-[167 ][214][][214][Action that must be taken on limit breaks][214]
+[167][214][][214][Action that must be taken on limit breaks][214]
 
-[168 ][215][][215][Action that must be taken on pricing errors and failure to comply with pricing methodologies][215]
+[168][215][][215][Action that must be taken on pricing errors and failure to comply with pricing methodologies][215]
 
-[169 ][216][][216][Actuarial examination of defined benefit scheme or life benefit scheme][216]
+[169][216][][216][Actuarial examination of defined benefit scheme or life benefit scheme][216]
 
-[170 ][217][][217][Power of manager to adjust financial benefits to comply with portfolio investment entity rules][217]
+[170][217][][217][Power of manager to adjust financial benefits to comply with portfolio investment entity rules][217]
 
-[171 ][218][][218][Limits on reversion of scheme property in certain schemes to non-scheme participant contributor][218]
+[171][218][][218][Limits on reversion of scheme property in certain schemes to non-scheme participant contributor][218]
 
 [Related party transactions][219]
 
-[172 ][220][][220][Definition of related party benefit][220]
+[172][220][][220][Definition of related party benefit][220]
 
-[173 ][221][][221][General prohibition on transactions giving related party benefits][221]
+[173][221][][221][General prohibition on transactions giving related party benefits][221]
 
-[174 ][222][][222][Certain related party benefits permitted][222]
+[174][222][][222][Certain related party benefits permitted][222]
 
-[175 ][223][][223][Requirements for certificates as to related party benefits][223]
+[175][223][][223][Requirements for certificates as to related party benefits][223]
 
-[176 ][224][][224][Additional restrictions on acquisitions by restricted schemes of in-house assets][224]
+[176][224][][224][Additional restrictions on acquisitions by restricted schemes of in-house assets][224]
 
-[177 ][225][][225][General duties not affected][225]
+[177][225][][225][General duties not affected][225]
 
 [Scheme participant transfer rules for KiwiSaver, superannuation, and workplace savings schemes][226]
 
-[178 ][227][][227][Application of scheme participant transfer rules][227]
+[178][227][][227][Application of scheme participant transfer rules][227]
 
-[179 ][228][][228][Methods of transfer of scheme participants to another scheme or another section of scheme][228]
+[179][228][][228][Methods of transfer of scheme participants to another scheme or another section of scheme][228]
 
-[180 ][229][][229][Transfer of substantial numbers of scheme participants with scheme participant consent][229]
+[180][229][][229][Transfer of substantial numbers of scheme participants with scheme participant consent][229]
 
-[181 ][230][][230][Transfer with FMA consent][230]
+[181][230][][230][Transfer with FMA consent][230]
 
-[182 ][231][][231][Transfers from KiwiSaver scheme][231]
+[182][231][][231][Transfers from KiwiSaver scheme][231]
 
 [Provisions as to deferred benefits for superannuation schemes and workplace savings schemes][232]
 
-[183 ][233][][233][Deferred benefits][233]
+[183][233][][233][Deferred benefits][233]
 
 [Change of manager][234]
 
-[184 ][235][][235][Application of sections 185 to 192][235]
+[184][235][][235][Application of sections 185 to 192][235]
 
-[185 ][236][][236][Removal of manager of registered scheme][236]
+[185][236][][236][Removal of manager of registered scheme][236]
 
-[186 ][237][][237][Supervisor or FMA may make temporary appointment][237]
+[186][237][][237][Supervisor or FMA may make temporary appointment][237]
 
-[187 ][238][][238][Term, powers, and duties of temporary manager][238]
+[187][238][][238][Term, powers, and duties of temporary manager][238]
 
-[188 ][239][][239][FMA's costs must be reimbursed from scheme][239]
+[188][239][][239][FMA's costs must be reimbursed from scheme][239]
 
-[189 ][240][][240][Supervisor or FMA must take reasonable steps to arrange for new appointment][240]
+[189][240][][240][Supervisor or FMA must take reasonable steps to arrange for new appointment][240]
 
-[190 ][241][][241][Former manager must hand over records and give reasonable assistance][241]
+[190][241][][241][Former manager must hand over records and give reasonable assistance][241]
 
-[191 ][242][][242][Statutory novation of rights, obligations, and liabilities of former manager][242]
+[191][242][][242][Statutory novation of rights, obligations, and liabilities of former manager][242]
 
-[192 ][243][][243][Lodging of notice of changes to manager][243]
+[192][243][][243][Lodging of notice of changes to manager][243]
 
 [Change of supervisor][244]
 
-[193 ][245][][245][Change of supervisor][245]
+[193][245][][245][Change of supervisor][245]
 
-[194 ][246][][246][Lodging of notice of change of supervisor][246]
+[194][246][][246][Lodging of notice of change of supervisor][246]
 
 [Cancellation of registration][247]
 
-[195 ][248][][248][Cancellation of registration][248]
+[195][248][][248][Cancellation of registration][248]
 
-[196 ][249][][249][Registrar must remove scheme from register on cancellation of registration][249]
+[196][249][][249][Registrar must remove scheme from register on cancellation of registration][249]
 
 [Subpart 3][250][---][250][Intervention in debt securities offered under regulated offer or registered schemes][250]
 
 [Provisions assisting supervisor or FMA to intervene][251]
 
-[197 ][252][][252][Application][252]
+[197][252][][252][Application][252]
 
-[198 ][253][][253][Duty of auditor to report to supervisor or FMA][253]
+[198][253][][253][Duty of auditor to report to supervisor or FMA][253]
 
-[199 ][254][][254][Duty of auditor, investment manager, administration manager, custodian, or actuary to report serious problems][254]
+[199][254][][254][Duty of auditor, investment manager, administration manager, custodian, or actuary to report serious problems][254]
 
-[200 ][255][][255][What person must do if duty to report serious problem applies][255]
+[200][255][][255][What person must do if duty to report serious problem applies][255]
 
-[201 ][256][][256][Protections extend to volunteers of supporting information for other protected disclosures][256]
+[201][256][][256][Protections extend to volunteers of supporting information for other protected disclosures][256]
 
-[202 ][257][][257][FMA may require supervisor to attest as to issuer's compliance with issuer obligations][257]
+[202][257][][257][FMA may require supervisor to attest as to issuer's compliance with issuer obligations][257]
 
-[203 ][258][][258][Duty of supervisor to report contravention or possible contravention of issuer obligations to FMA][258]
+[203][258][][258][Duty of supervisor to report contravention or possible contravention of issuer obligations to FMA][258]
 
-[204 ][259][][259][Duty of supervisor to report serious financial problems to FMA][259]
+[204][259][][259][Duty of supervisor to report serious financial problems to FMA][259]
 
-[205 ][260][][260][FMA's powers of direction][260]
+[205][260][][260][FMA's powers of direction][260]
 
-[206 ][261][][261][FMA's directions to supervisor (or issuer)][261]
+[206][261][][261][FMA's directions to supervisor (or issuer)][261]
 
 [Powers to obtain court orders to intervene][262]
 
-[207 ][263][][263][Power of supervisor or FMA to apply for order to remedy problems][263]
+[207][263][][263][Power of supervisor or FMA to apply for order to remedy problems][263]
 
-[208 ][264][][264][Court orders to remedy problems][264]
+[208][264][][264][Court orders to remedy problems][264]
 
-[209 ][265][][265][Power of court to appoint new manager, provide for manager powers, and deal with changes of managers][265]
+[209][265][][265][Power of court to appoint new manager, provide for manager powers, and deal with changes of managers][265]
 
-[210 ][266][][266][Power of court to direct supervisor][266]
+[210][266][][266][Power of court to direct supervisor][266]
 
-[211 ][267][][267][Court power to order winding up of scheme][267]
+[211][267][][267][Court power to order winding up of scheme][267]
 
-[212 ][268][][268][Initial steps in winding up of registered scheme][268]
+[212][268][][268][Initial steps in winding up of registered scheme][268]
 
-[213 ][269][][269][Winding-up report][269]
+[213][269][][269][Winding-up report][269]
 
 [Miscellaneous][270]
 
-[214 ][271][][271][Protection for persons in respect of disclosure under this subpart or subpart 4][271]
+[214][271][][271][Protection for persons in respect of disclosure under this subpart or subpart 4][271]
 
 [Subpart 4][272][---][272][Registers and keeping copies of documents][272]
 
 [Registers][273]
 
-[215 ][274][][274][Issuers must keep registers of regulated products][274]
+[215][274][][274][Issuers must keep registers of regulated products][274]
 
-[216 ][275][][275][Manner of keeping registers][275]
+[216][275][][275][Manner of keeping registers][275]
 
-[217 ][276][][276][Contents of registers][276]
+[217][276][][276][Contents of registers][276]
 
-[218 ][277][][277][Audit or review of registers][277]
+[218][277][][277][Audit or review of registers][277]
 
-[219 ][278][][278][Auditor must advise if auditor considers that subpart is not being complied with][278]
+[219][278][][278][Auditor must advise if auditor considers that subpart is not being complied with][278]
 
-[220 ][279][][279][Issuer must notify Registrar of registers][279]
+[220][279][][279][Issuer must notify Registrar of registers][279]
 
-[221 ][280][][280][Public inspection of register][280]
+[221][280][][280][Public inspection of register][280]
 
-[222 ][281][][281][Manner of inspection][281]
+[222][281][][281][Manner of inspection][281]
 
-[223 ][282][][282][Copies of documents][282]
+[223][282][][282][Copies of documents][282]
 
-[224 ][283][][283][Reasons for request must be given and FMA may authorise non-compliance][283]
+[224][283][][283][Reasons for request must be given and FMA may authorise non-compliance][283]
 
-[225 ][284][][284][Restriction on use of information in registers][284]
+[225][284][][284][Restriction on use of information in registers][284]
 
-[226 ][285][][285][Certain provisions prevail over Companies Act 1993][285]
+[226][285][][285][Certain provisions prevail over Companies Act 1993][285]
 
 [Copies of documents to be retained][286]
 
-[227 ][287][][287][Copies of documents must be retained for 7 years][287]
+[227][287][][287][Copies of documents must be retained for 7 years][287]
 
 [Subpart 5][288][---][288][Civil liability for certain contraventions of this Part][288]
 
-[228 ][289][][289][Part 4 governance provisions][289]
+[228][289][][289][Part 4 governance provisions][289]
 
 [Part 5][290]  
 [Dealing in financial products on markets][290]
 
 [Subpart 1][291][---][291][Purposes, overview, and interpretation][291]
 
-[229 ][292][][292][Additional purposes of Part][292]
+[229][292][][292][Additional purposes of Part][292]
 
-[230 ][293][][293][Overview][293]
+[230][293][][293][Overview][293]
 
 [Material information and generally available to the market][294]
 
-[231 ][295][][295][Meaning of material information][295]
+[231][295][][295][Meaning of material information][295]
 
-[232 ][296][][296][Meaning of generally available to the market][296]
+[232][296][][296][Meaning of generally available to the market][296]
 
 [Certain derivatives treated as being quoted financial products of listed issuer][297]
 
-[233 ][298][][298][Certain derivatives treated as being quoted financial products of listed issuer][298]
+[233][298][][298][Certain derivatives treated as being quoted financial products of listed issuer][298]
 
 [Insider conduct][299]
 
-[234 ][300][][300][Meaning of information insider, inside information, and adviser][300]
+[234][300][][300][Meaning of information insider, inside information, and adviser][300]
 
 [Relevant interests][301]
 
-[235 ][302][][302][Relevant interests in financial products (basic rule)][302]
+[235][302][][302][Relevant interests in financial products (basic rule)][302]
 
-[236 ][303][][303][Extension of basic rule to powers or controls exercisable through trust, agreement, etc][303]
+[236][303][][303][Extension of basic rule to powers or controls exercisable through trust, agreement, etc][303]
 
-[237 ][304][][304][Extension of basic rule to interests held by other persons under control or acting jointly][304]
+[237][304][][304][Extension of basic rule to interests held by other persons under control or acting jointly][304]
 
-[238 ][305][][305][Situations not giving rise to relevant interests][305]
+[238][305][][305][Situations not giving rise to relevant interests][305]
 
 [Territorial scope][306]
 
-[239 ][307][][307][Territorial scope][307]
+[239][307][][307][Territorial scope][307]
 
 [Subpart 2][308][---][308][Insider trading][308]
 
 [Insider conduct prohibited][309]
 
-[240 ][310][][310][Prohibition on insider conduct][310]
+[240][310][][310][Prohibition on insider conduct][310]
 
-[241 ][311][][311][Information insider must not trade][311]
+[241][311][][311][Information insider must not trade][311]
 
-[242 ][312][][312][Information insider must not disclose inside information][312]
+[242][312][][312][Information insider must not disclose inside information][312]
 
-[243 ][313][][313][Information insider must not advise or encourage trading][313]
+[243][313][][313][Information insider must not advise or encourage trading][313]
 
-[244 ][314][][314][Criminal liability for insider conduct][314]
+[244][314][][314][Criminal liability for insider conduct][314]
 
 [When prohibition on insider conduct does not apply][315]
 
-[245 ][316][][316][Exception for trading required by enactment or rule of law][316]
+[245][316][][316][Exception for trading required by enactment or rule of law][316]
 
-[246 ][317][][317][Exception for disclosure required by enactment or rule of law or by FMA][317]
+[246][317][][317][Exception for disclosure required by enactment or rule of law or by FMA][317]
 
-[247 ][318][][318][Exception for disclosure in connection with preparing PDS or disclosure document][318]
+[247][318][][318][Exception for disclosure in connection with preparing PDS or disclosure document][318]
 
-[248 ][319][][319][Exceptions in respect of underwriting agreements][319]
+[248][319][][319][Exceptions in respect of underwriting agreements][319]
 
-[249 ][320][][320][Exceptions in case of knowledge of person's own intentions or activities][320]
+[249][320][][320][Exceptions in case of knowledge of person's own intentions or activities][320]
 
-[250 ][321][][321][Exceptions in case of knowledge in relation to derivatives][321]
+[250][321][][321][Exceptions in case of knowledge in relation to derivatives][321]
 
-[251 ][322][][322][Exception for agent executing trading instruction only][322]
+[251][322][][322][Exception for agent executing trading instruction only][322]
 
-[252 ][323][][323][Exceptions from section 241 for takeovers][323]
+[252][323][][323][Exceptions from section 241 for takeovers][323]
 
-[253 ][324][][324][Exceptions from sections 242 and 243 for takeovers][324]
+[253][324][][324][Exceptions from sections 242 and 243 for takeovers][324]
 
-[254 ][325][][325][Exceptions for schemes of arrangement approved under Companies Act 1993][325]
+[254][325][][325][Exceptions for schemes of arrangement approved under Companies Act 1993][325]
 
-[255 ][326][][326][Exception for redemption of managed investment products][326]
+[255][326][][326][Exception for redemption of managed investment products][326]
 
-[256 ][327][][327][Exception for Reserve Bank][327]
+[256][327][][327][Exception for Reserve Bank][327]
 
 [Defences][328]
 
-[257 ][329][][329][Absence of knowledge of trading][329]
+[257][329][][329][Absence of knowledge of trading][329]
 
-[258 ][330][][330][Inside information obtained by independent research and analysis][330]
+[258][330][][330][Inside information obtained by independent research and analysis][330]
 
-[259 ][331][][331][Equal information][331]
+[259][331][][331][Equal information][331]
 
-[260 ][332][][332][Options and trading plans][332]
+[260][332][][332][Options and trading plans][332]
 
-[261 ][333][][333][Chinese wall defence][333]
+[261][333][][333][Chinese wall defence][333]
 
 [Subpart 3][334][---][334][Market manipulation][334]
 
-[262 ][335][][335][False or misleading statement or information][335]
+[262][335][][335][False or misleading statement or information][335]
 
-[263 ][336][][336][Exception for takeovers][336]
+[263][336][][336][Exception for takeovers][336]
 
-[264 ][337][][337][Criminal liability for false or misleading statement or information][337]
+[264][337][][337][Criminal liability for false or misleading statement or information][337]
 
-[265 ][338][][338][False or misleading appearance of trading][338]
+[265][338][][338][False or misleading appearance of trading][338]
 
-[266 ][339][][339][Exception for short selling and crossings][339]
+[266][339][][339][Exception for short selling and crossings][339]
 
-[267 ][340][][340][Persons treated as contravening false or misleading appearance of trading prohibition][340]
+[267][340][][340][Persons treated as contravening false or misleading appearance of trading prohibition][340]
 
-[268 ][341][][341][Defence][341]
+[268][341][][341][Defence][341]
 
-[269 ][342][][342][Criminal liability for false or misleading appearance of trading][342]
+[269][342][][342][Criminal liability for false or misleading appearance of trading][342]
 
 [Subpart 4][343][---][343][Continuous disclosure][343]
 
-[270 ][344][][344][Listed issuers must disclose in accordance with listing rules if continuous disclosure listing rules apply][344]
+[270][344][][344][Listed issuers must disclose in accordance with listing rules if continuous disclosure listing rules apply][344]
 
-[271 ][345][][345][What are continuous disclosure provisions][345]
+[271][345][][345][What are continuous disclosure provisions][345]
 
-[272 ][346][][346][No contravention of continuous disclosure provisions by person who takes reasonable steps to ensure listed issuer complies][346]
+[272][346][][346][No contravention of continuous disclosure provisions by person who takes reasonable steps to ensure listed issuer complies][346]
 
 [Subpart 5][347][---][347][Disclosure of interests of substantial product holders in listed issuers][347]
 
 [Substantial holding disclosure obligations][348]
 
-[273 ][349][][349][Purposes of subpart][349]
+[273][349][][349][Purposes of subpart][349]
 
-[274 ][350][][350][Meaning of substantial product holder, substantial holding, and percentage][350]
+[274][350][][350][Meaning of substantial product holder, substantial holding, and percentage][350]
 
-[275 ][351][][351][Person may be treated as holding financial products where person has relevant interest in certain derivatives][351]
+[275][351][][351][Person may be treated as holding financial products where person has relevant interest in certain derivatives][351]
 
-[276 ][352][][352][Persons must disclose if begin to have substantial holding][352]
+[276][352][][352][Persons must disclose if begin to have substantial holding][352]
 
-[277 ][353][][353][Substantial product holders must disclose if subsequent movement of 1% or more in holdings][353]
+[277][353][][353][Substantial product holders must disclose if subsequent movement of 1% or more in holdings][353]
 
-[278 ][354][][354][Substantial product holders must disclose if subsequent changes in nature of relevant interests][354]
+[278][354][][354][Substantial product holders must disclose if subsequent changes in nature of relevant interests][354]
 
-[279 ][355][][355][Persons must disclose if cease to have substantial holding][355]
+[279][355][][355][Persons must disclose if cease to have substantial holding][355]
 
-[280 ][356][][356][What disclosure required][356]
+[280][356][][356][What disclosure required][356]
 
-[281 ][357][][357][Form and method of disclosure][357]
+[281][357][][357][Form and method of disclosure][357]
 
-[282 ][358][][358][Listed issuer must give acknowledgement of disclosure][358]
+[282][358][][358][Listed issuer must give acknowledgement of disclosure][358]
 
-[283 ][359][][359][How to ascertain total financial products in class for purposes of disclosure][359]
+[283][359][][359][How to ascertain total financial products in class for purposes of disclosure][359]
 
 [Exemptions][360]
 
-[284 ][361][][361][Exemption for persons with interest in other substantial product holders who comply][361]
+[284][361][][361][Exemption for persons with interest in other substantial product holders who comply][361]
 
-[285 ][362][][362][Exemption for corporate trustees and nominee companies][362]
+[285][362][][362][Exemption for corporate trustees and nominee companies][362]
 
-[286 ][363][][363][Conditions of exemption for corporate trustees and nominee companies][363]
+[286][363][][363][Conditions of exemption for corporate trustees and nominee companies][363]
 
-[287 ][364][][364][Exemption for persons under control or acting jointly with corporate trustees and nominee companies][364]
+[287][364][][364][Exemption for persons under control or acting jointly with corporate trustees and nominee companies][364]
 
-[288 ][365][][365][Extended time for disclosure for trustees, executors, and administrators][365]
+[288][365][][365][Extended time for disclosure for trustees, executors, and administrators][365]
 
 [Tracing and disclosure of interests in listed issuers][366]
 
-[289 ][367][][367][FMA may require persons to disclose to market relevant interests and powers to acquire relevant interests][367]
+[289][367][][367][FMA may require persons to disclose to market relevant interests and powers to acquire relevant interests][367]
 
-[290 ][368][][368][Listed issuer may require registered holder or relevant interest holder to disclose relevant interests to it][368]
+[290][368][][368][Listed issuer may require registered holder or relevant interest holder to disclose relevant interests to it][368]
 
-[291 ][369][][369][Listed issuer may require person who has relevant interest to disclose information to it][369]
+[291][369][][369][Listed issuer may require person who has relevant interest to disclose information to it][369]
 
-[292 ][370][][370][Form and method of notice requiring disclosure][370]
+[292][370][][370][Form and method of notice requiring disclosure][370]
 
-[293 ][371][][371][Listed issuers must make available information on substantial holdings][371]
+[293][371][][371][Listed issuers must make available information on substantial holdings][371]
 
-[294 ][372][][372][No liability for publication of substantial holdings][372]
+[294][372][][372][No liability for publication of substantial holdings][372]
 
-[295 ][373][][373][Notice under this subpart not to affect incorporation of listed issuer or constitute notice of trust][373]
+[295][373][][373][Notice under this subpart not to affect incorporation of listed issuer or constitute notice of trust][373]
 
 [Subpart 6][374][---][374][Disclosure of relevant interests in quoted financial products by directors and senior managers of listed issuers][374]
 
-[296 ][375][][375][Purposes of subpart][375]
+[296][375][][375][Purposes of subpart][375]
 
-[297 ][376][][376][Directors and senior managers of listed issuers must disclose relevant interests and dealings in relevant interests][376]
+[297][376][][376][Directors and senior managers of listed issuers must disclose relevant interests and dealings in relevant interests][376]
 
-[298 ][377][][377][Disclosure of relevant interests and dealings in relevant interests in relation to specified derivatives][377]
+[298][377][][377][Disclosure of relevant interests and dealings in relevant interests in relation to specified derivatives][377]
 
-[299 ][378][][378][What disclosure required][378]
+[299][378][][378][What disclosure required][378]
 
-[300 ][379][][379][Form and method of disclosure][379]
+[300][379][][379][Form and method of disclosure][379]
 
-[301 ][380][][380][Disclosure obligation applies for 6 months after ceasing to hold office][380]
+[301][380][][380][Disclosure obligation applies for 6 months after ceasing to hold office][380]
 
-[302 ][381][][381][Exemption for directors or senior managers who disclose substantial holdings][381]
+[302][381][][381][Exemption for directors or senior managers who disclose substantial holdings][381]
 
-[303 ][382][][382][Exemption for overseas listed issuers][382]
+[303][382][][382][Exemption for overseas listed issuers][382]
 
-[304 ][383][][383][Listed issuer must keep interests register][383]
+[304][383][][383][Listed issuer must keep interests register][383]
 
-[305 ][384][][384][Public inspection of interests register][384]
+[305][384][][384][Public inspection of interests register][384]
 
-[306 ][385][][385][Copies of documents][385]
+[306][385][][385][Copies of documents][385]
 
-[307 ][386][][386][Offences relating to interests register][386]
+[307][386][][386][Offences relating to interests register][386]
 
 [Subpart 7][387][---][387][Licensing of markets for trading financial products][387]
 
-[308 ][388][][388][Principles guiding exercise of powers under this subpart][388]
+[308][388][][388][Principles guiding exercise of powers under this subpart][388]
 
 [Need for financial product market licence][389]
 
-[309 ][390][][390][What is a financial product market][390]
+[309][390][][390][What is a financial product market][390]
 
-[310 ][391][][391][Need for financial product market licence][391]
+[310][391][][391][Need for financial product market licence][391]
 
-[311 ][392][][392][Prohibitions on holding out][392]
+[311][392][][392][Prohibitions on holding out][392]
 
-[312 ][393][][393][Exemptions][393]
+[312][393][][393][Exemptions][393]
 
-[313 ][394][][394][When financial product market taken to be operated in New Zealand][394]
+[313][394][][394][When financial product market taken to be operated in New Zealand][394]
 
 [General obligations of licensed market operator][395]
 
-[314 ][396][][396][General obligations in respect of licensed markets][396]
+[314][396][][396][General obligations in respect of licensed markets][396]
 
 [Issue of licence][397]
 
-[315 ][398][][398][Application for licence][398]
+[315][398][][398][Application for licence][398]
 
-[316 ][399][][399][When licence may be issued][399]
+[316][399][][399][When licence may be issued][399]
 
-[317 ][400][][400][When licence may be issued for overseas-regulated market][400]
+[317][400][][400][When licence may be issued for overseas-regulated market][400]
 
-[318 ][401][][401][Conditions of licence][401]
+[318][401][][401][Conditions of licence][401]
 
-[319 ][402][][402][Procedural requirements][402]
+[319][402][][402][Procedural requirements][402]
 
-[320 ][403][][403][Licence may cover more than 1 financial product market][403]
+[320][403][][403][Licence may cover more than 1 financial product market][403]
 
-[321 ][404][][404][FMA must maintain list of licensed markets on Internet site][404]
+[321][404][][404][FMA must maintain list of licensed markets on Internet site][404]
 
 [Changes to licences][405]
 
-[322 ][406][][406][Variation of conditions][406]
+[322][406][][406][Variation of conditions][406]
 
-[323 ][407][][407][Minister may suspend or cancel licence][407]
+[323][407][][407][Minister may suspend or cancel licence][407]
 
-[324 ][408][][408][Procedure for varying of conditions or suspension or cancellation of licence][408]
+[324][408][][408][Procedure for varying of conditions or suspension or cancellation of licence][408]
 
-[325 ][409][][409][Effect of suspension][409]
+[325][409][][409][Effect of suspension][409]
 
-[326 ][410][][410][Variation or revocation of suspension][410]
+[326][410][][410][Variation or revocation of suspension][410]
 
 [Approval of contractual market rules][411]
 
-[327 ][412][][412][Licensed markets must be operated under market rules that comply with this subpart][412]
+[327][412][][412][Licensed markets must be operated under market rules that comply with this subpart][412]
 
-[328 ][413][][413][Required matters for market rules][413]
+[328][413][][413][Required matters for market rules][413]
 
-[329 ][414][][414][When market rules have effect][414]
+[329][414][][414][When market rules have effect][414]
 
-[330 ][415][][415][Approval process for proposed market rules and rule changes][415]
+[330][415][][415][Approval process for proposed market rules and rule changes][415]
 
-[331 ][416][][416][Approval of proposed market rules and changes][416]
+[331][416][][416][Approval of proposed market rules and changes][416]
 
-[332 ][417][][417][Notice of decision on rules][417]
+[332][417][][417][Notice of decision on rules][417]
 
-[333 ][418][][418][Power of FMA to request changes to market rules on certain matters][418]
+[333][418][][418][Power of FMA to request changes to market rules on certain matters][418]
 
-[334 ][419][][419][Overseas-regulated markets must give notice of market rules and rule changes to FMA][419]
+[334][419][][419][Overseas-regulated markets must give notice of market rules and rule changes to FMA][419]
 
-[335 ][420][][420][Market rules must be available for public inspection][420]
+[335][420][][420][Market rules must be available for public inspection][420]
 
-[336 ][421][][421][Application of Acts relating to regulations to contractual market rules][421]
+[336][421][][421][Application of Acts relating to regulations to contractual market rules][421]
 
 [Monitoring of market operator obligations][422]
 
-[337 ][423][][423][Licensed market operator must give report on compliance with market operator obligations to FMA][423]
+[337][423][][423][Licensed market operator must give report on compliance with market operator obligations to FMA][423]
 
-[338 ][424][][424][FMA to carry out market operator obligations reviews][424]
+[338][424][][424][FMA to carry out market operator obligations reviews][424]
 
-[339 ][425][][425][FMA must make written report on market operator obligations review][425]
+[339][425][][425][FMA must make written report on market operator obligations review][425]
 
-[340 ][426][][426][FMA may require licensed market operator to submit action plan on failure to meet market operator obligations][426]
+[340][426][][426][FMA may require licensed market operator to submit action plan on failure to meet market operator obligations][426]
 
-[341 ][427][][427][Approval, amendment, or rejection of action plan][427]
+[341][427][][427][Approval, amendment, or rejection of action plan][427]
 
-[342 ][428][][428][Minister may give market operator obligations direction to licensed market operator][428]
+[342][428][][428][Minister may give market operator obligations direction to licensed market operator][428]
 
-[343 ][429][][429][Minister may vary, suspend, or cancel licence][429]
+[343][429][][429][Minister may vary, suspend, or cancel licence][429]
 
 [Control limits on licensed market operators][430]
 
-[344 ][431][][431][Power to impose control limits on licensed market operators][431]
+[344][431][][431][Power to impose control limits on licensed market operators][431]
 
-[345 ][432][][432][Control limit not to be exceeded][432]
+[345][432][][432][Control limit not to be exceeded][432]
 
-[346 ][433][][433][Effect of exceeding control limit][433]
+[346][433][][433][Effect of exceeding control limit][433]
 
-[347 ][434][][434][Application for approval to exceed control limit][434]
+[347][434][][434][Application for approval to exceed control limit][434]
 
-[348 ][435][][435][Revocation or amendment of approval][435]
+[348][435][][435][Revocation or amendment of approval][435]
 
 [Other provisions relating to licensing of financial product markets][436]
 
-[349 ][437][][437][FMA may give advice to Minister][437]
+[349][437][][437][FMA may give advice to Minister][437]
 
-[350 ][438][][438][Delegation of Minister's licensing functions and powers to FMA][438]
+[350][438][][438][Delegation of Minister's licensing functions and powers to FMA][438]
 
-[351 ][439][][439][Regulations modifying this Part or Part 7 for licensed markets][439]
+[351][439][][439][Regulations modifying this Part or Part 7 for licensed markets][439]
 
 [Subpart 8][440][---][440][Operation of licensed markets][440]
 
-[352 ][441][][441][Licensed market operator must notify FMA of disciplinary actions and suspected contraventions][441]
+[352][441][][441][Licensed market operator must notify FMA of disciplinary actions and suspected contraventions][441]
 
-[353 ][442][][442][When notification required][442]
+[353][442][][442][When notification required][442]
 
-[354 ][443][][443][Details and method of notification][443]
+[354][443][][443][Details and method of notification][443]
 
-[355 ][444][][444][Licensed market operator must ensure FMA has access to real-time trading and other information][444]
+[355][444][][444][Licensed market operator must ensure FMA has access to real-time trading and other information][444]
 
-[356 ][445][][445][Waiver of notification and disclosure obligations][445]
+[356][445][][445][Waiver of notification and disclosure obligations][445]
 
-[357 ][446][][446][Licensed market operator must give FMA or Takeovers Panel other information and assistance on request][446]
+[357][446][][446][Licensed market operator must give FMA or Takeovers Panel other information and assistance on request][446]
 
-[358 ][447][][447][Power to disclose further information][447]
+[358][447][][447][Power to disclose further information][447]
 
-[359 ][448][][448][Licensed market operator must give notice and have regard to submissions on continuous disclosure determinations][448]
+[359][448][][448][Licensed market operator must give notice and have regard to submissions on continuous disclosure determinations][448]
 
-[360 ][449][][449][Limited notice and submissions for urgent determinations][449]
+[360][449][][449][Limited notice and submissions for urgent determinations][449]
 
-[361 ][450][][450][FMA may give directions to licensed market operators][450]
+[361][450][][450][FMA may give directions to licensed market operators][450]
 
-[362 ][451][][451][Grounds for continuous disclosure direction][451]
+[362][451][][451][Grounds for continuous disclosure direction][451]
 
-[363 ][452][][452][Grounds for other directions][452]
+[363][452][][452][Grounds for other directions][452]
 
-[364 ][453][][453][Notice, opportunity for licensed market operator to act, and submissions before FMA gives directions][453]
+[364][453][][453][Notice, opportunity for licensed market operator to act, and submissions before FMA gives directions][453]
 
-[365 ][454][][454][Limited notice and submissions for urgent continuous disclosure directions][454]
+[365][454][][454][Limited notice and submissions for urgent continuous disclosure directions][454]
 
-[366 ][455][][455][Notice and opportunity to be heard and represented after FMA gives direction][455]
+[366][455][][455][Notice and opportunity to be heard and represented after FMA gives direction][455]
 
-[367 ][456][][456][Effect of directions to licensed market operator][456]
+[367][456][][456][Effect of directions to licensed market operator][456]
 
-[368 ][457][][457][Provisions as to directions][457]
+[368][457][][457][Provisions as to directions][457]
 
-[369 ][458][][458][Contracting out of or modification of continuous disclosure process requirements][458]
+[369][458][][458][Contracting out of or modification of continuous disclosure process requirements][458]
 
-[370 ][459][][459][Offence for failing to comply with direction][459]
+[370][459][][459][Offence for failing to comply with direction][459]
 
 [Subpart 9][460][---][460][Transfer of transferable financial products][460]
 
-[371 ][461][][461][Financial products to which this subpart applies][461]
+[371][461][][461][Financial products to which this subpart applies][461]
 
 [Transfer of specified financial products using transfers in prescribed form or containing prescribed information][462]
 
-[372 ][463][][463][Transfer of specified financial products by products transfer][463]
+[372][463][][463][Transfer of specified financial products by products transfer][463]
 
-[373 ][464][][464][Transfer of specified financial products by products transfer and brokers transfer][464]
+[373][464][][464][Transfer of specified financial products by products transfer and brokers transfer][464]
 
-[374 ][465][][465][Products transfer does not need to be witnessed][465]
+[374][465][][465][Products transfer does not need to be witnessed][465]
 
-[375 ][466][][466][Transfers to be instruments of transfer for purposes of other enactments and instruments][466]
+[375][466][][466][Transfers to be instruments of transfer for purposes of other enactments and instruments][466]
 
 [Transfer of specified financial products by electronic means][467]
 
-[376 ][468][][468][Approval of electronic transfer system][468]
+[376][468][][468][Approval of electronic transfer system][468]
 
-[377 ][469][][469][Specified financial products may be transferred under approved system][469]
+[377][469][][469][Specified financial products may be transferred under approved system][469]
 
-[378 ][470][][470][Minor technical modifications to system][470]
+[378][470][][470][Minor technical modifications to system][470]
 
 [Registration may not be refused][471]
 
-[379 ][472][][472][Registration may not be refused on ground that financial products have been transferred under this subpart][472]
+[379][472][][472][Registration may not be refused on ground that financial products have been transferred under this subpart][472]
 
-[380 ][473][][473][Effect of this Act on other enactments][473]
+[380][473][][473][Effect of this Act on other enactments][473]
 
 [Subpart 10][474][---][474][Unsolicited offers to purchase financial products off-market][474]
 
-[381 ][475][][475][Definitions relating to unsolicited offer regulations and related provisions][475]
+[381][475][][475][Definitions relating to unsolicited offer regulations and related provisions][475]
 
-[382 ][476][][476][Regulations concerning unsolicited offers][476]
+[382][476][][476][Regulations concerning unsolicited offers][476]
 
-[383 ][477][][477][Specific provisions for regulations concerning unsolicited offers][477]
+[383][477][][477][Specific provisions for regulations concerning unsolicited offers][477]
 
-[384 ][478][][478][Protection from liability in connection with unsolicited offer provisions][478]
+[384][478][][478][Protection from liability in connection with unsolicited offer provisions][478]
 
 [Subpart 11][479][---][479][Civil liability for certain contraventions of this Part][479]
 
-[385 ][480][][480][Part 5 market provisions][480]
+[385][480][][480][Part 5 market provisions][480]
 
 [Part 6][481]  
 [Licensing and other regulation of market services][481]
 
-[386 ][482][][482][Overview][482]
+[386][482][][482][Overview][482]
 
-[387 ][483][][483][Territorial scope for licensing of certain market services][483]
+[387][483][][483][Territorial scope for licensing of certain market services][483]
 
 [Subpart 1][484][---][484][Key provisions][484]
 
-[388 ][485][][485][When provider of market services needs to be licensed][485]
+[388][485][][485][When provider of market services needs to be licensed][485]
 
-[389 ][486][][486][Exemptions from need for market services licence][486]
+[389][486][][486][Exemptions from need for market services licence][486]
 
-[390 ][487][][487][When providers of other market services may be licensed][487]
+[390][487][][487][When providers of other market services may be licensed][487]
 
-[391 ][488][][488][Prohibitions on holding out][488]
+[391][488][][488][Prohibitions on holding out][488]
 
-[392 ][489][][489][Meaning of discretionary investment management service and related terms][489]
+[392][489][][489][Meaning of discretionary investment management service and related terms][489]
 
 [Subpart 2][490][---][490][Issue of licences, conditions, and duration][490]
 
-[393 ][491][][491][Principles guiding the exercise of FMA powers][491]
+[393][491][][491][Principles guiding the exercise of FMA powers][491]
 
 [Issue of licences][492]
 
-[394 ][493][][493][FMA may issue licence][493]
+[394][493][][493][FMA may issue licence][493]
 
-[395 ][494][][494][Application for licence][494]
+[395][494][][494][Application for licence][494]
 
-[396 ][495][][495][When licence must be issued][495]
+[396][495][][495][When licence must be issued][495]
 
-[397 ][496][][496][Procedural requirements][496]
+[397][496][][496][Procedural requirements][496]
 
-[398 ][497][][497][Notice of decision][497]
+[398][497][][497][Notice of decision][497]
 
-[399 ][498][][498][Licence must be issued for particular market services][498]
+[399][498][][498][Licence must be issued for particular market services][498]
 
-[400 ][499][][499][Licence may cover related bodies corporate as authorised bodies][499]
+[400][499][][499][Licence may cover related bodies corporate as authorised bodies][499]
 
-[401 ][500][][500][FMA must send licence details to Registrar][500]
+[401][500][][500][FMA must send licence details to Registrar][500]
 
 [Conditions of licence][501]
 
-[402 ][502][][502][Conditions of licence][502]
+[402][502][][502][Conditions of licence][502]
 
-[403 ][503][][503][When FMA may impose permitted conditions][503]
+[403][503][][503][When FMA may impose permitted conditions][503]
 
-[404 ][504][][504][Licensee may apply for variation of conditions][504]
+[404][504][][504][Licensee may apply for variation of conditions][504]
 
-[405 ][505][][505][Procedure for variation of conditions][505]
+[405][505][][505][Procedure for variation of conditions][505]
 
-[406 ][506][][506][Consequences of contravening conditions][506]
+[406][506][][506][Consequences of contravening conditions][506]
 
 [Expiry, suspension, or cancellation of licences][507]
 
-[407 ][508][][508][Duration of licence][508]
+[407][508][][508][Duration of licence][508]
 
-[408 ][509][][509][When FMA may suspend or cancel licence][509]
+[408][509][][509][When FMA may suspend or cancel licence][509]
 
-[409 ][510][][510][Effect of expiry, suspension, or cancellation of licence on appointments][510]
+[409][510][][510][Effect of expiry, suspension, or cancellation of licence on appointments][510]
 
 [Subpart 3][511][---][511][Monitoring and enforcement of licences][511]
 
-[410 ][512][][512][Meaning of material change of circumstances][512]
+[410][512][][512][Meaning of material change of circumstances][512]
 
 [Reports][513]
 
-[411 ][514][][514][Licensee must deliver reports to FMA][514]
+[411][514][][514][Licensee must deliver reports to FMA][514]
 
-[412 ][515][][515][Licensee must report certain matters][515]
+[412][515][][515][Licensee must report certain matters][515]
 
-[413 ][516][][516][Restriction on use of report][516]
+[413][516][][516][Restriction on use of report][516]
 
 [FMA's powers in case of contravention of market services licensee obligation, material change, etc][517]
 
-[414 ][518][][518][FMA's powers in case of contravention of market services licensee obligation, material change, etc][518]
+[414][518][][518][FMA's powers in case of contravention of market services licensee obligation, material change, etc][518]
 
-[415 ][519][][519][Procedure for exercising powers][519]
+[415][519][][519][Procedure for exercising powers][519]
 
-[416 ][520][][520][Notice requirements][520]
+[416][520][][520][Notice requirements][520]
 
 [Action plan][521]
 
-[417 ][522][][522][Action plan][522]
+[417][522][][522][Action plan][522]
 
-[418 ][523][][523][Approval, amendment, or rejection of action plan][523]
+[418][523][][523][Approval, amendment, or rejection of action plan][523]
 
-[419 ][524][][524][Consequences of failure to submit action plan, rejection of action plan, or failure to comply with action plan][524]
+[419][524][][524][Consequences of failure to submit action plan, rejection of action plan, or failure to comply with action plan][524]
 
 [Directions][525]
 
-[420 ][526][][526][Directions][526]
+[420][526][][526][Directions][526]
 
-[421 ][527][][527][Consequences of failure to comply with directions][527]
+[421][527][][527][Consequences of failure to comply with directions][527]
 
 [Subpart 4][528][---][528][Disclosure obligations for certain services provided to retail investors][528]
 
-[422 ][529][][529][Application of subpart][529]
+[422][529][][529][Application of subpart][529]
 
-[423 ][530][][530][Disclosure must be made to retail investor][530]
+[423][530][][530][Disclosure must be made to retail investor][530]
 
-[424 ][531][][531][Timing and method of disclosure][531]
+[424][531][][531][Timing and method of disclosure][531]
 
-[425 ][532][][532][Purpose of disclosure statement][532]
+[425][532][][532][Purpose of disclosure statement][532]
 
-[426 ][533][][533][Disclosure statement][533]
+[426][533][][533][Disclosure statement][533]
 
-[427 ][534][][534][False or misleading statements and omissions][534]
+[427][534][][534][False or misleading statements and omissions][534]
 
-[428 ][535][][535][Further prescribed information to be made available][535]
+[428][535][][535][Further prescribed information to be made available][535]
 
 [Subpart 5][536][---][536][Requirement for certain services to be provided under client agreements][536]
 
-[429 ][537][][537][Application of subpart][537]
+[429][537][][537][Application of subpart][537]
 
-[430 ][538][][538][Need for client agreement][538]
+[430][538][][538][Need for client agreement][538]
 
-[431 ][539][][539][Contents, form, and effect of client agreement][539]
+[431][539][][539][Contents, form, and effect of client agreement][539]
 
 [Subpart 6][540][---][540][Additional regulation of discretionary investment management services][540]
 
-[432 ][541][][541][Application of subpart][541]
+[432][541][][541][Application of subpart][541]
 
 [Duties of DIMS licensee][542]
 
-[433 ][543][][543][DIMS licensee's duties][543]
+[433][543][][543][DIMS licensee's duties][543]
 
-[434 ][544][][544][Duties of directors and senior managers of DIMS licensee][544]
+[434][544][][544][Duties of directors and senior managers of DIMS licensee][544]
 
-[435 ][545][][545][Duty of DIMS licensee to comply with professional standard of care][545]
+[435][545][][545][Duty of DIMS licensee to comply with professional standard of care][545]
 
-[436 ][546][][546][Limits on permitted indemnities][546]
+[436][546][][546][Limits on permitted indemnities][546]
 
-[437 ][547][][547][Requirement for agreed investment authority][547]
+[437][547][][547][Requirement for agreed investment authority][547]
 
-[438 ][548][][548][Action that must be taken on limit breaks][548]
+[438][548][][548][Action that must be taken on limit breaks][548]
 
 [Related party transactions][549]
 
-[439 ][550][][550][Definition of related party benefits][550]
+[439][550][][550][Definition of related party benefits][550]
 
-[440 ][551][][551][General prohibition on transactions giving related party benefits][551]
+[440][551][][551][General prohibition on transactions giving related party benefits][551]
 
-[441 ][552][][552][Certain related party benefits permitted][552]
+[441][552][][552][Certain related party benefits permitted][552]
 
-[442 ][553][][553][Requirements for certificates as to related party benefits][553]
+[442][553][][553][Requirements for certificates as to related party benefits][553]
 
-[443 ][554][][554][General duties still apply][554]
+[443][554][][554][General duties still apply][554]
 
 [Broking and custodial service performed as part of discretionary investment management service][555]
 
-[444 ][556][][556][Meaning of investor money and investor property][556]
+[444][556][][556][Meaning of investor money and investor property][556]
 
-[445 ][557][][557][Requirements for custodian][557]
+[445][557][][557][Requirements for custodian][557]
 
-[446 ][558][][558][Certain broker obligations of Financial Advisers Act 2008 may be enforced also under this Act][558]
+[446][558][][558][Certain broker obligations of Financial Advisers Act 2008 may be enforced also under this Act][558]
 
 [Subpart 7][559][---][559][Holding and application of investor funds and property by derivatives issuers][559]
 
-[447 ][560][][560][Application of regulations made under this subpart][560]
+[447][560][][560][Application of regulations made under this subpart][560]
 
-[448 ][561][][561][Regulations regulating holding and application of investor funds and property by derivatives issuers][561]
+[448][561][][561][Regulations regulating holding and application of investor funds and property by derivatives issuers][561]
 
 [Subpart 8][562][---][562][Miscellaneous provisions][562]
 
 [Civil liability][563]
 
-[449 ][564][][564][Part 6 services provisions][564]
+[449][564][][564][Part 6 services provisions][564]
 
 [Part 7][565]  
 [Financial reporting][565]
 
 [Subpart 1][566][---][566][Overview, application, and interpretation][566]
 
-[450 ][567][][567][Overview][567]
+[450][567][][567][Overview][567]
 
-[451 ][568][][568][Meaning of FMC reporting entity][568]
+[451][568][][568][Meaning of FMC reporting entity][568]
 
-[452 ][569][][569][Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders][569]
+[452][569][][569][Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders][569]
 
-[453 ][570][][570][Recipients of money from conduit issuers][570]
+[453][570][][570][Recipients of money from conduit issuers][570]
 
-[454 ][571][][571][Miscellaneous provisions relating to application][571]
+[454][571][][571][Miscellaneous provisions relating to application][571]
 
 [Subpart 2][572][---][572][Accounting records][572]
 
-[455 ][573][][573][FMC reporting entities must keep proper accounting records][573]
+[455][573][][573][FMC reporting entities must keep proper accounting records][573]
 
-[456 ][574][][574][Place where accounting records to be kept][574]
+[456][574][][574][Place where accounting records to be kept][574]
 
-[457 ][575][][575][Accounting records to be in English][575]
+[457][575][][575][Accounting records to be in English][575]
 
-[458 ][576][][576][Period for which accounting records to be kept][576]
+[458][576][][576][Period for which accounting records to be kept][576]
 
-[459 ][577][][577][Inspection of accounting records][577]
+[459][577][][577][Inspection of accounting records][577]
 
 [Subpart 3][578][---][578][Preparation, audit, and lodgement of financial statements][578]
 
 [Preparation of financial statements][579]
 
-[460 ][580][][580][Financial statements must be prepared][580]
+[460][580][][580][Financial statements must be prepared][580]
 
-[461 ][581][][581][Group financial statements must be prepared][581]
+[461][581][][581][Group financial statements must be prepared][581]
 
 [461A][582][][582][Financial statements for registered schemes and funds][582]
 
@@ -1200,7 +1200,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Audit of financial statements][585]
 
-[461D ][586][][586][Financial statements must be audited][586]
+[461D][586][][586][Financial statements must be audited][586]
 
 [461E][587][][587][Meaning of qualified auditor][587]
 
@@ -1235,362 +1235,362 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Stop orders][602]
 
-[462 ][603][][603][When FMA may make stop orders][603]
+[462][603][][603][When FMA may make stop orders][603]
 
-[463 ][604][][604][Terms of stop order][604]
+[463][604][][604][Terms of stop order][604]
 
-[464 ][605][][605][Meaning of restricted communication][605]
+[464][605][][605][Meaning of restricted communication][605]
 
-[465 ][606][][606][FMA may make interim stop order pending exercise of powers][606]
+[465][606][][606][FMA may make interim stop order pending exercise of powers][606]
 
-[466 ][607][][607][Persons to whom stop orders and interim stop orders may apply][607]
+[466][607][][607][Persons to whom stop orders and interim stop orders may apply][607]
 
-[467 ][608][][608][Extended application of subpart][608]
+[467][608][][608][Extended application of subpart][608]
 
 [Direction orders][609]
 
-[468 ][610][][610][When FMA may make direction orders][610]
+[468][610][][610][When FMA may make direction orders][610]
 
-[469 ][611][][611][Terms of direction orders][611]
+[469][611][][611][Terms of direction orders][611]
 
 [Order to prohibit use of simplified disclosure PDS][612]
 
-[470 ][613][][613][FMA may order that simplified disclosure PDS may not be used][613]
+[470][613][][613][FMA may order that simplified disclosure PDS may not be used][613]
 
 [Order to prohibit offer under recognition regime][614]
 
-[471 ][615][][615][FMA may order that offer may not be made under recognition regime][615]
+[471][615][][615][FMA may order that offer may not be made under recognition regime][615]
 
 [Unsolicited offer orders][616]
 
-[472 ][617][][617][When FMA may make unsolicited offer orders][617]
+[472][617][][617][When FMA may make unsolicited offer orders][617]
 
-[473 ][618][][618][Terms of unsolicited offer orders][618]
+[473][618][][618][Terms of unsolicited offer orders][618]
 
 [Orders that exclusion does not apply][619]
 
-[474 ][620][][620][FMA may order that exclusion for offers of products of same class as quoted products does not apply][620]
+[474][620][][620][FMA may order that exclusion for offers of products of same class as quoted products does not apply][620]
 
 [Process for FMA's orders][621]
 
-[475 ][622][][622][FMA must follow steps before making orders][622]
+[475][622][][622][FMA must follow steps before making orders][622]
 
-[476 ][623][][623][FMA may shorten steps for specified orders][623]
+[476][623][][623][FMA may shorten steps for specified orders][623]
 
-[477 ][624][][624][FMA must give notice after making orders][624]
+[477][624][][624][FMA must give notice after making orders][624]
 
 [General provisions][625]
 
-[478 ][626][][626][General provisions on FMA's orders][626]
+[478][626][][626][General provisions on FMA's orders][626]
 
-[479 ][627][][627][Consequences of failing to comply with FMA's orders][627]
+[479][627][][627][Consequences of failing to comply with FMA's orders][627]
 
 [Subpart 2][628][---][628][High Court's enforcement powers][628]
 
 [Injunctions][629]
 
-[480 ][630][][630][Court may grant injunctions][630]
+[480][630][][630][Court may grant injunctions][630]
 
-[481 ][631][][631][When court may grant injunctions and interim injunctions][631]
+[481][631][][631][When court may grant injunctions and interim injunctions][631]
 
-[482 ][632][][632][Undertaking as to damages not required by FMA][632]
+[482][632][][632][Undertaking as to damages not required by FMA][632]
 
 [Court may make FMA orders under this Part][633]
 
-[483 ][634][][634][Court may make FMA orders under this Part][634]
+[483][634][][634][Court may make FMA orders under this Part][634]
 
 [Subpart 3][635][---][635][Civil liability][635]
 
 [Overview of civil liability][636]
 
-[484 ][637][][637][Overview of civil liability][637]
+[484][637][][637][Overview of civil liability][637]
 
-[485 ][638][][638][What are civil liability provisions][638]
+[485][638][][638][What are civil liability provisions][638]
 
 [Declarations of contravention and pecuniary penalty orders][639]
 
-[486 ][640][][640][When court may make declarations of contravention][640]
+[486][640][][640][When court may make declarations of contravention][640]
 
-[487 ][641][][641][Purpose and effect of declarations of contravention][641]
+[487][641][][641][Purpose and effect of declarations of contravention][641]
 
-[488 ][642][][642][What declarations of contravention must state][642]
+[488][642][][642][What declarations of contravention must state][642]
 
-[489 ][643][][643][When court may make pecuniary penalty orders][643]
+[489][643][][643][When court may make pecuniary penalty orders][643]
 
-[490 ][644][][644][Maximum amount of pecuniary penalty][644]
+[490][644][][644][Maximum amount of pecuniary penalty][644]
 
-[491 ][645][][645][Guidance for court on how to determine gains made or losses avoided for purposes of maximum amount][645]
+[491][645][][645][Guidance for court on how to determine gains made or losses avoided for purposes of maximum amount][645]
 
-[492 ][646][][646][Considerations for court in determining pecuniary penalty][646]
+[492][646][][646][Considerations for court in determining pecuniary penalty][646]
 
-[493 ][647][][647][Court must order that recovery from pecuniary penalty be applied to FMA's actual costs][647]
+[493][647][][647][Court must order that recovery from pecuniary penalty be applied to FMA's actual costs][647]
 
 [Compensatory orders][648]
 
-[494 ][649][][649][When court may make compensatory orders][649]
+[494][649][][649][When court may make compensatory orders][649]
 
-[495 ][650][][650][Terms of compensatory orders][650]
+[495][650][][650][Terms of compensatory orders][650]
 
-[496 ][651][][651][Person treated as suffering loss or damage in case of defective disclosure][651]
+[496][651][][651][Person treated as suffering loss or damage in case of defective disclosure][651]
 
 [Other civil liability orders][652]
 
-[497 ][653][][653][When court may make other civil liability orders][653]
+[497][653][][653][When court may make other civil liability orders][653]
 
-[498 ][654][][654][Terms of other civil liability orders][654]
+[498][654][][654][Terms of other civil liability orders][654]
 
 [Defences for person in contravention of civil liability provisions][655]
 
-[499 ][656][][656][General defences for person in contravention][656]
+[499][656][][656][General defences for person in contravention][656]
 
-[500 ][657][][657][Disclosure defences for person in contravention][657]
+[500][657][][657][Disclosure defences for person in contravention][657]
 
-[501 ][658][][658][Additional disclosure or financial reporting defence for directors who are treated as contravening][658]
+[501][658][][658][Additional disclosure or financial reporting defence for directors who are treated as contravening][658]
 
-[502 ][659][][659][Conduct still contravenes even if defence is available][659]
+[502][659][][659][Conduct still contravenes even if defence is available][659]
 
 [Defences for person involved in contravention of civil liability provisions][660]
 
-[503 ][661][][661][General defences for person involved in contravention][661]
+[503][661][][661][General defences for person involved in contravention][661]
 
 [Miscellaneous provisions relating to defences][662]
 
-[504 ][663][][663][Defendant must identify other person][663]
+[504][663][][663][Defendant must identify other person][663]
 
 [Interrelationship of civil liability orders][664]
 
-[505 ][665][][665][More than 1 civil liability order may be made for same conduct][665]
+[505][665][][665][More than 1 civil liability order may be made for same conduct][665]
 
-[506 ][666][][666][Only 1 pecuniary penalty order may be made for same conduct][666]
+[506][666][][666][Only 1 pecuniary penalty order may be made for same conduct][666]
 
-[507 ][667][][667][No pecuniary penalty and fine for same conduct][667]
+[507][667][][667][No pecuniary penalty and fine for same conduct][667]
 
 [Limitation defences][668]
 
-[508 ][669][][669][Limitation defences][669]
+[508][669][][669][Limitation defences][669]
 
 [General][670]
 
-[509 ][671][][671][Rules of civil procedure and civil standard of proof apply to civil liability][671]
+[509][671][][671][Rules of civil procedure and civil standard of proof apply to civil liability][671]
 
 [Subpart 4][672][---][672][Offences relating to defective disclosure and false statements][672]
 
-[510 ][673][][673][Offence of knowingly or recklessly contravening prohibition on offers where defective disclosure in PDS or register entry][673]
+[510][673][][673][Offence of knowingly or recklessly contravening prohibition on offers where defective disclosure in PDS or register entry][673]
 
-[511 ][674][][674][Offence of knowingly or recklessly contravening other provisions relating to defective disclosure][674]
+[511][674][][674][Offence of knowingly or recklessly contravening other provisions relating to defective disclosure][674]
 
-[512 ][675][][675][General offence for false or misleading statements][675]
+[512][675][][675][General offence for false or misleading statements][675]
 
 [Subpart 5][676][---][676][Infringement offences][676]
 
-[513 ][677][][677][Infringement offences][677]
+[513][677][][677][Infringement offences][677]
 
-[514 ][678][][678][Infringement notices][678]
+[514][678][][678][Infringement notices][678]
 
-[515 ][679][][679][Procedural requirements for infringement notices][679]
+[515][679][][679][Procedural requirements for infringement notices][679]
 
-[516 ][680][][680][Payment of infringement fee][680]
+[516][680][][680][Payment of infringement fee][680]
 
 [Subpart 6][681][---][681][Banning orders][681]
 
-[517 ][682][][682][When court may make banning orders][682]
+[517][682][][682][When court may make banning orders][682]
 
-[518 ][683][][683][Terms of banning orders][683]
+[518][683][][683][Terms of banning orders][683]
 
-[519 ][684][][684][Offence of contravening banning order][684]
+[519][684][][684][Offence of contravening banning order][684]
 
-[520 ][685][][685][Only 1 banning order may be made for same conduct][685]
+[520][685][][685][Only 1 banning order may be made for same conduct][685]
 
-[521 ][686][][686][General provisions for banning orders][686]
+[521][686][][686][General provisions for banning orders][686]
 
 [Subpart 7][687][---][687][Orders to protect interests of aggrieved persons in case of financial markets investigations or proceedings][687]
 
-[522 ][688][][688][When court may make order to protect interests of aggrieved persons][688]
+[522][688][][688][When court may make order to protect interests of aggrieved persons][688]
 
-[523 ][689][][689][What orders may be made][689]
+[523][689][][689][What orders may be made][689]
 
-[524 ][690][][690][Interim orders][690]
+[524][690][][690][Interim orders][690]
 
-[525 ][691][][691][Relationship with other law][691]
+[525][691][][691][Relationship with other law][691]
 
 [Subpart 8][692][---][692][Indemnities or insurance for directors, employees, and auditors of issuers, offerors, and licensees][692]
 
-[526 ][693][][693][Prohibition on indemnities or insurance for directors or employees of issuers, offerors, or licensees that are not New Zealand companies][693]
+[526][693][][693][Prohibition on indemnities or insurance for directors or employees of issuers, offerors, or licensees that are not New Zealand companies][693]
 
-[527 ][694][][694][Permitted indemnities for certain liabilities or costs][694]
+[527][694][][694][Permitted indemnities for certain liabilities or costs][694]
 
-[528 ][695][][695][Permitted insurance for certain liability or costs][695]
+[528][695][][695][Permitted insurance for certain liability or costs][695]
 
-[529 ][696][][696][Prohibition on indemnity or insurance for auditors of issuers, offerors, or licensees][696]
+[529][696][][696][Prohibition on indemnity or insurance for auditors of issuers, offerors, or licensees][696]
 
-[530 ][697][][697][Interpretation for this subpart][697]
+[530][697][][697][Interpretation for this subpart][697]
 
 [Subpart 9][698][---][698][Appeals][698]
 
-[531 ][699][][699][Appeals against market services licence decisions][699]
+[531][699][][699][Appeals against market services licence decisions][699]
 
-[532 ][700][][700][Appeals against other decisions of FMA on questions of law only][700]
+[532][700][][700][Appeals against other decisions of FMA on questions of law only][700]
 
 [Subpart 10][701][---][701][Miscellaneous][701]
 
 [Accessories and attribution of liability][702]
 
-[533 ][703][][703][Involvement in contraventions][703]
+[533][703][][703][Involvement in contraventions][703]
 
-[534 ][704][][704][Directors treated as having contravened in case of defective disclosure or financial reporting contravention][704]
+[534][704][][704][Directors treated as having contravened in case of defective disclosure or financial reporting contravention][704]
 
-[535 ][705][][705][State of mind of directors, employees, or agents attributed to body corporate or other principal][705]
+[535][705][][705][State of mind of directors, employees, or agents attributed to body corporate or other principal][705]
 
-[536 ][706][][706][Conduct of directors, employees, or agents attributed to body corporate or other principal][706]
+[536][706][][706][Conduct of directors, employees, or agents attributed to body corporate or other principal][706]
 
 [Miscellaneous][707]
 
-[537 ][708][][708][Time for filing charging document for certain offences][708]
+[537][708][][708][Time for filing charging document for certain offences][708]
 
-[538 ][709][][709][Jurisdiction of courts in New Zealand][709]
+[538][709][][709][Jurisdiction of courts in New Zealand][709]
 
-[539 ][710][][710][Orders to secure compliance][710]
+[539][710][][710][Orders to secure compliance][710]
 
-[540 ][711][][711][General provisions as to court's orders][711]
+[540][711][][711][General provisions as to court's orders][711]
 
-[541 ][712][][712][Persons entitled to appear before court][712]
+[541][712][][712][Persons entitled to appear before court][712]
 
-[542 ][713][][713][Saving of liability under Crimes Act 1961 and general law][713]
+[542][713][][713][Saving of liability under Crimes Act 1961 and general law][713]
 
 [Part 9][714]  
 [Regulations, transitional provisions, and miscellaneous provisions][714]
 
 [Subpart 1][715][---][715][Regulations][715]
 
-[543 ][716][][716][Regulations for purposes of Part 3 (Disclosure of offers of financial products)][716]
+[543][716][][716][Regulations for purposes of Part 3 (Disclosure of offers of financial products)][716]
 
-[544 ][717][][717][Regulations for purposes of Part 4 (governance of financial products)][717]
+[544][717][][717][Regulations for purposes of Part 4 (governance of financial products)][717]
 
-[545 ][718][][718][Regulations for purposes of Part 5 (dealing in financial products on markets)][718]
+[545][718][][718][Regulations for purposes of Part 5 (dealing in financial products on markets)][718]
 
-[546 ][719][][719][Regulations for purposes of Part 6 (market services)][719]
+[546][719][][719][Regulations for purposes of Part 6 (market services)][719]
 
-[547 ][720][][720][Transitionals, savings, and orderly implementation of Act and related enactments][720]
+[547][720][][720][Transitionals, savings, and orderly implementation of Act and related enactments][720]
 
-[548 ][721][][721][Other regulations][721]
+[548][721][][721][Other regulations][721]
 
-[549 ][722][][722][Minister must consult FMA about regulations][722]
+[549][722][][722][Minister must consult FMA about regulations][722]
 
-[550 ][723][][723][Procedural requirements for regulations relating to exemptions, exclusions, and definitions][723]
+[550][723][][723][Procedural requirements for regulations relating to exemptions, exclusions, and definitions][723]
 
-[551 ][724][][724][Miscellaneous provisions relating to exemptions][724]
+[551][724][][724][Miscellaneous provisions relating to exemptions][724]
 
-[552 ][725][][725][Miscellaneous provisions relating to fees and charges][725]
+[552][725][][725][Miscellaneous provisions relating to fees and charges][725]
 
-[553 ][726][][726][Miscellaneous provisions relating to implied provisions][726]
+[553][726][][726][Miscellaneous provisions relating to implied provisions][726]
 
-[554 ][727][][727][Regulations or exemptions may require compliance with generally accepted accounting practice, standards, or FMA frameworks or methodologies][727]
+[554][727][][727][Regulations or exemptions may require compliance with generally accepted accounting practice, standards, or FMA frameworks or methodologies][727]
 
-[555 ][728][][728][Different matters may be prescribed in respect of different circumstances][728]
+[555][728][][728][Different matters may be prescribed in respect of different circumstances][728]
 
 [Subpart 2][729][---][729][Exemptions][729]
 
-[556 ][730][][730][FMA may grant exemptions][730]
+[556][730][][730][FMA may grant exemptions][730]
 
-[557 ][731][][731][Restriction on FMA's exemption power][731]
+[557][731][][731][Restriction on FMA's exemption power][731]
 
-[558 ][732][][732][Exemption in force for not more than 5 years][732]
+[558][732][][732][Exemption in force for not more than 5 years][732]
 
-[559 ][733][][733][Breach of exemption conditions][733]
+[559][733][][733][Breach of exemption conditions][733]
 
-[560 ][734][][734][Exemptions in respect of specified overseas jurisdictions][734]
+[560][734][][734][Exemptions in respect of specified overseas jurisdictions][734]
 
-[561 ][735][][735][Effect of exemptions on regulated offers][735]
+[561][735][][735][Effect of exemptions on regulated offers][735]
 
 [561A][736][][736][Financial reporting exemptions][736]
 
 [Subpart 3][737][---][737][FMA's designation power][737]
 
-[562 ][738][][738][FMA's designation power][738]
+[562][738][][738][FMA's designation power][738]
 
-[563 ][739][][739][Procedural requirements][739]
+[563][739][][739][Procedural requirements][739]
 
-[564 ][740][][740][Transitional matters][740]
+[564][740][][740][Transitional matters][740]
 
-[565 ][741][][741][FMA may make interim orders pending exercise of powers][741]
+[565][741][][741][FMA may make interim orders pending exercise of powers][741]
 
-[566 ][742][][742][Period in which interim order is in force][742]
+[566][742][][742][Period in which interim order is in force][742]
 
 [Subpart 4][743][---][743][Frameworks or methodologies][743]
 
-[567 ][744][][744][Purpose][744]
+[567][744][][744][Purpose][744]
 
-[568 ][745][][745][FMA may specify frameworks or methodologies][745]
+[568][745][][745][FMA may specify frameworks or methodologies][745]
 
-[569 ][746][][746][Consultation][746]
+[569][746][][746][Consultation][746]
 
 [Subpart 5][747][---][747][General provisions relating to certain FMA instruments][747]
 
-[570 ][748][][748][Application of subpart][748]
+[570][748][][748][Application of subpart][748]
 
-[571 ][749][][749][Status and publication of instruments][749]
+[571][749][][749][Status and publication of instruments][749]
 
-[572 ][750][][750][Variation and revocation][750]
+[572][750][][750][Variation and revocation][750]
 
 [Subpart 6][751][---][751][Recognition and application regimes][751]
 
-[573 ][752][][752][Purpose of this subpart][752]
+[573][752][][752][Purpose of this subpart][752]
 
-[574 ][753][][753][Definition of country in this subpart][753]
+[574][753][][753][Definition of country in this subpart][753]
 
 [Exemption from Act and regulations for New Zealand offers under recognition regime][754]
 
-[575 ][755][][755][Exemption from Act and regulations for New Zealand offers under recognition regime][755]
+[575][755][][755][Exemption from Act and regulations for New Zealand offers under recognition regime][755]
 
-[576 ][756][][756][Power to exempt from Act and regulations under recognition regime][756]
+[576][756][][756][Power to exempt from Act and regulations under recognition regime][756]
 
-[577 ][757][][757][Matters that must be stated in regulations implementing recognition regime][757]
+[577][757][][757][Matters that must be stated in regulations implementing recognition regime][757]
 
-[578 ][758][][758][FMA may declare failure to meet preconditions of recognition regime to be non-material][758]
+[578][758][][758][FMA may declare failure to meet preconditions of recognition regime to be non-material][758]
 
-[579 ][759][][759][Offence for breach of regulations implementing recognition regime][759]
+[579][759][][759][Offence for breach of regulations implementing recognition regime][759]
 
 [Extension of Act and regulations to overseas offers under application regime][760]
 
-[580 ][761][][761][Extension of Act and regulations to overseas offers under application regime][761]
+[580][761][][761][Extension of Act and regulations to overseas offers under application regime][761]
 
-[581 ][762][][762][Power to extend Act and regulations under application regime][762]
+[581][762][][762][Power to extend Act and regulations under application regime][762]
 
-[582 ][763][][763][Matters that must be stated in regulations implementing application regime][763]
+[582][763][][763][Matters that must be stated in regulations implementing application regime][763]
 
 [Subpart 7][764][---][764][Enforcement of overseas pecuniary penalties under application regime][764]
 
-[583 ][765][][765][Purpose of this subpart][765]
+[583][765][][765][Purpose of this subpart][765]
 
-[584 ][766][][766][Enforcement of overseas pecuniary penalties under application regime][766]
+[584][766][][766][Enforcement of overseas pecuniary penalties under application regime][766]
 
-[585 ][767][][767][Power to enforce overseas penalties under application regime][767]
+[585][767][][767][Power to enforce overseas penalties under application regime][767]
 
-[586 ][768][][768][Interpretation][768]
+[586][768][][768][Interpretation][768]
 
-[587 ][769][][769][Registration of judgment][769]
+[587][769][][769][Registration of judgment][769]
 
-[588 ][770][][770][Effect of registration][770]
+[588][770][][770][Effect of registration][770]
 
-[589 ][771][][771][Enforceability of registered judgment][771]
+[589][771][][771][Enforceability of registered judgment][771]
 
-[590 ][772][][772][Stay may be granted][772]
+[590][772][][772][Stay may be granted][772]
 
-[591 ][773][][773][Costs][773]
+[591][773][][773][Costs][773]
 
-[592 ][774][][774][Interest][774]
+[592][774][][774][Interest][774]
 
-[593 ][775][][775][Rules of private international law not to apply][775]
+[593][775][][775][Rules of private international law not to apply][775]
 
-[594 ][776][][776][Other regulations for registration of judgments under application regime][776]
+[594][776][][776][Other regulations for registration of judgments under application regime][776]
 
 [Subpart 8][777][---][777][Transitional and miscellaneous provisions][777]
 
-[595 ][778][][778][Registers][778]
+[595][778][][778][Registers][778]
 
-[596 ][779][][779][Schedule 3 schemes][779]
+[596][779][][779][Schedule 3 schemes][779]
 
-[597 ][780][][780][Transitional provisions][780]
+[597][780][][780][Transitional provisions][780]
 
 [Schedule 1][781]  
 [Provisions relating to when disclosure is required and exclusions for offers and services][781]
@@ -1987,7 +1987,7 @@ Preliminary provisions
     
     _financial product market licence_ means a licence issued under [subpart 7][387] of Part 5
     
-    _financial service_--- 
+    _financial service_---
         
     *   (a) has the same meaning as in [section 5][806] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
     
@@ -2031,7 +2031,7 @@ Preliminary provisions
     
     _information insider_ has the meaning set out in [section 234][300]
     
-    _infringement fee_, in relation to an infringement offence, means the amount prescribed by the regulations as the infringement fee for the offence 
+    _infringement fee_, in relation to an infringement offence, means the amount prescribed by the regulations as the infringement fee for the offence
     
     _infringement notice_ means a notice issued under [section 514][678]
     
@@ -2099,7 +2099,7 @@ Preliminary provisions
     
     *   (e) the [KiwiSaver Act 2006][814]:
     
-    *   (f) [Part 5D][815] of the Reserve Bank of New Zealand Act 1989
+    *   (f) the [Non-bank Deposit Takers Act 2013][815]
     
     _KiwiSaver scheme_ means a scheme that is registered on the register of managed investment schemes as a KiwiSaver scheme
     
@@ -2117,7 +2117,7 @@ Preliminary provisions
     
     _licensed market operator_ means a person that is authorised to operate a licensed market under a financial product market licence
     
-    _licensed market services_ means those market services--- 
+    _licensed market services_ means those market services---
         
     *   (a) that are required to be licensed under [Part 6][481]; or
     
@@ -2205,7 +2205,9 @@ Preliminary provisions
     
     _money_ includes money's worth (except in the definitions of debt security, investor money, and investor property)
     
-    _New Zealand resident for tax purposes_ means a person that is a New Zealand resident, as determined under [sections YD 1][822] and [YD 2][823] of the Income Tax Act 2007
+    _NBDT_ has the same meaning as in [section 5][822] of the Non-bank Deposit Takers Act 2013
+    
+    _New Zealand resident for tax purposes_ means a person that is a New Zealand resident, as determined under [sections YD 1][823] and [YD 2][824] of the Income Tax Act 2007
     
     _non-quoted financial products_ means financial products that are not quoted
     
@@ -2273,11 +2275,11 @@ Preliminary provisions
     
     _register of offers of financial products_ means the register of offers of financial products kept under [Schedule 2][782]
     
-    _registered bank_ has the same meaning as in [section 2(1)][824] of the Reserve Bank of New Zealand Act 1989
+    _registered bank_ has the same meaning as in [section 2(1)][825] of the Reserve Bank of New Zealand Act 1989
     
     _registered scheme_ means a managed investment scheme that is registered on the register of managed investment schemes
     
-    _Registrar_ means the Registrar of Financial Service Providers appointed under [section 35][825] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
+    _Registrar_ means the Registrar of Financial Service Providers appointed under [section 35][826] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
     
     _regulated offer_ has the meaning set out in [section 41][53]
     
@@ -2299,7 +2301,7 @@ Preliminary provisions
     
     *   (b) in relation to a DIMS licensee, has the meaning set out in [section 439][550]
     
-    _relative_ has the meaning set out in [clause 5(2)][826] of Schedule 1
+    _relative_ has the meaning set out in [clause 5(2)][827] of Schedule 1
     
     _relevant event_ means an event that results in a person having to disclose matters under [sections 276 to 279][352]
     
@@ -2321,9 +2323,9 @@ Preliminary provisions
     
     _restricted scheme_ means a scheme that is registered on the register of managed investment schemes as a KiwiSaver scheme, a superannuation scheme, or a workplace savings scheme and that is identified as a restricted scheme on that register
     
-    _retail investor_ has the meaning set out in [clause 35][827] of Schedule 1
+    _retail investor_ has the meaning set out in [clause 35][828] of Schedule 1
     
-    _retail service_ has the meaning set out in [clause 35][827] of Schedule 1
+    _retail service_ has the meaning set out in [clause 35][828] of Schedule 1
     
     _retirement scheme_ means any of the following schemes for the purposes of any enactment:
         
@@ -2383,7 +2385,7 @@ Preliminary provisions
     
     _subsidiary_---
         
-    *   (a) has the meaning set out in [section 5][828] of the Companies Act 1993; and
+    *   (a) has the meaning set out in [section 5][829] of the Companies Act 1993; and
     
     *   (b) in [Part 7][565], includes any entity that is classified as a subsidiary in any applicable financial reporting standard
     
@@ -2397,7 +2399,7 @@ Preliminary provisions
     
     _supply_, in relation to a service, includes provide, grant, or confer
     
-    _Takeovers Code_ means the [Takeovers Code][795] in force under the [Takeovers Act 1993][829]
+    _Takeovers Code_ means the [Takeovers Code][795] in force under the [Takeovers Act 1993][830]
     
     _trade_, in [Part 2][23], has the meaning set out in [section 18][25]
     
@@ -2405,9 +2407,9 @@ Preliminary provisions
     
     _transacting shareholder_, in relation to a co-operative company,---
         
-    *   (a) has the same meaning as in [section 4][830] of the Co-operative Companies Act 1996; and
+    *   (a) has the same meaning as in [section 4][831] of the Co-operative Companies Act 1996; and
     
-    *   (b) includes a supplying shareholder within the meaning of [section 34][831] of that Act
+    *   (b) includes a supplying shareholder within the meaning of [section 34][832] of that Act
     
     _underlying_, in relation to a derivative, means the underlying asset, rate, index, commodity, or other thing referred to in [section 8(4)(a)(iii)][12]
     
@@ -2443,9 +2445,9 @@ Preliminary provisions
     
     _wholesale investor_---
         
-    *   (a) has the meaning set out in [clause 3(2) and (3)][832] of Schedule 1, in relation to an offer of financial products; and
+    *   (a) has the meaning set out in [clause 3(2) and (3)][833] of Schedule 1, in relation to an offer of financial products; and
     
-    *   (b) has the meaning set out in [clause 36(b)][833] of Schedule 1, in relation to the supply of a discretionary investment management service or any other relevant transaction (as defined in [clause 49][834] of that schedule)
+    *   (b) has the meaning set out in [clause 36(b)][834] of Schedule 1, in relation to the supply of a discretionary investment management service or any other relevant transaction (as defined in [clause 49][835] of that schedule)
     
     _workplace savings scheme_ means a scheme that is registered on the register of managed investment schemes as a workplace savings scheme (or, if the scheme is registered as a workplace savings scheme in respect of only a section of the scheme, means the scheme in respect of that section).
     
@@ -2455,15 +2457,15 @@ Preliminary provisions
     
     (4) In this Act, an _insolvency event_ is any of the following events, and a person _becomes subject to an insolvency event_ on the date on which, and (if specified) the time at which, that event occurs:
         
-    *   (a) a liquidator is appointed in respect of a liquidation under [Part 16][835] of the Companies Act 1993 or under any other Act; or
+    *   (a) a liquidator is appointed in respect of a liquidation under [Part 16][836] of the Companies Act 1993 or under any other Act; or
     
-    *   (b) an administrator is appointed in respect of a voluntary administration under [Part 15A][836] of the Companies Act 1993; or
+    *   (b) an administrator is appointed in respect of a voluntary administration under [Part 15A][837] of the Companies Act 1993; or
     
     *   (c) a receiver is appointed in relation to the whole, or substantially the whole, of the assets and undertaking of the person; or
     
-    *   (d) a liquidator is appointed in respect of a liquidation of an overseas company under [section 342][837] of the Companies Act 1993; or
+    *   (d) a liquidator is appointed in respect of a liquidation of an overseas company under [section 342][838] of the Companies Act 1993; or
     
-    *   (e) a statutory manager is appointed in respect of a statutory management under [Part 3][838] of the Corporations (Investigation and Management) Act 1989 or any other enactment; or
+    *   (e) a statutory manager is appointed in respect of a statutory management under [Part 3][839] of the Corporations (Investigation and Management) Act 1989 or any other enactment; or
     
     *   (f) a person is appointed in respect of, or another event occurs that indicates the start of, a process in New Zealand or in any other country in which the company or other body corporate was incorporated, created, or established that is similar to any of those set out in paragraphs (a) to (e).
     
@@ -2489,31 +2491,35 @@ Preliminary provisions
         
         
     
-    Section 6(1) **accounting period**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **accounting period**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **balance date**: replaced, on 1 April 2014, by [section 46(2)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **balance date**: replaced, on 1 April 2014, by [section 46(2)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **financial statements**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **financial statements**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **FMC reporting entity**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **FMC reporting entity**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **group**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **group**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **group financial statements**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **group financial statements**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **licensed insurer**: inserted, on 1 April 2014, by [section 46(1)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **issuer obligation** paragraph (f): replaced, on 1 May 2014, by [section 102][841] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
     
-    Section 6(1) **Part 7 financial reporting provision**: replaced, on 1 April 2014, by [section 46(3)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **licensed insurer**: inserted, on 1 April 2014, by [section 46(1)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 6(1) **qualified auditor**: replaced, on 1 April 2014, by [section 46(4)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **NBDT**: inserted, on 1 May 2014, by [section 102][841] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
     
-    Section 6(1) **subsidiary**: replaced, on 1 April 2014, by [section 46(5)][839] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 6(1) **Part 7 financial reporting provision**: replaced, on 1 April 2014, by [section 46(3)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 6(1) **qualified auditor**: replaced, on 1 April 2014, by [section 46(4)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 6(1) **subsidiary**: replaced, on 1 April 2014, by [section 46(5)][840] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 7 Meaning of financial product
     
@@ -2547,7 +2553,7 @@ Preliminary provisions
     
     *   (c) does not include---
             
-        *   (i) a share in a co-operative company that is issued or transferred to a transacting shareholder and that is, or may become, subject to the right of a transacting shareholder to surrender the share under [section 20][840] of the Co-operative Companies Act 1996; or
+        *   (i) a share in a co-operative company that is issued or transferred to a transacting shareholder and that is, or may become, subject to the right of a transacting shareholder to surrender the share under [section 20][842] of the Co-operative Companies Act 1996; or
         
         *   (ii) a derivative of the kind referred to in subsection (4)(b); or
         
@@ -2573,7 +2579,7 @@ Preliminary provisions
         
     *   (a) means the interest in a managed investment scheme referred to in paragraph (b) of the definition of that term in [section 9(1)][13]; but
     
-    *   (b) does not include--- 
+    *   (b) does not include---
             
         *   (i) an equity security; or
         
@@ -2641,7 +2647,7 @@ Preliminary provisions
             
         *   (i) a security declared to be a financial product of that kind under [subpart 3][737] of Part 9; or
         
-        *   (ii) a right attaching to, or a legal or an equitable interest in, a financial product of that kind; or 
+        *   (ii) a right attaching to, or a legal or an equitable interest in, a financial product of that kind; or
         
         *   (iii) an option to acquire, by way of issue, a financial product of that kind; but
         
@@ -2687,13 +2693,13 @@ Preliminary provisions
     
     *   ###### Discretionary investment management services
     
-    *   (b) a discretionary investment management service supplied by a DIMS licensee or by an authorised financial adviser who is authorised to provide that service under the [Financial Advisers Act 2008][841]:
+    *   (b) a discretionary investment management service supplied by a DIMS licensee or by an authorised financial adviser who is authorised to provide that service under the [Financial Advisers Act 2008][843]:
     
     *   ###### Insurance contracts
     
     *   (c) a scheme that would be a managed investment scheme only because it involves pure risk contracts of insurance:
     
-    *   (d) a scheme that would be a managed investment scheme only because it involves life insurance policies (within the meaning of [section 2(1)][842] of the Securities Act 1978) that were issued before this section comes into force.
+    *   (d) a scheme that would be a managed investment scheme only because it involves life insurance policies (within the meaning of [section 2(1)][844] of the Securities Act 1978) that were issued before this section comes into force.
     
     (3) In subsection (2), _pure risk contract of insurance_ means a contract of insurance that does not, and never will, have a value on its cancellation or surrender that is greater than the sum of premiums paid to the insurer.
     
@@ -2709,7 +2715,7 @@ Preliminary provisions
 
 ##### 11 Definitions of issued and issuer
     
-*   (1) In this Act,--- 
+*   (1) In this Act,---
         
     *   (a) a financial product is _issued_ to a person when it is first issued, granted, or otherwise made available to a person (subject to subsection (2)):
     
@@ -2755,7 +2761,7 @@ Preliminary provisions
     
     Although both parties are issuers, whether any particular party has disclosure or other obligations will depend on the circumstances.
     
-    If both A and B hold a market services licence, both A and B will be wholesale investors under [clause 37(1)(f)][843] of Schedule 1\. Accordingly, neither party will be required to make disclosure under [Part 3][49] to the other party.
+    If both A and B hold a market services licence, both A and B will be wholesale investors under [clause 37(1)(f)][845] of Schedule 1\. Accordingly, neither party will be required to make disclosure under [Part 3][49] to the other party.
     
     (5) In this Act, a reference to an issuer in relation to events, circumstances, or other matters before the financial products are issued is a reference to the person that will be, or is intended to be, the issuer when those products are issued.
     
@@ -2775,7 +2781,7 @@ Preliminary provisions
     
     *   (b) A and B are relatives or related bodies corporate:
     
-    *   (c) A and B are partners to whom the [Partnership Act 1908][844] applies:
+    *   (c) A and B are partners to whom the [Partnership Act 1908][846] applies:
     
     *   (d) A is a director or senior manager of B (or vice versa):
     
@@ -2791,7 +2797,7 @@ Preliminary provisions
     
     (2) In this Act, a body corporate (_A_) is _related_ to another body corporate (_B_) if---
         
-    *   (a) B is A's holding company or subsidiary within the meaning of [section 5][828] of the Companies Act 1993; or
+    *   (a) B is A's holding company or subsidiary within the meaning of [section 5][829] of the Companies Act 1993; or
     
     *   (b) more than half of A's voting products (other than voting products that carry no right to participate beyond a specified amount in a distribution of either profits or capital) are held by B and bodies corporate that are related to B (whether directly or indirectly, but other than in a fiduciary capacity), or vice versa; or
     
@@ -2847,7 +2853,7 @@ Preliminary provisions
     
     *   (b) taken to have notice of any agreement, document, or matter not specifically referred to in the relevant disclosure document (if any).
     
-    (3) Nothing in this section or in any other provision of this Act or the regulations limits the [Illegal Contracts Act 1970][845].
+    (3) Nothing in this section or in any other provision of this Act or the regulations limits the [Illegal Contracts Act 1970][847].
 
 ## Part 2  
 Fair dealing
@@ -2888,19 +2894,19 @@ Fair dealing
     
     (3) Subsection (2) applies regardless of whether or not the dealing is in trade.
     
-    Compare: 1986 No 121 [s 9][846]; 1988 No 234 [s 13][847]
+    Compare: 1986 No 121 [s 9][848]; 1988 No 234 [s 13][849]
 
 ##### 20 Misleading conduct in relation to financial products
     
 *   A person must not, in trade, engage in conduct that is liable to mislead the public as to the nature, characteristics, suitability for a purpose, or quantity of financial products.
     
-    Compare: 1986 No 121 [s 10][848]
+    Compare: 1986 No 121 [s 10][850]
 
 ##### 21 Misleading conduct in relation to financial services
     
 *   A person must not, in trade, engage in conduct that is liable to mislead the public as to the nature, characteristics, suitability for a purpose, or quantity of financial services.
     
-    Compare: 1986 No 121 [s 11][849]
+    Compare: 1986 No 121 [s 11][851]
 
 ##### 22 False or misleading representations
     
@@ -2920,11 +2926,11 @@ Fair dealing
     
     *   (g) concerning the need for the products or services; or
     
-    *   (h) concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy, including (to avoid doubt) in relation to any guarantee, right, or remedy available under the [Consumer Guarantees Act 1993][850]; or
+    *   (h) concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy, including (to avoid doubt) in relation to any guarantee, right, or remedy available under the [Consumer Guarantees Act 1993][852]; or
     
     *   (i) concerning the place of origin of the products or services.
     
-    Compare: 1986 No 121 [s 13][851]
+    Compare: 1986 No 121 [s 13][853]
 
 ##### 23 Unsubstantiated representations
     
@@ -2986,9 +2992,9 @@ Fair dealing
 
 ##### 28 Certain conduct does not contravene various provisions
     
-*   (1) Conduct that contravenes [section 82][103], [99][129], [262][335], [265][338], or [427][534] or [clause 27][852] of Schedule 1 does not contravene [sections 19 to 23][27].
+*   (1) Conduct that contravenes [section 82][103], [99][129], [262][335], [265][338], or [427][534] or [clause 27][854] of Schedule 1 does not contravene [sections 19 to 23][27].
     
-    (2) For the purpose of this section, conduct must be treated as contravening [section 82][103], [99][129], [262][335], [265][338], or [427][534] or [clause 27][852] of Schedule 1 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
+    (2) For the purpose of this section, conduct must be treated as contravening [section 82][103], [99][129], [262][335], [265][338], or [427][534] or [clause 27][854] of Schedule 1 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
     
     Compare: Australian Securities and Investments Commission Act 2001 ss 12DA(1A), 12DB(2) (Aust)
 
@@ -3040,7 +3046,7 @@ Fair dealing
     
     *   (e) exhibiting films to the public, the person that exhibits the films.
     
-    Compare: 1986 No 121 [s 15][853]
+    Compare: 1986 No 121 [s 15][855]
 
 ##### 30 Defence for publisher
     
@@ -3050,7 +3056,7 @@ Fair dealing
     
     *   (b) A received the advertisement, or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of the provision.
     
-    Compare: 1986 No 121 [s 44(4)][854]
+    Compare: 1986 No 121 [s 44(4)][856]
 
 ##### 31 Licensed market operator does not contravene by notifying disclosures
     
@@ -3058,11 +3064,11 @@ Fair dealing
 
 ##### 32 Other exceptions
     
-*   (1) [Sections 19 to 23][27] do not apply to conduct in relation to a takeover offer for financial products under the [Takeovers Code][795] or to conduct under that offer to the extent that the conduct is regulated by the Takeovers Code, the [Takeovers Act 1993][829], or an exemption granted under that Act.
+*   (1) [Sections 19 to 23][27] do not apply to conduct in relation to a takeover offer for financial products under the [Takeovers Code][795] or to conduct under that offer to the extent that the conduct is regulated by the Takeovers Code, the [Takeovers Act 1993][830], or an exemption granted under that Act.
     
-    (2) [Sections 19 to 23][27] do not apply to conduct in relation to the acquisition or redemption by a company of its shares under the [Companies Act 1993][855] to the extent that the conduct is regulated by that Act.
+    (2) [Sections 19 to 23][27] do not apply to conduct in relation to the acquisition or redemption by a company of its shares under the [Companies Act 1993][857] to the extent that the conduct is regulated by that Act.
     
-    Compare: 1988 No 234 [ss 14][856], [15][857]
+    Compare: 1988 No 234 [ss 14][858], [15][859]
 
 ##### 33 Territorial scope of sections 19 to 23
     
@@ -3076,9 +3082,9 @@ Fair dealing
     
     (3) Despite anything to the contrary in [Part 8][600], only the FMA may commence a proceeding or make an application under that Part in relation to conduct to which this Part applies by virtue of subsection (2).
     
-    (4) In this section, _registered_ means registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858].
+    (4) In this section, _registered_ means registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860].
     
-    Compare: 1988 No 234 [s 18][859]; 1978 No 103 [s 7(3)][860]
+    Compare: 1988 No 234 [s 18][861]; 1978 No 103 [s 7(3)][862]
 
 #### Offers in course of unsolicited meetings
 
@@ -3088,11 +3094,11 @@ Fair dealing
     
     (2) Subsection (1) does not prohibit an offer of financial products if---
         
-    *   (a) the offer does not require disclosure under [Part 3][49] because of an exclusion under [Part 1][861] of Schedule 1 (other than an exclusion under [clause 12][862] or [16][863] of that schedule); or
+    *   (a) the offer does not require disclosure under [Part 3][49] because of an exclusion under [Part 1][863] of Schedule 1 (other than an exclusion under [clause 12][864] or [16][865] of that schedule); or
     
     *   (b) the offer is through an authorised financial adviser or a QFE adviser who is acting in the ordinary course of business as a financial adviser; or
     
-    *   (c) the offer is an offer of quoted financial products made to A through a person who, under the [Financial Advisers Act 2008][841], is permitted to give personalised financial advice to A in respect of those products (including as a result of an exemption by or under that Act); or
+    *   (c) the offer is an offer of quoted financial products made to A through a person who, under the [Financial Advisers Act 2008][843], is permitted to give personalised financial advice to A in respect of those products (including as a result of an exemption by or under that Act); or
     
     *   (d) the offer is an offer of the financial products of a co-operative where becoming a holder of those products is---
             
@@ -3183,13 +3189,13 @@ Disclosure of offers of financial products
 
 ##### 39 Issue offers that need disclosure
     
-*   An offer of financial products for issue requires disclosure to an investor under this Part unless an exclusion under [Part 1][861] of Schedule 1 applies.
+*   An offer of financial products for issue requires disclosure to an investor under this Part unless an exclusion under [Part 1][863] of Schedule 1 applies.
     
     Compare: Corporations Act 2001 s 706 (Aust)
 
 ##### 40 Sale offers that need disclosure
     
-*   An offer of financial products for sale requires disclosure to an investor under this Part only if disclosure is required under [Part 2][864] of Schedule 1\.
+*   An offer of financial products for sale requires disclosure to an investor under this Part only if disclosure is required under [Part 2][866] of Schedule 1\.
     
     Compare: Corporations Act 2001 s 707(1) (Aust)
 
@@ -3215,7 +3221,7 @@ Disclosure of offers of financial products
     
     However, none of the exclusions in Schedule 1 apply to the remaining 60 investors. The offer to each of these investors requires disclosure. This means that a product disclosure statement must be given to each of the 60 investors under section 50 (subject to section 51).
     
-    The offer of ABC Limited's ordinary shares, as a whole, is a regulated offer because at least some of the offers to investors require disclosure. 
+    The offer of ABC Limited's ordinary shares, as a whole, is a regulated offer because at least some of the offers to investors require disclosure.
     
     Some obligations under this Act apply to the regulated offer as a whole. These obligations apply to all of the investors even if the offers to some of those investors do not require disclosure. For example, all money paid for the shares must be held in trust under section 87 (even if the money is paid by a wholesale investor, a relative, or a close business associate), ongoing disclosure under subpart 4 may be required to be made to a wholesale investor, a relative, or a close business associate, and registers of financial products kept under subpart 4 of Part 4 relate to products held by all product holders.
     
@@ -3243,7 +3249,7 @@ Disclosure of offers of financial products
     
     *   (c) an offer to grant an option is an offer to issue the option.
     
-    (2) _See_ [clause 11][865] of Schedule 1 for an exclusion in relation to options.
+    (2) _See_ [clause 11][867] of Schedule 1 for an exclusion in relation to options.
     
     Compare: Corporations Act 2001 s 702 (Aust)
 
@@ -3257,7 +3263,7 @@ Disclosure of offers of financial products
     
     (2) A change to the terms or conditions of a financial product is not a variation for the purposes of this section if the change is made in accordance with the existing terms or conditions of the financial product (for example, if the issuer exercises a power under the terms or conditions to change an interest rate).
     
-    (3) _See_ [clause 24][866] of Schedule 1 for an exclusion in relation to renewals and variations (but limited disclosure may be required under [clause 26][800] of that schedule).
+    (3) _See_ [clause 24][868] of Schedule 1 for an exclusion in relation to renewals and variations (but limited disclosure may be required under [clause 26][800] of that schedule).
 
 ##### 46 Offers of financial products involving customised terms
     
@@ -3287,9 +3293,9 @@ Disclosure of offers of financial products
     
     (2) For the purposes of subsection (1), financial products are offered in New Zealand if an offer of the financial products is received by a person in New Zealand, unless the offeror demonstrates that it has taken all reasonable steps to ensure that persons in New Zealand (other than persons referred to in subsection (3)) may not accept the offer.
     
-    (3) The persons referred to in this subsection are persons to whom disclosure under this Part is not required because of an exclusion under any of [clauses 3 to 5][832] of Schedule 1\.
+    (3) The persons referred to in this subsection are persons to whom disclosure under this Part is not required because of an exclusion under any of [clauses 3 to 5][833] of Schedule 1\.
     
-    Compare: 1978 No 103 [s 7][860]
+    Compare: 1978 No 103 [s 7][862]
 
 ### Subpart 2---Procedure for making regulated offers
 
@@ -3497,7 +3503,7 @@ Disclosure of offers of financial products
     
     (3) In this section and [section 83(3)][104],---
     
-    _approved rating agency_ means a rating agency nominated or approved under [section 80][867] of the Reserve Bank of New Zealand Act 1989 or [section 62][868] of the Insurance (Prudential Supervision) Act 2010
+    _approved rating agency_ means a rating agency nominated or approved under [section 80][869] of the Reserve Bank of New Zealand Act 1989, [section 86][870] of the Non-bank Deposit Takers Act 2013, or [section 62][871] of the Insurance (Prudential Supervision) Act 2010
     
     _endorsement_ means a statement that---
         
@@ -3514,6 +3520,8 @@ Disclosure of offers of financial products
     _expert statement_ means a statement purporting to be made by an expert.
     
     Compare: Corporations Act 2001 ss 716, 735(1) (Aust)
+    
+    Section 60(3) **approved rating agency**: amended, on 1 May 2014, by [section 102][841] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
 
 ##### 61 PDS must be worded and presented in clear, concise, and effective manner
     
@@ -3547,7 +3555,7 @@ Disclosure of offers of financial products
     
     (3) Nothing in this section or any other provision of this Act limits the FMA's power to consider or reconsider at any time any of the matters referred to in subsection (1).
     
-    Compare: 1978 No 103 [s 43C(1)][869], (3), (4)
+    Compare: 1978 No 103 [s 43C(1)][872], (3), (4)
 
 ##### 65 Waiting period after lodgement before processing applications for financial products
     
@@ -3563,11 +3571,11 @@ Disclosure of offers of financial products
     
     (4) This section does not prevent an offeror from receiving applications for financial products or money during the period that applies under this section.
     
-    Compare: 1978 No 103 [s 43D][870]; Corporations Act 2001 s 727(3) (Aust)
+    Compare: 1978 No 103 [s 43D][873]; Corporations Act 2001 s 727(3) (Aust)
 
 ##### 66 FMA may extend period
     
-*   (1) The FMA may extend the period under [section 65(1)(a)][82] by notice in writing to the offeror. 
+*   (1) The FMA may extend the period under [section 65(1)(a)][82] by notice in writing to the offeror.
     
     (2) The period, as extended, must end no later than 10 working days after lodgement of the PDS with the Registrar.
     
@@ -3591,9 +3599,9 @@ Disclosure of offers of financial products
     
     *   (b) [section 65][82] does not apply in respect of the PDS.
     
-    (3) Nothing in this section limits [subpart 2][729] of Part 9 (which allows the FMA to grant exemptions in respect of compliance with [section 65][82]). 
+    (3) Nothing in this section limits [subpart 2][729] of Part 9 (which allows the FMA to grant exemptions in respect of compliance with [section 65][82]).
     
-    Compare: 1978 No 103 [s 43E][871]
+    Compare: 1978 No 103 [s 43E][874]
 
 ##### 69 Waiting period does not usually apply to continuous issue PDSs
     
@@ -3605,7 +3613,7 @@ Disclosure of offers of financial products
     
     (4) [Subpart 5][747] of Part 9 (general provisions relating to certain FMA instruments) applies to a notice under this section.
     
-    Compare: 1978 No 103 [s 43EA][872]
+    Compare: 1978 No 103 [s 43EA][875]
 
 ##### 70 No guarantee or representation as to compliance
     
@@ -3631,9 +3639,9 @@ Disclosure of offers of financial products
         
         
     
-    (2) This section does not limit [section 22][873] of the Financial Markets Authority Act 2011 (which provides protection from liability for the FMA and its members and employees).
+    (2) This section does not limit [section 22][876] of the Financial Markets Authority Act 2011 (which provides protection from liability for the FMA and its members and employees).
     
-    Compare: 1978 No 103 [s 43M][874]
+    Compare: 1978 No 103 [s 43M][877]
 
 ##### 71 When supplementary document or replacement PDS may be lodged
     
@@ -3691,7 +3699,7 @@ Disclosure of offers of financial products
     
     (3) [Section 65][82] does not apply to the lodgement of a supplementary document or replacement PDS.
     
-    Compare: 1978 No 103 [s 43C(1)][869], (3)
+    Compare: 1978 No 103 [s 43C(1)][872], (3)
 
 ##### 75 Publication of lodgement
     
@@ -3835,7 +3843,7 @@ Disclosure of offers of financial products
     
     *   (c) in the case of [section 79(5)][99],---
             
-        *   (i) amend the register entry to correct the deficiency; and 
+        *   (i) amend the register entry to correct the deficiency; and
         
         *   (ii) give notice in the prescribed manner to the applicant that the register entry has been amended; and
         
@@ -3881,7 +3889,7 @@ Disclosure of offers of financial products
     
     *   (b) the matter referred to in paragraph (a) is materially adverse from the point of view of an investor.
     
-    (2) For the purposes of this section, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it. 
+    (2) For the purposes of this section, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
     
     (3) Subsection (2) does not limit the meaning of a reference to a misleading statement.
     
@@ -4021,7 +4029,7 @@ Disclosure of offers of financial products
         
     *   (a) a PDS that has been lodged with the Registrar:
     
-    *   (b) a copy of any part of the register entry or of any document that is contained in the register entry. 
+    *   (b) a copy of any part of the register entry or of any document that is contained in the register entry.
     
     Compare: Corporations Act 2001 s 734(4) (Aust)
 
@@ -4045,7 +4053,7 @@ Disclosure of offers of financial products
     
     (2) A statement required under subsection (1)(a) to (c) and (d)(ii) must be reasonably prominent.
     
-    Compare: 1978 No 103 [s 5(2CA)][875]; Corporations Act 2001 s 734(5) (Aust)
+    Compare: 1978 No 103 [s 5(2CA)][878]; Corporations Act 2001 s 734(5) (Aust)
 
 ##### 92 Advertising after PDS lodged
     
@@ -4099,7 +4107,7 @@ Disclosure of offers of financial products
     
     *   (b) A received the advertisement, or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of [section 89][114].
     
-    Compare: 1986 No 121 [s 44(4)][854]
+    Compare: 1986 No 121 [s 44(4)][856]
 
 ### Subpart 4---Ongoing disclosure and updating of registers
 
@@ -4119,7 +4127,7 @@ Disclosure of offers of financial products
     
     (4) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 43Q][876]
+    Compare: 1978 No 103 [s 43Q][879]
 
 #### Disclosure to particular persons
 
@@ -4141,13 +4149,13 @@ Disclosure of offers of financial products
     
 *   Every issuer of regulated products must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, make publicly available the information that is required to be made publicly available by the regulations.
     
-    Compare: 1978 No 103 [s 54C][877]
+    Compare: 1978 No 103 [s 54C][880]
 
 ##### 98 Issuer must provide information to Registrar
     
 *   (1) An issuer of regulated products must lodge with the Registrar a copy of any information made, or to be made, publicly available under [section 97][126] before the date that is 5 working days after that information is made available under that section.
     
-    (2) Subsection (1) does not apply--- 
+    (2) Subsection (1) does not apply---
         
     *   (a) if the regulations made for the purposes of [section 97][126] require the information to be made publicly available by lodging that information with the Registrar; or
     
@@ -4197,7 +4205,7 @@ Disclosure of offers of financial products
     
     (6) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 54(1)][878], (4)
+    Compare: 1978 No 103 [s 54(1)][881], (4)
 
 ### Subpart 5---Civil liability for certain contraventions of this Part
 
@@ -4229,11 +4237,11 @@ Disclosure of offers of financial products
     
     *   (j) [sections 97][126] and [99][129] (ongoing disclosure):
     
-    *   (k) [clauses 13][879] and [17][880] of Schedule 1 (restrictions on advertising for small offers and small schemes):
+    *   (k) [clauses 13][882] and [17][883] of Schedule 1 (restrictions on advertising for small offers and small schemes):
     
     *   (l) [clause 26][800] of Schedule 1 (offeror must comply with disclosure and other requirements):
     
-    *   (m) [clause 27][852] of Schedule 1 (false or misleading statements and omissions).
+    *   (m) [clause 27][854] of Schedule 1 (false or misleading statements and omissions).
     
     (4) A contravention of any of the following may give rise to civil liability (_see_ [subpart 3][635] of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case:
         
@@ -4251,7 +4259,7 @@ Disclosure of offers of financial products
     
     *   (g) [section 88][112] (offering financial products in entity that does not exist):
     
-    *   (h) [clause 28][881] of Schedule 1 (certain persons must inform offeror about deficiencies in disclosure document under [clause 26][800]).
+    *   (h) [clause 28][884] of Schedule 1 (certain persons must inform offeror about deficiencies in disclosure document under [clause 26][800]).
     
     
 
@@ -4308,7 +4316,7 @@ Governance of financial products
     
     (3) The issuer of the debt security must ensure that there continues to be a trust deed and licensed supervisor as required by subsection (1) until the debt security is cancelled, redeemed, or forfeited, or all of the obligations owing under the debt security have been discharged.
     
-    Compare: 1978 No 103 [s 33(2)][882]
+    Compare: 1978 No 103 [s 33(2)][885]
 
 #### Governing document requirements
 
@@ -4340,7 +4348,7 @@ Governance of financial products
 
 ##### 105 Limits on permitted exemptions and indemnities
     
-*   (1) If a supervisor of a debt security has any rights to be indemnified in relation to the performance of the supervisor's licensee obligations (as defined in [section 4][883] of the Financial Markets Supervisors Act 2011), those rights---
+*   (1) If a supervisor of a debt security has any rights to be indemnified in relation to the performance of the supervisor's licensee obligations (as defined in [section 4][886] of the Financial Markets Supervisors Act 2011), those rights---
         
     *   (a) must be set out in the trust deed for the debt security; and
     
@@ -4348,7 +4356,7 @@ Governance of financial products
     
     (2) No other agreement has any effect to the extent that it purports to confer a right of a kind set out in subsection (1).
     
-    Compare: Corporations Act 2001 s 283DB (Aust); 1978 No 103 [s 62][884]
+    Compare: Corporations Act 2001 s 283DB (Aust); 1978 No 103 [s 62][887]
 
 ##### 106 Trust deed must be legally enforceable
     
@@ -4366,7 +4374,7 @@ Governance of financial products
     
     *   (b) under [section 109][144]; or
     
-    *   (c) under [section 22(7)][885] or [37(6)][886] of the Financial Markets Supervisors Act 2011 or any other power to amend or replace the trust deed under an enactment.
+    *   (c) under [section 22(7)][888] or [37(6)][889] of the Financial Markets Supervisors Act 2011 or any other power to amend or replace the trust deed under an enactment.
     
     (2) The supervisor must not consent to an amendment to, or a replacement of, the trust deed under this section unless---
         
@@ -4460,7 +4468,7 @@ Governance of financial products
     
     (4) The duty in subsection (2)(b) is subject to any order of the court made under [section 210][266].
     
-    Compare: SR 2009/230 Schedule 15 [cl 1][887]
+    Compare: SR 2009/230 Schedule 15 [cl 1][890]
 
 ##### 113 Duty of supervisor to comply with professional standard of care
     
@@ -4470,7 +4478,7 @@ Governance of financial products
     
 *   The issuer of a debt security must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, prepare and provide to the supervisor reports that contain the information that is required to be provided by the regulations.
     
-    Compare: SR 2009/230 Schedule 15 [cl 4][888]
+    Compare: SR 2009/230 Schedule 15 [cl 4][891]
 
 ##### 115 Duty of issuer to provide requested information and reports to supervisor
     
@@ -4488,7 +4496,7 @@ Governance of financial products
     
     (3) The reports or information must be provided within the time and in the manner (which must be reasonable in the circumstances) specified by the supervisor.
     
-    Compare: SR 2009/230 Schedule 15 [cls 2(3)][889], [3A][890]
+    Compare: SR 2009/230 Schedule 15 [cls 2(3)][892], [3A][893]
 
 ##### 116 Issuer must report contravention or possible contravention of issuer obligations
     
@@ -4514,7 +4522,7 @@ Governance of financial products
     
     *   (b) advise the supervisor of the steps (if any) that the issuer intends to take in respect of that matter and the date by which the steps are to be taken.
     
-    Compare: 2011 No 10 [s 47][891]
+    Compare: 2011 No 10 [s 47][894]
 
 ##### 119 Power of supervisor to engage expert
     
@@ -4530,7 +4538,7 @@ Governance of financial products
     
     *   (b) the fees and expenses of the expert, which must be reasonable in the circumstances, must be paid by the issuer.
     
-    Compare: SR 2009/230 Schedule 15 [cl 3C][892]
+    Compare: SR 2009/230 Schedule 15 [cl 3C][895]
 
 #### Meetings of product holders
 
@@ -4548,7 +4556,7 @@ Governance of financial products
     
     (2) Other requirements for meetings, proceedings at meetings, and provision for resolutions in lieu of meetings are governed by the regulations (if any) and the trust deed (if there are no regulations or to the extent that the trust deed is not inconsistent with the regulations).
     
-    Compare: SR 2009/230 Schedule 15 [cl 3(1)][893]
+    Compare: SR 2009/230 Schedule 15 [cl 3(1)][896]
 
 ##### 121 Supervisor's attendance at meetings of product holders and power to appoint chair
     
@@ -4562,7 +4570,7 @@ Governance of financial products
     
     *   (d) may appoint the chairperson of any meeting of holders of the debt security.
     
-    Compare: SR 2009/230 Schedule 15 [cl 3(3)][893]
+    Compare: SR 2009/230 Schedule 15 [cl 3(3)][896]
 
 #### Change of supervisor
 
@@ -4570,7 +4578,7 @@ Governance of financial products
     
 *   (1) The supervisor of a debt security ceases to hold that appointment (subject to subsection (2)) if the supervisor---
         
-    *   (a) is removed by the FMA or the issuer under [Part 2][894] of the Financial Markets Supervisors Act 2011; or
+    *   (a) is removed by the FMA or the issuer under [Part 2][897] of the Financial Markets Supervisors Act 2011; or
     
     *   (b) is removed by a special resolution of the holders of the debt security; or
     
@@ -4590,7 +4598,7 @@ Governance of financial products
     
     *   (b) (despite anything in the trust deed) be removed by an issuer of the debt security under subsection (1)(c) without the FMA's consent.
     
-    Compare: 1978 No 103 [s 48][895]
+    Compare: 1978 No 103 [s 48][898]
 
 ##### 123 Lodging of notice of change of supervisor
     
@@ -4630,7 +4638,7 @@ Governance of financial products
     
     (3) A scheme that is approved as a Schedule 3 scheme under [Schedule 3][783] may not be registered under this subpart.
     
-    Compare: 1960 No 99 [s 8][896]; 1978 No 103 [s 33(3)][882]
+    Compare: 1960 No 99 [s 8][899]; 1978 No 103 [s 33(3)][885]
 
 #### Registration
 
@@ -4658,7 +4666,7 @@ Governance of financial products
         
         
     
-    (3) The Registrar must register a managed investment scheme if satisfied that the application meets the requirements of this section and [section 127(1)(a)][168] (subject to [clause 7][897] of Schedule 2).
+    (3) The Registrar must register a managed investment scheme if satisfied that the application meets the requirements of this section and [section 127(1)(a)][168] (subject to [clause 7][900] of Schedule 2).
 
 ##### 127 Initial and ongoing registration requirements for all managed investment schemes
     
@@ -4678,7 +4686,7 @@ Governance of financial products
     
     (2) However, subsection (1)(c) to (e) do not apply to a restricted scheme (and any reference in this Act to a supervisor in relation to a registered scheme does not apply in relation to a restricted scheme (unless the context otherwise requires)).
     
-    Compare: 1960 No 99 [s 3(1)][898], (4); 2006 No 40 [ss 116F][899], [116G][900]
+    Compare: 1960 No 99 [s 3(1)][901], (4); 2006 No 40 [ss 116F][902], [116G][903]
 
 ##### 128 Additional initial and ongoing registration requirements for KiwiSaver schemes
     
@@ -4688,7 +4696,7 @@ Governance of financial products
     
     *   (b) its purpose must be to provide retirement benefits directly to individuals; and
     
-    *   (c) it must, accordingly, restrict redemptions, withdrawals, and the provision of benefits in respect of a member's accumulation (including in the way the trust deed is applied) to those permitted under the [KiwiSaver scheme rules][901] under the KiwiSaver Act 2006; and
+    *   (c) it must, accordingly, restrict redemptions, withdrawals, and the provision of benefits in respect of a member's accumulation (including in the way the trust deed is applied) to those permitted under the [KiwiSaver scheme rules][904] under the KiwiSaver Act 2006; and
     
     *   (d) it must admit as members (both in its conditions of entry of scheme participants and in the way those conditions are applied on entry) only persons who meet the New Zealand criteria set out in subsection (2) or (3); and
     
@@ -4700,11 +4708,11 @@ Governance of financial products
     
     *   (h) its manager must be a party to a scheme provider agreement with the Commissioner of Inland Revenue (if required by regulations made under the[KiwiSaver Act 2006][814]); and
     
-    *   (i) the FMA must be satisfied that the fees charged in accordance with any information provided in the application will comply with [clause 2][902] of the KiwiSaver scheme rules under the KiwiSaver Act 2006\.
+    *   (i) the FMA must be satisfied that the fees charged in accordance with any information provided in the application will comply with [clause 2][905] of the KiwiSaver scheme rules under the KiwiSaver Act 2006\.
     
     (2) The New Zealand criteria are that the person, at the time of becoming a scheme participant,---
         
-    *   (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the [State Sector Act 1988][903]) who is---
+    *   (a) is, or normally is, living in New Zealand, or is an employee of the State services (within the meaning of the [State Sector Act 1988][906]) who is---
             
         *   (i) serving outside New Zealand; and
         
@@ -4714,9 +4722,9 @@ Governance of financial products
         
         
     
-    *   (b) is a New Zealand citizen or is entitled, in terms of the [Immigration Act 2009][904], to be in New Zealand indefinitely.
+    *   (b) is a New Zealand citizen or is entitled, in terms of the [Immigration Act 2009][907], to be in New Zealand indefinitely.
     
-    (3) A person also meets the New Zealand criteria if the person--- 
+    (3) A person also meets the New Zealand criteria if the person---
         
     *   (a) is, immediately before becoming a participant of the KiwiSaver scheme (**scheme A**), a member of another KiwiSaver scheme (**scheme B**); and
     
@@ -4728,13 +4736,13 @@ Governance of financial products
     
     *   (b) at least 1 of the trustees or 1 of the directors of the corporate trustee of the scheme must be a New Zealand resident for tax purposes.
     
-    Compare: 2006 No 40 [s 116][905]
+    Compare: 2006 No 40 [s 116][908]
 
 ##### 129 Additional initial and ongoing registration requirements for superannuation schemes
     
 *   (1) Every superannuation scheme must meet the following registration requirements in addition to those in [section 127][168]:
         
-    *   (a) it must be a trust established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; and 
+    *   (a) it must be a trust established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; and
     
     *   (b) its purpose must be to provide retirement benefits directly or indirectly to individuals; and
     
@@ -4742,15 +4750,15 @@ Governance of financial products
     
     *   (d) it must admit as members (both in its conditions of entry of scheme participants and in the way those conditions are applied on entry) only either or both of the following:
             
-        *   (i) individuals: 
+        *   (i) individuals:
         
-        *   (ii) persons who are the trustees or managers of a retirement scheme; and 
+        *   (ii) persons who are the trustees or managers of a retirement scheme; and
         
         
     
-    *   (e) it must be--- 
+    *   (e) it must be---
             
-        *   (i) a defined benefit scheme; or 
+        *   (i) a defined benefit scheme; or
         
         *   (ii) a scheme under which contributions are allocated to scheme participants on an individual basis and the benefits provided by the scheme must be fully funded as they accrue; and
         
@@ -4768,13 +4776,13 @@ Governance of financial products
     
     *   (b) the scheme or section must continue to be closed to new members.
     
-    Compare: 1989 No 10 [ss 2A][906], [3(1)][907]
+    Compare: 1989 No 10 [ss 2A][909], [3(1)][910]
 
 ##### 130 Additional initial and ongoing registration requirements for workplace savings schemes
     
 *   (1) Every workplace savings scheme must meet the following registration requirements in addition to those in [section 127][168]:
         
-    *   (a) it must be a trust established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; and 
+    *   (a) it must be a trust established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; and
     
     *   (b) its purposes must be to provide---
             
@@ -4796,13 +4804,13 @@ Governance of financial products
             
         *   (i) eligible individuals:
         
-        *   (ii) persons who are the trustees or managers of a retirement scheme; and 
+        *   (ii) persons who are the trustees or managers of a retirement scheme; and
         
         
     
-    *   (e) it must be--- 
+    *   (e) it must be---
             
-        *   (i) a defined benefit scheme; or 
+        *   (i) a defined benefit scheme; or
         
         *   (ii) a scheme under which contributions are allocated to scheme participants on an individual basis and the benefits provided by the scheme must be fully funded as they accrue; and
         
@@ -4824,7 +4832,7 @@ Governance of financial products
 
 ##### 131 Additional ongoing registration requirements for restricted schemes
     
-*   (1) Every restricted scheme registered under [clause 22][908] of Schedule 4 must meet the following registration requirements in addition to those in [section 127][168]:
+*   (1) Every restricted scheme registered under [clause 22][911] of Schedule 4 must meet the following registration requirements in addition to those in [section 127][168]:
         
     *   (a) it must be---
             
@@ -4836,17 +4844,17 @@ Governance of financial products
     
     *   (b) it must---
             
-        *   (i) admit as members (both in its conditions of entry of scheme participants and in the way in which those conditions are applied on entry) only 1 or more of the classes of persons referred to in subsection (2); or 
+        *   (i) admit as members (both in its conditions of entry of scheme participants and in the way in which those conditions are applied on entry) only 1 or more of the classes of persons referred to in subsection (2); or
         
-        *   (ii) be closed to new members; and 
+        *   (ii) be closed to new members; and
         
         
     
-    *   (c) the conditions of entry of scheme participants, or the way in which those conditions have been applied on entry, must not have been changed without the FMA's consent since the date of the scheme's registration under [clause 22][908] of Schedule 4 in a way that expands, or is likely to expand, the classes of people who may become scheme participants; and
+    *   (c) the conditions of entry of scheme participants, or the way in which those conditions have been applied on entry, must not have been changed without the FMA's consent since the date of the scheme's registration under [clause 22][911] of Schedule 4 in a way that expands, or is likely to expand, the classes of people who may become scheme participants; and
     
-    *   (d) its trustees must--- 
+    *   (d) its trustees must---
             
-        *   (i) include at least 1 licensed independent trustee whose licence covers the scheme and who is independent under subsection (3); or 
+        *   (i) include at least 1 licensed independent trustee whose licence covers the scheme and who is independent under subsection (3); or
         
         *   (ii) consist only of a sole corporate trustee that has at least 1 director who is a licensed independent trustee whose licence covers the scheme and who is independent under subsection (3); and
         
@@ -4886,7 +4894,7 @@ Governance of financial products
     
     *   (g) is not a corporate trustee if none of its directors are independent under this definition.
     
-    Compare: 2006 No 40 [s 116A][909]
+    Compare: 2006 No 40 [s 116A][912]
 
 ##### 132 Additional prescribed registration requirements for other particular prescribed types of schemes
     
@@ -4938,7 +4946,7 @@ Governance of financial products
     
     *   (b) as soon as practicable after being notified of the direction, the manager must notify the scheme participants of the direction.
     
-    Compare: 2006 No 40 [s 168A][910]
+    Compare: 2006 No 40 [s 168A][913]
 
 #### Governing document requirements
 
@@ -4958,7 +4966,7 @@ Governance of financial products
     
     *   (c) the contributions payable, or the manner of calculating the contributions payable, and the rules applying to changing the contributions payable or the manner of their calculation; and
     
-    *   (d) the methodology, or the rules applying to determining the methodology, and other rules applying to valuations of assets of the scheme and pricing of interests in the scheme; and 
+    *   (d) the methodology, or the rules applying to determining the methodology, and other rules applying to valuations of assets of the scheme and pricing of interests in the scheme; and
     
     *   (e) the rules applying to the determination and payment of benefits to scheme participants; and
     
@@ -4978,7 +4986,7 @@ Governance of financial products
         
         *   (ii) the rights and duties of scheme participants in the scheme:
         
-        *   (iii) the powers, rights, and duties of the manager and the supervisor of the scheme. 
+        *   (iii) the powers, rights, and duties of the manager and the supervisor of the scheme.
         
         
     
@@ -4986,11 +4994,11 @@ Governance of financial products
     
     (3) The governing document must provide for the contents of the document that are required by this section in accordance with the frameworks and methodologies specified in notices issued by the FMA under [subpart 4][743] of Part 9 (if any).
     
-    Compare: 1989 No 10 [s 7][911]; 2006 No 40 [s 119][912]
+    Compare: 1989 No 10 [s 7][914]; 2006 No 40 [s 119][915]
 
 ##### 136 Limits on permitted exemptions and indemnities
     
-*   (1) If a manager or supervisor of a registered scheme has any rights to be indemnified for liabilities or expenses incurred in relation to the performance of the manager's issuer obligations or the supervisor's licensee obligations (as defined in [section 4][913] of the Financial Markets Supervisors Act 2011), those rights---
+*   (1) If a manager or supervisor of a registered scheme has any rights to be indemnified for liabilities or expenses incurred in relation to the performance of the manager's issuer obligations or the supervisor's licensee obligations (as defined in [section 4][916] of the Financial Markets Supervisors Act 2011), those rights---
         
     *   (a) must be set out in the scheme's governing document; and
     
@@ -5002,7 +5010,7 @@ Governance of financial products
             
         *   (i) in the scheme's governing document; or
         
-        *   (ii) in the contract between the investment manager and the manager, provided that the scheme's governing document contains a power that permits such an indemnity; and 
+        *   (ii) in the contract between the investment manager and the manager, provided that the scheme's governing document contains a power that permits such an indemnity; and
         
         
     
@@ -5010,7 +5018,7 @@ Governance of financial products
     
     (3) No other agreement has any effect to the extent that it purports to confer a right of a kind referred to in subsection (1) or (2).
     
-    Compare: 1960 No 99 [s 24(2)][914]; 1978 No 103 [s 62][884]; 2006 No 40 [s 116J(1)][915]; Corporations Act 2001 s 601GA(2) (Aust)
+    Compare: 1960 No 99 [s 24(2)][917]; 1978 No 103 [s 62][887]; 2006 No 40 [s 116J(1)][918]; Corporations Act 2001 s 601GA(2) (Aust)
 
 ##### 137 Governing document must be legally enforceable
     
@@ -5030,7 +5038,7 @@ Governance of financial products
     
     *   (b) under [section 140][182] or [187(3)][238]; or
     
-    *   (c) under [section 22(7)][885] or [37(6)][886] of the Financial Markets Supervisors Act 2011 or any other power to amend or replace the governing document under an enactment.
+    *   (c) under [section 22(7)][888] or [37(6)][889] of the Financial Markets Supervisors Act 2011 or any other power to amend or replace the governing document under an enactment.
     
     (2) The supervisor or the FMA must not consent to an amendment to, or a replacement of, the governing document under this section unless---
         
@@ -5046,13 +5054,13 @@ Governance of financial products
     
     (3) The approval of scheme participants for the purposes of subsection (2)(a) must consist of,---
         
-    *   (a) in the case of an amendment to or a replacement of a governing document of a defined benefit scheme or a superannuation scheme or workplace savings scheme that is registered under [clause 22][908] of Schedule 4 that reduces, postpones, or otherwise adversely affects the benefits, whether vested, contingent, or discretionary, that may in due course flow from, or are attributable to, membership of the scheme up to the date the amendment or replacement is made, the written consent of all scheme participants who would be adversely affected by the amendment or replacement; or 
+    *   (a) in the case of an amendment to or a replacement of a governing document of a defined benefit scheme or a superannuation scheme or workplace savings scheme that is registered under [clause 22][911] of Schedule 4 that reduces, postpones, or otherwise adversely affects the benefits, whether vested, contingent, or discretionary, that may in due course flow from, or are attributable to, membership of the scheme up to the date the amendment or replacement is made, the written consent of all scheme participants who would be adversely affected by the amendment or replacement; or
     
     *   (b) in any other case, a special resolution of the scheme participants or each class of scheme participants that is or may be adversely affected by the amendment or replacement.
     
     (4) Subsection (2) is subject to [section 153(2)(b)][197].
     
-    Compare: 1989 No 10 [ss 9][916], [12][917]; 2006 No 40 [ss 119A][918], [129][919], [129A][920]
+    Compare: 1989 No 10 [ss 9][919], [12][920]; 2006 No 40 [ss 119A][921], [129][922], [129A][923]
 
 ##### 140 Power to make FMA and court-approved changes to governing documents
     
@@ -5060,7 +5068,7 @@ Governance of financial products
         
     *   (a) with the FMA's consent if the FMA is satisfied that the amendment or replacement is necessary to enable the governing document to comply with [sections 135 to 137][177] or any enactment or rule of law; or
     
-    *   (b) with the court's consent, in the case of a defined benefit scheme or a superannuation scheme or workplace savings scheme that is registered under [clause 22][908] of Schedule 4, if---
+    *   (b) with the court's consent, in the case of a defined benefit scheme or a superannuation scheme or workplace savings scheme that is registered under [clause 22][911] of Schedule 4, if---
             
         *   (i) the amendment or replacement would otherwise require the consent of all the scheme participants who would be adversely affected by it; and
         
@@ -5098,7 +5106,7 @@ Governance of financial products
     
     (2) In the case of a restricted scheme, the trustees of the scheme acting together as the manager of the scheme have responsibility for those functions and the duties of the manager under this Act (and each trustee is jointly and severally liable with the other trustees for the performance of those functions and duties) unless this Act or the regulations otherwise provide.
     
-    Compare: 1960 No 99 [s 3(2)(a) and (b)][898]; 2006 No 40 [s 116B(1)][921]
+    Compare: 1960 No 99 [s 3(2)(a) and (b)][901]; 2006 No 40 [s 116B(1)][924]
 
 ##### 143 General duties applying in exercise of manager's functions
     
@@ -5118,7 +5126,7 @@ Governance of financial products
             
         *   (i) gain an improper advantage for itself or any other person; or
         
-        *   (ii) cause detriment to the scheme participants. 
+        *   (ii) cause detriment to the scheme participants.
         
         
     
@@ -5126,7 +5134,7 @@ Governance of financial products
     
     (3) If the registered scheme is established under a trust deed, the manager has the same duties and liability in the performance of its functions as manager as it would if it performed those functions as a trustee (except to the extent that those duties are altered by or are inconsistent with this Act).
     
-    Compare: 1960 No 99 [ss 3(2)(c)][898], [12(1)(c)][922], [24(1)][914]; SR 2009/230 Schedule 17 [cl 3(1)][923]; Corporations Act 2001 s 601FC (Aust)
+    Compare: 1960 No 99 [ss 3(2)(c)][901], [12(1)(c)][925], [24(1)][917]; SR 2009/230 Schedule 17 [cl 3(1)][926]; Corporations Act 2001 s 601FC (Aust)
 
 ##### 144 Duty of manager and investment manager to comply with relevant professional standard of care
     
@@ -5144,7 +5152,7 @@ Governance of financial products
     
     (3) A trustee of a restricted scheme who is not a professional manager must, in exercising any powers or performing any duties, exercise the care, diligence, and skill that a prudent person of business would exercise in the same circumstances.
     
-    Compare: 1960 No 99 [ss 3(2)(c)][898], [24(1)][914]; 2006 No 40 [s 117][924]; SR 2009/230 Schedule 17 [cl 3(3)][923]
+    Compare: 1960 No 99 [ss 3(2)(c)][901], [24(1)][917]; 2006 No 40 [s 117][927]; SR 2009/230 Schedule 17 [cl 3(3)][926]
 
 ##### 145 Duties of directors and senior managers of manager
     
@@ -5160,7 +5168,7 @@ Governance of financial products
     
     *   (b) must not make improper use of the position as a director or senior manager of the manager to gain, directly or indirectly, an advantage for himself or herself or any other person or to cause detriment to the scheme participants.
     
-    Compare: Corporations Act 2001 s 601FE (Aust); 1960 No 99 [s 26][925]
+    Compare: Corporations Act 2001 s 601FE (Aust); 1960 No 99 [s 26][928]
 
 ##### 146 Contracting out of management functions
     
@@ -5194,13 +5202,13 @@ Governance of financial products
     
     (2) Reports or information required under subsection (1) may---
         
-    *   (a) be about any matter relevant to the performance of the supervisor's functions; and 
+    *   (a) be about any matter relevant to the performance of the supervisor's functions; and
     
     *   (b) include forward-looking reports.
     
     (3) The reports or information must be provided within the time and in the manner (which must be reasonable in the circumstances) specified by the supervisor.
     
-    Compare: 1960 No 99 [s 12(1)(b)][922]; SR 2009/230 Schedule 17 [cl 2][926]
+    Compare: 1960 No 99 [s 12(1)(b)][925]; SR 2009/230 Schedule 17 [cl 2][929]
 
 ##### 149 Duty of manager to report contravention or possible contravention of issuer obligations
     
@@ -5230,7 +5238,7 @@ Governance of financial products
     
     *   (b) advise the supervisor (or the FMA, as the case may be) of the steps (if any) that the manager intends to take in respect of that matter and the date by which the steps are to be taken.
     
-    Compare: 2011 No 10 [s 47][891]
+    Compare: 2011 No 10 [s 47][894]
 
 #### Role of supervisor
 
@@ -5264,7 +5272,7 @@ Governance of financial products
     
     (2) The supervisor must not delegate its functions under subsection (1) (except as expressly permitted by [section 156][201] in relation to its function under subsection (1)(c) and otherwise by this Act or as permitted by, and then subject to, conditions imposed under the [Financial Markets Supervisors Act 2011][817]).
     
-    Compare: 2006 No 40 [s 116D(3), (4)][927]
+    Compare: 2006 No 40 [s 116D(3), (4)][930]
 
 ##### 153 General duties applying in exercise of supervisor's functions
     
@@ -5290,7 +5298,7 @@ Governance of financial products
     
     (3) The supervisor is not liable for anything done, or omitted to be done, in good faith in giving effect to a direction to it by scheme participants.
     
-    (4) If the registered scheme is established under a trust deed,--- 
+    (4) If the registered scheme is established under a trust deed,---
         
     *   (a) the supervisor is the trustee of the trust; and
     
@@ -5298,7 +5306,7 @@ Governance of financial products
     
     (5) The duty in subsection (2)(b) is subject to any order of the court made under [section 210][266].
     
-    Compare: 1960 No 99 [s 18(2)--(4)][928]; SR 2009/230 Schedule 17 [cl 1][929]
+    Compare: 1960 No 99 [s 18(2)--(4)][931]; SR 2009/230 Schedule 17 [cl 1][932]
 
 ##### 154 Duty of supervisor to comply with professional standard of care
     
@@ -5314,13 +5322,13 @@ Governance of financial products
     
     (2) If the supervisor engages an expert under this section,---
         
-    *   (a) the manager must provide reasonable assistance to the expert to allow the expert to provide the assistance under subsection (1); and 
+    *   (a) the manager must provide reasonable assistance to the expert to allow the expert to provide the assistance under subsection (1); and
     
-    *   (b) the manager must pay the fees and expenses of the expert, which must be reasonable in the circumstances; and 
+    *   (b) the manager must pay the fees and expenses of the expert, which must be reasonable in the circumstances; and
     
     *   (c) the manager is entitled to be indemnified for those fees and expenses out of scheme property, subject to any limits referred to in [section 136][178].
     
-    Compare: SR 2009/230 Schedule 15 [cl 11][930]
+    Compare: SR 2009/230 Schedule 15 [cl 11][933]
 
 #### Custodianship of scheme property
 
@@ -5356,15 +5364,15 @@ Governance of financial products
     
     (6) This section does not apply to the extent that scheme property is held directly by the scheme participants.
     
-    Compare: 1960 No 99 [ss 3(3)][898], [6--6C][931]; 2006 No 40 [ss 116G][900], [116H][932], [116I][933]
+    Compare: 1960 No 99 [ss 3(3)][901], [6--6C][934]; 2006 No 40 [ss 116G][903], [116H][935], [116I][936]
 
 ##### 157 Custodian holds scheme property on trust
     
 *   (1) The custodian for a registered scheme holds the scheme property on trust for the scheme.
     
-    (2) The custodian for a registered scheme must ensure that the scheme property is held separate from property held by any of the following persons on their own account: 
+    (2) The custodian for a registered scheme must ensure that the scheme property is held separate from property held by any of the following persons on their own account:
         
-    *   (a) the custodian: 
+    *   (a) the custodian:
     
     *   (b) any related party of the scheme.
     
@@ -5420,7 +5428,7 @@ Governance of financial products
     
     (4) A supervisor of a registered scheme, and any other custodian of the scheme, is not liable to the scheme participants or the manager for refusing, or directing any other custodian to refuse, to act on a direction of the manager in accordance with this section.
     
-    Compare: 1960 No 99 [s 12(1)(c)][922]
+    Compare: 1960 No 99 [s 12(1)(c)][925]
 
 #### Meetings of scheme participants
 
@@ -5438,7 +5446,7 @@ Governance of financial products
     
     (2) Other requirements for meetings, proceedings at meetings, and provision for resolutions in lieu of meetings are governed by the regulations (if any) and the governing document (if there are no regulations or to the extent that the governing document is not inconsistent with any regulations).
     
-    Compare: 1960 No 99 [ss 12(1)(d)][922], [18(1)][928]
+    Compare: 1960 No 99 [ss 12(1)(d)][925], [18(1)][931]
 
 ##### 162 Supervisor's attendance at meetings of scheme participants and power to appoint chair
     
@@ -5452,7 +5460,7 @@ Governance of financial products
     
     *   (d) may appoint the chairperson of any meeting of scheme participants.
     
-    Compare: 1960 No 99 [s 18(1)][928]; SR 2009/230 Schedule 17 [cl 2(1)][926], (2)
+    Compare: 1960 No 99 [s 18(1)][931]; SR 2009/230 Schedule 17 [cl 2(1)][929], (2)
 
 ##### 163 Manager and associated persons cannot vote if interested in resolution
     
@@ -5566,13 +5574,13 @@ Governance of financial products
     
     (5) The offence in subsection (4) is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1989 No 10 [s 15][934]
+    Compare: 1989 No 10 [s 15][937]
 
 ##### 170 Power of manager to adjust financial benefits to comply with portfolio investment entity rules
     
-*   The manager of a registered scheme to which [section HM 48][935] of the Income Tax Act 2007 applies may adjust the financial benefits of scheme participants in the way required by that section.
+*   The manager of a registered scheme to which [section HM 48][938] of the Income Tax Act 2007 applies may adjust the financial benefits of scheme participants in the way required by that section.
     
-    Compare: 1960 No 99 [ss 12A][936], [22][937]
+    Compare: 1960 No 99 [ss 12A][939], [22][940]
 
 ##### 171 Limits on reversion of scheme property in certain schemes to non-scheme participant contributor
     
@@ -5584,7 +5592,7 @@ Governance of financial products
     
     *   (b) the reversion is fair and equitable to the scheme participants, taking into account the manner in which the scheme acquired those assets.
     
-    Compare: 1989 No 10 [s 10][938]; 2006 No 40 [ss 129B][939], [130][940]
+    Compare: 1989 No 10 [s 10][941]; 2006 No 40 [ss 129B][942], [130][943]
 
 #### Related party transactions
 
@@ -5602,7 +5610,7 @@ Governance of financial products
         
     *   (a) any of the following persons (a _scheme-connected person_):
             
-        *   (i) the manager of the scheme or any trustee of a restricted scheme; and 
+        *   (i) the manager of the scheme or any trustee of a restricted scheme; and
         
         *   (ii) any investment manager, administration manager, or other person to whom the manager has contracted out some or all of its functions as a manager; and
         
@@ -5640,7 +5648,7 @@ Governance of financial products
         
     *   (a) the transaction or transactions are in the best interests of the scheme participants; or
     
-    *   (b) [section 174][222] applies to the transaction or transactions or all related party benefits to be given; or 
+    *   (b) [section 174][222] applies to the transaction or transactions or all related party benefits to be given; or
     
     *   (c) the transaction or transactions are approved by, or contingent on approval by, a special resolution of the class of scheme participants affected, or potentially affected, by the transaction or transactions.
     
@@ -5648,7 +5656,7 @@ Governance of financial products
     
     (6) However, a failure to comply with this section does not affect the validity of any transaction (subject to any court order under [Part 8][600]).
     
-    (7) _See_ also [section 126][941] of the KiwiSaver Act 2006 for an additional prohibition on loans and financial assistance to members of KiwiSaver schemes that have fewer than 20 members.
+    (7) _See_ also [section 126][944] of the KiwiSaver Act 2006 for an additional prohibition on loans and financial assistance to members of KiwiSaver schemes that have fewer than 20 members.
     
     Compare: Corporations Act 2001 ss 601LA--601LE (Aust)
 
@@ -5672,7 +5680,7 @@ Governance of financial products
     
     *   ###### Certain registered bank investments
     
-    *   (c) investments made in the ordinary course of business in products referred to in [clause 21(a) to (c)][942] of Schedule 1:
+    *   (c) investments made in the ordinary course of business in products referred to in [clause 21(a) to (c)][945] of Schedule 1:
     
     *   ###### Other prescribed benefits or transactions
     
@@ -5754,9 +5762,9 @@ Governance of financial products
     
     *   (c) the scheme, or section of the scheme, into which the person is proposed to be transferred is the _new scheme_.
     
-    (3) [Sections 179 to 182][228] do not apply to transfers to which [subpart 3][943] of Part 2 of the KiwiSaver Act 2006, or any other power to transfer scheme participants under an enactment, applies.
+    (3) [Sections 179 to 182][228] do not apply to transfers to which [subpart 3][946] of Part 2 of the KiwiSaver Act 2006, or any other power to transfer scheme participants under an enactment, applies.
     
-    Compare: 1989 No 10 [s 9B][944]; 2006 No 40 [ss 119B][945], [119D(6)][946]
+    Compare: 1989 No 10 [s 9B][947]; 2006 No 40 [ss 119B][948], [119D(6)][949]
 
 ##### 179 Methods of transfer of scheme participants to another scheme or another section of scheme
     
@@ -5768,7 +5776,7 @@ Governance of financial products
     
     *   (b) in accordance with the FMA's consent under [section 181][230] (despite anything to the contrary in the governing document); or
     
-    *   (c) in accordance with regulations made under [section 230][947] of the KiwiSaver Act 2006 (despite anything to the contrary in the governing document), if the old scheme is a default KiwiSaver scheme that is subject to a terminating event under [section 138][948] of the KiwiSaver Act 2006\.
+    *   (c) in accordance with regulations made under [section 230][950] of the KiwiSaver Act 2006 (despite anything to the contrary in the governing document), if the old scheme is a default KiwiSaver scheme that is subject to a terminating event under [section 138][951] of the KiwiSaver Act 2006\.
     
     (3) However, the FMA may permit a transfer to occur under subsection (2)(a) without the scheme participant's consent if the FMA is satisfied that---
         
@@ -5778,7 +5786,7 @@ Governance of financial products
     
     (4) No scheme participant may be transferred from a KiwiSaver scheme into another scheme that is not a KiwiSaver scheme under this section.
     
-    Compare: 1989 No 10 [ss 9B][944], [9BAA(1)][949], [9BA][950]; 2006 No 40 [ss 119C][951], [119G(1)][952], [119I][953]
+    Compare: 1989 No 10 [ss 9B][947], [9BAA(1)][952], [9BA][953]; 2006 No 40 [ss 119C][954], [119G(1)][955], [119I][956]
 
 ##### 180 Transfer of substantial numbers of scheme participants with scheme participant consent
     
@@ -5806,7 +5814,7 @@ Governance of financial products
     
     (4) Giving notice under this section does not derogate from the need to comply with any other requirement of the [KiwiSaver Act 2006][814] (in relation to a KiwiSaver scheme).
     
-    Compare: 1989 No 10 [s 9B][944]; 2006 No 40 [s 119D][946]
+    Compare: 1989 No 10 [s 9B][947]; 2006 No 40 [s 119D][949]
 
 ##### 181 Transfer with FMA consent
     
@@ -5832,7 +5840,7 @@ Governance of financial products
     
     (4) The transfer must be carried out in accordance with those terms and conditions.
     
-    Compare: 1989 No 10 [s 9BAA][949]; 2006 No 40 [ss 119G][952], [119H][954]
+    Compare: 1989 No 10 [s 9BAA][952]; 2006 No 40 [ss 119G][955], [119H][957]
 
 ##### 182 Transfers from KiwiSaver scheme
     
@@ -5860,9 +5868,9 @@ Governance of financial products
     
     *   (f) any other information that the Commissioner of Inland Revenue requires the provider of the old scheme to give to the provider of the new scheme.
     
-    (3) In this section, _provider_ has the meaning set out in [section 5][955] of the KiwiSaver Act 2006\.
+    (3) In this section, _provider_ has the meaning set out in [section 5][958] of the KiwiSaver Act 2006\.
     
-    Compare: 2006 No 40 [s 119F][956]
+    Compare: 2006 No 40 [s 119F][959]
 
 #### Provisions as to deferred benefits for superannuation schemes and workplace savings schemes
 
@@ -5872,11 +5880,11 @@ Governance of financial products
     
     (2) Subsection (1) applies despite anything to the contrary contained in the governing document of the scheme.
     
-    (3) Nothing in subsection (1) or in the [Human Rights Act 1993][957] has the effect of requiring either an employer or a scheme participant to continue to contribute, or to cease to contribute, to the scheme after the participant's expected age or date of retirement, as defined in the governing document of the scheme.
+    (3) Nothing in subsection (1) or in the [Human Rights Act 1993][960] has the effect of requiring either an employer or a scheme participant to continue to contribute, or to cease to contribute, to the scheme after the participant's expected age or date of retirement, as defined in the governing document of the scheme.
     
     (4) If a scheme participant has the right, under subsection (1), to elect to defer receipt of any benefit that the participant is eligible to receive under the scheme, the manager must inform the participant in writing of that right.
     
-    Compare: 1989 No 10 [s 9C][958]
+    Compare: 1989 No 10 [s 9C][961]
 
 #### Change of manager
 
@@ -5928,7 +5936,7 @@ Governance of financial products
     
     (4) If a manager ceases to hold office under subsection (1), the manager and any delegate of the manager must immediately desist from all activities relating to the registered scheme unless the supervisor agrees to the contrary.
     
-    Compare: 1960 No 99 [s 19][959]
+    Compare: 1960 No 99 [s 19][962]
 
 ##### 186 Supervisor or FMA may make temporary appointment
     
@@ -5954,7 +5962,7 @@ Governance of financial products
     
     (5) If the FMA appoints a person who does not meet the requirements of [section 127(1)(c)][168] and (e) or [131(1)(d)][172], that person does not contravene [section 388][485], and the scheme does not fail to meet those registration requirements, as a result of that appointment.
     
-    Compare: 1960 No 99 [s 23][960]
+    Compare: 1960 No 99 [s 23][963]
 
 ##### 187 Term, powers, and duties of temporary manager
     
@@ -6042,7 +6050,7 @@ Governance of financial products
         
     *   (a) is removed by the FMA if it is satisfied that the manager and the supervisor no longer meet the requirements in [section 127(1)(e)][168] (registration requirements); or
     
-    *   (b) is removed by the FMA or the issuer under [Part 2][894] of the Financial Markets Supervisors Act 2011; or
+    *   (b) is removed by the FMA or the issuer under [Part 2][897] of the Financial Markets Supervisors Act 2011; or
     
     *   (c) is removed by a special resolution of the scheme participants; or
     
@@ -6062,7 +6070,7 @@ Governance of financial products
     
     *   (b) (despite anything in the governing document) be removed by the manager under subsection (1)(d) without the FMA's consent.
     
-    Compare: 1960 No 99 [s 10][961]; 1978 No 103 [s 48][895]; 2006 No 40 [s 116E(2)][962]
+    Compare: 1960 No 99 [s 10][964]; 1978 No 103 [s 48][898]; 2006 No 40 [s 116E(2)][965]
 
 ##### 194 Lodging of notice of change of supervisor
     
@@ -6112,7 +6120,7 @@ Governance of financial products
     
     (4) The FMA may, instead of cancelling a scheme's registration on the request of the manager under this section, exercise its rights to apply for an order winding up the scheme under [section 211][267] (power to order winding up).
     
-    Compare: 1989 No 10 [s 19][963]; 2006 No 40 [s 168][964]
+    Compare: 1989 No 10 [s 19][966]; 2006 No 40 [s 168][967]
 
 ##### 196 Registrar must remove scheme from register on cancellation of registration
     
@@ -6128,7 +6136,7 @@ Governance of financial products
     
     *   (c) the Commissioner of Inland Revenue (in the case of a KiwiSaver scheme).
     
-    Compare: 2006 No 40 [s 170][965]
+    Compare: 2006 No 40 [s 170][968]
 
 ### Subpart 3---Intervention in debt securities offered under regulated offer or registered schemes
 
@@ -6160,7 +6168,7 @@ Governance of financial products
     
     (5) [Section 214][271] (protected disclosure) applies to a disclosure in good faith under this section.
     
-    Compare: 1978 No 103 [s 50][966]
+    Compare: 1978 No 103 [s 50][969]
 
 ##### 199 Duty of auditor, investment manager, administration manager, custodian, or actuary to report serious problems
     
@@ -6176,17 +6184,17 @@ Governance of financial products
     
     *   (d) the manager of the scheme has contravened, may have contravened, or is likely to contravene any of the manager's market services licensee obligations in a material respect; or
     
-    *   (e) the supervisor of the scheme has contravened, may have contravened, or is likely to contravene any of the supervisor's licensee obligations (as defined in [section 4][913] of the Financial Markets Supervisors Act 2011) in a material respect; or
+    *   (e) the supervisor of the scheme has contravened, may have contravened, or is likely to contravene any of the supervisor's licensee obligations (as defined in [section 4][916] of the Financial Markets Supervisors Act 2011) in a material respect; or
     
     *   (f) the custodian of the scheme has contravened, may have contravened, or is likely to contravene any of the custodian's obligations in a material respect.
     
-    Compare: 2006 No 40 [s 191][967]
+    Compare: 2006 No 40 [s 191][970]
 
 ##### 200 What person must do if duty to report serious problem applies
     
 *   (1) If [section 199][254] applies, the person to whom that section applies must, as soon as practicable,---
         
-    *   (a) report the serious problem to the supervisor or, if subsection (2) applies, to the FMA; and 
+    *   (a) report the serious problem to the supervisor or, if subsection (2) applies, to the FMA; and
     
     *   (b) disclose to the supervisor or the FMA (as applicable under paragraph (a)) all information relevant to the serious problem that is in the possession or control of the relevant person and was obtained in the course of, or in connection with, the performance of functions of that relevant person.
     
@@ -6202,7 +6210,7 @@ Governance of financial products
     
     (4) To avoid doubt, [section 199][254] and this section do not require a relevant person to carry out functions additional to those functions that the person would ordinarily carry out in the course of holding the person's office (other than as expressly required by subsection (1)).
     
-    Compare: 2006 No 40 [s 191(2), (4)][967]
+    Compare: 2006 No 40 [s 191(2), (4)][970]
 
 ##### 201 Protections extend to volunteers of supporting information for other protected disclosures
     
@@ -6244,7 +6252,7 @@ Governance of financial products
     
     (3) [Section 214][271] (protected disclosure) applies to a report made in good faith under this section.
     
-    Compare: 2011 No 10 [s 45][968]
+    Compare: 2011 No 10 [s 45][971]
 
 ##### 203 Duty of supervisor to report contravention or possible contravention of issuer obligations to FMA
     
@@ -6256,7 +6264,7 @@ Governance of financial products
     
     (2) [Section 214][271] (protected disclosure) applies to a report made in good faith under this section.
     
-    Compare: 2011 No 10 [s 46][969]
+    Compare: 2011 No 10 [s 46][972]
 
 ##### 204 Duty of supervisor to report serious financial problems to FMA
     
@@ -6274,7 +6282,7 @@ Governance of financial products
     
     (3) [Section 214][271] (protected disclosure) applies to a report made in good faith under this section.
     
-    Compare: 2011 No 10 [s 47][891]
+    Compare: 2011 No 10 [s 47][894]
 
 ##### 205 FMA's powers of direction
     
@@ -6286,7 +6294,7 @@ Governance of financial products
             
         *   (i) the supervisor of the debt security or registered scheme is aware of that risk and has had a reasonable opportunity to take action to eliminate or reduce the risk but has not done so; or
         
-        *   (ii) action is urgently required to eliminate or reduce the risk and it is not reasonably practicable to wait for the supervisor to do so; or 
+        *   (ii) action is urgently required to eliminate or reduce the risk and it is not reasonably practicable to wait for the supervisor to do so; or
         
         *   (iii) there is no supervisor.
         
@@ -6296,7 +6304,7 @@ Governance of financial products
     
     (3) If there is no supervisor, the FMA may, by written notice to the issuer and otherwise in the prescribed manner, give a direction to the issuer.
     
-    Compare: 2011 No 10 [s 49(1), (2)][970]
+    Compare: 2011 No 10 [s 49(1), (2)][973]
 
 ##### 206 FMA's directions to supervisor (or issuer)
     
@@ -6310,7 +6318,7 @@ Governance of financial products
     
     (3) A supervisor or issuer (as the case may be) that refuses or fails, without reasonable excuse, to comply with the direction commits an offence and is liable on conviction to a fine not exceeding $300,000\.
     
-    Compare: 2011 No 10 [s 49(3)--(5)][970]
+    Compare: 2011 No 10 [s 49(3)--(5)][973]
 
 #### Powers to obtain court orders to intervene
 
@@ -6324,7 +6332,7 @@ Governance of financial products
     
     *   (c) in the case of a registered scheme, the scheme is insolvent; or
     
-    *   (d) the financial position of the scheme or issuer or the security of benefits or the management of the scheme or issuer is otherwise inadequate; or 
+    *   (d) the financial position of the scheme or issuer or the security of benefits or the management of the scheme or issuer is otherwise inadequate; or
     
     *   (e) in the case of a registered scheme, the scheme does not meet the registration requirements, or the requirements for registration as a particular type of scheme, that apply to it under [sections 127 to 132][168]; or
     
@@ -6340,7 +6348,7 @@ Governance of financial products
     
     *   (c) there is no supervisor.
     
-    Compare: 1960 No 99 [s 19A][971]; 1978 No 103 [s 49][972]; 2006 No 40 [s 116K(1)][973], (2); 2011 No 10 [s 50(1)--(3)][974]
+    Compare: 1960 No 99 [s 19A][974]; 1978 No 103 [s 49][975]; 2006 No 40 [s 116K(1)][976], (2); 2011 No 10 [s 50(1)--(3)][977]
 
 ##### 208 Court orders to remedy problems
     
@@ -6380,7 +6388,7 @@ Governance of financial products
     
     (4) In exercising its powers under this section, the court must have regard to the interests of all creditors of the issuer (in the case of a debt security) and all creditors in respect of the registered scheme (in the case of a managed investment product).
     
-    Compare: 1960 No 99 [s 19A][971]; 1978 No 103 [s 49][972]; 2006 No 40 [s 116K(3)--(6)][973]; 2011 No 10 [s 50(4)--(7)][974]
+    Compare: 1960 No 99 [s 19A][974]; 1978 No 103 [s 49][975]; 2006 No 40 [s 116K(3)--(6)][976]; 2011 No 10 [s 50(4)--(7)][977]
 
 ##### 209 Power of court to appoint new manager, provide for manager powers, and deal with changes of managers
     
@@ -6410,7 +6418,7 @@ Governance of financial products
     
     (3) A manager appointed by the court under this section has all of the powers and duties of the manager of the registered scheme that are conferred or imposed by the governing document or by law.
     
-    Compare: 1960 No 99 [s 22][937]
+    Compare: 1960 No 99 [s 22][940]
 
 ##### 210 Power of court to direct supervisor
     
@@ -6430,7 +6438,7 @@ Governance of financial products
     
     *   (d) no supervisor is appointed under the governing document or the [Financial Markets Supervisors Act 2011][817] (if required under this Part); or
     
-    *   (e) the scheme does not meet the registration requirements that apply to it under [sections 127 to 132][168]; or 
+    *   (e) the scheme does not meet the registration requirements that apply to it under [sections 127 to 132][168]; or
     
     *   (f) it is just and equitable that the scheme be wound up.
     
@@ -6458,13 +6466,13 @@ Governance of financial products
         
         
     
-    (2) _See_ [sections 50 to 52][975] of the KiwiSaver Act 2006 (which set out the effect of notice to the Commissioner of Inland Revenue in relation to members of a KiwiSaver scheme) and [subpart 3][943] of Part 2 of that Act (which relates to the transfer of members' interests to another KiwiSaver scheme).
+    (2) _See_ [sections 50 to 52][978] of the KiwiSaver Act 2006 (which set out the effect of notice to the Commissioner of Inland Revenue in relation to members of a KiwiSaver scheme) and [subpart 3][946] of Part 2 of that Act (which relates to the transfer of members' interests to another KiwiSaver scheme).
     
     (3) A supervisor or trustee that contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000\.
     
-    (4) The offence in this section is an infringement offence (_see_ [subpart 5][976] of Part 8).
+    (4) The offence in this section is an infringement offence (_see_ [subpart 5][979] of Part 8).
     
-    Compare: 2006 No 40 [s 173][977]
+    Compare: 2006 No 40 [s 173][980]
 
 ##### 213 Winding-up report
     
@@ -6498,7 +6506,7 @@ Governance of financial products
     
     (5) Each offence in subsection (3) is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1989 No 10 [s 21(1)][978], (1A); 2006 No 40 [ss 174][979], [175][980]
+    Compare: 1989 No 10 [s 21(1)][981], (1A); 2006 No 40 [ss 174][982], [175][983]
 
 #### Miscellaneous
 
@@ -6512,7 +6520,7 @@ Governance of financial products
     
     (4) In this Act, _protected disclosure_ means a disclosure of information to which this section applies under this subpart or [subpart 4][272].
     
-    Compare: 1978 No 103 [s 50C][981]; 2006 No 40 [s 192][982]; 2011 No 10 [s 48][983]
+    Compare: 1978 No 103 [s 50C][984]; 2006 No 40 [s 192][985]; 2011 No 10 [s 48][986]
 
 ### Subpart 4---Registers and keeping copies of documents
 
@@ -6540,7 +6548,7 @@ Governance of financial products
     
     (5) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 51(1)][984]
+    Compare: 1978 No 103 [s 51(1)][987]
 
 ##### 216 Manner of keeping registers
     
@@ -6578,7 +6586,7 @@ Governance of financial products
     
     (5) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 51(2)--(5)][984]
+    Compare: 1978 No 103 [s 51(2)--(5)][987]
 
 ##### 218 Audit or review of registers
     
@@ -6588,7 +6596,7 @@ Governance of financial products
     
     (3) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 51(6)][984]
+    Compare: 1978 No 103 [s 51(6)][987]
 
 ##### 219 Auditor must advise if auditor considers that subpart is not being complied with
     
@@ -6606,7 +6614,7 @@ Governance of financial products
     
     (2) [Section 214][271] (protected disclosure) applies to a disclosure made in good faith under this section.
     
-    Compare: 1978 No 103 [s 51(8)][984]
+    Compare: 1978 No 103 [s 51(8)][987]
 
 ##### 220 Issuer must notify Registrar of registers
     
@@ -6620,7 +6628,7 @@ Governance of financial products
     
     (5) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 51(9), (10)][984]
+    Compare: 1978 No 103 [s 51(9), (10)][987]
 
 ##### 221 Public inspection of register
     
@@ -6646,7 +6654,7 @@ Governance of financial products
     
     (5) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 52][985]
+    Compare: 1978 No 103 [s 52][988]
 
 ##### 222 Manner of inspection
     
@@ -6656,7 +6664,7 @@ Governance of financial products
     
     *   (b) otherwise be available for inspection in the prescribed manner (if any).
     
-    Compare: 1993 No 105 [s 217][986]
+    Compare: 1993 No 105 [s 217][989]
 
 ##### 223 Copies of documents
     
@@ -6672,7 +6680,7 @@ Governance of financial products
     
     (4) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1993 No 105 [s 218][987]
+    Compare: 1993 No 105 [s 218][990]
 
 ##### 224 Reasons for request must be given and FMA may authorise non-compliance
     
@@ -6722,7 +6730,7 @@ Governance of financial products
 
 ##### 226 Certain provisions prevail over Companies Act 1993
     
-*   If a provision of [sections 221 to 225][280] is inconsistent with a provision in the [Companies Act 1993][855], the provision of sections 221 to 225 prevails.
+*   If a provision of [sections 221 to 225][280] is inconsistent with a provision in the [Companies Act 1993][857], the provision of sections 221 to 225 prevails.
 
 #### Copies of documents to be retained
 
@@ -6792,7 +6800,7 @@ Governance of financial products
     
     *   (p) [section 171][218] (limits on reversion of scheme property in certain schemes to non-scheme participant contributor):
     
-    *   (q) [section 173][221] (general prohibition on related party transactions): 
+    *   (q) [section 173][221] (general prohibition on related party transactions):
     
     *   (r) [section 176][224] (additional restrictions on acquisitions by restricted schemes of in-house assets):
     
@@ -6869,7 +6877,7 @@ Dealing in financial products on markets
     
     *   (b) relates to particular derivatives, a particular underlying, or a particular issuer of a financial product underlying quoted derivatives, rather than to derivatives generally or underlyings generally or issuers generally.
     
-    Compare: 1988 No 234 [ss 3][988], [3A][989]
+    Compare: 1988 No 234 [ss 3][991], [3A][992]
 
 ##### 232 Meaning of generally available to the market
     
@@ -6891,7 +6899,7 @@ Dealing in financial products on markets
     
     (3) Information that is notified in accordance with a continuous disclosure obligation is generally available to the market under subsection (1)(a) immediately on it being made available to participants in a licensed market (without limiting how quickly the reasonable period of dissemination in subsection (1)(a)(ii) may be satisfied in other cases).
     
-    Compare: 1988 No 234 [s 4][990]
+    Compare: 1988 No 234 [s 4][993]
 
 #### Certain derivatives treated as being quoted financial products of listed issuer
 
@@ -6941,7 +6949,7 @@ Dealing in financial products on markets
     
     (5) In this Part, _adviser_ means an adviser acting in a professional capacity (for example, a lawyer, an accountant, or a financial adviser).
     
-    Compare: 1988 No 234 [ss 8A][991], [8B][992], [11E][993]
+    Compare: 1988 No 234 [ss 8A][994], [8B][995], [11E][996]
 
 #### Relevant interests
 
@@ -6963,7 +6971,7 @@ Dealing in financial products on markets
     
     (4) If 2 or more persons can jointly exercise a power, each of those persons is taken to have the power.
     
-    Compare: 1988 No 234 [s 5][994]
+    Compare: 1988 No 234 [s 5][997]
 
 ##### 236 Extension of basic rule to powers or controls exercisable through trust, agreement, etc
     
@@ -6971,7 +6979,7 @@ Dealing in financial products on markets
     
     (2) Subsection (1) applies regardless of whether or not the trust or agreement is legally enforceable or whether or not the person is a party to it.
     
-    Compare: 1988 No 234 [s 5A][995]
+    Compare: 1988 No 234 [s 5A][998]
 
 ##### 237 Extension of basic rule to interests held by other persons under control or acting jointly
     
@@ -6987,7 +6995,7 @@ Dealing in financial products on markets
     
     *   (e) A and B have an agreement to act in concert in relation to a power or control referred to in section 235\.
     
-    Compare: 1988 No 234 [s 5B(1)][996]
+    Compare: 1988 No 234 [s 5B(1)][999]
 
 ##### 238 Situations not giving rise to relevant interests
     
@@ -7007,13 +7015,13 @@ Dealing in financial products on markets
     
     *   (g) A is a product holder of a body corporate and the body corporate's constitution gives the product holder pre-emptive rights on the transfer of the product, if all product holders of the products have pre-emptive rights on the same terms; or
     
-    *   (h) A is an operator of a designated settlement system (as defined in [section 156M(1)][997] of the Reserve Bank of New Zealand Act 1989) and is acting in the ordinary course of that business.
+    *   (h) A is an operator of a designated settlement system (as defined in [section 156M(1)][1000] of the Reserve Bank of New Zealand Act 1989) and is acting in the ordinary course of that business.
     
     (2) Subsection (1)(a) to (h) do not apply to a person if the person is currently declared by the FMA, by notice under [section 562(1)(i)][738], to be a person that is not exempt under any of those paragraphs.
     
     (3) For the purposes of subsection (1)(e), a trustee may be a bare trustee even if he or she is entitled as a trustee to be remunerated out of the income or property of the trust.
     
-    Compare: 1988 No 234 [s 6][998]
+    Compare: 1988 No 234 [s 6][1001]
 
 #### Territorial scope
 
@@ -7033,7 +7041,7 @@ Dealing in financial products on markets
     
     (2) A person must not do any of the things set out in any of [sections 241(2)][311], [242(2)][312], and [243(2)][313] if the person is an information insider in relation to quoted derivatives.
     
-    Compare: 1988 No 234 [s 8][999]
+    Compare: 1988 No 234 [s 8][1002]
 
 ##### 241 Information insider must not trade
     
@@ -7047,7 +7055,7 @@ Dealing in financial products on markets
     
     *   (b) does not include acquire, or dispose of, by inheritance or gift.
     
-    Compare: 1988 No 234 [s 8C][1000]
+    Compare: 1988 No 234 [s 8C][1003]
 
 ##### 242 Information insider must not disclose inside information
     
@@ -7063,7 +7071,7 @@ Dealing in financial products on markets
     
     *   (b) advise or encourage another person (_C_) to trade or hold those derivatives.
     
-    Compare: 1988 No 234 [s 8D][1001]
+    Compare: 1988 No 234 [s 8D][1004]
 
 ##### 243 Information insider must not advise or encourage trading
     
@@ -7079,7 +7087,7 @@ Dealing in financial products on markets
     
     *   (b) advise or encourage B to advise or encourage another person (_C_) to trade or hold those derivatives.
     
-    Compare: 1988 No 234 [s 8E][1002]
+    Compare: 1988 No 234 [s 8E][1005]
 
 ##### 244 Criminal liability for insider conduct
     
@@ -7097,7 +7105,7 @@ Dealing in financial products on markets
     
     *   (b) in any other case, to a fine not exceeding $2.5 million.
     
-    Compare: 1988 No 234 [s 8F][1003]
+    Compare: 1988 No 234 [s 8F][1006]
 
 #### When prohibition on insider conduct does not apply
 
@@ -7105,7 +7113,7 @@ Dealing in financial products on markets
     
 *   [Section 241][311] does not apply to trading in financial products that is required by an enactment or any rule of law.
     
-    Compare: 1988 No 234 [s 9][1004]
+    Compare: 1988 No 234 [s 9][1007]
 
 ##### 246 Exception for disclosure required by enactment or rule of law or by FMA
     
@@ -7115,7 +7123,7 @@ Dealing in financial products on markets
     
     *   (b) the FMA when exercising a power under this Act or any other enactment.
     
-    Compare: 1988 No 234 [s 9A][1005]
+    Compare: 1988 No 234 [s 9A][1008]
 
 ##### 247 Exception for disclosure in connection with preparing PDS or disclosure document
     
@@ -7129,7 +7137,7 @@ Dealing in financial products on markets
     
     (3) [Section 243][313] does not apply if the advice or encouragement is given for the sole purpose of persuading the person to whom it is given to enter into an underwriting or a sub-underwriting agreement in respect of the financial products in question.
     
-    Compare: 1988 No 234 [s 9B][1006]
+    Compare: 1988 No 234 [s 9B][1009]
 
 ##### 249 Exceptions in case of knowledge of person's own intentions or activities
     
@@ -7137,7 +7145,7 @@ Dealing in financial products on markets
     
     (2) A person (_B_) does not contravene [section 243(1)][313] merely because B advises or encourages another person (_A_) to trade or hold financial products when B has knowledge, acquired in the course of acting as A's adviser, that A proposes to enter into, or has previously entered into, 1 or more transactions or agreements in relation to the financial products or the listed issuer or the listed issuer's business activities.
     
-    Compare: 1988 No 234 [s 9C][1007]
+    Compare: 1988 No 234 [s 9C][1010]
 
 ##### 250 Exceptions in case of knowledge in relation to derivatives
     
@@ -7153,7 +7161,7 @@ Dealing in financial products on markets
     
     *   (b) business activities, transactions, or agreements concerning the underlying.
     
-    Compare: SR 2010/354 [r 3][1008]
+    Compare: SR 2010/354 [r 3][1011]
 
 ##### 251 Exception for agent executing trading instruction only
     
@@ -7167,7 +7175,7 @@ Dealing in financial products on markets
     
     *   (d) A did not advise or encourage B to instruct A to trade.
     
-    Compare: 1988 No 234 [s 9D][1009]
+    Compare: 1988 No 234 [s 9D][1012]
 
 ##### 252 Exceptions from section 241 for takeovers
     
@@ -7179,13 +7187,13 @@ Dealing in financial products on markets
     
     *   (c) the acquisition or disposal of financial products in performance of an agreement to acquire or dispose of those financial products at a fixed price under a future takeover offer that complies with the [Takeovers Code][795].
     
-    (2) For the purposes of this section and [section 253][324], if an exemption has been granted under [section 45][1010] of the Takeovers Act 1993 in relation to a takeover offer and the offer is made in accordance with the terms and conditions of the exemption and the applicable provisions of the [Takeovers Code][795] from which there is no exemption, the offer must be taken to---
+    (2) For the purposes of this section and [section 253][324], if an exemption has been granted under [section 45][1013] of the Takeovers Act 1993 in relation to a takeover offer and the offer is made in accordance with the terms and conditions of the exemption and the applicable provisions of the [Takeovers Code][795] from which there is no exemption, the offer must be taken to---
         
     *   (a) be a takeover offer under the [Takeovers Code][795]; and
     
     *   (b) comply with the [Takeovers Code][795].
     
-    Compare: 1988 No 234 [s 9E(1)][1011]
+    Compare: 1988 No 234 [s 9E(1)][1014]
 
 ##### 253 Exceptions from sections 242 and 243 for takeovers
     
@@ -7213,25 +7221,25 @@ Dealing in financial products on markets
     
     (4) A person (_A_) does not contravene [section 242][312] or [243][313] merely because A, in relation to a takeover offer or prospective takeover offer under the [Takeovers Code][795], discloses inside information to another person (_B_) or advises B to trade or hold financial products of the listed issuer when A has that inside information, or is an information insider, only through acting as B's adviser in relation to the takeover offer or prospective takeover offer.
     
-    Compare: 1988 No 234 [s 9E(2)--(5)][1011]
+    Compare: 1988 No 234 [s 9E(2)--(5)][1014]
 
 ##### 254 Exceptions for schemes of arrangement approved under Companies Act 1993
     
-*   (1) [Section 241][311] does not apply to trading that results from an arrangement approved under [Part 15][1012] of the Companies Act 1993\.
+*   (1) [Section 241][311] does not apply to trading that results from an arrangement approved under [Part 15][1015] of the Companies Act 1993\.
     
-    (2) [Section 243][313] does not apply to advice or encouragement by the directors of a company that is the subject of an arrangement approved, or a proposed arrangement to be approved, under [Part 15][1012] of the Companies Act 1993, to the extent that the advice or encouragement is given to the company's shareholders and relates to those shareholders trading or holding their shares.
+    (2) [Section 243][313] does not apply to advice or encouragement by the directors of a company that is the subject of an arrangement approved, or a proposed arrangement to be approved, under [Part 15][1015] of the Companies Act 1993, to the extent that the advice or encouragement is given to the company's shareholders and relates to those shareholders trading or holding their shares.
 
 ##### 255 Exception for redemption of managed investment products
     
 *   [Section 241][311] does not apply to the redemption of managed investment products in a managed investment scheme if the redemption price is calculated by reference to the underlying value of the assets of the scheme.
     
-    Compare: 1988 No 234 [s 9F][1013]
+    Compare: 1988 No 234 [s 9F][1016]
 
 ##### 256 Exception for Reserve Bank
     
 *   [Section 241][311] does not apply to trading by the Reserve Bank in financial products issued by the Reserve Bank or by the Crown.
     
-    Compare: 1988 No 234 [s 9G][1014]
+    Compare: 1988 No 234 [s 9G][1017]
 
 #### Defences
 
@@ -7239,7 +7247,7 @@ Dealing in financial products on markets
     
 *   In any proceeding against a person (_A_) for contravention of [section 241][311], it is a defence if A did not know, and could not reasonably be expected to know, that A traded the financial products.
     
-    Compare: 1988 No 234 [s 10][1015]
+    Compare: 1988 No 234 [s 10][1018]
 
 ##### 258 Inside information obtained by independent research and analysis
     
@@ -7249,7 +7257,7 @@ Dealing in financial products on markets
     
     (3) In subsections (1) and (2), _research_ means planned investigation undertaken to gain new knowledge and understanding.
     
-    Compare: 1988 No 234 [s 10A][1016]
+    Compare: 1988 No 234 [s 10A][1019]
 
 ##### 259 Equal information
     
@@ -7259,7 +7267,7 @@ Dealing in financial products on markets
     
     (3) In any proceeding against a person (_A_) for contravening [section 242][312] or [243][313] by disclosing inside information to another person (_B_) or by advising or encouraging B to trade or hold quoted financial products, it is a defence if A has that inside information, or is an information insider, only through acting as B's adviser in relation to trading or holding those financial products.
     
-    Compare: 1988 No 234 [s 10B][1017]
+    Compare: 1988 No 234 [s 10B][1020]
 
 ##### 260 Options and trading plans
     
@@ -7289,7 +7297,7 @@ Dealing in financial products on markets
     
     *   (b) that is an employee share purchase scheme that comes within paragraph (a) except that the plan may be earlier terminated, and the investor may withdraw, on the termination of the investor's employment or appointment.
     
-    Compare: 1988 No 234 [s 10C][1018]
+    Compare: 1988 No 234 [s 10C][1021]
 
 ##### 261 Chinese wall defence
     
@@ -7323,13 +7331,13 @@ Dealing in financial products on markets
         
         
     
-    Compare: 1988 No 234 [s 11][1019]
+    Compare: 1988 No 234 [s 11][1022]
 
 ##### 263 Exception for takeovers
     
-*   [Section 262][335] does not apply to conduct in relation to a takeover offer for financial products under the [Takeovers Code][795] or to conduct under that offer to the extent that the conduct is regulated by the Takeovers Code or the [Takeovers Act 1993][829].
+*   [Section 262][335] does not apply to conduct in relation to a takeover offer for financial products under the [Takeovers Code][795] or to conduct under that offer to the extent that the conduct is regulated by the Takeovers Code or the [Takeovers Act 1993][830].
     
-    Compare: 1988 No 234 [s 14][856]
+    Compare: 1988 No 234 [s 14][858]
 
 ##### 264 Criminal liability for false or misleading statement or information
     
@@ -7341,7 +7349,7 @@ Dealing in financial products on markets
     
     *   (b) in any other case, to a fine not exceeding $2.5 million.
     
-    Compare: 1988 No 234 [s 11A][1020]
+    Compare: 1988 No 234 [s 11A][1023]
 
 ##### 265 False or misleading appearance of trading
     
@@ -7357,7 +7365,7 @@ Dealing in financial products on markets
     
     *   (b) the person knows or ought reasonably to know that the person's act or omission will, or is likely to have, that effect.
     
-    Compare: 1988 No 234 [s 11B][1021]
+    Compare: 1988 No 234 [s 11B][1024]
 
 ##### 266 Exception for short selling and crossings
     
@@ -7377,7 +7385,7 @@ Dealing in financial products on markets
     
     *   (b) the financial product being sold has been borrowed and the seller has a presently exercisable and unconditional right to vest the product in the buyer.
     
-    Compare: SR 2007/373 [rr 19][1022], [20][1023]
+    Compare: SR 2007/373 [rr 19][1025], [20][1026]
 
 ##### 267 Persons treated as contravening false or misleading appearance of trading prohibition
     
@@ -7399,7 +7407,7 @@ Dealing in financial products on markets
     
     (4) This section is subject to [section 268][341].
     
-    Compare: 1988 No 234 [s 11C(1)][1024], (2), (4)
+    Compare: 1988 No 234 [s 11C(1)][1027], (2), (4)
 
 ##### 268 Defence
     
@@ -7407,13 +7415,13 @@ Dealing in financial products on markets
     
     ###### Example
     
-    The trustees of the ABC Family Trust hold financial products on trust. 
+    The trustees of the ABC Family Trust hold financial products on trust.
     
     New trustees have been appointed to replace the original trustees. The financial products are transferred to the new trustees in connection with the appointment.
     
     No change in the beneficial ownership results (_see_ section 267(1)). However, there is no contravention of section 265 because the transfer was in conformity with accepted market practices and for a proper purpose.
     
-    Compare: 1988 No 234 [s 11C(3)][1024], (4)
+    Compare: 1988 No 234 [s 11C(3)][1027], (4)
 
 ##### 269 Criminal liability for false or misleading appearance of trading
     
@@ -7429,7 +7437,7 @@ Dealing in financial products on markets
     
     *   (b) in any other case, to a fine not exceeding $2.5 million.
     
-    Compare: 1988 No 234 [s 11D][1025]
+    Compare: 1988 No 234 [s 11D][1028]
 
 ### Subpart 4---Continuous disclosure
 
@@ -7445,13 +7453,13 @@ Dealing in financial products on markets
     
     (2) Subsection (1) does not affect or limit the situations in which action can be taken (other than under this Act) for a failure to comply with provisions of the listing rules for a licensed market.
     
-    Compare: 1988 No 234 [s 19B][1026]
+    Compare: 1988 No 234 [s 19B][1029]
 
 ##### 271 What are continuous disclosure provisions
     
 *   In this Act, _continuous disclosure provisions_ means provisions that require a listed issuer that is a party to a listing agreement with a licensed market operator to notify information about events or matters as they arise for the purpose of that information being made available to participants in the licensed market.
     
-    Compare: 1988 No 234 [s 19D][1027]
+    Compare: 1988 No 234 [s 19D][1030]
 
 ##### 272 No contravention of continuous disclosure provisions by person who takes reasonable steps to ensure listed issuer complies
     
@@ -7461,7 +7469,7 @@ Dealing in financial products on markets
     
     *   (b) after doing so, A believed on reasonable grounds that the listed issuer was complying with the obligation or term or condition.
     
-    Compare: 1988 No 234 [s 19PA][1028]
+    Compare: 1988 No 234 [s 19PA][1031]
 
 ### Subpart 5---Disclosure of interests of substantial product holders in listed issuers
 
@@ -7499,7 +7507,7 @@ Dealing in financial products on markets
     
     _total_ is the total number of financial products in that class.
     
-    Compare: 1988 No 234 [s 21][1029]
+    Compare: 1988 No 234 [s 21][1032]
 
 ##### 275 Person may be treated as holding financial products where person has relevant interest in certain derivatives
     
@@ -7515,7 +7523,7 @@ Dealing in financial products on markets
     
     (2) The disclosure must be given as soon as the person knows, or ought reasonably to know, that the person has the substantial holding.
     
-    Compare: 1988 No 234 [s 22][1030]
+    Compare: 1988 No 234 [s 22][1033]
 
 ##### 277 Substantial product holders must disclose if subsequent movement of 1% or more in holdings
     
@@ -7529,7 +7537,7 @@ Dealing in financial products on markets
     
     (3) The disclosure must be given as soon as the person knows, or ought reasonably to know, that that movement has occurred.
     
-    Compare: 1988 No 234 [s 23][1031]
+    Compare: 1988 No 234 [s 23][1034]
 
 ##### 278 Substantial product holders must disclose if subsequent changes in nature of relevant interests
     
@@ -7537,7 +7545,7 @@ Dealing in financial products on markets
     
     (2) The disclosure must be given as soon as the person knows, or ought reasonably to know, of the change.
     
-    Compare: 1988 No 234 [s 24][1032]
+    Compare: 1988 No 234 [s 24][1035]
 
 ##### 279 Persons must disclose if cease to have substantial holding
     
@@ -7545,7 +7553,7 @@ Dealing in financial products on markets
     
     (2) The disclosure must be given as soon as the person knows, or ought reasonably to know, that the person has ceased to have a substantial holding.
     
-    Compare: 1988 No 234 [s 25][1033]
+    Compare: 1988 No 234 [s 25][1036]
 
 ##### 280 What disclosure required
     
@@ -7559,19 +7567,19 @@ Dealing in financial products on markets
     
     (3) The disclosure must also be accompanied by, or have annexed, any prescribed information.
     
-    Compare: 1988 No 234 [s 26][1034]
+    Compare: 1988 No 234 [s 26][1037]
 
 ##### 281 Form and method of disclosure
     
 *   A person must give the disclosure in the prescribed manner.
     
-    Compare: 1988 No 234 [s 27][1035]
+    Compare: 1988 No 234 [s 27][1038]
 
 ##### 282 Listed issuer must give acknowledgement of disclosure
     
 *   Every listed issuer must, at the request of a person by whom disclosure is given to it under this subpart, give to the person an acknowledgement of the disclosure in the prescribed manner.
     
-    Compare: 1988 No 234 [s 28][1036]
+    Compare: 1988 No 234 [s 28][1039]
 
 ##### 283 How to ascertain total financial products in class for purposes of disclosure
     
@@ -7583,7 +7591,7 @@ Dealing in financial products on markets
     
     (2) Subsection (1) does not apply if that person knows that number is not correct.
     
-    Compare: 1988 No 234 [s 29][1037]
+    Compare: 1988 No 234 [s 29][1040]
 
 #### Exemptions
 
@@ -7603,7 +7611,7 @@ Dealing in financial products on markets
         
         
     
-    Compare: 1988 No 234 [s 30][1038]
+    Compare: 1988 No 234 [s 30][1041]
 
 ##### 285 Exemption for corporate trustees and nominee companies
     
@@ -7615,7 +7623,7 @@ Dealing in financial products on markets
     
     (2) Subsection (1) does not apply if A is currently declared by the FMA, by notice under [section 562(1)(i)][738], to be a person that is not exempt under this section.
     
-    Compare: 1988 No 234 [s 31][1039]
+    Compare: 1988 No 234 [s 31][1042]
 
 ##### 286 Conditions of exemption for corporate trustees and nominee companies
     
@@ -7627,7 +7635,7 @@ Dealing in financial products on markets
     
     *   (c) inform that operator if A exercises, or proposes to exercise, in A's own right any voting rights in respect of 5% or more of a class of quoted voting products of a listed issuer.
     
-    Compare: 1988 No 234 [s 32][1040]
+    Compare: 1988 No 234 [s 32][1043]
 
 ##### 287 Exemption for persons under control or acting jointly with corporate trustees and nominee companies
     
@@ -7635,7 +7643,7 @@ Dealing in financial products on markets
     
     (2) Subsection (1) does not apply if A is currently declared by the FMA, by notice under [section 562(1)(i)][738], to be a person that is not exempt under this section.
     
-    Compare: 1988 No 234 [s 32A][1041]
+    Compare: 1988 No 234 [s 32A][1044]
 
 ##### 288 Extended time for disclosure for trustees, executors, and administrators
     
@@ -7645,7 +7653,7 @@ Dealing in financial products on markets
     
     *   (b) the disclosure must instead be given before the expiry of 14 days after the grant of administration under the Administration Act 1969\.
     
-    Compare: 1988 No 234 [s 33][1042]
+    Compare: 1988 No 234 [s 33][1045]
 
 #### Tracing and disclosure of interests in listed issuers
 
@@ -7663,7 +7671,7 @@ Dealing in financial products on markets
     
     (4) [Sections 235 to 238][302] apply in determining whether or not a person has a power referred to in subsection (1)(b) (and for this purpose every reference in those sections to a relevant interest must be read as including a reference to a power to acquire a relevant interest).
     
-    Compare: 1988 No 234 [s 34][1043]
+    Compare: 1988 No 234 [s 34][1046]
 
 ##### 290 Listed issuer may require registered holder or relevant interest holder to disclose relevant interests to it
     
@@ -7683,7 +7691,7 @@ Dealing in financial products on markets
     
     *   (b) was named in a previous disclosure under this section as having a relevant interest in quoted voting products of the listed issuer.
     
-    Compare: 1988 No 234 [s 35][1044]; Corporations Act 2001 ss 672A, 672B (Aust)
+    Compare: 1988 No 234 [s 35][1047]; Corporations Act 2001 ss 672A, 672B (Aust)
 
 ##### 291 Listed issuer may require person who has relevant interest to disclose information to it
     
@@ -7691,13 +7699,13 @@ Dealing in financial products on markets
     
     (2) The relevant interest holder must disclose the information required under subsection (1) in writing to the listed issuer as soon as practicable after the holder receives the notice.
     
-    Compare: 1988 No 234 [s 35A][1045]
+    Compare: 1988 No 234 [s 35A][1048]
 
 ##### 292 Form and method of notice requiring disclosure
     
 *   The notice requiring disclosure under [section 289][367], [290][368], or [291][369] must be given in the prescribed manner (if any).
     
-    Compare: 1988 No 234 [s 35B][1046]
+    Compare: 1988 No 234 [s 35B][1049]
 
 ##### 293 Listed issuers must make available information on substantial holdings
     
@@ -7711,7 +7719,7 @@ Dealing in financial products on markets
     
     (2) The information must be made available,---
         
-    *   (a) for listed issuers that are required to prepare an annual report under the [Companies Act 1993][855] or any other enactment, in the annual report for the period ending on the balance date; and
+    *   (a) for listed issuers that are required to prepare an annual report under the [Companies Act 1993][857] or any other enactment, in the annual report for the period ending on the balance date; and
     
     *   (b) for every other listed issuer, in a notice sent to every holder of its quoted voting products not later than 3 months after the balance date.
     
@@ -7719,13 +7727,13 @@ Dealing in financial products on markets
     
     (4) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1988 No 234 [ss 35F][1047], [35H][1048]
+    Compare: 1988 No 234 [ss 35F][1050], [35H][1051]
 
 ##### 294 No liability for publication of substantial holdings
     
 *   No listed issuer is liable for any false or misleading information made available under [section 293][371] if the information was derived by the issuer under this subpart and the issuer did not know that the information was false or misleading.
     
-    Compare: 1988 No 234 [s 35I][1049]
+    Compare: 1988 No 234 [s 35I][1052]
 
 ##### 295 Notice under this subpart not to affect incorporation of listed issuer or constitute notice of trust
     
@@ -7733,11 +7741,11 @@ Dealing in financial products on markets
         
     *   (a) affects the incorporation of a listed issuer; or
     
-    *   (b) limits [section 92][1050], [93][1051], or [94][1052] of the Companies Act 1993\.
+    *   (b) limits [section 92][1053], [93][1054], or [94][1055] of the Companies Act 1993\.
     
     (2) A listed issuer is not, because of anything done for the purposes of this subpart, affected with notice of, or put on inquiry as to, the rights of any person in relation to any financial products.
     
-    Compare: 1988 No 234 [s 35J][1053]
+    Compare: 1988 No 234 [s 35J][1056]
 
 ### Subpart 6---Disclosure of relevant interests in quoted financial products by directors and senior managers of listed issuers
 
@@ -7769,9 +7777,9 @@ Dealing in financial products on markets
         
         *   (iii) an acquisition under a share top-up plan:
         
-        *   (iv) an acquisition or a disposal that results from an amalgamation under [Part 13][1054] of the Companies Act 1993:
+        *   (iv) an acquisition or a disposal that results from an amalgamation under [Part 13][1057] of the Companies Act 1993:
         
-        *   (v) an acquisition or a disposal that results from an arrangement approved under [Part 15][1012] of the Companies Act 1993:
+        *   (v) an acquisition or a disposal that results from an arrangement approved under [Part 15][1015] of the Companies Act 1993:
         
         *   (vi) a prescribed acquisition or disposal; or
         
@@ -7785,11 +7793,11 @@ Dealing in financial products on markets
     
     (5) In this section,---
     
-    _dividend reinvestment plan_ means a plan of the kind referred to in [clause 10][1055] of Schedule 1
+    _dividend reinvestment plan_ means a plan of the kind referred to in [clause 10][1058] of Schedule 1
     
     _share top-up plan_ means a plan established by an issuer under which previously issued shares of the issuer are offered, whether by the issuer or another person, only to some or all existing holders of the same class of shares, and those shares are sold in consideration for a direction made to the issuer to apply amounts that are payable to each existing holder from dividends declared by the issuer to the purchase of the shares.
     
-    Compare: 1988 No 234 [s 19T][1056]
+    Compare: 1988 No 234 [s 19T][1059]
 
 ##### 298 Disclosure of relevant interests and dealings in relevant interests in relation to specified derivatives
     
@@ -7819,19 +7827,19 @@ Dealing in financial products on markets
     
     (2) The director or senior manager must also disclose, in the prescribed manner, any further matters relating to the relevant interest, acquisition, or disposal that are required by the regulations.
     
-    Compare: 1988 No 234 [s 19U][1057]
+    Compare: 1988 No 234 [s 19U][1060]
 
 ##### 300 Form and method of disclosure
     
 *   The director or senior manager must disclose the relevant interest, acquisition, or disposal in the prescribed manner.
     
-    Compare: 1988 No 234 [s 19V][1058]
+    Compare: 1988 No 234 [s 19V][1061]
 
 ##### 301 Disclosure obligation applies for 6 months after ceasing to hold office
     
 *   A person is treated as being a director or senior manager for the purposes of this subpart for 6 months after that person ceases to be a director or senior manager, and must continue to comply with this subpart for that period.
     
-    Compare: 1988 No 234 [s 19W][1059]
+    Compare: 1988 No 234 [s 19W][1062]
 
 ##### 302 Exemption for directors or senior managers who disclose substantial holdings
     
@@ -7845,7 +7853,7 @@ Dealing in financial products on markets
     
     *   (d) it is stated in the disclosure made in accordance with that section that the director or senior manager is a director or senior manager of the listed issuer.
     
-    Compare: SR 2003/382 [r 21][1060]
+    Compare: SR 2003/382 [r 21][1063]
 
 ##### 303 Exemption for overseas listed issuers
     
@@ -7877,7 +7885,7 @@ Dealing in financial products on markets
     
     *   (b) in relation to which no licensed market has primary jurisdiction for the listing requirements for the listed issuer and the quotation of its financial products.
     
-    Compare: SR 2004/105 [cl 12][1061]
+    Compare: SR 2004/105 [cl 12][1064]
 
 ##### 304 Listed issuer must keep interests register
     
@@ -7891,11 +7899,11 @@ Dealing in financial products on markets
     
     (3) If the interests register is not kept at the listed issuer's registered office, or the place at which it is kept is changed, the listed issuer must give written notice to the FMA of the place at which it is kept within 10 working days after it is first kept elsewhere or is moved.
     
-    (4) The interests register may be the same interests register as that kept under [section 189(1)(c)][1062] of the Companies Act 1993\.
+    (4) The interests register may be the same interests register as that kept under [section 189(1)(c)][1065] of the Companies Act 1993\.
     
-    (5) This section and [sections 305][384] and [306][385] do not limit the [Companies Act 1993][855].
+    (5) This section and [sections 305][384] and [306][385] do not limit the [Companies Act 1993][857].
     
-    Compare: 1988 No 234 [s 19Z][1063]
+    Compare: 1988 No 234 [s 19Z][1066]
 
 ##### 305 Public inspection of interests register
     
@@ -7925,7 +7933,7 @@ Dealing in financial products on markets
     
     (3) The offences in this section are infringement offences (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1988 No 234 [s 19ZF][1064]
+    Compare: 1988 No 234 [s 19ZF][1067]
 
 ### Subpart 7---Licensing of markets for trading financial products
 
@@ -8071,7 +8079,7 @@ Dealing in financial products on markets
     
     *   (d) have adequate arrangements for ensuring that the criteria specified in [section 316(c)][399] or [317(1)(d)][400], as the case may be, continue to be met.
     
-    Compare: 1988 No 234 [s 36Y][1065]; Corporations Act 2001 s 792A (Aust)
+    Compare: 1988 No 234 [s 36Y][1068]; Corporations Act 2001 s 792A (Aust)
 
 #### Issue of licence
 
@@ -8091,7 +8099,7 @@ Dealing in financial products on markets
     
     *   (b) there is no reason to believe that the applicant will not comply with the market operator obligations that will apply if the licence is granted; and
     
-    *   (c) the applicant is a body corporate and is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][1066] on and from commencing to operate the financial product market.
+    *   (c) the applicant is a body corporate and is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][1069] on and from commencing to operate the financial product market.
     
     Compare: Corporations Act 2001 s 795B(1) (Aust)
 
@@ -8107,7 +8115,7 @@ Dealing in financial products on markets
     
     *   (d) no director, senior manager, or controlling owner of the applicant---
             
-        *   (i) would be disqualified under [section 14(2)][1067] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (if the applicant were a provider to which that Act applied); or
+        *   (i) would be disqualified under [section 14(2)][1070] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (if the applicant were a provider to which that Act applied); or
         
         *   (ii) has been disqualified from managing a body corporate under the laws of any other jurisdiction.
         
@@ -8233,7 +8241,7 @@ Dealing in financial products on markets
     
     *   (c) if---
             
-        *   (i) the licensed market operator has ceased to be registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858] (in the case of a licence issued under [section 316][399]); or
+        *   (i) the licensed market operator has ceased to be registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860] (in the case of a licence issued under [section 316][399]); or
         
         *   (ii) the Minister is satisfied that the licensed market operator has ceased to meet the requirement in [section 317(1)(d)][400] (in the case of a licence issued under section 317 (overseas-regulated markets)); or
         
@@ -8295,7 +8303,7 @@ Dealing in financial products on markets
     
     (2) This section and [sections 328 to 332][413] do not apply to a licensed market that is licensed under [section 317][400] (overseas-regulated markets).
     
-    Compare: 1988 No 234 [s 36G][1068]
+    Compare: 1988 No 234 [s 36G][1071]
 
 ##### 328 Required matters for market rules
     
@@ -8325,7 +8333,7 @@ Dealing in financial products on markets
     
     *   (d) relate to the monitoring and enforcement of those rules.
     
-    Compare: 1988 No 234 [s 36H][1069]
+    Compare: 1988 No 234 [s 36H][1072]
 
 ##### 329 When market rules have effect
     
@@ -8351,7 +8359,7 @@ Dealing in financial products on markets
     
     *   (b) consists of immaterial changes (for example, typographical changes).
     
-    Compare: 1988 No 234 [s 36K][1070]
+    Compare: 1988 No 234 [s 36K][1073]
 
 ##### 331 Approval of proposed market rules and changes
     
@@ -8375,7 +8383,7 @@ Dealing in financial products on markets
     
     (2) The FMA must, in considering whether to approve proposed market rules for a new market, take into account any previously approved market rules that the applicant proposes to also apply to the relevant market.
     
-    Compare: 1988 No 234 [s 36L][1071]
+    Compare: 1988 No 234 [s 36L][1074]
 
 ##### 332 Notice of decision on rules
     
@@ -8389,7 +8397,7 @@ Dealing in financial products on markets
     
     (3) If the FMA approves the proposed market rules or rule change, the FMA must also publish a notice in the _Gazette_, and on an Internet site maintained by or on behalf of the FMA, identifying the market rules approved under [section 331][416] (but need not incorporate them).
     
-    (4) The notice in the _Gazette_ is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1072] and must be presented to the House of Representatives under [section 41][1073] of that Act.
+    (4) The notice in the _Gazette_ is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1075] and must be presented to the House of Representatives under [section 41][1076] of that Act.
 
 ##### 333 Power of FMA to request changes to market rules on certain matters
     
@@ -8419,7 +8427,7 @@ Dealing in financial products on markets
     
     (4) This section does not allow the FMA to request a draft market rule or change on a matter that is not within the matters set out in [section 328][413].
     
-    Compare: 1988 No 234 [s 36M][1074]
+    Compare: 1988 No 234 [s 36M][1077]
 
 ##### 334 Overseas-regulated markets must give notice of market rules and rule changes to FMA
     
@@ -8445,7 +8453,7 @@ Dealing in financial products on markets
     
     (3) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1988 No 234 [s 36Q][1075]
+    Compare: 1988 No 234 [s 36Q][1078]
 
 ##### 336 Application of Acts relating to regulations to contractual market rules
     
@@ -8453,9 +8461,9 @@ Dealing in financial products on markets
         
     *   (a) regulations for any purpose; or
     
-    *   (b) legislative instruments or disallowable instruments for the purposes of the [Legislation Act 2012][1072].
+    *   (b) legislative instruments or disallowable instruments for the purposes of the [Legislation Act 2012][1075].
     
-    Compare: 1988 No 234 [s 36R][1076]
+    Compare: 1988 No 234 [s 36R][1079]
 
 #### Monitoring of market operator obligations
 
@@ -8467,7 +8475,7 @@ Dealing in financial products on markets
     
     (3) The _reporting period_ for the purposes of this subpart is the financial year of the licensed market operator or any longer reporting period set in the conditions of the licence.
     
-    Compare: 1988 No 234 [s 36YA][1077]
+    Compare: 1988 No 234 [s 36YA][1080]
 
 ##### 338 FMA to carry out market operator obligations reviews
     
@@ -8481,9 +8489,9 @@ Dealing in financial products on markets
     
     *   (b) must, after carrying out the review, provide a draft written report on its review to the licensed market operator and take into account any submissions made by the licensed market operator within the reasonable period for submissions specified by the FMA.
     
-    (4) The FMA must not carry out a review of a designated settlement system (within the meaning of [section 156M(1)][997] of the Reserve Bank of New Zealand Act 1989) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
+    (4) The FMA must not carry out a review of a designated settlement system (within the meaning of [section 156M(1)][1000] of the Reserve Bank of New Zealand Act 1989) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
     
-    Compare: 1988 No 234 [s 36YB][1078]
+    Compare: 1988 No 234 [s 36YB][1081]
 
 ##### 339 FMA must make written report on market operator obligations review
     
@@ -8495,9 +8503,9 @@ Dealing in financial products on markets
     
     (2) The FMA must also publish the written report on the review on an Internet site maintained by or on behalf of the FMA.
     
-    (3) However, the FMA may, in publishing the written report of its review, omit from the published report any information for which it considers there would be a good reason for withholding under the [Official Information Act 1982][1079] if a request for that information were made under that Act.
+    (3) However, the FMA may, in publishing the written report of its review, omit from the published report any information for which it considers there would be a good reason for withholding under the [Official Information Act 1982][1082] if a request for that information were made under that Act.
     
-    Compare: 1988 No 234 [s 36YC][1080]
+    Compare: 1988 No 234 [s 36YC][1083]
 
 ##### 340 FMA may require licensed market operator to submit action plan on failure to meet market operator obligations
     
@@ -8527,7 +8535,7 @@ Dealing in financial products on markets
         
         
     
-    Compare: 1988 No 234 [s 36YD][1081]
+    Compare: 1988 No 234 [s 36YD][1084]
 
 ##### 341 Approval, amendment, or rejection of action plan
     
@@ -8555,7 +8563,7 @@ Dealing in financial products on markets
     
     (4) An action plan that has been approved by the FMA may be varied at any time by agreement between the licensed market operator and the FMA.
     
-    Compare: 1988 No 234 [s 36YE][1082]
+    Compare: 1988 No 234 [s 36YE][1085]
 
 ##### 342 Minister may give market operator obligations direction to licensed market operator
     
@@ -8583,7 +8591,7 @@ Dealing in financial products on markets
     
     (3) The licensed market operator must comply with the direction.
     
-    Compare: 1988 No 234 [s 36YF][1083]
+    Compare: 1988 No 234 [s 36YF][1086]
 
 ##### 343 Minister may vary, suspend, or cancel licence
     
@@ -8619,17 +8627,17 @@ Dealing in financial products on markets
     
     *   (d) in respect of a special, immaterial, or remote matter that is inconsequential to control of the body corporate.
     
-    Compare: 1988 No 234 [s 36S][1084]
+    Compare: 1988 No 234 [s 36S][1087]
 
 ##### 345 Control limit not to be exceeded
     
-*   (1) No person may hold or control voting rights in a body corporate that exceed any control limit for that body corporate that applies under regulations made under [section 344][431], except in accordance with an approval under [section 347][1085].
+*   (1) No person may hold or control voting rights in a body corporate that exceed any control limit for that body corporate that applies under regulations made under [section 344][431], except in accordance with an approval under [section 347][1088].
     
     (2) For the purposes of this section, voting rights held or controlled by an associated person of a person must be treated as voting rights held or controlled by that person.
     
     (3) Subsection (1) does not apply to any voting rights in a body corporate held or controlled by a person to the extent that those rights were held or controlled by that person before the control limit was imposed or decreased, as the case may be.
     
-    Compare: 1988 No 234 [s 36T][1086]
+    Compare: 1988 No 234 [s 36T][1089]
 
 ##### 346 Effect of exceeding control limit
     
@@ -8643,7 +8651,7 @@ Dealing in financial products on markets
     
     (3) However, subsections (1)(b) and (2) do not invalidate a resolution if the votes concerned were counted by the body corporate in good faith and without knowledge that the voting rights were exercised in contravention of subsection (1)(b).
     
-    Compare: 1988 No 234 [s 36U][1087]
+    Compare: 1988 No 234 [s 36U][1090]
 
 ##### 347 Application for approval to exceed control limit
     
@@ -8667,7 +8675,7 @@ Dealing in financial products on markets
     
     (6) An approval granted under subsection (3) is for the purposes of the control limit only, and not for the purposes of any other enactment.
     
-    Compare: 1988 No 234 [s 36V][1088]
+    Compare: 1988 No 234 [s 36V][1091]
 
 ##### 348 Revocation or amendment of approval
     
@@ -8683,7 +8691,7 @@ Dealing in financial products on markets
     
     *   (b) he or she is satisfied that it is in the public interest to make the recommendation.
     
-    Compare: 1988 No 234 [s 36W][1089]
+    Compare: 1988 No 234 [s 36W][1092]
 
 #### Other provisions relating to licensing of financial product markets
 
@@ -8735,9 +8743,9 @@ Dealing in financial products on markets
     
     *   (b) be satisfied, in relation to any recommendation relating to subsection (1)(a) or (d), that the extent to which the regulations disapply any enactment to a licensed market is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
     
-    Section 351 heading: amended, on 1 April 2014, by [section 47(1)][1090] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 351 heading: amended, on 1 April 2014, by [section 47(1)][1093] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 351(1)(ab): inserted, on 1 April 2014, by [section 47(2)][1090] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 351(1)(ab): inserted, on 1 April 2014, by [section 47(2)][1093] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 8---Operation of licensed markets
 
@@ -8751,19 +8759,19 @@ Dealing in financial products on markets
             
         *   (i) the market rules; or
         
-        *   (ii) this Act, the [Takeovers Act 1993][829], or any enactment made under either of those Acts.
+        *   (ii) this Act, the [Takeovers Act 1993][830], or any enactment made under either of those Acts.
         
         
     
     (2) The FMA must notify the licensed market operator of its decision to take, or not to take, any action in relation to a notification under subsection (1)(b)(ii).
     
-    Compare: 1988 No 234 [s 36ZD][1091]
+    Compare: 1988 No 234 [s 36ZD][1094]
 
 ##### 353 When notification required
     
 *   The licensed market operator must give the notice under [section 352][441] immediately after taking the disciplinary action or knowing or suspecting the person has committed, is committing, or is likely to commit a significant contravention.
     
-    Compare: 1988 No 234 [s 36ZE][1092]
+    Compare: 1988 No 234 [s 36ZE][1095]
 
 ##### 354 Details and method of notification
     
@@ -8779,7 +8787,7 @@ Dealing in financial products on markets
     
     (2) The licensed market operator must give the notice in the form and by the method required by the regulations (if any).
     
-    Compare: 1988 No 234 [s 36ZF][1093]
+    Compare: 1988 No 234 [s 36ZF][1096]
 
 ##### 355 Licensed market operator must ensure FMA has access to real-time trading and other information
     
@@ -8787,7 +8795,7 @@ Dealing in financial products on markets
     
     (2) The FMA must pay all reasonable costs of the licensed market operator in providing the information under this section.
     
-    Compare: 1988 No 234 [s 36ZFA][1094]
+    Compare: 1988 No 234 [s 36ZFA][1097]
 
 ##### 356 Waiver of notification and disclosure obligations
     
@@ -8799,7 +8807,7 @@ Dealing in financial products on markets
     
     (2) A waiver or an agreement under this section must be in writing.
     
-    Compare: 1988 No 234 [s 36ZJ][1095]
+    Compare: 1988 No 234 [s 36ZJ][1098]
 
 ##### 357 Licensed market operator must give FMA or Takeovers Panel other information and assistance on request
     
@@ -8807,7 +8815,7 @@ Dealing in financial products on markets
     
     (2) The FMA or the Takeovers Panel must require that information, assistance, or access by notice in writing to the licensed market operator.
     
-    Compare: 1988 No 234 [s 36ZK][1096]
+    Compare: 1988 No 234 [s 36ZK][1099]
 
 ##### 358 Power to disclose further information
     
@@ -8815,7 +8823,7 @@ Dealing in financial products on markets
     
     (2) A licensed market operator may provide to the Takeovers Panel any information that the licensed market operator considers may assist the Takeovers Panel in the performance of its functions.
     
-    Compare: 1988 No 234 [s 36ZL][1097]
+    Compare: 1988 No 234 [s 36ZL][1100]
 
 ##### 359 Licensed market operator must give notice and have regard to submissions on continuous disclosure determinations
     
@@ -8847,7 +8855,7 @@ Dealing in financial products on markets
     
     (3) A failure to comply with this section or [section 360][449] does not affect the validity of a determination.
     
-    Compare: 1988 No 234 [s 36ZM][1098]
+    Compare: 1988 No 234 [s 36ZM][1101]
 
 ##### 360 Limited notice and submissions for urgent determinations
     
@@ -8857,7 +8865,7 @@ Dealing in financial products on markets
     
     *   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that subsection.
     
-    Compare: 1988 No 234 [s 36ZN][1099]
+    Compare: 1988 No 234 [s 36ZN][1102]
 
 ##### 361 FMA may give directions to licensed market operators
     
@@ -8875,7 +8883,7 @@ Dealing in financial products on markets
     
     (4) The direction is subject to appeal only in accordance with [section 532][700].
     
-    Compare: 1988 No 234 [s 36ZO][1100]
+    Compare: 1988 No 234 [s 36ZO][1103]
 
 ##### 362 Grounds for continuous disclosure direction
     
@@ -8897,7 +8905,7 @@ Dealing in financial products on markets
     
     *   (c) is also satisfied that the direction is necessary or desirable to protect people who are trading the quoted financial products or the class of quoted financial products and that there is no more appropriate course of action to address the situation.
     
-    Compare: 1988 No 234 [s 36ZP][1101]
+    Compare: 1988 No 234 [s 36ZP][1104]
 
 ##### 363 Grounds for other directions
     
@@ -8907,7 +8915,7 @@ Dealing in financial products on markets
     
     *   (b) it is not a matter relating to continuous disclosure.
     
-    Compare: 1988 No 234 [s 36ZQ][1102]
+    Compare: 1988 No 234 [s 36ZQ][1105]
 
 ##### 364 Notice, opportunity for licensed market operator to act, and submissions before FMA gives directions
     
@@ -8937,7 +8945,7 @@ Dealing in financial products on markets
     
     (2) A reasonable period in subsection (1)(b) is, in the case of a continuous disclosure direction, 2 trading days (or any longer time the FMA wishes to allow) and, in the case of any other direction, any longer time that is reasonable in the circumstances.
     
-    Compare: 1988 No 234 [s 36ZR][1103]
+    Compare: 1988 No 234 [s 36ZR][1106]
 
 ##### 365 Limited notice and submissions for urgent continuous disclosure directions
     
@@ -8947,7 +8955,7 @@ Dealing in financial products on markets
     
     *   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
     
-    Compare: 1988 No 234 [s 36ZS][1104]
+    Compare: 1988 No 234 [s 36ZS][1107]
 
 ##### 366 Notice and opportunity to be heard and represented after FMA gives direction
     
@@ -8967,7 +8975,7 @@ Dealing in financial products on markets
     
     *   (c) may also give notice to any other person of the matters in paragraph (a).
     
-    Compare: 1988 No 234 [s 36ZT][1105]
+    Compare: 1988 No 234 [s 36ZT][1108]
 
 ##### 367 Effect of directions to licensed market operator
     
@@ -8975,7 +8983,7 @@ Dealing in financial products on markets
     
     (2) If the FMA considers that the direction should have effect for a period longer than 15 working days, it may apply to the court for, and the court may make, an order that the licensed market operator comply with the direction for the period that the court thinks fit.
     
-    Compare: 1988 No 234 [s 36ZU][1106]
+    Compare: 1988 No 234 [s 36ZU][1109]
 
 ##### 368 Provisions as to directions
     
@@ -8983,7 +8991,7 @@ Dealing in financial products on markets
     
     (2) The FMA may revoke a direction under [section 361][450] by giving written notice to the licensed market operator.
     
-    Compare: 1988 No 234 [s 36ZV][1107]
+    Compare: 1988 No 234 [s 36ZV][1110]
 
 ##### 369 Contracting out of or modification of continuous disclosure process requirements
     
@@ -8991,13 +8999,13 @@ Dealing in financial products on markets
     
     (2) For that purpose, the licensed market operator may agree to waive or modify obligations under those sections that are owed to listed issuers listed on the relevant licensed market.
     
-    Compare: 1988 No 234 [s 36ZW][1108]
+    Compare: 1988 No 234 [s 36ZW][1111]
 
 ##### 370 Offence for failing to comply with direction
     
 *   A licensed market operator that refuses or fails, without reasonable excuse, to comply with a direction under [section 361][450] commits an offence and is liable on conviction to a fine not exceeding $300,000\.
     
-    Compare: 1988 No 234 [s 36ZX][1109]
+    Compare: 1988 No 234 [s 36ZX][1112]
 
 ### Subpart 9---Transfer of transferable financial products
 
@@ -9047,13 +9055,13 @@ Dealing in financial products on markets
     
     *   (c) a chartered accountant:
     
-    *   (d) a trustee corporation (as defined in [section 2(1)][1110] of the Trustee Act 1956):
+    *   (d) a trustee corporation (as defined in [section 2(1)][1113] of the Trustee Act 1956):
     
     *   (e) a registered bank:
     
     *   (f) a person prescribed for the purposes of this definition.
     
-    Compare: 1991 No 119 [s 3][1111]
+    Compare: 1991 No 119 [s 3][1114]
 
 ##### 373 Transfer of specified financial products by products transfer and brokers transfer
     
@@ -9085,7 +9093,7 @@ Dealing in financial products on markets
     
     (3) In this subpart, _licensed market transaction_ means a sale and purchase of financial products in which each of the parties is, or is acting through the agency of, a person authorised to undertake trading activities on a licensed market who is acting in the ordinary course of that business.
     
-    Compare: 1991 No 119 [s 4][1112]
+    Compare: 1991 No 119 [s 4][1115]
 
 ##### 374 Products transfer does not need to be witnessed
     
@@ -9093,7 +9101,7 @@ Dealing in financial products on markets
     
     (2) Subsection (1) does not affect any enactment, rule of law, constitution, deed, or agreement regulating the execution of documents by companies or other bodies corporate or by any particular company or body corporate.
     
-    Compare: 1991 No 119 [s 5][1113]
+    Compare: 1991 No 119 [s 5][1116]
 
 ##### 375 Transfers to be instruments of transfer for purposes of other enactments and instruments
     
@@ -9103,7 +9111,7 @@ Dealing in financial products on markets
     
     *   (b) a products transfer to which [section 373][464] applies and a brokers transfer together must be treated as being an instrument of transfer of the financial products specified in both transfers.
     
-    Compare: 1991 No 119 [s 6(1)][1114]
+    Compare: 1991 No 119 [s 6(1)][1117]
 
 #### Transfer of specified financial products by electronic means
 
@@ -9119,7 +9127,7 @@ Dealing in financial products on markets
     
     (5) A failure to comply with subsection (4) does not affect the validity of an Order in Council made under this section.
     
-    Compare: 1991 No 119 [s 7(1)--(3), (6)--(8)][1115]
+    Compare: 1991 No 119 [s 7(1)--(3), (6)--(8)][1118]
 
 ##### 377 Specified financial products may be transferred under approved system
     
@@ -9127,13 +9135,13 @@ Dealing in financial products on markets
     
     (2) Subsection (1) applies whether or not the specified financial products impose a liability to the issuer on the transferee.
     
-    Compare: 1991 No 119 [s 7(5)][1115]
+    Compare: 1991 No 119 [s 7(5)][1118]
 
 ##### 378 Minor technical modifications to system
     
 *   Modifications of a minor technical nature may, from time to time, be made to a system of transfer approved by an Order in Council made under [section 376][468] and, in any such case, the system incorporating those modifications must be treated as having been approved by the order.
     
-    Compare: 1991 No 119 [s 7(4)][1115]
+    Compare: 1991 No 119 [s 7(4)][1118]
 
 #### Registration may not be refused
 
@@ -9143,7 +9151,7 @@ Dealing in financial products on markets
     
     (2) Nothing in this section affects any right a person has to refuse to register a transfer of securities on any other ground.
     
-    Compare: 1991 No 119 [s 8][1116]
+    Compare: 1991 No 119 [s 8][1119]
 
 ##### 380 Effect of this Act on other enactments
     
@@ -9151,9 +9159,9 @@ Dealing in financial products on markets
     
     (2) Nothing in this subpart affects the validity of any means of transferring financial products other than under this subpart.
     
-    (3) [Sections 35][1117], [39(1)][1118], and [84][1119] of the Companies Act 1993 must be read subject to the provisions of this subpart.
+    (3) [Sections 35][1120], [39(1)][1121], and [84][1122] of the Companies Act 1993 must be read subject to the provisions of this subpart.
     
-    Compare: 1991 No 119 [s 9][1120]
+    Compare: 1991 No 119 [s 9][1123]
 
 ### Subpart 10---Unsolicited offers to purchase financial products off-market
 
@@ -9169,11 +9177,11 @@ Dealing in financial products on markets
     
     *   (d) the offer is within the class or classes of unsolicited offers to which the regulations apply:
     
-    *   (e) the offer is not a takeover offer for a financial product under the [Takeovers Code][795] nor an acquisition or a redemption by a company of its shares under the [Companies Act 1993][855].
+    *   (e) the offer is not a takeover offer for a financial product under the [Takeovers Code][795] nor an acquisition or a redemption by a company of its shares under the [Companies Act 1993][857].
     
     (2) For the purposes of this subpart, and any regulations made under this subpart, an _offer_ made by A includes an invitation or a proposal for A (or an associated person of A) to make an offer.
     
-    Compare: 1988 No 234 [s 48DA][1121]
+    Compare: 1988 No 234 [s 48DA][1124]
 
 ##### 382 Regulations concerning unsolicited offers
     
@@ -9207,7 +9215,7 @@ Dealing in financial products on markets
     
     *   (b) consult the FMA.
     
-    Compare: 1988 No 234 [s 48DB][1122]
+    Compare: 1988 No 234 [s 48DB][1125]
 
 ##### 383 Specific provisions for regulations concerning unsolicited offers
     
@@ -9239,7 +9247,7 @@ Dealing in financial products on markets
     
     *   (j) provide for transitional matters.
     
-    Compare: 1988 No 234 [s 48DC][1123]
+    Compare: 1988 No 234 [s 48DC][1126]
 
 ##### 384 Protection from liability in connection with unsolicited offer provisions
     
@@ -9251,7 +9259,7 @@ Dealing in financial products on markets
     
     (2) A person to whom this section applies is not liable for any act done or omitted to be done by that person in good faith if the act or omission is stated by regulations made under [section 382][476] to be a protected act or omission for the purposes of this section.
     
-    Compare: 1988 No 234 [s 47AA][1124]
+    Compare: 1988 No 234 [s 47AA][1127]
 
 ### Subpart 11---Civil liability for certain contraventions of this Part
 
@@ -9352,19 +9360,19 @@ Licensing and other regulation of market services
         
     *   (a) carries out activities that are covered by a financial product market licence:
     
-    *   (b) acts as the operator of a designated settlement system (within the meaning of [Part 5C][1125] of the Reserve Bank of New Zealand Act 1989):
+    *   (b) acts as the operator of a designated settlement system (within the meaning of [Part 5C][1128] of the Reserve Bank of New Zealand Act 1989):
     
     *   (c) carries out activities as a participant in a licensed market, or in another prescribed overseas market, in the prescribed circumstances.
     
     (2) A person is exempt from the licensing requirement under [section 388(c)][485] in respect of a service (unless a declaration applies under subpart 3 of Part 9) to the extent that---
         
-    *   (a) the service is not a retail service (_see_ [clause 35][827] of Schedule 1); or
+    *   (a) the service is not a retail service (_see_ [clause 35][828] of Schedule 1); or
         
         ###### Example
         
         A financial services firm may provide a discretionary investment management service to a number of investors using a model portfolio. As long as no retail investor is within the relevant class of investors, the firm need not be a DIMS licensee (and, as a result of section 14(1)(ka)(ii) of the Financial Advisers Act 2008, the firm need not come within sections 17 to 20 of the Financial Advisers Act 2008 either).
     
-    *   (b) the person provides the service under [sections 17 to 20][1126] of the Financial Advisers Act 2008; or
+    *   (b) the person provides the service under [sections 17 to 20][1129] of the Financial Advisers Act 2008; or
         
         ###### Example
         
@@ -9378,7 +9386,7 @@ Licensing and other regulation of market services
     
 *   (1) In addition, a person may hold a market services licence to act as a provider of prescribed intermediary services (for example, a person-to-person lending intermediary or a crowd funding intermediary if prescribed by regulations).
     
-    (2) _See_ [clause 6][1127] of Schedule 1 for exclusions for offers through licensed intermediaries and [subparts 4][528] and [5][536] of this Part for other provisions that may govern these services.
+    (2) _See_ [clause 6][1130] of Schedule 1 for exclusions for offers through licensed intermediaries and [subparts 4][528] and [5][536] of this Part for other provisions that may govern these services.
 
 ##### 391 Prohibitions on holding out
     
@@ -9448,7 +9456,7 @@ Licensing and other regulation of market services
     
     *   (d) there is no reason to believe that the applicant is likely to contravene the market services licensee obligations; and
     
-    *   (e) the applicant is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858] on and from commencing to provide that service; and
+    *   (e) the applicant is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860] on and from commencing to provide that service; and
     
     *   (f) in the case of an applicant for a licence to act as a manager of a registered scheme or to be a DIMS licensee, the applicant or any authorised body under [section 400][499] does not have in its constitution any provision under which directors of the applicant or authorised body (as the case may be) may, when exercising powers or performing duties as a director, act otherwise than in the best interests of the applicant or authorised body.
     
@@ -9516,7 +9524,7 @@ Licensing and other regulation of market services
     
     *   (c) there is no reason to believe that the related body corporate will not comply with the market services licensee obligations; and
     
-    *   (d) the related body corporate is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858] on and from commencing to provide that service; and
+    *   (d) the related body corporate is, or will be, registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860] on and from commencing to provide that service; and
     
     *   (e) the related body corporate meets the eligibility criteria and other requirements prescribed by the regulations for the purposes of this section (if any).
     
@@ -9870,7 +9878,7 @@ Licensing and other regulation of market services
 
 ##### 426 Disclosure statement
     
-*   (1) A disclosure statement may be combined with other disclosure statements under [section 423][530] (and may be combined with other disclosure statements under this Act, the [Financial Advisers Act 2008][841], or the [Reserve Bank of New Zealand Act 1989][1128]) except in the prescribed circumstances.
+*   (1) A disclosure statement may be combined with other disclosure statements under [section 423][530] (and may be combined with other disclosure statements under this Act, the [Financial Advisers Act 2008][843], or the [Reserve Bank of New Zealand Act 1989][1131]) except in the prescribed circumstances.
     
     (2) A disclosure statement must---
         
@@ -9904,7 +9912,7 @@ Licensing and other regulation of market services
     
     *   (b) the statement or omission is materially adverse from the point of view of the retail investor.
     
-    (2) For the purposes of this section, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it. 
+    (2) For the purposes of this section, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
     
     (3) Subsection (2) does not limit the meaning of a reference to a misleading statement.
     
@@ -10088,7 +10096,7 @@ Licensing and other regulation of market services
     
     (2) However, subsection (1) does not apply to a transaction or series of transactions if one of the following applies and the DIMS licensee certifies to that effect:
         
-    *   (a) the transaction or transactions are,--- 
+    *   (a) the transaction or transactions are,---
             
         *   (i) if the service is provided to a class of investors, in the best interests of the investors using the service; or
         
@@ -10122,7 +10130,7 @@ Licensing and other regulation of market services
     
     *   ###### Certain registered bank investments
     
-    *   (c) investments made in the ordinary course of business in products referred to in [clause 21(a) to (c)][1129] of Schedule 1:
+    *   (c) investments made in the ordinary course of business in products referred to in [clause 21(a) to (c)][1132] of Schedule 1:
     
     *   ###### Other prescribed benefits or transactions
     
@@ -10194,13 +10202,13 @@ Licensing and other regulation of market services
 
 ##### 446 Certain broker obligations of Financial Advisers Act 2008 may be enforced also under this Act
     
-*   (1) A DIMS licensee, and a custodian of investor money or investor property under the service, must provide the custodial and other broking services under the service to every investor in accordance with the conduct obligations in [sections 77P to 77T][1130] of the Financial Advisers Act 2008\.
+*   (1) A DIMS licensee, and a custodian of investor money or investor property under the service, must provide the custodial and other broking services under the service to every investor in accordance with the conduct obligations in [sections 77P to 77T][1133] of the Financial Advisers Act 2008\.
     
-    (2) Those provisions of the [Financial Advisers Act 2008][841] apply as if every reference to a client were to the investor and every reference to client money or client property were to investor money or investor property.
+    (2) Those provisions of the [Financial Advisers Act 2008][843] apply as if every reference to a client were to the investor and every reference to client money or client property were to investor money or investor property.
     
     (3) _See_ Part 8, which provides for enforcement of this obligation under this Act as a civil liability provision.
     
-    (4) This section does not limit the application of the [Financial Advisers Act 2008][841] to a DIMS licensee or a custodian as brokers under that Act (but [Part 8][600] prevents both a fine under the Financial Advisers Act 2008 and a pecuniary penalty under this Act being applied for the same conduct).
+    (4) This section does not limit the application of the [Financial Advisers Act 2008][843] to a DIMS licensee or a custodian as brokers under that Act (but [Part 8][600] prevents both a fine under the Financial Advisers Act 2008 and a pecuniary penalty under this Act being applied for the same conduct).
 
 ### Subpart 7---Holding and application of investor funds and property by derivatives issuers
 
@@ -10252,7 +10260,7 @@ Licensing and other regulation of market services
     
     *   (f) [section 445][557] (requirements for custodian):
     
-    *   (g) [section 446][558] (certain broker obligations of [Financial Advisers Act 2008][841] may be enforced also under this Act).
+    *   (g) [section 446][558] (certain broker obligations of [Financial Advisers Act 2008][843] may be enforced also under this Act).
     
     (4) A contravention of any of the following may give rise to civil liability (_see_ [subpart 3][635] of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case:
         
@@ -10287,11 +10295,11 @@ Licensing and other regulation of market services
 ## Part 7  
 Financial reporting
     
-*   Part 7: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Part 7: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 1---Overview, application, and interpretation
     
-*   Subpart 1 heading: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 1 heading: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 450 Overview
     
@@ -10301,9 +10309,9 @@ Financial reporting
     
     *   (b) prepare financial statements, to have those financial statements audited, and to lodge those financial statements.
     
-    (2) This section is only a guide to the general scheme and effect of this Part. 
+    (2) This section is only a guide to the general scheme and effect of this Part.
     
-    Section 450: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 450: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 451 Meaning of FMC reporting entity
     
@@ -10329,9 +10337,9 @@ Financial reporting
     
     *   (j) every building society:
     
-    *   (k) every person that is an FMC reporting entity under [clause 27A][1132] of Schedule 1\.
+    *   (k) every person that is an FMC reporting entity under [clause 27A][1135] of Schedule 1\.
     
-    Section 451: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 451: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 452 Company that issues equity securities not FMC reporting entity if fewer than 50 shareholders
     
@@ -10343,9 +10351,9 @@ Financial reporting
     
     (2) In this section, _shareholder_ means a shareholder holding a voting product.
     
-    Compare: 1993 No 106 [s 6(g)][1133]; 1993 No 107 [s 2A][1134]
+    Compare: 1993 No 106 [s 6(g)][1136]; 1993 No 107 [s 2A][1137]
     
-    Section 452: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 452: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 453 Recipients of money from conduit issuers
     
@@ -10373,23 +10381,23 @@ Financial reporting
     
     *   (e) all or part of the money that is provided under paragraph (c) has not yet been repaid or returned to the conduit issuer.
     
-    Compare: 1993 No 106 [s 4A][1135]
+    Compare: 1993 No 106 [s 4A][1138]
     
-    Section 453: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 453: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 454 Miscellaneous provisions relating to application
     
 *   (1) If a person ceases to be an FMC reporting entity during an accounting period, that person must be treated as continuing to be an FMC reporting entity in relation to that accounting period for the purposes of this Act and every other enactment.
     
-    (2) Nothing in this Part or [clause 20][1136] of Schedule 4 requires an FMC reporting entity to ensure the completion of financial statements or group financial statements and the lodgement of those financial statements in relation to an accounting period that ended before the accounting period in which that person became an FMC reporting entity.
+    (2) Nothing in this Part or [clause 20][1139] of Schedule 4 requires an FMC reporting entity to ensure the completion of financial statements or group financial statements and the lodgement of those financial statements in relation to an accounting period that ended before the accounting period in which that person became an FMC reporting entity.
     
-    Compare: 1993 No 106 [ss 5][1137], [21][1138]
+    Compare: 1993 No 106 [ss 5][1140], [21][1141]
     
-    Section 454: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 454: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 2---Accounting records
     
-*   Subpart 2 heading: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 2 heading: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 455 FMC reporting entities must keep proper accounting records
     
@@ -10407,9 +10415,9 @@ Financial reporting
     
     (3) In this subpart, _financial statements_ means the financial statements or group financial statements that are required to be prepared for the purposes of this Act or the regulations.
     
-    Compare: 1978 No 103 [s 53][1139]
+    Compare: 1978 No 103 [s 53][1142]
     
-    Section 455: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 455: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 456 Place where accounting records to be kept
     
@@ -10425,9 +10433,9 @@ Financial reporting
     
     *   (b) any other document annexed to any of those statements that gives information that is required by any enactment.
     
-    Compare: 1978 No 103 [s 53A][1140]
+    Compare: 1978 No 103 [s 53A][1143]
     
-    Section 456: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 456: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 457 Accounting records to be in English
     
@@ -10441,9 +10449,9 @@ Financial reporting
     
     (3) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 53B][1141]
+    Compare: 1978 No 103 [s 53B][1144]
     
-    Section 457: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 457: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 458 Period for which accounting records to be kept
     
@@ -10453,9 +10461,9 @@ Financial reporting
     
     *   (b) the date of completion of the transaction to which the records relate.
     
-    Compare: 1978 No 103 [s 53C][1142]
+    Compare: 1978 No 103 [s 53C][1145]
     
-    Section 458: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 458: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 459 Inspection of accounting records
     
@@ -10473,17 +10481,17 @@ Financial reporting
     
     (3) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1978 No 103 [s 53D][1143]
+    Compare: 1978 No 103 [s 53D][1146]
     
-    Section 459: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 459: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 3---Preparation, audit, and lodgement of financial statements
     
-*   Subpart 3 heading: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 3 heading: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Preparation of financial statements
     
-*   Heading: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Heading: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 460 Financial statements must be prepared
     
@@ -10495,9 +10503,9 @@ Financial reporting
     
     (2) Subsection (1) is subject to [sections 461(2)][581] and [461A(4)][582].
     
-    Compare: 1993 No 106 [ss 10(1)][1144], [11(1)][1145]
+    Compare: 1993 No 106 [ss 10(1)][1147], [11(1)][1148]
     
-    Section 460: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 460: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461 Group financial statements must be prepared
     
@@ -10513,9 +10521,9 @@ Financial reporting
     
     (4) This section is subject to [section 461A(4)][582].
     
-    Compare: 1993 No 106 [ss 7(8)][1146], [13(1)][1147]
+    Compare: 1993 No 106 [ss 7(8)][1149], [13(1)][1150]
     
-    Section 461: replaced, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461: replaced, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461A Financial statements for registered schemes and funds
     
@@ -10541,9 +10549,9 @@ Financial reporting
     
     *   (b) is not required to comply with [sections 460][580] and [461][581].
     
-    Compare: 1993 No 106 [s 9A(1), (2)][1148]
+    Compare: 1993 No 106 [s 9A(1), (2)][1151]
     
-    Section 461A: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461A: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461B Financial statements for overseas FMC reporting entity to include financial statements for New Zealand business
     
@@ -10553,9 +10561,9 @@ Financial reporting
     
     (3) In this section, _overseas company_ means a body corporate that is incorporated outside New Zealand.
     
-    Compare: 1993 No 106 [ss 8(2)][1149], [9(2)][1150]
+    Compare: 1993 No 106 [ss 8(2)][1152], [9(2)][1153]
     
-    Section 461B: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461B: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461C Failure to comply with authoritative notice does not give rise to pecuniary penalty
     
@@ -10565,19 +10573,19 @@ Financial reporting
     
     (3) In this section, _authoritative notice_ has the same meaning as in [section 5(1)][787] of the Financial Reporting Act 2013\.
     
-    Section 461C: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461C: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Audit of financial statements
     
-*   Heading: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Heading: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461D Financial statements must be audited
     
 *   Every FMC reporting entity must ensure that the financial statements or group financial statements that are required to be prepared under this subpart are audited by a qualified auditor.
     
-    Compare: 1978 No 103 [s 53E][1151]
+    Compare: 1978 No 103 [s 53E][1154]
     
-    Section 461D: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461D: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461E Meaning of qualified auditor
     
@@ -10587,9 +10595,9 @@ Financial reporting
     
     *   (b) a registered audit firm; or
     
-    *   (c) in the case of an FMC reporting entity that is a public entity under the [Public Audit Act 2001][1152], the Auditor-General or any other person who may act as the auditor under that Act.
+    *   (c) in the case of an FMC reporting entity that is a public entity under the [Public Audit Act 2001][1155], the Auditor-General or any other person who may act as the auditor under that Act.
     
-    (2) In this section, _licensed auditor_ and _registered audit firm_ have the same meanings as in [section 6(1)][1153] of the Auditor Regulation Act 2011\.
+    (2) In this section, _licensed auditor_ and _registered audit firm_ have the same meanings as in [section 6(1)][1156] of the Auditor Regulation Act 2011\.
     
     (3) The appointment of a registered audit firm by the firm name to be the qualified auditor for the purposes of this Act is deemed to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
     
@@ -10603,15 +10611,15 @@ Financial reporting
     
     (5) A person is not qualified for appointment as the qualified auditor of an FMC reporting entity if the person is, by virtue of subsection (4), disqualified for appointment as auditor of a related body corporate.
     
-    Compare: 1978 No 103 [s 2C][1154]
+    Compare: 1978 No 103 [s 2C][1157]
     
-    Section 461E: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461E: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461F Audit must be carried out in accordance with auditing and assurance standards
     
 *   An auditor must, in carrying out an audit for the purposes of [section 461D][586], comply with all applicable auditing and assurance standards.
     
-    Section 461F: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461F: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461G Auditor's report
     
@@ -10625,13 +10633,13 @@ Financial reporting
     
     *   (c) in the case of an issuer of debt securities or a manager of a registered scheme, the supervisor.
     
-    Compare: 1993 No 106 [s 16(1), (2)][1155]
+    Compare: 1993 No 106 [s 16(1), (2)][1158]
     
-    Section 461G: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461G: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Lodgement of financial statements
     
-*   Heading: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Heading: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461H Lodgement of financial statements
     
@@ -10641,13 +10649,13 @@ Financial reporting
     
     (3) The offence in this section is an infringement offence (_see_ [subpart 5][676] of Part 8).
     
-    Compare: 1993 No 106 [s 18(1)--(2)][1156]
+    Compare: 1993 No 106 [s 18(1)--(2)][1159]
     
-    Section 461H: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461H: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Offences
     
-*   Heading: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Heading: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461I Offence to knowingly fail to comply with financial reporting standards
     
@@ -10673,21 +10681,21 @@ Financial reporting
     
     *   (b) in any other case, to a fine not exceeding $2.5 million.
     
-    Section 461I: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461I: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### FMC reporting entities with higher level of public accountability
     
-*   Heading: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Heading: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461J External Reporting Board must have regard to indication of level of public accountability
     
-*   (1) Subsection (2) applies when the External Reporting Board is preparing a proposal to vary or replace the strategy for establishing different tiers of financial reporting (_see_ [sections 29 to 33][1157] of the Financial Reporting Act 2013).
+*   (1) Subsection (2) applies when the External Reporting Board is preparing a proposal to vary or replace the strategy for establishing different tiers of financial reporting (_see_ [sections 29 to 33][1160] of the Financial Reporting Act 2013).
     
     (2) The External Reporting Board must have regard to which FMC reporting entities are considered to have a higher level of public accountability under [section 461K][596].
     
     (3) Nothing in this section or [section 461K][596] requires any particular class of FMC reporting entity to be included within a particular tier of financial reporting (for example, some entities referred to in section 461K(1) could be included in one tier while other entities referred to in that subsection could be included in another tier).
     
-    Section 461J: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461J: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461K FMA reporting entities considered to have higher level of public accountability
     
@@ -10713,7 +10721,7 @@ Financial reporting
     
     (3) Subsection (1)(b) does not limit subsection (1)(h).
     
-    Section 461K: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461K: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461L FMA may issue notice relating to level of public accountability
     
@@ -10727,11 +10735,11 @@ Financial reporting
     
     (3) [Subpart 5][747] of Part 9 (general provisions relating to certain FMA instruments) applies to a notice under this section.
     
-    Section 461L: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461L: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 4---Civil liability for certain contraventions of this Part
     
-*   Subpart 4: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 4: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 461M Part 7 financial reporting provisions
     
@@ -10751,7 +10759,7 @@ Financial reporting
     
     (4) A contravention of [section 456][574] or [458][576] (place where, and period for which, accounting records to be kept) may give rise to civil liability (_see_ [subpart 3][635] of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case.
     
-    Section 461M: inserted, on 1 April 2014, by [section 48][1131] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 461M: inserted, on 1 April 2014, by [section 48][1134] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 8  
 Enforcement, liability, and appeals
@@ -10774,7 +10782,7 @@ Enforcement, liability, and appeals
         
         
     
-    *   (b) any provision of [Part 3][1158], [clause 13][879], [17][880], [26][800], [27][852], or [28][881] of Schedule 1, or [clause 25][1159] of Schedule 4 has been, or is likely to be, contravened in respect of an offer of financial products; or
+    *   (b) any provision of [Part 3][1161], [clause 13][882], [17][883], [26][800], [27][854], or [28][884] of Schedule 1, or [clause 25][1162] of Schedule 4 has been, or is likely to be, contravened in respect of an offer of financial products; or
     
     *   (c) [section 103][137] (need for governing document and supervisor) has been, or is likely to be, contravened in respect of debt securities; or
     
@@ -10812,7 +10820,7 @@ Enforcement, liability, and appeals
     
     *   (b) whether or not there is an imminent danger of substantial damage to any person if the provision is contravened.
     
-    Section 462(1)(ga): inserted, on 1 April 2014, by [section 49][1160] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 462(1)(ga): inserted, on 1 April 2014, by [section 49][1163] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 463 Terms of stop order
     
@@ -10886,7 +10894,7 @@ Enforcement, liability, and appeals
     
     *   (b) must, after acting under subsection (1) or (2)(b), give that issuer, offeror, or service provider or that person's representative an opportunity to make written submissions and to be heard on the matter.
     
-    Compare: 1978 No 103 [s 43K][1161]
+    Compare: 1978 No 103 [s 43K][1164]
 
 ##### 466 Persons to whom stop orders and interim stop orders may apply
     
@@ -10908,7 +10916,7 @@ Enforcement, liability, and appeals
     
 *   (1) The FMA may make a stop order or an interim stop order in respect of a restricted communication that is distributed or to be distributed to a person outside New Zealand by a person resident, incorporated, registered, or carrying on business in New Zealand.
     
-    (2) In this section, _registered_ means registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858].
+    (2) In this section, _registered_ means registered under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860].
 
 #### Direction orders
 
@@ -10932,7 +10940,7 @@ Enforcement, liability, and appeals
     
     *   (h) an obligation under [Schedule 3][783] or under a trust deed for a Schedule 3 scheme:
     
-    *   (i) [clause 21][1162], [22(1)(b) or (c)][908], [25][1159], or [39][1163] of Schedule 4 (transitional requirements):
+    *   (i) [clause 21][1165], [22(1)(b) or (c)][911], [25][1162], or [39][1166] of Schedule 4 (transitional requirements):
     
     *   (j) a term or condition of an exemption granted under [subpart 2][729] of Part 9\.
     
@@ -10980,7 +10988,7 @@ Enforcement, liability, and appeals
     
     (2) In this section, _simplified disclosure PDS_ means a PDS of a class that is declared by the regulations as being a class of simplified disclosure PDSs.
     
-    (3) Subsection (1) does not limit any other power of the FMA by or under this Act. 
+    (3) Subsection (1) does not limit any other power of the FMA by or under this Act.
 
 #### Order to prohibit offer under recognition regime
 
@@ -11010,7 +11018,7 @@ Enforcement, liability, and appeals
     
     *   (b) whether or not there is an imminent danger of substantial damage to any person if the provision is contravened.
     
-    Compare: 1988 No 234 [s 42EA][1164]
+    Compare: 1988 No 234 [s 42EA][1167]
 
 ##### 473 Terms of unsolicited offer orders
     
@@ -11028,13 +11036,13 @@ Enforcement, liability, and appeals
     
     (2) An unsolicited offer order may be directed at any person.
     
-    Compare: 1988 No 234 [s 42EB][1165]
+    Compare: 1988 No 234 [s 42EB][1168]
 
 #### Orders that exclusion does not apply
 
 ##### 474 FMA may order that exclusion for offers of products of same class as quoted products does not apply
     
-*   (1) The FMA may make an order that [clause 19][1166] of Schedule 1 does not apply in respect of an issuer if the FMA is satisfied that the issuer has failed to comply with any of the following at any time during the previous 12 months before the order is made:
+*   (1) The FMA may make an order that [clause 19][1169] of Schedule 1 does not apply in respect of an issuer if the FMA is satisfied that the issuer has failed to comply with any of the following at any time during the previous 12 months before the order is made:
         
     *   (a) a continuous disclosure obligation:
     
@@ -11070,7 +11078,7 @@ Enforcement, liability, and appeals
     
     *   (b) in the case of a stop order under [section 463(c)][604], the FMA does not have to give the notice referred to in subsection (1)(a) to any associated persons of the issuer, offeror, or service provider.
     
-    Compare: 1988 No 234 [s 42F][1167]
+    Compare: 1988 No 234 [s 42F][1170]
 
 ##### 476 FMA may shorten steps for specified orders
     
@@ -11080,7 +11088,7 @@ Enforcement, liability, and appeals
     
     *   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
     
-    Compare: 1988 No 234 [s 42G][1168]
+    Compare: 1988 No 234 [s 42G][1171]
 
 ##### 477 FMA must give notice after making orders
     
@@ -11096,7 +11104,7 @@ Enforcement, liability, and appeals
         
         
     
-    *   (b) must also give the written notice referred to in paragraph (a) to the Registrar and make the notice available on its Internet site, in the case of a stop order, an interim stop order, or an order under section 470; and
+    *   (b) must also give the written notice referred to in paragraph (a) to the Registrar and make the notice available on its Internet site, in the case of a stop order, an interim stop order, or an order under [section 470][613]; and
     
     *   (c) in the case of an order other than a stop order or an interim stop order, may also give the written notice referred to in paragraph (a) to the Registrar and make the notice available on its Internet site; and
     
@@ -11106,7 +11114,7 @@ Enforcement, liability, and appeals
     
     (2) In the case of a stop order of the kind referred to in [section 463(c)][604], the FMA does not have to give the notice referred to in subsection (1)(a) to any associated persons of the issuer, offeror, or service provider (but the issuer, offeror, or service provider may be required to do so).
     
-    Compare: 1988 No 234 [s 42H][1169]
+    Compare: 1988 No 234 [s 42H][1172]
 
 #### General provisions
 
@@ -11118,7 +11126,7 @@ Enforcement, liability, and appeals
     
     (3) The FMA may revoke an order or suspend an order on the terms and conditions it thinks fit.
     
-    Compare: 1988 No 234 [s 42I][1170]
+    Compare: 1988 No 234 [s 42I][1173]
 
 ##### 479 Consequences of failing to comply with FMA's orders
     
@@ -11126,7 +11134,7 @@ Enforcement, liability, and appeals
     
     (2) A person who refuses or fails, without reasonable excuse, to comply with an order made by the FMA under this Act commits an offence and is liable on conviction to a fine not exceeding $300,000\.
     
-    Compare: 1988 No 234 [s 42J][1171]
+    Compare: 1988 No 234 [s 42J][1174]
 
 ### Subpart 2---High Court's enforcement powers
 
@@ -11136,7 +11144,7 @@ Enforcement, liability, and appeals
     
 *   The court may, on application by the FMA or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention, or involvement in a contravention, of a provision of this Act or the regulations.
     
-    Compare: 1988 No 234 [s 42K][1172]
+    Compare: 1988 No 234 [s 42K][1175]
 
 ##### 481 When court may grant injunctions and interim injunctions
     
@@ -11152,7 +11160,7 @@ Enforcement, liability, and appeals
     
     (4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
     
-    Compare: 1988 No 234 [s 42L][1173]
+    Compare: 1988 No 234 [s 42L][1176]
 
 ##### 482 Undertaking as to damages not required by FMA
     
@@ -11160,7 +11168,7 @@ Enforcement, liability, and appeals
     
     (2) In determining the FMA's application for the grant of an interim injunction, the court must not take into account that the FMA is not required to give an undertaking as to damages.
     
-    Compare: 1988 No 234 [s 42M][1174]
+    Compare: 1988 No 234 [s 42M][1177]
 
 #### Court may make FMA orders under this Part
 
@@ -11186,7 +11194,7 @@ Enforcement, liability, and appeals
     
     (2) This section is a guide only to the general scheme and effect of this subpart.
     
-    Compare: 1988 No 234 [s 42R][1175]
+    Compare: 1988 No 234 [s 42R][1178]
 
 ##### 485 What are civil liability provisions
     
@@ -11208,9 +11216,9 @@ Enforcement, liability, and appeals
     
     *   (h) [section 479(1)][627] (failing to comply with FMA's orders):
     
-    *   (i) [clause 21][1162], [22(1)(b) or (c)][908], [25][1159], or [39][1163] of Schedule 4 (transitional requirements).
+    *   (i) [clause 21][1165], [22(1)(b) or (c)][911], [25][1162], or [39][1166] of Schedule 4 (transitional requirements).
     
-    Compare: 1988 No 234 [s 42S][1176]
+    Compare: 1988 No 234 [s 42S][1179]
 
 #### Declarations of contravention and pecuniary penalty orders
 
@@ -11230,7 +11238,7 @@ Enforcement, liability, and appeals
     
     (2) Accordingly, a declaration of contravention is conclusive evidence of the matters that must be stated in it under [section 488][642].
     
-    Compare: 1988 No 234 [s 42U][1177]
+    Compare: 1988 No 234 [s 42U][1180]
 
 ##### 488 What declarations of contravention must state
     
@@ -11244,7 +11252,7 @@ Enforcement, liability, and appeals
     
     *   (d) the issuer, offeror, or service provider to which the conduct relates (if relevant).
     
-    Compare: 1988 No 234 [s 42V][1178]
+    Compare: 1988 No 234 [s 42V][1181]
 
 ##### 489 When court may make pecuniary penalty orders
     
@@ -11266,9 +11274,9 @@ Enforcement, liability, and appeals
     
     (4) The court may make a pecuniary penalty order against a director who is treated as contravening a civil liability provision under [section 534][704] (but only if the FMA has applied for the order against the director).
     
-    Compare: 1988 No 234 [s 42T][1179]
+    Compare: 1988 No 234 [s 42T][1182]
     
-    Section 489(3): replaced, on 1 April 2014, by [section 50][1180] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 489(3): replaced, on 1 April 2014, by [section 50][1183] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 490 Maximum amount of pecuniary penalty
     
@@ -11296,7 +11304,7 @@ Enforcement, liability, and appeals
     
     *   (g) an unsolicited offer provision:
     
-    *   (h) [clause 21][1162], [22(1)(b) or (c)][908], or [25][1159] of Schedule 4 (transitional requirements).
+    *   (h) [clause 21][1165], [22(1)(b) or (c)][911], or [25][1162] of Schedule 4 (transitional requirements).
     
     (3) The maximum amount of a pecuniary penalty for a contravention, or involvement in a contravention, of any other civil liability provision is---
         
@@ -11304,9 +11312,9 @@ Enforcement, liability, and appeals
     
     *   (b) $600,000 in any other case.
     
-    Compare: 1988 No 234 [s 42W][1181]
+    Compare: 1988 No 234 [s 42W][1184]
     
-    Section 490(2)(f): amended, on 1 April 2014, by [section 51][1182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 490(2)(f): amended, on 1 April 2014, by [section 51][1185] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 491 Guidance for court on how to determine gains made or losses avoided for purposes of maximum amount
     
@@ -11330,7 +11338,7 @@ Enforcement, liability, and appeals
     
     *   (b) prevent the court from finding that the amount of the gain made, or the loss avoided, by a person exceeds an amount calculated under this section.
     
-    Compare: 1988 No 234 [s 42X][1183]
+    Compare: 1988 No 234 [s 42X][1186]
 
 ##### 492 Considerations for court in determining pecuniary penalty
     
@@ -11352,13 +11360,13 @@ Enforcement, liability, and appeals
     
     *   (h) the relationship of the parties to the transaction constituting the contravention.
     
-    Compare: 1988 No 234 [s 42Y][1184]
+    Compare: 1988 No 234 [s 42Y][1187]
 
 ##### 493 Court must order that recovery from pecuniary penalty be applied to FMA's actual costs
     
 *   If the court orders that a person pay a pecuniary penalty, the court must also order that the penalty must be applied first to pay the FMA's actual costs in bringing the proceedings.
     
-    Compare: 1988 No 234 [s 42Z][1185]
+    Compare: 1988 No 234 [s 42Z][1188]
 
 #### Compensatory orders
 
@@ -11372,7 +11380,7 @@ Enforcement, liability, and appeals
     
     (2) The court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
     
-    Compare: 1988 No 234 [s 42ZA][1186]
+    Compare: 1988 No 234 [s 42ZA][1189]
 
 ##### 495 Terms of compensatory orders
     
@@ -11388,7 +11396,7 @@ Enforcement, liability, and appeals
     
     *   (b) any person involved in the contravention.
     
-    Compare: 1988 No 234 [s 42ZB][1187]
+    Compare: 1988 No 234 [s 42ZB][1190]
 
 ##### 496 Person treated as suffering loss or damage in case of defective disclosure
     
@@ -11402,7 +11410,7 @@ Enforcement, liability, and appeals
         
         *   (ii) acquires financial products, or makes further contributions, investments, or deposits in respect of financial products, after the issuer of the financial products contravenes [section 99][129]; or
         
-        *   (iii) acquires financial products under an offer where a person contravenes [clause 27][852] of Schedule 1 in relation to that offer; and
+        *   (iii) acquires financial products under an offer where a person contravenes [clause 27][854] of Schedule 1 in relation to that offer; and
         
         
     
@@ -11412,9 +11420,9 @@ Enforcement, liability, and appeals
     
     (4) In this section, the _relevant statement, omission, or circumstance_ is, as the case may be,---
         
-    *   (a) the statement that is false or misleading or is likely to be misleading referred to in [section 82(1)(a)(i)][103] or [99(1)(a)(i)][129] or [clause 27(1)(a)(i)][852] of Schedule 1; or
+    *   (a) the statement that is false or misleading or is likely to be misleading referred to in [section 82(1)(a)(i)][103] or [99(1)(a)(i)][129] or [clause 27(1)(a)(i)][854] of Schedule 1; or
     
-    *   (b) the omission referred to in [section 82(1)(a)(ii)][103] or [99(1)(a)(ii)][129] or [clause 27(1)(a)(ii)][852] of Schedule 1; or
+    *   (b) the omission referred to in [section 82(1)(a)(ii)][103] or [99(1)(a)(ii)][129] or [clause 27(1)(a)(ii)][854] of Schedule 1; or
     
     *   (c) the circumstance referred to in [section 82(1)(a)(iii)][103].
     
@@ -11426,7 +11434,7 @@ Enforcement, liability, and appeals
     
 *   The court may, on application by the FMA or any other person, make a civil liability order described in [section 498][654] if the court is satisfied that a person has contravened, intends to contravene, or was involved in a contravention of a civil liability provision.
     
-    Compare: 1988 No 234 [s 42ZE][1188]
+    Compare: 1988 No 234 [s 42ZE][1191]
 
 ##### 498 Terms of other civil liability orders
     
@@ -11456,7 +11464,7 @@ Enforcement, liability, and appeals
     
     *   (h) cancel an agreement for the acquisition or disposal of financial products or relevant interests.
     
-    Compare: 1988 No 234 [s 42ZF][1189]
+    Compare: 1988 No 234 [s 42ZF][1192]
 
 #### Defences for person in contravention of civil liability provisions
 
@@ -11476,19 +11484,19 @@ Enforcement, liability, and appeals
     
     (2) For the purposes of subsection (1)(a) and (b), _another person_ does not include a director, an employee, or an agent of A.
     
-    (3) Subsection (1)(b) does not apply to a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][852] of Schedule 1 (but _see_ the defences in sections 500 and 501).
+    (3) Subsection (1)(b) does not apply to a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][854] of Schedule 1 (but _see_ the defences in sections 500 and 501).
     
-    Compare: 1986 No 121 [s 44(1) and (2)][854]
+    Compare: 1986 No 121 [s 44(1) and (2)][856]
 
 ##### 500 Disclosure defences for person in contravention
     
-*   (1) In any proceeding under this subpart against a person (_A_) for a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][852] of Schedule 1 because of a statement that is false or misleading or that is likely to mislead, it is a defence if A proves that A---
+*   (1) In any proceeding under this subpart against a person (_A_) for a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][854] of Schedule 1 because of a statement that is false or misleading or that is likely to mislead, it is a defence if A proves that A---
         
     *   (a) made all inquiries (if any) that were reasonable in the circumstances; and
     
     *   (b) after doing so, believed on reasonable grounds that the statement was not false or misleading.
     
-    (2) In any proceeding under this subpart against a person (_A_) for a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][852] of Schedule 1 because of an omission from a disclosure document or register entry in relation to a particular matter, it is a defence if A proves that A---
+    (2) In any proceeding under this subpart against a person (_A_) for a contravention of [section 82][103], [99][129], or [427][534] or [clause 27][854] of Schedule 1 because of an omission from a disclosure document or register entry in relation to a particular matter, it is a defence if A proves that A---
         
     *   (a) made all inquiries (if any) that were reasonable in the circumstances; and
     
@@ -11502,7 +11510,7 @@ Enforcement, liability, and appeals
     
 *   (1) This section applies if---
         
-    *   (a) a person (_A_) contravenes any of [sections 82][103], [99][129], [427][534], [460 to 461B][580], [461D][586], and [461H][591] or [clause 27][852] of Schedule 1; and
+    *   (a) a person (_A_) contravenes any of [sections 82][103], [99][129], [427][534], [460 to 461B][580], [461D][586], and [461H][591] or [clause 27][854] of Schedule 1; and
     
     *   (b) a person (_B_) is a director of A who is treated as being in contravention under [section 534][704].
     
@@ -11510,9 +11518,9 @@ Enforcement, liability, and appeals
     
     (3) Subsection (2) does not limit any defence that B may have under [section 499(1)(a)][656] or [500][657] (as a person who is treated as contravening a provision referred to in subsection (1)(a)).
     
-    Section 501 heading: amended, on 1 April 2014, by [section 52(1)][1190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 501 heading: amended, on 1 April 2014, by [section 52(1)][1193] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 501(1)(a): amended, on 1 April 2014, by [section 52(2)][1190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 501(1)(a): amended, on 1 April 2014, by [section 52(2)][1193] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 502 Conduct still contravenes even if defence is available
     
@@ -11536,7 +11544,7 @@ Enforcement, liability, and appeals
     
     (3) For the purposes of subsection (2)(a), _another person_ does not include a director, an employee, or an agent of B.
     
-    (4) To avoid doubt, this section applies to an involvement in the contravention of any civil liability provision, including [sections 82][103], [99][129], and [427][534] and [clause 27][852] of Schedule 1\.
+    (4) To avoid doubt, this section applies to an involvement in the contravention of any civil liability provision, including [sections 82][103], [99][129], and [427][534] and [clause 27][854] of Schedule 1\.
 
 #### Miscellaneous provisions relating to defences
 
@@ -11544,7 +11552,7 @@ Enforcement, liability, and appeals
     
 *   A person (_A_) is not, without the leave of the court, entitled to rely on the defence provided by [section 499(1)(a)][656] or [503(2)(a)][661] that the contravention or involvement in the contravention was due to reasonable reliance on information supplied by another person, or provided by [section 499(1)(b)][656] that the contravention was due to the act or default of another person, unless A has, not later than 7 days before the date on which the hearing of the proceeding commences, served on the other party to the proceeding a written notice identifying that person.
     
-    Compare: 1986 No 121 [s 44(3)][854]
+    Compare: 1986 No 121 [s 44(3)][856]
 
 #### Interrelationship of civil liability orders
 
@@ -11558,41 +11566,41 @@ Enforcement, liability, and appeals
     
     The court may make a civil liability order requiring forfeiture of financial products and declaring a previous exercise of voting rights attaching to those products to be void.
     
-    Compare: 1988 No 234 [s 42ZG][1191]
+    Compare: 1988 No 234 [s 42ZG][1194]
 
 ##### 506 Only 1 pecuniary penalty order may be made for same conduct
     
 *   If conduct by a person constitutes a contravention, or the involvement in the contravention, of 2 or more civil liability provisions, proceedings may be brought against that person for the contravention, or involvement in the contravention, of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
     
-    Compare: 1988 No 234 [s 42ZH][1192]
+    Compare: 1988 No 234 [s 42ZH][1195]
 
 ##### 507 No pecuniary penalty and fine for same conduct
     
-*   A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act, the Fair Trading Act 1986, or the [Financial Advisers Act 2008][841] for the same conduct.
+*   A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act, the Fair Trading Act 1986, or the [Financial Advisers Act 2008][843] for the same conduct.
     
-    Compare: 1978 No 103 [s 65F][1193]; 1988 No 234 [s 43ZC][1194]
+    Compare: 1978 No 103 [s 65F][1196]; 1988 No 234 [s 43ZC][1197]
 
 #### Limitation defences
 
 ##### 508 Limitation defences
     
-*   (1) The [Limitation Act 2010][1195] prescribes a defence to a money claim that is a claim for monetary relief under this subpart (for example, a pecuniary penalty order or a compensatory order).
+*   (1) The [Limitation Act 2010][1198] prescribes a defence to a money claim that is a claim for monetary relief under this subpart (for example, a pecuniary penalty order or a compensatory order).
     
     (2) Subsections (3) to (5) apply to a claim for relief (other than any form of monetary relief or declaratory relief) under this subpart.
     
     (3) It is a defence to the claim if the defendant proves that the date on which the claim is filed is at least 6 years after the date of the act or omission on which the claim is based.
     
-    (4) The claim has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][1196] and [14][1197] of the Limitation Act 2010 apply to it---
+    (4) The claim has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][1199] and [14][1200] of the Limitation Act 2010 apply to it---
         
     *   (a) as if it were a money claim; and
     
     *   (b) as if the period in subsection (3) were its primary period.
     
-    (5) Every defence prescribed by this section is subject to the exceptions and modifications set out in the [Limitation Act 2010][1195] as if prescribed by that Act.
+    (5) Every defence prescribed by this section is subject to the exceptions and modifications set out in the [Limitation Act 2010][1198] as if prescribed by that Act.
     
-    (6) Any term or expression that is defined in the Limitation Act 2010 and used in this section has the same meaning as in the [Limitation Act 2010][1195].
+    (6) Any term or expression that is defined in the Limitation Act 2010 and used in this section has the same meaning as in the [Limitation Act 2010][1198].
     
-    Compare: 2010 No 110 [s 37][1198]
+    Compare: 2010 No 110 [s 37][1201]
 
 #### General
 
@@ -11600,7 +11608,7 @@ Enforcement, liability, and appeals
     
 *   The proceedings under this subpart are civil proceedings and the usual rules of court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
     
-    Compare: 1988 No 234 [s 42ZI][1199]
+    Compare: 1988 No 234 [s 42ZI][1202]
 
 ### Subpart 4---Offences relating to defective disclosure and false statements
 
@@ -11614,17 +11622,17 @@ Enforcement, liability, and appeals
     
     *   (c) knows of, or is reckless as to whether there is, a circumstance of a kind referred to in [section 82(1)(a)(iii)][103].
     
-    (2) If an offeror contravenes [section 82][1200], a director of the offeror commits an offence if---
+    (2) If an offeror contravenes [section 82][1203], a director of the offeror commits an offence if---
         
     *   (a) the offer, or the continuing of the offer, of the financial products under the regulated offer takes place with the director's authority, permission, or consent; and
     
     *   (b) the director---
             
-        *   (i) knows that, or is reckless as to whether, the statement referred to in [section 82(1)(a)(i)][1200] is false or misleading or is likely to mislead; or
+        *   (i) knows that, or is reckless as to whether, the statement referred to in [section 82(1)(a)(i)][1203] is false or misleading or is likely to mislead; or
         
-        *   (ii) knows that, or is reckless as to whether, there is an omission as referred to in [section 82(1)(a)(ii)][1200]; or
+        *   (ii) knows that, or is reckless as to whether, there is an omission as referred to in [section 82(1)(a)(ii)][1203]; or
         
-        *   (iii) knows of, or is reckless as to whether there is, a circumstance of a kind referred to in [section 82(1)(a)(iii)][1200].
+        *   (iii) knows of, or is reckless as to whether there is, a circumstance of a kind referred to in [section 82(1)(a)(iii)][1203].
         
         
     
@@ -11638,21 +11646,21 @@ Enforcement, liability, and appeals
 
 ##### 511 Offence of knowingly or recklessly contravening other provisions relating to defective disclosure
     
-*   (1) A person who contravenes [section 99][129] or [427][534] or [clause 27][852] of Schedule 1 commits an offence if the person---
+*   (1) A person who contravenes [section 99][129] or [427][534] or [clause 27][854] of Schedule 1 commits an offence if the person---
         
-    *   (a) knows that, or is reckless as to whether, the statement referred to in [section 99(1)(a)(i)][129] or [427(1)(a)(i)][534] or [clause 27(1)(a)(i)][852] of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
+    *   (a) knows that, or is reckless as to whether, the statement referred to in [section 99(1)(a)(i)][129] or [427(1)(a)(i)][534] or [clause 27(1)(a)(i)][854] of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
     
-    *   (b) knows that, or is reckless as to whether, there is an omission as referred to in [section 99(1)(a)(ii)][129] or [427(1)(a)(ii)][534] or [clause 27(1)(a)(ii)][852] of Schedule 1 (as the case may be).
+    *   (b) knows that, or is reckless as to whether, there is an omission as referred to in [section 99(1)(a)(ii)][129] or [427(1)(a)(ii)][534] or [clause 27(1)(a)(ii)][854] of Schedule 1 (as the case may be).
     
-    (2) If an entity contravenes [section 99][129] or [427][534] or [clause 27][852] of Schedule 1, a director of the entity commits an offence if---
+    (2) If an entity contravenes [section 99][129] or [427][534] or [clause 27][854] of Schedule 1, a director of the entity commits an offence if---
         
     *   (a) the relevant act takes place with the director's authority, permission, or consent; and
     
     *   (b) the director---
             
-        *   (i) knows that, or is reckless as to whether, the statement referred to in [section 99(1)(a)(i)][129] or [427(1)(a)(i)][534] or [clause 27(1)(a)(i)][852] of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
+        *   (i) knows that, or is reckless as to whether, the statement referred to in [section 99(1)(a)(i)][129] or [427(1)(a)(i)][534] or [clause 27(1)(a)(i)][854] of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
         
-        *   (ii) knows that, or is reckless as to whether, there is an omission as referred to in [section 99(1)(a)(ii)][129] or [427(1)(a)(ii)][534] or [clause 27(1)(a)(ii)][852] of Schedule 1 (as the case may be).
+        *   (ii) knows that, or is reckless as to whether, there is an omission as referred to in [section 99(1)(a)(ii)][129] or [427(1)(a)(ii)][534] or [clause 27(1)(a)(ii)][854] of Schedule 1 (as the case may be).
         
         
     
@@ -11668,7 +11676,7 @@ Enforcement, liability, and appeals
     
     *   (b) in relation to [section 427][534], the act of providing the disclosure statement to a person or supplying the service to a person who was required to be provided, or has been provided, with the disclosure statement:
     
-    *   (c) in relation to [clause 27][852] of Schedule 1, the act of providing the disclosure document to a person.
+    *   (c) in relation to [clause 27][854] of Schedule 1, the act of providing the disclosure document to a person.
     
     
 
@@ -11678,7 +11686,7 @@ Enforcement, liability, and appeals
     
     (2) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, a fine not exceeding $200,000, or both.
     
-    Compare: 1993 No 105 [s 377(1)][1201]
+    Compare: 1993 No 105 [s 377(1)][1204]
 
 ### Subpart 5---Infringement offences
 
@@ -11686,17 +11694,17 @@ Enforcement, liability, and appeals
     
 *   (1) If a person is alleged to have committed an infringement offence, that person may---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][1202] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][1205] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 514][678].
     
-    (2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under [section 21(1)(a)][1203] of the Summary Proceedings Act 1957\.
+    (2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under [section 21(1)(a)][1206] of the Summary Proceedings Act 1957\.
 
 ##### 514 Infringement notices
     
 *   (1) The FMA may issue an infringement notice to a person if the FMA believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
     
-    (2) The FMA may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][1203] of the Summary Proceedings Act 1957\.
+    (2) The FMA may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][1206] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
 
@@ -11720,7 +11728,7 @@ Enforcement, liability, and appeals
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][1203] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][1206] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -11728,11 +11736,11 @@ Enforcement, liability, and appeals
     
     *   (h) any other prescribed matters.
     
-    (4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][1203] of the Summary Proceedings Act 1957 and, in that case,---
+    (4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][1206] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed; and
     
-    *   (b) in all other respects, [section 21][1203] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][1206] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
     (5) Reminder notices must contain the prescribed information.
 
@@ -11750,23 +11758,23 @@ Enforcement, liability, and appeals
     
     *   (b) A has been convicted of an offence under any Act referred to in [Part 1][804] of Schedule 1 of the Financial Markets Authority Act 2011; or
     
-    *   (c) A has been convicted of an offence under any Act referred to in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 (where A is, or has been, a financial markets participant); or
+    *   (c) A has been convicted of an offence under any Act referred to in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 (where A is, or has been, a financial markets participant); or
     
     *   (d) A has, while a director of an entity,---
             
         *   (i) persistently contravened, or been involved in the contravention of, any Act specified in [Part 1][804] of Schedule 1 of the Financial Markets Authority Act 2011; or
         
-        *   (ii) persistently contravened, or been involved in the contravention of, any Act specified in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 (where A is, or has been, a financial markets participant); or
+        *   (ii) persistently contravened, or been involved in the contravention of, any Act specified in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 (where A is, or has been, a financial markets participant); or
         
         *   (iii) if the entity has persistently contravened any of the Acts referred to in subparagraph (i) or (ii), persistently failed to take all reasonable steps to obtain compliance with those Acts; or
         
         
     
-    *   (e) A has been convicted of a crime involving dishonesty as defined in [section 2(1)][1205] of the Crimes Act 1961 (where A is, or has been, a financial markets participant); or
+    *   (e) A has been convicted of a crime involving dishonesty as defined in [section 2(1)][1208] of the Crimes Act 1961 (where A is, or has been, a financial markets participant); or
     
     *   (f) A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in [section 518][683] in connection with a contravention of any law relating to the offering or trading of financial products or the supply of financial services.
     
-    (2) Subsection (1)(d)(iii) applies in respect of the Acts specified in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 only if the entity is, or has been, a financial markets participant.
+    (2) Subsection (1)(d)(iii) applies in respect of the Acts specified in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 only if the entity is, or has been, a financial markets participant.
     
     (3) An _entitled person_ is---
         
@@ -11804,7 +11812,7 @@ Enforcement, liability, and appeals
         
         
     
-    Compare: 1978 No 103 [s 60A][1206]; 1988 No 234 [s 43F][1207]
+    Compare: 1978 No 103 [s 60A][1209]; 1988 No 234 [s 43F][1210]
 
 ##### 518 Terms of banning orders
     
@@ -11816,19 +11824,19 @@ Enforcement, liability, and appeals
     
     (2) The court may make a banning order permanent or for a period longer than 10 years only in the most serious of cases for which a banning order may be made.
     
-    Compare: 1978 No 103 [s 60B][1208]; 1988 No 234 [s 43G][1209]
+    Compare: 1978 No 103 [s 60B][1211]; 1988 No 234 [s 43G][1212]
 
 ##### 519 Offence of contravening banning order
     
 *   An individual who contravenes a banning order under this subpart commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years, a fine not exceeding $200,000, or both.
     
-    Compare: 1978 No 103 [s 60C][1210]; 1988 No 234 [s 43H][1211]
+    Compare: 1978 No 103 [s 60C][1213]; 1988 No 234 [s 43H][1214]
 
 ##### 520 Only 1 banning order may be made for same conduct
     
-*   If conduct by a person constitutes grounds for making an order under any 1 or more of this subpart, [section 44F][1212] of the Takeovers Act 1993, and [section 383][1213] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+*   If conduct by a person constitutes grounds for making an order under any 1 or more of this subpart, [section 44F][1215] of the Takeovers Act 1993, and [section 383][1216] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
-    Compare: 1978 No 103 [s 60D][1214]; 1988 No 234 [s 43J][1215]
+    Compare: 1978 No 103 [s 60D][1217]; 1988 No 234 [s 43J][1218]
 
 ##### 521 General provisions for banning orders
     
@@ -11842,7 +11850,7 @@ Enforcement, liability, and appeals
     
     (3) The FMA, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
     
-    Compare: 1978 No 103 [s 60F][1216]; 1988 No 234 [s 43O][1217]
+    Compare: 1978 No 103 [s 60F][1219]; 1988 No 234 [s 43O][1220]
 
 ### Subpart 7---Orders to protect interests of aggrieved persons in case of financial markets investigations or proceedings
 
@@ -11850,11 +11858,11 @@ Enforcement, liability, and appeals
     
 *   (1) This section applies if---
         
-    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][1218] in relation to an act or omission by a person that---
+    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][1221] in relation to an act or omission by a person that---
             
         *   (i) constitutes or may constitute a contravention, or involvement in a contravention, of any Act specified in [Part 1][804] of Schedule 1 of the Financial Markets Authority Act 2011; or
         
-        *   (ii) constitutes or may constitute a contravention, or involvement in a contravention, of any Act specified in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
+        *   (ii) constitutes or may constitute a contravention, or involvement in a contravention, of any Act specified in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
         
         *   (iii) may result in a prosecution or civil proceedings of the kind referred to in any of paragraphs (b) to (d) being begun against the person; or
         
@@ -11864,7 +11872,7 @@ Enforcement, liability, and appeals
             
         *   (i) any Act specified in [Part 1][804] of Schedule 1 of the Financial Markets Authority Act 2011; or
         
-        *   (ii) any Act specified in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
+        *   (ii) any Act specified in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
         
         
     
@@ -11872,7 +11880,7 @@ Enforcement, liability, and appeals
             
         *   (i) any Act specified in [Part 1][804] of Schedule 1 of the Financial Markets Authority Act 2011; or
         
-        *   (ii) any Act specified in [Part 2][1204] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
+        *   (ii) any Act specified in [Part 2][1207] of Schedule 1 of the Financial Markets Authority Act 2011 (where the person is, or has been, a financial markets participant); or
         
         
     
@@ -11894,7 +11902,7 @@ Enforcement, liability, and appeals
     
     _relevant person_ means a person referred to in subsection (1).
     
-    Compare: 1978 No 103 [s 60G][1219]; 1988 No 234 [s 43P][1220]
+    Compare: 1978 No 103 [s 60G][1222]; 1988 No 234 [s 43P][1223]
 
 ##### 523 What orders may be made
     
@@ -11938,7 +11946,7 @@ Enforcement, liability, and appeals
     
     (3) An order may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
     
-    Compare: 1978 No 103 [s 60H][1221]; 1988 No 234 [s 43Q][1222]
+    Compare: 1978 No 103 [s 60H][1224]; 1988 No 234 [s 43Q][1225]
 
 ##### 524 Interim orders
     
@@ -11948,13 +11956,13 @@ Enforcement, liability, and appeals
     
     (3) In determining the FMA's application for the grant of an interim order, the court must not take into account that the FMA is not required to give an undertaking as to damages.
     
-    Compare: 1978 No 103 [s 60I][1223]; 1988 No 234 [s 43R][1224]
+    Compare: 1978 No 103 [s 60I][1226]; 1988 No 234 [s 43R][1227]
 
 ##### 525 Relationship with other law
     
 *   Nothing in this subpart affects the powers that the court has apart from this subpart.
     
-    Compare: 1978 No 103 [s 60J][1225]; 1988 No 234 [s 43S][1226]
+    Compare: 1978 No 103 [s 60J][1228]; 1988 No 234 [s 43S][1229]
 
 ### Subpart 8---Indemnities or insurance for directors, employees, and auditors of issuers, offerors, and licensees
 
@@ -11968,11 +11976,11 @@ Enforcement, liability, and appeals
     
     (2) An indemnity given in breach of this section is void.
     
-    (3) This section does not apply to a specified person or related body corporate that is a company within the meaning of [section 2(1)][793] of the Companies Act 1993 (_see_ [section 162][1227] of the Companies Act 1993, which provides for limitations on indemnities and insurance).
+    (3) This section does not apply to a specified person or related body corporate that is a company within the meaning of [section 2(1)][793] of the Companies Act 1993 (_see_ [section 162][1230] of the Companies Act 1993, which provides for limitations on indemnities and insurance).
     
     (4) This section is subject to [sections 527][694] and [528][695].
     
-    Compare: 1978 No 103 [s 61][1228]
+    Compare: 1978 No 103 [s 61][1231]
 
 ##### 527 Permitted indemnities for certain liabilities or costs
     
@@ -11994,7 +12002,7 @@ Enforcement, liability, and appeals
     
     *   (b) a liability that arises out of a failure to act in good faith when acting in the capacity as a director or an employee.
     
-    Compare: 1978 No 103 [s 61A][1229]
+    Compare: 1978 No 103 [s 61A][1232]
 
 ##### 528 Permitted insurance for certain liability or costs
     
@@ -12022,7 +12030,7 @@ Enforcement, liability, and appeals
     
     (4) However, subsection (3) does not apply to the extent that the insurance was fair to the specified person or related body corporate at the time the insurance was effected.
     
-    Compare: 1978 No 103 [s 61B][1230]
+    Compare: 1978 No 103 [s 61B][1233]
 
 ##### 529 Prohibition on indemnity or insurance for auditors of issuers, offerors, or licensees
     
@@ -12032,7 +12040,7 @@ Enforcement, liability, and appeals
     
     *   (b) costs incurred by that auditor in defending or settling any claim or proceeding relating to that liability.
     
-    (2) However, a specified person, or a related body corporate, may indemnify an auditor referred to in subsection (1) for any costs incurred by him or her in defending or settling a proceeding that relates to liability of a kind referred to in subsection (1)(a) if--- 
+    (2) However, a specified person, or a related body corporate, may indemnify an auditor referred to in subsection (1) for any costs incurred by him or her in defending or settling a proceeding that relates to liability of a kind referred to in subsection (1)(a) if---
         
     *   (a) judgment is given in his or her favour or if he or she is acquitted; or
     
@@ -12062,7 +12070,7 @@ Enforcement, liability, and appeals
     
     *   (e) a licensed supervisor.
     
-    Compare: 1978 No 103 [s 61C][1231]
+    Compare: 1978 No 103 [s 61C][1234]
 
 ### Subpart 9---Appeals
 
@@ -12098,7 +12106,7 @@ Enforcement, liability, and appeals
     
     *   (g) a decision under [subpart 1][601] (FMA's enforcement powers).
     
-    Compare: 1988 No 234 [s 47A][1232]
+    Compare: 1988 No 234 [s 47A][1235]
 
 ### Subpart 10---Miscellaneous
 
@@ -12116,7 +12124,7 @@ Enforcement, liability, and appeals
     
     *   (d) has conspired with others to effect the contravention.
     
-    (2) Subsection (1) does not apply to proceedings for offences (but _see_ [Part 4][1233] of the Crimes Act 1961, which relates to parties to the commission of offences).
+    (2) Subsection (1) does not apply to proceedings for offences (but _see_ [Part 4][1236] of the Crimes Act 1961, which relates to parties to the commission of offences).
     
     Compare: Corporations Act 2001 s 79 (Aust)
 
@@ -12132,7 +12140,7 @@ Enforcement, liability, and appeals
     
     *   (ca) an FMC reporting entity has contravened any of [sections 460 to 461B][580], [461D][586], and [461H][591] (financial reporting obligations); or
     
-    *   (d) an entity that provided a disclosure document under [clause 26][800] of Schedule 1 has contravened [clause 27][852] of that schedule (defective disclosure document).
+    *   (d) an entity that provided a disclosure document under [clause 26][800] of Schedule 1 has contravened [clause 27][854] of that schedule (defective disclosure document).
     
     (2) However, this section does not apply in the prescribed circumstances.
     
@@ -12144,15 +12152,15 @@ Enforcement, liability, and appeals
     
     (6) _See_ [sections 499(1)(a)][656], [500][657], and [501][658], which provide defences to a director.
     
-    Section 534 heading: amended, on 1 April 2014, by [section 53(1)][1234] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 534 heading: amended, on 1 April 2014, by [section 53(1)][1237] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 534(1)(ca): inserted, on 1 April 2014, by [section 53(2)][1234] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 534(1)(ca): inserted, on 1 April 2014, by [section 53(2)][1237] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 534(3): amended, on 1 April 2014, by [section 53(3)][1234] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 534(3): amended, on 1 April 2014, by [section 53(3)][1237] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 534(3): amended, on 1 April 2014, by [section 53(4)][1234] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 534(3): amended, on 1 April 2014, by [section 53(4)][1237] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 534(5): amended, on 1 April 2014, by [section 53(3)][1234] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 534(5): amended, on 1 April 2014, by [section 53(3)][1237] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 535 State of mind of directors, employees, or agents attributed to body corporate or other principal
     
@@ -12162,7 +12170,7 @@ Enforcement, liability, and appeals
     
     (3) In this Act, _state of mind_, in relation to a person, includes the knowledge, intention, opinion, belief, or purpose of the person and the person's reasons for that intention, opinion, belief, or purpose.
     
-    Compare: 1986 No 5 [s 90(1), (3), (5)][1235]
+    Compare: 1986 No 5 [s 90(1), (3), (5)][1238]
 
 ##### 536 Conduct of directors, employees, or agents attributed to body corporate or other principal
     
@@ -12178,29 +12186,29 @@ Enforcement, liability, and appeals
     
     *   (b) any other person at the direction or with the consent or agreement (whether express or implied) either of A or of an employee or agent of A, given within the scope of the actual or apparent authority of the employee or agent.
     
-    Compare: 1986 No 5 [s 90(2), (4)][1235]
+    Compare: 1986 No 5 [s 90(2), (4)][1238]
 
 #### Miscellaneous
 
 ##### 537 Time for filing charging document for certain offences
     
-*   (1) Despite anything to the contrary in [section 25][1236] of the Criminal Procedure Act 2011, the limitation period in respect of a category 1 offence or a category 2 offence under this Act ends on the date that is 3 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][1239] of the Criminal Procedure Act 2011, the limitation period in respect of a category 1 offence or a category 2 offence under this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    (2) Nothing in subsection (1) affects the application of [section 25][1236] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    (2) Nothing in subsection (1) affects the application of [section 25][1239] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
-    (3) In this section, _category 1 offence_ and _category 2 offence_ have the same meanings as in [section 6(1)][1237] of the Criminal Procedure Act 2011\.
+    (3) In this section, _category 1 offence_ and _category 2 offence_ have the same meanings as in [section 6(1)][1240] of the Criminal Procedure Act 2011\.
 
 ##### 538 Jurisdiction of courts in New Zealand
     
 *   The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences.
     
-    Compare: 1978 No 103 [s 65A][1238]
+    Compare: 1978 No 103 [s 65A][1241]
 
 ##### 539 Orders to secure compliance
     
 *   The court may, for the purpose of securing compliance with any other order it makes under this Act, direct a person to do or refrain from doing a specified act.
     
-    Compare: 1978 No 103 [s 65C][1239]; 1988 No 234 [s 43X][1240]
+    Compare: 1978 No 103 [s 65C][1242]; 1988 No 234 [s 43X][1243]
 
 ##### 540 General provisions as to court's orders
     
@@ -12208,7 +12216,7 @@ Enforcement, liability, and appeals
     
     (2) The court may revoke, vary, or suspend an order made under this Act on the terms and conditions the court thinks fit.
     
-    Compare: 1978 No 103 [s 65E][1241]; 1988 No 234 [s 43Z][1242]
+    Compare: 1978 No 103 [s 65E][1244]; 1988 No 234 [s 43Z][1245]
 
 ##### 541 Persons entitled to appear before court
     
@@ -12228,13 +12236,13 @@ Enforcement, liability, and appeals
     
     *   (g) with the leave of the court, any other person.
     
-    Compare: 1988 No 234 [s 43ZA][1243]
+    Compare: 1988 No 234 [s 43ZA][1246]
 
 ##### 542 Saving of liability under Crimes Act 1961 and general law
     
-*   Nothing in this Act limits or diminishes any liability that any person may incur under any rule of law or the [Crimes Act 1961][1244] or any other enactment other than this Act (_see_, for example, [sections 220][1245] and [242][1246] of the Crimes Act 1961, which relate to theft by a person in a special relationship and false statements by promoters).
+*   Nothing in this Act limits or diminishes any liability that any person may incur under any rule of law or the [Crimes Act 1961][1247] or any other enactment other than this Act (_see_, for example, [sections 220][1248] and [242][1249] of the Crimes Act 1961, which relate to theft by a person in a special relationship and false statements by promoters).
     
-    Compare: 1978 No 103 [s 65][1247]
+    Compare: 1978 No 103 [s 65][1250]
 
 ## Part 9  
 Regulations, transitional provisions, and miscellaneous provisions
@@ -12275,7 +12283,7 @@ Regulations, transitional provisions, and miscellaneous provisions
         
         
     
-    *   (b) amending any of the dollar amounts specified in [Schedule 1][781] (other than the amounts in [clause 12][862] of that schedule (small offers)) by increasing those amounts:
+    *   (b) amending any of the dollar amounts specified in [Schedule 1][781] (other than the amounts in [clause 12][864] of that schedule (small offers)) by increasing those amounts:
     
     *   (c) providing for the matters referred to in [clause 26][800] of Schedule 1, including prescribing---
             
@@ -12309,27 +12317,27 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (i) prescribing financial products for the purposes of the definition of specified financial products in [clause 8(2)][802] of Schedule 1:
     
-    *   (j) prescribing schemes for the purposes of [clause 11(3)(a)][865] of Schedule 1:
+    *   (j) prescribing schemes for the purposes of [clause 11(3)(a)][867] of Schedule 1:
     
-    *   (k) prescribing markets and persons for the purposes of [clause 20(4)][1248] of Schedule 1:
+    *   (k) prescribing markets and persons for the purposes of [clause 20(4)][1251] of Schedule 1:
     
-    *   (l) prescribing kinds of category 2 products or currency forwards for the purposes of [clause 21(c) or (d)][1129] of Schedule 1:
+    *   (l) prescribing kinds of category 2 products or currency forwards for the purposes of [clause 21(c) or (d)][1132] of Schedule 1:
     
     *   (la) prescribing circumstances for the purposes of [section 453(b)(ii)][570]:
     
     *   (lb) prescribing circumstances for the purposes of clause 27A of Schedule 1:
     
-    *   (m) prescribing circumstances for the purposes of [clause 31(1)(c)(ii) or (2)(d)(ii)][1249] or [34(1)(d)(ii)][1250] of Schedule 1:
+    *   (m) prescribing circumstances for the purposes of [clause 31(1)(c)(ii) or (2)(d)(ii)][1252] or [34(1)(d)(ii)][1253] of Schedule 1:
     
-    *   (n) prescribing matters for the purposes of the definitions of relevant person, relevant time, and prescribed transaction in [clause 49][834] of Schedule 1:
+    *   (n) prescribing matters for the purposes of the definitions of relevant person, relevant time, and prescribed transaction in [clause 49][835] of Schedule 1:
     
-    *   (o) prescribing forms and information for the purposes of [clause 46][1251] of Schedule 1\.
+    *   (o) prescribing forms and information for the purposes of [clause 46][1254] of Schedule 1\.
     
     (2) Subsection (1)(a)(v) and (x) and (f) are subject to [section 550][723] (which provides for certain procedural requirements relating to regulations made under those provisions).
     
-    Section 543(1)(la): inserted, on 1 April 2014, by [section 54][1252] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 543(1)(la): inserted, on 1 April 2014, by [section 54][1255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 543(1)(lb): inserted, on 1 April 2014, by [section 54][1252] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 543(1)(lb): inserted, on 1 April 2014, by [section 54][1255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 544 Regulations for purposes of Part 4 (governance of financial products)
     
@@ -12613,7 +12621,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) providing that, subject to any conditions stated in the regulations, specified provisions of the specified enactments (including definitions and any transitional provisions in the specified enactments), or provisions of other enactments amended, revoked, or repealed by the specified enactments, do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on the 5-year date:
     
-    *   (c) prescribing circumstances for the purposes of [clause 7(2)(b)][1253] of Schedule 4\.
+    *   (c) prescribing circumstances for the purposes of [clause 7(2)(b)][1256] of Schedule 4\.
     
     (2) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the regulations---
         
@@ -12635,19 +12643,19 @@ Regulations, transitional provisions, and miscellaneous provisions
         
     *   (a) this Act; and
     
-    *   (ab) the [Financial Reporting Act 2013][1254]; and
+    *   (ab) the [Financial Reporting Act 2013][1257]; and
     
-    *   (ac) the [Financial Reporting (Amendments to Other Enactments) Act 2013][1255]; and
+    *   (ac) the [Financial Reporting (Amendments to Other Enactments) Act 2013][1258]; and
     
     *   (b) the [Financial Markets (Repeals and Amendments) Act 2013][786].
     
-    Section 547(1)(a): amended, on 1 April 2014, by [section 55(1)][1256] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 547(1)(a): amended, on 1 April 2014, by [section 55(1)][1259] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 547(1)(b): amended, on 1 April 2014, by [section 55(1)][1256] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 547(1)(b): amended, on 1 April 2014, by [section 55(1)][1259] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 547(6)(ab): inserted, on 1 April 2014, by [section 55(2)][1256] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 547(6)(ab): inserted, on 1 April 2014, by [section 55(2)][1259] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 547(6)(ac): inserted, on 1 April 2014, by [section 55(2)][1256] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 547(6)(ac): inserted, on 1 April 2014, by [section 55(2)][1259] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 548 Other regulations
     
@@ -12753,9 +12761,9 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (r) prescribing kinds of schemes for the purposes of paragraph (b) of the definition of special resolution in [section 6(1)][10] and [section 161(1)(c)][207]:
     
-    *   (s) prescribing a date or dates for the purposes of [clause 57(1)(a)][1257] of Schedule 4:
+    *   (s) prescribing a date or dates for the purposes of [clause 57(1)(a)][1260] of Schedule 4:
     
-    *   (t) prescribing clauses of [Schedule 1][781] for the purposes of [clause 59(1)][1258] of Schedule 4:
+    *   (t) prescribing clauses of [Schedule 1][781] for the purposes of [clause 59(1)][1261] of Schedule 4:
     
     *   (u) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
@@ -12807,7 +12815,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (3) Subsection (2) does not limit this subpart.
     
-    Compare: 1988 No 234 [ss 49E][1259], [49F][1260]
+    Compare: 1988 No 234 [ss 49E][1262], [49F][1263]
 
 ##### 552 Miscellaneous provisions relating to fees and charges
     
@@ -12817,7 +12825,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (3) Any fee, charge, or other amount payable to a person under this Act is recoverable by the person in any court of competent jurisdiction as a debt due to the person.
     
-    (4) This subpart does not limit [section 67][1261] of the Financial Markets Authority Act 2011\.
+    (4) This subpart does not limit [section 67][1264] of the Financial Markets Authority Act 2011\.
 
 ##### 553 Miscellaneous provisions relating to implied provisions
     
@@ -12855,7 +12863,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     _financial reporting standard_ has the same meaning as in [section 5(1)][787] of the Financial Reporting Act 2013\.
     
-    Section 554(3): replaced, on 1 April 2014, by [section 56][1262] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 554(3): replaced, on 1 April 2014, by [section 56][1265] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 555 Different matters may be prescribed in respect of different circumstances
     
@@ -12895,7 +12903,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
 *   The breach of a term or condition of an exemption granted under this subpart is a breach of the provision to which the exemption relates (unless the terms of the exemption otherwise provide).
     
-    Compare: 1988 No 234 [s 49E][1259]
+    Compare: 1988 No 234 [s 49E][1262]
 
 ##### 560 Exemptions in respect of specified overseas jurisdictions
     
@@ -12903,7 +12911,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (2) Subsection (1) does not limit this subpart.
     
-    Compare: 1988 No 234 [s 49F][1260]
+    Compare: 1988 No 234 [s 49F][1263]
 
 ##### 561 Effect of exemptions on regulated offers
     
@@ -12925,7 +12933,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) an NBDT.
     
-    Section 561A: inserted, on 1 April 2014, by [section 57][1263] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 561A: inserted, on 1 April 2014, by [section 57][1266] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 3---FMA's designation power
 
@@ -12947,7 +12955,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) declare that a security that would otherwise be a financial product of a particular kind is not a financial product:
     
-    *   (d) declare that an offer of financial products that would not otherwise require disclosure under [Part 3][49] because of an exclusion under [Part 1][861] of Schedule 1 does require disclosure under [Part 3][49]:
+    *   (d) declare that an offer of financial products that would not otherwise require disclosure under [Part 3][49] because of an exclusion under [Part 1][863] of Schedule 1 does require disclosure under [Part 3][49]:
         
         ###### Example
         
@@ -13107,7 +13115,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (4) [Subpart 5][747] (general provisions relating to certain FMA instruments) applies to a notice issued under this section.
     
-    Compare: 1978 No 103 [s 54D][1264]
+    Compare: 1978 No 103 [s 54D][1267]
 
 ##### 569 Consultation
     
@@ -13115,7 +13123,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (2) A failure to comply with subsection (1) does not affect the validity of the notice.
     
-    Compare: 1978 No 103 [s 54E][1265]
+    Compare: 1978 No 103 [s 54E][1268]
 
 ### Subpart 5---General provisions relating to certain FMA instruments
 
@@ -13131,19 +13139,19 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) declarations made under [subpart 3][737]:
     
-    *   (d) notices issued under [subpart 4][743]. 
+    *   (d) notices issued under [subpart 4][743].
     
-    Section 570(ab): inserted, on 1 April 2014, by [section 58][1266] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 570(ab): inserted, on 1 April 2014, by [section 58][1269] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 571 Status and publication of instruments
     
 *   (1) An instrument to which this subpart applies---
         
-    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][1072]; and
+    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][1075]; and
     
-    *   (b) must be presented to the House of Representatives under [section 41][1073] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][1076] of that Act.
     
-    (2) The following instruments are legislative instruments for the purposes of the [Legislation Act 2012][1072]:
+    (2) The following instruments are legislative instruments for the purposes of the [Legislation Act 2012][1075]:
         
     *   (a) a notice issued under [section 69][86]:
     
@@ -13185,7 +13193,7 @@ Regulations, transitional provisions, and miscellaneous provisions
         
         
     
-    Section 571(2)(ab): inserted, on 1 April 2014, by [section 59][1267] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 571(2)(ab): inserted, on 1 April 2014, by [section 59][1270] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 572 Variation and revocation
     
@@ -13201,13 +13209,13 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) extend the territorial scope of this Act and the regulations so that offerors may offer financial products in designated countries in accordance with New Zealand laws, and investors in those countries may rely on and enforce those laws.
     
-    Compare: 1978 No 103 [s 71][1268]
+    Compare: 1978 No 103 [s 71][1271]
 
 ##### 574 Definition of country in this subpart
     
 *   In this subpart and [subpart 7][764], _country_ includes a state, territory, country, or group of countries in respect of which a single securities law, or set of laws, is in force.
     
-    Compare: 1978 No 103 [s 72][1269]
+    Compare: 1978 No 103 [s 72][1272]
 
 #### Exemption from Act and regulations for New Zealand offers under recognition regime
 
@@ -13231,7 +13239,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (3) The Registrar must send a copy of the notification to the FMA.
     
-    Compare: 1978 No 103 [s 73][1270]
+    Compare: 1978 No 103 [s 73][1273]
 
 ##### 576 Power to exempt from Act and regulations under recognition regime
     
@@ -13253,7 +13261,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) after consulting with the FMA.
     
-    Compare: 1978 No 103 [s 74][1271]
+    Compare: 1978 No 103 [s 74][1274]
 
 ##### 577 Matters that must be stated in regulations implementing recognition regime
     
@@ -13279,7 +13287,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (2) Regulations may provide different exemptions, preconditions, and terms and conditions for different classes of financial products, offers, persons, or circumstances.
     
-    Compare: 1978 No 103 [s 75][1272]
+    Compare: 1978 No 103 [s 75][1275]
 
 ##### 578 FMA may declare failure to meet preconditions of recognition regime to be non-material
     
@@ -13299,7 +13307,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) every person who has authorised himself or herself to be named, and is named, in any advertisement relating to the financial product as a director of the offeror or as having agreed to become a director either immediately or after an interval of time.
     
-    Compare: 1978 No 103 [s 76][1273]
+    Compare: 1978 No 103 [s 76][1276]
 
 #### Extension of Act and regulations to overseas offers under application regime
 
@@ -13313,7 +13321,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) any other preconditions of the application regime are met.
     
-    Compare: 1978 No 103 [s 77][1274]
+    Compare: 1978 No 103 [s 77][1277]
 
 ##### 581 Power to extend Act and regulations under application regime
     
@@ -13329,7 +13337,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) after consulting with the FMA.
     
-    Compare: 1978 No 103 [s 78][1275]
+    Compare: 1978 No 103 [s 78][1278]
 
 ##### 582 Matters that must be stated in regulations implementing application regime
     
@@ -13349,7 +13357,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (2) The regulations may provide different applications of provisions, preconditions, and terms and conditions for different classes of financial products, offers, persons, or circumstances.
     
-    Compare: 1978 No 103 [s 79][1276]
+    Compare: 1978 No 103 [s 79][1279]
 
 ### Subpart 7---Enforcement of overseas pecuniary penalties under application regime
 
@@ -13357,7 +13365,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
 *   The purpose of this subpart is to enable application regimes to be implemented that provide for enforcement in New Zealand of fines and pecuniary penalties imposed for breaches of securities laws of designated countries.
     
-    Compare: 1978 No 103 [s 71][1268]
+    Compare: 1978 No 103 [s 71][1271]
 
 ##### 584 Enforcement of overseas pecuniary penalties under application regime
     
@@ -13369,7 +13377,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (c) any other preconditions of the application regime are met.
     
-    Compare: 1978 No 103 [s 80][1277]
+    Compare: 1978 No 103 [s 80][1280]
 
 ##### 585 Power to enforce overseas penalties under application regime
     
@@ -13379,7 +13387,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) the preconditions of the application regime (if any).
     
-    Compare: 1978 No 103 [s 81][1278]
+    Compare: 1978 No 103 [s 81][1281]
 
 ##### 586 Interpretation
     
@@ -13397,13 +13405,13 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     _registered judgment_ means a judgment that is registered under [section 587][769].
     
-    Compare: 1978 No 103 [s 82][1279]
+    Compare: 1978 No 103 [s 82][1282]
 
 ##### 587 Registration of judgment
     
 *   The High Court must register a judgment to which this subpart applies under section 584 as a civil judgment debt if an application is made to it in accordance with regulations made under [section 585][767].
     
-    Compare: 1978 No 103 [s 83][1280]
+    Compare: 1978 No 103 [s 83][1283]
 
 ##### 588 Effect of registration
     
@@ -13411,7 +13419,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (2) Subsection (1) is subject to [sections 589][771] and [590][772].
     
-    Compare: 1978 No 103 [s 84][1281]
+    Compare: 1978 No 103 [s 84][1284]
 
 ##### 589 Enforceability of registered judgment
     
@@ -13421,7 +13429,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) a court in the place of rendition.
     
-    Compare: 1978 No 103 [s 85][1282]
+    Compare: 1978 No 103 [s 85][1285]
 
 ##### 590 Stay may be granted
     
@@ -13445,7 +13453,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     (3) For the purposes of subsection (2)(a)(i), an _appropriate application for relief_ is an application to set aside, vary, or appeal against the registered judgment that is made to a court or tribunal that has jurisdiction under the law in force in the place of rendition to grant the application.
     
-    Compare: 1978 No 103 [s 86][1283]
+    Compare: 1978 No 103 [s 86][1286]
 
 ##### 591 Costs
     
@@ -13461,7 +13469,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) if there is no such similar judgment, the most closely analogous judgment given by the High Court.
     
-    Compare: 1978 No 103 [s 87][1284]
+    Compare: 1978 No 103 [s 87][1287]
 
 ##### 592 Interest
     
@@ -13471,13 +13479,13 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (b) is recoverable to the extent that the judgment creditor satisfies the High Court as to the amount of the interest.
     
-    Compare: 1978 No 103 [s 88][1285]
+    Compare: 1978 No 103 [s 88][1288]
 
 ##### 593 Rules of private international law not to apply
     
 *   If a judgment is registered in the High Court under this subpart, the courts of New Zealand must not, merely because of the operation of a rule of private international law, refuse to permit proceedings by way of enforcement of the registered judgment to be taken or continued.
     
-    Compare: 1978 No 103 [s 89][1286]
+    Compare: 1978 No 103 [s 89][1289]
 
 ##### 594 Other regulations for registration of judgments under application regime
     
@@ -13491,7 +13499,7 @@ Regulations, transitional provisions, and miscellaneous provisions
     
     *   (d) other requirements for the way in which those judgments may be registered (for example, the currency of registrations and the registration of partly satisfied judgments).
     
-    Compare: 1978 No 103 [s 90][1287]
+    Compare: 1978 No 103 [s 90][1290]
 
 ### Subpart 8---Transitional and miscellaneous provisions
 
@@ -13516,150 +13524,150 @@ Provisions relating to when disclosure is required and exclusions for offers and
 
 ## Contents
 
-[Part 1][861]  
-[Disclosure exclusions for offers of financial products for issue or sale][861]
+[Part 1][863]  
+[Disclosure exclusions for offers of financial products for issue or sale][863]
 
-[1 ][1288][][1288][Overview of Part][1288]
+[1][1291][][1291][Overview of Part][1291]
 
-[2 ][942][][942][Part subject to FMA's power to require disclosure][942]
+[2][945][][945][Part subject to FMA's power to require disclosure][945]
 
-[Exclusion for wholesale investors][1289]
+[Exclusion for wholesale investors][1292]
 
-[3 ][832][][832][Offer to wholesale investor][832]
+[3][833][][833][Offer to wholesale investor][833]
 
-[Exclusion for persons in close relationship][1290]
+[Exclusion for persons in close relationship][1293]
 
-[4 ][1291][][1291][Offers to close business associates][1291]
+[4][1294][][1294][Offers to close business associates][1294]
 
-[5 ][826][][826][Offers to relatives][826]
+[5][827][][827][Offers to relatives][827]
 
-[Exclusion for offers through licensed intermediaries and DIMS licensees][1292]
+[Exclusion for offers through licensed intermediaries and DIMS licensees][1295]
 
-[6 ][1127][][1127][Offers of financial products through licensed intermediaries][1127]
+[6][1130][][1130][Offers of financial products through licensed intermediaries][1130]
 
-[7 ][1293][][1293][Offers of financial products through DIMS licensees][1293]
+[7][1296][][1296][Offers of financial products through DIMS licensees][1296]
 
-[Exclusion for employee share purchase schemes][1294]
+[Exclusion for employee share purchase schemes][1297]
 
-[8 ][802][][802][Offers under employee share purchase schemes][802]
+[8][802][][802][Offers under employee share purchase schemes][802]
 
-[Exclusion for persons under control][1295]
+[Exclusion for persons under control][1298]
 
-[9 ][1296][][1296][Offers to persons under control do not need disclosure][1296]
+[9][1299][][1299][Offers to persons under control do not need disclosure][1299]
 
-[Exclusion for dividend reinvestment plan][1297]
+[Exclusion for dividend reinvestment plan][1300]
 
-[10 ][1055][][1055][Offers of financial products under dividend reinvestment plans][1055]
+[10][1058][][1058][Offers of financial products under dividend reinvestment plans][1058]
 
-[Exclusion for financial products for no consideration][1298]
+[Exclusion for financial products for no consideration][1301]
 
-[11 ][865][][865][Offers of financial products for no consideration][865]
+[11][867][][867][Offers of financial products for no consideration][867]
 
-[Exclusion for small offers][1299]
+[Exclusion for small offers][1302]
 
-[12 ][862][][862][Small offers][862]
+[12][864][][864][Small offers][864]
 
-[13 ][879][][879][Advertising restriction for small offers][879]
+[13][882][][882][Advertising restriction for small offers][882]
 
-[14 ][1300][][1300][Matters relating to calculation][1300]
+[14][1303][][1303][Matters relating to calculation][1303]
 
-[Exclusion for transfer of controlling interest][1301]
+[Exclusion for transfer of controlling interest][1304]
 
-[15 ][1302][][1302][Offers of controlling interest where 5 or fewer investors][1302]
+[15][1305][][1305][Offers of controlling interest where 5 or fewer investors][1305]
 
-[Exclusion for small schemes ][1303]
+[Exclusion for small schemes][1306]
 
-[16 ][863][][863][Exclusion for small schemes][863]
+[16][865][][865][Exclusion for small schemes][865]
 
-[17 ][880][][880][Advertising restriction for small schemes][880]
+[17][883][][883][Advertising restriction for small schemes][883]
 
-[18 ][1304][][1304][Counting of scheme participants][1304]
+[18][1307][][1307][Counting of scheme participants][1307]
 
-[Exclusion for quoted financial products][1305]
+[Exclusion for quoted financial products][1308]
 
-[19 ][1166][][1166][Exclusion for offers of financial products of same class as quoted financial products][1166]
+[19][1169][][1169][Exclusion for offers of financial products of same class as quoted financial products][1169]
 
-[Exclusions for derivatives][1306]
+[Exclusions for derivatives][1309]
 
-[20 ][1248][][1248][Exclusions for certain offers of derivatives][1248]
+[20][1251][][1251][Exclusions for certain offers of derivatives][1251]
 
-[Exclusion for registered banks][1307]
+[Exclusion for registered banks][1310]
 
-[21 ][1129][][1129][Offers of category 2 products or debt securities by registered banks][1129]
+[21][1132][][1132][Offers of category 2 products or debt securities by registered banks][1132]
 
-[Exclusion for the Crown, etc][1308]
+[Exclusion for the Crown, etc][1311]
 
-[22 ][1309][][1309][Offers by the Crown, etc][1309]
+[22][1312][][1312][Offers by the Crown, etc][1312]
 
-[Exclusion for retirement villages][1310]
+[Exclusion for retirement villages][1313]
 
-[23 ][1311][][1311][Offers of interests in retirement villages][1311]
+[23][1314][][1314][Offers of interests in retirement villages][1314]
 
-[Exclusion for renewals or variations][1312]
+[Exclusion for renewals or variations][1315]
 
-[24 ][866][][866][Offers of renewals or variations][866]
+[24][868][][868][Offers of renewals or variations][868]
 
-[Limited disclosure and other requirements][1313]
+[Limited disclosure and other requirements][1316]
 
-[25 ][1314][][1314][Purposes of clauses 26 to 29][1314]
+[25][1317][][1317][Purposes of clauses 26 to 29][1317]
 
-[26 ][800][][800][Disclosure and other requirements][800]
+[26][800][][800][Disclosure and other requirements][800]
 
-[27 ][852][][852][False or misleading statements and omissions][852]
+[27][854][][854][False or misleading statements and omissions][854]
 
-[27A][1132][][1132][Offeror is FMC reporting entity in prescribed circumstances][1132]
+[27A][1135][][1135][Offeror is FMC reporting entity in prescribed circumstances][1135]
 
-[28 ][881][][881][Persons who must inform offeror about deficiencies in disclosure document under clause 26][881]
+[28][884][][884][Persons who must inform offeror about deficiencies in disclosure document under clause 26][884]
 
-[29 ][1315][][1315][Regulations may prevent exclusions from applying in inappropriate circumstances][1315]
+[29][1318][][1318][Regulations may prevent exclusions from applying in inappropriate circumstances][1318]
 
-[Part 2][864]  
-[Which offers of financial products for sale require disclosure][864]
+[Part 2][866]  
+[Which offers of financial products for sale require disclosure][866]
 
-[30 ][1316][][1316][Application of this Part][1316]
+[30][1319][][1319][Application of this Part][1319]
 
-[31 ][1249][][1249][Sale where financial products issued with view to original holder dealing with products][1249]
+[31][1252][][1252][Sale where financial products issued with view to original holder dealing with products][1252]
 
-[32 ][1317][][1317][Sale where issuer advises, encourages, or knowingly assists offeror][1317]
+[32][1320][][1320][Sale where issuer advises, encourages, or knowingly assists offeror][1320]
 
-[33 ][1318][][1318][Off-market sale by controller][1318]
+[33][1321][][1321][Off-market sale by controller][1321]
 
-[34 ][1250][][1250][Sale amounting to indirect off-market sale by controller][1250]
+[34][1253][][1253][Sale amounting to indirect off-market sale by controller][1253]
 
-[Part 3][1158]  
-[Definitions and certificates for exclusions for offers and services][1158]
+[Part 3][1161]  
+[Definitions and certificates for exclusions for offers and services][1161]
 
-[35 ][827][][827][Meaning of retail investor and retail service][827]
+[35][828][][828][Meaning of retail investor and retail service][828]
 
-[36 ][833][][833][Meaning of wholesale investor][833]
+[36][834][][834][Meaning of wholesale investor][834]
 
-[37 ][843][][843][Investment businesses][843]
+[37][845][][845][Investment businesses][845]
 
-[38 ][1319][][1319][Investment activity criteria][1319]
+[38][1322][][1322][Investment activity criteria][1322]
 
-[39 ][1320][][1320][Meaning of large][1320]
+[39][1323][][1323][Meaning of large][1323]
 
-[40 ][1321][][1321][Definition of government agency][1321]
+[40][1324][][1324][Definition of government agency][1324]
 
-[41 ][1322][][1322][Eligible investors][1322]
+[41][1325][][1325][Eligible investors][1325]
 
-[42 ][1323][][1323][Offeror may not rely on eligible investor certificate in certain circumstances][1323]
+[42][1326][][1326][Offeror may not rely on eligible investor certificate in certain circumstances][1326]
 
-[43 ][1324][][1324][Confirmation of certification][1324]
+[43][1327][][1327][Confirmation of certification][1327]
 
-[44 ][1325][][1325][Safe harbour if certificate given][1325]
+[44][1328][][1328][Safe harbour if certificate given][1328]
 
-[45 ][1326][][1326][Offeror or provider may not rely on safe harbour certificate if knows A was not in fact wholesale investor][1326]
+[45][1329][][1329][Offeror or provider may not rely on safe harbour certificate if knows A was not in fact wholesale investor][1329]
 
-[46 ][1251][][1251][Other provisions relating to certificates][1251]
+[46][1254][][1254][Other provisions relating to certificates][1254]
 
-[47 ][1327][][1327][Offences relating to certificates][1327]
+[47][1330][][1330][Offences relating to certificates][1330]
 
-[Control and other definitions for schedule][1328]
+[Control and other definitions for schedule][1331]
 
-[48 ][1329][][1329][Meaning of control in this schedule][1329]
+[48][1332][][1332][Meaning of control in this schedule][1332]
 
-[49 ][834][][834][Other definitions for schedule][834]
+[49][835][][835][Other definitions for schedule][835]
 
 ---
 
@@ -13670,11 +13678,11 @@ Disclosure exclusions for offers of financial products for issue or sale
     
 *   In this Part,---
         
-    *   (a) [clauses 3 to 11][832] specify that offers to particular persons do not require disclosure under [Part 3][1158] of this Act (although disclosure to other persons may be required):
+    *   (a) [clauses 3 to 11][833] specify that offers to particular persons do not require disclosure under [Part 3][1161] of this Act (although disclosure to other persons may be required):
     
-    *   (b) [clauses 12 to 24][862] specify that certain offers as a whole do not require disclosure under [Part 3][1158] of this Act, whether as a result of the nature of the offer (for example, a small offer) or the nature of the issuer (for example, an offer by the Crown):
+    *   (b) [clauses 12 to 24][864] specify that certain offers as a whole do not require disclosure under [Part 3][1161] of this Act, whether as a result of the nature of the offer (for example, a small offer) or the nature of the issuer (for example, an offer by the Crown):
     
-    *   (c) [clauses 25 to 29][1314] provide for limited disclosure and other requirements, and for restrictions, in relation to the exclusions.
+    *   (c) [clauses 25 to 29][1317] provide for limited disclosure and other requirements, and for restrictions, in relation to the exclusions.
     
     
 
@@ -13690,13 +13698,13 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     (2) A person is a _wholesale investor_ if---
         
-    *   (a) the person is an investment business (_see_ [clause 37][843]); or
+    *   (a) the person is an investment business (_see_ [clause 37][845]); or
     
-    *   (b) the person meets the investment activity criteria specified in [clause 38][1319]; or
+    *   (b) the person meets the investment activity criteria specified in [clause 38][1322]; or
     
-    *   (c) the person is large (_see_ [clause 39][1320]); or
+    *   (c) the person is large (_see_ [clause 39][1323]); or
     
-    *   (d) the person is a government agency (_see_ [clause 40][1321]).
+    *   (d) the person is a government agency (_see_ [clause 40][1324]).
     
     (3) A person is also a _wholesale investor_, in relation to an offer of financial products, if---
         
@@ -13712,7 +13720,7 @@ Disclosure exclusions for offers of financial products for issue or sale
         
         
     
-    *   (c) in relation to an offer of a derivative for issue or sale, the notional value of the derivative is at least $5 million (_see_ [clause 49][834]).
+    *   (c) in relation to an offer of a derivative for issue or sale, the notional value of the derivative is at least $5 million (_see_ [clause 49][835]).
     
     (4) In calculating the amount payable, or paid, for financial products for the purposes of subclause (3)(b)(i) or (ii), any amount payable, or paid, must be disregarded to the extent to which it is to be paid, or was paid, out of money lent by the offeror or any associated person of the offeror.
 
@@ -13768,7 +13776,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     *   (e) a trustee of a trust if---
             
-        *   (i) the trust is a family trust within the meaning of [section 173M(5)][1330] of the Tax Administration Act 1994; and
+        *   (i) the trust is a family trust within the meaning of [section 173M(5)][1333] of the Tax Administration Act 1994; and
         
         *   (ii) a majority of the individuals who are beneficiaries under the trust are relatives of A (under paragraphs (a) to (c)).
         
@@ -13804,7 +13812,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
 *   (1) An offer of specified financial products to an eligible person under an employee share purchase scheme does not require disclosure under Part 3 of this Act if---
         
-    *   (a) the offer is made as part of the remuneration arrangements for the eligible person or is otherwise made in connection with the employment or engagement of the eligible person; and 
+    *   (a) the offer is made as part of the remuneration arrangements for the eligible person or is otherwise made in connection with the employment or engagement of the eligible person; and
     
     *   (b) raising funds for the issuer is not the primary purpose of the offer to the eligible person; and
     
@@ -13844,7 +13852,7 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 9 Offers to persons under control do not need disclosure
     
-*   If, under any of [clauses 3 to 8][832], an offer of financial products to a person (_A_) would not require disclosure under [Part 3][49] of this Act, an offer of those financial products to an entity controlled by A does not require disclosure under Part 3 of this Act (_see_ [clause 48][1329]).
+*   If, under any of [clauses 3 to 8][833], an offer of financial products to a person (_A_) would not require disclosure under [Part 3][49] of this Act, an offer of those financial products to an entity controlled by A does not require disclosure under Part 3 of this Act (_see_ [clause 48][1332]).
 
 #### Exclusion for dividend reinvestment plan
 
@@ -13878,7 +13886,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     _dividend_ means,---
         
-    *   (a) in relation to equity securities in a company within the meaning of [section 2(1)][793] of the Companies Act 1993, a dividend within the meaning of [section 53][1331] of that Act; and
+    *   (a) in relation to equity securities in a company within the meaning of [section 2(1)][793] of the Companies Act 1993, a dividend within the meaning of [section 53][1334] of that Act; and
     
     *   (b) in relation to any other equity securities, a distribution of the income or gains of the issuer to a holder of the equity securities that is comparable to a dividend referred to in paragraph (a); and
     
@@ -13966,11 +13974,11 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 13 Advertising restriction for small offers
     
-*   (1) A person must not advertise an offer or intended offer of financial products that would be a regulated offer but for [clause 12][862].
+*   (1) A person must not advertise an offer or intended offer of financial products that would be a regulated offer but for [clause 12][864].
     
-    (2) Subclause (1) does not apply to a communication that is distributed by or on behalf of the offeror if the offeror took all reasonable steps to ensure that the only persons who received the communication were persons referred to in the definition of personal offer in [clause 12(5)][862] or persons acting on their behalf.
+    (2) Subclause (1) does not apply to a communication that is distributed by or on behalf of the offeror if the offeror took all reasonable steps to ensure that the only persons who received the communication were persons referred to in the definition of personal offer in [clause 12(5)][864] or persons acting on their behalf.
     
-    (3) A contravention of this clause does not prevent the exclusion referred to in [clause 12][862] from continuing to apply (but may give rise to consequences under [Part 8][600] of this Act).
+    (3) A contravention of this clause does not prevent the exclusion referred to in [clause 12][864] from continuing to apply (but may give rise to consequences under [Part 8][600] of this Act).
 
 ##### 14 Matters relating to calculation
     
@@ -13982,7 +13990,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     *   (c) is a regulated offer that is separate from the small offer.
     
-    (2) If financial products are issued or sold to 2 or more persons as joint holders of the products, those persons must be treated as a single person for the purposes of counting the number of persons to whom financial products are issued or sold under [clause 12][862].
+    (2) If financial products are issued or sold to 2 or more persons as joint holders of the products, those persons must be treated as a single person for the purposes of counting the number of persons to whom financial products are issued or sold under [clause 12][864].
     
     (3) In calculating the amount of money raised by the person by issuing financial products, the following must be included:
         
@@ -13994,7 +14002,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     *   (d) if the products carry a right to convert the products into other financial products, any amount payable on the exercise of that right.
     
-    (4) For the purposes of paragraph (b) of the definition of personal offer in [clause 12][862],---
+    (4) For the purposes of paragraph (b) of the definition of personal offer in [clause 12][864],---
         
     *   (a) in determining the annual gross income of the person, the annual gross income of an entity controlled by the person may be included in the annual gross income of the person; and
     
@@ -14022,13 +14030,13 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     (2) If equity securities are acquired by 2 or more persons as joint holders of the securities, those persons must be treated as a single person for the purposes of counting the number of persons who acquire the securities under subclause (1).
 
-#### Exclusion for small schemes 
+#### Exclusion for small schemes
 
 ##### 16 Exclusion for small schemes
     
 *   An offer of managed investment products does not require disclosure under [Part 3][49] of this Act if the relevant managed investment scheme---
         
-    *   (a) has 5 or fewer scheme participants (_see_ [clause 18][1304]); and
+    *   (a) has 5 or fewer scheme participants (_see_ [clause 18][1307]); and
     
     *   (b) is not promoted by a person, or an associate of a person, who is in the business of promoting managed investment schemes.
     
@@ -14036,9 +14044,9 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 17 Advertising restriction for small schemes
     
-*   (1) A person must not advertise an offer or intended offer of financial products that would be a regulated offer but for [clause 16][863].
+*   (1) A person must not advertise an offer or intended offer of financial products that would be a regulated offer but for [clause 16][865].
     
-    (2) A contravention of this clause does not prevent the exclusion referred to in [clause 16][863] from continuing to apply (but may give rise to consequences under [Part 8][600] of this Act).
+    (2) A contravention of this clause does not prevent the exclusion referred to in [clause 16][865] from continuing to apply (but may give rise to consequences under [Part 8][600] of this Act).
 
 ##### 18 Counting of scheme participants
     
@@ -14058,7 +14066,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
 *   (1) An offer of financial products does not require disclosure under [Part 3][49] of this Act if---
         
-    *   (a) the financial products are equity securities, debt securities, or managed investment products; and 
+    *   (a) the financial products are equity securities, debt securities, or managed investment products; and
     
     *   (b) the financial products are of the same class as quoted financial products that have been quoted on a licensed market at all times during the 3-month period before the time of the offer; and
     
@@ -14114,15 +14122,15 @@ Disclosure exclusions for offers of financial products for issue or sale
         
     *   (a) the Crown; or
     
-    *   (b) the Board of Trustees of the National Provident Fund continued under the [National Provident Fund Restructuring Act 1990][1332]; or
+    *   (b) the Board of Trustees of the National Provident Fund continued under the [National Provident Fund Restructuring Act 1990][1335]; or
     
     *   (c) the Reserve Bank; or
     
-    *   (d) Housing New Zealand Corporation established by the [Housing Corporation Act 1974][1333]; or
+    *   (d) Housing New Zealand Corporation established by the [Housing Corporation Act 1974][1336]; or
     
     *   (e) the Māori Trustee, but in relation only to money constituted in the common fund of the Māori Trustee that is entitled to the protection against deficiency afforded by section 27 of the Māori Trustee Act 1953; or
     
-    *   (f) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by [section 52][1334] of the Public Trust Act 2001\.
+    *   (f) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by [section 52][1337] of the Public Trust Act 2001\.
     
     (2) An offer of an interest in the Government Superannuation Fund does not require disclosure under [Part 3][49] of this Act.
 
@@ -14130,7 +14138,7 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 23 Offers of interests in retirement villages
     
-*   An offer of an interest in a retirement village does not require disclosure under [Part 3][49] of this Act if the interest is exempted from Part 3 of this Act by [section 107(1)][1335] of the Retirement Villages Act 2003\.
+*   An offer of an interest in a retirement village does not require disclosure under [Part 3][49] of this Act if the interest is exempted from Part 3 of this Act by [section 107(1)][1338] of the Retirement Villages Act 2003\.
 
 #### Exclusion for renewals or variations
 
@@ -14152,7 +14160,7 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 26 Disclosure and other requirements
     
-*   (1) This clause applies to a person (_A_) who offers financial products to another person (_B_) without disclosure under [Part 3][49] of this Act in reliance upon any of [clauses 3 to 24][832].
+*   (1) This clause applies to a person (_A_) who offers financial products to another person (_B_) without disclosure under [Part 3][49] of this Act in reliance upon any of [clauses 3 to 24][833].
     
     (2) A must ensure that---
         
@@ -14192,7 +14200,7 @@ Disclosure exclusions for offers of financial products for issue or sale
     
     *   (b) the matter referred to in paragraph (a) is materially adverse from the point of view of an investor.
     
-    (2) For the purposes of this clause, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it. 
+    (2) For the purposes of this clause, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
     
     (3) Subclause (2) does not limit the meaning of a reference to a misleading statement.
     
@@ -14204,11 +14212,11 @@ Disclosure exclusions for offers of financial products for issue or sale
     
 *   A person to whom [clause 26][800] applies is an FMC reporting entity in the prescribed circumstances.
     
-    Schedule 1 clause 27A: inserted, on 1 April 2014, by [section 60][1336] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Schedule 1 clause 27A: inserted, on 1 April 2014, by [section 60][1339] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 28 Persons who must inform offeror about deficiencies in disclosure document under clause 26
     
-*   (1) A person referred to in subclause (2) must, in relation to an offer of financial products made without disclosure under [Part 3][49] of this Act in reliance upon any of [clauses 3 to 24][832], notify the offeror in writing as soon as practicable if the person becomes aware at any time before the end of the application period that---
+*   (1) A person referred to in subclause (2) must, in relation to an offer of financial products made without disclosure under [Part 3][49] of this Act in reliance upon any of [clauses 3 to 24][833], notify the offeror in writing as soon as practicable if the person becomes aware at any time before the end of the application period that---
         
     *   (a) a material statement in the disclosure document is false or misleading or is likely to mislead; or
     
@@ -14232,7 +14240,7 @@ Disclosure exclusions for offers of financial products for issue or sale
 
 ##### 29 Regulations may prevent exclusions from applying in inappropriate circumstances
     
-*   (1) An exclusion under any of [clauses 3 to 24][832] does not apply---
+*   (1) An exclusion under any of [clauses 3 to 24][833] does not apply---
         
     *   (a) in the circumstances prescribed by regulations made under this clause; or
     
@@ -14259,9 +14267,9 @@ Which offers of financial products for sale require disclosure
 
 ##### 30 Application of this Part
     
-*   (1) [Clauses 31 to 34][1249] specify when an offer of financial products for sale requires disclosure under [Part 3][49] of this Act.
+*   (1) [Clauses 31 to 34][1252] specify when an offer of financial products for sale requires disclosure under [Part 3][49] of this Act.
     
-    (2) Despite subclause (1), an offer of financial products for sale does not require such disclosure if an exclusion under [Part 1][861] of this schedule applies to the offer of financial products for sale.
+    (2) Despite subclause (1), an offer of financial products for sale does not require such disclosure if an exclusion under [Part 1][863] of this schedule applies to the offer of financial products for sale.
     
     (3) An offer of financial products for sale may also require disclosure under [Part 3][49] of this Act as a result of a declaration under [section 562(1)(e)][738].
 
@@ -14277,7 +14285,7 @@ Which offers of financial products for sale require disclosure
             
         *   (i) under a regulated offer; or
         
-        *   (ii) under an offer made, in the prescribed circumstances, in reliance upon [clause 19][1166]; or
+        *   (ii) under an offer made, in the prescribed circumstances, in reliance upon [clause 19][1169]; or
         
         *   (iii) under an offer outside New Zealand under an application regime under [subpart 6][751] of Part 9 of this Act.
         
@@ -14309,7 +14317,7 @@ Which offers of financial products for sale require disclosure
     
     _original holder_ means the person to whom the financial products were issued.
     
-    Compare: 1978 No 103 [s 6(2)][1337], (2AA); Corporations Act 2001 s 707(3), (4) (Aust)
+    Compare: 1978 No 103 [s 6(2)][1340], (2AA); Corporations Act 2001 s 707(3), (4) (Aust)
 
 ##### 32 Sale where issuer advises, encourages, or knowingly assists offeror
     
@@ -14333,7 +14341,7 @@ Which offers of financial products for sale require disclosure
     
     *   (b) a pre-emptive rights agreement between all of the product holders of the class of financial products under offer.
     
-    Compare: 1978 No 103 [s 6(2A)][1337], (3)
+    Compare: 1978 No 103 [s 6(2A)][1340], (3)
 
 ##### 33 Off-market sale by controller
     
@@ -14371,7 +14379,7 @@ Which offers of financial products for sale require disclosure
             
         *   (i) a regulated offer; or
         
-        *   (ii) an offer made, in the prescribed circumstances, in reliance upon [clause 19][1166].
+        *   (ii) an offer made, in the prescribed circumstances, in reliance upon [clause 19][1169].
         
         
     
@@ -14404,19 +14412,19 @@ Definitions and certificates for exclusions for offers and services
     
 *   A person is a _wholesale investor_,---
         
-    *   (a) in relation to an offer of financial products, when the person is a wholesale investor under the definition of that term in [clause 3][832]; or
+    *   (a) in relation to an offer of financial products, when the person is a wholesale investor under the definition of that term in [clause 3][833]; or
     
     *   (b) in relation to the supply of a discretionary investment management service or any other relevant transaction, if (at the relevant time) the person---
             
-        *   (i) is an investment business (_see_ [clause 37][843]); or
+        *   (i) is an investment business (_see_ [clause 37][845]); or
         
-        *   (ii) meets the investment activity criteria specified in [clause 38][1319]; or
+        *   (ii) meets the investment activity criteria specified in [clause 38][1322]; or
         
-        *   (iii) is large (_see_ [clause 39][1320]); or
+        *   (iii) is large (_see_ [clause 39][1323]); or
         
-        *   (iv) is a government agency (_see_ [clause 40][1321]); or
+        *   (iv) is a government agency (_see_ [clause 40][1324]); or
         
-        *   (v) is an eligible investor (_see_ [clause 41][1322]).
+        *   (v) is an eligible investor (_see_ [clause 41][1325]).
         
         
     
@@ -14432,9 +14440,9 @@ Definitions and certificates for exclusions for offers and services
         
         *   (ii) acting as an underwriter; or
         
-        *   (iii) providing a financial adviser service (within the meaning of [section 9][1338] of the Financial Advisers Act 2008) in relation to financial products; or
+        *   (iii) providing a financial adviser service (within the meaning of [section 9][1341] of the Financial Advisers Act 2008) in relation to financial products; or
         
-        *   (iv) providing a broking service (within the meaning of [section 77B][1339] of the Financial Advisers Act 2008) in relation to financial products; or
+        *   (iv) providing a broking service (within the meaning of [section 77B][1342] of the Financial Advisers Act 2008) in relation to financial products; or
         
         *   (v) trading in financial products on behalf of other persons; or
         
@@ -14442,7 +14450,7 @@ Definitions and certificates for exclusions for offers and services
     
     *   (b) a registered bank; or
     
-    *   (c) a deposit taker (within the meaning of [section 157C][1340] of the Reserve Bank of New Zealand Act 1989); or
+    *   (c) an NBDT; or
     
     *   (d) a licensed insurer (within the meaning of [section 6(1)][818] of the Insurance (Prudential Supervision) Act 2010); or
     
@@ -14452,13 +14460,15 @@ Definitions and certificates for exclusions for offers and services
     
     *   (g) a QFE or an authorised financial adviser.
     
-    (2) Subclause (1)(a) does not apply to an entity if the entity was established or acquired with a view to using it as an entity to which offers of financial products may be made in reliance upon the exclusion in [clause 3][832].
+    (2) Subclause (1)(a) does not apply to an entity if the entity was established or acquired with a view to using it as an entity to which offers of financial products may be made in reliance upon the exclusion in [clause 3][833].
     
-    (3) Subclause (2) does not limit [clause 9][1296].
+    (3) Subclause (2) does not limit [clause 9][1299].
+    
+    Schedule 1 clause 37(1)(c): replaced, on 1 May 2014, by [section 102][841] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
 
 ##### 38 Investment activity criteria
     
-*   (1) A person (_A_) meets the investment activity criteria for the purposes of [clause 3(2)(b)][832] or [36(b)(ii)][833] if at least 1 of the following paragraphs applies:
+*   (1) A person (_A_) meets the investment activity criteria for the purposes of [clause 3(2)(b)][833] or [36(b)(ii)][834] if at least 1 of the following paragraphs applies:
         
     *   (a) A owns, or at any time during the 2-year period before the relevant time has owned, a portfolio of specified financial products of a value of at least $1 million (in aggregate):
     
@@ -14472,7 +14482,7 @@ Definitions and certificates for exclusions for offers and services
     
     *   (b) subclause (1)(b), in determining the transactions carried out by A, transactions carried out by an entity controlled by A may be treated as carried out by A:
     
-    *   (c) applying subclause (1)(a) and (b) in relation to derivatives, the value of a derivative or the amount payable under a transaction to acquire a derivative must be treated as being the notional value of the derivative divided by 10 (_see_ [clause 49][834]).
+    *   (c) applying subclause (1)(a) and (b) in relation to derivatives, the value of a derivative or the amount payable under a transaction to acquire a derivative must be treated as being the notional value of the derivative divided by 10 (_see_ [clause 49][835]).
     
     (3) The frameworks and methodologies prescribed by the FMA under [subpart 4][743] of Part 9 of this Act for the purposes of this clause (if any) must be complied with when determining whether any of the paragraphs of subclause (1) are satisfied.
     
@@ -14500,17 +14510,17 @@ Definitions and certificates for exclusions for offers and services
     
 *   A _government agency_ is any of the following:
         
-    *   (a) a government department named in [Schedule 1][1341] of the State Sector Act 1988:
+    *   (a) a government department named in [Schedule 1][1343] of the State Sector Act 1988:
     
-    *   (b) a Crown entity under [section 7][1342] of the Crown Entities Act 2004:
+    *   (b) a Crown entity under [section 7][1344] of the Crown Entities Act 2004:
     
     *   (c) a local authority:
     
-    *   (d) a State enterprise (within the meaning of [section 2][1343] of the State-Owned Enterprises Act 1986):
+    *   (d) a State enterprise (within the meaning of [section 2][1345] of the State-Owned Enterprises Act 1986):
     
     *   (e) the Reserve Bank:
     
-    *   (f) the Board of Trustees of the National Provident Fund continued under the [National Provident Fund Restructuring Act 1990][1332] (and a company appointed under [clause 3(1)(b)][1344] of Schedule 4 of that Act).
+    *   (f) the Board of Trustees of the National Provident Fund continued under the [National Provident Fund Restructuring Act 1990][1335] (and a company appointed under [clause 3(1)(b)][1346] of Schedule 4 of that Act).
     
     
 
@@ -14530,7 +14540,7 @@ Definitions and certificates for exclusions for offers and services
     
     *   (c) an authorised financial adviser, a chartered accountant, or a lawyer signs a written confirmation of the certification in accordance with clause 43\.
     
-    (2) In relation to an offer of financial products (or a class of those transactions), A must certify that A has previous experience in acquiring or disposing of financial products that allows A to assess--- 
+    (2) In relation to an offer of financial products (or a class of those transactions), A must certify that A has previous experience in acquiring or disposing of financial products that allows A to assess---
         
     *   (a) the merits of the transaction or class of transactions (including assessing the value and the risks of the financial products involved); and
     
@@ -14538,7 +14548,7 @@ Definitions and certificates for exclusions for offers and services
     
     *   (c) the adequacy of the information provided by any person involved in the transaction or those transactions.
     
-    (3) In relation to the supply of a discretionary investment management service (or a class of those services), A must certify that A has previous experience in acquiring or disposing of financial products that allows A to assess--- 
+    (3) In relation to the supply of a discretionary investment management service (or a class of those services), A must certify that A has previous experience in acquiring or disposing of financial products that allows A to assess---
         
     *   (a) the merits of the service or services to be provided (including assessing its value and the risks involved); and
     
@@ -14552,15 +14562,15 @@ Definitions and certificates for exclusions for offers and services
 
 ##### 42 Offeror may not rely on eligible investor certificate in certain circumstances
     
-*   (1) [Clause 41][1322] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the offeror, provider, or other relevant person, before the relevant time, knew that A did not in fact have previous experience of the kind referred to in [clause 41(2), (3), or (4)][1322] (as the case may be).
+*   (1) [Clause 41][1325] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the offeror, provider, or other relevant person, before the relevant time, knew that A did not in fact have previous experience of the kind referred to in [clause 41(2), (3), or (4)][1325] (as the case may be).
     
-    (2) [Clause 41][1322] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the offeror, provider, or other relevant person knew, or had reasonable grounds to believe, that the---
+    (2) [Clause 41][1325] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the offeror, provider, or other relevant person knew, or had reasonable grounds to believe, that the---
         
-    *   (a) authorised financial adviser, chartered accountant, or lawyer referred to in [clause 41(1)(c)][1322] was an associated person of the offeror, provider, or other relevant person; or
+    *   (a) authorised financial adviser, chartered accountant, or lawyer referred to in [clause 41(1)(c)][1325] was an associated person of the offeror, provider, or other relevant person; or
     
-    *   (b) authorised financial adviser or chartered accountant referred to in [clause 41(1)(c)][1322] had, within the 2 years immediately before the relevant time, provided professional services to the offeror, provider, or other relevant person, or a related body corporate of the offeror, provider, or relevant person.
+    *   (b) authorised financial adviser or chartered accountant referred to in [clause 41(1)(c)][1325] had, within the 2 years immediately before the relevant time, provided professional services to the offeror, provider, or other relevant person, or a related body corporate of the offeror, provider, or relevant person.
     
-    (3) [Clause 41][1322] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the certificate was given more than 2 years before the relevant time.
+    (3) [Clause 41][1325] does not apply to an offer of financial products, the supply of a market service, or any other relevant transaction if the certificate was given more than 2 years before the relevant time.
 
 ##### 43 Confirmation of certification
     
@@ -14574,17 +14584,17 @@ Definitions and certificates for exclusions for offers and services
 
 ##### 44 Safe harbour if certificate given
     
-*   (1) The purpose of this clause is to provide certainty (subject to [clauses 45 to 46][1326]) to---
+*   (1) The purpose of this clause is to provide certainty (subject to [clauses 45 to 46][1329]) to---
         
-    *   (a) an offeror (or other relevant person) that a person is a wholesale investor of the kind referred to in [clause 3(2)][832]; or
+    *   (a) an offeror (or other relevant person) that a person is a wholesale investor of the kind referred to in [clause 3(2)][833]; or
     
-    *   (b) a provider (or other relevant person) that a person is a wholesale investor of the kind referred to in [clause 36(b)(i) to (iv)][833].
+    *   (b) a provider (or other relevant person) that a person is a wholesale investor of the kind referred to in [clause 36(b)(i) to (iv)][834].
     
     (2) A person (_A_) must be treated as being a wholesale investor as referred to in subclause (1)(a) or (b) (as the case may be) if A---
         
     *   (a) certifies in writing that A---
             
-        *   (i) is a wholesale investor within the meaning of [clause 3(2)][832] or [36(b)][833] (as the case may be); and
+        *   (i) is a wholesale investor within the meaning of [clause 3(2)][833] or [36(b)][834] (as the case may be); and
         
         *   (ii) understands the consequences of certifying himself, herself, or itself to be a wholesale investor; and
         
@@ -14592,7 +14602,7 @@ Definitions and certificates for exclusions for offers and services
     
     *   (b) states in the certificate---
             
-        *   (i) the paragraph in [clause 3(2)][832] or the subparagraph in [clause 36(b)][833] that is claimed to apply to A; and
+        *   (i) the paragraph in [clause 3(2)][833] or the subparagraph in [clause 36(b)][834] that is claimed to apply to A; and
         
         *   (ii) the grounds on which A claims that the paragraph or subparagraph applies; and
         
@@ -14604,11 +14614,11 @@ Definitions and certificates for exclusions for offers and services
 
 ##### 45 Offeror or provider may not rely on safe harbour certificate if knows A was not in fact wholesale investor
     
-*   (1) [Clause 44(2)][1325] does not apply to an offer of financial products to A if the offeror, before the financial products are issued or transferred to A under the offer, knows that A was not in fact a wholesale investor within the meaning of [clause 3(2)][832] at the time the certificate was given.
+*   (1) [Clause 44(2)][1328] does not apply to an offer of financial products to A if the offeror, before the financial products are issued or transferred to A under the offer, knows that A was not in fact a wholesale investor within the meaning of [clause 3(2)][833] at the time the certificate was given.
     
-    (2) [Clause 44(2)][1325] does not apply to the supply of a discretionary investment management service to A if the provider, before the investment authority is granted for the service, knows that A was not in fact a wholesale investor within the meaning of [clause 36(b)][833] at the time the certificate was given.
+    (2) [Clause 44(2)][1328] does not apply to the supply of a discretionary investment management service to A if the provider, before the investment authority is granted for the service, knows that A was not in fact a wholesale investor within the meaning of [clause 36(b)][834] at the time the certificate was given.
     
-    (3) [Clause 44(2)][1325] does not apply to any other relevant transaction entered into with A if the relevant person, before the relevant time for that transaction (rather than the relevant time for the certificate), knows that A was not in fact a wholesale investor within the meaning of [clause 3(2)][832] or [36(b)][833] at the time the certificate was given.
+    (3) [Clause 44(2)][1328] does not apply to any other relevant transaction entered into with A if the relevant person, before the relevant time for that transaction (rather than the relevant time for the certificate), knows that A was not in fact a wholesale investor within the meaning of [clause 3(2)][833] or [36(b)][834] at the time the certificate was given.
 
 ##### 46 Other provisions relating to certificates
     
@@ -14622,13 +14632,13 @@ Definitions and certificates for exclusions for offers and services
     
     *   (d) is otherwise given in the prescribed manner (if any).
     
-    (2) If a person gives written notice to an offeror, provider, or other relevant person that the certificate under [clause 41][1322] or [44][1325] is revoked, the offeror, provider, or relevant person may not rely on the certificate in respect of any subsequent offer, service, or transaction.
+    (2) If a person gives written notice to an offeror, provider, or other relevant person that the certificate under [clause 41][1325] or [44][1328] is revoked, the offeror, provider, or relevant person may not rely on the certificate in respect of any subsequent offer, service, or transaction.
 
 ##### 47 Offences relating to certificates
     
-*   (1) Every person commits an offence who gives a certificate under [clause 41][1322] or [44][1325] knowing that it is false or misleading in a material particular.
+*   (1) Every person commits an offence who gives a certificate under [clause 41][1325] or [44][1328] knowing that it is false or misleading in a material particular.
     
-    (2) Every person (_A_) commits an offence who incites, counsels, or procures any person to give a certificate under [clause 41][1322] or [44][1325] that A knows is false or misleading in a material particular.
+    (2) Every person (_A_) commits an offence who incites, counsels, or procures any person to give a certificate under [clause 41][1325] or [44][1328] that A knows is false or misleading in a material particular.
     
     (3) Every person who commits an offence under this clause is liable, on conviction, to a fine not exceeding $50,000\.
 
@@ -14638,7 +14648,7 @@ Definitions and certificates for exclusions for offers and services
     
 *   (1) In this schedule, a person _controls_ an entity if the person---
         
-    *   (a) is the entity's holding company (within the meaning of [section 5][828] of the Companies Act 1993); or
+    *   (a) is the entity's holding company (within the meaning of [section 5][829] of the Companies Act 1993); or
     
     *   (b) has the capacity to determine the outcome of decisions about the entity's financial and operating policies.
     
@@ -14668,7 +14678,7 @@ Definitions and certificates for exclusions for offers and services
     
     _relevant time_, in relation to---
         
-    *   (a) applying the investment activity criteria in [clause 38][1319] and the meaning of large in [clause 39][1320] for the purposes of a certificate given under [clause 44][1325], means immediately before the certificate is given:
+    *   (a) applying the investment activity criteria in [clause 38][1322] and the meaning of large in [clause 39][1323] for the purposes of a certificate given under [clause 44][1328], means immediately before the certificate is given:
     
     *   (b) an offer of financial products to a person in any other case, means immediately before financial products are issued or transferred to the person under the offer:
     
@@ -14695,49 +14705,49 @@ Registers
 
 ## Contents
 
-[Register of offers of financial products][1345]
+[Register of offers of financial products][1347]
 
-[1 ][1346][][1346][Register of offers of financial products][1346]
+[1][1348][][1348][Register of offers of financial products][1348]
 
-[2 ][1347][][1347][Purposes of register][1347]
+[2][1349][][1349][Purposes of register][1349]
 
-[3 ][1348][][1348][Contents of register][1348]
+[3][1350][][1350][Contents of register][1350]
 
-[Register of managed investment schemes][1349]
+[Register of managed investment schemes][1351]
 
-[4 ][1350][][1350][Register of managed investment schemes][1350]
+[4][1352][][1352][Register of managed investment schemes][1352]
 
-[5 ][1351][][1351][Purposes of register][1351]
+[5][1353][][1353][Purposes of register][1353]
 
-[6 ][1352][][1352][Contents of register][1352]
+[6][1354][][1354][Contents of register][1354]
 
-[7 ][897][][897][Registration directions by FMA][897]
+[7][900][][900][Registration directions by FMA][900]
 
-[Keeping of registers under this schedule][1353]
+[Keeping of registers under this schedule][1355]
 
-[8 ][1354][][1354][Registrar may keep other registers][1354]
+[8][1356][][1356][Registrar may keep other registers][1356]
 
-[9 ][1355][][1355][Registers to be kept by Registrar][1355]
+[9][1357][][1357][Registers to be kept by Registrar][1357]
 
-[10 ][1356][][1356][Operation of and access to registers][1356]
+[10][1358][][1358][Operation of and access to registers][1358]
 
-[11 ][1357][][1357][Amendments to registers][1357]
+[11][1359][][1359][Amendments to registers][1359]
 
-[12 ][1358][][1358][Search of register][1358]
+[12][1360][][1360][Search of register][1360]
 
-[Miscellaneous][1359]
+[Miscellaneous][1361]
 
-[13 ][1360][][1360][Lodging or giving documents or otherwise notifying Registrar][1360]
+[13][1362][][1362][Lodging or giving documents or otherwise notifying Registrar][1362]
 
-[14 ][1361][][1361][Certificate of lodgement or registration][1361]
+[14][1363][][1363][Certificate of lodgement or registration][1363]
 
-[15 ][1362][][1362][When documents are lodged][1362]
+[15][1364][][1364][When documents are lodged][1364]
 
-[16 ][1363][][1363][Registrar may give notice of lodgement or notification of changes][1363]
+[16][1365][][1365][Registrar may give notice of lodgement or notification of changes][1365]
 
-[17 ][1364][][1364][Certified copy of information on register][1364]
+[17][1366][][1366][Certified copy of information on register][1366]
 
-[18 ][1365][][1365][Power of Registrar to delegate][1365]
+[18][1367][][1367][Power of Registrar to delegate][1367]
 
 ---
 
@@ -14747,7 +14757,7 @@ Registers
     
 *   A register called the register of offers of financial products is established.
     
-    Compare: 1978 No 103 [s 43N][1366]
+    Compare: 1978 No 103 [s 43N][1368]
 
 ##### 2 Purposes of register
     
@@ -14767,7 +14777,7 @@ Registers
     
     *   (c) to assist any person to decide whether or not to acquire financial products under an offer of financial products; and
     
-    *   (d) to assist any person to perform a financial adviser service (within the meaning of the [Financial Advisers Act 2008][841]) or to otherwise comment on an offer of financial products; and
+    *   (d) to assist any person to perform a financial adviser service (within the meaning of the [Financial Advisers Act 2008][843]) or to otherwise comment on an offer of financial products; and
     
     *   (e) to assist any person---
             
@@ -14777,7 +14787,7 @@ Registers
         
         
     
-    Compare: 1978 No 103 [s 43O][1367]
+    Compare: 1978 No 103 [s 43O][1369]
 
 ##### 3 Contents of register
     
@@ -14803,7 +14813,7 @@ Registers
     
     (2) The register must contain any other prescribed information (whether or not relating to a regulated offer).
     
-    (3) In this clause, _financial service provider number_, in relation to a person, is the number given to the person on the person's registration under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][858].
+    (3) In this clause, _financial service provider number_, in relation to a person, is the number given to the person on the person's registration under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][860].
 
 #### Register of managed investment schemes
 
@@ -14897,7 +14907,7 @@ Registers
     
     (2) The Registrar must amend the register if the regulations require the Registrar to do so in circumstances specified by the regulations.
     
-    Compare: 1978 No 103 [s 43R][1368]
+    Compare: 1978 No 103 [s 43R][1370]
 
 ##### 12 Search of register
     
@@ -14907,15 +14917,15 @@ Registers
     
     (3) A search of the register may be carried out only by the following persons for the following purposes:
         
-    *   (a) a person, for a purpose referred to in [clause 2][1347] or [5][1351] or, in the case of a register kept under clause 8, a prescribed purpose:
+    *   (a) a person, for a purpose referred to in [clause 2][1349] or [5][1353] or, in the case of a register kept under clause 8, a prescribed purpose:
     
     *   (b) a person, for the purpose of advising another person in connection with any of the purposes referred to in this subclause:
     
     *   (c) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual.
     
-    (4) A person who searches the register for personal information in breach of this clause must be treated, for the purposes of [Part 8][1369] of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
+    (4) A person who searches the register for personal information in breach of this clause must be treated, for the purposes of [Part 8][1371] of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
     
-    Compare: 1978 No 103 [s 43S][1370]
+    Compare: 1978 No 103 [s 43S][1372]
 
 #### Miscellaneous
 
@@ -14933,7 +14943,7 @@ Registers
     
     (3) The certificate must, in the case of a PDS, specify an offer number for the regulated offer.
     
-    Compare: 1978 No 103 [s 42(3)][1371], (4)
+    Compare: 1978 No 103 [s 42(3)][1373], (4)
 
 ##### 15 When documents are lodged
     
@@ -14990,7 +15000,7 @@ Schedule 3 schemes
     
 *   The FMA may, by written notice to the trustees of a scheme,---
         
-    *   (a) approve the scheme as a [Schedule 3][783] scheme if it is satisfied the scheme meets the approval criteria set out in [clause 3][1372]:
+    *   (a) approve the scheme as a [Schedule 3][783] scheme if it is satisfied the scheme meets the approval criteria set out in [clause 3][1374]:
     
     *   (b) withdraw an approval of the scheme if---
             
@@ -15036,13 +15046,13 @@ Schedule 3 schemes
         
         
     
-    *   (b) is a New Zealand citizen or is entitled, in terms of the [Immigration Act 2009][904], to be in New Zealand indefinitely.
+    *   (b) is a New Zealand citizen or is entitled, in terms of the [Immigration Act 2009][907], to be in New Zealand indefinitely.
     
     
 
 ##### 4 Procedure for exercising powers
     
-*   The FMA must not exercise a power under [clause 2(b)][1373] unless---
+*   The FMA must not exercise a power under [clause 2(b)][1375] unless---
         
     *   (a) the FMA gives the trustees no less than 10 working days' written notice of the following matters before it exercises the power:
             
@@ -15058,7 +15068,7 @@ Schedule 3 schemes
 
 ##### 5 Notice requirements
     
-*   (1) The notice under [clause 2(b)][1373] must---
+*   (1) The notice under [clause 2(b)][1375] must---
         
     *   (a) state the FMA's reasons for giving the notice; and
     
@@ -15085,176 +15095,176 @@ Transitional provisions
 
 ## Contents
 
-[1 ][1374][][1374][Overview][1374]
+[1][1376][][1376][Overview][1376]
 
-[2 ][1375][][1375][Transitional provisions subject to transitional regulations and exemptions][1375]
+[2][1377][][1377][Transitional provisions subject to transitional regulations and exemptions][1377]
 
-[3 ][1376][][1376][Interpretation][1376]
+[3][1378][][1378][Interpretation][1378]
 
-[Part 1][1377]  
-[Transitional provisions on enactment of this Act for offers of financial products][1377]
+[Part 1][1379]  
+[Transitional provisions on enactment of this Act for offers of financial products][1379]
 
-[4 ][1378][][1378][Act applies to offer unless former enactments continue to apply][1378]
+[4][1380][][1380][Act applies to offer unless former enactments continue to apply][1380]
 
-[5 ][1379][][1379][Former enactments continue to apply if prospectus registered before commencement][1379]
+[5][1381][][1381][Former enactments continue to apply if prospectus registered before commencement][1381]
 
-[6 ][1380][][1380][Issuer may elect to comply with former enactments instead of this Act if prospectus registered within 12 months or 2 years of commencement][1380]
+[6][1382][][1382][Issuer may elect to comply with former enactments instead of this Act if prospectus registered within 12 months or 2 years of commencement][1382]
 
-[7 ][1253][][1253][Former enactments apply if no prospectus required unless issuer elects otherwise][1253]
+[7][1256][][1256][Former enactments apply if no prospectus required unless issuer elects otherwise][1256]
 
-[8 ][1381][][1381][This Act and 1978 Act are (on transitional basis) alternative means of compliance][1381]
+[8][1383][][1383][This Act and 1978 Act are (on transitional basis) alternative means of compliance][1383]
 
-[9 ][1382][][1382][All offers and allotments under old law must cease after scheme registered][1382]
+[9][1384][][1384][All offers and allotments under old law must cease after scheme registered][1384]
 
-[10 ][1383][][1383][All offers and allotments under old law must cease within 2 years of commencement][1383]
+[10][1385][][1385][All offers and allotments under old law must cease within 2 years of commencement][1385]
 
-[11 ][1384][][1384][FMA may continue to perform and exercise functions, duties, and powers][1384]
+[11][1386][][1386][FMA may continue to perform and exercise functions, duties, and powers][1386]
 
-[12 ][1385][][1385][Part does not prevent PDS from being lodged][1385]
+[12][1387][][1387][Part does not prevent PDS from being lodged][1387]
 
-[13 ][1386][][1386][Part 2 applies even if former enactments apply to offer][1386]
+[13][1388][][1388][Part 2 applies even if former enactments apply to offer][1388]
 
-[14 ][1387][][1387][Unsubstantiated representations prohibitions do not apply to prospectuses and investment statements][1387]
+[14][1389][][1389][Unsubstantiated representations prohibitions do not apply to prospectuses and investment statements][1389]
 
-[Part 2][1388]  
-[Transitional provisions on enactment of this Act relating to securities allotted under Securities Act 1978][1388]
+[Part 2][1390]  
+[Transitional provisions on enactment of this Act relating to securities allotted under Securities Act 1978][1390]
 
-[15 ][1389][][1389][Part applies to securities allotted under Securities Act 1978][1389]
+[15][1391][][1391][Part applies to securities allotted under Securities Act 1978][1391]
 
-[16 ][1390][][1390][Interpretation in this Part][1390]
+[16][1392][][1392][Interpretation in this Part][1392]
 
-[Until effective date][1391]
+[Until effective date][1393]
 
-[17 ][1392][][1392][Former enactments continue to apply until effective date in accordance with regulations][1392]
+[17][1394][][1394][Former enactments continue to apply until effective date in accordance with regulations][1394]
 
-[18 ][1393][][1393][KiwiSaver schemes, superannuation schemes, and unit trusts continue under former enactments until effective date][1393]
+[18][1395][][1395][KiwiSaver schemes, superannuation schemes, and unit trusts continue under former enactments until effective date][1395]
 
-[19 ][1394][][1394][Transition period][1394]
+[19][1396][][1396][Transition period][1396]
 
-[Transitional provisions on and after effective date][1395]
+[Transitional provisions on and after effective date][1397]
 
-[20 ][1136][][1136][Ongoing requirements of this Act apply on and after effective date][1136]
+[20][1139][][1139][Ongoing requirements of this Act apply on and after effective date][1139]
 
-[21 ][1162][][1162][Issuer of debt security must lodge trust deed and supply information][1162]
+[21][1165][][1165][Issuer of debt security must lodge trust deed and supply information][1165]
 
-[22 ][908][][908][Managed investment scheme treated as being registered and issuer must supply information][908]
+[22][911][][911][Managed investment scheme treated as being registered and issuer must supply information][911]
 
-[23 ][1396][][1396][Type of registration][1396]
+[23][1398][][1398][Type of registration][1398]
 
-[24 ][1397][][1397][Registrar to amend register][1397]
+[24][1399][][1399][Registrar to amend register][1399]
 
-[25 ][1159][][1159][Restriction on making regulated offers and accepting contributions if requirements have not been complied with][1159]
+[25][1162][][1162][Restriction on making regulated offers and accepting contributions if requirements have not been complied with][1162]
 
-[26 ][1398][][1398][Issuer may amend or replace governing document with FMA's consent][1398]
+[26][1400][][1400][Issuer may amend or replace governing document with FMA's consent][1400]
 
-[27 ][1399][][1399][Conversion of governing documents to separate governing documents][1399]
+[27][1401][][1401][Conversion of governing documents to separate governing documents][1401]
 
-[28 ][1400][][1400][Amalgamation of schemes][1400]
+[28][1402][][1402][Amalgamation of schemes][1402]
 
-[29 ][1401][][1401][Amended enactments continue to apply or have effect in connection with securities in accordance with regulations][1401]
+[29][1403][][1403][Amended enactments continue to apply or have effect in connection with securities in accordance with regulations][1403]
 
-[30 ][1402][][1402][Issuer must send notification to security holders][1402]
+[30][1404][][1404][Issuer must send notification to security holders][1404]
 
-[31 ][1403][][1403][PDS treated as having been given][1403]
+[31][1405][][1405][PDS treated as having been given][1405]
 
-[32 ][1404][][1404][FMA may continue to perform and exercise functions, duties, and powers][1404]
+[32][1406][][1406][FMA may continue to perform and exercise functions, duties, and powers][1406]
 
-[33 ][1405][][1405][Certain requirements of former law continue for participatory securities that are not financial products][1405]
+[33][1407][][1407][Certain requirements of former law continue for participatory securities that are not financial products][1407]
 
-[Part 3][1406]  
-[Other transitional provisions on enactment of this Act][1406]
+[Part 3][1408]  
+[Other transitional provisions on enactment of this Act][1408]
 
-[Unit trusts and superannuation schemes in relation to which offers to public have not been made][1407]
+[Unit trusts and superannuation schemes in relation to which offers to public have not been made][1409]
 
-[34 ][1408][][1408][Unit trusts in relation to which offers to public have not been made][1408]
+[34][1410][][1410][Unit trusts in relation to which offers to public have not been made][1410]
 
-[35 ][1409][][1409][Superannuation schemes in relation to which offers to public have not been made][1409]
+[35][1411][][1411][Superannuation schemes in relation to which offers to public have not been made][1411]
 
-[Amended enactments continue to apply or have effect in connection with schemes][1410]
+[Amended enactments continue to apply or have effect in connection with schemes][1412]
 
-[36 ][1411][][1411][Amended enactments continue to apply or have effect in connection with schemes in accordance with regulations][1411]
+[36][1413][][1413][Amended enactments continue to apply or have effect in connection with schemes in accordance with regulations][1413]
 
-[37 ][1412][][1412][KiwiSaver schemes and superannuation schemes are retirement schemes during transition period][1412]
+[37][1414][][1414][KiwiSaver schemes and superannuation schemes are retirement schemes during transition period][1414]
 
-[Extra transitional provisions relating to managed investment schemes ][1413]
+[Extra transitional provisions relating to managed investment schemes][1415]
 
-[38 ][1414][][1414][Remaining trustees (if any) cease to hold office][1414]
+[38][1416][][1416][Remaining trustees (if any) cease to hold office][1416]
 
-[39 ][1163][][1163][Restricted schemes have 3 years to sell investments so as to comply with related party asset 5% cap rule][1163]
+[39][1166][][1166][Restricted schemes have 3 years to sell investments so as to comply with related party asset 5% cap rule][1166]
 
-[40 ][1415][][1415][Savings related to Superannuation Schemes Act 1976][1415]
+[40][1417][][1417][Savings related to Superannuation Schemes Act 1976][1417]
 
-[Repealed enactments continue to be financial markets legislation][1416]
+[Repealed enactments continue to be financial markets legislation][1418]
 
-[41 ][1417][][1417][Repealed enactments continue to be financial markets legislation][1417]
+[41][1419][][1419][Repealed enactments continue to be financial markets legislation][1419]
 
-[Licensing of financial product markets][1418]
+[Licensing of financial product markets][1420]
 
-[42 ][1419][][1419][Transition process for existing financial product markets][1419]
+[42][1421][][1421][Transition process for existing financial product markets][1421]
 
-[Substantial holding disclosure][1420]
+[Substantial holding disclosure][1422]
 
-[43 ][1421][][1421][Previous disclosure under former enactment has effect under this Act][1421]
+[43][1423][][1423][Previous disclosure under former enactment has effect under this Act][1423]
 
-[44 ][1422][][1422][Corporate trustees and nominee companies that opt in to substantial holding exemption][1422]
+[44][1424][][1424][Corporate trustees and nominee companies that opt in to substantial holding exemption][1424]
 
-[Market services licences][1423]
+[Market services licences][1425]
 
-[45 ][1424][][1424][Authorised dealers treated as holding market services licence][1424]
+[45][1426][][1426][Authorised dealers treated as holding market services licence][1426]
 
-[46 ][1425][][1425][FMA may exercise powers in respect of licences][1425]
+[46][1427][][1427][FMA may exercise powers in respect of licences][1427]
 
-[Approval of electronic transfer systems continues][1426]
+[Approval of electronic transfer systems continues][1428]
 
-[47 ][1427][][1427][Approval of electronic transfer systems continues][1427]
+[47][1429][][1429][Approval of electronic transfer systems continues][1429]
 
-[Banning orders][1428]
+[Banning orders][1430]
 
-[48 ][1429][][1429][References to banning orders under this Act include references to banning orders under former enactments][1429]
+[48][1431][][1431][References to banning orders under this Act include references to banning orders under former enactments][1431]
 
-[49 ][1430][][1430][References to failing to comply with this Act include references to failing to comply with former enactments for purposes of banning orders][1430]
+[49][1432][][1432][References to failing to comply with this Act include references to failing to comply with former enactments for purposes of banning orders][1432]
 
-[Financial reporting][1431]
+[Financial reporting][1433]
 
-[50 ][1432][][1432][Issuers continue to be issuers under Financial Reporting Act 1993][1432] \[Repealed\]
+[50][1434][][1434][Issuers continue to be issuers under Financial Reporting Act 1993][1434] \[Repealed\]
 
-[51 ][1433][][1433][Section 10A of Auditor Regulation Act 2011 also applies to exemptions granted under Securities Act 1978][1433]
+[51][1435][][1435][Section 10A of Auditor Regulation Act 2011 also applies to exemptions granted under Securities Act 1978][1435]
 
-[Offences and contraventions under repealed, revoked, or amended enactments][1434]
+[Offences and contraventions under repealed, revoked, or amended enactments][1436]
 
-[52 ][1435][][1435][Transitional provision for offences and contravention under repealed, revoked, or amended enactments][1435]
+[52][1437][][1437][Transitional provision for offences and contravention under repealed, revoked, or amended enactments][1437]
 
-[Contributory mortgages][1436]
+[Contributory mortgages][1438]
 
-[53 ][1437][][1437][Former law continues for contributory mortgages][1437]
+[53][1439][][1439][Former law continues for contributory mortgages][1439]
 
-[Appointments as default KiwiSaver scheme providers][1438]
+[Appointments as default KiwiSaver scheme providers][1440]
 
-[54 ][1439][][1439][Appointments as default KiwiSaver scheme providers][1439]
+[54][1441][][1441][Appointments as default KiwiSaver scheme providers][1441]
 
-[Persons who participate in offer under Securities Act 1978 continue to be financial service providers][1440]
+[Persons who participate in offer under Securities Act 1978 continue to be financial service providers][1442]
 
-[55 ][1441][][1441][Persons who participate in offer under Securities Act 1978 continue to be financial service providers][1441]
+[55][1443][][1443][Persons who participate in offer under Securities Act 1978 continue to be financial service providers][1443]
 
-[Miscellaneous matters relating to Schedule 1][1442]
+[Miscellaneous matters relating to Schedule 1][1444]
 
-[56 ][1443][][1443][Sale offers under clauses 31 and 34 of Schedule 1][1443]
+[56][1445][][1445][Sale offers under clauses 31 and 34 of Schedule 1][1445]
 
-[57 ][1257][][1257][Transitional disclosure exclusion][1257]
+[57][1260][][1260][Transitional disclosure exclusion][1260]
 
-[58 ][1444][][1444][Exclusions for employee share purchase schemes and small offers can take into account offers under former law][1444]
+[58][1446][][1446][Exclusions for employee share purchase schemes and small offers can take into account offers under former law][1446]
 
-[59 ][1258][][1258][Additional Securities Act 1978 exemption][1258]
+[59][1261][][1261][Additional Securities Act 1978 exemption][1261]
 
-[Recognition regime regulations][1445]
+[Recognition regime regulations][1447]
 
-[60 ][1446][][1446][FMA may make order prohibiting recognition regime offer on basis of contravention of former regulations][1446]
+[60][1448][][1448][FMA may make order prohibiting recognition regime offer on basis of contravention of former regulations][1448]
 
-[61 ][1447][][1447][FMA may declare failure to meet preconditions of recognition regime under Securities Act 1978 to be non-material][1447]
+[61][1449][][1449][FMA may declare failure to meet preconditions of recognition regime under Securities Act 1978 to be non-material][1449]
 
-[Amendment to section 46 of Trustee Act 1956][1448]
+[Amendment to section 46 of Trustee Act 1956][1450]
 
-[62 ][1449][][1449][Amendment to section 46 of Trustee Act 1956 does not affect existing proceedings][1449]
+[62][1451][][1451][Amendment to section 46 of Trustee Act 1956 does not affect existing proceedings][1451]
 
 ---
 
@@ -15262,17 +15272,17 @@ Transitional provisions
     
 *   (1) This schedule provides for transitional provisions as follows:
         
-    *   (a) [Part 1][1377] provides for whether the former law (in particular, the Securities Act 1978) or the new law (this Act) applies to an offer of financial products:
+    *   (a) [Part 1][1379] provides for whether the former law (in particular, the Securities Act 1978) or the new law (this Act) applies to an offer of financial products:
     
-    *   (b) [Part 2][1388] provides for the former law to continue to apply to securities allotted under the Securities Act 1978 until an effective date, at which point ongoing requirements of this Act may apply:
+    *   (b) [Part 2][1390] provides for the former law to continue to apply to securities allotted under the Securities Act 1978 until an effective date, at which point ongoing requirements of this Act may apply:
     
-    *   (c) [Part 3][1406] provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets).
+    *   (c) [Part 3][1408] provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets).
     
     (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ##### 2 Transitional provisions subject to transitional regulations and exemptions
     
-*   This schedule is subject to--- 
+*   This schedule is subject to---
         
     *   (a) any regulations made under [section 547][720]:
     
@@ -15282,7 +15292,7 @@ Transitional provisions
 
 ##### 3 Interpretation
     
-*   In this schedule, _this Act_ means the [Financial Markets Conduct Act 2013][1450] and includes the [Financial Markets (Repeals and Amendments) Act 2013][786].
+*   In this schedule, _this Act_ means the [Financial Markets Conduct Act 2013][1452] and includes the [Financial Markets (Repeals and Amendments) Act 2013][786].
 
 ## Part 1  
 Transitional provisions on enactment of this Act for offers of financial products
@@ -15293,7 +15303,7 @@ Transitional provisions on enactment of this Act for offers of financial product
     
     (2) In this Part,---
     
-    _1978 Act_ means the [Securities Act 1978][1451]
+    _1978 Act_ means the [Securities Act 1978][1453]
     
     _12-month date_ means the date that is 12 months after the commencement of this clause
     
@@ -15305,29 +15315,29 @@ Transitional provisions on enactment of this Act for offers of financial product
     
     _former enactments_ means each of the following:
         
-    *   (a) the [1978 Act][1451] (as in force immediately before the commencement of this clause):
+    *   (a) the [1978 Act][1453] (as in force immediately before the commencement of this clause):
     
-    *   (b) the [Securities Regulations 2009][1452] and any other regulations made under the [1978 Act][1451] (as in force immediately before the commencement of this clause):
+    *   (b) the [Securities Regulations 2009][1454] and any other regulations made under the [1978 Act][1453] (as in force immediately before the commencement of this clause):
     
-    *   (c) exemptions granted under the [1978 Act][1451] (to the extent that those exemptions apply to the relevant offer of securities)---
+    *   (c) exemptions granted under the [1978 Act][1453] (to the extent that those exemptions apply to the relevant offer of securities)---
             
         *   (i) as in force immediately before the commencement of this clause (but subject to any variation or revocation under clause 11); or
         
-        *   (ii) as in force after being granted by the FMA under [clause 11][1384].
+        *   (ii) as in force after being granted by the FMA under [clause 11][1386].
         
         
     
-    (3) In this Part, _issuer_, _prospectus_, _registered prospectus_, and _securities_ have the same meanings as in the [1978 Act][1451].
+    (3) In this Part, _issuer_, _prospectus_, _registered prospectus_, and _securities_ have the same meanings as in the [1978 Act][1453].
     
-    (4) In this Part, a reference to an offer of securities to the public has the same meaning as in [section 3][1453] of the 1978 Act.
+    (4) In this Part, a reference to an offer of securities to the public has the same meaning as in [section 3][1455] of the 1978 Act.
 
 ##### 5 Former enactments continue to apply if prospectus registered before commencement
     
-*   If securities are offered in a prospectus that is registered under the [1978 Act][1451] before the commencement of this clause, the former enactments continue to apply to the offer and allotment of those securities under that prospectus as if this Act had not been enacted.
+*   If securities are offered in a prospectus that is registered under the [1978 Act][1453] before the commencement of this clause, the former enactments continue to apply to the offer and allotment of those securities under that prospectus as if this Act had not been enacted.
 
 ##### 6 Issuer may elect to comply with former enactments instead of this Act if prospectus registered within 12 months or 2 years of commencement
     
-*   (1) Despite the repeal of the [1978 Act][1451], an issuer of securities may register a prospectus in respect of the securities in accordance with the former enactments on or before---
+*   (1) Despite the repeal of the [1978 Act][1453], an issuer of securities may register a prospectus in respect of the securities in accordance with the former enactments on or before---
         
     *   (a) the 2-year date in the case of continuous issue securities; or
     
@@ -15335,17 +15345,17 @@ Transitional provisions on enactment of this Act for offers of financial product
     
     (2) If securities are offered in a prospectus that is registered under subclause (1) and the issuer makes an election under subclause (3), the former enactments apply, as if this Act had not been enacted, to the offer and allotment of those securities under that prospectus.
     
-    (3) For the purposes of subclause (2), an issuer may elect for the former enactments to apply to an offer of securities by including a statement in the prospectus to the effect that the [Securities Act 1978][1451] applies to the offer.
+    (3) For the purposes of subclause (2), an issuer may elect for the former enactments to apply to an offer of securities by including a statement in the prospectus to the effect that the [Securities Act 1978][1453] applies to the offer.
     
-    (4) The statement referred to in subclause (3) may include additional information about an applicable exemption granted under the [1978 Act][1451] that is necessary to ensure that the statement is not misleading.
+    (4) The statement referred to in subclause (3) may include additional information about an applicable exemption granted under the [1978 Act][1453] that is necessary to ensure that the statement is not misleading.
 
 ##### 7 Former enactments apply if no prospectus required unless issuer elects otherwise
     
-*   (1) If, under the [1978 Act][1451] or an exemption granted under that Act, no registered prospectus is required for an offer of securities to the public in New Zealand, the former enactments apply, as if this Act had not been enacted, to any offer and allotment of those securities that is made before the close of the 2-year date unless the issuer makes an election, under subclause (3), for this Act to apply.
+*   (1) If, under the [1978 Act][1453] or an exemption granted under that Act, no registered prospectus is required for an offer of securities to the public in New Zealand, the former enactments apply, as if this Act had not been enacted, to any offer and allotment of those securities that is made before the close of the 2-year date unless the issuer makes an election, under subclause (3), for this Act to apply.
     
     (2) However,---
         
-    *   (a) subclause (1) does not permit an offer to be made in reliance upon [section 5(2CB) or (2CBA)][875] of the 1978 Act:
+    *   (a) subclause (1) does not permit an offer to be made in reliance upon [section 5(2CB) or (2CBA)][878] of the 1978 Act:
     
     *   (b) subclause (1) does not apply in the prescribed circumstances.
     
@@ -15369,15 +15379,15 @@ Transitional provisions on enactment of this Act for offers of financial product
 
 ##### 9 All offers and allotments under old law must cease after scheme registered
     
-*   Despite [clauses 4 to 8][1378], no offer or allotment of managed investment products may be made under the former enactments after the date on which the managed investment scheme to which the products relate becomes a registered scheme (or is treated as being a registered scheme under [Part 2][1388] of this schedule).
+*   Despite [clauses 4 to 8][1380], no offer or allotment of managed investment products may be made under the former enactments after the date on which the managed investment scheme to which the products relate becomes a registered scheme (or is treated as being a registered scheme under [Part 2][1390] of this schedule).
 
 ##### 10 All offers and allotments under old law must cease within 2 years of commencement
     
-*   Despite [clauses 4 to 8][1378], no offer or allotment of securities may be made under the former enactments after the 2-year date (and this Act applies to all offers and acquisitions of financial products made after that date).
+*   Despite [clauses 4 to 8][1380], no offer or allotment of securities may be made under the former enactments after the 2-year date (and this Act applies to all offers and acquisitions of financial products made after that date).
 
 ##### 11 FMA may continue to perform and exercise functions, duties, and powers
     
-*   If the former enactments continue to apply to an offer of securities, the FMA may continue to perform and exercise all of its functions, duties, and powers conferred or imposed on it by or under the former enactments as if this Act had not been enacted (for example, it may grant, vary, or revoke an exemption under [section 70B][1454] of the 1978 Act).
+*   If the former enactments continue to apply to an offer of securities, the FMA may continue to perform and exercise all of its functions, duties, and powers conferred or imposed on it by or under the former enactments as if this Act had not been enacted (for example, it may grant, vary, or revoke an exemption under [section 70B][1456] of the 1978 Act).
 
 ##### 12 Part does not prevent PDS from being lodged
     
@@ -15385,50 +15395,50 @@ Transitional provisions on enactment of this Act for offers of financial product
 
 ##### 13 Part 2 applies even if former enactments apply to offer
     
-*   (1) Despite [clause 8][1381], [Part 2][23] of this Act (and any other provision of this Act relating to the enforcement, application, or effect of that Part) applies to an offer of securities to which the former enactments apply.
+*   (1) Despite [clause 8][1383], [Part 2][23] of this Act (and any other provision of this Act relating to the enforcement, application, or effect of that Part) applies to an offer of securities to which the former enactments apply.
     
-    (2) However, conduct that contravenes, or leads to liability under, [sections 55A to 57][1455] (in respect of an untrue statement) or [58][1456] of the 1978 Act does not contravene sections 19 to 23 of this Act.
+    (2) However, conduct that contravenes, or leads to liability under, [sections 55A to 57][1457] (in respect of an untrue statement) or [58][1458] of the 1978 Act does not contravene sections 19 to 23 of this Act.
     
-    (3) For the purpose of this section, conduct must be treated as contravening, or leading to liability under, [sections 55A to 57][1455] or [58][1456] of the 1978 Act even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
+    (3) For the purpose of this section, conduct must be treated as contravening, or leading to liability under, [sections 55A to 57][1457] or [58][1458] of the 1978 Act even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
     
     Compare: Australian Securities and Investments Commission Act 2001 ss 12DA(1A), 12DB(2) (Aust)
 
 ##### 14 Unsubstantiated representations prohibitions do not apply to prospectuses and investment statements
     
-*   (1) [Section 23][31] and the provision of the [Fair Trading Act 1986][1457] that corresponds to section 23 do not apply to a representation made in a registered prospectus or an investment statement (within the meaning of the [1978 Act][1451]).
+*   (1) [Section 23][31] and the provision of the [Fair Trading Act 1986][1459] that corresponds to section 23 do not apply to a representation made in a registered prospectus or an investment statement (within the meaning of the [1978 Act][1453]).
     
-    (2) Subclause (1) applies despite [clause 13(1)][1386].
+    (2) Subclause (1) applies despite [clause 13(1)][1388].
 
 ## Part 2  
 Transitional provisions on enactment of this Act relating to securities allotted under Securities Act 1978
 
 ##### 15 Part applies to securities allotted under Securities Act 1978
     
-*   (1) This Part applies to an allotted security offered pursuant to an offer for which, or for which but for an exemption granted by the FMA or the Securities Commission under the [1978 Act][1451], an investment statement or a registered prospectus, or both, is or was required under that Act.
+*   (1) This Part applies to an allotted security offered pursuant to an offer for which, or for which but for an exemption granted by the FMA or the Securities Commission under the [1978 Act][1453], an investment statement or a registered prospectus, or both, is or was required under that Act.
     
     (2) However, this Part does not apply to a security if, before the commencement of this clause, the security was cancelled, redeemed, or forfeited, or all of the obligations owing under the security had been discharged.
     
-    (3) A security referred to in subclause (1) includes a security allotted under an offer to which the [1978 Act][1451] applies under [Part 1][784] of this schedule.
+    (3) A security referred to in subclause (1) includes a security allotted under an offer to which the [1978 Act][1453] applies under [Part 1][784] of this schedule.
 
 ##### 16 Interpretation in this Part
     
 *   (1) In this Part,---
     
-    _1978 Act_ means the [Securities Act 1978][1451]
+    _1978 Act_ means the [Securities Act 1978][1453]
     
     _effective date_, in relation to a particular security, means the earlier of the dates set out in clause 19(1)
     
     _former enactments_---
         
-    *   (a) means the [1978 Act][1451], the [Securities Regulations 2009][1452], exemptions granted under the 1978 Act, and any other enactments made under the 1978 Act; and
+    *   (a) means the [1978 Act][1453], the [Securities Regulations 2009][1454], exemptions granted under the 1978 Act, and any other enactments made under the 1978 Act; and
     
     *   (b) includes,---
             
         *   (i) in relation to an interest in a KiwiSaver scheme, the [KiwiSaver Act 2006][814]:
         
-        *   (ii) in relation to an interest in a superannuation scheme (other than a KiwiSaver scheme), the [Superannuation Schemes Act 1989][1458]:
+        *   (ii) in relation to an interest in a superannuation scheme (other than a KiwiSaver scheme), the [Superannuation Schemes Act 1989][1460]:
         
-        *   (iii) in relation to a unit in a unit trust, the [Unit Trusts Act 1960][1459]:
+        *   (iii) in relation to a unit in a unit trust, the [Unit Trusts Act 1960][1461]:
         
         *   (iv) the [Securities Trustees and Statutory Supervisors Act 2011][817]
         
@@ -15436,17 +15446,17 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     _issuer_, in relation to a security, means,---
         
-    *   (a) before the effective date, the issuer within the meaning of the [1978 Act][1451]:
+    *   (a) before the effective date, the issuer within the meaning of the [1978 Act][1453]:
     
     *   (b) on and after the effective date, the issuer within the meaning of [section 11][15]
     
     _KiwiSaver schemes register_ means the KiwiSaver schemes register established under the [KiwiSaver Act 2006][814]
     
-    _transition period_ has the meaning set out in [clause 19(1)][1394].
+    _transition period_ has the meaning set out in [clause 19(1)][1396].
     
-    (2) In this Part, _investment statement_, _registered prospectus_, and _securities_ have the same meanings as in the [1978 Act][1451] (as in force immediately before the commencement of this clause).
+    (2) In this Part, _investment statement_, _registered prospectus_, and _securities_ have the same meanings as in the [1978 Act][1453] (as in force immediately before the commencement of this clause).
     
-    (3) In this clause and [clause 18][1393], _KiwiSaver scheme_, _scheme_, _superannuation scheme_, _unit_, and _unit trust_ have the same meanings as in [section 2(1)][842] of the 1978 Act (as in force immediately before the commencement of this clause).
+    (3) In this clause and [clause 18][1395], _KiwiSaver scheme_, _scheme_, _superannuation scheme_, _unit_, and _unit trust_ have the same meanings as in [section 2(1)][844] of the 1978 Act (as in force immediately before the commencement of this clause).
 
 #### Until effective date
 
@@ -15456,7 +15466,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2) _See_ [section 547][720], under which regulations may provide for former enactments to continue to apply (or to apply with modifications or additions), or for provisions of this Act or the [Financial Markets (Repeals and Amendments) Act 2013][786] to apply with modifications or additions, as set out in the regulations.
     
-    (3) Despite subclauses (1) and (2), the provisions of the [KiwiSaver Act 2006][814] amended by [sections 101][1460], [105][1461], and [107][1462] of the Financial Markets (Repeals and Amendments) Act 2013 apply as amended to an interest in a KiwiSaver scheme to which this Part applies and to that KiwiSaver scheme.
+    (3) Despite subclauses (1) and (2), the provisions of the [KiwiSaver Act 2006][814] amended by [sections 101][1462], [105][1463], and [107][1464] of the Financial Markets (Repeals and Amendments) Act 2013 apply as amended to an interest in a KiwiSaver scheme to which this Part applies and to that KiwiSaver scheme.
 
 ##### 18 KiwiSaver schemes, superannuation schemes, and unit trusts continue under former enactments until effective date
     
@@ -15464,11 +15474,11 @@ Transitional provisions on enactment of this Act relating to securities allotted
         
     *   (a) an interest in a KiwiSaver scheme, the KiwiSaver scheme continues to be registered in the KiwiSaver schemes register during the transition period as if this Act had not been enacted:
     
-    *   (b) an interest in a superannuation scheme (other than a KiwiSaver scheme), the superannuation scheme continues to be registered under the [Superannuation Schemes Act 1989][1458] during the transition period as if this Act had not been enacted:
+    *   (b) an interest in a superannuation scheme (other than a KiwiSaver scheme), the superannuation scheme continues to be registered under the [Superannuation Schemes Act 1989][1460] during the transition period as if this Act had not been enacted:
     
-    *   (c) a unit in a unit trust, the unit trust continues to be subject to the [Unit Trusts Act 1960][1459] during the transition period as if this Act had not been enacted.
+    *   (c) a unit in a unit trust, the unit trust continues to be subject to the [Unit Trusts Act 1960][1461] during the transition period as if this Act had not been enacted.
     
-    (2) This clause does not limit [clause 17][1392].
+    (2) This clause does not limit [clause 17][1394].
 
 ##### 19 Transition period
     
@@ -15500,21 +15510,21 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2A) For the purposes of subclause (1), the security must, on and after the effective date, be treated as being a regulated product under [section 451(a)][568] and, accordingly, the issuer must be treated as being an FMC reporting entity (unless [section 452][569] applies).
     
-    (2B) _See_ [section 56][1463] of the Financial Reporting Act 2013 (which provides for the former law to generally continue to apply to accounting periods that commence before the commencement of that Act).
+    (2B) _See_ [section 56][1465] of the Financial Reporting Act 2013 (which provides for the former law to generally continue to apply to accounting periods that commence before the commencement of that Act).
     
-    (3) However, subclause (1) and [clauses 21][1162], [22][908], and [30][1402] (obligations relating to registration of a scheme under this Act) do not apply to a security if,---
+    (3) However, subclause (1) and [clauses 21][1165], [22][911], and [30][1404] (obligations relating to registration of a scheme under this Act) do not apply to a security if,---
         
     *   (a) before the effective date, the security is cancelled, redeemed, or forfeited, or all of the obligations owing under the security have been discharged; or
     
-    *   (b) on the effective date, the security is not a financial product within the meaning of [section 7][11] (but _see_ [clause 33][1405]); or
+    *   (b) on the effective date, the security is not a financial product within the meaning of [section 7][11] (but _see_ [clause 33][1407]); or
     
-    *   (c) under the [1978 Act][1451], the security was a debt security but, as a result of [section 5(2C) or (3)][875] of that Act, [section 33(2)][882] of that Act did not apply to the security; or
+    *   (c) under the [1978 Act][1453], the security was a debt security but, as a result of [section 5(2C) or (3)][878] of that Act, [section 33(2)][885] of that Act did not apply to the security; or
     
-    *   (d) under the [1978 Act][1451], the security was a participatory security but, as a result of [section 5(3)][875] of that Act, [section 33(3)][882] of that Act did not apply to the security.
+    *   (d) under the [1978 Act][1453], the security was a participatory security but, as a result of [section 5(3)][878] of that Act, [section 33(3)][885] of that Act did not apply to the security.
     
-    Schedule 4 clause 20(2A): inserted, on 1 April 2014, by [section 61(1)][1464] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Schedule 4 clause 20(2A): inserted, on 1 April 2014, by [section 61(1)][1466] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Schedule 4 clause 20(2B): inserted, on 1 April 2014, by [section 61(1)][1464] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Schedule 4 clause 20(2B): inserted, on 1 April 2014, by [section 61(1)][1466] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 21 Issuer of debt security must lodge trust deed and supply information
     
@@ -15552,7 +15562,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2) _See_ [subpart 3][635] of Part 8 of this Act, which provides for civil liability for a contravention of subclause (1)(b) or (c).
     
-    (3) Nothing in this clause or [clause 23][1396] prevents the FMA from---
+    (3) Nothing in this clause or [clause 23][1398] prevents the FMA from---
         
     *   (a) directing that the registration of a scheme to which this clause applies be cancelled under [section 195][248]; or
     
@@ -15562,19 +15572,19 @@ Transitional provisions on enactment of this Act relating to securities allotted
 
 ##### 23 Type of registration
     
-*   (1) A managed investment scheme that is treated as being registered under [clause 22][908] must be treated as being registered on the register of managed investment schemes as the 1 or more of the following types of scheme that apply to it:
+*   (1) A managed investment scheme that is treated as being registered under [clause 22][911] must be treated as being registered on the register of managed investment schemes as the 1 or more of the following types of scheme that apply to it:
         
     *   (a) a KiwiSaver scheme if, immediately before the effective date, the scheme was registered as a KiwiSaver scheme in the KiwiSaver schemes register:
     
     *   (b) a KiwiSaver scheme that is a restricted scheme if paragraph (a) applies and, immediately before the effective date, the scheme was identified as a restricted scheme on the KiwiSaver schemes register:
     
-    *   (c) a superannuation scheme if, immediately before the effective date, the scheme was registered under the [Superannuation Schemes Act 1989][1458] (unless paragraph (f) applies):
+    *   (c) a superannuation scheme if, immediately before the effective date, the scheme was registered under the [Superannuation Schemes Act 1989][1460] (unless paragraph (f) applies):
     
     *   (d) a superannuation scheme that is a restricted scheme if paragraph (c) applies and an Order in Council has designated the scheme as a restricted scheme under subclause (2):
     
     *   (e) a superannuation scheme that is a legacy scheme if paragraph (c) applies and an Order in Council has designated the scheme as a legacy scheme under subclause (2):
     
-    *   (f) a workplace savings scheme if, immediately before the effective date, the scheme was registered under the [Superannuation Schemes Act 1989][1458] and an Order in Council has designated the scheme as a workplace savings scheme under subclause (2):
+    *   (f) a workplace savings scheme if, immediately before the effective date, the scheme was registered under the [Superannuation Schemes Act 1989][1460] and an Order in Council has designated the scheme as a workplace savings scheme under subclause (2):
     
     *   (g) a workplace savings scheme that is a restricted scheme if paragraph (f) applies and an Order in Council has designated the scheme as a restricted scheme under subclause (2):
     
@@ -15594,17 +15604,17 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (3) A scheme may be designated under subclause (2)(b) or (c) as a type of scheme in respect of a section of the scheme only and, in that case, subclause (1) treats the scheme as being on the register of managed investment schemes as that type in respect of that section of the scheme.
     
-    (4) [Section 131(1)(c)][172] (which prevents certain changes without the FMA's consent to the conditions of entry of scheme participants) applies to a restricted scheme on and after the date on which a designation by Order in Council comes into force under subclause (2) in all cases as if that date of designation were the date of the scheme's registration under this Part. 
+    (4) [Section 131(1)(c)][172] (which prevents certain changes without the FMA's consent to the conditions of entry of scheme participants) applies to a restricted scheme on and after the date on which a designation by Order in Council comes into force under subclause (2) in all cases as if that date of designation were the date of the scheme's registration under this Part.
 
 ##### 24 Registrar to amend register
     
-*   (1) The Registrar must, on or as soon as practicable after the effective date for a managed investment scheme to which [clause 22(1)(a)][908] applies, amend the register of managed investment schemes to include an entry relating to the scheme.
+*   (1) The Registrar must, on or as soon as practicable after the effective date for a managed investment scheme to which [clause 22(1)(a)][911] applies, amend the register of managed investment schemes to include an entry relating to the scheme.
     
-    (2) The Registrar is not required to act under subclause (1) before [clause 22(1)(b) and (c)][908] have been complied with.
+    (2) The Registrar is not required to act under subclause (1) before [clause 22(1)(b) and (c)][911] have been complied with.
 
 ##### 25 Restriction on making regulated offers and accepting contributions if requirements have not been complied with
     
-*   (1) This clause applies if an issuer contravenes [clause 22(1)(b) or (c)][908] in respect of a managed investment scheme that is treated as being a registered scheme under clause 22(1)(a).
+*   (1) This clause applies if an issuer contravenes [clause 22(1)(b) or (c)][911] in respect of a managed investment scheme that is treated as being a registered scheme under clause 22(1)(a).
     
     (2) The issuer must not, on and after the effective date, make a regulated offer of a managed investment product, or accept further contributions, in respect of that managed investment scheme.
     
@@ -15642,7 +15652,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     *   (c) the assets or liabilities of a scheme or fund must be treated as if they vested in the scheme or fund immediately after the amendment or replacement of the existing governing document, but for the purposes of the Inland Revenue Acts this must be treated as if it is not a transfer (as defined in [section YA 1][797] of the Income Tax Act 2007).
     
-    (5) In this clause and [clauses 27][1399] and [28][1400], _scheme_ has the same meaning as in [section 2(1)][842] of the 1978 Act (as in force immediately before the commencement of this clause).
+    (5) In this clause and [clauses 27][1401] and [28][1402], _scheme_ has the same meaning as in [section 2(1)][844] of the 1978 Act (as in force immediately before the commencement of this clause).
     
     (6) To avoid doubt, this clause does not limit the ways in which a governing document may be amended or replaced in accordance with its terms or any enactment or rule of law.
     
@@ -15658,9 +15668,9 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2) The parties to an existing governing document may rescind the existing governing document, provided that the existing governing document is immediately replaced with a new governing document in respect of each scheme, section, or fund constituted or governed by the existing governing document.
     
-    (3) However,--- 
+    (3) However,---
         
-    *   (a) an existing governing document must not be rescinded, and new governing documents must not be executed, under this clause without the prior written consent of the FMA; and 
+    *   (a) an existing governing document must not be rescinded, and new governing documents must not be executed, under this clause without the prior written consent of the FMA; and
     
     *   (b) the parties to, and provisions of, a new governing document must differ from the parties to, and provisions of, the existing governing document only to the extent that---
             
@@ -15676,7 +15686,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     *   (b) a scheme, section, or fund must be treated as the same scheme, section, or fund as it was immediately before the replacement of the existing governing document; and
     
-    *   (c) the persons who were members of a scheme, section, or fund immediately before the replacement of the existing governing document continue to be members of the same scheme, section, or fund; and 
+    *   (c) the persons who were members of a scheme, section, or fund immediately before the replacement of the existing governing document continue to be members of the same scheme, section, or fund; and
     
     *   (d) no assets or liabilities are removed from any of the schemes, sections, or funds; and
     
@@ -15690,7 +15700,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (7) The FMA's discretion to set preconditions for requests to it includes (without limitation) a discretion to set preconditions that satisfy the FMA that it is appropriate for the division of the scheme, section, or fund to be done under this section rather than by means of another power or process.
     
-    Compare: 2011 No 8 [s 64][1465]
+    Compare: 2011 No 8 [s 64][1467]
 
 ##### 28 Amalgamation of schemes
     
@@ -15702,9 +15712,9 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2) The parties to the existing governing documents may rescind the existing governing documents, provided that the existing governing documents are immediately replaced with 1 new governing document and 1 scheme or fund (**amalgamated scheme**) in respect of all of the existing separate schemes constituted or governed by the existing governing documents.
     
-    (3) However,--- 
+    (3) However,---
         
-    *   (a) existing governing documents must not be rescinded, and a new governing document must not be executed, under this clause without the prior written consent of the FMA; and 
+    *   (a) existing governing documents must not be rescinded, and a new governing document must not be executed, under this clause without the prior written consent of the FMA; and
     
     *   (b) the parties to, and provisions of, a new governing document must differ from the parties to, and provisions of, the existing governing documents only to the extent that---
             
@@ -15720,7 +15730,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     *   (b) the amalgamated scheme must be treated as the same scheme as the existing separate schemes combined for all purposes (other than as specified in paragraphs (d) to (f)); and
     
-    *   (c) the persons who were members of each existing separate scheme immediately before the replacement of the existing governing documents are members of the amalgamated scheme; and 
+    *   (c) the persons who were members of each existing separate scheme immediately before the replacement of the existing governing documents are members of the amalgamated scheme; and
     
     *   (d) the amalgamated scheme must be treated as the same person as the existing separate schemes combined for the purposes of the Inland Revenue Acts other than---
             
@@ -15730,9 +15740,9 @@ Transitional provisions on enactment of this Act relating to securities allotted
         
         
     
-    *   (e) the assets or liabilities of the existing separate schemes must be treated as if they vested in the amalgamated scheme immediately after the replacement of the existing governing documents, but for the purposes of the Inland Revenue Acts this must be treated as if it is not a transfer (as defined in [section YA 1][797] of the Income Tax Act 2007); and 
+    *   (e) the assets or liabilities of the existing separate schemes must be treated as if they vested in the amalgamated scheme immediately after the replacement of the existing governing documents, but for the purposes of the Inland Revenue Acts this must be treated as if it is not a transfer (as defined in [section YA 1][797] of the Income Tax Act 2007); and
     
-    *   (f) [subparts IA][1466] and [IQ][1467] of Part I of the Income Tax Act 2007 (which relate to the treatment of tax losses) do not apply to any carry forward of a loss balance of an existing separate scheme to the amalgamated scheme for the income year in which an existing governing document is replaced or for any later income year. 
+    *   (f) [subparts IA][1468] and [IQ][1469] of Part I of the Income Tax Act 2007 (which relate to the treatment of tax losses) do not apply to any carry forward of a loss balance of an existing separate scheme to the amalgamated scheme for the income year in which an existing governing document is replaced or for any later income year.
     
     (5) This clause expires, and is repealed, 2 years after the commencement of this clause.
     
@@ -15746,9 +15756,9 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (2) _See_ [section 547][720], under which regulations may provide for an enactment that is amended by this Act to continue to apply (or to apply with modifications or additions), or for provisions of this Act or the [Financial Markets (Repeals and Amendments) Act 2013][786] to apply with modifications or additions, as set out in the regulations.
     
-    (3) Subclause (1) must be treated as applying to a security offered under the [1978 Act][1451] in accordance with [Part 1][1377] of this schedule.
+    (3) Subclause (1) must be treated as applying to a security offered under the [1978 Act][1453] in accordance with [Part 1][1379] of this schedule.
     
-    (4) _See_ [clause 36][1411] (amended enactments continue to apply or have effect in connection with schemes).
+    (4) _See_ [clause 36][1413] (amended enactments continue to apply or have effect in connection with schemes).
 
 ##### 30 Issuer must send notification to security holders
     
@@ -15758,7 +15768,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     *   (b) the names and addresses of the issuer, the supervisor (if any), and the custodian (if any):
     
-    *   (c) in the case of a debt security or managed investment product,--- 
+    *   (c) in the case of a debt security or managed investment product,---
             
         *   (i) a statement to the effect that the holder may obtain a copy of the governing document by electronic means; and
         
@@ -15774,7 +15784,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     *   (g) any other prescribed information.
     
-    (2) This section does not apply to a security referred to in [clause 20(3)][1136].
+    (2) This section does not apply to a security referred to in [clause 20(3)][1139].
     
     (3) If a security holder, within 15 working days of receiving the notice, makes a request to the issuer to receive a copy of the governing document, the issuer must, as soon as practicable, send to the holder, free of charge, a copy of that document.
     
@@ -15782,7 +15792,7 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (5) The offence in this clause is an infringement offence (_see_ [subpart 5][676] of Part 8 of this Act).
     
-    (6) In this clause and [clause 31][1402], _security holder_ means,---
+    (6) In this clause and [clause 31][1404], _security holder_ means,---
         
     *   (a) in the case of a security to which [section 215(1)][274] does not apply, the holder of that security on the date that the notice is sent under subclause (1); or
     
@@ -15794,11 +15804,11 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
 *   (1) This clause applies if---
         
-    *   (a) a notice is sent to a security holder under [clause 30][1402] before the effective date; and
+    *   (a) a notice is sent to a security holder under [clause 30][1404] before the effective date; and
     
     *   (b) a PDS has, before the effective date, been lodged for an offer of financial products of the same class as the security held by the security holder; and
     
-    *   (c) a statement is included in the notice referred to in paragraph (a) as required by [clause 30(1)(d)][1402]; and
+    *   (c) a statement is included in the notice referred to in paragraph (a) as required by [clause 30(1)(d)][1404]; and
     
     *   (d) the security held by the security holder is a financial product that the issuer, in the ordinary course of its business, continuously offers for issue.
     
@@ -15806,13 +15816,13 @@ Transitional provisions on enactment of this Act relating to securities allotted
 
 ##### 32 FMA may continue to perform and exercise functions, duties, and powers
     
-*   If the former enactments continue to apply to securities or a scheme under this Part, the FMA may continue to perform and exercise all of its functions, duties, and powers conferred or imposed on it by or under the former enactments as if this Act had not been enacted (for example, it may grant, vary, or revoke an exemption under [section 70B][1454] of the 1978 Act).
+*   If the former enactments continue to apply to securities or a scheme under this Part, the FMA may continue to perform and exercise all of its functions, duties, and powers conferred or imposed on it by or under the former enactments as if this Act had not been enacted (for example, it may grant, vary, or revoke an exemption under [section 70B][1456] of the 1978 Act).
 
 ##### 33 Certain requirements of former law continue for participatory securities that are not financial products
     
 *   (1) This clause applies to a participatory security to which this Part applies if---
         
-    *   (a) a statutory supervisor was, or was required to be, appointed in respect of the security under [section 33(3)][882] of the Securities Act 1978; and
+    *   (a) a statutory supervisor was, or was required to be, appointed in respect of the security under [section 33(3)][885] of the Securities Act 1978; and
     
     *   (b) on the effective date, the security is not a financial product within the meaning of [section 7][11].
     
@@ -15824,15 +15834,15 @@ Transitional provisions on enactment of this Act relating to securities allotted
     
     (3) The following enactments continue to apply on and after the effective date (as if this Act had not been enacted) to a security to which this clause applies, the scheme to which the security relates, and the statutory supervisor of the security:
         
-    *   (a) [sections 45][1468], [48][895], and [49][972] of the 1978 Act:
+    *   (a) [sections 45][1470], [48][898], and [49][975] of the 1978 Act:
     
-    *   (b) [regulations 41][1469] and [42][1470] and [Schedules 16][1471] and [17][1472] of the Securities Regulations 2009:
+    *   (b) [regulations 41][1471] and [42][1472] and [Schedules 16][1473] and [17][1474] of the Securities Regulations 2009:
     
-    *   (c) any other provision of the [1978 Act][1451] or the [Securities Regulations 2009][1452] relating to the enforcement, application, or effect of the provisions referred to in paragraph (a) or (b) or the making of regulations relating to, or the granting of exemptions from compliance with, those provisions:
+    *   (c) any other provision of the [1978 Act][1453] or the [Securities Regulations 2009][1454] relating to the enforcement, application, or effect of the provisions referred to in paragraph (a) or (b) or the making of regulations relating to, or the granting of exemptions from compliance with, those provisions:
     
     *   (d) the [Securities Trustees and Statutory Supervisors Act 2011][817].
     
-    (4) For the purposes of this clause, the Governor-General may, by Order in Council, make regulations under [section 70(1)(g)][1473] of the 1978 Act (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
+    (4) For the purposes of this clause, the Governor-General may, by Order in Council, make regulations under [section 70(1)(g)][1475] of the 1978 Act (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
 
 ## Part 3  
 Other transitional provisions on enactment of this Act
@@ -15841,9 +15851,9 @@ Other transitional provisions on enactment of this Act
 
 ##### 34 Unit trusts in relation to which offers to public have not been made
     
-*   (1) This clause applies to a unit trust to which the [Unit Trusts Act 1960][1459] applied immediately before the commencement of this clause unless [Part 2][1388] of this schedule applies to any unit in the unit trust.
+*   (1) This clause applies to a unit trust to which the [Unit Trusts Act 1960][1461] applied immediately before the commencement of this clause unless [Part 2][1390] of this schedule applies to any unit in the unit trust.
     
-    (2) The [Unit Trusts Act 1960][1474] continues to apply during the transition period described in subclause (3) as if this Act had not been enacted.
+    (2) The [Unit Trusts Act 1960][1476] continues to apply during the transition period described in subclause (3) as if this Act had not been enacted.
     
     (3) The transition period for a unit trust is the period beginning on the date on which this clause comes into force and ending on the close of the day before the earlier of the following dates:
         
@@ -15851,13 +15861,13 @@ Other transitional provisions on enactment of this Act
     
     *   (b) the date that is 2 years after the commencement of this clause.
     
-    (4) In this clause, _unit_ and _unit trust_ have the same meanings as in [section 2(1)][842] of the Securities Act 1978\.
+    (4) In this clause, _unit_ and _unit trust_ have the same meanings as in [section 2(1)][844] of the Securities Act 1978\.
 
 ##### 35 Superannuation schemes in relation to which offers to public have not been made
     
-*   (1) This clause applies to a superannuation scheme that, immediately before the commencement of this clause, was registered under the [Superannuation Schemes Act 1989][1458] unless [Part 2][1388] of this schedule applies to any interest in the scheme.
+*   (1) This clause applies to a superannuation scheme that, immediately before the commencement of this clause, was registered under the [Superannuation Schemes Act 1989][1460] unless [Part 2][1390] of this schedule applies to any interest in the scheme.
     
-    (2) The [Superannuation Schemes Act 1989][1458] continues to apply during the transition period described in subclause (3) as if this Act had not been enacted.
+    (2) The [Superannuation Schemes Act 1989][1460] continues to apply during the transition period described in subclause (3) as if this Act had not been enacted.
     
     (3) The transition period for a superannuation scheme is the period beginning on the date on which this clause comes into force and ending on the close of the day before the earlier of the following dates:
         
@@ -15875,29 +15885,29 @@ Other transitional provisions on enactment of this Act
     
     (2) _See_ [section 547][720], under which regulations may provide for an enactment that is amended by this Act to continue to apply (or to apply with modifications or additions), or for provisions of this Act or the [Financial Markets (Repeals and Amendments) Act 2013][786] to apply with modifications or additions, as set out in the regulations.
     
-    (3) In this clause and [clause 37][1412],---
+    (3) In this clause and [clause 37][1414],---
     
     _specified scheme_ means any of the following:
         
-    *   (a) a KiwiSaver scheme, superannuation scheme, or unit trust referred to in [clause 18][1393]:
+    *   (a) a KiwiSaver scheme, superannuation scheme, or unit trust referred to in [clause 18][1395]:
     
-    *   (b) a unit trust referred to in [clause 34][1408]:
+    *   (b) a unit trust referred to in [clause 34][1410]:
     
-    *   (c) a superannuation scheme referred to in [clause 35][1409]
+    *   (c) a superannuation scheme referred to in [clause 35][1411]
     
-    _transition period_ means, in relation to a specified scheme, the transition period that applies to the scheme under [Part 2][1388] of this schedule or [clause 34][1408] or [35][1409] (as the case may be).
+    _transition period_ means, in relation to a specified scheme, the transition period that applies to the scheme under [Part 2][1390] of this schedule or [clause 34][1410] or [35][1411] (as the case may be).
 
 ##### 37 KiwiSaver schemes and superannuation schemes are retirement schemes during transition period
     
 *   A specified scheme that is a KiwiSaver scheme or superannuation scheme must, during the transition period, be treated as being a retirement scheme (as defined in [section 6(1)][10]).
 
-#### Extra transitional provisions relating to managed investment schemes 
+#### Extra transitional provisions relating to managed investment schemes
 
 ##### 38 Remaining trustees (if any) cease to hold office
     
-*   (1) This clause applies to a person (if any) who is a trustee of a registered scheme that is a trust and who is not the manager or supervisor of the scheme under this Act. 
+*   (1) This clause applies to a person (if any) who is a trustee of a registered scheme that is a trust and who is not the manager or supervisor of the scheme under this Act.
     
-    (2) The person ceases to hold office at the end of the transition period referred to in [clause 36(3)][1411], provided that there is a manager or supervisor for the scheme as required by this Act.
+    (2) The person ceases to hold office at the end of the transition period referred to in [clause 36(3)][1413], provided that there is a manager or supervisor for the scheme as required by this Act.
 
 ##### 39 Restricted schemes have 3 years to sell investments so as to comply with related party asset 5% cap rule
     
@@ -15907,13 +15917,13 @@ Other transitional provisions on enactment of this Act
     
 *   (1) All superannuation annuities, superannuation allowances, annuities, amounts, expenses, and refunds that were payable out of the Consolidated Account under sections 5A(2), 6(4), and 7(6) of the Superannuation Schemes Act 1976 (which related to certain payments out of the Consolidated Account as a result of the dissolution of the New Zealand Superannuation Corporation and the New Zealand Superannuation Scheme) continue to be so payable as if those sections and section 5A(3) of that Act had not been repealed.
     
-    (2) This clause applies despite the repeal of--- 
+    (2) This clause applies despite the repeal of---
         
-    *   (a) the Superannuation Schemes Act 1976 by [section 32][1475] of the Superannuation Schemes Act 1989; and 
+    *   (a) the Superannuation Schemes Act 1976 by [section 32][1477] of the Superannuation Schemes Act 1989; and
     
-    *   (b) [section 33][1476] of the Superannuation Schemes Act 1989 by this Act.
+    *   (b) [section 33][1478] of the Superannuation Schemes Act 1989 by this Act.
     
-    Compare: 1989 No 10 [s 33][1476]
+    Compare: 1989 No 10 [s 33][1478]
 
 #### Repealed enactments continue to be financial markets legislation
 
@@ -15929,13 +15939,13 @@ Other transitional provisions on enactment of this Act
     
     _deemed licence_ means a financial product market licence that an existing exchange is, by subclause (2), deemed to hold
     
-    _existing exchange_ means a person that, immediately before the commencement of subclause (2), was a registered exchange within the meaning of [section 2(1)][842] of the Securities Markets Act 1988 or an authorised futures exchange within the meaning of [section 37(1)][1477] of that Act
+    _existing exchange_ means a person that, immediately before the commencement of subclause (2), was a registered exchange within the meaning of [section 2(1)][844] of the Securities Markets Act 1988 or an authorised futures exchange within the meaning of [section 37(1)][1479] of that Act
     
-    _existing market_ means a market that, immediately before the commencement of subclause (2), was a registered market within the meaning of [section 2(1)][1478] of the Securities Markets Act 1988 or an authorised futures market within the meaning of [section 37(1)][1479] of that Act
+    _existing market_ means a market that, immediately before the commencement of subclause (2), was a registered market within the meaning of [section 2(1)][1480] of the Securities Markets Act 1988 or an authorised futures market within the meaning of [section 37(1)][1481] of that Act
     
-    _existing market rules_ means market rules, within the meaning of [section 2(1)][1478] of the Securities Markets Act 1988, that, immediately before the commencement of subclause (2), applied to an existing market
+    _existing market rules_ means market rules, within the meaning of [section 2(1)][1480] of the Securities Markets Act 1988, that, immediately before the commencement of subclause (2), applied to an existing market
     
-    _existing unlicensed market operator_ means a person other than an existing exchange that, immediately before the commencement of subclause (7), lawfully operated a securities market or a futures market within the meaning of the [Securities Markets Act 1988][1480]
+    _existing unlicensed market operator_ means a person other than an existing exchange that, immediately before the commencement of subclause (7), lawfully operated a securities market or a futures market within the meaning of the [Securities Markets Act 1988][1482]
     
     _market of an existing exchange_, in relation to an existing exchange, means an existing market that the existing exchange was, immediately before the commencement of subclause (2), authorised to operate
     
@@ -15957,7 +15967,7 @@ Other transitional provisions on enactment of this Act
     
     (5) Any matter stated under [section 321(2)][404], as applied by subclause (4), is deemed to be incorporated into the deemed licence.
     
-    (6) Nothing in this clause prevents--- 
+    (6) Nothing in this clause prevents---
         
     *   (a) the Minister from exercising a power under this Act---
             
@@ -15979,25 +15989,25 @@ Other transitional provisions on enactment of this Act
 
 ##### 43 Previous disclosure under former enactment has effect under this Act
     
-*   A disclosure of a substantial holding under [subpart 3][1481] of Part 2 of the Securities Markets Act 1988 must be treated as a disclosure under [subpart 5][347] of Part 5 of this Act for the purposes of [section 277][353] and other provisions of that Part.
+*   A disclosure of a substantial holding under [subpart 3][1483] of Part 2 of the Securities Markets Act 1988 must be treated as a disclosure under [subpart 5][347] of Part 5 of this Act for the purposes of [section 277][353] and other provisions of that Part.
 
 ##### 44 Corporate trustees and nominee companies that opt in to substantial holding exemption
     
-*   If, before the commencement of this clause, a person has opted in to an exemption under [section 31][1039] of the Securities Markets Act 1988 (and has not withdrawn the notice to opt in), the person must be treated as having opted in to the exemption in [section 285][362].
+*   If, before the commencement of this clause, a person has opted in to an exemption under [section 31][1042] of the Securities Markets Act 1988 (and has not withdrawn the notice to opt in), the person must be treated as having opted in to the exemption in [section 285][362].
 
 #### Market services licences
 
 ##### 45 Authorised dealers treated as holding market services licence
     
-*   (1) Every person who, immediately before the commencement of this clause, is authorised or approved to carry on the business of dealing in futures contracts under [section 38][1482] of the Securities Markets Act 1988 must be treated as holding, on and from the commencement of this clause, a licence issued under [subpart 2][490] of Part 6 of this Act.
+*   (1) Every person who, immediately before the commencement of this clause, is authorised or approved to carry on the business of dealing in futures contracts under [section 38][1484] of the Securities Markets Act 1988 must be treated as holding, on and from the commencement of this clause, a licence issued under [subpart 2][490] of Part 6 of this Act.
     
     (2) Subclause (1) does not apply if the person is not required to hold a licence under [Part 6][481] of this Act.
     
     (3) The licence under subclause (1) must be treated as---
         
-    *   (a) covering the same service that is authorised or approved under [section 38][1483] of the Securities Markets Act 1988 (and that service must be treated as a market service for the purposes of this Act):
+    *   (a) covering the same service that is authorised or approved under [section 38][1485] of the Securities Markets Act 1988 (and that service must be treated as a market service for the purposes of this Act):
     
-    *   (b) subject to the conditions, limitations, or restrictions that, immediately before the commencement of this clause, were imposed by or under the [Securities Markets Act 1988][1480] on the authorisation or approval (and those conditions, limitations, or restrictions must be treated as the conditions of the licence for the purposes of this Act):
+    *   (b) subject to the conditions, limitations, or restrictions that, immediately before the commencement of this clause, were imposed by or under the [Securities Markets Act 1988][1482] on the authorisation or approval (and those conditions, limitations, or restrictions must be treated as the conditions of the licence for the purposes of this Act):
     
     *   (c) in the case of a registered bank, covering the service of acting as a derivatives issuer for all derivatives:
     
@@ -16013,19 +16023,19 @@ Other transitional provisions on enactment of this Act
 
 ##### 46 FMA may exercise powers in respect of licences
     
-*   (1) Nothing in [clause 45][1424] prevents the FMA from exercising---
+*   (1) Nothing in [clause 45][1426] prevents the FMA from exercising---
         
     *   (a) a power under [Part 6][481] of this Act to vary, revoke, add to, or substitute any of the conditions of a licence referred to in that clause; or
     
     *   (b) any other powers under this Act in respect of the licence.
     
-    (2) A licence referred to in [clause 45][1424] may also be subject to the conditions prescribed by the regulations.
+    (2) A licence referred to in [clause 45][1426] may also be subject to the conditions prescribed by the regulations.
 
 #### Approval of electronic transfer systems continues
 
 ##### 47 Approval of electronic transfer systems continues
     
-*   An Order in Council made under [section 7][1115] of the Securities Transfer Act 1991 that is in force immediately before the repeal of that Act continues in force as if it had been made under [section 376][468] (and may be amended or revoked as if it had been made under that section).
+*   An Order in Council made under [section 7][1118] of the Securities Transfer Act 1991 that is in force immediately before the repeal of that Act continues in force as if it had been made under [section 376][468] (and may be amended or revoked as if it had been made under that section).
 
 #### Banning orders
 
@@ -16033,7 +16043,7 @@ Other transitional provisions on enactment of this Act
     
 *   (1) This clause applies to a provision of any enactment that refers to a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under this Act (or any similar reference).
     
-    (2) The provision must be treated as including a reference to a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][1451], the [Securities Markets Act 1988][1480], or the [Financial Advisers Act 2008][841].
+    (2) The provision must be treated as including a reference to a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][1453], the [Securities Markets Act 1988][1482], or the [Financial Advisers Act 2008][843].
     
     ###### Example
     
@@ -16049,7 +16059,7 @@ Other transitional provisions on enactment of this Act
     
     *   (b) refers to a failure or persistent failure to comply with this Act as a ground for making the order.
     
-    (2) The reference to a failure or persistent failure to comply with this Act must be treated as including a reference to a failure or persistent failure to comply with the [Securities Act 1978][1451], the [Securities Markets Act 1988][1480], or the [Financial Advisers Act 2008][841].
+    (2) The reference to a failure or persistent failure to comply with this Act must be treated as including a reference to a failure or persistent failure to comply with the [Securities Act 1978][1453], the [Securities Markets Act 1988][1482], or the [Financial Advisers Act 2008][843].
     
     ###### Example
     
@@ -16063,19 +16073,19 @@ Other transitional provisions on enactment of this Act
     
 *   \[Repealed\]
     
-    Schedule 4 clause 50: repealed, on 1 April 2014, by [section 61(2)][1464] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Schedule 4 clause 50: repealed, on 1 April 2014, by [section 61(2)][1466] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 51 Section 10A of Auditor Regulation Act 2011 also applies to exemptions granted under Securities Act 1978
     
-*   Section 10A of the Auditor Regulation Act 2011 (which provides that licence and registration requirements of that Act do not apply if an FMA exemption applies) also applies in relation to exemptions granted by the FMA under the [Securities Act 1978][1451] as if references to the [Financial Markets Conduct Act 2013][1484] were references to that Act.
+*   Section 10A of the Auditor Regulation Act 2011 (which provides that licence and registration requirements of that Act do not apply if an FMA exemption applies) also applies in relation to exemptions granted by the FMA under the [Securities Act 1978][1453] as if references to the [Financial Markets Conduct Act 2013][1486] were references to that Act.
 
 #### Offences and contraventions under repealed, revoked, or amended enactments
 
 ##### 52 Transitional provision for offences and contravention under repealed, revoked, or amended enactments
     
-*   (1) This section applies to an offence committed under, or a contravention of, any of the enactments repealed or revoked by [section 4][1485] or [5][1486] of the Financial Markets (Repeals and Amendments) Act 2013, or amended by the [Financial Markets (Repeals and Amendments) Act 2013][786], before the commencement of the provision that repealed, revoked, or amended that enactment.
+*   (1) This section applies to an offence committed under, or a contravention of, any of the enactments repealed or revoked by [section 4][1487] or [5][1488] of the Financial Markets (Repeals and Amendments) Act 2013, or amended by the [Financial Markets (Repeals and Amendments) Act 2013][786], before the commencement of the provision that repealed, revoked, or amended that enactment.
     
-    (2) The enactments repealed or revoked by [section 4][1485] or [5][1486] of the Financial Markets (Repeals and Amendments) Act 2013, or amended by the [Financial Markets (Repeals and Amendments) Act 2013][786], continue to have effect as if they had not been repealed, revoked, or amended for the purpose of---
+    (2) The enactments repealed or revoked by [section 4][1487] or [5][1488] of the Financial Markets (Repeals and Amendments) Act 2013, or amended by the [Financial Markets (Repeals and Amendments) Act 2013][786], continue to have effect as if they had not been repealed, revoked, or amended for the purpose of---
         
     *   (a) investigating an offence or a contravention to which this section applies:
     
@@ -16089,27 +16099,27 @@ Other transitional provisions on enactment of this Act
 
 ##### 53 Former law continues for contributory mortgages
     
-*   (1) This clause applies in relation to an interest in a contributory mortgage that was offered to the public for subscription by a contributory mortgage broker under the [Securities Act 1978][1451].
+*   (1) This clause applies in relation to an interest in a contributory mortgage that was offered to the public for subscription by a contributory mortgage broker under the [Securities Act 1978][1453].
     
     (2) However, this clause does not apply in relation to an interest in a contributory mortgage if, before the commencement of this clause, the interest was cancelled, redeemed, or forfeited, or all of the obligations owing under the interest had been discharged.
     
     (3) To the extent that the following enactments would otherwise apply to an interest to which this clause applies, those enactments continue to apply as if this Act had not been enacted:
         
-    *   (a) the [Securities Act 1978][1451]:
+    *   (a) the [Securities Act 1978][1453]:
     
-    *   (b) the [Securities Act (Contributory Mortgage) Regulations 1988][1487]:
+    *   (b) the [Securities Act (Contributory Mortgage) Regulations 1988][1489]:
     
     *   (c) an exemption granted under the Securities Act 1978 from any of the provisions of those regulations that are in force immediately before the commencement of this clause.
     
-    (4) For the purposes of an interest to which this clause applies, the Governor-General may, by Order in Council, make regulations under [section 70(1)(h)][1473] of the Securities Act 1978 (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
+    (4) For the purposes of an interest to which this clause applies, the Governor-General may, by Order in Council, make regulations under [section 70(1)(h)][1475] of the Securities Act 1978 (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
 
 #### Appointments as default KiwiSaver scheme providers
 
 ##### 54 Appointments as default KiwiSaver scheme providers
     
-*   (1) If, immediately before the commencement of this clause, an instrument of appointment is in effect under [section 177][1488] of the KiwiSaver Act 2006, the instrument continues in effect as if it had been made under [section 132][1489] of that Act (and, accordingly, an appointment under the instrument continues subject to the terms and conditions of the appointment).
+*   (1) If, immediately before the commencement of this clause, an instrument of appointment is in effect under [section 177][1490] of the KiwiSaver Act 2006, the instrument continues in effect as if it had been made under [section 132][1491] of that Act (and, accordingly, an appointment under the instrument continues subject to the terms and conditions of the appointment).
     
-    (2) If a default KiwiSaver scheme that is the subject of an instrument of appointment referred to in subclause (1) has not yet been reregistered under [clause 22(1)(a)][908], the grounds for revocation of the instrument of appointment under [section 137(2)][1490] of the KiwiSaver Act 2006 include the grounds in [section 184(2)][1491] of the KiwiSaver Act 2006 (as in force on the date on which this Act receives the Royal assent).
+    (2) If a default KiwiSaver scheme that is the subject of an instrument of appointment referred to in subclause (1) has not yet been reregistered under [clause 22(1)(a)][911], the grounds for revocation of the instrument of appointment under [section 137(2)][1492] of the KiwiSaver Act 2006 include the grounds in [section 184(2)][1493] of the KiwiSaver Act 2006 (as in force on the date on which this Act receives the Royal assent).
 
 #### Persons who participate in offer under Securities Act 1978 continue to be financial service providers
 
@@ -16117,7 +16127,7 @@ Other transitional provisions on enactment of this Act
     
 *   (1) The definition of _financial service_ in [section 5][806] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 must be treated as including the following services:
         
-    *   (a) participating in an offer of securities to the public under the Securities Act 1978 in either of the following capacities (within the meaning of those terms under [section 2(1)][1492] of that Act):
+    *   (a) participating in an offer of securities to the public under the Securities Act 1978 in either of the following capacities (within the meaning of those terms under [section 2(1)][1494] of that Act):
             
         *   (i) as an issuer of the securities:
         
@@ -16125,7 +16135,7 @@ Other transitional provisions on enactment of this Act
         
         
     
-    *   (b) acting in any of the following capacities (within the meaning of those terms under [section 2(1)][842] of the Securities Act 1978) in respect of securities offered to the public under that Act:
+    *   (b) acting in any of the following capacities (within the meaning of those terms under [section 2(1)][844] of the Securities Act 1978) in respect of securities offered to the public under that Act:
             
         *   (i) as a trustee:
         
@@ -16145,15 +16155,15 @@ Other transitional provisions on enactment of this Act
     
     *   (b) subclause (1)(b) must be treated as being a service referred to in [section 5(1)(ia)][806] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008\.
     
-    (3) The references in subclause (1)(a) and (b) to an offer to the public under the [Securities Act 1978][1451] include an offer to which the Securities Act 1978 applies in accordance with [Part 1][1377] of this schedule.
+    (3) The references in subclause (1)(a) and (b) to an offer to the public under the [Securities Act 1978][1453] include an offer to which the Securities Act 1978 applies in accordance with [Part 1][1379] of this schedule.
 
 #### Miscellaneous matters relating to Schedule 1
 
 ##### 56 Sale offers under clauses 31 and 34 of Schedule 1
     
-*   (1) [Clause 31(1)(c) and (2)(d)][1249] of Schedule 1 must be treated as including a reference to an issue or a sale to the public in New Zealand under the [Securities Act 1978][1451] or to the public outside New Zealand under an application regime under [Part 5][1493] of that Act.
+*   (1) [Clause 31(1)(c) and (2)(d)][1252] of Schedule 1 must be treated as including a reference to an issue or a sale to the public in New Zealand under the [Securities Act 1978][1453] or to the public outside New Zealand under an application regime under [Part 5][1495] of that Act.
     
-    (2) [Clause 34(1)(d)][1250] of Schedule 1 must be treated as including a reference to an offer to the public in New Zealand under the [Securities Act 1978][1451].
+    (2) [Clause 34(1)(d)][1253] of Schedule 1 must be treated as including a reference to an offer to the public in New Zealand under the [Securities Act 1978][1453].
 
 ##### 57 Transitional disclosure exclusion
     
@@ -16161,51 +16171,51 @@ Other transitional provisions on enactment of this Act
         
     *   (a) is made before the relevant prescribed date; and
     
-    *   (b) is of a kind that, had it been made under the [Securities Act 1978][1451],---
+    *   (b) is of a kind that, had it been made under the [Securities Act 1978][1453],---
             
-        *   (i) nothing in [Part 2][1494] of the Securities Act 1978 (except [sections 38B][1495] and [58][1456]) would have applied in respect of the financial products offered as a result of [section 5(2CB) or (2CBA)][875] of that Act; or
+        *   (i) nothing in [Part 2][1496] of the Securities Act 1978 (except [sections 38B][1497] and [58][1458]) would have applied in respect of the financial products offered as a result of [section 5(2CB) or (2CBA)][878] of that Act; or
         
-        *   (ii) the offer would not have been an offer of securities to the public as a result of [section 3(2)(a)(i) to (iii)][1453] of that Act.
+        *   (ii) the offer would not have been an offer of securities to the public as a result of [section 3(2)(a)(i) to (iii)][1455] of that Act.
         
         
     
     (2) For the purposes of subclause (1)(a), different dates may be prescribed in relation to different kinds of offers or other circumstances.
     
-    (3) Subclause (1) must be treated as being an exclusion under [Part 1][861] of Schedule 1\.
+    (3) Subclause (1) must be treated as being an exclusion under [Part 1][863] of Schedule 1\.
 
 ##### 58 Exclusions for employee share purchase schemes and small offers can take into account offers under former law
     
-*   The reference to a regulated offer in [clauses 8(3)(c)][802] and [14(1)(c)][1300] of Schedule 1 (which require issues or sales that result from certain offers to be disregarded in making calculations) must be treated as including a reference to an offer of securities to the public in New Zealand that is made under the [Securities Act 1978][1451].
+*   The reference to a regulated offer in [clauses 8(3)(c)][802] and [14(1)(c)][1303] of Schedule 1 (which require issues or sales that result from certain offers to be disregarded in making calculations) must be treated as including a reference to an offer of securities to the public in New Zealand that is made under the [Securities Act 1978][1453].
 
 ##### 59 Additional Securities Act 1978 exemption
     
-*   (1) [Section 5(1)][875] of the Securities Act 1978 must be treated as including an exemption to the effect that nothing in [Part 2][1494] of the Securities Act 1978 applies in respect of a financial product if the offer of the financial product would not require disclosure under [Part 3][49] of this Act (if that Part were in force) as a result of an exclusion in any 1 or more of the clauses of [Schedule 1][781] of this Act that are prescribed for the purposes of this subclause.
+*   (1) [Section 5(1)][878] of the Securities Act 1978 must be treated as including an exemption to the effect that nothing in [Part 2][1496] of the Securities Act 1978 applies in respect of a financial product if the offer of the financial product would not require disclosure under [Part 3][49] of this Act (if that Part were in force) as a result of an exclusion in any 1 or more of the clauses of [Schedule 1][781] of this Act that are prescribed for the purposes of this subclause.
     
     (2) If a person makes an offer in reliance upon subclause (1), [clauses 26 to 28][800] of Schedule 1 apply to the person and the offer with all necessary modifications as if it were an offer made in reliance upon any of the clauses of [Schedule 1][781] referred to in subclause (1) (and, accordingly, a contravention of [clauses 26 to 28][800] gives rise to civil liability under [Part 8][600] of this Act).
     
     (3) Conditions, requirements, and other matters may be prescribed under [section 543(1)(c)][716] that apply to the exemption referred to in subclause (1) regardless of whether or not those conditions, requirements, or other matters apply to any exclusion in [Schedule 1][781] of this Act.
     
-    (4) Regulations may be made under [section 70AAA][1496] of the Securities Act 1978 in respect of the exemption in subclause (1).
+    (4) Regulations may be made under [section 70AAA][1498] of the Securities Act 1978 in respect of the exemption in subclause (1).
     
-    (5) Subclause (1) ceases to apply upon the repeal of the [Securities Act 1978][1451] and may not, after it ceases to apply, be relied upon in making an offer under [Part 1][1377] of this schedule.
+    (5) Subclause (1) ceases to apply upon the repeal of the [Securities Act 1978][1453] and may not, after it ceases to apply, be relied upon in making an offer under [Part 1][1379] of this schedule.
 
 #### Recognition regime regulations
 
 ##### 60 FMA may make order prohibiting recognition regime offer on basis of contravention of former regulations
     
-*   The reference to regulations in [section 471(1)(a)][615] must be treated as including a reference to regulations made under [section 74][1271] of the Securities Act 1978\.
+*   The reference to regulations in [section 471(1)(a)][615] must be treated as including a reference to regulations made under [section 74][1274] of the Securities Act 1978\.
 
 ##### 61 FMA may declare failure to meet preconditions of recognition regime under Securities Act 1978 to be non-material
     
-*   (1) The references to a precondition in [section 578][758] must be treated as including references to a precondition referred to in [section 75(1)(d)][1272] of the Securities Act 1978\.
+*   (1) The references to a precondition in [section 578][758] must be treated as including references to a precondition referred to in [section 75(1)(d)][1275] of the Securities Act 1978\.
     
-    (2) The reference to regulations in [section 578(2)][758] must be treated as including a reference to regulations made under [section 74][1271] of the Securities Act 1978\.
+    (2) The reference to regulations in [section 578(2)][758] must be treated as including a reference to regulations made under [section 74][1274] of the Securities Act 1978\.
 
 #### Amendment to section 46 of Trustee Act 1956
 
 ##### 62 Amendment to section 46 of Trustee Act 1956 does not affect existing proceedings
     
-*   Nothing in the amendment made to [section 46][1497] of the Trustee Act 1956 by [section 150][193] and the [Schedule][781] of the Financial Markets (Repeals and Amendments) Act 2013 affects any proceeding commenced before that amendment comes into force, and any such proceeding must be decided as if the amendment had not been made.
+*   Nothing in the amendment made to [section 46][1499] of the Trustee Act 1956 by [section 150][1500] and the [Schedule][1501] of the Financial Markets (Repeals and Amendments) Act 2013 affects any proceeding commenced before that amendment comes into force, and any such proceeding must be decided as if the amendment had not been made.
 
 #### 
 
@@ -16219,17 +16229,19 @@ Other transitional provisions on enactment of this Act
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1498] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1499] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1502] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1503] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1500] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1501] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1504] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1505] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51): [clause 2(1)][785]
     
-    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 46 to 61][839]
+    Non-bank Deposit Takers Act 2013 (2013 No 104): [section 102][841]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 46 to 61][840]
 
 
 
@@ -17048,690 +17060,694 @@ Other transitional provisions on enactment of this Act
 [812]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM359333
 [813]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM319998
 [814]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM378371
-[815]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1607314
+[815]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3918902
 [816]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM364948
 [817]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651100
 [818]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2478128
 [819]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3005141
 [820]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM170881
 [821]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3620722
-[822]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1523134
-[823]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1523137
-[824]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM199370
-[825]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109541
-[826]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092378
-[827]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702329
-[828]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM319999
-[829]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325508
-[830]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376828
-[831]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376877
-[832]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092370
-[833]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702332
-[834]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702334
-[835]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321666
-[836]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321191
-[837]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM322879
-[838]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144941
-[839]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740295
-[840]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376849
-[841]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584200
-[842]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM26805
-[843]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092469
-[844]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM172479
-[845]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM396434
-[846]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96903
-[847]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140438
-[848]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96904
-[849]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96905
-[850]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM311052
-[851]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96908
-[852]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092438
-[853]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96914
-[854]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM97313
-[855]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM319569
-[856]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140439
-[857]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140442
-[858]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109400
-[859]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140449
-[860]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27579
-[861]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092366
-[862]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092407
-[863]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092417
-[864]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092440
-[865]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092405
-[866]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092429
-[867]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM200384
-[868]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1794840
-[869]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723294
-[870]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723295
-[871]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723297
-[872]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723298
-[873]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3231086
-[874]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3724908
-[875]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27289
-[876]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329515
-[877]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726526
-[878]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29133
-[879]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092412
-[880]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092418
-[881]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155381
-[882]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28187
-[883]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3552520
-[884]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29486
-[885]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651192
-[886]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651242
-[887]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285669
-[888]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285671
-[889]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291749
-[890]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4097737
-[891]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651259
-[892]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4097741
-[893]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291750
-[894]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651165
-[895]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28895
-[896]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325448
-[897]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155388
-[898]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325421
-[899]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708806
-[900]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708809
-[901]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379487
-[902]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379489
-[903]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM129109
-[904]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1440300
-[905]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379126
-[906]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143741
-[907]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143748
-[908]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702402
-[909]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708800
-[910]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723710
-[911]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143753
-[912]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379130
-[913]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651125
-[914]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325482
-[915]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708812
-[916]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143755
-[917]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143775
-[918]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718003
-[919]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379144
-[920]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3720107
-[921]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708802
-[922]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325456
-[923]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291766
-[924]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379127
-[925]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325490
-[926]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291765
-[927]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708804
-[928]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325468
-[929]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291764
-[930]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291755
-[931]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325434
-[932]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708810
-[933]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708811
-[934]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143785
-[935]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2888815
-[936]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1096804
-[937]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325480
-[938]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143773
-[939]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3720109
-[940]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379145
-[941]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379138
-[942]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092368
-[943]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379004
-[944]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143758
-[945]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718005
-[946]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718007
-[947]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379481
-[948]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379156
-[949]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143762
-[950]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143768
-[951]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718006
-[952]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718011
-[953]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718015
-[954]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718014
-[955]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM378819
-[956]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718009
-[957]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM304211
-[958]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143770
-[959]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325470
-[960]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325481
-[961]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325452
-[962]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708805
-[963]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144011
-[964]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379195
-[965]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379197
-[966]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28899
-[967]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379427
-[968]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651257
-[969]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651258
-[970]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651264
-[971]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4093818
-[972]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28896
-[973]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708813
-[974]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651265
-[975]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM378898
-[976]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091742
-[977]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379403
-[978]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144022
-[979]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379404
-[980]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379405
-[981]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4095302
-[982]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379429
-[983]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651306
-[984]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29104
-[985]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29108
-[986]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321139
-[987]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321141
-[988]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139975
-[989]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139977
-[990]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139978
-[991]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140405
-[992]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140406
-[993]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140432
-[994]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139980
-[995]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139986
-[996]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139987
-[997]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM202023
-[998]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139988
-[999]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139999
-[1000]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140407
-[1001]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140408
-[1002]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140409
-[1003]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140410
-[1004]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140411
-[1005]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140412
-[1006]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140413
-[1007]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140414
-[1008]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3250106
-[1009]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140415
-[1010]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM326754
-[1011]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140416
-[1012]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321178
-[1013]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140417
-[1014]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140418
-[1015]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140419
-[1016]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140423
-[1017]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140424
-[1018]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140425
-[1019]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140427
-[1020]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140428
-[1021]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140429
-[1022]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1061303
-[1023]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1061310
-[1024]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140430
-[1025]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140431
-[1026]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140478
-[1027]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140482
-[1028]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1181708
-[1029]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140961
-[1030]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140965
-[1031]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140967
-[1032]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140968
-[1033]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140970
-[1034]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140974
-[1035]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140980
-[1036]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140986
-[1037]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140988
-[1038]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140990
-[1039]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140991
-[1040]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140994
-[1041]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140995
-[1042]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140996
-[1043]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141301
-[1044]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141304
-[1045]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1168502
-[1046]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141309
-[1047]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141314
-[1048]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141316
-[1049]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141317
-[1050]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320453
-[1051]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320454
-[1052]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320455
-[1053]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141318
-[1054]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321142
-[1055]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092398
-[1056]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140926
-[1057]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140928
-[1058]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140930
-[1059]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140932
-[1060]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM235724
-[1061]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM255724
-[1062]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320862
-[1063]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140940
-[1064]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140954
-[1065]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702057
-[1066]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM1109400
-[1067]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109511
-[1068]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141344
-[1069]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141346
-[1070]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141355
-[1071]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141357
-[1072]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2997643
-[1073]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998573
-[1074]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141359
-[1075]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141368
-[1076]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141370
-[1077]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702058
-[1078]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702059
-[1079]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM64784
-[1080]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702060
-[1081]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702061
-[1082]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702062
-[1083]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702063
-[1084]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141373
-[1085]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091508
-[1086]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141379
-[1087]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141381
-[1088]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141383
-[1089]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141385
-[1090]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740326
-[1091]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141703
-[1092]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141705
-[1093]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141707
-[1094]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702076
-[1095]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141717
-[1096]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141720
-[1097]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141722
-[1098]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141725
-[1099]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141727
-[1100]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141730
-[1101]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141732
-[1102]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141735
-[1103]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141737
-[1104]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141740
-[1105]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141742
-[1106]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141744
-[1107]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141746
-[1108]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141749
-[1109]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141752
-[1110]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM304710
-[1111]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250649
-[1112]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250650
-[1113]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250651
-[1114]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250652
-[1115]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250653
-[1116]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250654
-[1117]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320142
-[1118]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320150
-[1119]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320442
-[1120]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250655
-[1121]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703248
-[1122]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703253
-[1123]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703254
-[1124]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703235
-[1125]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM201599
-[1126]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584653
-[1127]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092383
-[1128]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM199363
-[1129]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092423
-[1130]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3083758
-[1131]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740327
-[1132]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM6028715
-[1133]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324906
-[1134]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4721602
-[1135]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324894
-[1136]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702400
-[1137]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324904
-[1138]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324973
-[1139]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29112
-[1140]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29118
-[1141]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29120
-[1142]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29122
-[1143]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29124
-[1144]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324932
-[1145]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324938
-[1146]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324911
-[1147]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324944
-[1148]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324926
-[1149]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324914
-[1150]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324920
-[1151]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29126
-[1152]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM88540
-[1153]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3230581
-[1154]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27265
-[1155]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324953
-[1156]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324958
-[1157]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4632934
-[1158]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092455
-[1159]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702405
-[1160]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740375
-[1161]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3724906
-[1162]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702401
-[1163]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702430
-[1164]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703213
-[1165]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703214
-[1166]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702326
-[1167]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141839
-[1168]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141840
-[1169]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141841
-[1170]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141842
-[1171]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141843
-[1172]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141844
-[1173]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141845
-[1174]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141846
-[1175]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141851
-[1176]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141852
-[1177]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141854
-[1178]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141855
-[1179]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141853
-[1180]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740376
-[1181]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141856
-[1182]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740377
-[1183]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141857
-[1184]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141858
-[1185]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141859
-[1186]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141860
-[1187]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141861
-[1188]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141864
-[1189]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141865
-[1190]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740378
-[1191]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141866
-[1192]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141867
-[1193]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29710
-[1194]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141862
-[1195]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033100
-[1196]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033200
-[1197]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033207
-[1198]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033246
-[1199]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141868
-[1200]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091033
-[1201]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM323244
-[1202]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360057
-[1203]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM311346
-[1204]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3232238
-[1205]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM327394
-[1206]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29434
-[1207]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141877
-[1208]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29438
-[1209]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141878
-[1210]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29440
-[1211]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141879
-[1212]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM326702
-[1213]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM323252
-[1214]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29442
-[1215]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141881
-[1216]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29446
-[1217]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141886
-[1218]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3231004
-[1219]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29450
-[1220]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141887
-[1221]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29458
-[1222]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141888
-[1223]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29460
-[1224]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141889
-[1225]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29462
-[1226]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141890
-[1227]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320806
-[1228]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29466
-[1229]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29472
-[1230]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29474
-[1231]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29476
-[1232]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703237
-[1233]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM328505
-[1234]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740379
-[1235]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM89496
-[1236]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360067
-[1237]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360039
-[1238]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29700
-[1239]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29704
-[1240]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141895
-[1241]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29708
-[1242]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141897
-[1243]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141898
-[1244]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM327381
-[1245]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM330201
-[1246]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM330285
-[1247]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29497
-[1248]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092421
-[1249]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092442
-[1250]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092449
-[1251]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092491
-[1252]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740380
-[1253]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702365
-[1254]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4632802
-[1255]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5739901
-[1256]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740381
-[1257]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566410
-[1258]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566412
-[1259]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM142026
-[1260]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM142027
-[1261]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3637804
-[1262]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740383
-[1263]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740388
-[1264]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726527
-[1265]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726528
-[1266]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740390
-[1267]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740391
-[1268]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30170
-[1269]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30179
-[1270]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30183
-[1271]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30187
-[1272]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30190
-[1273]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30193
-[1274]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30198
-[1275]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30400
-[1276]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30402
-[1277]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30405
-[1278]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30407
-[1279]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30409
-[1280]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30422
-[1281]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30425
-[1282]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30427
-[1283]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30429
-[1284]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30431
-[1285]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30433
-[1286]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30435
-[1287]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30437
-[1288]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092367
-[1289]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092369
-[1290]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092373
-[1291]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092374
-[1292]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092382
-[1293]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092386
-[1294]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092388
-[1295]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092394
-[1296]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092395
-[1297]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092397
-[1298]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092404
-[1299]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092406
-[1300]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092413
-[1301]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092414
-[1302]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092415
-[1303]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092416
-[1304]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092419
-[1305]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702325
-[1306]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092420
-[1307]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092422
-[1308]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092424
-[1309]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092425
-[1310]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092426
-[1311]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092427
-[1312]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092428
-[1313]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092433
-[1314]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092434
-[1315]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092439
-[1316]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092441
-[1317]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092447
-[1318]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092448
-[1319]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092471
-[1320]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092474
-[1321]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092477
-[1322]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092479
-[1323]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092482
-[1324]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092483
-[1325]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092486
-[1326]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092490
-[1327]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092492
-[1328]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092494
-[1329]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092495
-[1330]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM357961
-[1331]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320173
-[1332]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM225563
-[1333]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM411832
-[1334]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM123766
-[1335]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM220978
-[1336]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740392
-[1337]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27561
-[1338]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584644
-[1339]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3083740
-[1340]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1607346
-[1341]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM130706
-[1342]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM331140
-[1343]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM97382
-[1344]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM226640
-[1345]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092498
-[1346]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092499
-[1347]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092500
-[1348]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092501
-[1349]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092503
-[1350]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092504
-[1351]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092505
-[1352]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092506
-[1353]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092508
-[1354]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092509
-[1355]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092510
-[1356]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092512
-[1357]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092513
-[1358]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092514
-[1359]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092515
-[1360]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092516
-[1361]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092517
-[1362]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092518
-[1363]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092519
-[1364]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092520
-[1365]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092521
-[1366]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329506
-[1367]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329507
-[1368]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329517
-[1369]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM297439
-[1370]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329518
-[1371]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28829
-[1372]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092525
-[1373]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092524
-[1374]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155437
-[1375]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702347
-[1376]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702348
-[1377]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702350
-[1378]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702351
-[1379]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702362
-[1380]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702363
-[1381]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702366
-[1382]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702367
-[1383]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702368
-[1384]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702369
-[1385]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702370
-[1386]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155444
-[1387]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566409
-[1388]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702371
-[1389]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702372
-[1390]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702373
-[1391]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702394
-[1392]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155445
-[1393]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702396
-[1394]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702397
-[1395]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702399
-[1396]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702403
-[1397]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702404
-[1398]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702406
-[1399]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702408
-[1400]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702409
-[1401]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702410
-[1402]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702411
-[1403]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702413
-[1404]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702414
-[1405]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702415
-[1406]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702416
-[1407]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702417
-[1408]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702418
-[1409]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702421
-[1410]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702422
-[1411]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702423
-[1412]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155446
-[1413]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702428
-[1414]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702429
-[1415]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702431
-[1416]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702432
-[1417]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702433
-[1418]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702434
-[1419]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702435
-[1420]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155447
-[1421]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155448
-[1422]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155449
-[1423]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702450
-[1424]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702451
-[1425]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702452
-[1426]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702453
-[1427]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702454
-[1428]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702455
-[1429]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702456
-[1430]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155450
-[1431]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702457
-[1432]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702458
-[1433]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155451
-[1434]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702459
-[1435]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702460
-[1436]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702461
-[1437]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702462
-[1438]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155452
-[1439]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155453
-[1440]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155454
-[1441]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155455
-[1442]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155457
-[1443]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155458
-[1444]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566411
-[1445]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566413
-[1446]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566414
-[1447]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566415
-[1448]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566416
-[1449]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566417
-[1450]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4090503
-[1451]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM25999
-[1452]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291142
-[1453]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27271
-[1454]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3727623
-[1455]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29148
-[1456]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29406
-[1457]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96438
-[1458]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143291
-[1459]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325263
-[1460]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561470
-[1461]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561489
-[1462]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561494
-[1463]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5703112
-[1464]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740394
-[1465]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3638474
-[1466]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1517684
-[1467]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1517800
-[1468]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28886
-[1469]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291119
-[1470]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291121
-[1471]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285689
-[1472]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285692
-[1473]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30129
-[1474]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM325263
-[1475]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144055
-[1476]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144056
-[1477]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28302
-[1478]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139735
-[1479]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141755
-[1480]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139726
-[1481]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140956
-[1482]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141794
-[1483]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM141794
-[1484]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4090503
-[1485]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561110
-[1486]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561111
-[1487]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM124662
-[1488]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379408
-[1489]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379149
-[1490]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379155
-[1491]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379415
-[1492]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109431
-[1493]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30166
-[1494]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28186
-[1495]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28802
-[1496]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3727615
-[1497]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM305508
-[1498]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998516
-[1499]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998515
-[1500]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998532
-[1501]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[822]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3918989
+[823]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1523134
+[824]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1523137
+[825]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM199370
+[826]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109541
+[827]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092378
+[828]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702329
+[829]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM319999
+[830]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325508
+[831]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376828
+[832]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376877
+[833]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092370
+[834]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702332
+[835]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702334
+[836]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321666
+[837]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321191
+[838]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM322879
+[839]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144941
+[840]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740295
+[841]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5742521
+[842]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM376849
+[843]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584200
+[844]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM26805
+[845]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092469
+[846]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM172479
+[847]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM396434
+[848]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96903
+[849]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140438
+[850]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96904
+[851]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96905
+[852]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM311052
+[853]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96908
+[854]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092438
+[855]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96914
+[856]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM97313
+[857]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM319569
+[858]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140439
+[859]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140442
+[860]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109400
+[861]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140449
+[862]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27579
+[863]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092366
+[864]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092407
+[865]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092417
+[866]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092440
+[867]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092405
+[868]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092429
+[869]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM200384
+[870]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3919115
+[871]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1794840
+[872]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723294
+[873]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723295
+[874]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723297
+[875]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723298
+[876]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3231086
+[877]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3724908
+[878]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27289
+[879]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329515
+[880]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726526
+[881]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29133
+[882]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092412
+[883]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092418
+[884]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155381
+[885]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28187
+[886]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3552520
+[887]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29486
+[888]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651192
+[889]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651242
+[890]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285669
+[891]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285671
+[892]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291749
+[893]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4097737
+[894]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651259
+[895]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4097741
+[896]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291750
+[897]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651165
+[898]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28895
+[899]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325448
+[900]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155388
+[901]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325421
+[902]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708806
+[903]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708809
+[904]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379487
+[905]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379489
+[906]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM129109
+[907]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1440300
+[908]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379126
+[909]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143741
+[910]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143748
+[911]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702402
+[912]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708800
+[913]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3723710
+[914]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143753
+[915]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379130
+[916]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651125
+[917]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325482
+[918]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708812
+[919]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143755
+[920]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143775
+[921]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718003
+[922]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379144
+[923]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3720107
+[924]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708802
+[925]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325456
+[926]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291766
+[927]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379127
+[928]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325490
+[929]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291765
+[930]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708804
+[931]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325468
+[932]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291764
+[933]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291755
+[934]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325434
+[935]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708810
+[936]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708811
+[937]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143785
+[938]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2888815
+[939]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1096804
+[940]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325480
+[941]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143773
+[942]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3720109
+[943]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379145
+[944]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379138
+[945]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092368
+[946]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379004
+[947]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143758
+[948]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718005
+[949]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718007
+[950]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379481
+[951]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379156
+[952]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143762
+[953]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143768
+[954]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718006
+[955]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718011
+[956]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718015
+[957]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718014
+[958]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM378819
+[959]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3718009
+[960]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM304211
+[961]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143770
+[962]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325470
+[963]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325481
+[964]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325452
+[965]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708805
+[966]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144011
+[967]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379195
+[968]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379197
+[969]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28899
+[970]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379427
+[971]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651257
+[972]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651258
+[973]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651264
+[974]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4093818
+[975]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28896
+[976]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3708813
+[977]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651265
+[978]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM378898
+[979]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091742
+[980]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379403
+[981]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144022
+[982]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379404
+[983]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379405
+[984]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4095302
+[985]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379429
+[986]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2651306
+[987]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29104
+[988]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29108
+[989]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321139
+[990]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321141
+[991]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139975
+[992]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139977
+[993]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139978
+[994]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140405
+[995]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140406
+[996]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140432
+[997]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139980
+[998]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139986
+[999]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139987
+[1000]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM202023
+[1001]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139988
+[1002]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139999
+[1003]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140407
+[1004]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140408
+[1005]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140409
+[1006]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140410
+[1007]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140411
+[1008]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140412
+[1009]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140413
+[1010]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140414
+[1011]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3250106
+[1012]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140415
+[1013]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM326754
+[1014]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140416
+[1015]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321178
+[1016]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140417
+[1017]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140418
+[1018]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140419
+[1019]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140423
+[1020]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140424
+[1021]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140425
+[1022]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140427
+[1023]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140428
+[1024]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140429
+[1025]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1061303
+[1026]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1061310
+[1027]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140430
+[1028]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140431
+[1029]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140478
+[1030]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140482
+[1031]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1181708
+[1032]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140961
+[1033]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140965
+[1034]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140967
+[1035]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140968
+[1036]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140970
+[1037]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140974
+[1038]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140980
+[1039]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140986
+[1040]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140988
+[1041]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140990
+[1042]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140991
+[1043]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140994
+[1044]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140995
+[1045]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140996
+[1046]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141301
+[1047]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141304
+[1048]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1168502
+[1049]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141309
+[1050]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141314
+[1051]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141316
+[1052]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141317
+[1053]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320453
+[1054]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320454
+[1055]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320455
+[1056]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141318
+[1057]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM321142
+[1058]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092398
+[1059]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140926
+[1060]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140928
+[1061]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140930
+[1062]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140932
+[1063]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM235724
+[1064]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM255724
+[1065]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320862
+[1066]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140940
+[1067]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140954
+[1068]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702057
+[1069]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM1109400
+[1070]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109511
+[1071]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141344
+[1072]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141346
+[1073]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141355
+[1074]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141357
+[1075]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2997643
+[1076]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998573
+[1077]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141359
+[1078]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141368
+[1079]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141370
+[1080]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702058
+[1081]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702059
+[1082]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM64784
+[1083]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702060
+[1084]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702061
+[1085]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702062
+[1086]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702063
+[1087]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141373
+[1088]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091508
+[1089]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141379
+[1090]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141381
+[1091]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141383
+[1092]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141385
+[1093]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740326
+[1094]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141703
+[1095]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141705
+[1096]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141707
+[1097]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3702076
+[1098]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141717
+[1099]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141720
+[1100]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141722
+[1101]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141725
+[1102]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141727
+[1103]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141730
+[1104]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141732
+[1105]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141735
+[1106]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141737
+[1107]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141740
+[1108]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141742
+[1109]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141744
+[1110]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141746
+[1111]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141749
+[1112]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141752
+[1113]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM304710
+[1114]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250649
+[1115]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250650
+[1116]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250651
+[1117]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250652
+[1118]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250653
+[1119]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250654
+[1120]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320142
+[1121]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320150
+[1122]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320442
+[1123]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM250655
+[1124]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703248
+[1125]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703253
+[1126]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703254
+[1127]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703235
+[1128]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM201599
+[1129]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584653
+[1130]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092383
+[1131]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM199363
+[1132]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092423
+[1133]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3083758
+[1134]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740327
+[1135]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM6028715
+[1136]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324906
+[1137]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4721602
+[1138]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324894
+[1139]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702400
+[1140]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324904
+[1141]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324973
+[1142]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29112
+[1143]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29118
+[1144]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29120
+[1145]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29122
+[1146]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29124
+[1147]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324932
+[1148]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324938
+[1149]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324911
+[1150]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324944
+[1151]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324926
+[1152]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324914
+[1153]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324920
+[1154]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29126
+[1155]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM88540
+[1156]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3230581
+[1157]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27265
+[1158]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324953
+[1159]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM324958
+[1160]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4632934
+[1161]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092455
+[1162]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702405
+[1163]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740375
+[1164]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3724906
+[1165]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702401
+[1166]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702430
+[1167]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703213
+[1168]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703214
+[1169]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702326
+[1170]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141839
+[1171]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141840
+[1172]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141841
+[1173]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141842
+[1174]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141843
+[1175]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141844
+[1176]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141845
+[1177]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141846
+[1178]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141851
+[1179]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141852
+[1180]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141854
+[1181]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141855
+[1182]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141853
+[1183]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740376
+[1184]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141856
+[1185]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740377
+[1186]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141857
+[1187]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141858
+[1188]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141859
+[1189]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141860
+[1190]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141861
+[1191]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141864
+[1192]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141865
+[1193]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740378
+[1194]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141866
+[1195]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141867
+[1196]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29710
+[1197]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141862
+[1198]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033100
+[1199]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033200
+[1200]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033207
+[1201]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2033246
+[1202]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141868
+[1203]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4091033
+[1204]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM323244
+[1205]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360057
+[1206]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM311346
+[1207]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3232238
+[1208]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM327394
+[1209]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29434
+[1210]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141877
+[1211]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29438
+[1212]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141878
+[1213]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29440
+[1214]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141879
+[1215]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM326702
+[1216]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM323252
+[1217]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29442
+[1218]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141881
+[1219]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29446
+[1220]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141886
+[1221]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3231004
+[1222]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29450
+[1223]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141887
+[1224]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29458
+[1225]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141888
+[1226]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29460
+[1227]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141889
+[1228]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29462
+[1229]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141890
+[1230]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320806
+[1231]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29466
+[1232]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29472
+[1233]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29474
+[1234]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29476
+[1235]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3703237
+[1236]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM328505
+[1237]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740379
+[1238]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM89496
+[1239]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360067
+[1240]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3360039
+[1241]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29700
+[1242]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29704
+[1243]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141895
+[1244]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29708
+[1245]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141897
+[1246]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141898
+[1247]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM327381
+[1248]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM330201
+[1249]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM330285
+[1250]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29497
+[1251]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092421
+[1252]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092442
+[1253]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092449
+[1254]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092491
+[1255]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740380
+[1256]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702365
+[1257]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4632802
+[1258]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5739901
+[1259]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740381
+[1260]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566410
+[1261]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566412
+[1262]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM142026
+[1263]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM142027
+[1264]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3637804
+[1265]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740383
+[1266]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740388
+[1267]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726527
+[1268]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3726528
+[1269]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740390
+[1270]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740391
+[1271]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30170
+[1272]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30179
+[1273]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30183
+[1274]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30187
+[1275]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30190
+[1276]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30193
+[1277]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30198
+[1278]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30400
+[1279]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30402
+[1280]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30405
+[1281]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30407
+[1282]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30409
+[1283]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30422
+[1284]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30425
+[1285]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30427
+[1286]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30429
+[1287]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30431
+[1288]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30433
+[1289]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30435
+[1290]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30437
+[1291]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092367
+[1292]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092369
+[1293]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092373
+[1294]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092374
+[1295]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092382
+[1296]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092386
+[1297]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092388
+[1298]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092394
+[1299]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092395
+[1300]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092397
+[1301]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092404
+[1302]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092406
+[1303]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092413
+[1304]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092414
+[1305]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092415
+[1306]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092416
+[1307]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092419
+[1308]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702325
+[1309]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092420
+[1310]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092422
+[1311]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092424
+[1312]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092425
+[1313]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092426
+[1314]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092427
+[1315]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092428
+[1316]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092433
+[1317]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092434
+[1318]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092439
+[1319]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092441
+[1320]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092447
+[1321]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092448
+[1322]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092471
+[1323]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092474
+[1324]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092477
+[1325]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092479
+[1326]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092482
+[1327]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092483
+[1328]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092486
+[1329]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092490
+[1330]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092492
+[1331]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092494
+[1332]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092495
+[1333]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM357961
+[1334]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM320173
+[1335]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM225563
+[1336]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM411832
+[1337]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM123766
+[1338]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM220978
+[1339]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740392
+[1340]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27561
+[1341]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1584644
+[1342]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3083740
+[1343]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM130706
+[1344]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM331140
+[1345]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM97382
+[1346]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM226640
+[1347]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092498
+[1348]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092499
+[1349]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092500
+[1350]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092501
+[1351]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092503
+[1352]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092504
+[1353]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092505
+[1354]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092506
+[1355]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092508
+[1356]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092509
+[1357]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092510
+[1358]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092512
+[1359]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092513
+[1360]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092514
+[1361]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092515
+[1362]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092516
+[1363]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092517
+[1364]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092518
+[1365]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092519
+[1366]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092520
+[1367]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092521
+[1368]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329506
+[1369]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329507
+[1370]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329517
+[1371]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM297439
+[1372]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5329518
+[1373]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28829
+[1374]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092525
+[1375]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4092524
+[1376]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155437
+[1377]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702347
+[1378]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702348
+[1379]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702350
+[1380]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702351
+[1381]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702362
+[1382]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702363
+[1383]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702366
+[1384]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702367
+[1385]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702368
+[1386]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702369
+[1387]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702370
+[1388]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155444
+[1389]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566409
+[1390]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702371
+[1391]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702372
+[1392]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702373
+[1393]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702394
+[1394]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155445
+[1395]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702396
+[1396]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702397
+[1397]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702399
+[1398]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702403
+[1399]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702404
+[1400]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702406
+[1401]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702408
+[1402]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702409
+[1403]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702410
+[1404]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702411
+[1405]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702413
+[1406]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702414
+[1407]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702415
+[1408]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702416
+[1409]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702417
+[1410]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702418
+[1411]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702421
+[1412]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702422
+[1413]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702423
+[1414]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155446
+[1415]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702428
+[1416]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702429
+[1417]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702431
+[1418]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702432
+[1419]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702433
+[1420]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702434
+[1421]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702435
+[1422]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155447
+[1423]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155448
+[1424]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155449
+[1425]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702450
+[1426]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702451
+[1427]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702452
+[1428]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702453
+[1429]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702454
+[1430]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702455
+[1431]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702456
+[1432]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155450
+[1433]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702457
+[1434]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702458
+[1435]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155451
+[1436]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702459
+[1437]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702460
+[1438]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702461
+[1439]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4702462
+[1440]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155452
+[1441]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155453
+[1442]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155454
+[1443]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155455
+[1444]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155457
+[1445]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5155458
+[1446]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566411
+[1447]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566413
+[1448]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566414
+[1449]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566415
+[1450]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566416
+[1451]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM5566417
+[1452]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM4090503
+[1453]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM25999
+[1454]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291142
+[1455]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM27271
+[1456]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3727623
+[1457]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29148
+[1458]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM29406
+[1459]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM96438
+[1460]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM143291
+[1461]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM325263
+[1462]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561470
+[1463]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561489
+[1464]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561494
+[1465]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5703112
+[1466]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5740394
+[1467]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3638474
+[1468]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1517684
+[1469]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1517800
+[1470]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28886
+[1471]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291119
+[1472]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2291121
+[1473]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285689
+[1474]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2285692
+[1475]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30129
+[1476]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM325263
+[1477]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144055
+[1478]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM144056
+[1479]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28302
+[1480]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139735
+[1481]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141755
+[1482]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM139726
+[1483]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM140956
+[1484]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM141794
+[1485]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM141794
+[1486]: http://www.legislation.govt.nz/act/public/2013/0069/latest/whole.html#DLM4090503
+[1487]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561110
+[1488]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561111
+[1489]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM124662
+[1490]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379408
+[1491]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379149
+[1492]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379155
+[1493]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM379415
+[1494]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM1109431
+[1495]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM30166
+[1496]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28186
+[1497]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM28802
+[1498]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM3727615
+[1499]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM305508
+[1500]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561603
+[1501]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM5561604
+[1502]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998516
+[1503]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998515
+[1504]: http://www.legislation.govt.nz/act/public/2013/0069/latest/link.aspx?id=DLM2998532
+[1505]: http://www.pco.parliament.govt.nz/editorial-conventions/
