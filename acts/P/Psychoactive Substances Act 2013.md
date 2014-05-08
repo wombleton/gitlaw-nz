@@ -1,3 +1,6 @@
+Reprint  
+as at 8 May 2014
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Psychoactive Substances Act 2013Public Act2013 No 53
@@ -6,342 +9,354 @@ Date of assent17 July 2013
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Health.
+
+---
+
 ## Contents
 
-[1 ][0][][0][Title][0]
+[1][1][][1][Title][1]
 
-[2 ][1][][1][Commencement][1]
+[2][2][][2][Commencement][2]
 
-[Part 1][2]  
-[Preliminary provisions][2]
+[Part 1][3]  
+[Preliminary provisions][3]
 
-[Subpart 1][3][---][3][Preliminary matters][3]
+[Subpart 1][4][---][4][Preliminary matters][4]
 
-[3 ][4][][4][Purpose][4]
+[3][5][][5][Purpose][5]
 
-[4 ][5][][5][Principles][5]
+[4][6][][6][Principles][6]
 
-[5 ][6][][6][Application of Act][6]
+[5][7][][7][Application of Act][7]
 
-[6 ][7][][7][Overview][7]
+[6][8][][8][Overview][8]
 
-[7 ][8][][8][Act binds the Crown][8]
+[7][9][][9][Act binds the Crown][9]
 
-[Subpart 2][9][---][9][Interpretation][9]
+[Subpart 2][10][---][10][Interpretation][10]
 
-[General][10]
+[General][11]
 
-[8 ][11][][11][Interpretation][11]
+[8][12][][12][Interpretation][12]
 
-[Meaning of psychoactive substance][12]
+[Meaning of psychoactive substance][13]
 
-[9 ][13][][13][Meaning of psychoactive substance][13]
+[9][14][][14][Meaning of psychoactive substance][14]
 
-[Subpart 3][14][---][14][Key regulatory roles][14]
+[Subpart 3][15][---][15][Key regulatory roles][15]
 
-[10 ][15][][15][Psychoactive Substances Regulatory Authority][15]
+[10][16][][16][Psychoactive Substances Regulatory Authority][16]
 
-[11 ][16][][16][Psychoactive Substances Expert Advisory Committee][16]
+[11][17][][17][Psychoactive Substances Expert Advisory Committee][17]
 
-[12 ][17][][17][Duty of advisory committee relating to use of animals when evaluating psychoactive products][17]
+[12][18][][18][Advisory committee not to have regard to results of trials involving animals][18]
 
-[Part 2][18]  
-[Psychoactive substances and approved products][18]
+[Part 2][19]  
+[Psychoactive substances and approved products][19]
 
-[Subpart 1][19][---][19][Licences to import, manufacture, research, and sell][19]
+[Subpart 1][20][---][20][Licences to import, manufacture, research, and sell][20]
 
-[Applications for licence][20]
+[Applications for licence][21]
 
-[13 ][21][][21][Application for licence][21]
+[13][22][][22][Application for licence][22]
 
-[14 ][22][][22][Authority may refuse to process application for licence][22]
+[14][23][][23][Authority may refuse to process application for licence][23]
 
-[15 ][23][][23][Authority may request further information, etc][23]
+[15][24][][24][Authority may request further information, etc][24]
 
-[Granting of licence][24]
+[Granting of licence][25]
 
-[16 ][25][][25][Grounds for granting licence][25]
+[16][26][][26][Grounds for granting licence][26]
 
-[Conditions of licence][26]
+[Conditions of licence][27]
 
-[17 ][27][][27][Compulsory conditions of licences][27]
+[17][28][][28][Compulsory conditions of licences][28]
 
-[18 ][28][][28][Discretionary conditions of licence][28]
+[18][29][][29][Discretionary conditions of licence][29]
 
-[Duration of licence][29]
+[Duration of licence][30]
 
-[19 ][30][][30][Duration of licence][30]
+[19][31][][31][Duration of licence][31]
 
-[Licence not transferable][31]
+[Licence not transferable][32]
 
-[20 ][32][][32][Licence may not be transferred][32]
+[20][33][][33][Licence may not be transferred][33]
 
-[Refusal of licence][33]
+[Refusal of licence][34]
 
-[21 ][34][][34][Refusal to grant licence][34]
+[21][35][][35][Refusal to grant licence][35]
 
-[Suspension, cancellation, and surrender of licence][35]
+[Suspension, cancellation, and surrender of licence][36]
 
-[22 ][36][][36][Suspension or cancellation of licence][36]
+[22][37][][37][Suspension or cancellation of licence][37]
 
-[23 ][37][][37][Surrender of licence][37]
+[23][38][][38][Surrender of licence][38]
 
-[Offences relating to licences][38]
+[Offences relating to licences][39]
 
-[24 ][39][][39][Offence relating to application for licence][39]
+[24][40][][40][Offence relating to application for licence][40]
 
-[25 ][40][][40][Offence relating to importation of psychoactive substance without licence][40]
+[25][41][][41][Offence relating to importation of psychoactive substance without licence][41]
 
-[26 ][41][][41][Offence relating to manufacture of psychoactive substance without licence][41]
+[26][42][][42][Offence relating to manufacture of psychoactive substance without licence][42]
 
-[27 ][42][][42][Offence relating to sale of approved product without licence][42]
+[27][43][][43][Offence relating to sale of approved product without licence][43]
 
-[28 ][43][][43][Offence relating to breach of licence condition][43]
+[28][44][][44][Offence relating to breach of licence condition][44]
 
-[Further provisions relating to manufacture of psychoactive substances][44]
+[Further provisions relating to manufacture of psychoactive substances][45]
 
-[29 ][45][][45][Code of manufacturing practice][45]
+[29][46][][46][Code of manufacturing practice][46]
 
-[30 ][46][][46][Audit of manufacturing facilities][46]
+[30][47][][47][Audit of manufacturing facilities][47]
 
-[31 ][47][][47][Authorised person may enter manufacturing facility][47]
+[31][48][][48][Authorised person may enter manufacturing facility][48]
 
-[32 ][48][][48][Authority may issue compliance notice][48]
+[32][49][][49][Authority may issue compliance notice][49]
 
-[Subpart 2][49][---][49][Approved products][49]
+[Subpart 2][50][---][50][Approved products][50]
 
-[Applications for approval][50]
+[Applications for approval][51]
 
-[33 ][51][][51][Application for approval][51]
+[33][52][][52][Application for approval][52]
 
-[34 ][52][][52][Authority may refuse to process application for approval][52]
+[34][53][][53][Authority may refuse to process application for approval][53]
 
-[35 ][53][][53][Authority may request further information, etc][53]
+[35][54][][54][Authority may request further information, etc][54]
 
-[36 ][54][][54][Authority must protect confidential supporting information relating to application for approval][54]
+[36][55][][55][Authority must protect confidential supporting information relating to application for approval][55]
 
-[Granting of approval][55]
+[Granting of approval][56]
 
-[37 ][56][][56][Grounds for approving product][56]
+[37][57][][57][Grounds for approving product][57]
 
-[Conditions of approval][57]
+[Conditions of approval][58]
 
-[38 ][58][][58][Conditions of approval][58]
+[38][59][][59][Conditions of approval][59]
 
-[Refusal and revocation of approval][59]
+[Refusal and revocation of approval][60]
 
-[39 ][60][][60][Refusal to grant approval][60]
+[39][61][][61][Refusal to grant approval][61]
 
-[40 ][61][][61][Revocation of approval][61]
+[40][62][][62][Revocation of approval][62]
 
-[Offences relating to approvals ][62]
+[Offences relating to approvals][63]
 
-[41 ][63][][63][Offence relating to application for approval][63]
+[41][64][][64][Offence relating to application for approval][64]
 
-[42 ][64][][64][Offence relating to breach of conditions of approval][64]
+[42][65][][65][Offence relating to breach of conditions of approval][65]
 
-[Register of products][65]
+[Register of products][66]
 
-[43 ][66][][66][Register of products][66]
+[43][67][][67][Register of products][67]
 
-[Subpart 3][67][---][67][Appeals against decisions of Authority][67]
+[Subpart 3][68][---][68][Appeals against decisions of Authority][68]
 
-[44 ][68][][68][Psychoactive Substances Appeals Committee][68]
+[44][69][][69][Psychoactive Substances Appeals Committee][69]
 
-[45 ][69][][69][Appeals against Authority's decisions][69]
+[45][70][][70][Appeals against Authority's decisions][70]
 
-[46 ][70][][70][Appeals committee may refer appeals back for reconsideration][70]
+[46][71][][71][Appeals committee may refer appeals back for reconsideration][71]
 
-[Further appeals][71]
+[Further appeals][72]
 
-[47 ][72][][72][Appeal to High Court on question of law][72]
+[47][73][][73][Appeal to High Court on question of law][73]
 
-[Part 3][73]  
-[Control of approved products and other matters][73]
+[Part 3][74]  
+[Control of approved products and other matters][74]
 
-[Subpart 1][74][---][74][Control of approved products][74]
+[Subpart 1][75][---][75][Control of approved products][75]
 
-[Age restrictions][75]
+[Age restrictions][76]
 
-[48 ][76][][76][Restriction on persons under 18 years buying or possessing psychoactive substances (including approved products)][76]
+[48][77][][77][Restriction on persons under 18 years buying or possessing psychoactive substances (including approved products)][77]
 
-[49 ][77][][77][Restriction on selling approved products to persons under 18 years][77]
+[49][78][][78][Restriction on selling approved products to persons under 18 years][78]
 
-[50 ][78][][78][Restriction on supplying approved products to persons under 18 years in public place][78]
+[50][79][][79][Restriction on supplying approved products to persons under 18 years in public place][79]
 
-[51 ][79][][79][Restriction on employing persons under 18 years to sell approved products][79]
+[51][80][][80][Restriction on employing persons under 18 years to sell approved products][80]
 
-[Other restrictions, prohibitions, and requirements relating to approved products][80]
+[Other restrictions, prohibitions, and requirements relating to approved products][81]
 
-[52 ][81][][81][Prohibitions and restrictions on place of sale of approved products][81]
+[52][82][][82][Prohibitions and restrictions on place of sale of approved products][82]
 
-[53 ][82][][82][Restrictions and requirements relating to Internet sales of approved products][82]
+[53][83][][83][Restrictions and requirements relating to Internet sales of approved products][83]
 
-[54 ][83][][83][Prohibition on free-of-charge distribution and rewards of approved products][83]
+[54][84][][84][Prohibition on free-of-charge distribution and rewards of approved products][84]
 
-[55 ][84][][84][Prohibition on sponsoring activity involving use of trade mark, etc, of approved product][84]
+[55][85][][85][Prohibition on sponsoring activity involving use of trade mark, etc, of approved product][85]
 
-[56 ][85][][85][Prohibitions, restrictions, and requirements relating to advertising of approved products][85]
+[56][86][][86][Prohibitions, restrictions, and requirements relating to advertising of approved products][86]
 
-[57 ][86][][86][Restriction on retailer's name using words, expressions, or trade marks, etc, associated with approved products][86]
+[57][87][][87][Restriction on retailer's name using words, expressions, or trade marks, etc, associated with approved products][87]
 
-[58 ][87][][87][Restrictions and requirements relating to labelling of approved products][87]
+[58][88][][88][Restrictions and requirements relating to labelling of approved products][88]
 
-[59 ][88][][88][Restrictions and requirements relating to packaging of approved products][88]
+[59][89][][89][Restrictions and requirements relating to packaging of approved products][89]
 
-[60 ][89][][89][Requirement relating to health warnings][89]
+[60][90][][90][Requirement relating to health warnings][90]
 
-[61 ][90][][90][Requirement to display signage ][90]
+[61][91][][91][Requirement to display signage][91]
 
-[62 ][91][][91][Restrictions and requirements relating to storage and display of approved products][91]
+[62][92][][92][Restrictions and requirements relating to storage and display of approved products][92]
 
-[63 ][92][][92][Restrictions and requirements relating to disposal of psychoactive substances][92]
+[63][93][][93][Restrictions and requirements relating to disposal of psychoactive substances][93]
 
-[64 ][93][][93][Requirement to keep records relating to psychoactive substances and approved products][93]
+[64][94][][94][Requirement to keep records relating to psychoactive substances and approved products][94]
 
-[Prohibitions and restrictions on convicted persons selling approved products][94]
+[Prohibitions and restrictions on convicted persons selling approved products][95]
 
-[65 ][95][][95][Prohibitions and restrictions on convicted persons selling approved products][95]
+[65][96][][96][Prohibitions and restrictions on convicted persons selling approved products][96]
 
-[Local approved products policies][96]
+[Local approved products policies][97]
 
-[66 ][97][][97][Territorial authority may have local approved products policy][97]
+[66][98][][98][Territorial authority may have local approved products policy][98]
 
-[67 ][98][][98][Territorial authorities may adopt joint local approved products policy ][98]
+[67][99][][99][Territorial authorities may adopt joint local approved products policy][99]
 
-[68 ][99][][99][Content of local approved products policy][99]
+[68][100][][100][Content of local approved products policy][100]
 
-[69 ][100][][100][Adoption and review of local approved products policy][100]
+[69][101][][101][Adoption and review of local approved products policy][101]
 
-[Subpart 2][101][---][101][Offences relating to psychoactive substances that are not approved products][101]
+[Subpart 2][102][---][102][Offences relating to psychoactive substances that are not approved products][102]
 
-[70 ][102][][102][Offences relating to psychoactive substance that is not approved product][102]
+[70][103][][103][Offences relating to psychoactive substance that is not approved product][103]
 
-[71 ][103][][103][Offence relating to personal possession of psychoactive substance that is not approved product][103]
+[71][104][][104][Offence relating to personal possession of psychoactive substance that is not approved product][104]
 
-[Infringement offences][104]
+[Infringement offences][105]
 
-[72 ][105][][105][Interpretation][105]
+[72][106][][106][Interpretation][106]
 
-[73 ][106][][106][Proceedings for infringement offence][106]
+[73][107][][107][Proceedings for infringement offence][107]
 
-[74 ][107][][107][Infringement notices][107]
+[74][108][][108][Infringement notices][108]
 
-[75 ][108][][108][Payment of infringement fees][108]
+[75][109][][109][Payment of infringement fees][109]
 
-[Subpart 3][109][---][109][Enforcement][109]
+[Subpart 3][110][---][110][Enforcement][110]
 
-[Enforcement officers][110]
+[Enforcement officers][111]
 
-[76 ][111][][111][Enforcement officers][111]
+[76][112][][112][Enforcement officers][112]
 
-[Enforcement powers][112]
+[Enforcement powers][113]
 
-[77 ][113][][113][Warrantless power to enter and search][113]
+[77][114][][114][Warrantless power to enter and search][114]
 
-[78 ][114][][114][Power to enter and search retail premises][114]
+[78][115][][115][Power to enter and search retail premises][115]
 
-[79 ][115][][115][Warranted power to enter and search][115]
+[79][116][][116][Warranted power to enter and search][116]
 
-[80 ][116][][116][Power to demand information where offence against section 49 suspected][116]
+[80][117][][117][Power to demand information where offence against section 49 suspected][117]
 
-[81 ][117][][117][Power to demand information where offence against section 48, 50, or 71 suspected][117]
+[81][118][][118][Power to demand information where offence against section 48, 50, or 71 suspected][118]
 
-[82 ][118][][118][Forfeiture][118]
+[82][119][][119][Forfeiture][119]
 
-[Offences relating to enforcement][119]
+[Offences relating to enforcement][120]
 
-[83 ][120][][120][Obstructing enforcement officer or constable][120]
+[83][121][][121][Obstructing enforcement officer or constable][121]
 
-[International controlled delivery of psychoactive substances][121]
+[International controlled delivery of psychoactive substances][122]
 
-[84 ][122][][122][International controlled delivery of psychoactive substances][122]
+[84][123][][123][International controlled delivery of psychoactive substances][123]
 
-[Liability of principals and directors][123]
+[Liability of principals and directors][124]
 
-[85 ][124][][124][Liability of principals and directors][124]
+[85][125][][125][Liability of principals and directors][125]
 
-[Subpart 4][125][---][125][Other powers of Authority][125]
+[Subpart 4][126][---][126][Other powers of Authority][126]
 
-[86 ][126][][126][Authority may declare recognised authorities][126]
+[86][127][][127][Authority may declare recognised authorities][127]
 
-[87 ][127][][127][Approved laboratories][127]
+[87][128][][128][Approved laboratories][128]
 
-[88 ][128][][128][Recall orders][128]
+[88][129][][129][Recall orders][129]
 
-[89 ][129][][129][Export certificates][129]
+[89][130][][130][Export certificates][130]
 
-[Subpart 5][130][---][130][Cost recovery][130]
+[Subpart 5][131][---][131][Cost recovery][131]
 
-[90 ][131][][131][Costs to be recovered][131]
+[90][132][][132][Costs to be recovered][132]
 
-[91 ][132][][132][Principles of cost recovery][132]
+[91][133][][133][Principles of cost recovery][133]
 
-[92 ][133][][133][Methods of cost recovery][133]
+[92][134][][134][Methods of cost recovery][134]
 
-[93 ][134][][134][Cost recovery to relate generally to financial year][134]
+[93][135][][135][Cost recovery to relate generally to financial year][135]
 
-[94 ][135][][135][Three-yearly review of cost recovery ][135]
+[94][136][][136][Three-yearly review of cost recovery][136]
 
-[95 ][136][][136][Regulations prescribing fees and charges][136]
+[95][137][][137][Regulations prescribing fees and charges][137]
 
-[96 ][137][][137][Regulations imposing levies][137]
+[96][138][][138][Regulations imposing levies][138]
 
-[97 ][138][][138][Failure to pay fee, charge, or levy][138]
+[97][139][][139][Failure to pay fee, charge, or levy][139]
 
-[Subpart 6][139][---][139][Other matters][139]
+[Subpart 6][140][---][140][Other matters][140]
 
-[Duty to notify adverse reactions][140]
+[Duty to notify adverse reactions][141]
 
-[98 ][141][][141][Duty of specified persons to notify Authority about adverse reactions][141]
+[98][142][][142][Duty of specified persons to notify Authority about adverse reactions][142]
 
-[Regulations][142]
+[Regulations][143]
 
-[99 ][143][][143][Regulations relating to psychoactive substances][143]
+[99][144][][144][Regulations relating to psychoactive substances][144]
 
-[100 ][144][][144][Regulations relating to infringement offences][144]
+[100][145][][145][Regulations relating to infringement offences][145]
 
-[101 ][145][][145][Other regulations][145]
+[101][146][][146][Other regulations][146]
 
-[Delegation of Authority's functions, duties, or powers][146]
+[Delegation of Authority's functions, duties, or powers][147]
 
-[102 ][147][][147][Delegation of Authority's functions, duties, or powers][147]
+[102][148][][148][Delegation of Authority's functions, duties, or powers][148]
 
-[Protection from civil and criminal liability][148]
+[Protection from civil and criminal liability][149]
 
-[103 ][149][][149][Immunities][149]
+[103][150][][150][Immunities][150]
 
-[Relationship with other enactments][150]
+[Relationship with other enactments][151]
 
-[104 ][151][][151][Relationship with Hazardous Substances and New Organisms Act 1996][151]
+[104][152][][152][Relationship with Hazardous Substances and New Organisms Act 1996][152]
 
-[105 ][152][][152][Application of Customs and Excise Act 1996][152]
+[105][153][][153][Application of Customs and Excise Act 1996][153]
 
-[Review of Act][153]
+[Review of Act][154]
 
-[106 ][154][][154][Ministry must review Act][154]
+[106][155][][155][Ministry must review Act][155]
 
-[Application, savings, and transitional provisions][155]
+[Application, savings, and transitional provisions][156]
 
-[107 ][156][][156][Application, savings, and transitional provisions][156]
+[107][157][][157][Application, savings, and transitional provisions][157]
 
-[Amendments to Search and Surveillance Act 2012][157]
+[Amendments to Search and Surveillance Act 2012][158]
 
-[108 ][158][][158][Amendments to Search and Surveillance Act 2012][158]
+[108][159][][159][Amendments to Search and Surveillance Act 2012][159]
 
-[Amendments to Children, Young Persons, and Their Families Act 1989][159]
+[Amendments to Children, Young Persons, and Their Families Act 1989][160]
 
-[109 ][160][][160][Amendments to Children, Young Persons, and Their Families Act 1989][160]
+[109][161][][161][Amendments to Children, Young Persons, and Their Families Act 1989][161]
 
-[Consequential amendments and revocation][161]
+[Consequential amendments and revocation][162]
 
-[110 ][162][][162][Consequential amendments and revocation][162]
+[110][163][][163][Consequential amendments and revocation][163]
 
-[Schedule 1][163]  
-[Application, savings, and transitional provisions][163]
+[Schedule 1][164]  
+[Application, savings, and transitional provisions][164]
 
-[Schedule 2][164]  
-[Consequential amendments and revocation][164]
+[Schedule 2][165]  
+[Consequential amendments and revocation][165]
 
 ---
 
@@ -382,15 +397,17 @@ Preliminary provisions
     
     *   (d) a psychoactive product that poses more than a low risk of harm to individuals who use the product should be prohibited:
     
-    *   (e) a psychoactive product that has not been approved by the Authority should be prohibited, on a precautionary basis, until it has been assessed by the Authority and the Authority is satisfied that it poses no more than a low risk of harm to individuals who use it.
+    *   (e) a psychoactive product that has not been approved by the Authority should be prohibited, on a precautionary basis, until it has been assessed by the Authority and the Authority is satisfied that it poses no more than a low risk of harm to individuals who use it:
     
+    *   (f) animals must not be used in trials for the purposes of assessing whether a psychoactive product should be approved.
     
+    Section 4(f): inserted, on 8 May 2014, by [section 4][166] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 5 Application of Act
     
 *   (1) This Act applies to the importation, manufacture, sale, supply, or possession of a psychoactive substance or approved product for the primary purpose of inducing a psychoactive effect in an individual who uses the substance or product.
     
-    (2) [Schedule 1][163] contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, or repealed and replaced (_see_ [section 107][156]).
+    (2) [Schedule 1][164] contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, or repealed and replaced (_see_ [section 107][157]).
 
 ##### 6 Overview
     
@@ -408,7 +425,7 @@ Preliminary provisions
         
         
     
-    *   (b) [Part 2][18] authorises the Authority to issue licences for the importation, manufacture, and sale of psychoactive substances and to approve psychoactive products and also deals with related matters, including---
+    *   (b) [Part 2][19] authorises the Authority to issue licences for the importation, manufacture, and sale of psychoactive substances and to approve psychoactive products and also deals with related matters, including---
             
         *   (i) creating offences relating to the importation, manufacture, sale, and supply of psychoactive substances without a licence or in breach of licence conditions:
         
@@ -418,7 +435,7 @@ Preliminary provisions
         
         
     
-    *   (c) [Part 3][73] relates to the control of approved products, creates offences relating to the sale and supply of psychoactive substances that are not approved products and also deals with other regulatory matters, including---
+    *   (c) [Part 3][74] relates to the control of approved products, creates offences relating to the sale and supply of psychoactive substances that are not approved products and also deals with other regulatory matters, including---
             
         *   (i) age restrictions and place-of-sale restrictions on the sale of approved products:
         
@@ -436,13 +453,15 @@ Preliminary provisions
         
         *   (viii) requiring the Ministry to conduct a review of the policy and operation of this Act no later than 5 years after the commencement of the Act:
         
-        *   (ix) providing for the circumstances in which psychoactive substances that were being lawfully sold throughout the period of 3 months before the commencement of this Act may continue to be sold if certain conditions are met:
+        *   (ix) \[Repealed\]
         
         *   (x) amending other enactments.
         
         
     
     (2) This section is a guide only to the general scheme and effect of this Act and does not limit or affect the other provisions of this Act.
+    
+    Section 6(1)(c)(ix): repealed, on 8 May 2014, by [section 5][167] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 7 Act binds the Crown
     
@@ -468,39 +487,39 @@ Preliminary provisions
     
     *   (b) includes any matter referred to in paragraph (a) that is represented in an electronic or a digital medium
     
-    _advisory committee_ means the Psychoactive Substances Expert Advisory Committee established by [section 11][16]
+    _advisory committee_ means the Psychoactive Substances Expert Advisory Committee established by [section 11][17]
     
-    _alcohol_ has the same meaning as in [section 5(1)][165] of the Sale and Supply of Alcohol Act 2012
+    _alcohol_ has the same meaning as in [section 5(1)][168] of the Sale and Supply of Alcohol Act 2012
     
-    _animal_ has the same meaning as in [section 2(1)][166] of the Animal Welfare Act 1999
+    _animal_ has the same meaning as in [section 2(1)][169] of the Animal Welfare Act 1999
     
-    _appeals committee_ means the Psychoactive Substances Appeals Committee established by [section 44][68]
+    _appeals committee_ means the Psychoactive Substances Appeals Committee established by [section 44][69]
     
-    _approved evidence of age document_ has the same meaning as in [section 5(1)][165] of the Sale and Supply of Alcohol Act 2012
+    _approved evidence of age document_ has the same meaning as in [section 5(1)][168] of the Sale and Supply of Alcohol Act 2012
     
-    _approved evidence of age system_ has the same meaning as in [section 5(1)][165] of the Sale and Supply of Alcohol Act 2012
+    _approved evidence of age system_ has the same meaning as in [section 5(1)][168] of the Sale and Supply of Alcohol Act 2012
     
-    _approved product_ means a psychoactive product approved by the Authority under [section 37][56]
+    _approved product_ means a psychoactive product approved by the Authority under [section 37][57]
     
-    _Authority_ means the Psychoactive Substances Regulatory Authority established by [section 10][167]
+    _Authority_ means the Psychoactive Substances Regulatory Authority established by [section 10][170]
     
-    _code of manufacturing practice_ or _code_ means a code of practice, relating to the manufacture of psychoactive substances, issued under [section 29][45]
+    _code of manufacturing practice_ or _code_ means a code of practice, relating to the manufacture of psychoactive substances, issued under [section 29][46]
     
-    _constable_ has the same meaning as in [section 4][168] of the Policing Act 2008
+    _constable_ has the same meaning as in [section 4][171] of the Policing Act 2008
     
-    _Customs officer_ has the same meaning as in [section 2(1)][169] of the Customs and Excise Act 1996
+    _Customs officer_ has the same meaning as in [section 2(1)][172] of the Customs and Excise Act 1996
     
-    _district_, in relation to a territorial authority, has the same meaning as in [section 5(1)][170] of the Local Government Act 2002
+    _district_, in relation to a territorial authority, has the same meaning as in [section 5(1)][173] of the Local Government Act 2002
     
-    _enforcement officer_ means a person appointed by the Authority under [section 76][111]
+    _enforcement officer_ means a person appointed by the Authority under [section 76][112]
     
-    _evidential material_ has the same meaning as in [section 3(1)][171] of the Search and Surveillance Act 2012
+    _evidential material_ has the same meaning as in [section 3(1)][174] of the Search and Surveillance Act 2012
     
-    _export certificate_ means a certificate issued by the Authority under [section 89][129]
+    _export certificate_ means a certificate issued by the Authority under [section 89][130]
     
-    _hazardous substance_ has the same meaning as in [section 2(1)][172] of the Hazardous Substances and New Organisms Act 1996
+    _hazardous substance_ has the same meaning as in [section 2(1)][175] of the Hazardous Substances and New Organisms Act 1996
     
-    _importation_ and _importer_ have the same meanings as in [section 2(1)][169] of the Customs and Excise Act 1996
+    _importation_ and _importer_ have the same meanings as in [section 2(1)][172] of the Customs and Excise Act 1996
     
     _individual_ means a natural person, other than a deceased natural person
     
@@ -508,7 +527,7 @@ Preliminary provisions
         
     *   (a) has been entered into using the Internet and is between---
             
-        *   (i) a seller whose business is or includes offering the product for sale (whether by retail or wholesale); and 
+        *   (i) a seller whose business is or includes offering the product for sale (whether by retail or wholesale); and
         
         *   (ii) a person (whether the purchaser or a person acting on the purchaser's behalf) who is at a distance from the seller's place of business; and
         
@@ -522,7 +541,7 @@ Preliminary provisions
     
     *   (b) appears on, is attached to, or is associated with the approved product
     
-    _licence_ means a licence, granted under [section 16][25], that is in force
+    _licence_ means a licence, granted under [section 16][26], that is in force
     
     _manufacture_, in relation to a psychoactive substance or an approved product,---
         
@@ -530,7 +549,7 @@ Preliminary provisions
     
     *   (b) includes packaging the substance or product for the purpose of sale
     
-    _manufacturer_ includes any company with which a manufacturer is associated within the meaning of [subpart YB][173] of the Income Tax Act 2007
+    _manufacturer_ includes any company with which a manufacturer is associated within the meaning of [subpart YB][176] of the Income Tax Act 2007
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -538,21 +557,21 @@ Preliminary provisions
     
     _minor_ means a person under the age of 18 years
     
-    _New Zealand resident_ has the same meaning as in [section YD 1][174] or [YD 2][175] of the Income Tax Act 2007
+    _New Zealand resident_ has the same meaning as in [section YD 1][177] or [YD 2][178] of the Income Tax Act 2007
     
     _place_ includes any building, conveyance, craft, land, or structure
     
     _possess_, in relation to a psychoactive substance, includes a psychoactive substance that is subject to a person's control but that is in the custody of another person
     
-    _private premises_ has the same meaning as in [section 3(1)][171] of the Search and Surveillance Act 2012
+    _private premises_ has the same meaning as in [section 3(1)][174] of the Search and Surveillance Act 2012
     
     _psychoactive effect_, in relation to an individual who is using or has used a psychoactive substance, means the effect of the substance on the individual's mind
     
     _psychoactive product_ or _product_ means a finished product packaged and ready for retail sale that is a psychoactive substance or that contains 1 or more psychoactive substances
     
-    _psychoactive substance_ has the meaning given in [section 9][13]
+    _psychoactive substance_ has the meaning given in [section 9][14]
     
-    _public health_ has the same meaning as in [section 6(1)][176] of the New Zealand Public Health and Disability Act 2000
+    _public health_ has the same meaning as in [section 6(1)][179] of the New Zealand Public Health and Disability Act 2000
     
     _publicly notify_ means to publish a notice---
         
@@ -576,7 +595,7 @@ Preliminary provisions
     
     *   (d) wholesaling
     
-    _special consultative procedure_ has the same meaning as in [section 5(1)][170] of the Local Government Act 2002
+    _special consultative procedure_ has the same meaning as in [section 5(1)][173] of the Local Government Act 2002
     
     _supply_---
         
@@ -584,7 +603,7 @@ Preliminary provisions
     
     *   (b) does not include sell
     
-    _territorial authority_ has the same meaning as in [section 5(1)][170] of the Local Government Act 2002
+    _territorial authority_ has the same meaning as in [section 5(1)][173] of the Local Government Act 2002
     
     _trial_---
         
@@ -594,7 +613,7 @@ Preliminary provisions
     
     _use_, in relation to a psychoactive substance,---
         
-    *   (a) means use by an individual; and 
+    *   (a) means use by an individual; and
     
     *   (b) includes---
             
@@ -622,25 +641,25 @@ Preliminary provisions
     
     (3) Despite subsections (1) and (2), _psychoactive substance_ does not include---
         
-    *   (a) a controlled drug specified or described in [Schedule 1][177], [2][178], or [3][179] of the Misuse of Drugs Act 1975:
+    *   (a) a controlled drug specified or described in [Schedule 1][180], [2][181], or [3][182] of the Misuse of Drugs Act 1975:
     
-    *   (b) a precursor substance specified or described in [Schedule 4][180] of the Misuse of Drugs Act 1975:
+    *   (b) a precursor substance specified or described in [Schedule 4][183] of the Misuse of Drugs Act 1975:
     
-    *   (c) a medicine within the meaning of [section 3][181] of the Medicines Act 1981 or a related product within the meaning of [section 94][182] of that Act:
+    *   (c) a medicine within the meaning of [section 3][184] of the Medicines Act 1981 or a related product within the meaning of [section 94][185] of that Act:
     
-    *   (d) a herbal remedy (within the meaning of [section 2(1)][183] of the Medicines Act 1981):
+    *   (d) a herbal remedy (within the meaning of [section 2(1)][186] of the Medicines Act 1981):
     
-    *   (e) a dietary supplement (within the meaning of [regulation 2A][184] of the Dietary Supplements Regulations 1985):
+    *   (e) a dietary supplement (within the meaning of [regulation 2A][187] of the Dietary Supplements Regulations 1985):
     
-    *   (f) any food (within the meaning of [section 2][185] of the Food Act 1981):
+    *   (f) any food (within the meaning of [section 2][188] of the Food Act 1981):
     
     *   (g) any alcohol, unless the alcohol contains a psychoactive substance as defined in subsection (1) or (2) that is not alcohol:
     
-    *   (h) any tobacco product (within the meaning of [section 2(1)][186] of the Smoke-free Environments Act 1990), unless the tobacco product contains a psychoactive substance as defined in subsection (1) or (2) that is not tobacco:
+    *   (h) any tobacco product (within the meaning of [section 2(1)][189] of the Smoke-free Environments Act 1990), unless the tobacco product contains a psychoactive substance as defined in subsection (1) or (2) that is not tobacco:
     
-    *   (i) a substance, mixture, preparation, article, device, or thing that is, or that is of a kind that is, or belongs to a class that is, declared by the Governor-General by Order in Council made under [section 99][143] not to be a psychoactive substance for the purposes of this Act.
+    *   (i) a substance, mixture, preparation, article, device, or thing that is, or that is of a kind that is, or belongs to a class that is, declared by the Governor-General by Order in Council made under [section 99][144] not to be a psychoactive substance for the purposes of this Act.
     
-    Compare: 2005 No 81 [s 31][187]
+    Compare: 2005 No 81 [s 31][190]
 
 ### Subpart 3---Key regulatory roles
 
@@ -714,47 +733,13 @@ Preliminary provisions
     
     (11) The advisory committee must provide the Minister with a written annual report of its operations.
 
-##### 12 Duty of advisory committee relating to use of animals when evaluating psychoactive products
+##### 12 Advisory committee not to have regard to results of trials involving animals
     
-*   (1) In performing the function set out in [section 11(2)(a)][16], the advisory committee must comply with subsections (2) and (3), which provide whether and, if so, to what extent the advisory committee may have regard to the results of a trial (whether undertaken in New Zealand or overseas) that involves the use of an animal.
+*   (1) In performing the function set out in [section 11(2)(a)][17], the advisory committee must not have regard to the results of a trial that involves the use of an animal.
     
-    (2) If a suitable alternative exists, the advisory committee must not have regard to the results of a trial that involves the use of an animal.
+    (2) However, the advisory committee may have regard to the results of a trial undertaken overseas that involves the use of an animal if the advisory committee considers that the trial shows that the psychoactive product would pose more than a low risk of harm to individuals using the product.
     
-    (3) If a suitable alternative does not exist, the advisory committee may have regard to the results of a trial that involves the use of an animal, but only if the following conditions exist:
-        
-    *   (a) the trial is based on the relevant International Conference on Harmonisation Guidelines (as amended from time to time); and
-    
-    *   (b) for a trial undertaken in New Zealand, the trial complies with the restrictions on the use of animals in research, testing, or teaching set out in [Part 6][188] of the Animal Welfare Act 1999; and
-    
-    *   (c) for a trial undertaken overseas, the trial complies with restrictions on the use of animals in research, testing, or teaching that are equivalent to or exceed those set out in [Part 6][188] of the Animal Welfare Act 1999; and
-    
-    *   (d) the advisory committee, at least annually, reviews the use of the trial to ensure that there is up-to-date analysis of available alternatives with the aim of---
-            
-        *   (i) reducing the number of animals used in research, testing, and teaching to the minimum necessary; and
-        
-        *   (ii) refining the techniques used in any research, testing, and teaching so that any harm caused to animals is minimised; and
-        
-        *   (iii) replacing animals as subjects for research and testing of psychoactive products, whether undertaken in New Zealand or overseas, as further information becomes available; and
-        
-        
-    
-    *   (e) the trial complies with any guidelines issued by the Authority relating to the use of animals in trials of psychoactive products.
-    
-    (4) In this section, _suitable alternative_ means a trial that does not involve the use of an animal and that is publicly notified, on the recommendation of the advisory committee, as a suitable alternative by the Authority.
-    
-    (5) In considering whether to recommend a suitable alternative, the advisory committee must have particular regard to---
-        
-    *   (a) the principle set out in [section 4(a)][5]; and
-    
-    *   (b) the likelihood of psychoactive substances being used by young adults.
-    
-    (6) To avoid doubt, if a suitable alternative exists, the advisory committee is not precluded from having regard to---
-        
-    *   (a) the results of a trial that involves the use of an animal and that was undertaken before the Authority notified the suitable alternative; or
-    
-    *   (b) the results of any other trial that does not involve the use of an animal.
-    
-    
+    Section 12: replaced, on 8 May 2014, by [section 6][191] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ## Part 2  
 Psychoactive substances and approved products
@@ -795,7 +780,7 @@ Psychoactive substances and approved products
 
 ##### 14 Authority may refuse to process application for licence
     
-*   (1) The Authority may refuse to process an application for a licence if the application does not comply with [section 13][21].
+*   (1) The Authority may refuse to process an application for a licence if the application does not comply with [section 13][22].
     
     (2) If the Authority refuses to process an application under subsection (1), the Authority must give the applicant written notice of the refusal and the reasons for it.
 
@@ -817,7 +802,7 @@ Psychoactive substances and approved products
     
 *   (1) The Authority must grant a licence if the Authority is satisfied that---
         
-    *   (a) the application has been made in the form or manner required by [section 13][21]; and
+    *   (a) the application has been made in the form or manner required by [section 13][22]; and
     
     *   (b) the application does not contain materially false or misleading information; and
     
@@ -839,11 +824,11 @@ Psychoactive substances and approved products
         
     *   (a) an offence against this Act; or
     
-    *   (b) an offence against the [Misuse of Drugs Act 1975][189] or the [Misuse of Drugs Amendment Act 2005][190] or any regulations made under those Acts; or
+    *   (b) an offence against the [Misuse of Drugs Act 1975][192] or the [Misuse of Drugs Amendment Act 2005][193] or any regulations made under those Acts; or
     
-    *   (c) an offence against the [Medicines Act 1981][191]; or
+    *   (c) an offence against the [Medicines Act 1981][194]; or
     
-    *   (d) a crime involving dishonesty (as defined in [section 2(1)][192] of the Crimes Act 1961).
+    *   (d) a crime involving dishonesty (as defined in [section 2(1)][195] of the Crimes Act 1961).
     
     
 
@@ -893,7 +878,7 @@ Psychoactive substances and approved products
 
 ##### 18 Discretionary conditions of licence
     
-*   (1) The Authority may, when granting a licence, impose any other conditions on the licence in addition to a relevant condition specified in [section 17][27] that the Authority thinks fit.
+*   (1) The Authority may, when granting a licence, impose any other conditions on the licence in addition to a relevant condition specified in [section 17][28] that the Authority thinks fit.
     
     (2) If a licence holder asks the Authority for the reasons for imposing conditions on the licence under subsection (1), the Authority must, as soon as practicable, provide written reasons.
 
@@ -929,7 +914,7 @@ Psychoactive substances and approved products
         
     *   (a) the decision and the reasons for it; and
     
-    *   (b) the applicant's right to appeal the decision under [section 45][69].
+    *   (b) the applicant's right to appeal the decision under [section 45][70].
     
     
 
@@ -965,7 +950,7 @@ Psychoactive substances and approved products
     
     (4) If a licence holder asks the Authority for the reasons for the suspension or cancellation of the licence, the Authority must, as soon as practicable, provide written reasons.
     
-    Compare: 1981 No 118 [s 51(6), (7)][193]
+    Compare: 1981 No 118 [s 51(6), (7)][196]
 
 ##### 23 Surrender of licence
     
@@ -1009,7 +994,7 @@ Psychoactive substances and approved products
 
 ##### 27 Offence relating to sale of approved product without licence
     
-*   (1) A person must not, without reasonable excuse, sell an approved product by retail or by wholesale without an appropriate licence that authorises the sale. 
+*   (1) A person must not, without reasonable excuse, sell an approved product by retail or by wholesale without an appropriate licence that authorises the sale.
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $40,000\.
 
@@ -1099,7 +1084,7 @@ Psychoactive substances and approved products
 
 ##### 32 Authority may issue compliance notice
     
-*   The Authority may issue a compliance notice to any person whose manufacturing facility has been audited under [section 30][46] that requires the person to do, or to refrain from doing, within a specified time, a particular thing that affects the person's compliance with the code of manufacturing practice or any condition of the person's licence to manufacture.
+*   The Authority may issue a compliance notice to any person whose manufacturing facility has been audited under [section 30][47] that requires the person to do, or to refrain from doing, within a specified time, a particular thing that affects the person's compliance with the code of manufacturing practice or any condition of the person's licence to manufacture.
 
 ### Subpart 2---Approved products
 
@@ -1121,11 +1106,11 @@ Psychoactive substances and approved products
         
         
     
-    (3) The application must not be accompanied by, or contain, any particulars, information, documents, or other material relating to any trial that the advisory committee must not have regard to under [section 12][17].
+    (3) The application must not be accompanied by, or contain, any particulars, information, documents, or other material relating to any trial that the advisory committee must not have regard to under [section 12][18].
 
 ##### 34 Authority may refuse to process application for approval
     
-*   (1) The Authority may refuse to process an application for approval of a product if the application does not comply with [section 33][51].
+*   (1) The Authority may refuse to process an application for approval of a product if the application does not comply with [section 33][52].
     
     (2) If the Authority refuses to process an application under subsection (1), the Authority must give the applicant written notice of the refusal and the reasons for it.
 
@@ -1143,7 +1128,7 @@ Psychoactive substances and approved products
 
 ##### 36 Authority must protect confidential supporting information relating to application for approval
     
-*   (1) This section applies if the Authority has received an application for approval of a psychoactive product under [section 33][51] that includes confidential supporting information specified in, or given in relation to, the application.
+*   (1) This section applies if the Authority has received an application for approval of a psychoactive product under [section 33][52] that includes confidential supporting information specified in, or given in relation to, the application.
     
     (2) The Authority---
         
@@ -1169,7 +1154,7 @@ Psychoactive substances and approved products
             
         *   (i) the advisory committee:
         
-        *   (ii) the Expert Advisory Committee on Drugs established under [section 5AA][194] of the Misuse of Drugs Act 1975:
+        *   (ii) the Expert Advisory Committee on Drugs established under [section 5AA][197] of the Misuse of Drugs Act 1975:
         
         *   (iii) any adviser for the purpose of obtaining advice about the psychoactive substance to which the confidential supporting information relates:
         
@@ -1189,17 +1174,17 @@ Psychoactive substances and approved products
     
     _WTO country_ means a country that is a party to the Agreement Establishing the World Trade Organization adopted at Marrakesh on 15 April 1994\.
     
-    Compare: 1981 No 118 [ss 23A--23C][195]
+    Compare: 1981 No 118 [ss 23A--23C][198]
 
 #### Granting of approval
 
 ##### 37 Grounds for approving product
     
-*   The Authority must approve a psychoactive product as an approved product if the Authority is satisfied that---
+*   (1) The Authority must approve a psychoactive product as an approved product if the Authority is satisfied that---
         
     *   (a) the application relating to the product---
             
-        *   (i) complies with the requirements of [section 33][51]; and
+        *   (i) complies with the requirements of [section 33][52]; and
         
         *   (ii) does not contain any materially false or misleading information; and
         
@@ -1207,7 +1192,13 @@ Psychoactive substances and approved products
     
     *   (b) the degree of harm that the product poses to individuals using the product is no more than a low risk of harm.
     
+    (2) To avoid doubt, if the Authority is unable to satisfy itself of the matter in subsection (1)(b), the Authority must refuse to approve a psychoactive product as an approved product.
     
+    (3) In deciding whether or not to approve a psychoactive product as an approved product, the Authority must not have regard to any particulars, information, documents, or other material relating to any trial that the advisory committee must not have regard to under [section 12][18].
+    
+    Section 37(2): inserted, on 8 May 2014, by [section 7][199] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+    
+    Section 37(3): inserted, on 8 May 2014, by [section 7][199] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 #### Conditions of approval
 
@@ -1231,23 +1222,23 @@ Psychoactive substances and approved products
         
     *   (a) the decision and the reasons for it; and
     
-    *   (b) the applicant's right to appeal against the decision under [section 45][69].
+    *   (b) the applicant's right to appeal against the decision under [section 45][70].
     
     
 
 ##### 40 Revocation of approval
     
-*   (1) The Authority may, at any time, by notice in the _Gazette_, revoke an approval of a psychoactive product granted under [section 37][56] if the Authority considers on reasonable grounds that the product poses more than a low risk of harm to individuals using the product.
+*   (1) The Authority may, at any time, by notice in the _Gazette_, revoke an approval of a psychoactive product granted under [section 37][57] if the Authority considers on reasonable grounds that the product poses more than a low risk of harm to individuals using the product.
     
     (2) If the Authority revokes an approval, the Authority---
         
     *   (a) must notify the person who applied for approval of the product:
     
-    *   (b) may issue a recall order for the product under [section 88][128].
+    *   (b) may issue a recall order for the product under [section 88][129].
     
-    Compare: 1981 No 118 [s 35][196]
+    Compare: 1981 No 118 [s 35][200]
 
-#### Offences relating to approvals 
+#### Offences relating to approvals
 
 ##### 41 Offence relating to application for approval
     
@@ -1267,7 +1258,7 @@ Psychoactive substances and approved products
 
 ##### 42 Offence relating to breach of conditions of approval
     
-*   (1) A person commits an offence if, without reasonable excuse, the person imports, manufactures, or sells an approved product in breach of any conditions of the approval imposed by the Authority under [section 38][58].
+*   (1) A person commits an offence if, without reasonable excuse, the person imports, manufactures, or sells an approved product in breach of any conditions of the approval imposed by the Authority under [section 38][59].
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $500,000, or both.
 
@@ -1295,7 +1286,7 @@ Psychoactive substances and approved products
     
     (3) The Authority must publish the register on an Internet site maintained by, or on behalf of, the Authority.
     
-    (4) This section is subject to [section 36][54].
+    (4) This section is subject to [section 36][55].
 
 ### Subpart 3---Appeals against decisions of Authority
 
@@ -1307,7 +1298,7 @@ Psychoactive substances and approved products
     
     (3) The appeals committee must consist of 3 members, each appointed by the Minister on any terms and conditions that the Minister thinks fit.
     
-    (4) One member of the appeals committee must be a lawyer (as defined in [section 6][197] of the Lawyers and Conveyancers Act 2006) of not less than 7 years' legal experience.
+    (4) One member of the appeals committee must be a lawyer (as defined in [section 6][201] of the Lawyers and Conveyancers Act 2006) of not less than 7 years' legal experience.
     
     (5) The appeals committee may, subject to any provision of this Act or the regulations, regulate its own procedure.
     
@@ -1321,7 +1312,7 @@ Psychoactive substances and approved products
 
 ##### 45 Appeals against Authority's decisions
     
-*   (1) A person who has applied for a licence under [section 13][21] or been granted a licence under [section 16][25] may appeal to the appeals committee against any decision of the Authority---
+*   (1) A person who has applied for a licence under [section 13][22] or been granted a licence under [section 16][26] may appeal to the appeals committee against any decision of the Authority---
         
     *   (a) to refuse to grant the person a licence:
     
@@ -1329,7 +1320,7 @@ Psychoactive substances and approved products
     
     *   (c) to suspend or cancel the person's licence.
     
-    (2) A person who has applied for approval of a psychoactive product under [section 33][51] may appeal to the appeals committee against any decision of the Authority---
+    (2) A person who has applied for approval of a psychoactive product under [section 33][52] may appeal to the appeals committee against any decision of the Authority---
         
     *   (a) to refuse to approve the psychoactive product:
     
@@ -1355,7 +1346,7 @@ Psychoactive substances and approved products
 
 ##### 46 Appeals committee may refer appeals back for reconsideration
     
-*   (1) The appeals committee may, instead of determining any appeal under [section 45][69], direct the Authority to reconsider, either generally or in respect of any specific matter, the whole or any part of the matter to which the appeal relates.
+*   (1) The appeals committee may, instead of determining any appeal under [section 45][70], direct the Authority to reconsider, either generally or in respect of any specific matter, the whole or any part of the matter to which the appeal relates.
     
     (2) In giving any direction under subsection (1), the appeals committee must---
         
@@ -1398,7 +1389,7 @@ Control of approved products and other matters
     
     (3) It is a defence to a charge under subsection (2) if the defendant proves that he or she had reasonable grounds to believe that the person to whom the approved product was sold was aged 18 years or over.
     
-    (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that, before or at the time of the sale of the approved product,--- 
+    (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that, before or at the time of the sale of the approved product,---
         
     *   (a) there was produced to the defendant a document purporting to be an approved evidence of age document, and the defendant believed on reasonable grounds that the document---
             
@@ -1418,7 +1409,7 @@ Control of approved products and other matters
     
     *   (b) the defendant believed on reasonable grounds that the person to whom the approved product was sold was buying it for, on behalf of, or as agent for a person aged 18 years or over.
     
-    Compare: 2005 No 81 [ss 36][198], [37][199]
+    Compare: 2005 No 81 [ss 36][202], [37][203]
 
 ##### 50 Restriction on supplying approved products to persons under 18 years in public place
     
@@ -1426,7 +1417,7 @@ Control of approved products and other matters
         
     *   (a) who is under the age of 18 years; or
     
-    *   (b) with the intention that it be supplied (directly or indirectly) to a person who is under the age of 18 years. 
+    *   (b) with the intention that it be supplied (directly or indirectly) to a person who is under the age of 18 years.
     
     (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
@@ -1450,7 +1441,7 @@ Control of approved products and other matters
     
     (7) Subsection (2) applies irrespective of any liability that may attach to a person who has supplied the approved product concerned to any other person.
     
-    Compare: 1990 No 108 [s 30AA(1), (5)][200]; 2005 No 81 [ss 39][201], [40][202]
+    Compare: 1990 No 108 [s 30AA(1), (5)][204]; 2005 No 81 [ss 39][205], [40][206]
 
 ##### 51 Restriction on employing persons under 18 years to sell approved products
     
@@ -1478,7 +1469,7 @@ Control of approved products and other matters
         
         
     
-    *   (e) any premises where alcohol is sold or supplied under a licence issued under the [Sale and Supply of Alcohol Act 2012][203]:
+    *   (e) any premises where alcohol is sold or supplied under a licence issued under the [Sale and Supply of Alcohol Act 2012][207]:
     
     *   (f) any premises that are not a fixed permanent structure (for example, a tent or marquee):
     
@@ -1492,7 +1483,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Compare: 2005 No 81 [s 41][204]
+    Compare: 2005 No 81 [s 41][208]
 
 ##### 53 Restrictions and requirements relating to Internet sales of approved products
     
@@ -1526,7 +1517,7 @@ Control of approved products and other matters
             
         *   (i) the purchase or sale of an approved product by that retailer; or
         
-        *   (ii) the advertising of an approved product inside that retailer's place of business; or 
+        *   (ii) the advertising of an approved product inside that retailer's place of business; or
         
         *   (iii) the display of an approved product in a particular part of that retailer's place of business.
         
@@ -1544,7 +1535,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 42][205]
+    Compare: 2005 No 81 [s 42][209]
 
 ##### 55 Prohibition on sponsoring activity involving use of trade mark, etc, of approved product
     
@@ -1558,7 +1549,7 @@ Control of approved products and other matters
     
     (2) A person sponsors an activity for the purposes of subsection (1) if the person does 1 or more of the following:
         
-    *   (a) organises or promotes, before the activity is to take place, or during the time that it takes place, some or all of the activity: 
+    *   (a) organises or promotes, before the activity is to take place, or during the time that it takes place, some or all of the activity:
     
     *   (b) makes, before the activity is to take place, or during or after the time that it takes place, any financial or non-financial contribution towards some or all of the activity:
     
@@ -1570,7 +1561,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a retailer, to a fine not exceeding $10,000\.
     
-    Compare: 1990 No 108 [s 25][206]
+    Compare: 1990 No 108 [s 25][210]
 
 ##### 56 Prohibitions, restrictions, and requirements relating to advertising of approved products
     
@@ -1578,7 +1569,7 @@ Control of approved products and other matters
         
     *   (a) on television or on radio; or
     
-    *   (b) in any newspaper or other periodical publication printed and published in New Zealand; or 
+    *   (b) in any newspaper or other periodical publication printed and published in New Zealand; or
     
     *   (c) on an Internet site (except an Internet site maintained for the primary purpose of the Internet sale of approved products); or
     
@@ -1616,7 +1607,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a retailer, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 43][207]
+    Compare: 2005 No 81 [s 43][211]
 
 ##### 57 Restriction on retailer's name using words, expressions, or trade marks, etc, associated with approved products
     
@@ -1654,7 +1645,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 44][208]
+    Compare: 2005 No 81 [s 44][212]
 
 ##### 59 Restrictions and requirements relating to packaging of approved products
     
@@ -1666,7 +1657,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 45][209]
+    Compare: 2005 No 81 [s 45][213]
 
 ##### 60 Requirement relating to health warnings
     
@@ -1680,15 +1671,15 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 46][210]
+    Compare: 2005 No 81 [s 46][214]
 
-##### 61 Requirement to display signage 
+##### 61 Requirement to display signage
     
 *   (1) A person must not sell an approved product to which a prescribed requirement relating to signage applies without displaying signage that complies with that requirement.
     
     (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 2005 No 81 [s 47][211]
+    Compare: 2005 No 81 [s 47][215]
 
 ##### 62 Restrictions and requirements relating to storage and display of approved products
     
@@ -1700,7 +1691,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 49][212]
+    Compare: 2005 No 81 [s 49][216]
 
 ##### 63 Restrictions and requirements relating to disposal of psychoactive substances
     
@@ -1728,7 +1719,7 @@ Control of approved products and other matters
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 2005 No 81 [s 53][213]
+    Compare: 2005 No 81 [s 53][217]
 
 #### Prohibitions and restrictions on convicted persons selling approved products
 
@@ -1762,7 +1753,7 @@ Control of approved products and other matters
     
     (4) A person who contravenes an order made under subsection (2) commits an offence and is liable on conviction to a fine not exceeding $50,000\.
     
-    Compare: 1990 No 108 [s 30AB][214]; 2005 No 81 [s 54][215]
+    Compare: 1990 No 108 [s 30AB][218]; 2005 No 81 [s 54][219]
 
 #### Local approved products policies
 
@@ -1774,13 +1765,13 @@ Control of approved products and other matters
         
     *   (a) provide differently for different parts of its district; and
     
-    *   (b) apply to only part (or 2 or more parts) of its district; and 
+    *   (b) apply to only part (or 2 or more parts) of its district; and
     
     *   (c) apply differently to premises for which licences of different kinds are held or have been applied for.
     
-    (3) No territorial authority is required to have a local approved products policy. 
+    (3) No territorial authority is required to have a local approved products policy.
 
-##### 67 Territorial authorities may adopt joint local approved products policy 
+##### 67 Territorial authorities may adopt joint local approved products policy
     
 *   (1) Two or more territorial authorities may adopt a single local approved products policy for their districts.
     
@@ -1800,7 +1791,7 @@ Control of approved products and other matters
 
 ##### 69 Adoption and review of local approved products policy
     
-*   (1) A territorial authority that wishes to have a local approved products policy must adopt the policy in accordance with the special consultative procedure in [section 83][216] of the Local Government Act 2002\.
+*   (1) A territorial authority that wishes to have a local approved products policy must adopt the policy in accordance with the special consultative procedure in [section 83][220] of the Local Government Act 2002\.
     
     (2) A local approved products policy may be amended or replaced only in accordance with the special consultative procedure, and this section applies to that amendment or replacement.
     
@@ -1850,11 +1841,11 @@ Control of approved products and other matters
     
     _infringement offence_ means an offence against---
         
-    *   (a) [section 48][76] (which relates to a person under the age of 18 years buying or possessing a psychoactive substance, including an approved product):
+    *   (a) [section 48][77] (which relates to a person under the age of 18 years buying or possessing a psychoactive substance, including an approved product):
     
-    *   (b) [section 50][78] (which relates to supplying an approved product to a person under the age of 18 years in a public place):
+    *   (b) [section 50][79] (which relates to supplying an approved product to a person under the age of 18 years in a public place):
     
-    *   (c) [section 71][103] (which relates to personal possession of a psychoactive substance that is not an approved product).
+    *   (c) [section 71][104] (which relates to personal possession of a psychoactive substance that is not an approved product).
     
     
 
@@ -1862,9 +1853,9 @@ Control of approved products and other matters
     
 *   A person who is alleged to have committed an infringement offence may---
         
-    *   (a) be proceeded against by the filing of a charging document under [section 14][217] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by the filing of a charging document under [section 14][221] of the Criminal Procedure Act 2011; or
     
-    *   (b) be served with an infringement notice as provided for in [section 74][107].
+    *   (b) be served with an infringement notice as provided for in [section 74][108].
     
     
 
@@ -1886,15 +1877,15 @@ Control of approved products and other matters
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][218] of the Summary Proceedings Act 1957; and 
+    *   (e) a summary of the provisions of [section 21(10)][222] of the Summary Proceedings Act 1957; and
     
-    *   (f) a statement that the person served with the notice has a right to request a hearing; and 
+    *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
     *   (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
     
     *   (h) any other particulars that may be prescribed.
     
-    (5) If an infringement notice has been issued under this section, the procedure under [section 21][218] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with all necessary modifications.
+    (5) If an infringement notice has been issued under this section, the procedure under [section 21][222] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with all necessary modifications.
 
 ##### 75 Payment of infringement fees
     
@@ -1918,7 +1909,7 @@ Control of approved products and other matters
         
     *   (a) an officer or employee of the Public Service; or
     
-    *   (b) a person to whom the [State Sector Act 1988][219] or the [Government Superannuation Fund Act 1956][220] applies.
+    *   (b) a person to whom the [State Sector Act 1988][223] or the [Government Superannuation Fund Act 1956][224] applies.
     
     (4) The Authority must not appoint a person under subsection (1) unless the Authority is satisfied that the person is suitably qualified and trained and is a fit and proper person for appointment as an enforcement officer.
     
@@ -1956,7 +1947,7 @@ Control of approved products and other matters
     
     *   (c) all limitations and restrictions (if any) that are imposed on the person's exercise of enforcement powers under subsection (5)(c).
     
-    Compare: 1990 No 108 [s 14][221]; 2005 No 81 [s 55][222]
+    Compare: 1990 No 108 [s 14][225]; 2005 No 81 [s 55][226]
 
 #### Enforcement powers
 
@@ -1968,13 +1959,13 @@ Control of approved products and other matters
     
     *   (b) to believe that there is a psychoactive substance in or on the place, vehicle, or other thing; and
     
-    *   (c) to suspect that in or on the place, vehicle, or other thing an offence against any of [sections 25][40], [26][41], and [70][102] has been, is being, or is about to be committed in respect of that substance; and
+    *   (c) to suspect that in or on the place, vehicle, or other thing an offence against any of [sections 25][41], [26][42], and [70][103] has been, is being, or is about to be committed in respect of that substance; and
     
     *   (d) to believe that, if the entry and search is not carried out immediately, evidential material relating to the suspected offence will be destroyed, concealed, altered, or damaged.
     
-    (2) The provisions of [Part 4][223] (except [subpart 3][224]) of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][227] (except [subpart 3][228]) of the Search and Surveillance Act 2012 apply.
     
-    Compare: 2012 No 24 [s 20][225]
+    Compare: 2012 No 24 [s 20][229]
 
 ##### 78 Power to enter and search retail premises
     
@@ -2000,23 +1991,23 @@ Control of approved products and other matters
     
     (5) A person who contravenes subsection (3) or (4) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 2012 No 120 [s 267][226]
+    Compare: 2012 No 120 [s 267][230]
 
 ##### 79 Warranted power to enter and search
     
-*   (1) An issuing officer (within the meaning of [section 3(1)][171] of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or other thing if, on application made by an enforcement officer or a constable in the manner provided in [subpart 3][224] of Part 4 of that Act, he or she is satisfied that there are reasonable grounds---
+*   (1) An issuing officer (within the meaning of [section 3(1)][174] of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or other thing if, on application made by an enforcement officer or a constable in the manner provided in [subpart 3][228] of Part 4 of that Act, he or she is satisfied that there are reasonable grounds---
         
     *   (a) to suspect that an offence has been, is being, or is about to be committed against this Act; and
     
     *   (b) to believe that the search will find evidential material in respect of the offence in or on the place, vehicle, or other thing.
     
-    (2) The provisions of [Part 4][223] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][227] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][227] and [119][228] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (3) Despite subsection (2), [sections 118][231] and [119][232] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ##### 80 Power to demand information where offence against section 49 suspected
     
-*   (1) Subsection (2) applies to an enforcement officer or a constable who, at any time, has reasonable grounds to suspect that within the previous 14 days an approved product was sold to a person under the age of 18 years at a place in contravention of [section 49][77].
+*   (1) Subsection (2) applies to an enforcement officer or a constable who, at any time, has reasonable grounds to suspect that within the previous 14 days an approved product was sold to a person under the age of 18 years at a place in contravention of [section 49][78].
     
     (2) The enforcement officer or constable may,---
         
@@ -2026,7 +2017,7 @@ Control of approved products and other matters
     
     (3) An enforcement officer or a constable who suspects that a person referred to in subsection (2)(a) is under the age of 17 years must not require that person to give the officer or constable his or her name and address and date of birth unless---
         
-    *   (a) there is no other person who appears to be in charge of the place; or 
+    *   (a) there is no other person who appears to be in charge of the place; or
     
     *   (b) there is another person who appears to be in charge of the place, but the enforcement officer or constable suspects that that other person is also under the age of 17 years.
     
@@ -2034,11 +2025,11 @@ Control of approved products and other matters
     
     (5) The powers conferred by this section must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within that person's knowledge and relating to) a person the enforcement officer or constable believes to have sold an approved product to a person under the age of 18 years.
     
-    Compare: 2005 No 81 [s 58][229]
+    Compare: 2005 No 81 [s 58][233]
 
 ##### 81 Power to demand information where offence against section 48, 50, or 71 suspected
     
-*   (1) A constable who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit an offence against [section 48][76], [50][78], or [71][103] may require the person to provide particulars of his or her full name and address and date of birth.
+*   (1) A constable who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit an offence against [section 48][77], [50][79], or [71][104] may require the person to provide particulars of his or her full name and address and date of birth.
     
     (2) A constable who believes on reasonable grounds that any particulars provided under subsection (1) are false may require the person concerned to provide satisfactory evidence of the particulars.
 
@@ -2050,7 +2041,7 @@ Control of approved products and other matters
     
     (3) A psychoactive substance or an approved product is forfeit to the Crown if---
         
-    *   (a) it is seized by the Police from a person under the age of 18 years who is issued with an infringement notice in respect of an offence against [section 48][76], [50][78], or [71][103]; and
+    *   (a) it is seized by the Police from a person under the age of 18 years who is issued with an infringement notice in respect of an offence against [section 48][77], [50][79], or [71][104]; and
     
     *   (b) the infringement fee is later paid.
     
@@ -2060,7 +2051,7 @@ Control of approved products and other matters
     
     *   (b) if not collected within that time, may be disposed of in any manner that the Commissioner of Police directs.
     
-    (5) If subsection (2), (3), or (4) does not apply, [subpart 6][230] of Part 4 of the Search and Surveillance Act 2012 applies in respect of a psychoactive substance or an approved product that is seized under subsection (1).
+    (5) If subsection (2), (3), or (4) does not apply, [subpart 6][234] of Part 4 of the Search and Surveillance Act 2012 applies in respect of a psychoactive substance or an approved product that is seized under subsection (1).
 
 #### Offences relating to enforcement
 
@@ -2070,11 +2061,11 @@ Control of approved products and other matters
         
     *   (a) wilfully obstructs an enforcement officer or a constable performing any function or duty or exercising any powers under this Act; or
     
-    *   (b) when required under [section 80][116] or [81][117] to give information, intentionally fails to comply with that requirement or provides any information that the person knows, or ought to know, is false or misleading in any material respect.
+    *   (b) when required under [section 80][117] or [81][118] to give information, intentionally fails to comply with that requirement or provides any information that the person knows, or ought to know, is false or misleading in any material respect.
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $500\.
     
-    Compare: 2005 No 81 [s 60][231]
+    Compare: 2005 No 81 [s 60][235]
 
 #### International controlled delivery of psychoactive substances
 
@@ -2100,7 +2091,7 @@ Control of approved products and other matters
         
         
     
-    Compare: 1978 No 65 [s 12D][232]
+    Compare: 1978 No 65 [s 12D][236]
 
 #### Liability of principals and directors
 
@@ -2118,7 +2109,7 @@ Control of approved products and other matters
     
     *   (b) that he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    Compare: 2012 No 118 [s 40][233]
+    Compare: 2012 No 118 [s 40][237]
 
 ### Subpart 4---Other powers of Authority
 
@@ -2142,9 +2133,9 @@ Control of approved products and other matters
     
 *   (1) The Authority may, by notice in the _Gazette_, approve a laboratory for the purposes of this Act.
     
-    (2) An approval under subsection (1) may be granted on the terms and conditions (if any) that the Authority thinks fit and that are specified in the notice approving the laboratory. 
+    (2) An approval under subsection (1) may be granted on the terms and conditions (if any) that the Authority thinks fit and that are specified in the notice approving the laboratory.
     
-    Compare: 1975 No 116 [s 5A][234]
+    Compare: 1975 No 116 [s 5A][238]
 
 ##### 88 Recall orders
     
@@ -2164,7 +2155,7 @@ Control of approved products and other matters
     
     (4) In this section, _recall order_ means an order directing the recall of an approved product or requiring the destruction of an approved product because the Authority has reasonable grounds to believe that the approved product poses more than a low risk of harm to individuals using the product.
     
-    Compare: 2005 No 81 [s 52][235]
+    Compare: 2005 No 81 [s 52][239]
 
 ##### 89 Export certificates
     
@@ -2180,7 +2171,7 @@ Control of approved products and other matters
     
     (4) The Authority may determine the form and content of the export certificate.
     
-    (5) The Authority may withdraw the export certificate at any time if the approval of the product is revoked under [section 40][61] or the Authority is satisfied that---
+    (5) The Authority may withdraw the export certificate at any time if the approval of the product is revoked under [section 40][62] or the Authority is satisfied that---
         
     *   (a) approval of the product was incorrectly or inappropriately granted; or
     
@@ -2208,7 +2199,7 @@ Control of approved products and other matters
 
 ##### 91 Principles of cost recovery
     
-*   (1) In determining the most appropriate method of cost recovery under [section 90][131], the Minister must, as far as is reasonably practicable, have regard to the following principles:
+*   (1) In determining the most appropriate method of cost recovery under [section 90][132], the Minister must, as far as is reasonably practicable, have regard to the following principles:
         
     *   (a) equity, in that funding for a particular function, power, or service (or a particular class of function, power, or service) should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant functions, powers, or services at a level commensurate with their use of or benefit from the function, power, or service:
     
@@ -2246,13 +2237,13 @@ Control of approved products and other matters
         
     *   (a) fixed fees or charges:
     
-    *   (b) fees or charges based on a scale or formula or at a rate determined on a time-unit basis: 
+    *   (b) fees or charges based on a scale or formula or at a rate determined on a time-unit basis:
     
     *   (c) fees or charges based on the actual and reasonable costs expended in, or associated with, the performance of a service or function:
     
     *   (d) fees or charges based on estimated costs and paid before the provision of the service, followed by reconciliation and an appropriate further payment or refund after the provision of the service or function:
     
-    *   (e) refundable or non-refundable deposits paid before the provision of the service or function: 
+    *   (e) refundable or non-refundable deposits paid before the provision of the service or function:
     
     *   (f) fees or charges imposed on all users of services, classes of users of services, all beneficiaries of services, or classes of beneficiaries of services:
     
@@ -2282,17 +2273,17 @@ Control of approved products and other matters
         
         
     
-    (3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error. 
+    (3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
     
     (4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
 
-##### 94 Three-yearly review of cost recovery 
+##### 94 Three-yearly review of cost recovery
     
-*   (1) The Minister must review the levels and methods of cost recovery in relation to any class of psychoactive substance or approved products, persons, or other matter at least once in every 3-year period occurring since the original setting of, or latest change to, the cost recovery of those things. 
+*   (1) The Minister must review the levels and methods of cost recovery in relation to any class of psychoactive substance or approved products, persons, or other matter at least once in every 3-year period occurring since the original setting of, or latest change to, the cost recovery of those things.
     
     (2) The Minister must ensure that appropriate consultation takes place in relation to any such review.
     
-    (3) A review may make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years, or make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year). 
+    (3) A review may make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years, or make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
     
     (4) Subsection (1) does not---
         
@@ -2308,7 +2299,7 @@ Control of approved products and other matters
     
     (2) The regulations may---
         
-    *   (a) prescribe fees or charges of a kind or kinds described in [section 92(a) to (f)][133]:
+    *   (a) prescribe fees or charges of a kind or kinds described in [section 92(a) to (f)][134]:
     
     *   (b) specify the persons liable for the payment of the fees or charges:
     
@@ -2344,7 +2335,7 @@ Control of approved products and other matters
 
 ##### 97 Failure to pay fee, charge, or levy
     
-*   (1) This section applies if a fee, charge, or levy imposed by regulations made under [section 95][136] or [96][137] is wholly or partly unpaid 20 working days after a request for payment. 
+*   (1) This section applies if a fee, charge, or levy imposed by regulations made under [section 95][137] or [96][138] is wholly or partly unpaid 20 working days after a request for payment.
     
     (2) The Authority may recover the fee, charge, or levy from a person responsible for paying it as a debt due in a court of competent jurisdiction.
 
@@ -2360,7 +2351,7 @@ Control of approved products and other matters
         
     *   (a) a person who holds a licence in respect of the psychoactive substance:
     
-    *   (b) the person who applied for approval of the approved product under [section 33][51].
+    *   (b) the person who applied for approval of the approved product under [section 33][52].
     
     (3) A notification under subsection (1) must include---
         
@@ -2464,7 +2455,7 @@ Control of approved products and other matters
     
     *   ###### Health warnings
     
-    *   (h) prescribing, for the purposes of [section 60(2)][89], the information that must be specified or included in the health warning for an approved product:
+    *   (h) prescribing, for the purposes of [section 60(2)][90], the information that must be specified or included in the health warning for an approved product:
     
     *   (i) prescribing requirements relating to the manner, way, medium, or form in which health warnings must appear on the label for the product or must appear in an advertisement relating to the approved product:
     
@@ -2482,7 +2473,7 @@ Control of approved products and other matters
     
     *   (k) prescribing restrictions or requirements relating to---
             
-        *   (i) the quantity of approved products that may be sold together at any one time: 
+        *   (i) the quantity of approved products that may be sold together at any one time:
         
         *   (ii) the maximum dosage or serving of an approved product that may be sold at any one time:
         
@@ -2508,11 +2499,11 @@ Control of approved products and other matters
     
     *   ###### Prescribing telephone service
     
-    *   (n) prescribing a telephone service for the purposes of [section 58(2)(d)][87]:
+    *   (n) prescribing a telephone service for the purposes of [section 58(2)(d)][88]:
     
     *   ###### Confidential supporting information
     
-    *   (o) prescribing the persons or organisations or class of persons or organisations to whom the Authority may disclose confidential supporting information under [section 36(3)][54]:
+    *   (o) prescribing the persons or organisations or class of persons or organisations to whom the Authority may disclose confidential supporting information under [section 36(3)][55]:
     
     *   ###### Procedure
     
@@ -2534,7 +2525,7 @@ Control of approved products and other matters
     
     *   (b) apply differently to different classes or descriptions of psychoactive substances or approved products or on any other differential basis.
     
-    Compare: 2005 No 81 [s 62][236]
+    Compare: 2005 No 81 [s 62][240]
 
 #### Delegation of Authority's functions, duties, or powers
 
@@ -2586,7 +2577,7 @@ Control of approved products and other matters
 
 ##### 104 Relationship with Hazardous Substances and New Organisms Act 1996
     
-*   (1) This section applies to a psychoactive substance that is also a hazardous substance within the meaning of the [Hazardous Substances and New Organisms Act 1996][237] (the **HSNO Act**).
+*   (1) This section applies to a psychoactive substance that is also a hazardous substance within the meaning of the [Hazardous Substances and New Organisms Act 1996][241] (the **HSNO Act**).
     
     (2) Nothing in this Act affects the application of the HSNO Act in relation to the psychoactive substance.
     
@@ -2596,15 +2587,15 @@ Control of approved products and other matters
     
     *   (b) between the provisions of regulations made under this Act and the provisions of regulations made under the HSNO Act, the provisions of regulations made under this Act prevail.
     
-    Compare: 1981 No 118 [ss 5A][238], [110][239]
+    Compare: 1981 No 118 [ss 5A][242], [110][243]
 
 ##### 105 Application of Customs and Excise Act 1996
     
-*   The provisions of the [Customs and Excise Act 1996][240], except [section 209][241] of that Act, apply to a psychoactive substance that is not an approved product (or part of an approved product) as if it were prohibited goods under that Act, unless the person importing the psychoactive substance---
+*   The provisions of the [Customs and Excise Act 1996][244], except [section 209][245] of that Act, apply to a psychoactive substance that is not an approved product (or part of an approved product) as if it were prohibited goods under that Act, unless the person importing the psychoactive substance---
         
     *   (a) holds a licence to import psychoactive substances; and
     
-    *   (b) has notified the Authority of the importation in accordance with [section 17(1)][27].
+    *   (b) has notified the Authority of the importation in accordance with [section 17(1)][28].
     
     
 
@@ -2616,7 +2607,7 @@ Control of approved products and other matters
         
     *   (a) conduct a review of the policy and operation of this Act; and
     
-    *   (b) prepare for the Minister a report on the review. 
+    *   (b) prepare for the Minister a report on the review.
     
     (2) As soon as practicable after receiving the report, the Minister must present a copy to the House of Representatives.
 
@@ -2624,25 +2615,25 @@ Control of approved products and other matters
 
 ##### 107 Application, savings, and transitional provisions
     
-*   The application, savings, and transitional provisions set out in [Schedule 1][163] have effect for the purposes of this Act.
+*   The application, savings, and transitional provisions set out in [Schedule 1][164] have effect for the purposes of this Act.
 
 #### Amendments to Search and Surveillance Act 2012
 
 ##### 108 Amendments to Search and Surveillance Act 2012
     
-*   (1) This section amends the [Search and Surveillance Act 2012][242].
+*   (1) This section amends the [Search and Surveillance Act 2012][246].
     
-    (2) In [section 45(1)(b)][243], after ""Arms Act 1983"", insert ""; or"".
+    (2) In [section 45(1)(b)][247], after ""Arms Act 1983"", insert ""; or"".
     
-    (3) After [section 45(1)(b)][243], insert:
+    (3) After [section 45(1)(b)][247], insert:
     
     > *   "(c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013\."
     > 
     > 
     
-    (4) In [section 45(2)(b)][243], after ""Arms Act 1983"", insert ""; or"".
+    (4) In [section 45(2)(b)][247], after ""Arms Act 1983"", insert ""; or"".
     
-    (5) After [section 45(2)(b)][243], insert:
+    (5) After [section 45(2)(b)][247], insert:
     
     > *   "(c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013\."
     > 
@@ -2654,124 +2645,84 @@ Control of approved products and other matters
 
 ##### 109 Amendments to Children, Young Persons, and Their Families Act 1989
     
-*   (1) This section amends the [Children, Young Persons, and Their Families Act 1989][244].
+*   (1) This section amends the [Children, Young Persons, and Their Families Act 1989][248].
     
-    (2) After [section 272(3)(b)][245], insert:
+    (2) After [section 272(3)(b)][249], insert:
     
     > *   "(ba) an infringement offence against the Psychoactive Substances Act 2013; or".
     > 
     > 
     
-    (3) In [section 272(5)][245], replace ""subsection (3)(c), where a young person is charged with"" with ""subsection (3)(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or"".
+    (3) In [section 272(5)][249], replace ""subsection (3)(c), where a young person is charged with"" with ""subsection (3)(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or"".
 
 #### Consequential amendments and revocation
 
 ##### 110 Consequential amendments and revocation
     
-*   (1) Amend the enactments specified in [Parts 1][246] and [2][247] of Schedule 2 as set out in that schedule.
+*   (1) Amend the enactments specified in [Parts 1][250] and [2][251] of Schedule 2 as set out in that schedule.
     
-    (2) The regulations specified in [Part 3][248] of Schedule 2 are revoked.
+    (2) The regulations specified in [Part 3][252] of Schedule 2 are revoked.
 
 ---
 
 ## Schedule 1  
 Application, savings, and transitional provisions
 
-[ss 5(2)][6], [107][156]
+[ss 5(2)][7], [107][157]
 
 ##### 1 Interpretation
     
 *   In this schedule,---
     
-    _full application_ means,---
-        
-    *   (a) in respect of a psychoactive product granted interim approval, an application made under [section 33][51] by the person who applied for interim approval of the product:
+    _full application_ means, in respect of an activity to which an interim licence relates, an application made under [section 13][22] by the person who was granted the interim licence
     
-    *   (b) in respect of an activity to which an interim licence relates, an application made under [section 13][21] by the person who was granted the interim licence
+    _interim approval_ means an approval of a psychoactive product granted by the Authority under [clause 4][253] before that clause was repealed by [section 8][254] of the Psychoactive Substances Amendment Act 2014
     
-    _interim approval_ means an approval of a psychoactive product granted by the Authority under [clause 4][249] 
+    _interim licence_ means a licence granted by the Authority under [clause 8][255].
     
-    _interim licence_ means a licence granted by the Authority under [clause 8][250].
+    Schedule 1 clause 1 **full application**: replaced, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+    
+    Schedule 1 clause 1 **interim approval**: replaced, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 2 Transitional arrangement for psychoactive substances or psychoactive products lawfully imported, manufactured, researched, or sold before commencement of Act
     
-*   (1) This schedule applies to a psychoactive substance or psychoactive product that was lawfully being imported, manufactured, researched, or sold throughout the period of 3 months immediately before the commencement of this Act.
+*   (1) [Clauses 1 to 15][256] of this schedule apply to a psychoactive substance or psychoactive product that was lawfully being imported, manufactured, researched, or sold throughout the period of 3 months immediately before the commencement of this Act.
     
-    (2) The psychoactive substance or psychoactive product may continue to be imported, manufactured, researched, or sold after the commencement of this Act, but only,---
-        
-    *   (a) in the case of the sale of a psychoactive product, if the Authority has granted an interim approval in respect of the product; and
+    (2) A psychoactive substance to which this schedule applies may continue to be imported, manufactured, researched, or sold after the commencement of this Act, but only by a person who holds an interim licence and while that licence remains in force.
     
-    *   (b) by a person who holds an interim licence while that licence remains in force.
+    Schedule 1 clause 2(1): amended, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
     
-    
+    Schedule 1 clause 2(2): replaced, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 #### Interim approval of psychoactive products
 
+\[Repealed\]
+    
+*   Heading: repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
 ##### 3 Application for interim approval of psychoactive product
     
-*   (1) A person who is a New Zealand resident may, within 28 days after the commencement of this Act, apply for the interim approval of a psychoactive product to which this schedule applies.
+*   \[Repealed\]
     
-    (2) An application under subclause (1) must---
-        
-    *   (a) be made in a form or manner approved by the Authority; and
-    
-    *   (b) contain the following information:
-            
-        *   (i) the full name and address (including an electronic address, if available) of the person; and
-        
-        *   (ii) the physical address of the premises from which the psychoactive product was manufactured; and 
-        
-        
-    
-    *   (c) be accompanied by---
-            
-        *   (i) the information specified in subclause (3); and
-        
-        *   (ii) the appropriate fee payable for an application for an interim approval specified in [clause 10][251].
-        
-        
-    
-    (3) For the purposes of subclause (2)(c)(i), the information is--- 
-        
-    *   (a) a statutory declaration made by the applicant stating that the psychoactive product to which the application relates has been lawfully sold in New Zealand throughout the period of 3 months immediately before the commencement of this Act; and
-    
-    *   (b) any other information that the Authority reasonably requires and that is notified in writing to the applicant.
-    
-    (4) The Authority may, as the Authority thinks fit, waive the fee payable for an application for an interim approval of a psychoactive product, in whole or in part, in any particular case or class of cases.
+    Schedule 1 clause 3: repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 4 Grant of interim approval
     
-*   [Subparts 2][49] and [3][67] of Part 2 (except [sections 33][51] and [37(a)(i)][56]) apply, with any necessary modifications, to an application for interim approval as if it were an application made under section 33\.
+*   \[Repealed\]
+    
+    Schedule 1 clause 4: repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 5 Control of psychoactive products granted interim approval
     
-*   [Part 3][73] applies, with any necessary modifications, to a psychoactive product granted interim approval as if it were an approved product.
+*   \[Repealed\]
+    
+    Schedule 1 clause 5: repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 6 Duration of interim approval
     
-*   (1) This clause applies to a psychoactive product granted interim approval by the Authority under [clause 4][249]. 
+*   \[Repealed\]
     
-    (2) Within 28 days after the date on which regulations made under [sections 95][136] and [101(1)(a)][145] come into force, the person who applied for an interim approval of the psychoactive product must notify the Authority in writing that the person---
-        
-    *   (a) does not wish to make a full application in respect of the product; or 
-    
-    *   (b) wishes to make a full application in respect of the product.
-    
-    (3) If subclause (2)(a) applies, the interim approval of the product is deemed to be revoked on the date on which the Authority receives that notification.
-    
-    (4) If subclause (2)(b) applies, the person must submit the full application to the Authority--- 
-        
-    *   (a) as soon as practicable after the date on which regulations made under [sections 95][136] and [101(1)(a)][145] come into force; and
-    
-    *   (b) no later than 3 months after those regulations come into force or any longer period that the Authority may allow in the circumstances.
-    
-    (5) If the person submits a full application in accordance with subclause (4), the interim approval granted in respect of the psychoactive product continues in force until the date on which the full application under [section 33][51] is determined under this Act, and the interim approval is then deemed to be revoked.
-    
-    (6) For the purposes of subclause (4), the Authority may, on any 1 or more occasions, require the person to provide any relevant information that the Authority requires in order to establish whether that person is taking reasonable steps to submit a full application.
-    
-    (7) If, after considering any information provided under subclause (6), the Authority is not satisfied that the person is taking reasonable steps to submit a full application within the period specified in subclause (4), the Authority must revoke the interim approval granted in respect of the psychoactive product.
-    
-    (8) If an interim approval is revoked under subclause (7), the revocation takes effect on the date on which the Authority notifies the person who applied for the interim approval of the revocation.
+    Schedule 1 clause 6: repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 #### Interim licences
 
@@ -2785,11 +2736,11 @@ Application, savings, and transitional provisions
     
     *   (c) an interim licence to research psychoactive substances:
     
-    *   (d) an interim licence to sell psychoactive substances:
+    *   (d) an interim licence to sell psychoactive substances.
     
-    *   (e) an interim licence to sell a psychoactive product granted interim approval by retail:
+    *   (e) \[Repealed\]
     
-    *   (f) an interim licence to sell a psychoactive product granted interim approval by wholesale.
+    *   (f) \[Repealed\]
     
     (2) An application under subclause (1) must---
         
@@ -2807,13 +2758,13 @@ Application, savings, and transitional provisions
             
         *   (i) the information specified in subclause (3); and
         
-        *   (ii) the appropriate fee payable for an application for an interim licence specified in [clause 10][251].
+        *   (ii) the appropriate fee payable for an application for an interim licence specified in [clause 10][257].
         
         
     
     (3) For the purposes of subclause (2)(c)(i), the information is---
         
-    *   (a) a statutory declaration made by the applicant stating that the applicant--- 
+    *   (a) a statutory declaration made by the applicant stating that the applicant---
             
         *   (i) was, during the period of not less than 28 days immediately before the commencement of this Act, in the business of importing, manufacturing, researching, or selling psychoactive substances or products to which this schedule applies; and
         
@@ -2826,26 +2777,34 @@ Application, savings, and transitional provisions
     *   (c) any other information that the Authority reasonably requires and that is notified in writing to the applicant.
     
     (4) The Authority may, as the Authority thinks fit, waive the fee payable for an application for an interim licence, in whole or in part, in any particular case or class of cases.
-
-##### 8 Grant of interim licence
     
-*   [Subparts 1][19] and [3][67] of Part 2 (except [sections 13][21] and [16(1)(a)][25]) apply, with any necessary modifications, to an application for an interim licence as if it were an application made under section 13\.
+    Schedule 1 clause 7(1)(e): repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+    
+    Schedule 1 clause 7(1)(f): repealed, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 8 Application of subparts 1 and 3 of Part 2 to interim licence
+    
+*   [Subparts 1][20] and [3][68] of Part 2 (except [sections 13][22] and [16(1)(a)][26]) apply, with any necessary modifications,---
+        
+    *   (a) to an application for an interim licence as if it were an application made under [section 13][22]; and
+    
+    *   (b) to an interim licence granted in accordance with paragraph (a).
+    
+    Schedule 1 clause 8: replaced, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ##### 9 Duration of interim licence
     
-*   (1) An interim licence granted under [clause 8][250] is deemed to be cancelled 28 days after the date on which regulations made under [sections 95][136] and [101(1)(a)][145] come into force unless, within that period, the holder of the interim licence makes a full application under [section 13][21] for a licence to carry out the activity to which the interim licence relates.
+*   (1) An interim licence granted under [clause 8][255] is deemed to be cancelled 28 days after the date on which regulations made under [sections 95][137] and [101(1)(a)][146] come into force unless, within that period, the holder of the interim licence makes a full application under [section 13][22] for a licence to carry out the activity to which the interim licence relates.
     
-    (2) If the holder of the interim licence complies with subclause (1), the interim licence continues in force until the date on which the full application under [section 13][21] is determined under this Act, and the interim licence is then deemed to be cancelled.
+    (2) If the holder of the interim licence complies with subclause (1), the interim licence continues in force until the date on which the full application under [section 13][22] is determined under this Act, and the interim licence is then deemed to be cancelled.
 
 #### Fees
 
-##### 10 Fees payable for interim approval or interim licence
+##### 10 Fees payable for interim licence
     
-*   The fee payable for an application for interim approval or an application for an interim licence is the fee specified in the second column of the following table opposite the approval or licence specified in the first column:
+*   The fee payable for an application for an interim licence is the fee specified in the second column of the following table opposite the licence specified in the first column:
     
-    **Interim approval or interim licence** **Fee ($) (including GST) **
-    
-    Interim approval of psychoactive product 10,000
+    **Interim licence** **Fee ($) (including GST)**
     
     Interim licence to import psychoactive substances 500
     
@@ -2855,53 +2814,185 @@ Application, savings, and transitional provisions
     
     Interim licence to sell psychoactive substances that are not approved products 500
     
-    Interim licence to sell psychoactive products granted interim approval by retail 500
+    Schedule 1 clause 10 heading: amended, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
     
-    Interim licence to sell psychoactive products granted interim approval by wholesale 500
+    Schedule 1 clause 10: amended, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
     
+    Schedule 1 clause 10 table: amended, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+#### Interim approvals of psychoactive products and interim licences to sell psychoactive products granted interim approval revoked
     
+*   Heading: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 11 Revocation of interim approvals of psychoactive products
+    
+*   Every interim approval granted in respect of a psychoactive product under [clause 4][253] (before that clause was repealed by [section 8][254] of the Psychoactive Substances Amendment Act 2014) is revoked.
+    
+    Schedule 1 clause 11: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 12 Recall of interim approved products
+    
+*   (1) The Authority must, before the close of the day after the date of the commencement of this clause, issue a recall order under [section 88][129] for every psychoactive product described in [clause 11][258] (the **product**).
+    
+    (2) The Authority must---
+        
+    *   (a) display the date of the recall order prominently on the recall order; and
+    
+    *   (b) notify the recall order on an Internet site maintained by or on behalf of the Authority.
+    
+    (3) For the purposes of [section 88(2)][129], the recall order is deemed to have been received by every importer, manufacturer, wholesaler, or retailer of the product on the close of the day after the date displayed on the recall order.
+    
+    (4) The recall order may---
+        
+    *   (a) require every importer, manufacturer, wholesaler, and retailer (or any combination of them) to---
+            
+        *   (i) provide information to the Authority in relation to the amount and type of the product in their possession:
+        
+        *   (ii) dispose of or destroy, or arrange for the disposal (including by return to a manufacturer or an importer) or the destruction of, the product in their possession:
+        
+        *   (iii) provide information to the Authority on the disposal of or destruction or arrangements for the disposal or destruction of the product in their possession:
+        
+        
+    
+    *   (b) specify locations where the product can be delivered for disposal or destruction:
+    
+    *   (c) specify a time limit for compliance with the recall order:
+    
+    *   (d) specify any ancillary or incidental requirement.
+    
+    (5) For the avoidance of doubt, [section 88(2)][129] and (3) applies to the recall order issued in accordance with this clause.
+    
+    (6) It is a defence to a charge of an offence specified in subclause (7) that the action or omission that constitutes the offence was done---
+        
+    *   (a) in good faith in the course of complying with the recall order; and
+    
+    *   (b) within 14 days after the date of the commencement of this clause.
+    
+    (7) The offences to which the defence in subclause (6) may apply are---
+        
+    *   (a) an offence under [section 28][44]:
+    
+    *   (b) an offence under [section 70][103]:
+    
+    *   (c) an offence under [section 71][104].
+    
+    Schedule 1 clause 12: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 13 Revocation of interim licences to sell psychoactive products granted interim approval
+    
+*   (1) Every interim licence granted under [clause 7(1)(e)][259] and (f) (before those paragraphs were repealed by [section 8][254] of the Psychoactive Substances Amendment Act 2014) is revoked.
+    
+    (2) Despite the revocation of interim licences under subclause (1), a wholesaler or retailer who held an interim licence immediately before this clause came into force---
+        
+    *   (a) must comply with the recall order issued in accordance with [clause 12][260] as if the wholesaler or retailer continued to hold the licence; and
+    
+    *   (b) is, for the purposes of [section 88][129], to be treated as if it continued to hold the licence until the close of the 14th day after the commencement of this clause.
+    
+    Schedule 1 clause 13: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 14 Appeals under subpart 3 of Part 2
+    
+*   For the avoidance of doubt, and regardless of the outcome of any appeal under [subpart 3 of Part 2][68], the following may not be granted after the commencement of the [Psychoactive Substances Amendment Act 2014][261]:
+        
+    *   (a) an interim licence to sell psychoactive products granted interim approval by retail:
+    
+    *   (b) an interim licence to sell psychoactive products granted interim approval by wholesale:
+    
+    *   (c) an interim approval.
+    
+    Schedule 1 clause 14: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+#### Enforcement powers
+    
+*   Heading: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 15 Power to enter and search retail premises
+    
+*   (1) This clause applies in relation to the retail premises of every holder of an interim licence granted under [clause 7(1)(e)][259] (before that paragraph was repealed by [section 8][254] of the Psychoactive Substances Amendment Act 2014) and revoked by [clause 13][262].
+    
+    (2) An enforcement officer or a constable may, for the purpose of ensuring or enforcing compliance with the recall order issued in accordance with [clause 12][260], exercise any powers under [section 78][115] in relation to those retail premises until the close of the 14th day after the date of the commencement of this clause as if the interim licence concerned had not been revoked.
+    
+    (3) [Section 78][115], as modified by subclause (2), applies in relation to those retail premises.
+    
+    Schedule 1 clause 15: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+#### Moratorium on processing applications under section 13 or 33 until regulations in force
+    
+*   Heading: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 16 Moratorium on processing applications for licences under section 13
+    
+*   (1) The Authority must not process any application for a licence of a kind described in [section 13(1)(a)][22] to (d) (whether the application is made before or after the commencement of this clause) until regulations under [section 95][137] prescribing the fees or charges for applications for licences of that kind come into force.
+    
+    (2) The Authority must not process any application for a licence of a kind described in [section 13(1)(e)][22] or (f) (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
+        
+    *   (a) regulations under [section 95][137] prescribing the fees or charges for applications for licences of that kind; and
+    
+    *   (b) regulations under [section 101(1)(a)][137] prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for licences of that kind.
+    
+    Schedule 1 clause 16: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 17 Moratorium on processing applications for approval of psychoactive product under section 33
+    
+*   The Authority must not process any application for approval of a psychoactive product under [section 33][52] (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
+        
+    *   (a) regulations under [section 95][137] prescribing the fees or charges for applications for approval of psychoactive products; and
+    
+    *   (b) regulations under [section 101(1)(a)][146] prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for approval of psychoactive products.
+    
+    Schedule 1 clause 17: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+#### No compensation or damages
+    
+*   Heading: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
+
+##### 18 No compensation or damages
+    
+*   No compensation or damages are payable by the Crown for any loss or damage arising from the enactment of the [Psychoactive Substances Amendment Act 2014][261].
+    
+    Schedule 1 clause 18: inserted, on 8 May 2014, by [section 8][254] of the Psychoactive Substances Amendment Act 2014 (2014 No 24).
 
 ---
 
 ## Schedule 2  
 Consequential amendments and revocation
 
-[s 110][162]
+[s 110][163]
 
 ## Part 1  
 Amendments to Acts
 
-##### [Corrections Act 2004][252] (2004 No 50)
+##### [Corrections Act 2004][263] (2004 No 50)
 
-Repeal [section 23(3)(c)][253].
+Repeal [section 23(3)(c)][264].
 
-##### [Misuse of Drugs Act 1975][189] (1975 No 116)
+##### [Misuse of Drugs Act 1975][192] (1975 No 116)
 
-In [section 2(1)][254], repeal the definitions of _temporary class drug_ and _temporary class drug notice_.
+In [section 2(1)][265], repeal the definitions of _temporary class drug_ and _temporary class drug notice_.
 
-In [section 2(1)][254], definition of _controlled drug analogue_, paragraph (b), after ""Medicines Act 1981"", insert ""; or"".
+In [section 2(1)][265], definition of _controlled drug analogue_, paragraph (b), after ""Medicines Act 1981"", insert ""; or"".
 
-In [section 2(1)][254], definition of _controlled drug analogue_, after paragraph (b), insert:
+In [section 2(1)][265], definition of _controlled drug analogue_, after paragraph (b), insert:
 
 > *   "(c) an approved product within the meaning of the Psychoactive Substances Act 2013".
 > 
 > 
 
-Repeal [sections 4C to 4E][255].
+Repeal [sections 4C to 4E][266].
 
-##### [Misuse of Drugs Amendment Act 2005][190] (2005 No 81)
+##### [Misuse of Drugs Amendment Act 2005][193] (2005 No 81)
 
-Repeal [Part 3][256].
+Repeal [Part 3][267].
 
-Repeal [Schedule 4][257].
+Repeal [Schedule 4][268].
 
-##### [Ombudsmen Act 1975][258] (1975 No 9)
+##### [Ombudsmen Act 1975][269] (1975 No 9)
 
-In [Schedule 2][259], Part 2, insert in their appropriate alphabetical order ""Psychoactive Substances Expert Advisory Committee"" and ""Psychoactive Substances Appeals Committee"".
+In [Schedule 2][270], Part 2, insert in their appropriate alphabetical order ""Psychoactive Substances Expert Advisory Committee"" and ""Psychoactive Substances Appeals Committee"".
 
-##### [Search and Surveillance Act 2012][242] (2012 No 24)
+##### [Search and Surveillance Act 2012][246] (2012 No 24)
 
-In the [Schedule][260], insert in its appropriate alphabetical order:
+In the [Schedule][271], insert in its appropriate alphabetical order:
 
 > Psychoactive Substances Act 2013 77 Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against Psychoactive Substances Act 2013 All (except subpart 3)
 > 
@@ -2909,9 +3000,9 @@ In the [Schedule][260], insert in its appropriate alphabetical order:
 > 
 > 
 
-##### [Summary Proceedings Act 1957][261] (1957 No 87)
+##### [Summary Proceedings Act 1957][272] (1957 No 87)
 
-In [section 2(1)][262], definition of _infringement notice_, after paragraph (j), insert:
+In [section 2(1)][273], definition of _infringement notice_, after paragraph (j), insert:
 
 > *   "(ja) section 74 of the Psychoactive Substances Act 2013; or".
 > 
@@ -2920,15 +3011,15 @@ In [section 2(1)][262], definition of _infringement notice_, after paragraph (j)
 ## Part 2  
 Amendments to regulations
 
-##### [Hazardous Substances (Minimum Degrees of Hazard) Regulations 2001][263] (SR 2001/112)
+##### [Hazardous Substances (Minimum Degrees of Hazard) Regulations 2001][274] (SR 2001/112)
 
-Replace [regulation 4(2)][264] with:
+Replace [regulation 4(2)][275] with:
 
 > *   "(2) This regulation is subject to regulations 5, 6, and 6A."
 > 
 > 
 
-After [regulation 6][265], insert:
+After [regulation 6][276], insert:
 
 > ##### "6A Psychoactive substances
 >     
@@ -2957,294 +3048,311 @@ After [regulation 6][265], insert:
 ## Part 3  
 Regulations revoked
 
-##### [Misuse of Drugs (Restricted Substances) Regulations 2008][266] (SR 2008/373)
+##### [Misuse of Drugs (Restricted Substances) Regulations 2008][277] (SR 2008/373)
+
+#### 
 
 ---
 
-## Legislative history
+##### Reprints notes
 
-26 February 2013Introduction (Bill 100--1)
+###### 1 General
+    
+*   This is a reprint of the Psychoactive Substances Act 2013 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-9 April 2013First reading and referral to Health Committee
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][278] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][279] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-14 June 2013Reported from Health Committee (Bill 100--2)
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][280] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][281] ![](/images/external_link.gif).
 
-2 July 2013Second reading, Committee of the whole House (Bill 100--3)
+###### 4 Amendments incorporated in this reprint
+    
+*   [Psychoactive Substances Amendment Act 2014][261] (2014 No 24)
 
-9 July 2013Reported from committee of the whole House
 
-11 July 2013Third reading
 
-17 July 2013Royal assent
-
----
-
-This Act is administered by the Ministry of Health.
-
-[0]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042924
-[1]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042925
-[2]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042926
-[3]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042927
-[4]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042928
-[5]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042929
-[6]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042930
-[7]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042931
-[8]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042932
-[9]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042933
-[10]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042934
-[11]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042935
-[12]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043005
-[13]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278431
-[14]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043008
-[15]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043009
-[16]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043010
-[17]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331116
-[18]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043011
-[19]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043012
-[20]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043013
-[21]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043014
-[22]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043015
-[23]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043016
-[24]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043017
-[25]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043018
-[26]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043020
-[27]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043021
-[28]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043022
-[29]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043023
-[30]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043024
-[31]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043025
-[32]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043026
-[33]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043027
-[34]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043028
-[35]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043029
-[36]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043030
-[37]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043031
-[38]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043032
-[39]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043033
-[40]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043034
-[41]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043035
-[42]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5370200
-[43]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331118
-[44]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043037
-[45]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043038
-[46]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043039
-[47]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043040
-[48]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043043
-[49]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043044
-[50]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043045
-[51]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043046
-[52]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043047
-[53]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043048
-[54]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043049
-[55]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043056
-[56]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043057
-[57]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043058
-[58]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043059
-[59]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043060
-[60]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043061
-[61]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043062
-[62]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043063
-[63]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043064
-[64]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043065
-[65]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043066
-[66]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043067
-[67]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043068
-[68]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043069
-[69]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043070
-[70]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043071
-[71]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043072
-[72]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043073
-[73]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043074
-[74]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043075
-[75]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043076
-[76]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043077
-[77]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043078
-[78]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043079
-[79]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043080
-[80]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043081
-[81]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278436
-[82]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043083
-[83]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043084
-[84]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278437
-[85]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278438
-[86]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278439
-[87]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278440
-[88]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043087
-[89]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043088
-[90]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043089
-[91]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043090
-[92]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043091
-[93]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043092
-[94]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043093
-[95]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043094
-[96]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278441
-[97]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278442
-[98]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278443
-[99]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278444
-[100]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278445
-[101]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043095
-[102]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043096
-[103]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043097
-[104]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043098
-[105]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043099
-[106]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043104
-[107]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043105
-[108]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043106
-[109]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043107
-[110]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043108
-[111]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043109
-[112]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043110
-[113]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278446
-[114]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278447
-[115]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043112
-[116]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043113
-[117]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043114
-[118]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043115
-[119]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043116
-[120]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043117
-[121]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043118
-[122]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043119
-[123]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331119
-[124]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278448
-[125]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043121
-[126]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043122
-[127]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043123
-[128]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278451
-[129]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043126
-[130]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278453
-[131]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278454
-[132]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278455
-[133]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278456
-[134]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278457
-[135]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278458
-[136]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278459
-[137]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278460
-[138]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278461
-[139]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043127
-[140]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043128
-[141]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043129
-[142]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043131
-[143]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043132
-[144]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278462
-[145]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043134
-[146]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043135
-[147]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043136
-[148]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278463
-[149]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278464
-[150]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043137
-[151]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043138
-[152]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043139
-[153]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043140
-[154]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043141
-[155]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043142
-[156]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043143
-[157]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043144
-[158]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043145
-[159]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043146
-[160]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043147
-[161]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043148
-[162]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043149
-[163]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331120
-[164]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043152
-[165]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339341
-[166]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM49669
-[167]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM5043009
-[168]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1102132
-[169]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM377342
-[170]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM170881
-[171]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136542
-[172]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM381228
-[173]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1522997
-[174]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1523134
-[175]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1523137
-[176]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM80064
-[177]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436576
-[178]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436586
-[179]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436723
-[180]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436770
-[181]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM54687
-[182]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM56098
-[183]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM53795
-[184]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2856310
-[185]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM48692
-[186]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223196
-[187]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356285
-[188]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM50499
-[189]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436100
-[190]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356223
-[191]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM53789
-[192]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM327394
-[193]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55499
-[194]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436213
-[195]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55065
-[196]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55443
-[197]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM364948
-[198]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356811
-[199]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356812
-[200]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM224318
-[201]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356814
-[202]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356815
-[203]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339302
-[204]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356816
-[205]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356817
-[206]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223999
-[207]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356819
-[208]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356821
-[209]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356823
-[210]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356825
-[211]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356827
-[212]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356831
-[213]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356839
-[214]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM224320
-[215]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356841
-[216]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM172328
-[217]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3360057
-[218]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM311346
-[219]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM129109
-[220]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM446000
-[221]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223954
-[222]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356843
-[223]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136770
-[224]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136781
-[225]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136655
-[226]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339783
-[227]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136813
-[228]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136815
-[229]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356847
-[230]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136860
-[231]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356850
-[232]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM23459
-[233]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1559921
-[234]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436218
-[235]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356836
-[236]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356853
-[237]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM381221
-[238]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55005
-[239]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM56588
-[240]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM377336
-[241]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM379566
-[242]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136500
-[243]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3330212
-[244]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM147087
-[245]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM153418
-[246]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043153
-[247]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043165
-[248]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043172
-[249]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331131
-[250]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331136
-[251]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331139
-[252]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM294848
-[253]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM295421
-[254]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436106
-[255]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3935908
-[256]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356284
-[257]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356877
-[258]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM430983
-[259]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM431744
-[260]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM4356950
-[261]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM310742
-[262]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM310749
-[263]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33300
-[264]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33333
-[265]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33339
-[266]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1628500
+[0]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042924
+[2]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042925
+[3]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042926
+[4]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042927
+[5]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042928
+[6]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042929
+[7]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042930
+[8]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042931
+[9]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042932
+[10]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042933
+[11]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042934
+[12]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5042935
+[13]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043005
+[14]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278431
+[15]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043008
+[16]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043009
+[17]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043010
+[18]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331116
+[19]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043011
+[20]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043012
+[21]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043013
+[22]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043014
+[23]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043015
+[24]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043016
+[25]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043017
+[26]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043018
+[27]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043020
+[28]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043021
+[29]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043022
+[30]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043023
+[31]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043024
+[32]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043025
+[33]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043026
+[34]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043027
+[35]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043028
+[36]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043029
+[37]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043030
+[38]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043031
+[39]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043032
+[40]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043033
+[41]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043034
+[42]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043035
+[43]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5370200
+[44]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331118
+[45]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043037
+[46]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043038
+[47]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043039
+[48]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043040
+[49]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043043
+[50]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043044
+[51]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043045
+[52]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043046
+[53]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043047
+[54]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043048
+[55]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043049
+[56]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043056
+[57]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043057
+[58]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043058
+[59]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043059
+[60]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043060
+[61]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043061
+[62]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043062
+[63]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043063
+[64]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043064
+[65]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043065
+[66]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043066
+[67]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043067
+[68]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043068
+[69]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043069
+[70]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043070
+[71]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043071
+[72]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043072
+[73]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043073
+[74]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043074
+[75]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043075
+[76]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043076
+[77]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043077
+[78]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043078
+[79]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043079
+[80]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043080
+[81]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043081
+[82]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278436
+[83]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043083
+[84]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043084
+[85]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278437
+[86]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278438
+[87]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278439
+[88]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278440
+[89]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043087
+[90]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043088
+[91]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043089
+[92]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043090
+[93]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043091
+[94]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043092
+[95]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043093
+[96]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043094
+[97]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278441
+[98]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278442
+[99]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278443
+[100]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278444
+[101]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278445
+[102]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043095
+[103]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043096
+[104]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043097
+[105]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043098
+[106]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043099
+[107]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043104
+[108]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043105
+[109]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043106
+[110]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043107
+[111]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043108
+[112]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043109
+[113]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043110
+[114]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278446
+[115]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278447
+[116]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043112
+[117]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043113
+[118]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043114
+[119]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043115
+[120]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043116
+[121]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043117
+[122]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043118
+[123]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043119
+[124]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331119
+[125]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278448
+[126]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043121
+[127]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043122
+[128]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043123
+[129]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278451
+[130]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043126
+[131]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278453
+[132]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278454
+[133]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278455
+[134]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278456
+[135]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278457
+[136]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278458
+[137]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278459
+[138]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278460
+[139]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278461
+[140]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043127
+[141]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043128
+[142]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043129
+[143]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043131
+[144]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043132
+[145]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278462
+[146]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043134
+[147]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043135
+[148]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043136
+[149]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278463
+[150]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5278464
+[151]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043137
+[152]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043138
+[153]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043139
+[154]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043140
+[155]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043141
+[156]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043142
+[157]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043143
+[158]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043144
+[159]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043145
+[160]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043146
+[161]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043147
+[162]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043148
+[163]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043149
+[164]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331120
+[165]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043152
+[166]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099315
+[167]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099316
+[168]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339341
+[169]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM49669
+[170]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM5043009
+[171]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1102132
+[172]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM377342
+[173]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM170881
+[174]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136542
+[175]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM381228
+[176]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1522997
+[177]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1523134
+[178]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1523137
+[179]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM80064
+[180]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436576
+[181]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436586
+[182]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436723
+[183]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436770
+[184]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM54687
+[185]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM56098
+[186]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM53795
+[187]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2856310
+[188]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM48692
+[189]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223196
+[190]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356285
+[191]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099317
+[192]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436100
+[193]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356223
+[194]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM53789
+[195]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM327394
+[196]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55499
+[197]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436213
+[198]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55065
+[199]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099319
+[200]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55443
+[201]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM364948
+[202]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356811
+[203]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356812
+[204]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM224318
+[205]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356814
+[206]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356815
+[207]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339302
+[208]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356816
+[209]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356817
+[210]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223999
+[211]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356819
+[212]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356821
+[213]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356823
+[214]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356825
+[215]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356827
+[216]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356831
+[217]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356839
+[218]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM224320
+[219]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356841
+[220]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM172328
+[221]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3360057
+[222]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM311346
+[223]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM129109
+[224]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM446000
+[225]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM223954
+[226]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356843
+[227]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136770
+[228]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136781
+[229]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136655
+[230]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3339783
+[231]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136813
+[232]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136815
+[233]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356847
+[234]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136860
+[235]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356850
+[236]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM23459
+[237]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1559921
+[238]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436218
+[239]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356836
+[240]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356853
+[241]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM381221
+[242]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM55005
+[243]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM56588
+[244]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM377336
+[245]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM379566
+[246]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2136500
+[247]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3330212
+[248]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM147087
+[249]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM153418
+[250]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043153
+[251]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043165
+[252]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5043172
+[253]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331131
+[254]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099320
+[255]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331136
+[256]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331121
+[257]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331139
+[258]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM6104534
+[259]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM5331135
+[260]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM6104535
+[261]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM6099302
+[262]: http://www.legislation.govt.nz/act/public/2013/0053/latest/whole.html#DLM6104536
+[263]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM294848
+[264]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM295421
+[265]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM436106
+[266]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM3935908
+[267]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356284
+[268]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM356877
+[269]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM430983
+[270]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM431744
+[271]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM4356950
+[272]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM310742
+[273]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM310749
+[274]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33300
+[275]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33333
+[276]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM33339
+[277]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM1628500
+[278]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2998516
+[279]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2998515
+[280]: http://www.legislation.govt.nz/act/public/2013/0053/latest/link.aspx?id=DLM2998532
+[281]: http://www.pco.parliament.govt.nz/editorial-conventions/
