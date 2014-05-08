@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -769,9 +769,11 @@ Registration
     
     *   (e) be accompanied by the prescribed fee or levy (if any).
     
-    (2) If the application relates to a licensed service, it must be accompanied by any information required, by or under the licensing enactment, to become a licensed provider.
+    (2) If the application relates to a licensed service, it must be accompanied by any information required, by or under the licensing enactment, to become a licensed provider, unless otherwise agreed by the relevant licensing authority and the Registrar.
     
     Section 15(1)(e): amended, on 1 July 2010, by [section 14(1)][175] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    
+    Section 15(2): amended, on 1 May 2014, by [section 91(3)][176] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
     
     Section 15(2): amended, on 1 July 2010, by [section 14(2)][175] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
@@ -797,7 +799,7 @@ Registration
     
     (2) If the Registrar does not accept that an applicant is qualified to be registered as a financial service provider, the Registrar must notify the applicant and any relevant licensing authority of the Registrar's decision.
     
-    Section 16(1)(a)(iia): inserted, on 1 July 2010, by [section 15][176] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 16(1)(a)(iia): inserted, on 1 July 2010, by [section 15][177] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### Changes relating to financial service provider
 
@@ -825,9 +827,9 @@ Registration
     
     (4) A person who breaches subsection (1)(c) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 17(1)(a): substituted, on 1 July 2010, by [section 16][177] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 17(1)(a): substituted, on 1 July 2010, by [section 16][178] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 17(1)(b): substituted, on 1 July 2010, by [section 16][177] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 17(1)(b): substituted, on 1 July 2010, by [section 16][178] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
     Section 17(3): amended, on 1 July 2013, by [section 413][165] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -851,9 +853,9 @@ Registration
     
     (3) For the purposes of this section and [sections 19][27] and [20][28], **notice period** means 20 working days from the date of the Registrar's notification under section 19\.
     
-    Section 18(1)(b): substituted, on 1 July 2010, by [section 17(1)][178] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 18(1)(b): substituted, on 1 July 2010, by [section 17(1)][179] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 18(1)(d): amended, on 1 July 2010, by [section 17(2)][178] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 18(1)(d): amended, on 1 July 2010, by [section 17(2)][179] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 19 Notice of intention to deregister
     
@@ -907,7 +909,7 @@ Registration
     
     *   (c) the public, by a notice that is publicly available on an Internet site (at all reasonable times) for not less than 20 working days.
     
-    Section 22(1)(b): amended, on 1 July 2010, by [section 18][179] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 22(1)(b): amended, on 1 July 2010, by [section 18][180] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### Responsible financial service provider
 
@@ -945,7 +947,7 @@ Registration
     
     *   (b) for any other reason that is prescribed by regulations made under this Act.
     
-    Compare: 2008 No 1 [s 55(1), (2)][180]
+    Compare: 2008 No 1 [s 55(1), (2)][181]
 
 ##### 26 Purposes of register
     
@@ -973,7 +975,7 @@ Registration
     
     *   (c) to conform with New Zealand's obligations under the FATF Recommendations.
     
-    Section 26(a)(ii)(BA): inserted, on 1 July 2010, by [section 19][181] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 26(a)(ii)(BA): inserted, on 1 July 2010, by [section 19][182] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 27 Contents of register
     
@@ -995,7 +997,7 @@ Registration
     
     *   (d) any other information prescribed in regulations.
     
-    Section 27(ba): inserted, on 1 July 2010, by [section 20][182] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 27(ba): inserted, on 1 July 2010, by [section 20][183] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 28 Annual confirmation
     
@@ -1011,7 +1013,7 @@ Registration
     
     (3) If a registered financial service provider does not comply with subsection (1) by the due date, the Registrar may assume that the provider is no longer in the business of providing a financial service and [sections 18 to 20][26] apply.
     
-    Section 28(2)(a): amended, on 1 July 2010, by [section 21][183] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 28(2)(a): amended, on 1 July 2010, by [section 21][184] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 29 Registrar must amend register in certain circumstances
     
@@ -1027,7 +1029,7 @@ Registration
     
     *   (e) regulations made under this Act require the Registrar to do so in circumstances specified by the regulations.
     
-    Section 29(e): substituted, on 1 July 2010, by [section 22][184] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 29(e): substituted, on 1 July 2010, by [section 22][185] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 30 Registrar may refuse to accept document
     
@@ -1049,7 +1051,7 @@ Registration
     
 *   The register may be searched for the following purposes:
         
-    *   (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][185]:
+    *   (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][186]:
     
     *   (b) by a person for a purpose referred to in [section 26][38]:
     
@@ -1059,9 +1061,9 @@ Registration
 
 ##### 33 When search breaches information privacy principle
     
-*   A person who searches a public register for personal information for a purpose that is not a purpose set out in [section 32][45] must be treated, for the purposes of [Part 8][186] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][187] of that Act.
+*   A person who searches a public register for personal information for a purpose that is not a purpose set out in [section 32][45] must be treated, for the purposes of [Part 8][187] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][188] of that Act.
     
-    Compare: 2006 No 55 [s 456][188]
+    Compare: 2006 No 55 [s 456][189]
 
 #### Information sharing
 
@@ -1097,11 +1099,11 @@ Registration
 
 ##### 35 Appointment of Registrar
     
-*   (1) The chief executive must appoint a Registrar of Financial Service Providers under the [State Sector Act 1988][189].
+*   (1) The chief executive must appoint a Registrar of Financial Service Providers under the [State Sector Act 1988][190].
     
     (2) The person holding office as Registrar of Companies under the [Companies Act 1993][168], immediately before the commencement of this Act, is deemed to have been appointed as the first Registrar of Financial Service Providers in accordance with this section.
     
-    Compare: 1999 No 126 [s 136][190]
+    Compare: 1999 No 126 [s 136][191]
 
 ##### 36 Power of Registrar to delegate
     
@@ -1121,7 +1123,7 @@ Registration
     
     (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    Compare: 2003 No 12 [s 62][191]
+    Compare: 2003 No 12 [s 62][192]
 
 ### Subpart 4---Registrar's inspection powers
 
@@ -1147,7 +1149,7 @@ Registration
     
     (3) Any person who exercises powers under subsection (1) must make his or her authorisation from the Registrar available on request.
     
-    (4) Nothing in this section limits or affects the [Tax Administration Act 1994][192] or the [Statistics Act 1975][193].
+    (4) Nothing in this section limits or affects the [Tax Administration Act 1994][193] or the [Statistics Act 1975][194].
     
     (5) A person must not obstruct or hinder the exercise of a power conferred by subsection (1).
     
@@ -1175,13 +1177,13 @@ Registration
     
     *   (d) has made a false or misleading representation or omission in breach of [section 41][58].
     
-    Compare: 1993 No 105 [s 365][194]
+    Compare: 1993 No 105 [s 365][195]
     
     Section 37(7): amended, on 1 July 2013, by [section 413][165] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 37(8): amended, on 1 July 2013, by [section 413][165] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(9)(a): amended, on 1 July 2010, by [section 23][195] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 37(9)(a): amended, on 1 July 2010, by [section 23][196] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 38 Disclosure of information and reports
     
@@ -1207,7 +1209,7 @@ Registration
     
     (3) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 366][196]
+    Compare: 1993 No 105 [s 366][197]
     
     Section 38(3): amended, on 1 July 2013, by [section 413][165] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1227,7 +1229,7 @@ Registration
     
     *   (b) no information acquired under [section 37][53] is admissible in evidence in any proceedings unless the court hearing the proceedings in which it is sought to adduce the evidence is satisfied it was not obtained unfairly.
     
-    Compare: 1993 No 105 [s 371][197]
+    Compare: 1993 No 105 [s 371][198]
 
 ### Subpart 5---Miscellaneous
 
@@ -1333,15 +1335,15 @@ Registration
     
     (5) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
     
-    Section 44(1): amended, on 1 July 2010, by [section 24(1)][198] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 44(1): amended, on 1 July 2010, by [section 24(1)][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 44(1)(aa): inserted, on 1 July 2010, by [section 24(2)][198] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 44(1)(aa): inserted, on 1 July 2010, by [section 24(2)][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 44(1)(ab): inserted, on 1 July 2010, by [section 24(3)][198] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 44(1)(ab): inserted, on 1 July 2010, by [section 24(3)][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 44(1A): inserted, on 1 July 2010, by [section 24(4)][198] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 44(1A): inserted, on 1 July 2010, by [section 24(4)][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 44(3): amended, on 1 July 2010, by [section 24(5)][198] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 44(3): amended, on 1 July 2010, by [section 24(5)][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### Review and report on operation of this Part
 
@@ -1361,7 +1363,7 @@ Registration
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 1 July 2010, by [section 25][199] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 46: repealed, on 1 July 2010, by [section 25][200] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ## Part 3  
 Dispute resolution
@@ -1390,9 +1392,9 @@ Dispute resolution
     
     *   (b) to a financial service provider if it is exempted from the obligation by or under any other Act or by regulations made under [section 79][121].
     
-    Section 48(1): amended, on 1 July 2010, by [section 26(1)][200] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 48(1): amended, on 1 July 2010, by [section 26(1)][201] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 48(3): added, on 1 July 2010, by [section 26(2)][200] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 48(3): added, on 1 July 2010, by [section 26(2)][201] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49 Who are retail clients
     
@@ -1412,11 +1414,11 @@ Dispute resolution
         
         
     
-    *   (d) a related body corporate (within the meaning of [section 5B(2)][201] of the Securities Markets Act 1988) of an entity to which paragraph (c) applies:
+    *   (d) a related body corporate (within the meaning of [section 5B(2)][202] of the Securities Markets Act 1988) of an entity to which paragraph (c) applies:
     
-    *   (e) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under [clause 3(1)(b)][202] of Schedule 4 of the National Provident Fund Restructuring Act 1990):
+    *   (e) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under [clause 3(1)(b)][203] of Schedule 4 of the National Provident Fund Restructuring Act 1990):
     
-    *   (f) a person who falls within 1 or more of the categories listed in [section 3(2)][203], [5(2CB)][204], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
+    *   (f) a person who falls within 1 or more of the categories listed in [section 3(2)][204], [5(2CB)][205], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
     
     *   (g) an eligible investor under [section 49A][70]:
     
@@ -1434,11 +1436,11 @@ Dispute resolution
     
     _private offer of securities_ means an offer of securities that---
         
-    *   (a) does not constitute an offer of securities to the public under [section 3][203] of the Securities Act 1978; or
+    *   (a) does not constitute an offer of securities to the public under [section 3][204] of the Securities Act 1978; or
     
-    *   (b) is exempt from [Part 2][205] (other than [sections 38B][206] and [58][207]) of that Act under [section 5(2CB)][204] or 5(2CBA) of that Act.
+    *   (b) is exempt from [Part 2][206] (other than [sections 38B][207] and [58][208]) of that Act under [section 5(2CB)][205] or 5(2CBA) of that Act.
     
-    Section 49: substituted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49: substituted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49A Who are eligible investors
     
@@ -1452,7 +1454,7 @@ Dispute resolution
     
     (2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)(a) to (c) are met).
     
-    Section 49A: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49A: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49B Acceptance of certification
     
@@ -1468,7 +1470,7 @@ Dispute resolution
     
     (4) Contravention of this section may give rise to a pecuniary penalty order or compensatory order (_see_ [sections 79A][123] and [79B][124]).
     
-    Section 49B: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49B: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49C Revocation of certification
     
@@ -1476,7 +1478,7 @@ Dispute resolution
     
     (2) A revocation is effective only in relation to services provided after it is given.
     
-    Section 49C: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49C: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49D How to opt out of being wholesale client
     
@@ -1490,7 +1492,7 @@ Dispute resolution
     
     (5) This section does not apply if a person is a wholesale client by reason of being an eligible investor.
     
-    Section 49D: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49D: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49E Giving revocation of certification or notification of opt out
     
@@ -1504,7 +1506,7 @@ Dispute resolution
     
     (2) The revocation or notification is treated as received by the person no later than 7 days after it is posted or 2 days after it is faxed or emailed, unless the person to whom it is posted or sent proves that it was not received (otherwise than through fault on the person's part).
     
-    Section 49E: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49E: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49F Members of dispute resolution scheme must comply with rules and binding resolutions
     
@@ -1520,7 +1522,7 @@ Dispute resolution
     
     (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
     
-    Section 49F: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49F: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 49G Offence to fail to comply with District Court order
     
@@ -1528,7 +1530,7 @@ Dispute resolution
     
     (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section [49F(4)][75].
     
-    Section 49G: inserted, on 1 July 2010, by [section 27][208] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 49G: inserted, on 1 July 2010, by [section 27][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
     Section 49G(1): amended, on 1 July 2013, by [section 413][165] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1772,7 +1774,7 @@ Dispute resolution
     
     *   (r) that the person responsible for the scheme and the scheme's members must inform the people referred to in paragraph (c) about the scheme.
     
-    Section 63(g): substituted, on 1 July 2010, by [section 28][209] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 63(g): substituted, on 1 July 2010, by [section 28][210] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 64 Obligation to publish rules
     
@@ -1810,7 +1812,7 @@ Dispute resolution
     
 *   The person responsible for an approved dispute resolution scheme must---
         
-    *   (a) co-operate with other approved dispute resolution schemes and with the reserve scheme if a complaint involves members of those other schemes (disclosing personal information in accordance with the [Privacy Act 1993][185] and protecting information that is subject to an obligation of confidence); and
+    *   (a) co-operate with other approved dispute resolution schemes and with the reserve scheme if a complaint involves members of those other schemes (disclosing personal information in accordance with the [Privacy Act 1993][186] and protecting information that is subject to an obligation of confidence); and
     
     *   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with [sections 17][24] and [34][48]; and
     
@@ -1818,9 +1820,9 @@ Dispute resolution
     
     *   (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Financial Markets Authority.
     
-    Section 67(d): added, on 1 July 2010, by [section 29][210] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 67(d): added, on 1 July 2010, by [section 29][211] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 67(d): amended, on 1 May 2011, by [section 84(1)][211] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 67(d): amended, on 1 May 2011, by [section 84(1)][212] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Annual reports and information requests by Minister
 
@@ -1836,7 +1838,7 @@ Dispute resolution
     
     *   (b) any information requested by the Minister about the scheme's compliance with the principles listed in [section 52(2)][81].
     
-    (2) In supplying the information to the Minister, the person must disclose personal information in accordance with the [Privacy Act 1993][185] and protect information that is subject to an obligation of confidentiality.
+    (2) In supplying the information to the Minister, the person must disclose personal information in accordance with the [Privacy Act 1993][186] and protect information that is subject to an obligation of confidentiality.
 
 ##### 70 Annual report and information requested by Minister to be publicly available
     
@@ -1902,9 +1904,9 @@ Dispute resolution
     
     (8) The Minister's first recommendation for an Order in Council referred to in subsection (1) must be made within 2 years of this section coming into force.
     
-    Section 72(1)(b): amended, on 1 July 2010, by [section 30][212] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 72(1)(b): amended, on 1 July 2010, by [section 30][213] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 72(1)(c): added, on 1 July 2010, by [section 30][212] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 72(1)(c): added, on 1 July 2010, by [section 30][213] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 72A Reserve scheme: rules about fees and charges
     
@@ -1932,7 +1934,7 @@ Dispute resolution
     
     (3) Rules for the purposes of this section may make different provision for different classes of financial service provider.
     
-    Section 72A: inserted, on 1 July 2010, by [section 31][213] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 72A: inserted, on 1 July 2010, by [section 31][214] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 73 Revocation of appointment as reserve scheme
     
@@ -1978,7 +1980,7 @@ Dispute resolution
     
 *   The person responsible for a reserve scheme must---
         
-    *   (a) co-operate with approved dispute resolution schemes if a complaint involves members of those schemes (disclosing personal information in accordance with the [Privacy Act 1993][185] and protecting information that is subject to an obligation of confidence); and
+    *   (a) co-operate with approved dispute resolution schemes if a complaint involves members of those schemes (disclosing personal information in accordance with the [Privacy Act 1993][186] and protecting information that is subject to an obligation of confidence); and
     
     *   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with [sections 17][24] and [34][48]; and
     
@@ -1986,21 +1988,21 @@ Dispute resolution
     
     *   (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Financial Markets Authority.
     
-    Section 76(d): added, on 1 July 2010, by [section 32][214] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 76(d): added, on 1 July 2010, by [section 32][215] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 76(d): amended, on 1 May 2011, by [section 84(1)][211] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(d): amended, on 1 May 2011, by [section 84(1)][212] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Levy to fund reserve scheme
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2010, by [section 33][215] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Heading: repealed, on 1 July 2010, by [section 33][216] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 77 Levy to fund reserve scheme
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 1 July 2010, by [section 33][215] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 77: repealed, on 1 July 2010, by [section 33][216] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ### Subpart 4---Miscellaneous
 
@@ -2024,7 +2026,7 @@ Dispute resolution
 
 #### Levy
     
-*   Heading: inserted, on 1 July 2010, by [section 34][216] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Heading: inserted, on 1 July 2010, by [section 34][217] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 78A Levy
     
@@ -2072,7 +2074,7 @@ Dispute resolution
     
     (7) A failure to comply with subsection (6) does not affect the validity of the regulations.
     
-    Section 78A: inserted, on 1 July 2010, by [section 34][216] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 78A: inserted, on 1 July 2010, by [section 34][217] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### Regulations under this Part
 
@@ -2116,15 +2118,15 @@ Dispute resolution
     
     (4) Any fee or amount payable under this Part is recoverable in any court of competent jurisdiction as a debt due to the Crown.
     
-    Section 79(1): amended, on 1 July 2010, by [section 35(1)][217] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79(1): amended, on 1 July 2010, by [section 35(1)][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79(1)(a): substituted, on 1 July 2010, by [section 35(2)][217] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79(1)(a): substituted, on 1 July 2010, by [section 35(2)][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79(1A): inserted, on 1 July 2010, by [section 35(3)][217] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79(1A): inserted, on 1 July 2010, by [section 35(3)][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### Pecuniary and compensatory orders for contravening wholesale certification requirement
     
-*   Heading: inserted, on 1 July 2010, by [section 36][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Heading: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 79A Pecuniary order for contravening wholesale certification requirement
     
@@ -2146,9 +2148,9 @@ Dispute resolution
     
     (5) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
     
-    Section 79A: inserted, on 1 July 2010, by [section 36][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79A: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79A(1): amended, on 1 May 2011, by [section 82][219] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 79A(1): amended, on 1 May 2011, by [section 82][220] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 79B Compensation for contravention of wholesale certification requirement
     
@@ -2162,9 +2164,9 @@ Dispute resolution
     
     (5) In proceedings under this section, the court may make such orders as it thinks fit.
     
-    Section 79B: inserted, on 1 July 2010, by [section 36][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79B: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79B(2): amended, on 1 May 2011, by [section 82][219] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 79B(2): amended, on 1 May 2011, by [section 82][220] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Review and report on operation of this Part
 
@@ -2193,9 +2195,9 @@ Consequential amendment
 
 [s 81][128]
 
-##### [Privacy Act 1993][185] (1993 No 28)
+##### [Privacy Act 1993][186] (1993 No 28)
 
-Part 1 of [Schedule 2][220]: insert the following item in its appropriate alphabetical order:
+Part 1 of [Schedule 2][221]: insert the following item in its appropriate alphabetical order:
 
 > Financial Service Providers (Registration and Dispute Resolution) Act 2008 [Section 24][36]
 > 
@@ -2216,23 +2218,23 @@ This schedule identifies---
 
 *   (c) the enactments that require the relevant financial service to be provided only by a person who is licensed, registered, authorised, or otherwise approved by that licensing authority.
 
-****Licensing authority******Licensed provider****Enactment**
+****Licensing authority**** **Licensed provider** **Enactment**
 
-Financial Markets AuthorityAuthorised financial advisers and qualifying financial entities[Financial Advisers Act 2008][158]
+Financial Markets Authority Authorised financial advisers and qualifying financial entities [Financial Advisers Act 2008][158]
 
-Reserve Bank of New ZealandRegistered banks[Reserve Bank of New Zealand Act 1989][151]
+Reserve Bank of New Zealand Registered banks [Reserve Bank of New Zealand Act 1989][151]
 
-Financial Markets AuthorityLicensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees[Securities Trustees and Statutory Supervisors Act 2011][221]
+Financial Markets Authority Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees [Securities Trustees and Statutory Supervisors Act 2011][222]
 
-Reserve Bank of New ZealandLicensed insurers[Insurance (Prudential Supervision) Act 2010][222]
+Reserve Bank of New Zealand Licensed insurers [Insurance (Prudential Supervision) Act 2010][223]
 
-Financial Markets AuthorityPersons who hold, or are authorised bodies under, a market services licence[Financial Markets Conduct Act 2013][223]
+Financial Markets Authority Persons who hold, or are authorised bodies under, a market services licence [Financial Markets Conduct Act 2013][224]
 
 *   Schedule 2: amended, on 1 April 2014, by [section 150][154] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
-*   Schedule 2: amended, on 7 September 2013, by [section 242][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+*   Schedule 2: amended, on 7 September 2013, by [section 242][225] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 *   Schedule 2: amended, on 1 October 2011, by [section 61(3)][155] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
-*   Schedule 2: amended, on 1 May 2011, by [section 84(1)][211] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 2: amended, on 1 July 2010, by [section 37][225] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Schedule 2: amended, on 1 May 2011, by [section 84(1)][212] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Schedule 2: amended, on 1 July 2010, by [section 37][226] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### 
 
@@ -2246,27 +2248,29 @@ Financial Markets AuthorityPersons who hold, or are authorised bodies under, a m
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][226] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][227] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][227] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][228] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][228] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][229] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][229] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][230] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][154]
+*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 91(3)][176]
+    
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][154]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][165]
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 61][155]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][219], [84(1)][211]
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][220], [84(1)][212]
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 242][224]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 242][225]
     
-    [Financial Service Providers (Registration and Dispute Resolution) Act Commencement Order 2010][230] (SR 2010/231)
+    [Financial Service Providers (Registration and Dispute Resolution) Act Commencement Order 2010][231] (SR 2010/231)
     
-    [Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010][231] (2010 No 41)
+    [Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010][232] (2010 No 41)
 
 
 
@@ -2446,59 +2450,60 @@ Financial Markets AuthorityPersons who hold, or are authorised bodies under, a m
 [173]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM329886
 [174]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM250668
 [175]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053647
-[176]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053648
-[177]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053653
-[178]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053654
-[179]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053656
-[180]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM1139210
-[181]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053657
-[182]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053658
-[183]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053659
-[184]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053660
-[185]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM296638
-[186]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM297439
-[187]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM297441
-[188]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM387874
-[189]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM129109
-[190]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM47152
-[191]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM188826
-[192]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM348342
-[193]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM430704
-[194]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323213
-[195]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053661
-[196]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323220
-[197]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323227
-[198]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053662
-[199]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053663
-[200]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053664
-[201]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM139987
-[202]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM226640
-[203]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM27271
-[204]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM27289
-[205]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28186
-[206]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28802
-[207]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM29406
-[208]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28118
-[209]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28126
-[210]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053680
-[211]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231794
-[212]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053681
-[213]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053682
-[214]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053684
-[215]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053685
-[216]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053686
-[217]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053689
-[218]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053690
-[219]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231793
-[220]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM298476
-[221]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2651100
-[222]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2478100
-[223]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM4090503
-[224]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3005143
-[225]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053694
-[226]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998516
-[227]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998515
-[228]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998532
-[229]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[230]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3149922
-[231]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053600
+[176]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3919125
+[177]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053648
+[178]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053653
+[179]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053654
+[180]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053656
+[181]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM1139210
+[182]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053657
+[183]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053658
+[184]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053659
+[185]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053660
+[186]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM296638
+[187]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM297439
+[188]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM297441
+[189]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM387874
+[190]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM129109
+[191]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM47152
+[192]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM188826
+[193]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM348342
+[194]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM430704
+[195]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323213
+[196]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053661
+[197]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323220
+[198]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM323227
+[199]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053662
+[200]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053663
+[201]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053664
+[202]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM139987
+[203]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM226640
+[204]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM27271
+[205]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM27289
+[206]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28186
+[207]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28802
+[208]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM29406
+[209]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28118
+[210]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM28126
+[211]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053680
+[212]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231794
+[213]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053681
+[214]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053682
+[215]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053684
+[216]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053685
+[217]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053686
+[218]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053689
+[219]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053690
+[220]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231793
+[221]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM298476
+[222]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2651100
+[223]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2478100
+[224]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM4090503
+[225]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3005143
+[226]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053694
+[227]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998516
+[228]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998515
+[229]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998532
+[230]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[231]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3149922
+[232]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053600
