@@ -2700,7 +2700,7 @@ Enacting statement: omit ""section 157E"" and substitute ""section 76"".
 
 Enacting statement: omit ""section 157F"" and substitute ""section 8"".
 
-New regulation 2A: insert after [regulation 1][319]:
+New regulation 2A: insert after [regulation 2][319]:
 
 > ##### "2A Interpretation
 >     
@@ -3096,7 +3096,7 @@ Paragraph (g) of the definition of _licensee obligation_ in [section 4(1)][306]:
 [316]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031975
 [317]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031979
 [318]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031981
-[319]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3245410
+[319]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3245411
 [320]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090503
 [321]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090590
 [322]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090999
