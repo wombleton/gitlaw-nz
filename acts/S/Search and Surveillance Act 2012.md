@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2014
+as at 11 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2362,7 +2362,7 @@ Enforcement officers' powers and orders
     
     *   (f) that an enforcement officer carrying out the activities authorised by the warrant may use any assistance that is reasonable in the circumstances:
     
-    *   (g) that an enforcement officer who, while carrying out the activities authorised by the warrant, obtains the content of a telecommunication may direct the relevant network operator to provide call associated data (as defined in [section 3(1)][609] of the Telecommunications (Interception Capability) Act 2004) that is---
+    *   (g) that an enforcement officer who, while carrying out the activities authorised by the warrant, obtains the content of a telecommunication may direct the relevant network operator to provide call associated data (as defined in [section 3(1)][609] of the Telecommunications (Interception Capability and Security) Act 2013) that is---
             
         *   (i) a document within the meaning of [section 70][105]; and
         
@@ -2383,6 +2383,8 @@ Enforcement officers' powers and orders
     (4) Despite subsection (3)(d) and (e), if the Judge has not been provided in the application, or otherwise, with the information specified in those provisions because the applicant is unable to provide it, the warrant must instead state the details (as provided under [section 52(2)][78] or otherwise) of the circumstances in which the surveillance is to be undertaken in enough detail to identify the parameters of, and objectives to be achieved by, the use of the surveillance device.
     
     (5) Despite subsection (1)(c), a Judge may issue a further surveillance device warrant in respect of the same suspected offence in regard to which the Judge, or another Judge, has previously issued a surveillance device warrant.
+    
+    Section 55(3)(g): amended, on 11 May 2014, by [section 123][610] of the Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91).
 
 #### Carrying out authorised surveillance activities and evidential material relevant to other offences
 
@@ -2648,9 +2650,11 @@ Enforcement officers' powers and orders
     
 *   In this subpart,---
     
-    _call associated data_ and _network operator_ have the same meanings as in [section 3(1)][609] of the Telecommunications (Interception Capability) Act 2004
+    _call associated data_ and _network operator_ have the same meanings as in [section 3(1)][609] of the Telecommunications (Interception Capability and Security) Act 2013
     
     _document_ includes call associated data and the content of telecommunications in respect of which, at the time an application is made under [section 71][106] for a production order against a network operator, the network operator has storage capability for, and stores in the normal course of its business, that data and content.
+    
+    Section 70 **call associated data** and **network operator**: amended, on 11 May 2014, by [section 123][610] of the Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91).
 
 ##### 71 Enforcement officer may apply for production order
     
@@ -2772,9 +2776,9 @@ Enforcement officers' powers and orders
 
 ##### 81 Searches of persons, places, and vehicles relating to deliveries under section 12 of Misuse of Drugs Amendment Act 1978
     
-*   (1) In the circumstances set out in subsection (2), a constable or a Customs officer may, during the course of a delivery in relation to which a Customs officer has exercised his or her powers under [section 12][610] of the Misuse of Drugs Amendment Act 1978, do any or all of the following without a warrant:
+*   (1) In the circumstances set out in subsection (2), a constable or a Customs officer may, during the course of a delivery in relation to which a Customs officer has exercised his or her powers under [section 12][611] of the Misuse of Drugs Amendment Act 1978, do any or all of the following without a warrant:
         
-    *   (a) search a person involved in a delivery under [section 12][610] of the Misuse of Drugs Amendment Act 1978:
+    *   (a) search a person involved in a delivery under [section 12][611] of the Misuse of Drugs Amendment Act 1978:
     
     *   (b) enter and search any place, craft, or vehicle:
     
@@ -2788,7 +2792,7 @@ Enforcement officers' powers and orders
     
     *   (c) a package in relation to which the Customs officer has replaced all or a portion of any controlled drug or precursor substance:
     
-    *   (d) evidential material in relation to the commission of an offence under [section 6(1)(a)][587] or [12AB][611] of the Misuse of Drugs Act 1975\.
+    *   (d) evidential material in relation to the commission of an offence under [section 6(1)(a)][587] or [12AB][612] of the Misuse of Drugs Act 1975\.
     
     
 
@@ -2798,9 +2802,9 @@ Enforcement officers' powers and orders
     
 *   This subpart applies to any person who has exercised a power of arrest or detention, or both, by or under this Act or any other enactment, other than---
         
-    *   (a) the [Armed Forces Discipline Act 1971][612]; or
+    *   (a) the [Armed Forces Discipline Act 1971][613]; or
     
-    *   (b) the [Defence Act 1990][613]; or
+    *   (b) the [Defence Act 1990][614]; or
     
     *   (c) any regulations made under either of those Acts.
     
@@ -3091,7 +3095,7 @@ General provisions in relation to search, surveillance, and inspection powers
         
     *   (a) the date of completion of any proceedings in respect of which the validity of the warrant may be in issue:
     
-    *   (b) the date of destruction or transfer of the warrant and other documents under the [Public Records Act 2005][614] or any other enactment or rule of law.
+    *   (b) the date of destruction or transfer of the warrant and other documents under the [Public Records Act 2005][615] or any other enactment or rule of law.
     
     
 
@@ -3231,7 +3235,7 @@ General provisions in relation to search, surveillance, and inspection powers
     
     *   (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
     
-    (2) If a warrant is invalid under this section, neither [section 204][615] of the Summary Proceedings Act 1957 nor [section 379][616] of the Criminal Procedure Act 2011 applies to that warrant.
+    (2) If a warrant is invalid under this section, neither [section 204][616] of the Summary Proceedings Act 1957 nor [section 379][617] of the Criminal Procedure Act 2011 applies to that warrant.
 
 ##### 108 Authorisation of issuing officers
     
@@ -3835,23 +3839,23 @@ General provisions in relation to search, surveillance, and inspection powers
     
 *   (1) The following privileges are recognised for the purposes of this subpart:
         
-    *   (a) legal professional privilege, to the extent that (under [section 53(5)][617] of the Evidence Act 2006) it forms part of the general law:
+    *   (a) legal professional privilege, to the extent that (under [section 53(5)][618] of the Evidence Act 2006) it forms part of the general law:
     
-    *   (b) privilege for communications with legal advisers (as described in [section 54][618] of the Evidence Act 2006):
+    *   (b) privilege for communications with legal advisers (as described in [section 54][619] of the Evidence Act 2006):
     
-    *   (c) privilege for preparatory materials for proceedings (as described in [section 56][619] of the Evidence Act 2006):
+    *   (c) privilege for preparatory materials for proceedings (as described in [section 56][620] of the Evidence Act 2006):
     
-    *   (d) privilege for settlement negotiations or mediation (as described in [section 57][620] of the Evidence Act 2006):
+    *   (d) privilege for settlement negotiations or mediation (as described in [section 57][621] of the Evidence Act 2006):
     
-    *   (e) privilege for communications with ministers of religion (as described in [section 58][621] of the Evidence Act 2006):
+    *   (e) privilege for communications with ministers of religion (as described in [section 58][622] of the Evidence Act 2006):
     
-    *   (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in [section 59][622] of the Evidence Act 2006):
+    *   (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in [section 59][623] of the Evidence Act 2006):
     
-    *   (g) to the extent provided in [section 138][199], and only to that extent, any privilege against self-incrimination (as described in [section 60][623] of the Evidence Act 2006):
+    *   (g) to the extent provided in [section 138][199], and only to that extent, any privilege against self-incrimination (as described in [section 60][624] of the Evidence Act 2006):
     
-    *   (h) privilege for informers (as described in [section 64][624] of the Evidence Act 2006):
+    *   (h) privilege for informers (as described in [section 64][625] of the Evidence Act 2006):
     
-    *   (i) the rights conferred on a journalist under [section 68][625] of the Evidence Act 2006 to protect certain sources.
+    *   (i) the rights conferred on a journalist under [section 68][626] of the Evidence Act 2006 to protect certain sources.
     
     (2) For the purposes of this subpart, no privilege applies in respect of any communication or information if there is a prima facie case that the communication or information is made or received, or compiled or prepared,---
         
@@ -3871,17 +3875,17 @@ General provisions in relation to search, surveillance, and inspection powers
     
 *   (1) Subsection (2) applies to documents that are books of account or accounting records kept---
         
-    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][626] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][627] of the Lawyers and Conveyancers Act 2006; or
     
     *   (b) by a nominee company that---
             
-        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society under [section 96][627] of the Lawyers and Conveyancers Act 2006; and
+        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society under [section 96][628] of the Lawyers and Conveyancers Act 2006; and
         
         *   (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
         
         
     
-    (2) The application by [section 136][196] of this Act of [section 54][618] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
+    (2) The application by [section 136][196] of this Act of [section 54][619] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
         
     *   (a) the making of a production order, issuing of a search warrant, or exercise of any other search power in respect of a document to which this subsection applies; or
     
@@ -3895,15 +3899,15 @@ General provisions in relation to search, surveillance, and inspection powers
 
 ##### 138 Privilege against self-incrimination
     
-*   (1) An examination order or a production order does not affect the privilege against self-incrimination that an individual may have under [section 60][623] of the Evidence Act 2006\.
+*   (1) An examination order or a production order does not affect the privilege against self-incrimination that an individual may have under [section 60][624] of the Evidence Act 2006\.
     
-    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][623] of the Evidence Act 2006\.
+    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][624] of the Evidence Act 2006\.
     
-    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][623] of the Evidence Act 2006, the Commissioner or other enforcement officer concerned may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid.
+    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][624] of the Evidence Act 2006, the Commissioner or other enforcement officer concerned may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid.
     
     (4) For the purposes of determining any application referred to in subsection (3), the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination is reasonably likely if the individual produced the information or the document or answered the question.
     
-    (5) [Section 63][628] of the Evidence Act 2006 does not apply to an examination order or to a production order.
+    (5) [Section 63][629] of the Evidence Act 2006 does not apply to an examination order or to a production order.
 
 ##### 139 Other privileges
     
@@ -3913,7 +3917,7 @@ General provisions in relation to search, surveillance, and inspection powers
     
     (3) For the purpose of determining any application, the Judge of the appropriate court may require the information or document to be produced to him or her.
     
-    (4) A Judge of the appropriate court must, on the application of the Commissioner or other enforcement officer, disallow a privilege claim under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][629] of the Evidence Act 2006, be disallowed in a proceeding.
+    (4) A Judge of the appropriate court must, on the application of the Commissioner or other enforcement officer, disallow a privilege claim under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][630] of the Evidence Act 2006, be disallowed in a proceeding.
 
 #### Surveillance
 
@@ -4411,7 +4415,7 @@ General provisions in relation to search, surveillance, and inspection powers
         
     *   (a) a rub-down search of a person under [section 85][122] or [88][125] that is undertaken in conjunction with that person's arrest or detention under any enactment:
     
-    *   (b) any search of a person in lawful custody carried out under [section 11][630] or under the Corrections Act 2004:
+    *   (b) any search of a person in lawful custody carried out under [section 11][631] or under the Corrections Act 2004:
     
     *   (c) the exercise of any power of entry that does not also confer a power of search:
     
@@ -4421,7 +4425,7 @@ General provisions in relation to search, surveillance, and inspection powers
 
 ##### 170 Annual reporting of search and surveillance powers by Commissioner
     
-*   (1) The Commissioner must include in every annual report prepared by him or her for the purposes of [section 39][631] of the Public Finance Act 1989---
+*   (1) The Commissioner must include in every annual report prepared by him or her for the purposes of [section 39][632] of the Public Finance Act 1989---
         
     *   (a) the number of occasions on which entry or search powers under [Part 2][7] or [3][67] of this Act were exercised without a warrant in the period covered by the report:
     
@@ -4445,7 +4449,7 @@ General provisions in relation to search, surveillance, and inspection powers
         
     *   (a) a rub-down search of a person under [section 85][122] or [88][125] that is undertaken in conjunction with that person's arrest or detention under any enactment:
     
-    *   (b) any search of a person in lawful custody undertaken under [section 11][630] or under the Corrections Act 2004:
+    *   (b) any search of a person in lawful custody undertaken under [section 11][631] or under the Corrections Act 2004:
     
     *   (c) the exercise of any power of entry that does not also confer a power of search:
     
@@ -4465,7 +4469,7 @@ General provisions in relation to search, surveillance, and inspection powers
 
 ##### 171 Annual reporting of search and surveillance powers by agencies other than Police
     
-*   (1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in [column 2 of the Schedule][547] must include in every annual report prepared by the chief executive for the purposes of [section 39][631] of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,---
+*   (1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in [column 2 of the Schedule][547] must include in every annual report prepared by the chief executive for the purposes of [section 39][632] of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,---
         
     *   (a) the number of occasions on which entry or search powers were exercised without a warrant in the period covered by the report:
     
@@ -4487,7 +4491,7 @@ General provisions in relation to search, surveillance, and inspection powers
         
     *   (a) a rub-down search of a person that is undertaken in conjunction with that person's arrest or detention under any enactment:
     
-    *   (b) any search of a person in lawful custody undertaken under [section 11][630] or under the Corrections Act 2004:
+    *   (b) any search of a person in lawful custody undertaken under [section 11][631] or under the Corrections Act 2004:
     
     *   (c) the exercise of any power of entry that does not also confer a power of search:
     
@@ -4693,7 +4697,7 @@ General provisions in relation to search, surveillance, and inspection powers
     
     (5) This section is subject to any other section of this Act that makes different provision for the service of orders or notices.
     
-    Compare: 1990 No 51 [s 52][632]
+    Compare: 1990 No 51 [s 52][633]
 
 ## Part 5  
 Amendments, repeals, and miscellaneous provisions
@@ -4704,11 +4708,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 182 Amendments to Agricultural Compounds and Veterinary Medicines Act 1997
     
-*   [Sections 183 to 186][256] amend the [Agricultural Compounds and Veterinary Medicines Act 1997][633].
+*   [Sections 183 to 186][256] amend the [Agricultural Compounds and Veterinary Medicines Act 1997][634].
 
 ##### 183 Powers of entry for inspection
     
-*   [Section 64][634] is amended by repealing subsections (3) and (4) and substituting the following subsection:
+*   [Section 64][635] is amended by repealing subsections (3) and (4) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118 and 119, and subpart 8) apply."
     > 
@@ -4718,21 +4722,21 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 184 Issue of search warrants
     
-*   (1) [Section 69(1)][635] is amended by---
+*   (1) [Section 69(1)][636] is amended by---
         
     *   (a) omitting ""Any District Court Judge or Justice of the Peace or any Registrar who is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) omitting ""in the form set out in Schedule 1"".
     
-    (2) [Section 69(1)][635] is amended by inserting the following paragraph after paragraph (b):
+    (2) [Section 69(1)][636] is amended by inserting the following paragraph after paragraph (b):
     
     > *   "(ba) any trade name product or agricultural compound manufactured or imported in breach of the provisions of this Act:".
     > 
     > 
     
-    (3) [Section 69(1)(c)][635] is amended by omitting ""paragraph (a) or paragraph (b)"" and substituting ""paragraph (a), (b), or (ba)"".
+    (3) [Section 69(1)(c)][636] is amended by omitting ""paragraph (a) or paragraph (b)"" and substituting ""paragraph (a), (b), or (ba)"".
     
-    (4) [Section 69][636] is amended by repealing subsections (2) to (4) and substituting the following subsections:
+    (4) [Section 69][637] is amended by repealing subsections (2) to (4) and substituting the following subsections:
     
     > *   "(2) Subject to subsection (3) and section 70, the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -4744,7 +4748,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 185 Powers of entry with warrant
     
-*   [Section 70][637] is amended by repealing subsections (1) to (4) and substituting the following subsection:
+*   [Section 70][638] is amended by repealing subsections (1) to (4) and substituting the following subsection:
     
     > *   "(1) Without limiting the powers conferred by any warrant issued under section 69(1), and subject to any conditions imposed by the issuing officer, every warrant issued under that section authorises the constable or the ACVM officer who is executing it, and any person called on by that constable or ACVM officer to assist, to seize and detain any trade name product or agricultural compound that---
     >         
@@ -4760,17 +4764,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 186 Disposal of property seized
     
-*   (1) [Section 71(1)][638] is repealed and the following subsection substituted:
+*   (1) [Section 71(1)][639] is repealed and the following subsection substituted:
     
     > *   "(1) Subject to subsection (3), subparts 1, 5, 6, 7, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by any constable under a search warrant issued under section 69 and, with the necessary modifications, in respect of any property seized by any ACVM officer under such a warrant."
     > 
     > 
     
-    (2) [Section 71(2)][638] is repealed.
+    (2) [Section 71(2)][639] is repealed.
     
-    (3) [Section 71(3)][638] is amended by omitting ""70(1)(f)(ii)"" and substituting ""70(1)"".
+    (3) [Section 71(3)][639] is amended by omitting ""70(1)(f)(ii)"" and substituting ""70(1)"".
     
-    (4) [Section 71][638] is amended by adding the following subsection:
+    (4) [Section 71][639] is amended by adding the following subsection:
     
     > *   "(4) If any person is convicted of an offence to which the seized property relates, the court may, if it thinks fit, order that the item be disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General."
     > 
@@ -4780,29 +4784,29 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 187 Section 84 repealed
     
-*   [Section 84][639] is repealed.
+*   [Section 84][640] is repealed.
 
 ##### 188 Schedule 1 repealed
     
-*   [Schedule 1][640] is repealed.
+*   [Schedule 1][641] is repealed.
 
 #### Amendments to Animal Products Act 1999
 
 ##### 189 Amendments to Animal Products Act 1999
     
-*   [Sections 190 to 193][264] amend the [Animal Products Act 1999][641].
+*   [Sections 190 to 193][264] amend the [Animal Products Act 1999][642].
 
 ##### 190 Power of entry
     
-*   (1) [Section 87(1)][642] is amended by omitting ""at any reasonable time"".
+*   (1) [Section 87(1)][643] is amended by omitting ""at any reasonable time"".
     
-    (2) [Section 87(2)][642] is amended by omitting "", at any reasonable time,"".
+    (2) [Section 87(2)][643] is amended by omitting "", at any reasonable time,"".
     
-    (3) [Section 87][642] is amended by repealing subsection (3).
+    (3) [Section 87][643] is amended by repealing subsection (3).
     
-    (4) [Section 87(4)][642] is amended by omitting "", at any time that is reasonable in the circumstances"".
+    (4) [Section 87(4)][643] is amended by omitting "", at any time that is reasonable in the circumstances"".
     
-    (5) [Section 87][642] is amended by repealing subsections (5) and (6) and substituting the following subsection:
+    (5) [Section 87][643] is amended by repealing subsections (5) and (6) and substituting the following subsection:
     
     > *   "(5) The provisions of subparts 1, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply."
     > 
@@ -4812,17 +4816,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 191 Power to examine, etc
     
-*   (1) [Section 88][643] is amended by repealing subsection (2) and substituting the following subsection:
+*   (1) [Section 88][644] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)(a) or (b)."
     > 
     > 
     
-    (2) [Section 88(3)][643] is amended by inserting ""(other than under subsection (1)(a) or (b))"" after ""this section"".
+    (2) [Section 88(3)][644] is amended by inserting ""(other than under subsection (1)(a) or (b))"" after ""this section"".
 
 ##### 192 New section 91A inserted
     
-*   The following section is inserted after [section 91][644]:
+*   The following section is inserted after [section 91][645]:
     
     > ##### "91A Disposal of seized animals prior to commencement or determination of proceedings
     >     
@@ -4896,15 +4900,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 193 Other amendments to Animal Products Act 1999
     
-*   (1) [Section 92][645] is repealed.
+*   (1) [Section 92][646] is repealed.
     
-    (2) [Section 94(1)][646] is amended by---
+    (2) [Section 94(1)][647] is amended by---
         
     *   (a) omitting ""Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant in the form set out in the Schedule"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant""; and
     
     *   (b) omitting ""on application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 by an animal product officer or a constable"".
     
-    (3) [Section 94][646] is amended by repealing subsections (2) and (3) and substituting the following subsections:
+    (3) [Section 94][647] is amended by repealing subsections (2) and (3) and substituting the following subsections:
     
     > *   "(2) Subject to section 95, the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -4912,7 +4916,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 95][647] is amended by repealing subsection (1) and substituting the following subsections:
+    (4) [Section 95][648] is amended by repealing subsection (1) and substituting the following subsections:
     
     > *   "(1) Without limiting the powers conferred by any search warrant issued under section 94(1), every warrant issued under that section authorises the constable or animal product officer who is executing it, and any person called on by that constable or officer to assist, to exercise---
     >         
@@ -4926,31 +4930,31 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Section 96][648] is amended by repealing subsections (1) to (3).
+    (5) [Section 96][649] is amended by repealing subsections (1) to (3).
     
-    (6) [Section 97][649] is amended by---
+    (6) [Section 97][650] is amended by---
         
     *   (a) omitting ""Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by an animal product officer"" and substituting ""Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under a search warrant""; and
     
     *   (b) repealing paragraphs (a) to (c).
     
-    (7) The [Schedule][650] is repealed.
+    (7) The [Schedule][651] is repealed.
 
 #### Amendments to Animal Welfare Act 1999
 
 ##### 194 Amendments to Animal Welfare Act 1999
     
-*   [Sections 195 to 198][271] amend the [Animal Welfare Act 1999][651].
+*   [Sections 195 to 198][271] amend the [Animal Welfare Act 1999][652].
 
 ##### 195 Amendments to sections 130 to 136
     
-*   (1) [Section 130(1)(a)][652] is amended by inserting ""(including, if necessary, destroying or arranging for the destruction of the animal)"" after ""animal"".
+*   (1) [Section 130(1)(a)][653] is amended by inserting ""(including, if necessary, destroying or arranging for the destruction of the animal)"" after ""animal"".
     
-    (2) [Section 130(1)(b)][652] is amended by adding ""(including, if necessary, destroying or arranging for the destruction of the animal)"".
+    (2) [Section 130(1)(b)][653] is amended by adding ""(including, if necessary, destroying or arranging for the destruction of the animal)"".
     
-    (3) [Section 131(1)][653] is amended by omitting ""District Court Judge or Justice or Community Magistrate or any Registrar (not being a member of the police) who, on an application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (3) [Section 131(1)][654] is amended by omitting ""District Court Judge or Justice or Community Magistrate or any Registrar (not being a member of the police) who, on an application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (4) [Section 131][653] is amended by repealing subsection (3) and substituting the following subsections:
+    (4) [Section 131][654] is amended by repealing subsection (3) and substituting the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, subject to subsection (4) and sections 133(2) and (4), 136, and 136A.
     > 
@@ -4958,11 +4962,11 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Sections 132][654], [133(1), (3), and (5)][655], [134][656], and [135][656] are repealed.
+    (5) [Sections 132][655], [133(1), (3), and (5)][656], [134][657], and [135][657] are repealed.
     
-    (6) [Section 133(4)][655] is amended by inserting ""(including, if necessary, destroying or arranging for the destruction of the animal)"" after ""suffering of the animal"".
+    (6) [Section 133(4)][656] is amended by inserting ""(including, if necessary, destroying or arranging for the destruction of the animal)"" after ""suffering of the animal"".
     
-    (7) [Section 136][657] is amended by repealing subsection (1) and substituting the following subsection:
+    (7) [Section 136][658] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) Subject to subsections (2) and (3) and section 136A, subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of---
     >         
@@ -4974,17 +4978,17 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (8) [Section 136][657] is amended by repealing subsection (2) and substituting the following subsection:
+    (8) [Section 136][658] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) Despite anything in subpart 6 of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person."
     > 
     > 
     
-    (9) [Section 136(3)][657] is amended by omitting ""section 199(3) of the Summary Proceedings Act 1957"" and substituting ""section 154(2)(c) of the Search and Surveillance Act 2012"".
+    (9) [Section 136(3)][658] is amended by omitting ""section 199(3) of the Summary Proceedings Act 1957"" and substituting ""section 154(2)(c) of the Search and Surveillance Act 2012"".
 
 ##### 196 New section 136A inserted
     
-*   The following section is inserted after [section 136][657]:
+*   The following section is inserted after [section 136][658]:
     
     > ##### "136A Disposal of animals seized or taken into custody prior to commencement or determination of proceedings
     >     
@@ -5060,7 +5064,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 197 Vehicle, aircraft, ship, or animal may be detained
     
-*   (1) [Section 137][658] is amended by repealing subsections (1) and (2) and substituting the following subsection:
+*   (1) [Section 137][659] is amended by repealing subsections (1) and (2) and substituting the following subsection:
     
     > *   "(1) If a constable arrests a person for an offence against section 22(2), 23(1) or (2), or 40(1) and the person is for the time being in charge of a vehicle, an aircraft, or a ship, or an animal, the constable may---
     >         
@@ -5078,11 +5082,11 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (2) [Section 137(3)][658] is amended by omitting ""subsections (1) and (2)"" and substituting ""subsection (1)"".
+    (2) [Section 137(3)][659] is amended by omitting ""subsections (1) and (2)"" and substituting ""subsection (1)"".
 
 ##### 198 Power of court to order that certain animals be forfeited to the Crown or approved organisation
     
-*   [Section 172][659] is amended by repealing subsections (1) and (1A) and substituting the following subsection:
+*   [Section 172][660] is amended by repealing subsections (1) and (1A) and substituting the following subsection:
     
     > *   "(1) The court convicting a person (the _offender_) of an offence against this Act in respect of an animal or animals may (in addition to or in substitution for any other penalty),---
     >         
@@ -5106,11 +5110,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 199 Amendment to Antarctic Marine Living Resources Act 1981
     
-*   (1) This section amends the [Antarctic Marine Living Resources Act 1981][660].
+*   (1) This section amends the [Antarctic Marine Living Resources Act 1981][661].
     
-    (2) [Section 9][661] is amended by repealing subsection (3).
+    (2) [Section 9][662] is amended by repealing subsection (3).
     
-    (3) [Section 9][661] is amended by adding the following subsection:
+    (3) [Section 9][662] is amended by adding the following subsection:
     
     > *   "(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 3 and 8) apply."
     > 
@@ -5122,71 +5126,71 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 200 Amendments to Antarctica (Environmental Protection) Act 1994
     
-*   (1) This section amends the [Antarctica (Environmental Protection) Act 1994][662].
+*   (1) This section amends the [Antarctica (Environmental Protection) Act 1994][663].
     
-    (2) [Section 42(1)][663] is amended by---
+    (2) [Section 42(1)][664] is amended by---
         
     *   (a) omitting ""a District Court Judge, a duly authorised Justice, a Community Magistrate, or a Registrar (not being a member of the Police), who, on application made"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting "", unconditionally or subject to conditions, a warrant authorising the entry and search of the area, at any time on one occasion within 14 days of the issue of the warrant (or within such further time as may be specified in the warrant)"" and substituting ""a warrant authorising the entry and search of the area"".
     
-    (3) [Section 42][663] is amended by repealing subsections (2) to (4) and substituting the following subsection:
+    (3) [Section 42][664] is amended by repealing subsections (2) to (4) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (4) [Section 43][664] is amended by inserting the following subsection after subsection (1):
+    (4) [Section 43][665] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 2 and 3) apply."
     > 
     > 
     
-    (5) [Section 44][665] is amended by omitting ""any of sections 41 to 43"" and substituting ""section 41"".
+    (5) [Section 44][666] is amended by omitting ""any of sections 41 to 43"" and substituting ""section 41"".
 
 #### Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009
 
 ##### 201 Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009
     
-*   (1) This section amends the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][666].
+*   (1) This section amends the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][667].
     
-    (2) [Section 114(4)(c)][667] is amended by omitting ""149C(1) and (2), and 149D"" and substituting ""and 149C(1)"".
+    (2) [Section 114(4)(c)][668] is amended by omitting ""149C(1) and (2), and 149D"" and substituting ""and 149C(1)"".
     
-    (3) [Section 117][668] is amended by repealing subsection (2) and substituting the following subsection:
+    (3) [Section 117][669] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The application must be made by an enforcement officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (4) [Section 117(3)][668] is amended by omitting ""A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+    (4) [Section 117(3)][669] is amended by omitting ""A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (5) [Section 117][668] is amended by repealing subsections (4), (5), and (6) and substituting the following subsection:
+    (5) [Section 117][669] is amended by repealing subsections (4), (5), and (6) and substituting the following subsection:
     
     > *   "(4) The provisions of subparts 1, 3, and 9 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (6) [Section 118(1)][669] is amended by repealing paragraphs (a), (b), and (e).
+    (6) [Section 118(1)][670] is amended by repealing paragraphs (a), (b), and (e).
     
-    (7) [Section 118(1)(c)][669] is amended by omitting ""and seize"".
+    (7) [Section 118(1)(c)][670] is amended by omitting ""and seize"".
     
-    (8) [Section 118(3)][669] is repealed and the following subsection substituted: 
+    (8) [Section 118(3)][670] is repealed and the following subsection substituted: 
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118, 119, and 130) apply."
     > 
     > 
     
-    (9) [Sections 119 to 122][670], [125 to 128][671], and [129][672] are repealed.
+    (9) [Sections 119 to 122][671], [125 to 128][672], and [129][673] are repealed.
 
 #### Amendments to Aviation Crimes Act 1972
 
 ##### 202 Amendments to Aviation Crimes Act 1972
     
-*   (1) This section amends the [Aviation Crimes Act 1972][673].
+*   (1) This section amends the [Aviation Crimes Act 1972][674].
     
-    (2) [Section 13(1)(b)][674] is amended by adding ""and that a search of the first-mentioned person will disclose evidential material about that offence,"".
+    (2) [Section 13(1)(b)][675] is amended by adding ""and that a search of the first-mentioned person will disclose evidential material about that offence,"".
     
-    (3) [Section 13][674] is amended by repealing subsections (3) and (4) and substituting the following subsection:
+    (3) [Section 13][675] is amended by repealing subsections (3) and (4) and substituting the following subsection:
     
     > *   "(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply."
     > 
@@ -5198,35 +5202,35 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 203 Amendments to Biosecurity Act 1993
     
-*   (1) This section amends the [Biosecurity Act 1993][675].
+*   (1) This section amends the [Biosecurity Act 1993][676].
     
-    (2) [Section 110][676] is amended by repealing subsection (1) and substituting the following subsection:
+    (2) [Section 110][677] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application."
     > 
     > 
     
-    (3) [Section 110(2)][676] is amended by omitting ""Judge, Justice, Magistrate, or Registrar"" and substituting ""issuing officer"".
+    (3) [Section 110(2)][677] is amended by omitting ""Judge, Justice, Magistrate, or Registrar"" and substituting ""issuing officer"".
     
-    (4) [Section 110][676] is amended by adding the following subsection:
+    (4) [Section 110][677] is amended by adding the following subsection:
     
     > *   "(4) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (5) [Section 111(1)][677] is amended by omitting ""a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the Police), who, on the written application (made on oath) of"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by subpart 3 of Part 4 of that Act) by"".
+    (5) [Section 111(1)][678] is amended by omitting ""a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the Police), who, on the written application (made on oath) of"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by subpart 3 of Part 4 of that Act) by"".
     
-    (6) [Section 111][677] is amended by adding the following subsection:
+    (6) [Section 111][678] is amended by adding the following subsection:
     
     > *   "(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply."
     > 
     > 
     
-    (7) [Section 112(1)(a)(ii)][678] is amended by inserting ""or copy of the warrant"" after ""warrant"" in each place where it appears.
+    (7) [Section 112(1)(a)(ii)][679] is amended by inserting ""or copy of the warrant"" after ""warrant"" in each place where it appears.
     
-    (8) [Section 118(2)][679] is amended by omitting ""Section 199 of the Summary Proceedings Act 1957"" and substituting ""Subpart 6 of Part 4 of the Search and Surveillance Act 2012"".
+    (8) [Section 118(2)][680] is amended by omitting ""Section 199 of the Summary Proceedings Act 1957"" and substituting ""Subpart 6 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (9) [Section 118][679] is amended by adding the following subsection:
+    (9) [Section 118][680] is amended by adding the following subsection:
     
     > *   "(3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -5238,11 +5242,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 204 Amendment to Boxing and Wrestling Act 1981
     
-*   [Section 205][288] amends the [Boxing and Wrestling Act 1981][680].
+*   [Section 205][288] amends the [Boxing and Wrestling Act 1981][681].
 
 ##### 205 New section 9 substituted
     
-*   [Section 9][681] is repealed and the following section substituted:
+*   [Section 9][682] is repealed and the following section substituted:
     
     > ##### "9 Search warrants
     >     
@@ -5262,25 +5266,25 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 207 Amendments to Parts 1 to 9 of Children, Young Persons, and Their Families Act 1989
     
-*   (1) [Section 39(1)][682] is amended by omitting ""any Justice or any Community Magistrate or any Registrar (not being a member of the police), who, on application in writing made on oath"" and substituting ""any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act"".
+*   (1) [Section 39(1)][683] is amended by omitting ""any Justice or any Community Magistrate or any Registrar (not being a member of the police), who, on application in writing made on oath"" and substituting ""any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act"".
     
-    (2) [Section 40(1)][683] is amended by omitting ""any Justice or any Community Magistrate or any Registrar (not being a member of the police), may, on application in writing made on oath"" and substituting ""any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application in writing verified in accordance with section 99 of that Act"".
+    (2) [Section 40(1)][684] is amended by omitting ""any Justice or any Community Magistrate or any Registrar (not being a member of the police), may, on application in writing made on oath"" and substituting ""any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application in writing verified in accordance with section 99 of that Act"".
     
-    (3) [Section 386(1)][684] is amended by omitting ""Any Judge or Justice or Community Magistrate or any Registrar (not being a member of the police) who, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act"".
+    (3) [Section 386(1)][685] is amended by omitting ""Any Judge or Justice or Community Magistrate or any Registrar (not being a member of the police) who, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act"".
 
 ##### 208 Amendments to Part 10 of Children, Young Persons, and Their Families Act 1989
     
-*   (1) [Section 445A][685] is amended by---
+*   (1) [Section 445A][686] is amended by---
         
     *   (a) omitting ""section 39 or section 40 or""; and
     
     *   (b) omitting ""or section 386 of this Act"".
     
-    (2) [Section 445B(2)][686] is amended by omitting ""section 39, 40, 122, 157(2), 205(2)(b), 296C, or 386"" and substituting ""section 122, 157(2), 205(2)(b), or 296C"".
+    (2) [Section 445B(2)][687] is amended by omitting ""section 39, 40, 122, 157(2), 205(2)(b), 296C, or 386"" and substituting ""section 122, 157(2), 205(2)(b), or 296C"".
 
 ##### 209 New section 445D inserted
     
-*   The following section is inserted after [section 445C][687]:
+*   The following section is inserted after [section 445C][688]:
     
     > ##### "445D Certain provisions of Search and Surveillance Act 2012 apply to some warrants
     >     
@@ -5294,11 +5298,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 210 Amendments to Civil Aviation Act 1990
     
-*   (1) This section amends the [Civil Aviation Act 1990][688].
+*   (1) This section amends the [Civil Aviation Act 1990][689].
     
-    (2) [Section 24(4)][689] is amended by omitting ""a judicial officer on written application on oath, which shall not be granted unless the judicial officer"" and substituting ""an issuing officer on application in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, which must not be granted unless the issuing officer"".
+    (2) [Section 24(4)][690] is amended by omitting ""a judicial officer on written application on oath, which shall not be granted unless the judicial officer"" and substituting ""an issuing officer on application in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, which must not be granted unless the issuing officer"".
     
-    (3) [Section 24][689] is amended by repealing subsection (5) and substituting the following subsections:
+    (3) [Section 24][690] is amended by repealing subsection (5) and substituting the following subsections:
     
     > *   "(5) Subject to subsections (5A), (6), and (7), subparts 1, 3, 4, 5, 7, 9, and 10 of the Search and Surveillance Act 2012 apply in relation to the issue of a warrant under subsection (4) and its execution.
     > 
@@ -5312,15 +5316,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 211 Amendments to Commodity Levies Act 1990
     
-*   (1) This section amends the [Commodity Levies Act 1990][690].
+*   (1) This section amends the [Commodity Levies Act 1990][691].
     
-    (2) [Section 19(1)][691] is amended by---
+    (2) [Section 19(1)][692] is amended by---
         
     *   (a) omitting ""A District Court Judge, a Justice, a Community Magistrate, or a Court Registrar (not being a constable) who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting ""in the form set out in the Schedule to this Act"".
     
-    (3) [Section 19][691] is amended by repealing subsection (2) and substituting the following subsections:
+    (3) [Section 19][692] is amended by repealing subsection (2) and substituting the following subsections:
     
     > *   "(2) Subject to subsection (2A), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -5328,45 +5332,45 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Sections 20 to 22][692] and the [Schedule][693] are repealed.
+    (4) [Sections 20 to 22][693] and the [Schedule][694] are repealed.
 
 #### Amendments to Conservation Act 1987
 
 ##### 212 Amendments to Conservation Act 1987
     
-*   (1) This section amends the [Conservation Act 1987][694].
+*   (1) This section amends the [Conservation Act 1987][695].
     
-    (2) [Section 40(4A) and (4B)][695] are repealed.
+    (2) [Section 40(4A) and (4B)][696] are repealed.
     
-    (3) [Section 40][695] is amended by adding the following subsection:
+    (3) [Section 40][696] is amended by adding the following subsection:
     
     > *   "(7) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply."
     > 
     > 
     
-    (4) [Section 46][696] is amended by repealing subsections (1), (2), (3), and (4).
+    (4) [Section 46][697] is amended by repealing subsections (1), (2), (3), and (4).
 
 #### Amendments to Criminal Proceeds (Recovery) Act 2009
 
 ##### 213 Amendments to Criminal Proceeds (Recovery) Act 2009
     
-*   [Sections 214 to 219][304] amend the [Criminal Proceeds (Recovery) Act 2009][697].
+*   [Sections 214 to 219][304] amend the [Criminal Proceeds (Recovery) Act 2009][698].
 
 ##### 214 Amendments to sections 59 and 71 of Criminal Proceeds (Recovery) Act 2009
     
-*   (1) [Section 59(3)][698] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
+*   (1) [Section 59(3)][699] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
     
-    (2) [Section 71(3)][699] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
+    (2) [Section 71(3)][700] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
 
 ##### 215 Amendments to sections 101 to 110 of Criminal Proceeds (Recovery) Act 2009
     
-*   (1) [Section 101(1)][700] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+*   (1) [Section 101(1)][701] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (2) [Section 102(1)][701] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (2) [Section 102(1)][702] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 104(2)][702] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012"".
+    (3) [Section 104(2)][703] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012"".
     
-    (4) [Section 104][702] is amended by adding the following subsections:
+    (4) [Section 104][703] is amended by adding the following subsections:
     
     > *   "(3) Every person commits an offence who makes an application for a production order that contains any assertion or other statement known by the person to be false.
     > 
@@ -5374,7 +5378,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Section 106(2)][703] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012"".
+    (5) [Section 106(2)][704] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012"".
     
     (6) Section 106 is amended by adding the following subsections:
     
@@ -5384,15 +5388,15 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (7) [Section 108(1)][704] is amended by omitting ""on application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (7) [Section 108(1)][705] is amended by omitting ""on application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (8) [Section 108(2)][704] is amended by omitting ""in the prescribed form"".
+    (8) [Section 108(2)][705] is amended by omitting ""in the prescribed form"".
     
-    (9) [Section 110(1)][705] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (9) [Section 110(1)][706] is amended by omitting ""on an application in writing made on oath"" and substituting ""on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
 
 ##### 216 New section 114 substituted
     
-*   [Section 114][706] is repealed and the following section substituted:
+*   [Section 114][707] is repealed and the following section substituted:
     
     > ##### "114 Application of Part 4 of Search and Surveillance Act 2012
     >     
@@ -5406,11 +5410,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 217 Sections 115 to 122 repealed
     
-*   [Sections 115 to 122][707] are repealed.
+*   [Sections 115 to 122][708] are repealed.
 
 ##### 218 New section 127 substituted
     
-*   [Section 127][708] is repealed and the following section substituted:
+*   [Section 127][709] is repealed and the following section substituted:
     
     > ##### "127 Provisions associated with foreign restraining orders and foreign forfeiture orders
     >     
@@ -5422,17 +5426,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 219 Additional matters in respect of registering foreign forfeiture order
     
-*   [Section 146(3)][709] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
+*   [Section 146(3)][710] is amended by omitting ""Sections 115 to 122, so far as applicable and with all necessary modifications, apply"" and substituting ""Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies"".
 
 #### Amendments to Customs and Excise Act 1996
 
 ##### 220 Amendments to Customs and Excise Act 1996
     
-*   Sections 221 to 229 amend the [Customs and Excise Act 1996][710].
+*   Sections 221 to 229 amend the [Customs and Excise Act 1996][711].
 
 ##### 221 Amendments to sections 139 to 141 of Customs and Excise Act 1996
     
-*   (1) [Section 139][711] is amended by adding the following subsections:
+*   (1) [Section 139][712] is amended by adding the following subsections:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)(d).
     > 
@@ -5440,9 +5444,9 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (2) [Section 140(2)][712] is amended by omitting ""subsection (1)"" and substituting ""subsection (1)(a) to (c)"".
+    (2) [Section 140(2)][713] is amended by omitting ""subsection (1)"" and substituting ""subsection (1)(a) to (c)"".
     
-    (3) [Section 140][712] is amended by adding the following subsections:
+    (3) [Section 140][713] is amended by adding the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)(d).
     > 
@@ -5450,11 +5454,11 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 141][713] is amended by omitting ""section 139 or section 140"" and substituting ""section 139(1)(a) to (c) or 140(1)(a) to (c)"".
+    (4) [Section 141][714] is amended by omitting ""section 139 or section 140"" and substituting ""section 139(1)(a) to (c) or 140(1)(a) to (c)"".
 
 ##### 222 Searching vehicles
     
-*   [Section 144][714] is amended by adding the following subsections:
+*   [Section 144][715] is amended by adding the following subsections:
     
     > *   "(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) apply in respect of a search undertaken under this section.
     > 
@@ -5466,11 +5470,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 223 Amendments to sections 149A to 149D of Customs and Excise Act 1996
     
-*   (1) [Section 149A(3)][715] is amended by omitting ""149D"" and substituting ""149C"".
+*   (1) [Section 149A(3)][716] is amended by omitting ""149D"" and substituting ""149C"".
     
-    (2) [Section 149B(4) to (6)][716] are repealed.
+    (2) [Section 149B(4) to (6)][717] are repealed.
     
-    (3) [Section 149B][716] is amended by adding the following subsections:
+    (3) [Section 149B][717] is amended by adding the following subsections:
     
     > *   "(8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
     > 
@@ -5478,11 +5482,11 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 149BA(1)][717] is amended by omitting ""believe"" and substituting ""suspect"".
+    (4) [Section 149BA(1)][718] is amended by omitting ""believe"" and substituting ""suspect"".
     
-    (5) [Section 149BA(3)][717] is repealed.
+    (5) [Section 149BA(3)][718] is repealed.
     
-    (6) [Section 149BA][717] is amended by repealing subsection (5) and substituting the following subsections:
+    (6) [Section 149BA][718] is amended by repealing subsection (5) and substituting the following subsections:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
     > 
@@ -5490,7 +5494,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (7) [Section 149C][718] is amended by repealing subsection (2) and substituting the following subsections:
+    (7) [Section 149C][719] is amended by repealing subsection (2) and substituting the following subsections:
     
     > *   "(2) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
     > 
@@ -5498,11 +5502,11 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (8) [Section 149D][719] is repealed.
+    (8) [Section 149D][720] is repealed.
 
 ##### 224 Examination of goods no longer subject to control of Customs
     
-*   [Section 152][720] is amended by inserting the following subsections after subsection (3):
+*   [Section 152][721] is amended by inserting the following subsections after subsection (3):
     
     > *   "(3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
     > 
@@ -5514,17 +5518,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 225 Amendments to sections 165 to 167 of Customs and Excise Act 1996
     
-*   (1) The heading to [section 165][721] is amended by omitting ""**search**"" and substituting ""**inspection**"".
+*   (1) The heading to [section 165][722] is amended by omitting ""**search**"" and substituting ""**inspection**"".
     
-    (2) [Section 165(1)][721] is amended by omitting ""search,"" in each place where it appears.
+    (2) [Section 165(1)][722] is amended by omitting ""search,"" in each place where it appears.
     
-    (3) The heading to [section 166][722] is amended by omitting ""**search**"" and substituting ""**inspection**"".
+    (3) The heading to [section 166][723] is amended by omitting ""**search**"" and substituting ""**inspection**"".
     
-    (4) [Section 166(1)][722] is amended by omitting ""search,"" in each place where it appears.
+    (4) [Section 166(1)][723] is amended by omitting ""search,"" in each place where it appears.
     
-    (5) [Section 167(1)][723] is amended by omitting ""A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar (not being a constable) may issue a search warrant in the prescribed form if he or she is satisfied, on an application by a Customs officer in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (5) [Section 167(1)][724] is amended by omitting ""A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar (not being a constable) may issue a search warrant in the prescribed form if he or she is satisfied, on an application by a Customs officer in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (6) [Section 167][723] is amended by repealing subsections (2) to (4) and substituting the following subsections:
+    (6) [Section 167][724] is amended by repealing subsections (2) to (4) and substituting the following subsections:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -5536,21 +5540,21 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 226 Amendments to section 172 and repeal of sections 168 to 171, and 173 of Customs and Excise Act 1996
     
-*   (1) [Sections 168 to 171][724] and [173][725] are repealed.
+*   (1) [Sections 168 to 171][725] and [173][726] are repealed.
     
-    (2) [Section 172(1)][726] is amended by inserting ""(other than a power of search to which Part 4 of the Search and Surveillance Act 2012 applies)"" after ""conferred by this Act"".
+    (2) [Section 172(1)][727] is amended by inserting ""(other than a power of search to which Part 4 of the Search and Surveillance Act 2012 applies)"" after ""conferred by this Act"".
     
-    (3) [Section 172(2)][726] is amended by omitting ""or 171"".
+    (3) [Section 172(2)][727] is amended by omitting ""or 171"".
 
 ##### 227 Seizure and detention of goods suspected to be certain risk goods or evidence of commission of certain offences
     
-*   (1) The heading to [section 175C][727] is amended by inserting ""**or documents**"" after ""**of goods**"".
+*   (1) The heading to [section 175C][728] is amended by inserting ""**or documents**"" after ""**of goods**"".
     
-    (2) [Section 175C(1)][727] is amended by inserting ""or documents"" after ""goods"" in the second place where it appears.
+    (2) [Section 175C(1)][728] is amended by inserting ""or documents"" after ""goods"" in the second place where it appears.
     
-    (3) [Section 175C(2) to (4)][727] are amended by inserting ""or documents"" after ""goods"" in each place where it appears.
+    (3) [Section 175C(2) to (4)][728] are amended by inserting ""or documents"" after ""goods"" in each place where it appears.
     
-    (4) [Section 175C][727] is amended by repealing subsection (5) and substituting the following subsection:
+    (4) [Section 175C][728] is amended by repealing subsection (5) and substituting the following subsection:
     
     > *   "(5) Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) applies with any necessary modifications."
     > 
@@ -5560,7 +5564,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 228 New section 175D inserted
     
-*   The following section is inserted after [section 175C][727]:
+*   The following section is inserted after [section 175C][728]:
     
     > ##### "175D Seizure and detention of certain drugs and objectionable publications
     >     
@@ -5596,25 +5600,25 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 229 Amendments to Part 17 of Customs and Excise Act 1996
     
-*   (1) [Section 286(1)(aa)][728] is repealed.
+*   (1) [Section 286(1)(aa)][729] is repealed.
     
-    (2) [Section 305A(1)][729] is amended by omitting ""167, and 171"" and substituting ""and 167"".
+    (2) [Section 305A(1)][730] is amended by omitting ""167, and 171"" and substituting ""and 167"".
 
 #### Amendments to Dairy Industry Restructuring Act 2001
 
 ##### 230 Amendments to Dairy Industry Restructuring Act 2001
     
-*   (1) This section amends the [Dairy Industry Restructuring Act 2001][730].
+*   (1) This section amends the [Dairy Industry Restructuring Act 2001][731].
     
-    (2) [Section 29C][731] is amended by omitting ""29L"" and substituting ""29H"".
+    (2) [Section 29C][732] is amended by omitting ""29L"" and substituting ""29H"".
     
-    (3) [Section 29I(1)][732] is amended by---
+    (3) [Section 29I(1)][733] is amended by---
         
     *   (a) omitting ""A District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant in the form set out in Schedule 5D"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant""; and
     
     *   (b) omitting ""in writing made on oath"" and substituting ""made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (4) [Section 29I][732] is amended by repealing subsections (2) and (3) and substituting the following subsections:
+    (4) [Section 29I][733] is amended by repealing subsections (2) and (3) and substituting the following subsections:
     
     > *   "(2) Subject to section 29L and subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -5622,29 +5626,29 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Sections 29J][733] and [29K][734] are repealed.
+    (5) [Sections 29J][734] and [29K][735] are repealed.
     
-    (6) [Section 29L][735] is amended by---
+    (6) [Section 29L][736] is amended by---
         
     *   (a) omitting ""Section 199 of the Summary Proceedings Act 1957"" and substituting ""Subpart 6 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) repealing paragraphs (a) to (c).
     
-    (7) [Section 145(j)][736] is amended by omitting ""sections 98B to 98G"" and substituting ""section 98G"".
+    (7) [Section 145(j)][737] is amended by omitting ""sections 98B to 98G"" and substituting ""section 98G"".
     
-    (8) [Schedule 5D][737] is repealed.
+    (8) [Schedule 5D][738] is repealed.
 
 #### Amendments to Dog Control Act 1996
 
 ##### 231 Amendments to Dog Control Act 1996
     
-*   [Sections 232][328] and [233][329] amend the [Dog Control Act 1996][738].
+*   [Sections 232][328] and [233][329] amend the [Dog Control Act 1996][739].
 
 ##### 232 Power of entry
     
-*   (1) [Section 14(3)(a)][739] is amended by omitting ""a District Court Judge on written application on oath"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application by a dog control officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+*   (1) [Section 14(3)(a)][740] is amended by omitting ""a District Court Judge on written application on oath"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application by a dog control officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (2) [Section 14][739] is amended by adding the following subsections:
+    (2) [Section 14][740] is amended by adding the following subsections:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 3, 5, and 6) apply.
     > 
@@ -5656,13 +5660,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 233 Other amendments to Dog Control Act 1996
     
-*   (1) [Section 56(3)][740] is amended by omitting paragraph (a) and substituting the following paragraph:
+*   (1) [Section 56(3)][741] is amended by omitting paragraph (a) and substituting the following paragraph:
     
     > *   "(a) he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012; and".
     > 
     > 
     
-    (2) [Section 56][740] is amended by inserting the following subsection after subsection (3):
+    (2) [Section 56][741] is amended by inserting the following subsection after subsection (3):
     
     > *   "(3A) None of the following persons may act as an issuing officer under this section:
     >         
@@ -5674,15 +5678,15 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (3) [Section 56][740] is amended by adding the following subsection:
+    (3) [Section 56][741] is amended by adding the following subsection:
     
     > *   "(5) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (3)."
     > 
     > 
     
-    (4) [Section 57(6)(b)][741] is amended by omitting ""he or she is authorised in writing to do so by a Justice, who must not grant an authority unless the Justice"" and substituting ""he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, who must not issue a warrant unless the issuing officer"".
+    (4) [Section 57(6)(b)][742] is amended by omitting ""he or she is authorised in writing to do so by a Justice, who must not grant an authority unless the Justice"" and substituting ""he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, who must not issue a warrant unless the issuing officer"".
     
-    (5) [Section 57][741] is amended by inserting the following subsections after subsection (6):
+    (5) [Section 57][742] is amended by inserting the following subsections after subsection (6):
     
     > *   "(6A) None of the following persons may act as an issuing officer under this section:
     >         
@@ -5702,11 +5706,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 234 Amendments to Driftnet Prohibition Act 1991
     
-*   [Sections 235 to 238][332] amend the [Driftnet Prohibition Act 1991][742].
+*   [Sections 235 to 238][332] amend the [Driftnet Prohibition Act 1991][743].
 
 ##### 235 Powers of search
     
-*   [Section 13][743] is amended by inserting the following subsection after subsection (3):
+*   [Section 13][744] is amended by inserting the following subsection after subsection (3):
     
     > *   "(3A) The provisions of subparts 1, 4, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -5716,7 +5720,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 236 Powers of seizure
     
-*   [Section 15][744] is amended by adding the following subsection as subsection (2):
+*   [Section 15][745] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) Subject to section 18, subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under this section."
     > 
@@ -5726,21 +5730,21 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 237 Sections 16, 17, and 19 to 22 repealed
     
-*   [Sections 16][745], [17][746], and [19 to 22][747] are repealed.
+*   [Sections 16][746], [17][747], and [19 to 22][748] are repealed.
 
 ##### 238 Section 24 repealed
     
-*   [Section 24][748] is repealed.
+*   [Section 24][749] is repealed.
 
 #### Amendments to Electricity Industry Act 2010
 
 ##### 239 Amendments to Electricity Industry Act 2010
     
-*   (1) This section amends the [Electricity Industry Act 2010][749].
+*   (1) This section amends the [Electricity Industry Act 2010][750].
     
-    (2) [Section 47(2)][750] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act,"". 
+    (2) [Section 47(2)][751] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act,"". 
     
-    (3) [Section 47][750] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 47][751] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply, with any necessary modifications."
     > 
@@ -5750,51 +5754,51 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 239A Amendments to Electronic Identity Verification Act 2012
     
-*   (1) This section amends the [Electronic Identity Verification Act 2012][751].
+*   (1) This section amends the [Electronic Identity Verification Act 2012][752].
     
-    (2) In [section 25][752], replace ""A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the Summary Proceedings Act 1957"" with ""An issuing officer may issue a search warrant under the Search and Surveillance Act 2012"".
+    (2) In [section 25][753], replace ""A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the Summary Proceedings Act 1957"" with ""An issuing officer may issue a search warrant under the Search and Surveillance Act 2012"".
     
-    Section 239A: inserted, on 2 April 2013, by [section 76][753] of the Electronic Identity Verification Act 2012 (2012 No 123).
+    Section 239A: inserted, on 2 April 2013, by [section 76][754] of the Electronic Identity Verification Act 2012 (2012 No 123).
 
 #### Amendments to Extradition Act 1999
 
 ##### 240 Amendments to Extradition Act 1999
     
-*   (1) This section amends the [Extradition Act 1999][754].
+*   (1) This section amends the [Extradition Act 1999][755].
     
-    (2) [Section 82][755] is amended by repealing subsection (3) and substituting the following subsection:
+    (2) [Section 82][756] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) Nothing in this section limits or affects any power under section 11 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (3) [Section 83(2)][756] is amended by omitting ""A District Court Judge who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (3) [Section 83(2)][757] is amended by omitting ""A District Court Judge who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (4) [Section 83][756] is amended by adding the following subsection:
+    (4) [Section 83][757] is amended by adding the following subsection:
     
     > *   "(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply."
     > 
     > 
     
-    (5) [Sections 84 to 88][757] are repealed.
+    (5) [Sections 84 to 88][758] are repealed.
 
 #### Amendments to Films, Videos, and Publications Classification Act 1993
 
 ##### 241 Amendments to Films, Videos, and Publications Classification Act 1993
     
-*   [Sections 242 to 244][343] amend [Part 7][758] of the Films, Videos, and Publications Classification Act 1993\.
+*   [Sections 242 to 244][343] amend [Part 7][759] of the Films, Videos, and Publications Classification Act 1993\.
 
 ##### 242 Amendments to sections 109 to 109B of Films, Videos, and Publications Classification Act 1993
     
-*   (1) [Section 109][759] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Registrar (not being a member of the police) may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application in the manner provided in subpart 3 of Part 4 of that Act"".
+*   (1) [Section 109][760] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Registrar (not being a member of the police) may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (2) [Section 109A(1)][760] is amended by omitting ""A District Court Judge may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (2) [Section 109A(1)][761] is amended by omitting ""A District Court Judge may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (3) [Section 109B][761] is amended by omitting ""A Justice, Community Magistrate, or Registrar (not being a member of the police) may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (3) [Section 109B][762] is amended by omitting ""A Justice, Community Magistrate, or Registrar (not being a member of the police) may, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
 
 ##### 243 New section 110 substituted
     
-*   [Sections 110 to 114][762] are repealed and the following section is substituted:
+*   [Sections 110 to 114][763] are repealed and the following section is substituted:
     
     > ##### "110 Application of Part 4 of Search and Surveillance Act 2012
     >     
@@ -5808,29 +5812,29 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 244 Section 118 repealed
     
-*   [Section 118][763] is repealed.
+*   [Section 118][764] is repealed.
 
 #### Amendments to Financial Markets Authority Act 2011
 
 ##### 245 Amendments to Financial Markets Authority Act 2011
     
-*   (1) This section amends the [Financial Markets Authority Act 2011][764].
+*   (1) This section amends the [Financial Markets Authority Act 2011][765].
     
-    (2) [Section 22(6)][765] is amended by omitting ""clauses 39 and 40 of Schedule 2 (which provide for immunities in respect of entry or search powers)"" and substituting ""sections 165 to 168 of the Search and Surveillance Act 2012 (which provide for immunities in relation to orders and warrants, and entry, search, and surveillance powers)"".
+    (2) [Section 22(6)][766] is amended by omitting ""clauses 39 and 40 of Schedule 2 (which provide for immunities in respect of entry or search powers)"" and substituting ""sections 165 to 168 of the Search and Surveillance Act 2012 (which provide for immunities in relation to orders and warrants, and entry, search, and surveillance powers)"".
     
-    (3) [Section 29(3)][766] is amended by---
+    (3) [Section 29(3)][767] is amended by---
         
     *   (a) omitting ""A Judge of the High Court or a District Court Judge may issue a search warrant in relation to a place, vehicle, or other thing, on application"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or thing, on an application made in the manner provided by subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting ""the Judge"" and substituting ""the issuing officer"".
     
-    (4) [Section 29(3)(b)][766] is amended by omitting ""specified in the application"".
+    (4) [Section 29(3)(b)][767] is amended by omitting ""specified in the application"".
     
-    (5) [Section 29(4)][766] is amended by omitting ""and Schedule 2"".
+    (5) [Section 29(4)][767] is amended by omitting ""and Schedule 2"".
     
-    (6) The definitions of _evidential material_, **thing**, and **vehicle** in[section 29(4)][766] are repealed.
+    (6) The definitions of _evidential material_, **thing**, and **vehicle** in[section 29(4)][767] are repealed.
     
-    (7) [Section 29][766] is amended by repealing subsection (5) and substituting the following subsection:
+    (7) [Section 29][767] is amended by repealing subsection (5) and substituting the following subsection:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply, with any necessary modifications."
     > 
@@ -5842,9 +5846,9 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 246 Amendments to Financial Transactions Reporting Act 1996
     
-*   (1) This section amends the [Financial Transactions Reporting Act 1996][767].
+*   (1) This section amends the [Financial Transactions Reporting Act 1996][768].
     
-    (2) [Section 44][768] is amended by omitting ""Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a member of the Police), who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (2) [Section 44][769] is amended by omitting ""Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a member of the Police), who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
     (3) Section 44 is amended by adding the following subsection as subsection (2):
     
@@ -5852,17 +5856,17 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Sections 45 to 51][769] are repealed.
+    (4) [Sections 45 to 51][770] are repealed.
 
 #### Amendments to Fisheries Act 1996
 
 ##### 247 Amendments to Fisheries Act 1996
     
-*   [Sections 248 to 252][353] amend the [Fisheries Act 1996][770].
+*   [Sections 248 to 252][353] amend the [Fisheries Act 1996][771].
 
 ##### 248 New sections 199 and 199A substituted
     
-*   [Section 199][771] is repealed and the following sections are substituted:
+*   [Section 199][772] is repealed and the following sections are substituted:
     
     > ##### "199 Powers of entry and examination for regulatory purposes
     >     
@@ -5944,31 +5948,31 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 250 Amendments to sections 200 to 207 of Fisheries Act 1996
     
-*   (1) [Section 200(1)][772] is amended by omitting ""a Justice, Community Magistrate, District Court Judge, or Registrar of a District Court"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+*   (1) [Section 200(1)][773] is amended by omitting ""a Justice, Community Magistrate, District Court Judge, or Registrar of a District Court"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (2) [Section 200][772] is amended by repealing subsection (2) and substituting the following subsection:
+    (2) [Section 200][773] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) An application for authorisation must be made by a fishery officer in the manner provided for an application for a search warrant under subpart 3 of Part 4 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (3) [Section 200(3)][772] is amended by omitting ""A Justice, Community Magistrate, District Court Judge, or Registrar of a District Court"" and substituting ""An issuing officer"".
+    (3) [Section 200(3)][773] is amended by omitting ""A Justice, Community Magistrate, District Court Judge, or Registrar of a District Court"" and substituting ""An issuing officer"".
     
-    (4) [Section 200][772] is amended by repealing subsection (4) and substituting the following subsection:
+    (4) [Section 200][773] is amended by repealing subsection (4) and substituting the following subsection:
     
     > *   "(4) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (5) [Section 205][773] is amended by omitting ""as may be reasonably necessary"" and substituting ""as is necessary"".
+    (5) [Section 205][774] is amended by omitting ""as may be reasonably necessary"" and substituting ""as is necessary"".
     
-    (6) [Section 206(2)][774] is amended by---
+    (6) [Section 206(2)][775] is amended by---
         
     *   (a) omitting ""section 198A of the Summary Proceedings Act 1957"" and substituting ""section 137 of the Search and Surveillance Act 2012""; and
     
     *   (b) omitting ""section 198A of that Act"" and substituting ""section 137 of that Act"".
     
-    (7) [Section 207][775] is amended by repealing subsections (2) to (4) and substituting the following subsection:
+    (7) [Section 207][776] is amended by repealing subsections (2) to (4) and substituting the following subsection:
     
     > *   "(2) Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -5978,13 +5982,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 251 Amendments to sections 208 to 220 of Fisheries Act 1996
     
-*   (1) [Sections 208 to 211][776] are repealed.
+*   (1) [Sections 208 to 211][777] are repealed.
     
-    (2) [Section 212][777] is amended by inserting ""and the thing is liable to be forfeited under this Act if the owner is convicted,"" after ""otherwise perish,"".
+    (2) [Section 212][778] is amended by inserting ""and the thing is liable to be forfeited under this Act if the owner is convicted,"" after ""otherwise perish,"".
     
-    (3) [Section 213(1)][778] is amended by inserting ""or 199A"" after ""199"".
+    (3) [Section 213(1)][779] is amended by inserting ""or 199A"" after ""199"".
     
-    (4) [Section 220][779] is amended by adding the following subsection:
+    (4) [Section 220][780] is amended by adding the following subsection:
     
     > *   "(5) This section is subject to sections 164 to 168 of the Search and Surveillance Act 2012 (where applied by this Act)."
     > 
@@ -5994,31 +5998,31 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 252 Schedule 7 repealed
     
-*   [Schedule 7][780] is repealed.
+*   [Schedule 7][781] is repealed.
 
 #### Amendments to Food Act 1981
 
 ##### 253 Amendments to Food Act 1981
     
-*   (1) This section amends the [Food Act 1981][781].
+*   (1) This section amends the [Food Act 1981][782].
     
-    (2) [Section 12][782] is amended by inserting the following subsection after subsection (2):
+    (2) [Section 12][783] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (2)(i) or (j)."
     > 
     > 
     
-    (3) [Section 13][783] is amended by inserting the following subsection after subsection (1):
+    (3) [Section 13][784] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) Subject to sections 14 and 16, the provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118, 119, 125(4), 131(5)(f), and 133, and subparts 6 and 8) apply in respect of any seizure and detention under subsection (1)(d)."
     > 
     > 
     
-    (4) [Section 14(4)(a)][784] is amended by omitting ""employed by the Ministry"".
+    (4) [Section 14(4)(a)][785] is amended by omitting ""employed by the Ministry"".
     
-    (5) [Section 15A][785] is amended by omitting ""section 198 of the Summary Proceedings Act 1957"" and substituting ""section 6 of the Search and Surveillance Act 2012"".
+    (5) [Section 15A][786] is amended by omitting ""section 198 of the Summary Proceedings Act 1957"" and substituting ""section 6 of the Search and Surveillance Act 2012"".
     
-    (6) [Section 15A][785] is amended by adding the following subsection as subsection (2):
+    (6) [Section 15A][786] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) An officer who is authorised in writing by the Director-General to apply for search warrants in relation to the offences referred to in subsection (1) may apply for such a warrant under section 6 of the Search and Surveillance Act 2012 as if that officer were a constable."
     > 
@@ -6030,35 +6034,35 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 254 Amendments to Gambling Act 2003
     
-*   (1) This section amends the [Gambling Act 2003][786].
+*   (1) This section amends the [Gambling Act 2003][787].
     
-    (2) [Section 335][787] is amended by repealing subsection (3) and substituting the following subsection:
-    
-    > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
-    > 
-    > 
-    
-    (3) [Section 335(5)][787] is repealed.
-    
-    (4) [Section 336][788] is amended by repealing subsection (3) and substituting the following subsection:
+    (2) [Section 335][788] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
     > 
     > 
     
-    (5) [Section 336(5)][788] is repealed.
+    (3) [Section 335(5)][788] is repealed.
     
-    (6) [Section 337][789] is repealed.
+    (4) [Section 336][789] is amended by repealing subsection (3) and substituting the following subsection:
     
-    (7) [Section 340][790] is amended by repealing subsection (2) and substituting the following subsection:
+    > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
+    > 
+    > 
+    
+    (5) [Section 336(5)][789] is repealed.
+    
+    (6) [Section 337][790] is repealed.
+    
+    (7) [Section 340][791] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) An application must be made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of section 3 of that Act)."
     > 
     > 
     
-    (8) [Section 340(3)][790] is amended by omitting ""The Judge, Justice, Magistrate, or Registrar"" and substituting ""The issuing officer"".
+    (8) [Section 340(3)][791] is amended by omitting ""The Judge, Justice, Magistrate, or Registrar"" and substituting ""The issuing officer"".
     
-    (9) [Section 340][790] is amended by inserting the following subsections after subsection (3):
+    (9) [Section 340][791] is amended by inserting the following subsections after subsection (3):
     
     > *   "(3A) Subject to subsection (3B), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6066,25 +6070,25 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (10) [Section 340(4)][790] is amended by omitting ""sections 341 and"" and substituting ""section"".
+    (10) [Section 340(4)][791] is amended by omitting ""sections 341 and"" and substituting ""section"".
     
-    (11) [Sections 341 to 343][791], and [345][792] are repealed.
+    (11) [Sections 341 to 343][792], and [345][793] are repealed.
     
-    (12) [Section 369(d)][793] is amended by omitting ""331, and a search warrant under section 341"" and substituting ""331"".
+    (12) [Section 369(d)][794] is amended by omitting ""331, and a search warrant under section 341"" and substituting ""331"".
 
 #### Amendments to Hazardous Substances and New Organisms Act 1996
 
 ##### 255 Amendments to Hazardous Substances and New Organisms Act 1996
     
-*   (1) This section amends the [Hazardous Substances and New Organisms Act 1996][794].
+*   (1) This section amends the [Hazardous Substances and New Organisms Act 1996][795].
     
-    (2) [Section 119(1)][795] is amended by---
+    (2) [Section 119(1)][796] is amended by---
         
     *   (a) omitting ""District Court Judge or Justice of the Peace or Community Magistrate or any Registrar who is satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting ""in the prescribed form"".
     
-    (3) [Section 119][795] is amended by repealing subsections (3) to (8) and substituting the following subsections:
+    (3) [Section 119][796] is amended by repealing subsections (3) to (8) and substituting the following subsections:
     
     > *   "(3) Subject to subsection (4), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6092,29 +6096,29 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 120][796] is repealed.
+    (4) [Section 120][797] is repealed.
 
 #### Amendments to Health Practitioners Competence Assurance Act 2003
 
 ##### 256 Amendments to Health Practitioners Competence Assurance Act 2003
     
-*   (1) This section amends the [Health Practitioners Competence Assurance Act 2003][797].
+*   (1) This section amends the [Health Practitioners Competence Assurance Act 2003][798].
     
-    (2) [Section 10(1)][798] is amended by omitting ""section 198 of the Summary Proceedings Act 1957"" and substituting ""section 6 of the Search and Surveillance Act 2012"".
+    (2) [Section 10(1)][799] is amended by omitting ""section 198 of the Summary Proceedings Act 1957"" and substituting ""section 6 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 10][798] is amended by inserting the following subsection after subsection (1):
+    (3) [Section 10][799] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) A person who is authorised in writing by the Director-General of Health to apply for search warrants in relation to the offences referred to in subsection (1) may apply for such a warrant under section 6 of the Search and Surveillance Act 2012 as if that person were a constable."
     > 
     > 
     
-    (4) [Section 10][798] is amended by repealing subsection (2) and substituting the following subsection:
+    (4) [Section 10][799] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (5) [Section 10(3)][798] is amended by---
+    (5) [Section 10(3)][799] is amended by---
         
     *   (a) omitting ""section 199 of the Summary Proceedings Act 1957"" and substituting ""subpart 6 of Part 4 of the Search and Surveillance Act 2012""; and
     
@@ -6126,27 +6130,27 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 257 Amendments to Human Assisted Reproductive Technology Act 2004
     
-*   (1) This section amends the [Human Assisted Reproductive Technology Act 2004][799].
+*   (1) This section amends the [Human Assisted Reproductive Technology Act 2004][800].
     
-    (2) [Section 68(1)][800] is amended by repealing paragraphs (c), and (f) to (h).
+    (2) [Section 68(1)][801] is amended by repealing paragraphs (c), and (f) to (h).
     
-    (3) [Section 68][800] is amended by repealing subsections (2) to (4) and substituting the following subsection:
+    (3) [Section 68][801] is amended by repealing subsections (2) to (4) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply."
     > 
     > 
     
-    (4) [Section 69(2)][801] is amended by omitting ""A District Court Judge, a Justice, or a Court Registrar who is not a member of the police, may, on a written application made on oath by an authorised person, issue a search warrant in the form set out in Schedule 2"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant"".
+    (4) [Section 69(2)][802] is amended by omitting ""A District Court Judge, a Justice, or a Court Registrar who is not a member of the police, may, on a written application made on oath by an authorised person, issue a search warrant in the form set out in Schedule 2"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant"".
     
-    (5) [Section 69][801] is amended by repealing subsections (4) and (5) and substituting the following subsection:
+    (5) [Section 69][802] is amended by repealing subsections (4) and (5) and substituting the following subsection:
     
     > *   "(4) Subject to section 72, the provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (6) [Sections 70][802] and [71][803], and [Schedule 2][804] are repealed.
+    (6) [Sections 70][803] and [71][804], and [Schedule 2][805] are repealed.
     
-    (7) [Section 72][805] is amended by---
+    (7) [Section 72][806] is amended by---
         
     *   (a) omitting ""Section 199 of the Summary Proceedings Act 1957"" and substituting ""Subpart 6 of Part 4 of the Search and Surveillance Act 2012""; and
     
@@ -6158,43 +6162,43 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 258 Amendments to Human Tissue Act 2008
     
-*   (1) This section amends the [Human Tissue Act 2008][806].
+*   (1) This section amends the [Human Tissue Act 2008][807].
     
-    (2) [Section 68(1)][807] is amended by repealing paragraphs (c), and (f) to (h).
+    (2) [Section 68(1)][808] is amended by repealing paragraphs (c), and (f) to (h).
     
-    (3) [Section 68][807] is amended by repealing subsections (2) and (3) and substituting the following subsection:
+    (3) [Section 68][808] is amended by repealing subsections (2) and (3) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply with any necessary modifications."
     > 
     > 
     
-    (4) [Section 69(2)][808] is amended by omitting ""A District Court Judge, a Community Magistrate, a Justice, or a Registrar who is not a member of the police may, on a written application made on oath by an authorised person, issue a search warrant in the prescribed form"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made by an authorised person in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a search warrant"".
+    (4) [Section 69(2)][809] is amended by omitting ""A District Court Judge, a Community Magistrate, a Justice, or a Registrar who is not a member of the police may, on a written application made on oath by an authorised person, issue a search warrant in the prescribed form"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made by an authorised person in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a search warrant"".
     
-    (5) [Section 69][808] is amended by repealing subsection (3).
+    (5) [Section 69][809] is amended by repealing subsection (3).
     
-    (6) [Section 69][808] is amended by repealing subsection (5) and substituting the following subsection:
+    (6) [Section 69][809] is amended by repealing subsection (5) and substituting the following subsection:
     
     > *   "(5) Subject to subsection (6) and section 72, the provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (7) [Sections 70][809] and [71][810] are repealed.
+    (7) [Sections 70][810] and [71][811] are repealed.
     
-    (8) [Section 72][811] is amended by--- 
+    (8) [Section 72][812] is amended by--- 
         
     *   (a) omitting ""Section 199 of the Summary Proceedings Act 1957"" and substituting ""Subpart 6 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) repealing paragraphs (a) to (c).
     
-    (9) [Section 79][812] is repealed.
+    (9) [Section 79][813] is repealed.
 
 #### Amendment to Immigration Act 2009
 
 ##### 259 Amendment to Immigration Act 2009
     
-*   (1) This section amends the [Immigration Act 2009][813].
+*   (1) This section amends the [Immigration Act 2009][814].
     
-    (2) The following section is inserted after [section 293][814]:
+    (2) The following section is inserted after [section 293][815]:
     
     > ##### "293A Immigration officer may apply for search warrant
     >     
@@ -6208,11 +6212,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 260 Amendments to Immigration Advisers Licensing Act 2007
     
-*   [Sections 261 to 264][378] amend the [Immigration Advisers Licensing Act 2007][815].
+*   [Sections 261 to 264][378] amend the [Immigration Advisers Licensing Act 2007][816].
 
 ##### 261 New sections 56 and 57 substituted
     
-*   [Sections 56][816] and [57][817] are repealed and the following sections substituted:
+*   [Sections 56][817] and [57][818] are repealed and the following sections substituted:
     
     > ##### "56 Purposes of inspection
     >     
@@ -6260,15 +6264,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 262 Amendments to sections 58 to 61 of Immigration Advisers Licensing Act 2007
     
-*   (1) [Section 58][818] is repealed.
+*   (1) [Section 58][819] is repealed.
     
-    (2) [Section 59][819] is amended by omitting ""or 58"".
+    (2) [Section 59][820] is amended by omitting ""or 58"".
     
-    (3) [Section 60][820] is amended by omitting ""or 58"".
+    (3) [Section 60][821] is amended by omitting ""or 58"".
     
-    (4) [Section 61(1)][821] is amended by omitting ""A Judge who, on written application made on oath,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act,"".
+    (4) [Section 61(1)][822] is amended by omitting ""A Judge who, on written application made on oath,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act,"".
     
-    (5) [Section 61][821] is amended by repealing subsection (2) and substituting the following subsection:
+    (5) [Section 61][822] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of subparts 1, 3, and 9 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an entry warrant."
     > 
@@ -6278,7 +6282,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 263 New section 61A inserted
     
-*   The following section is inserted after [section 61][821]:
+*   The following section is inserted after [section 61][822]:
     
     > ##### "61A Search warrant
     >     
@@ -6292,107 +6296,107 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 264 Other amendments to Immigration Advisers Licensing Act 2007
     
-*   (1) [Section 62(3)(c)][822] is amended by omitting ""or 58"".
+*   (1) [Section 62(3)(c)][823] is amended by omitting ""or 58"".
     
-    (2) [Section 69(1)][823] is amended by omitting ""or 58"" in each place where it appears.
+    (2) [Section 69(1)][824] is amended by omitting ""or 58"" in each place where it appears.
 
 #### Amendments to Insurance (Prudential Supervision) Act 2010
 
 ##### 265 Amendments to Insurance (Prudential Supervision) Act 2010
     
-*   (1) This section amends the [Insurance (Prudential Supervision) Act 2010][824].
+*   (1) This section amends the [Insurance (Prudential Supervision) Act 2010][825].
     
-    (2) [Section 132(2)][825] is amended by omitting ""A Judge of the High Court or a District Court Judge who is satisfied, on the application of the investigator,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made by an investigator in the manner provided in subpart 3 of Part 4 of that Act, is satisfied"".
+    (2) [Section 132(2)][826] is amended by omitting ""A Judge of the High Court or a District Court Judge who is satisfied, on the application of the investigator,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made by an investigator in the manner provided in subpart 3 of Part 4 of that Act, is satisfied"".
     
-    (3) [Section 132][825] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 132][826] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply."
     > 
     > 
     
-    (4) [Section 230][826] is amended by repealing subsection (3) and substituting the following subsection:
+    (4) [Section 230][827] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) This section and section 231 are subject to subpart 7 of Part 4 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (5) [Schedule 2][827] is repealed. 
+    (5) [Schedule 2][828] is repealed. 
 
 #### Amendments to International Crimes and International Criminal Court Act 2000
 
 ##### 266 Amendments to International Crimes and International Criminal Court Act 2000
     
-*   (1) This section amends the [International Crimes and International Criminal Court Act 2000][828].
+*   (1) This section amends the [International Crimes and International Criminal Court Act 2000][829].
     
-    (2) [Section 77(3)][829] is amended by omitting ""section 37 of the Policing Act 2008"" and substituting ""section 11 of the Search and Surveillance Act 2012"".
+    (2) [Section 77(3)][830] is amended by omitting ""section 37 of the Policing Act 2008"" and substituting ""section 11 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 102(1)][830] is amended by omitting ""a District Court Judge, on an application in writing made on oath or affirmation"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (3) [Section 102(1)][831] is amended by omitting ""a District Court Judge, on an application in writing made on oath or affirmation"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (4) [Section 102][830] is amended by repealing subsections (2) to (4) and substituting the following subsection:
+    (4) [Section 102][831] is amended by repealing subsections (2) to (4) and substituting the following subsection:
     
     > *   "(2) The provisions of subparts 1 to 5 and 7, 9, and 10 of Part 4, and sections 161 and 162 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (5) [Sections 103 to 106][831] are repealed.
+    (5) [Sections 103 to 106][832] are repealed.
     
-    (6) The heading to [section 107][832] is amended by omitting ""**Notice of execution**"" and substituting ""**Report to Attorney-General on execution**"".
+    (6) The heading to [section 107][833] is amended by omitting ""**Notice of execution**"" and substituting ""**Report to Attorney-General on execution**"".
     
-    (7) [Section 107][832] is amended by repealing subsection (1).
+    (7) [Section 107][833] is amended by repealing subsection (1).
     
-    (8) [Section 107(2)][832] is amended by---
+    (8) [Section 107(2)][833] is amended by---
         
     *   (a) omitting ""the warrant is executed"" and substituting ""a warrant issued under section 102 is executed""; and
     
     *   (b) omitting ""subsection (1)"" and substituting ""section 133 of the Search and Surveillance Act 2012"".
     
-    (9) [Section 107(3)][832] is amended by omitting ""the warrant"" and substituting ""a warrant issued under section 102"".
+    (9) [Section 107(3)][833] is amended by omitting ""the warrant"" and substituting ""a warrant issued under section 102"".
     
-    (10) [Section 108(4)][833] is amended by omitting ""The"" and substituting ""Subject to section 155 of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the"".
+    (10) [Section 108(4)][834] is amended by omitting ""The"" and substituting ""Subject to section 155 of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the"".
     
-    (11) [Section 108(5)][833] is amended by inserting "", but subject to section 154 of the Search and Surveillance Act 2012 (which applies with any necessary modifications)"" after ""subsection (4)"".
+    (11) [Section 108(5)][834] is amended by inserting "", but subject to section 154 of the Search and Surveillance Act 2012 (which applies with any necessary modifications)"" after ""subsection (4)"".
 
 #### Amendments to International War Crimes Tribunals Act 1995
 
 ##### 267 Amendments to International War Crimes Tribunals Act 1995
     
-*   (1) This section amends the [International War Crimes Tribunals Act 1995][834].
+*   (1) This section amends the [International War Crimes Tribunals Act 1995][835].
     
-    (2) [Section 11][835] is amended by omitting ""a Judge"" and substituting ""an issuing officer"".
+    (2) [Section 11][836] is amended by omitting ""a Judge"" and substituting ""an issuing officer"".
     
-    (3) [Section 29][836] is amended by omitting ""a Judge"" and substituting ""an issuing officer"".
+    (3) [Section 29][837] is amended by omitting ""a Judge"" and substituting ""an issuing officer"".
     
-    (4) [Section 48(1)][837] is amended by omitting ""Any Judge who, on an application in writing made on oath"" and substituting ""Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (4) [Section 48(1)][838] is amended by omitting ""Any Judge who, on an application in writing made on oath"" and substituting ""Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (5) [Section 48(2)][837] is amended by omitting ""Any Judge who, on application in writing made on oath under section 29 of this Act by a member of the Police authorised under that section"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable authorised under section 29"".
+    (5) [Section 48(2)][838] is amended by omitting ""Any Judge who, on application in writing made on oath under section 29 of this Act by a member of the Police authorised under that section"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable authorised under section 29"".
     
-    (6) [Section 48][837] is amended by repealing subsection (3) and substituting the following subsection:
+    (6) [Section 48][838] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of subparts 1 to 5 and 7 to 10 of Part 4, and sections 161 and 162 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (7) [Sections 49 to 50A][838] and [51][839] and [52][840] are repealed.
+    (7) [Sections 49 to 50A][839] and [51][840] and [52][841] are repealed.
     
-    (8) [Section 53][841] is amended by omitting ""the matters set out in paragraphs (a) to (c) of section 52 of this Act"" and substituting ""the date and time of execution of the warrant, the identity of the person who executed the warrant, and the thing or things seized under the warrant"".
+    (8) [Section 53][842] is amended by omitting ""the matters set out in paragraphs (a) to (c) of section 52 of this Act"" and substituting ""the date and time of execution of the warrant, the identity of the person who executed the warrant, and the thing or things seized under the warrant"".
     
-    (9) [Section 55(5)][842] is amended by omitting ""The"" and substituting ""Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the"".
+    (9) [Section 55(5)][843] is amended by omitting ""The"" and substituting ""Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the"".
     
-    (10) [Section 55(6)][842] is amended by omitting ""If"" and substituting ""Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if"".
+    (10) [Section 55(6)][843] is amended by omitting ""If"" and substituting ""Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if"".
 
 #### Amendments to Land Transport Act 1998
 
 ##### 268 Amendments to Land Transport Act 1998
     
-*   (1) This section amends the [Land Transport Act 1998][843].
+*   (1) This section amends the [Land Transport Act 1998][844].
     
-    (2) [Section 119][844] is amended by inserting the following subsection after subsection (2):
+    (2) [Section 119][845] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power in subsection (2)."
     > 
     > 
     
-    (3) [Section 119][844] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 119][845] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which section 96, 96A, or 123 applies is being stored or kept, and seize and impound the vehicle,---
     >         
@@ -6412,9 +6416,9 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 119(5)][844] is amended by omitting ""apply on oath to a District Court Judge"" and substituting ""apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act),"".
+    (4) [Section 119(5)][845] is amended by omitting ""apply on oath to a District Court Judge"" and substituting ""apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act),"".
     
-    (5) [Section 119][844] is amended by repealing subsection (6) and substituting the following subsection:
+    (5) [Section 119][845] is amended by repealing subsection (6) and substituting the following subsection:
     
     > *   "(6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3))."
     > 
@@ -6426,17 +6430,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 269 Amendments to Local Government Act 2002
     
-*   [Sections 270][395] and [271][396] amend the [Local Government Act 2002][845].
+*   [Sections 270][395] and [271][396] amend the [Local Government Act 2002][846].
 
 ##### 270 Seizure of property from private land
     
-*   (1) [Section 165(1)][846] is amended by omitting ""A judicial officer"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+*   (1) [Section 165(1)][847] is amended by omitting ""A judicial officer"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (2) [Section 165(2)(a)][846] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (2) [Section 165(2)(a)][847] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 165(2)(b)][846] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
+    (3) [Section 165(2)(b)][847] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
     
-    (4) [Section 165][846] is amended by repealing subsections (3) and (4) and substituting the following subsections:
+    (4) [Section 165][847] is amended by repealing subsections (3) and (4) and substituting the following subsections:
     
     > *   "(3) None of the following persons may act as an issuing officer under this section:
     >         
@@ -6454,7 +6458,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 271 Other amendments to Local Government Act 2002
     
-*   (1) [Section 166][847] is amended by repealing subsections (1) and (2) and substituting the following subsections:
+*   (1) [Section 166][848] is amended by repealing subsections (1) and (2) and substituting the following subsections:
     
     > *   "(1) An enforcement officer executing a warrant issued under section 165(1) must be accompanied by a constable.
     > 
@@ -6462,15 +6466,15 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (2) [Section 167(1)][848] is amended by omitting ""or section 165"".
+    (2) [Section 167(1)][849] is amended by omitting ""or section 165"".
     
-    (3) [Section 168(1)][849] is amended by inserting ""seized and impounded under section 164"" after ""dispose of property"".
+    (3) [Section 168(1)][850] is amended by inserting ""seized and impounded under section 164"" after ""dispose of property"".
     
-    (4) [Section 171(2) and (3)][850] are repealed.
+    (4) [Section 171(2) and (3)][851] are repealed.
     
-    (5) [Section 172(3)(a)][851] is amended by omitting ""a District Court Judge on written application on oath"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act"".
+    (5) [Section 172(3)(a)][852] is amended by omitting ""a District Court Judge on written application on oath"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act"".
     
-    (6) [Section 172][851] is amended by repealing subsection (4) and substituting the following subsections:
+    (6) [Section 172][852] is amended by repealing subsection (4) and substituting the following subsections:
     
     > *   "(4) Subject to subsections (3)(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6478,7 +6482,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (7) [Section 173][852] is amended by repealing subsection (2) and substituting the following subsection:
+    (7) [Section 173][853] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply."
     > 
@@ -6490,11 +6494,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 272 Amendments to Major Events Management Act 2007
     
-*   (1) This section amends the [Major Events Management Act 2007][853].
+*   (1) This section amends the [Major Events Management Act 2007][854].
     
-    (2) [Section 67(1)][854] is amended by omitting ""High Court Judge, District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place, vehicle, or thing if satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place, vehicle, or thing if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (2) [Section 67(1)][855] is amended by omitting ""High Court Judge, District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place, vehicle, or thing if satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place, vehicle, or thing if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 67][854] is amended by inserting the following subsection after subsection (1):
+    (3) [Section 67][855] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) Despite subsection (1), in addition to satisfying any applicable requirement in subpart 3 of Part 4 of the Search and Surveillance Act 2012,---
     >         
@@ -6508,7 +6512,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 67][854] is amended by repealing subsection (2) and substituting the following subsections:
+    (4) [Section 67][855] is amended by repealing subsection (2) and substituting the following subsections:
     
     > *   "(2) Subject to section 68 and subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6516,7 +6520,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Section 68][855] is amended by repealing subsection (1) and substituting the following subsections:
+    (5) [Section 68][856] is amended by repealing subsection (1) and substituting the following subsections:
     
     > *   "(1) Without limiting the powers conferred by any warrant issued under section 67(1), and subject to any conditions specified by the issuing officer, every warrant issued under that section authorises a person authorised to execute it to search for and cover any thing that the warrant authorises to be covered.
     > 
@@ -6524,27 +6528,27 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (6) [Section 68(2)][855] is amended by omitting ""in subsection (1)"" and substituting ""conferred by a warrant"".
+    (6) [Section 68(2)][856] is amended by omitting ""in subsection (1)"" and substituting ""conferred by a warrant"".
     
-    (7) [Section 68(3) and (4)][855] are repealed.
+    (7) [Section 68(3) and (4)][856] are repealed.
     
-    (8) [Sections 69 to 76][856] are repealed.
+    (8) [Sections 69 to 76][857] are repealed.
 
 #### Amendments to Marine Mammals Protection Act 1978
 
 ##### 273 Amendments to Marine Mammals Protection Act 1978
     
-*   [Sections 274][401] and [275][402] amend the [Marine Mammals Protection Act 1978][857].
+*   [Sections 274][401] and [275][402] amend the [Marine Mammals Protection Act 1978][858].
 
 ##### 274 Powers of search
     
-*   (1) [Section 13][858] is amended by repealing subsection (2) and substituting the following subsection:
+*   (1) [Section 13][859] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply in respect of the powers in subsection (1)."
     > 
     > 
     
-    (2) [Section 13][858] is amended by inserting the following subsection after subsection (5):
+    (2) [Section 13][859] is amended by inserting the following subsection after subsection (5):
     
     > *   "(5A) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsection (5)."
     > 
@@ -6554,7 +6558,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 275 New section 14 substituted
     
-*   [Section 14][859] is repealed and the following section substituted:
+*   [Section 14][860] is repealed and the following section substituted:
     
     > ##### "14 Officer may obtain warrant
     >     
@@ -6574,31 +6578,31 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 276 Amendments to Marine Reserves Act 1971
     
-*   (1) This section amends the [Marine Reserves Act 1971][860].
+*   (1) This section amends the [Marine Reserves Act 1971][861].
     
-    (2) [Section 18][861] is amended by adding the following subsection:
+    (2) [Section 18][862] is amended by adding the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)(d)."
     > 
     > 
     
-    (3) [Section 18A][862] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 18A][863] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
     > 
     > 
     
-    (4) [Sections 18B to 18F][863] are repealed.
+    (4) [Sections 18B to 18F][864] are repealed.
 
 #### Amendments to Maritime Security Act 2004
 
 ##### 277 Amendments to Maritime Security Act 2004
     
-*   (1) This section amends the [Maritime Security Act 2004][864].
+*   (1) This section amends the [Maritime Security Act 2004][865].
     
-    (2) [Section 51(4)][865] is amended by omitting ""A judicial officer who, on written application made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (2) [Section 51(4)][866] is amended by omitting ""A judicial officer who, on written application made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (3) [Section 51][865] is amended by inserting the following subsections after subsection (6):
+    (3) [Section 51][866] is amended by inserting the following subsections after subsection (6):
     
     > *   "(6A) Subject to subsections (5), (6), and (6B), the provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of a warrant issued under subsection (4).
     > 
@@ -6606,9 +6610,9 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 51][865] is amended by repealing subsection (12).
+    (4) [Section 51][866] is amended by repealing subsection (12).
     
-    (5) [Section 55(1)][866] is amended by omitting paragraph (b) and substituting the following paragraph:
+    (5) [Section 55(1)][867] is amended by omitting paragraph (b) and substituting the following paragraph:
     
     > *   "(b) the constable has reasonable grounds to suspect that---
     >         
@@ -6626,21 +6630,21 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 278 Amendments to Maritime Transport Act 1994
     
-*   [Sections 279][410] and [280][411] amend the [Maritime Transport Act 1994][867].
+*   [Sections 279][410] and [280][411] amend the [Maritime Transport Act 1994][868].
 
 ##### 279 Amendments to Part 30 of Maritime Transport Act 1994
     
-*   (1) [Section 453(5)][868] is amended by omitting ""or subsection (2)"".
+*   (1) [Section 453(5)][869] is amended by omitting ""or subsection (2)"".
     
-    (2) [Section 456][869] is repealed.
+    (2) [Section 456][870] is repealed.
     
-    (3) [Section 457(1)][870] is amended by omitting ""or section 455"".
+    (3) [Section 457(1)][871] is amended by omitting ""or section 455"".
     
-    (4) [Section 457(2)][870] is repealed.
+    (4) [Section 457(2)][871] is repealed.
 
 ##### 280 New sections 454 and 455 substituted
     
-*   [Sections 454][871] and [455][872] are repealed and the following sections substituted:
+*   [Sections 454][872] and [455][873] are repealed and the following sections substituted:
     
     > ##### "454 Warrant to inspect dwellinghouse, marae, etc
     >     
@@ -6674,23 +6678,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 281 Amendments to Meat Board Act 2004
     
-*   [Sections 282][416] and [283][417] amend the [Meat Board Act 2004][873].
+*   [Sections 282][416] and [283][417] amend the [Meat Board Act 2004][874].
 
 ##### 282 Amendments to Part 3 of Meat Board Act 2004
     
-*   (1) [Section 42][874] is amended by inserting the following subsection after subsection (4):
+*   (1) [Section 42][875] is amended by inserting the following subsection after subsection (4):
     
     > *   "(4A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118 and 119, and subpart 8) apply to entry and inspection under subsection (2)."
     > 
     > 
     
-    (2) [Section 42(5)][874] is amended by---
+    (2) [Section 42(5)][875] is amended by---
         
     *   (a) omitting ""A District Court Judge or a Court Registrar (not being a member of the police), who on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act,""; and
     
     *   (b) omitting ""in form 1 in Schedule 3"".
     
-    (3) [Section 42][874] is amended by repealing subsections (7) and (8) and substituting the following subsections:
+    (3) [Section 42][875] is amended by repealing subsections (7) and (8) and substituting the following subsections:
     
     > *   "(7) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the exercise of any power under subsection (5).
     > 
@@ -6702,19 +6706,19 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 283 Amendments to Part 4 of Meat Board Act 2004
     
-*   (1) [Section 62(1)][875] is amended by---
+*   (1) [Section 62(1)][876] is amended by---
         
     *   (a) omitting ""A District Court Judge or a Court Registrar (not being a member of the Police) who, on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) omitting ""in form 2 in Schedule 3"".
     
-    (2) [Section 62(2)][875] is amended by---
+    (2) [Section 62(2)][876] is amended by---
         
     *   (a) omitting ""A District Court Judge or a Court Registrar (not being a member of the Police) who, on an application in writing made an oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) omitting ""in form 3 in Schedule 3"".
     
-    (3) [Section 62][875] is amended by repealing subsections (3) and (4) and substituting the following subsections:
+    (3) [Section 62][876] is amended by repealing subsections (3) and (4) and substituting the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6722,19 +6726,19 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Sections 63][876] and [64][877] are repealed.
+    (4) [Sections 63][877] and [64][878] are repealed.
     
-    (5) [Schedule 3][878] is repealed.
+    (5) [Schedule 3][879] is repealed.
 
 #### Amendments to Motor Vehicle Sales Act 2003
 
 ##### 284 Amendments to Motor Vehicle Sales Act 2003
     
-*   (1) This section amends the [Motor Vehicle Sales Act 2003][879].
+*   (1) This section amends the [Motor Vehicle Sales Act 2003][880].
     
-    (2) [Section 130(1)][880] is amended by omitting ""District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place if satisfied, on application in writing made on oath,"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012,"".
+    (2) [Section 130(1)][881] is amended by omitting ""District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place if satisfied, on application in writing made on oath,"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012,"".
     
-    (3) [Section 130][880] is amended by repealing subsection (2) and substituting the following subsections:
+    (3) [Section 130][881] is amended by repealing subsection (2) and substituting the following subsections:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6742,17 +6746,17 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Sections 131 to 140][881] are repealed.
+    (4) [Sections 131 to 140][882] are repealed.
 
 #### Amendments to National Parks Act 1980
 
 ##### 285 Amendments to National Parks Act 1980
     
-*   (1) This section amends the [National Parks Act 1980][882].
+*   (1) This section amends the [National Parks Act 1980][883].
     
-    (2) [Section 61(2)][883] is repealed.
+    (2) [Section 61(2)][884] is repealed.
     
-    (3) [Section 61(3)][883] is amended by---
+    (3) [Section 61(3)][884] is amended by---
         
     *   (a) omitting ""If"" and substituting ""If, in any case to which paragraph (a) or (b) applies,""; and
     
@@ -6762,21 +6766,21 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (d) repealing paragraph (c).
     
-    (4) [Section 61(6)][883] is amended by omitting "", and shall be retained by the Director-General and dealt with under subsection (7) or subsection (8) of this section"".
+    (4) [Section 61(6)][884] is amended by omitting "", and shall be retained by the Director-General and dealt with under subsection (7) or subsection (8) of this section"".
     
-    (5) [Section 61][883] is amended by repealing subsections (7) and (8) and substituting the following subsection:
+    (5) [Section 61][884] is amended by repealing subsections (7) and (8) and substituting the following subsection:
     
     > *   "(7) Subject to subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
     > 
     > 
     
-    (6) [Section 65][884] is amended by repealing subsection (2) and substituting the following subsection:
+    (6) [Section 65][885] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply."
     > 
     > 
     
-    (7) [Section 66][885] is amended by repealing subsections (2) and (3) and substituting the following subsection:
+    (7) [Section 66][886] is amended by repealing subsections (2) and (3) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
     > 
@@ -6788,33 +6792,33 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 286 Amendments to Overseas Investment Act 2005
     
-*   (1) This section amends the [Overseas Investment Act 2005][886].
+*   (1) This section amends the [Overseas Investment Act 2005][887].
     
-    (2) [Section 56(2)][887] is amended by omitting ""writing and on oath to the Court"" and substituting ""the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of section 3 of that Act)"".
+    (2) [Section 56(2)][888] is amended by omitting ""writing and on oath to the Court"" and substituting ""the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of section 3 of that Act)"".
     
-    (3) [Section 56(3)][887] is amended by omitting ""Court"" and substituting ""issuing officer"".
+    (3) [Section 56(3)][888] is amended by omitting ""Court"" and substituting ""issuing officer"".
     
-    (4) [Section 56(4)][887] is amended by omitting ""Court"" and substituting ""issuing officer"".
+    (4) [Section 56(4)][888] is amended by omitting ""Court"" and substituting ""issuing officer"".
     
-    (5) [Section 56][887] is amended by adding the following subsection:
+    (5) [Section 56][888] is amended by adding the following subsection:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (6) [Sections 57 to 60][888] are repealed.
+    (6) [Sections 57 to 60][889] are repealed.
 
 #### Amendments to Ozone Layer Protection Act 1996
 
 ##### 287 Amendments to Ozone Layer Protection Act 1996
     
-*   [Sections 288 to 290][426] amend the [Ozone Layer Protection Act 1996][889].
+*   [Sections 288 to 290][426] amend the [Ozone Layer Protection Act 1996][890].
 
 ##### 288 Search warrants
     
-*   (1) [Section 23(1)][890] is amended by omitting ""District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) who is satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+*   (1) [Section 23(1)][891] is amended by omitting ""District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) who is satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (2) [Section 23][890] is amended by repealing subsections (3) to (8) and substituting the following subsection:
+    (2) [Section 23][891] is amended by repealing subsections (3) to (8) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
@@ -6824,7 +6828,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 289 New section 25 substituted
     
-*   [Section 25][891] is repealed and the following section substituted:
+*   [Section 25][892] is repealed and the following section substituted:
     
     > ##### "25 Retention of property seized
     >     
@@ -6836,17 +6840,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 290 Return or forfeiture of property seized
     
-*   (1) The heading to [section 26][892] is amended by omitting ""**Return or forfeiture**"" and substituting ""**Forfeiture**"".
+*   (1) The heading to [section 26][893] is amended by omitting ""**Return or forfeiture**"" and substituting ""**Forfeiture**"".
     
-    (2) [Section 26(1) and (2)][892] are repealed.
+    (2) [Section 26(1) and (2)][893] are repealed.
 
 #### Amendment to Petroleum Demand Restraint Act 1981
 
 ##### 291 Amendment to Petroleum Demand Restraint Act 1981
     
-*   (1) This section amends the [Petroleum Demand Restraint Act 1981][893].
+*   (1) This section amends the [Petroleum Demand Restraint Act 1981][894].
     
-    (2) [Section 17][894] is amended by repealing subsection (4) and substituting the following subsection:
+    (2) [Section 17][895] is amended by repealing subsection (4) and substituting the following subsection:
     
     > *   "(4) Petroleum demand restraint regulations may provide for the following matters in respect of suspected offences against this Act or against any petroleum demand restraint regulations, regardless of whether any such suspected offences (_relevant offences_) are imprisonable or not:
     >         
@@ -6870,49 +6874,49 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 292 Amendments to Pork Industry Board Act 1997
     
-*   (1) This section amends the [Pork Industry Board Act 1997][895].
+*   (1) This section amends the [Pork Industry Board Act 1997][896].
     
-    (2) [Section 44][896] is amended by inserting the following subsection after subsection (2):
+    (2) [Section 44][897] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 2, sections 118 and 119, and subpart 8) apply."
     > 
     > 
     
-    (3) [Section 45(1)][897] is amended by omitting ""A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (3) [Section 45(1)][898] is amended by omitting ""A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (4) [Section 45(2)][897] is amended by omitting ""A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (4) [Section 45(2)][898] is amended by omitting ""A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (5) [Section 45][897] is amended by repealing subsection (3) and substituting the following subsection:
+    (5) [Section 45][898] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (6) [Sections 46][898] and [47][899] and [Schedule 3][900] are repealed.
+    (6) [Sections 46][899] and [47][900] and [Schedule 3][901] are repealed.
 
 #### Amendments to Prostitution Reform Act 2003
 
 ##### 293 Amendments to Prostitution Reform Act 2003
     
-*   (1) This section amends the [Prostitution Reform Act 2003][901].
+*   (1) This section amends the [Prostitution Reform Act 2003][902].
     
-    (2) [Section 30(1)][902] is amended by omitting ""A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a member of the police)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+    (2) [Section 30(1)][903] is amended by omitting ""A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a member of the police)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (3) [Section 30][902] is amended by repealing subsections (2) and (3) and substituting the following subsection:
+    (3) [Section 30][903] is amended by repealing subsections (2) and (3) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply as if a warrant referred to in subsection (1) were a search warrant."
     > 
     > 
     
-    (4) [Sections 31 to 33][903] are repealed.
+    (4) [Sections 31 to 33][904] are repealed.
 
 #### Amendments to Radiation Protection Act 1965
 
 ##### 294 Amendments to Radiation Protection Act 1965
     
-*   (1) This section amends the [Radiation Protection Act 1965][904].
+*   (1) This section amends the [Radiation Protection Act 1965][905].
     
-    (2) [Section 24(2)][905] is amended by---
+    (2) [Section 24(2)][906] is amended by---
         
     *   (a) omitting ""If a Justice of the Peace or Community Magistrate is satisfied on oath"" and substituting ""If an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied on an application made in the manner provided in subpart 3 of Part 4 of that Act""; and
     
@@ -6920,7 +6924,7 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (c) omitting "", if necessary by force"".
     
-    (3) [Section 24][905] is amended by repealing subsection (3) and substituting the following subsections:
+    (3) [Section 24][906] is amended by repealing subsection (3) and substituting the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -6934,45 +6938,45 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 295 Amendments to Radiocommunications Act 1989
     
-*   (1) This section amends the [Radiocommunications Act 1989][906].
+*   (1) This section amends the [Radiocommunications Act 1989][907].
     
-    (2) [Section 120(3)][907] is amended by---
+    (2) [Section 120(3)][908] is amended by---
         
     *   (a) omitting ""District Court Judge, Justice, or Community Magistrate, or any Court Registrar (not being a constable), is satisfied, on application in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012""; and
     
     *   (b) omitting ""that District Court Judge, Justice, Community Magistrate, or Court Registrar"" and substituting ""that issuing officer"".
     
-    (3) [Section 120][907] is amended by adding the following subsection:
+    (3) [Section 120][908] is amended by adding the following subsection:
     
     > *   "(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (4) [Sections 121 to 127][908] are repealed.
+    (4) [Sections 121 to 127][909] are repealed.
 
 #### Amendments to Reserve Bank of New Zealand Act 1989
 
 ##### 296 Amendments to Reserve Bank of New Zealand Act 1989
     
-*   [Sections 297][442] and [298][443] amend the [Reserve Bank of New Zealand Act 1989][909].
+*   [Sections 297][442] and [298][443] amend the [Reserve Bank of New Zealand Act 1989][910].
 
 ##### 297 Amendments to Parts 4 and 5 of Reserve Bank of New Zealand Act 1989
     
-*   (1) [Section 66I][910] is amended by omitting ""A Judge of the High Court may issue a warrant to a person appointed under section 66E(2) if the Judge is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under section 66E(2) if the issuing officer is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act"".
+*   (1) [Section 66I][911] is amended by omitting ""A Judge of the High Court may issue a warrant to a person appointed under section 66E(2) if the Judge is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under section 66E(2) if the issuing officer is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (2) [Section 66I][910] is amended by adding the following subsection as subsection (2):
+    (2) [Section 66I][911] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (3) [Section 66J][911] is repealed.
+    (3) [Section 66J][912] is repealed.
     
-    (4) [Section 106(1)][912] is amended by omitting ""A Judge of the High Court who is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (4) [Section 106(1)][913] is amended by omitting ""A Judge of the High Court who is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (5) [Section 106(2)][912] is amended by omitting ""A Judge of the High Court who is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (5) [Section 106(2)][913] is amended by omitting ""A Judge of the High Court who is satisfied, on application in writing made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (6) [Section 106][912] is amended by repealing subsection (3) and substituting the following subsection:
+    (6) [Section 106][913] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies."
     > 
@@ -6982,31 +6986,31 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 298 Further amendments to Reserve Bank of New Zealand Act 1989
     
-*   (1) [Section 157ZM(1)][913] is amended by omitting ""A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)(b) if the Judge"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)(b) if the issuing officer"".
+*   (1) [Section 157ZM(1)][914] is amended by omitting ""A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)(b) if the Judge"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)(b) if the issuing officer"".
     
-    (2) [Section 157ZM][913] is amended by repealing subsection (2) and substituting the following subsection:
+    (2) [Section 157ZM][914] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (3) [Section 157ZN(1)(b)][914] is amended by omitting ""; and"".
+    (3) [Section 157ZN(1)(b)][915] is amended by omitting ""; and"".
     
-    (4) [Section 157ZN(1)(c)][914] is repealed.
+    (4) [Section 157ZN(1)(c)][915] is repealed.
     
-    (5) [Section 157ZN(3)(b)][914] is repealed.
+    (5) [Section 157ZN(3)(b)][915] is repealed.
     
-    (6) [Section 157ZN(3)(c)][914] is amended by omitting ""or a search warrant issued under section 157ZM"".
+    (6) [Section 157ZN(3)(c)][915] is amended by omitting ""or a search warrant issued under section 157ZM"".
     
-    (7) [Schedule 4][915] is repealed.
+    (7) [Schedule 4][916] is repealed.
 
 #### Amendments to Reserves Act 1977
 
 ##### 299 Amendments to Reserves Act 1977
     
-*   (1) This section amends the [Reserves Act 1977][916].
+*   (1) This section amends the [Reserves Act 1977][917].
     
-    (2) [Section 93][917] is amended by repealing subsection (5) and substituting the following subsection:
+    (2) [Section 93][918] is amended by repealing subsection (5) and substituting the following subsection:
     
     > *   "(5) In this section, _officer_ means---
     >         
@@ -7018,15 +7022,15 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (3) [Section 95(1)][918] is amended by omitting "", and shall be retained by the administering body, or by the Commissioner if there is no administering body, pending the trial of that person for the offence in respect of which it was seized"".
+    (3) [Section 95(1)][919] is amended by omitting "", and shall be retained by the administering body, or by the Commissioner if there is no administering body, pending the trial of that person for the offence in respect of which it was seized"".
     
-    (4) [Section 95(2)][918] is amended by---
+    (4) [Section 95(2)][919] is amended by---
         
     *   (a) omitting ""then"" and substituting ""then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,""; and
     
     *   (b) repealing paragraph (c).
     
-    (5) [Section 95][918] is amended by repealing subsection (6) and substituting the following subsections:
+    (5) [Section 95][919] is amended by repealing subsection (6) and substituting the following subsections:
     
     > *   "(6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of section 93(5)).
     > 
@@ -7034,7 +7038,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (6) [Section 100][919] is amended by repealing subsection (2) and substituting the following subsection:
+    (6) [Section 100][920] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry, search, or seizure conducted under this section."
     > 
@@ -7046,15 +7050,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 300 Amendments to Resource Management Act 1991
     
-*   (1) This section amends the [Resource Management Act 1991][920].
+*   (1) This section amends the [Resource Management Act 1991][921].
     
-    (2) [Section 334(1)][921] is amended by---
+    (2) [Section 334(1)][922] is amended by---
         
     *   (a) omitting ""Any District Court Judge or any duly authorised Justice or any Community Magistrate or Registrar who, on an application in writing made on oath,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act,""; and
     
     *   (b) omitting ""on one occasion within 14 days of the date of issue of the warrant and at any time which is reasonable in the circumstances"".
     
-    (3) [Section 334][921] is amended by repealing subsections (2) and (3) and substituting the following subsections:
+    (3) [Section 334][922] is amended by repealing subsections (2) and (3) and substituting the following subsections:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -7062,25 +7066,25 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) The heading to [section 335][922] is amended by omitting ""**Content and effect**"" and substituting ""**Direction and execution**"".
+    (4) The heading to [section 335][923] is amended by omitting ""**Content and effect**"" and substituting ""**Direction and execution**"".
     
-    (5) [Section 335][922] is amended by repealing subsections (2) to (5).
+    (5) [Section 335][923] is amended by repealing subsections (2) to (5).
     
-    (6) [Sections 336][923] and [337][924] and the heading above section 336 are repealed.
+    (6) [Sections 336][924] and [337][925] and the heading above section 336 are repealed.
 
 #### Amendments to Sale of Liquor Act 1989
 
 ##### 301 Amendments to Sale of Liquor Act 1989
     
-*   (1) This section amends the [Sale of Liquor Act 1989][925].
+*   (1) This section amends the [Sale of Liquor Act 1989][926].
     
-    (2) [Section 177(1)][926] is amended by---
+    (2) [Section 177(1)][927] is amended by---
         
     *   (a) omitting ""any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), is satisfied, on application in writing made on oath"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on an application made by a constable in the manner provided in subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting ""Judge, Justice, Community Magistrate, or Registrar"" and substituting ""issuing officer"".
     
-    (3) [Section 177][926] is amended by repealing subsections (2) to (9) and substituting the following subsection:
+    (3) [Section 177][927] is amended by repealing subsections (2) to (9) and substituting the following subsection:
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -7092,39 +7096,39 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 302 Amendments to Tax Administration Act 1994
     
-*   (1) This section amends the [Tax Administration Act 1994][927].
+*   (1) This section amends the [Tax Administration Act 1994][928].
     
-    (2) [Section 3(1)][928] is amended by repealing the definition of **judicial officer** and substituting the following definition:
+    (2) [Section 3(1)][929] is amended by repealing the definition of **judicial officer** and substituting the following definition:
     
     > "_issuing officer_ is defined in sections 16(7) and 16C(8) for the purposes of those sections".
     
-    (3) [Section 16(2)][929] is amended by omitting ""The occupier of land"" and substituting ""Despite section 103(3)(b)(ii) of the Search and Surveillance Act 2012, the occupier of land"".
+    (3) [Section 16(2)][930] is amended by omitting ""The occupier of land"" and substituting ""Despite section 103(3)(b)(ii) of the Search and Surveillance Act 2012, the occupier of land"".
     
-    (4) [Section 16(4)][929] is amended by omitting ""A judicial officer who, on written application made on oath"" and substituting ""An issuing officer who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (4) [Section 16(4)][930] is amended by omitting ""A judicial officer who, on written application made on oath"" and substituting ""An issuing officer who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (5) [Section 16(5)][929] is amended by repealing paragraph (c) and substituting the following paragraph:
+    (5) [Section 16(5)][930] is amended by repealing paragraph (c) and substituting the following paragraph:
     
     > *   "(c) is valid for a period not exceeding 14 days from the date of its issue or a period not exceeding 30 days from the date of its issue if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution; and".
     > 
     > 
     
-    (6) [Section 16][929] is amended by inserting the following subsection after subsection (6):
+    (6) [Section 16][930] is amended by inserting the following subsection after subsection (6):
     
     > *   "(6A) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 118, 119, and 130(4)) apply."
     > 
     > 
     
-    (7) [Section 16(7)][929] is amended by omitting the definition of _judicial officer_ and substituting the following definition:
+    (7) [Section 16(7)][930] is amended by omitting the definition of _judicial officer_ and substituting the following definition:
     
     > "_issuing officer_ has the same meaning as in section 3 of the Search and Surveillance Act 2012".
     
-    (8) [Section 16C(2)][930] is amended by---
+    (8) [Section 16C(2)][931] is amended by---
         
     *   (a) omitting ""A judicial officer"" and substituting ""An issuing officer""; and
     
     *   (b) omitting ""on written application made on oath, the judicial officer"" and substituting ""on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, the issuing officer"".
     
-    (9) [Section 16C][930] is amended by repealing subsection (8) and substituting the following subsections:
+    (9) [Section 16C][931] is amended by repealing subsection (8) and substituting the following subsections:
     
     > *   "(8) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 118, 119, and 130(4)) apply.
     > 
@@ -7132,53 +7136,53 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (10) [Section 20(1)][931] is amended by omitting ""Subject to subsections (2) and (3)"" and substituting ""Despite anything in the Search and Surveillance Act 2012, but subject to subsections (2) and (3)"".
+    (10) [Section 20(1)][932] is amended by omitting ""Subject to subsections (2) and (3)"" and substituting ""Despite anything in the Search and Surveillance Act 2012, but subject to subsections (2) and (3)"".
     
-    (11) [Section 20B(1)][932] is amended by omitting ""A person"" and substituting ""Despite anything in the Search and Surveillance Act 2012, a person"".
+    (11) [Section 20B(1)][933] is amended by omitting ""A person"" and substituting ""Despite anything in the Search and Surveillance Act 2012, a person"".
 
 #### Amendments to Trade in Endangered Species Act 1989
 
 ##### 303 Amendments to Trade in Endangered Species Act 1989
     
-*   (1) This section amends the [Trade in Endangered Species Act 1989][933].
+*   (1) This section amends the [Trade in Endangered Species Act 1989][934].
     
-    (2) [Section 37(3) and (4)][934] are repealed.
+    (2) [Section 37(3) and (4)][935] are repealed.
     
-    (3) [Section 37][934] is amended by adding the following subsection:
+    (3) [Section 37][935] is amended by adding the following subsection:
     
     > *   "(8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply."
     > 
     > 
     
-    (4) [Section 38(2)][935] is amended by---
+    (4) [Section 38(2)][936] is amended by---
         
     *   (a) omitting ""District Court Judge or Justice of the Peace or Community Magistrate or Registrar of any Court (not being a member of the Police), who, on application by an officer in writing made on oath"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided in subpart 3 of Part 4 of that Act""; and
     
     *   (b) omitting ""; and the provisions of subsections (3) to (8) of section 198 of the Summary Proceedings Act 1957 shall apply accordingly"".
     
-    (5) [Section 38][935] is amended by adding the following subsection:
+    (5) [Section 38][936] is amended by adding the following subsection:
     
     > *   "(4) The provisions of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (6) [Section 38A][936] is amended by omitting ""149C(1) and (2), 149D"", and substituting ""149C(1) to (3)"".
+    (6) [Section 38A][937] is amended by omitting ""149C(1) and (2), 149D"", and substituting ""149C(1) to (3)"".
 
 #### Amendments to Unsolicited Electronic Messages Act 2007
 
 ##### 304 Amendments to Unsolicited Electronic Messages Act 2007
     
-*   (1) This section amends the [Unsolicited Electronic Messages Act 2007][937].
+*   (1) This section amends the [Unsolicited Electronic Messages Act 2007][938].
     
-    (2) [Section 51(1)][938] is amended by inserting ""in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"" after ""may apply"".
+    (2) [Section 51(1)][939] is amended by inserting ""in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"" after ""may apply"".
     
-    (3) [Section 51(2)][938] is repealed.
+    (3) [Section 51(2)][939] is repealed.
     
-    (4) [Section 51(3)][938] is amended by omitting ""in writing and on oath to the District Court"" and substituting ""to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+    (4) [Section 51(3)][939] is amended by omitting ""in writing and on oath to the District Court"" and substituting ""to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (5) [Section 51(4)][938] is amended by omitting ""District Court"" and substituting ""issuing officer"".
+    (5) [Section 51(4)][939] is amended by omitting ""District Court"" and substituting ""issuing officer"".
     
-    (6) [Section 51][938] is amended by repealing subsection (5) and adding the following subsections:
+    (6) [Section 51][939] is amended by repealing subsection (5) and adding the following subsections:
     
     > *   "(5) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -7186,39 +7190,39 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (7) [Sections 52 to 56][939] and [58(j)][940] are repealed.
+    (7) [Sections 52 to 56][940] and [58(j)][941] are repealed.
 
 #### Amendments to Waste Minimisation Act 2008
 
 ##### 305 Amendments to Waste Minimisation Act 2008
     
-*   [Sections 306][458] and [307][459] amend the [Waste Minimisation Act 2008][941].
+*   [Sections 306][458] and [307][459] amend the [Waste Minimisation Act 2008][942].
 
 ##### 306 Amendments to Waste Minimisation Act 2008
     
-*   (1) [Section 65(3)(b)][942] is amended by omitting ""an enforcement officer acting under section 78 or"" in each place where it appears.
+*   (1) [Section 65(3)(b)][943] is amended by omitting ""an enforcement officer acting under section 78 or"" in each place where it appears.
     
-    (2) [Sections 77][943] and [78][944] are repealed.
+    (2) [Sections 77][944] and [78][945] are repealed.
     
-    (3) [Section 79][945] is amended by inserting the following subsection after subsection (2):
+    (3) [Section 79][946] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply."
     > 
     > 
     
-    (4) [Section 80][946] is amended by repealing subsection (2) and substituting the following subsection:
+    (4) [Section 80][947] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application."
     > 
     > 
     
-    (5) [Section 80(3)][946] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
+    (5) [Section 80(3)][947] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
     
-    (6) [Section 80(3)(a)(ii)][946] is amended by omitting ""; and"".
+    (6) [Section 80(3)(a)(ii)][947] is amended by omitting ""; and"".
     
-    (7) [Section 80(3)(b)][946] is repealed.
+    (7) [Section 80(3)(b)][947] is repealed.
     
-    (8) [Section 80][946] is amended by inserting the following subsection after subsection (3):
+    (8) [Section 80][947] is amended by inserting the following subsection after subsection (3):
     
     > *   "(3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (2) were a search warrant."
     > 
@@ -7228,13 +7232,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 307 Other amendments to Waste Minimisation Act 2008
     
-*   (1) [Section 82(1)][947] is amended by omitting ""A judicial officer"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+*   (1) [Section 82(1)][948] is amended by omitting ""A judicial officer"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (2) [Section 82(2)(a)][947] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (2) [Section 82(2)(a)][948] is amended by omitting ""in writing and on oath"" and substituting ""in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 82(2)(b)][947] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
+    (3) [Section 82(2)(b)][948] is amended by omitting ""judicial officer"" and substituting ""issuing officer"".
     
-    (4) [Section 82][947] is amended by repealing subsection (3) and substituting the following subsections:
+    (4) [Section 82][948] is amended by repealing subsection (3) and substituting the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (1) were a search warrant.
     > 
@@ -7242,67 +7246,67 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Section 83][948] is repealed.
+    (5) [Section 83][949] is repealed.
     
-    (6) [Section 84(1)][949] is amended by omitting ""or 82"".
+    (6) [Section 84(1)][950] is amended by omitting ""or 82"".
     
-    (7) The heading to [section 85][950] is amended by inserting ""**under section 81**"" after ""**impounded**"".
+    (7) The heading to [section 85][951] is amended by inserting ""**under section 81**"" after ""**impounded**"".
     
-    (8) [Section 85(1)][950] is amended by inserting ""seized or impounded under section 81"" after ""property"".
+    (8) [Section 85(1)][951] is amended by inserting ""seized or impounded under section 81"" after ""property"".
 
 #### Amendments to Wild Animal Control Act 1977
 
 ##### 308 Amendments to Wild Animal Control Act 1977
     
-*   (1) This section amends the [Wild Animal Control Act 1977][951].
+*   (1) This section amends the [Wild Animal Control Act 1977][952].
     
-    (2) [Section 12(10)][952] is amended by---
+    (2) [Section 12(10)][953] is amended by---
         
     *   (a) omitting "", on production of his warrant of appointment if so required,""; and
     
     *   (b) omitting from the proviso ""under the hand of a District Court Judge"" and substituting ""in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 by an issuing officer (within the meaning of section 3 of that Act)"".
     
-    (3) [Section 12(11)][952] is amended by---
+    (3) [Section 12(11)][953] is amended by---
         
     *   (a) omitting ""District Court Judge or Justice of the Peace or Community Magistrate who is satisfied on oath that there is probable cause to suspect"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe""; and
     
     *   (b) omitting ""at such time or times of the day as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof"".
     
-    (4) [Section 12][952] is amended by adding the following subsection:
+    (4) [Section 12][953] is amended by adding the following subsection:
     
     > *   "(13) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (5) [Section 13(1)][953] is amended by omitting "", on production of his warrant of appointment if so required,"".
+    (5) [Section 13(1)][954] is amended by omitting "", on production of his warrant of appointment if so required,"".
     
-    (6) [Section 13][953] is amended by inserting the following subsection after subsection (5):
+    (6) [Section 13][954] is amended by inserting the following subsection after subsection (5):
     
     > *   "(5A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply in respect of the powers in subsection (1)."
     > 
     > 
     
-    (7) [Section 13(6)][953] is amended by---
+    (7) [Section 13(6)][954] is amended by---
         
     *   (a) omitting "", on production of his warrant of appointment if so required,""; and
     
     *   (b) omitting ""under the hand of a District Court Judge or Justice of the Peace or Community Magistrate"" and substituting ""issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (8) [Section 13(7)][953] is amended by---
+    (8) [Section 13(7)][954] is amended by---
         
     *   (a) omitting ""District Court Judge or Justice of the Peace or Community Magistrate who is satisfied on oath that there is probable cause to suspect"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe""; and
     
     *   (b) omitting ""at such time or times of the day as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof"".
     
-    (9) [Section 13][953] is amended by adding the following subsection:
+    (9) [Section 13][954] is amended by adding the following subsection:
     
     > *   "(10) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (10) The proviso to [section 14(2)][954] is amended by omitting ""under the hand of a District Court Judge or Justice of the Peace or Community Magistrate"" and substituting ""issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+    (10) The proviso to [section 14(2)][955] is amended by omitting ""under the hand of a District Court Judge or Justice of the Peace or Community Magistrate"" and substituting ""issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (11) [Section 14][954] is amended by adding the following subsection:
+    (11) [Section 14][955] is amended by adding the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
@@ -7314,59 +7318,59 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 309 Amendments to Wildlife Act 1953
     
-*   (1) This section amends the [Wildlife Act 1953][955].
+*   (1) This section amends the [Wildlife Act 1953][956].
     
-    (2) The proviso to [section 39(1)(f)][956] is amended by---
+    (2) The proviso to [section 39(1)(f)][957] is amended by---
         
     *   (a) omitting ""Justice or Community Magistrate who is satisfied on oath that there is probable cause to suspect"" and substituting ""issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds""; and
     
     *   (b) omitting ""at such time or times in the day or night as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof"".
     
-    (3) [Section 39][956] is amended by adding the following subsection:
+    (3) [Section 39][957] is amended by adding the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (4) [Section 56A][957] is amended by omitting ""149C(1) and (2), 149D"", and substituting ""149C(1) to (3)"".
+    (4) [Section 56A][958] is amended by omitting ""149C(1) and (2), 149D"", and substituting ""149C(1) to (3)"".
 
 #### Amendments to Wine Act 2003
 
 ##### 310 Amendments to Wine Act 2003
     
-*   (1) This section amends the [Wine Act 2003][958].
+*   (1) This section amends the [Wine Act 2003][959].
     
-    (2) [Section 62(1)][959] is amended by omitting ""at any reasonable time"".
+    (2) [Section 62(1)][960] is amended by omitting ""at any reasonable time"".
     
-    (3) [Section 62(2)][959] is amended by omitting "", at any time that is reasonable in the circumstances"".
+    (3) [Section 62(2)][960] is amended by omitting "", at any time that is reasonable in the circumstances"".
     
-    (4) [Section 62][959] is amended by repealing subsections (3) and (4) and substituting the following subsection:
+    (4) [Section 62][960] is amended by repealing subsections (3) and (4) and substituting the following subsection:
     
     > *   "(3) The provisions of subparts 1, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply in respect of the exercise of any powers under this section."
     > 
     > 
     
-    (5) [Section 63][960] is amended by inserting the following subsection after subsection (2):
+    (5) [Section 63][961] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2, 3, and 8, and sections 118 and 119) apply."
     > 
     > 
     
-    (6) [Section 63(3)][960] is amended by omitting ""this section"" and substituting ""any of paragraphs (c) to (f) of subsection (1)"".
+    (6) [Section 63(3)][961] is amended by omitting ""this section"" and substituting ""any of paragraphs (c) to (f) of subsection (1)"".
     
-    (7) [Section 65(1)][961] is amended by---
+    (7) [Section 65(1)][962] is amended by---
         
     *   (a) omitting ""Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant, in the form set out in Schedule 1"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant""; and
     
     *   (b) omitting ""on application in writing made on oath"" and substituting ""on an application by a constable or a wine officer made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (8) [Section 65][961] is amended by repealing subsection (2) and substituting the following subsection:
+    (8) [Section 65][962] is amended by repealing subsection (2) and substituting the following subsection:
     
     > *   "(2) Subject to section 66, the provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply."
     > 
     > 
     
-    (9) [Section 66][962] is amended by repealing subsection (1) and substituting the following subsection:
+    (9) [Section 66][963] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) Without limiting the powers conferred by any search warrant issued under section 65(1), every warrant issued under that section authorises the constable or wine officer who is executing it, and any person called on by that constable or officer to assist, to exercise---
     >         
@@ -7378,17 +7382,17 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (10) [Section 66][962] is amended by repealing subsections (2) and (4).
+    (10) [Section 66][963] is amended by repealing subsections (2) and (4).
     
-    (11) [Section 67][963] is amended by repealing subsections (1) to (3).
+    (11) [Section 67][964] is amended by repealing subsections (1) to (3).
     
-    (12) [Section 68][964] is amended by---
+    (12) [Section 68][965] is amended by---
         
     *   (a) omitting ""Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to"" and substituting ""Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by a constable under a search warrant and, with any necessary modifications, in respect of""; and
     
     *   (b) repealing paragraphs (a) to (c).
     
-    (13) [Schedule 1][965] is repealed.
+    (13) [Schedule 1][966] is repealed.
 
 ### Subpart 2---Amendments to search and seizure powers in other enactments (and to related provisions) used for regulatory purposes
 
@@ -7396,13 +7400,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 311 Amendments to Anti-Personnel Mines Prohibition Act 1998
     
-*   (1) This section amends the [Anti-Personnel Mines Prohibition Act 1998][966].
+*   (1) This section amends the [Anti-Personnel Mines Prohibition Act 1998][967].
     
-    (2) [Section 22(1)][967] is amended by omitting ""A District Court Judge, Justice, Community Magistrate, or Registrar (not being a member of the police), who, on an application,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012,"".
+    (2) [Section 22(1)][968] is amended by omitting ""A District Court Judge, Justice, Community Magistrate, or Registrar (not being a member of the police), who, on an application,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012,"".
     
-    (3) [Section 22(2)][967] is amended by repealing paragraph (b).
+    (3) [Section 22(2)][968] is amended by repealing paragraph (b).
     
-    (4) [Section 22][967] is amended by repealing subsection (4) and substituting the following subsection:
+    (4) [Section 22][968] is amended by repealing subsection (4) and substituting the following subsection:
     
     > *   "(4) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -7414,63 +7418,63 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 312 Amendments to Chemical Weapons (Prohibition) Act 1996
     
-*   (1) This section amends the [Chemical Weapons (Prohibition) Act 1996][968].
+*   (1) This section amends the [Chemical Weapons (Prohibition) Act 1996][969].
     
-    (2) [Section 23(2)][969] is amended by---
+    (2) [Section 23(2)][970] is amended by---
         
     *   (a) omitting ""a District Court Judge, duly authorised Justice, a Community Magistrate, or a Registrar (not being a member of the Police)"" and substituting ""an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)""; and
     
     *   (b) omitting "", unconditionally or subject to conditions, a warrant authorising the entry of the place, at any time within 14 days of the issue of the warrant (or within such further time as may be specified in the warrant)"" and substituting ""a warrant authorising the entry of the place"".
     
-    (3) [Section 23][969] is amended by adding the following subsection:
+    (3) [Section 23][970] is amended by adding the following subsection:
     
     > *   "(4) Subject to subsection (3), the provisions of subparts 3 and 4 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (4) [Sections 24][970] and [25][971] are repealed.
+    (4) [Sections 24][971] and [25][972] are repealed.
 
 #### Amendments to Commerce Act 1986
 
 ##### 313 Amendments to Commerce Act 1986
     
-*   (1) This section amends the [Commerce Act 1986][972].
+*   (1) This section amends the [Commerce Act 1986][973].
     
-    (2) [Section 98A(2)][973] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable) who is satisfied on application made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
+    (2) [Section 98A(2)][974] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable) who is satisfied on application made on oath"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act"".
     
-    (3) [Section 98A][973] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 98A][974] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply, with any necessary modifications."
     > 
     > 
     
-    (4) [Section 98A(4)][973] is amended by adding ""of this Act"".
+    (4) [Section 98A(4)][974] is amended by adding ""of this Act"".
     
-    (5) [Sections 98B to 98F][974] are repealed.
+    (5) [Sections 98B to 98F][975] are repealed.
     
-    (6) [Section 98G][975] is amended by omitting ""to 98F"" and substituting ""and 98A"".
+    (6) [Section 98G][976] is amended by omitting ""to 98F"" and substituting ""and 98A"".
 
 #### Amendment to Credit Contracts and Consumer Finance Act 2003
 
 ##### 314 Amendment to Credit Contracts and Consumer Finance Act 2003
     
-*   (1) This section amends the [Credit Contracts and Consumer Finance Act 2003][976].
+*   (1) This section amends the [Credit Contracts and Consumer Finance Act 2003][977].
     
-    (2) [Section 113(d)][977] is amended by omitting ""98A to 98G"" and substituting ""98A and 98G"".
+    (2) [Section 113(d)][978] is amended by omitting ""98A to 98G"" and substituting ""98A and 98G"".
 
 #### Amendments to Electricity Act 1992
 
 ##### 315 Amendments to Electricity Act 1992
     
-*   (1) This section amends the [Electricity Act 1992][978].
+*   (1) This section amends the [Electricity Act 1992][979].
     
-    (2) [Section 159(1)][979] is amended by repealing paragraph (e) and substituting the following paragraph:
+    (2) [Section 159(1)][980] is amended by repealing paragraph (e) and substituting the following paragraph:
     
     > *   "(e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (3) [Section 159][979] is amended by adding the following subsection:
+    (3) [Section 159][980] is amended by adding the following subsection:
     
     > *   "(5) Subparts 1, 3, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e)."
     > 
@@ -7482,47 +7486,47 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 316 Amendments to Fair Trading Act 1986
     
-*   (1) This section amends the [Fair Trading Act 1986][980].
+*   (1) This section amends the [Fair Trading Act 1986][981].
     
-    (2) [Section 47(2)][981] is amended by---
+    (2) [Section 47(2)][982] is amended by---
         
     *   (a) omitting ""A District Court Judge, Justice, Community Magistrate, or Court Registrar (not being a constable)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)""; and
     
     *   (b) omitting ""on oath"" and substituting ""in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act"".
     
-    (3) [Section 47][981] is amended by repealing subsection (3) and substituting the following subsection:
+    (3) [Section 47][982] is amended by repealing subsection (3) and substituting the following subsection:
     
     > *   "(3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies."
     > 
     > 
     
-    (4) [Sections 47A to 47E][982] are repealed.
+    (4) [Sections 47A to 47E][983] are repealed.
 
 #### Amendments to Forests Act 1949
 
 ##### 317 Amendments to Forests Act 1949
     
-*   (1) This section amends the [Forests Act 1949][983].
+*   (1) This section amends the [Forests Act 1949][984].
     
-    (2) [Section 67D(1)(e)][984] is amended by substituting ""in accordance with section 67S and the provisions of subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012"" for ""under section 67S"".
+    (2) [Section 67D(1)(e)][985] is amended by substituting ""in accordance with section 67S and the provisions of subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012"" for ""under section 67S"".
     
-    (3) [Section 67R][985] is amended by adding the following subsection as subsection (2):
+    (3) [Section 67R][986] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 2 and 3, sections 118 and 119, and subparts 5 and 8) apply."
     > 
     > 
     
-    (4) [Section 67S][986] is amended by repealing subsections (1), and (3) to (7).
+    (4) [Section 67S][987] is amended by repealing subsections (1), and (3) to (7).
     
-    (5) [Section 71B(1)][987] is amended by omitting ""subject to the following conditions"" and substituting ""subject to Part 4 of the Search and Surveillance Act 2012 and to the following conditions"".
+    (5) [Section 71B(1)][988] is amended by omitting ""subject to the following conditions"" and substituting ""subject to Part 4 of the Search and Surveillance Act 2012 and to the following conditions"".
     
-    (6) [Section 71B(1)(b) to (d) and (f)][987] are repealed.
+    (6) [Section 71B(1)(b) to (d) and (f)][988] are repealed.
     
-    (7) [Section 71B(1)(e)][987] is amended by omitting ""on oath by an authorised person to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court"" and substituting ""in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer"".
+    (7) [Section 71B(1)(e)][988] is amended by omitting ""on oath by an authorised person to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court"" and substituting ""in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer"".
     
-    (8) [Section 71B(2)][987] is amended by inserting ""and the conditions set out in Part 4 of the Search and Surveillance Act 2012 relating to time of entry, notification of intention to enter, and evidence of identification or authorisation to enter,"" after ""that subsection,"".
+    (8) [Section 71B(2)][988] is amended by inserting ""and the conditions set out in Part 4 of the Search and Surveillance Act 2012 relating to time of entry, notification of intention to enter, and evidence of identification or authorisation to enter,"" after ""that subsection,"".
     
-    (9) [Section 71B][987] is amended by adding the following subsections:
+    (9) [Section 71B][988] is amended by adding the following subsections:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
     > 
@@ -7536,25 +7540,25 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 318 Amendments to Gas Act 1992
     
-*   (1) This section amends the [Gas Act 1992][988].
+*   (1) This section amends the [Gas Act 1992][989].
     
-    (2) [Section 43W(6)][989] is amended by omitting ""by written application on oath"" and substituting ""by application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (2) [Section 43W(6)][990] is amended by omitting ""by written application on oath"" and substituting ""by application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 43W(7)][989] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
+    (3) [Section 43W(7)][990] is amended by omitting ""A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable)"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012)"".
     
-    (4) [Section 43W][989] is amended by adding the following subsection:
+    (4) [Section 43W][990] is amended by adding the following subsection:
     
     > *   "(8) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
     > 
     
-    (5) [Section 50(1)][990] is amended by repealing paragraph (e) and substituting the following paragraph:
+    (5) [Section 50(1)][991] is amended by repealing paragraph (e) and substituting the following paragraph:
     
     > *   "(e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012\."
     > 
     > 
     
-    (6) [Section 50][990] is amended by inserting the following subsection after subsection (1):
+    (6) [Section 50][991] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e)."
     > 
@@ -7566,15 +7570,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 319 Amendments to International Energy Agreement Act 1976
     
-*   [Sections 320][485] and [321][486] amend the [International Energy Agreement Act 1976][991].
+*   [Sections 320][485] and [321][486] amend the [International Energy Agreement Act 1976][992].
 
 ##### 320 Power of entry
     
-*   [Section 9(3)][992] is amended by omitting ""Without limiting or restricting the application of sections 198 and 199 of the Summary Proceedings Act 1957,"".
+*   [Section 9(3)][993] is amended by omitting ""Without limiting or restricting the application of sections 198 and 199 of the Summary Proceedings Act 1957,"".
 
 ##### 321 New section 11 substituted
     
-*   [Section 11][993] is repealed and the following section substituted:
+*   [Section 11][994] is repealed and the following section substituted:
     
     > ##### "11 Search warrants
     >     
@@ -7592,15 +7596,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 322 Amendments to Weights and Measures Act 1987
     
-*   (1) This section amends the [Weights and Measures Act 1987][994].
+*   (1) This section amends the [Weights and Measures Act 1987][995].
     
-    (2) [Section 28(3)][995] is amended---
+    (2) [Section 28(3)][996] is amended---
         
     *   (a) by omitting ""Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath,"" and substituting ""An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012,""; and
     
     *   (b) by omitting ""in the prescribed form"".
     
-    (3) [Section 28][995] is amended by adding the following subsection:
+    (3) [Section 28][996] is amended by adding the following subsection:
     
     > *   "(7) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply."
     > 
@@ -7616,7 +7620,7 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) This section amends the [Arms Act 1983][580].
     
-    (2) The heading above section 60 and [sections 60 to 61][996] are repealed.
+    (2) The heading above section 60 and [sections 60 to 61][997] are repealed.
 
 #### Amendments to Corrections Act 2004
 
@@ -7624,15 +7628,15 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) This section amends the [Corrections Act 2004][563].
     
-    (2) [Section 23(1)][997] is amended by omitting ""314A to 314D of the Crimes Act 1961"" and substituting ""121, 128, 129, and 177 of the Search and Surveillance Act 2012"".
+    (2) [Section 23(1)][998] is amended by omitting ""314A to 314D of the Crimes Act 1961"" and substituting ""121, 128, 129, and 177 of the Search and Surveillance Act 2012"".
     
-    (3) [Section 23(3)][997] is amended by repealing paragraph (a) and substituting the following paragraph:
+    (3) [Section 23(3)][998] is amended by repealing paragraph (a) and substituting the following paragraph:
     
     > *   "(a) section 18 of the Misuse of Drugs Act 1975 (which confers powers of search and seizure):".
     > 
     > 
     
-    (4) [Section 23(3)][997] is amended by repealing paragraph (d) and substituting the following paragraphs:
+    (4) [Section 23(3)][998] is amended by repealing paragraph (d) and substituting the following paragraphs:
     
     > *   "(d) section 23 of the Search and Surveillance Act 2012 (which confers powers in relation to internal searches):
     > 
@@ -7640,7 +7644,7 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (5) [Section 103(2)][998] is amended by---
+    (5) [Section 103(2)][999] is amended by---
         
     *   (a) omitting ""or section 18A""; and
     
@@ -7652,11 +7656,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 325 Crimes Act 1961 amended
     
-*   (1) This section amends the [Crimes Act 1961][999].
+*   (1) This section amends the [Crimes Act 1961][1000].
     
-    (2) [Section 1(3)][1000] is amended by omitting ""Part 11A---Obtaining evidence by listening devices (sections 312A to 312Q)"".
+    (2) [Section 1(3)][1001] is amended by omitting ""Part 11A---Obtaining evidence by listening devices (sections 312A to 312Q)"".
     
-    (3) [Section 2(1)][1001] is amended by inserting the following definition in its appropriate alphabetical order:
+    (3) [Section 2(1)][1002] is amended by inserting the following definition in its appropriate alphabetical order:
     
     > "_serious violent offence_ means any offence---
     >     
@@ -7686,37 +7690,37 @@ Amendments, repeals, and miscellaneous provisions
     
     (5) [Section 98A(2)][596] is amended by omitting ""(within the meaning of section 312A(1))"" in each place where it appears.
     
-    (6) [Sections 202B][1002], [224][1003], [225][1004], the heading above section 314A, [sections 314A to 314D][1005], and [sections 317 to 317B][1006] are repealed.
+    (6) [Sections 202B][1003], [224][1004], [225][1005], the heading above section 314A, [sections 314A to 314D][1006], and [sections 317 to 317B][1007] are repealed.
     
-    (7) [Section 216F][1007] is amended by repealing subsection (1) and substituting the following subsection:
+    (7) [Section 216F][1008] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) An **unlawful disclosure** is the intentional and unauthorised disclosure of any information gained when undertaking maintenance of a communication service."
     > 
     > 
     
-    (8) [Section 216F(2)][1007] is amended by omitting ""subsection (1)(b)(i)"" and substituting ""subsection (1)"".
+    (8) [Section 216F(2)][1008] is amended by omitting ""subsection (1)(b)(i)"" and substituting ""subsection (1)"".
     
-    (9) [Part 11A][1008] is repealed.
+    (9) [Part 11A][1009] is repealed.
     
-    (10) [Section 216B(2)(b)][1009] is amended by repealing subparagraph (i) and substituting the following subparagraph:
+    (10) [Section 216B(2)(b)][1010] is amended by repealing subparagraph (i) and substituting the following subparagraph:
     
     > *   "(i) the Search and Surveillance Act 2012; or".
     > 
     > 
     
-    (11) [Section 216B(2)(b)][1009] is amended by repealing subparagraph (iv).
+    (11) [Section 216B(2)(b)][1010] is amended by repealing subparagraph (iv).
     
-    (12) [Section 216B(3)][1009] is repealed.
+    (12) [Section 216B(3)][1010] is repealed.
     
-    (13) [Section 216B(7)][1009] is amended by omitting ""an interception warrant"" and substituting ""a surveillance device warrant issued under the Search and Surveillance Act 2012"".
+    (13) [Section 216B(7)][1010] is amended by omitting ""an interception warrant"" and substituting ""a surveillance device warrant issued under the Search and Surveillance Act 2012"".
 
 #### Amendments to Crimes Amendment Act (No 4) 2011
 
 ##### 326 Amendments to Crimes Amendment Act (No 4) 2011
     
-*   (1) This section amends the [Crimes Amendment Act (No 4) 2011][1010].
+*   (1) This section amends the [Crimes Amendment Act (No 4) 2011][1011].
     
-    (2) The items relating to sections 312I(2), 312K(2), 314D(1), 317AB(1), and 317B(7) of the principal Act in the [Schedule][1011] are omitted.
+    (2) The items relating to sections 312I(2), 312K(2), 314D(1), 317AB(1), and 317B(7) of the principal Act in the [Schedule][1012] are omitted.
 
 #### Amendments to Criminal Procedure Act 2011
 
@@ -7724,7 +7728,7 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) This section amends the [Criminal Procedure Act 2011][592].
     
-    (2) The following items in [Schedule 3][1012] are omitted:
+    (2) The following items in [Schedule 3][1013] are omitted:
         
     *   (a) the item relating to section 137(2) of the Animal Welfare Act 1999; and
     
@@ -7766,7 +7770,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 329 New section 17A substituted
     
-*   [Section 17A][1013] is repealed and the following section substituted:
+*   [Section 17A][1014] is repealed and the following section substituted:
     
     > ##### "17A Sections 121, 128, and 129 of Search and Surveillance Act 2012 inapplicable to bailiffs
     >     
@@ -7780,9 +7784,9 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 330 Health Act 1956 amended
     
-*   (1) This section amends the [Health Act 1956][1014].
+*   (1) This section amends the [Health Act 1956][1015].
     
-    (2) [Section 71A][1015] is amended by repealing subsection (5) and substituting the following subsection:
+    (2) [Section 71A][1016] is amended by repealing subsection (5) and substituting the following subsection:
     
     > *   "(5) Sections 128, 129, and 177 of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)(c)."
     > 
@@ -7798,7 +7802,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 332 New section 18 substituted
     
-*   [Sections 18][1016] and [18A][1017] are repealed and the following section is substituted:
+*   [Sections 18][1017] and [18A][1018] are repealed and the following section is substituted:
     
     > ##### "18 Seizing and destroying prohibited plants and seeds
     >     
@@ -7840,17 +7844,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 333 Application of Customs and Excise Act 1996
     
-*   [Section 36(1)][1018] is amended by omitting ""149C(1) and (2), 149D, 151, 152, 161, 165 to 172"" and substituting ""149C(1) to (3), 151, 152, 161, 166A to 167"".
+*   [Section 36(1)][1019] is amended by omitting ""149C(1) and (2), 149D, 151, 152, 161, 165 to 172"" and substituting ""149C(1) to (3), 151, 152, 161, 166A to 167"".
 
 #### Amendments to Misuse of Drugs Amendment Act 1978
 
 ##### 334 Misuse of Drugs Amendment Act 1978 amended
     
-*   (1) This section amends the [Misuse of Drugs Amendment Act 1978][1019].
+*   (1) This section amends the [Misuse of Drugs Amendment Act 1978][1020].
     
-    (2) [Section 12(1)(b)][610] is amended by omitting ""package or goods"" and substituting ""package, goods, or mail"".
+    (2) [Section 12(1)(b)][611] is amended by omitting ""package or goods"" and substituting ""package, goods, or mail"".
     
-    (3) [Section 12][610] is amended by inserting the following paragraphs after paragraph (b):
+    (3) [Section 12][611] is amended by inserting the following paragraphs after paragraph (b):
     
     > *   "(ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
     > 
@@ -7858,73 +7862,73 @@ Amendments, repeals, and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 12(1)(c)][610] is amended by omitting ""goods or mail"" and substituting ""package, goods, or mail"".
+    (4) [Section 12(1)(c)][611] is amended by omitting ""goods or mail"" and substituting ""package, goods, or mail"".
     
-    (5) [Section 12(2)][610] is amended by omitting ""goods or mail"" in each place where it appears and substituting in each case ""package, goods, or mail"".
+    (5) [Section 12(2)][611] is amended by omitting ""goods or mail"" in each place where it appears and substituting in each case ""package, goods, or mail"".
     
-    (6) [Sections 12A to 12C][1020] are repealed.
+    (6) [Sections 12A to 12C][1021] are repealed.
     
-    (7) [Sections 14 to 29][1021] are repealed.
+    (7) [Sections 14 to 29][1022] are repealed.
 
 #### Amendment to Mutual Assistance in Criminal Matters Act 1992
 
 ##### 335 Mutual Assistance in Criminal Matters Act 1992 amended
     
-*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][1022].
+*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][1023].
     
-    (2) [Section 43(2)][1023] is amended by omitting ""in writing, to apply to a District Court Judge for a search warrant in accordance with section 44"" and substituting ""to apply to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) for a search warrant in accordance with section 44 of this Act"".
+    (2) [Section 43(2)][1024] is amended by omitting ""in writing, to apply to a District Court Judge for a search warrant in accordance with section 44"" and substituting ""to apply to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) for a search warrant in accordance with section 44 of this Act"".
     
-    (3) [Section 44(1)][1024] is amended by omitting ""Any District Court Judge who, on an application in writing made an oath"" and substituting ""An issuing officer who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
+    (3) [Section 44(1)][1025] is amended by omitting ""Any District Court Judge who, on an application in writing made an oath"" and substituting ""An issuing officer who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012"".
     
-    (4) [Section 44][1024] is amended by adding the following subsection:
+    (4) [Section 44][1025] is amended by adding the following subsection:
     
     > *   "(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply."
     > 
     > 
     
-    (5) [Sections 45 to 48][1025] are repealed.
+    (5) [Sections 45 to 48][1026] are repealed.
     
-    (6) [Section 46A][1026] is amended by omitting ""314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are"" and substituting ""121, 128, 129, and 177 of the Search and Surveillance Act 2012 apply with any necessary modifications as if references in those sections to a power to stop or search a vehicle conferred under that Act were"".
+    (6) [Section 46A][1027] is amended by omitting ""314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are"" and substituting ""121, 128, 129, and 177 of the Search and Surveillance Act 2012 apply with any necessary modifications as if references in those sections to a power to stop or search a vehicle conferred under that Act were"".
 
 #### Amendments to Policing Act 2008
 
 ##### 336 Policing Act 2008 amended
     
-*   (1) This section amends the [Policing Act 2008][1027].
+*   (1) This section amends the [Policing Act 2008][1028].
     
     (2) [Sections 37 to 39][575] are repealed.
     
-    (3) [Clause 1(a) of Schedule 1][1028] is amended by omitting ""36, and 37"" and substituting ""and 36"".
+    (3) [Clause 1(a) of Schedule 1][1029] is amended by omitting ""36, and 37"" and substituting ""and 36"".
     
-    (4) [Clause 1 of Schedule 1][1028] is amended by inserting the following paragraph after paragraph (a):
+    (4) [Clause 1 of Schedule 1][1029] is amended by inserting the following paragraph after paragraph (a):
     
     > *   "(ab) the powers of a constable under section 11 of the Search and Surveillance Act 2012:".
     > 
     > 
     
-    (5) [Clause 4(e) of Schedule 1][1028] is amended by omitting ""32, 33, and 37"" and substituting ""32 and 33"".
+    (5) [Clause 4(e) of Schedule 1][1029] is amended by omitting ""32, 33, and 37"" and substituting ""32 and 33"".
     
-    (6) [Clause 4 of Schedule 1][1028] is amended by inserting the following paragraph after paragraph (e):
+    (6) [Clause 4 of Schedule 1][1029] is amended by inserting the following paragraph after paragraph (e):
     
     > *   "(ea) the powers of a constable under section 11 of the Search and Surveillance Act 2012:".
     > 
     > 
     
-    (7) [Clause 5 of Schedule 1][1028] is amended by omitting ""314B of the Crimes Act 1961"" and substituting ""121 of the Search and Surveillance Act 2012"".
+    (7) [Clause 5 of Schedule 1][1029] is amended by omitting ""314B of the Crimes Act 1961"" and substituting ""121 of the Search and Surveillance Act 2012"".
 
 #### Amendments to Summary Proceedings Act 1957
 
 ##### 337 Summary Proceedings Act 1957 amended
     
-*   (1) This section amends the [Summary Proceedings Act 1957][1029].
+*   (1) This section amends the [Summary Proceedings Act 1957][1030].
     
-    (2) [Section 3(1)(h)][1030] is repealed.
+    (2) [Section 3(1)(h)][1031] is repealed.
     
-    (3) The heading above section 198 and [sections 198 to 200][1031] are repealed.
+    (3) The heading above section 198 and [sections 198 to 200][1032] are repealed.
     
-    (4) The heading above section 200A and [sections 200A to 200P][1032] are repealed.
+    (4) The heading above section 200A and [sections 200A to 200P][1033] are repealed.
     
-    (5) [Part 2 of Schedule 1][1033] is amended by inserting the following item after the item relating to the Sales Tax Act 1974:
+    (5) [Part 2 of Schedule 1][1034] is amended by inserting the following item after the item relating to the Sales Tax Act 1974:
     
     Search and Surveillance Act 2012173 Failing to comply with examination order
     
@@ -7936,25 +7940,25 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 338 Amendments to Summary Proceedings Amendment Act (No 2) 2011
     
-*   (1) This section amends the [Summary Proceedings Amendment Act (No 2) 2011][1034].
+*   (1) This section amends the [Summary Proceedings Amendment Act (No 2) 2011][1035].
     
-    (2) The items relating to sections 198B(6) and 199(4)(a) of the principal Act in the [Schedule][1035] are omitted.
+    (2) The items relating to sections 198B(6) and 199(4)(a) of the principal Act in the [Schedule][1036] are omitted.
 
 #### Amendment to Telecommunications Act 2001
 
 ##### 339 Telecommunications Act 2001 amended
     
-*   (1) This section amends the [Telecommunications Act 2001][1036].
+*   (1) This section amends the [Telecommunications Act 2001][1037].
     
-    (2) [Section 15(g)][1037] is amended by omitting ""to 98G"" and substituting ""and 98G"".
+    (2) [Section 15(g)][1038] is amended by omitting ""to 98G"" and substituting ""and 98G"".
 
 #### Amendment to Telecommunications (Interception Capability) Act 2004
 
 ##### 340 Telecommunications (Interception Capability) Act 2004 amended
     
-*   (1) This section amends the [Telecommunications (Interception Capability) Act 2004][1038].
+*   (1) This section amends the [Telecommunications (Interception Capability) Act 2004][1039].
     
-    (2) [Section 3(1)][609] is amended by repealing the definition of **interception warrant** and substituting the following definition:
+    (2) [Section 3(1)][1040] is amended by repealing the definition of **interception warrant** and substituting the following definition:
     
     > "_interception warrant_ means a warrant that is issued under any of the following enactments:
     >     
@@ -7972,7 +7976,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 341 Telecommunications (Residual Provisions) Act 1987 repealed
     
-*   The [Telecommunications (Residual Provisions) Act 1987][1039] (1987 No 116) is repealed.
+*   The [Telecommunications (Residual Provisions) Act 1987][1041] (1987 No 116) is repealed.
 
 ### Subpart 4---Regulation-making powers, transitional provisions, and review provision
 
@@ -8018,7 +8022,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 346 Transitional provision relating to Part 11A of Crimes Act 1961
     
-*   (1) Despite the repeal of [Part 11A][1008] of the Crimes Act 1961 by this Act,---
+*   (1) Despite the repeal of [Part 11A][1009] of the Crimes Act 1961 by this Act,---
         
     *   (a) where an application has been made under that Part before 18 April 2012, and the application is not finally determined before that date, that Part continues to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
@@ -8026,7 +8030,7 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (c) section 312M of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
     
-    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [Part 11A][1008] of the Crimes Act 1961---
+    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [Part 11A][1009] of the Crimes Act 1961---
         
     *   (a) before 18 April 2012; or 
     
@@ -8036,15 +8040,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 347 Transitional provision relating to sections 14 to 29 of Misuse of Drugs Amendment Act 1978
     
-*   (1) Despite the repeal of [sections 14 to 29][1021] of the Misuse of Drugs Amendment Act 1978 by this Act,---
+*   (1) Despite the repeal of [sections 14 to 29][1022] of the Misuse of Drugs Amendment Act 1978 by this Act,---
         
     *   (a) where an application has been made under any of those sections before 18 April 2012 and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) those sections (except for [section 18][1040]) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
+    *   (b) those sections (except for [section 18][1042]) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) [section 25][1041] of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
+    *   (c) [section 25][1043] of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
     
-    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [sections 14 to 29][1021] of the Misuse of Drugs Amendment Act 1978---
+    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under [sections 14 to 29][1022] of the Misuse of Drugs Amendment Act 1978---
         
     *   (a) before 18 April 2012; or 
     
@@ -8054,23 +8058,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 348 Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957
     
-*   (1) Despite their repeal by [section 337][519], [sections 198 to 200][1031] of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
+*   (1) Despite their repeal by [section 337][519], [sections 198 to 200][1032] of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
     
-    (2) Subsection (1) does not limit the application of the [Interpretation Act 1999][1042].
+    (2) Subsection (1) does not limit the application of the [Interpretation Act 1999][1044].
     
     (3) This section expires on the close of 30 June 2014\.
 
 ##### 349 Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957
     
-*   (1) Despite the repeal of [sections 200A to 200P][1032] of the Summary Proceedings Act 1957 by this Act,---
+*   (1) Despite the repeal of [sections 200A to 200P][1033] of the Summary Proceedings Act 1957 by this Act,---
         
     *   (a) where an application has been made under any of those sections before 18 April 2012, and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) those sections (except for [section 200F][1043]) continue to apply to a continuing warrant and to any matter relating to the continuing warrant in all respects as if this Act (other than this section) had not been enacted; and
+    *   (b) those sections (except for [section 200F][1045]) continue to apply to a continuing warrant and to any matter relating to the continuing warrant in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) those sections continue to apply to anything done, before 18 April 2012, under [section 200G][1044] of that Act.
+    *   (c) those sections continue to apply to anything done, before 18 April 2012, under [section 200G][1046] of that Act.
     
-    (2) In this section, _continuing warrant_ means a tracking device warrant or a warrant for removal of a tracking device issued under [sections 200A to 200P][1032] of the Summary Proceedings Act 1957---
+    (2) In this section, _continuing warrant_ means a tracking device warrant or a warrant for removal of a tracking device issued under [sections 200A to 200P][1033] of the Summary Proceedings Act 1957---
         
     *   (a) before 18 April 2012; or 
     
@@ -8080,23 +8084,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 350 Transitional provision relating to covert video surveillance
     
-*   (1) For the purposes of assessing the lawfulness of a search (within the meaning of [section 4][1045] of the Temporary Act) under a continuing warrant, the search must be treated as if---
+*   (1) For the purposes of assessing the lawfulness of a search (within the meaning of [section 4][1047] of the Temporary Act) under a continuing warrant, the search must be treated as if---
         
     *   (a) this Act (other than this section) had not been enacted; and 
     
-    *   (b) [sections 5 to 7][1046] of the Temporary Act continued to apply; and
+    *   (b) [sections 5 to 7][1048] of the Temporary Act continued to apply; and
     
-    *   (c) for the words ""before the close of the day that is 6 months after the date on which this Act comes into force"" in [section 5(1)][1046] of that Act there were substituted the words ""while the continuing warrant is in force"".
+    *   (c) for the words ""before the close of the day that is 6 months after the date on which this Act comes into force"" in [section 5(1)][1048] of that Act there were substituted the words ""while the continuing warrant is in force"".
     
     (2) In this section,---
     
-    _continuing warrant_ means a warrant issued under [section 198][1031] of the Summary Proceedings Act 1957---
+    _continuing warrant_ means a warrant issued under [section 198][1032] of the Summary Proceedings Act 1957---
         
     *   (a) before 18 April 2012; or
     
     *   (b) on or after that date on an application made before that date
     
-    _Temporary Act_ means the [Video Camera Surveillance (Temporary Measures) Act 2011][1047].
+    _Temporary Act_ means the [Video Camera Surveillance (Temporary Measures) Act 2011][1049].
 
 ##### 351 Transitional provision relating to provisions brought into force under section 2
     
@@ -8108,7 +8112,7 @@ Amendments, repeals, and miscellaneous provisions
     
     *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
     
-    (2) Subsection (1)(c) does not limit the provisions of the [Interpretation Act 1999][1042].
+    (2) Subsection (1)(c) does not limit the provisions of the [Interpretation Act 1999][1044].
     
     (3) In this section,---
     
@@ -8140,19 +8144,19 @@ Amendments, repeals, and miscellaneous provisions
 
 ##### 354 Transitional provision relating to Criminal Procedure Act 2011
     
-*   Until the commencement date (within the meaning of [section 394][1048] of the Criminal Procedure Act 2011),---
+*   Until the commencement date (within the meaning of [section 394][1050] of the Criminal Procedure Act 2011),---
         
-    *   (a) [section 13(3)(b)][19] must be read as if the reference to [section 377][578] of the Criminal Procedure Act 2011 were a reference to [section 404][1049] of the Crimes Act 1961; and
+    *   (a) [section 13(3)(b)][19] must be read as if the reference to [section 377][578] of the Criminal Procedure Act 2011 were a reference to [section 404][1051] of the Crimes Act 1961; and
     
     *   (b) [section 18(3)(a)][27] must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
     
     *   (c) [section 18(3)(b)][27] must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
     
-    *   (d) [section 24(4)(c)][34] must be read as if the reference to the [Criminal Procedure Act 2011][592] were a reference to the [Summary Proceedings Act 1957][1029]; and
+    *   (d) [section 24(4)(c)][34] must be read as if the reference to the [Criminal Procedure Act 2011][592] were a reference to the [Summary Proceedings Act 1957][1030]; and
     
     *   (e) [section 48(2)(d)(i)][73] must be read as if the reference to a category 3 or category 4 offence were a reference to an indictable offence; and
     
-    *   (f) [section 107(2)][151] must be read as if the reference to [section 204][615] of the Summary Proceedings Act 1957 and [section 379][616] of the Criminal Procedure Act 2011 were a reference only to section 204 of the Summary Proceedings Act 1957; and
+    *   (f) [section 107(2)][151] must be read as if the reference to [section 204][616] of the Summary Proceedings Act 1957 and [section 379][617] of the Criminal Procedure Act 2011 were a reference only to section 204 of the Summary Proceedings Act 1957; and
     
     *   (g) [sections 173(2)][242] and [174(2)][243] must be read as if the offences prescribed in those sections were triable on indictment; and
     
@@ -8164,7 +8168,7 @@ Amendments, repeals, and miscellaneous provisions
     
 *   (1) If the New Zealand Customs Service is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 220 to 229][313] are in force, taken to include a Customs officer. 
     
-    (2) If the Department of Internal Affairs is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 241 to 244][342] are in force, taken to include an inspector within the meaning of [section 2][1050] of the Films, Videos, and Publications Classification Act 1993\. 
+    (2) If the Department of Internal Affairs is approved, under an Order in Council made under [section 50(1)][76], to undertake any activity specified in that subsection, then the definition of _enforcement officer_ in [section 3(1)][4] is, in the period commencing with the commencement of that order and ending on the first day on which all of [sections 241 to 244][342] are in force, taken to include an inspector within the meaning of [section 2][1052] of the Films, Videos, and Publications Classification Act 1993\. 
 
 ##### 356 Regulations providing for transitional matters
     
@@ -8215,353 +8219,353 @@ Powers in other enactments to which all or part of Part 4 of Search and Surveill
 
 **Act** **Section** **Brief description of power** **Which provisions in Part 4 apply**
 
-[Agricultural Compounds and Veterinary Medicines Act 1997][633] [64(1) and (2)][634] 
+[Agricultural Compounds and Veterinary Medicines Act 1997][634] [64(1) and (2)][635] 
 
 ACVM officer may enter and inspect transitional facility or biosecurity control area 
 
 All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] and [119][168])
 
-[69(1)][635] Constable or ACVM officer may obtain and execute search warrant to search for agricultural compounds or biological agents and related objects All (except that [sections 118][166] and [119][168] apply to constables only)
+[69(1)][636] Constable or ACVM officer may obtain and execute search warrant to search for agricultural compounds or biological agents and related objects All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[71(1)][638] Constable or ACVM officer may dispose of property seized under search warrant issued under [section 69(1)][635] of Agricultural Compounds and Veterinary Medicines Act 1997 [Subparts 1][127], [5][194], [6][213], [7][230], and [10][249] 
+[71(1)][639] Constable or ACVM officer may dispose of property seized under search warrant issued under [section 69(1)][636] of Agricultural Compounds and Veterinary Medicines Act 1997 [Subparts 1][127], [5][194], [6][213], [7][230], and [10][249] 
 
-[Animal Products Act 1999][641] [87(1) and (2)][642] Animal product officer may enter place to determine whether person is complying with [Animal Products Act 1999][641] or whether shellfish pose hazard to public health [Subparts 1][127], [4][154], [7][230], [9][241], and [10][249] (except [sections 118][166] and [119][168])
+[Animal Products Act 1999][642] [87(1) and (2)][643] Animal product officer may enter place to determine whether person is complying with [Animal Products Act 1999][642] or whether shellfish pose hazard to public health [Subparts 1][127], [4][154], [7][230], [9][241], and [10][249] (except [sections 118][166] and [119][168])
 
-[88(1)][643] Animal product officer may examine things at place entered under [section 87(1) or (2)][642] of Animal Products Act 1999 All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] and [119][168])
+[88(1)][644] Animal product officer may examine things at place entered under [section 87(1) or (2)][643] of Animal Products Act 1999 All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] and [119][168])
 
-[94(1)][646] Constable or animal product officer may obtain and execute search warrant to search for evidence of offence against [Animal Products Act 1999][641] or in relation to shellfish contaminants All (except that [sections 118][166] and [119][168] apply to constables only)
+[94(1)][647] Constable or animal product officer may obtain and execute search warrant to search for evidence of offence against [Animal Products Act 1999][642] or in relation to shellfish contaminants All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[97][649] Constable or animal product officer may dispose of property seized under search warrant issued under [section 94(1)][646] of Animal Products Act 1999 [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
+[97][650] Constable or animal product officer may dispose of property seized under search warrant issued under [section 94(1)][647] of Animal Products Act 1999 [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
 
-[Animal Welfare Act 1999][651] [131(1) and (2)][653] Constable or animal welfare inspector may obtain and execute search warrant to search for evidence of offence against [Animal Welfare Act 1999][651] or to prevent or investigate suffering of animal All (except that [sections 118][166] and [119][168] apply to constables only)
+[Animal Welfare Act 1999][652] [131(1) and (2)][654] Constable or animal welfare inspector may obtain and execute search warrant to search for evidence of offence against [Animal Welfare Act 1999][652] or to prevent or investigate suffering of animal All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[136(1)][657] Constable or animal welfare inspector may dispose of property seized under search warrant issued under [section 131][653] of Animal Welfare Act 1999 or dispose of any animal taken under [section 137][658] of that Act [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
+[136(1)][658] Constable or animal welfare inspector may dispose of property seized under search warrant issued under [section 131][654] of Animal Welfare Act 1999 or dispose of any animal taken under [section 137][659] of that Act [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
 
-[Antarctic Marine Living Resources Act 1981][660] [9(1)][661] High seas fishery inspector may stop, enter, inspect, and examine vehicle, vessel, aircraft, or hovercraft for evidence of offence against [Antarctic Marine Living Resources Act 1981][660] All (except [subparts 3][138] and [8][236])
+[Antarctic Marine Living Resources Act 1981][661] [9(1)][662] High seas fishery inspector may stop, enter, inspect, and examine vehicle, vessel, aircraft, or hovercraft for evidence of offence against [Antarctic Marine Living Resources Act 1981][661] All (except [subparts 3][138] and [8][236])
 
-[Antarctica (Environmental Protection) Act 1994][662] [42(1)][663] Special inspector may obtain and execute search warrant to search for evidence of offence against [Antarctica (Environmental Protection) Act 1994][662] All 
+[Antarctica (Environmental Protection) Act 1994][663] [42(1)][664] Special inspector may obtain and execute search warrant to search for evidence of offence against [Antarctica (Environmental Protection) Act 1994][663] All 
 
-[43(1)][664] Special inspector may search without warrant for evidence of offence against [Antarctica (Environmental Protection) Act 1994][662] in exigent circumstances All (except [subparts 2][131] and [3][138])
+[43(1)][665] Special inspector may search without warrant for evidence of offence against [Antarctica (Environmental Protection) Act 1994][663] in exigent circumstances All (except [subparts 2][131] and [3][138])
 
-[Anti-Money Laundering and Countering Financing of Terrorism Act 2009][666] [117(1) and (3)][668] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offence against Act or of failure to comply with requirement under Act [Subparts 1][127], [3][138], and [9][241]
+[Anti-Money Laundering and Countering Financing of Terrorism Act 2009][667] [117(1) and (3)][669] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offence against Act or of failure to comply with requirement under Act [Subparts 1][127], [3][138], and [9][241]
 
-[118][669] Enforcement officer or constable executing search warrant to inspect and copy documents and require a person to produce documents, operate equipment, remove documents, and answer questions All (except [subpart 3][138] and [sections 118][166] and [119][168])
+[118][670] Enforcement officer or constable executing search warrant to inspect and copy documents and require a person to produce documents, operate equipment, remove documents, and answer questions All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
-[Anti-Personnel Mines Prohibition Act 1998][966] [22][967] Anti-personnel mines officer may obtain and execute search warrant to enter and inspect place in order to exercise function conferred by [Anti-Personnel Mines Prohibition Act 1998][966] [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] 
+[Anti-Personnel Mines Prohibition Act 1998][967] [22][968] Anti-personnel mines officer may obtain and execute search warrant to enter and inspect place in order to exercise function conferred by [Anti-Personnel Mines Prohibition Act 1998][967] [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] 
 
-[Aviation Crimes Act 1972][673] [13(1)][674] Constable may search person who declines to allow his or her luggage to be searched in circumstances where constable believes crime against [Aviation Crimes Act 1972][673] has been, is being, or is likely to be committed All (except [subpart 3][138])
+[Aviation Crimes Act 1972][674] [13(1)][675] Constable may search person who declines to allow his or her luggage to be searched in circumstances where constable believes crime against [Aviation Crimes Act 1972][674] has been, is being, or is likely to be committed All (except [subpart 3][138])
 
-[Biosecurity Act 1993][675] [110(1)][676] Inspector or authorised person may obtain and execute search warrant to enter and inspect places for pests, pest agents, unwanted organisms, unauthorised goods, or risk goods, and to check activities carried out under [Biosecurity Act 1993][675] [Subparts 1][127], [3][67], [7][230], [9][241], and [10][249] 
+[Biosecurity Act 1993][676] [110(1)][677] Inspector or authorised person may obtain and execute search warrant to enter and inspect places for pests, pest agents, unwanted organisms, unauthorised goods, or risk goods, and to check activities carried out under [Biosecurity Act 1993][676] [Subparts 1][127], [3][67], [7][230], [9][241], and [10][249] 
 
-[111(1)][677] Inspector or authorised person may obtain, and inspector, authorised person, or constable may execute, search warrant to search for evidence of offence against [Biosecurity Act 1993][675] All (except [sections 118][166] and [119][168])
+[111(1)][678] Inspector or authorised person may obtain, and inspector, authorised person, or constable may execute, search warrant to search for evidence of offence against [Biosecurity Act 1993][676] All (except [sections 118][166] and [119][168])
 
-[118(1)][679] Person exercising power of search conferred by [section 111][677] of Biosecurity Act 1993 may seize things [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
+[118(1)][680] Person exercising power of search conferred by [section 111][678] of Biosecurity Act 1993 may seize things [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-[Boxing and Wrestling Act 1981][680] [9][681] Constable may obtain and execute search warrant to obtain evidence of offence against [Boxing and Wrestling Act 1981][680] [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249]
+[Boxing and Wrestling Act 1981][681] [9][682] Constable may obtain and execute search warrant to obtain evidence of offence against [Boxing and Wrestling Act 1981][681] [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249]
 
-[Chemical Weapons (Prohibition) Act 1996][968] [23][969] Constable or appointed person may apply for search warrant [Subparts 3][138] and [4][154]
+[Chemical Weapons (Prohibition) Act 1996][969] [23][970] Constable or appointed person may apply for search warrant [Subparts 3][138] and [4][154]
 
-[Children, Young Persons, and Their Families Act 1989][569] [39(1) and (3)][682] Constable or social worker may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm [Sections 99][142], [101][144], and [105][149] 
+[Children, Young Persons, and Their Families Act 1989][569] [39(1) and (3)][683] Constable or social worker may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm [Sections 99][142], [101][144], and [105][149] 
 
-[40(1) and (4)][683] On application for order that child is in need of care and protection, constable or social worker may obtain and execute search warrant authorising search for and removal of child [Sections 99][142], [101][144], and [105][149] 
+[40(1) and (4)][684] On application for order that child is in need of care and protection, constable or social worker may obtain and execute search warrant authorising search for and removal of child [Sections 99][142], [101][144], and [105][149] 
 
-[386(1)][684] If child or young person absconds, constable or social worker may obtain and execute search warrant authorising search for, and removal and return of, child or young person [Sections 99][142], [101][144], and [105][149]
+[386(1)][685] If child or young person absconds, constable or social worker may obtain and execute search warrant authorising search for, and removal and return of, child or young person [Sections 99][142], [101][144], and [105][149]
 
-[Civil Aviation Act 1990][688] [24(4)][689] Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by [Civil Aviation Act 1990][688] [Subparts 1][127], [3][138], [4][154], [5][194], [7][230], [9][241], and [10][249] (except that [sections 118][166] and [119][168] apply to constables only)
+[Civil Aviation Act 1990][689] [24(4)][690] Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by [Civil Aviation Act 1990][689] [Subparts 1][127], [3][138], [4][154], [5][194], [7][230], [9][241], and [10][249] (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Commerce Act 1986][972] [98A(2)][973] Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of [Commerce Act 1986][972] All (except [sections 118][166] and [119][168])
+[Commerce Act 1986][973] [98A(2)][974] Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of [Commerce Act 1986][973] All (except [sections 118][166] and [119][168])
 
-[Commodity Levies Act 1990][690] [19(1)][691] Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against [Commodity Levies Act 1990][690] All (except that [sections 118][166] and [119][168] apply to constables only)
+[Commodity Levies Act 1990][691] [19(1)][692] Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against [Commodity Levies Act 1990][691] All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Conservation Act 1987][694] [40(1) and (5)][695] Warranted officer may seize various things held in contravention of [Conservation Act 1987][694] and exercise other powers; constable or warranted officer may seize thing in respect of which it is believed offence is being committed under Conservation Act 1987 All (except [subpart 3][138])
+[Conservation Act 1987][695] [40(1) and (5)][696] Warranted officer may seize various things held in contravention of [Conservation Act 1987][695] and exercise other powers; constable or warranted officer may seize thing in respect of which it is believed offence is being committed under Conservation Act 1987 All (except [subpart 3][138])
 
-[Credit Contracts and Consumer Finance Act 2003][976] [113(d)][977] Powers of Commerce Commission to search and seize under [sections 98A][973] and [98G][975] of Commerce Act 1986 are applied to [Credit Contracts and Consumer Finance Act 2003][976] (with any necessary modifications) All (except [sections 118][166] and [119][168])
+[Credit Contracts and Consumer Finance Act 2003][977] [113(d)][978] Powers of Commerce Commission to search and seize under [sections 98A][974] and [98G][976] of Commerce Act 1986 are applied to [Credit Contracts and Consumer Finance Act 2003][977] (with any necessary modifications) All (except [sections 118][166] and [119][168])
 
-[Criminal Proceeds (Recovery) Act 2009][697] [59][698] Court may declare nature, extent, and value of person's interest in property specified in civil forfeiture order, and give directions All (except [subpart 6][213])
+[Criminal Proceeds (Recovery) Act 2009][698] [59][699] Court may declare nature, extent, and value of person's interest in property specified in civil forfeiture order, and give directions All (except [subpart 6][213])
 
-[71][699] Court may declare nature, extent, and value of person's interest in property specified in instrument forfeiture order, and give directions All (except [subpart 6][213])
+[71][700] Court may declare nature, extent, and value of person's interest in property specified in instrument forfeiture order, and give directions All (except [subpart 6][213])
 
-[101(1)][700] Member of Police may obtain and execute warrant to search any place or thing for instrument of crime or evidence of nature of person's interest in or control over instrument of crime [Subpart 3][138]
+[101(1)][701] Member of Police may obtain and execute warrant to search any place or thing for instrument of crime or evidence of nature of person's interest in or control over instrument of crime [Subpart 3][138]
 
-[102(1)][701] Commissioner of Police may obtain and execute warrant to search any place or thing for tainted property or evidence of person's interest in tainted property or property that is subject of restraining order [Subpart 3][138]
+[102(1)][702] Commissioner of Police may obtain and execute warrant to search any place or thing for tainted property or evidence of person's interest in tainted property or property that is subject of restraining order [Subpart 3][138]
 
-[104(1)][702] The Commissioner of Police may apply to a Judge for a production order if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under this Act or to any proceedings under this Act. [Sections 99][142] and [100][143]
+[104(1)][703] The Commissioner of Police may apply to a Judge for a production order if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under this Act or to any proceedings under this Act. [Sections 99][142] and [100][143]
 
-[106(1)][703] The Commissioner of Police may apply to a Judge for an examination order. [Sections 99][142] and [100][143]
+[106(1)][704] The Commissioner of Police may apply to a Judge for an examination order. [Sections 99][142] and [100][143]
 
-[108(1)][704] Commissioner of Police may obtain and execute warrant to search any thing or place for documents or information required to be produced or supplied under Act [Subpart 3][138]
+[108(1)][705] Commissioner of Police may obtain and execute warrant to search any thing or place for documents or information required to be produced or supplied under Act [Subpart 3][138]
 
-[110(1)][705] Official Assignee may obtain and execute warrant to search any place or thing for property that is or is likely to be subject of restraining order or that is subject of forfeiture order [Subpart 3][138]
+[110(1)][706] Official Assignee may obtain and execute warrant to search any place or thing for property that is or is likely to be subject of restraining order or that is subject of forfeiture order [Subpart 3][138]
 
-[114][706] Application and issue of search warrants All (except [subpart 6][213])
+[114][707] Application and issue of search warrants All (except [subpart 6][213])
 
-[127][708] Applications for warrants under [sections 124 to 126][1051] All (except [subpart 6][213])
+[127][709] Applications for warrants under [sections 124 to 126][1053] All (except [subpart 6][213])
 
-[146][709] High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order All (except [subpart 6][213])
+[146][710] High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order All (except [subpart 6][213])
 
-[Crown Minerals Amendment Act 2013][1052] [99B][1053] Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, [Crown Minerals Act 1991][1054], or regulations made under that Act being complied with. All (except [sections 118][166] and [119][168])
+[Crown Minerals Amendment Act 2013][1054] [99B][1055] Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, [Crown Minerals Act 1991][1056], or regulations made under that Act being complied with. All (except [sections 118][166] and [119][168])
 
-[99C][1055] Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against [Crown Minerals Act 1991][1054] or regulations made under that Act. All (except [sections 118][166] and [119][168] in the case of an enforcement officer)
+[99C][1057] Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against [Crown Minerals Act 1991][1056] or regulations made under that Act. All (except [sections 118][166] and [119][168] in the case of an enforcement officer)
 
-[Customs and Excise Act 1996][710] [139(1)(d)][711] Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][710] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[Customs and Excise Act 1996][711] [139(1)(d)][712] Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][711] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[140][712] Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][710] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[140][713] Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][711] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[144][714] Customs officer or, in certain cases, constable may stop and detain vehicle to search it for various kinds of goods [Subparts 1][127] and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[144][715] Customs officer or, in certain cases, constable may stop and detain vehicle to search it for various kinds of goods [Subparts 1][127] and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[149B][716] Customs officer or, in certain cases, constable may search person if officer or constable has reasonable cause to suspect that certain items are hidden on or about that person and are evidence that the person has committed or is about to commit certain offences against [Customs and Excise Act 1996][710] [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[149B][717] Customs officer or, in certain cases, constable may search person if officer or constable has reasonable cause to suspect that certain items are hidden on or about that person and are evidence that the person has committed or is about to commit certain offences against [Customs and Excise Act 1996][711] [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[149BA][717] Customs officer or constable may search a person for dangerous items if officer or constable has reasonable grounds to believe that items posing threat to safety are on or about the person [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[149BA][718] Customs officer or constable may search a person for dangerous items if officer or constable has reasonable grounds to believe that items posing threat to safety are on or about the person [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[149C][718] Customs officer or constable may seize certain things found during search under [section 149B][716] or [149BA][717] of Customs and Excise Act 1996 [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods)
+[149C][719] Customs officer or constable may seize certain things found during search under [section 149B][717] or [149BA][718] of Customs and Excise Act 1996 [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods)
 
-[152][720] Customs officer may, on direction of chief executive, inspect goods no longer under control of Customs if chief executive has reasonable grounds to suspect goods are goods in respect of which offence has been committed, or that are forfeited to the Crown, under [Customs and Excise Act 1996][710] [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[152][721] Customs officer may, on direction of chief executive, inspect goods no longer under control of Customs if chief executive has reasonable grounds to suspect goods are goods in respect of which offence has been committed, or that are forfeited to the Crown, under [Customs and Excise Act 1996][711] [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[167(1)][723] Customs officer may obtain and execute search warrant to enter any place or thing to search for evidence of contravention of [Customs and Excise Act 1996][710] or anything that is unlawfully imported or exported, or that is used for the purpose of unlawful exportation or importation of goods All (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
+[167(1)][724] Customs officer may obtain and execute search warrant to enter any place or thing to search for evidence of contravention of [Customs and Excise Act 1996][711] or anything that is unlawfully imported or exported, or that is used for the purpose of unlawful exportation or importation of goods All (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
-[175C][727] Customs officer may seize or detain goods suspected to be certain risk goods or evidence of commission of certain offences, if those goods are discovered in the course of exercising powers of inspection, search, or examination under [Customs and Excise Act 1996][710] All (except [subparts 2][131] and [3][138])
+[175C][728] Customs officer may seize or detain goods suspected to be certain risk goods or evidence of commission of certain offences, if those goods are discovered in the course of exercising powers of inspection, search, or examination under [Customs and Excise Act 1996][711] All (except [subparts 2][131] and [3][138])
 
-175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][710]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][582] or [Films, Videos, and Publications Classification Act 1993][1056] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
+175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][711]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][582] or [Films, Videos, and Publications Classification Act 1993][1058] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
 
-[Dairy Industry Restructuring Act 2001][730] [29I(1)][732] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1057] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
+[Dairy Industry Restructuring Act 2001][731] [29I(1)][733] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1059] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Dog Control Act 1996][738] [14(1) to (3)][739] Dog control officer who has good cause to suspect that offence against [Dog Control Act 1996][738] or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) [Subparts 1][127], [2][131], [4][154], and [7 to 10][230] (except that [sections 118][166] and [119][168] apply to constables only)
+[Dog Control Act 1996][739] [14(1) to (3)][740] Dog control officer who has good cause to suspect that offence against [Dog Control Act 1996][739] or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) [Subparts 1][127], [2][131], [4][154], and [7 to 10][230] (except that [sections 118][166] and [119][168] apply to constables only)
 
-[56(3)][740] Dog ranger or dog control officer may enter dwellinghouse to remove barking dog (following non-compliance with remedial notice) if he or she obtains warrant to enter [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
+[56(3)][741] Dog ranger or dog control officer may enter dwellinghouse to remove barking dog (following non-compliance with remedial notice) if he or she obtains warrant to enter [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
-[57(6)(b)][741] Dog ranger or dog control officer may enter dwellinghouse to seize dog that has attacked persons or animals if he or she has warrant to enter (note: entry may be without warrant in exigent circumstances) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
+[57(6)(b)][742] Dog ranger or dog control officer may enter dwellinghouse to seize dog that has attacked persons or animals if he or she has warrant to enter (note: entry may be without warrant in exigent circumstances) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
-[Driftnet Prohibition Act 1991][742] [13(1) and (2)][743] Enforcement officer may exercise powers of entry and variety of other powers for purposes of enforcing [Driftnet Prohibition Act 1991][742] [Subparts 1][127], [4][154], [5][194], [7][230], [9][241], and [10][249] 
+[Driftnet Prohibition Act 1991][743] [13(1) and (2)][744] Enforcement officer may exercise powers of entry and variety of other powers for purposes of enforcing [Driftnet Prohibition Act 1991][743] [Subparts 1][127], [4][154], [5][194], [7][230], [9][241], and [10][249] 
 
-[15][744] Enforcement officer may seize property [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
+[15][745] Enforcement officer may seize property [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-[Electricity Act 1992][978] [159(1)(e)][979] Dwellinghouse may be entered under general power of entry conferred by [Electricity Act 1992][978] if warrant authorising entry to that dwellinghouse is obtained by person exercising power [Subparts 1][127], [3][138], [5][194], [7][230], [9][241], and [10][249] 
+[Electricity Act 1992][979] [159(1)(e)][980] Dwellinghouse may be entered under general power of entry conferred by [Electricity Act 1992][979] if warrant authorising entry to that dwellinghouse is obtained by person exercising power [Subparts 1][127], [3][138], [5][194], [7][230], [9][241], and [10][249] 
 
-[Electricity Industry Act 2010][749] [47(1)][750] Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code All (except [sections 118][166] and [119][168])
+[Electricity Industry Act 2010][750] [47(1)][751] Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code All (except [sections 118][166] and [119][168])
 
-[Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1058] [141(1) and (2)][1059] Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with All (except [subparts 2][131] and [8][236] and [sections 118][166] and [119][168])
+[Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1060] [141(1) and (2)][1061] Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with All (except [subparts 2][131] and [8][236] and [sections 118][166] and [119][168])
 
-[Extradition Act 1999][754] [83(2)][756] Issuing officer may issue search warrant to constable to search for evidence of extradition offence All (except [subpart 6][213])
+[Extradition Act 1999][755] [83(2)][757] Issuing officer may issue search warrant to constable to search for evidence of extradition offence All (except [subpart 6][213])
 
-[Fair Trading Act 1986][980] [47(2)][981] Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of [Fair Trading Act 1986][980] All (except [sections 118][166] and [119][168])
+[Fair Trading Act 1986][981] [47(2)][982] Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of [Fair Trading Act 1986][981] All (except [sections 118][166] and [119][168])
 
-[Films, Videos, and Publications Classification Act 1993][1056] [109][759] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1056] (other than against [sections 126][1060] and [131A][1061]) All (except [sections 118][166] and [119][168])
+[Films, Videos, and Publications Classification Act 1993][1058] [109][760] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1058] (other than against [sections 126][1062] and [131A][1063]) All (except [sections 118][166] and [119][168])
 
-[109A(1)][760] and [109B][761] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1060] or [131A][1061] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
+[109A(1)][761] and [109B][762] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1062] or [131A][1063] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
 
-[Financial Markets Authority Act 2011][764] [29(1) and (3)][766] Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation All (except [sections 118][166] and [119][168])
+[Financial Markets Authority Act 2011][765] [29(1) and (3)][767] Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation All (except [sections 118][166] and [119][168])
 
-[Financial Transactions Reporting Act 1996][767] [44][768] Constable may obtain and execute search warrant to search for evidence of offence against [Financial Transactions Reporting Act 1996][767] or any regulations made under that Act All
+[Financial Transactions Reporting Act 1996][768] [44][769] Constable may obtain and execute search warrant to search for evidence of offence against [Financial Transactions Reporting Act 1996][768] or any regulations made under that Act All
 
-[Fisheries Act 1996][770] [199(1)][771] Fishery officer may examine any vessel, vehicle, premises, or other place in the course of enforcement and administration of [Fisheries Act 1996][770] All (except [subparts 2][131], [3][138], and [8][236] and section 119)
+[Fisheries Act 1996][771] [199(1)][772] Fishery officer may examine any vessel, vehicle, premises, or other place in the course of enforcement and administration of [Fisheries Act 1996][771] All (except [subparts 2][131], [3][138], and [8][236] and section 119)
 
-199A Fishery officer may enter, examine, and search any thing that relates to suspected offence against [Fisheries Act 1996][770] All (except subparts 3 and 8)
+199A Fishery officer may enter, examine, and search any thing that relates to suspected offence against [Fisheries Act 1996][771] All (except subparts 3 and 8)
 
-[200(1)][772] Fishery officer may enter dwellinghouse or surrounds or Māori reservation (under power conferred elsewhere in [Fisheries Act 1996][770]) if authorised to do so by issuing officer [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
+[200(1)][773] Fishery officer may enter dwellinghouse or surrounds or Māori reservation (under power conferred elsewhere in [Fisheries Act 1996][771]) if authorised to do so by issuing officer [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
-[207(1)][775] Property seized by fishery officer in relation to suspected offence against [Fisheries Act 1996][770] may be held [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
+[207(1)][776] Property seized by fishery officer in relation to suspected offence against [Fisheries Act 1996][771] may be held [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
 
-[Food Act 1981][781] [12(1) and (2)][782] Food officer may seize and detain articles and advertising material or labelling material reasonably believed to be in contravention of [Food Act 1981][781] or, as applicable, any food standards or regulations made under that Act All (except [subparts 2][131], [3][138], [6][213], and [8][236] and [sections 118][166], [119][168], [125(4)][178], [131(5)(f)][189], and [133][191])
+[Food Act 1981][782] [12(1) and (2)][783] Food officer may seize and detain articles and advertising material or labelling material reasonably believed to be in contravention of [Food Act 1981][782] or, as applicable, any food standards or regulations made under that Act All (except [subparts 2][131], [3][138], [6][213], and [8][236] and [sections 118][166], [119][168], [125(4)][178], [131(5)(f)][189], and [133][191])
 
-[13(1)][783] Local authority inspector and any assistant under his or her direction may seize and detain any food or appliance related to certain suspected offences under [Food Act 1981][781] All (except [subparts 2][131], [3][138], [6][213], and [8][236] and [sections 118][166], [119][168], [125(4)][178], [131(5)(f)][189], and [133][191])
+[13(1)][784] Local authority inspector and any assistant under his or her direction may seize and detain any food or appliance related to certain suspected offences under [Food Act 1981][782] All (except [subparts 2][131], [3][138], [6][213], and [8][236] and [sections 118][166], [119][168], [125(4)][178], [131(5)(f)][189], and [133][191])
 
-[15A][785] Authorised officer may apply for search warrant in relation to specified offences [Section 6][9]
+[15A][786] Authorised officer may apply for search warrant in relation to specified offences [Section 6][9]
 
-[Forests Act 1949][983] [67D(1)(e)][984] Timber seized by Secretary (chief executive of Ministry of Agriculture and Forestry) or forestry officer may be disposed of in accordance with [Part 4][126] of the Search and Surveillance Act 2012 [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
+[Forests Act 1949][984] [67D(1)(e)][985] Timber seized by Secretary (chief executive of Ministry of Agriculture and Forestry) or forestry officer may be disposed of in accordance with [Part 4][126] of the Search and Surveillance Act 2012 [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
 
-[67R][985] Secretary (chief executive of Ministry of Agriculture and Forestry) and any forestry officer may enter various places to inspect indigenous timber from indigenous forest land and may seize indigenous timber involved in a contravention of [Forests Act 1949][983] All (except [subparts 2][131], [3][138], [5][194], and [8][236] and [sections 118][166] and [119][168])
+[67R][986] Secretary (chief executive of Ministry of Agriculture and Forestry) and any forestry officer may enter various places to inspect indigenous timber from indigenous forest land and may seize indigenous timber involved in a contravention of [Forests Act 1949][984] All (except [subparts 2][131], [3][138], [5][194], and [8][236] and [sections 118][166] and [119][168])
 
-[71B(1)][987] Various powers of entry conferred by Forests Act 1949 are subject to specified statutory restrictions (including all of [Part 4][126] of Search and Surveillance Act 2012) All (except that [sections 118][166] and [119][168] apply to constables only)
+[71B(1)][988] Various powers of entry conferred by Forests Act 1949 are subject to specified statutory restrictions (including all of [Part 4][126] of Search and Surveillance Act 2012) All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Gambling Act 2003][1062] [335(1)][787] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1062] of Gambling Act 2003 All (except [subpart 3][138])
+[Gambling Act 2003][1064] [335(1)][788] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1064] of Gambling Act 2003 All (except [subpart 3][138])
 
-[336(1)][788] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1062] or related offence involving gambling All (except [subpart 3][138])
+[336(1)][789] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1064] or related offence involving gambling All (except [subpart 3][138])
 
-[340(3)][790] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1062] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
+[340(3)][791] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1064] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Gas Act 1992][988] [43W(6) and (7)][989] Authorised person may enter home of industry participant under authority of warrant (which may be issued if there are reasonable grounds to believe it is necessary to issue warrant to ascertain whether industry participant has breached, or may breach, gas governance regulations or rules) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
+[Gas Act 1992][989] [43W(6) and (7)][990] Authorised person may enter home of industry participant under authority of warrant (which may be issued if there are reasonable grounds to believe it is necessary to issue warrant to ascertain whether industry participant has breached, or may breach, gas governance regulations or rules) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
-[50(1)][990] Any power of entry conferred by [Gas Act 1992][988] or regulations made under that Act may be exercised in respect of dwellinghouse if warrant is issued (note: entry without warrant allowed in exigent circumstances) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
+[50(1)][991] Any power of entry conferred by [Gas Act 1992][989] or regulations made under that Act may be exercised in respect of dwellinghouse if warrant is issued (note: entry without warrant allowed in exigent circumstances) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
-[Hazardous Substances and New Organisms Act 1996][794] [119(1)][795] Enforcement officer may obtain and execute search warrant to search for evidence of any substance or organism or related thing involved in offence against [Hazardous Substances and New Organisms Act 1996][794] All (except that [sections 118][166] and [119][168] apply to constables only)
+[Hazardous Substances and New Organisms Act 1996][795] [119(1)][796] Enforcement officer may obtain and execute search warrant to search for evidence of any substance or organism or related thing involved in offence against [Hazardous Substances and New Organisms Act 1996][795] All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Health Practitioners Competence Assurance Act 2003][797] [10(1)][798] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1063] or [9][1064] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
+[Health Practitioners Competence Assurance Act 2003][798] [10(1)][799] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1065] or [9][1066] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
 
-[Human Assisted Reproductive Technology Act 2004][799] [68(1)][800] Authorised person may enter place if he or she has reasonable grounds to believe that gamete, embryo, or foetus formed by prohibited action is located there or any assisted reproductive procedure or human reproductive research is conducted there, and inspect equipment at place and exercise other powers (such as powers of inspection and search and seizures at various times) All (except [subpart 3][138] and [sections 118][166] and [119][168])
+[Human Assisted Reproductive Technology Act 2004][800] [68(1)][801] Authorised person may enter place if he or she has reasonable grounds to believe that gamete, embryo, or foetus formed by prohibited action is located there or any assisted reproductive procedure or human reproductive research is conducted there, and inspect equipment at place and exercise other powers (such as powers of inspection and search and seizures at various times) All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
-[69(2)][801] Authorised person may enter dwellinghouse and exercise [section 68][800] powers inside house under section 68(1) of Human Assisted Reproductive Technology Act 2004 only if he or she obtains search warrant All (except [sections 118][166] and [119][168])
+[69(2)][802] Authorised person may enter dwellinghouse and exercise [section 68][801] powers inside house under section 68(1) of Human Assisted Reproductive Technology Act 2004 only if he or she obtains search warrant All (except [sections 118][166] and [119][168])
 
-[72][805] Property seized may be forfeited to Crown on conviction [Subpart 6][213]
+[72][806] Property seized may be forfeited to Crown on conviction [Subpart 6][213]
 
-[Human Tissue Act 2008][806] [68(1)][807] Authorised person may enter place if he or she has reasonable grounds to believe that collection or use of human tissue at place involves contravention of [Human Tissue Act 2008][806], or there is evidence of contraventions of Act at that place, and inspect equipment at place and exercise other powers, such as powers of inspection and search and seizure of various items All (except [subpart 3][138] and [sections 118][166] and [119][168])
+[Human Tissue Act 2008][807] [68(1)][808] Authorised person may enter place if he or she has reasonable grounds to believe that collection or use of human tissue at place involves contravention of [Human Tissue Act 2008][807], or there is evidence of contraventions of Act at that place, and inspect equipment at place and exercise other powers, such as powers of inspection and search and seizure of various items All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
-[69(2)][808] Authorised person may enter dwellinghouse and exercise [section 68][807] powers inside house only if he or she obtains search warrant All (except [sections 118][166] and [119][168])
+[69(2)][809] Authorised person may enter dwellinghouse and exercise [section 68][808] powers inside house only if he or she obtains search warrant All (except [sections 118][166] and [119][168])
 
-[72][811] Property seized may be forfeited to Crown on conviction Subpart 6
+[72][812] Property seized may be forfeited to Crown on conviction Subpart 6
 
-[Immigration Advisers Licensing Act 2007][815] [57(1)(e)][817] Person authorised by Registrar who enters premises for purposes of administering licensing regime may retain certain documents if there are grounds for believing they are evidence of commission of offence [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
+[Immigration Advisers Licensing Act 2007][816] [57(1)(e)][818] Person authorised by Registrar who enters premises for purposes of administering licensing regime may retain certain documents if there are grounds for believing they are evidence of commission of offence [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] 
 
-[61(1)][821] Person may obtain entry warrant for dwellinghouse if there are reasonable grounds to believe that immigration adviser, former immigration adviser, or applicant for licence as immigration adviser has worked there, and obtaining entry warrant is only practicable way in which to obtain entry [Subparts 1][127], [3][138], and [9][241]
+[61(1)][822] Person may obtain entry warrant for dwellinghouse if there are reasonable grounds to believe that immigration adviser, former immigration adviser, or applicant for licence as immigration adviser has worked there, and obtaining entry warrant is only practicable way in which to obtain entry [Subparts 1][127], [3][138], and [9][241]
 
 61A Registrar may apply for a search warrant in relation to an offence under the Act [Section 6][9]
 
-[Insurance (Prudential Supervision) Act 2010][824] [132(1)][825] Investigator may enter and search any place by consent or with warrant for purposes of investigating affairs of licensed insurer or associated person All (except [sections 118][166] and [119][168]) 
+[Insurance (Prudential Supervision) Act 2010][825] [132(1)][826] Investigator may enter and search any place by consent or with warrant for purposes of investigating affairs of licensed insurer or associated person All (except [sections 118][166] and [119][168]) 
 
-[230][826], [231][1065] Protection from liability for acts done in good faith [Subpart 7][230]
+[230][827], [231][1067] Protection from liability for acts done in good faith [Subpart 7][230]
 
-[International Crimes and International Criminal Court Act 2000][828] [102(1) and (2)][830] Constable may obtain and execute search warrant to search for evidence of international crime or anything related to such crime [Subparts 1 to 5][127], [7][230], [9][241], and [10][249] and also sections 161 and 162 
+[International Crimes and International Criminal Court Act 2000][829] [102(1) and (2)][831] Constable may obtain and execute search warrant to search for evidence of international crime or anything related to such crime [Subparts 1 to 5][127], [7][230], [9][241], and [10][249] and also sections 161 and 162 
 
-[107(2)][832] Report on execution of search warrant together with copy of any notice given under [section 133][191] of Search and Surveillance Act 2012 must be given to Attorney-General [Section 133][191] 
+[107(2)][833] Report on execution of search warrant together with copy of any notice given under [section 133][191] of Search and Surveillance Act 2012 must be given to Attorney-General [Section 133][191] 
 
-[108(4)][833] Things seized under search warrant issued under [section 102][830] of International Crimes and International Criminal Court Act 2000 must be returned to person from whom they were seized (subject to [section 155][220] of Search and Surveillance Act 2012) [Section 155][220] 
+[108(4)][834] Things seized under search warrant issued under [section 102][831] of International Crimes and International Criminal Court Act 2000 must be returned to person from whom they were seized (subject to [section 155][220] of Search and Surveillance Act 2012) [Section 155][220] 
 
-[108(5)][833] Attorney-General may refuse to return thing seized in certain circumstances (subject to [section 154][219] of Search and Surveillance Act 2012) [Section 154][219] 
+[108(5)][834] Attorney-General may refuse to return thing seized in certain circumstances (subject to [section 154][219] of Search and Surveillance Act 2012) [Section 154][219] 
 
-[International Energy Agreement Act 1976][991] [11][993] Regulations may be made allowing powers of entry conferred by [section 9][992] of International Energy Agreement Act 1976 to be exercised to ensure compliance with those regulations (note: regulations must not limit [section 6][9] of Search and Surveillance Act 2012 or [subpart 6][213] of Part 4 of that Act) [Section 6][9] and [subparts 1][127], [3][138], [6][213], [7][230], [9][241], and [10][249] 
+[International Energy Agreement Act 1976][992] [11][994] Regulations may be made allowing powers of entry conferred by [section 9][993] of International Energy Agreement Act 1976 to be exercised to ensure compliance with those regulations (note: regulations must not limit [section 6][9] of Search and Surveillance Act 2012 or [subpart 6][213] of Part 4 of that Act) [Section 6][9] and [subparts 1][127], [3][138], [6][213], [7][230], [9][241], and [10][249] 
 
-[International War Crimes Tribunals Act 1995][834] [48(1)][837] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1066] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
+[International War Crimes Tribunals Act 1995][835] [48(1)][838] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1068] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
-[48(2)][837] Constable, authorised by Attorney-General, may obtain and execute warrant to search for evidence of suspected offence that war crimes tribunal has jurisdiction to try, and for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
+[48(2)][838] Constable, authorised by Attorney-General, may obtain and execute warrant to search for evidence of suspected offence that war crimes tribunal has jurisdiction to try, and for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
-[55(5) and (6)][842] Any thing seized may be retained in certain circumstances, but must otherwise be returned to person from whom it was seized (subject to [sections 154][219] and [155][220] of Search and Surveillance Act 2012) [Sections 154][219] and [155][220] 
+[55(5) and (6)][843] Any thing seized may be retained in certain circumstances, but must otherwise be returned to person from whom it was seized (subject to [sections 154][219] and [155][220] of Search and Surveillance Act 2012) [Sections 154][219] and [155][220] 
 
-[Land Transport Act 1998][843] [119(1) and (2)][844] Enforcement officer may enter any premises if he or she is in fresh pursuit of driver suspected of committing certain offences against [Land Transport Act 1998][843], or of driver who has failed to provide certain information All (except [subpart 3][138])
+[Land Transport Act 1998][844] [119(1) and (2)][845] Enforcement officer may enter any premises if he or she is in fresh pursuit of driver suspected of committing certain offences against [Land Transport Act 1998][844], or of driver who has failed to provide certain information All (except [subpart 3][138])
 
-[119(3)][844] Enforcement officer may enter premises without warrant, in exigent circumstances, to seize and impound vehicle liable to impoundment under various provisions of [Land Transport Act 1998][843] All (except [subpart 3][138])
+[119(3)][845] Enforcement officer may enter premises without warrant, in exigent circumstances, to seize and impound vehicle liable to impoundment under various provisions of [Land Transport Act 1998][844] All (except [subpart 3][138])
 
-[119(5)][844] Enforcement officer may obtain and execute warrant to enter premises and seize and impound vehicle liable to impoundment under various provisions of [Land Transport Act 1998][843] All 
+[119(5)][845] Enforcement officer may obtain and execute warrant to enter premises and seize and impound vehicle liable to impoundment under various provisions of [Land Transport Act 1998][844] All 
 
-[Local Government Act 2002][845] [165][846] Enforcement officer may obtain and execute warrant to enter private land involved in commission of offence and seize and impound property All (except [sections 118][166] and [119][168])
+[Local Government Act 2002][846] [165][847] Enforcement officer may obtain and execute warrant to enter private land involved in commission of offence and seize and impound property All (except [sections 118][166] and [119][168])
 
-[172][851] Warranted enforcement officer may enter land for purpose of detecting breach of bylaw or commission of offence against [Local Government Act 2002][845], if officer has reasonable grounds for suspecting such breach or offence has occurred, or is occurring, on the land (note: warrant must be obtained before this power can be exercised in respect of dwellinghouse) All (except that [sections 118][166] and [119][168] apply to constables only)
+[172][852] Warranted enforcement officer may enter land for purpose of detecting breach of bylaw or commission of offence against [Local Government Act 2002][846], if officer has reasonable grounds for suspecting such breach or offence has occurred, or is occurring, on the land (note: warrant must be obtained before this power can be exercised in respect of dwellinghouse) All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[173(1)][852] Local authority, for purposes of doing anything it is authorised to do under [Local Government Act 2002][845], may enter property without giving prior notice in certain circumstances involving sudden emergency or if there is danger to any works or to adjoining property All (except [subparts 2][131] and [3][138] and sections 118 and 119)
+[173(1)][853] Local authority, for purposes of doing anything it is authorised to do under [Local Government Act 2002][846], may enter property without giving prior notice in certain circumstances involving sudden emergency or if there is danger to any works or to adjoining property All (except [subparts 2][131] and [3][138] and sections 118 and 119)
 
-[Major Events Management Act 2007][853] [67(1)][854] Constable or enforcement officer may obtain and execute search warrant to search for evidence of offence against [Major Events Management Act 2007][853] or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
+[Major Events Management Act 2007][854] [67(1)][855] Constable or enforcement officer may obtain and execute search warrant to search for evidence of offence against [Major Events Management Act 2007][854] or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Marine Mammals Protection Act 1978][857] [13(1)][858] Marine mammals officer who has reason to believe or suspect that offence against [Marine Mammals Protection Act 1978][857] has been committed may enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft All (except [subpart 3][138])
+[Marine Mammals Protection Act 1978][858] [13(1)][859] Marine mammals officer who has reason to believe or suspect that offence against [Marine Mammals Protection Act 1978][858] has been committed may enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft All (except [subpart 3][138])
 
-[13(5)][858] Marine mammal officers may exercise certain powers of seizure [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
+[13(5)][859] Marine mammal officers may exercise certain powers of seizure [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-[14(1)][859] Marine mammals officer may obtain and execute search warrant to search for evidence of offence against [Marine Mammals Protection Act 1978][857] or of any preparation to commit such offence All
+[14(1)][860] Marine mammals officer may obtain and execute search warrant to search for evidence of offence against [Marine Mammals Protection Act 1978][858] or of any preparation to commit such offence All
 
-[Marine Reserves Act 1971][860] [18(1)(d)][861] Ranger may, if he or she reasonably believes that person has committed offence against [Marine Reserves Act 1971][860] or any regulations made under that Act, stop any vessel, vehicle, or aircraft or parcel, package, luggage, or other container in transit and may enter or open and search any such thing All (except [subpart 3][138])
+[Marine Reserves Act 1971][861] [18(1)(d)][862] Ranger may, if he or she reasonably believes that person has committed offence against [Marine Reserves Act 1971][861] or any regulations made under that Act, stop any vessel, vehicle, or aircraft or parcel, package, luggage, or other container in transit and may enter or open and search any such thing All (except [subpart 3][138])
 
-[18A][862] Ranger may, if he or she believes there has been breach of [Marine Reserves Act 1971][860] or any regulations made under that Act, exercise certain seizure powers All (except [subpart 3][138])
+[18A][863] Ranger may, if he or she believes there has been breach of [Marine Reserves Act 1971][861] or any regulations made under that Act, exercise certain seizure powers All (except [subpart 3][138])
 
-[Maritime Security Act 2004][864] [51(4)][865] Authorised person may obtain and execute search warrant to search certain persons and their personal effects or a ship if issuing officer is satisfied that there are reasonable grounds to believe offence against [Maritime Security Act 2004][864] has been, is being, or is likely to be committed All (except that [sections 118][166] and [119][168] apply to constables only)
+[Maritime Security Act 2004][865] [51(4)][866] Authorised person may obtain and execute search warrant to search certain persons and their personal effects or a ship if issuing officer is satisfied that there are reasonable grounds to believe offence against [Maritime Security Act 2004][865] has been, is being, or is likely to be committed All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Maritime Transport Act 1994][867] [454][871] Authorised person may obtain and execute warrant to inspect dwellinghouse or marae for purposes of carrying out his or her functions, duties, or powers under [Maritime Transport Act 1994][867] if issuing officer is satisfied that entry is essential to enable inspection to be carried out All (except [subpart 2][131] and that [sections 118][166] and [119][168] apply to constables only)
+[Maritime Transport Act 1994][868] [454][872] Authorised person may obtain and execute warrant to inspect dwellinghouse or marae for purposes of carrying out his or her functions, duties, or powers under [Maritime Transport Act 1994][868] if issuing officer is satisfied that entry is essential to enable inspection to be carried out All (except [subpart 2][131] and that [sections 118][166] and [119][168] apply to constables only)
 
-[455(1)][872] Authorised person may obtain and execute warrant to search place for evidence of offence against [Maritime Transport Act 1994][867] or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
+[455(1)][873] Authorised person may obtain and execute warrant to search place for evidence of offence against [Maritime Transport Act 1994][868] or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Meat Board Act 2004][873] [42(2)][874] Auditor may enter place of business where any meat products or related documents are held or are likely to be and examine place and take samples for purposes of undertaking quota compliance audit under [Meat Board Act 2004][873] [Subparts 1][127], [4 to 7][154], [9][241], and [10][249] (except [sections 118][166] and [119][168])
+[Meat Board Act 2004][874] [42(2)][875] Auditor may enter place of business where any meat products or related documents are held or are likely to be and examine place and take samples for purposes of undertaking quota compliance audit under [Meat Board Act 2004][874] [Subparts 1][127], [4 to 7][154], [9][241], and [10][249] (except [sections 118][166] and [119][168])
 
-[42(5)][874] Auditor may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
+[42(5)][875] Auditor may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[62(1)][875] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that a person has taken or is intending to take certain proscribed actions and that meat products or related documents are or are likely to be at the place All (except that [sections 118][166] and [119][168] apply to constables only)
+[62(1)][876] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that a person has taken or is intending to take certain proscribed actions and that meat products or related documents are or are likely to be at the place All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[62(2)][875] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1067] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
+[62(2)][876] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1069] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Motor Vehicle Sales Act 2003][879] [130(1)][880] Constable or Registrar of Motor Vehicles or person authorised by Registrar may obtain and execute search warrant to search for evidence of offence against [Motor Vehicle Sales Act 2003][879] that has been, or is being, committed or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
+[Motor Vehicle Sales Act 2003][880] [130(1)][881] Constable or Registrar of Motor Vehicles or person authorised by Registrar may obtain and execute search warrant to search for evidence of offence against [Motor Vehicle Sales Act 2003][880] that has been, or is being, committed or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Mutual Assistance in Criminal Matters Act 1992][1022] [44(1)][1024] Constable authorised by Attorney-General under [section 43(2)][1023] may obtain and execute warrant to search for and seize any thing in respect of which offence under foreign law has been or may have been committed, or that is evidence, or that may be used in commission of such an offence All (except [subpart 6][213])
+[Mutual Assistance in Criminal Matters Act 1992][1023] [44(1)][1025] Constable authorised by Attorney-General under [section 43(2)][1024] may obtain and execute warrant to search for and seize any thing in respect of which offence under foreign law has been or may have been committed, or that is evidence, or that may be used in commission of such an offence All (except [subpart 6][213])
 
-[National Parks Act 1980][882] [61(1)][883] Ranger may seize article found in possession of any person in national park if ranger has reasonable grounds to believe that the person, in obtaining possession of article, has committed offence against [National Parks Act 1980][882] All (except [subpart 3][138])
+[National Parks Act 1980][883] [61(1)][884] Ranger may seize article found in possession of any person in national park if ranger has reasonable grounds to believe that the person, in obtaining possession of article, has committed offence against [National Parks Act 1980][883] All (except [subpart 3][138])
 
-[61(6)][883] Ranger may seize any chainsaw, firearm, trap, net, or similar item found in unlawful possession of any person in national park and any item found on any person and used in commission of offence in national park All (except [subpart 3][138])
+[61(6)][884] Ranger may seize any chainsaw, firearm, trap, net, or similar item found in unlawful possession of any person in national park and any item found on any person and used in commission of offence in national park All (except [subpart 3][138])
 
-[65(1)][884] Ranger may stop and search boats or vehicles, or certain animals, or aircraft, and search premises and possessions, in national park if he or she has reasonable cause to believe offence has been committed against [National Parks Act 1980][882] or any bylaws under that Act and that evidence will be found in course of search All (except [subpart 3][138] and [sections 118][166] and [119][168])
+[65(1)][885] Ranger may stop and search boats or vehicles, or certain animals, or aircraft, and search premises and possessions, in national park if he or she has reasonable cause to believe offence has been committed against [National Parks Act 1980][883] or any bylaws under that Act and that evidence will be found in course of search All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
-[66(1)][885] Authorised person may stop and search boat outside national park if he or she has reasonable cause to believe offence has been committed against [National Parks Act 1980][882] or any bylaws under that Act and that evidence is on boat All (except [subpart 3][138])
+[66(1)][886] Authorised person may stop and search boat outside national park if he or she has reasonable cause to believe offence has been committed against [National Parks Act 1980][883] or any bylaws under that Act and that evidence is on boat All (except [subpart 3][138])
 
-[Non-bank Deposit Takers Act 2013][1068] [52(1)][1069] Appointed person may enter and search any place by consent or with warrant for purpose of investigating whether offence committed All (except [sections 118][166] and [119][168])
+[Non-bank Deposit Takers Act 2013][1070] [52(1)][1071] Appointed person may enter and search any place by consent or with warrant for purpose of investigating whether offence committed All (except [sections 118][166] and [119][168])
 
-[Overseas Investment Act 2005][886] [56(3)][887] Regulator may obtain search warrant to search place or thing if there are reasonable grounds to believe offence under [Overseas Investment Act 2005][886] has been, or is being, committed at place or thing or there is on, under, or over place or thing evidence of offence against that Act All (except [sections 118][166] and [119][168])
+[Overseas Investment Act 2005][887] [56(3)][888] Regulator may obtain search warrant to search place or thing if there are reasonable grounds to believe offence under [Overseas Investment Act 2005][887] has been, or is being, committed at place or thing or there is on, under, or over place or thing evidence of offence against that Act All (except [sections 118][166] and [119][168])
 
-[Ozone Layer Protection Act 1996][889] [23(1)][890] Constable may obtain and execute search warrant to search for evidence of offence against [Ozone Layer Protection Act 1996][889] All (except [sections 118][166] and [119][168])
+[Ozone Layer Protection Act 1996][890] [23(1)][891] Constable may obtain and execute search warrant to search for evidence of offence against [Ozone Layer Protection Act 1996][890] All (except [sections 118][166] and [119][168])
 
-[25][891] If any constable or officer seizes any substance or goods under [Ozone Layer Protection Act 1996][889], [subparts 1][127], [6][213], [7][230], [9][241], and [10][249] of Part 4 of Search and Surveillance Act 2012 apply [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
+[25][892] If any constable or officer seizes any substance or goods under [Ozone Layer Protection Act 1996][890], [subparts 1][127], [6][213], [7][230], [9][241], and [10][249] of Part 4 of Search and Surveillance Act 2012 apply [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
 
-[Pork Industry Board Act 1997][895] [44(2)][896] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1070] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
+[Pork Industry Board Act 1997][896] [44(2)][897] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1072] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
 
-[45(1)][897] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1071] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
+[45(1)][898] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1073] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
 
-[45(2)][897] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that, as consequence of inspection of place of business under [section 44][896] of Pork Industry Board Act 1997, there are reasonable grounds to believe that there are certain documents relating to levy money or slaughter of pigs, or pork products from pigs subject to that levy, at that place All (except [sections 118][166] and [119][168])
+[45(2)][898] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that, as consequence of inspection of place of business under [section 44][897] of Pork Industry Board Act 1997, there are reasonable grounds to believe that there are certain documents relating to levy money or slaughter of pigs, or pork products from pigs subject to that levy, at that place All (except [sections 118][166] and [119][168])
 
-[Prostitution Reform Act 2003][901] [30(1)][902] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1072] or [34][1073] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
+[Prostitution Reform Act 2003][902] [30(1)][903] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1074] or [34][1075] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
 
-[Psychoactive Substances Act 2013][1074] [77][1075] Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1074] All (except [subpart 3][138])
+[Psychoactive Substances Act 2013][1076] [77][1077] Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1076] All (except [subpart 3][138])
 
-[79][1076] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1074] All (except [sections 118][166] and [119][168] apply to constables only)
+[79][1078] Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against [Psychoactive Substances Act 2013][1076] All (except [sections 118][166] and [119][168] apply to constables only)
 
-[Radiation Protection Act 1965][904] [24(2)][905] Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against [Radiation Protection Act 1965][904] may obtain and execute search warrant All (except that [sections 118][166] and [119][168] apply to constables only)
+[Radiation Protection Act 1965][905] [24(2)][906] Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against [Radiation Protection Act 1965][905] may obtain and execute search warrant All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Radiocommunications Act 1989][906] [120][907] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][906] or any regulations made under [section 134(1)(g)][1077] of that Act All (except [sections 118][166] and [119][168])
+[Radiocommunications Act 1989][907] [120][908] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][907] or any regulations made under [section 134(1)(g)][1079] of that Act All (except [sections 118][166] and [119][168])
 
-[Reserve Bank of New Zealand Act 1989][909] [66I][910] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under [Reserve Bank of New Zealand Act 1989][909] All (except [sections 118][166] and [119][168])
+[Reserve Bank of New Zealand Act 1989][910] [66I][911] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under [Reserve Bank of New Zealand Act 1989][910] All (except [sections 118][166] and [119][168])
 
-[106(1)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1078] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(1)][913] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1080] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[106(2)][912] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1079] or [117][1080] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(2)][913] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1081] or [117][1082] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[Reserves Act 1977][916] [95(1)][918] Certain wildlife and related things found in possession of person in reserve may be seized by constable, ranger, or employee of administering body, if he or she has good cause to suspect that the person, in obtaining possession of the thing, has committed offence against [Reserves Act 1977][916] All (except [subpart 3][138])
+[Reserves Act 1977][917] [95(1)][919] Certain wildlife and related things found in possession of person in reserve may be seized by constable, ranger, or employee of administering body, if he or she has good cause to suspect that the person, in obtaining possession of the thing, has committed offence against [Reserves Act 1977][917] All (except [subpart 3][138])
 
-[95(6)][918] Firearms, traps, nets, or similar objects found illegally in possession of any person in reserve and equipment found in possession of any person that has been used to commit offence in reserve may be seized by constable, ranger, or employee of administering body All (except [subpart 3][138])
+[95(6)][919] Firearms, traps, nets, or similar objects found illegally in possession of any person in reserve and equipment found in possession of any person that has been used to commit offence in reserve may be seized by constable, ranger, or employee of administering body All (except [subpart 3][138])
 
-[100(1)][919] Officer who has good cause to suspect that offence against [Reserves Act 1977][916] or regulations made under that Act has been committed, on, from, or in respect of certain boats may stop boat and exercise certain powers of search and seizure All (except [subpart 3][138])
+[100(1)][920] Officer who has good cause to suspect that offence against [Reserves Act 1977][917] or regulations made under that Act has been committed, on, from, or in respect of certain boats may stop boat and exercise certain powers of search and seizure All (except [subpart 3][138])
 
-[Resource Management Act 1991][920] [334(1)][921] Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under [Resource Management Act 1991][920] or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence All (except that [sections 118][166] and [119][168] apply to constables only)
+[Resource Management Act 1991][921] [334(1)][922] Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under [Resource Management Act 1991][921] or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Road User Charges Act 2012][1081] [79][1082] Constable may obtain and execute a search warrant for evidence of offences against [Road User Charges Act 2012][1081] All (except [sections 118][166] and [119][168] apply to constables only)
+[Road User Charges Act 2012][1083] [79][1084] Constable may obtain and execute a search warrant for evidence of offences against [Road User Charges Act 2012][1083] All (except [sections 118][166] and [119][168] apply to constables only)
 
-[Sale and Supply of Alcohol Act 2012][1083] [270][1084] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale and Supply of Alcohol Act 2012][1083] are occurring All
+[Sale and Supply of Alcohol Act 2012][1085] [270][1086] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale and Supply of Alcohol Act 2012][1085] are occurring All
 
-[Tax Administration Act 1994][927] [16][929] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][929] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1085], [103(3)(b)(ii)][1086], [103(4)(g)][1086], [103(7)][1086], [115(1)(b)][1087], [118][1088], [119][168], and [130(4)][187])
+[Tax Administration Act 1994][928] [16][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][930] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1087], [103(3)(b)(ii)][1088], [103(4)(g)][1088], [103(7)][1088], [115(1)(b)][1089], [118][1090], [119][168], and [130(4)][187])
 
-[16C(2)][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][929] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1085], [103(3)(b)(ii)][1086], [103(4)(g)][1086], [103(7)][1086], [115(1)(b)][1087], [118][1088], [119][168], and [130(4)][187])
+[16C(2)][931] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][930] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1087], [103(3)(b)(ii)][1088], [103(4)(g)][1088], [103(7)][1088], [115(1)(b)][1089], [118][1090], [119][168], and [130(4)][187])
 
-[Trade in Endangered Species Act 1989][933] [37(1)][934] Officer who has reasonable grounds to believe that breach of [Trade in Endangered Species Act 1989][933] or of any regulations made under that Act has occurred may exercise certain entry, inspection, and related powers All (except [subpart 3][138])
+[Trade in Endangered Species Act 1989][934] [37(1)][935] Officer who has reasonable grounds to believe that breach of [Trade in Endangered Species Act 1989][934] or of any regulations made under that Act has occurred may exercise certain entry, inspection, and related powers All (except [subpart 3][138])
 
-[38(1) and (2)][935] Officer may obtain and execute search warrant to enter and search dwellinghouse or marae if issuing officer is satisfied that there is in that place specimen of endangered, threatened, or exploited species in respect of which offence against [Trade in Endangered Species Act 1989][933] may have been committed, or that there is evidence of such offence at that place or a thing intended to be used for purpose of committing offence All
+[38(1) and (2)][936] Officer may obtain and execute search warrant to enter and search dwellinghouse or marae if issuing officer is satisfied that there is in that place specimen of endangered, threatened, or exploited species in respect of which offence against [Trade in Endangered Species Act 1989][934] may have been committed, or that there is evidence of such offence at that place or a thing intended to be used for purpose of committing offence All
 
-[Unsolicited Electronic Messages Act 2007][937] [51(4)][938] Enforcement officer may obtain and execute search warrant to search place or thing if there are reasonable grounds for believing that civil liability event has been, or is being, committed at place or thing or that there is on, over, or under place or thing anything that is evidence of civil liability event All (except that [sections 118][166] and [119][168] apply to constables only)
+[Unsolicited Electronic Messages Act 2007][938] [51(4)][939] Enforcement officer may obtain and execute search warrant to search place or thing if there are reasonable grounds for believing that civil liability event has been, or is being, committed at place or thing or that there is on, over, or under place or thing anything that is evidence of civil liability event All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Waste Minimisation Act 2008][941] [79(1)][945] Enforcement officer may enter land or buildings to inspect property and obtain information All (except [subpart 3][138] and [sections 118][166] and [119][168])
+[Waste Minimisation Act 2008][942] [79(1)][946] Enforcement officer may enter land or buildings to inspect property and obtain information All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
-[80(3)][946] Enforcment officer may enter a dwellinghouse or marae with a warrant All ([sections 118][166] and [119][168])
+[80(3)][947] Enforcment officer may enter a dwellinghouse or marae with a warrant All ([sections 118][166] and [119][168])
 
-[82(1)][947] Enforcement officer may enter private land with warrant and seize property materially involved in commission of offence All (except [sections 118][166] and [119][168])
+[82(1)][948] Enforcement officer may enter private land with warrant and seize property materially involved in commission of offence All (except [sections 118][166] and [119][168])
 
-[Weights and Measures Act 1987][994] [28(3)][995] Inspector of Weights and Measures may obtain and execute search warrant if issuing officer is satisfied that it is necessary for inspector to enter dwellinghouse to exercise certain entry, examination, and related powers conferred by [section 28(1)][995] of Weights and Measures Act 1987 [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249]
+[Weights and Measures Act 1987][995] [28(3)][996] Inspector of Weights and Measures may obtain and execute search warrant if issuing officer is satisfied that it is necessary for inspector to enter dwellinghouse to exercise certain entry, examination, and related powers conferred by [section 28(1)][996] of Weights and Measures Act 1987 [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249]
 
-[Wild Animal Control Act 1977][951] [12(10)][952] Warranted officer may enter land or premises of licence or permit holder under [Wild Animal Control Act 1977][951], or any other land or premises on which he or she suspects animal is being kept in breach of [section 12][952] of that Act, in order to ascertain whether conditions of licence or permit are being complied with, or whether animal is being kept in contravention of section 12 (note: a dwellinghouse may not be entered without obtaining a warrant) All (except [sections 118][166] and [119][168])
+[Wild Animal Control Act 1977][952] [12(10)][953] Warranted officer may enter land or premises of licence or permit holder under [Wild Animal Control Act 1977][952], or any other land or premises on which he or she suspects animal is being kept in breach of [section 12][953] of that Act, in order to ascertain whether conditions of licence or permit are being complied with, or whether animal is being kept in contravention of section 12 (note: a dwellinghouse may not be entered without obtaining a warrant) All (except [sections 118][166] and [119][168])
 
-[12(11)][952] Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that breach of [section 12][952] of Wild Animal Control Act 1977 has been, or is being, committed All (except [sections 118][166] and [119][168])
+[12(11)][953] Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that breach of [section 12][953] of Wild Animal Control Act 1977 has been, or is being, committed All (except [sections 118][166] and [119][168])
 
-[13(1)][953] Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, [Wild Animal Control Act 1977][951] All (except [subparts 2][131] and [3][138] and [sections 118][166] and [119][168])
+[13(1)][954] Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, [Wild Animal Control Act 1977][952] All (except [subparts 2][131] and [3][138] and [sections 118][166] and [119][168])
 
-[13(6) and (7)][953] Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, [Wild Animal Control Act 1977][951] and may obtain a warrant to enter a dwellinghouse All (except [sections 118][166] and [119][168])
+[13(6) and (7)][954] Warranted officer may exercise variety of entry and search powers for purpose of enforcing, or preventing or detecting offences against, [Wild Animal Control Act 1977][952] and may obtain a warrant to enter a dwellinghouse All (except [sections 118][166] and [119][168])
 
-[14(1) and (2)][954] Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that offence against [Wild Animal Control Act 1977][951] has been, or is being, committed there All (except [sections 118][166] and [119][168])
+[14(1) and (2)][955] Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that offence against [Wild Animal Control Act 1977][952] has been, or is being, committed there All (except [sections 118][166] and [119][168])
 
-[Wildlife Act 1953][955] [39(1)][956] Ranger may exercise variety of entry, seizure, stopping, and related powers in connection with enforcement of [Wildlife Act 1953][955] All (except [sections 118][166] and [119][168])
+[Wildlife Act 1953][956] [39(1)][957] Ranger may exercise variety of entry, seizure, stopping, and related powers in connection with enforcement of [Wildlife Act 1953][956] All (except [sections 118][166] and [119][168])
 
-[Wine Act 2003][958] [62(1) and (2)][959] Wine officer may enter any premises (other than dwellinghouse or marae) for purposes of determining whether [Wine Act 2003][958] is being complied with [Subparts 1][127], [4][154], [7][230], [9][241], and [10][249] (except sections 118 and 119)
+[Wine Act 2003][959] [62(1) and (2)][960] Wine officer may enter any premises (other than dwellinghouse or marae) for purposes of determining whether [Wine Act 2003][959] is being complied with [Subparts 1][127], [4][154], [7][230], [9][241], and [10][249] (except sections 118 and 119)
 
-[63(1)(a) and (b)][960] Wine officer may exercise range of examination and inquiry powers at any place he or she may enter under [section 62][959] of Wine Act 2003 All (except [subparts 2][131], [3][138], and [8][236] and [sections 118 ][166]and [119][168]) 
+[63(1)(a) and (b)][961] Wine officer may exercise range of examination and inquiry powers at any place he or she may enter under [section 62][960] of Wine Act 2003 All (except [subparts 2][131], [3][138], and [8][236] and [sections 118 ][166]and [119][168]) 
 
-[65(1)][961] Wine officer or constable may obtain and execute search warrant at any place if issuing officer is satisfied that there are reasonable grounds for believing that there is at place a thing in respect of which offence under [Wine Act 2003][958] has been, or is being, committed or thing that is being used, or is intended for use, in commission of such offence, or that is evidence of such offence All (except [sections 118][166] and [119][168])
+[65(1)][962] Wine officer or constable may obtain and execute search warrant at any place if issuing officer is satisfied that there are reasonable grounds for believing that there is at place a thing in respect of which offence under [Wine Act 2003][959] has been, or is being, committed or thing that is being used, or is intended for use, in commission of such offence, or that is evidence of such offence All (except [sections 118][166] and [119][168])
 
-[68][964] Property seized under search warrant issued under [section 65][961] of Wine Act 2003 may be disposed of [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
+[68][965] Property seized under search warrant issued under [section 65][962] of Wine Act 2003 may be disposed of [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-*   Schedule: amended, on 1 May 2014, by [section 92(2)][1089] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
-*   Schedule: amended, on 23 April 2014, by [section 16][1090] of the Road User Charges Amendment Act 2014 (2014 No 23).
-*   Schedule: amended, on 18 December 2013, by [section 417(1)][1091] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
-*   Schedule: amended, on 1 September 2013, by [section 164][1092] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
-*   Schedule: amended, on 18 July 2013, by [section 110(1)][1093] of the Psychoactive Substances Act 2013 (2013 No 53).
-*   Schedule: amended, on 28 June 2013, by [section 177][1094] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
-*   Schedule: amended, on 24 May 2013, by [section 65][1095] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule: amended, on 1 May 2014, by [section 92(2)][1091] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
+*   Schedule: amended, on 23 April 2014, by [section 16][1092] of the Road User Charges Amendment Act 2014 (2014 No 23).
+*   Schedule: amended, on 18 December 2013, by [section 417(1)][1093] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule: amended, on 1 September 2013, by [section 164][1094] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
+*   Schedule: amended, on 18 July 2013, by [section 110(1)][1095] of the Psychoactive Substances Act 2013 (2013 No 53).
+*   Schedule: amended, on 28 June 2013, by [section 177][1096] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+*   Schedule: amended, on 24 May 2013, by [section 65][1097] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 #### 
 
@@ -8575,35 +8579,37 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1096] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1097] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1098] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1099] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1098] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1099] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1100] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1101] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Road User Charges Amendment Act 2014 (2014 No 23): [section 16][1090]
+*   Road User Charges Amendment Act 2014 (2014 No 23): [section 16][1092]
     
-    Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][1089]
+    Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][1091]
+    
+    Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91): [section 123][610]
     
     Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][608]
     
     [Search and Surveillance Act Commencement Order 2013][550] (SR 2013/302)
     
-    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1093]
+    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1095]
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1092]
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1094]
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1095]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1097]
     
-    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][753]
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][754]
     
-    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][1091]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][1093]
     
-    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1094]
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1096]
     
-    [Search and Surveillance Act Commencement Order 2012][1100] (SR 2012/229)
+    [Search and Surveillance Act Commencement Order 2012][1102] (SR 2012/229)
 
 
 
@@ -9216,495 +9222,497 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [606]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043145
 [607]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391815
 [608]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5177779
-[609]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242343
-[610]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23443
-[611]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436281
-[612]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM401062
-[613]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM204972
-[614]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM345528
-[615]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314078
-[616]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3360596
-[617]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393658
-[618]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393659
-[619]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393663
-[620]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393664
-[621]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393665
-[622]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393667
-[623]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393672
-[624]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393676
-[625]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393681
-[626]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM366142
-[627]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM366124
-[628]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393675
-[629]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393679
-[630]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM295408
-[631]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM162412
-[632]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM211495
-[633]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM414576
-[634]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415144
-[635]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415149
-[636]: http://www.legislation.govt.nz/act/public/2012/0024/latest/whole.html#DLM415149
-[637]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415150
-[638]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415151
-[639]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415182
-[640]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415458
-[641]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM33501
-[642]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35224
-[643]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35228
-[644]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35234
-[645]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35235
-[646]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35239
-[647]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35240
-[648]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35241
-[649]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35242
-[650]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM36149
-[651]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM49663
-[652]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51262
-[653]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51264
-[654]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51265
-[655]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51266
-[656]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51267
-[657]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51270
-[658]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51271
-[659]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51926
-[660]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM52828
-[661]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM52893
-[662]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM342782
-[663]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343602
-[664]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343604
-[665]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343605
-[666]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2140700
-[667]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2140998
-[668]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141018
-[669]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141019
-[670]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141021
-[671]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141027
-[672]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141032
-[673]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM409116
-[674]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM409207
-[675]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314622
-[676]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316094
-[677]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316300
-[678]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316304
-[679]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316318
-[680]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44851
-[681]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44873
-[682]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM150002
-[683]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM150005
-[684]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM154515
-[685]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155064
-[686]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155066
-[687]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155070
-[688]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM214686
-[689]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM216149
-[690]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM226673
-[691]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227348
-[692]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227350
-[693]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227360
-[694]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM103609
-[695]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106658
-[696]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106681
-[697]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=BILL-SCDRAFT-7242
-[698]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451196
-[699]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451211
-[700]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451289
-[701]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451292
-[702]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451298
-[703]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451300
-[704]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451304
-[705]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451307
-[706]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451312
-[707]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451313
-[708]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451327
-[709]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451354
-[710]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM377336
-[711]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378948
-[712]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378949
-[713]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378951
-[714]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378956
-[715]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379201
-[716]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379205
-[717]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379207
-[718]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379211
-[719]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379215
-[720]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379222
-[721]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379243
-[722]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379244
-[723]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379259
-[724]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379262
-[725]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379278
-[726]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379276
-[727]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379504
-[728]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM380168
-[729]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM380204
-[730]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106750
-[731]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1124189
-[732]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125401
-[733]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125403
-[734]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125405
-[735]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125407
-[736]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM109554
-[737]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125426
-[738]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374409
-[739]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374811
-[740]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM375408
-[741]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM375410
-[742]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228931
-[743]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228981
-[744]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228983
-[745]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228984
-[746]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228985
-[747]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228987
-[748]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228992
-[749]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2634200
-[750]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3019724
-[751]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1777800
-[752]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM311391
-[753]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1777925
-[754]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25627
-[755]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26769
-[756]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26770
-[757]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26771
-[758]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313892
-[759]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313896
-[760]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313899
-[761]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314101
-[762]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314105
-[763]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314116
-[764]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231004
-[765]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231086
-[766]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231098
-[767]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM373803
-[768]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374171
-[769]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374173
-[770]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM394191
-[771]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398609
-[772]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398610
-[773]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398621
-[774]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398623
-[775]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398625
-[776]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398627
-[777]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398632
-[778]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398633
-[779]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398655
-[780]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM401792
-[781]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM48686
-[782]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50764
-[783]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50768
-[784]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50772
-[785]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50779
-[786]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM207496
-[787]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210283
-[788]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210284
-[789]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210286
-[790]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210290
-[791]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210292
-[792]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210296
-[793]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210730
-[794]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM381221
-[795]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM384930
-[796]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM384933
-[797]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203311
-[798]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203383
-[799]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319240
-[800]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319398
-[801]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319399
-[802]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319800
-[803]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319801
-[804]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319833
-[805]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319802
-[806]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1152935
-[807]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154262
-[808]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154263
-[809]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154264
-[810]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154265
-[811]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154266
-[812]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1182003
-[813]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1440300
-[814]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1441040
-[815]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM406944
-[816]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407364
-[817]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407365
-[818]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407366
-[819]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407367
-[820]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407368
-[821]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407369
-[822]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407370
-[823]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407378
-[824]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478100
-[825]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478472
-[826]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478603
-[827]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478627
-[828]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM63090
-[829]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64458
-[830]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64903
-[831]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64904
-[832]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64908
-[833]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64909
-[834]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365015
-[835]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365065
-[836]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365094
-[837]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365929
-[838]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365931
-[839]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365936
-[840]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365937
-[841]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365938
-[842]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365942
-[843]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM433612
-[844]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM435114
-[845]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM170872
-[846]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173427
-[847]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173429
-[848]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173430
-[849]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173431
-[850]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173446
-[851]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173447
-[852]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173448
-[853]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM411986
-[854]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413238
-[855]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413239
-[856]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413240
-[857]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25110
-[858]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25343
-[859]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25346
-[860]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM397837
-[861]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398166
-[862]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398171
-[863]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398173
-[864]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241098
-[865]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241847
-[866]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241851
-[867]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM334659
-[868]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338876
-[869]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338881
-[870]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338882
-[871]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338877
-[872]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338879
-[873]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM301706
-[874]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302032
-[875]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302057
-[876]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302058
-[877]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302059
-[878]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302470
-[879]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188103
-[880]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188924
-[881]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188925
-[882]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM36962
-[883]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38288
-[884]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38500
-[885]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38503
-[886]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM356880
-[887]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM358078
-[888]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM358079
-[889]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391468
-[890]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391922
-[891]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391927
-[892]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391929
-[893]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM43598
-[894]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44057
-[895]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM421797
-[896]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422430
-[897]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422432
-[898]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422433
-[899]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422434
-[900]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422480
-[901]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197814
-[902]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197885
-[903]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197886
-[904]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM372538
-[905]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM373137
-[906]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195575
-[907]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197358
-[908]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197360
-[909]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM199363
-[910]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200313
-[911]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200315
-[912]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200786
-[913]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607394
-[914]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607395
-[915]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1608212
-[916]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444304
-[917]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444968
-[918]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444984
-[919]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM445003
-[920]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM230264
-[921]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239029
-[922]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239031
-[923]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239034
-[924]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239036
-[925]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM165115
-[926]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM166640
-[927]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM348342
-[928]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM348353
-[929]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350182
-[930]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350195
-[931]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350415
-[932]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350419
-[933]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM145965
-[934]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146588
-[935]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146592
-[936]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146595
-[937]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405133
-[938]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405263
-[939]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405264
-[940]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405273
-[941]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM999800
-[942]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154645
-[943]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154664
-[944]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154665
-[945]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154666
-[946]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154667
-[947]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154673
-[948]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154674
-[949]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154675
-[950]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154676
-[951]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM16622
-[952]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17209
-[953]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17241
-[954]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17256
-[955]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM276813
-[956]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM277812
-[957]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM278115
-[958]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM222446
-[959]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223209
-[960]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223210
-[961]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223212
-[962]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223213
-[963]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223214
-[964]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223215
-[965]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223804
-[966]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17800
-[967]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17867
-[968]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM386863
-[969]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388306
-[970]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388308
-[971]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388309
-[972]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM87622
-[973]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89919
-[974]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89922
-[975]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89932
-[976]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM211511
-[977]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM213500
-[978]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM281857
-[979]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM283336
-[980]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM96438
-[981]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM97320
-[982]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM97325
-[983]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM255625
-[984]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256611
-[985]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256679
-[986]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256682
-[987]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM257401
-[988]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM285411
-[989]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM285996
-[990]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM286522
-[991]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440509
-[992]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440542
-[993]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440544
-[994]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM102241
-[995]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM102900
-[996]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM73311
-[997]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM295421
-[998]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM296044
-[999]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327381
-[1000]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327386
-[1001]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327394
-[1002]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329717
-[1003]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330211
-[1004]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330213
-[1005]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5827102
-[1006]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM331234
-[1007]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329848
-[1008]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5789500
-[1009]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329814
-[1010]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057903
-[1011]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057910
-[1012]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3360935
-[1013]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM243238
-[1014]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM305839
-[1015]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM307211
-[1016]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436426
-[1017]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436435
-[1018]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436557
-[1019]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23069
-[1020]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23453
-[1021]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23619
-[1022]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM273056
-[1023]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274456
-[1024]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274458
-[1025]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274459
-[1026]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274461
-[1027]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1102100
-[1028]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1102384
-[1029]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM310742
-[1030]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM311134
-[1031]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314010
-[1032]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314024
-[1033]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314307
-[1034]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4059011
-[1035]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4059021
-[1036]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM124960
-[1037]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM128629
-[1038]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242335
-[1039]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM119011
-[1040]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23644
-[1041]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23666
-[1042]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM31458
-[1043]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314042
-[1044]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314044
-[1045]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048911
-[1046]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048924
-[1047]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048900
-[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3865811
-[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM332179
-[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313301
-[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451324
-[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756102
-[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756280
-[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242535
-[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756281
-[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
-[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
-[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3955410
-[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3956323
-[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
-[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
-[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
-[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
-[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
-[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
-[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
-[1067]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
-[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3918902
-[1069]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3919063
-[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
-[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
-[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
-[1073]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
-[1074]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5042900
-[1075]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5278446
-[1076]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043112
-[1077]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
-[1078]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
-[1079]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
-[1080]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
-[1081]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3394800
-[1082]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3395054
-[1083]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339302
-[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339787
-[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
-[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
-[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
-[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
-[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3919128
-[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM6040526
-[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339984
-[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
-[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
-[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
-[1095]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
-[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
-[1097]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
-[1098]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
-[1099]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1100]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
+[609]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5177930
+[610]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5178193
+[611]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23443
+[612]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436281
+[613]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM401062
+[614]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM204972
+[615]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM345528
+[616]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314078
+[617]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3360596
+[618]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393658
+[619]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393659
+[620]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393663
+[621]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393664
+[622]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393665
+[623]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393667
+[624]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393672
+[625]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393676
+[626]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393681
+[627]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM366142
+[628]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM366124
+[629]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393675
+[630]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM393679
+[631]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM295408
+[632]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM162412
+[633]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM211495
+[634]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM414576
+[635]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415144
+[636]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415149
+[637]: http://www.legislation.govt.nz/act/public/2012/0024/latest/whole.html#DLM415149
+[638]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415150
+[639]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415151
+[640]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415182
+[641]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM415458
+[642]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM33501
+[643]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35224
+[644]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35228
+[645]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35234
+[646]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35235
+[647]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35239
+[648]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35240
+[649]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35241
+[650]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM35242
+[651]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM36149
+[652]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM49663
+[653]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51262
+[654]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51264
+[655]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51265
+[656]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51266
+[657]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51267
+[658]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51270
+[659]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51271
+[660]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM51926
+[661]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM52828
+[662]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM52893
+[663]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM342782
+[664]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343602
+[665]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343604
+[666]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM343605
+[667]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2140700
+[668]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2140998
+[669]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141018
+[670]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141019
+[671]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141021
+[672]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141027
+[673]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2141032
+[674]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM409116
+[675]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM409207
+[676]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314622
+[677]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316094
+[678]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316300
+[679]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316304
+[680]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM316318
+[681]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44851
+[682]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44873
+[683]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM150002
+[684]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM150005
+[685]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM154515
+[686]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155064
+[687]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155066
+[688]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM155070
+[689]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM214686
+[690]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM216149
+[691]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM226673
+[692]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227348
+[693]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227350
+[694]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM227360
+[695]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM103609
+[696]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106658
+[697]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106681
+[698]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=BILL-SCDRAFT-7242
+[699]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451196
+[700]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451211
+[701]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451289
+[702]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451292
+[703]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451298
+[704]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451300
+[705]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451304
+[706]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451307
+[707]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451312
+[708]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451313
+[709]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451327
+[710]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451354
+[711]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM377336
+[712]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378948
+[713]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378949
+[714]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378951
+[715]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM378956
+[716]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379201
+[717]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379205
+[718]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379207
+[719]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379211
+[720]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379215
+[721]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379222
+[722]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379243
+[723]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379244
+[724]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379259
+[725]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379262
+[726]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379278
+[727]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379276
+[728]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM379504
+[729]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM380168
+[730]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM380204
+[731]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM106750
+[732]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1124189
+[733]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125401
+[734]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125403
+[735]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125405
+[736]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125407
+[737]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM109554
+[738]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1125426
+[739]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374409
+[740]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374811
+[741]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM375408
+[742]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM375410
+[743]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228931
+[744]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228981
+[745]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228983
+[746]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228984
+[747]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228985
+[748]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228987
+[749]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM228992
+[750]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2634200
+[751]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3019724
+[752]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1777800
+[753]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM311391
+[754]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1777925
+[755]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25627
+[756]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26769
+[757]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26770
+[758]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM26771
+[759]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313892
+[760]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313896
+[761]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313899
+[762]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314101
+[763]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314105
+[764]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314116
+[765]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231004
+[766]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231086
+[767]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3231098
+[768]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM373803
+[769]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374171
+[770]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM374173
+[771]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM394191
+[772]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398609
+[773]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398610
+[774]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398621
+[775]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398623
+[776]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398625
+[777]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398627
+[778]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398632
+[779]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398633
+[780]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398655
+[781]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM401792
+[782]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM48686
+[783]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50764
+[784]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50768
+[785]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50772
+[786]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM50779
+[787]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM207496
+[788]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210283
+[789]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210284
+[790]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210286
+[791]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210290
+[792]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210292
+[793]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210296
+[794]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210730
+[795]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM381221
+[796]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM384930
+[797]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM384933
+[798]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203311
+[799]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203383
+[800]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319240
+[801]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319398
+[802]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319399
+[803]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319800
+[804]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319801
+[805]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319833
+[806]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM319802
+[807]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1152935
+[808]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154262
+[809]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154263
+[810]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154264
+[811]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154265
+[812]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154266
+[813]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1182003
+[814]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1440300
+[815]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1441040
+[816]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM406944
+[817]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407364
+[818]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407365
+[819]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407366
+[820]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407367
+[821]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407368
+[822]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407369
+[823]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407370
+[824]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM407378
+[825]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478100
+[826]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478472
+[827]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478603
+[828]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478627
+[829]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM63090
+[830]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64458
+[831]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64903
+[832]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64904
+[833]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64908
+[834]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM64909
+[835]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365015
+[836]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365065
+[837]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365094
+[838]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365929
+[839]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365931
+[840]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365936
+[841]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365937
+[842]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365938
+[843]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365942
+[844]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM433612
+[845]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM435114
+[846]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM170872
+[847]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173427
+[848]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173429
+[849]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173430
+[850]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173431
+[851]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173446
+[852]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173447
+[853]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM173448
+[854]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM411986
+[855]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413238
+[856]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413239
+[857]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM413240
+[858]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25110
+[859]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25343
+[860]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM25346
+[861]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM397837
+[862]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398166
+[863]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398171
+[864]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM398173
+[865]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241098
+[866]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241847
+[867]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM241851
+[868]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM334659
+[869]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338876
+[870]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338881
+[871]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338882
+[872]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338877
+[873]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM338879
+[874]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM301706
+[875]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302032
+[876]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302057
+[877]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302058
+[878]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302059
+[879]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302470
+[880]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188103
+[881]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188924
+[882]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM188925
+[883]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM36962
+[884]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38288
+[885]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38500
+[886]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM38503
+[887]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM356880
+[888]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM358078
+[889]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM358079
+[890]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391468
+[891]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391922
+[892]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391927
+[893]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391929
+[894]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM43598
+[895]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM44057
+[896]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM421797
+[897]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422430
+[898]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422432
+[899]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422433
+[900]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422434
+[901]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422480
+[902]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197814
+[903]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197885
+[904]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197886
+[905]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM372538
+[906]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM373137
+[907]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195575
+[908]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197358
+[909]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197360
+[910]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM199363
+[911]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200313
+[912]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200315
+[913]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200786
+[914]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607394
+[915]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607395
+[916]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1608212
+[917]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444304
+[918]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444968
+[919]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM444984
+[920]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM445003
+[921]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM230264
+[922]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239029
+[923]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239031
+[924]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239034
+[925]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM239036
+[926]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM165115
+[927]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM166640
+[928]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM348342
+[929]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM348353
+[930]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350182
+[931]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350195
+[932]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350415
+[933]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM350419
+[934]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM145965
+[935]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146588
+[936]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146592
+[937]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM146595
+[938]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405133
+[939]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405263
+[940]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405264
+[941]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM405273
+[942]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM999800
+[943]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154645
+[944]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154664
+[945]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154665
+[946]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154666
+[947]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154667
+[948]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154673
+[949]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154674
+[950]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154675
+[951]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1154676
+[952]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM16622
+[953]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17209
+[954]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17241
+[955]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17256
+[956]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM276813
+[957]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM277812
+[958]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM278115
+[959]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM222446
+[960]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223209
+[961]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223210
+[962]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223212
+[963]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223213
+[964]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223214
+[965]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223215
+[966]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM223804
+[967]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17800
+[968]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM17867
+[969]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM386863
+[970]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388306
+[971]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388308
+[972]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM388309
+[973]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM87622
+[974]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89919
+[975]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89922
+[976]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM89932
+[977]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM211511
+[978]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM213500
+[979]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM281857
+[980]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM283336
+[981]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM96438
+[982]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM97320
+[983]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM97325
+[984]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM255625
+[985]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256611
+[986]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256679
+[987]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM256682
+[988]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM257401
+[989]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM285411
+[990]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM285996
+[991]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM286522
+[992]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440509
+[993]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440542
+[994]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM440544
+[995]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM102241
+[996]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM102900
+[997]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM73311
+[998]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM295421
+[999]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM296044
+[1000]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327381
+[1001]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327386
+[1002]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM327394
+[1003]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329717
+[1004]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330211
+[1005]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM330213
+[1006]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5827102
+[1007]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM331234
+[1008]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329848
+[1009]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5789500
+[1010]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM329814
+[1011]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057903
+[1012]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4057910
+[1013]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3360935
+[1014]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM243238
+[1015]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM305839
+[1016]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM307211
+[1017]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436426
+[1018]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436435
+[1019]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436557
+[1020]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23069
+[1021]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23453
+[1022]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23619
+[1023]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM273056
+[1024]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274456
+[1025]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274458
+[1026]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274459
+[1027]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM274461
+[1028]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1102100
+[1029]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1102384
+[1030]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM310742
+[1031]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM311134
+[1032]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314010
+[1033]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314024
+[1034]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314307
+[1035]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4059011
+[1036]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4059021
+[1037]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM124960
+[1038]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM128629
+[1039]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242335
+[1040]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242343
+[1041]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM119011
+[1042]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23644
+[1043]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23666
+[1044]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM31458
+[1045]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314042
+[1046]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314044
+[1047]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048911
+[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048924
+[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4048900
+[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3865811
+[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM332179
+[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313301
+[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451324
+[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756102
+[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756280
+[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242535
+[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756281
+[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
+[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
+[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3955410
+[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3956323
+[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
+[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
+[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
+[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
+[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
+[1067]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
+[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
+[1069]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
+[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3918902
+[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3919063
+[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
+[1073]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
+[1074]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
+[1075]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
+[1076]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5042900
+[1077]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5278446
+[1078]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043112
+[1079]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
+[1080]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
+[1081]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
+[1082]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
+[1083]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3394800
+[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3395054
+[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339302
+[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339787
+[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
+[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
+[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
+[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
+[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3919128
+[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM6040526
+[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339984
+[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
+[1095]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
+[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
+[1097]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
+[1098]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
+[1099]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
+[1100]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
+[1101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1102]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
