@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 11 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -3038,7 +3038,7 @@ Offences
     
     *   (b) does not include email, or information that is transmitted in the form of a broadcasting service
     
-    _network operator_ has the same meaning as in [section 3(1)][350] of the Telecommunications (Interception Capability) Act 2004
+    _network operator_ has the same meaning as in [section 3(1)][350] of the Telecommunications (Interception Capability and Security) Act 2013
     
     _postal operator_ has the same meaning as in [section 2(1)][351] of the Postal Services Act 1998
     
@@ -3051,6 +3051,8 @@ Offences
     *   (b) does not include a network operator.
     
     Section 122A: inserted, on 22 February 2005, by [section 25][349] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    
+    Section 122A **_network operator_**: amended, on 11 May 2014, by [section 123][353] of the Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91).
 
 ##### 123 Offences of strict liability relating to objectionable publications
     
@@ -3088,23 +3090,23 @@ Offences
     
     Compare: 1963 No 22 s 21(1)(a)--(c), (e), (h), (i), (2); 1982 No 27 s 3(1); 1987 No 85 ss 51(1)(a)--(d), (g), (i), (2), 70(3)
     
-    Section 123(1)(c): substituted, on 22 February 2005, by [section 26(1)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(1)(c): substituted, on 22 February 2005, by [section 26(1)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(1)(d): substituted, on 22 February 2005, by [section 26(1)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(1)(d): substituted, on 22 February 2005, by [section 26(1)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(1)(e): substituted, on 22 February 2005, by [section 26(1)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(1)(e): substituted, on 22 February 2005, by [section 26(1)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(1)(f): substituted, on 22 February 2005, by [section 26(1)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(1)(f): substituted, on 22 February 2005, by [section 26(1)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(2): substituted, on 22 February 2005, by [section 26(2)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(2): substituted, on 22 February 2005, by [section 26(2)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 123(2): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 123(4)(a): substituted, on 22 February 2005, by [section 26(3)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(4)(a): substituted, on 22 February 2005, by [section 26(3)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(4)(b): substituted, on 22 February 2005, by [section 26(3)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(4)(b): substituted, on 22 February 2005, by [section 26(3)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 123(4)(c): added, on 22 February 2005, by [section 26(3)][353] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 123(4)(c): added, on 22 February 2005, by [section 26(3)][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 124 Offences involving knowledge in relation to objectionable publications
     
@@ -3118,7 +3120,7 @@ Offences
     
     Compare: 1963 No 22 s 22(1)(a), (2); 1987 No 85 s 52(1)(a), (2)
     
-    Section 124(2): substituted, on 22 February 2005, by [section 27][354] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 124(2): substituted, on 22 February 2005, by [section 27][355] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 124(2): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -3148,7 +3150,7 @@ Offences
     
     (4) It is a defence to a charge to which subsection (3) applies if the defendant proves that the act to which that charge relates was done, in good faith, in accordance with any of paragraphs (a) to (f) of [section 131(5)][180].
     
-    Section 124A: inserted, on 22 February 2005, by [section 28][355] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 124A: inserted, on 22 February 2005, by [section 28][356] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 125 Offences of strict liability involving restricted publications
     
@@ -3214,11 +3216,11 @@ Offences
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    Section 127(2): substituted, on 22 February 2005, by [section 29(1)][356] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 127(2): substituted, on 22 February 2005, by [section 29(1)][357] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 127(2): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 127(5): substituted, on 22 February 2005, by [section 29(2)][356] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 127(5): substituted, on 22 February 2005, by [section 29(2)][357] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 127(5): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -3256,11 +3258,11 @@ Offences
     
     Compare: 1963 No 22 ss 21(1)(i), (2), 22(1)(e), (2); 1972 No 136 s 7(2); 1987 No 85 ss 51(1)(h), (2), (3), 52(1)(d), (2)
     
-    Section 129(2A): inserted, on 22 February 2005, by [section 30(1)][357] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 129(2A): inserted, on 22 February 2005, by [section 30(1)][358] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 129(2A): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 129(4): substituted, on 22 February 2005, by [section 30(2)][357] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 129(4): substituted, on 22 February 2005, by [section 30(2)][358] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 129(4): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -3316,7 +3318,7 @@ Offences
     
     *   (j) any Judge of the High Court, or District Court Judge, Coroner, Justice, or Community Magistrate:
     
-    *   (k) in relation to any publication delivered to the National Librarian pursuant to [Part 4][358] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003, the National Librarian, any other employee in the department responsible for the administration of that Act, or any person employed in the Parliamentary Library:
+    *   (k) in relation to any publication delivered to the National Librarian pursuant to [Part 4][359] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003, the National Librarian, any other employee in the department responsible for the administration of that Act, or any person employed in the Parliamentary Library:
     
     *   (l) any other person in the service of the Crown.
     
@@ -3332,7 +3334,7 @@ Offences
     
     *   (e) in accordance with, or for the purpose of, complying with any decision or order made in relation to the publication by the Chief Censor, the Classification Office, the Board, or any court, Judge, Justice, or Community Magistrate; or
     
-    *   (f) in connection with the delivery of the publication to the National Librarian in accordance with [Part 4][358] of the National Library of New Zealand (Te Puna Matāuranga o Aotearoa) Act 2003\.
+    *   (f) in connection with the delivery of the publication to the National Librarian in accordance with [Part 4][359] of the National Library of New Zealand (Te Puna Matāuranga o Aotearoa) Act 2003\.
     
     (6) Nothing in subsection (5) shall prejudice any defence that it is open to a person charged with an offence against this section to raise apart from that subsection.
     
@@ -3342,15 +3344,15 @@ Offences
     
     Section 131(4)(h): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][253] of the Policing Act 2008 (2008 No 72).
     
-    Section 131(4)(j): amended, on 30 June 1998, by [section 7][359] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 131(4)(j): amended, on 30 June 1998, by [section 7][360] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 131(4)(k): amended, on 1 February 2011, by [section 18][360] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
+    Section 131(4)(k): amended, on 1 February 2011, by [section 18][361] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
     
-    Section 131(4)(k): amended, on 6 May 2003, by [section 47][361] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+    Section 131(4)(k): amended, on 6 May 2003, by [section 47][362] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
     
-    Section 131(5)(e): amended, on 30 June 1998, by [section 7][359] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 131(5)(e): amended, on 30 June 1998, by [section 7][360] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 131(5)(f): amended, on 6 May 2003, by [section 47][361] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+    Section 131(5)(f): amended, on 6 May 2003, by [section 47][362] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
 
 ##### 131A Offences relating to possession of objectionable publications and involving knowledge
     
@@ -3362,7 +3364,7 @@ Offences
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 131A: inserted, on 22 February 2005, by [section 31(1)][362] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 131A: inserted, on 22 February 2005, by [section 31(1)][363] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
     Section 131A(2): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -3400,9 +3402,9 @@ Offences
     
     *   (b) if the publication has been referred to the Classification Office under [section 29(1)][42] or [section 41(3)][59], to the report provided by the Classification Office to the court under [section 30][43].
     
-    (4) Nothing in this section affects the application of the [Sentencing Act 2002][363] in respect of the offence.
+    (4) Nothing in this section affects the application of the [Sentencing Act 2002][364] in respect of the offence.
     
-    Section 132A: inserted, on 22 February 2005, by [section 32][364] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 132A: inserted, on 22 February 2005, by [section 32][365] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 #### Miscellaneous offences
 
@@ -3478,7 +3480,7 @@ Offences
     
     (4) In any proceedings (being proceedings for an offence against this Act) against any person in respect of an illegal action alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she or it took such steps as were reasonably practicable to prevent the employee from doing that illegal action, or from doing as an employee of that person acts of a class, category, or description that includes illegal actions.
     
-    Compare: 1963 No 22 s 23; 1972 No 136 s 9; 1987 No 85 s 55; 1993 No 28 [s 126][365]
+    Compare: 1963 No 22 s 23; 1972 No 136 s 9; 1987 No 85 s 55; 1993 No 28 [s 126][366]
 
 ##### 139 Directors and officers of bodies corporate
     
@@ -3516,7 +3518,7 @@ Offences
 
 ##### 143 Time for filing charging document
     
-*   (1) Despite anything to the contrary in [section 25][366] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][367] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
     
     (2) This section does not apply to an offence against [section 124(1)][172], [127(4)][176], or [131A(1)][181].
     
@@ -3536,7 +3538,7 @@ Offences
     
     Compare: 1963 No 22 s 29; 1987 No 85 s 62
     
-    Section 144(1): amended, on 22 February 2005, by [section 31(2)][362] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 144(1): amended, on 22 February 2005, by [section 31(2)][363] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 145 Delegation of powers by Commissioner of Police
     
@@ -3556,11 +3558,11 @@ Offences
     
     Section 145(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][253] of the Policing Act 2008 (2008 No 72).
     
-    Section 145(1): amended, on 1 October 2008, by [section 130(1)][367] of the Policing Act 2008 (2008 No 72).
+    Section 145(1): amended, on 1 October 2008, by [section 130(1)][368] of the Policing Act 2008 (2008 No 72).
     
     Section 145(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][253] of the Policing Act 2008 (2008 No 72).
     
-    Section 145(3): amended, on 1 October 2008, by [section 130(1)][367] of the Policing Act 2008 (2008 No 72).
+    Section 145(3): amended, on 1 October 2008, by [section 130(1)][368] of the Policing Act 2008 (2008 No 72).
 
 ##### 145A Extraterritorial jurisdiction for certain offences as required by Optional Protocol
     
@@ -3596,13 +3598,13 @@ Offences
         
     *   (a) acts that occurred wholly within New Zealand; or
     
-    *   (b) an offence that, under [section 7][368] of the Crimes Act 1961, is deemed to be committed in New Zealand; or
+    *   (b) an offence that, under [section 7][369] of the Crimes Act 1961, is deemed to be committed in New Zealand; or
     
-    *   (c) acts to which [section 8][369] of that Act applies; or
+    *   (c) acts to which [section 8][370] of that Act applies; or
     
-    *   (d) acts that, under [section 8A][370] of that Act, are deemed to have taken place within New Zealand.
+    *   (d) acts that, under [section 8A][371] of that Act, are deemed to have taken place within New Zealand.
     
-    Section 145A: inserted, on 22 February 2005, by [section 34(1)][371] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 145A: inserted, on 22 February 2005, by [section 34(1)][372] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 145B Attorney-General's consent required where jurisdiction claimed under section 145A
     
@@ -3610,17 +3612,17 @@ Offences
     
     (2) A person over whom jurisdiction is claimed by virtue of [section 145A][200] may be arrested for a relevant offence, or a warrant for the person's arrest for the offence may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
     
-    Section 145B: inserted, on 22 February 2005, by [section 34(1)][371] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 145B: inserted, on 22 February 2005, by [section 34(1)][372] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 145C Offences deemed to be included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][372] and any Order in Council in force under [section 15][373] or [section 104][374] of that Act, every relevant offence that involves child pornography is deemed to be an offence described in any extradition treaty---
+*   (1) For the purposes of the [Extradition Act 1999][373] and any Order in Council in force under [section 15][374] or [section 104][375] of that Act, every relevant offence that involves child pornography is deemed to be an offence described in any extradition treaty---
         
-    *   (a) concluded before the commencement of [section 34][371] of the Films, Videos, and Publications Classification Amendment Act 2005; and
+    *   (a) concluded before the commencement of [section 34][372] of the Films, Videos, and Publications Classification Amendment Act 2005; and
     
     *   (b) for the time being in force between New Zealand and any foreign country that is a party to the Optional Protocol.
     
-    (2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with the [Extradition Act 1999][372] and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)(a).
+    (2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with the [Extradition Act 1999][373] and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)(a).
     
     (3) However, subsection (2) does not apply in respect of an act that, had it occurred within the jurisdiction of New Zealand, would not, at the time that it occurred, have constituted an offence under New Zealand law.
     
@@ -3632,7 +3634,7 @@ Offences
     
     *   (b) to which the extradition treaty and the Optional Protocol extend.
     
-    Section 145C: inserted, on 22 February 2005, by [section 34(1)][371] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 145C: inserted, on 22 February 2005, by [section 34(1)][372] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ## Part 9  
 Miscellaneous provisions
@@ -3689,9 +3691,9 @@ Miscellaneous provisions
     
     Compare: 1963 No 22 s 27
     
-    Section 147(3)(a): amended, on 1 July 1995, pursuant to [section 3(1)(b)][375] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 147(3)(a): amended, on 1 July 1995, pursuant to [section 3(1)(b)][376] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 147(3)(b): amended, on 1 July 1995, pursuant to [section 3(1)(b)][375] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 147(3)(b): amended, on 1 July 1995, pursuant to [section 3(1)(b)][376] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 147(3)(b): amended, on 27 April 1995, by [section 4(4)][256] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
     
@@ -3701,9 +3703,9 @@ Miscellaneous provisions
     
 *   Any fee charged under [section 15(6)][26] or [section 38(3)][56] or [section 39(6)][57] for a copy of any document shall be no more than is reasonably required to recover the costs of supplying that copy.
     
-    Section 148: amended, on 1 October 2012, by [section 22(a)][376] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 148: amended, on 1 October 2012, by [section 22(a)][377] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 148: amended, on 1 October 2012, by [section 22(b)][376] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 148: amended, on 1 October 2012, by [section 22(b)][377] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
 
 #### Regulations
 
@@ -3783,27 +3785,27 @@ Miscellaneous provisions
     
     Compare: 1983 No 130 s 75; 1987 No 85 s 69; 1990 No 58 s 11; 1990 No 59 s 11
     
-    Section 149(ha): inserted, on 22 February 2005, by [section 35][377] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 149(ha): inserted, on 22 February 2005, by [section 35][378] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 149(i)(i): amended, on 1 October 2012, by [section 23(1)(a)][378] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 149(i)(i): amended, on 1 October 2012, by [section 23(1)(a)][379] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 149(i)(i): amended, on 1 October 2012, by [section 23(1)(b)][378] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 149(i)(i): amended, on 1 October 2012, by [section 23(1)(b)][379] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 149(i)(iii): amended, on 1 October 2012, by [section 23(2)][378] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 149(i)(iii): amended, on 1 October 2012, by [section 23(2)][379] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 149(ja): inserted, on 24 March 1999, by [section 3(1)][379] of the Films, Videos, and Publications Classification Amendment Act 1999 (1999 No 13).
+    Section 149(ja): inserted, on 24 March 1999, by [section 3(1)][380] of the Films, Videos, and Publications Classification Amendment Act 1999 (1999 No 13).
     
-    Section 149(l): replaced, on 1 October 2012, by [section 23(3)][378] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 149(l): replaced, on 1 October 2012, by [section 23(3)][379] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 149(m): repealed, on 1 October 2012, by [section 23(4)][378] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 149(m): repealed, on 1 October 2012, by [section 23(4)][379] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
     
-    Section 149(na): inserted, on 28 July 1997, by [section 2][380] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
+    Section 149(na): inserted, on 28 July 1997, by [section 2][381] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
     
-    Section 149(nb): inserted, on 28 July 1997, by [section 2][380] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
+    Section 149(nb): inserted, on 28 July 1997, by [section 2][381] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
     
-    Section 149(nc): inserted, on 28 July 1997, by [section 2][380] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
+    Section 149(nc): inserted, on 28 July 1997, by [section 2][381] of the Films, Videos, and Publications Classification Amendment Act 1997 (1997 No 44).
     
-    Section 149(nd): inserted, on 24 March 1999, by [section 3(2)][379] of the Films, Videos, and Publications Classification Amendment Act 1999 (1999 No 13). 
+    Section 149(nd): inserted, on 24 March 1999, by [section 3(2)][380] of the Films, Videos, and Publications Classification Amendment Act 1999 (1999 No 13). 
     
     Section 149(o): amended, on 1 July 2013, by [section 413][331] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -3848,7 +3850,7 @@ Transitional provisions
     
     (6) Notwithstanding that a decision to which this section applies is deemed to be a decision of the Classification Office, but subject to subsection (5), nothing in subsection (2) shall be construed so as to entitle any person to make an application under [section 47][73] in relation to the book or sound recording to which the decision relates.
     
-    Section 152(4): amended, on 1 October 2012, by [section 24][381] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 152(4): amended, on 1 October 2012, by [section 24][382] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
 
 ##### 153 Proceedings pending or in train before Indecent Publications Tribunal
     
@@ -3992,7 +3994,7 @@ Transitional provisions
     
     (7) Notwithstanding that a decision to which this section applies is deemed to be a decision of the Classification Office, but subject to subsection (6), nothing in subsection (2) shall be construed so as to entitle any person to make an application under [section 47][73] in relation to the video recording to which the decision relates.
     
-    Section 161(5): amended, on 1 October 2012, by [section 25][382] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 161(5): amended, on 1 October 2012, by [section 25][383] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
 
 ##### 162 Videos before labelling body
     
@@ -4108,7 +4110,7 @@ Transitional provisions
     
     (8) Nothing in this section applies in respect of a decision of the Chief Censor under section 17 of the Films Act 1983\.
     
-    Section 168(5): amended, on 1 October 2012, by [section 26][383] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
+    Section 168(5): amended, on 1 October 2012, by [section 26][384] of the Films, Videos, and Publications Classification Amendment Act 2012 (2012 No 62).
 
 ##### 169 Proceedings pending before Chief Censor or Board of Review
     
@@ -4188,9 +4190,9 @@ Transitional provisions
 
 ##### 172 Vacation of office of existing office-holders
     
-*   Subject to [section 173][240], for the avoidance of doubt, it is hereby declared that no person who, immediately before the commencement of this section, is holding any office by virtue of any appointment made under, or pursuant to, or for the purposes of, the Indecent Publications Act 1963 or the Films Act 1983 or the Video Recordings Act 1987 shall, by virtue of the operation of any provision of the [Interpretation Act 1999][384] or any other enactment or rule of law, be taken to hold any office under this Act as a member or employee of the Classification Office or as a member of the Board.
+*   Subject to [section 173][240], for the avoidance of doubt, it is hereby declared that no person who, immediately before the commencement of this section, is holding any office by virtue of any appointment made under, or pursuant to, or for the purposes of, the Indecent Publications Act 1963 or the Films Act 1983 or the Video Recordings Act 1987 shall, by virtue of the operation of any provision of the [Interpretation Act 1999][385] or any other enactment or rule of law, be taken to hold any office under this Act as a member or employee of the Classification Office or as a member of the Board.
     
-    Section 172: amended, on 1 November 1999, pursuant to [section 38(1)][385] of the Interpretation Act 1999 (1999 No 85).
+    Section 172: amended, on 1 November 1999, pursuant to [section 38(1)][386] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 173 Existing Inspectors deemed to be Inspectors
     
@@ -4212,13 +4214,13 @@ Transitional provisions
     
     then, notwithstanding the terms of that employee's contract of service with the Department of Internal Affairs, that employee shall not be entitled to receive any payment or other benefit from that department by reason only of that person so ceasing to be an employee of that department, whether or not that person accepts that offer of employment in the Classification Office.
     
-    Compare: 1993 No 23 [s 13(1)][386]
+    Compare: 1993 No 23 [s 13(1)][387]
 
 ##### 175 Part to apply in respect of subsisting decisions under previous Films Acts
     
-*   Where, at the commencement of this section, any decision made under the Cinematograph Films Act 1976 or any former corresponding Act (being a decision that, by virtue of the provisions of the [Interpretation Act 1999][384], is treated for the purposes of the Films Act 1983 to be a decision approving a film for exhibition or refusing to approve a film for exhibition) is subsisting, this Part, so far as applicable and with all necessary modifications, shall apply in respect of that decision as if it were a decision made under the Films Act 1983\.
+*   Where, at the commencement of this section, any decision made under the Cinematograph Films Act 1976 or any former corresponding Act (being a decision that, by virtue of the provisions of the [Interpretation Act 1999][385], is treated for the purposes of the Films Act 1983 to be a decision approving a film for exhibition or refusing to approve a film for exhibition) is subsisting, this Part, so far as applicable and with all necessary modifications, shall apply in respect of that decision as if it were a decision made under the Films Act 1983\.
     
-    Section 175: amended, on 1 November 1999, pursuant to [section 38(1)][385] of the Interpretation Act 1999 (1999 No 85).
+    Section 175: amended, on 1 November 1999, pursuant to [section 38(1)][386] of the Interpretation Act 1999 (1999 No 85).
 
 #### Regulations
 
@@ -4226,7 +4228,7 @@ Transitional provisions
     
 *   \[Expired\]
     
-    Section 176: expired and deemed to have been repealed, on 1 April 1999, by [section 177][387].
+    Section 176: expired and deemed to have been repealed, on 1 April 1999, by [section 177][388].
 
 ##### 177 Expiry of section 176
     
@@ -4255,7 +4257,7 @@ Provisions applying in respect of Classification Office
     
 *   (1) Subject to the provisions of this clause, the Chief Censor may appoint such employees as may be necessary for the efficient carrying out of the Classification Office's functions, powers, and duties under this Act (including the functions of the Information Unit).
     
-    (2) This clause is subject to [sections 116][388] and [118][389] of the Crown Entities Act 2004\.
+    (2) This clause is subject to [sections 116][389] and [118][390] of the Crown Entities Act 2004\.
     
     (3) \[Repealed\]
     
@@ -4279,9 +4281,9 @@ Provisions applying in respect of Classification Office
 
 ##### 5 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing superannuation or retiring allowances for the Chief Censor or the Deputy Chief Censor, the Classification Office may, out of the funds of the Classification Office, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][390].
+*   (1) For the purpose of providing superannuation or retiring allowances for the Chief Censor or the Deputy Chief Censor, the Classification Office may, out of the funds of the Classification Office, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][391].
     
-    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Chief Censor or the Deputy Chief Censor or, as the case may be, becoming an employee of the Classification Office, is a contributor to the Government Superannuation Fund under [Part 2][391] or [Part 2A][392] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][320], employed in the Government service so long as that person continues to hold office as the Chief Censor or the Deputy Chief Censor or, as the case may be, to be an employee of the Classification Office; and that Act shall apply to that person in all respects as if that person's service as the Chief Censor or the Deputy Chief Censor or, as the case may be, as such an employee were Government service.
+    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Chief Censor or the Deputy Chief Censor or, as the case may be, becoming an employee of the Classification Office, is a contributor to the Government Superannuation Fund under [Part 2][392] or [Part 2A][393] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][320], employed in the Government service so long as that person continues to hold office as the Chief Censor or the Deputy Chief Censor or, as the case may be, to be an employee of the Classification Office; and that Act shall apply to that person in all respects as if that person's service as the Chief Censor or the Deputy Chief Censor or, as the case may be, as such an employee were Government service.
     
     (3) Subject to the [Government Superannuation Fund Act 1956][320], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
@@ -4362,11 +4364,11 @@ Enactments amended
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][393]._
+_Amendment(s) incorporated in the [Act(s)][394]._
 
 ##### Crimes Act 1961 (1961 No 43) (RS Vol 1, p 635)
 
-_Amendment(s) incorporated in the [Act(s)][394]._
+_Amendment(s) incorporated in the [Act(s)][395]._
 
 ##### Customs Act 1966 (1966 No 19) (RS Vol 2, p 57)
 
@@ -4386,7 +4388,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Offences Act 1981 (1981 No 113) (RS Vol 28, p 887)
 
-_Amendment(s) incorporated in the [Act(s)][395]._
+_Amendment(s) incorporated in the [Act(s)][396]._
 
 ---
 
@@ -4401,11 +4403,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Acts and Regulations Publication Act 1989 (1989 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][396]._
+_Amendment(s) incorporated in the [Act(s)][397]._
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][397]._
+_Amendment(s) incorporated in the [Act(s)][398]._
 
 ##### Films Act 1983 (1983 No 130)
 
@@ -4417,11 +4419,11 @@ _Amendment(s) incorporated in the [Act(s)][397]._
 
 ##### Foreign Affairs Amendment Act 1993 (1993 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][398]._
+_Amendment(s) incorporated in the [Act(s)][399]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][399]._
+_Amendment(s) incorporated in the [Act(s)][400]._
 
 ##### Indecent Publications Act 1963 (1963 No 22) (RS Vol 16, p 179)
 
@@ -4441,19 +4443,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][400]._
+_Amendment(s) incorporated in the [Act(s)][401]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][401]._
+_Amendment(s) incorporated in the [Act(s)][402]._
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][402]._
+_Amendment(s) incorporated in the [Act(s)][403]._
 
 ##### Taxation Acts Repeal Act 1986 (1986 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][403]._
+_Amendment(s) incorporated in the [Act(s)][404]._
 
 ##### Video Recordings Act 1987 (1987 No 85)
 
@@ -4469,7 +4471,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Films, Videos, and Publications Classification Amendment Act 2005][404].
+*   (1) This Act is the [Films, Videos, and Publications Classification Amendment Act 2005][405].
     
     (2) In this Act, the Films, Videos, and Publications Classification Act 1993 is called ""the principal Act"".
 
@@ -4544,15 +4546,17 @@ Amendments to principal Act
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][405] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][406] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][406] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][407] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][407] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][408] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][408] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][409] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][259]
+*   Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91): [section 123][353]
+    
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][259]
     
     [Films, Videos, and Publications Classification Amendment Act 2012][286] (2012 No 62)
     
@@ -4560,33 +4564,33 @@ Amendments to principal Act
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][331]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][360]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][361]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][253], [130(1)][367]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][253], [130(1)][368]
     
-    [Films, Videos, and Publications Classification Amendment Act 2007][409] (2007 No 58)
+    [Films, Videos, and Publications Classification Amendment Act 2007][410] (2007 No 58)
     
-    [Films, Videos, and Publications Classification Amendment Act 2005][404] (2005 No 2)
+    [Films, Videos, and Publications Classification Amendment Act 2005][405] (2005 No 2)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][304]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][361]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][362]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][385]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][386]
     
     Films, Videos, and Publications Classification Amendment Act 1999 (1999 No 13)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][359]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][360]
     
-    [Films, Videos, and Publications Classifications Amendment Act 1998][410] (1998 No 45)
+    [Films, Videos, and Publications Classifications Amendment Act 1998][411] (1998 No 45)
     
-    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 25][411]
+    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 25][412]
     
-    [Films, Videos, and Publications Classification Amendment Act 1997][412] (1997 No 44)
+    [Films, Videos, and Publications Classification Amendment Act 1997][413] (1997 No 44)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][270]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 3(1)(b)][375]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 3(1)(b)][376]
     
     Newspapers and Printers Act Repeal Act 1995 (1995 No 13): [sections 3][255], [4(1), (4)][256]
     
@@ -4899,7 +4903,7 @@ Amendments to principal Act
 [302]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329641
 [303]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329630
 [304]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM331111
-[305]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM331131
+[305]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM1992925
 [306]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329954
 [307]: http://www.legislation.govt.nz/act/public/1993/0094/latest/whole.html#DLM314481
 [308]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329955
@@ -4944,66 +4948,67 @@ Amendments to principal Act
 [347]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333293
 [348]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444233
 [349]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333295
-[350]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM242343
+[350]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM5177930
 [351]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM423264
 [352]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM124974
-[353]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333711
-[354]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333712
-[355]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333713
-[356]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333716
-[357]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333717
-[358]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM192233
-[359]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM427920
-[360]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM3430033
-[361]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM192277
-[362]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333718
-[363]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM135341
-[364]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333720
-[365]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM298434
-[366]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM3360067
-[367]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM1102383
-[368]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328024
-[369]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328038
-[370]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328042
-[371]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333724
-[372]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM25627
-[373]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM26205
-[374]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM27321
-[375]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM367228
-[376]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444234
-[377]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333734
-[378]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444235
-[379]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM20881
-[380]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM410352
-[381]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444236
-[382]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444237
-[383]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444238
-[384]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM31458
-[385]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM31885
-[386]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM295135
-[387]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM314477
-[388]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM330366
-[389]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM330368
-[390]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM143291
-[391]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM446395
-[392]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM446842
-[393]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM157413
-[394]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329038
-[395]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM53500
-[396]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM195497
-[397]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM265672
-[398]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM302529
-[399]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM305904
-[400]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM260621
-[401]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM299172
-[402]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM224789
-[403]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM93836
-[404]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333251
-[405]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998516
-[406]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998515
-[407]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998532
-[408]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[409]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM968282
-[410]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM426601
-[411]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM418033
-[412]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM410346
+[353]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM5178193
+[354]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333711
+[355]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333712
+[356]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333713
+[357]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333716
+[358]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333717
+[359]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM192233
+[360]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM427920
+[361]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM3430033
+[362]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM192277
+[363]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333718
+[364]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM135341
+[365]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333720
+[366]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM298434
+[367]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM3360067
+[368]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM1102383
+[369]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328024
+[370]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328038
+[371]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM328042
+[372]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333724
+[373]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM25627
+[374]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM26205
+[375]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM27321
+[376]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM367228
+[377]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444234
+[378]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333734
+[379]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444235
+[380]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM20881
+[381]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM410352
+[382]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444236
+[383]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444237
+[384]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM4444238
+[385]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM31458
+[386]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM31885
+[387]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM295135
+[388]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM314477
+[389]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM330366
+[390]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM330368
+[391]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM143291
+[392]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM446395
+[393]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM446842
+[394]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM157413
+[395]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM329038
+[396]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM53500
+[397]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM195497
+[398]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM265672
+[399]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM302529
+[400]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM305904
+[401]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM260621
+[402]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM299172
+[403]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM224789
+[404]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM93836
+[405]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM333251
+[406]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998516
+[407]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998515
+[408]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM2998532
+[409]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[410]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM968282
+[411]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM426601
+[412]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM418033
+[413]: http://www.legislation.govt.nz/act/public/1993/0094/latest/link.aspx?id=DLM410346
