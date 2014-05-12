@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 11 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement11 September 1969
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the New Zealand Security Intelligence Service.
 
@@ -1047,9 +1047,11 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     *   (e) to consider advice, given to the Commissioner under [section 4F(3)][19], concerning approvals to enter certain places:
     
-    *   (f) after consulting the Minister, to give directions under [section 4F(5)][19] (which relates to directions not to proceed with, or to discontinue, interceptions or seizures of communications at certain places).
+    *   (f) after consulting the Minister, to give directions under [section 4F(5)][19] (which relates to directions not to proceed with, or to discontinue, interceptions or seizures of communications at certain places):
     
-    Compare: 1996 No 47 [s 5][113]
+    *   (g) to conduct reviews under [section 56][113] of the Telecommunications (Interception Capability and Security) Act 2013 relating to significant network security risks.
+    
+    Compare: 1996 No 47 [s 5][114]
     
     Section 5A: inserted, on 1 September 1999, by [section 7][112] of the New Zealand Security Intelligence Service Amendment Act (No 2) 1999 (1999 No 91).
     
@@ -1060,6 +1062,8 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     Section 5A(5)(c): amended, on 13 July 2011, by [section 17(1)][87] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
     Section 5A(5)(d): amended, on 13 July 2011, by [section 17(1)][87] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
+    
+    Section 5A(5)(g): inserted, on 11 May 2014, by [section 123][115] of the Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91).
 
 ##### 5B Term of office
     
@@ -1073,7 +1077,7 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     (3) The person appointed as Commissioner may at any time resign his or her office by written notice given to the Minister.
     
-    Compare: 1996 No 47 [s 6][114]
+    Compare: 1996 No 47 [s 6][116]
     
     Section 5B: inserted, on 1 September 1999, by [section 7][112] of the New Zealand Security Intelligence Service Amendment Act (No 2) 1999 (1999 No 91).
 
@@ -1081,7 +1085,7 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
 *   The person appointed as Commissioner may be removed or suspended from office by the Governor-General, upon an address from the House of Representatives, for disability affecting performance of duty, bankruptcy, neglect of duty, or misconduct.
     
-    Compare: 1996 No 47 [s 7][115]
+    Compare: 1996 No 47 [s 7][117]
     
     Section 5C: inserted, on 1 September 1999, by [section 7][112] of the New Zealand Security Intelligence Service Amendment Act (No 2) 1999 (1999 No 91).
 
@@ -1093,11 +1097,11 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
 
 ##### 5E Remuneration and allowances
     
-*   (1) The Commissioner is to be paid out of public money, without further appropriation than this section, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][116].
+*   (1) The Commissioner is to be paid out of public money, without further appropriation than this section, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][118].
     
-    (2) The provisions of the [Fees and Travelling Allowances Act 1951][116] apply as if the Commissioner were a member of a statutory board and any travelling undertaken by the Commissioner were in the service of a statutory board.
+    (2) The provisions of the [Fees and Travelling Allowances Act 1951][118] apply as if the Commissioner were a member of a statutory board and any travelling undertaken by the Commissioner were in the service of a statutory board.
     
-    Compare: 1996 No 47 [s 8][117]
+    Compare: 1996 No 47 [s 8][119]
     
     Section 5E: inserted, on 1 September 1999, by [section 7][112] of the New Zealand Security Intelligence Service Amendment Act (No 2) 1999 (1999 No 91).
 
@@ -1105,7 +1109,7 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
 *   The Commissioner must give written notice to the Prime Minister of all interests, pecuniary or otherwise, that the Commissioner has or acquires and that could conflict with the proper performance by the Commissioner of his or her functions under this Act.
     
-    Compare: 1996 No 47 [s 9][118]
+    Compare: 1996 No 47 [s 9][120]
     
     Section 5F: inserted, on 1 September 1999, by [section 7][112] of the New Zealand Security Intelligence Service Amendment Act (No 2) 1999 (1999 No 91).
 
@@ -1133,17 +1137,17 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     (2) \[Repealed\]
     
-    Section 6(2): repealed, on 25 January 2005, by [section 18][119] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 6(2): repealed, on 25 January 2005, by [section 18][121] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 7 Grading of offices
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 25 January 2005, by [section 18][119] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 7: repealed, on 25 January 2005, by [section 18][121] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 8 Conditions of employment
     
-*   (1) Nothing in the [State Sector Act 1988][120] shall apply to the Director or the officers or employees of the Security Intelligence Service.
+*   (1) Nothing in the [State Sector Act 1988][122] shall apply to the Director or the officers or employees of the Security Intelligence Service.
     
     (2) Subject to the provisions of this Act, the Director must determine---
         
@@ -1151,9 +1155,9 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     *   (b) the terms and conditions applicable to employees of that Service.
     
-    Section 8(1): amended, on 1 April 1988, pursuant to [section 90(a)][121] of the State Sector Act 1988 (1988 No 20).
+    Section 8(1): amended, on 1 April 1988, pursuant to [section 90(a)][123] of the State Sector Act 1988 (1988 No 20).
     
-    Section 8(2): substituted, on 25 January 2005, by [section 18][119] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 8(2): substituted, on 25 January 2005, by [section 18][121] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 9 Special provisions relating to existing officers and employees
     
@@ -1173,7 +1177,7 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     *   (b) if there is no such available suitable position, at a lesser grading.
     
-    Section 10(a): amended, on 1 April 1988, pursuant to [section 90(d)][121] of the State Sector Act 1988 (1988 No 20).
+    Section 10(a): amended, on 1 April 1988, pursuant to [section 90(d)][123] of the State Sector Act 1988 (1988 No 20).
 
 ##### 11 Employment of Director and officers not terminable at will
     
@@ -1181,15 +1185,15 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
 
 ##### 12 Application of Government Superannuation Fund Act 1956
     
-*   (1) In any case where a person employed in the Security Intelligence Service immediately before the commencement of this Act (including the person holding office as Director of Security immediately before the commencement of this Act) was immediately before the commencement of this Act contributing to the Government Superannuation Fund, or in any case where a person is appointed after the commencement of this Act as Director or as an officer or employee of the Security Intelligence Service, his service in the Security Intelligence Service shall be deemed for the purposes of the [Government Superannuation Fund Act 1956][122] to be employment in the Government service.
+*   (1) In any case where a person employed in the Security Intelligence Service immediately before the commencement of this Act (including the person holding office as Director of Security immediately before the commencement of this Act) was immediately before the commencement of this Act contributing to the Government Superannuation Fund, or in any case where a person is appointed after the commencement of this Act as Director or as an officer or employee of the Security Intelligence Service, his service in the Security Intelligence Service shall be deemed for the purposes of the [Government Superannuation Fund Act 1956][124] to be employment in the Government service.
     
-    (2) For the purposes of the [Government Superannuation Fund Act 1956][122], the controlling authority in relation to any such person while he is employed in the Security Intelligence Service shall be the Director.
+    (2) For the purposes of the [Government Superannuation Fund Act 1956][124], the controlling authority in relation to any such person while he is employed in the Security Intelligence Service shall be the Director.
     
-    Section 12 heading: amended, on 1 November 1976, pursuant to [section 3(3)][123] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 12 heading: amended, on 1 November 1976, pursuant to [section 3(3)][125] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 12(1): amended, on 1 November 1976, pursuant to [section 3(3)][123] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 12(1): amended, on 1 November 1976, pursuant to [section 3(3)][125] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 12(2): amended, on 1 November 1976, pursuant to [section 3(3)][123] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 12(2): amended, on 1 November 1976, pursuant to [section 3(3)][125] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
 ##### 12A Prohibition on unauthorised disclosure of information
     
@@ -1201,15 +1205,15 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
     
     (4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $2,000 who fails to comply with or acts in contravention of the foregoing provisions of this section.
     
-    Section 12A: inserted, on 16 November 1977, by [section 7(1)][124] of the New Zealand Security Intelligence Service Amendment Act 1977 (1977 No 50).
+    Section 12A: inserted, on 16 November 1977, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1977 (1977 No 50).
     
-    Section 12A(2): amended, on 13 July 2011, by [section 16(1)(a)][125] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
+    Section 12A(2): amended, on 13 July 2011, by [section 16(1)(a)][127] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
-    Section 12A(2): amended, on 13 July 2011, by [section 16(1)(b)][125] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
+    Section 12A(2): amended, on 13 July 2011, by [section 16(1)(b)][127] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
     Section 12A(2): amended, on 13 July 2011, by [section 17(1)][87] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
-    Section 12A(3): amended, on 13 July 2011, by [section 16(2)][125] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
+    Section 12A(3): amended, on 13 July 2011, by [section 16(2)][127] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
     Section 12A(3): amended, on 13 July 2011, by [section 17(1)][87] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
@@ -1241,178 +1245,137 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
 
 \[Repealed\]
     
-*   Heading: repealed, on 2 July 1996, pursuant to [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+*   Heading: repealed, on 2 July 1996, pursuant to [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 14 Commissioner of Security Appeals
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 14: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 15 Remuneration and travelling allowances of Commissioner
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 15: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 16 Oath to be taken by Commissioner
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 16: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 17 Function of the Commissioner
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 17: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 18 Mode of complaint
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 18: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 19 Commissioner may refuse to inquire into complaint
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 19: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 20 Proceedings of Commissioner
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 20: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 20A Disclosure of certain matters not to be required
     
 *   \[Repealed\]
     
-    Section 20A: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 20A: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 21 Action by Commissioner
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 21: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 22 Action by Minister
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 22: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 23 Restriction on publication and broadcasting
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 23: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
 
 ##### 24 Proceedings and findings privileged
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 2 July 1996, by [section 7(1)][126] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+    Section 24: repealed, on 2 July 1996, by [section 7(1)][128] of the New Zealand Security Intelligence Service Amendment Act 1996 (1996 No 48).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Security Intelligence Service Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][127] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Security Intelligence Service Act 1969 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][128] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][129] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][130] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][129] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][131] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][132] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][130] and [17E][131] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91): [section 123][115]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][95]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][95]
-    
-    [New Zealand Security Intelligence Service Amendment Act 2011][132] (2011 No 28)
+    [New Zealand Security Intelligence Service Amendment Act 2011][133] (2011 No 28)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][75]
     
     Policing Act 2008 (2008 No 72): [section 130(1)][96]
     
-    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][119]
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][121]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][101]
     
-    [New Zealand Security Intelligence Service Amendment Act 2003][133] (2003 No 108)
+    [New Zealand Security Intelligence Service Amendment Act 2003][134] (2003 No 108)
     
     Government Communications Security Bureau Act 2003 (2003 No 9): [section 29][102]
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][107]
     
-    [New Zealand Security Intelligence Service Amendment Act 1999 (No 2)][134] (1999 No 91)
+    [New Zealand Security Intelligence Service Amendment Act 1999 (No 2)][135] (1999 No 91)
     
-    [New Zealand Security Intelligence Service Amendment Act 1999][135] (1999 No 14)
+    [New Zealand Security Intelligence Service Amendment Act 1999][136] (1999 No 14)
     
-    [New Zealand Security Intelligence Service Amendment Act 1996][136] (1996 No 48)
+    [New Zealand Security Intelligence Service Amendment Act 1996][137] (1996 No 48)
     
-    State Sector Act 1988 (1988 No 20): [section 90(a), (d)][121]
+    State Sector Act 1988 (1988 No 20): [section 90(a), (d)][123]
     
     Official Information Act 1982 (1982 No 156): [section 50][73]
     
     New Zealand Security Intelligence Service Amendment Act 1977 (1977 No 50)
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][123]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][125]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1969/0024/latest/whole.html#DLM391608
 [2]: http://www.legislation.govt.nz/act/public/1969/0024/latest/whole.html#DLM391610
 [3]: http://www.legislation.govt.nz/act/public/1969/0024/latest/whole.html#DLM391611
@@ -1525,27 +1488,28 @@ An Act to make better provision for the New Zealand Security Intelligence Servic
 [110]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM129571
 [111]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392284
 [112]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM32290
-[113]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392519
-[114]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392520
-[115]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392521
-[116]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM264952
-[117]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392522
-[118]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392523
-[119]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM329199
-[120]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM129109
-[121]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM130377
-[122]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM446000
-[123]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM439001
-[124]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM442179
-[125]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM3390449
-[126]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392573
-[127]: http://www.pco.parliament.govt.nz/reprints/
-[128]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM195439
-[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[130]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM195468
-[131]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM195470
-[132]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM3390402
-[133]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM219992
-[134]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM32239
-[135]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM20887
-[136]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392560
+[113]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM5678502
+[114]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392519
+[115]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM5178193
+[116]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392520
+[117]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392521
+[118]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM264952
+[119]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392522
+[120]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392523
+[121]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM329199
+[122]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM129109
+[123]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM130377
+[124]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM446000
+[125]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM439001
+[126]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM442179
+[127]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM3390449
+[128]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392573
+[129]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM2998516
+[130]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM2998515
+[131]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM2998532
+[132]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[133]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM3390402
+[134]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM219992
+[135]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM32239
+[136]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM20887
+[137]: http://www.legislation.govt.nz/act/public/1969/0024/latest/link.aspx?id=DLM392560
