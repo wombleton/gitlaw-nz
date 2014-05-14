@@ -4797,7 +4797,7 @@ Prescribed elements of calculation mechanism
 
 ##### 1 Proportion of income up to threshold
     
-*   The proportion of 25% is prescribed for the purposes of [section 107(2)][168].
+*   The proportion of 25% is prescribed for the purposes of [section 107(2)(a)][168].
     
     Schedule 2 clause 1: amended, on 14 April 2014, by [section 23(1)][408] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
@@ -4823,7 +4823,7 @@ Prescribed elements of calculation mechanism
 
 ##### 3 Proportion of income above threshold
     
-*   The proportion of 50% is prescribed for the purposes of [section 107(2)][168].
+*   The proportion of 50% is prescribed for the purposes of [section 107(2)(b)][168].
     
     Schedule 2 clause 3: amended, on 14 April 2014, by [section 23(1)][408] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
