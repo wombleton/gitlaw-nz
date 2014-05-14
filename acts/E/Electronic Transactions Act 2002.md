@@ -1,7 +1,7 @@
 Reprint  
-as at 29 November 2010
+as at 10 May 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Electronic Transactions Act 2002Public Act2002 No 35
 
@@ -13,123 +13,125 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Overview][5]
+[4][5][][5][Overview][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Further provision relating to interpretation][7]
+[6][7][][7][Further provision relating to interpretation][7]
 
-[7][8] [Act binds the Crown][8]
+[7][8][][8][Act binds the Crown][8]
 
 [Part 2][9]  
 [Improving certainty in relation to electronic information and electronic communications][9]
 
 [Validity][10]
 
-[8][11] [Validity of information][11]
+[8][11][][11][Validity of information][11]
 
 [Default rules about dispatch and receipt of electronic communications][12]
 
-[9][13] [When default rules in sections 10 to 13 apply][13]
+[9][13][][13][When default rules in sections 10 to 13 apply][13]
 
-[10][14] [Time of dispatch][14]
+[10][14][][14][Time of dispatch][14]
 
-[11][15] [Time of receipt][15]
+[11][15][][15][Time of receipt][15]
 
-[12][16] [Place of dispatch][16]
+[12][16][][16][Place of dispatch][16]
 
-[13][17] [Place of receipt][17]
+[13][17][][17][Place of receipt][17]
 
-[Part 3][18]  
-[Application of legal requirements to electronic transactions][18]
+[13A][18][][18][Time of communication of acceptance of offer][18]
 
-[Subpart 1][19]---[Preliminary][19]
+[Part 3][19]  
+[Application of legal requirements to electronic transactions][19]
 
-[14][20] [When Part applies][20]
+[Subpart 1][20][---][20][Preliminary][20]
 
-[15][21] [When legal requirement can be met by electronic means][21]
+[14][21][][21][When Part applies][21]
 
-[16][22] [Consent to use of electronic technology][22]
+[15][22][][22][When legal requirement can be met by electronic means][22]
 
-[17][23] [When integrity of information maintained][23]
+[16][23][][23][Consent to use of electronic technology][23]
 
-[Subpart 2][24]---[Legal requirements][24]
+[17][24][][24][When integrity of information maintained][24]
 
-[Writing][25]
+[Subpart 2][25][---][25][Legal requirements][25]
 
-[18][26] [Legal requirement that information be in writing][26]
+[Writing][26]
 
-[19][27] [Legal requirement to record information in writing][27]
+[18][27][][27][Legal requirement that information be in writing][27]
 
-[20][28] [Legal requirement to give information in writing][28]
+[19][28][][28][Legal requirement to record information in writing][28]
 
-[21][29] [Legal requirements relating to layout and format of certain information and writing materials][29]
+[20][29][][29][Legal requirement to give information in writing][29]
 
-[Signatures][30]
+[21][30][][30][Legal requirements relating to layout and format of certain information and writing materials][30]
 
-[22][31] [Legal requirement for signature][31]
+[Signatures][31]
 
-[23][32] [Legal requirement that signature or seal be witnessed][32]
+[22][32][][32][Legal requirement for signature][32]
 
-[24][33] [Presumption about reliability of electronic signatures][33]
+[23][33][][33][Legal requirement that signature or seal be witnessed][33]
 
-[Retention][34]
+[24][34][][34][Presumption about reliability of electronic signatures][34]
 
-[25][35] [Legal requirement to retain document or information that is in paper or other non-electronic form][35]
+[Retention][35]
 
-[26][36] [Legal requirement to retain information that is in electronic form][36]
+[25][36][][36][Legal requirement to retain document or information that is in paper or other non-electronic form][36]
 
-[27][37] [Extra conditions for electronic communications][37]
+[26][37][][37][Legal requirement to retain information that is in electronic form][37]
 
-[Provision and production of, and access to, information][38]
+[27][38][][38][Extra conditions for electronic communications][38]
 
-[28][39] [Legal requirement to provide or produce information that is in paper or other non-electronic form][39]
+[Provision and production of, and access to, information][39]
 
-[29][40] [Legal requirement to provide or produce information that is in electronic form][40]
+[28][40][][40][Legal requirement to provide or produce information that is in paper or other non-electronic form][40]
 
-[30][41] [Legal requirement to provide access to information that is in paper or other non-electronic form][41]
+[29][41][][41][Legal requirement to provide or produce information that is in electronic form][41]
 
-[31][42] [Legal requirement to provide access to information that is in electronic form][42]
+[30][42][][42][Legal requirement to provide access to information that is in paper or other non-electronic form][42]
 
-[Originals][43]
+[31][43][][43][Legal requirement to provide access to information that is in electronic form][43]
 
-[32][44] [Originals][44]
+[Originals][44]
 
-[Subpart 3][45]---[Miscellaneous][45]
+[32][45][][45][Originals][45]
 
-[33][46] [Legal requirement relating to content of information][46]
+[Subpart 3][46][---][46][Miscellaneous][46]
 
-[34][47] [Copyright][47]
+[33][47][][47][Legal requirement relating to content of information][47]
 
-[35][48] [Review of enactments and provisions excluded from Part 3][48]
+[34][48][][48][Copyright][48]
 
-[36][49] [Regulations][49]
+[35][49][][49][Review of enactments and provisions excluded from Part 3][49]
 
-[37][50] [Authority to prescribe electronic forms and requirements for using electronic forms][50]
+[36][50][][50][Regulations][50]
 
-[38][51] [Related amendment to Interpretation Act 1999][51]
+[37][51][][51][Authority to prescribe electronic forms and requirements for using electronic forms][51]
 
-[Schedule][52]  
-[Enactments and provisions excluded from Part 3][52]
+[38][52][][52][Related amendment to Interpretation Act 1999][52]
+
+[Schedule][53]  
+[Enactments and provisions excluded from Part 3][53]
 
 ---
 
@@ -139,11 +141,11 @@ This Act is administered by the Ministry of Economic Development.
 
 ##### 2 Commencement
     
-*   (1) This Act (except [sections 14(3)][20] and [36][49]) comes into force on a date to be appointed by the Governor-General by Order in Council.
+*   (1) This Act (except [sections 14(3)][21] and [36][50]) comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    (2) [Sections 14(3)][20] and [36][49] come into force on the day after the date on which this Act receives the Royal assent.
+    (2) [Sections 14(3)][21] and [36][50] come into force on the day after the date on which this Act receives the Royal assent.
     
-    Section 2(1): Electronic Transactions Act 2002 (except sections 14(3) and 36) brought into force, on 21 November 2003, by the [Electronic Transactions Act Commencement Order 2003][53] (SR 2003/289).
+    Section 2(1): Electronic Transactions Act 2002 (except sections 14(3) and 36) brought into force, on 21 November 2003, by the [Electronic Transactions Act Commencement Order 2003][54] (SR 2003/289).
 
 ## Part 1  
 Preliminary
@@ -170,13 +172,13 @@ Preliminary
         
     *   (a) matters concerning the legal effect of information that is in electronic form or that is communicated by electronic means are set out in [section 8][11]:
     
-    *   (b) default rules about the time and place of dispatch and receipt of electronic communications are set out in [sections 9 to 13][13]:
+    *   (b) default rules about the time and place of dispatch and receipt of electronic communications are set out in [sections 9 to 13A][13]:
     
-    *   (c) key provisions concerning the use of electronic technology to meet certain legal requirements are set out in [sections 14 to 17][20]:
+    *   (c) key provisions concerning the use of electronic technology to meet certain legal requirements are set out in [sections 14 to 17][21]:
     
-    *   (d) provisions that specify certain legal requirements that may be met by using electronic technology, and how they may be met, are set out in [sections 18 to 32][26].
+    *   (d) provisions that specify certain legal requirements that may be met by using electronic technology, and how they may be met, are set out in [sections 18 to 32][27].
     
-    
+    Section 4(b): amended, on 10 May 2014, by [section 4][55] of the Electronic Transactions (Contract Formation) Amendment Act 2014 (2014 No 25).
 
 ##### 5 Interpretation
     
@@ -194,7 +196,7 @@ Preliminary
     
     _information system_ has the meaning set out in [section 10(2)][14]
     
-    _legal requirement_ has the meaning set out in [section 15(2)][21]
+    _legal requirement_ has the meaning set out in [section 15(2)][22]
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -301,6 +303,18 @@ Improving certainty in relation to electronic information and electronic communi
     
     
 
+##### 13A Time of communication of acceptance of offer
+    
+*   (1) For the purpose of the formation of a contract, an acceptance by electronic communication of an offer is taken to be communicated to the offeror at the time determined by [section 11][56] to be the time of receipt for that electronic communication.
+    
+    (2) Subsection (1) does not apply if---
+        
+    *   (a) the parties to the contract otherwise agree; or
+    
+    *   (b) an enactment provides otherwise.
+    
+    Section 13A: inserted, on 10 May 2014, by [section 5][57] of the Electronic Transactions (Contract Formation) Amendment Act 2014 (2014 No 25).
+
 ## Part 3  
 Application of legal requirements to electronic transactions
 
@@ -322,17 +336,17 @@ Application of legal requirements to electronic transactions
         
         
     
-    *   (b) the enactments specified in [Part 1][54] of the Schedule:
+    *   (b) the enactments specified in [Part 1][58] of the Schedule:
     
-    *   (c) the provisions of enactments specified in column 2 of [Part 2][55] of the Schedule:
+    *   (c) the provisions of enactments specified in column 2 of [Part 2][59] of the Schedule:
     
-    *   (d) the provisions of enactments that are described in [Part 3][56] of the Schedule:
+    *   (d) the provisions of enactments that are described in [Part 3][60] of the Schedule:
     
-    *   (e) the provisions of enactments that are described in [Part 4][57] of the Schedule except to the extent that rules of a court, or guidelines issued with the authority of a court or tribunal, specified in that Part of the Schedule, provide for the use of electronic technology in accordance with this Part.
+    *   (e) the provisions of enactments that are described in [Part 4][61] of the Schedule except to the extent that rules of a court, or guidelines issued with the authority of a court or tribunal, specified in that Part of the Schedule, provide for the use of electronic technology in accordance with this Part.
     
-    (3) The Governor-General may, by Order in Council, amend the [Schedule][52] or repeal the Schedule and substitute a new schedule.
+    (3) The Governor-General may, by Order in Council, amend the [Schedule][53] or repeal the Schedule and substitute a new schedule.
     
-    (4) Every Order in Council that makes an addition to the [Schedule][52] and that is---
+    (4) Every Order in Council that makes an addition to the [Schedule][53] and that is---
         
     *   (a) made on or before 30 June in any year expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; or
     
@@ -342,7 +356,7 @@ Application of legal requirements to electronic transactions
 
 ##### 15 When legal requirement can be met by electronic means
     
-*   (1) A legal requirement can be met by electronic means if the applicable provisions in [subpart 2][24], and any applicable regulations made under [section 36][49], are complied with.
+*   (1) A legal requirement can be met by electronic means if the applicable provisions in [subpart 2][25], and any applicable regulations made under [section 36][50], are complied with.
     
     (2) For the purposes of this Part, _legal requirement_---
         
@@ -418,9 +432,9 @@ Application of legal requirements to electronic transactions
 
 ##### 21 Legal requirements relating to layout and format of certain information and writing materials
     
-*   (1) In order to meet a legal requirement to which any of [sections 18 to 20][26] apply by electronic means, it is not necessary to comply with a paper-based format requirement.
+*   (1) In order to meet a legal requirement to which any of [sections 18 to 20][27] apply by electronic means, it is not necessary to comply with a paper-based format requirement.
     
-    (2) In this section and [section 36(b)(ii)][49], **paper-based format requirement** means a legal requirement of the following kind that applies to information in paper or other non-electronic form:
+    (2) In this section and [section 36(b)(ii)][50], **paper-based format requirement** means a legal requirement of the following kind that applies to information in paper or other non-electronic form:
         
     *   (a) a legal requirement relating to the format or layout of information:
     
@@ -446,7 +460,7 @@ Application of legal requirements to electronic transactions
     
 *   (1) Subject to subsection (2), a legal requirement for a signature or a seal to be witnessed is met by means of a witness' electronic signature if,---
         
-    *   (a) in the case of the witnessing of a signature, the signature to be witnessed is an electronic signature that complies with [section 22][31]; and
+    *   (a) in the case of the witnessing of a signature, the signature to be witnessed is an electronic signature that complies with [section 22][32]; and
     
     *   (b) in the case of the witnessing of a signature or a seal, the electronic signature of the witness---
             
@@ -460,7 +474,7 @@ Application of legal requirements to electronic transactions
 
 ##### 24 Presumption about reliability of electronic signatures
     
-*   (1) For the purposes of [sections 22][31] and [23][32], it is presumed that an electronic signature is as reliable as is appropriate if---
+*   (1) For the purposes of [sections 22][32] and [23][33], it is presumed that an electronic signature is as reliable as is appropriate if---
         
     *   (a) the means of creating the electronic signature is linked to the signatory and to no other person; and
     
@@ -488,15 +502,15 @@ Application of legal requirements to electronic transactions
     
     *   (b) the information is readily accessible so as to be usable for subsequent reference.
     
-    (2) Subsection (1) applies to information that is a public record within the meaning of the [Public Records Act 2005][58] only if the Chief Archivist has approved the retention of that information in electronic form.
+    (2) Subsection (1) applies to information that is a public record within the meaning of the [Public Records Act 2005][62] only if the Chief Archivist has approved the retention of that information in electronic form.
     
     (3) To avoid doubt, if information is retained in electronic form in accordance with subsection (1), the paper or other non-electronic form of that information need not be retained.
     
-    Section 25(2): amended, on 21 April 2005, by [section 67(1)][59] of the Public Records Act 2005 (2005 No 40).
+    Section 25(2): amended, on 21 April 2005, by [section 67(1)][63] of the Public Records Act 2005 (2005 No 40).
 
 ##### 26 Legal requirement to retain information that is in electronic form
     
-*   Subject to [section 27][37], a legal requirement to retain information that is in electronic form is met by retaining the information---
+*   Subject to [section 27][38], a legal requirement to retain information that is in electronic form is met by retaining the information---
         
     *   (a) in paper or other non-electronic form if the form provides a reliable means of assuring the maintenance of the integrity of the information; or
     
@@ -512,7 +526,7 @@ Application of legal requirements to electronic transactions
 
 ##### 27 Extra conditions for electronic communications
     
-*   In addition to the conditions specified in [section 26][36], if a person is required to retain information that is contained in an electronic communication,---
+*   In addition to the conditions specified in [section 26][37], if a person is required to retain information that is contained in an electronic communication,---
         
     *   (a) the person must also retain such information obtained by that person as enables the identification of---
             
@@ -624,9 +638,9 @@ Application of legal requirements to electronic transactions
     
 *   (1) The Ministry of Economic Development must, within 2 years after the commencement of this Act, report to the Minister---
         
-    *   (a) whether it is desirable that the enactments and provisions set out in the [Schedule][52] continue to be excluded from [Part 3][18]; and
+    *   (a) whether it is desirable that the enactments and provisions set out in the [Schedule][53] continue to be excluded from [Part 3][19]; and
     
-    *   (b) if it is indicated in the report that any of those enactments or provisions should not continue to be excluded from [Part 3][18], whether any regulations are required to be made under [section 36][49].
+    *   (b) if it is indicated in the report that any of those enactments or provisions should not continue to be excluded from [Part 3][19], whether any regulations are required to be made under [section 36][50].
     
     (2) In preparing the report, the Ministry must consider any reports prepared by the Law Commission or any other body relating to the subject matter of the Ministry's report.
     
@@ -640,7 +654,7 @@ Application of legal requirements to electronic transactions
     
     *   (b) without limiting paragraph (a), prescribing 1 or more requirements that---
             
-        *   (i) must be complied with in order to meet, by electronic means, a legal requirement to which any of [sections 18 to 20][26] apply; and
+        *   (i) must be complied with in order to meet, by electronic means, a legal requirement to which any of [sections 18 to 20][27] apply; and
         
         *   (ii) apply instead of a paper-based format requirement:
         
@@ -664,93 +678,93 @@ Application of legal requirements to electronic transactions
 
 ##### 38 Related amendment to Interpretation Act 1999
     
-*   _Amendment(s) incorporated in the [Act(s)][60]._
+*   _Amendment(s) incorporated in the [Act(s)][64]._
 
 ---
 
 ## Schedule  
 Enactments and provisions excluded from Part 3
 
-[s 14(2)(b), (c), (d), and (e)][20]
+[s 14(2)(b), (c), (d), and (e)][21]
 
 ## Part 1  
 Enactments
 
-##### [Citizens Initiated Referenda Act 1993][61] (1993 No 101)
+##### [Citizens Initiated Referenda Act 1993][65] (1993 No 101)
 
-##### [Citizens Initiated Referenda Regulations 1995][62] (SR 1995/227)
+##### [Citizens Initiated Referenda Regulations 1995][66] (SR 1995/227)
 
-##### [Electoral Act 1993][63] (1993 No 87)
+##### [Electoral Act 1993][67] (1993 No 87)
 
-##### [Electoral Regulations 1996][64] (SR 1996/93)
+##### [Electoral Regulations 1996][68] (SR 1996/93)
 
-##### [Fish and Game Council Elections Regulations 1990][65] (SR 1990/361)
+##### [Fish and Game Council Elections Regulations 1990][69] (SR 1990/361)
 
-##### [Local Electoral Act 2001][66] (2001 No 35)
+##### [Local Electoral Act 2001][70] (2001 No 35)
 
 ## Part 2  
 Provisions
 
 ##### Citizenship Act 1977 (1977 No 61)
 
-[Section 19(1)][67]
+[Section 19(1)][71]
 
 ##### Citizenship Regulations 2002 (SR 2002/73)
 
-[Regulation 10][68]
+[Regulation 10][72]
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-[Section 11(2) and (6)(b)][69]
+[Section 11(2) and (6)(b)][73]
 
 ##### Corrections Regulations 2005 (SR 2005/53)
 
-[Regulation 133][70]
+[Regulation 133][74]
 
 ##### Credit (Repossession) Act 1997 (1997 No 85)
 
-[Sections 8][71], [9][72], [17][73], [20][74], [21][75], [29(2)(a)][76], [33][77], and [38][78]
+[Sections 8][75], [9][76], [17][77], [20][78], [21][79], [29(2)(a)][80], [33][81], and [38][82]
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-[Section 25F(4)][79]
+[Section 25F(4)][83]
 
 ##### Door to Door Sales Act 1967 (1967 No 126)
 
-[Section 6(1)][80]
+[Section 6(1)][84]
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-[Part 8][81]
+[Part 8][85]
 
 ##### Medicines Regulations 1984 (SR 1984/143)
 
-[Regulations 41][82] and [42][83]
+[Regulations 41][86] and [42][87]
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65)
 
-[Section 13C][84]
+[Section 13C][88]
 
 ##### Passports Act 1992 (1992 No 92)
 
-[Section 12][85]
+[Section 12][89]
     
-*   Schedule Part 2 Citizenship Regulations 1978: repealed, on 21 November 2003, by [clause 3(1)(a)][86] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Citizenship Regulations 2002: inserted, on 21 November 2003, by [clause 3(1)(a)][86] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Corrections Regulations 2005: inserted, on 6 June 2008, by [clause 4(2)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Criminal Justice Regulations 1985: repealed, on 21 November 2003, by [clause 3(1)(b)][86] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Dental Act 1988: repealed, on 6 June 2008, by [clause 4(1)(a)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Dieticians Act 1950: repealed, on 6 June 2008, by [clause 4(1)(b)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Health Act 1956: repealed, on 6 June 2008, by [clause 4(1)(c)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Human Tissue Act 1964: repealed, on 6 June 2008, by [clause 4(1)(d)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Medical Practitioners Act 1995: repealed, on 6 June 2008, by [clause 4(1)(e)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Mental Health (Compulsory Assessment and Treatment) Act 1992: repealed, on 6 June 2008, by [clause 4(1)(f)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Occupational Therapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(g)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Penal Institutions Regulations 2000: repealed, on 6 June 2008, by [clause 4(1)(h)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Pharmacy Act 1970: repealed, on 6 June 2008, by [clause 4(1)(i)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Physiotherapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(j)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Tuberculosis Act 1948: repealed, on 6 June 2008, by [clause 4(1)(k)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Venereal Diseases Regulations 1982: repealed, on 6 June 2008, by [clause 4(1)(l)][87] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Citizenship Regulations 1978: repealed, on 21 November 2003, by [clause 3(1)(a)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Citizenship Regulations 2002: inserted, on 21 November 2003, by [clause 3(1)(a)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Corrections Regulations 2005: inserted, on 6 June 2008, by [clause 4(2)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Criminal Justice Regulations 1985: repealed, on 21 November 2003, by [clause 3(1)(b)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Dental Act 1988: repealed, on 6 June 2008, by [clause 4(1)(a)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Dieticians Act 1950: repealed, on 6 June 2008, by [clause 4(1)(b)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Health Act 1956: repealed, on 6 June 2008, by [clause 4(1)(c)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Human Tissue Act 1964: repealed, on 6 June 2008, by [clause 4(1)(d)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Medical Practitioners Act 1995: repealed, on 6 June 2008, by [clause 4(1)(e)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Mental Health (Compulsory Assessment and Treatment) Act 1992: repealed, on 6 June 2008, by [clause 4(1)(f)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Occupational Therapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(g)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Penal Institutions Regulations 2000: repealed, on 6 June 2008, by [clause 4(1)(h)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Pharmacy Act 1970: repealed, on 6 June 2008, by [clause 4(1)(i)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Physiotherapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(j)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Tuberculosis Act 1948: repealed, on 6 June 2008, by [clause 4(1)(k)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Venereal Diseases Regulations 1982: repealed, on 6 June 2008, by [clause 4(1)(l)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 
 ## Part 3  
 Descriptions of provisions of enactments
@@ -787,13 +801,13 @@ Provisions of enactments that relate to the following:
     
     
 
-*   (l) information required in respect of any goods or services by a consumer information standard or a product safety standard or a services safety standard prescribed under the [Fair Trading Act 1986][88]:
+*   (l) information required in respect of any goods or services by a consumer information standard or a product safety standard or a services safety standard prescribed under the [Fair Trading Act 1986][92]:
 
 *   (m) \[Repealed\]
 
-*   Schedule Part 3 item (i): repealed, on 6 June 2008, by [clause 5][89] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 3 item (j): repealed, on 6 June 2008, by [clause 5][89] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 3 item (m): repealed, on 6 June 2008, by [clause 5][89] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 3 item (i): repealed, on 6 June 2008, by [clause 5][93] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 3 item (j): repealed, on 6 June 2008, by [clause 5][93] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 3 item (m): repealed, on 6 June 2008, by [clause 5][93] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 
 ## Part 4  
 Provisions of enactments relating to certain courts and tribunals
@@ -802,49 +816,49 @@ Provisions of enactments relating to the practice or procedure of any of the fol
     
 *   (1A) the Supreme Court:
 
-*   (1) the Court of Appeal or the High Court continued by the [Judicature Act 1908][90]:
+*   (1) the Court of Appeal or the High Court continued by the [Judicature Act 1908][94]:
 
-*   (2) District Courts continued by the [District Courts Act 1947][91]:
+*   (2) District Courts continued by the [District Courts Act 1947][95]:
 
-*   (3) Family Courts established under the [Family Courts Act 1980][92]:
+*   (3) Family Courts established under the [Family Courts Act 1980][96]:
 
-*   (4) Youth Courts established under the [Children, Young Persons, and Their Families Act 1989][93]:
+*   (4) Youth Courts established under the [Children, Young Persons, and Their Families Act 1989][97]:
 
-*   (5) Disputes Tribunals established under the [Disputes Tribunals Act 1988][94]:
+*   (5) Disputes Tribunals established under the [Disputes Tribunals Act 1988][98]:
 
-*   (6) the Maori Appellate Court and the Maori Land Court continued under [Te Ture Whenua Maori Act 1993][95]:
+*   (6) the Maori Appellate Court and the Maori Land Court continued under [Te Ture Whenua Maori Act 1993][99]:
 
-*   (7) the Court Martial Appeal Court constituted under the [Court Martial Appeals Act 1953][96]:
+*   (7) the Court Martial Appeal Court constituted under the [Court Martial Appeals Act 1953][100]:
 
-*   (8) the Court Martial of New Zealand established under [section 8][97] of the Court Martial Act 2007:
+*   (8) the Court Martial of New Zealand established under [section 8][101] of the Court Martial Act 2007:
 
-*   (8A) the Summary Appeal Court of New Zealand established under the [Armed Forces Discipline Act 1971][98]:
+*   (8A) the Summary Appeal Court of New Zealand established under the [Armed Forces Discipline Act 1971][102]:
 
-*   (9) the Customs Appeal Authority established under the [Customs and Excise Act 1996][99]:
+*   (9) the Customs Appeal Authority established under the [Customs and Excise Act 1996][103]:
 
-*   (10) the Catch History Review Committee established under the [Fisheries Act 1996][100]:
+*   (10) the Catch History Review Committee established under the [Fisheries Act 1996][104]:
 
 *   (11) \[Repealed\]
 
-*   (12) Land Valuation Tribunals established under the [Land Valuation Proceedings Act 1948][101]:
+*   (12) Land Valuation Tribunals established under the [Land Valuation Proceedings Act 1948][105]:
 
-*   (13) Motor Vehicle Disputes Tribunals established under the [Motor Vehicle Sales Act 2003][102]:
+*   (13) Motor Vehicle Disputes Tribunals established under the [Motor Vehicle Sales Act 2003][106]:
 
-*   (14) the Refugee Status Appeals Authority, the Removal Review Authority, and the Residence Review Board continued by, and the Immigration and Protection Tribunal established under, the [Immigration Act 2009][103]:
+*   (14) the Refugee Status Appeals Authority, the Removal Review Authority, and the Residence Review Board continued by, and the Immigration and Protection Tribunal established under, the [Immigration Act 2009][107]:
 
-*   (15) the Social Security Appeal Authority and the Benefits Review Committees established under the [Social Security Act 1964][104], and any Appeal Board appointed under [section 53A][105] of that Act:
+*   (15) the Social Security Appeal Authority and the Benefits Review Committees established under the [Social Security Act 1964][108], and any Appeal Board appointed under [section 53A][109] of that Act:
 
-*   (16) the Student Allowance Appeal Authority established under the [Education Act 1989][106]:
+*   (16) the Student Allowance Appeal Authority established under the [Education Act 1989][110]:
 
 *   (17) \[Repealed\]
 
-*   (18) the Tenancy Tribunal constituted under the [Residential Tenancies Act 1986][107]:
+*   (18) the Tenancy Tribunal constituted under the [Residential Tenancies Act 1986][111]:
 
-*   (19) the Environment Court continued by the [Resource Management Act 1991][108]:
+*   (19) the Environment Court continued by the [Resource Management Act 1991][112]:
 
-*   (20) the Waitangi Tribunal established under the [Treaty of Waitangi Act 1975][109]:
+*   (20) the Waitangi Tribunal established under the [Treaty of Waitangi Act 1975][113]:
 
-*   (21) Review Tribunals established under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][110]:
+*   (21) Review Tribunals established under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][114]:
 
 *   (22) \[Repealed\]
 
@@ -860,114 +874,73 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 
 *   (28) \[Repealed\]
 
-*   (29) the Plumbers, Gasfitters, and Drainlayers Board continued under the [Plumbers, Gasfitters, and Drainlayers Act 2006][111]:
+*   (29) the Plumbers, Gasfitters, and Drainlayers Board continued under the [Plumbers, Gasfitters, and Drainlayers Act 2006][115]:
 
 *   (30) the Psychologists Board continued by, and Complaints Assessment Committees established under, the Psychologists Act 1981\.
 
-*   Schedule Part 4 item (1A): inserted, on 1 January 2004, by [section 48(1)][112] of the Supreme Court Act 2003 (2003 No 53).
-*   Schedule Part 4 item (7): substituted, on 1 July 2009, by [section 35][113] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
-*   Schedule Part 4 item (8): substituted, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
-*   Schedule Part 4 item (8A): inserted, on 1 July 2009, by [section 81][115] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
-*   Schedule Part 4 item (11): repealed, on 21 November 2003, by [clause 3(2)][86] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 4 item (13): substituted, on 6 June 2008, by [clause 6(1)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (14): substituted, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
-*   Schedule Part 4 item (17): repealed, on 21 November 2003, by [clause 3(2)][86] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 4 item (21): substituted, on 6 June 2008, by [clause 6(2)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (22): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (23): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (24): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (25): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (26): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (27): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (28): repealed, on 6 June 2008, by [clause 6(3)][116] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 4 item (29): amended, on 1 April 2010, by [section 185][118] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+*   Schedule Part 4 item (1A): inserted, on 1 January 2004, by [section 48(1)][116] of the Supreme Court Act 2003 (2003 No 53).
+*   Schedule Part 4 item (7): substituted, on 1 July 2009, by [section 35][117] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
+*   Schedule Part 4 item (8): substituted, on 1 July 2009, by [section 87][118] of the Court Martial Act 2007 (2007 No 101).
+*   Schedule Part 4 item (8A): inserted, on 1 July 2009, by [section 81][119] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule Part 4 item (11): repealed, on 21 November 2003, by [clause 3(2)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 4 item (13): substituted, on 6 June 2008, by [clause 6(1)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (14): substituted, at 2 am on 29 November 2010, by [section 406(1)][121] of the Immigration Act 2009 (2009 No 51).
+*   Schedule Part 4 item (17): repealed, on 21 November 2003, by [clause 3(2)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 4 item (21): substituted, on 6 June 2008, by [clause 6(2)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (22): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (23): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (24): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (25): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (26): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (27): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (28): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 4 item (29): amended, on 1 April 2010, by [section 185][122] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Electronic Transactions Act 2002\. The reprint incorporates all the amendments to the Act as at 29 November 2010, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][119] ![](/images/external_link.gif).
+*   This is a reprint of the Electronic Transactions Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][120] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][123] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][124] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][121] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][125] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][126] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][122] and [17E][123] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Electronic Transactions (Contract Formation) Amendment Act 2014][127] (2014 No 25)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Immigration Act 2009 (2009 No 51): [section 406(1)][121]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Electronic Transactions (Amendments to Schedule) Order 2008][128] (SR 2008/113)
     
+    Court Martial Act 2007 (2007 No 101): [section 87][118]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Court Martial Appeals Amendment Act 2007 (2007 No 99): [section 35][117]
     
-*   Immigration Act 2009 (2009 No 51): [section 406(1)][117]
+    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][119]
     
-    [Electronic Transactions (Amendments to Schedule) Order 2008][124] (SR 2008/113)
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][122]
     
-    Court Martial Act 2007 (2007 No 101): [section 87][114]
+    Public Records Act 2005 (2005 No 40): [section 67(1)][63]
     
-    Court Martial Appeals Amendment Act 2007 (2007 No 99): [section 35][113]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][116]
     
-    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][115]
+    [Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003][129] (SR 2003/290)
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][118]
-    
-    Public Records Act 2005 (2005 No 40): [section 67(1)][59]
-    
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][112]
-    
-    [Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003][125] (SR 2003/290)
-    
-    [Electronic Transactions Act Commencement Order 2003][53] (SR 2003/289)
+    [Electronic Transactions Act Commencement Order 2003][54] (SR 2003/289)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154188
 [2]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154189
 [3]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154190
@@ -985,111 +958,115 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 [15]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154820
 [16]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154821
 [17]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154822
-[18]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154823
-[19]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154824
-[20]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154825
-[21]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154826
-[22]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154828
-[23]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154829
-[24]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154830
-[25]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154831
-[26]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154832
-[27]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154833
-[28]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154834
-[29]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154835
-[30]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154836
-[31]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154837
-[32]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154838
-[33]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154839
-[34]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154840
-[35]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154841
-[36]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154843
-[37]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154844
-[38]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154845
-[39]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154846
-[40]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154847
-[41]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154848
-[42]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154849
-[43]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154850
-[44]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154851
-[45]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154852
-[46]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154853
-[47]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154854
-[48]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154855
-[49]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154856
-[50]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154857
-[51]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154858
-[52]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154861
-[53]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220611
-[54]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154862
-[55]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154869
-[56]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154874
-[57]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154875
-[58]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM345528
-[59]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM346105
-[60]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM31803
-[61]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM317192
-[62]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM207112
-[63]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM307518
-[64]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM209677
-[65]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM143458
-[66]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM93300
-[67]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM443897
-[68]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM116661
-[69]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM215720
-[70]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM317002
-[71]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414311
-[72]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414314
-[73]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414330
-[74]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414363
-[75]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414366
-[76]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414397
-[77]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414515
-[78]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414535
-[79]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM437129
-[80]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM384193
-[81]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401151
-[82]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96538
-[83]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96539
-[84]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM23477
-[85]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM278019
-[86]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220625
-[87]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281631
-[88]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96438
-[89]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281633
-[90]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM144692
-[91]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM242775
-[92]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM42253
-[93]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM147087
-[94]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM133281
-[95]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM289881
-[96]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM282966
-[97]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1001934
-[98]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401062
-[99]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM377336
-[100]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM394191
-[101]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM249212
-[102]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM188103
-[103]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1440300
-[104]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM359106
-[105]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM361875
-[106]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM175958
-[107]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM94277
-[108]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM230264
-[109]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM435367
-[110]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM262175
-[111]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM396777
-[112]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM214522
-[113]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1001866
-[114]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1002056
-[115]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1034362
-[116]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281634
-[117]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1441347
-[118]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM397798
-[119]: http://www.pco.parliament.govt.nz/reprints/
-[120]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM195439
-[121]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[122]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM195468
-[123]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM195470
-[124]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281624
-[125]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220619
+[18]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM6108601
+[19]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154823
+[20]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154824
+[21]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154825
+[22]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154826
+[23]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154828
+[24]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154829
+[25]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154830
+[26]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154831
+[27]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154832
+[28]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154833
+[29]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154834
+[30]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154835
+[31]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154836
+[32]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154837
+[33]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154838
+[34]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154839
+[35]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154840
+[36]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154841
+[37]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154843
+[38]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154844
+[39]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154845
+[40]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154846
+[41]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154847
+[42]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154848
+[43]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154849
+[44]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154850
+[45]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154851
+[46]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154852
+[47]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154853
+[48]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154854
+[49]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154855
+[50]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154856
+[51]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154857
+[52]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154858
+[53]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154861
+[54]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220611
+[55]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM5716601
+[56]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM154820
+[57]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM5716602
+[58]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154862
+[59]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154869
+[60]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154874
+[61]: http://www.legislation.govt.nz/act/public/2002/0035/latest/whole.html#DLM154875
+[62]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM345528
+[63]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM346105
+[64]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM31803
+[65]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM317192
+[66]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM207112
+[67]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM307518
+[68]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM209677
+[69]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM143458
+[70]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM93300
+[71]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM443897
+[72]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM116661
+[73]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM215720
+[74]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM317002
+[75]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414311
+[76]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414314
+[77]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414330
+[78]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414363
+[79]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414366
+[80]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414397
+[81]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414515
+[82]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414535
+[83]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM437129
+[84]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM384193
+[85]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401151
+[86]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96538
+[87]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96539
+[88]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM23477
+[89]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM278019
+[90]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220625
+[91]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281631
+[92]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96438
+[93]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281633
+[94]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM144692
+[95]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM242775
+[96]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM42253
+[97]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM147087
+[98]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM133281
+[99]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM289881
+[100]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM282966
+[101]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1001934
+[102]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401062
+[103]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM377336
+[104]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM394191
+[105]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM249212
+[106]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM188103
+[107]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1440300
+[108]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM359106
+[109]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM361875
+[110]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM175958
+[111]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM94277
+[112]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM230264
+[113]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM435367
+[114]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM262175
+[115]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM396777
+[116]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM214522
+[117]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1001866
+[118]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1002056
+[119]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1034362
+[120]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281634
+[121]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1441347
+[122]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM397798
+[123]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM2998516
+[124]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM2998515
+[125]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM2998532
+[126]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[127]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM4721800
+[128]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281624
+[129]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220619
