@@ -628,7 +628,7 @@ Preliminary provisions
     
     *   (b) the Government Communications Security Bureau
     
-    _international organisation_ means any organisation of states or governments of states or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
+    _international organisation_ means any organisation of States or Governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
     
     _local authority_---
         
@@ -756,7 +756,7 @@ Preliminary provisions
     
     Section 2(1) **agency** paragraph (b)(xiv): inserted, on 27 August 2013, by [section 39][252] of the Inquiries Act 2013 (2013 No 60).
     
-    Section 2(1) **Commissioner**: substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **Commissioner**: replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 2(1) **Complaints Review Tribunal** or **Tribunal**: repealed, on 1 January 2002, by [section 71(1)][254] of the Human Rights Amendment Act 2001 (2001 No 96).
     
@@ -768,9 +768,9 @@ Preliminary provisions
     
     Section 2(1) **news medium**: amended, on 5 July 1996, by [section 2][256] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
     
-    Section 2(1) **permanent resident of New Zealand**: substituted, at 2 am on 29 November 2010, by [section 406(1)][257] of the Immigration Act 2009 (2009 No 51).
+    Section 2(1) **permanent resident of New Zealand**: replaced, at 2 am on 29 November 2010, by [section 406(1)][257] of the Immigration Act 2009 (2009 No 51).
     
-    Section 2(1) **personal information**: substituted, on 3 September 1996, by section 2(3) of the Privacy Amendment Act 1996 (1996 No 142).
+    Section 2(1) **personal information**: replaced, on 3 September 1996, by section 2(3) of the Privacy Amendment Act 1996 (1996 No 142).
     
     Section 2(1) **personal information**: amended, on 27 February 2013, by [section 4(1)][258] of the Privacy Amendment Act 2013 (2013 No 1).
     
@@ -1414,9 +1414,9 @@ Privacy Commissioner
     
     Compare: 1991 No 126 s 4
     
-    Section 12(2): substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 12(2): replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 12(3): substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 12(3): replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 12(4): repealed, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1536,9 +1536,9 @@ Privacy Commissioner
     
     (6) Subject to this Act, the Deputy Commissioner shall be entitled to all the protections, privileges, and immunities of the Commissioner.
     
-    Section 15(1): substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(1): replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(2): substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(2): replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 15(3): amended, on 1 January 2002, by [section 71(1)][254] of the Human Rights Amendment Act 2001 (2001 No 96).
     
@@ -1570,7 +1570,7 @@ Privacy Commissioner
     
     Compare: 1991 No 126 ss 8, 10
     
-    Section 19(1): substituted, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(1): replaced, on 25 January 2005, by [section 200][253] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Powers relating to declaratory judgments
     
@@ -1671,7 +1671,7 @@ Good reasons for refusing access to personal information
     
     *   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by---
             
-        *   (i) the government of any other country or any agency of such a government; or
+        *   (i) the Government of any other country or any agency of such a Government; or
         
         *   (ii) any international organisation; or
         
@@ -1685,9 +1685,9 @@ Good reasons for refusing access to personal information
         
     *   (a) to prejudice the security or defence of---
             
-        *   (i) the self-governing state of the Cook Islands; or
+        *   (i) the self-governing State of the Cook Islands; or
         
-        *   (ii) the self-governing state of Niue; or
+        *   (ii) the self-governing State of Niue; or
         
         *   (iii) Tokelau; or
         
@@ -1699,17 +1699,17 @@ Good reasons for refusing access to personal information
             
         *   (i) New Zealand:
         
-        *   (ii) the self-governing state of the Cook Islands:
+        *   (ii) the self-governing State of the Cook Islands:
         
-        *   (iii) the self-governing state of Niue; or
+        *   (iii) the self-governing State of Niue; or
         
         
     
     *   (c) to prejudice the international relations of the Governments of---
             
-        *   (i) the self-governing state of the Cook Islands; or
+        *   (i) the self-governing State of the Cook Islands; or
         
-        *   (ii) the self-governing state of Niue.
+        *   (ii) the self-governing State of Niue.
         
         
     
@@ -1817,7 +1817,7 @@ Good reasons for refusing access to personal information
     
     Section 29(1)(ia): inserted, on 29 June 2009, by [section 39(1)][282] of the Criminal Disclosure Act 2008 (2008 No 38).
     
-    Section 29(4): added, on 18 September 2004, by [section 175(1)][283] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 29(4): inserted, on 18 September 2004, by [section 175(1)][283] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 30 Refusal not permitted for any other reason
     
@@ -1856,7 +1856,7 @@ Procedural provisions relating to access to and correction of personal informati
     
 *   An information privacy request may be made only by an individual.
     
-    Section 34: substituted, on 8 September 2010, by [section 5][286] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
+    Section 34: replaced, on 8 September 2010, by [section 5][286] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
 
 ##### 35 Charges
     
@@ -2713,7 +2713,7 @@ Complaints
 
 #### Special procedure relating to intelligence organisations
     
-*   Heading: substituted (with effect on 1 July 1993), on 3 September 1996, by section 4 of the Privacy Amendment Act 1996 (1996 No 142).
+*   Heading: replaced (with effect on 1 July 1993), on 3 September 1996, by section 4 of the Privacy Amendment Act 1996 (1996 No 142).
 
 ##### 81 Special procedure relating to intelligence organisations
     
@@ -2729,7 +2729,7 @@ Complaints
     
     (6) Nothing in [section 76][94] or [section 77][95] or [sections 82 to 89][102] shall apply in relation to any complaint made under this Part in relation to any action of an intelligence organisation, or in relation to any investigation under this Part into any such action.
     
-    Section 81: substituted (with effect on 1 July 1993), on 3 September 1996, by section 4 of the Privacy Amendment Act 1996 (1996 No 142).
+    Section 81: replaced (with effect on 1 July 1993), on 3 September 1996, by section 4 of the Privacy Amendment Act 1996 (1996 No 142).
 
 #### Proceedings before Human Rights Review Tribunal
     
@@ -2857,7 +2857,7 @@ Complaints
     
     Section 86 heading: amended, on 1 January 2002, by [section 71(1)][254] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 86(1): substituted, on 1 January 2004, by [section 48(1)][333] of the Supreme Court Act 2003 (2003 No 53).
+    Section 86(1): replaced, on 1 January 2004, by [section 48(1)][333] of the Supreme Court Act 2003 (2003 No 53).
     
     Section 86(2): amended, on 1 January 2002, by [section 71(1)][254] of the Human Rights Amendment Act 2001 (2001 No 96).
     
@@ -2925,7 +2925,7 @@ Complaints
     
 *   [Sections 92Q to 92W][341] and [Part 4][342] of the Human Rights Act 1993 shall apply, with such modifications as are necessary, in respect of proceedings under [section 82][102] or [section 83][103] of this Act as if they were proceedings under [section 92B][343], or [section 92E][344], or [section 92H][345] of that Act.
     
-    Section 89: substituted, on 1 February 1994, by [section 145][346] of the Human Rights Act 1993 (1993 No 82).
+    Section 89: replaced, on 1 February 1994, by [section 145][346] of the Human Rights Act 1993 (1993 No 82).
     
     Section 89: amended, on 1 January 2002, by [section 71(1)][254] of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -3447,7 +3447,7 @@ Information sharing
     
     *   (b) is revoked.
     
-    (3) An Order in Council must insert into Schedule 2A---
+    (3) An Order in Council must insert into [Schedule 2A][226]---
         
     *   (a) a description of each of the following:
             
@@ -3763,9 +3763,9 @@ Information sharing
 
 ##### 96Z Power to amend Schedule 2A
     
-*   (1) Without limiting the matters that an Order in Council made under [section 96J][135] must insert into Schedule 2A in accordance with [section 96L(3)][137], the Governor-General may, by Order in Council,---
+*   (1) Without limiting the matters that an Order in Council made under [section 96J][135] must insert into [Schedule 2A][226] in accordance with [section 96L(3)][137], the Governor-General may, by Order in Council,---
         
-    *   (a) make any amendments to Schedule 2A that are required---
+    *   (a) make any amendments to [Schedule 2A][226] that are required---
             
         *   (i) to recognise the abolition or dissolution of any agency that is party to an approved information sharing agreement or any change in the name of such an agency; or
         
@@ -3777,9 +3777,9 @@ Information sharing
         
         
     
-    *   (b) remove any description or matter in Schedule 2A, including all of the descriptions or matters relating to an approved information sharing agreement if the Order in Council by which it was approved has expired or has been revoked:
+    *   (b) remove any description or matter in [Schedule 2A][226], including all of the descriptions or matters relating to an approved information sharing agreement if the Order in Council by which it was approved has expired or has been revoked:
     
-    *   (c) otherwise amend or replace Schedule 2A.
+    *   (c) otherwise amend or replace [Schedule 2A][226].
     
     (2) To avoid doubt, any of the matters set out in this section may be included in an Order in Council made under [section 96J][135] or in a separate Order in Council made under this section.
     
@@ -3886,15 +3886,15 @@ Information matching
     
     Compare: 1991 No 126 s 2
     
-    Section 97 **adverse action** paragraph (g): substituted, at 2 am on 29 November 2010, by [section 406(1)][257] of the Immigration Act 2009 (2009 No 51).
+    Section 97 **adverse action** paragraph (g): replaced, at 2 am on 29 November 2010, by [section 406(1)][257] of the Immigration Act 2009 (2009 No 51).
     
     Section 97 **monetary payment** paragraph (c): amended, on 25 January 2005, pursuant to [section 65R(3)][384] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 97 **monetary payment** paragraph (d): substituted, on 1 April 2002, by [section 337(1)][385] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 97 **monetary payment** paragraph (d): replaced, on 1 April 2002, by [section 337(1)][385] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
     Section 97 **monetary payment** paragraph (d): amended, on 3 March 2010, pursuant to [section 5(1)(b)][386] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 97 **specified agency**: substituted, on 15 November 2000, by [section 3(1)][387] of the Privacy Amendment Act 2000 (2000 No 76).
+    Section 97 **specified agency**: replaced, on 15 November 2000, by [section 3(1)][387] of the Privacy Amendment Act 2000 (2000 No 76).
     
     Section 97 **specified agency** paragraph (aa): inserted, on 1 April 2002, by [section 337(1)][385] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
@@ -3918,7 +3918,7 @@ Information matching
     
     Section 97 **specified agency** paragraph (ga): inserted, on 18 March 2002, by [section 101(3)][392] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 97 **specified agency** paragraph (gb): substituted, on 1 August 2008, by [section 50(1)][393] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 97 **specified agency** paragraph (gb): replaced, on 1 August 2008, by [section 50(1)][393] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 97 **specified agency** paragraph (gc): inserted, on 18 March 2002, by [section 101(3)][392] of the Electoral Amendment Act 2002 (2002 No 1).
     
@@ -3930,9 +3930,9 @@ Information matching
     
     Section 97 **specified agency** paragraph (ia): inserted, on 16 December 2013, by [section 22][391] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 97 **specified agency** paragraph (k): added, on 1 February 2002, by [section 83][396] of the Education Standards Act 2001 (2001 No 88).
+    Section 97 **specified agency** paragraph (k): inserted, on 1 February 2002, by [section 83][396] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 97 **specified agency** paragraph (l): added, on 20 May 2010, by [section 78(2)][397] of the Education Amendment Act 2010 (2010 No 25).
+    Section 97 **specified agency** paragraph (l): inserted, on 20 May 2010, by [section 78(2)][397] of the Education Amendment Act 2010 (2010 No 25).
     
     Section 97 **specified agency** paragraph (la): inserted, on 14 April 2014, by [section 25][398] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
@@ -4100,7 +4100,7 @@ Information matching
     
     *   (d) \[Repealed\]
     
-    *   (e) any amount payable under [section 138A(1)][413] of the Sentencing Act 2002
+    *   (e) any amount payable under [section 138A(1)][413] of the Sentencing Act 2002\.
     
     Compare: 1991 No 126 s 18; Data-matching Program (Assistance and Tax) Act 1990 s 11 (Aust); 5 USC 552a(p)(3), (4)
     
@@ -4134,7 +4134,7 @@ Information matching
     
     Section 103(3): amended, on 30 June 1993, by section 2(3)(b) of the Privacy Amendment Act 1993 (1993 No 59).
     
-    Section 103(5): added, on 10 April 2006, by [section 4(3)][415] of the Privacy Amendment Act 2006 (2006 No 11).
+    Section 103(5): inserted, on 10 April 2006, by [section 4(3)][415] of the Privacy Amendment Act 2006 (2006 No 11).
     
     Section 103(5) **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][422] of the Privacy Amendment Act 2011 (2011 No 44).
     
@@ -4238,7 +4238,7 @@ Information matching
     
 *   (1) For the purposes of this Part, the Governor-General may from time to time, by Order in Council, make such amendments to [Schedule 4][228] as the Governor-General thinks fit.
     
-    (2) The power conferred by subsection (1) includes the power to revoke [Schedule 4][174] and substitute a new schedule.
+    (2) The power conferred by subsection (1) includes the power to repeal [Schedule 4][174] and substitute a new schedule.
     
     (3) No order that amends [Schedule 4][174] shall be made otherwise than in accordance with the recommendations of the Commissioner.
 
@@ -4507,7 +4507,7 @@ Miscellaneous provisions
         
     *   (a) any matter that might prejudice---
             
-        *   (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
+        *   (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
         
         *   (ii) any interest protected by [section 7][355] of the Official Information Act 1982; or
         
@@ -4715,13 +4715,15 @@ Miscellaneous provisions
 
 ##### 129A Amendment relating to Legislation Act 2012
     
-*   Section 129B takes effect on the repeal of the [Acts and Regulations Publication Act 1989][445] and the [Regulations (Disallowance) Act 1989][446].
+*   [Section 129B][218] takes effect on the repeal of the [Acts and Regulations Publication Act 1989][445] and the [Regulations (Disallowance) Act 1989][446].
     
     Section 129A: inserted, on 27 February 2013, by [section 10][447] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 129B New section 96M substituted
     
-*   _Amendment incorporated in this [Act][138]_.
+*   _Amendment(s) incorporated in the Act(s)_.
+    
+    Section 129B: inserted, on 27 February 2013, by [section 10][447] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Transitional provisions and savings
 
@@ -5096,7 +5098,7 @@ Accident Compensation Act 2001 [Sections 246][617], [280][618], and [281][619]
 
 Accident Insurance Act 1998 Sections 370 and 371 (as saved by [section 343][620] of the Accident Compensation Act 2001)
 
-Births, Deaths, Marriages, and Relationships Registration Act 1995 [Section 78A][621] and [78B][622]
+Births, Deaths, Marriages, and Relationships Registration Act 1995 [Sections 78A][621] and [78B][622]
 
 Citizenship Act 1977 [Section 26A][623]
 
@@ -5270,7 +5272,7 @@ Law enforcement information
 
 [ss 111][180], [113][182]
 
-*   Schedule 5: substituted, on 27 June 1997, by [clause 2][668] of the Privacy (Fifth Schedule) Order 1997 (SR 1997/86).
+*   Schedule 5: replaced, on 27 June 1997, by [clause 2][668] of the Privacy (Fifth Schedule) Order 1997 (SR 1997/86).
 
 _Ministry of Justice records_
 
@@ -5792,7 +5794,7 @@ Orders revoked
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][568]
     
-    Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97) [section 25][398]
+    Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][398]
     
     Health and Safety in Employment Amendment Act 2013 (2013 No 95): [section 26][567]
     
@@ -6042,7 +6044,7 @@ Orders revoked
     
     Privacy Amendment Act 1993 (1993 No 59)
     
-    Privacy Act 1993 (1993 No 28): [section 129B][366]
+    Privacy Act 1993 (1993 No 28): [sections 114][183], [129B][218]
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][384]
 
