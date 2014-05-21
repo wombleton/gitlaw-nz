@@ -2945,57 +2945,57 @@ Definition of _Historic Places Trust_ in [section 10][211]: repeal.
 
 [Section 12(6)][217]: omit ""the New Zealand Historic Places Trust (Pouhere Taonga)"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### Building Act 2004 (2004 No 72)
+##### [Building Act 2004][218] (2004 No 72)
 
-[Section 35(1)(f)][218]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 35(1)(f)][219]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-Heading to [section 39][219]: omit ""**New Zealand Historic Places Trust**"" and substitute ""**Heritage New Zealand Pouhere Taonga**"".
+Heading to [section 39][220]: omit ""**New Zealand Historic Places Trust**"" and substitute ""**Heritage New Zealand Pouhere Taonga**"".
 
-[Section 39(1)(a)][219]: omit ""registered"".
+[Section 39(1)(a)][220]: omit ""registered"".
 
-[Section 39(1)(a)][219]: insert ""that has been entered on the New Zealand Heritage List/Rārangi Kōrero"" after ""wāhi tapu area"".
+[Section 39(1)(a)][220]: insert ""that has been entered on the New Zealand Heritage List/Rārangi Kōrero"" after ""wāhi tapu area"".
 
-[Section 39(1)(b) and (2)][219]: omit ""the New Zealand Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
+[Section 39(1)(b) and (2)][220]: omit ""the New Zealand Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 51(1)(ba)][220]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 51(1)(ba)][221]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 125(2)(f)][221]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 125(2)(f)][222]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 155(2)(f)][222]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 155(2)(f)][223]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Building Amendment Act 2012][223] (2012 No 23)
+##### [Building Amendment Act 2012][224] (2012 No 23)
 
-[Section 17][224]: new section 52B(1)(c): omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 17][225]: new section 52B(1)(c): omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Burial and Cremation Act 1964][225] (1964 No 75)
+##### [Burial and Cremation Act 1964][226] (1964 No 75)
 
-[Section 45(2A)][226]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 45(2A)][227]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Canterbury Earthquake Recovery Act 2011][227] (2011 No 12)
+##### [Canterbury Earthquake Recovery Act 2011][228] (2011 No 12)
 
-[Section 71(3)(h)][228]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 71(3)(h)][229]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Central North Island Forests Land Collective Settlement Act 2008][229] (2008 No 99)
+##### [Central North Island Forests Land Collective Settlement Act 2008][230] (2008 No 99)
 
-[Clause 2(5)][230] of Schedule 2: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Clause 2(5)][231] of Schedule 2: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Christchurch City Council (Robert McDougall Gallery) Land Act 2003][231] (2003 No 4 (L))
+##### [Christchurch City Council (Robert McDougall Gallery) Land Act 2003][232] (2003 No 4 (L))
 
-[Section 9][232]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 9][233]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Conservation Act 1987][233] (1987 No 65)
+##### [Conservation Act 1987][234] (1987 No 65)
 
-Definition of _historic resource_ in [section 2(1)][234]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _historic resource_ in [section 2(1)][235]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 23(1)(d)][235]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 23(1)(d)][236]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 65(7)(b)][236]: repeal. 
+[Section 65(7)(b)][237]: repeal. 
 
 ##### [Crown Entities Act 2004][162] (2004 No 115)
 
-Item relating to the New Zealand Historic Places Trust (Pouhere Taonga) in [Part 2][237] of Schedule 1: omit.
+Item relating to the New Zealand Historic Places Trust (Pouhere Taonga) in [Part 2][238] of Schedule 1: omit.
 
-[Part 2][237] of Schedule 1: insert in its appropriate alphabetical order:
+[Part 2][238] of Schedule 1: insert in its appropriate alphabetical order:
 
 > **Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from section 165 (net surplus payable to Crown)**
 > 
@@ -3007,25 +3007,25 @@ Item relating to the New Zealand Historic Places Trust (Pouhere Taonga) in [Part
 > 
 > 
 
-##### [Crown Pastoral Land Act 1998][238] (1998 No 65)
+##### [Crown Pastoral Land Act 1998][239] (1998 No 65)
 
-Paragraph (b) of the definition of _protective mechanism_ in [section 2][239]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Paragraph (b) of the definition of _protective mechanism_ in [section 2][240]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 40(5)][240]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 40(5)][241]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 40(5)][240]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 40(5)][241]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 80(6)][241]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 80(6)][242]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 80(6)(b)][241]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 80(6)(b)][242]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### Environment Act 1986 (1986 No 127)
+##### [Environment Act 1986][243] (1986 No 127)
 
 Item relating to the Historic Places Act 1980 in the Schedule: omit.
 
-[Schedule][242]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Schedule][244]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### Estate and Gift Duties Act 1968 (1968 No 35)
+##### [Estate and Gift Duties Act 1968][245] (1968 No 35)
 
 Section 73(2)(a): repeal and substitute:
 
@@ -3033,41 +3033,41 @@ Section 73(2)(a): repeal and substitute:
 > 
 > 
 
-##### [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][243] (2012 No 72)
+##### [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][246] (2012 No 72)
 
-[Section 4(1)][244], definition of _wāhi tapu_, omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 4(1)][247], definition of _wāhi tapu_, omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Fiordland (Te Moana o Atawhenua) Marine Management Act 2005][245] (2005 No 36)
+##### [Fiordland (Te Moana o Atawhenua) Marine Management Act 2005][248] (2005 No 36)
 
 Item relating to section 20.1 of the Southland Regional Coastal Plan in Schedule 12: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Hauraki Gulf Marine Park Act 2000][246] (2000 No 1)
+##### [Hauraki Gulf Marine Park Act 2000][249] (2000 No 1)
 
-[Section 35(2)(c)][247]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 35(2)(c)][250]: omit ""section 6 of the Historic Places Act 1993"" and substitute ""section 39 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
 Item relating to the [Historic Places Act 1993][151] in Schedule 1: omit. 
 
-[Schedule 1][248]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Schedule 1][251]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Local Government (Rating) Act 2002][249] (2002 No 6)
+##### [Local Government (Rating) Act 2002][252] (2002 No 6)
 
-[Clause 5(a)][250] of Schedule 1: repeal and substitute:
+[Clause 5(a)][253] of Schedule 1: repeal and substitute:
 
 > *   "(a) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Maraeroa A and B Blocks Claims Settlement Act 2012][251] (2012 No 52)
+##### [Maraeroa A and B Blocks Claims Settlement Act 2012][254] (2012 No 52)
 
-Definition of _Historic Places Trust_ in [section 10][252]: repeal.
+Definition of _Historic Places Trust_ in [section 10][255]: repeal.
 
-[Section 10][252]: insert in its appropriate alphabetical order:
+[Section 10][255]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 24(1)(a)][253]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 24(1)(a)][256]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 27][254]: repeal and substitute:
+[Section 27][257]: repeal and substitute:
 
 > ##### "27 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3081,27 +3081,27 @@ Definition of _Historic Places Trust_ in [section 10][252]: repeal.
 > 
 > 
 
-[Section 30(c)][255]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 30(c)][258]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 74(a)][256]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 74(a)][259]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 74(b)][256]: repeal and substitute:
+[Section 74(b)][259]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act)."
 > 
 > 
 
-##### [Marine and Coastal Area (Takutai Moana) Act 2011][257] (2011 No 3)
+##### [Marine and Coastal Area (Takutai Moana) Act 2011][260] (2011 No 3)
 
 [Section 9][152]: definition of _wāhi tapu_ and _wāhi tapu area_: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 81(3)][258]: repeal and substitute:
+[Section 81(3)][261]: repeal and substitute:
 
 > *   "(3) Despite subsection (2), the offence provisions of the Heritage New Zealand Pouhere Taonga Act 2014 apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right is protected by a heritage covenant under section 39 of that Act."
 > 
 > 
 
-[Section 85(5)(b)][259]: omit ""the Historic Places Act 1993"" and substitute ""the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 85(5)(b)][262]: omit ""the Historic Places Act 1993"" and substitute ""the Heritage New Zealand Pouhere Taonga Act 2014"".
 
 Heading to [section 89][184]: omit ""**New Zealand Historic Places Trust**"" and substitute ""**Heritage New Zealand Pouhere Taonga**"".
 
@@ -3117,23 +3117,23 @@ Heading to [section 89][184]: omit ""**New Zealand Historic Places Trust**"" and
 
 [Section 89(b)][184]: omit ""the Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 110(3)(b)(ii)][260]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 110(3)(b)(ii)][263]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Mauao Historic Reserve Vesting Act 2008][261] (2008 No 31)
+##### [Mauao Historic Reserve Vesting Act 2008][264] (2008 No 31)
 
-[Section 5(1)(c)][262]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 5(1)(c)][265]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Maungaharuru-Tangitū Hapū Claims Settlement Act 2014][263] (2014 No 12)
+##### [Maungaharuru-Tangitū Hapū Claims Settlement Act 2014][266] (2014 No 12)
 
 Definition of _Historic Places Trust_ in section 11: repeal.
 
-[Section 11][264]: insert in its appropriate alphabetical order:
+[Section 11][267]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 39(a)][265]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 39(a)][268]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 42][266]: repeal and substitute:
+[Section 42][269]: repeal and substitute:
 
 > ##### "42 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3147,13 +3147,13 @@ Definition of _Historic Places Trust_ in section 11: repeal.
 > 
 > 
 
-[Section 45(1)(c)][267]: repeal and substitute:
+[Section 45(1)(c)][270]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-Paragraphs (a) and (b) of the definition of _protected site_ in [section 108][268]: repeal and substitute:
+Paragraphs (a) and (b) of the definition of _protected site_ in [section 108][271]: repeal and substitute:
 
 > *   "(a) is a wāhi tapu or wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
 > 
@@ -3161,33 +3161,33 @@ Paragraphs (a) and (b) of the definition of _protected site_ in [section 108][26
 > 
 > 
 
-##### [Methodist Church Withells Road Cemetery Empowering Act 1981][269] (1981 No 1 (P))
+##### [Methodist Church Withells Road Cemetery Empowering Act 1981][272] (1981 No 1 (P))
 
-[Section 3(1)][270]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 3(1)][273]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [National Parks Act 1980][271] (1980 No 66)
+##### [National Parks Act 1980][274] (1980 No 66)
 
-[Section 77][272]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 77][275]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [National War Memorial Park (Pukeahu) Empowering Act 2012][273] (2012 No 76)
+##### [National War Memorial Park (Pukeahu) Empowering Act 2012][276] (2012 No 76)
 
-[Section 25(2)(b)][274]: omit ""the Historic Places Act 1993"" and substitute ""the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 25(2)(b)][277]: omit ""the Historic Places Act 1993"" and substitute ""the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 37(2)(d)][275]: omit ""New Zealand Historic Places Trust (Pouhere Taonga)"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 37(2)(d)][278]: omit ""New Zealand Historic Places Trust (Pouhere Taonga)"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngaa Rauru Kiitahi Claims Settlement Act 2005][276] (2005 No 84)
+##### [Ngaa Rauru Kiitahi Claims Settlement Act 2005][279] (2005 No 84)
 
-Definition of _archaeological site_ in [section 12][277]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 12][280]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Definition of _Historic Places Trust_ in [section 12][277]: repeal.
+Definition of _Historic Places Trust_ in [section 12][280]: repeal.
 
-[Section 12][277]: insert in its appropriate alphabetical order:
+[Section 12][280]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 41(1)(a)][278]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 41(1)(a)][281]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 44][279]: repeal and substitute:
+[Section 44][282]: repeal and substitute:
 
 > ##### "44 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3201,25 +3201,25 @@ Definition of _Historic Places Trust_ in [section 12][277]: repeal.
 > 
 > 
 
-[Section 47(1)][280]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 47(1)][283]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 47(2)(c)][280]: repeal and substitute:
+[Section 47(2)(c)][283]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Ngāi Tahu Claims Settlement Act 1998][281] (1998 No 97)
+##### [Ngāi Tahu Claims Settlement Act 1998][284] (1998 No 97)
 
-[Section 8][282]: insert in its appropriate alphabetical order:
+[Section 8][285]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 151(2)][283]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 151(2)][286]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 152(2)][284]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 152(2)][287]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 210][285]: repeal and substitute:
+[Section 210][288]: repeal and substitute:
 
 > ##### "210 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3233,23 +3233,23 @@ Definition of _Historic Places Trust_ in [section 12][277]: repeal.
 > 
 > 
 
-[Section 211(1) and (2)][286]: omit ""the Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
+[Section 211(1) and (2)][289]: omit ""the Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 215(b)][287]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 215(b)][290]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
 Paragraph (b) under the heading ""**Purposes of statutory acknowledgement**"" in Schedules 14 to 77, 100 to 104, and 108: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngai Tāmanuhiri Claims Settlement Act 2012][288] (2012 No 55)
+##### [Ngai Tāmanuhiri Claims Settlement Act 2012][291] (2012 No 55)
 
 Definition of _Historic Places Trust_ in section 10: repeal.
 
-[Section 10][289]: insert in its appropriate alphabetical order:
+[Section 10][292]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 29(1)(a)][290]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 29(1)(a)][293]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 32][291]: repeal and substitute:
+[Section 32][294]: repeal and substitute:
 
 > ##### "32 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3263,27 +3263,27 @@ Definition of _Historic Places Trust_ in section 10: repeal.
 > 
 > 
 
-[Section 35(1)(c)][292]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 35(1)(c)][295]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 82(a)][293]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 82(a)][296]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 82(b)][293]: repeal and substitute:
+[Section 82(b)][296]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act)."
 > 
 > 
 
-##### [Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014][294] (2014 No 19)
+##### [Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014][297] (2014 No 19)
 
 Definition of _Historic Places Trust_ in section 18(1): repeal.
 
-[Section 18(1)][295]: insert in its appropriate alphabetical order:
+[Section 18(1)][298]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 39(a)][296]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 39(a)][299]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 42][297]: repeal and substitute:
+[Section 42][300]: repeal and substitute:
 
 > ##### "42 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3297,19 +3297,19 @@ Definition of _Historic Places Trust_ in section 18(1): repeal.
 > 
 > 
 
-[Section 45(1)][298]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 45(1)][301]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 45(2)(d)][298]: repeal and substitute:
+[Section 45(2)(d)][301]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 46(2) and (3)][299]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 46(2) and (3)][302]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 125(4)(b)][300]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 125(4)(b)][303]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 132(3)(b)][301]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 132(3)(b)][304]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
 Paragraphs (a) and (b) of the definition of _protected site_ in section 157(1): repeal and substitute:
 
@@ -3319,19 +3319,19 @@ Paragraphs (a) and (b) of the definition of _protected site_ in section 157(1): 
 > 
 > 
 
-[Section 157(2)][302]: repeal.
+[Section 157(2)][305]: repeal.
 
-##### [Ngāti Apa (North Island) Claims Settlement Act 2010][303] (2010 No 129)
+##### [Ngāti Apa (North Island) Claims Settlement Act 2010][306] (2010 No 129)
 
 Definition of _Historic Places Trust_ in section 10: repeal.
 
-[Section 10][304]: insert in its appropriate alphabetical order:
+[Section 10][307]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 28(1)(a)][305]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 28(1)(a)][308]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 31][306]: repeal and substitute:
+[Section 31][309]: repeal and substitute:
 
 > ##### "31 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3345,37 +3345,37 @@ Definition of _Historic Places Trust_ in section 10: repeal.
 > 
 > 
 
-[Section 34(1)][307]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 34(1)][310]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 34(2)(d)][307]: repeal and substitute:
+[Section 34(2)(d)][310]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 35(2)][308]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 35(2)][311]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 83(a)][309]: repeal and substitute:
+[Section 83(a)][312]: repeal and substitute:
 
 > *   "(a) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014); and".
 > 
 > 
 
-[Section 83(b)][309]: omit ""section 2"" and substitute ""section 6"".
+[Section 83(b)][312]: omit ""section 2"" and substitute ""section 6"".
 
-##### [Ngāti Awa Claims Settlement Act 2005][310] (2005 No 28)
+##### [Ngāti Awa Claims Settlement Act 2005][313] (2005 No 28)
 
 Definition of _archaeological site_ in section 12: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
 Definition of _Historic Places Trust_ in section 12: repeal.
 
-[Section 12][311]: insert in its appropriate alphabetical order:
+[Section 12][314]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 41(1)(a)][312]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 41(1)(a)][315]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 44][313]: repeal and substitute:
+[Section 44][316]: repeal and substitute:
 
 > ##### "44 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3389,9 +3389,9 @@ Definition of _Historic Places Trust_ in section 12: repeal.
 > 
 > 
 
-[Section 47(1)][314]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 47(1)][317]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 47(2)(c)][314]: repeal and substitute:
+[Section 47(2)(c)][317]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
@@ -3405,17 +3405,17 @@ Paragraph (b)(i) of the definition of _protected site_ in section 139: repeal an
 
 Paragraph (a) under the heading ""Purposes of statutory acknowledgement"" in Schedules 4 to 14: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014][315] (2014 No 20)
+##### [Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014][318] (2014 No 20)
 
 Definition of _Historic Places Trust_ in section 21(1): repeal.
 
-[Section 21(1)][316]: insert in its appropriate alphabetical order:
+[Section 21(1)][319]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 42(a)][317]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 42(a)][320]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 45][318]: repeal and substitute:
+[Section 45][321]: repeal and substitute:
 
 > ##### "45 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3429,17 +3429,17 @@ Definition of _Historic Places Trust_ in section 21(1): repeal.
 > 
 > 
 
-[Section 48(1)][319]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 48(1)][322]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 48(2)(d)][319]: repeal and substitute:
+[Section 48(2)(d)][322]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 49(2) and (3)][320]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 49(2) and (3)][323]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 149(3)(b)][321]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 149(3)(b)][324]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
 Paragraphs (a) and (b) of the definition of _protected site_ in section 177(1): repeal and substitute:
 
@@ -3449,19 +3449,19 @@ Paragraphs (a) and (b) of the definition of _protected site_ in section 177(1): 
 > 
 > 
 
-[Section 177(2)][322]: repeal.
+[Section 177(2)][325]: repeal.
 
-##### [Ngāti Mākino Claims Settlement Act 2012][323] (2012 No 53)
+##### [Ngāti Mākino Claims Settlement Act 2012][326] (2012 No 53)
 
-Definition of _Historic Places Trust_ in [section 8][324]: repeal.
+Definition of _Historic Places Trust_ in [section 8][327]: repeal.
 
-[Section 8][324]: insert in its appropriate alphabetical order:
+[Section 8][327]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 24(1)(a)][325]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 24(1)(a)][328]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 27][326]: repeal and substitute:
+[Section 27][329]: repeal and substitute:
 
 > ##### "27 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3475,33 +3475,33 @@ Definition of _Historic Places Trust_ in [section 8][324]: repeal.
 > 
 > 
 
-[Section 30(1)][327]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 30(1)][330]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 30(2)(d)][327]: repeal and substitute:
+[Section 30(2)(d)][330]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 31(2) and (3)][328]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 31(2) and (3)][331]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 91(a)][329]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 91(a)][332]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 91(b)][329]: repeal and substitute:
+[Section 91(b)][332]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act)."
 > 
 > 
 
-##### [Ngāti Manawa Claims Settlement Act 2012][330] (2012 No 27)
+##### [Ngāti Manawa Claims Settlement Act 2012][333] (2012 No 27)
 
-[Section 10][331]: insert in its appropriate alphabetical order:
+[Section 10][334]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 42(1)(a)][332]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 42(1)(a)][335]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 45][333]: repeal and substitute:
+[Section 45][336]: repeal and substitute:
 
 > ##### "45 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3515,25 +3515,25 @@ Definition of _Historic Places Trust_ in [section 8][324]: repeal.
 > 
 > 
 
-[Section 48(1)][334]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 48(1)][337]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 48(2)(d)][334]: repeal and substitute:
+[Section 48(2)(d)][337]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Ngāti Manuhiri Claims Settlement Act 2012][335] (2012 No 90)
+##### [Ngāti Manuhiri Claims Settlement Act 2012][338] (2012 No 90)
 
-Definition of _Historic Places Trust_ in [section 11][336]: repeal.
+Definition of _Historic Places Trust_ in [section 11][339]: repeal.
 
 Section 11: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 28(a)][337]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 28(a)][340]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 31][338]: repeal and substitute:
+[Section 31][341]: repeal and substitute:
 
 > ##### "31 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3547,17 +3547,17 @@ Section 11: insert in its appropriate alphabetical order:
 > 
 > 
 
-[Section 34(1)][339]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 34(1)][342]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 34(2)(d)][339]: repeal and substitute:
+[Section 34(2)(d)][342]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 100(e)][340]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 100(e)][343]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 107(1)(a) and (b)][341]: repeal and substitute:
+[Section 107(1)(a) and (b)][344]: repeal and substitute:
 
 > *   "(a) a wāhi tapu or wāhi tapu area; and
 > 
@@ -3565,25 +3565,25 @@ Section 11: insert in its appropriate alphabetical order:
 > 
 > 
 
-[Section 107(2)][341]: repeal and substitute:
+[Section 107(2)][344]: repeal and substitute:
 
 > *   "(2) In subsection (1), _wāhi tapu_ and _wāhi tapu area_ have the meanings given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014\."
 > 
 > 
 
-##### [Ngāti Mutunga Claims Settlement Act 2006][342] (2006 No 61)
+##### [Ngāti Mutunga Claims Settlement Act 2006][345] (2006 No 61)
 
-Definition of _archaeological site_ in [section 12][343]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 12][346]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Definition of _Historic Places Trust_ in [section 12][343]: repeal.
+Definition of _Historic Places Trust_ in [section 12][346]: repeal.
 
-[Section 12][343]: insert in its appropriate alphabetical order:
+[Section 12][346]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 49(1)(a)][344]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 49(1)(a)][347]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 52][345]: repeal and substitute:
+[Section 52][348]: repeal and substitute:
 
 > ##### "52 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3597,27 +3597,27 @@ Definition of _Historic Places Trust_ in [section 12][343]: repeal.
 > 
 > 
 
-[Section 55(1)][346]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 55(1)][349]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 55(2)(d)][346]: repeal and substitute:
+[Section 55(2)(d)][349]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 24(5)][347] of the Reserves Act 1977 set out in Schedule 5: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 24(5)][350] of the Reserves Act 1977 set out in Schedule 5: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngāti Pāhauwera Treaty Claims Settlement Act 2012][348] (2012 No 30)
+##### [Ngāti Pāhauwera Treaty Claims Settlement Act 2012][351] (2012 No 30)
 
-Definition of _Historic Places Trust_ in [section 11][349]: repeal.
+Definition of _Historic Places Trust_ in [section 11][352]: repeal.
 
-[Section 11][349]: insert in its appropriate alphabetical order:
+[Section 11][352]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 68(1)(a)][350]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 68(1)(a)][353]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 71][351]: repeal and substitute:
+[Section 71][354]: repeal and substitute:
 
 > ##### "71 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3631,35 +3631,35 @@ Definition of _Historic Places Trust_ in [section 11][349]: repeal.
 > 
 > 
 
-[Section 74(1)][352]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 74(1)][355]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 74(2)(d)][352]: repeal and substitute:
+[Section 74(2)(d)][355]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 75(2)][353]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 75(2)][356]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 91(a)][354]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 91(a)][357]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 91(b)][354]: repeal and substitute:
+[Section 91(b)][357]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act)."
 > 
 > 
 
-##### [Ngati Porou Claims Settlement Act 2012][355] (2012 No 31)
+##### [Ngati Porou Claims Settlement Act 2012][358] (2012 No 31)
 
 Definition of _Historic Places Trust_ in section 10: repeal.
 
-[Section 10][356]: insert in its appropriate alphabetical order:
+[Section 10][359]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 46(1)(a][357]): omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 46(1)(a][360]): omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 49][358]: repeal and substitute:
+[Section 49][361]: repeal and substitute:
 
 > ##### "49 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3673,27 +3673,27 @@ Definition of _Historic Places Trust_ in section 10: repeal.
 > 
 > 
 
-[Section 52(1)(c)][359]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 52(1)(c)][362]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 94(a)][360]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 94(a)][363]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 94(b)][360]: repeal and substitute:
+[Section 94(b)][363]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act)."
 > 
 > 
 
-##### [Ngāti Rangiteaorere Claims Settlement Act 2014][361] (2014 No 13)
+##### [Ngāti Rangiteaorere Claims Settlement Act 2014][364] (2014 No 13)
 
-Definition of _Historic Places Trust_ in [section 13][362]: repeal.
+Definition of _Historic Places Trust_ in [section 13][365]: repeal.
 
-[Section 13][362]: insert in its appropriate alphabetical order:
+[Section 13][365]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 32(a)][363]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 32(a)][366]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 35][364]: repeal and substitute:
+[Section 35][367]: repeal and substitute:
 
 > ##### "35 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3707,23 +3707,23 @@ Definition of _Historic Places Trust_ in [section 13][362]: repeal.
 > 
 > 
 
-[Section 38(1)(c)][365]: repeal and substitute:
+[Section 38(1)(c)][368]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-##### [Ngāti Rangiwewehi Claims Settlement Act 2014][366] (2014 No 14)
+##### [Ngāti Rangiwewehi Claims Settlement Act 2014][369] (2014 No 14)
 
-Definition of _Historic Places Trust_ in [section 13][367]: repeal.
+Definition of _Historic Places Trust_ in [section 13][370]: repeal.
 
-[Section 13][367]: insert in its appropriate alphabetical order:
+[Section 13][370]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 35(a)][368]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 35(a)][371]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 38][369]: repeal and substitute:
+[Section 38][372]: repeal and substitute:
 
 > ##### "38 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3737,13 +3737,13 @@ Definition of _Historic Places Trust_ in [section 13][367]: repeal.
 > 
 > 
 
-[Section 41(1)(c)][370]: repeal and substitute:
+[Section 41(1)(c)][373]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-Paragraphs (a) and (b) of the definition of _protected site_ in [section 92][371]: repeal and substitute:
+Paragraphs (a) and (b) of the definition of _protected site_ in [section 92][374]: repeal and substitute:
 
 > *   "(a) is a wāhi tapu or wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
 > 
@@ -3751,17 +3751,17 @@ Paragraphs (a) and (b) of the definition of _protected site_ in [section 92][371
 > 
 > 
 
-##### [Ngati Ruanui Claims Settlement Act 2003][372] (2003 No 20)
+##### [Ngati Ruanui Claims Settlement Act 2003][375] (2003 No 20)
 
-Definition of _archaeological site_ in [section 12][373]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 12][376]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 12][373]: insert in its appropriate alphabetical order:
+[Section 12][376]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 89(1)(a)][374]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 89(1)(a)][377]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 92][375]: repeal and substitute:
+[Section 92][378]: repeal and substitute:
 
 > ##### "92 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3775,9 +3775,9 @@ Definition of _archaeological site_ in [section 12][373]: omit ""section 2 of th
 > 
 > 
 
-[Section 95(1)][376]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 95(1)][379]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 95(2)(c)][376]: repeal and substitute:
+[Section 95(2)(c)][379]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
@@ -3785,19 +3785,19 @@ Definition of _archaeological site_ in [section 12][373]: omit ""section 2 of th
 
 Paragraph (a) under the heading ""_Purposes of statutory acknowledgement_"" in Schedules 5 to 9: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngati Tama Claims Settlement Act 2003][377] (2003 No 126)
+##### [Ngati Tama Claims Settlement Act 2003][380] (2003 No 126)
 
-Definition of _archaeological site_ in [section 9][378]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 9][381]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Definition of _Historic Places Trust_ in [section 9][378]: repeal.
+Definition of _Historic Places Trust_ in [section 9][381]: repeal.
 
-[Section 9][378]: insert in its appropriate alphabetical order:
+[Section 9][381]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 54(1)(a)][379]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 54(1)(a)][382]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 57][380]: repeal and substitute:
+[Section 57][383]: repeal and substitute:
 
 > ##### "57 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3811,9 +3811,9 @@ Definition of _Historic Places Trust_ in [section 9][378]: repeal.
 > 
 > 
 
-[Section 60(1)][381]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 60(1)][384]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 60(2)(c)][381]: repeal and substitute:
+[Section 60(2)(c)][384]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
@@ -3821,17 +3821,17 @@ Definition of _Historic Places Trust_ in [section 9][378]: repeal.
 
 Paragraph (a) under the heading ""_Purposes of statutory acknowledgement_"" in Schedules 3 to 14: omit ""the Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngati Toa Rangatira Claims Settlement Act 2014][382] (2014 No 17)
+##### [Ngati Toa Rangatira Claims Settlement Act 2014][385] (2014 No 17)
 
-Definition of _Historic Places Trust_ in [section 12(1)][383]: repeal.
+Definition of _Historic Places Trust_ in [section 12(1)][386]: repeal.
 
-[Section 12][383]: insert in its appropriate alphabetical order:
+[Section 12][386]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 26(a)][384]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 26(a)][387]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 29][385]: repeal and substitute:
+[Section 29][388]: repeal and substitute:
 
 > ##### "29 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3845,9 +3845,9 @@ Definition of _Historic Places Trust_ in [section 12(1)][383]: repeal.
 > 
 > 
 
-[Section 32(1)][386]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 32(1)][389]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 33(2) and (3)][387]: omit ""the Historic Places Trust"" in both places and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 33(2) and (3)][390]: omit ""the Historic Places Trust"" in both places and substitute ""Heritage New Zealand Pouhere Taonga"".
 
 Paragraphs (a) and (b) of the definition of _protected site_ in section 179(1): repeal and substitute:
 
@@ -3857,21 +3857,21 @@ Paragraphs (a) and (b) of the definition of _protected site_ in section 179(1): 
 > 
 > 
 
-[Section 179(2)][388]: repeal.
+[Section 179(2)][391]: repeal.
 
-##### [Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005][389] (2005 No 72)
+##### [Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005][392] (2005 No 72)
 
-Definition of _archaeological site_ in [section 12][390]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 12][393]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Definition of _Historic Places Trust_ in [section 12][391]: repeal.
+Definition of _Historic Places Trust_ in [section 12][394]: repeal.
 
-[Section 12][391]: insert in its appropriate alphabetical order:
+[Section 12][394]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 38(1)(a)][392]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 38(1)(a)][395]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 41][393]: repeal and substitute:
+[Section 41][396]: repeal and substitute:
 
 > ##### "41 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -3885,33 +3885,33 @@ Definition of _Historic Places Trust_ in [section 12][391]: repeal.
 > 
 > 
 
-[Section 44(1)][394]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 44(1)][397]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 44(2)(c)][394]: repeal and substitute:
+[Section 44(2)(c)][397]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 125(3)(a)][395]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 125(3)(a)][398]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Paragraph (a) under the heading ""Purposes of statutory acknowledgement"" in [Schedules 4 to 8][396]: omit ""the New Zealand Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
+Paragraph (a) under the heading ""Purposes of statutory acknowledgement"" in [Schedules 4 to 8][399]: omit ""the New Zealand Historic Places Trust"" and substitute in each case ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010][397] (2010 No 119)
+##### [Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010][400] (2010 No 119)
 
-[Section 18(7)(e)][398]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 18(7)(e)][401]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Ngāti Whare Claims Settlement Act 2012][399] (2012 No 28)
+##### [Ngāti Whare Claims Settlement Act 2012][402] (2012 No 28)
 
-Definition of _Historic Places Trust_ in [section 10][400]: repeal.
+Definition of _Historic Places Trust_ in [section 10][403]: repeal.
 
-[Section 10][400]: insert in its appropriate alphabetical order:
+[Section 10][403]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 50(1)(a)][401]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 50(1)(a)][404]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 53][402]: repeal and substitute:
+[Section 53][405]: repeal and substitute:
 
 > ##### "53 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3925,25 +3925,25 @@ Definition of _Historic Places Trust_ in [section 10][400]: repeal.
 > 
 > 
 
-[Section 56(1)][403]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 56(1)][406]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 56(2)(d)][403]: repeal and substitute:
+[Section 56(2)(d)][406]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Ngāti Whātua o Kaipara Claims Settlement Act 2013][404] (2013 No 37)
+##### [Ngāti Whātua o Kaipara Claims Settlement Act 2013][407] (2013 No 37)
 
-Definition of _Historic Places Trust_ in [section 11][405]: repeal.
+Definition of _Historic Places Trust_ in [section 11][408]: repeal.
 
-[Section 11][405]: insert in its appropriate alphabetical order:
+[Section 11][408]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 61(a)][406]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 61(a)][409]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 64][407]: repeal and substitute:
+[Section 64][410]: repeal and substitute:
 
 > ##### "64 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3957,31 +3957,31 @@ Definition of _Historic Places Trust_ in [section 11][405]: repeal.
 > 
 > 
 
-[Section 67(1)(c)][408]: repeal and substitute:
+[Section 67(1)(c)][411]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-Paragraph (a) of the definition of _protected site_ in [section 91][409]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Paragraph (a) of the definition of _protected site_ in [section 91][412]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Paragraph (b) of the definition of _protected site_ in [section 91][409]: repeal and substitute:
+Paragraph (b) of the definition of _protected site_ in [section 91][412]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero, as defined in section 6 of that Act".
 > 
 > 
 
-##### [Ngāti Whatua Ōrākei Claims Settlement Act 2012][410] (2012 No 91)
+##### [Ngāti Whatua Ōrākei Claims Settlement Act 2012][413] (2012 No 91)
 
-Definition of _Historic Places Trust_ in [section 10][411]: repeal.
+Definition of _Historic Places Trust_ in [section 10][414]: repeal.
 
-[Section 10][411]: insert in its appropriate alphabetical order:
+[Section 10][414]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 30(1)(a)][412]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 30(1)(a)][415]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 33][413]: repeal and substitute:
+[Section 33][416]: repeal and substitute:
 
 > ##### "33 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -3995,53 +3995,53 @@ Definition of _Historic Places Trust_ in [section 10][411]: repeal.
 > 
 > 
 
-[Section 36(1)][414]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 36(1)][417]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 36(2)(d)][414]: repeal and substitute:
+[Section 36(2)(d)][417]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Ombudsmen Act 1975][415] (1975 No 9)
+##### [Ombudsmen Act 1975][418] (1975 No 9)
 
 Item relating to the New Zealand Historic Places Trust (Pouhere Taonga) in Part 2 of Schedule 1: omit.
 
-Part 2 of [Schedule 1][416]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga"".
+Part 2 of [Schedule 1][419]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Overseas Investment Act 2005][417] (2005 No 82)
+##### [Overseas Investment Act 2005][420] (2005 No 82)
 
-[Section 17(2)(d)(ii)][418]: omit ""registration"" and substitute ""the entry on the New Zealand Heritage List/Rārangi Kōrero"".
+[Section 17(2)(d)(ii)][421]: omit ""registration"" and substitute ""the entry on the New Zealand Heritage List/Rārangi Kōrero"".
 
-[Section 17(2)(d)(ii)][418]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 17(2)(d)(ii)][421]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Table 1 in Part 1 of [Schedule 1][419]: omit ""the Historic Places Trust under the Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014"".
+Table 1 in Part 1 of [Schedule 1][422]: omit ""the Historic Places Trust under the Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Table 1 in Part 1 of [Schedule 1][419]: omit ""registered"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero"".
+Table 1 in Part 1 of [Schedule 1][422]: omit ""registered"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero"".
 
-Table 1 in Part 1 of [Schedule 1][419]: omit ""or proposal for registration under the Historic Places Act 1993"" and substitute ""that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Table 1 in Part 1 of [Schedule 1][422]: omit ""or proposal for registration under the Historic Places Act 1993"" and substitute ""that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Table 2 in Part 1 of [Schedule 1][419]: omit ""the Historic Places Trust under the Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014"".
+Table 2 in Part 1 of [Schedule 1][422]: omit ""the Historic Places Trust under the Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Table 2 in Part 1 of [Schedule 1][419]: omit ""registered"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero"".
+Table 2 in Part 1 of [Schedule 1][422]: omit ""registered"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero"".
 
-Table 2 in Part 1 of [Schedule 1][419]: omit ""or proposal for registration under the Historic Places Act 1993"" and substitute ""that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Table 2 in Part 1 of [Schedule 1][422]: omit ""or proposal for registration under the Historic Places Act 1993"" and substitute ""that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Porirua City Council (Pauatahanui Burial Ground) Act 2007][420] (2007 No 1 (L))
+##### [Porirua City Council (Pauatahanui Burial Ground) Act 2007][423] (2007 No 1 (L))
 
-[Section 12(4)][421]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 12(4)][424]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009][422] (2009 No 26)
+##### [Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009][425] (2009 No 26)
 
-Definition of _Historic Places Trust_ in [section 7][423]: repeal.
+Definition of _Historic Places Trust_ in [section 7][426]: repeal.
 
-[Section 7][423]: insert in its appropriate alphabetical order:
+[Section 7][426]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 24(1)(a)][424]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 24(1)(a)][427]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 27][425]: repeal and substitute:
+[Section 27][428]: repeal and substitute:
 
 > ##### "27 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4055,23 +4055,23 @@ Definition of _Historic Places Trust_ in [section 7][423]: repeal.
 > 
 > 
 
-[Section 30(1)][426]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 30(1)][429]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 30(2)(c)][426]: repeal and substitute:
+[Section 30(2)(c)][429]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### [Pouakani Claims Settlement Act 2000][427] (2000 No 90)
+##### [Pouakani Claims Settlement Act 2000][430] (2000 No 90)
 
-[Section 9][428]: insert in its appropriate alphabetical order:
+[Section 9][431]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 36(b)][429]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 36(b)][432]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 40][430]: repeal and substitute:
+[Section 40][433]: repeal and substitute:
 
 > ##### "40 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4085,45 +4085,45 @@ Definition of _Historic Places Trust_ in [section 7][423]: repeal.
 > 
 > 
 
-[Section 41(1)][431]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 41(1)][434]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 41(2)(c)][431]: repeal and substitute:
+[Section 41(2)(c)][434]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; and".
 > 
 > 
 
-Paragraph (b) under the heading ""Purposes of statutory acknowledgement"" in [Schedule 3][432]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+Paragraph (b) under the heading ""Purposes of statutory acknowledgement"" in [Schedule 3][435]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### [Protected Objects Act 1975][433] (1975 No 41)
+##### [Protected Objects Act 1975][436] (1975 No 41)
 
-[Section 11(3)][434]: omit ""the New Zealand Historic Places Trust under section 44 of the Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga under section 48 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 11(3)][437]: omit ""the New Zealand Historic Places Trust under section 44 of the Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga under section 48 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 14(2)(b)][435]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 14(2)(b)][438]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 14(5)][435]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 14(5)][438]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 15(5)(a)][436]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 15(5)(a)][439]: omit ""Historic Places Act 1980"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Clause 6][437] of Schedule 4: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Clause 6][440] of Schedule 4: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### [Public Audit Act 2001][438] (2001 No 10)
+##### [Public Audit Act 2001][441] (2001 No 10)
 
-[Schedule 2][439]: omit ""New Zealand Historic Places Trust"".
+[Schedule 2][442]: omit ""New Zealand Historic Places Trust"".
 
-[Schedule 2][439]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga"".
+[Schedule 2][442]: insert in its appropriate alphabetical order ""Heritage New Zealand Pouhere Taonga"".
 
-##### Raukawa Claims Settlement Act 2014 (2014 No 7)
+##### [Raukawa Claims Settlement Act 2014][443] (2014 No 7)
 
-Definition of _Historic Places Trust_ in [section 12][440]: repeal.
+Definition of _Historic Places Trust_ in [section 12][444]: repeal.
 
-[Section 12][440]: insert in its appropriate alphabetical order:
+[Section 12][444]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 23(a)][441]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 23(a)][445]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 26][442]: repeal and substitute:
+[Section 26][446]: repeal and substitute:
 
 > ##### "26 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4137,67 +4137,67 @@ Definition of _Historic Places Trust_ in [section 12][440]: repeal.
 > 
 > 
 
-[Section 29(1)(c)][443]: repeal and substitute:
+[Section 29(1)(c)][447]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-Paragraph (a) of the definition of _protected site_ in [section 86][444]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Paragraph (a) of the definition of _protected site_ in [section 86][448]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-Paragraph (b) of the definition of _protected site_ in [section 86][444]: repeal and substitute:
+Paragraph (b) of the definition of _protected site_ in [section 86][448]: repeal and substitute:
 
 > *   "(b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero, as defined in section 6 of that Act".
 > 
 > 
 
-##### Reserves Act 1977 (1977 No 66)
+##### [Reserves Act 1977][205] (1977 No 66)
 
-Definition of _New Zealand Historic Places Trust_ in [section 2(1)][445]: repeal.
+Definition of _New Zealand Historic Places Trust_ in [section 2(1)][449]: repeal.
 
-[Section 2(1)][445]: insert in its appropriate alphabetical order:
+[Section 2(1)][449]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 4(1)][446]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 4(1)][450]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 13(4)][447]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 13(4)][451]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 17(2)(b)][448]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 17(2)(b)][452]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 18(2)][449]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 18(2)][453]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 19(2)(d)][450]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 19(2)(d)][454]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 19(3)(d)][450]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 19(3)(d)][454]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 20(2)(d)][451]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 20(2)(d)][455]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 21(2)(c)][452]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 21(2)(c)][456]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 22(4)(a)][453]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 22(4)(a)][457]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 23(2)(a)][454]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 23(2)(a)][458]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 24(5)][455]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 24(5)][459]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 78(2)(b)][456]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 78(2)(b)][460]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 78(2)(b)][456]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 78(2)(b)][460]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### Resource Management Act 1991 (1991 No 69)
+##### [Resource Management Act 1991][179] (1991 No 69)
 
-[Section 11(1)(cc)][457]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 11(1)(cc)][461]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 11(1)(cc)][457]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 11(1)(cc)][461]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 61(2)(a)(iia)][458]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 61(2)(a)(iia)][462]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 66(2)(c)(iia)][459]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 66(2)(c)(iia)][463]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 74(2)(b)(iia)][460]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 74(2)(b)(iia)][464]: omit ""in the Historic Places Register"" and substitute ""on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 87B(4)][461]: repeal.
+[Section 87B(4)][465]: repeal.
 
 Paragraph (c) of the definition of _heritage protection authority_ in [section 187][154]: repeal and substitute:
 
@@ -4205,25 +4205,25 @@ Paragraph (c) of the definition of _heritage protection authority_ in [section 1
 > 
 > 
 
-##### Riccarton Bush Act 1914 (1914 No 15 (L))
+##### [Riccarton Bush Act 1914][466] (1914 No 15 (L))
 
-[Section 26(2)(c)][462]: repeal and substitute:
+[Section 26(2)(c)][467]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga."
 > 
 > 
 
-##### Rongowhakaata Claims Settlement Act 2012 (2012 No 54)
+##### [Rongowhakaata Claims Settlement Act 2012][468] (2012 No 54)
 
-Definition of _Historic Places Trust_ in [section 12][463]: repeal.
+Definition of _Historic Places Trust_ in [section 12][469]: repeal.
 
-[Section 12][463]: insert in its appropriate alphabetical order:
+[Section 12][469]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 32(1)(a)][464]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 32(1)(a)][470]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 35][465]: repeal and substitute:
+[Section 35][471]: repeal and substitute:
 
 > ##### "35 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4237,19 +4237,19 @@ Definition of _Historic Places Trust_ in [section 12][463]: repeal.
 > 
 > 
 
-[Section 38(1)(c)][466]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 38(1)(c)][472]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### Tapuika Claims Settlement Act 2014 (2014 No 15)
+##### [Tapuika Claims Settlement Act 2014][473] (2014 No 15)
 
-Definition of _Historic Places Trust_ in [section 12][467]: repeal.
+Definition of _Historic Places Trust_ in [section 12][474]: repeal.
 
-[Section 12][467]: insert in its appropriate alphabetical order:
+[Section 12][474]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 34(a)][468]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 34(a)][475]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 37][469]: repeal and substitute:
+[Section 37][476]: repeal and substitute:
 
 > ##### "37 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4263,13 +4263,13 @@ Definition of _Historic Places Trust_ in [section 12][467]: repeal.
 > 
 > 
 
-[Section 40(1)(c)][470]: repeal and substitute:
+[Section 40(1)(c)][477]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; or".
 > 
 > 
 
-Paragraphs (a) and (b) of the definition of _protected site_ in [section 133][471]: repeal and substitute:
+Paragraphs (a) and (b) of the definition of _protected site_ in [section 133][478]: repeal and substitute:
 
 > *   "(a) is a wāhi tapu or wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
 > 
@@ -4277,19 +4277,19 @@ Paragraphs (a) and (b) of the definition of _protected site_ in [section 133][47
 > 
 > 
 
-##### Te Arawa Lakes Settlement Act 2006 (2006 No 43)
+##### [Te Arawa Lakes Settlement Act 2006][479] (2006 No 43)
 
-Definition of _Historic Places Trust_ in [section 11][472]: repeal.
+Definition of _Historic Places Trust_ in [section 11][480]: repeal.
 
-[Section 11][472]: insert in its appropriate alphabetical order:
+[Section 11][480]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 18(2)][473]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Section 18(2)][481]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 61(1)(a)][474]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 61(1)(a)][482]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 64][475]: repeal and substitute:
+[Section 64][483]: repeal and substitute:
 
 > ##### "64 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4303,25 +4303,25 @@ Definition of _Historic Places Trust_ in [section 11][472]: repeal.
 > 
 > 
 
-[Section 67(1)][476]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 67(1)][484]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 67(2)(c)][476]: repeal and substitute:
+[Section 67(2)(c)][484]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### Te Roroa Claims Settlement Act 2008 (2008 No 100)
+##### [Te Roroa Claims Settlement Act 2008][485] (2008 No 100)
 
-Definition of _Historic Places Trust_ in [section 10][477]: repeal.
+Definition of _Historic Places Trust_ in [section 10][486]: repeal.
 
-[Section 10][477]: insert in its appropriate alphabetical order:
+[Section 10][486]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 69(1)(a)][478]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 69(1)(a)][487]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 72][479]: repeal and substitute:
+[Section 72][488]: repeal and substitute:
 
 > ##### "72 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -4335,25 +4335,25 @@ Definition of _Historic Places Trust_ in [section 10][477]: repeal.
 > 
 > 
 
-[Section 75(1)][480]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 75(1)][489]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 75(2)(c)][480]: repeal and substitute:
+[Section 75(2)(c)][489]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-##### Te Uri o Hau Claims Settlement Act 2002 (2002 No 36)
+##### [Te Uri o Hau Claims Settlement Act 2002][490] (2002 No 36)
 
-Definition of _archaeological site_ in [section 57(1)][481]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
+Definition of _archaeological site_ in [section 57(1)][491]: omit ""section 2 of the Historic Places Act 1993"" and substitute ""section 6 of the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-[Section 57(1)][481]: insert in its appropriate alphabetical order:
+[Section 57(1)][491]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 58(1)(b)][482]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 58(1)(b)][492]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 62][483]: repeal and substitute:
+[Section 62][493]: repeal and substitute:
 
 > ##### "62 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
 >     
@@ -4367,35 +4367,35 @@ Definition of _archaeological site_ in [section 57(1)][481]: omit ""section 2 of
 > 
 > 
 
-[Section 65(1)][484]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 65(1)][494]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 65(2)(c)][484]: repeal and substitute:
+[Section 65(2)(c)][494]: repeal and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-Paragraph (b) under the heading ""_Purposes of statutory acknowledgement_"" in [Schedules 5 to 10][485]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+Paragraph (b) under the heading ""_Purposes of statutory acknowledgement_"" in [Schedules 5 to 10][495]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 (2010 No 24)
+##### [Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010][496] (2010 No 24)
 
-[Section 17(7)(e)][486]: repeal and substitute:
+[Section 17(7)(e)][497]: repeal and substitute:
 
 > *   "(e) Heritage New Zealand Pouhere Taonga Act 2014:".
 > 
 > 
 
-##### Waitaha Claims Settlement Act 2013 (2013 No 38)
+##### [Waitaha Claims Settlement Act 2013][498] (2013 No 38)
 
-Definition of _Historic Places Trust_ in [section 9][487]: repeal.
+Definition of _Historic Places Trust_ in [section 9][499]: repeal.
 
-[Section 9][487]: insert in its appropriate alphabetical order:
+[Section 9][499]: insert in its appropriate alphabetical order:
 
 > "_Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014".
 
-[Section 27(a)][488]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 27(a)][500]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 30][489]: repeal and substitute:
+[Section 30][501]: repeal and substitute:
 
 > ##### "30 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
 >     
@@ -4409,23 +4409,23 @@ Definition of _Historic Places Trust_ in [section 9][487]: repeal.
 > 
 > 
 
-[Section 33(1)][490]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 33(1)][502]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Section 33(2)(d)][490]: repeal and substitute:
+[Section 33(2)(d)][502]: repeal and substitute:
 
 > *   "(d) Heritage New Zealand Pouhere Taonga:".
 > 
 > 
 
-[Section 34(2) and (3)][491]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Section 34(2) and (3)][503]: omit ""the Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-##### Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))
+##### [Waitakere Ranges Heritage Area Act 2008][504] (2008 No 1 (L))
 
-[Schedule 3][492]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Schedule 3][505]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987 (1987 No 5 (L))
+##### [Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987][506] (1987 No 5 (L))
 
-[Section 18(1)(d)][493]: repeal and substitute:
+[Section 18(1)(d)][507]: repeal and substitute:
 
 > *   "(d) the Heritage New Zealand Pouhere Taonga Act 2014:".
 > 
@@ -4434,29 +4434,29 @@ Definition of _Historic Places Trust_ in [section 9][487]: repeal.
 ## Part 2  
 Amendments to regulations
 
-##### Canterbury Earthquake (Resource Management Act Port of Lyttelton Recovery) Order 2011 (SR 2011/148)
+##### [Canterbury Earthquake (Resource Management Act Port of Lyttelton Recovery) Order 2011][508] (SR 2011/148)
 
-[Clause 8(3)(c)][494]: revoke and substitute:
+[Clause 8(3)(c)][509]: revoke and substitute:
 
 > *   "(c) Heritage New Zealand Pouhere Taonga; and".
 > 
 > 
 
-##### Māori Land Court Fees Regulations 2013 (SR 2013/219)
+##### [Māori Land Court Fees Regulations 2013][510] (SR 2013/219)
 
-Item 23(g) in [Part 12][495] of the Schedule: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+Item 23(g) in [Part 12][511] of the Schedule: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)
+##### [Resource Management (Forms, Fees, and Procedure) Regulations 2003][512] (SR 2003/153)
 
-[Regulation 10(2)(g)][496]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
+[Regulation 10(2)(g)][513]: omit ""the New Zealand Historic Places Trust"" and substitute ""Heritage New Zealand Pouhere Taonga"".
 
-[Regulation 10(2)(g)(ii)][496]: insert ""wāhi tūpuna,"" after ""historic area,"".
+[Regulation 10(2)(g)(ii)][513]: insert ""wāhi tūpuna,"" after ""historic area,"".
 
-[Regulation 10(2)(g)(ii)][496]: omit ""registered under the Historic Places Act 1993"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero under the Heritage New Zealand Pouhere Taonga Act 2014"".
+[Regulation 10(2)(g)(ii)][513]: omit ""registered under the Historic Places Act 1993"" and substitute ""entered on the New Zealand Heritage List/Rārangi Kōrero under the Heritage New Zealand Pouhere Taonga Act 2014"".
 
-##### Resource Management (National Environmental Standards for Electricity Transmission Activities) Regulations 2009 (SR 2009/397)
+##### [Resource Management (National Environmental Standards for Electricity Transmission Activities) Regulations 2009][514] (SR 2009/397)
 
-[Regulation 33(8)][497]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
+[Regulation 33(8)][515]: omit ""Historic Places Act 1993"" and substitute ""Heritage New Zealand Pouhere Taonga Act 2014"".
 
 ---
 
@@ -4698,283 +4698,301 @@ This Act is administered by the Ministry for Culture and Heritage.
 [215]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1375946
 [216]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM81921
 [217]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM81962
-[218]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306366
-[219]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306374
-[220]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306387
-[221]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM307301
-[222]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM307339
-[223]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3387706
-[224]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3387780
-[225]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM355078
-[226]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM355829
-[227]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3653503
-[228]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3570826
-[229]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1378400
-[230]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1598414
-[231]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM87785
-[232]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88304
-[233]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM103609
-[234]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM103616
-[235]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM104690
-[236]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM106995
-[237]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM331118
-[238]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM426893
-[239]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM426899
-[240]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM427035
-[241]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM427082
-[242]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM99782
-[243]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3955410
-[244]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3955436
-[245]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM341225
-[246]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM52557
-[247]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM53176
-[248]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM53199
-[249]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM131393
-[250]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM133593
-[251]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4328900
-[252]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4328935
-[253]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329079
-[254]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329082
-[255]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329086
-[256]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329165
-[257]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3213102
-[258]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3213405
-[259]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3597401
-[260]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3597413
-[261]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1037700
-[262]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1037734
-[263]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5322900
-[264]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5322936
-[265]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323119
-[266]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323122
-[267]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323126
-[268]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323261
-[269]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM110034
-[270]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM110049
-[271]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM36962
-[272]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM38521
-[273]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680401
-[274]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680507
-[275]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680522
-[276]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359210
-[277]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359251
-[278]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359632
-[279]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359635
-[280]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359639
-[281]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429089
-[282]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429208
-[283]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429922
-[284]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429924
-[285]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430048
-[286]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430050
-[287]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430054
-[288]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947000
-[289]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947035
-[290]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947221
-[291]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947224
-[292]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359623
-[293]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359695
-[294]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214200
-[295]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214410
-[296]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214646
-[297]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214649
-[298]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214653
-[299]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214654
-[300]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214801
-[301]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214813
-[302]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214857
-[303]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274700
-[304]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274733
-[305]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274903
-[306]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274906
-[307]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274910
-[308]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3421509
-[309]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274994
-[310]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM338760
-[311]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM338908
-[312]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339714
-[313]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339717
-[314]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339720
-[315]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954600
-[316]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954635
-[317]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954883
-[318]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954886
-[319]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954890
-[320]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954891
-[321]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5955071
-[322]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5955139
-[323]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062601
-[324]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062637
-[325]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062813
-[326]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062816
-[327]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062820
-[328]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062821
-[329]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062947
-[330]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3276800
-[331]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3276821
-[332]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277000
-[333]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277003
-[334]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277007
-[335]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326600
-[336]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326634
-[337]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326800
-[338]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326803
-[339]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326807
-[340]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326924
-[341]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326936
-[342]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391105
-[343]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391132
-[344]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391754
-[345]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391757
-[346]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391761
-[347]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391717
-[348]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562500
-[349]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562535
-[350]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562771
-[351]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562774
-[352]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562778
-[353]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562779
-[354]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562811
-[355]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548700
-[356]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548740
-[357]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548985
-[358]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548988
-[359]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548992
-[360]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3549057
-[361]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324100
-[362]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324154
-[363]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324297
-[364]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324300
-[365]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324304
-[366]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992402
-[367]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992420
-[368]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992589
-[369]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992592
-[370]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992596
-[371]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992693
-[372]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM192292
-[373]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM192711
-[374]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193364
-[375]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193368
-[376]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193375
-[377]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233714
-[378]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233730
-[379]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234264
-[380]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234268
-[381]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234272
-[382]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953602
-[383]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953618
-[384]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953814
-[385]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953817
-[386]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953821
-[387]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953822
-[388]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954102
-[389]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM349701
-[390]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM349753
-[391]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM321317
-[392]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350219
-[393]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350222
-[394]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350225
-[395]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350552
-[396]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350565
-[397]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2921817
-[398]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2922913
-[399]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4339901
-[400]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4339919
-[401]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340112
-[402]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340115
-[403]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340119
-[404]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653000
-[405]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653032
-[406]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653258
-[407]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653261
-[408]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653265
-[409]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653360
-[410]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4324813
-[411]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4324835
-[412]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326144
-[413]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326147
-[414]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326152
-[415]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430983
-[416]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM431204
-[417]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM356880
-[418]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM358028
-[419]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM358552
-[420]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM967800
-[421]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM967843
-[422]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525700
-[423]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525730
-[424]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525888
-[425]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525891
-[426]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525895
-[427]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM79573
-[428]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM79589
-[429]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80001
-[430]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80008
-[431]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80010
-[432]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80042
-[433]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432115
-[434]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432422
-[435]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432467
-[436]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432483
-[437]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432642
-[438]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88540
-[439]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88987
-[440]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323433
-[441]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323560
-[442]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323563
-[443]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323567
-[444]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323673
-[445]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444310
-[446]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444453
-[447]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444479
-[448]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444605
-[449]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444607
-[450]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444610
-[451]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444612
-[452]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444617
-[453]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444621
-[454]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444626
-[455]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444632
-[456]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444920
-[457]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM231942
-[458]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233389
-[459]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233620
-[460]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233671
-[461]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2414712
-[462]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4888412
-[463]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321633
-[464]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321833
-[465]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321836
-[466]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321840
-[467]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5993413
-[468]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992958
-[469]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992961
-[470]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992965
-[471]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5993153
-[472]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381617
-[473]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381870
-[474]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381981
-[475]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381984
-[476]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381988
-[477]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132324
-[478]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132548
-[479]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132551
-[480]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132556
-[481]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155814
-[482]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155832
-[483]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155837
-[484]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155842
-[485]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM156185
-[486]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1630110
-[487]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732325
-[488]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732506
-[489]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732509
-[490]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732513
-[491]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732514
-[492]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1076132
-[493]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM78149
-[494]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3736235
-[495]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5189216
-[496]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM195287
-[497]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2626024
+[218]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306035
+[219]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306366
+[220]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306374
+[221]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM306387
+[222]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM307301
+[223]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM307339
+[224]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3387706
+[225]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3387780
+[226]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM355078
+[227]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM355829
+[228]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3653503
+[229]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3570826
+[230]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1378400
+[231]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1598414
+[232]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM87785
+[233]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88304
+[234]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM103609
+[235]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM103616
+[236]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM104690
+[237]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM106995
+[238]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM331118
+[239]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM426893
+[240]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM426899
+[241]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM427035
+[242]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM427082
+[243]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM98974
+[244]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM99782
+[245]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM385591
+[246]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3955410
+[247]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3955436
+[248]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM341225
+[249]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM52557
+[250]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM53176
+[251]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM53199
+[252]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM131393
+[253]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM133593
+[254]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4328900
+[255]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4328935
+[256]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329079
+[257]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329082
+[258]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329086
+[259]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4329165
+[260]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3213102
+[261]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3213405
+[262]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3597401
+[263]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3597413
+[264]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1037700
+[265]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1037734
+[266]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5322900
+[267]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5322936
+[268]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323119
+[269]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323122
+[270]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323126
+[271]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323261
+[272]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM110034
+[273]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM110049
+[274]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM36962
+[275]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM38521
+[276]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680401
+[277]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680507
+[278]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4680522
+[279]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359210
+[280]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359251
+[281]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359632
+[282]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359635
+[283]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359639
+[284]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429089
+[285]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429208
+[286]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429922
+[287]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM429924
+[288]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430048
+[289]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430050
+[290]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430054
+[291]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947000
+[292]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947035
+[293]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947221
+[294]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3947224
+[295]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359623
+[296]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM359695
+[297]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214200
+[298]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214410
+[299]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214646
+[300]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214649
+[301]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214653
+[302]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214654
+[303]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214801
+[304]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214813
+[305]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5214857
+[306]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274700
+[307]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274733
+[308]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274903
+[309]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274906
+[310]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274910
+[311]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3421509
+[312]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2274994
+[313]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM338760
+[314]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM338908
+[315]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339714
+[316]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339717
+[317]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM339720
+[318]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954600
+[319]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954635
+[320]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954883
+[321]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954886
+[322]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954890
+[323]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954891
+[324]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5955071
+[325]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5955139
+[326]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062601
+[327]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062637
+[328]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062813
+[329]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062816
+[330]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062820
+[331]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062821
+[332]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4062947
+[333]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3276800
+[334]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3276821
+[335]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277000
+[336]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277003
+[337]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3277007
+[338]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326600
+[339]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326634
+[340]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326800
+[341]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326803
+[342]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326807
+[343]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326924
+[344]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326936
+[345]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391105
+[346]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391132
+[347]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391754
+[348]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391757
+[349]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391761
+[350]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM391717
+[351]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562500
+[352]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562535
+[353]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562771
+[354]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562774
+[355]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562778
+[356]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562779
+[357]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3562811
+[358]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548700
+[359]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548740
+[360]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548985
+[361]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548988
+[362]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3548992
+[363]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3549057
+[364]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324100
+[365]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324154
+[366]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324297
+[367]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324300
+[368]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5324304
+[369]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992402
+[370]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992420
+[371]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992589
+[372]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992592
+[373]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992596
+[374]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992693
+[375]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM192292
+[376]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM192711
+[377]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193364
+[378]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193368
+[379]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM193375
+[380]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233714
+[381]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233730
+[382]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234264
+[383]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234268
+[384]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM234272
+[385]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953602
+[386]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953618
+[387]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953814
+[388]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953817
+[389]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953821
+[390]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5953822
+[391]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5954102
+[392]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM349701
+[393]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM349753
+[394]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM321317
+[395]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350219
+[396]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350222
+[397]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350225
+[398]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350552
+[399]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM350565
+[400]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2921817
+[401]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2922913
+[402]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4339901
+[403]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4339919
+[404]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340112
+[405]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340115
+[406]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4340119
+[407]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653000
+[408]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653032
+[409]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653258
+[410]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653261
+[411]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653265
+[412]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4653360
+[413]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4324813
+[414]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4324835
+[415]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326144
+[416]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326147
+[417]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4326152
+[418]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM430983
+[419]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM431204
+[420]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM356880
+[421]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM358028
+[422]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM358552
+[423]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM967800
+[424]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM967843
+[425]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525700
+[426]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525730
+[427]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525888
+[428]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525891
+[429]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1525895
+[430]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM79573
+[431]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM79589
+[432]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80001
+[433]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80008
+[434]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80010
+[435]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM80042
+[436]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432115
+[437]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432422
+[438]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432467
+[439]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432483
+[440]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM432642
+[441]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88540
+[442]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM88987
+[443]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323400
+[444]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323433
+[445]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323560
+[446]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323563
+[447]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323567
+[448]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5323673
+[449]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444310
+[450]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444453
+[451]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444479
+[452]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444605
+[453]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444607
+[454]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444610
+[455]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444612
+[456]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444617
+[457]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444621
+[458]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444626
+[459]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444632
+[460]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM444920
+[461]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM231942
+[462]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233389
+[463]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233620
+[464]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM233671
+[465]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2414712
+[466]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM39529
+[467]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4888412
+[468]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321600
+[469]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321633
+[470]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321833
+[471]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321836
+[472]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4321840
+[473]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992902
+[474]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5993413
+[475]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992958
+[476]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992961
+[477]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5992965
+[478]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5993153
+[479]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381397
+[480]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381617
+[481]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381870
+[482]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381981
+[483]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381984
+[484]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM381988
+[485]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132300
+[486]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132324
+[487]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132548
+[488]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132551
+[489]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1132556
+[490]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM154882
+[491]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155814
+[492]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155832
+[493]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155837
+[494]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM155842
+[495]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM156185
+[496]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1630000
+[497]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1630110
+[498]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732300
+[499]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732325
+[500]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732506
+[501]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732509
+[502]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732513
+[503]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM4732514
+[504]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1076033
+[505]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM1076132
+[506]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM78106
+[507]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM78149
+[508]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3736200
+[509]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM3736235
+[510]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5188880
+[511]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM5189216
+[512]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM195259
+[513]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM195287
+[514]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2626035
+[515]: http://www.legislation.govt.nz/act/public/2014/0026/latest/link.aspx?id=DLM2626024
