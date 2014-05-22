@@ -1,5 +1,5 @@
 Reprint  
-as at 30 April 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1372,7 +1372,7 @@ Exemptions and reliefs from gift duty
         
     *   (aa) any gift required by an order of a court under the [Law Reform (Testamentary Promises) Act 1949][188] or the [Family Protection Act 1955][189]:
     
-    *   (a) any gift to the New Zealand Historic Places Trust for the purposes of the [Historic Places Act 1993][190]:
+    *   (a) any gift to Heritage New Zealand Pouhere Taonga for the purposes of the [Heritage New Zealand Pouhere Taonga Act 2014][190]:
     
     *   (b) any gift of a protected New Zealand object, as defined in the [Protected Objects Act 1975][191], to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
     
@@ -1444,7 +1444,7 @@ Exemptions and reliefs from gift duty
     
     Section 73(2)(aa): inserted (with effect on 24 May 1999), on 7 September 2010, by [section 195(2)][213] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 73(2)(a): amended, on 1 July 1993, pursuant to [section 118(1)][214] of the Historic Places Act 1993 (1993 No 38).
+    Section 73(2)(a): replaced, on 20 May 2014, by [section 107][214] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 73(2)(b): amended, on 1 November 2006, by [section 35][215] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
@@ -3039,7 +3039,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][218]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][214]
+    
+    Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][218]
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][235]
     
@@ -3102,8 +3104,6 @@ _Amendment(s) incorporated in the Act(s)._
     Estate and Gift Duties Amendment Act 1994 (1994 No 78)
     
     [Estate and Gift Duties Amendment Act 1993][293] (1993 No 132)
-    
-    Historic Places Act 1993 (1993 No 38): [section 118(1)][214]
     
     Estate and Gift Duties Amendment Act (No 2) 1992 (1992 No 117)
     
@@ -3351,7 +3351,7 @@ _Amendment(s) incorporated in the Act(s)._
 [187]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66552
 [188]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM258703
 [189]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM291745
-[190]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM300510
+[190]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM4005402
 [191]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM432115
 [192]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM260203
 [193]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3007300
@@ -3375,7 +3375,7 @@ _Amendment(s) incorporated in the Act(s)._
 [211]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM1328111
 [212]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM345515
 [213]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2546451
-[214]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM301645
+[214]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM4005646
 [215]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM376605
 [216]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM432533
 [217]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM260276
