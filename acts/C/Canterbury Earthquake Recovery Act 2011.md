@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1449,7 +1449,7 @@ Functions and powers to assist recovery and rebuilding
     
     *   (g) the [Health and Disability Services (Safety) Act 2001][197]:
     
-    *   (h) the [Historic Places Act 1993][198]:
+    *   (h) the [Heritage New Zealand Pouhere Taonga Act 2014][198]:
     
     *   (i) the [Land Transport Act 1998][199]:
     
@@ -1523,13 +1523,15 @@ Functions and powers to assist recovery and rebuilding
     
     (7) Subsections (2) to (5) do not limit subsection (1).
     
-    Section 71(3)(s): replaced, on 1 August 2012, by [section 94][214] of the Road User Charges Act 2012 (2012 No 1).
+    Section 71(3)(h): amended, on 20 May 2014, by [section 107][214] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 71(3)(s): replaced, on 1 August 2012, by [section 94][215] of the Road User Charges Act 2012 (2012 No 1).
 
 #### Canterbury Earthquake Recovery Review Panel
 
 ##### 72 Canterbury Earthquake Recovery Review Panel
     
-*   (1) The Minister must appoint a Canterbury Earthquake Recovery Review Panel of 4 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][215] of the Lawyers and Conveyancers Act 2006).
+*   (1) The Minister must appoint a Canterbury Earthquake Recovery Review Panel of 4 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][216] of the Lawyers and Conveyancers Act 2006).
     
     (2) A member of the Canterbury Earthquake Recovery Review Panel must be appointed by notice of appointment in writing that---
         
@@ -1595,11 +1597,11 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 76 Application of Legislation Act 2012
     
-*   (1) Despite [section 75(5)][94], an Order in Council made under [section 71][89] is a disallowable instrument for the purposes of the [Legislation Act 2012][216].
+*   (1) Despite [section 75(5)][94], an Order in Council made under [section 71][89] is a disallowable instrument for the purposes of the [Legislation Act 2012][217].
     
-    (2) An Order in Council made under [section 71][89] is also a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under [section 41][217] of that Act.
+    (2) An Order in Council made under [section 71][89] is also a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under [section 41][218] of that Act.
     
-    Section 76: replaced, on 5 August 2013, by [section 77(3)][218] of the Legislation Act 2012 (2012 No 119).
+    Section 76: replaced, on 5 August 2013, by [section 77(3)][219] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 8---Miscellaneous provisions
 
@@ -1733,7 +1735,7 @@ Functions and powers to assist recovery and rebuilding
     
     (3) The repeal of that Act does not affect any act, decision, or thing done under that Act or done under any Order in Council made under that Act, and those acts, decisions, or things are validated.
     
-    (4) Despite the repeal of that Act, [section 19][219] of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
+    (4) Despite the repeal of that Act, [section 19][220] of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
 
 ##### 90 Orders in Council amended
     
@@ -1741,9 +1743,9 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 91 Commission dissolved
     
-*   (1) The Canterbury Earthquake Recovery Commission established by [section 9][220] of the Canterbury Earthquake Response and Recovery Act 2010 is dissolved.
+*   (1) The Canterbury Earthquake Recovery Commission established by [section 9][221] of the Canterbury Earthquake Response and Recovery Act 2010 is dissolved.
     
-    (2) Despite the repeal of that Act by [section 89][111], [section 18][221] of that Act is deemed to continue to apply to acts done or omitted by any commissioner in good faith in the performance or intended performance of his or her functions, responsibilities, or duties as a commissioner, or in the exercise or intended exercise of his or her powers as a commissioner.
+    (2) Despite the repeal of that Act by [section 89][111], [section 18][222] of that Act is deemed to continue to apply to acts done or omitted by any commissioner in good faith in the performance or intended performance of his or her functions, responsibilities, or duties as a commissioner, or in the exercise or intended exercise of his or her powers as a commissioner.
 
 ##### 92 Annual reviews of Act
     
@@ -1814,9 +1816,9 @@ Orders in Council amended
 
 ##### Canterbury Earthquake (Cadastral Survey Act) Order 2010 (SR 2010/467)
 
-[Clause 3][222]: omit ""16 December 2011"" and substitute ""31 December 2012"".
+[Clause 3][223]: omit ""16 December 2011"" and substitute ""31 December 2012"".
 
-[Clause 5][223]: add:
+[Clause 5][224]: add:
 
 > *   "(4) Rules made under this clause have effect while this order is in force."
 > 
@@ -1824,23 +1826,23 @@ Orders in Council amended
 
 ##### Canterbury Earthquake (Historic Places Act) Order 2010 (SR 2010/333)
 
-[Clause 3][224]: omit ""close of 31 March 2011"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+[Clause 3][225]: omit ""close of 31 March 2011"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
 ##### Canterbury Earthquake (Local Government Act 2002) Order 2010 (SR 2010/317)
 
-[Clause 3][225]: omit ""30 June 2011"" and substitute ""31 December 2011"".
+[Clause 3][226]: omit ""30 June 2011"" and substitute ""31 December 2011"".
 
 ##### Canterbury Earthquake (Resource Management Act) Order 2010 (SR 2010/318)
 
-[Clause 3][226]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+[Clause 3][227]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
 ##### Canterbury Earthquake (Resource Management Act) Order 2011 (SR 2011/34)
 
-[Clause 3][227]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+[Clause 3][228]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
 ##### Canterbury Earthquake (Resource Management Act Permitted Activities) Order 2011 (SR 2011/36)
 
-[Clause 3][228]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+[Clause 3][229]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
 #### 
 
@@ -1854,19 +1856,21 @@ Orders in Council amended
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][229] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][230] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][230] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][231] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][231] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][232] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][232] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][233] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][155]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][214]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][218]
+    Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][155]
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][214]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][219]
+    
+    Road User Charges Act 2012 (2012 No 1): [section 94][215]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][173]
     
@@ -2072,7 +2076,7 @@ Orders in Council amended
 [195]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305967
 [196]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305839
 [197]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM119974
-[198]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM300510
+[198]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM4005402
 [199]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM433612
 [200]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM415531
 [201]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM122241
@@ -2088,22 +2092,23 @@ Orders in Council amended
 [211]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM307518
 [212]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM408329
 [213]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM224791
-[214]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3395080
-[215]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM364948
-[216]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2997643
-[217]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998573
-[218]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998633
-[219]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233049
-[220]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233039
-[221]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233048
-[222]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424217
-[223]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424205
-[224]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256380
-[225]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240823
-[226]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240406
-[227]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588906
-[228]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587806
-[229]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998516
-[230]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998515
-[231]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998532
-[232]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[214]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM4005646
+[215]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3395080
+[216]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM364948
+[217]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2997643
+[218]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998573
+[219]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998633
+[220]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233049
+[221]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233039
+[222]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233048
+[223]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424217
+[224]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424205
+[225]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256380
+[226]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240823
+[227]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240406
+[228]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588906
+[229]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587806
+[230]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998516
+[231]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998515
+[232]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM2998532
+[233]: http://www.pco.parliament.govt.nz/editorial-conventions/
