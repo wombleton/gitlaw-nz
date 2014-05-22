@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencement23 June 1998
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -469,7 +469,7 @@ An Act---
         
     *   (a) easement under [section 12][163] of the Reserves Act 1977, [section 7(2)][164] of the Conservation Act 1987, or [sections 26 to 29][165] of the Walking Access Act 2008; or
     
-    *   (b) covenant under [section 22][166] of the Queen Elizabeth the Second National Trust Act 1977, [section 77][167] of the Reserves Act 1977, [section 27][168] of the Conservation Act 1987, or [section 6][169] of the Historic Places Act 1993; or
+    *   (b) covenant under [section 22][166] of the Queen Elizabeth the Second National Trust Act 1977, [section 77][167] of the Reserves Act 1977, [section 27][168] of the Conservation Act 1987, or [section 39][169] of the Heritage New Zealand Pouhere Taonga Act 2014; or
     
     *   (c) sustainable management covenant
     
@@ -569,6 +569,8 @@ An Act---
     
     Section 2 **protective mechanism** paragraph (a): amended, on 30 September 2008, by [section 82][178] of the Walking Access Act 2008 (2008 No 101).
     
+    Section 2 **protective mechanism** paragraph (b): amended, on 20 May 2014, by [section 107][179] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
     Section 2 **rent review date**: inserted, on 6 July 2012, by [section 4(1)][177] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
     
     Section 2 **rental value**: repealed, on 6 July 2012, by [section 4(2)][177] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
@@ -577,7 +579,7 @@ An Act---
     
     Section 2 **Valuer-General**: inserted, on 6 July 2012, by [section 4(1)][177] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
     
-    Section 2 **working day**: replaced, on 1 January 2014, by [section 8][179] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 2 **working day**: replaced, on 1 January 2014, by [section 8][180] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Act binds the Crown
     
@@ -612,19 +614,19 @@ Pastoral leases and occupation licences
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 6 July 2012, by [section 5][180] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 6: repealed, on 6 July 2012, by [section 5][181] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 7 Special provisions relating to calculation of rent payable for first 11 years of pastoral lease granted after 29 November 1979
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 6 July 2012, by [section 5][180] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 7: repealed, on 6 July 2012, by [section 5][181] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 8 Calculation of rent payable under pastoral leases after first 11 years
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 6 July 2012, by [section 5][180] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 8: repealed, on 6 July 2012, by [section 5][181] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 9 Stock limitations
     
@@ -668,7 +670,7 @@ Pastoral leases and occupation licences
             
         *   (i) all the land comprised in that lease had been reclassified as farm land; and
         
-        *   (ii) the former Land Settlement Board, the Department of Lands, or the Commissioner had agreed to issue a renewable lease to the holder under [section 126A][181] of the Land Act 1948, in exchange for the pastoral lease; and
+        *   (ii) the former Land Settlement Board, the Department of Lands, or the Commissioner had agreed to issue a renewable lease to the holder under [section 126A][182] of the Land Act 1948, in exchange for the pastoral lease; and
         
         *   (iii) no renewable lease had in fact been issued; and
         
@@ -676,13 +678,13 @@ Pastoral leases and occupation licences
     
     *   (c) since it was vested the holder has (or successive holders have) been paying rent as if the land were held on renewable lease,---
     
-    the Commissioner may under the [Land Act 1948][182], with the consent of the State enterprise concerned, grant a renewable lease to the holder (or the holder's successor) to the same extent, and in the same manner, as if the land had not been vested and [section 126A][181] were still in force.
+    the Commissioner may under the [Land Act 1948][183], with the consent of the State enterprise concerned, grant a renewable lease to the holder (or the holder's successor) to the same extent, and in the same manner, as if the land had not been vested and [section 126A][182] were still in force.
     
     (2) If a renewable lease is granted under subsection (1),---
         
-    *   (a) it is deemed to have been granted under [section 126A][181] of the Land Act 1948 immediately before the land comprised in it was vested in the State enterprise concerned; and
+    *   (a) it is deemed to have been granted under [section 126A][182] of the Land Act 1948 immediately before the land comprised in it was vested in the State enterprise concerned; and
     
-    *   (b) the [Land Act 1948][182] is deemed to have applied, and continues to apply, to it accordingly; and
+    *   (b) the [Land Act 1948][183] is deemed to have applied, and continues to apply, to it accordingly; and
     
     *   (c) every transfer of or other dealing with or action affecting the pastoral lease in exchange for which it has been granted occurring after the agreement to grant a renewable lease in exchange for it is deemed to have had effect as a transfer of or other dealing with or action affecting it.
     
@@ -746,11 +748,11 @@ Pastoral leases and occupation licences
     
     *   (b) otherwise than in accordance with any condition, direction, or restriction subject to which the Commissioner gave prior written consent.
     
-    (2) Notwithstanding subsection (1), the Commissioner may for the purposes of this section enter into any agreement under [section 14(2)][183] of the Forest and Rural Fires Act 1977\.
+    (2) Notwithstanding subsection (1), the Commissioner may for the purposes of this section enter into any agreement under [section 14(2)][184] of the Forest and Rural Fires Act 1977\.
     
     (3) In this section, _vegetation_ does not include timber.
     
-    Compare: 1948 No 64 [s 106][184]
+    Compare: 1948 No 64 [s 106][185]
 
 ##### 16 Activities affecting or disturbing soil
     
@@ -804,19 +806,19 @@ Pastoral leases and occupation licences
     
     (5) For the purposes of subsection (1) (but not subsection (3)),---
         
-    *   (a) every consent given under [section 106][184] or [section 108][185] of the Land Act 1948 has effect according to its tenor as if it were consent given under this section; and
+    *   (a) every consent given under [section 106][185] or [section 108][186] of the Land Act 1948 has effect according to its tenor as if it were consent given under this section; and
     
-    *   (b) in the case of a consent given under [section 108][185] of the Land Act 1948, subsection (4) has effect accordingly.
+    *   (b) in the case of a consent given under [section 108][186] of the Land Act 1948, subsection (4) has effect accordingly.
     
     (6) Subsection (1) does not forbid or prevent the doing of any thing authorised---
         
-    *   (a) by or under the [Public Works Act 1981][186] or the [Crown Minerals Act 1991][187]; or
+    *   (a) by or under the [Public Works Act 1981][187] or the [Crown Minerals Act 1991][188]; or
     
     *   (b) under the Mining Act 1971\.
     
-    (7) Nothing in this section limits or affects the application or effect of [section 100][188] of the Land Act 1948\.
+    (7) Nothing in this section limits or affects the application or effect of [section 100][189] of the Land Act 1948\.
     
-    Compare: 1948 No 64 [s 108][185]
+    Compare: 1948 No 64 [s 108][186]
 
 ##### 17 Permission under other enactments still needed
     
@@ -836,9 +838,9 @@ Pastoral leases and occupation licences
     
     (3) The actions are---
         
-    *   (a) determining whether to act under [section 60(1)][189], [section 66A(1)][190], or [section 100][188] of the Land Act 1948 in relation to any pastoral land; and
+    *   (a) determining whether to act under [section 60(1)][190], [section 66A(1)][191], or [section 100][189] of the Land Act 1948 in relation to any pastoral land; and
     
-    *   (b) exercising any discretion under [section 66A][190] of that Act, or [section 15][20] or [section 16][21] of this Act, in relation to any pastoral land; and
+    *   (b) exercising any discretion under [section 66A][191] of that Act, or [section 15][20] or [section 16][21] of this Act, in relation to any pastoral land; and
     
     *   (c) considering whether to grant, vary, or revoke an exemption from any stock limitation.
     
@@ -880,29 +882,29 @@ Pastoral leases and occupation licences
     
     *   (b) has an adequate opportunity to appear and be heard in relation to it.
     
-    (4) [Sections 244 to 257][191] of the Property Law Act 2007 is not available in respect of a forfeiture under subsection (2)(c) of this section.
+    (4) [Sections 244 to 257][192] of the Property Law Act 2007 is not available in respect of a forfeiture under subsection (2)(c) of this section.
     
-    (5) [Section 105][192] of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
+    (5) [Section 105][193] of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
     
     (6) In this section, _breach_, in relation to a reviewable instrument, means an action (or failure or refusal to act) by the holder that is---
         
-    *   (a) in contravention of [section 100][188] of the Land Act 1948 or [section 15(1)][20] or [section 16(1)][21] of this Act, in its application to the land; or
+    *   (a) in contravention of [section 100][189] of the Land Act 1948 or [section 15(1)][20] or [section 16(1)][21] of this Act, in its application to the land; or
     
     *   (b) in contravention of any provision of or covenant contained in the instrument.
     
-    Section 19(4): amended, on 1 January 2008, by [section 364(1)][193] of the Property Law Act 2007 (2007 No 91).
+    Section 19(4): amended, on 1 January 2008, by [section 364(1)][194] of the Property Law Act 2007 (2007 No 91).
 
 ##### 20 Boundary disputes
     
 *   Every dispute between the holders of adjacent pastoral land as to the boundary between them must be determined by the Commissioner or a person appointed by the Commissioner for the purpose.
     
-    Compare: 1948 No 64 [s 107(1)][194]
+    Compare: 1948 No 64 [s 107(1)][195]
 
 ##### 21 Boundary adjustments
     
 *   For the purpose of securing more suitable boundaries of pastoral land held under lease or licence, the Commissioner may, as from a specified day, exclude part of it from the lease or licence and include it in some other lease or licence; and in that case the Commissioner may make any adjustments in rents payable that the Commissioner thinks just and equitable.
     
-    Compare: 1948 No 64 [s 107(2)][194]
+    Compare: 1948 No 64 [s 107(2)][195]
 
 ##### 22 Travelling stock
     
@@ -914,7 +916,7 @@ Pastoral leases and occupation licences
     
     on any unfenced and uncultivated pastoral land (whether let on licence or not).
     
-    Compare: 1948 No 64 [s 110][195]
+    Compare: 1948 No 64 [s 110][196]
 
 #### Application of Land Act 1948
 
@@ -925,7 +927,7 @@ Pastoral leases and occupation licences
 ## Part 1A  
 Setting rents for pastoral leases
     
-*   Part 1A: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+*   Part 1A: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23A Purpose of this Part
     
@@ -961,7 +963,7 @@ Setting rents for pastoral leases
     
     *   (c) provides for a dispute resolution system to facilitate early agreement between the Crown and lessees on the base carrying capacity and the current carrying capacity.
     
-    Section 23A: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23A: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23B Formula for calculating annual rents for pastoral leases
     
@@ -1003,7 +1005,7 @@ Setting rents for pastoral leases
     > 
     > is the base carrying capacity of the pastoral lease as determined under this Part and any regulations or rules made under this Part.
     
-    Section 23B: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23B: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23C Commissioner to appoint Crown assessors to determine carrying capacities of pastoral leases
     
@@ -1025,7 +1027,7 @@ Setting rents for pastoral leases
     
     (5) Despite anything in this section, the periods specified in subsections (1) and (3) may be varied by written agreement between the Commissioner and the lessee.
     
-    Section 23C: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23C: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23D Initial assessment of carrying capacity by Crown assessors
     
@@ -1065,7 +1067,7 @@ Setting rents for pastoral leases
     
     *   (b) rejecting the Crown assessor's initial assessment.
     
-    Section 23D: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23D: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23E Process if lessee accepts, or fails to respond to, initial assessment
     
@@ -1087,7 +1089,7 @@ Setting rents for pastoral leases
         
         
     
-    Section 23E: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23E: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23F Framework for dispute resolution if lessee rejects initial assessment
     
@@ -1117,7 +1119,7 @@ Setting rents for pastoral leases
     
     *   (b) give written notice of the resolution hearing to the lessee, the lessee's assessor, and the Crown assessor as soon as practicable but at least 10 working days before the date of the resolution hearing.
     
-    Section 23F: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23F: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23G Duties of parties during dispute resolution before resolution hearing
     
@@ -1161,7 +1163,7 @@ Setting rents for pastoral leases
     
     (4) Despite subsection (3), the information required to be given by a Crown assessor under subsection (1)(c) and by a lessee's assessor under subsection (1)(d) must be provided in writing in accordance with any regulations or rules made under this Part by the date that is 5 working days after the meeting referred to in [section 23F(3)][36].
     
-    Section 23G: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23G: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23H Resolution hearing
     
@@ -1179,7 +1181,7 @@ Setting rents for pastoral leases
     
     (3) The expert determiner may establish any procedures for the resolution hearing, but the procedures must be consistent with any regulations or rules made under this Part.
     
-    (4) The [Arbitration Act 1996][197] does not apply to the resolution hearing, but the expert determiner may apply any provision of that Act to a resolution hearing in any procedures that the expert determiner may establish.
+    (4) The [Arbitration Act 1996][198] does not apply to the resolution hearing, but the expert determiner may apply any provision of that Act to a resolution hearing in any procedures that the expert determiner may establish.
     
     (5) The expert determiner may make an award of costs that complies with subsection (6) and any regulations or rules made under this Part.
     
@@ -1199,7 +1201,7 @@ Setting rents for pastoral leases
     
     *   (c) taken a position or pursued an argument that lacks merit, including (but not limited to) refusing to accept facts that should have been accepted.
     
-    Section 23H: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23H: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23I Recording and noting carrying capacities
     
@@ -1237,7 +1239,7 @@ Setting rents for pastoral leases
     
     (7) If the Registrar-General of Land receives advice under subsection (6), the Registrar-General of Land must, on any relevant computer register, note a memorial that specifies the base carrying capacity of the pastoral lease.
     
-    Section 23I: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23I: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23J Appeals on questions of law
     
@@ -1253,7 +1255,7 @@ Setting rents for pastoral leases
     
     *   (c) make any other order in relation to the matter that the High Court thinks fit.
     
-    Section 23J: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23J: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23K Exclusion from liability
     
@@ -1263,7 +1265,7 @@ Setting rents for pastoral leases
     
     *   (b) the exercise or intended exercise of a power under this Part or any regulations or rules made under this Part.
     
-    Section 23K: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23K: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23L Functions, duties, and powers of Valuer-General
     
@@ -1313,17 +1315,17 @@ Setting rents for pastoral leases
     
     *   (b) have regard to the purpose of this Part.
     
-    Section 23L: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23L: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23M Delegation of Valuer-General's functions, duties, and powers
     
-*   The Valuer-General may, in accordance with [section 41][198] of the State Sector Act 1988, delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,---
+*   The Valuer-General may, in accordance with [section 41][199] of the State Sector Act 1988, delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,---
         
     *   (a) any function, duty, or power conferred on the Valuer-General by this Act (other than the power to make rules under [section 23O][45]) or any other enactment:
     
     *   (b) any function, duty, or power delegated to the Valuer-General by any Minister of the Crown (other than a power that is subject to a delegation that provides that the power may not be delegated).
     
-    Section 23M: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23M: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23N Regulation-making power
     
@@ -1351,7 +1353,7 @@ Setting rents for pastoral leases
     
     *   (d) provide for the matters that are contemplated by or necessary for giving effect to this Part and for its due administration.
     
-    Section 23N: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23N: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23O Rule-making power
     
@@ -1443,13 +1445,13 @@ Setting rents for pastoral leases
     
     *   (d) consult persons who the Valuer-General considers represent the lessees of pastoral leases and the Valuer-General considers appropriate, having regard in each case to the content and effect of the proposed rules.
     
-    (4) A rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][199].
+    (4) A rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][200].
     
     (5) In the event of any conflict between any regulation made under [section 23N][44] and any rule made under subsection (1), the regulation prevails.
     
-    Section 23O: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23O: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
     
-    Section 23O(4): replaced, on 5 August 2013, by [section 77(3)][200] of the Legislation Act 2012 (2012 No 119).
+    Section 23O(4): replaced, on 5 August 2013, by [section 77(3)][201] of the Legislation Act 2012 (2012 No 119).
 
 ##### 23P Valuer-General may designate individuals eligible to be appointed as assessors and expert determiners
     
@@ -1489,7 +1491,7 @@ Setting rents for pastoral leases
     
     (6) Before exercising the power to designate an individual as eligible to be appointed as an expert determiner, the Valuer-General must consult persons and organisations that the Valuer-General considers represent lessees of pastoral leases.
     
-    Section 23P: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23P: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ##### 23Q Service of notices
     
@@ -1513,7 +1515,7 @@ Setting rents for pastoral leases
     
     (7) This section does not apply to notices or other documents served or given in any proceedings in any court.
     
-    Section 23Q: inserted, on 6 July 2012, by [section 6][196] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
+    Section 23Q: inserted, on 6 July 2012, by [section 6][197] of the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012 (2012 No 36).
 
 ## Part 2  
 Tenure reviews
@@ -1556,7 +1558,7 @@ Tenure reviews
         
     *   (a) the objects of this Part; and
     
-    *   (b) the principles of the [Treaty of Waitangi][201]; and
+    *   (b) the principles of the [Treaty of Waitangi][202]; and
     
     *   (c) if acting in relation to land used or intended to be used by the Crown for any particular purpose, that purpose.
     
@@ -1678,7 +1680,7 @@ Tenure reviews
         
         *   (iii) for some specified Crown purpose; or
         
-        *   (iv) under the [Land Act 1948][182]; or
+        *   (iv) under the [Land Act 1948][183]; or
         
         
     
@@ -1702,7 +1704,7 @@ Tenure reviews
     
     *   (e) the continuation in force of an existing grazing permit.
     
-    (2) If land to which [section 35][63] applies will be marginal strip, a preliminary proposal may designate it as land to be restored to or retained in Crown control as conservation area, subject to the appointment as manager under [section 24H(1)][202] of the Conservation Act 1987 of a person specified in the proposal.
+    (2) If land to which [section 35][63] applies will be marginal strip, a preliminary proposal may designate it as land to be restored to or retained in Crown control as conservation area, subject to the appointment as manager under [section 24H(1)][203] of the Conservation Act 1987 of a person specified in the proposal.
     
     (3) A preliminary proposal designating land to which [section 35][63] applies may designate it subject to any or all of the following things:
         
@@ -1724,7 +1726,7 @@ Tenure reviews
     
     *   (c) land to be disposed of by way of exchange with other land designated by the proposal, under the [Conservation Act 1987][175].
     
-    (2) If it is marginal strip, a preliminary proposal may designate all or any part of any conservation area as land to remain conservation area, subject to the appointment of a specified person as manager under [section 24H(1)][202] of the Conservation Act 1987\.
+    (2) If it is marginal strip, a preliminary proposal may designate all or any part of any conservation area as land to remain conservation area, subject to the appointment of a specified person as manager under [section 24H(1)][203] of the Conservation Act 1987\.
 
 ##### 38 Designation of reserves
     
@@ -1754,7 +1756,7 @@ Tenure reviews
     
     *   (f) relevant information about the proposed grantee, including information relevant to the grantee's ability to carry out each proposed activity.
     
-    Compare: 1987 No 65 [s 17S(1)][203]
+    Compare: 1987 No 65 [s 17S(1)][204]
 
 ##### 40 Protective mechanisms
     
@@ -1786,7 +1788,9 @@ Tenure reviews
     
     *   (b) the local authority or other body has not given its prior written consent to the designation.
     
-    (5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under [section 6][169] of the Historic Places Act 1993 without the prior written consent of the New Zealand Historic Places Trust.
+    (5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under [section 39][169] of the Heritage New Zealand Pouhere Taonga Act 2014 without the prior written consent of Heritage New Zealand Pouhere Taonga.
+    
+    Section 40(5): amended, on 20 May 2014, by [section 107][179] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 41 Provisional consent of Minister of Conservation needed for some designations
     
@@ -1798,7 +1802,7 @@ Tenure reviews
     
     *   (c) designate any conservation area as land to be disposed of by way of exchange:
     
-    *   (d) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under [section 24H(1)][202] of the Conservation Act 1987:
+    *   (d) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under [section 24H(1)][203] of the Conservation Act 1987:
     
     *   (e) designate any reserve as land to be disposed of by way of exchange:
     
@@ -1840,7 +1844,7 @@ Tenure reviews
     
 *   The Commissioner must---
         
-    *   (a) have a copy of every notice under [section 43][71] given to the iwi authority (within the meaning of the [Resource Management Act 1991][204]) of the area where the land concerned is situated; and
+    *   (a) have a copy of every notice under [section 43][71] given to the iwi authority (within the meaning of the [Resource Management Act 1991][205]) of the area where the land concerned is situated; and
     
     *   (b) consult the authority on the proposal.
     
@@ -1862,7 +1866,7 @@ Tenure reviews
     
     *   (b) give the Minister of Conservation copies of all those submissions.
     
-    Compare: 1977 No 66 [s 120(1)(e)][205]
+    Compare: 1977 No 66 [s 120(1)(e)][206]
 
 #### Substantive proposals
 
@@ -1920,7 +1924,7 @@ Tenure reviews
     
     if the Minister considers that a lease, licence, or permit is more appropriate in that case.
     
-    Compare: 1987 No 65 [s 17Q][206]
+    Compare: 1987 No 65 [s 17Q][207]
 
 ##### 50 No consent if inadequate information provided
     
@@ -1936,7 +1940,7 @@ Tenure reviews
     
     the Minister of Conservation must refuse consent to it unless the Commissioner has given the Minister sufficient information to satisfy the Minister, in terms of [section 51][81], that it is both appropriate to grant the concession and lawful to grant it.
     
-    Compare: 1987 No 65 [s 17S(2)][203]
+    Compare: 1987 No 65 [s 17S(2)][204]
 
 ##### 51 Matters to be considered
     
@@ -1954,7 +1958,7 @@ Tenure reviews
     
     *   (e) any relevant matters contained in the information sent to the Minister under [section 45(b)][73] in relation to the preliminary proposal concerned:
     
-    *   (f) any relevant information that may be withheld from any person in accordance with the [Official Information Act 1982][207] or the [Privacy Act 1993][208].
+    *   (f) any relevant information that may be withheld from any person in accordance with the [Official Information Act 1982][208] or the [Privacy Act 1993][209].
     
     (3) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation if the Minister considers that---
         
@@ -2004,13 +2008,13 @@ Tenure reviews
     
     (8) For the purposes of subsection (7), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
     
-    Compare: 1987 No 65 [s 17U][209]
+    Compare: 1987 No 65 [s 17U][210]
 
 ##### 52 Proposed concessions over marginal strip
     
-*   (1) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip in any case if satisfied that it is more appropriate in that case to enter into an agreement or arrangement under [section 24H][202] of the Conservation Act 1987\.
+*   (1) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip in any case if satisfied that it is more appropriate in that case to enter into an agreement or arrangement under [section 24H][203] of the Conservation Act 1987\.
     
-    (2) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip if the concession would authorise the owner of adjoining land to use the marginal strip for farming purposes or forestry purposes or any purpose associated with or incidental to any farming or forestry carried out on the adjoining land is to be granted; but nothing in the preceding provisions of this subsection limits or affects [section 24H][202] of the Conservation Act 1987\.
+    (2) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip if the concession would authorise the owner of adjoining land to use the marginal strip for farming purposes or forestry purposes or any purpose associated with or incidental to any farming or forestry carried out on the adjoining land is to be granted; but nothing in the preceding provisions of this subsection limits or affects [section 24H][203] of the Conservation Act 1987\.
     
     (3) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip if the concession is a lease (other than a lease that formalises an occupation of the land that existed before 10 April 1990), and the Minister is not satisfied that---
         
@@ -2020,13 +2024,13 @@ Tenure reviews
     
     *   (c) the land and facilities to which the lease relates are essential to the carrying out of those activities.
     
-    Compare: 1987 No 65 [s 17V][210]
+    Compare: 1987 No 65 [s 17V][211]
 
 ##### 53 Conditions generally
     
-*   The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if not satisfied that the concession concerned will be granted subject to conditions appropriate for any proposed activity or facility, including (but not limited to) conditions relating to or providing for any of the matters referred to in [section 17X][211] (except for paragraph (c)) of the Conservation Act 1987\.
+*   The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if not satisfied that the concession concerned will be granted subject to conditions appropriate for any proposed activity or facility, including (but not limited to) conditions relating to or providing for any of the matters referred to in [section 17X][212] (except for paragraph (c)) of the Conservation Act 1987\.
     
-    Compare: 1987 No 65 [s 17X][211]
+    Compare: 1987 No 65 [s 17X][212]
 
 ##### 54 Rents, fees, and royalties
     
@@ -2038,9 +2042,9 @@ Tenure reviews
     
     *   (c) the condition that the rent, fees, and royalties for the concession must be reviewed at intervals not exceeding 3 years.
     
-    (2) The rent, fee, or royalty may be fixed at the market value, having regard to the matters referred to in [section 17Y(2)][212] of the Conservation Act 1987\.
+    (2) The rent, fee, or royalty may be fixed at the market value, having regard to the matters referred to in [section 17Y(2)][213] of the Conservation Act 1987\.
     
-    Compare: 1987 No 65 [s 17Y][212]
+    Compare: 1987 No 65 [s 17Y][213]
 
 ##### 55 Term
     
@@ -2068,15 +2072,15 @@ Tenure reviews
     
     *   (b) the term for which it is to be granted exceeds 30 years, and the Minister is not satisfied that there are exceptional circumstances.
     
-    Compare: 1987 No 65 [s 17Z][213]
+    Compare: 1987 No 65 [s 17Z][214]
 
 #### Duty of Minister of Conservation in relation to proposed exchanges of conservation area
 
 ##### 56 Consent of Minister of Conservation needed for proposed exchanges of conservation area
     
-*   A substantive proposal must not designate any conservation area as land to be disposed of by way of exchange under the [Conservation Act 1987][175] without the prior written consent of the Minister of Conservation; and the Minister must not give consent unless satisfied, after consultation with the local Conservation Board (established under [section 6L][214] of that Act), that the exchange will enhance the natural and historic resources of land managed by the Department of Conservation for conservation purposes and promote the purposes of that Act.
+*   A substantive proposal must not designate any conservation area as land to be disposed of by way of exchange under the [Conservation Act 1987][175] without the prior written consent of the Minister of Conservation; and the Minister must not give consent unless satisfied, after consultation with the local Conservation Board (established under [section 6L][215] of that Act), that the exchange will enhance the natural and historic resources of land managed by the Department of Conservation for conservation purposes and promote the purposes of that Act.
     
-    Compare: 1987 No 65 [s 16A][215]
+    Compare: 1987 No 65 [s 16A][216]
 
 #### Proposal to appoint manager of marginal strip
 
@@ -2084,9 +2088,9 @@ Tenure reviews
     
 *   Without the prior written consent of the Minister of Conservation, a substantive proposal must not---
         
-    *   (a) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under [section 24H(1)][202] of the Conservation Act 1987:
+    *   (a) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under [section 24H(1)][203] of the Conservation Act 1987:
     
-    *   (b) designate any land to which [section 35][63] applies as land to be restored to or retained in Crown ownership as conservation area, subject to the appointment of any person as manager under [section 24H(1)][202] of the Conservation Act 1987\.
+    *   (b) designate any land to which [section 35][63] applies as land to be restored to or retained in Crown ownership as conservation area, subject to the appointment of any person as manager under [section 24H(1)][203] of the Conservation Act 1987\.
     
     
 
@@ -2096,7 +2100,7 @@ Tenure reviews
     
 *   (1) A substantive proposal must not designate any reserve as land to be disposed of by way of exchange under the [Reserves Act 1977][174] without the prior written consent of the Minister; and if the reserve has an administering body (within the meaning of that Act), the Minister may not give consent except pursuant to a resolution of that body requesting the exchange.
     
-    (2) A substantive proposal must not designate any reserve that is or is part of a recreation reserve as land to be granted by lease under [section 73][152] of the Reserves Act 1977 without the prior written consent of the Minister of Conservation; and the Minister may not give consent except if it is not for the time being required for the purpose for which it was classified, or if the Minister considers it in the public interest, or if the Minister has decided under [section 53(1)(a)(ii)][216] of that Act that it is necessary or desirable to farm, graze, or afforest the reserve.
+    (2) A substantive proposal must not designate any reserve that is or is part of a recreation reserve as land to be granted by lease under [section 73][152] of the Reserves Act 1977 without the prior written consent of the Minister of Conservation; and the Minister may not give consent except if it is not for the time being required for the purpose for which it was classified, or if the Minister considers it in the public interest, or if the Minister has decided under [section 53(1)(a)(ii)][217] of that Act that it is necessary or desirable to farm, graze, or afforest the reserve.
     
     Compare: 1977 No 66 [s 73][152]
 
@@ -2112,7 +2116,7 @@ Tenure reviews
     
     *   (b) a covenant under [section 77][167] of the Reserves Act 1977 or [section 27][168] of the Conservation Act 1987\.
     
-    (2) Without the prior written consent of the New Zealand Walking Access Commission (established by [section 6][217] of the Walking Access Act 2008), a substantive proposal may not designate any land as land to be disposed of subject to the creation of an easement under [sections 26 to 29][165] of the Walking Access Act 2008\.
+    (2) Without the prior written consent of the New Zealand Walking Access Commission (established by [section 6][218] of the Walking Access Act 2008), a substantive proposal may not designate any land as land to be disposed of subject to the creation of an easement under [sections 26 to 29][165] of the Walking Access Act 2008\.
     
     Section 59 heading: amended, on 30 September 2008, by [section 82][178] of the Walking Access Act 2008 (2008 No 101).
     
@@ -2146,7 +2150,7 @@ Tenure reviews
         
     *   (a) any person has accepted a substantive proposal; and
     
-    *   (b) that proposal relates to land held in fee simple, or land held under a lease registered under the [Land Act 1948][182],---
+    *   (b) that proposal relates to land held in fee simple, or land held under a lease registered under the [Land Act 1948][183],---
     
     the Commissioner must sign and forward to the appropriate District Land Registrar a written notice of the acceptance of the proposal, describing the proposal in general terms.
     
@@ -2264,15 +2268,15 @@ Tenure reviews
     
     *   (b) the Minister must promptly, in accordance with the substantive proposal concerned, grant the concession to the person concerned; and
     
-    *   (c) [section 17ZD(1)][218] of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
+    *   (c) [section 17ZD(1)][219] of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
     
-    *   (d) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession.
+    *   (d) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession.
     
     
 
 ##### 67 Land vesting as conservation area subject to appointment of manager of marginal strip
     
-*   When land that an approved plan designates as land to be restored to Crown control subject to the appointment of any person as manager under [section 24H(1)][202] of the Conservation Act 1987 vests as conservation area under [section 65][100],---
+*   When land that an approved plan designates as land to be restored to Crown control subject to the appointment of any person as manager under [section 24H(1)][203] of the Conservation Act 1987 vests as conservation area under [section 65][100],---
         
     *   (a) the Commissioner must promptly give the Minister of Conservation written notice that it has vested subject to the person's appointment as manager; and
     
@@ -2288,9 +2292,9 @@ Tenure reviews
     
     *   (b) the Minister must promptly, in accordance with the proposal, grant the concession to the person concerned; and
     
-    *   (c) [section 17ZD(1)][218] of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
+    *   (c) [section 17ZD(1)][219] of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
     
-    *   (d) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession; and
+    *   (d) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession; and
     
     *   (e) if the concession is a lease under [section 73][152] of the Reserves Act 1977, the Minister does not have to comply with subsection (4) of that section.
     
@@ -2298,7 +2302,7 @@ Tenure reviews
 
 ##### 69 Effect of registration of approved plan in relation to reviewable land designated to be disposed of
     
-*   (1) When an approved plan designating land as land to be disposed of to a specified person has been registered, the Commissioner must promptly, in accordance with the plan (but subject to [Part 4A][221] of the Conservation Act 1987), dispose of it under the [Land Act 1948][182].
+*   (1) When an approved plan designating land as land to be disposed of to a specified person has been registered, the Commissioner must promptly, in accordance with the plan (but subject to [Part 4A][222] of the Conservation Act 1987), dispose of it under the [Land Act 1948][183].
     
     (2) In complying with subsection (1), the Commissioner must act as if the reviewable instrument concerned were already surrendered (and the District Land Registrar must act likewise); but the instrument in fact continues in force until a certificate of title or registered lease is issued for the land concerned, and is then deemed to have been surrendered in respect of that land.
     
@@ -2306,7 +2310,7 @@ Tenure reviews
         
     *   (a) the instrument is deemed to have been surrendered in respect of the land; and
     
-    *   (b) the Commissioner must try to dispose of the land under the [Land Act 1948][182].
+    *   (b) the Commissioner must try to dispose of the land under the [Land Act 1948][183].
     
     
 
@@ -2318,15 +2322,15 @@ Tenure reviews
     
     *   (b) the Minister must promptly, in accordance with the plan, grant a concession to the person concerned; and
     
-    *   (c) [section 17ZD(1)][218] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
+    *   (c) [section 17ZD(1)][219] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
     
-    *   (d) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession.
+    *   (d) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession.
     
     
 
 ##### 71 Effect of registration of approved plan in relation to unused Crown land designated to be conservation area subject to appointment of manager of marginal strip
     
-*   When an approved plan designating unused Crown land as land to be retained in Crown control as conservation area subject to the appointment of any person as manager under [section 24H(1)][202] of the Conservation Act 1987 has been registered,---
+*   When an approved plan designating unused Crown land as land to be retained in Crown control as conservation area subject to the appointment of any person as manager under [section 24H(1)][203] of the Conservation Act 1987 has been registered,---
         
     *   (a) the Commissioner must promptly give the Minister of Conservation written notice that the land has vested subject to the person's appointment as manager; and
     
@@ -2342,9 +2346,9 @@ Tenure reviews
     
     *   (b) the Minister must promptly, in accordance with the plan, grant a concession of the land to the person concerned; and
     
-    *   (c) [section 17ZD(1)][218] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
+    *   (c) [section 17ZD(1)][219] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
     
-    *   (d) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession; and
+    *   (d) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession; and
     
     *   (e) in the case of a lease under [section 73][152] of the Reserves Act 1977, the Minister does not have to comply with subsection (4) of that section.
     
@@ -2356,23 +2360,23 @@ Tenure reviews
 
 ##### 74 Effect of registration of approved plan in relation to unused Crown land designated to be disposed of
     
-*   (1) Promptly after an approved plan designating unused Crown land as land to be disposed of has been registered, the Commissioner must, in accordance with the plan (but subject to [Part 4A][221] of the Conservation Act 1987), dispose of it under the [Land Act 1948][182].
+*   (1) Promptly after an approved plan designating unused Crown land as land to be disposed of has been registered, the Commissioner must, in accordance with the plan (but subject to [Part 4A][222] of the Conservation Act 1987), dispose of it under the [Land Act 1948][183].
     
-    (2) Promptly after an approved plan designating unused Crown land as land that may be disposed of has been registered, the Commissioner must try to dispose of it under the [Land Act 1948][182].
+    (2) Promptly after an approved plan designating unused Crown land as land that may be disposed of has been registered, the Commissioner must try to dispose of it under the [Land Act 1948][183].
 
 ##### 75 Effect of registration of approved plan in relation to conservation area subject to granting of concession
     
 *   When an approved plan designating any conservation area as land over which a concession is to be granted has been registered,---
         
-    *   (a) the Minister of Conservation must promptly, in accordance with the plan, grant a concession of the land to the person concerned (and [section 17ZD(1)][218] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned); but
+    *   (a) the Minister of Conservation must promptly, in accordance with the plan, grant a concession of the land to the person concerned (and [section 17ZD(1)][219] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned); but
     
-    *   (b) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession.
+    *   (b) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession.
     
     
 
 ##### 76 Effect of registration of approved plan in relation to conservation area subject to appointment of manager of marginal strip
     
-*   When an approved plan designating any conservation area that is marginal strip as land of which a person is to be appointed manager under [section 24H(1)][202] of the Conservation Act 1987 has been registered, the Minister of Conservation must promptly, in accordance with the plan, appoint the person manager of the land.
+*   When an approved plan designating any conservation area that is marginal strip as land of which a person is to be appointed manager under [section 24H(1)][203] of the Conservation Act 1987 has been registered, the Minister of Conservation must promptly, in accordance with the plan, appoint the person manager of the land.
 
 ##### 77 Effect of registration of approved plan in relation to conservation area designated to be exchanged
     
@@ -2382,7 +2386,7 @@ Tenure reviews
     
     *   (b) the Minister must promptly do all things necessary to dispose of the land in accordance with the proposal; and
     
-    *   (c) subsections (6) to (8) of [section 16A][215] of the Conservation Act 1987 apply to the disposal as if it were part of an exchange authorised under that section.
+    *   (c) subsections (6) to (8) of [section 16A][216] of the Conservation Act 1987 apply to the disposal as if it were part of an exchange authorised under that section.
     
     
 
@@ -2394,9 +2398,9 @@ Tenure reviews
     
     *   (b) the Minister must promptly, in accordance with the proposal, grant a concession of the land to the person concerned; and
     
-    *   (c) [section 17ZD(1)][218] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
+    *   (c) [section 17ZD(1)][219] of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
     
-    *   (d) [sections 17Q(2)][206], [17R to 17Z][219], and [17ZJ][220] of the Conservation Act 1987 do not apply to the granting of the concession.
+    *   (d) [sections 17Q(2)][207], [17R to 17Z][220], and [17ZJ][221] of the Conservation Act 1987 do not apply to the granting of the concession.
     
     (2) When an approved plan designating any reserve as land to be granted by lease under [section 73][152] of the Reserves Act 1977 has been registered,---
         
@@ -2414,7 +2418,7 @@ Tenure reviews
     
     *   (b) the Minister must promptly do all things necessary to effect the disposal; and
     
-    *   (c) subsections (5) to (8) of [section 15][222] of the Reserves Act 1977 apply to the disposal as if it were part of an exchange effected under that section.
+    *   (c) subsections (5) to (8) of [section 15][223] of the Reserves Act 1977 apply to the disposal as if it were part of an exchange effected under that section.
     
     
 
@@ -2450,7 +2454,7 @@ Tenure reviews
             
         *   (i) is deemed for the purposes of that section to be the owner of the land; and
         
-        *   (ii) must promptly give the New Zealand Walking Access Commission (established by [section 6][217] of that Act) an easement over it to enable it to be used for a walkway, on the terms and conditions specified in the substantive proposal concerned; and
+        *   (ii) must promptly give the New Zealand Walking Access Commission (established by [section 6][218] of that Act) an easement over it to enable it to be used for a walkway, on the terms and conditions specified in the substantive proposal concerned; and
         
         
     
@@ -2470,11 +2474,11 @@ Tenure reviews
     
     *   (b) must promptly create the covenant over the land, on the terms and conditions specified in the substantive proposal concerned.
     
-    (6) When an approved plan designating any land as land over which a covenant under [section 6][169] of the Historic Places Act 1993 is to be created has been registered,---
+    (6) When an approved plan designating any land as land over which a covenant under [section 39][169] of the Heritage New Zealand Pouhere Taonga Act 2014 is to be created has been registered,---
         
     *   (a) the Commissioner is deemed for the purposes of that section to be the owner of the land; and
     
-    *   (b) the Commissioner must promptly execute a heritage covenant over the land in favour of the New Zealand Historic Places Trust, on the terms and conditions specified in the substantive proposal concerned; and
+    *   (b) the Commissioner must promptly execute a heritage covenant over the land in favour of Heritage New Zealand Pouhere Taonga, on the terms and conditions specified in the substantive proposal concerned; and
     
     *   (c) the Board of Trustees of the Trust is deemed (by virtue of having given its consent under [section 40][68]) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
     
@@ -2483,6 +2487,10 @@ Tenure reviews
     Section 80(3)(a)(ii): amended, on 30 September 2008, by [section 82][178] of the Walking Access Act 2008 (2008 No 101).
     
     Section 80(3)(b): substituted, on 30 September 2008, by [section 82][178] of the Walking Access Act 2008 (2008 No 101).
+    
+    Section 80(6): amended, on 20 May 2014, by [section 107][179] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 80(6)(b): amended, on 20 May 2014, by [section 107][179] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 81 Effect of registration of approved plan in relation to freehold land designated to be restored to Crown ownership
     
@@ -2539,7 +2547,7 @@ Reviews of other Crown land
         
     *   (a) the objects of this Part; and
     
-    *   (b) the principles of the [Treaty of Waitangi][201]; and
+    *   (b) the principles of the [Treaty of Waitangi][202]; and
     
     *   (c) if acting in relation to land used or intended to be used by the Crown for any particular purpose, that purpose.
     
@@ -2607,7 +2615,7 @@ Reviews of other Crown land
             
         *   (i) land suitable for disposal by special lease (on terms specified in the proposal):
         
-        *   (ii) land suitable for disposal in fee simple under the [Land Act 1948][182].
+        *   (ii) land suitable for disposal in fee simple under the [Land Act 1948][183].
         
         
     
@@ -2643,23 +2651,23 @@ Reviews of other Crown land
     
 *   (1) The Commissioner may, by signing on it a statement to the effect that it is adopted, adopt a written substantive proposal that is (as far as the land to which it relates is concerned) the same as or a modified version of a preliminary proposal previously notified, in accordance with [section 88][126], under [section 43][71].
     
-    (2) Subject to subsection (3), the holder of any land held under an occupation licence that is dealt with by a proposal adopted under subsection (1) may apply under [section 17][223] of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt the proposal.
+    (2) Subject to subsection (3), the holder of any land held under an occupation licence that is dealt with by a proposal adopted under subsection (1) may apply under [section 17][224] of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt the proposal.
     
-    (3) No person has a right to apply under [section 17][223] of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt a proposal under subsection (1) if the decision is the alteration, confirmation, modification, or reversal under a rehearing granted under that section of an earlier decision to adopt a substantive proposal.
+    (3) No person has a right to apply under [section 17][224] of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt a proposal under subsection (1) if the decision is the alteration, confirmation, modification, or reversal under a rehearing granted under that section of an earlier decision to adopt a substantive proposal.
     
     (4) The Commissioner must notify every holder concerned of a decision to adopt under subsection (1) a substantive proposal dealing with land held under an occupation licence.
     
-    (5) Where within the time provided by [section 17][223] of the Land Act 1948 no holder entitled by subsection (2) to do so applies under that section for a rehearing of a decision to adopt a substantive proposal under subsection (1), the adoption of the proposal takes effect on the expiration of that time.
+    (5) Where within the time provided by [section 17][224] of the Land Act 1948 no holder entitled by subsection (2) to do so applies under that section for a rehearing of a decision to adopt a substantive proposal under subsection (1), the adoption of the proposal takes effect on the expiration of that time.
     
     (6) Where---
         
-    *   (a) within the time provided by [section 17][223] of the Land Act 1948 1 or more holders entitled by subsection (2) to do so apply under that section for a rehearing of a decision to adopt a substantive proposal under subsection (1); but
+    *   (a) within the time provided by [section 17][224] of the Land Act 1948 1 or more holders entitled by subsection (2) to do so apply under that section for a rehearing of a decision to adopt a substantive proposal under subsection (1); but
     
     *   (b) the Commissioner then decides not to rehear the decision,---
     
     the adoption of the proposal then takes effect.
     
-    (7) Where the Commissioner rehears under [section 17][223] of the Land Act 1948 a decision to adopt a substantive proposal under subsection (1),---
+    (7) Where the Commissioner rehears under [section 17][224] of the Land Act 1948 a decision to adopt a substantive proposal under subsection (1),---
         
     *   (a) if the Commissioner reverses the decision, the adoption of the proposal has no effect:
     
@@ -2723,7 +2731,7 @@ Reviews of other Crown land
         
     *   (a) land suitable for disposal by special lease; or
     
-    *   (b) land suitable for disposal in fee simple under the [Land Act 1948][182]; or
+    *   (b) land suitable for disposal in fee simple under the [Land Act 1948][183]; or
     
     *   (c) both,---
     
@@ -2756,13 +2764,13 @@ Provisions applicable to all reviews
         
     *   (a) the Commissioner must promptly have all holder's improvements valued; and
     
-    *   (b) on the expiry of the licence, subsections (2) and (3) of [section 149][224], and [section 150][225], of the Land Act 1948 apply to the land and the right of the former holder to be paid compensation for improvements on the land effected, erected, made, or paid for by the former holder or any predecessor of the former holder (including improvements effected by doing, before or after the commencement of this Act, any thing specified in [section 16(1)][21]).
+    *   (b) on the expiry of the licence, subsections (2) and (3) of [section 149][225], and [section 150][226], of the Land Act 1948 apply to the land and the right of the former holder to be paid compensation for improvements on the land effected, erected, made, or paid for by the former holder or any predecessor of the former holder (including improvements effected by doing, before or after the commencement of this Act, any thing specified in [section 16(1)][21]).
     
-    Compare: 1948 No 64 [s 109][226]
+    Compare: 1948 No 64 [s 109][227]
 
 ##### 96 Implementation not subdivision
     
-*   (1) Taking action under [Part 2][48] or [Part 3][118] so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the [Resource Management Act 1991][204].
+*   (1) Taking action under [Part 2][48] or [Part 3][118] so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the [Resource Management Act 1991][205].
     
     (2) Subsection (1) is for the avoidance of doubt.
 
@@ -2770,7 +2778,7 @@ Provisions applicable to all reviews
     
 *   (1) Despite any enactment or rule of law, there may be reserved over land disposed of under [Part 2][48] or [Part 3][118] a covenant in favour of the Commissioner providing for the management of the land, and the monitoring of activities undertaken on the land and their effects on the land.
     
-    (2) A sustainable management covenant runs with the land over which it was reserved; and is an interest in land for the purposes of the [Land Transfer Act 1952][227].
+    (2) A sustainable management covenant runs with the land over which it was reserved; and is an interest in land for the purposes of the [Land Transfer Act 1952][228].
     
     (3) On application by the Commissioner, the District Land Registrar of the land registration district in which the land over which a sustainable management covenant has been reserved is situated must take all steps, and make all entries in the registers, necessary to give effect to the covenant's registration.
     
@@ -2788,14 +2796,14 @@ Provisions applicable to all reviews
 
 ##### 100 Application of sections 17 and 18 of Land Act 1948
     
-*   Except as provided in [section 89(2)][127], neither [section 17][223] nor [section 18][228] of the Land Act 1948 applies to any decision made under [Part 2][48], [Part 3][118], or this Part.
+*   Except as provided in [section 89(2)][127], neither [section 17][224] nor [section 18][229] of the Land Act 1948 applies to any decision made under [Part 2][48], [Part 3][118], or this Part.
 
 ## Part 5  
 Savings, and consequential amendments and repeals
 
 ##### 101 Savings
     
-*   The repeal by [section 104][145] of this Act of [section 109][226] of the Land Act 1948---
+*   The repeal by [section 104][145] of this Act of [section 109][227] of the Land Act 1948---
         
     *   (a) does not affect any decision made under section 109 before its repeal; and (in particular)
     
@@ -2805,7 +2813,7 @@ Savings, and consequential amendments and repeals
 
 ##### 102 Consequential amendments to Land Act 1948
     
-*   The [Land Act 1948][182] is amended in the manner indicated in [Schedule 1][146].
+*   The [Land Act 1948][183] is amended in the manner indicated in [Schedule 1][146].
 
 ##### 103 Director-General to administer special leases and grazing permits over certain reserves
     
@@ -2820,7 +2828,7 @@ Savings, and consequential amendments and repeals
 ## Schedule 1  
 Consequential amendments to Land Act 1948
 
-[s 102][229]
+[s 102][230]
 
 _Amendment(s) incorporated in the [Act(s)][154]._
 
@@ -2829,21 +2837,21 @@ _Amendment(s) incorporated in the [Act(s)][154]._
 ## Schedule 2  
 Consequential repeals
 
-[s 104][230]
+[s 104][231]
 
 ##### Land Act 1948 (1948 No 64) (RS Vol 23, p 559)
 
-_Amendment(s) incorporated in the [Act(s)][182]._
+_Amendment(s) incorporated in the [Act(s)][183]._
 
 ##### Land Amendment Act 1972 (1972 No 73) (RS Vol 23, p 731)
 
 ##### Land Amendment Act 1977 (1977 No 51) (RS Vol 23, p 733)
 
-_Amendment(s) incorporated in the [Act(s)][231]._ 
+_Amendment(s) incorporated in the [Act(s)][232]._ 
 
 ##### Land Amendment Act 1979 (1979 No 57) (RS Vol 23, p 734)
 
-_Amendment(s) incorporated in the [Act(s)][232]._
+_Amendment(s) incorporated in the [Act(s)][233]._
 
 ---
 
@@ -2855,7 +2863,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012][233].
+*   This Act is the [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012][234].
 
 ##### 2 Commencement
     
@@ -2865,7 +2873,7 @@ Commencementsee section 2
     
     *   (b) a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(b): this Act brought into force, on 6 July 2012, by the [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act Commencement Order 2012][234] (SR 2012/168).
+    Section 2(b): this Act brought into force, on 6 July 2012, by the [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act Commencement Order 2012][235] (SR 2012/168).
 
 ##### 3 Principal Act amended
     
@@ -2924,23 +2932,25 @@ Miscellaneous
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][235] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][236] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][236] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][237] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][237] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][238] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][238] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][239] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][179]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][179]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][200]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][180]
     
-    [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012][233] (2012 No 36)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][201]
+    
+    [Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012][234] (2012 No 36)
     
     Walking Access Act 2008 (2008 No 101): [section 82][178]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][193]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][194]
 
 
 
@@ -3113,7 +3123,7 @@ Miscellaneous
 [166]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM9005
 [167]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444912
 [168]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM106603
-[169]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM300599
+[169]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4005548
 [170]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251754
 [171]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444310
 [172]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251778
@@ -3123,63 +3133,64 @@ Miscellaneous
 [176]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM249947
 [177]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404613
 [178]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM1244216
-[179]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4929207
-[180]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404639
-[181]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252469
-[182]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM250585
-[183]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM443298
-[184]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252178
-[185]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252183
-[186]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM45426
-[187]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM242535
-[188]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252167
-[189]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251729
-[190]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251772
-[191]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM969451
-[192]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252176
-[193]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM969644
-[194]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252181
-[195]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252189
-[196]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404640
-[197]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM403276
-[198]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM129566
-[199]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2997643
-[200]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998633
-[201]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM435834
-[202]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104939
-[203]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104644
-[204]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM230264
-[205]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM445072
-[206]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104640
-[207]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM64784
-[208]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM296638
-[209]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104648
-[210]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104650
-[211]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104654
-[212]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104656
-[213]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104658
-[214]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104213
-[215]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104281
-[216]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444714
-[217]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM1244105
-[218]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104666
-[219]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104642
-[220]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104679
-[221]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104697
-[222]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444484
-[223]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251167
-[224]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252726
-[225]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252728
-[226]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252186
-[227]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM269031
-[228]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251170
-[229]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252171
-[230]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252173
-[231]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM442927
-[232]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM34640
-[233]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404602
-[234]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4554167
-[235]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998516
-[236]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998515
-[237]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998532
-[238]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[179]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4005646
+[180]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4929207
+[181]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404639
+[182]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252469
+[183]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM250585
+[184]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM443298
+[185]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252178
+[186]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252183
+[187]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM45426
+[188]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM242535
+[189]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252167
+[190]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251729
+[191]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251772
+[192]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM969451
+[193]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252176
+[194]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM969644
+[195]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252181
+[196]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252189
+[197]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404640
+[198]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM403276
+[199]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM129566
+[200]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2997643
+[201]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998633
+[202]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM435834
+[203]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104939
+[204]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104644
+[205]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM230264
+[206]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM445072
+[207]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104640
+[208]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM64784
+[209]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM296638
+[210]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104648
+[211]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104650
+[212]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104654
+[213]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104656
+[214]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104658
+[215]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104213
+[216]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104281
+[217]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444714
+[218]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM1244105
+[219]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104666
+[220]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104642
+[221]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104679
+[222]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM104697
+[223]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM444484
+[224]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251167
+[225]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252726
+[226]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252728
+[227]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252186
+[228]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM269031
+[229]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM251170
+[230]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252171
+[231]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM252173
+[232]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM442927
+[233]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM34640
+[234]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM3404602
+[235]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM4554167
+[236]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998516
+[237]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998515
+[238]: http://www.legislation.govt.nz/act/public/1998/0065/latest/link.aspx?id=DLM2998532
+[239]: http://www.pco.parliament.govt.nz/editorial-conventions/
