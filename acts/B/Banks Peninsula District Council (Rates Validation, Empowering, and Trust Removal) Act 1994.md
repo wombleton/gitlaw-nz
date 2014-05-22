@@ -1,7 +1,7 @@
 Reprint  
-as at 1 July 1995
+as at 20 May 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Banks Peninsula District Council (Rates Validation, Empowering, and Trust Removal) Act 1994Local Act1994 No 2
 
@@ -9,60 +9,70 @@ Date of assent1 September 1994
 
 Commencement1 September 1994
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+---
+
 ## Contents
 
-[Title][0]
+[Title][1]
     
-*   [Preamble][1]
+*   [Preamble][2]
 
-[1][2] [Short Title][2]
+[1][3][][3][Short Title][3]
 
-[2][3] [Interpretation][3]
+[2][4][][4][Interpretation][4]
 
-[Part 1][4]  
-[Rates validation][4]
+[Part 1][5]  
+[Rates validation][5]
 
-[3][5] [Validating Lyttelton Borough Council excess rate][5]
+[3][6][][6][Validating Lyttelton Borough Council excess rate][6]
 
-[4][6] [Validating Wairewa County Council rates][6]
+[4][7][][7][Validating Wairewa County Council rates][7]
 
-[5][7] [Validating Akaroa County Council rates][7]
+[5][8][][8][Validating Akaroa County Council rates][8]
 
-[6][8] [Transitional quarter rates][8]
+[6][9][][9][Transitional quarter rates][9]
 
-[7][9] [Validating Banks Peninsula District Council general rates][9]
+[7][10][][10][Validating Banks Peninsula District Council general rates][10]
 
-[Part 2][10]  
-[Governors Bay water and sewerage][10]
+[Part 2][11]  
+[Governors Bay water and sewerage][11]
 
-[8][11] [Interpretation][11]
+[8][12][][12][Interpretation][12]
 
-[9][12] [Validation of loan][12]
+[9][13][][13][Validation of loan][13]
 
-[10][13] [Extension of loan servicing area][13]
+[10][14][][14][Extension of loan servicing area][14]
 
-[11][14] [Repeal of empowering Act][14]
+[11][15][][15][Repeal of empowering Act][15]
 
-[Part 3][15]  
-[Removal of trusts][15]
+[Part 3][16]  
+[Removal of trusts][16]
 
-[12][16] [Land freed from reservations][16]
+[12][17][][17][Land freed from reservations][17]
 
-[13][17] [Validation of prior actions][17]
+[13][18][][18][Validation of prior actions][18]
 
-[14][18] [Certificates of title][18]
+[14][19][][19][Certificates of title][19]
 
-[Part 4][19]  
-[Repeal of Lyttelton Borough Extension Act 1911][19]
+[Part 4][20]  
+[Repeal of Lyttelton Borough Extension Act 1911][20]
 
-[15][20] [Repeals][20]
+[15][21][][21][Repeals][21]
 
-[16][21] [Consequential provisions][21]
+[16][22][][22][Consequential provisions][22]
 
-[Schedule 1][22]  
+[Schedule 1][23]  
 
-[Schedule 2][23]  
-[Enactments repealed][23]
+[Schedule 2][24]  
+[Enactments repealed][24]
 
 ---
 
@@ -88,7 +98,7 @@ An Act---
         
     *   (a) the Lyttelton Borough Council resolved on 22 July 1988 to make and levy a differential general rate on the annual value of every rateable property within its district for the year ended with 31 March 1989:
     
-    *   (b) the general rate exceeded in that year the sum of 18 cents in the dollar on the annual value, in breach of [section 136][24] of the Local Government Act 1974:
+    *   (b) the general rate exceeded in that year the sum of 18 cents in the dollar on the annual value, in breach of [section 136][25] of the Local Government Act 1974:
     
     *   (c) it is desirable to validate the making, levying and collection of that general rate:
     
@@ -98,7 +108,7 @@ An Act---
     
     *   (e) public notice of the Wairewa County Council's intention to make and levy the general rate and to add 10% additional charges on unpaid rates, on the dates specified in the notice, was given in _The Press_ on 28 June 1989:
     
-    *   (f) by resolution dated 21 July 1989 the Wairewa County Council purported to make and levy pursuant to [sections 136][24] and [143][25] of the Local Government Act 1974 a general rate of 0.8084 cents in the dollar on the capital value of all rateable property within the County for the year ended with 31 March 1990:
+    *   (f) by resolution dated 21 July 1989 the Wairewa County Council purported to make and levy pursuant to [sections 136][25] and [143][26] of the Local Government Act 1974 a general rate of 0.8084 cents in the dollar on the capital value of all rateable property within the County for the year ended with 31 March 1990:
     
     *   (g) by virtue of the Rating Powers Act 1988, all of the provisions referred to in the resolutions of 9 June 1989 and 21 July 1989 had been repealed at the time the resolutions were made:
     
@@ -112,18 +122,18 @@ An Act---
     
     *   (k) public notice of the Akaroa County Council's intention to make and levy the following rates and levy for the year ended with 31 March 1990 was given in _The Press_ on 5 August 1989:
             
-        *   (i) a general rate pursuant to [section 175][26] of the Local Government Amendment Act (No 3) 1977 on the capital value of all rateable property in the rural ridings of the County of 1.0394 cents in the dollar:
+        *   (i) a general rate pursuant to [section 175][27] of the Local Government Amendment Act (No 3) 1977 on the capital value of all rateable property in the rural ridings of the County of 1.0394 cents in the dollar:
         
-        *   (ii) a separate rate pursuant to [section 143][26] of the Local Government Act (No 3) 1977 (Pigeon Bay Hall) on the capital value of all rateable property in the riding of Pigeon Bay of 0.0126 cents in the dollar:
+        *   (ii) a separate rate pursuant to [section 143][27] of the Local Government Act (No 3) 1977 (Pigeon Bay Hall) on the capital value of all rateable property in the riding of Pigeon Bay of 0.0126 cents in the dollar:
         
-        *   (iii) a consolidated rate pursuant to [section 175][26] of the Local Government Amendment Act (No 3) 1977 on the land value of all rateable property in the Akaroa riding of 1.9857 cents in the dollar made up as follows:
+        *   (iii) a consolidated rate pursuant to [section 175][27] of the Local Government Amendment Act (No 3) 1977 on the land value of all rateable property in the Akaroa riding of 1.9857 cents in the dollar made up as follows:
                 
-            *   ----a general rate pursuant to [section 139][26] of the Local Government Act (No 3) 1977 of 1.7067 cents in the dollar; and
-            *   ----a separate sewerage rate pursuant to [section 143(c)][26] of the Local Government Amendment Act (No 3) 1977 and the Sanitation Bylaw 1965 of 0.279 cents in the dollar:
+            *   ----a general rate pursuant to [section 139][27] of the Local Government Act (No 3) 1977 of 1.7067 cents in the dollar; and
+            *   ----a separate sewerage rate pursuant to [section 143(c)][27] of the Local Government Amendment Act (No 3) 1977 and the Sanitation Bylaw 1965 of 0.279 cents in the dollar:
             
             
         
-        *   (iv) a sanitation levy pursuant to [section 162][26] of the Local Government Amendment Act (No 3) 1977, the Akaroa County Council Empowering Act 1962 and the Sanitation Bylaw 1965 of $45 per water closet connected to the Akaroa urban drainage area with the proviso that where a dwelling used solely for residential purposes has 2 or more pans the charge for the second or additional pans shall be $15:
+        *   (iv) a sanitation levy pursuant to [section 162][27] of the Local Government Amendment Act (No 3) 1977, the Akaroa County Council Empowering Act 1962 and the Sanitation Bylaw 1965 of $45 per water closet connected to the Akaroa urban drainage area with the proviso that where a dwelling used solely for residential purposes has 2 or more pans the charge for the second or additional pans shall be $15:
         
         
     
@@ -133,7 +143,7 @@ An Act---
     
     *   (n) there was no resolution passed by the Akaroa County Council on 28 August 1989 in terms of the public notice, and therefore the rates and levy were not made and the additional charges were not prescribed:
     
-    *   (o) all references to the [Local Government Amendment Act (No 3) 1977][27] and the Local Government Act (No 3) 1977 in the public notice and in the earlier resolution were incorrect references to provisions which had been repealed by the Rating Powers Act 1988:
+    *   (o) all references to the [Local Government Amendment Act (No 3) 1977][28] and the Local Government Act (No 3) 1977 in the public notice and in the earlier resolution were incorrect references to provisions which had been repealed by the Rating Powers Act 1988:
     
     *   (p) the minimum rate specified in the public notice exceeded $10, in breach of section 109(2) of the Rating Powers Act 1988:
     
@@ -191,11 +201,11 @@ An Act---
     
     ###### **Governors Bay water and sewerage**
         
-    *   (zb) by requisition dated 22 April 1986, the Board of Health pursuant to [section 25(2)][28] of the Health Act 1956, required the Mount Herbert County Council to provide water and sewerage schemes at Governors Bay:
+    *   (zb) by requisition dated 22 April 1986, the Board of Health pursuant to [section 25(2)][29] of the Health Act 1956, required the Mount Herbert County Council to provide water and sewerage schemes at Governors Bay:
     
-    *   (zc) the Mount Herbert County Council (Lump Sum Contributions) Empowering Act 1987 (hereinafter referred to as _the Act_) gave the Mount Herbert County Council wider powers to invite lump sum contributions than existed at that time under the [Local Government Act 1974][29]:
+    *   (zc) the Mount Herbert County Council (Lump Sum Contributions) Empowering Act 1987 (hereinafter referred to as _the Act_) gave the Mount Herbert County Council wider powers to invite lump sum contributions than existed at that time under the [Local Government Act 1974][30]:
     
-    *   (zd) the powers to invite lump sum contributions under the Act applied to any waterworks within a water supply area constituted under [section 377][30] of the Local Government Act 1974, or to any drainage works within an urban drainage area constituted under [section 443][31] of that Act:
+    *   (zd) the powers to invite lump sum contributions under the Act applied to any waterworks within a water supply area constituted under [section 377][31] of the Local Government Act 1974, or to any drainage works within an urban drainage area constituted under [section 443][32] of that Act:
     
     *   (ze) by special orders resolved on 17 February 1988 and confirmed on 16 March 1988, the Mount Herbert County Council altered the boundaries of the Governors Bay urban drainage area, and constituted the Governors Bay water supply area:
     
@@ -257,7 +267,7 @@ An Act---
 
 ##### 2 Interpretation
     
-*   In this Act, except as expressly provided in [sections 3][5], [4][6], and [5][7], _Council_ means the Banks Peninsula District Council.
+*   In this Act, except as expressly provided in [sections 3][6], [4][7], and [5][8], _Council_ means the Banks Peninsula District Council.
 
 ## Part 1  
 Rates validation
@@ -306,7 +316,7 @@ Rates validation
 
 ##### 6 Transitional quarter rates
     
-*   (1) To the extent that the validity of any rates levied by the Council under the provisions of Part 1 of the Local Government Reform (Transitional Provisions) Act 1990 may have been affected by the invalidity of the rates and levies validated by [sections 4][6] and [5][7] of this Act, those rates are hereby validated.
+*   (1) To the extent that the validity of any rates levied by the Council under the provisions of Part 1 of the Local Government Reform (Transitional Provisions) Act 1990 may have been affected by the invalidity of the rates and levies validated by [sections 4][7] and [5][8] of this Act, those rates are hereby validated.
     
     (2) All actions of the Council in---
         
@@ -349,9 +359,9 @@ Governors Bay water and sewerage
     
     *   (b) is deemed to have made, and may levy, a special rate pursuant to section 55 of the Rating Powers Act 1988
     
-    _urban drainage area_ means the Governors Bay urban drainage area, as altered pursuant to [section 443][31] of the Local Government Act 1974 by special order of the Council resolved on 17 February 1988 and confirmed on 16 March 1988
+    _urban drainage area_ means the Governors Bay urban drainage area, as altered pursuant to [section 443][32] of the Local Government Act 1974 by special order of the Council resolved on 17 February 1988 and confirmed on 16 March 1988
     
-    _water supply area_ means the Governors Bay water supply area constituted pursuant to [section 377][30] of the Local Government Act 1974 by special order of the Council resolved on 17 February 1988 and confirmed on 16 March 1988\.
+    _water supply area_ means the Governors Bay water supply area constituted pursuant to [section 377][31] of the Local Government Act 1974 by special order of the Council resolved on 17 February 1988 and confirmed on 16 March 1988\.
 
 ##### 9 Validation of loan
     
@@ -386,29 +396,31 @@ Removal of trusts
 
 ##### 12 Land freed from reservations
     
-*   (1) Subject to subsections (2) and (3), the land described in [Schedule 1][22] is hereby freed and discharged from all trusts, reservations, and restrictions to which the land or any part of it was subject immediately before the commencement of this section.
+*   (1) Subject to subsections (2) and (3), the land described in [Schedule 1][23] is hereby freed and discharged from all trusts, reservations, and restrictions to which the land or any part of it was subject immediately before the commencement of this section.
     
     (2) The land to which subsection (1) applies shall remain subject to all leases, encumbrances, liens, or easements existing in respect of the land immediately before the commencement of this section.
     
     (3) Nothing in this section shall in any way affect the rights of the lessees under any existing leases.
     
-    (4) The land to which subsection (1) applies shall cease to be subject to the [Reserves Act 1977][32] from the date of commencement of this section.
+    (4) The land to which subsection (1) applies shall cease to be subject to the [Reserves Act 1977][33] from the date of commencement of this section.
     
     (5) Nothing in this section shall have the effect of vesting in the Crown any land to which this section applies.
     
-    (6) Before the Council offers for sale, or accepts any offer to buy, any of the land described in [Part 2][10] of Schedule 1 of this Act, the Council, in relation to the proposed sale, shall adopt the special consultative procedure set out in [section 716A][33] of the Local Government Act 1974, and shall give specific notice of the proposal pursuant to subsection (1)(b) of that section to the New Zealand Historic Places Trust (Pouhere Taonga).
+    (6) Before the Council offers for sale, or accepts any offer to buy, any of the land described in [Part 2][11] of Schedule 1 of this Act, the Council, in relation to the proposed sale, shall adopt the special consultative procedure set out in [section 716A][34] of the Local Government Act 1974, and shall give specific notice of the proposal pursuant to subsection (1)(b) of that section to Heritage New Zealand Pouhere Taonga.
     
-    (7) All proceeds received by the Council, after the commencement of this Act, from the sale of any of the land described in [Schedule 1][22], after the deduction and payment of all costs and expenses relating to and incidental to the sale, shall be applied by the Council for the general purposes of the Council for the benefit of the inhabitants of the Banks Peninsula District as a whole.
+    (7) All proceeds received by the Council, after the commencement of this Act, from the sale of any of the land described in [Schedule 1][23], after the deduction and payment of all costs and expenses relating to and incidental to the sale, shall be applied by the Council for the general purposes of the Council for the benefit of the inhabitants of the Banks Peninsula District as a whole.
+    
+    Section 12(6): amended, on 20 May 2014, by [section 107][35] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 13 Validation of prior actions
     
-*   (1) Any action taken or decision made by the Council in relation to the land described in [Schedule 1][22] and its ownership and management is hereby declared to be, and to have always been, as valid as it would have been if this Act had been in force when that action was taken or that decision made.
+*   (1) Any action taken or decision made by the Council in relation to the land described in [Schedule 1][23] and its ownership and management is hereby declared to be, and to have always been, as valid as it would have been if this Act had been in force when that action was taken or that decision made.
     
-    (2) Without limiting the generality of subsection (1) the sale by the Council and by the Lyttelton Borough Council of any land described in [Part 1][4] of Schedule 1 is hereby validated.
+    (2) Without limiting the generality of subsection (1) the sale by the Council and by the Lyttelton Borough Council of any land described in [Part 1][5] of Schedule 1 is hereby validated.
 
 ##### 14 Certificates of title
     
-*   (1) On application by or on behalf of the Council, the District Land Registrar for the Canterbury Land Registration District shall, upon payment of the prescribed fee, enter on every certificate of title for the land described in [Schedule 1][22] a memorial that the land is freed from all trusts, restrictions, and reservations.
+*   (1) On application by or on behalf of the Council, the District Land Registrar for the Canterbury Land Registration District shall, upon payment of the prescribed fee, enter on every certificate of title for the land described in [Schedule 1][23] a memorial that the land is freed from all trusts, restrictions, and reservations.
     
     (2) The District Land Registrar for the Canterbury Land Registration District is hereby empowered and directed to do all such things as may be necessary to give effect to this Part.
 
@@ -417,7 +429,7 @@ Repeal of Lyttelton Borough Extension Act 1911
 
 ##### 15 Repeals
     
-*   The enactments specified in [Schedule 2][23] are hereby repealed.
+*   The enactments specified in [Schedule 2][24] are hereby repealed.
 
 ##### 16 Consequential provisions
     
@@ -431,7 +443,7 @@ Repeal of Lyttelton Borough Extension Act 1911
 
 ## Schedule 1
 
-[s 12][16]
+[s 12][17]
 
 ## Part 1
 
@@ -462,11 +474,11 @@ All those pieces of land situated in the Banks Peninsula District being more par
 ## Schedule 2  
 Enactments repealed
 
-[s 15][20]
+[s 15][21]
 
 ##### Local Legislation Act 1963 (1963 No 138)
 
-_Amendment(s) incorporated in the [Act(s)][34]_.
+_Amendment(s) incorporated in the [Act(s)][36]_.
 
 ##### Lyttelton Borough Extension Act 1911 (1911 No 36 (L))
 
@@ -474,114 +486,73 @@ _Amendment(s) incorporated in the [Act(s)][34]_.
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1913 (1913 No 67)
 
-_Amendment(s) incorporated in the [Act(s)][35]_.
+_Amendment(s) incorporated in the [Act(s)][37]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Banks Peninsula District Council (Rates Validation, Empowering, and Trust Removal) Act 1994\. The reprint incorporates all the amendments to the Act as at 1 July 1995, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][36] ![](/images/external_link.gif).
+*   This is a reprint of the Banks Peninsula District Council (Rates Validation, Empowering, and Trust Removal) Act 1994 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][37] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][38] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][38] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][39] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][40] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][38] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][35]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][38] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][38] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Banks Peninsula District Council (Rates Validation, Empowering, and Trust Removal) Act 1994: [section 9(3)][12]
+    Banks Peninsula District Council (Rates Validation, Empowering, and Trust Removal) Act 1994 (1994 No 2 (L)): [section 9(3)][13]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81924
-[1]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81925
-[2]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81932
-[3]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81933
-[4]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81935
-[5]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81936
-[6]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81938
-[7]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81940
-[8]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81942
-[9]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81943
-[10]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81944
-[11]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81945
-[12]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81958
-[13]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81959
-[14]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81960
-[15]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81961
-[16]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81962
-[17]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81963
-[18]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81964
-[19]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81965
-[20]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81966
-[21]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81967
-[22]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81968
-[23]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81971
-[24]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM418908
-[25]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM418936
-[26]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM18559
-[27]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM18542
-[28]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM306699
-[29]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM415531
-[30]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM420824
-[31]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM421171
-[32]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM444304
-[33]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM425273
-[34]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM350651
-[35]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM180737
-[36]: http://www.pco.parliament.govt.nz/reprints/
-[37]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM195439
-[38]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM195466
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM195470
+[0]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81924
+[2]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81925
+[3]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81932
+[4]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81933
+[5]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81935
+[6]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81936
+[7]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81938
+[8]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81940
+[9]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81942
+[10]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81943
+[11]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81944
+[12]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81945
+[13]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81958
+[14]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81959
+[15]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81960
+[16]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81961
+[17]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81962
+[18]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81963
+[19]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81964
+[20]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81965
+[21]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81966
+[22]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81967
+[23]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81968
+[24]: http://www.legislation.govt.nz/act/local/1994/0002/latest/whole.html#DLM81971
+[25]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM418908
+[26]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM418936
+[27]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM18559
+[28]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM18542
+[29]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM306699
+[30]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM415531
+[31]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM420824
+[32]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM421171
+[33]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM444304
+[34]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM425273
+[35]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM4005646
+[36]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM350651
+[37]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM180737
+[38]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM2998516
+[39]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM2998515
+[40]: http://www.legislation.govt.nz/act/local/1994/0002/latest/link.aspx?id=DLM2998532
+[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
