@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -65,23 +65,25 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [14][21][][21][Anti-dumping and countervailing duties][21]
 
-[14A][22][][22][Refund of excess anti-dumping duty paid][22]
+[14AA][22][][22][Temporary suspension of anti-dumping duties on residential building material][22]
 
-[15][23][][23][Price undertakings][23]
+[14A][23][][23][Refund of excess anti-dumping duty paid][23]
 
-[16][24][][24][Provisional measures][24]
+[15][24][][24][Price undertakings][24]
 
-[17][25][][25][Date on and from which duty payable][25]
+[16][25][][25][Provisional measures][25]
 
-[17A][26][][26][Duty may be levied retrospectively to cover period of provisional measures if certain conditions met][26]
+[17][26][][26][Date on and from which duty payable][26]
 
-[17B][27][][27][Duty may be levied retrospectively to cover period of up to 60 days before provisional measures if certain conditions met][27]
+[17A][27][][27][Duty may be levied retrospectively to cover period of provisional measures if certain conditions met][27]
 
-[18][28][][28][Third country anti-dumping and countervailing duties][28]
+[17B][28][][28][Duty may be levied retrospectively to cover period of up to 60 days before provisional measures if certain conditions met][28]
 
-[19][29][][29][Savings][29]
+[18][29][][29][Third country anti-dumping and countervailing duties][29]
 
-[20][30][][30][Consequential amendments][30] \[Repealed\]
+[19][30][][30][Savings][30]
+
+[20][31][][31][Consequential amendments][31] \[Repealed\]
 
 ---
 
@@ -101,19 +103,85 @@ An Act to provide for the imposition of dumping and countervailing duties
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _Customs_ or _the Customs_ has the meaning given to it by [section 2(1)][31] of the Customs and Excise Act 1996
+    _building material_---
+        
+    *   (a) means any structural or non-structural component and assembly incorporated into, associated with, or capable of being incorporated into or associated with a building; and
     
-    _day_, except in [sections 14(2)][21], [17][25], and [17B(4)][27], means any day of the week other than a day in the period beginning with 25 December in any year and ending with 15 January in the following year
+    *   (b) includes---
+            
+        *   (i) roofing, roofing underlay, flashing, cladding, building wrap, rainwater systems, trusses, framing and framing elements, supporting beams, partitioning, plasterboard and other internal linings, architraves and other trim, windows, doors, and insulation:
+        
+        *   (ii) sanitaryware:
+        
+        *   (iii) pipes, tubing, pipe fittings, tapware, hot water storage systems, hot water heating systems, and other plumbing fixtures:
+        
+        *   (iv) electrical material other than heating materials and appliances:
+        
+        *   (v) fixed cabinetry, bench tops, and splashbacks:
+        
+        *   (vi) sinks, hand basins, and washbasins:
+        
+        *   (vii) paint and varnish:
+        
+        *   (viii) reinforcing steel bar and coil:
+        
+        *   (ix) reinforcing steel mesh:
+        
+        *   (x) cement:
+        
+        *   (xi) adhesives and sealants:
+        
+        *   (xii) nails, screws, nailplates, and hinges:
+        
+        *   (xiii) locksets, passage sets, handles, door stops, and other builders hardware; but
+        
+        
+    
+    *   (c) does not include---
+            
+        *   (i) heating materials:
+        
+        *   (ii) heating appliances:
+        
+        *   (iii) wall and floor coverings (including wallpaper):
+        
+        *   (iv) air conditioning, ventilation components, and other ventilation products:
+        
+        *   (v) security systems:
+        
+        *   (vi) smoke alarms:
+        
+        *   (vii) lamps:
+        
+        *   (viii) decorative or removable light fittings:
+        
+        *   (ix) household appliances:
+        
+        *   (x) external drainage or pipes:
+        
+        *   (xi) landscaping:
+        
+        *   (xii) outdoor decorative items or materials:
+        
+        *   (xiii) pavers or fencing:
+        
+        *   (xiv) curtains, blinds, or drapes
+        
+        
+    
+    _Customs_ or _the Customs_ has the meaning given to it by [section 2(1)][32] of the Customs and Excise Act 1996
+    
+    _day_, except in [sections 14(2)][21], [17][26], and [17B(4)][28], means any day of the week other than a day in the period beginning with 25 December in any year and ending with 15 January in the following year
     
     _dumping_, in relation to goods, means the situation where the export price of goods imported into New Zealand or intended to be imported into New Zealand is less than the normal value of the goods as determined in accordance with the provisions of this Act, and _dumped_ has a corresponding meaning
     
-    _exporter_ has the meaning given to it in [section 2(1)][31] of the Customs and Excise Act 1996
+    _exporter_ has the meaning given to it in [section 2(1)][32] of the Customs and Excise Act 1996
     
     _goods_ means all kinds of movable personal property, including animals
     
     _foreign country_ means any country other than New Zealand
     
-    _foreign government_ means---
+    _foreign Government_ means---
         
     *   (a) the Government of a foreign country:
     
@@ -123,7 +191,7 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     *   (d) a person, agency, or institution acting for, or on behalf of, a Government or body referred to in paragraph (a) or paragraph (b) or paragraph (c)
     
-    _importer_ has the meaning given to it in [section 2(1)][31] of the Customs and Excise Act 1996
+    _importer_ has the meaning given to it in [section 2(1)][32] of the Customs and Excise Act 1996
     
     _like goods_, in relation to any goods, means---
         
@@ -131,19 +199,23 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     *   (b) in the absence of goods referred to in paragraph (a), goods which have characteristics closely resembling those goods
     
-    _Minister_ means the Minister of Commerce
+    _Minister_ means the Minister of the Crown for the time being responsible for the administration of this Act
     
-    _Secretary_ means the chief executive of the Ministry of Economic Development
+    _Ministry_ means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
     
-    _shipment_ has the meaning given to it in [section 2(1)][32] of the Tariff Act 1988
+    _residential building material_ means any building material that is capable of being incorporated into or associated with a residential dwelling (regardless of whether it is also capable of being incorporated into or associated with commercial premises)
     
-    _specific subsidy_ means a subsidy that is specific to an enterprise or industry, or a group of enterprises or industries, within the jurisdiction of a foreign government
+    _Secretary_ means the chief executive of the Ministry
     
-    _subsidised goods_ means goods in respect of the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of which a specific subsidy has been or will be paid, granted, authorised, or otherwise provided, directly or indirectly, by a foreign government
+    _shipment_ has the meaning given to it in [section 2(1)][33] of the Tariff Act 1988
     
-    _subsidy_ includes any financial or other commercial benefit that has accrued or will accrue, directly or indirectly, to persons engaged in the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of goods, as a result of any scheme, programme, practice, or thing done, provided, or implemented by a foreign government; but does not include the amount of any duty or internal tax imposed on goods by the Government of the country of origin or country of export from which the goods, because of their exportation from the country of export or country of origin, have been exempted or have been or will be relieved by means of refund or drawback
+    _specific subsidy_ means a subsidy that is specific to an enterprise or industry, or a group of enterprises or industries, within the jurisdiction of a foreign Government
     
-    _Tariff_ has the meaning given to it in [section 2][32] of the Tariff Act 1988
+    _subsidised goods_ means goods in respect of the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of which a specific subsidy has been or will be paid, granted, authorised, or otherwise provided, directly or indirectly, by a foreign Government
+    
+    _subsidy_ includes any financial or other commercial benefit that has accrued or will accrue, directly or indirectly, to persons engaged in the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of goods, as a result of any scheme, programme, practice, or thing done, provided, or implemented by a foreign Government; but does not include the amount of any duty or internal tax imposed on goods by the Government of the country of origin or country of export from which the goods, because of their exportation from the country of export or country of origin, have been exempted or have been or will be relieved by means of refund or drawback
+    
+    _Tariff_ has the meaning given to it in [section 2][33] of the Tariff Act 1988
     
     _WTO Agreement_ means the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994\.
     
@@ -181,17 +253,27 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     Section 3: substituted, on 1 January 1995, by section 2 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 3(1) **collector**: repealed, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 3(1) **building material**: inserted, on 20 May 2014, by [section 4(1)][34] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
     
-    Section 3(1) **Customs** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 3(1) **collector**: repealed, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 3(1) **day**: inserted, on 22 November 2006 (not applying to investigations initiated before this date), by [section 4(1)][34] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 3(1) **Customs** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 3(1) **exporter**: amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 3(1) **day**: inserted, on 22 November 2006 (not applying to investigations initiated before this date), by [section 4(1)][36] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
     
-    Section 3(1) **importer**: amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 3(1) **exporter**: amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 3(1) **Secretary**: substituted, on 7 September 2000, by [section 8(1)][35] of the Ministry of Economic Development Act 2000 (2000 No 28).
+    Section 3(1) **importer**: amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
+    
+    Section 3(1) **Minister**: replaced, on 20 May 2014, by [section 4(2)][34] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
+    
+    Section 3(1) **Ministry**: inserted, on 20 May 2014, by [section 4(1)][34] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
+    
+    Section 3(1) **residential building material**: inserted, on 20 May 2014, by [section 4(1)][34] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
+    
+    Section 3(1) **Secretary**: substituted, on 7 September 2000, by [section 8(1)][37] of the Ministry of Economic Development Act 2000 (2000 No 28).
+    
+    Section 3(1) **Secretary**: amended, on 20 May 2014, by [section 4(3)][34] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
 
 ##### 3A Meaning of industry
     
@@ -213,21 +295,21 @@ An Act to provide for the imposition of dumping and countervailing duties
     
 *   For the purposes of this Act, _goods of Singaporean origin_ means goods falling within the classes of goods for the time being entitled to be entered under the Tariff at the rates and exemptions provided for Singapore, or, if no rates or exemptions are provided in relation to particular goods for Singapore, that would be entitled to be entered under the Tariff if rates and exemptions were provided in relation to those particular goods.
     
-    Section 3BA: inserted, on 1 January 2001, by [section 4][36] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
+    Section 3BA: inserted, on 1 January 2001, by [section 4][38] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
 
 ##### 3C Act to bind the Crown
     
 *   This Act binds the Crown.
     
-    Section 3C: inserted, on 1 July 1990, by [section 5][37] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
+    Section 3C: inserted, on 1 July 1990, by [section 5][39] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
 
 ##### 3D Enforcement of Act
     
 *   (1) The enforcement and collection of duties payable under this Act shall be a function of the Customs.
     
-    (2) [Parts 2][38], [3][39], [4][40], [6][41] (except [section 65][42]), [8][43], [10][44], [11][45], [12][46] (except [section 142][47]), [13][48], [14][49], [15][50], [16][51], and [17][52] of the Customs and Excise Act 1996 shall apply to the enforcement, collection, and payment of duties payable under this Act.
+    (2) [Parts 2][40], [3][41], [4][42], [6][43] (except [section 65][44]), [8][45], [10][46], [11][47], [12][48] (except [section 142][49]), [13][50], [14][51], [15][52], [16][53], and [17][54] of the Customs and Excise Act 1996 shall apply to the enforcement, collection, and payment of duties payable under this Act.
     
-    Section 3D: inserted, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 3D: inserted, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 4 Export price
     
@@ -357,13 +439,13 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     (2) For the purposes of subsection (1),---
         
-    *   (a) the provision of equity capital by a foreign government shall not be regarded as conferring a benefit, unless the investment decision in relation to the provision of that equity capital can be regarded as inconsistent with the usual investment practice (including for the provision of risk capital) of private investors in the territory of the exporting country:
+    *   (a) the provision of equity capital by a foreign Government shall not be regarded as conferring a benefit, unless the investment decision in relation to the provision of that equity capital can be regarded as inconsistent with the usual investment practice (including for the provision of risk capital) of private investors in the territory of the exporting country:
     
-    *   (b) the provision of a loan by a foreign government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the loan is less than the amount that the recipient would pay under a comparable commercial loan that the recipient could obtain on the market, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
+    *   (b) the provision of a loan by a foreign Government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the loan is less than the amount that the recipient would pay under a comparable commercial loan that the recipient could obtain on the market, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
     
-    *   (c) the provision of a loan guarantee by a foreign government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the government guaranteed loan is less than the amount that the recipient would pay under a comparable commercial loan that was not so guaranteed, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
+    *   (c) the provision of a loan guarantee by a foreign Government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the government guaranteed loan is less than the amount that the recipient would pay under a comparable commercial loan that was not so guaranteed, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
     
-    *   (d) the provision of goods or services, or the purchase of goods, by a foreign government shall not be regarded as conferring a benefit, unless the goods or services are provided for less than adequate remuneration within the meaning of subsection (4), or the goods are purchased for more than adequate remuneration, as the case may be.
+    *   (d) the provision of goods or services, or the purchase of goods, by a foreign Government shall not be regarded as conferring a benefit, unless the goods or services are provided for less than adequate remuneration within the meaning of subsection (4), or the goods are purchased for more than adequate remuneration, as the case may be.
     
     (3) For the purposes of subsection (1), the following amounts shall not be included in the amount of the subsidy:
         
@@ -441,13 +523,13 @@ An Act to provide for the imposition of dumping and countervailing duties
         
         *   (iii) the applicant in relation to those goods; and
         
-        *   (iv) where the Minister or the Secretary is taking action under [section 18][28], the Government of the third country on behalf of whom the Minister or the Secretary is taking action; and
+        *   (iv) where the Minister or the Secretary is taking action under [section 18][29], the Government of the third country on behalf of whom the Minister or the Secretary is taking action; and
         
         
     
     *   (c) published in the _Gazette_.
     
-    Section 9(a): substituted, on 1 July 1990, by [section 6][53] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
+    Section 9(a): substituted, on 1 July 1990, by [section 6][55] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
     
     Section 9(b)(iii): amended, on 1 January 1995, by section 9(a) of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
@@ -521,7 +603,7 @@ An Act to provide for the imposition of dumping and countervailing duties
         
     *   (a) to present in writing all evidence relevant to the investigation, and, upon justification being shown, to present such evidence orally:
     
-    *   (b) unless the information may be withheld under the [Official Information Act 1982][54], to have access to all non-confidential information relevant to the presentation of their case and that is used by the Secretary in the investigation, and to prepare representations on the basis of that information:
+    *   (b) unless the information may be withheld under the [Official Information Act 1982][56], to have access to all non-confidential information relevant to the presentation of their case and that is used by the Secretary in the investigation, and to prepare representations on the basis of that information:
     
     *   (c) on request being made, to meet those parties with adverse interests in order to present opposing views.
     
@@ -563,7 +645,7 @@ An Act to provide for the imposition of dumping and countervailing duties
     
 *   (1) Subject to subsection (2), within 150 days after the initiation of an investigation under [section 10][16], the Secretary shall give to the parties to the investigation referred to in [section 9(b)][15] written advice of the essential facts and conclusions that will likely form the basis for any final determination to be made under [section 13][20].
     
-    (2) Nothing in subsection (1) limits the [Official Information Act 1982][54] or [section 10(7)][16] of this Act.
+    (2) Nothing in subsection (1) limits the [Official Information Act 1982][56] or [section 10(7)][16] of this Act.
     
     Section 10A: inserted, on 1 January 1995, by section 11 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
 
@@ -611,7 +693,7 @@ An Act to provide for the imposition of dumping and countervailing duties
         
     *   (a) any investigation is terminated under subsection (1), and it is subsequently ascertained that information supplied affecting the investigation was incorrect or did not disclose material facts, and that the information is of such nature as materially to affect the decision to terminate the investigation; or
     
-    *   (b) any investigation is terminated pursuant to an undertaking given by the Government of the country of export or by an exporter, as the case may be, under [section 15(1)][23] and that Government or that exporter violates that undertaking,---
+    *   (b) any investigation is terminated pursuant to an undertaking given by the Government of the country of export or by an exporter, as the case may be, under [section 15(1)][24] and that Government or that exporter violates that undertaking,---
     
     the Secretary may initiate a further investigation and all the provisions of this Act shall have effect accordingly.
     
@@ -619,9 +701,9 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     Section 11: substituted, on 1 January 1995, by section 12 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 11(2)(a): substituted, on 1 January 2001, by [section 5(1)][55] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
+    Section 11(2)(a): substituted, on 1 January 2001, by [section 5(1)][57] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
     
-    Section 11(2A): inserted, on 1 January 2001, by [section 5(2)][55] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
+    Section 11(2A): inserted, on 1 January 2001, by [section 5(2)][57] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
 
 ##### 12 Preliminary determination
     
@@ -643,7 +725,7 @@ An Act to provide for the imposition of dumping and countervailing duties
 
 ##### 14 Anti-dumping and countervailing duties
     
-*   (1) At any time after the Minister makes a final determination under [section 13(1)][20] in relation to goods, the Minister may give notice of the rate or amount of duty determined under subsection (4) of this section (which notice may be given simultaneously with, or at any time after, the notice given under section 13(2)) and there shall, with effect on and from the applicable date referred to in [section 17][25], [17A][26], or [17B][27], be imposed,---
+*   (1) At any time after the Minister makes a final determination under [section 13(1)][20] in relation to goods, the Minister may give notice of the rate or amount of duty determined under subsection (4) of this section (which notice may be given simultaneously with, or at any time after, the notice given under section 13(2)) and there shall, with effect on and from the applicable date referred to in [section 17][26], [17A][27], or [17B][28], be imposed,---
         
     *   (a) in respect of those goods that are dumped, a duty to be known as anti-dumping duty:
     
@@ -693,15 +775,45 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     Section 14: substituted, on 1 January 1995, by section 15 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 14(1): amended, on 22 November 2006, by [section 5][56] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 14(1): amended, on 22 November 2006, by [section 5][58] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
     
-    Section 14(2): amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 14(2): amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 14(9): amended, on 1 January 2001, by [section 6(1)][57] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
+    Section 14(9): amended, on 1 January 2001, by [section 6(1)][59] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
     
-    Section 14(9A): inserted, on 1 January 2001, by [section 6(2)][57] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
+    Section 14(9A): inserted, on 1 January 2001, by [section 6(2)][59] of the New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95).
     
-    Section 14(10): amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 14(10): amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
+
+##### 14AA Temporary suspension of anti-dumping duties on residential building material
+    
+*   (1) In this section, _specified period_ means the period beginning on 1 June 2014 and ending on the close of 31 May 2017\.
+    
+    (2) During the specified period,---
+        
+    *   (a) no new anti-dumping duty may be imposed under [section 14(1)][21] or [16(1) or (2)][25] on any residential building material:
+    
+    *   (b) existing anti-dumping duties on the following items are suspended:
+            
+        *   (i) standard plasterboard from Thailand:
+        
+        *   (ii) reinforcing steel bar and coil from Thailand:
+        
+        *   (iii) wire nails from the People's Republic of China.
+        
+        
+    
+    (3) If the Minister notifies a rate or amount of anti-dumping duty on any residential building material during the specified period, the new duty is imposed and takes effect on and from 1 June 2017\.
+    
+    (4) If the Minister varies the rate or amount of any existing anti-dumping duty on any residential building material during the specified period, the new rate takes effect on and from 1 June 2017\. 
+    
+    (5) To avoid doubt,---
+        
+    *   (a) this section does not affect the Minister's power to terminate an existing notice under [section 14(7)][21]:
+    
+    *   (b) any anti-dumping duty on an item of the kind referred to in subsection (2)(b) that was imposed and payable before the specified period remains payable.
+    
+    Section 14AA: inserted, on 20 May 2014, by [section 5][60] of the Dumping and Countervailing Duties Amendment Act 2014 (2014 No 31).
 
 ##### 14A Refund of excess anti-dumping duty paid
     
@@ -747,7 +859,7 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     *   (b) commences on 1 October and ends on 31 March the following year.
     
-    Section 14A: inserted, on 12 December 2012, by [section 4][58] of the Dumping and Countervailing Duties Amendment Act 2012 (2012 No 101).
+    Section 14A: inserted, on 12 December 2012, by [section 4][61] of the Dumping and Countervailing Duties Amendment Act 2012 (2012 No 101).
 
 ##### 15 Price undertakings
     
@@ -785,9 +897,9 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     Section 15(1A): inserted, on 1 January 1995, by section 16(2) of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 15(2): amended, on 1 July 1990, by [section 11(1)][59] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
+    Section 15(2): amended, on 1 July 1990, by [section 11(1)][62] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
     
-    Section 15(4): amended, on 1 July 1990, by [section 11(2)][59] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
+    Section 15(4): amended, on 1 July 1990, by [section 11(2)][62] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
     
     Section 15(7): substituted, on 1 January 1995, by section 16(3) of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
@@ -807,9 +919,9 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     *   (b) the Minister is satisfied that action under this section is necessary to prevent material injury being caused during the period of investigation,---
     
-    the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods shall be secured in accordance with [sections 156][60] and [157][61] of the Customs and Excise Act 1996, except that the rate or amount of duty to be secured shall not exceed the difference between the export price of the goods and their normal value, or the amount of the subsidy, as the case may be.
+    the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods shall be secured in accordance with [sections 156][63] and [157][64] of the Customs and Excise Act 1996, except that the rate or amount of duty to be secured shall not exceed the difference between the export price of the goods and their normal value, or the amount of the subsidy, as the case may be.
     
-    (2) Notwithstanding subsection (1), at any time after the Secretary has initiated an investigation under [section 11(3)(b)][18], the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with [sections 156][60] and [157][61] of the Customs and Excise Act 1996\.
+    (2) Notwithstanding subsection (1), at any time after the Secretary has initiated an investigation under [section 11(3)(b)][18], the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with [sections 156][63] and [157][64] of the Customs and Excise Act 1996\.
     
     (3) A provisional direction given under subsection (1) or subsection (2) shall in all cases cease to have effect following the final determination made by the Minister pursuant to [section 13][20].
     
@@ -821,17 +933,17 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     Section 16: substituted, on 1 January 1995, by section 17 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 16(1): amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 16(1): amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 16(2): amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 16(2): amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 16(5): amended, on 1 October 1996, by [section 289(1)][33] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 16(5): amended, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 17 Date on and from which duty payable
     
 *   The date on and from which anti-dumping duty or countervailing duty is payable or must be secured is---
         
-    *   (a) for a provisional direction under [section 16(1) or (2)][24], the day after the date of that direction:
+    *   (a) for a provisional direction under [section 16(1) or (2)][25], the day after the date of that direction:
     
     *   (b) for a final determination under [section 13(1)][20],---
             
@@ -849,7 +961,7 @@ An Act to provide for the imposition of dumping and countervailing duties
         
         
     
-    Section 17: substituted, on 22 November 2006, by [section 6(1)][62] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 17: substituted, on 22 November 2006, by [section 6(1)][65] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
 
 ##### 17A Duty may be levied retrospectively to cover period of provisional measures if certain conditions met
     
@@ -861,9 +973,9 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     (2) The Minister may impose anti-dumping duty or countervailing duty retrospectively for all or part of the period covered by the earlier provisional direction.
     
-    (3) This section overrides [section 17][25] if this section's conditions are met.
+    (3) This section overrides [section 17][26] if this section's conditions are met.
     
-    Section 17A: inserted, on 22 November 2006, by [section 6(1)][62] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 17A: inserted, on 22 November 2006, by [section 6(1)][65] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
 
 ##### 17B Duty may be levied retrospectively to cover period of up to 60 days before provisional measures if certain conditions met
     
@@ -893,7 +1005,7 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     (2) The Minister may impose duty retrospectively for all or part of the 60-day period before the application of the provisional direction.
     
-    (3) If the exporter or the Government of the country of export violates an undertaking under [section 15][23] and then the Minister gives a provisional direction under [section 16][24], the Minister may impose duty retrospectively for all or part of the 60-day period before the application of the provisional direction.
+    (3) If the exporter or the Government of the country of export violates an undertaking under [section 15][24] and then the Minister gives a provisional direction under [section 16][25], the Minister may impose duty retrospectively for all or part of the 60-day period before the application of the provisional direction.
     
     (4) If the period in subsection (2) or (3) includes a day in the period beginning with 25 December in any year and ending with 15 January in the following year, duties can be collected for each day that falls---
         
@@ -903,9 +1015,9 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     (5) No retrospective duty may be imposed under subsection (3) before the date of the violation of the undertaking
     
-    (6) This section overrides [section 17][25] if this section's conditions are met.
+    (6) This section overrides [section 17][26] if this section's conditions are met.
     
-    Section 17B: inserted, on 22 November 2006, by [section 6(1)][62] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 17B: inserted, on 22 November 2006, by [section 6(1)][65] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
 
 ##### 18 Third country anti-dumping and countervailing duties
     
@@ -927,11 +1039,11 @@ An Act to provide for the imposition of dumping and countervailing duties
         
         
     
-    the provisions of this Act (including, without limitation, [sections 10][16], [11][18], [14][21], [15][23], [16][24], [17][25], [17A][26], and [17B][27]) shall, with all necessary modifications, apply with respect to the effect of those goods on that third country's domestic industry in the same manner as they apply with respect to the effect of those goods on a New Zealand industry.
+    the provisions of this Act (including, without limitation, [sections 10][16], [11][18], [14][21], [15][24], [16][25], [17][26], [17A][27], and [17B][28]) shall, with all necessary modifications, apply with respect to the effect of those goods on that third country's domestic industry in the same manner as they apply with respect to the effect of those goods on a New Zealand industry.
     
     Section 18: substituted, on 1 January 1995, by section 19 of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
-    Section 18: amended, on 22 November 2006, by [section 7][63] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
+    Section 18: amended, on 22 November 2006, by [section 7][66] of the Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63).
 
 ##### 19 Savings
     
@@ -949,7 +1061,7 @@ An Act to provide for the imposition of dumping and countervailing duties
     
     (4) Anti-dumping duty or countervailing duty charged on goods pursuant to section 186L of the Customs Act 1966 (as inserted by section 2(1) of the Customs Amendment Act (No 3) 1987) and dumping duty imposed on goods pursuant to section 186A of the Customs Act 1966 (as inserted by section 11 of the Customs Acts Amendment Act (No 2) 1983) may, from time to time, be reassessed in accordance with [section 14(6)][21] as if the rate or the amount of that duty had been determined under section 14(4).
     
-    Section 19(4): added, on 1 July 1990, by [section 15][64] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
+    Section 19(4): added, on 1 July 1990, by [section 15][67] of the Dumping and Countervailing Duties Amendment Act 1990 (1990 No 43).
     
     Section 19(4): amended, on 1 January 1995, by section 20(a) of the Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131).
     
@@ -959,80 +1071,39 @@ An Act to provide for the imposition of dumping and countervailing duties
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 October 1996, by [section 290(1)][65] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 20: repealed, on 1 October 1996, by [section 290(1)][68] of the Customs and Excise Act 1996 (1996 No 27).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Dumping and Countervailing Duties Act 1988\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][66] ![](/images/external_link.gif).
+*   This is a reprint of the Dumping and Countervailing Duties Act 1988 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][67] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][69] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][70] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][68] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][71] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][72] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][69] and [17E][70] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Dumping and Countervailing Duties Amendment Act 2014][73] (2014 No 31)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Dumping and Countervailing Duties Amendment Act 2012][74] (2012 No 101)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Dumping and Countervailing Duties Amendment Act 2006][75] (2006 No 63)
     
+    New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95): [Part 1][76]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][37]
     
-*   [Dumping and Countervailing Duties Amendment Act 2012][71] (2012 No 101)
-    
-    [Dumping and Countervailing Duties Amendment Act 2006][72] (2006 No 63)
-    
-    New Zealand/Singapore Closer Economic Partnership Act 2000 (2000 No 95): [Part 1][73]
-    
-    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][35]
-    
-    Customs and Excise Act 1996 (1996 No 27): [sections 289(1)][33], [290(1)][65]
+    Customs and Excise Act 1996 (1996 No 27): [sections 289(1)][35], [290(1)][68]
     
     Dumping and Countervailing Duties Amendment Act 1994 (1994 No 131)
     
@@ -1040,7 +1111,7 @@ An Act to provide for the imposition of dumping and countervailing duties
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM137950
 [2]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM137952
 [3]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM137953
@@ -1062,55 +1133,58 @@ An Act to provide for the imposition of dumping and countervailing duties
 [19]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138343
 [20]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138346
 [21]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138348
-[22]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM4996500
-[23]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138358
-[24]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138364
-[25]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138371
-[26]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138384
-[27]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138386
-[28]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138388
-[29]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138392
-[30]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138395
-[31]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM377342
-[32]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM136773
-[33]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM380185
-[34]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392191
-[35]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM67109
-[36]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84925
-[37]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210915
-[38]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378154
-[39]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378191
-[40]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378406
-[41]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378485
-[42]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378603
-[43]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378663
-[44]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378922
-[45]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378933
-[46]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378945
-[47]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378952
-[48]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379506
-[49]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379910
-[50]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379939
-[51]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379945
-[52]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379980
-[53]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210916
-[54]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM64784
-[55]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84928
-[56]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392194
-[57]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84929
-[58]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM4989485
-[59]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210925
-[60]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379229
-[61]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379231
-[62]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392195
-[63]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392199
-[64]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210932
-[65]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM380186
-[66]: http://www.pco.parliament.govt.nz/reprints/
-[67]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM195439
-[68]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[69]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM195468
-[70]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM195470
-[71]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM4989480
-[72]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392184
-[73]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84923
+[22]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM6122301
+[23]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM4996500
+[24]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138358
+[25]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138364
+[26]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138371
+[27]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138384
+[28]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138386
+[29]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138388
+[30]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138392
+[31]: http://www.legislation.govt.nz/act/public/1988/0158/latest/whole.html#DLM138395
+[32]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM377342
+[33]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM136773
+[34]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM6111808
+[35]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM380185
+[36]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392191
+[37]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM67109
+[38]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84925
+[39]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210915
+[40]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378154
+[41]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378191
+[42]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378406
+[43]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378485
+[44]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378603
+[45]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378663
+[46]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378922
+[47]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378933
+[48]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378945
+[49]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM378952
+[50]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379506
+[51]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379910
+[52]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379939
+[53]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379945
+[54]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379980
+[55]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210916
+[56]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM64784
+[57]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84928
+[58]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392194
+[59]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84929
+[60]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM6111819
+[61]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM4989485
+[62]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210925
+[63]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379229
+[64]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM379231
+[65]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392195
+[66]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392199
+[67]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM210932
+[68]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM380186
+[69]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM2998516
+[70]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM2998515
+[71]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM2998532
+[72]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[73]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM6111800
+[74]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM4989480
+[75]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM392184
+[76]: http://www.legislation.govt.nz/act/public/1988/0158/latest/link.aspx?id=DLM84923
