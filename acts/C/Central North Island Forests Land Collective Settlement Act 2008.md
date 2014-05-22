@@ -1,7 +1,7 @@
 Reprint  
-as at 31 December 2008
+as at 20 May 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Central North Island Forests Land Collective Settlement Act 2008Public Act2008 No 99
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Office of Treaty Settlements.
 
@@ -25,120 +25,120 @@ This Act is administered by the Office of Treaty Settlements.
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
 [Part 1][4]  
 [Preliminary provisions][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5][7] [Act binds the Crown][7]
+[5][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Provisions relating to transfers of assets, allocation principles, Crown agreed proportion, and DSP properties][8]
 
-[Subpart 1][9]---[Vesting of CNI forests land and transfer of accumulated rentals by the Crown][9]
+[Subpart 1][9][---][9][Vesting of CNI forests land and transfer of accumulated rentals by the Crown][9]
 
 [Vesting of CNI forests land in company][10]
 
-[6][11] [Vesting of CNI forests land][11]
+[6][11][][11][Vesting of CNI forests land][11]
 
-[7][12] [Jurisdiction of courts, tribunals, and other judicial bodies excluded][12]
+[7][12][][12][Jurisdiction of courts, tribunals, and other judicial bodies excluded][12]
 
-[8][13] [Application of other enactments: general][13]
+[8][13][][13][Application of other enactments: general][13]
 
-[9][14] [Application of other enactments: easements][14]
+[9][14][][14][Application of other enactments: easements][14]
 
-[10][15] [Public access to continue][15]
+[10][15][][15][Public access to continue][15]
 
-[11][16] [Public easements may be granted][16]
+[11][16][][16][Public easements may be granted][16]
 
-[12][17] [Conservation covenants][17]
+[12][17][][17][Conservation covenants][17]
 
 [Transfer of accumulated rentals to company][18]
 
-[13][19] [Transfer of accumulated rentals][19]
+[13][19][][19][Transfer of accumulated rentals][19]
 
-[Subpart 2][20]---[Allocation principles][20]
+[Subpart 2][20][---][20][Allocation principles][20]
 
-[14][21] [Principles for allocation of CNI forests land][21]
+[14][21][][21][Principles for allocation of CNI forests land][21]
 
-[15][22] [Principles for allocation of rental proceeds][22]
+[15][22][][22][Principles for allocation of rental proceeds][22]
 
-[Subpart 3][23]---[Transfer of CNI forests land and accumulated rentals by company to CNI Iwi Collective][23]
+[Subpart 3][23][---][23][Transfer of CNI forests land and accumulated rentals by company to CNI Iwi Collective][23]
 
 [Transfer of CNI forests land to CNI Iwi Collective][24]
 
-[16][25] [Transfer of CNI forests land][25]
+[16][25][][25][Transfer of CNI forests land][25]
 
-[17][26] [Application of other enactments][26]
+[17][26][][26][Application of other enactments][26]
 
 [Transfer of accumulated rentals to CNI Iwi Collective][27]
 
-[18][28] [Transfer of accumulated rentals][28]
+[18][28][][28][Transfer of accumulated rentals][28]
 
-[Subpart 4][29]---[Crown agreed proportion][29]
+[Subpart 4][29][---][29][Crown agreed proportion][29]
 
-[19][30] [Purpose and duration of Crown agreed proportion][30]
+[19][30][][30][Purpose and duration of Crown agreed proportion][30]
 
-[20][31] [Company must transfer assets from Crown agreed proportion to other CNI claimant if settlement reached][31]
+[20][31][][31][Company must transfer assets from Crown agreed proportion to other CNI claimant if settlement reached][31]
 
-[21][32] [Crown must consult CNI Iwi Collective on proposed deed of settlement with other CNI claimant and may refer dispute to Waitangi Tribunal if necessary][32]
+[21][32][][32][Crown must consult CNI Iwi Collective on proposed deed of settlement with other CNI claimant and may refer dispute to Waitangi Tribunal if necessary][32]
 
-[22][33] [Waitangi Tribunal jurisdiction in relation to disputes over which specific area of CNI forests land to be transferred to other CNI claimant][33]
+[22][33][][33][Waitangi Tribunal jurisdiction in relation to disputes over which specific area of CNI forests land to be transferred to other CNI claimant][33]
 
-[23][34] [Waitangi Tribunal jurisdiction in relation to historical claim of other CNI claimant not excluded][34]
+[23][34][][34][Waitangi Tribunal jurisdiction in relation to historical claim of other CNI claimant not excluded][34]
 
-[24][35] [Modifications to Waitangi Tribunal jurisdiction][35]
+[24][35][][35][Modifications to Waitangi Tribunal jurisdiction][35]
 
-[25][36] [Company must give effect to Waitangi Tribunal recommendation][36]
+[25][36][][36][Company must give effect to Waitangi Tribunal recommendation][36]
 
-[Subpart 5][37]---[DSP properties][37]
+[Subpart 5][37][---][37][DSP properties][37]
 
-[26][38] [Interpretation for this subpart][38]
+[26][38][][38][Interpretation for this subpart][38]
 
-[27][39] [Transfer of selected DSP property][39]
+[27][39][][39][Transfer of selected DSP property][39]
 
-[28][40] [Creation of computer freehold register][40]
+[28][40][][40][Creation of computer freehold register][40]
 
-[29][41] [Application of other enactments to transfer of selected DSP property ][41]
+[29][41][][41][Application of other enactments to transfer of selected DSP property ][41]
 
 [Part 3][42]  
 [Miscellaneous provisions][42]
 
-[Subpart 1][43]---[General][43]
+[Subpart 1][43][---][43][General][43]
 
 [Certain protections no longer apply][44]
 
-[30][45] [Certain enactments do not apply][45]
+[30][45][][45][Certain enactments do not apply][45]
 
-[31][46] [Removal of memorials][46]
+[31][46][][46][Removal of memorials][46]
 
 [Eligibility of Trust to become Māori authority][47]
 
-[32][48] [Trust must be treated as being eligible to become Māori authority][48]
+[32][48][][48][Trust must be treated as being eligible to become Māori authority][48]
 
 [Consequential amendment][49]
 
-[33][50] [Consequential amendment to Treaty of Waitangi Act 1975][50]
+[33][50][][50][Consequential amendment to Treaty of Waitangi Act 1975][50]
 
-[Subpart 2][51]---[Consequential amendments to this Act if Ngāti Rangitihi becomes signatory to deed of settlement][51]
+[Subpart 2][51][---][51][Consequential amendments to this Act if Ngāti Rangitihi becomes signatory to deed of settlement][51]
 
-[34][52] [Process to apply before this subpart and Schedule 4 may be commenced][52]
+[34][52][][52][Process to apply before this subpart and Schedule 4 may be commenced][52]
 
-[35][53] [Expiry of this subpart and Schedule 4][53]
+[35][53][][53][Expiry of this subpart and Schedule 4][53]
 
-[36][54] [Preamble amended][54]
+[36][54][][54][Preamble amended][54]
 
-[37][55] [Section 4 amended][55]
+[37][55][][55][Section 4 amended][55]
 
-[38][56] [Section 15(1) amended][56]
+[38][56][][56][Section 15(1) amended][56]
 
-[39][57] [Schedule 3 substituted][57]
+[39][57][][57][Schedule 3 substituted][57]
 
 [Schedule 1 ][58]  
 [CNI forests land][58]
@@ -999,7 +999,9 @@ Tikanga based resolution process for CNI forests land
     
     (4) Allocation of CNI forests land will be to iwi only, or their nominees (acknowledging that it is up to iwi whether they make their own internal arrangements with hapū or other entities).
     
-    (5) The CNI Iwi Collective acknowledges its intention to respect any existing arrangements between iwi and district or regional councils, the Historic Places Trust, or Crown forestry licensees.
+    (5) The CNI Iwi Collective acknowledges its intention to respect any existing arrangements between iwi and district or regional councils, Heritage New Zealand Pouhere Taonga, or Crown forestry licensees.
+    
+    Schedule 2 clause 2(5): amended, on 20 May 2014, by [section 107][100] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 3 Governance of process
     
@@ -1222,76 +1224,35 @@ New Schedule 3 substituted
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Central North Island Forests Land Collective Settlement Act 2008\. The reprint incorporates all the amendments to the Act as at 31 December 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Central North Island Forests Land Collective Settlement Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][101] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][102] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][103] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][104] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][101] and [17E][102] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][100]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Central North Island Forests Land Collective Settlement Act Commencement Order 2008][63] (SR 2008/424)
+    [Central North Island Forests Land Collective Settlement Act Commencement Order 2008][63] (SR 2008/424)
     
     Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99): [sections 36--39][54]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2008/0099/latest/whole.html#DLM1378407
 [2]: http://www.legislation.govt.nz/act/public/2008/0099/latest/whole.html#DLM1378411
 [3]: http://www.legislation.govt.nz/act/public/2008/0099/latest/whole.html#DLM1598400
@@ -1391,6 +1352,8 @@ _Amendment(s) incorporated in the Act(s)._
 [97]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM435367
 [98]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM1347539
 [99]: http://www.legislation.govt.nz/act/public/2008/0099/latest/whole.html#DLM1598438
-[100]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM195439
-[101]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM195468
-[102]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM195470
+[100]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM4005646
+[101]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM2998516
+[102]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM2998515
+[103]: http://www.legislation.govt.nz/act/public/2008/0099/latest/link.aspx?id=DLM2998532
+[104]: http://www.pco.parliament.govt.nz/editorial-conventions/
