@@ -240,7 +240,7 @@ Preliminary
 
 ##### 2 Interpretation
     
-*   (1) In this section, unless the context otherwise requires,---
+*   (1) In this Act, unless the context otherwise requires,---
     
     _Commonwealth country_ includes a territory for whose international relations the Government of a Commonwealth country is responsible
     
