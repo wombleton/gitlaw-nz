@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1999,9 +1999,9 @@ Assessment, payment, and recovery of rates and remission and postponement
 
 ##### 66 Registration of charging order for judgment for rates
     
-*   (1) Despite [rule 578][271] of the High Court Rules, a charging order issued under [rule 567][272] or [rule 568][273] for a judgment for rates, and registered against a rating unit under [rule 574][274], continues in force until a memorandum of satisfaction is registered under [rule 577][275].
+*   (1) Despite rule 578 of the High Court Rules, a charging order issued under rule 567 or rule 568 for a judgment for rates, and registered against a rating unit under rule 574, continues in force until a memorandum of satisfaction is registered under rule 577\.
     
-    (2) The [Limitation Act 2010][276] applies to subsection (1).
+    (2) The [Limitation Act 2010][271] applies to subsection (1).
     
     (3) If a charging order for a judgment for rates is registered against a rating unit, the ratepayer must not register a dealing against the unit without the consent of the local authority.
     
@@ -2011,7 +2011,7 @@ Assessment, payment, and recovery of rates and remission and postponement
     
     Compare: 1988 No 97 s 143(1), (2)
     
-    Section 66(2): amended, on 1 January 2011, by [section 58][277] of the Limitation Act 2010 (2010 No 110).
+    Section 66(2): amended, on 1 January 2011, by [section 58][272] of the Limitation Act 2010 (2010 No 110).
 
 #### Rating sales and leases
 
@@ -2033,7 +2033,7 @@ Assessment, payment, and recovery of rates and remission and postponement
         
         
     
-    *   (b) the fee as fixed by regulations made under [section 100A][278] of the Judicature Act 1908\.
+    *   (b) the fee as fixed by regulations made under [section 100A][273] of the Judicature Act 1908\.
     
     (3) Subsection (1) does not apply to land that is subject to enactments that prohibit the alienation or transfer of that land.
     
@@ -2047,7 +2047,7 @@ Assessment, payment, and recovery of rates and remission and postponement
     
     Compare: 1988 No 97 s 144(1)
     
-    Section 67(2)(a): amended, on 7 July 2004, by [section 6][279] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 67(2)(a): amended, on 7 July 2004, by [section 6][274] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 ##### 68 Rating sale or lease
     
@@ -2089,7 +2089,7 @@ Assessment, payment, and recovery of rates and remission and postponement
     
 *   (1) If all the amounts set out in [section 68(2)(b)][98] have not been paid within 6 months after the date of the notice that is required under section 68(1), the Registrar of the High Court may, in accordance with [sections 71 to 74][101], sell or lease the rating unit.
     
-    (2) The Registrar may charge a fee for the sale or lease of the rating unit that is fixed by regulations made under [section 100A][278] of the Judicature Act 1908\.
+    (2) The Registrar may charge a fee for the sale or lease of the rating unit that is fixed by regulations made under [section 100A][273] of the Judicature Act 1908\.
     
     Compare: 1988 No 97 s 144(4)--(6)
 
@@ -2173,9 +2173,9 @@ Assessment, payment, and recovery of rates and remission and postponement
     
     Compare: 1988 No 97 s 145(a)--(g)
     
-    Section 75(d): amended, on 7 July 2004, by [section 7(1)][280] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 75(d): amended, on 7 July 2004, by [section 7(1)][275] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
     
-    Section 75(g): amended, on 7 July 2004, by [section 7(2)][280] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 75(g): amended, on 7 July 2004, by [section 7(2)][275] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 ##### 76 Application of balance of proceeds
     
@@ -2309,7 +2309,7 @@ Assessment, payment, and recovery of rates and remission and postponement
     
 *   (1) This section applies to a lessee or licensee described in [section 11(2)][16].
     
-    (2) The interest of a lessee or licensee in Crown land held under the [Land Act 1948][281] may be sold for the non-payment of rates, but only in accordance with [section 111][282] of the Land Act 1948\.
+    (2) The interest of a lessee or licensee in Crown land held under the [Land Act 1948][276] may be sold for the non-payment of rates, but only in accordance with [section 111][277] of the Land Act 1948\.
     
     Compare: 1988 No 97 s 150
 
@@ -2425,13 +2425,13 @@ Assessment, payment, and recovery of rates and remission and postponement
     
     (6) For the purposes of subsection (3)(b)(ii), the land comprising a rating unit is sufficiently identified---
         
-    *   (a) in the case of land for which there is a certificate of title (as defined in [section 5A][283] of the Rating Valuations Act 1998) or an instrument (as defined in [section 5C(7)][284] of the Rating Valuations Act 1998), by reference to the certificate of title or instrument; and
+    *   (a) in the case of land for which there is a certificate of title (as defined in [section 5A][278] of the Rating Valuations Act 1998) or an instrument (as defined in [section 5C(7)][279] of the Rating Valuations Act 1998), by reference to the certificate of title or instrument; and
     
     *   (b) in any other case, by a description adequate for the purposes of this section which may include a plan.
     
     (7) For the purposes of this section, _Registrar_ means the Registrar-General of Land.
     
-    Section 90: substituted, on 7 July 2004, by [section 8][285] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 90: substituted, on 7 July 2004, by [section 8][280] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 ## Part 4  
 Rating of Māori freehold land
@@ -2448,7 +2448,7 @@ Rating of Māori freehold land
     
     (2) If an entire rating unit that comprises Māori freehold land in multiple ownership is leased, the name of the lessee must be entered as the ratepayer in the rating information database and the district valuation roll, unless the lessor advises the local authority, or the lessee produces proof, that the lease provides for the lessor to be liable to pay the rates.
     
-    (3) If an entire rating unit that comprises Māori freehold land in multiple ownership is subject to an occupation order made by the Māori Land Court under [section 328][286] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision), the name of the person in whose favour the order is made must be entered as the ratepayer in the rating information database and the district valuation roll, unless the order provides for the owners or trustees, as the case may be, to be liable to pay the rates.
+    (3) If an entire rating unit that comprises Māori freehold land in multiple ownership is subject to an occupation order made by the Māori Land Court under [section 328][281] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision), the name of the person in whose favour the order is made must be entered as the ratepayer in the rating information database and the district valuation roll, unless the order provides for the owners or trustees, as the case may be, to be liable to pay the rates.
     
     (4) If subsection (2) or subsection (3) do not apply, the following names or descriptions must be entered as ratepayers in the rating information database and the district valuation roll:
         
@@ -2460,7 +2460,7 @@ Rating of Māori freehold land
     
     _lease_ includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity
     
-    _trustee_ includes a body corporate constituted under [Part 13][287] of Te Ture Whenua Maori Act 1993\.
+    _trustee_ includes a body corporate constituted under [Part 13][282] of Te Ture Whenua Maori Act 1993\.
     
     (6) Subsection (1) is subject to [section 11][16].
     
@@ -2574,7 +2574,7 @@ Rating of Māori freehold land
     
     *   (b) the last payment of rates became due in that financial year in the case of rates payable by more than 1 payment in a financial year.
     
-    (4) [Section 82][288] of Te Ture Whenua Maori Act 1993 does not apply to a charging order made under this Part.
+    (4) [Section 82][283] of Te Ture Whenua Maori Act 1993 does not apply to a charging order made under this Part.
     
     Compare: 1988 No 97 s 186(1), (2)
 
@@ -2598,7 +2598,7 @@ Rating of Māori freehold land
     
     *   (h) all objections to the rates; and
     
-    *   (i) the objectives set out in [section 17(1)][289] of Te Ture Whenua Maori Act 1993\.
+    *   (i) the objectives set out in [section 17(1)][284] of Te Ture Whenua Maori Act 1993\.
     
     (2) Any defence that is available to a ratepayer is open to the owners of the land or their representatives.
     
@@ -2626,7 +2626,7 @@ Rating of Māori freehold land
 
 ##### 102 Charging order must be registered
     
-*   A charging order made by the Māori Land Court under [section 101(1)][142] must be registered in accordance with the provisions of [section 123][290] or [section 124][291] of Te Ture Whenua Maori Act 1993, as the case may require, with the necessary modifications.
+*   A charging order made by the Māori Land Court under [section 101(1)][142] must be registered in accordance with the provisions of [section 123][285] or [section 124][286] of Te Ture Whenua Maori Act 1993, as the case may require, with the necessary modifications.
 
 ##### 103 Charging order in favour of owner paying rates
     
@@ -2668,11 +2668,11 @@ Rating of Māori freehold land
     
 *   (1) A charging order made against Māori freehold land under [section 101][142] (or under the corresponding section of a former Act) is in force until it is discharged.
     
-    (2) Subsection (1) does not override [section 113][157] of this Act or the [Limitation Act 2010][276].
+    (2) Subsection (1) does not override [section 113][157] of this Act or the [Limitation Act 2010][271].
     
     Compare: 1988 No 97 s 186(8)
     
-    Section 105(2): amended, on 1 January 2011, by [section 58][277] of the Limitation Act 2010 (2010 No 110).
+    Section 105(2): amended, on 1 January 2011, by [section 58][272] of the Limitation Act 2010 (2010 No 110).
 
 ##### 106 Consolidation of charging orders
     
@@ -2696,9 +2696,9 @@ Rating of Māori freehold land
     
     (2) If the Māori Land Court is satisfied that it would not be contrary to the interests of the owners to do so, it must, without further application, enforce the charging order by---
         
-    *   (a) appointing a receiver under [section 83][292] of Te Ture Whenua Maori Act 1993 in respect of the relevant land for the purpose of enforcing the charging order; or
+    *   (a) appointing a receiver under [section 83][287] of Te Ture Whenua Maori Act 1993 in respect of the relevant land for the purpose of enforcing the charging order; or
     
-    *   (b) constituting an ahu whenua trust under [section 215][293] of Te Ture Whenua Maori Act 1993\.
+    *   (b) constituting an ahu whenua trust under [section 215][288] of Te Ture Whenua Maori Act 1993\.
     
     (3) The Māori Land Court must not make an order under subsection (2) unless it has first---
         
@@ -2772,7 +2772,7 @@ Rating of Māori freehold land
     
     *   (b) if the discharge relates to part of the unpaid rates, as being partially discharged, both as to the amount of the rates remaining unpaid and the portion of the land affected by the charging order.
     
-    (2) A discharge referred to in [section 112][156] must be registered in accordance with the provisions of [section 123][290] or [section 124][291] of Te Ture Whenua Maori Act 1993, as the case may require, with any necessary modifications.
+    (2) A discharge referred to in [section 112][156] must be registered in accordance with the provisions of [section 123][285] or [section 124][286] of Te Ture Whenua Maori Act 1993, as the case may require, with any necessary modifications.
     
     (3) In the case of a partial discharge, the charging order must be registered only as to the balance of the money and the residue of the land affected.
     
@@ -2784,7 +2784,7 @@ Rating of Māori freehold land
     
 *   (1) A local authority may remit all or part of the rates (including penalties for unpaid rates) on Māori freehold land if---
         
-    *   (a) its policy on the remission and postponement of rates on Māori freehold land adopted under [section 102(1)][294] of the Local Government Act 2002 includes provision for the remission of the rates; and
+    *   (a) its policy on the remission and postponement of rates on Māori freehold land adopted under [section 102(1)][289] of the Local Government Act 2002 includes provision for the remission of the rates; and
     
     *   (b) the local authority is satisfied that the conditions and criteria in the policy are met.
     
@@ -2802,7 +2802,7 @@ Rating of Māori freehold land
     
 *   (1) A local authority must postpone the requirement to pay all or part of the rates on Māori freehold land (including penalties for unpaid rates) if---
         
-    *   (a) its policy on the remission and postponement of rates on Māori freehold land adopted under [section 102(1)][294] of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
+    *   (a) its policy on the remission and postponement of rates on Māori freehold land adopted under [section 102(1)][289] of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
     
     *   (b) the ratepayer has applied in writing for a postponement; and
     
@@ -2826,9 +2826,9 @@ Rating of Māori freehold land
     
     (3) In determining whether to consent to an order under subsection (1) or whether to seek an order under subsection (2), the local authority must consider---
         
-    *   (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under [section 102(1)][294] of the Local Government Act 2002; and
+    *   (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under [section 102(1)][289] of the Local Government Act 2002; and
     
-    *   (b) the objectives set out in [Schedule 11][295] of the Local Government Act 2002\.
+    *   (b) the objectives set out in [Schedule 11][290] of the Local Government Act 2002\.
     
     Compare: 1988 No 97 s 182
     
@@ -2853,7 +2853,7 @@ Rating of Māori freehold land
 ## Part 4A  
 Lump sum contributions
     
-*   Part 4A: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Part 4A: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117A Interpretation
     
@@ -2875,7 +2875,7 @@ Lump sum contributions
     
     _lump sum contribution_ means a payment made by an eligible ratepayer under this Part for the purposes of contributing to a capital project of a local authority.
     
-    Section 117A: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117A: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117B Local authority may fund capital project by lump sum contributions
     
@@ -2901,7 +2901,7 @@ Lump sum contributions
     
     (5) This section is subject to [section 117C][166].
     
-    Section 117B: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117B: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
     
     Section 117B(3)(c)(ii): amended, on 27 November 2010, by [section 50][251] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
@@ -2913,7 +2913,7 @@ Lump sum contributions
     
     *   (b) the ratepayer has elected to do so under [section 117H][174].
     
-    Section 117C: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117C: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117D Consequences for local authority if capital project funding plan adopted
     
@@ -2925,15 +2925,15 @@ Lump sum contributions
     
     (2) Subsection (1) applies subject to any express provisions to the contrary in the invitation for the project.
     
-    Section 117D: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117D: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Capital project funding plans
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117E Contents of capital project funding plan
     
-*   (1) A local authority must include the matters set out in [Part 1][297] of Schedule 3A in a capital project funding plan.
+*   (1) A local authority must include the matters set out in [Part 1][292] of Schedule 3A in a capital project funding plan.
     
     (2) A local authority may include any other matter in a funding plan---
         
@@ -2941,11 +2941,11 @@ Lump sum contributions
     
     *   (b) that is not inconsistent with this Act or any other enactment.
     
-    Section 117E: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117E: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Invitations to make lump sum contribution
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117F Invitations to make lump sum contribution
     
@@ -2965,7 +2965,7 @@ Lump sum contributions
     
     *   (b) inviting lump sum contributions from its eligible ratepayers on terms that are inconsistent with the funding plan for the capital project concerned.
     
-    Section 117F: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117F: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117G Contents of invitation
     
@@ -2975,13 +2975,13 @@ Lump sum contributions
     
     *   (b) include any other information that the local authority considers necessary to enable the eligible ratepayer to make an informed choice about making a lump sum contribution to the project.
     
-    (2) Without limiting subsection (1), an invitation must include the matters set out in [Part 2][298] of Schedule 3A.
+    (2) Without limiting subsection (1), an invitation must include the matters set out in [Part 2][293] of Schedule 3A.
     
-    Section 117G: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117G: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Elections to make lump sum contribution
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117H Eligible ratepayer may elect to make lump sum contribution
     
@@ -3001,7 +3001,7 @@ Lump sum contributions
     
     *   (b) that apply to a rating unit whether or not the ratepayer in respect of the rating unit has elected to make a lump sum contribution.
     
-    Section 117H: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117H: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117I Lump sum contribution invoice
     
@@ -3021,7 +3021,7 @@ Lump sum contributions
     
     *   (b) may be delivered at the same time as the rates invoice.
     
-    Section 117I: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117I: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117J Consequences for eligible ratepayer (and any future ratepayers) of election to make lump sum contribution
     
@@ -3039,11 +3039,11 @@ Lump sum contributions
     
     *   (b) the date that any recalculation of the contribution is made.
     
-    Section 117J: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117J: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Local authority must record certain matters
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117K Local authority must record elections and lump sum contributions in rating information database and rates records
     
@@ -3063,11 +3063,11 @@ Lump sum contributions
     
     *   (d) the date and amount of any lump sum contribution payments made in respect of the rating unit.
     
-    Section 117K: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117K: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Change of ownership of rating unit
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117L Local authority must notify new ratepayer of liability in respect of rating unit for lump sum contribution
     
@@ -3089,11 +3089,11 @@ Lump sum contributions
     
     (3) The local authority must also provide to the person a copy of the terms of the election made by the eligible ratepayer as set out in the invitation concerned.
     
-    Section 117L: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117L: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Recalculation of lump sum contributions
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117M Recalculation of lump sum contributions
     
@@ -3111,11 +3111,11 @@ Lump sum contributions
     
     (5) Any invoice to which subsection (4)(b) applies must specify a due date for payment that is not less than 1 month after the date on which the invoice is delivered.
     
-    Section 117M: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117M: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 #### Late payment or non-payment of lump sum contribution
     
-*   Heading: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Heading: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 117N Late payment or non-payment of lump sum contribution
     
@@ -3175,7 +3175,7 @@ Lump sum contributions
     
     (11) The local authority must issue an amended rates assessment for each year in respect of which it has amended the rates records under this section.
     
-    Section 117N: inserted, on 28 June 2006, by [section 10][296] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 117N: inserted, on 28 June 2006, by [section 10][291] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ## Part 5  
 Replacement of rates and miscellaneous matters
@@ -3304,7 +3304,7 @@ Replacement of rates and miscellaneous matters
     
     *   (e) identify any difference between the revenue sought from the rates to be replaced and that proposed to be sought from the replacement rates and the reasons for that difference; and
     
-    *   (f) explain any departure from the revenue and financing policy under [section 103][299] of the Local Government Act 2002 and the reasons for that departure; and
+    *   (f) explain any departure from the revenue and financing policy under [section 103][294] of the Local Government Act 2002 and the reasons for that departure; and
     
     *   (g) explain any difference in basis or type of rates between the rates to be replaced and the replacement rates; and
     
@@ -3336,7 +3336,7 @@ Replacement of rates and miscellaneous matters
     
     *   (b) the lawfulness of the payment of the rates and of the local authority receiving that payment before the adoption of the rates replacement proposal; or
     
-    *   (c) a rates rebate granted under the [Rates Rebate Act 1973][300] before the adoption of the rates replacement proposal; or
+    *   (c) a rates rebate granted under the [Rates Rebate Act 1973][295] before the adoption of the rates replacement proposal; or
     
     *   (d) a discount given under a policy provided for in [section 55(3)][80] or [section 56(4)][81], or a penalty imposed under [section 57][83], before the adoption of the rates replacement proposal; or
     
@@ -3404,7 +3404,7 @@ Replacement of rates and miscellaneous matters
         
     *   (a) [Parts 3 to 5][62]:
     
-    *   (b) the [Rates Rebate Act 1973][300].
+    *   (b) the [Rates Rebate Act 1973][295].
     
     (4) The exclusion of all or part of a rating unit from the district of a local authority after the relevant year does not affect the ability of the local authority to assess a deficit on the unit.
     
@@ -3488,7 +3488,7 @@ Replacement of rates and miscellaneous matters
     
     *   (b) a function, power, or duty conferred by [subpart 2][9] of Part 1 or [subpart 1][186] of Part 5\.
     
-    Section 132(1)(a): amended, on 7 July 2004, by [section 9][301] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 132(1)(a): amended, on 7 July 2004, by [section 9][296] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 ##### 133 In certain cases Governor-General in Council may extend time or validate proceedings
     
@@ -3518,7 +3518,7 @@ Replacement of rates and miscellaneous matters
     
     Compare: 1988 No 97 s 119
     
-    Section 135(2): amended, on 7 July 2004, by [section 10][302] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 135(2): amended, on 7 July 2004, by [section 10][297] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 ##### 136 Notification
     
@@ -3546,7 +3546,7 @@ Replacement of rates and miscellaneous matters
     
     (5) However, a notice must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
     
-    Compare: 1974 No 66 [s 253][303]
+    Compare: 1974 No 66 [s 253][298]
 
 #### Amendments, savings, repeals of other enactments, and transitional provisions
 
@@ -3572,7 +3572,7 @@ Replacement of rates and miscellaneous matters
     
     (3) Rates that are remitted under subsection (1) must be treated as if they are remitted rates under this Act.
     
-    Section 139(2A): inserted, on 7 July 2004, by [section 11][304] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 139(2A): inserted, on 7 July 2004, by [section 11][299] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
     
     Section 139(2A): amended, on 27 November 2010, by [section 50][251] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
@@ -3592,7 +3592,7 @@ Replacement of rates and miscellaneous matters
 
 ##### 141 Transitional provision for rates-postponement values
     
-*   (1) Subsection (2) applies if a rates-postponement value of farmland that is determined under [section 22][305] of the Rating Valuations Act 1998 is entered on the valuation roll before 1 July 2003\.
+*   (1) Subsection (2) applies if a rates-postponement value of farmland that is determined under [section 22][300] of the Rating Valuations Act 1998 is entered on the valuation roll before 1 July 2003\.
     
     (2) Sections 158(1) and (2), 159, and 163 to 166 of the Rating Powers Act 1988 continue to apply to rates on the land---
         
@@ -3604,13 +3604,13 @@ Replacement of rates and miscellaneous matters
 
 ##### 142 Transitional provision for special rateable values
     
-*   (1) This section applies if a special rateable value of land that is determined under any of [sections 23 to 27][306] of the Rating Valuations Act 1998 is entered on the valuation roll before 1 July 2003\.
+*   (1) This section applies if a special rateable value of land that is determined under any of [sections 23 to 27][301] of the Rating Valuations Act 1998 is entered on the valuation roll before 1 July 2003\.
     
-    (2) [Section 30][307] of the Rating Valuations Act 1998 continues to apply to rates on the land as if that section had not been repealed.
+    (2) [Section 30][302] of the Rating Valuations Act 1998 continues to apply to rates on the land as if that section had not been repealed.
     
     (3) The special rateable value of the land must be treated as if it is the rateable value of the land for the purposes of this Act.
     
-    (4) This section applies until the first general revaluation of the land under [section 9][308] of the Rating Valuations Act 1998 takes place after the commencement of this section.
+    (4) This section applies until the first general revaluation of the land under [section 9][303] of the Rating Valuations Act 1998 takes place after the commencement of this section.
 
 ##### 143 Certain terms in other enactments must be treated as terms under this Act
     
@@ -3690,13 +3690,13 @@ Land fully non-rateable
 
 *   1 Land forming part of---
         
-    *   (a) a National Park under the [National Parks Act 1980][309]:
+    *   (a) a National Park under the [National Parks Act 1980][304]:
     
-    *   (b) a reserve under the [Reserves Act 1977][310]:
+    *   (b) a reserve under the [Reserves Act 1977][305]:
     
-    *   (c) a conservation area under the [Conservation Act 1987][311]:
+    *   (c) a conservation area under the [Conservation Act 1987][306]:
     
-    *   (d) a wildlife management reserve, wildlife refuge, or wildlife sanctuary under the [Wildlife Act 1953][312].
+    *   (d) a wildlife management reserve, wildlife refuge, or wildlife sanctuary under the [Wildlife Act 1953][307].
     
     
 
@@ -3742,7 +3742,7 @@ Land fully non-rateable
 
 *   5 Land owned or used by, and for the purposes of,---
         
-    *   (a) the New Zealand Historic Places Trust:
+    *   (a) Heritage New Zealand Pouhere Taonga:
     
     *   (b) the Queen Elizabeth the Second National Trust:
     
@@ -3752,33 +3752,35 @@ Land fully non-rateable
     
     *   (e) the Royal New Zealand Foundation of the Blind, except as an endowment.
     
-    Schedule 1 Part 1 clause 5(e): amended, on 30 April 2003, by [section 28(1)][313] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
+    Schedule 1 Part 1 clause 5(a): replaced, on 20 May 2014, by [section 107][308] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Schedule 1 Part 1 clause 5(e): amended, on 30 April 2003, by [section 28(1)][309] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
 
 *   6 Land owned or used by, and for the purposes of,---
         
-    *   (a) a special school established under [section 98(1)][314] of the Education Act 1964:
+    *   (a) a special school established under [section 98(1)][310] of the Education Act 1964:
     
     *   (b) an educational establishment defined as---
             
-        *   (i) a state school under [section 2(1)][315] of the Education Act 1989:
+        *   (i) a state school under [section 2(1)][311] of the Education Act 1989:
         
-        *   (ii) an integrated school under [section 2(1)][316] of the Private Schools Conditional Integration Act 1975:
+        *   (ii) an integrated school under [section 2(1)][312] of the Private Schools Conditional Integration Act 1975:
         
-        *   (iii) a special institution under [section 92(1)][317] of the Education Act 1989:
+        *   (iii) a special institution under [section 92(1)][313] of the Education Act 1989:
         
-        *   (iv) an early childhood education and care centre under [section 309][318] of the Education Act 1989, excluding any early childhood centres that operate for profit:
+        *   (iv) an early childhood education and care centre under [section 309][314] of the Education Act 1989, excluding any early childhood centres that operate for profit:
         
-        *   (v) a school under [section 35A][319] of the Education Act 1989, excluding any registered schools that operate for profit:
+        *   (v) a school under [section 35A][315] of the Education Act 1989, excluding any registered schools that operate for profit:
         
-        *   (vi) a partnership school kura hourua (within the meaning of [section 2(1)][315] of the Education Act 1989), excluding any partnership school kura hourua that operates for profit:
+        *   (vi) a partnership school kura hourua (within the meaning of [section 2(1)][311] of the Education Act 1989), excluding any partnership school kura hourua that operates for profit:
         
         
     
-    *   (c) an institution under [section 159(1)][320] of the Education Act 1989\.
+    *   (c) an institution under [section 159(1)][316] of the Education Act 1989\.
     
-    Schedule 1 Part 1 clause 6(b)(iv): amended, on 1 December 2008, by [section 60(1)][321] of the Education Amendment Act 2006 (2006 No 19).
+    Schedule 1 Part 1 clause 6(b)(iv): amended, on 1 December 2008, by [section 60(1)][317] of the Education Amendment Act 2006 (2006 No 19).
     
-    Schedule 1 Part 1 clause 6(b)(vi): inserted, on 13 June 2013, by [section 47][322] of the Education Amendment Act 2013 (2013 No 34).
+    Schedule 1 Part 1 clause 6(b)(vi): inserted, on 13 June 2013, by [section 47][318] of the Education Amendment Act 2013 (2013 No 34).
 
 *   7 Land owned or used by, and for the purposes of, an institution for the instruction and training of students in theology and associated subjects, being land that does not exceed 1.5 hectares for any one institution.
 
@@ -3794,7 +3796,7 @@ Land fully non-rateable
 
 *   10 Land that does not exceed 2 hectares and that is used as---
         
-    *   (a) a cemetery, crematorium, or burial ground, within the meaning of [section 2(1)][323] of the Burial and Cremation Act 1964 (except a burial ground or crematorium that is owned and conducted for private pecuniary profit):
+    *   (a) a cemetery, crematorium, or burial ground, within the meaning of [section 2(1)][319] of the Burial and Cremation Act 1964 (except a burial ground or crematorium that is owned and conducted for private pecuniary profit):
     
     *   (b) a Māori burial ground.
     
@@ -3806,7 +3808,7 @@ Land fully non-rateable
         
     *   (a) that is used for the purposes of a marae or meeting place and that does not exceed 2 hectares; or
     
-    *   (b) that is a Māori reservation under [section 340][324] of that Act.
+    *   (b) that is a Māori reservation under [section 340][320] of that Act.
     
     
 
@@ -3860,7 +3862,7 @@ Land fully non-rateable
         
     *   (a) fixed to, or under, or over any part of the common marine and coastal area; and
     
-    *   (b) owned, or deemed to be owned, by the Crown under [section 18][325] or [19][326] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
+    *   (b) owned, or deemed to be owned, by the Crown under [section 18][321] or [19][322] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
     Schedule 1 Part 1 clause 25: added, on 1 April 2011, by [section 128][250] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -3868,15 +3870,15 @@ Land fully non-rateable
     
 *   1 For the purposes of this Part, unless the context otherwise requires,---
     
-    **aerodrome** has the same meaning as in [section 2][327] of the Civil Aviation Act 1990
+    **aerodrome** has the same meaning as in [section 2][323] of the Civil Aviation Act 1990
     
-    **airport authority** has the same meaning as in [section 2][328] of the Airport Authorities Act 1966
+    **airport authority** has the same meaning as in [section 2][324] of the Airport Authorities Act 1966
     
     **persons in need** means persons in New Zealand who need care, support, or assistance because they are orphaned, aged, infirm, disabled, sick, or needy
     
-    **railway line** has the same meaning as in [section 4(1)][329] of the Railways Act 2005
+    **railway line** has the same meaning as in [section 4(1)][325] of the Railways Act 2005
     
-    **railway operator** has the same meaning as in [section 2(1)][330] of the New Zealand Railways Corporation Restructuring Act 1990
+    **railway operator** has the same meaning as in [section 2(1)][326] of the New Zealand Railways Corporation Restructuring Act 1990
     
     **wharf**---
         
@@ -3886,9 +3888,9 @@ Land fully non-rateable
     
     
 
-*   2 For the purposes of [clauses 1][331] and [2][332], **land** does not include land that is used primarily or exclusively for private or commercial purposes under a lease, licence, or other agreement.
+*   2 For the purposes of [clauses 1][327] and [2][328], **land** does not include land that is used primarily or exclusively for private or commercial purposes under a lease, licence, or other agreement.
 
-*   3 For the purposes of [clauses 3][333], [9][334], and [10][335], land must not be treated as being used for private pecuniary profit solely because charges are made for the admission to, or use of, that land if the net proceeds of the charges are applied,---
+*   3 For the purposes of [clauses 3][329], [9][330], and [10][331], land must not be treated as being used for private pecuniary profit solely because charges are made for the admission to, or use of, that land if the net proceeds of the charges are applied,---
         
     *   (a) in the case of a local authority, as part of the local authority's revenues:
     
@@ -3904,7 +3906,7 @@ Land fully non-rateable
     
     
 
-*   5 For the purposes of [clauses 18 to 20][336], **land** does not include land that is used---
+*   5 For the purposes of [clauses 18 to 20][332], **land** does not include land that is used---
         
     *   (a) for administrative purposes; or
     
@@ -3912,13 +3914,13 @@ Land fully non-rateable
     
     
 
-*   6 For the purposes of [clause 21][337], an institution must be treated as being carried on for the free maintenance and relief of the persons to whom that clause applies if---
+*   6 For the purposes of [clause 21][333], an institution must be treated as being carried on for the free maintenance and relief of the persons to whom that clause applies if---
         
     *   (a) those persons are admitted to the institution regardless of their ability to pay for the maintenance or relief; and
     
     *   (b) no charge is made to those persons or any other persons if payment of the charge would cause those persons to suffer hardship.
     
-    *   Schedule 1 Part 1 note 1 **railway line**: substituted, on 20 July 2005, by [section 103(3)][338] of the Railways Act 2005 (2005 No 37).
+    *   Schedule 1 Part 1 note 1 **railway line**: substituted, on 20 July 2005, by [section 103(3)][334] of the Railways Act 2005 (2005 No 37).
     
     
 
@@ -3936,9 +3938,9 @@ Land 50% non-rateable
 *   For the purposes of this Part, unless the context otherwise requires,---
 
 *   **land** does not include land used for the private pecuniary profit of any members of the society or association
-*   **land**, in [clause 2][339], excludes land in respect of which a club licence under the [Sale and Supply of Alcohol Act 2012][340] is for the time being in force.
+*   **land**, in [clause 2][335], excludes land in respect of which a club licence under the [Sale and Supply of Alcohol Act 2012][336] is for the time being in force.
 
-*   Schedule 1 Part 2 Notes **land**: amended, on 18 December 2013, by [section 417(1)][341] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule 1 Part 2 Notes **land**: amended, on 18 December 2013, by [section 417(1)][337] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 Compare: 1988 No 97 Schedule 1, Schedule 2
 
@@ -3955,7 +3957,7 @@ Matters that may be used to define categories of rateable land
 
 *   3 The activities that are proposed to be permitted, controlled, or discretionary activities, and the proposed rules for the area in which the land is situated under a proposed district plan or proposed regional plan under the Resource Management Act 1991, but only if---
         
-    *   (a) no submissions in opposition have been made under [clause 6][342] of Schedule 1 of that Act on those proposed activities or rules, and the time for making submissions has expired; or
+    *   (a) no submissions in opposition have been made under [clause 6][338] of Schedule 1 of that Act on those proposed activities or rules, and the time for making submissions has expired; or
     
     *   (b) all submissions in opposition, and any appeals, have been determined, withdrawn, or dismissed.
     
@@ -4006,9 +4008,9 @@ Factors that may be used in calculating liability for targeted rates
 
 ##### Notes:
     
-*   1 For the purposes of [clauses 1 to 5][343], [8][344], and [10][345], **rating unit** includes part of a rating unit.
+*   1 For the purposes of [clauses 1 to 5][339], [8][340], and [10][341], **rating unit** includes part of a rating unit.
 
-*   2 For the purposes of [clause 4][346], **value of improvements** is the value calculated in accordance with the following formula:
+*   2 For the purposes of [clause 4][342], **value of improvements** is the value calculated in accordance with the following formula:
     
     c − l
 
@@ -4020,9 +4022,9 @@ Factors that may be used in calculating liability for targeted rates
     
     
 
-*   3 For the purposes of [clause 8][344], the extent of provision of a service to the land must be measured objectively and be able to be verified.
+*   3 For the purposes of [clause 8][340], the extent of provision of a service to the land must be measured objectively and be able to be verified.
 
-*   4 For the purposes of [clause 12][347], a rating unit used primarily as a residence for 1 household must not be treated as having more than 1 water closet or urinal.
+*   4 For the purposes of [clause 12][343], a rating unit used primarily as a residence for 1 household must not be treated as having more than 1 water closet or urinal.
 
 ---
 
@@ -4031,7 +4033,7 @@ Lump sum contributions
 
 [ss 117E(1)][169], [117G(2)][172]
 
-*   Schedule 3A: inserted, on 28 June 2006, by [section 11][348] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+*   Schedule 3A: inserted, on 28 June 2006, by [section 11][344] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ## Part 1  
 Matters to be included in capital project funding plan
@@ -4170,23 +4172,23 @@ Amendments to Rating Valuations Act 1998
 
 ##### Section 2(1)
 
-_Amendment(s) incorporated in the [Act(s)][349]._
+_Amendment(s) incorporated in the [Act(s)][345]._
 
 ##### Section 4(2)
 
-_Amendment(s) incorporated in the [Act(s)][350]._
+_Amendment(s) incorporated in the [Act(s)][346]._
 
 ##### Section 5(1)
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][347]._
 
 ##### New sections 5A to 5C
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][347]._
 
 ##### Section 6
 
-_Amendment(s) incorporated in the [Act(s)][352]._
+_Amendment(s) incorporated in the [Act(s)][348]._
 
 ##### Section 7
 
@@ -4194,7 +4196,7 @@ _Amendment(s) incorporated in the [Act(s)][238]._
 
 ##### Section 9(1)
 
-_Amendment(s) incorporated in the [Act(s)][308]._
+_Amendment(s) incorporated in the [Act(s)][303]._
 
 ##### Section 11(2)
 
@@ -4202,99 +4204,99 @@ _Amendment(s) incorporated in the [Act(s)][239]._
 
 ##### Section 12
 
-_Amendment(s) incorporated in the [Act(s)][353]._
+_Amendment(s) incorporated in the [Act(s)][349]._
 
 ##### Section 13
 
-_Amendment(s) incorporated in the [Act(s)][354]._
+_Amendment(s) incorporated in the [Act(s)][350]._
 
 ##### Section 14
 
-_Amendment(s) incorporated in the [Act(s)][355]._
+_Amendment(s) incorporated in the [Act(s)][351]._
 
 ##### Section 15
 
-_Amendment(s) incorporated in the [Act(s)][356]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Section 16
 
-_Amendment(s) incorporated in the [Act(s)][357]._
+_Amendment(s) incorporated in the [Act(s)][353]._
 
 ##### Section 17
 
-_Amendment(s) incorporated in the [Act(s)][358]._
+_Amendment(s) incorporated in the [Act(s)][354]._
 
 ##### Heading immediately before section 18
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][355]._
 
 ##### Sections 18 and 19
 
-_Amendment(s) incorporated in the [Act(s)][360]._
+_Amendment(s) incorporated in the [Act(s)][356]._
 
 ##### Section 20
 
-_Amendment(s) incorporated in the [Act(s)][361]._
+_Amendment(s) incorporated in the [Act(s)][357]._
 
 ##### Section 21
 
-_Amendment(s) incorporated in the [Act(s)][362]._
+_Amendment(s) incorporated in the [Act(s)][358]._
 
 ##### Sections 22 to 31
 
-_Amendment(s) incorporated in the [Act(s)][305]._
+_Amendment(s) incorporated in the [Act(s)][300]._
 
 ##### Section 32
 
-_Amendment(s) incorporated in the [Act(s)][363]._
+_Amendment(s) incorporated in the [Act(s)][359]._
 
 ##### Section 33
 
-_Amendment(s) incorporated in the [Act(s)][364]._
+_Amendment(s) incorporated in the [Act(s)][360]._
 
 ##### Section 34(1)
 
-_Amendment(s) incorporated in the [Act(s)][365]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Section 35
 
-_Amendment(s) incorporated in the [Act(s)][366]._
+_Amendment(s) incorporated in the [Act(s)][362]._
 
 ##### Section 36(c)
 
-_Amendment(s) incorporated in the [Act(s)][367]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### Section 37(2)(b)
 
-_Amendment(s) incorporated in the [Act(s)][368]._
+_Amendment(s) incorporated in the [Act(s)][364]._
 
 ##### Section 40
 
-_Amendment(s) incorporated in the [Act(s)][369]._
+_Amendment(s) incorporated in the [Act(s)][365]._
 
 ##### Section 41
 
-_Amendment(s) incorporated in the [Act(s)][370]._
+_Amendment(s) incorporated in the [Act(s)][366]._
 
 ##### Section 43
 
-_Amendment(s) incorporated in the [Act(s)][371]._
+_Amendment(s) incorporated in the [Act(s)][367]._
 
 ##### Section 44
 
-_Amendment(s) incorporated in the [Act(s)][372]._
+_Amendment(s) incorporated in the [Act(s)][368]._
 
 ##### Section 46
 
-_Amendment(s) incorporated in the [Act(s)][373]._
+_Amendment(s) incorporated in the [Act(s)][369]._
 
 ##### Section 51
 
-_Amendment(s) incorporated in the [Act(s)][374]._
+_Amendment(s) incorporated in the [Act(s)][370]._
 
 ##### Section 52(1)(f)
 
-_Amendment(s) incorporated in the [Act(s)][349]._
+_Amendment(s) incorporated in the [Act(s)][345]._
 
 ---
 
@@ -4308,7 +4310,7 @@ Amendments to other Acts (other than local and private Acts)
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][375]._
+_Amendment(s) incorporated in the [Act(s)][371]._
 
 ##### Building Act 1991 (1991 No 150)
 
@@ -4316,19 +4318,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Carter Observatory Act 1938 (1938 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][376]._
+_Amendment(s) incorporated in the [Act(s)][372]._
 
 ##### Chatham Islands Council Act 1995 (1995 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][377]._
+_Amendment(s) incorporated in the [Act(s)][373]._
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][378]._
+_Amendment(s) incorporated in the [Act(s)][374]._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][379]._
+_Amendment(s) incorporated in the [Act(s)][375]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
@@ -4336,67 +4338,67 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][380]._
+_Amendment(s) incorporated in the [Act(s)][376]._
 
 ##### Housing Assets Transfer Act 1993 (1993 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][381]._
+_Amendment(s) incorporated in the [Act(s)][377]._
 
 ##### Irrigation Schemes Act 1990 (1990 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][382]._
+_Amendment(s) incorporated in the [Act(s)][378]._
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][281]._
+_Amendment(s) incorporated in the [Act(s)][276]._
 
 ##### Land Drainage Act 1908 (1908 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][383]._
+_Amendment(s) incorporated in the [Act(s)][379]._
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][384]._
+_Amendment(s) incorporated in the [Act(s)][380]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][385]._
+_Amendment(s) incorporated in the [Act(s)][381]._
 
 ##### Maori Purposes Act 1931 (1931 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][386]._
+_Amendment(s) incorporated in the [Act(s)][382]._
 
 ##### Maori Purposes Act 1936 (1936 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][387]._
+_Amendment(s) incorporated in the [Act(s)][383]._
 
 ##### Maori Purposes Act 1947 (1947 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][388]._
+_Amendment(s) incorporated in the [Act(s)][384]._
 
 ##### Maori Purposes Act 1969 (1969 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][389]._
+_Amendment(s) incorporated in the [Act(s)][385]._
 
 ##### Maori Reserved Land Act 1955 (1955 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][390]._
+_Amendment(s) incorporated in the [Act(s)][386]._
 
 ##### Maori Vested Lands Administration Act 1954 (1954 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][391]._
+_Amendment(s) incorporated in the [Act(s)][387]._
 
 ##### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][392]._
+_Amendment(s) incorporated in the [Act(s)][388]._
 
 ##### Orakei Act 1991 (1991 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][393]._
+_Amendment(s) incorporated in the [Act(s)][389]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][394]._
+_Amendment(s) incorporated in the [Act(s)][390]._
 
 ##### Railway Safety and Corridor Management Act 1992 (1992 No 111)
 
@@ -4404,62 +4406,62 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rates Rebate Act 1973 (1973 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][300]._
+_Amendment(s) incorporated in the [Act(s)][295]._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][310]._
+_Amendment(s) incorporated in the [Act(s)][305]._
 
 ##### River Boards Act 1908 (1908 No 165)
 
-_Amendment(s) incorporated in the [Act(s)][395]._
+_Amendment(s) incorporated in the [Act(s)][391]._
 
 ##### Soil Conservation and Rivers Control Amendment Act 1946 (1946 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][396]._
+_Amendment(s) incorporated in the [Act(s)][392]._
 
 ##### Soil Conservation and Rivers Control Amendment Act 1948 (1948 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][397]._
+_Amendment(s) incorporated in the [Act(s)][393]._
 
 ##### Statutory Land Charges Registration Act 1928 (1928 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][398]._
+_Amendment(s) incorporated in the [Act(s)][394]._
 
 ##### Taupiri Drainage and River District Act 1929 (1929 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][399]._
+_Amendment(s) incorporated in the [Act(s)][395]._
 
 ##### Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][400]._
+_Amendment(s) incorporated in the [Act(s)][396]._
 
 ##### Waitangi National Trust Board Act 1932 (1932 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][401]._
+_Amendment(s) incorporated in the [Act(s)][397]._
 
 ##### Waitutu Block Settlement Act 1997 (1997 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][402]._
+_Amendment(s) incorporated in the [Act(s)][398]._
 
 ## Part 2  
 Local and private Acts amended
 
 ##### Auckland Harbour Board (Princes Wharf) Empowering Act 1989 (1989 No 8 (L))
 
-_Amendment(s) incorporated in the [Act(s)][403]._
+_Amendment(s) incorporated in the [Act(s)][399]._
 
 ##### Auckland War Memorial Museum Act 1996 (1996 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][404]._
+_Amendment(s) incorporated in the [Act(s)][400]._
 
 ##### Canterbury Museum Trust Board Act 1993 (1993 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][405]._
+_Amendment(s) incorporated in the [Act(s)][401]._
 
 ##### Christchurch District Drainage Act 1951 (1951 No 21 (L))
 
-_Amendment(s) incorporated in the [Act(s)][406]._
+_Amendment(s) incorporated in the [Act(s)][402]._
 
 ##### Dunedin District Drainage and Sewerage Act 1900 (1900 No 25 (L))
 
@@ -4467,30 +4469,30 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Hawke's Bay Regional Council (Surplus Funds Distribution) Empowering Act 1999 (1999 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][407]._
+_Amendment(s) incorporated in the [Act(s)][403]._
 
 ##### Museum of Transport and Technology Act 2000 (2000 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][408]._
+_Amendment(s) incorporated in the [Act(s)][404]._
 
 ##### North Shore Drainage Act 1963 (1963 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][409]._
+_Amendment(s) incorporated in the [Act(s)][405]._
 
 ##### Otago Museum Trust Board Act 1996 (1996 No 1 (L))
 
-_Amendment(s) incorporated in the [Act(s)][410]._
+_Amendment(s) incorporated in the [Act(s)][406]._
 
 ##### Wellington Regional Council (Stadium Empowering) Act 1996 (1996 No 5 (L))
 
-_Amendment(s) incorporated in the [Act(s)][411]._
+_Amendment(s) incorporated in the [Act(s)][407]._
 
 ## Part 3  
 Regulations amended
 
 ##### Biosecurity (Bovine Tuberculosis---Otago Land Levy) Order 1998 (SR 1998/442)
 
-_Amendment(s) incorporated in the [order(s)][412]._
+_Amendment(s) incorporated in the [order(s)][408]._
 
 ##### Commodity Levies (Nashi Asian Pears) Order 1999 (SR 1999/221)
 
@@ -4502,7 +4504,7 @@ _Amendment(s) incorporated in the order(s)._
 
 ##### Domestic Violence Act Commencement Order 1998 (SR 1998/343)
 
-_Amendment(s) incorporated in the [order(s)][413]._
+_Amendment(s) incorporated in the [order(s)][409]._
 
 ##### Fire Safety and Evacuation of Buildings Regulations 1992 (SR 1992/361)
 
@@ -4514,15 +4516,15 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Maori Land Court Rules 1994 (SR 1994/35)
 
-_Amendment(s) incorporated in the [rules][414]._
+_Amendment(s) incorporated in the [rules][410]._
 
 ##### Rating (Fees) Regulations 1997 (SR 1997/325)
 
-_Amendment(s) incorporated in the [regulations][415]._
+_Amendment(s) incorporated in the [regulations][411]._
 
 ##### Rating Valuations (Local Authority Charges) Regulations 1999 (SR 1999/146)
 
-_Amendment(s) incorporated in the [regulations][416]._
+_Amendment(s) incorporated in the [regulations][412]._
 
 ##### Rating Valuations Regulations 1998 (SR 1998/177)
 
@@ -4540,155 +4542,155 @@ Enactments repealed
 
 ##### Children's Health Camps Board Dissolution Act 1999 (1999 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][417]._
+_Amendment(s) incorporated in the [Act(s)][413]._
 
 ##### District Courts Amendment Act 1998 (1998 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][418]._
+_Amendment(s) incorporated in the [Act(s)][414]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][419]._
+_Amendment(s) incorporated in the [Act(s)][415]._
 
 ##### Health Sector (Transfers) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][420]._
+_Amendment(s) incorporated in the [Act(s)][416]._
 
 ##### Local Authorities Empowering Act 1915 (1915 No 10)
 
 ##### Local Government Amendment Act (No 3) 1996 (1996 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][421]._
+_Amendment(s) incorporated in the [Act(s)][417]._
 
 ##### Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27)
 
 ##### Local Legislation Act 1927 (1927 No 58)
 
-_Amendment(s) incorporated in the [Act(s)][422]._
+_Amendment(s) incorporated in the [Act(s)][418]._
 
 ##### Local Legislation Act 1932--33 (1932--33 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][423]._
+_Amendment(s) incorporated in the [Act(s)][419]._
 
 ##### Local Legislation Act 1933 (1933 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][424]._
+_Amendment(s) incorporated in the [Act(s)][420]._
 
 ##### Local Legislation Act 1935 (1935 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][425]._
+_Amendment(s) incorporated in the [Act(s)][421]._
 
 ##### Local Legislation Act 1936 (1936 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][426]._
+_Amendment(s) incorporated in the [Act(s)][422]._
 
 ##### Local Legislation Act 1937 (1937 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][427]._
+_Amendment(s) incorporated in the [Act(s)][423]._
 
 ##### Local Legislation Act 1940 (1940 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][428]._
+_Amendment(s) incorporated in the [Act(s)][424]._
 
 ##### Local Legislation Act 1941 (1941 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][429]._
+_Amendment(s) incorporated in the [Act(s)][425]._
 
 ##### Local Legislation Act 1943 (1943 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][430]._
+_Amendment(s) incorporated in the [Act(s)][426]._
 
 ##### Local Legislation Act 1944 (1944 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][431]._
+_Amendment(s) incorporated in the [Act(s)][427]._
 
 ##### Local Legislation Act 1949 (1949 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][432]._
+_Amendment(s) incorporated in the [Act(s)][428]._
 
 ##### Local Legislation Act 1952 (1952 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][433]._
+_Amendment(s) incorporated in the [Act(s)][429]._
 
 ##### Local Legislation Act 1954 (1954 No 57)
 
-_Amendment(s) incorporated in the [Act(s)][433]._
+_Amendment(s) incorporated in the [Act(s)][429]._
 
 ##### Local Legislation Act 1955 (1955 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][434]._
+_Amendment(s) incorporated in the [Act(s)][430]._
 
 ##### Local Legislation Act 1959 (1959 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][435]._
+_Amendment(s) incorporated in the [Act(s)][431]._
 
 ##### Local Legislation Act 1960 (1960 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][436]._
+_Amendment(s) incorporated in the [Act(s)][432]._
 
 ##### Local Legislation Act 1983 (1983 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][437]._
+_Amendment(s) incorporated in the [Act(s)][433]._
 
 ##### Manawatu Gorge Road and Bridge Act 1919 (1919 No 10)
 
 ##### Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][438]._
+_Amendment(s) incorporated in the [Act(s)][434]._
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][439]._
+_Amendment(s) incorporated in the [Act(s)][435]._
 
 ##### New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][440]._
+_Amendment(s) incorporated in the [Act(s)][436]._
 
 ##### Public Bodies Leases Act 1969 (1969 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][441]._
+_Amendment(s) incorporated in the [Act(s)][437]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][442]._
+_Amendment(s) incorporated in the [Act(s)][438]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
 ##### Reserves and Other Lands Disposal Act 1934 (1934 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][443]._
+_Amendment(s) incorporated in the [Act(s)][439]._
 
 ##### Reserves and Other Lands Disposal Act 1949 (1949 No 34)
 
-_Amendment(s) incorporated in the [Act(s)][444]._
+_Amendment(s) incorporated in the [Act(s)][440]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1914 (1914 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][445]._
+_Amendment(s) incorporated in the [Act(s)][441]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1919 (1919 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][446]._
+_Amendment(s) incorporated in the [Act(s)][442]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1922 (1922 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][447]._
+_Amendment(s) incorporated in the [Act(s)][443]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1924 (1924 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][448]._
+_Amendment(s) incorporated in the [Act(s)][444]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][449]._
+_Amendment(s) incorporated in the [Act(s)][445]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][450]._
+_Amendment(s) incorporated in the [Act(s)][446]._
 
 ##### Taieri River Improvement Act 1920 (1920 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][451]._
+_Amendment(s) incorporated in the [Act(s)][447]._
 
 ##### Taieri River Improvement Amendment Act 1921 (1921 No 9 (L))
 
@@ -4696,7 +4698,7 @@ _Amendment(s) incorporated in the [Act(s)][451]._
 
 ##### Wildlife Act 1953 (1953 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][452]._
+_Amendment(s) incorporated in the [Act(s)][448]._
 
 ## Part 2  
 Regulations revoked
@@ -4713,7 +4715,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Government (Rating) Amendment Act 2006][453].
+*   This Act is the [Local Government (Rating) Amendment Act 2006][449].
 
 ##### 2 Commencement
     
@@ -4729,9 +4731,9 @@ Commencementsee section 2
     
 *   Any amendments made by this Act that have the effect of requiring an amendment to a long-term council community plan (to ensure that it complies with the requirements of the principal Act, as amended by this Act)---
         
-    *   (a) do not apply to a long-term council community plan to which [section 280][454] of the Local Government Act 2002 applies, whether it is adopted before or after the commencement of this Act; but
+    *   (a) do not apply to a long-term council community plan to which [section 280][450] of the Local Government Act 2002 applies, whether it is adopted before or after the commencement of this Act; but
     
-    *   (b) do apply to any amendment made to a long-term council community plan to which [section 280][454] of the Local Government Act 2002 applies adopted after the commencement of this Act.
+    *   (b) do apply to any amendment made to a long-term council community plan to which [section 280][450] of the Local Government Act 2002 applies adopted after the commencement of this Act.
     
     
 
@@ -4747,37 +4749,39 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][455] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][456] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][451] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][452] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][457] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][458] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][453] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][454] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Education Amendment Act 2013 (2013 No 34): [section 47][322]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][308]
     
-    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][341]
+    Education Amendment Act 2013 (2013 No 34): [section 47][318]
+    
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][337]
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][250]
     
-    Limitation Act 2010 (2010 No 110): [section 58][277]
+    Limitation Act 2010 (2010 No 110): [section 58][272]
     
     Local Government Act 2002 Amendment Act 2010: [section 50][251]
     
-    [Local Government (Rating) Amendment Act 2006 (2006 No 28)][453]
+    [Local Government (Rating) Amendment Act 2006 (2006 No 28)][449]
     
-    Education Amendment Act 2006 (2006 No 19): [section 60(1)][321]
+    Education Amendment Act 2006 (2006 No 19): [section 60(1)][317]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][338]
+    Railways Act 2005 (2005 No 37): [section 103(3)][334]
     
-    [Local Government (Rating) Amendment Act 2004 (2004 No 66)][459]
+    [Local Government (Rating) Amendment Act 2004 (2004 No 66)][455]
     
-    [Local Government (Rating) Amendment Act 2003 (2003 No 83)][460]
+    [Local Government (Rating) Amendment Act 2003 (2003 No 83)][456]
     
     Local Government Act 2002 (2002 No 84): [section 262][234]
     
-    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][313]
+    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][309]
 
 
 
@@ -5052,193 +5056,189 @@ Commencementsee section 2
 [268]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374311
 [269]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374313
 [270]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM242775
-[271]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM154958
-[272]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM154932
-[273]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM154935
-[274]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM154949
-[275]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM154955
-[276]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2033100
-[277]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2033287
-[278]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM147641
-[279]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304040
-[280]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304041
-[281]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM250585
-[282]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM252193
-[283]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427497
-[284]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427602
-[285]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304042
-[286]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292863
-[287]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292146
-[288]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290975
-[289]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290547
-[290]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291271
-[291]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291276
-[292]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290978
-[293]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291887
-[294]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172359
-[295]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM176082
-[296]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374314
-[297]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133543
-[298]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133544
-[299]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172360
-[300]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM409295
-[301]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304045
-[302]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304046
-[303]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM419885
-[304]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304047
-[305]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427649
-[306]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427651
-[307]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427665
-[308]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427613
-[309]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM36962
-[310]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM444304
-[311]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM103609
-[312]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM276813
-[313]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM121634
-[314]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM358141
-[315]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM175965
-[316]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM437352
-[317]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180449
-[318]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM187091
-[319]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM178265
-[320]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM182904
-[321]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM373082
-[322]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM4807581
-[323]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM355084
-[324]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292890
-[325]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3213290
-[326]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3213291
-[327]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM214692
-[328]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM379829
-[329]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM341575
-[330]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM222636
-[331]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733703
-[332]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733706
-[333]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733708
-[334]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733714
-[335]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733715
-[336]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733723
-[337]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733726
-[338]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM343101
-[339]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738400
-[340]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3339302
-[341]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3339984
-[342]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM241221
-[343]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738402
-[344]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738404
-[345]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738406
-[346]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738408
-[347]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738411
-[348]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374350
-[349]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427713
-[350]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427490
-[351]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427492
-[352]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427606
-[353]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427618
-[354]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427620
-[355]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427624
-[356]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427629
-[357]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427631
-[358]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427634
-[359]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427636
-[360]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427638
-[361]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427643
-[362]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427646
-[363]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427670
-[364]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427673
-[365]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427676
-[366]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427678
-[367]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427681
-[368]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427683
-[369]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427688
-[370]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427692
-[371]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427695
-[372]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427700
-[373]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427703
-[374]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427711
-[375]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM314622
-[376]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM224169
-[377]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM367665
-[378]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM281857
-[379]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM285784
-[380]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM300510
-[381]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM302546
-[382]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM211846
-[383]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM160976
-[384]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM270611
-[385]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM415531
-[386]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM210308
-[387]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM221301
-[388]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM245836
-[389]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM393392
-[390]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM289716
-[391]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM287740
-[392]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM429089
-[393]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM252326
-[394]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM296638
-[395]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172771
-[396]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM240809
-[397]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM248870
-[398]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM204851
-[399]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM207660
-[400]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM99419
-[401]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM213209
-[402]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM413913
-[403]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM79398
-[404]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83369
-[405]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM81341
-[406]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM54088
-[407]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM84780
-[408]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM119384
-[409]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM60624
-[410]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83312
-[411]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83642
-[412]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM269219
-[413]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM264465
-[414]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM185481
-[415]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM242667
-[416]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM285632
-[417]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM133536
-[418]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427921
-[419]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM308705
-[420]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM295712
-[421]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM394122
-[422]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM203684
-[423]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM213845
-[424]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM215616
-[425]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM218630
-[426]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM220483
-[427]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM221782
-[428]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM228891
-[429]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM234685
-[430]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM235978
-[431]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM237456
-[432]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM259220
-[433]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM287312
-[434]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291717
-[435]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM324015
-[436]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM325643
-[437]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM66576
-[438]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM260621
-[439]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83147
-[440]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM223174
-[441]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM394879
-[442]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM48325
-[443]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM216789
-[444]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM258773
-[445]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180973
-[446]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM191394
-[447]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM196183
-[448]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM199071
-[449]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM230264
-[450]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM230364
-[451]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM42120
-[452]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM277877
-[453]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM373996
-[454]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM174208
-[455]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998516
-[456]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998515
-[457]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998532
-[458]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[459]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304027
-[460]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217659
+[271]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2033100
+[272]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2033287
+[273]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM147641
+[274]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304040
+[275]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304041
+[276]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM250585
+[277]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM252193
+[278]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427497
+[279]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427602
+[280]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304042
+[281]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292863
+[282]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292146
+[283]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290975
+[284]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290547
+[285]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291271
+[286]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291276
+[287]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM290978
+[288]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291887
+[289]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172359
+[290]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM176082
+[291]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374314
+[292]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133543
+[293]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133544
+[294]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172360
+[295]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM409295
+[296]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304045
+[297]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304046
+[298]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM419885
+[299]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304047
+[300]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427649
+[301]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427651
+[302]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427665
+[303]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427613
+[304]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM36962
+[305]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM444304
+[306]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM103609
+[307]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM276813
+[308]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM4005646
+[309]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM121634
+[310]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM358141
+[311]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM175965
+[312]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM437352
+[313]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180449
+[314]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM187091
+[315]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM178265
+[316]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM182904
+[317]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM373082
+[318]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM4807581
+[319]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM355084
+[320]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM292890
+[321]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3213290
+[322]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3213291
+[323]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM214692
+[324]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM379829
+[325]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM341575
+[326]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM222636
+[327]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733703
+[328]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733706
+[329]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733708
+[330]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733714
+[331]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733715
+[332]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733723
+[333]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733726
+[334]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM343101
+[335]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738400
+[336]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3339302
+[337]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3339984
+[338]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM241221
+[339]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738402
+[340]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738404
+[341]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738406
+[342]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738408
+[343]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1738411
+[344]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374350
+[345]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427713
+[346]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427490
+[347]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427492
+[348]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427606
+[349]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427618
+[350]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427620
+[351]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427624
+[352]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427629
+[353]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427631
+[354]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427634
+[355]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427636
+[356]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427638
+[357]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427643
+[358]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427646
+[359]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427670
+[360]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427673
+[361]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427676
+[362]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427678
+[363]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427681
+[364]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427683
+[365]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427688
+[366]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427692
+[367]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427695
+[368]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427700
+[369]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427703
+[370]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427711
+[371]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM314622
+[372]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM224169
+[373]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM367665
+[374]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM281857
+[375]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM285784
+[376]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM300510
+[377]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM302546
+[378]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM211846
+[379]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM160976
+[380]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM270611
+[381]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM415531
+[382]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM210308
+[383]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM221301
+[384]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM245836
+[385]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM393392
+[386]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM289716
+[387]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM287740
+[388]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM429089
+[389]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM252326
+[390]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM296638
+[391]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM172771
+[392]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM240809
+[393]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM248870
+[394]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM204851
+[395]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM207660
+[396]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM99419
+[397]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM213209
+[398]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM413913
+[399]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM79398
+[400]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83369
+[401]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM81341
+[402]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM54088
+[403]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM84780
+[404]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM119384
+[405]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM60624
+[406]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83312
+[407]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83642
+[408]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM269219
+[409]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM264465
+[410]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM185481
+[411]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM242667
+[412]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM285632
+[413]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM133536
+[414]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM427921
+[415]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM308705
+[416]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM295712
+[417]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM394122
+[418]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM203684
+[419]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM213845
+[420]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM215616
+[421]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM218630
+[422]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM220483
+[423]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM221782
+[424]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM228891
+[425]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM234685
+[426]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM235978
+[427]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM237456
+[428]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM259220
+[429]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM287312
+[430]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM291717
+[431]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM324015
+[432]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM325643
+[433]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM66576
+[434]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM260621
+[435]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM83147
+[436]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM223174
+[437]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM394879
+[438]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM48325
+[439]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM216789
+[440]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM258773
+[441]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180973
+[442]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM191394
+[443]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM196183
+[444]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM199071
+[445]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM230264
+[446]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM230364
+[447]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM42120
+[448]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM277877
+[449]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM373996
+[450]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM174208
+[451]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998516
+[452]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998515
+[453]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2998532
+[454]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[455]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304027
+[456]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217659
