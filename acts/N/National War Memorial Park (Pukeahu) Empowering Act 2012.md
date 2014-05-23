@@ -1,3 +1,6 @@
+Reprint  
+as at 20 May 2014
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # National War Memorial Park (Pukeahu) Empowering Act 2012Public Act2012 No 76
@@ -6,144 +9,156 @@ Date of assent3 October 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry for Culture and Heritage.
+
+---
+
 ## Contents
 
-[1 ][0][][0][Title][0]
+[1 ][1][][1][Title][1]
 
-[2 ][1][][1][Commencement][1]
+[2 ][2][][2][Commencement][2]
 
-[Part 1][2]  
-[Preliminary provisions][2]
+[Part 1][3]  
+[Preliminary provisions][3]
 
-[3 ][3][][3][Purpose][3]
+[3 ][4][][4][Purpose][4]
 
-[4 ][4][][4][Interpretation][4]
+[4 ][5][][5][Interpretation][5]
 
-[5 ][5][][5][Meaning of Park land][5]
+[5 ][6][][6][Meaning of Park land][6]
 
-[6 ][6][][6][Status of plans in Schedule 9][6]
+[6 ][7][][7][Status of plans in Schedule 9][7]
 
-[7 ][7][][7][Act binds the Crown][7]
+[7 ][8][][8][Act binds the Crown][8]
 
-[Part 2][8]  
-[Statutory authorisations and other matters][8]
+[Part 2][9]  
+[Statutory authorisations and other matters][9]
 
-[Subpart 1][9][---][9][Resource consents and designations][9]
+[Subpart 1][10][---][10][Resource consents and designations][10]
 
-[Resource consents][10]
+[Resource consents][11]
 
-[8 ][11][][11][Resource consents granted][11]
+[8 ][12][][12][Resource consents granted][12]
 
-[Designation][12]
+[Designation][13]
 
-[9 ][13][][13][Designation provided for Agency][13]
+[9 ][14][][14][Designation provided for Agency][14]
 
-[Subpart 2][14][---][14][Authorities relating to archaeological sites][14]
+[Subpart 2][15][---][15][Authorities relating to archaeological sites][15]
 
-[10 ][15][][15][Authority to destroy, damage, or modify archaeological site][15]
+[10 ][16][][16][Authority to destroy, damage, or modify archaeological site][16]
 
-[Subpart 3][16][---][16][Building consents][16]
+[Subpart 3][17][---][17][Building consents][17]
 
-[11 ][17][][17][Interpretation][17]
+[11 ][18][][18][Interpretation][18]
 
-[12 ][18][][18][Building consents granted][18]
+[12 ][19][][19][Building consents granted][19]
 
-[13 ][19][][19][Payment of building levies ][19]
+[13 ][20][][20][Payment of building levies ][20]
 
-[14 ][20][][20][Certificate of code compliance and certificate of acceptance][20]
+[14 ][21][][21][Certificate of code compliance and certificate of acceptance][21]
 
-[15 ][21][][21][Determination of compliance][21]
+[15 ][22][][22][Determination of compliance][22]
 
-[16 ][22][][22][Use of Park or roading network][22]
+[16 ][23][][23][Use of Park or roading network][23]
 
-[Subpart 4][23][---][23][Access to property and granting of property rights][23]
+[Subpart 4][24][---][24][Access to property and granting of property rights][24]
 
-[17 ][24][][24][Powers of entry][24]
+[17 ][25][][25][Powers of entry][25]
 
-[18 ][25][][25][Property rights granted][25]
+[18 ][26][][26][Property rights granted][26]
 
-[Subpart 5][26][---][26][Certification of plans and documents][26]
+[Subpart 5][27][---][27][Certification of plans and documents][27]
 
-[Plans and documents prepared by Agency][27]
+[Plans and documents prepared by Agency][28]
 
-[19 ][28][][28][Preparation of draft plans and documents][28]
+[19 ][29][][29][Preparation of draft plans and documents][29]
 
-[20 ][29][][29][Appointment of experts for certification ][29]
+[20 ][30][][30][Appointment of experts for certification ][30]
 
-[21 ][30][][30][Certification][30]
+[21 ][31][][31][Certification][31]
 
-[22 ][31][][31][Alternative certification process][31]
+[22 ][32][][32][Alternative certification process][32]
 
-[Plans and documents prepared by Ministry][32]
+[Plans and documents prepared by Ministry][33]
 
-[23 ][33][][33][Preparation of draft plans and documents][33]
+[23 ][34][][34][Preparation of draft plans and documents][34]
 
-[24 ][34][][34][Certification][34]
+[24 ][35][][35][Certification][35]
 
-[Subpart 6][35][---][35][Orders in Council][35]
+[Subpart 6][36][---][36][Orders in Council][36]
 
-[25 ][36][][36][Governor-General may make Orders in Council for purpose of Act][36]
+[25 ][37][][37][Governor-General may make Orders in Council for purpose of Act][37]
 
-[26 ][37][][37][Expiry of section 25][37]
+[26 ][38][][38][Expiry of section 25][38]
 
-[Review panel][38]
+[Review panel][39]
 
-[27 ][39][][39][National War Memorial Park Review Panel][39]
+[27 ][40][][40][National War Memorial Park Review Panel][40]
 
-[28 ][40][][40][Function of National War Memorial Park Review Panel][40]
+[28 ][41][][41][Function of National War Memorial Park Review Panel][41]
 
-[29 ][41][][41][Further reporting by National War Memorial Park Review Panel][41]
+[29 ][42][][42][Further reporting by National War Memorial Park Review Panel][42]
 
-[30 ][42][][42][Procedure for recommending Order in Council][42]
+[30 ][43][][43][Procedure for recommending Order in Council][43]
 
-[31 ][43][][43][Further provisions about Orders in Council][43]
+[31 ][44][][44][Further provisions about Orders in Council][44]
 
-[Parliamentary scrutiny of Orders in Council][44]
+[Parliamentary scrutiny of Orders in Council][45]
 
-[32 ][45][][45][Order in Council under section 25 to be presented to House of Representatives promptly][45]
+[32 ][46][][46][Order in Council under section 25 to be presented to House of Representatives promptly][46]
 
-[33 ][46][][46][Disallowance of Order in Council under section 25][46]
+[33 ][47][][47][Disallowance of Order in Council under section 25][47]
 
-[34 ][47][][47][Disallowance has effect of revocation][47]
+[34 ][48][][48][Disallowance has effect of revocation][48]
 
-[35 ][48][][48][Notice of resolution to disallow Order in Council under section 25][48]
+[35 ][49][][49][Notice of resolution to disallow Order in Council under section 25][49]
 
-[36 ][49][][49][Application of Regulations (Disallowance) Act 1989][49]
+[36 ][50][][50][Application of Regulations (Disallowance) Act 1989][50]
 
-[Subpart 7][50][---][50][Community forum][50]
+[Subpart 7][51][---][51][Community forum][51]
 
-[37 ][51][][51][Community forum][51]
+[37 ][52][][52][Community forum][52]
 
-[Subpart 8][52][---][52][Amendments, etc, to statutory authorisations after 31 July 2015][52]
+[Subpart 8][53][---][53][Amendments, etc, to statutory authorisations after 31 July 2015][53]
 
-[38 ][53][][53][Amendments, etc, to statutory authorisations after 31 July 2015][53]
+[38 ][54][][54][Amendments, etc, to statutory authorisations after 31 July 2015][54]
 
-[Schedule 1][54]  
-[Resource consents granted to Agency and conditions applying][54]
+[Schedule 1][55]  
+[Resource consents granted to Agency and conditions applying][55]
 
-[Schedule 2][55]  
-[Resource consents granted to chief executive of Ministry and conditions applying to them][55]
+[Schedule 2][56]  
+[Resource consents granted to chief executive of Ministry and conditions applying to them][56]
 
-[Schedule 3][56]  
-[Designation provided to Agency and conditions applying][56]
+[Schedule 3][57]  
+[Designation provided to Agency and conditions applying][57]
 
-[Schedule 4][57]  
-[Archaeological authorities granted to Agency and conditions applying][57]
+[Schedule 4][58]  
+[Archaeological authorities granted to Agency and conditions applying][58]
 
-[Schedule 5][58]  
-[Building consents granted to Agency and conditions applying][58]
+[Schedule 5][59]  
+[Building consents granted to Agency and conditions applying][59]
 
-[Schedule 6][59]  
-[Building consents granted to chief executive of Ministry and conditions applying][59]
+[Schedule 6][60]  
+[Building consents granted to chief executive of Ministry and conditions applying][60]
 
-[Schedule 7][60]  
-[Power of entry and property rights granted to Agency and conditions applying][60]
+[Schedule 7][61]  
+[Power of entry and property rights granted to Agency and conditions applying][61]
 
-[Schedule 8][61]  
-[Power of entry and property rights granted to chief executive of Ministry and conditions applying][61]
+[Schedule 8][62]  
+[Power of entry and property rights granted to chief executive of Ministry and conditions applying][62]
 
-[Schedule 9][62]  
-[Plans][62]
+[Schedule 9][63]  
+[Plans][63]
 
 ---
 
@@ -200,49 +215,49 @@ Preliminary provisions
     
 *   In this Act, unless the context otherwise requires,---
     
-    _Agency_ means the New Zealand Transport Agency established under [section 93][63] of the Land Transport Management Act 2003
+    _Agency_ means the New Zealand Transport Agency established under [section 93][64] of the Land Transport Management Act 2003
     
-    _archaeological authority_ means an authority granted by [section 10][15] to destroy, damage, or modify an archaeological site
+    _archaeological authority_ means an authority granted by [section 10][16] to destroy, damage, or modify an archaeological site
     
-    _archaeological site_ has the meaning given in [section 2][64] of the Historic Places Act 1993
+    _archaeological site_ has the meaning given in [section 2][65] of the Historic Places Act 1993
     
     _authorising body_ means the consent authority or other body that would, but for this Act, be responsible for granting a statutory authorisation granted by or under this Act
     
-    _building consent_ has the meaning given in [section 7][65] of the Building Act 2004
+    _building consent_ has the meaning given in [section 7][66] of the Building Act 2004
     
-    _building consent authority_ has the meaning given in [section 7][65] of the Building Act 2004
+    _building consent authority_ has the meaning given in [section 7][66] of the Building Act 2004
     
     _certification_ means the process by which statutory authorisations are certified under---
         
-    *   (a) [sections 20 to 22][29], in relation to statutory authorisations granted to the Agency:
+    *   (a) [sections 20 to 22][30], in relation to statutory authorisations granted to the Agency:
     
-    *   (b) [section 24][34], in relation to statutory authorisations granted to the chief executive of the Ministry
+    *   (b) [section 24][35], in relation to statutory authorisations granted to the chief executive of the Ministry
     
-    _consent authority_ has the meaning given in [section 2(1)][66] of the Resource Management Act 1991
+    _consent authority_ has the meaning given in [section 2(1)][67] of the Resource Management Act 1991
     
-    _designation_ has the meaning given in [section 166][67] of the Resource Management Act 1991
+    _designation_ has the meaning given in [section 166][68] of the Resource Management Act 1991
     
-    _discharge permit_ has the meaning given in [section 87(e)][68] of the Resource Management Act 1991
+    _discharge permit_ has the meaning given in [section 87(e)][69] of the Resource Management Act 1991
     
     _district plan_---
         
-    *   (a) means the Wellington City District Plan as approved by the Wellington City Council under [Schedule 1][69] of the Resource Management Act 1991; and
+    *   (a) means the Wellington City District Plan as approved by the Wellington City Council under [Schedule 1][70] of the Resource Management Act 1991; and
     
     *   (b) includes all operative changes to that plan; and
     
     *   (c) includes a proposed plan, to the extent that---
             
-        *   (i) it has legal effect under [section 86B][70] of the Resource Management Act 1991; or
+        *   (i) it has legal effect under [section 86B][71] of the Resource Management Act 1991; or
         
-        *   (ii) must be treated as operative under [section 86F][71] of that Act; and
+        *   (ii) must be treated as operative under [section 86F][72] of that Act; and
         
         
     
     *   (d) includes any changes to the district plan notified before 1 October 2009
     
-    _land use consent_ has the meaning given in [section 87(a)][68] of the Resource Management Act 1991
+    _land use consent_ has the meaning given in [section 87(a)][69] of the Resource Management Act 1991
     
-    _local authority_ has the meaning given in [section 5(1)][72] of the Local Government Act 2002
+    _local authority_ has the meaning given in [section 5(1)][73] of the Local Government Act 2002
     
     _Minister_ means the Minister for Arts, Culture and Heritage
     
@@ -252,45 +267,45 @@ Preliminary provisions
         
     *   (a) mean the Park constructed, operated, and maintained on the Park land; and
     
-    *   (b) include the land above the area indicated in [figure 2][73] of Schedule 9 by the red hatched area and labelled as the cut and cover underpass envelope with Park over; but
+    *   (b) include the land above the area indicated in [figure 2][74] of Schedule 9 by the red hatched area and labelled as the cut and cover underpass envelope with Park over; but
     
     *   (c) do not include the roading network
     
-    _Park land_ has the meaning given in [section 5][5]
+    _Park land_ has the meaning given in [section 5][6]
     
     _requiring authority_ has the meaning given in section 166 of the Resource Management Act 1991
     
-    _resource consent_ has the meaning given in [section 2(1)][66] of the Resource Management Act 1991
+    _resource consent_ has the meaning given in [section 2(1)][67] of the Resource Management Act 1991
     
-    _roading network_ means the roading network that is reconstructed or otherwise altered under the designation provided by [section 9][13]
+    _roading network_ means the roading network that is reconstructed or otherwise altered under the designation provided by [section 9][14]
     
     _statutory authorisations_---
         
     *   (a) means the following:
             
-        *   (i) the resource consents granted by [section 8][11]; and
+        *   (i) the resource consents granted by [section 8][12]; and
         
-        *   (ii) the designation provided by [section 9][13]; and
+        *   (ii) the designation provided by [section 9][14]; and
         
-        *   (iii) the archaeological authorities granted by [section 10][15]; and
+        *   (iii) the archaeological authorities granted by [section 10][16]; and
         
-        *   (iv) the building consents granted by [section 12][18]; and
+        *   (iv) the building consents granted by [section 12][19]; and
         
-        *   (v) the powers of entry granted by [section 17][24]; and
+        *   (v) the powers of entry granted by [section 17][25]; and
         
-        *   (vi) the property rights granted by [section 18][25]; and
+        *   (vi) the property rights granted by [section 18][26]; and
         
         
     
-    *   (b) includes any amendments to a statutory authorisation described in paragraph (a) or amendments to a statutory authorisation or other permission or right granted by Order in Council made under [section 25][36]
+    *   (b) includes any amendments to a statutory authorisation described in paragraph (a) or amendments to a statutory authorisation or other permission or right granted by Order in Council made under [section 25][37]
     
-    _territorial authority_ has the meaning given in [section 5(1)][72] of the Local Government Act 2002
+    _territorial authority_ has the meaning given in [section 5(1)][73] of the Local Government Act 2002
     
-    _water permit_ has the meaning given in [section 87(d)][68] of the Resource Management Act 1991\.
+    _water permit_ has the meaning given in [section 87(d)][69] of the Resource Management Act 1991\.
 
 ##### 5 Meaning of Park land
     
-*   In this Act, _Park land_ means all of the following land in the Wellington Land Registration District, to the extent that the land is within the boundaries of the land indicated in [figure 2][73] of Schedule 9 by the blue dashed line:
+*   In this Act, _Park land_ means all of the following land in the Wellington Land Registration District, to the extent that the land is within the boundaries of the land indicated in [figure 2][74] of Schedule 9 by the blue dashed line:
         
     *   (a) part of the road known as Tory Street:
     
@@ -346,13 +361,13 @@ Preliminary provisions
 
 ##### 6 Status of plans in Schedule 9
     
-*   (1) The plans included in each of [figures 1][74], [2][73], and [3][75] of Schedule 9 are intended as a guide to the areas affected by the matters provided for by or under this Act.
+*   (1) The plans included in each of [figures 1][75], [2][74], and [3][76] of Schedule 9 are intended as a guide to the areas affected by the matters provided for by or under this Act.
     
     (2) In each case, the boundaries shown by dashed lines---
         
     *   (a) are indicative only and do not limit the legal descriptions of the areas concerned nor any plans prepared under this Act to define the location of any works authorised by or under this Act; and
     
-    *   (b) in the event of an inconsistency between a boundary shown in [figure 1][74], [2][73], or [3][75] of Schedule 9 and the legal description of the land or a plan prepared under this Act, the legal description or the plan, as the case may be, prevails.
+    *   (b) in the event of an inconsistency between a boundary shown in [figure 1][75], [2][74], or [3][76] of Schedule 9 and the legal description of the land or a plan prepared under this Act, the legal description or the plan, as the case may be, prevails.
     
     
 
@@ -369,7 +384,7 @@ Statutory authorisations and other matters
 
 ##### 8 Resource consents granted
     
-*   (1) The following resource consents, as specified in [Part 1][76] of Schedule 1 are granted to the Agency, subject to the conditions specified in [Part 2][77] of Schedule 1:
+*   (1) The following resource consents, as specified in [Part 1][77] of Schedule 1 are granted to the Agency, subject to the conditions specified in [Part 2][78] of Schedule 1:
         
     *   (a) land use consents:
     
@@ -377,7 +392,7 @@ Statutory authorisations and other matters
     
     *   (c) discharge permits.
     
-    (2) The following resource consents, as specified in [Part 1][78] of Schedule 2, are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 2][79] of Schedule 2: 
+    (2) The following resource consents, as specified in [Part 1][79] of Schedule 2, are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 2][80] of Schedule 2: 
         
     *   (a) land use consents:
     
@@ -385,23 +400,23 @@ Statutory authorisations and other matters
     
     *   (c) discharge permits.
     
-    (3) The resource consents granted by subsections (1) and (2) have the same force and effect as if they had been granted under [section 104A][80], [104B][81], or [104C][82] of the Resource Management Act 1991 and the provisions of that Act apply to those resource consents (other than as excluded by subsection (4)).
+    (3) The resource consents granted by subsections (1) and (2) have the same force and effect as if they had been granted under [section 104A][81], [104B][82], or [104C][83] of the Resource Management Act 1991 and the provisions of that Act apply to those resource consents (other than as excluded by subsection (4)).
     
-    (4) The following provisions of the [Resource Management Act 1991][83] do not apply in relation to the resource consents granted by this section:
+    (4) The following provisions of the [Resource Management Act 1991][84] do not apply in relation to the resource consents granted by this section:
         
-    *   (a) [section 116][84] (which relates to the commencement of resource consents):
+    *   (a) [section 116][85] (which relates to the commencement of resource consents):
     
-    *   (b) [section 120][85] (which provides for appeal rights):
+    *   (b) [section 120][86] (which provides for appeal rights):
     
-    *   (c) [sections 128][86] to 132 (which provide for the review of resource consent conditions):
+    *   (c) [sections 128][87] to 132 (which provide for the review of resource consent conditions):
     
-    *   (d) [section 133][87] (which relates to the power of the Environment Court to change or cancel a resource consent).
+    *   (d) [section 133][88] (which relates to the power of the Environment Court to change or cancel a resource consent).
     
     (5) Unless otherwise specified by or under this Act, a resource consent granted by this section---
         
     *   (a) commences on the date that this Act comes into force; and
     
-    *   (b) despite [section 125][88] of the Resource Management Act 1991, lapses on 31 July 2015 unless, on or before that date,---
+    *   (b) despite [section 125][89] of the Resource Management Act 1991, lapses on 31 July 2015 unless, on or before that date,---
             
         *   (i) the resource consent is given effect to; or
         
@@ -429,25 +444,25 @@ Statutory authorisations and other matters
 
 ##### 9 Designation provided for Agency
     
-*   (1) The designation specified in [Part 1][89] of Schedule 3---
+*   (1) The designation specified in [Part 1][90] of Schedule 3---
         
     *   (a) is deemed to be included in the district plan; and
     
-    *   (b) has the same force and effect as if it were included in the district plan or any proposed district plan under [section 175(2)][90] of the Resource Management Act 1991\.
+    *   (b) has the same force and effect as if it were included in the district plan or any proposed district plan under [section 175(2)][91] of the Resource Management Act 1991\.
     
-    (2) The conditions applying to the designation are specified in [Part 2][91] of Schedule 3\.
+    (2) The conditions applying to the designation are specified in [Part 2][92] of Schedule 3\.
     
-    (3) The land to which the designation applies is shown in [figure 1][92] of Schedule 9\.
+    (3) The land to which the designation applies is shown in [figure 1][93] of Schedule 9\.
     
-    (4) The provisions of the [Resource Management Act 1991][83] apply to the designation provided for by this section (other than as excluded by subsection (5)).
+    (4) The provisions of the [Resource Management Act 1991][84] apply to the designation provided for by this section (other than as excluded by subsection (5)).
     
-    (5) The following provisions of the [Resource Management Act 1991][83] do not apply in relation to the designation provided by this section:
+    (5) The following provisions of the [Resource Management Act 1991][84] do not apply in relation to the designation provided by this section:
         
     *   (a) section 174 (which provides for appeal rights):
     
-    *   (b) [section 176(1)(b)][93] (which prohibits certain actions from being carried out to or on land that is subject to a designation without the consent of the requiring authority), but only in respect of the construction, operation, and maintenance of the Park:
+    *   (b) [section 176(1)(b)][94] (which prohibits certain actions from being carried out to or on land that is subject to a designation without the consent of the requiring authority), but only in respect of the construction, operation, and maintenance of the Park:
     
-    *   (c) [section 176A][94] (which requires that an outline plan of work to be carried out on designated land be submitted to the territorial authority).
+    *   (c) [section 176A][95] (which requires that an outline plan of work to be carried out on designated land be submitted to the territorial authority).
     
     (6) The designation provided for by subsection (1) has effect on and after the commencement of this Act.
 
@@ -455,21 +470,21 @@ Statutory authorisations and other matters
 
 ##### 10 Authority to destroy, damage, or modify archaeological site
     
-*   (1) The authorities to destroy, damage, or modify any archaeological site or sites specified in [Part 1][95] of Schedule 4 are granted to the Agency, subject to the conditions specified in [Part 2][96] of Schedule 4\.
+*   (1) The authorities to destroy, damage, or modify any archaeological site or sites specified in [Part 1][96] of Schedule 4 are granted to the Agency, subject to the conditions specified in [Part 2][97] of Schedule 4\.
     
-    (2) The authorities granted under this section have the same force and effect as if they had been granted under [section 14][97] of the Historic Places Act 1993, and the provisions of that Act (other than as excluded by subsections (3) to (5)) apply in respect of those authorities.
+    (2) The authorities granted under this section have the same force and effect as if they had been granted under [section 14][98] of the Historic Places Act 1993, and the provisions of that Act (other than as excluded by subsections (3) to (5)) apply in respect of those authorities.
     
-    (3) The following provisions of the [Historic Places Act 1993][98] do not apply:
+    (3) The following provisions of the [Historic Places Act 1993][99] do not apply:
         
-    *   (a) [section 15][99] (which relates to conditions of authority):
+    *   (a) [section 15][100] (which relates to conditions of authority):
     
-    *   (b) [section 16(1)(b)][100] (which allows the Historic Places Trust to initiate a review of conditions of an authority):
+    *   (b) [section 16(1)(b)][101] (which allows the Historic Places Trust to initiate a review of conditions of an authority):
     
-    *   (c) [section 20][101] (which provides for appeal rights).
+    *   (c) [section 20][102] (which provides for appeal rights).
     
-    (4) Despite [section 17][102] of the Historic Places Act 1993, there is no requirement for the Agency to obtain the prior consent in writing of the New Zealand Historic Places Trust (Pouhere Taonga) before engaging any person to carry out any work required as a condition of the authority.
+    (4) Despite [section 17][103] of the Historic Places Act 1993, there is no requirement for the Agency to obtain the prior consent in writing of the New Zealand Historic Places Trust (Pouhere Taonga) before engaging any person to carry out any work required as a condition of the authority.
     
-    (5) Despite [sections 14(10)][97] and [20A][103] of the Historic Places Act 1993, an authority granted under this section---
+    (5) Despite [sections 14(10)][98] and [20A][104] of the Historic Places Act 1993, an authority granted under this section---
         
     *   (a) commences on the date that this Act comes into force; and
     
@@ -487,21 +502,21 @@ Statutory authorisations and other matters
 
 ##### 11 Interpretation
     
-*   In this subpart and in [Schedules 5][58] and [6][59], _building code_, _building levy_, _building work_, _certificate of acceptance_, _code compliance certificate_, and _determination_ all have the meanings given in [section 7][65] of the Building Act 2004\.
+*   In this subpart and in [Schedules 5][59] and [6][60], _building code_, _building levy_, _building work_, _certificate of acceptance_, _code compliance certificate_, and _determination_ all have the meanings given in [section 7][66] of the Building Act 2004\.
 
 ##### 12 Building consents granted
     
-*   (1) The building consents specified in [Part 1][104] of Schedule 5 are granted to the Agency, subject to the conditions specified in [Part 2][105] of Schedule 5\.
+*   (1) The building consents specified in [Part 1][105] of Schedule 5 are granted to the Agency, subject to the conditions specified in [Part 2][106] of Schedule 5\.
     
-    (2) The building consents specified in [Part 1][106] of Schedule 6 are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 2][107] of Schedule 6\.
+    (2) The building consents specified in [Part 1][107] of Schedule 6 are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 2][108] of Schedule 6\.
     
-    (3) The building consents granted by subsections (1) and (2) have the same force and effect as if they had been granted under [section 49(1)][108] of the Building Act 2004 and issued in accordance with [section 51][109] of that Act, and the provisions of that Act apply to those building consents (other than as excluded by this subpart).
+    (3) The building consents granted by subsections (1) and (2) have the same force and effect as if they had been granted under [section 49(1)][109] of the Building Act 2004 and issued in accordance with [section 51][110] of that Act, and the provisions of that Act apply to those building consents (other than as excluded by this subpart).
     
     (4) A building consent granted by this section---
         
     *   (a) commences on the date that this Act comes into force; and
     
-    *   (b) despite [section 52][110] of the Building Act 2004, lapses on 31 July 2015 unless, on or before that date,---
+    *   (b) despite [section 52][111] of the Building Act 2004, lapses on 31 July 2015 unless, on or before that date,---
             
         *   (i) any building work relevant to the consent has been commenced; or
         
@@ -513,53 +528,53 @@ Statutory authorisations and other matters
 
 ##### 13 Payment of building levies 
     
-*   (1) Despite [sections 53][111] and [54][112] of the Building Act 2004, the amount of the building levies payable by the Agency and the chief executive of the Ministry in respect of the building consents granted by [section 12][18] must be determined, in accordance with [section 53(2)][111] of that Act, by the building consent authority that would, but for this Act, have granted the building consents.
+*   (1) Despite [sections 53][112] and [54][113] of the Building Act 2004, the amount of the building levies payable by the Agency and the chief executive of the Ministry in respect of the building consents granted by [section 12][19] must be determined, in accordance with [section 53(2)][112] of that Act, by the building consent authority that would, but for this Act, have granted the building consents.
     
-    (2) The Agency and the chief executive of the Ministry must each pay the building levies not later than 20 working days after being advised of the amount payable under [section 54][112] of that Act.
+    (2) The Agency and the chief executive of the Ministry must each pay the building levies not later than 20 working days after being advised of the amount payable under [section 54][113] of that Act.
 
 ##### 14 Certificate of code compliance and certificate of acceptance
     
-*   (1) Despite [section 92(1)][113] of the Building Act 2004, the Agency or the chief executive of the Ministry, as appropriate, may apply to the building consent authority under section 92(2) of that Act for 1 or more code compliance certificates for building work done under a building consent granted by section 12\.
+*   (1) Despite [section 92(1)][114] of the Building Act 2004, the Agency or the chief executive of the Ministry, as appropriate, may apply to the building consent authority under section 92(2) of that Act for 1 or more code compliance certificates for building work done under a building consent granted by section 12\.
     
-    (2) Despite [section 96(1)][114] of the Building Act 2004, the building consent authority may, on application by the Agency or the chief executive of the Ministry under [section 97][115] of that Act, as appropriate, issue 1 or more certificates of acceptance for building work done under a building consent granted by [section 12][18].
+    (2) Despite [section 96(1)][115] of the Building Act 2004, the building consent authority may, on application by the Agency or the chief executive of the Ministry under [section 97][116] of that Act, as appropriate, issue 1 or more certificates of acceptance for building work done under a building consent granted by [section 12][19].
     
-    (3) However, if the Agency or the chief executive of the Ministry has already paid a building levy in accordance with [section 13][19], [section 97(e)][115] of the Building Act 2004 does not apply. 
+    (3) However, if the Agency or the chief executive of the Ministry has already paid a building levy in accordance with [section 13][20], [section 97(e)][116] of the Building Act 2004 does not apply. 
 
 ##### 15 Determination of compliance
     
-*   (1) [Sections 177 to 190][116] of the Building Act 2004 do not apply in relation to building consents granted by [section 12][18].
+*   (1) [Sections 177 to 190][117] of the Building Act 2004 do not apply in relation to building consents granted by [section 12][19].
     
-    (2) However, the Agency or the chief executive of the Ministry, as appropriate, may apply in accordance with [section 178][117] of the Building Act 2004 to the chief executive of the department of State for the time being responsible for the administration of the Building Act 2004 for a determination as to whether particular building work undertaken in reliance on a building consent granted by [section 12][18] complies with the building code.
+    (2) However, the Agency or the chief executive of the Ministry, as appropriate, may apply in accordance with [section 178][118] of the Building Act 2004 to the chief executive of the department of State for the time being responsible for the administration of the Building Act 2004 for a determination as to whether particular building work undertaken in reliance on a building consent granted by [section 12][19] complies with the building code.
 
 ##### 16 Use of Park or roading network
     
-*   (1) Despite [sections 362A][118] and [363][119] of the Building Act 2004, the Agency and the chief executive of the Ministry may each use, or permit the use of, any part of the Park or the roading network that is affected by building work undertaken under a building consent granted by [section 12][18], even if no code compliance certificate has been issued under that [Act][120].
+*   (1) Despite [sections 362A][119] and [363][120] of the Building Act 2004, the Agency and the chief executive of the Ministry may each use, or permit the use of, any part of the Park or the roading network that is affected by building work undertaken under a building consent granted by [section 12][19], even if no code compliance certificate has been issued under that [Act][121].
     
-    (2) However, subsection (1) applies only if the territorial authority has issued a certificate for public use in accordance with [section 363A][121] of the Building Act 2004 to the Agency or the chief executive of the Ministry, as appropriate.
+    (2) However, subsection (1) applies only if the territorial authority has issued a certificate for public use in accordance with [section 363A][122] of the Building Act 2004 to the Agency or the chief executive of the Ministry, as appropriate.
 
 ### Subpart 4---Access to property and granting of property rights
 
 ##### 17 Powers of entry
     
-*   (1) The Agency is authorised to exercise the powers of entry specified in [Part 1][122] of Schedule 7, subject to the conditions specified in [Part 2][123] of Schedule 7\.
+*   (1) The Agency is authorised to exercise the powers of entry specified in [Part 1][123] of Schedule 7, subject to the conditions specified in [Part 2][124] of Schedule 7\.
     
-    (2) The chief executive of the Ministry is authorised to exercise the powers of entry specified in [Part 1][124] of Schedule 8, subject to the conditions specified in [Part 2][125] of Schedule 8, or to delegate those powers to any suitable person.
+    (2) The chief executive of the Ministry is authorised to exercise the powers of entry specified in [Part 1][125] of Schedule 8, subject to the conditions specified in [Part 2][126] of Schedule 8, or to delegate those powers to any suitable person.
     
-    (3) The authorities granted under this section have the same force and effect as if they had been granted by the Minister of Lands under [section 111][126] of the Public Works Act 1981, and the provisions of that Act (including those relating to compensation but excluding that specified in subsection (4)) apply in respect of those authorities.
+    (3) The authorities granted under this section have the same force and effect as if they had been granted by the Minister of Lands under [section 111][127] of the Public Works Act 1981, and the provisions of that Act (including those relating to compensation but excluding that specified in subsection (4)) apply in respect of those authorities.
     
-    (4) [Section 111(2) to (5)][126] of the Public Works Act 1981 do not apply in relation to an authority granted under subsection (1) or (2).
+    (4) [Section 111(2) to (5)][127] of the Public Works Act 1981 do not apply in relation to an authority granted under subsection (1) or (2).
 
 ##### 18 Property rights granted
     
-*   (1) The property rights specified in [Part 3][127] of Schedule 7 are granted to the Agency, subject to the conditions specified in [Part 4][128] of Schedule 7\.
+*   (1) The property rights specified in [Part 3][128] of Schedule 7 are granted to the Agency, subject to the conditions specified in [Part 4][129] of Schedule 7\.
     
-    (2) The property rights specified in [Part 3][129] of Schedule 8 are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 4][130] of Schedule 8\.
+    (2) The property rights specified in [Part 3][130] of Schedule 8 are granted to the chief executive of the Ministry, subject to the conditions specified in [Part 4][131] of Schedule 8\.
     
-    (3) The property rights granted under this section have the same force and effect as if they had been taken by proclamation under [section 26][131] of the Public Works Act 1981, and the provisions of that Act (including those relating to compensation but excluding those specified in subsection (5)) apply in respect of those property rights.
+    (3) The property rights granted under this section have the same force and effect as if they had been taken by proclamation under [section 26][132] of the Public Works Act 1981, and the provisions of that Act (including those relating to compensation but excluding those specified in subsection (5)) apply in respect of those property rights.
     
-    (4) A property right granted under this section is deemed to be an interest in land for the purposes of the [Public Works Act 1981][132].
+    (4) A property right granted under this section is deemed to be an interest in land for the purposes of the [Public Works Act 1981][133].
     
-    (5) [Sections 18][133], [23][134], [24][135], [25][136], and [26(1)][131] and (2) of the Public Works Act 1981 do not apply in relation to the property rights granted under this section.
+    (5) [Sections 18][134], [23][135], [24][136], [25][137], and [26(1)][132] and (2) of the Public Works Act 1981 do not apply in relation to the property rights granted under this section.
 
 ### Subpart 5---Certification of plans and documents
 
@@ -567,7 +582,7 @@ Statutory authorisations and other matters
 
 ##### 19 Preparation of draft plans and documents
     
-*   (1) This section and [sections 20 to 22][29] apply if, as a condition of a statutory authorisation granted to the Agency, a plan or document must be certified.
+*   (1) This section and [sections 20 to 22][30] apply if, as a condition of a statutory authorisation granted to the Agency, a plan or document must be certified.
     
     (2) A plan or document to which this section applies must---
         
@@ -589,7 +604,7 @@ Statutory authorisations and other matters
     
     (2) A certifier must, within 15 working days after the date that a draft plan or document is received,---
         
-    *   (a) certify by notice in writing to the Agency, with reasons, that a draft plan or document meets the requirements of [section 19(2)(b)][28]; or
+    *   (a) certify by notice in writing to the Agency, with reasons, that a draft plan or document meets the requirements of [section 19(2)(b)][29]; or
     
     *   (b) if the certifier is not satisfied in any particular case that a draft plan or document meets those requirements, direct the Agency by notice in writing, with reasons, to modify the plan or document in the manner specified so that the plan or document does meet the requirement.
     
@@ -599,7 +614,7 @@ Statutory authorisations and other matters
 
 ##### 22 Alternative certification process
     
-*   (1) If the Agency is directed under [section 21(2)(b)][30], the Agency must---
+*   (1) If the Agency is directed under [section 21(2)(b)][31], the Agency must---
         
     *   (a) make the modifications as directed; and
     
@@ -627,13 +642,13 @@ Statutory authorisations and other matters
     
     *   (b) any other matters that the Agency considers relevant.
     
-    (4) Plans and documents made available under subsection (1)(b) or (2)(b) or [section 21(4)][30] are deemed to be certified as meeting the requirements of [section 19(2)(b)][28].
+    (4) Plans and documents made available under subsection (1)(b) or (2)(b) or [section 21(4)][31] are deemed to be certified as meeting the requirements of [section 19(2)(b)][29].
 
 #### Plans and documents prepared by Ministry
 
 ##### 23 Preparation of draft plans and documents
     
-*   (1) This section and [section 24][34] apply if, as a condition of a statutory authorisation granted to the chief executive of the Ministry, a plan or document must be certified. 
+*   (1) This section and [section 24][35] apply if, as a condition of a statutory authorisation granted to the chief executive of the Ministry, a plan or document must be certified. 
     
     (2) A plan or document to which this section applies must---
         
@@ -649,7 +664,7 @@ Statutory authorisations and other matters
     
     (2) The authorising body must, not later than 20 working days after the date that a plan or document is received,---
         
-    *   (a) certify by notice in writing to the chief executive of the Ministry, with reasons, that the draft plan or document meets the requirements of [section 23(2)(b)][33]; or
+    *   (a) certify by notice in writing to the chief executive of the Ministry, with reasons, that the draft plan or document meets the requirements of [section 23(2)(b)][34]; or
     
     *   (b) if the authorising body is not satisfied that a draft plan or document meets those requirements, direct the chief executive of the Ministry by notice in writing to modify the plan or document in the manner specified, with reasons, so that the plan or document does meet the requirement.
     
@@ -685,39 +700,39 @@ Statutory authorisations and other matters
     
     *   (b) any other matters that the chief executive of the Ministry considers relevant.
     
-    (8) Plans and documents made available under subsection (4), (5)(b), or (6)(b) are deemed to have been certified as meeting the requirements of [section 23(2)(b)][33].
+    (8) Plans and documents made available under subsection (4), (5)(b), or (6)(b) are deemed to have been certified as meeting the requirements of [section 23(2)(b)][34].
 
 ### Subpart 6---Orders in Council
 
 ##### 25 Governor-General may make Orders in Council for purpose of Act
     
-*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of Transport or the Minister for Arts, Culture and Heritage, do any of the following that may be reasonably necessary or desirable for the purpose specified in [section 3][3]:
+*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of Transport or the Minister for Arts, Culture and Heritage, do any of the following that may be reasonably necessary or desirable for the purpose specified in [section 3][4]:
         
     *   (a) grant any statutory authorisation, or any other permission or right under an enactment listed in subsection (2):
     
     *   (b) take or grant any licence, land, or easement:
     
-    *   (c) amend any statutory authorisation, or any other permission or right, granted under [subparts 1 to 4][9] of this Part (including any conditions or limitations to which it is subject, and including by extending the effect of any property right to any additional land, building, or structure).
+    *   (c) amend any statutory authorisation, or any other permission or right, granted under [subparts 1 to 4][10] of this Part (including any conditions or limitations to which it is subject, and including by extending the effect of any property right to any additional land, building, or structure).
     
     (2) The enactments referred to in subsection (1)(a) are the following Acts and any rules or regulations made under those Acts:
         
-    *   (a) the [Building Act 2004][120]:
+    *   (a) the [Building Act 2004][121]:
     
-    *   (b) the [Historic Places Act 1993][98]:
+    *   (b) the [Heritage New Zealand Pouhere Taonga Act 2014][138]:
     
-    *   (c) the [Land Transfer Act 1952][137]:
+    *   (c) the [Land Transfer Act 1952][139]:
     
-    *   (d) the [Local Government Act 1974][138]:
+    *   (d) the [Local Government Act 1974][140]:
     
-    *   (e) the [Local Government Act 2002][139]:
+    *   (e) the [Local Government Act 2002][141]:
     
-    *   (f) the [Public Works Act 1981][132]:
+    *   (f) the [Public Works Act 1981][133]:
     
-    *   (g) the [Reserves Act 1977][140]:
+    *   (g) the [Reserves Act 1977][142]:
     
-    *   (h) the [Resource Management Act 1991][83]:
+    *   (h) the [Resource Management Act 1991][84]:
     
-    *   (i) the [Wildlife Act 1953][141].
+    *   (i) the [Wildlife Act 1953][143].
     
     (3) An Order in Council made under this section granting or amending any statutory authorisation or any other permission or right---
         
@@ -725,19 +740,21 @@ Statutory authorisations and other matters
     
     *   (b) whether or not it provides as described in paragraph (a), may modify, extend, or exclude any requirements, rights, or processes that might otherwise apply in relation to the granting or amending of the statutory authorisation or other permission or right under the relevant enactment listed in subsection (2); and
     
-    *   (c) may provide for certification of any plans or documents in accordance with the process in [subpart 5][26].
+    *   (c) may provide for certification of any plans or documents in accordance with the process in [subpart 5][27].
     
-    (4) A Minister must not recommend the making of an Order in Council that does anything described in subsection (3)(b) unless the Minister has considered all other reasonably practicable ways relevant to the particular circumstances to achieve the purpose specified in [section 3][3] (in particular, that of ensuring that the National War Memorial Park (Pukeahu) is completed by April 2015).
+    (4) A Minister must not recommend the making of an Order in Council that does anything described in subsection (3)(b) unless the Minister has considered all other reasonably practicable ways relevant to the particular circumstances to achieve the purpose specified in [section 3][4] (in particular, that of ensuring that the National War Memorial Park (Pukeahu) is completed by April 2015).
+    
+    Section 25(2)(b): amended, on 20 May 2014, by [section 107][144] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 26 Expiry of section 25
     
-*   [Section 25][36] expires and is repealed on the close of 31 July 2015\.
+*   [Section 25][37] expires and is repealed on the close of 31 July 2015\.
 
 #### Review panel
 
 ##### 27 National War Memorial Park Review Panel
     
-*   (1) The Minister must appoint a National War Memorial Park Review Panel of up to 3 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][142] of the Lawyers and Conveyancers Act 2006).
+*   (1) The Minister must appoint a National War Memorial Park Review Panel of up to 3 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][145] of the Lawyers and Conveyancers Act 2006).
     
     (2) A member of the National War Memorial Park Review Panel must be appointed by notice of appointment in writing that states---
         
@@ -759,7 +776,7 @@ Statutory authorisations and other matters
     
 *   (1) The function of the National War Memorial Park Review Panel is to provide advice on request to the Minister or the Minister of Transport in relation to Orders in Council that may be required for the purpose of this Act.
     
-    (2) All draft Orders in Council must be reviewed by the National War Memorial Park Review Panel before they are recommended under [section 25][36].
+    (2) All draft Orders in Council must be reviewed by the National War Memorial Park Review Panel before they are recommended under [section 25][37].
     
     (3) Within 3 working days after the date on which a draft Order in Council is received for review or any longer time allowed by the relevant Minister,---
         
@@ -777,13 +794,13 @@ Statutory authorisations and other matters
 
 ##### 29 Further reporting by National War Memorial Park Review Panel
     
-*   (1) On the date that is 6 months after the commencement of this Act, and subsequently at intervals of 6 months, the National War Memorial Park Review Panel must report to the Minister on the use of the power under [section 25][36] to make Orders in Council.
+*   (1) On the date that is 6 months after the commencement of this Act, and subsequently at intervals of 6 months, the National War Memorial Park Review Panel must report to the Minister on the use of the power under [section 25][37] to make Orders in Council.
     
     (2) The Minister must, as soon as practicable after receiving the National War Memorial Park Review Panel's report required by subsection (1), present a copy to the House of Representatives.
 
 ##### 30 Procedure for recommending Order in Council
     
-*   In making a recommendation under [section 25][36], the Minister making the recommendation must---
+*   In making a recommendation under [section 25][37], the Minister making the recommendation must---
         
     *   (a) take into account the purposes of this Act; and
     
@@ -793,11 +810,11 @@ Statutory authorisations and other matters
 
 ##### 31 Further provisions about Orders in Council
     
-*   (1) This section applies to Orders in Council made under [section 25][36].
+*   (1) This section applies to Orders in Council made under [section 25][37].
     
     (2) An order must not be held invalid just because---
         
-    *   (a) it is, or authorises any act or omission that is, inconsistent with any enactment listed in [section 25(2)][36]; or
+    *   (a) it is, or authorises any act or omission that is, inconsistent with any enactment listed in [section 25(2)][37]; or
     
     *   (b) it confers any discretion on, or allows any matter to be determined or approved by, any person.
     
@@ -811,29 +828,29 @@ Statutory authorisations and other matters
 
 ##### 32 Order in Council under section 25 to be presented to House of Representatives promptly
     
-*   Every Order in Council made under [section 25][36] must be presented to the House of Representatives as soon as practicable after it is made.
+*   Every Order in Council made under [section 25][37] must be presented to the House of Representatives as soon as practicable after it is made.
 
 ##### 33 Disallowance of Order in Council under section 25
     
-*   An Order in Council made under [section 25][36] may be disallowed, on a notice of motion lodged by a member of the House of Representatives, within 12 sitting days after the day on which it is presented to the House of Representatives.
+*   An Order in Council made under [section 25][37] may be disallowed, on a notice of motion lodged by a member of the House of Representatives, within 12 sitting days after the day on which it is presented to the House of Representatives.
 
 ##### 34 Disallowance has effect of revocation
     
-*   An Order in Council made under [section 25][36] that is disallowed under [section 33][46] is revoked at the close of the day after the day on which the House of Representatives resolves to disallow it.
+*   An Order in Council made under [section 25][37] that is disallowed under [section 33][47] is revoked at the close of the day after the day on which the House of Representatives resolves to disallow it.
 
 ##### 35 Notice of resolution to disallow Order in Council under section 25
     
-*   (1) If the House of Representatives resolves to disallow an Order in Council made under [section 25][36], the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
+*   (1) If the House of Representatives resolves to disallow an Order in Council made under [section 25][37], the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
     
     (2) The notice must show the date on which the resolution was agreed to and be accompanied by the text of the resolution.
     
     (3) The notice is conclusive evidence of the day on which the resolution was agreed to.
     
-    (4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under [section 4][143] of the Acts and Regulations Publication Act 1989 as if the notice were a regulation.
+    (4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under [section 4][146] of the Acts and Regulations Publication Act 1989 as if the notice were a regulation.
 
 ##### 36 Application of Regulations (Disallowance) Act 1989
     
-*   An Order in Council made under [section 25][36] cannot be disallowed under the [Regulations (Disallowance) Act 1989][144].
+*   An Order in Council made under [section 25][37] cannot be disallowed under the [Regulations (Disallowance) Act 1989][147].
 
 ### Subpart 7---Community forum
 
@@ -849,7 +866,7 @@ Statutory authorisations and other matters
     
     *   (c) National War Memorial Advisory Council:
     
-    *   (d) New Zealand Historic Places Trust (Pouhere Taonga):
+    *   (d) Heritage New Zealand Pouhere Taonga:
     
     *   (e) Royal New Zealand Returned and Services' Association Incorporated:
     
@@ -869,28 +886,30 @@ Statutory authorisations and other matters
     
     (3) The Minister must have regard to any information or advice he or she is given by the forum relating to the Park.
     
-    (4) There is no requirement for the Minister to consult the forum in relation to any Order in Council that the Minister or the Minister of Transport proposes to recommend under [section 25][36].
+    (4) There is no requirement for the Minister to consult the forum in relation to any Order in Council that the Minister or the Minister of Transport proposes to recommend under [section 25][37].
     
     (5) This section expires and is repealed on the close of 31 July 2015\.
+    
+    Section 37(2)(d): amended, on 20 May 2014, by [section 107][148] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ### Subpart 8---Amendments, etc, to statutory authorisations after 31 July 2015
 
 ##### 38 Amendments, etc, to statutory authorisations after 31 July 2015
     
-*   (1) Nothing in [section 8(4)][11] applies in respect of any application made after 31 July 2015 under the [Resource Management Act 1991][83] to vary a statutory authorisation or to review the conditions of a statutory authorisation granted under [section 8][11].
+*   (1) Nothing in [section 8(4)][12] applies in respect of any application made after 31 July 2015 under the [Resource Management Act 1991][84] to vary a statutory authorisation or to review the conditions of a statutory authorisation granted under [section 8][12].
     
-    (2) Nothing in [section 9(5)][13] applies in respect of any amendment made after 31 July 2015 under the [Resource Management Act 1991][83] to the designation granted under [section 9][13].
+    (2) Nothing in [section 9(5)][14] applies in respect of any amendment made after 31 July 2015 under the [Resource Management Act 1991][84] to the designation granted under [section 9][14].
     
-    (3) Nothing in [section 10(3) to (5)][15] applies in respect of any amendment made after 31 July 2015 under the [Historic Places Act 1993][98] to a statutory authorisation granted under [section 10][15].
+    (3) Nothing in [section 10(3) to (5)][16] applies in respect of any amendment made after 31 July 2015 under the [Historic Places Act 1993][99] to a statutory authorisation granted under [section 10][16].
     
-    (4) Nothing in [subpart 5][26] applies in respect of any draft plan or document required in relation to any variation, review, or amendment referred to in this section.
+    (4) Nothing in [subpart 5][27] applies in respect of any draft plan or document required in relation to any variation, review, or amendment referred to in this section.
 
 ---
 
 ## Schedule 1  
 Resource consents granted to Agency and conditions applying
 
-[s 8(1)][11]
+[s 8(1)][12]
 
 ## Part 1  
 Resource consents
@@ -1030,7 +1049,7 @@ _CSMP_ means Contaminated Soils Management Plan
 
 _manager_ means the Manager Development, Planning and Compliance at Wellington City Council or their nominee
 
-_site_ means the land shown on _LR01: Land Requirement Plan_ attached as [figure 1][74] of Schedule 9\.
+_site_ means the land shown on _LR01: Land Requirement Plan_ attached as [figure 1][75] of Schedule 9\.
 
 CL2 The Agency shall prepare a CSMP and implement that Plan during the main construction works on the site. The Agency may commence investigation and enabling works (including the construction and operation of an at-grade diversion of Buckle Street and/or any other temporary roads) prior to the preparation of the CSMP. 
 
@@ -1113,7 +1132,7 @@ EM2 If design comments and inputs received from the Council are not incorporated
 ## Schedule 2  
 Resource consents granted to chief executive of Ministry and conditions applying to them
 
-[s 8(2)][11]
+[s 8(2)][12]
 
 ## Part 1  
 Resource consents
@@ -1341,7 +1360,7 @@ At least 70 working days prior to the commencement of construction, the consent 
     
     
 
-In reviewing these documents the Wellington City Council shall assess, in particular, the consistency of the design details with the principles identified in [Part 3][145]. Any comment that the Wellington City Council makes shall be provided to the consent holder within 20 working days of receipt of these documents.
+In reviewing these documents the Wellington City Council shall assess, in particular, the consistency of the design details with the principles identified in [Part 3][149]. Any comment that the Wellington City Council makes shall be provided to the consent holder within 20 working days of receipt of these documents.
 
 The consent holder shall have regard to any comments received, and document the design response to these comments including a clear explanation where suggestions have not been incorporated and the reasons why.
 
@@ -1349,13 +1368,13 @@ A copy of the consent holder's response shall be submitted to the Wellington Cit
 
 04 
 
-At least 30 working days prior to the commencement of construction, the consent holder must submit a final version of the documents identified in Condition 03 to the Compliance and Monitoring Officer, Wellington City Council for certification, under [section 24][34], that they are consistent with the Park design principles identified in [Part 3][145].
+At least 30 working days prior to the commencement of construction, the consent holder must submit a final version of the documents identified in Condition 03 to the Compliance and Monitoring Officer, Wellington City Council for certification, under [section 24][35], that they are consistent with the Park design principles identified in [Part 3][149].
 
 **Condition no** **Condition applying to consent numbers RC 08 and RC 10---Heritage**
 
 05 
 
-At least 30 working days prior to commencement of construction the consent holder shall prepare and submit documentation in relation to any modification of a listed heritage building or object to certify under [section 24][34] that sufficient information has been provided to determine the nature, form and extent of the proposed work and the extent to which it:
+At least 30 working days prior to commencement of construction the consent holder shall prepare and submit documentation in relation to any modification of a listed heritage building or object to certify under [section 24][35] that sufficient information has been provided to determine the nature, form and extent of the proposed work and the extent to which it:
     
 *   (a) is sympathetic in form, proportions, materials, colours and the patina of materials of the existing building or object; and
 
@@ -1369,7 +1388,7 @@ At least 30 working days prior to commencement of construction the consent holde
 
 06 
 
-The consent holder shall finalise and submit signage details to the Compliance and Monitoring Officer, Wellington City Council, at least 30 working days prior to commencement of construction to certify, under [section 24][34], that sufficient information has been provided to determine the nature, form and extent of the proposed signage and the extent to which---
+The consent holder shall finalise and submit signage details to the Compliance and Monitoring Officer, Wellington City Council, at least 30 working days prior to commencement of construction to certify, under [section 24][35], that sufficient information has been provided to determine the nature, form and extent of the proposed signage and the extent to which---
     
 *   (a) the signage is not obtrusively visible from any residential or public space; and
 
@@ -1391,7 +1410,7 @@ As a minimum, the information submitted shall include:
 
 07 
 
-The consent holder shall finalise and submit lighting details relating to any pedestrian routes to the Compliance and Monitoring Officer, Wellington City Council, at least 30 working days prior to commencement of construction to certify, under [section 24][34], that sufficient information has been provided to determine the nature, form and extent of the proposed lighting and the extent to which it: 
+The consent holder shall finalise and submit lighting details relating to any pedestrian routes to the Compliance and Monitoring Officer, Wellington City Council, at least 30 working days prior to commencement of construction to certify, under [section 24][35], that sufficient information has been provided to determine the nature, form and extent of the proposed lighting and the extent to which it: 
     
 *   (a) avoids obtrusive spillage of light outside the Park; and
 
@@ -1463,7 +1482,7 @@ This record shall be maintained on site and shall be made available to the Compl
 
 12 
 
-The consent holder shall prepare and submit a Construction Environmental Management Plan (CEMP) to the Compliance and Monitoring Officer, Wellington City Council for certification under [section 24][34] at least 30 working days before the commencement of construction. 
+The consent holder shall prepare and submit a Construction Environmental Management Plan (CEMP) to the Compliance and Monitoring Officer, Wellington City Council for certification under [section 24][35] at least 30 working days before the commencement of construction. 
 
 The consent holder may commence investigations and enabling works for the Project prior to the CEMP being certified.
 
@@ -1615,7 +1634,7 @@ At least 2 working days prior to commencing any construction work the consent ho
 
 28 
 
-The consent holder shall prepare and submit a Contaminated Soils Management Plan (CSMP) to the Compliance and Monitoring Officer, Wellington City Council for certification under [section 24][34] at least 30 working days prior to works commencing. The purpose of the plan is to identify the minimum standards and best practicable option relating to the management of known contaminated land within the Park. 
+The consent holder shall prepare and submit a Contaminated Soils Management Plan (CSMP) to the Compliance and Monitoring Officer, Wellington City Council for certification under [section 24][35] at least 30 working days prior to works commencing. The purpose of the plan is to identify the minimum standards and best practicable option relating to the management of known contaminated land within the Park. 
 
 The CSMP shall include information regarding---
     
@@ -1643,7 +1662,7 @@ A CSMP will not be required if one has already been prepared under Condition CL2
 
 30 
 
-The consent holder shall prepare and submit an Erosion and Sediment Control Management Plan (ESCP) to the Manager, Environmental Regulation, Greater Wellington Regional Council for certification under [section 24][34] at least 30 working days prior to works commencing.
+The consent holder shall prepare and submit an Erosion and Sediment Control Management Plan (ESCP) to the Manager, Environmental Regulation, Greater Wellington Regional Council for certification under [section 24][35] at least 30 working days prior to works commencing.
 
 The purpose of the plan is to describe the methods and practices to minimise the effects of sediment generation and yield and the management of any potential runoff from contaminated land.
 
@@ -1853,7 +1872,7 @@ Framework for growth
 ## Schedule 3  
 Designation provided to Agency and conditions applying
 
-[ss 5][5], and [9(1)--(3)][13]
+[ss 5][6], and [9(1)--(3)][14]
 
 In this schedule,---
 
@@ -1892,13 +1911,13 @@ Conditions applying to exercise of designation
 
 NZTA 01 
 
-Except as modified by the conditions below, and subject to final design, the Project shall be undertaken in general accordance with the plans in [Schedule 9][62], being:
+Except as modified by the conditions below, and subject to final design, the Project shall be undertaken in general accordance with the plans in [Schedule 9][63], being:
     
-*   (a) [figure 1][74]---**LR01**: Land Requirement Plan:
+*   (a) [figure 1][75]---**LR01**: Land Requirement Plan:
 
-*   (b) [figure 2][73]---**WMP01**: National War Memorial Park (Pukeahu) Plan:
+*   (b) [figure 2][74]---**WMP01**: National War Memorial Park (Pukeahu) Plan:
 
-*   (c) [figure 3][75]---**CON01**: Construction Area Plan.
+*   (c) [figure 3][76]---**CON01**: Construction Area Plan.
 
 For the avoidance of doubt, none of these conditions prevent or apply to works required for the ongoing operation or maintenance of the Project following construction such as changes to street furniture or signage over time. Depending upon the nature of such works, Outline Plans or Outline Plan waivers may be required for any such works.
 
@@ -2155,7 +2174,7 @@ The Agency shall not commence the undergrounding of part of Buckle Street until:
     
 *   (a) the Agency has prepared a Construction Traffic Management Plan (CTMP); and
 
-*   (b) a qualified traffic engineer has certified under [subpart 5][26] of Part 2 that the methods provided for in the CTMP are consistent with the conditions of this designation relating to construction traffic management and provide for appropriate means to ensure as far as practicable those conditions of the designation are able to be met. 
+*   (b) a qualified traffic engineer has certified under [subpart 5][27] of Part 2 that the methods provided for in the CTMP are consistent with the conditions of this designation relating to construction traffic management and provide for appropriate means to ensure as far as practicable those conditions of the designation are able to be met. 
 
 The Agency may commence investigations and enabling works for the Project (including construction and use of the proposed at-grade diversion of Buckle Street and any other temporary roads) prior to the CTMP being certified.
 
@@ -2668,7 +2687,7 @@ Permanent lighting shall be designed and screened to minimise the amount of ligh
 ## Schedule 4  
 Archaeological authorities granted to Agency and conditions applying
 
-[s 10(1)][15]
+[s 10(1)][16]
 
 ## Part 1  
 Archaeological authorities
@@ -2773,7 +2792,7 @@ Hard copies of the final report shall also be sent to:
 ## Schedule 5  
 Building consents granted to Agency and conditions applying
 
-[s 12(1)][18]
+[s 12(1)][19]
 
 In this schedule,---
 
@@ -2832,7 +2851,7 @@ Building Consent is granted for any work to secure (either the building or its f
 
 BC02 
 
-Building Consent is granted for all building works associated with activities authorised by the designation granted under [Part 1][89] of Schedule 3, including (without limitation) any temporary or permanent noise mitigation structures and any other temporary structures for use during the enabling works or the construction period for undergrounding of Buckle Street.
+Building Consent is granted for all building works associated with activities authorised by the designation granted under [Part 1][90] of Schedule 3, including (without limitation) any temporary or permanent noise mitigation structures and any other temporary structures for use during the enabling works or the construction period for undergrounding of Buckle Street.
 
 ## Part 2  
 Conditions
@@ -2929,7 +2948,7 @@ at least 3 working days in advance of that work taking place.
 
 10 
 
-Apart from minor variations or modifications, and any building work in respect of which compliance with the Building Code is not required by the [Building Act 2004][120], any alterations to the proposed design must be reviewed by a suitably qualified independent design professional who is a member of IPENZ or NZIA.
+Apart from minor variations or modifications, and any building work in respect of which compliance with the Building Code is not required by the [Building Act 2004][121], any alterations to the proposed design must be reviewed by a suitably qualified independent design professional who is a member of IPENZ or NZIA.
 
 11 
 
@@ -2944,7 +2963,7 @@ A certificate of work (PS 4: Construction Review) in accordance with ACENZ, IPEN
 ## Schedule 6  
 Building consents granted to chief executive of Ministry and conditions applying
 
-[s 12(2)][18]
+[s 12(2)][19]
 
 ## Part 1  
 Building consent
@@ -2953,7 +2972,7 @@ Building consent
 
 01 
 
-Building consent is granted for all building works within the National War Memorial Park associated with activities authorised by the resource consents granted under [section 8(2)][11], including (without limitation) any demolition, landscaping, retaining walls, stairs, signage, lighting, fences, structures, permanent shelters and an Australian War Memorial. 
+Building consent is granted for all building works within the National War Memorial Park associated with activities authorised by the resource consents granted under [section 8(2)][12], including (without limitation) any demolition, landscaping, retaining walls, stairs, signage, lighting, fences, structures, permanent shelters and an Australian War Memorial. 
 
 ## Part 2  
 Conditions
@@ -2962,7 +2981,7 @@ Conditions
 
 01 
 
-Plans and specifications that are required whether or not by regulations made under [section 402][146] of the Building Act 2004, shall be prepared in accordance with ACENZ, IPENZ and NZIA guidance (May 2007) by a suitably qualified design professional who is a member of IPENZ or NZIA. The plans and specifications shall include:
+Plans and specifications that are required whether or not by regulations made under [section 402][150] of the Building Act 2004, shall be prepared in accordance with ACENZ, IPENZ and NZIA guidance (May 2007) by a suitably qualified design professional who is a member of IPENZ or NZIA. The plans and specifications shall include:
     
 *   (a) extent and scope of the works; and
 
@@ -3012,14 +3031,14 @@ The plans and specifications, certificates of work, and supporting third-party r
 
 06 
 
-Apart from minor variations or modifications, and any building work in respect of which compliance with the Building Code is not required by the [Building Act 2004][120], any alterations to the proposed design must be reviewed by a licensed building practitioner.
+Apart from minor variations or modifications, and any building work in respect of which compliance with the Building Code is not required by the [Building Act 2004][121], any alterations to the proposed design must be reviewed by a licensed building practitioner.
 
 ---
 
 ## Schedule 7  
 Power of entry and property rights granted to Agency and conditions applying
 
-[ss 17(1)][24], [18(1)][25]
+[ss 17(1)][25], [18(1)][26]
 
 #### Interpretation of terms used in this schedule
 
@@ -3089,7 +3108,7 @@ The Agency must give advance notice in writing to owner of the property, setting
 
 *   (b) when that power will be exercised; and
 
-*   (c) the fact that compensation may be payable under the [Public Works Act 1981][132].
+*   (c) the fact that compensation may be payable under the [Public Works Act 1981][133].
 
 02 No error or omission in the content of any such notice affects the validity of the notice or the Agency's entitlement to exercise the rights of entry.
 
@@ -3133,7 +3152,7 @@ The Agency must give advance notice in writing to the owner of the property, set
 
 *   (b) when those rights will be exercised; and
 
-*   (c) the fact that compensation may be payable under the [Public Works Act 1981][132].
+*   (c) the fact that compensation may be payable under the [Public Works Act 1981][133].
 
 08 No error or omission in the content of any such notice affects the validity of the notice or the Agency's entitlement to exercise the rights.
 
@@ -3156,7 +3175,7 @@ Any person exercising any rights under this schedule must---
 ## Schedule 8  
 Power of entry and property rights granted to chief executive of Ministry and conditions applying
 
-[ss 17(2)][24], [18(2)][25]
+[ss 17(2)][25], [18(2)][26]
 
 #### Interpretation of terms used in this schedule
 
@@ -3232,7 +3251,7 @@ The chief executive of the Ministry must give advance notice in writing to the o
 
 *   (b) when the power will be exercised; and
 
-*   (c) the fact that compensation may be payable under the [Public Works Act 1981][132].
+*   (c) the fact that compensation may be payable under the [Public Works Act 1981][133].
 
 03 No error or omission in the content of any such notice affects the validity of the notice or the chief executive of the Ministry's entitlement to exercise the power of entry.
 
@@ -3244,7 +3263,7 @@ The chief executive of the Ministry must give advance notice in writing to the o
 
 07 
 
-Any person exercising any power under [Part 1][124] must---
+Any person exercising any power under [Part 1][125] must---
     
 *   (a) take reasonable steps to minimise any inconvenience to the occupiers of any land to which the power relates, provided that this does not unreasonably restrict or hinder the exercise of the power; and
 
@@ -3267,7 +3286,7 @@ Property rights
     
     *   (f) temporarily prevent the grantor from entering the easement land; and
     
-    *   (g) require compliance by the grantor with its obligations specified in [Part 4][130]; and
+    *   (g) require compliance by the grantor with its obligations specified in [Part 4][131]; and
     
     *   (h) restrict or limit, either wholly or in part, access (by vehicle or otherwise) over the easement land or any part of it to protect the safety of users of that land, including pedestrians or cyclists; and
     
@@ -3292,7 +3311,7 @@ Prior to undertaking any works on the easement land or exercising the grantee's 
 
 *   (b) when those rights will be exercised; and
 
-*   (c) the fact that compensation may be payable under the [Public Works Act 1981][132].
+*   (c) the fact that compensation may be payable under the [Public Works Act 1981][133].
 
 10 No error or omission in the content of any such notice affects the validity of the notice or the grantee's entitlement to exercise the rights.
 
@@ -3330,14 +3349,14 @@ The grantor must---
 
 _Statutory rights and powers excluded_
 
-17 The rights and powers implied by [Schedule 4][147] of the Land Transfer Regulations 2002 and by [Schedule 5][148] of the Property Law Act 2007 do not apply to this easement.
+17 The rights and powers implied by [Schedule 4][151] of the Land Transfer Regulations 2002 and by [Schedule 5][152] of the Property Law Act 2007 do not apply to this easement.
 
 ---
 
 ## Schedule 9  
 Plans
 
-[ss 6][6], [9(3)][13]
+[ss 6][7], [9(3)][14]
 
 ### Figure 1---Land requirement plan (LR01)
 
@@ -3351,174 +3370,184 @@ Plans
 
 ![. ](images/Nationalfig3g1v2.jpg)
 
----
-
-## Legislative history
-
-23 August 2012Introduction (Bill 53--1)
-
-28 August 2012First reading and referral to Transport and Industrial Relations Committee
-
-18 September 2012Reported from Transport and Industrial Relations Committee (Bill 53--2)
-
-25 September 2012Second reading
-
-26 September 2012Committee of the whole House
-
-27 September 2012Third reading
-
-3 October 2012Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry for Culture and Heritage.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680418
-[1]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680419
-[2]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680420
-[3]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680421
-[4]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680422
-[5]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680470
-[6]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750001
-[7]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680472
-[8]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680473
-[9]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680474
-[10]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680475
-[11]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680476
-[12]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680477
-[13]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680478
-[14]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680479
-[15]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680480
-[16]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680481
-[17]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680482
-[18]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680489
-[19]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680490
-[20]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680491
-[21]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680492
-[22]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680493
-[23]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680494
-[24]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680495
-[25]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680496
-[26]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680497
-[27]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680498
-[28]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680499
-[29]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680500
-[30]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680501
-[31]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680502
-[32]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680503
-[33]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680504
-[34]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680505
-[35]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680506
-[36]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680507
-[37]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680508
-[38]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680509
-[39]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680510
-[40]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680511
-[41]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750002
-[42]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680512
-[43]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680513
-[44]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680514
-[45]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680515
-[46]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750003
-[47]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680518
-[48]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680519
-[49]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680520
-[50]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680521
-[51]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680522
-[52]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680523
-[53]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680524
-[54]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680525
-[55]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680560
-[56]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680581
-[57]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680618
-[58]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680630
-[59]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680640
-[60]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680645
-[61]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680660
-[62]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680679
-[63]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM228044
-[64]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300516
-[65]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306054
-[66]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM230272
-[67]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236206
-[68]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM233848
-[69]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM240686
-[70]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2414465
-[71]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2414472
-[72]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM170881
-[73]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750701
-[74]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750700
-[75]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750702
-[76]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680526
-[77]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680528
-[78]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680561
-[79]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680563
-[80]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234363
-[81]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234366
-[82]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234368
-[83]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM230264
-[84]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234865
-[85]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234891
-[86]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235230
-[87]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235257
-[88]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235211
-[89]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680590
-[90]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236254
-[91]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680592
-[92]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM4750700
-[93]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236261
-[94]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236267
-[95]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680619
-[96]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680621
-[97]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300610
-[98]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300510
-[99]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300613
-[100]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300614
-[101]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300622
-[102]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300615
-[103]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300630
-[104]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680635
-[105]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680637
-[106]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680641
-[107]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680643
-[108]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306385
-[109]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306387
-[110]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306388
-[111]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306390
-[112]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306393
-[113]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306849
-[114]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306854
-[115]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306856
-[116]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM307374
-[117]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM307376
-[118]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM308697
-[119]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM308699
-[120]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306035
-[121]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM309001
-[122]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680653
-[123]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680654
-[124]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680673
-[125]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680674
-[126]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46998
-[127]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680656
-[128]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680658
-[129]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680676
-[130]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680677
-[131]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46014
-[132]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45426
-[133]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45783
-[134]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45793
-[135]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45797
-[136]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46009
-[137]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM269031
-[138]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM415531
-[139]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM170872
-[140]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM444304
-[141]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM276813
-[142]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM364948
-[143]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM195412
-[144]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM195534
-[145]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4776300
-[146]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM309069
-[147]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM138595
-[148]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM969733
+###### 1 General
+    
+*   This is a reprint of the National War Memorial Park (Pukeahu) Empowering Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][153] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][154] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][155] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][156] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][144]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680418
+[2]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680419
+[3]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680420
+[4]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680421
+[5]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680422
+[6]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680470
+[7]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750001
+[8]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680472
+[9]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680473
+[10]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680474
+[11]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680475
+[12]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680476
+[13]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680477
+[14]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680478
+[15]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680479
+[16]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680480
+[17]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680481
+[18]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680482
+[19]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680489
+[20]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680490
+[21]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680491
+[22]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680492
+[23]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680493
+[24]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680494
+[25]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680495
+[26]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680496
+[27]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680497
+[28]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680498
+[29]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680499
+[30]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680500
+[31]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680501
+[32]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680502
+[33]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680503
+[34]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680504
+[35]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680505
+[36]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680506
+[37]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680507
+[38]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680508
+[39]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680509
+[40]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680510
+[41]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680511
+[42]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750002
+[43]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680512
+[44]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680513
+[45]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680514
+[46]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680515
+[47]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750003
+[48]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680518
+[49]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680519
+[50]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680520
+[51]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680521
+[52]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680522
+[53]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680523
+[54]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680524
+[55]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680525
+[56]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680560
+[57]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680581
+[58]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680618
+[59]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680630
+[60]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680640
+[61]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680645
+[62]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680660
+[63]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680679
+[64]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM228044
+[65]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300516
+[66]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306054
+[67]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM230272
+[68]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236206
+[69]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM233848
+[70]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM240686
+[71]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2414465
+[72]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2414472
+[73]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM170881
+[74]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750701
+[75]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750700
+[76]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4750702
+[77]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680526
+[78]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680528
+[79]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680561
+[80]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680563
+[81]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234363
+[82]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234366
+[83]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234368
+[84]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM230264
+[85]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234865
+[86]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM234891
+[87]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235230
+[88]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235257
+[89]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM235211
+[90]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680590
+[91]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236254
+[92]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680592
+[93]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM4750700
+[94]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236261
+[95]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM236267
+[96]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680619
+[97]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680621
+[98]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300610
+[99]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300510
+[100]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300613
+[101]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300614
+[102]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300622
+[103]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300615
+[104]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM300630
+[105]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680635
+[106]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680637
+[107]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680641
+[108]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680643
+[109]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306385
+[110]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306387
+[111]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306388
+[112]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306390
+[113]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306393
+[114]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306849
+[115]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306854
+[116]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306856
+[117]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM307374
+[118]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM307376
+[119]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM308697
+[120]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM308699
+[121]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM306035
+[122]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM309001
+[123]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680653
+[124]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680654
+[125]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680673
+[126]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680674
+[127]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46998
+[128]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680656
+[129]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680658
+[130]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680676
+[131]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4680677
+[132]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46014
+[133]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45426
+[134]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45783
+[135]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45793
+[136]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM45797
+[137]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM46009
+[138]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM4005402
+[139]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM269031
+[140]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM415531
+[141]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM170872
+[142]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM444304
+[143]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM276813
+[144]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM4005646
+[145]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM364948
+[146]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM195412
+[147]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM195534
+[148]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM4005543
+[149]: http://www.legislation.govt.nz/act/public/2012/0076/latest/whole.html#DLM4776300
+[150]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM309069
+[151]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM138595
+[152]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM969733
+[153]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2998516
+[154]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2998515
+[155]: http://www.legislation.govt.nz/act/public/2012/0076/latest/link.aspx?id=DLM2998532
+[156]: http://www.pco.parliament.govt.nz/editorial-conventions/
