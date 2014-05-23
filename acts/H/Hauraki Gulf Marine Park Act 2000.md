@@ -1,5 +1,5 @@
 Reprint  
-as at 8 February 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Conservation.
 
@@ -784,7 +784,7 @@ Hauraki Gulf Marine Park
     
     *   (b) land subject to a Nga Whenua Rahui kawenata entered into under [section 77A][113] of the Reserves Act 1977 or [section 27A][114] of the Conservation Act 1987:
     
-    *   (c) land subject to a heritage covenant entered into under [section 6][115] of the Historic Places Act 1993:
+    *   (c) land subject to a heritage covenant entered into under [section 39][115] of the Heritage New Zealand Pouhere Taonga Act 2014:
     
     *   (d) land subject to an open space covenant entered into under [section 22][116] of the Queen Elizabeth the Second National Trust Act 1977:
     
@@ -794,7 +794,7 @@ Hauraki Gulf Marine Park
     
     *   (g) any land in the Hauraki Gulf, other than land owned by the Crown, whether or not it is subject to a covenant referred to in paragraphs (a) to (d), within a wetland approved by the Minister of Foreign Affairs and notified to the Bureau of the Convention on Wetlands of International Importance done at Ramsar on 2 February 1971\.
     
-    
+    Section 35(2)(c): amended, on 20 May 2014, by [section 107][119] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 36 Inclusion of certain fisheries in Park
     
@@ -836,13 +836,13 @@ Hauraki Gulf Marine Park
     
 *   (1) Land, marine mammal sanctuaries, and marine reserves in [section 33(2)(a), (b), and (c)][37] may be removed from the Park by any of the following actions:
         
-    *   (a) exchanging a conservation area under [section 16A][119] of the Conservation Act 1987:
+    *   (a) exchanging a conservation area under [section 16A][120] of the Conservation Act 1987:
     
-    *   (b) disposing of a conservation area under [section 26][120] of the Conservation Act 1987:
+    *   (b) disposing of a conservation area under [section 26][121] of the Conservation Act 1987:
     
-    *   (c) exchanging a reserve under [section 15][121] of the Reserves Act 1977:
+    *   (c) exchanging a reserve under [section 15][122] of the Reserves Act 1977:
     
-    *   (d) revoking a reserve under [section 24][122] of the Reserves Act 1977:
+    *   (d) revoking a reserve under [section 24][123] of the Reserves Act 1977:
     
     *   (e) revoking or disposing of a wildlife refuge or a wildlife sanctuary:
     
@@ -852,7 +852,7 @@ Hauraki Gulf Marine Park
     
     (2) Before taking an action under subsection (1), the Minister must, in addition to any requirements of a relevant Act, consider the purpose of the Park and be satisfied that the land or marine reserve no longer serves the purpose of the Park.
     
-    (3) A local authority or the administering body of a reserve must, before requesting the revocation of a reserve under [section 24][122] of the Reserves Act 1977, consider the purpose of the Park.
+    (3) A local authority or the administering body of a reserve must, before requesting the revocation of a reserve under [section 24][123] of the Reserves Act 1977, consider the purpose of the Park.
     
     (4) The notice, Order in Council, or other instrument that carries out the action in subsection (1), must state that the land, marine mammal sanctuary, or marine reserve has been removed from the Park.
     
@@ -955,17 +955,17 @@ Miscellaneous
         
     *   (a) made before the commencement of this Act; but
     
-    *   (b) not finally determined before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][123].
+    *   (b) not finally determined before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124].
     
     (2) The continuation and completion of an application (including rights of appeal) must be in accordance with the [Resource Management Act 1991][79] as if this Act had not been enacted.
     
-    (3) Subsection (4) applies to an application that, under [section 119(4)][124] of the Resource Management Act 1991, has been referred back to the hearing committee or Environment Court for a recommendation or report on the matters contained in [sections 7][9] and [8][10] of this Act.
+    (3) Subsection (4) applies to an application that, under [section 119(4)][125] of the Resource Management Act 1991, has been referred back to the hearing committee or Environment Court for a recommendation or report on the matters contained in [sections 7][9] and [8][10] of this Act.
     
     (4) The Minister must consider the application as if the referral back had not been made.
     
-    (5) For the purposes of subsection (4), the time period under [section 119(1)][124] of the Resource Management Act 1991 begins again from the date of the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][123].
+    (5) For the purposes of subsection (4), the time period under [section 119(1)][125] of the Resource Management Act 1991 begins again from the date of the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124].
     
-    Section 49A: inserted, on 16 June 2001, by [section 3][125] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
+    Section 49A: inserted, on 16 June 2001, by [section 3][126] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
 
 ##### 49B Applications finally determined
     
@@ -975,7 +975,7 @@ Miscellaneous
     
     *   (b) finally determined---
             
-        *   (i) before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][123]; and
+        *   (i) before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124]; and
         
         *   (ii) without complying with [section 9(4)][11] of this Act.
         
@@ -983,7 +983,7 @@ Miscellaneous
     
     (2) A decision (including a decision on an appeal) relating to an application has effect, on and from the date it is made, as if this Act had not been enacted.
     
-    Section 49B: inserted, on 16 June 2001, by [section 3][125] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
+    Section 49B: inserted, on 16 June 2001, by [section 3][126] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
 
 ##### 50 Map to indicate boundaries
     
@@ -996,17 +996,17 @@ Acts to which Part 1 applies
 
 [s 13][15]
 
-Biosecurity Act 1993 ([Part 5][126])
+Biosecurity Act 1993 ([Part 5][127])
 
 [Conservation Act 1987][66]
 
-[Fisheries Act 1983][127]
+[Fisheries Act 1983][128]
 
 [Fisheries Act 1996][72]
 
-[Harbour Boards Dry Land Endowment Revesting Act 1991][128]
+[Harbour Boards Dry Land Endowment Revesting Act 1991][129]
 
-[Historic Places Act 1993][129]
+Heritage New Zealand Pouhere Taonga Act 2014
 
 [Local Government Act 1974][73]
 
@@ -1040,6 +1040,7 @@ Marine Farming Act 1971
 
 [Wildlife Act 1953][77]
     
+*   Schedule 1: amended, on 20 May 2014, by [section 107][119] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 *   Schedule 1: amended, on 1 April 2011, by [section 128][110] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 *   Schedule 1: amended, on 30 September 2008, by [section 82][88] of the Walking Access Act 2008 (2008 No 101).
 *   Schedule 1: amended, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
@@ -1091,70 +1092,29 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
     
 *   Schedule 4 Part 2: amended, on 8 February 2013, by [section 55][143] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Hauraki Gulf Marine Park Act 2000\. The reprint incorporates all the amendments to the Act as at 8 February 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][144] ![](/images/external_link.gif).
+*   This is a reprint of the Hauraki Gulf Marine Park Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][145] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][144] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][145] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][146] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][146] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][147] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][147] and [17E][148] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][119]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 55][143]
+    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 55][143]
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][110]
     
@@ -1164,11 +1124,11 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
     
     Local Government Act 2002 (2002 No 84): [section 262][78]
     
-    [Hauraki Gulf Marine Park Amendment Act 2001][123] (2001 No 36)
+    [Hauraki Gulf Marine Park Amendment Act 2001][124] (2001 No 36)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM52560
 [2]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM52564
 [3]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM52565
@@ -1283,21 +1243,21 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
 [112]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106603
 [113]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444916
 [114]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106607
-[115]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM300599
+[115]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005548
 [116]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM9005
 [117]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444911
 [118]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444666
-[119]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104281
-[120]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104957
-[121]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444484
-[122]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444632
-[123]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95818
-[124]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM234883
-[125]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95824
-[126]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM315367
-[127]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM66581
-[128]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM248777
-[129]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM300510
+[119]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005646
+[120]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104281
+[121]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104957
+[122]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444484
+[123]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444632
+[124]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95818
+[125]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM234883
+[126]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95824
+[127]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM315367
+[128]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM66581
+[129]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM248777
 [130]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3213102
 [131]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25110
 [132]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397837
@@ -1312,8 +1272,7 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
 [141]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM99782
 [142]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM123625
 [143]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4326181
-[144]: http://www.pco.parliament.govt.nz/reprints/
-[145]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM195439
-[146]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[147]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM195468
-[148]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM195470
+[144]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998516
+[145]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998515
+[146]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998532
+[147]: http://www.pco.parliament.govt.nz/editorial-conventions/
