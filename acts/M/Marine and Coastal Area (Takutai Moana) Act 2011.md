@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -262,7 +262,7 @@ This Act is administered by the Ministry of Justice.
 
 [88][118][][118][Obligation on local authorities][118]
 
-[89][119][][119][Obligation on New Zealand Historic Places Trust][119]
+[89][119][][119][Obligation on Heritage New Zealand Pouhere Taonga][119]
 
 [90][120][][120][Obligation on Director-General][120]
 
@@ -819,13 +819,15 @@ Preliminary provisions
     
     _tikanga_ means Māori customary values and practices
     
-    _wāhi tapu_ and _wāhi tapu area_ have the meanings given to the terms _wahi tapu_ and _wahi tapu area_ in [section 2][212] of the Historic Places Act 1993
+    _wāhi tapu_ and _wāhi tapu area_ have the meanings given to the terms _wahi tapu_ and _wahi tapu area_ in [section 6][212] of the Heritage New Zealand Pouhere Taonga Act 2014
     
     _warden_ means a person appointed under [section 80][106].
     
     (2) In [Schedule 1][175] and elsewhere as the context requires, _effect_ has the meaning given in [section 3][213] of the Resource Management Act 1991\.
     
     Section 9(1) **privilege** paragraph (a): amended, on 24 May 2013, by [section 65][214] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    
+    Section 9(1) **wāhi tapu** and **wāhi tapu area**: amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 10 Act binds the Crown
     
@@ -876,9 +878,9 @@ Common marine and coastal area
     
     (3) When an Order in Council made under this section comes into force, the defined area to which it relates ceases to be part of the common marine and coastal area.
     
-    (4) Every Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][215] and must be presented to the House of Representatives under [section 41][216] of that Act.
+    (4) Every Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][216] and must be presented to the House of Representatives under [section 41][217] of that Act.
     
-    Section 12(4): replaced, on 5 August 2013, by [section 77(3)][217] of the Legislation Act 2012 (2012 No 119).
+    Section 12(4): replaced, on 5 August 2013, by [section 77(3)][218] of the Legislation Act 2012 (2012 No 119).
 
 ##### 13 Boundary changes of marine and coastal area
     
@@ -886,7 +888,7 @@ Common marine and coastal area
     
     (2) However, if, because of a change caused by a natural occurrence or process, any land, other than a road, that is owned by the Crown or a local authority becomes part of the marine and coastal area, then that land becomes part of the common marine and coastal area (even if that land consists of or is included in a piece of land defined by fixed boundaries).
     
-    (3) If land has, because of a change caused by a natural occurrence or process, ceased to be part of the common marine and coastal area, and the title to that land is not determined by an enactment or the common law, then the land vests in the Crown as Crown land and is subject to the [Land Act 1948][218].
+    (3) If land has, because of a change caused by a natural occurrence or process, ceased to be part of the common marine and coastal area, and the title to that land is not determined by an enactment or the common law, then the land vests in the Crown as Crown land and is subject to the [Land Act 1948][219].
 
 ##### 14 Roads located in marine and coastal area
     
@@ -918,7 +920,7 @@ Common marine and coastal area
     
     _current certificate_ means a certificate under subsection (2) that is dated not earlier than 6 months before the relevant quinquennial anniversary
     
-    _formation_ and _form_ have the same meaning as in [section 2(1)][219] of the Local Government Act 1974
+    _formation_ and _form_ have the same meaning as in [section 2(1)][220] of the Local Government Act 1974
     
     _private road_ has the same meaning as in [section 315(1)][202] of the Local Government Act 1974
     
@@ -928,7 +930,7 @@ Common marine and coastal area
     
 *   (1) When a road or a former road becomes part of the common marine and coastal area, the title of the Crown or other entity as owner of the road is divested.
     
-    (2) If a road in the marine and coastal area is stopped under the [Local Government Act 1974][220] or the [Public Works Act 1981][221], the former road becomes or, as the case requires, continues to be, part of the common marine and coastal area.
+    (2) If a road in the marine and coastal area is stopped under the [Local Government Act 1974][221] or the [Public Works Act 1981][222], the former road becomes or, as the case requires, continues to be, part of the common marine and coastal area.
     
     (3) A certificate signed by the responsible Minister that identifies a road or an area and states that a provision of [section 14][20] or this section has, since a specified date, applied to the road or area is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the certificate.
     
@@ -936,11 +938,11 @@ Common marine and coastal area
 
 ##### 16 Continued Crown ownership of minerals
     
-*   (1) Nothing in [section 11][17] or [83][111] affects [section 10][222] of the Crown Minerals Act 1991, which provides that all petroleum, gold, silver, and uranium existing in its natural condition in land is the property of the Crown.
+*   (1) Nothing in [section 11][17] or [83][111] affects [section 10][223] of the Crown Minerals Act 1991, which provides that all petroleum, gold, silver, and uranium existing in its natural condition in land is the property of the Crown.
     
-    (2) For the purposes of [section 11][223] of the Crown Minerals Act 1991, the operation of [section 11][17] or [17][23] is deemed to be an alienation from the Crown and, accordingly, every mineral (other than pounamu to which [section 3][224] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies) existing in its natural condition in the common marine and coastal area is reserved in favour of the Crown.
+    (2) For the purposes of [section 11][224] of the Crown Minerals Act 1991, the operation of [section 11][17] or [17][23] is deemed to be an alienation from the Crown and, accordingly, every mineral (other than pounamu to which [section 3][225] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies) existing in its natural condition in the common marine and coastal area is reserved in favour of the Crown.
     
-    (3) [Section 11][17] does not affect any privileges and the [Crown Minerals Act 1991][225] continues to apply to those privileges in all respects.
+    (3) [Section 11][17] does not affect any privileges and the [Crown Minerals Act 1991][226] continues to apply to those privileges in all respects.
     
     (4) This section is subject to [section 83][111].
 
@@ -1024,7 +1026,7 @@ Common marine and coastal area
     
     (2) Immediately upon the cancellation under subsection (1) of a computer freehold register that is subject to a current registered interest or current registered notification, the Registrar must, without further authority than this section,---
         
-    *   (a) issue a computer interest register under [section 9][226] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for that registered interest or notification; and
+    *   (a) issue a computer interest register under [section 9][227] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for that registered interest or notification; and
     
     *   (b) record on that computer interest register that the land to which the registered interest or notification relates is located in the common marine and coastal area.
     
@@ -1038,15 +1040,15 @@ Common marine and coastal area
         
     *   (a) cancel the computer freehold register that comprises the land within the common marine and coastal area and the adjacent land; and
     
-    *   (b) issue a computer freehold register under [section 7][227] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in the name of the owner of the adjacent land for the adjacent land; and
+    *   (b) issue a computer freehold register under [section 7][228] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in the name of the owner of the adjacent land for the adjacent land; and
     
     *   (c) note any current registered interest or current registered notification that relates to the adjacent land against that computer freehold register in the order in which it appears on the computer freehold register cancelled under paragraph (a); and
     
-    *   (d) issue a computer interest register under [section 9][226] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the computer freehold register cancelled under paragraph (a).
+    *   (d) issue a computer interest register under [section 9][227] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the computer freehold register cancelled under paragraph (a).
     
     (3) The Registrar may require the deposit of any survey plan necessary for the issue of a computer freehold register under subsection (2)(b).
     
-    (4) To avoid doubt, no action taken under this section is subject to [Part 10][228] of the Resource Management Act 1991\.
+    (4) To avoid doubt, no action taken under this section is subject to [Part 10][229] of the Resource Management Act 1991\.
 
 ##### 24 Exclusion of interests in marine and coastal area founded on adverse possession or prescriptive title
     
@@ -1078,7 +1080,7 @@ Common marine and coastal area
     
     (4) No court has jurisdiction to hear any claim in respect of any loss suffered by a local authority as a result of the operation of [section 11(3) or (4)][17] or [17][23].
     
-    (5) Any application made under [section 25][229] of the Foreshore and Seabed Act 2004 that, on the commencement of this Act, has not yet been finally determined by the Minister of Conservation must be treated as if this Act (other than this subsection) had not been enacted.
+    (5) Any application made under [section 25][230] of the Foreshore and Seabed Act 2004 that, on the commencement of this Act, has not yet been finally determined by the Minister of Conservation must be treated as if this Act (other than this subsection) had not been enacted.
 
 ### Subpart 2---Public rights and powers over common marine and coastal area
 
@@ -1160,13 +1162,13 @@ Common marine and coastal area
     
     _eligible applicant_, in relation to an application under [section 35][46], means a person who, under a provision of that section, is entitled to make that application
     
-    _freehold interest_ means an estate in fee simple but does not include a stratum estate in freehold or in leasehold created under the [Unit Titles Act 1972][230] or the [Unit Titles Act 2010][231]
+    _freehold interest_ means an estate in fee simple but does not include a stratum estate in freehold or in leasehold created under the [Unit Titles Act 1972][231] or the [Unit Titles Act 2010][232]
     
     _interest_ means a freehold interest or a lesser interest
     
     _lesser interest_ means an interest in reclaimed land that is less than a freehold interest and includes a lease, licence, or other right or title to occupy or use the land
     
-    _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Land Act 1948][218]
+    _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Land Act 1948][219]
     
     _reclaimed land_ means permanent land formed from land that formerly was below the line of mean high-water springs and that, as a result of a reclamation, is located above the line of mean high-water springs, but does not include---
         
@@ -1182,7 +1184,7 @@ Common marine and coastal area
     
 *   (1) Subsection (2) applies to any reclaimed land that is formed from the common marine and coastal area as a result of a lawful reclamation.
     
-    (2) The full legal and beneficial ownership in any reclaimed land to which this subsection applies vests in the Crown absolutely if, after the commencement of this Act, a regional council approves a plan of survey, under [section 245(5)][232] of the Resource Management Act 1991, in respect of that land.
+    (2) The full legal and beneficial ownership in any reclaimed land to which this subsection applies vests in the Crown absolutely if, after the commencement of this Act, a regional council approves a plan of survey, under [section 245(5)][233] of the Resource Management Act 1991, in respect of that land.
     
     (3) Subsection (4) applies to reclaimed land that is formed from the common marine and coastal area as a result of an unlawful reclamation.
     
@@ -1194,7 +1196,7 @@ Common marine and coastal area
     
     (5) A certificate signed under subsection (4) is, in the absence of proof to the contrary, sufficient evidence of the matter stated in the certificate.
     
-    (6) The [Land Act 1948][218] does not apply to reclaimed land vested by this section.
+    (6) The [Land Act 1948][219] does not apply to reclaimed land vested by this section.
 
 ##### 31 New status of existing reclaimed land
     
@@ -1204,7 +1206,7 @@ Common marine and coastal area
             
         *   (i) part of the public foreshore and seabed under the [Foreshore and Seabed Act 2004][178]; or
         
-        *   (ii) vested in the Crown under the [Land Act 1948][218]; or
+        *   (ii) vested in the Crown under the [Land Act 1948][219]; or
         
         *   (iii) subject to the Foreshore and Seabed Endowment Revesting Act 1991; or
         
@@ -1214,7 +1216,7 @@ Common marine and coastal area
     
     *   (b) is not set apart for a specified purpose.
     
-    (2) On the commencement of this Act, the full legal and beneficial ownership of all existing reclaimed land vests in the Crown absolutely and, so far as it is, immediately before that commencement, subject to the [Foreshore and Seabed Act 2004][178], the Foreshore and Seabed Endowment Revesting Act 1991, or the [Land Act 1948][218], ceases to be subject to those Acts.
+    (2) On the commencement of this Act, the full legal and beneficial ownership of all existing reclaimed land vests in the Crown absolutely and, so far as it is, immediately before that commencement, subject to the [Foreshore and Seabed Act 2004][178], the Foreshore and Seabed Endowment Revesting Act 1991, or the [Land Act 1948][219], ceases to be subject to those Acts.
     
     (3) However, this section does not affect---
         
@@ -1226,7 +1228,7 @@ Common marine and coastal area
 
 ##### 32 Minister may declare reclaimed land to be subject to Land Act 1948
     
-*   (1) The Minister may, by notice in the _Gazette_, declare any land of the following kind to be Crown land subject to the [Land Act 1948][218] and not to this Act:
+*   (1) The Minister may, by notice in the _Gazette_, declare any land of the following kind to be Crown land subject to the [Land Act 1948][219] and not to this Act:
         
     *   (a) reclaimed land vested in the Crown by [section 30][41] or [31][42]:
     
@@ -1278,7 +1280,7 @@ Common marine and coastal area
     
     (6) The fees referred to in subsection (5) are recoverable as a debt due to the Crown.
     
-    (7) In this section, _network utility operator_ and _network utility operation_ have the same meanings as in [section 166][233] of the Resource Management Act 1991\.
+    (7) In this section, _network utility operator_ and _network utility operation_ have the same meanings as in [section 166][234] of the Resource Management Act 1991\.
 
 ##### 36 Determination of application by Minister
     
@@ -1292,7 +1294,7 @@ Common marine and coastal area
     
     *   (d) the encumbrances, restrictions, or conditions (if any) that should attach to any interest (including a freehold interest) to be granted:
     
-    *   (e) any consideration (whether by payment of price, rental or other charge, or by way of set-off, or in whole or partial settlement of any claim, including any claim under the [Treaty of Waitangi Act 1975][234]) for the grant of the interest.
+    *   (e) any consideration (whether by payment of price, rental or other charge, or by way of set-off, or in whole or partial settlement of any claim, including any claim under the [Treaty of Waitangi Act 1975][235]) for the grant of the interest.
     
     (2) In determining the matters specified in subsection (1), the Minister must take into account the following matters, so far as they are applicable:
         
@@ -1304,7 +1306,7 @@ Common marine and coastal area
     
     *   (d) any conditions or restrictions imposed on the resource consent that authorised the reclamation:
     
-    *   (e) whether any historical claims have been made under the [Treaty of Waitangi Act 1975][234] in respect of the reclaimed land or whether there are any pending applications under [Part 4][124]:
+    *   (e) whether any historical claims have been made under the [Treaty of Waitangi Act 1975][235] in respect of the reclaimed land or whether there are any pending applications under [Part 4][124]:
     
     *   (f) the cultural value of the reclaimed land and surrounding area to tangata whenua:
     
@@ -1328,15 +1330,15 @@ Common marine and coastal area
     
     (2) The persons are the following:
         
-    *   (a) any port company (as defined in [section 2(1)][235] of the Port Companies Act 1988):
+    *   (a) any port company (as defined in [section 2(1)][236] of the Port Companies Act 1988):
     
-    *   (b) any port operator (as defined in [Part 3A][236] of the Maritime Transport Act 1994):
+    *   (b) any port operator (as defined in [Part 3A][237] of the Maritime Transport Act 1994):
     
-    *   (c) the company (as defined in [section 2][237] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company):
+    *   (c) the company (as defined in [section 2][238] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company):
     
-    *   (d) the company (as defined in [section 2][238] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company).
+    *   (d) the company (as defined in [section 2][239] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company).
     
-    Section 37(2)(b): replaced, on 23 October 2013, by [section 90][239] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 37(2)(b): replaced, on 23 October 2013, by [section 90][240] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 38 Notification of determination and variation
     
@@ -1360,7 +1362,7 @@ Common marine and coastal area
     
     *   (b) any conditions imposed under [section 36(1)(c)][47] have been complied with or that adequate provision has been made to ensure that those conditions will be complied with; and
     
-    *   (c) a certificate under [section 245(5)(b)][232] of the Resource Management Act 1991 has been issued in respect of the reclaimed land.
+    *   (c) a certificate under [section 245(5)(b)][233] of the Resource Management Act 1991 has been issued in respect of the reclaimed land.
     
     (2) Every _Gazette_ notice published under subsection (1) must---
         
@@ -1376,7 +1378,7 @@ Common marine and coastal area
     
     (3) The Registrar must, in accordance with a request made under subsection (2)(d),---
         
-    *   (a) issue a computer register under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][240] in respect of the interest in the land vested by the _Gazette_ notice; and
+    *   (a) issue a computer register under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][241] in respect of the interest in the land vested by the _Gazette_ notice; and
     
     *   (b) record on that computer register---
             
@@ -1398,13 +1400,13 @@ Common marine and coastal area
     
     (4) In determining an application under this section, the Minister must take into account the matters specified in [section 36(2)][47], so far as those matters are relevant to the application.
     
-    (5) This section also applies to a lesser interest vested in a person under [section 355][241] or [355AA][242] of the Resource Management Act 1991 (as in force before the commencement of this Act) in land that has become reclaimed land subject to this subpart.
+    (5) This section also applies to a lesser interest vested in a person under [section 355][242] or [355AA][243] of the Resource Management Act 1991 (as in force before the commencement of this Act) in land that has become reclaimed land subject to this subpart.
 
 ##### 41 Pending applications under Resource Management Act 1991 that relate to reclaimed land
     
 *   (1) This section applies to any application---
         
-    *   (a) that was made under [section 355(1)][241] of the Resource Management Act 1991, as in force immediately before the commencement of this Act; and
+    *   (a) that was made under [section 355(1)][242] of the Resource Management Act 1991, as in force immediately before the commencement of this Act; and
     
     *   (b) that is to be, but has not yet been, substantively determined by the Minister of Conservation.
     
@@ -1432,13 +1434,13 @@ Common marine and coastal area
 
 ##### 42 Savings
     
-*   (1) Where, as at the commencement of this Act, any right, title, or interest in reclaimed land is to be vested in a person under a determination of an application under [section 355][241] of the Resource Management Act 1991 (as in force immediately before the commencement of this Act) but the right, title, or interest has not yet been formally vested, the Minister of Conservation must, if satisfied that all relevant conditions have been fulfilled and the price (if any) has been paid, give effect to the determination as if---
+*   (1) Where, as at the commencement of this Act, any right, title, or interest in reclaimed land is to be vested in a person under a determination of an application under [section 355][242] of the Resource Management Act 1991 (as in force immediately before the commencement of this Act) but the right, title, or interest has not yet been formally vested, the Minister of Conservation must, if satisfied that all relevant conditions have been fulfilled and the price (if any) has been paid, give effect to the determination as if---
         
     *   (a) this subpart (other than this section) had not been enacted; and
     
     *   (b) the [Resource Management Act 1991][196] had not been amended by this Act.
     
-    (2) In subsection (1), _determination_ includes an agreement referred to in [section 355AA(2)(b)][242] of the Resource Management Act 1991 (as in force immediately before the commencement of this Act).
+    (2) In subsection (1), _determination_ includes an agreement referred to in [section 355AA(2)(b)][243] of the Resource Management Act 1991 (as in force immediately before the commencement of this Act).
 
 ##### 43 Land reclaimed from customary marine title areas by customary marine title groups
     
@@ -1464,7 +1466,7 @@ Common marine and coastal area
     
     (4) Before the Minister makes a determination under subsection (3)(c), the Minister must give the customary marine title group a reasonable opportunity to comment on the proposed determination.
     
-    (5) If satisfied that a certificate under [section 245(5)(b)][232] of the Resource Management Act 1991 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)(c) have been fulfilled, the Minister may, by notice in the _Gazette_, vest in the customary marine title group an interest in the reclaimed land.
+    (5) If satisfied that a certificate under [section 245(5)(b)][233] of the Resource Management Act 1991 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)(c) have been fulfilled, the Minister may, by notice in the _Gazette_, vest in the customary marine title group an interest in the reclaimed land.
     
     (6) Every _Gazette_ notice published under subsection (5) must---
         
@@ -1478,7 +1480,7 @@ Common marine and coastal area
     
     *   (e) where the Registrar receives a request under paragraph (d), be registered by the Registrar after receipt from the Minister.
     
-    (7) The Registrar must, in accordance with a request made under subsection (6)(d), issue a computer register under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][240] in respect of the interest in the land vested by the _Gazette_ notice.
+    (7) The Registrar must, in accordance with a request made under subsection (6)(d), issue a computer register under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][241] in respect of the interest in the land vested by the _Gazette_ notice.
 
 #### Rights of first refusal
 
@@ -1490,9 +1492,9 @@ Common marine and coastal area
         
     *   (a) is made by a company to another company if both companies are---
             
-        *   (i) members of the same group (within the meaning of [section 5][243] of the Financial Reporting Act 2013); or
+        *   (i) members of the same group (within the meaning of [section 5][244] of the Financial Reporting Act 2013); or
         
-        *   (ii) related companies (within the meaning of [section 2(3)][244] of the Companies Act 1993); or
+        *   (ii) related companies (within the meaning of [section 2(3)][245] of the Companies Act 1993); or
         
         
     
@@ -1510,7 +1512,7 @@ Common marine and coastal area
     
     (6) If the certificate presented under subsection (5)(b) states that the freehold interest in reclaimed land has been disposed of in accordance with [section 45][57], the Registrar must on registration of the transfer instrument remove from the computer register the record made under [section 39(3)(b)][50].
     
-    Section 44(2)(a)(i): amended, on 1 April 2014, by [section 126][245] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 44(2)(a)(i): amended, on 1 April 2014, by [section 126][246] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 45 Offers to Minister, iwi or hapū, or public
     
@@ -1565,15 +1567,15 @@ Customary interests
     
     (3) For the purposes of subsection (1), the conservation processes are---
         
-    *   (a) applications made under [section 5][246] of the Marine Reserves Act 1971 for the purpose of declaring or extending a marine reserve:
+    *   (a) applications made under [section 5][247] of the Marine Reserves Act 1971 for the purpose of declaring or extending a marine reserve:
     
-    *   (b) proposals under [section 22][247] of the Marine Mammals Protection Act 1978 to define and declare or extend a marine mammal sanctuary:
+    *   (b) proposals under [section 22][248] of the Marine Mammals Protection Act 1978 to define and declare or extend a marine mammal sanctuary:
     
     *   (c) proposals under the enactments relevant to conservation protected areas to declare or extend conservation protected areas:
     
     *   (d) publicly notified applications for concessions:
     
-    *   (e) applications made under [regulation 12][248] of the Marine Mammals Protection Regulations 1992 for permits authorising marine mammal watching.
+    *   (e) applications made under [regulation 12][249] of the Marine Mammals Protection Regulations 1992 for permits authorising marine mammal watching.
     
     
 
@@ -1621,7 +1623,7 @@ Customary interests
 
 ##### 50 Stranded marine mammals
     
-*   (1) In this section _marine mammal_ has the same meaning as in [section 2][249] of the Marine Mammals Protection Act 1978\.
+*   (1) In this section _marine mammal_ has the same meaning as in [section 2][250] of the Marine Mammals Protection Act 1978\.
     
     (2) This section applies if marine mammals are stranded in or on the common marine and coastal area.
     
@@ -1633,9 +1635,9 @@ Customary interests
     
     (4) In subsection (3), _marine mammals officer_---
         
-    *   (a) means a person declared or appointed to be a marine mammals officer under [section 11][250] of the Marine Mammals Protection Act 1978; and
+    *   (a) means a person declared or appointed to be a marine mammals officer under [section 11][251] of the Marine Mammals Protection Act 1978; and
     
-    *   (b) includes any other person authorised under [section 18][251] of that Act to manage stranded marine mammals.
+    *   (b) includes any other person authorised under [section 18][252] of that Act to manage stranded marine mammals.
     
     
 
@@ -1653,23 +1655,23 @@ Customary interests
     
     (2) A _protected customary right_ does not include an activity---
         
-    *   (a) that is regulated under the [Fisheries Act 1996][252]; or
+    *   (a) that is regulated under the [Fisheries Act 1996][253]; or
     
-    *   (b) that is a commercial aquaculture activity (within the meaning of [section 4][253] of the Maori Commercial Aquaculture Claims Settlement Act 2004); or
+    *   (b) that is a commercial aquaculture activity (within the meaning of [section 4][254] of the Maori Commercial Aquaculture Claims Settlement Act 2004); or
     
     *   (c) that involves the exercise of---
             
-        *   (i) any commercial Māori fishing right or interest, being a right or interest declared by [section 9][254] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 to be settled; or
+        *   (i) any commercial Māori fishing right or interest, being a right or interest declared by [section 9][255] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 to be settled; or
         
-        *   (ii) any non-commercial Māori fishing right or interest, being a right or interest subject to the declarations in [section 10][255] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
+        *   (ii) any non-commercial Māori fishing right or interest, being a right or interest subject to the declarations in [section 10][256] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
         
         
     
     *   (d) that relates to---
             
-        *   (i) wildlife within the meaning of the [Wildlife Act 1953][188], or any animals specified in [Schedule 6][256] of that Act:
+        *   (i) wildlife within the meaning of the [Wildlife Act 1953][188], or any animals specified in [Schedule 6][257] of that Act:
         
-        *   (ii) marine mammals within the meaning of the [Marine Mammals Protection Act 1978][257]; or
+        *   (ii) marine mammals within the meaning of the [Marine Mammals Protection Act 1978][258]; or
         
         
     
@@ -1679,11 +1681,11 @@ Customary interests
 
 ##### 52 Scope and effect of protected customary rights
     
-*   (1) A protected customary right may be exercised under a protected customary rights order or an agreement without a resource consent, despite any prohibition, restriction, or imposition that would otherwise apply in or under [sections 12 to 17][258] of the Resource Management Act 1991\.
+*   (1) A protected customary right may be exercised under a protected customary rights order or an agreement without a resource consent, despite any prohibition, restriction, or imposition that would otherwise apply in or under [sections 12 to 17][259] of the Resource Management Act 1991\.
     
     (2) In exercising a protected customary right, a protected customary rights group is not liable for---
         
-    *   (a) the payment of coastal occupation charges imposed under [section 64A][259] of the Resource Management Act 1991; or
+    *   (a) the payment of coastal occupation charges imposed under [section 64A][260] of the Resource Management Act 1991; or
     
     *   (b) the payment of royalties for sand and shingle imposed by regulations made under the [Resource Management Act 1991][196].
     
@@ -1705,7 +1707,7 @@ Customary interests
             
         *   (i) a non-commercial aquaculture activity; or
         
-        *   (ii) a non-commercial fishery activity that is not a right or interest subject to the declarations in [section 10][255] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1991:
+        *   (ii) a non-commercial fishery activity that is not a right or interest subject to the declarations in [section 10][256] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1991:
         
         
     
@@ -1769,7 +1771,7 @@ Customary interests
         
         
     
-    *   (b) a resource consent under [section 330A][260] of the Resource Management Act 1991 for an emergency activity (within the meaning of [section 63][83]) undertaken in accordance with [section 330][261] of that Act, as if the emergency activity were an emergency work to which section 330 applies; or
+    *   (b) a resource consent under [section 330A][261] of the Resource Management Act 1991 for an emergency activity (within the meaning of [section 63][83]) undertaken in accordance with [section 330][262] of that Act, as if the emergency activity were an emergency work to which section 330 applies; or
     
     *   (c) a resource consent for an existing accommodated infrastructure (within the meaning of [section 63][83]) if any adverse effects of the proposed activity on the exercise of a protected customary right will be or are likely to be---
             
@@ -1783,7 +1785,7 @@ Customary interests
     
     (4) In the case where a deemed accommodated activity within the meaning of [section 65(1)(b)(i)][85] applies, the consent authority must, when considering applications for a resource consent relating to that activity, have particular regard to the nature of the protected customary right.
     
-    (5) The provisions of [Part 1 of Schedule 1][262] apply for the purposes of subsections (2) and (3).
+    (5) The provisions of [Part 1][263] of Schedule 1 apply for the purposes of subsections (2) and (3).
 
 #### Controls
 
@@ -1803,7 +1805,7 @@ Customary interests
     
     (4) If the Minister is not satisfied that an application under subsection (2) raises reasonable concerns that the exercise of a protected customary right has, or is likely to have, a significant adverse effect on the environment, the Minister must advise the applicant accordingly, giving reasons for that decision.
     
-    (5) [Part 2 of Schedule 1][263] applies to making a determination as to whether there is, or is likely to be, a significant adverse effect on the environment, for the purpose of imposing controls under this section.
+    (5) [Part 2][264] of Schedule 1 applies to making a determination as to whether there is, or is likely to be, a significant adverse effect on the environment, for the purpose of imposing controls under this section.
 
 ##### 57 Notification of controls
     
@@ -1901,7 +1903,7 @@ Customary interests
     
     *   (b) if paragraph (a) applies, the extent to which there has been such ownership or exercise of fishing rights in the specified area.
     
-    (2) To avoid doubt, [section 10][255] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)(a)(ii).
+    (2) To avoid doubt, [section 10][256] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)(a)(ii).
     
     (3) The use at any time, by persons who are not members of an applicant group, of a specified area of the common marine and coastal area for fishing or navigation does not, of itself, preclude the applicant group from establishing the existence of customary marine title.
     
@@ -1945,7 +1947,7 @@ Customary interests
     
     *   (b) is not liable for payment, in relation to the customary marine title area, of---
             
-        *   (i) coastal occupation charges imposed under [section 64A][259] of the Resource Management Act 1991; or
+        *   (i) coastal occupation charges imposed under [section 64A][260] of the Resource Management Act 1991; or
         
         *   (ii) royalties for sand and shingle imposed by regulations made under the [Resource Management Act 1991][196].
         
@@ -1999,9 +2001,9 @@ Customary interests
     
     *   (f) the ownership of minerals other than---
             
-        *   (i) minerals within the meaning of [section 10][222] of the Crown Minerals Act 1991; or
+        *   (i) minerals within the meaning of [section 10][223] of the Crown Minerals Act 1991; or
         
-        *   (ii) pounamu to which [section 3][224] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies (_see_ [section 83][111]); and
+        *   (ii) pounamu to which [section 3][225] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies (_see_ [section 83][111]); and
         
         
     
@@ -2049,13 +2051,13 @@ Customary interests
         
         *   (ii) a local authority or a council-controlled organisation:
         
-        *   (iii) a network utility operator (within the meaning of [section 166][233] of the Resource Management Act 1991):
+        *   (iii) a network utility operator (within the meaning of [section 166][234] of the Resource Management Act 1991):
         
-        *   (iv) an electricity generator (as defined in [section 2(1)][264] of the Electricity Act 1992):
+        *   (iv) an electricity generator (as defined in [section 2(1)][265] of the Electricity Act 1992):
         
-        *   (v) a port company (as defined in [section 2(1)][235] of the Port Companies Act 1988):
+        *   (v) a port company (as defined in [section 2(1)][236] of the Port Companies Act 1988):
         
-        *   (vi) a port operator (as defined in [Part 3A][236] of the Maritime Transport Act 1994):
+        *   (vi) a port operator (as defined in [Part 3A][237] of the Maritime Transport Act 1994):
         
         
     
@@ -2087,7 +2089,7 @@ Customary interests
     
     *   (f) dredging as part of the ongoing operation of a port
     
-    _Crown agent_ has the meaning given in [section 10(1)][265] of the Crown Entities Act 2004
+    _Crown agent_ has the meaning given in [section 10(1)][266] of the Crown Entities Act 2004
     
     _deemed accommodated activities_ are the activities described in [section 65][85]
     
@@ -2105,23 +2107,23 @@ Customary interests
     
     *   (c) includes any activity authorised by an enactment for the purpose of preventing any of the matters referred to in paragraph (a), including an activity in relation to---
             
-        *   (i) a state of emergency declared under the [Civil Defence Emergency Management Act 2002][266]; or
+        *   (i) a state of emergency declared under the [Civil Defence Emergency Management Act 2002][267]; or
         
-        *   (ii) a biosecurity emergency declared under [section 144][266] of the Biosecurity Act 1993; or
+        *   (ii) a biosecurity emergency declared under [section 144][267] of the Biosecurity Act 1993; or
         
-        *   (iii) an emergency or a special emergency declared under [section 49B][267] or [136][268] of the Hazardous Substances and New Organisms Act 1996; or
+        *   (iii) an emergency or a special emergency declared under [section 49B][268] or [136][269] of the Hazardous Substances and New Organisms Act 1996; or
         
-        *   (iv) a marine oil spill response under the [Maritime Transport Act 1994][269]; or
+        *   (iv) a marine oil spill response under the [Maritime Transport Act 1994][270]; or
         
-        *   (v) an emergency within the meaning of [section 2(1)][270] of the Fire Service Act 1975; or
+        *   (v) an emergency within the meaning of [section 2(1)][271] of the Fire Service Act 1975; or
         
-        *   (vi) emergency works described in [section 330][261] of the Resource Management Act 1991
+        *   (vi) emergency works described in [section 330][262] of the Resource Management Act 1991
         
         
     
     _existing_, in relation to an activity, means an activity for which, before the effective date, any necessary resource consents have been granted, whether or not any or all of them have been given effect to before the effective date.
     
-    Section 63 **accommodated infrastructure** paragraph (b)(vi): replaced, on 23 October 2013, by [section 90][239] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 63 **accommodated infrastructure** paragraph (b)(vi): replaced, on 23 October 2013, by [section 90][240] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 64 Accommodated activities
     
@@ -2205,9 +2207,9 @@ Customary interests
         
         *   (iv) in any case where the construction of infrastructure is to take place at any time after the commencement of this Act, that construction is either---
                 
-            *   (A) agreed in principle in accordance with [Part 1 of Schedule 2][271] (subject to all necessary consents being obtained) by the group that holds a customary marine title order in the area relevant to the proposed infrastructure; or
+            *   (A) agreed in principle in accordance with [Part 1][272] of Schedule 2 (subject to all necessary consents being obtained) by the group that holds a customary marine title order in the area relevant to the proposed infrastructure; or
             
-            *   (B) classified by the Minister for Land Information as a deemed accommodated activity (subject to all necessary resource consents being obtained) in accordance with [Part 1 of Schedule 2][271]:
+            *   (B) classified by the Minister for Land Information as a deemed accommodated activity (subject to all necessary resource consents being obtained) in accordance with [Part 1][272] of Schedule 2:
             
             
         
@@ -2217,7 +2219,7 @@ Customary interests
             
         *   (i) that, at any time after the commencement of this Act, is necessary for, or reasonably related to, prospecting, exploration, mining operations, or mining (as those terms are defined in [section 2(1)][197] of the Crown Minerals Act 1991) for petroleum under a privilege; and
         
-        *   (ii) for which an agreement or an arbitral award has been made under [Part 2 of Schedule 2][272]:
+        *   (ii) for which an agreement or an arbitral award has been made under [Part 2][273] of Schedule 2:
         
         
     
@@ -2225,7 +2227,7 @@ Customary interests
             
         *   (i) that, at any time after the commencement of this Act, is necessary for, or reasonably related to, the exercise of a privilege in existence immediately before the effective date and of the rights associated with that privilege, as provided for in [section 84(1)][112]; and
         
-        *   (ii) for which an agreement or arbitral award has been made under [Part 2 of Schedule 2][272].
+        *   (ii) for which an agreement or arbitral award has been made under [Part 2][273] of Schedule 2\.
         
         
     
@@ -2289,7 +2291,7 @@ Customary interests
     
     (4) The customary marine title group is to be treated as having given permission for the resource consent, for its duration, if notice of its decision is not received by the applicant in accordance with subsection (3).
     
-    (5) In subsection (3), the grant of a resource consent means that the consent has been granted and any appeal rights exhausted, and that the resource consent would, but for the requirement for the permission of the customary marine title group, commence under [section 116][273] of the Resource Management Act 1991\.
+    (5) In subsection (3), the grant of a resource consent means that the consent has been granted and any appeal rights exhausted, and that the resource consent would, but for the requirement for the permission of the customary marine title group, commence under [section 116][274] of the Resource Management Act 1991\.
 
 ##### 68 Effect of RMA permission right
     
@@ -2303,7 +2305,7 @@ Customary interests
         
     *   (a) a right of appeal; or
     
-    *   (b) a right of objection under [section 357][274] or [357A][275] of the Resource Management Act 1991\.
+    *   (b) a right of objection under [section 357][275] or [357A][276] of the Resource Management Act 1991\.
     
     
 
@@ -2343,7 +2345,7 @@ Customary interests
     
     *   (b) in the District Court and, unless the Chief District Court Judge directs otherwise, by a District Court Judge who is an Environment Judge.
     
-    Section 69(2): amended, on 1 July 2013, by [section 413][276] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Court may make enforcement orders
     
@@ -2353,7 +2355,7 @@ Customary interests
     
     *   (b) a resource consent is exercised without the permission of the customary marine title group being obtained.
     
-    (2) If proceedings for an offence are commenced in the Environment Court, the [Criminal Procedure Act 2011][277] applies as if a reference to the District Court were a reference to the Environment Court, with any other necessary modifications.
+    (2) If proceedings for an offence are commenced in the Environment Court, the [Criminal Procedure Act 2011][278] applies as if a reference to the District Court were a reference to the Environment Court, with any other necessary modifications.
     
     (3) The Environment Court may make enforcement orders to---
         
@@ -2363,7 +2365,7 @@ Customary interests
     
     *   (c) require a person to rectify any adverse effects of the activity on the customary marine title area.
     
-    Section 70(2): amended, on 1 July 2013, by [section 413][276] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 70(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Conservation permission right
 
@@ -2375,7 +2377,7 @@ Customary interests
     
     (3) The conservation activities to which a conservation permission right applies are activities wholly or partly within the relevant customary marine title area and for which---
         
-    *   (a) an application is made under [section 5][246] of the Marine Reserves Act 1971 to declare or extend a marine reserve:
+    *   (a) an application is made under [section 5][247] of the Marine Reserves Act 1971 to declare or extend a marine reserve:
     
     *   (b) a proposal is made under the enactments relevant to a conservation protected area to declare or extend a conservation protected area:
     
@@ -2409,7 +2411,7 @@ Customary interests
     
     (2) In referring an application in respect of a marine reserve under subsection (1), the Director-General must include information on---
         
-    *   (a) any boundary markers that may be placed in the reserve under [section 22][278] of the Marine Reserves Act 1971; and
+    *   (a) any boundary markers that may be placed in the reserve under [section 22][279] of the Marine Reserves Act 1971; and
     
     *   (b) any signs that may be erected, or any management that may be carried out, in the reserve under that Act.
     
@@ -2481,7 +2483,7 @@ Customary interests
 
 ##### 76 Decisions on grant of marine mammal permits
     
-*   (1) Before the Director-General determines an application under the [Marine Mammals Protection Regulations 1992][279] to watch marine mammals within a customary marine title area, the Director-General must---
+*   (1) Before the Director-General determines an application under the [Marine Mammals Protection Regulations 1992][280] to watch marine mammals within a customary marine title area, the Director-General must---
         
     *   (a) give written notice to the customary marine title group relevant to that area---
             
@@ -2495,7 +2497,7 @@ Customary interests
     
     (2) The obligation under subsection (1)(b) does not limit the discretion of the Director-General to---
         
-    *   (a) approve or decline an application on the grounds set out in the [Marine Mammals Protection Regulations 1992][279]; or
+    *   (a) approve or decline an application on the grounds set out in the [Marine Mammals Protection Regulations 1992][280]; or
     
     *   (b) impose any conditions on a permit that the Director-General thinks fit.
     
@@ -2505,7 +2507,7 @@ Customary interests
 
 ##### 77 Consultation
     
-*   If the Minister of Conservation is proposing to prepare, issue, change, review, or revoke a New Zealand coastal policy statement under [section 57][280] of the Resource Management Act 1991, the Minister must seek and consider the views of the customary marine title groups recorded on the register.
+*   If the Minister of Conservation is proposing to prepare, issue, change, review, or revoke a New Zealand coastal policy statement under [section 57][281] of the Resource Management Act 1991, the Minister must seek and consider the views of the customary marine title groups recorded on the register.
 
 #### Wāhi tapu protection right
 
@@ -2549,9 +2551,9 @@ Customary interests
     
     (4) In this section, _fisheries legislation_ means---
         
-    *   (a) the [Fisheries Act 1983][281]; and
+    *   (a) the [Fisheries Act 1983][282]; and
     
-    *   (b) the [Fisheries Act 1996][252]; and
+    *   (b) the [Fisheries Act 1996][253]; and
     
     *   (c) regulations made under those Acts.
     
@@ -2603,19 +2605,17 @@ Customary interests
     
     (2) Every person commits an offence who intentionally fails to comply with a prohibition or restriction notified for that wāhi tapu or wāhi tapu area, and is liable on conviction to a fine not exceeding $5,000\.
     
-    (3) Despite subsection (2), the offence provisions of the [Historic Places Act 1993][282] apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right---
-        
-    *   (a) is protected by a heritage covenant under [section 6][283] of that Act; or
-    
-    *   (b) has interim registration under [section 26][284] of that Act.
+    (3) Despite subsection (2), the offence provisions of the [Heritage New Zealand Pouhere Taonga Act 2014][283] apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right is protected by a heritage covenant under [section 39][284] of that Act.
     
     (4) To avoid doubt, it is not an offence for a person to do anything that is inconsistent with the prohibition or restriction included in the wāhi tapu conditions if---
         
-    *   (a) the person is carrying out an emergency activity (within the meaning of [section 63)][83]; or
+    *   (a) the person is carrying out an emergency activity (within the meaning of [section 63][83]); or
     
     *   (b) the person has an exemption notified under [section 79(1)(c)][105].
     
-    Section 81(2): amended, on 1 July 2013, by [section 413][276] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 81(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 81(3): replaced, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### Ngā taonga tūturu
 
@@ -2657,7 +2657,7 @@ Customary interests
     
     (3) The reservation of minerals in favour of the Crown continued by [section 16(2)][22] ceases.
     
-    (4) This section does not limit or have any effect on [section 11(1A)][223] of the Crown Minerals Act 1991 (which excludes the reservation of minerals in favour of the Crown from applying to pounamu to which [section 3][224] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies).
+    (4) This section does not limit or have any effect on [section 11(1A)][224] of the Crown Minerals Act 1991 (which excludes the reservation of minerals in favour of the Crown from applying to pounamu to which [section 3][225] of the Ngai Tahu (Pounamu Vesting) Act 1997 applies).
 
 ##### 84 Status of existing privileges within common marine and coastal area
     
@@ -2665,17 +2665,17 @@ Customary interests
         
     *   (a) privileges in existence immediately before the effective date; and
     
-    *   (b) rights that can be exercised under the [Crown Minerals Act 1991][225] by the holders of those privileges or any other person; and
+    *   (b) rights that can be exercised under the [Crown Minerals Act 1991][226] by the holders of those privileges or any other person; and
     
     *   (c) subsequent rights and privileges granted to those holders or any other person following the exercise of the rights referred to in paragraph (b) (including those provided for by [section 32][288] of the Crown Minerals Act 1991); and
     
-    *   (d) the obligations on those holders or any other person imposed by or under the [Crown Minerals Act 1991][225]; and
+    *   (d) the obligations on those holders or any other person imposed by or under the [Crown Minerals Act 1991][226]; and
     
-    *   (e) the exercise by the Crown of its functions and powers under the [Crown Minerals Act 1991][225] in relation to any of the matters referred to in paragraphs (a) to (d).
+    *   (e) the exercise by the Crown of its functions and powers under the [Crown Minerals Act 1991][226] in relation to any of the matters referred to in paragraphs (a) to (d).
     
     (2) A customary marine title group is entitled to receive the following royalties:
         
-    *   (a) from the Crown, any royalties due to the Crown under the [Crown Minerals Act 1991][225] in respect of minerals (other than petroleum, gold, silver, and uranium existing in their natural condition) that are subject to any privilege referred to in subsection (1)(a) to (d) that applies to its customary marine title area; and
+    *   (a) from the Crown, any royalties due to the Crown under the [Crown Minerals Act 1991][226] in respect of minerals (other than petroleum, gold, silver, and uranium existing in their natural condition) that are subject to any privilege referred to in subsection (1)(a) to (d) that applies to its customary marine title area; and
     
     *   (b) from the regional council, any royalties for sand and shingle taken from the customary marine title area imposed by regulations made under the [Resource Management Act 1991][196].
     
@@ -2729,13 +2729,13 @@ Customary interests
         
     *   (a) the [Conservation Act 1987][185] or the Acts listed in [Schedule 1][289] of that Act:
     
-    *   (b) the [Historic Places Act 1993][282]:
+    *   (b) the [Heritage New Zealand Pouhere Taonga Act 2014][283]:
     
     *   (c) the [Local Government Act 2002][290]:
     
     *   (d) the [Resource Management Act 1991][196].
     
-    
+    Section 85(5)(b): amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 86 Lodging and registration of planning document
     
@@ -2761,15 +2761,21 @@ Customary interests
     
     (2) On and after the date that a planning document is registered, the local authority must take the planning document into account when making any decision under the [Local Government Act 2002][290] in relation to the customary marine title area.
 
-##### 89 Obligation on New Zealand Historic Places Trust
+##### 89 Obligation on Heritage New Zealand Pouhere Taonga
     
-*   If a customary marine title group lodges a planning document with the New Zealand Historic Places Trust (the _Trust_), on and after the date that the planning document is registered,---
+*   If a customary marine title group lodges a planning document with Heritage New Zealand Pouhere Taonga, on and after the date that the planning document is registered,---
         
-    *   (a) the Trust must have particular regard to matters set out in the document that relate to the functions of the Trust when considering an application under [section 14][291] of the Historic Places Act 1993 to destroy, damage, or modify an archaeological site within the customary marine title area of the group; and
+    *   (a) Heritage New Zealand Pouhere Taonga must have particular regard to matters set out in the document that relate to the functions of Heritage New Zealand Pouhere Taonga when considering an application under [section 44][291] of the Heritage New Zealand Pouhere Taonga Act 2014 to destroy or modify an archaeological site within the customary marine title area of the group; and
     
-    *   (b) in the event of an appeal under [section 20][292] of that Act against a decision of the Trust made under paragraph (a), the Environment Court must have particular regard to the planning document.
+    *   (b) in the event of an appeal under [section 58][292] of that Act against a decision of Heritage New Zealand Pouhere Taonga made under paragraph (a), the Environment Court must have particular regard to the planning document.
     
+    Section 89 heading: amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
+    Section 89: amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 89(a): amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 89(b): amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 90 Obligation on Director-General
     
@@ -2865,9 +2871,9 @@ Customary interests
     
     *   (c) would be more effectively and efficiently addressed in another way.
     
-    (11) If a regional council determines that no alterations should be notified in a proposed policy statement or plan that is notified under [clause 5 of Schedule 1][297] of the Resource Management Act 1991, it must inform the customary marine title group in writing and provide reasons for its decision within 5 working days of that decision.
+    (11) If a regional council determines that no alterations should be notified in a proposed policy statement or plan that is notified under [clause 5][297] of Schedule 1 of the Resource Management Act 1991, it must inform the customary marine title group in writing and provide reasons for its decision within 5 working days of that decision.
     
-    (12) If an application is made to a regional council under [Part 2 of Schedule 1][298] of the Resource Management Act 1991 for a private plan change that includes a customary marine title area in respect of which a planning document has been lodged,---
+    (12) If an application is made to a regional council under [Part 2][298] of Schedule 1 of the Resource Management Act 1991 for a private plan change that includes a customary marine title area in respect of which a planning document has been lodged,---
         
     *   (a) the provisions of [Part 2][298] of that schedule apply to the application, subject to the regional council having regard to any matters in the planning document when making a decision under [clause 25][299] of that schedule; and
     
@@ -2972,7 +2978,7 @@ Administrative and miscellaneous matters
     
     *   (d) an obligation of any kind.
     
-    (6) Nothing in this section limits [section 10][255] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1993\.
+    (6) Nothing in this section limits [section 10][256] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1993\.
     
     (7) Subsection (3) does not limit [section 112][149].
 
@@ -3182,11 +3188,11 @@ Administrative and miscellaneous matters
             
         *   (i) the customary marine title group; and
         
-        *   (ii) the New Zealand Historic Places Trust.
+        *   (ii) Heritage New Zealand Pouhere Taonga.
         
         
     
-    
+    Section 110(3)(b)(ii): amended, on 20 May 2014, by [section 107][215] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 111 Recognition order may be varied or cancelled
     
@@ -3388,7 +3394,7 @@ Administrative and miscellaneous matters
     
     *   (b) the objectives of the proposed regulations cannot be, or are not being, achieved under an existing enactment.
     
-    Section 120(1)(e): amended, on 1 July 2013, by [section 413][276] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 120(1)(e): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 121 Bylaws
     
@@ -3434,7 +3440,7 @@ Administrative and miscellaneous matters
     
     (7) Before a delegate exercises a power under subsection (1) or (2), the delegate must produce his or her warrant of appointment or other evidence of his or her authority.
     
-    Section 122(3): amended, on 1 July 2013, by [section 413][276] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 122(3): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Local Acts
 
@@ -4050,7 +4056,7 @@ New minerals-related activities
 
 ##### 17 Appointment of arbitrator in default of agreement
     
-*   (1) The permit holder or the customary marine title group may apply to the chief executive of the department responsible for the administration of the [Crown Minerals Act 1991][225] for the appointment of an arbitrator if---
+*   (1) The permit holder or the customary marine title group may apply to the chief executive of the department responsible for the administration of the [Crown Minerals Act 1991][226] for the appointment of an arbitrator if---
         
     *   (a) the customary marine title group and the permit holder are unable to agree on the appointment of an arbitrator; and
     
@@ -4114,7 +4120,7 @@ Acts amended
 
 [Section 39(7)][333]: omit ""all foreshore and seabed"" and substitute ""any marine and coastal area"".
 
-##### [Crown Minerals Act 1991][225] (1991 No 70)
+##### [Crown Minerals Act 1991][226] (1991 No 70)
 
 [Section 2(1)][197]: definition of _access arrangement_: repeal and substitute:
 
@@ -4212,7 +4218,7 @@ Heading to [section 61][340]: add ""**and land in common marine and coastal area
 
 [Section 61(1A)][340]: insert ""or land of the common marine and coastal area"" after ""1977)"".
 
-##### [Fisheries Act 1996][252] (1996 No 88)
+##### [Fisheries Act 1996][253] (1996 No 88)
 
 [Section 2(1)][200]: insert the following definitions in their appropriate alphabetical order:
 
@@ -4270,37 +4276,37 @@ Heading to [section 39][348]: omit ""**Crown-owned land**"" and substitute ""**l
 
 [Schedule 1][349]: insert in its appropriate alphabetical order: ""Marine and Coastal Area (Takutai Moana) Act 2011"".
 
-##### [Historic Places Act 1993][282] (1993 No 38)
+##### [Historic Places Act 1993][350] (1993 No 38)
 
-[Section 2][212]: insert in their appropriate alphabetical order:
+[Section 2][351]: insert in their appropriate alphabetical order:
 
 > "_customary marine title area_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
 > 
 > "_planning document_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
-[Section 14][291]: insert after subsection (3A):
+[Section 14][352]: insert after subsection (3A):
 
 > *   "(3B) The Trust must comply with section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011\."
 > 
 > 
 
-[Section 20][292]: insert after subsection (6A):
+[Section 20][353]: insert after subsection (6A):
 
 > *   "(6B) In determining an appeal in respect of a decision made under section 14(1)(a) or (b) that relates to a customary marine title area, the Court must have particular regard to any planning documents lodged with the New Zealand Historic Places Trust under section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to an archaeological site within the customary marine title area."
 > 
 > 
 
-##### [Local Government Act 1974][220] (1974 No 66)
+##### [Local Government Act 1974][221] (1974 No 66)
 
-[Section 345(1A)][350]: repeal and substitute:
+[Section 345(1A)][354]: repeal and substitute:
 
 > *   "(1A) To avoid doubt, this section does not apply to the common marine and coastal area within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011\."
 > 
 > 
 
-##### [Local Government (Rating) Act 2002][351] (2002 No 6)
+##### [Local Government (Rating) Act 2002][355] (2002 No 6)
 
-[Section 5][352]: insert in their appropriate alphabetical order:
+[Section 5][356]: insert in their appropriate alphabetical order:
 
 > "_common marine and coastal area_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
 > 
@@ -4308,9 +4314,9 @@ Heading to [section 39][348]: omit ""**Crown-owned land**"" and substitute ""**l
 > 
 > "_structure_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
-[Schedule 1][353]: Part 1: clause 2(b) and (c): repeal.
+[Schedule 1][357]: Part 1: clause 2(b) and (c): repeal.
 
-[Schedule 1][353]: Part 1: insert after clause 22:
+[Schedule 1][357]: Part 1: insert after clause 22:
 
 > *   "23 The common marine and coastal area, including any customary marine title area, within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011\.
 > 
@@ -4326,23 +4332,23 @@ Heading to [section 39][348]: omit ""**Crown-owned land**"" and substitute ""**l
 > 
 > 
 
-##### [New Zealand Railways Corporation Act 1981][354] (1981 No 119)
+##### [New Zealand Railways Corporation Act 1981][358] (1981 No 119)
 
-[Section 2(1)][355]: insert in its appropriate alphabetical order:
+[Section 2(1)][359]: insert in its appropriate alphabetical order:
 
 > "_common marine and coastal area_ has the same meaning as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
 Paragraph (a) of the definition of _railway_ in section 2(1): insert ""or forming part of the common marine and coastal area"" after ""the Reserves Act 1977"".
 
-[Section 24][356]: insert after paragraph (a):
+[Section 24][360]: insert after paragraph (a):
 
 > *   "(ab) occupy, use, or manage any railway that is located in the common marine and coastal area:".
 > 
 > 
 
-[Section 117(1)][357]: insert ""or of the common marine and coastal area"" after ""a public reserve"".
+[Section 117(1)][361]: insert ""or of the common marine and coastal area"" after ""a public reserve"".
 
-##### [Protected Objects Act 1975][358] (1975 No 41)
+##### [Protected Objects Act 1975][362] (1975 No 41)
 
 New section 11A: insert after section 11:
 
@@ -4352,7 +4358,7 @@ New section 11A: insert after section 11:
 > 
 > 
 
-##### [Public Works Act 1981][221] (1981 No 35)
+##### [Public Works Act 1981][222] (1981 No 35)
 
 Section 2: insert in its appropriate alphabetical order:
 
@@ -4362,11 +4368,11 @@ Definition of _Government work_ in section 2: omit ""public foreshore and seabed
 
 Definition of _public foreshore and seabed_ in section 2: repeal.
 
-[Section 52(1)(b)][359]: omit ""public foreshore and seabed"" and substitute ""common marine and coastal area"".
+[Section 52(1)(b)][363]: omit ""public foreshore and seabed"" and substitute ""common marine and coastal area"".
 
-[Section 52(3)(b)][359]: omit ""public foreshore and seabed"" and substitute ""common marine and coastal area"".
+[Section 52(3)(b)][363]: omit ""public foreshore and seabed"" and substitute ""common marine and coastal area"".
 
-[Section 165(1)][360]: insert: ""or any land situated in the common marine and coastal area"" after ""Crown land or public reserve"".
+[Section 165(1)][364]: insert: ""or any land situated in the common marine and coastal area"" after ""Crown land or public reserve"".
 
 ##### [Resource Management Act 1991][196] (1991 No 69)
 
@@ -4400,17 +4406,17 @@ Definitions of _access rights_, _board_, _customary rights order_, _foreshore an
 > 
 > "_RMA permission right_ means the right provided for a customary marine title group by sections 66 and 68 of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
-Definition of _affected order holder_ in [section 2AA(2)][361]: repeal.
+Definition of _affected order holder_ in [section 2AA(2)][365]: repeal.
 
-Definition of _limited notification_ in [section 2AA(2)][361]: omit ""or affected order holder"".
+Definition of _limited notification_ in [section 2AA(2)][365]: omit ""or affected order holder"".
 
-[Section 6(g)][362]: repeal and substitute:
+[Section 6(g)][366]: repeal and substitute:
 
 > *   "(g) the protection of protected customary rights."
 > 
 > 
 
-[Section 12(2)][258]: repeal and substitute:
+[Section 12(2)][259]: repeal and substitute:
 
 > *   "(2) No person may, unless expressly allowed by a national environmental standard, a rule in a regional coastal plan or in any proposed regional coastal plan for the same region, or a resource consent,---
 >         
@@ -4422,7 +4428,7 @@ Definition of _limited notification_ in [section 2AA(2)][361]: omit ""or affecte
 > 
 > 
 
-[Section 12A(1)][363]: repeal and substitute:
+[Section 12A(1)][367]: repeal and substitute:
 
 > *   "(1) No person may occupy a coastal marine area for the purpose of an aquaculture activity---
 >         
@@ -4434,47 +4440,47 @@ Definition of _limited notification_ in [section 2AA(2)][361]: omit ""or affecte
 > 
 > 
 
-Heading above [section 17A][364]: repeal.
+Heading above [section 17A][368]: repeal.
 
-[Section 17A][364]: repeal.
+[Section 17A][368]: repeal.
 
-[Section 17B][365]: repeal.
+[Section 17B][369]: repeal.
 
-[Section 28(e)][366]: repeal.
+[Section 28(e)][370]: repeal.
 
-[Section 28A(1)(c)][367]: omit ""recognised customary activity"" and substitute ""protected customary right"".
+[Section 28A(1)(c)][371]: omit ""recognised customary activity"" and substitute ""protected customary right"".
 
-[Section 29(1)(p)][368]: repeal.
+[Section 29(1)(p)][372]: repeal.
 
-[Section 30(1)(d)(ii)][369]: repeal and substitute:
+[Section 30(1)(d)(ii)][373]: repeal and substitute:
 
 > *   "(ii) the occupation of space in, and the extraction of sand, shingle, shell, or other natural material from, the coastal marine area, to the extent that it is within the common marine and coastal area:".
 > 
 > 
 
-[Section 33(2)][370]: omit ""board of a foreshore and seabed reserve,"".
+[Section 33(2)][374]: omit ""board of a foreshore and seabed reserve,"".
 
-[Section 35(2)(e)][371]: repeal and substitute:
+[Section 35(2)(e)][375]: repeal and substitute:
 
 > *   "(e) in the case of a regional council, the exercise of a protected customary right in its region, including any controls imposed on the exercise of that right under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011---".
 > 
 > 
 
-[Section 35(5)(jb)][371]: repeal and substitute:
+[Section 35(5)(jb)][375]: repeal and substitute:
 
 > *   "(jb) in the case of a regional council, records of every protected customary rights order or agreement relating to a part of the common marine and coastal area within its region; and".
 > 
 > 
 
-[Section 37B(d)][372]: repeal.
+[Section 37B(d)][376]: repeal.
 
-[Section 38(3)(c)][373]: repeal.
+[Section 38(3)(c)][377]: repeal.
 
-[Section 58(d)][374]: omit ""in land of the Crown"".
+[Section 58(d)][378]: omit ""in land of the Crown"".
 
-[Section 58(gb)][374]: omit ""recognised customary activities"" and substitute ""protected customary rights"".
+[Section 58(gb)][378]: omit ""recognised customary activities"" and substitute ""protected customary rights"".
 
-[Section 61(2A)][375]: repeal and substitute:
+[Section 61(2A)][379]: repeal and substitute:
 
 > *   "(2A) When a regional council is preparing or changing a regional policy statement, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
 >         
@@ -4492,23 +4498,23 @@ Heading above [section 17A][364]: repeal.
 > 
 > 
 
-[Section 62(1)(b)][376]: repeal and substitute:
+[Section 62(1)(b)][380]: repeal and substitute:
 
 > *   "(b) the resource management issues of significance to iwi authorities in the region; and".
 > 
 > 
 
-[Section 64A(1)][259]: omit ""coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council)"" and substitute ""common marine and coastal area"".
+[Section 64A(1)][260]: omit ""coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council)"" and substitute ""common marine and coastal area"".
 
-[Section 64A(4A)][259]: repeal and substitute:
+[Section 64A(4A)][260]: repeal and substitute:
 
 > *   "(4A) A coastal occupation charge must not be imposed on a protected customary rights group or customary marine title group exercising a right under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011\."
 > 
 > 
 
-[Section 66(2)(b)][377]: omit ""in land of the Crown"".
+[Section 66(2)(b)][381]: omit ""in land of the Crown"".
 
-[Section 66(2A)][377]: repeal and substitute:
+[Section 66(2A)][381]: repeal and substitute:
 
 > *   "(2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
 >         
@@ -4526,37 +4532,37 @@ Heading above [section 17A][364]: repeal.
 > 
 > 
 
-[Section 74(2A)][378]: repeal and substitute:
+[Section 74(2A)][382]: repeal and substitute:
 
 > *   "(2A) A territorial authority, when preparing or changing a district plan, must take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on the resource management issues of the district."
 > 
 > 
 
-[Section 79A][379]: repeal.
+[Section 79A][383]: repeal.
 
-[Section 79B][380]: repeal.
+[Section 79B][384]: repeal.
 
-[Section 82A][381]: repeal.
+[Section 82A][385]: repeal.
 
-Heading above [section 85A][382]: omit ""_recognised customary activities_"" and substitute ""_protected customary rights_"".
+Heading above [section 85A][386]: omit ""_recognised customary activities_"" and substitute ""_protected customary rights_"".
 
-[Section 85A][382]: omit ""a significant adverse effect on a recognised customary activity carried out under section 17A(2)"" and substitute ""an adverse effect that is more than minor on a protected customary right carried out under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011"".
+[Section 85A][386]: omit ""a significant adverse effect on a recognised customary activity carried out under section 17A(2)"" and substitute ""an adverse effect that is more than minor on a protected customary right carried out under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011"".
 
-[Section 85B(1)][383]: omit ""If the holder of a customary rights order"" and substitute ""If a protected customary rights group"".
+[Section 85B(1)][387]: omit ""If the holder of a customary rights order"" and substitute ""If a protected customary rights group"".
 
-[Section 85B(2)(a)][383]: repeal and substitute:
+[Section 85B(2)(a)][387]: repeal and substitute:
 
 > *   "(a) the effects of the proposed activity on the exercise of a protected customary right; and".
 > 
 > 
 
-[Section 85B(2)(b)][383]: omit ""recognised customary activity"" and substitute ""protected customary right"".
+[Section 85B(2)(b)][387]: omit ""recognised customary activity"" and substitute ""protected customary right"".
 
-[Section 85B(2)(d)][383]: omit ""recognised customary activity"" and substitute ""exercise of a protected customary right"".
+[Section 85B(2)(d)][387]: omit ""recognised customary activity"" and substitute ""exercise of a protected customary right"".
 
-[Section 85B(2)(e)][383]: omit ""recognised customary activity"" and substitute ""protected customary right"".
+[Section 85B(2)(e)][387]: omit ""recognised customary activity"" and substitute ""protected customary right"".
 
-[Section 87A(2)(a)][384]: repeal and substitute:
+[Section 87A(2)(a)][388]: repeal and substitute:
 
 > *   "(a) the consent authority must grant a resource consent except if---
 >         
@@ -4568,17 +4574,17 @@ Heading above [section 85A][382]: omit ""_recognised customary activities_"" and
 > 
 > 
 
-[Section 95B(1)][385]: omit ""or affected order holders"" and substitute ""an affected protected customary rights group or affected customary marine title group"".
+[Section 95B(1)][389]: omit ""or affected order holders"" and substitute ""an affected protected customary rights group or affected customary marine title group"".
 
-[Section 95B(3)][385]: omit ""any affected order holder"" and substitute ""an affected protected customary rights group or affected customary title group"".
+[Section 95B(3)][389]: omit ""any affected order holder"" and substitute ""an affected protected customary rights group or affected customary title group"".
 
-[Section 95B][385]: add:
+[Section 95B][389]: add:
 
 > *   "(4) In subsections (1) and (3), the requirements relating to an affected customary marine title group apply only in the case of applications for accommodated activities."
 > 
 > 
 
-[Section 95F][386]: repeal and substitute:
+[Section 95F][390]: repeal and substitute:
 
 > ##### "95F Status of protected customary rights group
 >     
@@ -4592,7 +4598,7 @@ Heading above [section 85A][382]: omit ""_recognised customary activities_"" and
 > 
 > 
 
-New section 95G: insert after [section 95F][386]:
+New section 95G: insert after [section 95F][390]:
 
 > ##### "95G Status of customary marine title group
 >     
@@ -4622,41 +4628,41 @@ New section 95G: insert after [section 95F][386]:
 > 
 > 
 
-[Sections 107A to 107D][387]: repeal.
+[Sections 107A to 107D][391]: repeal.
 
-[Section 108(2)(h)][388]: omit ""coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council)"" and substitute ""common marine and coastal area"".
+[Section 108(2)(h)][392]: omit ""coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council)"" and substitute ""common marine and coastal area"".
 
-[Section 116][273]: add:
+[Section 116][274]: add:
 
 > *   "(6) If a resource consent is granted for an activity in a part of the common marine and coastal area where a customary marine title order or agreement is in effect, section 68(1) of the Marine and Coastal Area (Takutai Moana) Act 2011 applies."
 > 
 > 
 
-[Section 122(5)(c)][389]: omit ""which is land of the Crown or land vested in a regional council"".
+[Section 122(5)(c)][393]: omit ""which is land of the Crown or land vested in a regional council"".
 
-[Section 152(1)][390]: omit ""The Governor-General may, by Order in Council, on the advice of the Minister, in respect of any specified part of the coastal marine area, direct that a consent authority shall not grant a coastal permit in respect of any land of the Crown in that specified part which would authorise the holder of the permit (if granted) to---"" and substitute ""The Governor-General may, by Order in Council, on the advice of the Minister, direct that a consent authority must not grant a coastal permit, in respect of a specified part of the marine and coastal area (other than in respect of any specified freehold land) that would, if granted, authorise the permit holder---"".
+[Section 152(1)][394]: omit ""The Governor-General may, by Order in Council, on the advice of the Minister, in respect of any specified part of the coastal marine area, direct that a consent authority shall not grant a coastal permit in respect of any land of the Crown in that specified part which would authorise the holder of the permit (if granted) to---"" and substitute ""The Governor-General may, by Order in Council, on the advice of the Minister, direct that a consent authority must not grant a coastal permit, in respect of a specified part of the marine and coastal area (other than in respect of any specified freehold land) that would, if granted, authorise the permit holder---"".
 
-[Section 152(4)][390]: repeal and substitute:
+[Section 152(4)][394]: repeal and substitute:
 
 > *   "(4) The Minister shall not advise the making of an Order in Council under subsection (1) or (2) unless the Minister considers that there is, or is likely to be, in respect of any area to which it is proposed that the Order in Council relate, competing demands for the use of that area for all or any of the activities referred to in subsection (1)."
 > 
 > 
 
-[Section 156][391]: omit ""in respect of any land of the Crown"".
+[Section 156][395]: omit ""in respect of any land of the Crown"".
 
-[Section 165H][392]: omit ""vested in the Crown or a regional council in a coastal marine area"" and substitute ""in the common marine and coastal area"".
+[Section 165H][396]: omit ""vested in the Crown or a regional council in a coastal marine area"" and substitute ""in the common marine and coastal area"".
 
 Heading to section 237A: omit and substitute ""**Vesting of land in common marine and coastal area or bed of lake or river**"".
 
-[Section 237A(1)(b)][393]: repeal and substitute:
+[Section 237A(1)(b)][397]: repeal and substitute:
 
 > *   "(b) show any part of the allotment that is in the coastal marine area as part of the common marine and coastal area."
 > 
 > 
 
-[Section 237A(2)][393]: omit ""or subsection (1)(b)"".
+[Section 237A(2)][397]: omit ""or subsection (1)(b)"".
 
-[Section 237G][394]: repeal and substitute:
+[Section 237G][398]: repeal and substitute:
 
 > ##### "237G Compensation
 >     
@@ -4684,7 +4690,7 @@ Heading to section 237A: omit and substitute ""**Vesting of land in common marin
 > 
 > 
 
-[Section 239(1)(c)][395]: repeal and substitute:
+[Section 239(1)(c)][399]: repeal and substitute:
 
 > *   "(c) any land or any part of the bed of a river (not being part of the coastal marine area) or lake, shown on the survey plan as land to be vested in the territorial authority or the Crown, shall vest in the territorial authority or the Crown, as the case may be, free from all interests in land, including any encumbrances (without the necessity of an instrument of release or discharge or otherwise); and
 > 
@@ -4692,25 +4698,25 @@ Heading to section 237A: omit and substitute ""**Vesting of land in common marin
 > 
 > 
 
-[Section 239(3)][395]: repeal and substitute:
+[Section 239(3)][399]: repeal and substitute:
 
 > *   "(3) Any land vested in the Crown vests under the Land Act 1948 unless this Act provides otherwise."
 > 
 > 
 
-Heading to [section 293A][396]: repeal and substitute ""**Determinations on recognition orders and agreements made under Marine and Coastal Area (Takutai Moana) Act 2011**"".
+Heading to [section 293A][400]: repeal and substitute ""**Determinations on recognition orders and agreements made under Marine and Coastal Area (Takutai Moana) Act 2011**"".
 
-[Section 309(4)][397]: omit ""recognised customary activity carried out in accordance with section 17A(2)"" and substitute ""protected customary right"".
+[Section 309(4)][401]: omit ""recognised customary activity carried out in accordance with section 17A(2)"" and substitute ""protected customary right"".
 
-[Section 309(5)][397]: omit ""337"" and substitute ""331"", and omit ""recognised customary activity"" and substitute ""protected customary right"".
+[Section 309(5)][401]: omit ""337"" and substitute ""331"", and omit ""recognised customary activity"" and substitute ""protected customary right"".
 
-[Section 332(1)(c)][398]: omit ""; or"".
+[Section 332(1)(c)][402]: omit ""; or"".
 
-[Section 332(1)(d)][398]: repeal.
+[Section 332(1)(d)][402]: repeal.
 
-[Section 333(1A)][399]: repeal.
+[Section 333(1A)][403]: repeal.
 
-[Section 354(3)][400]: repeal and substitute:
+[Section 354(3)][404]: repeal and substitute:
 
 > *   "(3) Any person may use or occupy any part of the common marine and coastal area without obtaining consent, unless consent must be obtained under---
 >         
@@ -4724,23 +4730,23 @@ Heading to [section 293A][396]: repeal and substitute ""**Determinations on reco
 > 
 > 
 
-[Section 355(1)][241]: repeal.
+[Section 355(1)][242]: repeal.
 
-[Section 355(3)][241]: omit: ""Without limiting section 355AA, the relevant Minister"" and substitute ""The Minister of Lands"".
+[Section 355(3)][242]: omit: ""Without limiting section 355AA, the relevant Minister"" and substitute ""The Minister of Lands"".
 
-[Section 355(3)][241]: insert ""that forms part of a riverbed or lakebed that is not within the coastal marine area and"" after ""reclaimed land"".
+[Section 355(3)][242]: insert ""that forms part of a riverbed or lakebed that is not within the coastal marine area and"" after ""reclaimed land"".
 
-[Section 355(6)][241]: repeal and substitute:
+[Section 355(6)][242]: repeal and substitute:
 
 > *   "(6) For the purposes of this section, references to land that forms part of a riverbed or lakebed include land which was part of that bed before it was reclaimed."
 > 
 > 
 
-[Section 355AA][242]: repeal.
+[Section 355AA][243]: repeal.
 
-[Section 355AB][401]: repeal.
+[Section 355AB][405]: repeal.
 
-[Section 360(1)(c)][402]: repeal and substitute:
+[Section 360(1)(c)][406]: repeal and substitute:
 
 > *   "(c) prescribing the amount, methods for calculating the amount, and circumstances and manner in which holders of resource consents are liable to pay for---
 >         
@@ -4776,7 +4782,7 @@ Heading to [section 293A][396]: repeal and substitute ""**Determinations on reco
 
 [Schedule 1][295]: clause 20(4)(g): repeal.
 
-[Schedule 4][403]: clause 1A: repeal and substitute:
+[Schedule 4][407]: clause 1A: repeal and substitute:
 
 > ##### "1A Matters to be included in assessment of effects on environment
 >     
@@ -4784,7 +4790,7 @@ Heading to [section 293A][396]: repeal and substitute ""**Determinations on reco
 > 
 > 
 
-[Schedule 12][404]: repeal.
+[Schedule 12][408]: repeal.
 
 ##### [Te Ture Whenua Maori Act 1993][207] (1993 No 4)
 
@@ -4794,46 +4800,46 @@ Heading to [section 293A][396]: repeal and substitute ""**Determinations on reco
 
 [Section 4][206]: paragraph (b) of the definition of _land_: omit ""public foreshore and seabed"" and substitute ""common marine and coastal area"".
 
-[Section 43(7)][405]: repeal.
+[Section 43(7)][409]: repeal.
 
-[Section 72(1)][406]: omit ""(other than proceedings under the Foreshore and Seabed Act 2004)"".
+[Section 72(1)][410]: omit ""(other than proceedings under the Foreshore and Seabed Act 2004)"".
 
-[Section 98(3)(c)][407]: repeal.
+[Section 98(3)(c)][411]: repeal.
 
-[Section 98(3A)][407]: repeal.
+[Section 98(3A)][411]: repeal.
 
 ## Part 2  
 Regulations amended
 
-##### [Commodity Levies (Mussel, Oyster, and Salmon) Order 2007][408] (SR 2007/212)
+##### [Commodity Levies (Mussel, Oyster, and Salmon) Order 2007][412] (SR 2007/212)
 
-[Clause 3][409]: insert in its appropriate alphabetical order:
+[Clause 3][413]: insert in its appropriate alphabetical order:
 
 > "_customary marine title_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
-[Clause 16(g)(ii)][410]: revoke and substitute:
+[Clause 16(g)(ii)][414]: revoke and substitute:
 
 > *   "(ii) claims made under section 94 of the Marine and Coastal Area (Takutai Moana) Act 2011 for recognition of a protected customary right or customary marine title; and".
 > 
 > 
 
-##### [Marine Mammals Protection Regulations 1992][279] (SR 1992/322)
+##### [Marine Mammals Protection Regulations 1992][280] (SR 1992/322)
 
-[Regulation 2][411]: insert in its appropriate alphabetical order:
+[Regulation 2][415]: insert in its appropriate alphabetical order:
 
 > "_customary marine title area_ has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011".
 
-[Regulation 6][412]: add:
+[Regulation 6][416]: add:
 
 > *   "(2) Section 76 of the Marine and Coastal Area (Takutai Moana) Act 2011 applies to any application under these regulations for a permit to watch marine mammals within a customary marine title area."
 > 
 > 
 
-##### [Resource Management (Forms, Fees, and Procedure) Regulations 2003][413] (SR 2003/153)
+##### [Resource Management (Forms, Fees, and Procedure) Regulations 2003][417] (SR 2003/153)
 
-[Regulation 10(2)(h)][414]: omit ""the holder of a customary rights order who"" and substitute ""a protected customary rights group that"".
+[Regulation 10(2)(h)][418]: omit ""the holder of a customary rights order who"" and substitute ""a protected customary rights group that"".
 
-[Regulation 10(2)][414]: insert after paragraph (h):
+[Regulation 10(2)][418]: insert after paragraph (h):
 
 > *   "(ha) a customary marine title group that, in the opinion of the consent authority, may be adversely affected by the grant of a resource consent for an accommodated activity:".
 > 
@@ -4851,23 +4857,25 @@ Regulations amended
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][415] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][416] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][419] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][420] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][417] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][418] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][421] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][422] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][245]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][215]
     
-    Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][239]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][246]
+    
+    Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][240]
     
     Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][214]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][217]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][218]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][276]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][277]
 
 
 
@@ -5083,93 +5091,93 @@ Regulations amended
 [209]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM141134
 [210]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432125
 [211]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM442665
-[212]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300516
+[212]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005423
 [213]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231795
 [214]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5081570
-[215]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2997643
-[216]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998573
-[217]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998633
-[218]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM250585
-[219]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM415539
-[220]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM415531
-[221]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM45426
-[222]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246310
-[223]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246311
-[224]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM413605
-[225]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242535
-[226]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140179
-[227]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140177
-[228]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236786
-[229]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM320246
-[230]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM405590
-[231]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM1160400
-[232]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237630
-[233]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236206
-[234]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM435367
-[235]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM131688
-[236]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5689750
-[237]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM125376
-[238]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM211896
-[239]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4698973
-[240]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140136
-[241]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239322
-[242]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239326
-[243]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4632837
-[244]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM319576
-[245]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5740665
-[246]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM398113
-[247]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25372
-[248]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168830
-[249]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25116
-[250]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25336
-[251]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25362
-[252]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM394191
-[253]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM324356
-[254]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281460
-[255]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281461
-[256]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM278592
-[257]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25110
-[258]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231949
-[259]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233610
-[260]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239008
-[261]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239003
-[262]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3213507
-[263]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3213512
-[264]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281866
-[265]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM329649
-[266]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM149788
-[267]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM384019
-[268]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM384998
-[269]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM334659
-[270]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432653
-[271]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3597425
-[272]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3597439
-[273]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234865
-[274]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239342
-[275]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239356
-[276]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM3360714
-[277]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM3359902
-[278]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM398410
-[279]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168285
-[280]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233379
-[281]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM66581
-[282]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300510
-[283]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300599
-[284]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300641
+[215]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005646
+[216]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2997643
+[217]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998573
+[218]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998633
+[219]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM250585
+[220]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM415539
+[221]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM415531
+[222]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM45426
+[223]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246310
+[224]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246311
+[225]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM413605
+[226]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242535
+[227]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140179
+[228]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140177
+[229]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236786
+[230]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM320246
+[231]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM405590
+[232]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM1160400
+[233]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237630
+[234]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236206
+[235]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM435367
+[236]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM131688
+[237]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5689750
+[238]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM125376
+[239]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM211896
+[240]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4698973
+[241]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140136
+[242]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239322
+[243]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239326
+[244]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4632837
+[245]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM319576
+[246]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5740665
+[247]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM398113
+[248]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25372
+[249]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168830
+[250]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25116
+[251]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25336
+[252]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25362
+[253]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM394191
+[254]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM324356
+[255]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281460
+[256]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281461
+[257]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM278592
+[258]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM25110
+[259]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231949
+[260]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233610
+[261]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239008
+[262]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239003
+[263]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3213507
+[264]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3213512
+[265]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM281866
+[266]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM329649
+[267]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM149788
+[268]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM384019
+[269]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM384998
+[270]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM334659
+[271]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432653
+[272]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3597425
+[273]: http://www.legislation.govt.nz/act/public/2011/0003/latest/whole.html#DLM3597439
+[274]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234865
+[275]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239342
+[276]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239356
+[277]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM3360714
+[278]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM3359902
+[279]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM398410
+[280]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168285
+[281]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233379
+[282]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM66581
+[283]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005402
+[284]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005548
 [285]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432422
 [286]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432435
 [287]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM247305
-[288]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246341
+[288]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5226938
 [289]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM107200
 [290]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM170872
-[291]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300610
-[292]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300622
+[291]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005562
+[292]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4005583
 [293]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM395397
 [294]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234355
 [295]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM240686
 [296]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233301
 [297]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM241213
-[298]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242517
+[298]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM241513
 [299]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM241526
 [300]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM290946
 [301]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM146607
@@ -5205,13 +5213,13 @@ Regulations amended
 [331]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM104699
 [332]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM106043
 [333]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM106641
-[334]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246328
-[335]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246396
-[336]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246397
-[337]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246703
-[338]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246704
-[339]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246706
-[340]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM246714
+[334]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5226925
+[335]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227101
+[336]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227104
+[337]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227117
+[338]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227119
+[339]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227123
+[340]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM5227132
 [341]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM396920
 [342]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM398342
 [343]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM442946
@@ -5221,72 +5229,76 @@ Regulations amended
 [347]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM53180
 [348]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM53181
 [349]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM53199
-[350]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM420626
-[351]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM131393
-[352]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM132004
-[353]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM133512
-[354]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57005
-[355]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57011
-[356]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57642
-[357]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM58268
-[358]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432115
-[359]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM46307
-[360]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM47750
-[361]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2408220
-[362]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231907
-[363]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231965
-[364]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232508
-[365]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232510
-[366]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232548
-[367]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232552
-[368]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232556
-[369]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232560
-[370]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232593
-[371]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233009
-[372]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233052
-[373]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233057
-[374]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233381
-[375]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233389
-[376]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233397
-[377]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233620
-[378]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233671
-[379]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233815
-[380]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233818
-[381]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233827
-[382]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233840
-[383]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233842
-[384]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2414711
-[385]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2416410
-[386]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2416414
-[387]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234801
-[388]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234810
-[389]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235201
-[390]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235468
-[391]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235484
-[392]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236036
-[393]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237276
-[394]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237291
-[395]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237600
-[396]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM238254
-[397]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM238505
-[398]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239020
-[399]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239027
-[400]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239318
-[401]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239328
-[402]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239372
-[403]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242008
-[404]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242515
-[405]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM290907
-[406]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM290961
-[407]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM291203
-[408]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM443982
-[409]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM443990
-[410]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM444254
-[411]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168290
-[412]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168824
-[413]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM195259
-[414]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168828
-[415]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998516
-[416]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998515
-[417]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998532
-[418]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[350]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300510
+[351]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300516
+[352]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300610
+[353]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM300622
+[354]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM420626
+[355]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM131393
+[356]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM132004
+[357]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM133512
+[358]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57005
+[359]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57011
+[360]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM57642
+[361]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM58268
+[362]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM432115
+[363]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM46307
+[364]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM47750
+[365]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2408220
+[366]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231907
+[367]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM231965
+[368]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232508
+[369]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232510
+[370]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232548
+[371]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232552
+[372]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232556
+[373]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232560
+[374]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM232593
+[375]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233009
+[376]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233052
+[377]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233057
+[378]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233381
+[379]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233389
+[380]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233397
+[381]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233620
+[382]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233671
+[383]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233815
+[384]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233818
+[385]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233827
+[386]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233840
+[387]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM233842
+[388]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2414711
+[389]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2416410
+[390]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2416414
+[391]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234801
+[392]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM234810
+[393]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235201
+[394]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235468
+[395]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM235484
+[396]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236036
+[397]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237276
+[398]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237291
+[399]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM237600
+[400]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM238254
+[401]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM238505
+[402]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239020
+[403]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239027
+[404]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239318
+[405]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239328
+[406]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239372
+[407]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242008
+[408]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM242515
+[409]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM290907
+[410]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM290961
+[411]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM291203
+[412]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM443982
+[413]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM443990
+[414]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM444254
+[415]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168290
+[416]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168824
+[417]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM195259
+[418]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM168828
+[419]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998516
+[420]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998515
+[421]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM2998532
+[422]: http://www.pco.parliament.govt.nz/editorial-conventions/
