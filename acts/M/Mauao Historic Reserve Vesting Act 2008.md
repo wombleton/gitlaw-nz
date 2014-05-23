@@ -1,4 +1,7 @@
-![Crest](/images/leg-crest.jpg)
+Reprint  
+as at 20 May 2014
+
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Mauao Historic Reserve Vesting Act 2008Public Act2008 No 31
 
@@ -6,68 +9,80 @@ Date of assent22 May 2008
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by Te Puni Kōkiri.
+
+---
+
 ## Contents
 
-*   [Preamble][0]
+*   [Preamble][1]
 
-[1][1] [Title][1]
+[1][2][][2][Title][2]
 
-[2][2] [Commencement][2]
+[2][3][][3][Commencement][3]
 
-[Part 1][3]  
-[Preliminary provisions][3]
+[Part 1][4]  
+[Preliminary provisions][4]
 
-[3][4] [Interpretation][4]
+[3][5][][5][Interpretation][5]
 
-[4][5] [Act binds the Crown][5]
+[4][6][][6][Act binds the Crown][6]
 
-[Part 2][6]  
-[Vesting of Mauao historic reserve and related matters][6]
+[Part 2][7]  
+[Vesting of Mauao historic reserve and related matters][7]
 
-[Vesting of Mauao historic reserve][7]
+[Vesting of Mauao historic reserve][8]
 
-[5][8] [Mauao historic reserve vested in trustees of Mauao Trust][8]
+[5][9][][9][Mauao historic reserve vested in trustees of Mauao Trust][9]
 
-[6][9] [Trustees must not dispose of, transfer, or charge Mauao historic reserve][9]
+[6][10][][10][Trustees must not dispose of, transfer, or charge Mauao historic reserve][10]
 
-[7][10] [Mauao historic reserve status preserved][10]
+[7][11][][11][Mauao historic reserve status preserved][11]
 
-[Exchange of part of Mauao historic reserve][11]
+[Exchange of part of Mauao historic reserve][12]
 
-[8][12] [Exchange of part of Mauao historic reserve][12]
+[8][13][][13][Exchange of part of Mauao historic reserve][13]
 
-[Revocation of reserve status][13]
+[Revocation of reserve status][14]
 
-[9][14] [Revocation of reserve status][14]
+[9][15][][15][Revocation of reserve status][15]
 
-[Vesting has no effect on existing rights][15]
+[Vesting has no effect on existing rights][16]
 
-[10][16] [Vesting has no effect on existing rights][16]
+[10][17][][17][Vesting has no effect on existing rights][17]
 
-[Particular application of other enactments and general law][17]
+[Particular application of other enactments and general law][18]
 
-[11][18] [Application of other enactments][18]
+[11][19][][19][Application of other enactments][19]
 
-[12][19] [Rule against perpetuities does not apply][19]
+[12][20][][20][Rule against perpetuities does not apply][20]
 
-[Waitaha statement of recognition][20]
+[Waitaha statement of recognition][21]
 
-[13][21] [Waitaha statement of recognition][21]
+[13][22][][22][Waitaha statement of recognition][22]
 
-[Miscellaneous provisions][22]
+[Miscellaneous provisions][23]
 
-[14][23] [Registration of ownership][23]
+[14][24][][24][Registration of ownership][24]
 
-[15][24] [Alteration of Schedule 1 by Order in Council][24]
+[15][25][][25][Alteration of Schedule 1 by Order in Council][25]
 
-[Schedule 1][25]  
-[Description of Mauao historic reserve][25]
+[Schedule 1][26]  
+[Description of Mauao historic reserve][26]
 
-[Schedule 2][26]  
-[Encumbrances][26]
+[Schedule 2][27]  
+[Encumbrances][27]
 
-[Schedule 3][27]  
-[Statement of recognition of Waitaha's ancestral associations and historical connections with Mauao][27]
+[Schedule 3][28]  
+[Statement of recognition of Waitaha's ancestral associations and historical connections with Mauao][28]
 
 ---
 
@@ -77,7 +92,7 @@ Commencementsee section 2
     
     (2) In addition, Waitaha have ancestral associations and historical connections with Mauao:
     
-    (3) Mauao historic reserve (comprising almost all of Mauao) is vested in fee simple in the Crown, and is subject to the [Reserves Act 1977][28]. Under that Act, Tauranga City Council is the administering body of the reserve:
+    (3) Mauao historic reserve (comprising almost all of Mauao) is vested in fee simple in the Crown, and is subject to the [Reserves Act 1977][29]. Under that Act, Tauranga City Council is the administering body of the reserve:
     
     (4) In July 2004, in order to assist its objective of building healthy relationships with Ngāi Te Rangi, Ngāti Ranginui, Ngāti Pūkenga, and Waitaha, the Crown agreed (in principle) to transfer the fee simple estate in Mauao historic reserve to Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga, subject to certain conditions. The transfer was not to be consideration for the settlement of any claim against the Crown that was, or was founded on, a right arising from the Treaty of Waitangi, the principles of the Treaty, or in any other way:
     
@@ -112,7 +127,7 @@ Preliminary provisions
     
     _Mauao historic reserve_ means the land---
         
-    *   (a) described in [Schedule 1][25]; and
+    *   (a) described in [Schedule 1][26]; and
     
     *   (b) declared to be a historic reserve by _Gazette_ notice 1981 Vol III, p 3065
     
@@ -147,49 +162,51 @@ Vesting of Mauao historic reserve and related matters
         
     *   (a) this Act; and
     
-    *   (b) the encumbrances set out in [Schedule 2][26]; and
+    *   (b) the encumbrances set out in [Schedule 2][27]; and
     
-    *   (c) any authority granted to the Tauranga City Council under the [Historic Places Act 1993][29] to retain, maintain, and replace existing fencing on the reserve; and
+    *   (c) any authority granted to the Tauranga City Council under the [Heritage New Zealand Pouhere Taonga Act 2014][30] to retain, maintain, and replace existing fencing on the reserve; and
     
-    *   (d) any statutory access or other rights in relation to the reserve that any person may have (including rights of access under the [Cadastral Survey Act 2002][30] or the [Maritime Transport Act 1994][31] to the trig station and navigational beacon on the reserve).
+    *   (d) any statutory access or other rights in relation to the reserve that any person may have (including rights of access under the [Cadastral Survey Act 2002][31] or the [Maritime Transport Act 1994][32] to the trig station and navigational beacon on the reserve).
     
     (2) The trustees must hold the fee simple estate on trust for Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga in accordance with the deed of trust.
     
-    (3) This section is subject to [section 7][10].
+    (3) This section is subject to [section 7][11].
+    
+    Section 5(1)(c): amended, on 20 May 2014, by [section 107][33] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 6 Trustees must not dispose of, transfer, or charge Mauao historic reserve
     
 *   (1) The trustees must not dispose of, transfer, or charge Mauao historic reserve or any part of it.
     
-    (2) Subsection (1) is subject to [section 8][12].
+    (2) Subsection (1) is subject to [section 8][13].
 
 ##### 7 Mauao historic reserve status preserved
     
 *   (1) Mauao historic reserve---
         
-    *   (a) remains a historic reserve under the [Reserves Act 1977][28] (unless and until its reserve status is changed, or its reservation as a reserve is revoked, under that Act); and
+    *   (a) remains a historic reserve under the [Reserves Act 1977][29] (unless and until its reserve status is changed, or its reservation as a reserve is revoked, under that Act); and
     
     *   (b) for that purpose---
             
-        *   (i) the Minister continues to have, in respect of it, the functions, obligations, and powers that the Minister has under the [Reserves Act 1977][28] in relation to a reserve vested in the Crown; and
+        *   (i) the Minister continues to have, in respect of it, the functions, obligations, and powers that the Minister has under the [Reserves Act 1977][29] in relation to a reserve vested in the Crown; and
         
-        *   (ii) the Tauranga City Council continues to be appointed as the administering body of the reserve under [section 28][32] of the Reserves Act 1977 (unless and until its appointment as the administering body is revoked under that Act).
+        *   (ii) the Tauranga City Council continues to be appointed as the administering body of the reserve under [section 28][34] of the Reserves Act 1977 (unless and until its appointment as the administering body is revoked under that Act).
         
         
     
     (2) However, this section does not entitle the Minister to exercise---
         
-    *   (a) the power under [section 26][33] of the Reserves Act 1977 (being the power to vest the reserve in other persons); or
+    *   (a) the power under [section 26][35] of the Reserves Act 1977 (being the power to vest the reserve in other persons); or
     
-    *   (b) the power under [section 15][34] of the Reserves Act 1977 (being the power to exchange the land comprising the reserve or part of it) unless he or she has complied with [section 8][12] of this Act.
+    *   (b) the power under [section 15][36] of the Reserves Act 1977 (being the power to exchange the land comprising the reserve or part of it) unless he or she has complied with [section 8][13] of this Act.
     
-    (3) Unless and until the reservation of Mauao historic reserve as a reserve is revoked under the [Reserves Act 1977][28], the Crown continues to have, in relation to the reserve, the rights and obligations of the holder of the fee simple estate (including any obligations in respect of occupational health and safety, building, or rating liability legislation).
+    (3) Unless and until the reservation of Mauao historic reserve as a reserve is revoked under the [Reserves Act 1977][29], the Crown continues to have, in relation to the reserve, the rights and obligations of the holder of the fee simple estate (including any obligations in respect of occupational health and safety, building, or rating liability legislation).
 
 #### Exchange of part of Mauao historic reserve
 
 ##### 8 Exchange of part of Mauao historic reserve
     
-*   (1) The Minister may authorise the exchange of part of Mauao historic reserve in accordance with [section 15][34] of the Reserves Act 1977, but only if the Minister has the written consent of the trustees to do so.
+*   (1) The Minister may authorise the exchange of part of Mauao historic reserve in accordance with [section 15][36] of the Reserves Act 1977, but only if the Minister has the written consent of the trustees to do so.
     
     (2) If the Minister acts in accordance with subsection (1),---
         
@@ -197,7 +214,7 @@ Vesting of Mauao historic reserve and related matters
             
         *   (i) ceases to be vested in the trustees; and
         
-        *   (ii) is no longer subject to this Act or the [Reserves Act 1977][28]; and
+        *   (ii) is no longer subject to this Act or the [Reserves Act 1977][29]; and
         
         
     
@@ -211,7 +228,7 @@ Vesting of Mauao historic reserve and related matters
                 
             *   (A) the same control and management and for the same objects and purposes as those for which the land given in exchange was held; and
             
-            *   (B) this Act and the [Reserves Act 1977][28].
+            *   (B) this Act and the [Reserves Act 1977][29].
             
             
         
@@ -223,17 +240,17 @@ Vesting of Mauao historic reserve and related matters
 
 ##### 9 Revocation of reserve status
     
-*   (1) If the Minister revokes the reservation of Mauao historic reserve, or a part of it, as a reserve under [section 24][35] of the Reserves Act 1977,---
+*   (1) If the Minister revokes the reservation of Mauao historic reserve, or a part of it, as a reserve under [section 24][37] of the Reserves Act 1977,---
         
     *   (a) the fee simple in the reserve (or the part of it that ceases to be reserve) remains vested in the trustees, subject to any restrictions, encumbrances, liens, or interests specified in the _Gazette_ notice revoking the reservation; and
     
-    *   (b) [sections 7][10] and [8][12] of this Act cease to apply to the reserve (or the part of it that ceases to be reserve).
+    *   (b) [sections 7][11] and [8][13] of this Act cease to apply to the reserve (or the part of it that ceases to be reserve).
     
     (2) To avoid doubt, and without limiting subsection (1)(b), Mauao historic reserve (or the part of it that ceases to be reserve) does not become---
         
-    *   (a) Crown land available for disposal under the [Land Act 1948][36] in accordance with [section 25][37] of the Reserves Act 1977; or
+    *   (a) Crown land available for disposal under the [Land Act 1948][38] in accordance with [section 25][39] of the Reserves Act 1977; or
     
-    *   (b) land over which the Minister may specify, under [section 25][37] of the Reserves Act 1977, the manner in and purpose for which it may be disposed.
+    *   (b) land over which the Minister may specify, under [section 25][39] of the Reserves Act 1977, the manner in and purpose for which it may be disposed.
     
     
 
@@ -241,7 +258,7 @@ Vesting of Mauao historic reserve and related matters
 
 ##### 10 Vesting has no effect on existing rights
     
-*   The vesting of Mauao historic reserve under [section 5(1)][8] does not affect any rights or obligations in respect of the reserve of any person---
+*   The vesting of Mauao historic reserve under [section 5(1)][9] does not affect any rights or obligations in respect of the reserve of any person---
         
     *   (a) who is not a party to the vesting agreement, including any rights or obligations in relation to the ownership, management, or control of fixtures, structures, and improvements (including trees) attached to, on, or under the reserve; and
     
@@ -253,25 +270,25 @@ Vesting of Mauao historic reserve and related matters
 
 ##### 11 Application of other enactments
     
-*   (1) Nothing in [section 11][38] or [Part 10][39] of the Resource Management Act 1991 applies to the vesting of Mauao historic reserve under [section 5(1)][8].
+*   (1) Nothing in [section 11][40] or [Part 10][41] of the Resource Management Act 1991 applies to the vesting of Mauao historic reserve under [section 5(1)][9].
     
-    (2) The vesting of Mauao historic reserve under [section 5(1)][8] does not limit [section 10][40] or [11][41] of the Crown Minerals Act 1991\.
+    (2) The vesting of Mauao historic reserve under [section 5(1)][9] does not limit [section 10][42] or [11][43] of the Crown Minerals Act 1991\.
     
-    (3) The vesting of Mauao historic reserve under [section 5(1)][8] is not a disposition of land by the Crown for the purposes of [Part 4A][42] of the Conservation Act 1987, unless---
+    (3) The vesting of Mauao historic reserve under [section 5(1)][9] is not a disposition of land by the Crown for the purposes of [Part 4A][44] of the Conservation Act 1987, unless---
         
     *   (a) the reservation of the reserve as a reserve is revoked, in which case---
             
-        *   (i) the reserve is to be treated as having been disposed of by the Crown for the purposes of [Part 4A][42]; and
+        *   (i) the reserve is to be treated as having been disposed of by the Crown for the purposes of [Part 4A][44]; and
         
-        *   (ii) that Part, other than [sections 24(2A)][43], [24A][44], [24AA][45], and [24B][46], applies accordingly with any necessary modifications; or
+        *   (ii) that Part, other than [sections 24(2A)][45], [24A][46], [24AA][47], and [24B][48], applies accordingly with any necessary modifications; or
         
         
     
     *   (b) the reservation of part of the reserve as a reserve is revoked, in which case---
             
-        *   (i) the part of the reserve is to be treated as having been disposed of by the Crown for the purposes of [Part 4A][42]; and
+        *   (i) the part of the reserve is to be treated as having been disposed of by the Crown for the purposes of [Part 4A][44]; and
         
-        *   (ii) that Part, other than [sections 24(2A)][43], [24A][44], [24AA][45], and [24B][46], applies accordingly with any necessary modifications.
+        *   (ii) that Part, other than [sections 24(2A)][45], [24A][46], [24AA][47], and [24B][48], applies accordingly with any necessary modifications.
         
         
     
@@ -279,7 +296,7 @@ Vesting of Mauao historic reserve and related matters
 
 ##### 12 Rule against perpetuities does not apply
     
-*   Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][47] prescribe or restrict the period during which---
+*   Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][49] prescribe or restrict the period during which---
         
     *   (a) the Mauao Trust may exist in law; or
     
@@ -291,7 +308,7 @@ Vesting of Mauao historic reserve and related matters
 
 ##### 13 Waitaha statement of recognition
     
-*   (1) The Crown, Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga acknowledge the statement of recognition of Waitaha in [Schedule 3][27].
+*   (1) The Crown, Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga acknowledge the statement of recognition of Waitaha in [Schedule 3][28].
     
     (2) However, the statement of recognition---
         
@@ -319,7 +336,7 @@ Vesting of Mauao historic reserve and related matters
             
         *   (i) was vested in accordance with this Act; and
         
-        *   (ii) is subject to this Act, including a specific reference to [sections 5(1)][8] and [11(3)][18].
+        *   (ii) is subject to this Act, including a specific reference to [sections 5(1)][9] and [11(3)][19].
         
         
     
@@ -331,7 +348,7 @@ Vesting of Mauao historic reserve and related matters
             
         *   (i) was vested in accordance with this Act; and
         
-        *   (ii) is subject to this Act, including a specific reference to [sections 5(1)][8] and [11(3)][18].
+        *   (ii) is subject to this Act, including a specific reference to [sections 5(1)][9] and [11(3)][19].
         
         
     
@@ -345,13 +362,13 @@ Vesting of Mauao historic reserve and related matters
     
     *   (b) any later date that may be agreed in writing by the trustees and the Crown.
     
-    (7) This section overrides [sections 26A(3)][48], [112(2)][49], and [116][50] of the Reserves Act 1977 and, in the event of inconsistency, any other enactment or rule of law to the contrary.
+    (7) This section overrides [sections 26A(3)][50], [112(2)][51], and [116][52] of the Reserves Act 1977 and, in the event of inconsistency, any other enactment or rule of law to the contrary.
 
 ##### 15 Alteration of Schedule 1 by Order in Council
     
-*   The Governor-General may, by Order in Council, make amendments to [Schedule 1][25] to reflect any changes in---
+*   The Governor-General may, by Order in Council, make amendments to [Schedule 1][26] to reflect any changes in---
         
-    *   (a) the legal description of Mauao historic reserve resulting from an exchange of land authorised by the Minister under [section 8][12] or any other lawful alteration to the boundaries of the reserve; or
+    *   (a) the legal description of Mauao historic reserve resulting from an exchange of land authorised by the Minister under [section 8][13] or any other lawful alteration to the boundaries of the reserve; or
     
     *   (b) the computer freehold register for Mauao historic reserve.
     
@@ -362,7 +379,7 @@ Vesting of Mauao historic reserve and related matters
 ## Schedule 1  
 Description of Mauao historic reserve
 
-[s 3][4]
+[s 3][5]
 
 75.6658 hectares, more or less, being part Section 1, Section 3, and Section 12, Block VI, Tauranga Survey District as shown on SO Plans 4802 and 51477\.
 
@@ -371,15 +388,11 @@ Description of Mauao historic reserve
 ## Schedule 2  
 Encumbrances
 
-[s 5(1)(b)][8]
+[s 5(1)(b)][9]
 
-##### 1
-    
-*   The right of the Tauranga City Council to construct and operate on Mauao historic reserve a firefighting water line, and to include an additional power cable duct within the firefighting water line trench (Tauranga City Council Resource Consent No 1581; details of easement concerned shown on DP 368290).
+*   1 The right of the Tauranga City Council to construct and operate on Mauao historic reserve a firefighting water line, and to include an additional power cable duct within the firefighting water line trench (Tauranga City Council Resource Consent No 1581; details of easement concerned shown on DP 368290).
 
-##### 2
-    
-*   The right of the Tauranga City Council to retain and maintain on Mauao historic reserve---
+*   2 The right of the Tauranga City Council to retain and maintain on Mauao historic reserve---
         
     *   (a) the existing water reservoir (comprising 2437 square metres, being Section 1 SO Plan 400511) for a 60-year period (by lease dated 18 April 2008, granted by the Department of Conservation to Tauranga City Council); and
     
@@ -392,7 +405,7 @@ Encumbrances
 ## Schedule 3  
 Statement of recognition of Waitaha's ancestral associations and historical connections with Mauao
 
-[s 13(1)][21]
+[s 13(1)][22]
 
 This statement of recognition reflects the history to which Waitaha subscribes, but it does not recount that history in full. Waitaha's history will sit alongside other iwi and hapū histories and altogether these histories make up the diverse relationships that are attributed to Mauao.
 
@@ -400,76 +413,84 @@ For Waitaha, that place is borne of the occupation of the maunga by Tutauaroa (t
 
 For Waitaha, the enduring protection of Waitaha's ancestral associations and historical connections with Mauao is paramount.
 
----
-
-## Legislative history
-
-21 November 2007Introduction (Bill 179--1)
-
-11 December 2007First reading and referral to Māori Affairs Committee
-
-9 April 2008Reported from Māori Affairs Committee (Bill 179--2)
-
-17 April 2008Second reading
-
-13 May 2008Reported from committee of the whole House (Bill 179--3)
-
-14 May 2008Third reading
-
-22 May 2008Royal assent
+#### 
 
 ---
 
-This Act is administered by Te Puni Kōkiri.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037704
-[1]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037707
-[2]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037708
-[3]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037709
-[4]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037710
-[5]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037731
-[6]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037732
-[7]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037733
-[8]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037734
-[9]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037735
-[10]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1188201
-[11]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037738
-[12]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037739
-[13]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037740
-[14]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037741
-[15]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037742
-[16]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037743
-[17]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037744
-[18]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037745
-[19]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037746
-[20]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037747
-[21]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037748
-[22]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037749
-[23]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037750
-[24]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037751
-[25]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037752
-[26]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037754
-[27]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037757
-[28]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444304
-[29]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM300510
-[30]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM141994
-[31]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM334659
-[32]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444655
-[33]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444650
-[34]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444484
-[35]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444632
-[36]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM250585
-[37]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444648
-[38]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM231942
-[39]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM236786
-[40]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM246310
-[41]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM246311
-[42]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104697
-[43]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104699
-[44]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104910
-[45]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104914
-[46]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104917
-[47]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM353436
-[48]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444652
-[49]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM445045
-[50]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM445066
+###### 1 General
+    
+*   This is a reprint of the Mauao Historic Reserve Vesting Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][53] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][54] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][55] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][33]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037704
+[2]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037707
+[3]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037708
+[4]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037709
+[5]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037710
+[6]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037731
+[7]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037732
+[8]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037733
+[9]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037734
+[10]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037735
+[11]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1188201
+[12]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037738
+[13]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037739
+[14]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037740
+[15]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037741
+[16]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037742
+[17]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037743
+[18]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037744
+[19]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037745
+[20]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037746
+[21]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037747
+[22]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037748
+[23]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037749
+[24]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037750
+[25]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037751
+[26]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037752
+[27]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037754
+[28]: http://www.legislation.govt.nz/act/public/2008/0031/latest/whole.html#DLM1037757
+[29]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444304
+[30]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM4005402
+[31]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM141994
+[32]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM334659
+[33]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM4005646
+[34]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444655
+[35]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444650
+[36]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444484
+[37]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444632
+[38]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM250585
+[39]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444648
+[40]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM231942
+[41]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM236786
+[42]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM246310
+[43]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM246311
+[44]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104697
+[45]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104699
+[46]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104910
+[47]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104914
+[48]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM104917
+[49]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM353436
+[50]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM444652
+[51]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM445045
+[52]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM445066
+[53]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM2998516
+[54]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM2998515
+[55]: http://www.legislation.govt.nz/act/public/2008/0031/latest/link.aspx?id=DLM2998532
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
