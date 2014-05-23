@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for the Environment.
 
@@ -739,146 +739,107 @@ Hauraki Gulf Maritime Park Act 1967
 
 [Health Act 1956][97]
 
-Historic Places Act 1980
+[Heritage New Zealand Pouhere Taonga Act 2014][98]
 
 Iron and Steel Industry Act 1959
 
-[Land Act 1948][98]
+[Land Act 1948][99]
 
-[Local Government Act 1974][99]
+[Local Government Act 1974][100]
 
-[Local Government Act 2002][100]
+[Local Government Act 2002][101]
 
-[Marine Mammals Protection Act 1978][101]
+[Marine Mammals Protection Act 1978][102]
 
-[Marine Reserves Act 1971][102]
+[Marine Reserves Act 1971][103]
 
-[Maritime Transport Act 1994][103]
+[Maritime Transport Act 1994][104]
 
-[National Parks Act 1980][104]
+[National Parks Act 1980][105]
 
-[Public Works Act 1981][105]
+[Public Works Act 1981][106]
 
-[Radiation Protection Act 1965][106]
+[Radiation Protection Act 1965][107]
 
-[Reserves Act 1977][107]
+[Reserves Act 1977][108]
 
 [Resource Management Act 1991][43]
 
-Transport Act 1962: [section 70AA][108]
+Transport Act 1962: [section 70AA][109]
 
-[Wild Animal Control Act 1977][109]
+[Wild Animal Control Act 1977][110]
 
-[Wildlife Act 1953][110]
+[Wildlife Act 1953][111]
     
-*   Schedule Animals Act 1967: repealed, on 29 July 1998, by [section 150(1)][111] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-*   Schedule Antarctica (Environmental Protection) Act 1994: inserted, on 23 January 1998, by [section 56(1)][112] of the Antarctica (Environmental Protection) Act 1994 (1994 No 119).
-*   Schedule Biosecurity Act 1993: inserted, on 1 October 1993, by [section 168(1)][113] of the Biosecurity Act 1993 (1993 No 95).
+*   Schedule Animals Act 1967: repealed, on 29 July 1998, by [section 150(1)][112] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Antarctica (Environmental Protection) Act 1994: inserted, on 23 January 1998, by [section 56(1)][113] of the Antarctica (Environmental Protection) Act 1994 (1994 No 119).
+*   Schedule Biosecurity Act 1993: inserted, on 1 October 1993, by [section 168(1)][114] of the Biosecurity Act 1993 (1993 No 95).
 *   Schedule Clean Air Act 1972: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
-*   Schedule Coal Mines Act 1979: repealed, on 1 October 1991, by [section 121][114] of the Crown Minerals Act 1991 (1991 No 70).
+*   Schedule Coal Mines Act 1979: repealed, on 1 October 1991, by [section 121][115] of the Crown Minerals Act 1991 (1991 No 70).
 *   Schedule Conservation Act 1987: inserted, on 20 November 1989, by section 3 of the Environment Amendment Act 1989 (1989 No 114).
-*   Schedule Crown Minerals Act 1991: inserted, on 1 October 1991, by [section 121][114] of the Crown Minerals Act 1991 (1991 No 70).
-*   Schedule Dangerous Goods Act 1974: repealed, on 2 July 2001, by [section 150(1)][111] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-*   Schedule Electric Power Boards Act 1925: repealed, on 7 October 1994, by [section 96(1)][115] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule Electricity Act 1968: repealed, on 1 April 1993, by [section 173(2)][116] of the Electricity Act 1992 (1992 No 122).
-*   Schedule Electricity Act 1992: inserted, on 1 April 1993, by [section 173(2)][116] of the Electricity Act 1992 (1992 No 122).
-*   Schedule Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012: inserted, on 28 June 2013, by [section 173][117] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
-*   Schedule Fisheries Act 1996: inserted, on 1 January 2005, by [section 21(a)][118] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
-*   Schedule Gas Act 1992: inserted, on 1 April 1993, by [section 58(2)][119] of the Gas Act 1992 (1992 No 124).
+*   Schedule Crown Minerals Act 1991: inserted, on 1 October 1991, by [section 121][115] of the Crown Minerals Act 1991 (1991 No 70).
+*   Schedule Dangerous Goods Act 1974: repealed, on 2 July 2001, by [section 150(1)][112] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Electric Power Boards Act 1925: repealed, on 7 October 1994, by [section 96(1)][116] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule Electricity Act 1968: repealed, on 1 April 1993, by [section 173(2)][117] of the Electricity Act 1992 (1992 No 122).
+*   Schedule Electricity Act 1992: inserted, on 1 April 1993, by [section 173(2)][117] of the Electricity Act 1992 (1992 No 122).
+*   Schedule Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012: inserted, on 28 June 2013, by [section 173][118] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+*   Schedule Fisheries Act 1996: inserted, on 1 January 2005, by [section 21(a)][119] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Schedule Gas Act 1992: inserted, on 1 April 1993, by [section 58(2)][120] of the Gas Act 1992 (1992 No 124).
 *   Schedule Geothermal Energy Act 1953: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
-*   Schedule Government Roading Powers Act 1989: inserted, on 1 August 2008, by [section 50(1)][120] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule Hauraki Gulf Marine Park Act 2000: inserted, on 27 February 2000, by [section 49][121] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
+*   Schedule Government Roading Powers Act 1989: inserted, on 1 August 2008, by [section 50(1)][121] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule Hauraki Gulf Marine Park Act 2000: inserted, on 27 February 2000, by [section 49][122] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
 *   Schedule Hazardous Substances and New Organisms Act 1996: inserted, on 2 July 2001, by [section 149][48] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Heritage New Zealand Pouhere Taonga Act 2014: inserted, on 20 May 2014, by [section 107][123] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+*   Schedule Historic Places Act 1980: repealed, on 20 May 2014, by [section 107][123] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 *   Schedule Local Government Act 2002: inserted, on 1 July 2003, by [section 262][49] of the Local Government Act 2002 (2002 No 84).
-*   Schedule Marine Farming Act 1971: repealed, on 1 January 2005, by [section 21(b)][118] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
-*   Schedule Marine Pollution Act 1974: repealed, on 20 August 1998, by [section 480][122] of the Maritime Transport Act 1994 (1994 No 104).
-*   Schedule Maritime Transport Act 1994: inserted, on 20 August 1998, by [section 480][122] of the Maritime Transport Act 1994 (1994 No 104).
-*   Schedule Mining Act 1971: repealed, on 1 October 1991, by [section 121][114] of the Crown Minerals Act 1991 (1991 No 70).
-*   Schedule National Roads Act 1953: repealed, on 1 October 1989, by [section 116(4)][123] of the Transit New Zealand Act 1989 (1989 No 75).
+*   Schedule Marine Farming Act 1971: repealed, on 1 January 2005, by [section 21(b)][119] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Schedule Marine Pollution Act 1974: repealed, on 20 August 1998, by [section 480][124] of the Maritime Transport Act 1994 (1994 No 104).
+*   Schedule Maritime Transport Act 1994: inserted, on 20 August 1998, by [section 480][124] of the Maritime Transport Act 1994 (1994 No 104).
+*   Schedule Mining Act 1971: repealed, on 1 October 1991, by [section 121][115] of the Crown Minerals Act 1991 (1991 No 70).
+*   Schedule National Roads Act 1953: repealed, on 1 October 1989, by [section 116(4)][125] of the Transit New Zealand Act 1989 (1989 No 75).
 *   Schedule Noise Control Act 1982: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
-*   Schedule Pesticides Act 1979: repealed, on 2 July 2001, by [section 150(1)][111] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-*   Schedule Petroleum Act 1937: repealed, on 1 October 1991, by [section 121][114] of the Crown Minerals Act 1991 (1991 No 70).
-*   Schedule Plants Act 1970: repealed, on 29 July 1998, by [section 150(1)][111] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Pesticides Act 1979: repealed, on 2 July 2001, by [section 150(1)][112] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Petroleum Act 1937: repealed, on 1 October 1991, by [section 121][115] of the Crown Minerals Act 1991 (1991 No 70).
+*   Schedule Plants Act 1970: repealed, on 29 July 1998, by [section 150(1)][112] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 *   Schedule Resource Management Act 1991: inserted, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
 *   Schedule Soil Conservation and Rivers Control Act 1941: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
 *   Schedule Town and Country Planning Act 1977: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
-*   Schedule Toxic Substances Act 1979: repealed, on 2 July 2001, by [section 150(1)][111] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-*   Schedule Transit New Zealand Act 1989: repealed, on 1 August 2008, by [section 50(1)][120] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule Toxic Substances Act 1979: repealed, on 2 July 2001, by [section 150(1)][112] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule Transit New Zealand Act 1989: repealed, on 1 August 2008, by [section 50(1)][121] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 *   Schedule Transport Act 1962: section 70AA: inserted, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
 *   Schedule Water and Soil Conservation Act 1967: repealed, on 1 October 1991, by [section 362][47] of the Resource Management Act 1991 (1991 No 69).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Environment Act 1986\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][124] ![](/images/external_link.gif).
+*   This is a reprint of the Environment Act 1986 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][125] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][126] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][127] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][126] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][128] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][129] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][127] and [17E][128] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][123]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 173][117]
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 173][118]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][66]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][120]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][121]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][77]
     
-    Fisheries Amendment Act (No 3) 2004 (2004 No 104): [section 21][118]
+    Fisheries Amendment Act (No 3) 2004 (2004 No 104): [section 21][119]
     
     Local Government Act 2002 (2002 No 84): [section 262][49]
     
@@ -892,27 +853,27 @@ Transport Act 1962: [section 70AA][108]
     
     Employment Relations Act 2000 (2000 No 24): [section 240][58]
     
-    Hauraki Gulf Marine Park Act 2000 (2000 No 1):[section 49][121]
+    Hauraki Gulf Marine Park Act 2000 (2000 No 1):[section 49][122]
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [sections 149][48], [150(1)][111]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [sections 149][48], [150(1)][112]
     
     Environment Amendment Act 1996 (1996 No 11)
     
-    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][112]
+    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][113]
     
-    Maritime Transport Act 1994 (1994 No 104): [section 480][122]
+    Maritime Transport Act 1994 (1994 No 104): [section 480][124]
     
-    Biosecurity Act 1993 (1993 No 95): [section 168(1)][113]
+    Biosecurity Act 1993 (1993 No 95): [section 168(1)][114]
     
-    Gas Act 1992 (1992 No 124): [section 58(2)][119]
+    Gas Act 1992 (1992 No 124): [section 58(2)][120]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][116]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][117]
     
-    Energy Companies Act 1992 (1992 No 56): [section 96(1)][115]
+    Energy Companies Act 1992 (1992 No 56): [section 96(1)][116]
     
-    Crown Minerals Act 1991 (1991 No 70):[section 121][114]
+    Crown Minerals Act 1991 (1991 No 70):[section 121][115]
     
     Resource Management Act 1991 (1991 No 69): [section 362][47]
     
@@ -928,7 +889,7 @@ Transport Act 1962: [section 70AA][108]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1986/0127/latest/whole.html#DLM98977
 [2]: http://www.legislation.govt.nz/act/public/1986/0127/latest/whole.html#DLM98979
 [3]: http://www.legislation.govt.nz/act/public/1986/0127/latest/whole.html#DLM98980
@@ -1026,34 +987,35 @@ Transport Act 1962: [section 70AA][108]
 [95]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM52557
 [96]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM381221
 [97]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM305839
-[98]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM250585
-[99]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM415531
-[100]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM170872
-[101]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM25110
-[102]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM397837
-[103]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM334659
-[104]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM36962
-[105]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM45426
-[106]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM372538
-[107]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM444304
-[108]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM343740
-[109]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM16622
-[110]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM276813
-[111]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM385161
-[112]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM343623
-[113]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM316769
-[114]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM247364
-[115]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM268395
-[116]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM284137
-[117]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM3956363
-[118]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM324321
-[119]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM286566
-[120]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM1313622
-[121]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM53193
-[122]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM339220
-[123]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM175926
-[124]: http://www.pco.parliament.govt.nz/reprints/
-[125]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM195439
-[126]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[127]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM195468
-[128]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM195470
+[98]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM4005402
+[99]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM250585
+[100]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM415531
+[101]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM170872
+[102]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM25110
+[103]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM397837
+[104]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM334659
+[105]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM36962
+[106]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM45426
+[107]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM372538
+[108]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM444304
+[109]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM343740
+[110]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM16622
+[111]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM276813
+[112]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM385161
+[113]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM343623
+[114]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM316769
+[115]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM247364
+[116]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM268395
+[117]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM284137
+[118]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM3956363
+[119]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM324321
+[120]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM286566
+[121]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM1313622
+[122]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM53193
+[123]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM4005646
+[124]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM339220
+[125]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM175926
+[126]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM2998516
+[127]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM2998515
+[128]: http://www.legislation.govt.nz/act/public/1986/0127/latest/link.aspx?id=DLM2998532
+[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
