@@ -1042,7 +1042,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) In a civil proceeding, a hearsay statement in a document by which documents are discovered or interrogatories are answered is admissible in that proceeding if, and to the extent that, the applicable rules of court require or permit the making of a statement of that kind.
     
-    Compare: 1908 No 89 Schedule 2 [rr 138(5)][290], [248][291], [249][292], [283(2)(a)][293]
+    Compare: 1908 No 89 Schedule 2 rr 138(5), 248, 249, 283(2)(a)
 
 ##### 21 Defendant who does not give evidence in criminal proceeding may not offer own statement
     
@@ -1126,7 +1126,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) The expert evidence of an expert who has not complied with rules of court of the kind specified in subsection (1) may be given only with the permission of the Judge.
     
-    Compare: 1908 No 89 Schedule 2 [r 330A][294]
+    Compare: 1908 No 89 Schedule 2 r 330A
 
 ### Subpart 3---Defendants' statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings
 
@@ -1140,7 +1140,7 @@ Admissibility rules, privilege, and confidentiality
     
     (4) To avoid doubt, this section is subject to [section 12A][16].
     
-    Section 27(4): added, on 4 July 2007, by [section 6][295] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 27(4): added, on 4 July 2007, by [section 6][290] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 28 Exclusion of unreliable statements
     
@@ -1164,7 +1164,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (d) the nature of any threat, promise, or representation made to the defendant or any other person.
     
-    Section 28(1)(a): amended, on 4 July 2007, by [section 7][296] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 28(1)(a): amended, on 4 July 2007, by [section 7][291] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 29 Exclusion of statements influenced by oppression
     
@@ -1194,7 +1194,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (b) a threat of conduct or treatment of that kind.
     
-    Section 29(1)(a): amended, on 4 July 2007, by [section 8][297] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 29(1)(a): amended, on 4 July 2007, by [section 8][292] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 30 Improperly obtained evidence
     
@@ -1232,7 +1232,7 @@ Admissibility rules, privilege, and confidentiality
     
     (5) For the purposes of this section, evidence is _improperly obtained_ if it is obtained---
         
-    *   (a) in consequence of a breach of any enactment or rule of law by a person to whom [section 3][298] of the New Zealand Bill of Rights Act 1990 applies; or
+    *   (a) in consequence of a breach of any enactment or rule of law by a person to whom [section 3][293] of the New Zealand Bill of Rights Act 1990 applies; or
     
     *   (b) in consequence of a statement made by a defendant that is or would be inadmissible if it were offered in evidence by the prosecution; or
     
@@ -1240,7 +1240,7 @@ Admissibility rules, privilege, and confidentiality
     
     (6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a member of the Police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
     
-    Section 30(1)(a): amended, on 4 July 2007, by [section 9][299] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 30(1)(a): amended, on 4 July 2007, by [section 9][294] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 31 Prosecution may not rely on certain evidence offered by other parties
     
@@ -1534,9 +1534,9 @@ Admissibility rules, privilege, and confidentiality
     
 *   If evidence of identity is given against the defendant and the defendant disputes that evidence, the court must bear in mind the need for caution before convicting the defendant in reliance on the correctness of any such identification and, in particular, the possibility that the witness may be mistaken.
     
-    Compare: 1957 No 87 [s 67A][300]
+    Compare: 1957 No 87 [s 67A][295]
     
-    Section 46A: inserted, on 1 July 2013, by [section 4][301] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 46A: inserted, on 1 July 2013, by [section 4][296] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ### Subpart 7---Evidence of convictions and civil judgments
 
@@ -1608,7 +1608,7 @@ Admissibility rules, privilege, and confidentiality
     
 *   (1) In this subpart,---
     
-    _lawyer_ has the meaning given to it by [section 6][302] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][297] of the Lawyers and Conveyancers Act 2006
     
     _legal adviser_ means---
         
@@ -1742,11 +1742,11 @@ Admissibility rules, privilege, and confidentiality
     
 *   (1) This section applies to documents that are books of account or accounting records kept---
         
-    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][303] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][298] of the Lawyers and Conveyancers Act 2006; or
     
     *   (b) by a nominee company that---
             
-        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to [section 96][304] of the Lawyers and Conveyancers Act 2006; and
+        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to [section 96][299] of the Lawyers and Conveyancers Act 2006; and
         
         *   (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
         
@@ -1754,7 +1754,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) [Section 54][74] does not prevent, limit, or affect---
         
-    *   (a) the issue by a District Court Judge of a search warrant under [section 198][305] of the Summary Proceedings Act 1957 in respect of a document to which this section applies; or
+    *   (a) the issue by a District Court Judge of a search warrant under [section 198][300] of the Summary Proceedings Act 1957 in respect of a document to which this section applies; or
     
     *   (b) the execution of that warrant in respect of a document to which this section applies; or
     
@@ -1776,7 +1776,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (d) information compiled or prepared at the request of the party, or the party's legal adviser, by any other person.
     
-    (3) If the proceeding is under, or to be under, [Part 2][306] of the Children, Young Persons, and Their Families Act 1989 or the [Care of Children Act 2004][307] (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
+    (3) If the proceeding is under, or to be under, [Part 2][301] of the Children, Young Persons, and Their Families Act 1989 or the [Care of Children Act 2004][302] (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
 
 ##### 57 Privilege for settlement negotiations or mediation
     
@@ -1802,7 +1802,7 @@ Admissibility rules, privilege, and confidentiality
         
         
     
-    Compare: 1908 No 89 Schedule 2 [r 48G][308]
+    Compare: 1908 No 89 Schedule 2 r 48G
 
 ##### 58 Privilege for communications with ministers of religion
     
@@ -1840,11 +1840,11 @@ Admissibility rules, privilege, and confidentiality
     
     _clinical psychologist_ means a health practitioner---
         
-    *   (a) who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][309] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
+    *   (a) who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][303] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
     
     *   (b) who is by his or her scope of practice permitted to diagnose and treat persons suffering from mental and emotional problems
     
-    _drug dependency_ means the state of periodic or chronic intoxication produced by the repeated consumption, smoking, or other use of a controlled drug (as defined in [section 2(1)][310] of the Misuse of Drugs Act 1975) detrimental to the user, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug.
+    _drug dependency_ means the state of periodic or chronic intoxication produced by the repeated consumption, smoking, or other use of a controlled drug (as defined in [section 2(1)][304] of the Misuse of Drugs Act 1975) detrimental to the user, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug.
 
 ##### 60 Privilege against self-incrimination
     
@@ -2078,9 +2078,9 @@ Admissibility rules, privilege, and confidentiality
     
     (2) A communication or information that relates to matters of State includes a communication or information---
         
-    *   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in [sections 6][311] and [7][312] of the Official Information Act 1982; or
+    *   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in [sections 6][305] and [7][306] of the Official Information Act 1982; or
     
-    *   (b) that is official information as defined in [section 2(1)][313] of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in [section 9(2)(b) to (k)][314] of that Act.
+    *   (b) that is official information as defined in [section 2(1)][307] of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in [section 9(2)(b) to (k)][308] of that Act.
     
     (3) A Judge may give a direction under this section that a communication or information not be disclosed whether or not the communication or information is privileged by another provision of this subpart or would, except for a limitation or restriction imposed by this subpart, be privileged.
 
@@ -2131,7 +2131,7 @@ Trial process
     
     *   (b) an offence that relates to, or is connected with, the offence for which the defendant is being prosecuted.
     
-    Section 73(3)(a): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 73(3)(a): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 74 Compellability of Sovereign and certain other persons
     
@@ -2159,7 +2159,7 @@ Trial process
     
     (3) In this section, _bank_ means---
         
-    *   (a) a registered bank within the meaning of [section 2][316] of the Reserve Bank of New Zealand Act 1989:
+    *   (a) a registered bank within the meaning of [section 2][310] of the Reserve Bank of New Zealand Act 1989:
     
     *   (b) the Reserve Bank of New Zealand:
     
@@ -2247,7 +2247,7 @@ Trial process
     
     (4) Communication assistance may be provided to a witness on the application of the witness or any party to the proceeding or on the initiative of the Judge.
     
-    (5) Any statement made in court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of [sections 108][317] and [109][318] of the Crimes Act 1961\.
+    (5) Any statement made in court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of [sections 108][311] and [109][312] of the Crimes Act 1961\.
 
 ##### 81 Communication assistance need not be provided in certain circumstances
     
@@ -2493,9 +2493,9 @@ Trial process
     
     *   (c) refuse to allow the question to be put to the witness.
     
-    (7) Subsection (1) overrides [section 11][319] of the Criminal Procedure Act 2011\.
+    (7) Subsection (1) overrides [section 11][313] of the Criminal Procedure Act 2011\.
     
-    Section 95(7): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 95(7): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 96 Cross-examination on previous statements of witnesses
     
@@ -2619,13 +2619,13 @@ Trial process
 
 ##### 102A Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106
     
-*   Nothing in the [Courts (Remote Participation) Act 2010][320] affects or limits the ability of---
+*   Nothing in the [Courts (Remote Participation) Act 2010][314] affects or limits the ability of---
         
     *   (a) a party to apply under [section 103(1)][132] for evidence to be given in an alternative way; or
     
     *   (b) a Judge to make directions under that subsection.
     
-    Section 102A: inserted, on 7 July 2010, by [section 19(2)][321] of the Courts (Remote Participation) Act 2010 (2010 No 94).
+    Section 102A: inserted, on 7 July 2010, by [section 19(2)][315] of the Courts (Remote Participation) Act 2010 (2010 No 94).
 
 #### General
 
@@ -2715,7 +2715,7 @@ Trial process
 
 ##### 106 Video record evidence
     
-*   (1) Without limiting [section 105(1)(a)(iii)][134], in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the [Criminal Procedure Act 2011][322] or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
+*   (1) Without limiting [section 105(1)(a)(iii)][134], in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the [Criminal Procedure Act 2011][316] or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
     
     (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
     
@@ -2735,7 +2735,7 @@ Trial process
     
     (8) The Judge may admit a video record that is recorded and offered as evidence substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
     
-    Section 106(1): replaced, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 106(1): replaced, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Directions about child complainants' evidence
 
@@ -2781,9 +2781,9 @@ Trial process
         
     *   (a) for any offence that is punishable by imprisonment for life or for a term of at least 7 years; or
     
-    *   (b) for any other offence against any provisions of the [Misuse of Drugs Act 1975][323] punishable by imprisonment for life or for a term of at least 5 years; or
+    *   (b) for any other offence against any provisions of the [Misuse of Drugs Act 1975][317] punishable by imprisonment for life or for a term of at least 5 years; or
     
-    *   (c) for an offence against [section 98A][324] of the Crimes Act 1961; or
+    *   (c) for an offence against [section 98A][318] of the Crimes Act 1961; or
     
     *   (d) for conspiracy to commit, or for attempting to commit, an offence described in paragraph (a) or (b).
     
@@ -2793,7 +2793,7 @@ Trial process
     
     *   (b) that the witness has not been convicted of any offence or (as the case may require) that the witness has not been convicted of any offence other than the offence, or offences, described in the certificate:
     
-    *   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under [section 20][325] of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
+    *   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under [section 20][319] of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
     
     (3) If, to the knowledge of the Commissioner of Police, the credibility of the witness in giving evidence in any other proceeding has been the subject of adverse comment by the Judge, the Commissioner must also include in the certificate a statement of the relevant particulars.
     
@@ -2803,21 +2803,21 @@ Trial process
     
     (6) This section also applies, with any necessary modifications, in any case where a person is being, or is to be, proceeded against under---
         
-    *   (a) the [Criminal Proceeds (Recovery) Act 2009][326]; or
+    *   (a) the [Criminal Proceeds (Recovery) Act 2009][320]; or
     
-    *   (b) [sections 142A to 142Q][327] of the Sentencing Act 2002\.
+    *   (b) [sections 142A to 142Q][321] of the Sentencing Act 2002\.
     
-    Compare: 1908 No 56 [s 13A(1)--(5)][328]
+    Compare: 1908 No 56 [s 13A(1)--(5)][322]
     
-    Section 108(1): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 108(1): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 108(1)(b): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 108(1)(b): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 108(2): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 108(2): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 108(2)(c): substituted, on 1 October 2008, by [section 130(1)][329] of the Policing Act 2008 (2008 No 72).
+    Section 108(2)(c): substituted, on 1 October 2008, by [section 130(1)][323] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(6): added, on 1 December 2009, by [section 184][330] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 108(6): added, on 1 December 2009, by [section 184][324] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 109 Effect of certificate under section 108
     
@@ -2851,9 +2851,9 @@ Trial process
     
     (4) If the Commissioner of Police gives a certificate under [section 108][139] in respect of any witness, the Commissioner must serve a copy of the certificate on the defendant, or on any lawyer acting for the defendant, at least 14 days before the witness is to give evidence.
     
-    Compare: 1908 No 56 [s 13A(6)--(9)][328]
+    Compare: 1908 No 56 [s 13A(6)--(9)][322]
     
-    Section 109(2)(c): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 109(2)(c): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Giving of evidence by anonymous witnesses
 
@@ -2895,19 +2895,19 @@ Trial process
     
     (6) A pre-trial witness anonymity order may be made by---
         
-    *   (a) a District Court Judge who holds a warrant under the [District Courts Act 1947][331] to conduct jury trials:
+    *   (a) a District Court Judge who holds a warrant under the [District Courts Act 1947][325] to conduct jury trials:
     
-    *   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in [section 274(2)(a)][332] of the Children, Young Persons, and Their Families Act 1989:
+    *   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in [section 274(2)(a)][326] of the Children, Young Persons, and Their Families Act 1989:
     
     *   (c) a High Court Judge.
     
-    Compare: 1908 No 56 [s 13B(1)--(5), (7)][333]
+    Compare: 1908 No 56 [s 13B(1)--(5), (7)][327]
     
-    Section 110(1): replaced, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 110(1): replaced, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 110(2): replaced, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 110(2): replaced, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 110(6)(a): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 110(6)(a): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 111 Effect of pre-trial witness anonymity order
     
@@ -2915,7 +2915,7 @@ Trial process
         
     *   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
     
-    *   (b) no formal statement filed under the [Criminal Procedure Act 2011][322] may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
+    *   (b) no formal statement filed under the [Criminal Procedure Act 2011][316] may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
     
     *   (c) during the giving of oral evidence before the trial,---
             
@@ -2929,11 +2929,11 @@ Trial process
     
     *   (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
     
-    Compare: 1908 No 56 [s 13B(6)][333]
+    Compare: 1908 No 56 [s 13B(6)][327]
     
-    Section 111(b): replaced, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 111(b): replaced, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 111(c): replaced, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 111(c): replaced, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 112 Witness anonymity order for purpose of High Court trial
     
@@ -2975,15 +2975,15 @@ Trial process
     
     *   (f) whether there is other evidence that corroborates the witness's evidence.
     
-    Compare: 1908 No 56 [s 13C(1)--(5)][334]
+    Compare: 1908 No 56 [s 13C(1)--(5)][328]
     
-    Section 112(1): replaced, on 1 July 2013, by [section 4][335] of the Evidence Amendment Act 2013 (2013 No 29).
+    Section 112(1): replaced, on 1 July 2013, by [section 4][329] of the Evidence Amendment Act 2013 (2013 No 29).
     
-    Section 112(2): replaced, on 1 July 2013, by [section 4][335] of the Evidence Amendment Act 2013 (2013 No 29).
+    Section 112(2): replaced, on 1 July 2013, by [section 4][329] of the Evidence Amendment Act 2013 (2013 No 29).
     
-    Section 112(4)(b)(i): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 112(4)(b)(i): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 112(4)(c): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 112(4)(c): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 113 Effect of witness anonymity under section 112
     
@@ -3011,7 +3011,7 @@ Trial process
     
     *   (e) no person may publish, in any report or account relating to the proceedings, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
     
-    Compare: 1908 No 56 [s 13C(6)][334]
+    Compare: 1908 No 56 [s 13C(6)][328]
 
 ##### 114 Trial to be held in High Court if witness anonymity order made
     
@@ -3019,15 +3019,15 @@ Trial process
     
     (2) \[Repealed\]
     
-    (3) This section has effect despite anything in the [Criminal Procedure Act 2011][322].
+    (3) This section has effect despite anything in the [Criminal Procedure Act 2011][316].
     
-    Compare: 1908 No 56 [s 13A][328]
+    Compare: 1908 No 56 [s 13A][322]
     
-    Section 114(1): replaced, on 1 July 2013, by [section 5(1)][336] of the Evidence Amendment Act 2013 (2013 No 29).
+    Section 114(1): replaced, on 1 July 2013, by [section 5(1)][330] of the Evidence Amendment Act 2013 (2013 No 29).
     
-    Section 114(2): repealed, on 1 July 2013, by [section 5(2)][336] of the Evidence Amendment Act 2013 (2013 No 29).
+    Section 114(2): repealed, on 1 July 2013, by [section 5(2)][330] of the Evidence Amendment Act 2013 (2013 No 29).
     
-    Section 114(3): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 114(3): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 115 Judge may appoint independent counsel to assist
     
@@ -3049,7 +3049,7 @@ Trial process
     
     (5) If the counsel is dissatisfied with the decision of the Registrar as to the amount of the bill, the counsel may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
     
-    Compare: 1908 No 56 [s 13E][337]
+    Compare: 1908 No 56 [s 13E][331]
 
 ##### 116 Judge may make orders and give directions to preserve anonymity of witness
     
@@ -3065,33 +3065,33 @@ Trial process
     
     (3) This section does not limit---
         
-    *   (a) [section 365][338] of the Criminal Procedure Act 2011 (which confers power to deal with contempt of court); or
+    *   (a) [section 365][332] of the Criminal Procedure Act 2011 (which confers power to deal with contempt of court); or
     
-    *   (b) [section 197][339] of the Criminal Procedure Act 2011 (which confers power to clear the court); or
+    *   (b) [section 197][333] of the Criminal Procedure Act 2011 (which confers power to clear the court); or
     
     *   (c) any power of the court to direct that evidence be given, or to permit evidence to be given, by a particular mode.
     
-    Compare: 1908 No 56 [s 13G][340]
+    Compare: 1908 No 56 [s 13G][334]
     
-    Section 116(1): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 116(1): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(2): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 116(2): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(3)(a): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 116(3)(a): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][341] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 117 Variation or discharge of witness anonymity order during trial
     
 *   At any time before a witness gives evidence during a trial, a High Court Judge may, on his or her own motion or on the application of either party, vary or discharge a witness anonymity order made for the purposes of the proceeding under [section 112][144].
     
-    Compare: 1908 No 56 [s 13H][342]
+    Compare: 1908 No 56 [s 13H][336]
 
 ##### 118 Witness in Police witness protection programme
     
 *   If, at any time after the events that are the subject of a charge, a witness under a Police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
     
-    Compare: 1908 No 56 [s 13I][343]
+    Compare: 1908 No 56 [s 13I][337]
 
 ##### 119 Offences
     
@@ -3107,13 +3107,13 @@ Trial process
     
     (4) Nothing in this section limits the power of any court to punish any contempt of court.
     
-    Compare: 1908 No 56 [s 13J][344]
+    Compare: 1908 No 56 [s 13J][338]
     
-    Section 119(1): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 119(1): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 119(2): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 119(2): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 119(3): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 119(3): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Signature of statements by assumed name
 
@@ -3125,7 +3125,7 @@ Trial process
     
     (3) This section overrides any contrary provision in this Act or any other enactment.
     
-    Compare: 1957 No 87 [s 178A][345]
+    Compare: 1957 No 87 s 178A
 
 ### Subpart 6---Corroboration, judicial directions, and judicial warnings
 
@@ -3133,13 +3133,13 @@ Trial process
     
 *   (1) It is not necessary in a criminal proceeding for the evidence on which the prosecution relies to be corroborated, except with respect to the offences of---
         
-    *   (a) perjury ([section 108][317] of the Crimes Act 1961); and
+    *   (a) perjury ([section 108][311] of the Crimes Act 1961); and
     
-    *   (b) false oaths ([section 110][346] of the Crimes Act 1961); and
+    *   (b) false oaths ([section 110][339] of the Crimes Act 1961); and
     
-    *   (c) false statements or declarations ([section 111][347] of the Crimes Act 1961); and
+    *   (c) false statements or declarations ([section 111][340] of the Crimes Act 1961); and
     
-    *   (d) treason ([section 73][348] of the Crimes Act 1961).
+    *   (d) treason ([section 73][341] of the Crimes Act 1961).
     
     (2) Subject to subsection (1) and [section 122][156], if in a criminal proceeding there is a jury, it is not necessary for the Judge to---
         
@@ -3345,7 +3345,7 @@ Trial process
     
     *   (c) the production of secondary evidence to prove the authenticity of the document may be permitted in circumstances described in those rules.
     
-    Compare: 1908 No 89 Schedule 2 [r 314][349]
+    Compare: 1908 No 89 Schedule 2 r 314
 
 ##### 135 Translations and transcripts
     
@@ -3403,7 +3403,7 @@ Trial process
     
     *   (b) the sentencing by a court of a person to any penalty or other disposition of the case following a plea or finding of guilt, and the particulars of the offence for which that person was sentenced or otherwise dealt with and of the person (including the name and date of birth of the person if the person is an individual, and the name and date and place of incorporation of the person if the person is a body corporate):
     
-    *   (ba) a record of first warning (within the meaning of [section 86A][350] of the Sentencing Act 2002) or a record of final warning (within the meaning of that section) made in respect of a person:
+    *   (ba) a record of first warning (within the meaning of [section 86A][342] of the Sentencing Act 2002) or a record of final warning (within the meaning of that section) made in respect of a person:
     
     *   (c) an order or judgment of a court and the nature, parties, and particulars of the proceeding to which the order or judgment relates:
     
@@ -3423,7 +3423,7 @@ Trial process
     
     (6) [Subpart 1][21] of Part 2 (which relates to hearsay evidence) does not apply to evidence offered under this section.
     
-    Section 139(1)(ba): inserted, on 1 June 2010, by [section 13][351] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 139(1)(ba): inserted, on 1 June 2010, by [section 13][343] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 140 Proof of conviction by fingerprints
     
@@ -3605,13 +3605,13 @@ Trial process
     
     *   (b) does not include a document executed by a diplomatic or consular agent.
     
-    Compare: 1908 No 56 [s 45A][352]; 2000 No 62 [s 3][353]
+    Compare: 1908 No 56 [s 45A][344]; 2000 No 62 [s 3][345]
 
 ##### 146 Foreign public documents: certificates as to contracting States under Convention
     
 *   A certificate purporting to be signed by the Secretary of Foreign Affairs and Trade, and stating that a country is a contracting State under the Convention that did not raise an objection to New Zealand's accession to the Convention, is sufficient evidence of those matters, unless the contrary is proved.
     
-    Compare: 1908 No 56 [s 45B][354]; 2000 No 62 [s 3][353]
+    Compare: 1908 No 56 [s 45B][346]; 2000 No 62 [s 3][345]
 
 ##### 147 Foreign public documents: Convention certificates sufficient authentication of certain matters
     
@@ -3629,7 +3629,7 @@ Trial process
     
     (4) Subsection (3) does not prevent a New Zealand authority from accepting, in relation to a foreign public document, a lesser formality than a Convention certificate placed on, or attached to, the document as evidence or certification of the matters referred to in paragraphs (a) to (c) of subsection (1).
     
-    Compare: 1908 No 56 [s 45C][355]; 2000 No 62 [s 3][353]; Foreign Evidence Act 1994 ss 37--39 (Aust)
+    Compare: 1908 No 56 [s 45C][347]; 2000 No 62 [s 3][345]; Foreign Evidence Act 1994 ss 37--39 (Aust)
 
 #### Special rules relating to public documents admissible under Australian law
 
@@ -3649,7 +3649,7 @@ Trial process
     
     (4) In this section, _public document_ means an official or public document; and includes a certificate, an entry in a register, and a record of any proceedings.
     
-    Compare: 1990 No 46 [s 9][356]
+    Compare: 1990 No 46 [s 9][348]
 
 ##### 149 Evidence of other public documents
     
@@ -3659,7 +3659,7 @@ Trial process
     
     *   (b) the copy or extract appears to be signed or certified as a true copy or extract by the person who has custody of the document and that person also certifies that he or she has custody of it.
     
-    Compare: 1990 No 46 [s 10][357]
+    Compare: 1990 No 46 [s 10][349]
 
 ## Part 4  
 Evidence from overseas or to be used overseas
@@ -3744,25 +3744,25 @@ Evidence from overseas or to be used overseas
     
     _witness_, in relation to a subpoena, means the person to whom the subpoena is addressed.
     
-    Compare: 1994 No 31 [s 2][358]
+    Compare: 1994 No 31 [s 2][350]
     
-    Section 150 **audio link**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **audio link**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **audiovisual link**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **audiovisual link**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **examination**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **examination**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **expenses**: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **expenses**: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **expenses** paragraph (b): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **expenses** paragraph (b): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **relevant court**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **relevant court**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **remote appearance medium**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **remote appearance medium**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **remote evidence**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **remote evidence**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 150 **submissions**: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 150 **submissions**: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 151 Meaning of specified proceeding
     
@@ -3774,7 +3774,7 @@ Evidence from overseas or to be used overseas
     
     *   (c) relating to the management of the property of a person who is incapable of managing that property.
     
-    Section 151: replaced, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 151: replaced, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 152 Power of Minister of Justice in relation to certain tribunals
     
@@ -3784,29 +3784,29 @@ Evidence from overseas or to be used overseas
     
     *   (b) any tribunal of the Commonwealth of Australia or of a State or a territory of Australia to be an Australian court.
     
-    Compare: 1994 No 31 [s 3][360]
+    Compare: 1994 No 31 [s 3][352]
 
 ##### 153 Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia
     
-*   Nothing in this subpart applies in relation to any proceedings to which [Part 1A][361] of the Judicature Act 1908 applies.
+*   Nothing in this subpart applies in relation to any proceedings to which [Part 1A][353] of the Judicature Act 1908 applies.
     
-    Compare: 1994 No 31 [s 4][362]
+    Compare: 1994 No 31 [s 4][354]
 
 ##### 153A Courts (Remote Participation) Act 2010 does not apply to remote appearances under this subpart
     
-*   Nothing in the [Courts (Remote Participation) Act 2010][320] applies to the giving or taking of evidence, examination of a person giving evidence, or making or receipt of examination or submissions, by audio link or audiovisual link in accordance with [sections 168 to 172][363] or [173 to 180][364].
+*   Nothing in the [Courts (Remote Participation) Act 2010][314] applies to the giving or taking of evidence, examination of a person giving evidence, or making or receipt of examination or submissions, by audio link or audiovisual link in accordance with [sections 168 to 172][355] or [173 to 180][356].
     
-    Compare: 2010 No 108 [s 36][365]
+    Compare: 2010 No 108 [s 36][357]
     
-    Section 153A: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 153A: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 153B Mutual Assistance in Criminal Matters Act 1992 operates in parallel with this subpart
     
-*   This subpart is not subject to, and does not override, the [Mutual Assistance in Criminal Matters Act 1992][366].
+*   This subpart is not subject to, and does not override, the [Mutual Assistance in Criminal Matters Act 1992][358].
     
     Compare: Trans-Tasman Proceedings Act 2010 s 108 (Aust)
     
-    Section 153B: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 153B: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 #### Service of and compliance with New Zealand subpoenas in Australia
 
@@ -3828,15 +3828,15 @@ Evidence from overseas or to be used overseas
     
     (6) This section is subject to the applicable rules of court.
     
-    Compare: 1994 No 31 [s 5][367]
+    Compare: 1994 No 31 [s 5][359]
     
-    Section 154(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 154(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 155 New Zealand subpoena may require evidence to be given in New Zealand or Australia
     
 *   A New Zealand subpoena served on a witness in Australia may require the witness to give evidence or produce a document or thing or both at a place in New Zealand or Australia.
     
-    Compare: 1994 No 31 [s 6][368]
+    Compare: 1994 No 31 [s 6][360]
 
 ##### 156 Service of subpoena
     
@@ -3856,7 +3856,7 @@ Evidence from overseas or to be used overseas
     
     (3) Subsection (1) is subject to any directions as to service imposed under [section 154(5)][199].
     
-    Compare: 1994 No 31 [s 7][369]
+    Compare: 1994 No 31 [s 7][361]
 
 ##### 157 Expenses
     
@@ -3868,7 +3868,7 @@ Evidence from overseas or to be used overseas
     
     (4) In this section, the _appropriate time_ means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
     
-    Compare: 1994 No 31 [s 8][370]
+    Compare: 1994 No 31 [s 8][362]
 
 ##### 158 Payment of additional amounts to witness
     
@@ -3886,7 +3886,7 @@ Evidence from overseas or to be used overseas
     
     (5) An order made under subsection (4) by a court which does not have the power to enforce its orders may be filed in any District Court and when filed, is enforceable as a judgment of the District Court.
     
-    Compare: 1994 No 31 [s 9][371]
+    Compare: 1994 No 31 [s 9][363]
 
 ##### 159 Subpoenas for production
     
@@ -3894,7 +3894,7 @@ Evidence from overseas or to be used overseas
     
     (2) For the purposes of subsection (1), _registry_, in relation to an Australian court, means a registry of an Australian court authorised by a law of the Commonwealth of Australia to receive such documents or things.
     
-    Compare: 1994 No 31 [s 10][372]
+    Compare: 1994 No 31 [s 10][364]
 
 ##### 160 Setting aside of subpoena served in Australia
     
@@ -3910,7 +3910,7 @@ Evidence from overseas or to be used overseas
         
         *   (iii) the witness is liable to prosecution for an offence, or is being prosecuted for an offence, in New Zealand; or
         
-        *   (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the [Commerce Act 1986][373]; or
+        *   (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the [Commerce Act 1986][365]; or
         
         
     
@@ -3934,19 +3934,19 @@ Evidence from overseas or to be used overseas
     
     (5) The Registrar of the relevant court in which the application is filed must ensure that a copy of the application and any affidavit setting out facts on which the applicant relies is served on the solicitor on the record for the person who obtained leave to serve the subpoena, or if there is no solicitor on the record, on that person.
     
-    Compare: 1994 No 31 [s 11][374]
+    Compare: 1994 No 31 [s 11][366]
     
-    Section 160(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 160(2): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(2): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 160(2)(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(2)(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 160(3): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(3): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 160(4): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(4): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 160(5): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 160(5): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 161 Failure to comply with subpoena
     
@@ -3956,15 +3956,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) the witness failed to comply with the subpoena.
     
-    Compare: 1994 No 31 [s 12][375]
+    Compare: 1994 No 31 [s 12][367]
     
-    Section 161(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 161(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 162 Other powers not affected
     
 *   Nothing in [sections 154 to 161][199] limits or affects any other powers of a New Zealand court.
     
-    Compare: 1994 No 31 [s 13][376]
+    Compare: 1994 No 31 [s 13][368]
 
 #### Service of and compliance with Australian subpoenas in New Zealand
 
@@ -3978,9 +3978,9 @@ Evidence from overseas or to be used overseas
     
     *   (b) a statement setting out the rights and obligations of the witness, including information about the way in which an application may be made to the appropriate Australian court to have the subpoena set aside.
     
-    Compare: 1994 No 31 [s 14][377]
+    Compare: 1994 No 31 [s 14][369]
     
-    Section 163(2)(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 163(2)(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 164 Compliance with Australian subpoena
     
@@ -3996,7 +3996,7 @@ Evidence from overseas or to be used overseas
     
     (3) In this section the _appropriate time_ means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
     
-    Compare: 1994 No 31 [s 15][378]
+    Compare: 1994 No 31 [s 15][370]
 
 ##### 165 Failure of witness to comply with Australian subpoena
     
@@ -4026,11 +4026,11 @@ Evidence from overseas or to be used overseas
     
     (5) Without limiting subsection (3), no finding of fact made by the court of judicature within Australia referred to in subsection (4)(a) on an application to have the subpoena set aside may be challenged by any person alleged to have failed to comply with the subpoena unless the court was deliberately misled in making those findings of fact.
     
-    Compare: 1994 No 31 [s 16][379]
+    Compare: 1994 No 31 [s 16][371]
     
-    Section 165(4)(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 165(4)(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 165(5): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 165(5): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 166 Transmission of documents or things to Australian court
     
@@ -4042,17 +4042,17 @@ Evidence from overseas or to be used overseas
     
     (2) In this section _the appropriate sum_ in relation to a document or thing required to be produced in compliance with an Australian subpoena means a sum that is sufficient to send the document or thing to the Australian court that issued the subpoena by a means that will ensure it is received by the court before the date on which it is required to be produced.
     
-    Compare: 1994 No 31 [s 17][380]
+    Compare: 1994 No 31 [s 17][372]
 
 ##### 167 Other powers to serve subpoenas not affected
     
 *   Nothing in this Act limits or affects any right or power conferred by or under a law of the Commonwealth or a State or a territory of Australia to serve a subpoena in New Zealand on an Australian citizen.
     
-    Compare: 1994 No 31 [s 18][381]
+    Compare: 1994 No 31 [s 18][373]
 
 #### Audio links and audiovisual links in New Zealand proceedings
     
-*   Heading: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+*   Heading: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 168 New Zealand court may receive evidence, and related examination and submissions, by audio link and audiovisual link from Australia
     
@@ -4080,9 +4080,9 @@ Evidence from overseas or to be used overseas
     
     *   (d) it is appropriate to give the direction.
     
-    Compare: 1994 No 31 [s 19(1)][382]
+    Compare: 1994 No 31 [s 19(1)][374]
     
-    Section 168: replaced, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 168: replaced, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 168A Costs of giving evidence, and making examination and submissions, from Australia
     
@@ -4096,17 +4096,17 @@ Evidence from overseas or to be used overseas
     
     *   (b) when so filed, is enforceable as a judgment of that District Court.
     
-    Compare: 1994 No 31 [s 19(2)--(4)][382]
+    Compare: 1994 No 31 [s 19(2)--(4)][374]
     
-    Section 168A: inserted, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 168A: inserted, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 169 Powers of New Zealand court in Australia
     
 *   For the purposes of the taking of evidence or the receiving of examination or submissions by audio link or audiovisual link from Australia under [section 168][215], the New Zealand court may exercise in Australia all its powers which it is permitted to exercise in Australia under Australian law.
     
-    Compare: 1994 No 31 [s 20][383]
+    Compare: 1994 No 31 [s 20][375]
     
-    Section 169: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 169: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 170 Evidence, examination, and submissions by audiovisual link
     
@@ -4116,15 +4116,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) enable persons present at the place where the evidence is given, the examination is made, or the submissions are made, in Australia to see and hear persons at the place where the court is sitting in New Zealand.
     
-    Compare: 1994 No 31 [s 21][384]
+    Compare: 1994 No 31 [s 21][376]
     
-    Section 170 heading: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 170 heading: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 170: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 170: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 170(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 170(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 170(b): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 170(b): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 171 Evidence, examination, and submissions by audio link
     
@@ -4134,15 +4134,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) enable persons present at the place where the evidence is given, the examination is made, or the submissions are made, in Australia to hear persons at the place where the court is sitting in New Zealand.
     
-    Compare: 1994 No 31 [s 22][385]
+    Compare: 1994 No 31 [s 22][377]
     
-    Section 171 heading: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 171 heading: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 171: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 171: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 171(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 171(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 171(b): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 171(b): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 172 Rights of Australian counsel
     
@@ -4152,23 +4152,23 @@ Evidence from overseas or to be used overseas
     
     *   (b) is not entitled otherwise than under this section to appear before the New Zealand court to examine a person giving evidence, or to make submissions, under that direction.
     
-    (2) The person is entitled to practise as a barrister, a solicitor, or both in relation to each appearance for the examination or submissions to which the direction relates, and each appearance of that kind is for the purposes of [section 27(1)(b)(i)][386] of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
+    (2) The person is entitled to practise as a barrister, a solicitor, or both in relation to each appearance for the examination or submissions to which the direction relates, and each appearance of that kind is for the purposes of [section 27(1)(b)(i)][378] of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
     
-    Compare: 1994 No 31 [s 23][387]
+    Compare: 1994 No 31 [s 23][379]
     
-    Section 172: replaced, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 172: replaced, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 #### Audio links and audiovisual links in Australian proceedings
     
-*   Heading: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+*   Heading: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 173 Australian court may take evidence, and receive related examination and submissions, by audio link or audiovisual link from New Zealand
     
 *   The taking of evidence, or receipt of an examination or submissions, from New Zealand in a proceeding in an Australian court is authorised if it is in accordance with the Trans-Tasman Proceedings Act 2010 (Aust).
     
-    Compare: 1994 No 31 [s 24][388]
+    Compare: 1994 No 31 [s 24][380]
     
-    Section 173: replaced, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 173: replaced, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 174 Powers of Australian court
     
@@ -4180,11 +4180,11 @@ Evidence from overseas or to be used overseas
     
     (2) Subject to subsection (1), the Australian law that applies to the proceeding in Australia also applies to the practice and procedure of the Australian court in taking evidence or receiving examination or submissions from a person in New Zealand.
     
-    Compare: 1994 No 31 [s 25][389]
+    Compare: 1994 No 31 [s 25][381]
     
-    Section 174(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 174(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 174(2): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 174(2): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 175 Orders of Australian court
     
@@ -4198,19 +4198,19 @@ Evidence from overseas or to be used overseas
     
     (2) An order made under subsection (1) may be enforced by a Judge of the High Court who, for that purpose, has and may exercise the powers, including the power to punish for contempt, that would have been available to enforce the order if it had been made by that Judge.
     
-    Compare: 1994 No 31 [s 26][390]
+    Compare: 1994 No 31 [s 26][382]
     
-    Section 175(1)(b): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 175(1)(b): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 176 Place where evidence given or examination or submissions made part of Australian court
     
 *   For the purposes of [sections 174][223] and [175][224], the place in New Zealand where the evidence is given, the examination is made, or the submissions are made in a proceeding before an Australian court are deemed to be part of that court.
     
-    Compare: 1994 No 31 [s 27][391]
+    Compare: 1994 No 31 [s 27][383]
     
-    Section 176 heading: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 176 heading: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 176: amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 176: amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 177 Privileges, protections, and immunities of Judges, counsel, and witnesses in Australian proceedings
     
@@ -4220,23 +4220,23 @@ Evidence from overseas or to be used overseas
     
     (3) Every witness who gives evidence in a proceeding before an Australian court by audio link or audiovisual link from New Zealand has all the privileges and immunities of a witness in the High Court.
     
-    Compare: 1994 No 31 [s 28][392]
+    Compare: 1994 No 31 [s 28][384]
     
-    Section 177(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 177(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 177(2): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 177(2): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 177(3): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 177(3): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 178 Power of Australian court to administer oaths in New Zealand
     
 *   (1) An Australian court may, for the purpose of obtaining the evidence of a person in New Zealand by audio link or audiovisual link, administer an oath or affirmation in accordance with the practice and procedure of that court.
     
-    (2) Evidence given by a person on oath or affirmation administered by the Australian court under subsection (1) is, for the purposes of [section 108][317] of the Crimes Act 1961 (which relates to perjury), deemed to have been given as evidence in a judicial proceeding on oath.
+    (2) Evidence given by a person on oath or affirmation administered by the Australian court under subsection (1) is, for the purposes of [section 108][311] of the Crimes Act 1961 (which relates to perjury), deemed to have been given as evidence in a judicial proceeding on oath.
     
-    Compare: 1994 No 31 [s 29][393]
+    Compare: 1994 No 31 [s 29][385]
     
-    Section 178(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 178(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 179 Contempt of Australian court
     
@@ -4270,11 +4270,11 @@ Evidence from overseas or to be used overseas
     
     (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both.
     
-    Compare: 1994 No 31 [s 30][394]
+    Compare: 1994 No 31 [s 30][386]
     
-    Section 179(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 179(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 179(2): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 179(2): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 180 Assistance to Australian court
     
@@ -4286,21 +4286,21 @@ Evidence from overseas or to be used overseas
     
     *   (c) assist with the administering by the Australian court of an oath or affirmation.
     
-    Compare: 1994 No 31 [s 31][395]
+    Compare: 1994 No 31 [s 31][387]
     
-    Section 180(a): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 180(a): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 #### Enforcement of Australian orders
 
 \[Repealed\]
     
-*   Heading: repealed, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+*   Heading: repealed, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 181 Enforcement of certain orders made by Australian court
     
 *   \[Repealed\]
     
-    Section 181: repealed, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 181: repealed, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ### Subpart 2---Evidence for use in civil proceedings overseas and evidence for use in civil proceedings in High Court
 
@@ -4442,7 +4442,7 @@ Evidence from overseas or to be used overseas
     
     (6) This section does not limit [sections 103 to 106][132].
     
-    Compare: 1980 No 27 [s 46][396]
+    Compare: 1980 No 27 [s 46][388]
 
 #### Offences
 
@@ -4456,9 +4456,9 @@ Evidence from overseas or to be used overseas
     
     (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 years.
     
-    Section 189(1): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 189(1): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 189(2): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 189(2): amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ### Subpart 3---Evidence for use in overseas criminal proceedings
 
@@ -4478,7 +4478,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) includes any person lawfully acting for any of those officers and also includes any Diplomatic Secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission.
     
-    Compare: 1908 No 56 [s 48A][397]
+    Compare: 1908 No 56 [s 48A][389]
 
 ##### 191 Relationship with subpart 1
     
@@ -4498,7 +4498,7 @@ Evidence from overseas or to be used overseas
     
     (4) An order made under subsection (1) may be enforced in the same manner as if it were an order made by the High Court or the Judge in proceedings pending in the High Court or before the Judge.
     
-    Compare: 1908 No 56 [s 48A][397]
+    Compare: 1908 No 56 [s 48A][389]
 
 ##### 193 Powers may be exercised by Registrar
     
@@ -4518,7 +4518,7 @@ Evidence from overseas or to be used overseas
     
     (4) Nothing in this section prevents the exercise by the High Court or any Judge of any powers conferred on a Registrar under this section.
     
-    Compare: 1908 No 56 [s 48B][398]
+    Compare: 1908 No 56 [s 48B][390]
 
 ##### 194 Evidence in support of application
     
@@ -4548,7 +4548,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) the official character of that person.
     
-    Compare: 1908 No 56 [s 48C][399]
+    Compare: 1908 No 56 [s 48C][391]
 
 ##### 195 Protection of witnesses
     
@@ -4562,15 +4562,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) producing any document.
     
-    Compare: 1908 No 56 [s 48D][400]
+    Compare: 1908 No 56 [s 48D][392]
 
 ##### 196 Witnesses' expenses
     
-*   Every witness required to attend for examination by an order made under [section 192][247] is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the [Criminal Procedure Act 2011][322].
+*   Every witness required to attend for examination by an order made under [section 192][247] is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the [Criminal Procedure Act 2011][316].
     
-    Compare: 1908 No 56 [s 48E][401]
+    Compare: 1908 No 56 [s 48E][393]
     
-    Section 196: amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
+    Section 196: amended, on 1 July 2013, by [section 5][309] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 197 Solicitor may take affidavit or declaration
     
@@ -4594,21 +4594,21 @@ Evidence from overseas or to be used overseas
     
     _declaration_ means any written statement declared by the maker of the statement to be true in the presence of a solicitor of the High Court.
     
-    Compare: 1908 No 56 [s 48F(1)--(6)][402]
+    Compare: 1908 No 56 [s 48F(1)--(6)][394]
 
 ##### 198 False affidavit or declaration
     
-*   (1) Every affidavit or declaration taken under [section 197][252] is deemed to have been made in a judicial proceeding within the meaning of the [Crimes Act 1961][403], and any person who falsely makes an affidavit or declaration of that kind is guilty of perjury or of making a false declaration accordingly.
+*   (1) Every affidavit or declaration taken under [section 197][252] is deemed to have been made in a judicial proceeding within the meaning of the [Crimes Act 1961][395], and any person who falsely makes an affidavit or declaration of that kind is guilty of perjury or of making a false declaration accordingly.
     
     (2) In any prosecution in respect of an affidavit or declaration taken under [section 197][252] it must be conclusively presumed that criminal proceedings were actually pending in the overseas court and that a certificate was given in accordance with [section 194(3)][249].
     
-    Compare: 1908 No 56 [s 47F(7), (8)][402]
+    Compare: 1908 No 56 [s 47F(7), (8)][394]
 
 ### Subpart 4---Rules and regulations
 
 ##### 199 Rules
     
-*   (1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of [subpart 1][190] of this Part under [section 51C][404] of the Judicature Act 1908 that make provision for or relate to---
+*   (1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of [subpart 1][190] of this Part under [section 51C][396] of the Judicature Act 1908 that make provision for or relate to---
         
     *   (a) the issuing of New Zealand subpoenas and the service of those subpoenas:
     
@@ -4628,11 +4628,11 @@ Evidence from overseas or to be used overseas
     
     (2) In the case of any other New Zealand court, rules or, as the case may be, regulations may be made under the authority of any enactment that provides for the making of rules or regulations governing the practice and procedure of the court that make provision for or relate to any of the matters referred to in paragraphs (a), (c), and (e) to (h) of subsection (1).
     
-    Section 199(1)(e): amended, on 11 October 2013, by [section 10(1)][359] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 199(1)(e): amended, on 11 October 2013, by [section 10(1)][351] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 200 Rules and regulations
     
-*   (1) Without limiting [section 199][255] or the power to make rules of procedure conferred by the [Judicature Act 1908][405], the [District Courts Act 1947][331], and the [Family Courts Act 1980][406],---
+*   (1) Without limiting [section 199][255] or the power to make rules of procedure conferred by the [Judicature Act 1908][397], the [District Courts Act 1947][325], and the [Family Courts Act 1980][398],---
         
     *   (a) rules may be made under those Acts prescribing anything that is required to be prescribed or necessary for carrying this Part into effect:
     
@@ -4646,7 +4646,7 @@ Evidence from overseas or to be used overseas
     
     *   (c) regulating the payment of expenses in respect of expenses incurred in complying with New Zealand subpoenas.
     
-    Compare: 1980 No 27 [s 47][407]
+    Compare: 1980 No 27 [s 47][399]
 
 ## Part 5  
 Miscellaneous
@@ -4731,13 +4731,13 @@ Miscellaneous
 
 ##### 207 Transitional provisions relating to Law Practitioners Act 1982
     
-*   (1) Until the commencement of [section 6][302] of the Lawyers and Conveyancers Act 2006, [section 51(1)][70] must be read as if for the definition of lawyer there were substituted the following definition:
+*   (1) Until the commencement of [section 6][297] of the Lawyers and Conveyancers Act 2006, [section 51(1)][70] must be read as if for the definition of lawyer there were substituted the following definition:
     
     > "_lawyer_ means a barrister or solicitor, as those terms are defined in [section 2][283] of the Law Practitioners Act 1982".
     
-    (2) Until the commencement of [section 112][303] of the Lawyers and Conveyancers Act 2006, [section 55(1)(a)][75] must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to [section 89][408] of the Law Practitioners Act 1982\.
+    (2) Until the commencement of [section 112][298] of the Lawyers and Conveyancers Act 2006, [section 55(1)(a)][75] must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to [section 89][400] of the Law Practitioners Act 1982\.
     
-    (3) Until the commencement of [section 96][304] of the Lawyers and Conveyancers Act 2006, [section 55(1)][75] must be read as if for paragraph (b) there were substituted the following paragraph:
+    (3) Until the commencement of [section 96][299] of the Lawyers and Conveyancers Act 2006, [section 55(1)][75] must be read as if for paragraph (b) there were substituted the following paragraph:
     
     > *   "(b) by any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients."
     > 
@@ -4798,15 +4798,15 @@ Enactments repealed
 
 ##### Crimes Act 1961 (1961 No 43)
 
-[Sections 344D][409], [366(1)][410], and [369][411].
+[Sections 344D][401], [366(1)][402], and [369][403].
 
 ##### Juries Act 1981 (1981 No 23)
 
-[Section 28][412].
+[Section 28][404].
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-[Sections 3(1)(k)][413], [60][414], and [178A][345].
+[Sections 3(1)(k)][405], [60][406], and 178A.
 
 ---
 
@@ -4820,7 +4820,7 @@ Amendments to other Acts
 
 ##### Acts and Regulations Publication Act 1989 (1989 No 142)
 
-Insert, after [section 16][415]:
+Insert, after [section 16][407]:
 
 > #### "Judicial notice and evidence of New Zealand legislation
 > 
@@ -4894,15 +4894,15 @@ Insert, after [section 16][415]:
 > 
 > 
 
-Omit from the definition of **reprint** in [section 17A][416] ""section 29A of the Evidence Act 1908"" and substitute ""section 16D"".
+Omit from the definition of **reprint** in [section 17A][408] ""section 29A of the Evidence Act 1908"" and substitute ""section 16D"".
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-[Section 147(1)][417]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 147(1)][409]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Commonwealth Countries Act 1977 (1977 No 31)
 
-Repeal [section 2(5)][418] and substitute:
+Repeal [section 2(5)][410] and substitute:
 
 > *   "(5) For the purposes of this section,---
 >     
@@ -4928,43 +4928,43 @@ Repeal [section 2(5)][418] and substitute:
 
 ##### Companies (Bondholders Incorporation) Act 1934--35 (1934--35 No 39)
 
-[Section 13(2)][419]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 13(2)][411]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Copyright Act 1994 (1994 No 143)
 
-[Section 215(4)][420]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 215(4)][412]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Crimes Act 1961 (1961 No 43)
 
-[Section 216C(2)(iii)][421]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 216C(2)(iii)][413]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
-[Section 369A(1)][422]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
+[Section 369A(1)][414]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 379A(1)(e)][423]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
+[Section 379A(1)(e)][415]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 379A(1)(f)][423]: omit ""section 13C of the Evidence Act 1908"" and substitute ""sections 112 and 113 of the Evidence Act 2006"".
+[Section 379A(1)(f)][415]: omit ""section 13C of the Evidence Act 1908"" and substitute ""sections 112 and 113 of the Evidence Act 2006"".
 
-[Section 379A(1)(g)][423]: omit ""section 23A of the Evidence Act 1908"" and substitute ""section 44 of the Evidence Act 2006"".
+[Section 379A(1)(g)][415]: omit ""section 23A of the Evidence Act 1908"" and substitute ""section 44 of the Evidence Act 2006"".
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-[Section 161(2)][424]: omit "", despite section 47B or 47C of the Evidence Act 1908,"" and substitute "", despite section 75 of the Evidence Act 2006,"".
+[Section 161(2)][416]: omit "", despite section 47B or 47C of the Evidence Act 1908,"" and substitute "", despite section 75 of the Evidence Act 2006,"".
 
 ##### Hawke's Bay Earthquake Act 1931 (1931 No 6)
 
-[Section 23(2)][425]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 23(2)][417]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-Omit from [section 106(4)][426] ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+Omit from [section 106(4)][418] ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Immigration Act 1987 (1987 No 74)
 
-Omit from [clause 11(2)][427] of Schedule 2 and [clause 9(2)][428] of Schedule 3C ""Evidence Act 1908"" and substitute in each case ""Evidence Act 2006"".
+Omit from [clause 11(2)][419] of Schedule 2 and [clause 9(2)][420] of Schedule 3C ""Evidence Act 1908"" and substitute in each case ""Evidence Act 2006"".
 
 ##### Judicature Act 1908 (1908 No 89)
 
-Repeal [section 51A(2)][429] and substitute:
+Repeal [section 51A(2)][421] and substitute:
 
 > *   "(2) Sections 16B, 16C(3), and 16D of the Acts and Regulations Publication Act 1989 apply accordingly."
 > 
@@ -4972,9 +4972,9 @@ Repeal [section 51A(2)][429] and substitute:
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-[Section 209(2)][430]: omit ""(as defined in section 2 of the Evidence Act 1908)"".
+[Section 209(2)][422]: omit ""(as defined in section 2 of the Evidence Act 1908)"".
 
-Add to [section 209][430]:
+Add to [section 209][422]:
 
 > *   "(4) For the purposes of this section, a _person acting judicially_ means any person having in New Zealand by law authority to hear, receive, and examine evidence."
 > 
@@ -4982,29 +4982,29 @@ Add to [section 209][430]:
 
 ##### Lawyers and Conveyancers Act 2006 (2006 No 1)
 
-[Section 151(4)][431]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 151(4)][423]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
-[Section 239(4)][432]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 239(4)][424]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Local Government Act 2002 (2002 No 84)
 
-[Section 35(1)][433]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 35(1)][425]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Maori Fisheries Act 2004 (2004 No 78)
 
-[Section 203(2)][434]: omit ""section 48G of the Evidence Act 1908"" and substitute ""section 4 of the Evidence Act 2006"".
+[Section 203(2)][426]: omit ""section 48G of the Evidence Act 1908"" and substitute ""section 4 of the Evidence Act 2006"".
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-[Clause 9][435] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 9][427] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Mortgagors and Lessees Rehabilitation Act 1936 (1936 No 33)
 
-[Section 18(2)][436]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 18(2)][428]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-Repeal [section 36][437] and substitute:
+Repeal [section 36][429] and substitute:
 
 > ##### "36 Evidence Act 2006 not affected
 >     
@@ -5014,7 +5014,7 @@ Repeal [section 36][437] and substitute:
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-[Section 13(1)][438]: repeal and substitute:
+[Section 13(1)][430]: repeal and substitute:
 
 > *   "(1) A witness under the age of 12 years who is required, under section 77(2) of the Evidence Act 2006, to make a promise to tell the truth, must, before being examined make the promise:
 >     
@@ -5026,7 +5026,7 @@ Repeal [section 36][437] and substitute:
 
 ##### Plant Variety Rights Act 1987 (1987 No 5)
 
-Repeal [section 29(3)][439] and substitute:
+Repeal [section 29(3)][431] and substitute:
 
 > *   "(3) For the purposes of subsection (2),---
 >     
@@ -5044,39 +5044,39 @@ Repeal [section 29(3)][439] and substitute:
 
 ##### Reprint of Statutes Act 1931 (1931 No 13)
 
-[Section 4][440]: omit ""section 29 of the Evidence Act 1908"" and substitute ""section 16C of the Acts and Regulations Publication Act 1989"".
+[Section 4][432]: omit ""section 29 of the Evidence Act 1908"" and substitute ""section 16C of the Acts and Regulations Publication Act 1989"".
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-[Section 156A(4)(b)][441]: omit ""section 47B of the Evidence Act 1908"" and substitute ""the Evidence Act 2006"".
+[Section 156A(4)(b)][433]: omit ""section 47B of the Evidence Act 1908"" and substitute ""the Evidence Act 2006"".
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-[Section 109(2)][442]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 109(2)][434]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Social Workers Registration Act 2003 (2003 No 17)
 
-[Clause 6(4)][443] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 6(4)][435] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-[Section 8(1)][444]: omit ""section 44A of the Evidence Act 1908"" in both places and substitute in each case ""section 141, or any of sections 145 to 149 of the Evidence Act 2006"".
+[Section 8(1)][436]: omit ""section 44A of the Evidence Act 1908"" in both places and substitute in each case ""section 141, or any of sections 145 to 149 of the Evidence Act 2006"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Omit from [sections 157(1A)][445] and [161A][446] ""section 13A(6)(d) of the Evidence Act 1908"" and substitute in each case ""section 109(1)(d) of the Evidence Act 2006"".
+Omit from [sections 157(1A)][437] and [161A][438] ""section 13A(6)(d) of the Evidence Act 1908"" and substitute in each case ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 168AA(5)][447]: omit ""section 13C of the Evidence Act 1908"" and substitute ""section 112 of the Evidence Act 2006"".
+[Section 168AA(5)][439]: omit ""section 13C of the Evidence Act 1908"" and substitute ""section 112 of the Evidence Act 2006"".
 
-[Section 178A(1)][345]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(5) of the Evidence Act 2006"".
+Section 178A(1): omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(5) of the Evidence Act 2006"".
 
-[Section 178A(2)][345]: omit ""section 13B or section 13C of the Evidence Act 1908"" and substitute ""sections 110 to 112 of the Evidence Act 2006"".
+Section 178A(2): omit ""section 13B or section 13C of the Evidence Act 1908"" and substitute ""sections 110 to 112 of the Evidence Act 2006"".
 
-[Section 182(1)][448]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(2) of the Evidence Act 2006"".
+[Section 182(1)][440]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(2) of the Evidence Act 2006"".
 
 ##### Tariff Act 1988 (1988 No 155)
 
-Repeal [section 7(1C)][449] and substitute:
+Repeal [section 7(1C)][441] and substitute:
 
 > *   "(1C) For the purposes of this section,---
 >     
@@ -5102,23 +5102,23 @@ Repeal [section 7(1C)][449] and substitute:
 
 ##### Taxation Review Authorities Act 1994 (1994 No 165)
 
-[Section 17(3)][450]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 17(3)][442]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Te Ture Whenua Maori Act 1993 (Maori Land Act 1993) (1993 No 4)
 
-[Section 69(3)][451]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 69(3)][443]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-[Section 63(4)][452]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 63(4)][444]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Treaty of Waitangi Act 1975 (1975 No 114)
 
-[Clause 6(3)][453] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 6(3)][445] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### United Nations Convention on the Law of the Sea Act 1996 (1996 No 69)
 
-Repeal [section 3(5)][454] and substitute:
+Repeal [section 3(5)][446] and substitute:
 
 > *   "(5) For the purposes of subsection (4),---
 >     
@@ -5141,11 +5141,11 @@ Regulations amended
 
 ##### Designs Regulations 1954 (SR 1954/224)
 
-[Regulation 73(1)(a)][455]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
+[Regulation 73(1)(a)][447]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
 
 ##### Patents Regulations 1954 (SR 1954/211)
 
-[Regulation 143(1)(a)][456]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
+[Regulation 143(1)(a)][448]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
 
 #### 
 
@@ -5159,33 +5159,33 @@ Regulations amended
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][457] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][458] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][449] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][450] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][459] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][460] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][451] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][452] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Evidence Amendment Act 2013][461] (2013 No 29)
+*   [Evidence Amendment Act 2013][453] (2013 No 29)
     
-    [Evidence Amendment Act 2011][462] (2011 No 89)
+    [Evidence Amendment Act 2011][454] (2011 No 89)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][341]
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][335]
     
-    Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][359]
+    Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][351]
     
-    Courts (Remote Participation) Act 2010 (2010 No 94): [section 19][321]
+    Courts (Remote Participation) Act 2010 (2010 No 94): [section 19][315]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][351]
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][343]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 184][330]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 184][324]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][329]
+    Policing Act 2008 (2008 No 72): [section 130(1)][323]
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][463]
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][455]
     
-    [Evidence Amendment Act 2007][464] (2007 No 24)
+    [Evidence Amendment Act 2007][456] (2007 No 24)
     
     Evidence Act 2006 Commencement Order 2007 (SR 2007/190): [clause 2][280]
 
@@ -5481,178 +5481,170 @@ Regulations amended
 [287]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224791
 [288]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM31458
 [289]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410019
-[290]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149315
-[291]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150261
-[292]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150264
-[293]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150693
-[294]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151367
-[295]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410021
-[296]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410023
-[297]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410024
-[298]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224799
-[299]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410025
-[300]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311801
-[301]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058407
-[302]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM364948
-[303]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366142
-[304]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366124
-[305]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM314010
-[306]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149452
-[307]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM317232
-[308]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM148131
-[309]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM204329
-[310]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436106
-[311]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65366
-[312]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65368
-[313]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM64790
-[314]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65371
-[315]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058409
-[316]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM199370
-[317]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328793
-[318]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328796
-[319]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865709
-[320]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600700
-[321]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600770
-[322]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3359902
-[323]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436100
-[324]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328596
-[325]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102202
-[326]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=BILL-SCDRAFT-7242
-[327]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2601243
-[328]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142716
-[329]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102383
-[330]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1451423
-[331]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM242775
-[332]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM153420
-[333]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142720
-[334]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142723
-[335]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189089
-[336]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189090
-[337]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142729
-[338]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360580
-[339]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360340
-[340]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142735
-[341]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865810
-[342]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142738
-[343]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142741
-[344]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142744
-[345]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313599
-[346]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328798
-[347]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328799
-[348]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328520
-[349]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151308
-[350]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3023002
-[351]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2836314
-[352]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143330
-[353]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM76253
-[354]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143345
-[355]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143348
-[356]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210967
-[357]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210970
-[358]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331063
-[359]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2576329
-[360]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331096
-[361]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146686
-[362]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331098
-[363]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM394263
-[364]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM394269
-[365]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3121611
-[366]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM273056
-[367]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331501
-[368]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331503
-[369]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331505
-[370]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331507
-[371]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331510
-[372]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331512
-[373]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM87622
-[374]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331515
-[375]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331517
-[376]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331519
-[377]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331522
-[378]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331524
-[379]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331526
-[380]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331528
-[381]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331531
-[382]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331534
-[383]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331536
-[384]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331538
-[385]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331540
-[386]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM365736
-[387]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331542
-[388]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331545
-[389]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331547
-[390]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331549
-[391]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331551
-[392]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331553
-[393]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331555
-[394]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331557
-[395]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331559
-[396]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36264
-[397]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143378
-[398]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143381
-[399]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143384
-[400]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143387
-[401]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143390
-[402]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143393
-[403]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM327381
-[404]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146607
-[405]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM144692
-[406]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM42253
-[407]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36266
-[408]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM63264
-[409]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331455
-[410]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331739
-[411]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331752
-[412]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM44833
-[413]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311134
-[414]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311772
-[415]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195428
-[416]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195453
-[417]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM403639
-[418]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442766
-[419]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM217572
-[420]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM346885
-[421]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329834
-[422]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331754
-[423]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331903
-[424]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM379235
-[425]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209250
-[426]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM305410
-[427]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114344
-[428]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114918
-[429]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146496
-[430]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435639
-[431]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366190
-[432]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366793
-[433]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM171847
-[434]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313602
-[435]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM339539
-[436]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM220219
-[437]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM274421
-[438]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM316124
-[439]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM101077
-[440]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209558
-[441]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM201571
-[442]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM166130
-[443]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM191203
-[444]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM391005
-[445]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313185
-[446]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313199
-[447]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313538
-[448]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313715
-[449]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM137077
-[450]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM347495
-[451]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM290957
-[452]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM411352
-[453]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435881
-[454]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM393778
-[455]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM8430
-[456]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM7688
-[457]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998516
-[458]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998515
-[459]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998532
-[460]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[461]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189082
-[462]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058400
-[463]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1380050
-[464]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410010
+[290]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410021
+[291]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410023
+[292]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410024
+[293]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224799
+[294]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410025
+[295]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311801
+[296]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058407
+[297]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM364948
+[298]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366142
+[299]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366124
+[300]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM314010
+[301]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149452
+[302]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM317232
+[303]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM204329
+[304]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436106
+[305]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65366
+[306]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65368
+[307]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM64790
+[308]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65371
+[309]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058409
+[310]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM199370
+[311]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328793
+[312]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328796
+[313]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865709
+[314]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600700
+[315]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600770
+[316]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3359902
+[317]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436100
+[318]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328596
+[319]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102202
+[320]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=BILL-SCDRAFT-7242
+[321]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2601243
+[322]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142716
+[323]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102383
+[324]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1451423
+[325]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM242775
+[326]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM153420
+[327]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142720
+[328]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142723
+[329]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189089
+[330]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189090
+[331]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142729
+[332]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360580
+[333]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360340
+[334]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142735
+[335]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865810
+[336]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142738
+[337]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142741
+[338]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142744
+[339]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328798
+[340]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328799
+[341]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328520
+[342]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3023002
+[343]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2836314
+[344]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143330
+[345]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM76253
+[346]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143345
+[347]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143348
+[348]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210967
+[349]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210970
+[350]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331063
+[351]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2576329
+[352]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331096
+[353]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146686
+[354]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331098
+[355]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM394263
+[356]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM394269
+[357]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3121611
+[358]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM273056
+[359]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331501
+[360]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331503
+[361]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331505
+[362]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331507
+[363]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331510
+[364]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331512
+[365]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM87622
+[366]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331515
+[367]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331517
+[368]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331519
+[369]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331522
+[370]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331524
+[371]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331526
+[372]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331528
+[373]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331531
+[374]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331534
+[375]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331536
+[376]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331538
+[377]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331540
+[378]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM365736
+[379]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331542
+[380]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331545
+[381]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331547
+[382]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331549
+[383]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331551
+[384]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331553
+[385]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331555
+[386]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331557
+[387]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331559
+[388]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36264
+[389]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143378
+[390]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143381
+[391]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143384
+[392]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143387
+[393]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143390
+[394]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143393
+[395]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM327381
+[396]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146607
+[397]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM144692
+[398]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM42253
+[399]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36266
+[400]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM63264
+[401]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331455
+[402]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331739
+[403]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331752
+[404]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM44833
+[405]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311134
+[406]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311772
+[407]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195428
+[408]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195453
+[409]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM403639
+[410]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442766
+[411]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM217572
+[412]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM346885
+[413]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329834
+[414]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331754
+[415]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331903
+[416]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM379235
+[417]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209250
+[418]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM305410
+[419]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114344
+[420]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114918
+[421]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146496
+[422]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435639
+[423]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366190
+[424]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366793
+[425]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM171847
+[426]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313602
+[427]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM339539
+[428]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM220219
+[429]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM274421
+[430]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM316124
+[431]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM101077
+[432]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209558
+[433]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM201571
+[434]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM166130
+[435]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM191203
+[436]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM391005
+[437]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313185
+[438]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313199
+[439]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313538
+[440]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313715
+[441]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM137077
+[442]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM347495
+[443]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM290957
+[444]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM411352
+[445]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435881
+[446]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM393778
+[447]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM8430
+[448]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM7688
+[449]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998516
+[450]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998515
+[451]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2998532
+[452]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[453]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189082
+[454]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058400
+[455]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1380050
+[456]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410010
