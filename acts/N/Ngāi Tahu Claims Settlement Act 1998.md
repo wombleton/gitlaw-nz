@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -505,7 +505,7 @@ This Act is administered by the Office of Treaty Settlements.
 
 [209][235][][235][Environment Court to have regard to statutory acknowledgements][235]
 
-[210][236][][236][Historic Places Trust and Environment Court to have regard to statutory acknowledgements][236]
+[210][236][][236][Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements][236]
 
 [211][237][][237][Use of statutory acknowledgement with submissions][237]
 
@@ -1612,11 +1612,11 @@ An Act---
     
     U I te 21 o ngā rā o Whitu 1997, ka whakaritea e te Karauna rāua ko Te Rūnanga o Ngāi Tahu te Whakaaetanga-ā-pukapuka mō Ngāi Tahu. Kei roto i taua pukapuka i whāki ai te Karauna mō āna tukino i waimaero ai a Ngāi Tahu ki te whai oranga tinana, oranga wairua, ā, i whakaatu hoki i ngā take e taea ai te whakamana te whakataunga o te katoa o ngā kerēme o Ngāi Tahu mai rā āno.
     
-    ##### Background in English 
+    ##### Background in English
     
     A The Treaty of Waitangi is set out, in Māori and English, in [Schedule 1][560]:
     
-    ##### The threads of time 
+    ##### The threads of time
     
     ###### Transfer of Ngāi Tahu lands
     
@@ -1940,7 +1940,9 @@ Interpretation
     
     _gift date_ has the meaning given to it in [section 14][19]
     
-    _historic reserve_ has the same meaning as in [section 18][693] of the Reserves Act 1977
+    _Heritage New Zealand Pouhere Taonga_ means the Crown entity established by [section 9][693] of the Heritage New Zealand Pouhere Taonga Act 2014
+    
+    _historic reserve_ has the same meaning as in [section 18][694] of the Reserves Act 1977
     
     _historic resources_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
@@ -1984,7 +1986,7 @@ Interpretation
     
     _maimai_ has the meaning given to it in [section 119][133]
     
-    _Māori freehold land_ has the same meaning as in [section 4][694] of Te Ture Whenua Maori Act 1993
+    _Māori freehold land_ has the same meaning as in [section 4][695] of Te Ture Whenua Maori Act 1993
     
     _Māori land_ has the same meaning as in [section 2][682] of the Reserves Act 1977
     
@@ -1992,9 +1994,9 @@ Interpretation
     
     _marginal strip_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
-    _Māwhera Incorporation_ means the Proprietors of Māwhera constituted as a Māori incorporation pursuant to and subject to Part 4 of the Maori Affairs Amendment Act 1967 by [clause 3(1)][695] of the Māwhera Incorporation Order 1976 and continued pursuant to [section 357][696] of Te Ture Whenua Maori Act 1993
+    _Māwhera Incorporation_ means the Proprietors of Māwhera constituted as a Māori incorporation pursuant to and subject to Part 4 of the Maori Affairs Amendment Act 1967 by [clause 3(1)][696] of the Māwhera Incorporation Order 1976 and continued pursuant to [section 357][697] of Te Ture Whenua Maori Act 1993
     
-    _memorials_ means resumptive memorials imposed on land under the [State-Owned Enterprises Act 1986][697], the [Education Act 1989][698], or the [New Zealand Railways Corporation Restructuring Act 1990][699]
+    _memorials_ means resumptive memorials imposed on land under the [State-Owned Enterprises Act 1986][698], the [Education Act 1989][699], or the [New Zealand Railways Corporation Restructuring Act 1990][700]
     
     _Minister_,---
         
@@ -2002,25 +2004,25 @@ Interpretation
     
     *   (b) for the purposes of [Part 15][516], means the Minister in Charge of Treaty of Waitangi Negotiations
     
-    _mixed ownership model company_ has the same meaning as in [section 45P][700] of the Public Finance Act 1989
+    _mixed ownership model company_ has the same meaning as in [section 45P][701] of the Public Finance Act 1989
     
     _Mount Cook National Park_ means the Mount Cook National Park established under the [National Parks Act 1980][687]
     
-    _national park_ has the same meaning as in [section 2][701] of the National Parks Act 1980
+    _national park_ has the same meaning as in [section 2][702] of the National Parks Act 1980
     
-    _national park management plan_ means a management plan as defined in [section 2][701] of the National Parks Act 1980
+    _national park management plan_ means a management plan as defined in [section 2][702] of the National Parks Act 1980
     
     _native game birds_, for the purposes of [sections 278 to 280][313], has the meaning given to it in [section 277][312]
     
     _natural resources_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
-    _nature reserve_ has the same meaning as in [section 20][702] of the Reserves Act 1977
+    _nature reserve_ has the same meaning as in [section 20][703] of the Reserves Act 1977
     
     _New Zealand Conservation Authority_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
     _New Zealand Fish and Game Council_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
-    _New Zealand fisheries waters_ has the same meaning as in [section 2][703] of the Fisheries Act 1996
+    _New Zealand fisheries waters_ has the same meaning as in [section 2][704] of the Fisheries Act 1996
     
     _Ngā Whenua Rāhui kawenata_ has the same meaning as in [section 2][682] of the Reserves Act 1977
     
@@ -2072,13 +2074,13 @@ Interpretation
     
     _original beneficiaries_ has the meaning given to it in [section 446][518]
     
-    _Papatipu Rūnanga_ means the Papatipu Rūnanga of Ngāi Tahu Whānui referred to in [section 9][704] of Te Runanga o Ngai Tahu Act 1996
+    _Papatipu Rūnanga_ means the Papatipu Rūnanga of Ngāi Tahu Whānui referred to in [section 9][705] of Te Runanga o Ngai Tahu Act 1996
     
     _protection_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
     _protocol_ has the meaning given to it in [section 281][317]
     
-    _public valuer_ has the same meaning as in [section 2][705] of the Valuers Act 1948
+    _public valuer_ has the same meaning as in [section 2][706] of the Valuers Act 1948
     
     _QMA_ has the meaning given to it in [section 297][335]
     
@@ -2090,13 +2092,13 @@ Interpretation
     
     _Rakiura Tītī Committee_ has the meaning given to it in [section 333][378]
     
-    _recording officer_ has the same meaning as in [regulation 2][706] of the Maori Assembled Owners Regulations 1995
+    _recording officer_ has the same meaning as in [regulation 2][707] of the Maori Assembled Owners Regulations 1995
     
     _recovery plan_ has the meaning given to it in [section 287][324]
     
-    _recreation reserve_ has the same meaning as in [section 17][707] of the Reserves Act 1977
+    _recreation reserve_ has the same meaning as in [section 17][708] of the Reserves Act 1977
     
-    _Registrar_ means, in respect of a settlement property, the person holding office as Registrar-General of Land under [section 4][708] of the Land Transfer Act 1952
+    _Registrar_ means, in respect of a settlement property, the person holding office as Registrar-General of Land under [section 4][709] of the Land Transfer Act 1952
     
     _relevant land_, for the purposes of [Part 9][57], has the meaning given to it in [section 48][59]
     
@@ -2108,9 +2110,9 @@ Interpretation
     
     _river_, for the purposes of [sections 206 to 222][232] and [Schedules 14 to 77][573], has the meaning given to it in [section 205][231]
     
-    _scenic reserve_ has the same meaning as in [section 19][709] of the Reserves Act 1977
+    _scenic reserve_ has the same meaning as in [section 19][710] of the Reserves Act 1977
     
-    _scientific reserve_ has the same meaning as in [section 21][710] of the Reserves Act 1977
+    _scientific reserve_ has the same meaning as in [section 21][711] of the Reserves Act 1977
     
     _settlement_ means the settlement to be effected pursuant to the deed of settlement and this Act
     
@@ -2140,7 +2142,7 @@ Interpretation
     
     _specified settlement property_ has the meaning given to it in [section 469][549]
     
-    _State enterprise_ has the same meaning as in [section 2][711] of the State-Owned Enterprises Act 1986
+    _State enterprise_ has the same meaning as in [section 2][712] of the State-Owned Enterprises Act 1986
     
     _station areas_ has the meaning given to it in [section 102][114]
     
@@ -2156,13 +2158,13 @@ Interpretation
     
     _successors_, for the purposes of [Part 14][383], has the meaning given to it in [section 339][385]
     
-    _takiwā of Ngāi Tahu Whānui_ means the area identified as the takiwā of Ngāi Tahu Whānui in [section 5][712] of Te Runanga o Ngai Tahu Act 1996
+    _takiwā of Ngāi Tahu Whānui_ means the area identified as the takiwā of Ngāi Tahu Whānui in [section 5][713] of Te Runanga o Ngai Tahu Act 1996
     
     _taonga fish species_ has the meaning given to it in [section 297][335]
     
     _taonga species_ has the meaning given to it in [section 287][324]
     
-    _Te Rūnanga o Ngāi Tahu_ means Te Rūnanga o Ngāi Tahu established by [section 6][713] of Te Runanga o Ngai Tahu Act 1996
+    _Te Rūnanga o Ngāi Tahu_ means Te Rūnanga o Ngāi Tahu established by [section 6][714] of Te Runanga o Ngai Tahu Act 1996
     
     _threatened species_ has the meaning given to it in [section 287][324]
     
@@ -2188,15 +2190,17 @@ Interpretation
     
     _wetland_, for the purposes of [sections 206 to 222][232] and [Schedules 14 to 77][573], has the meaning given to it in [section 205][231]
     
-    _wildlife_ has the same meaning as in [section 2][714] of the Wildlife Act 1953
+    _wildlife_ has the same meaning as in [section 2][715] of the Wildlife Act 1953
     
     _working day_ has the meaning given to it in [section 48][59].
     
-    Section 8 **Crown body**: amended, on 30 June 2012, by [section 11][715] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 8 **Crown body**: amended, on 30 June 2012, by [section 11][716] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
     Section 8 **District Land Registrar**: repealed, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
-    Section 8 **mixed ownership model company**: inserted, on 30 June 2012, by [section 11][715] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 8 **Heritage New Zealand Pouhere Taonga**: inserted, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 8 **mixed ownership model company**: inserted, on 30 June 2012, by [section 11][716] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
     Section 8 **Registrar**: inserted, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
@@ -2204,7 +2208,7 @@ Interpretation
     
 *   (1) For the purposes of this Act and any other enactment, unless the context otherwise requires, _Ngāi Tahu_ and _Ngāi Tahu Whānui_ each means the collective of individuals who descend from the primary hapū of Waitaha, Ngāti Mamoe, and Ngāi Tahu, namely Kāti Kurī, Kāti Irakehu, Kāti Huirapa, Ngāi Tuahuriri, and Kai Te Ruahikihiki.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][716]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][718]_.
 
 ##### 10 Meaning of Ngāi Tahu claims
     
@@ -2260,7 +2264,7 @@ Interpretation
 
 ##### 11 Maori Reserved Land Act 1955
     
-*   Nothing in this Act or in the deed of settlement prevents any Ngāi Tahu claimant from receiving redress under the [Maori Reserved Land Act 1955][717] or other legislation which addresses the grievances intended to be addressed by that Act.
+*   Nothing in this Act or in the deed of settlement prevents any Ngāi Tahu claimant from receiving redress under the [Maori Reserved Land Act 1955][719] or other legislation which addresses the grievances intended to be addressed by that Act.
 
 ##### 12 Parts of speech and grammatical forms
     
@@ -2295,7 +2299,7 @@ Aoraki/Mount Cook
     
     (2) The Governor-General, by Order in Council made on the recommendation of the Prime Minister, must vest the fee simple estate in Aoraki/Mount Cook in Te Rūnanga o Ngāi Tahu on the vesting date.
     
-    (3) An Order in Council made pursuant to subsection (2) takes effect notwithstanding anything in the [National Parks Act 1980][687], [section 11][718] and [Part 10][719] of the Resource Management Act 1991, or any other enactment.
+    (3) An Order in Council made pursuant to subsection (2) takes effect notwithstanding anything in the [National Parks Act 1980][687], [section 11][720] and [Part 10][721] of the Resource Management Act 1991, or any other enactment.
 
 ##### 16 Gift of Aoraki/Mount Cook by Te Rūnanga o Ngāi Tahu
     
@@ -2311,7 +2315,7 @@ Aoraki/Mount Cook
     
 *   Aoraki/Mount Cook is and remains part of the Mount Cook National Park, and every regulation, lease, licence, and other instrument in effect immediately before the vesting date in respect of the Mount Cook National Park under the [National Parks Act 1980][687] or any other enactment has uninterrupted effect, on and from the vesting date as if Aoraki/Mount Cook had remained Crown land at all times, notwithstanding---
         
-    *   (a) [section 7(1)(a)][720] of the National Parks Act 1980 and any other enactment; and
+    *   (a) [section 7(1)(a)][722] of the National Parks Act 1980 and any other enactment; and
     
     *   (b) the vesting referred to in [section 15][20]; and
     
@@ -2344,27 +2348,27 @@ Transfer and vesting of settlement properties
     
     *   (d) sign any memorandum of transfer or lease, or any other document, or do any other thing for the purposes of any such purchase, acquisition, lease, or transfer.
     
-    (2) Except as expressly provided otherwise in, or by operation of, this Act, [section 40][721] of the Public Works Act 1981 (but not [sections 41][722] and [42][723] of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property pursuant to subsection (1)(c).
+    (2) Except as expressly provided otherwise in, or by operation of, this Act, [section 40][723] of the Public Works Act 1981 (but not [sections 41][724] and [42][725] of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property pursuant to subsection (1)(c).
     
     (3) Except as expressly provided otherwise in, or by operation of, this Act, nothing in subsection (1) limits---
         
     *   (a) subsections (4) and (5); or
     
-    *   (b) [sections 10][724] and [11][725] of the Crown Minerals Act 1991; or
+    *   (b) [sections 10][726] and [11][727] of the Crown Minerals Act 1991; or
     
     *   (c) any other reservation made by any enactment or statutory instrument; or
     
     *   (d) any other enactment which must be complied with before any disposal.
     
-    (4) Notwithstanding [section 40][721] of the Public Works Act 1981, the chief executive is not required by that section to offer to sell to a Crown body any settlement property acquired from that Crown body pursuant to [section 21][27]; but this subsection does not limit any obligation of that chief executive under that section or any other enactment to offer to sell such a settlement property to any other person.
+    (4) Notwithstanding [section 40][723] of the Public Works Act 1981, the chief executive is not required by that section to offer to sell to a Crown body any settlement property acquired from that Crown body pursuant to [section 21][27]; but this subsection does not limit any obligation of that chief executive under that section or any other enactment to offer to sell such a settlement property to any other person.
     
-    (5) Nothing in the [Land Act 1948][726] applies to any settlement property that is to be transferred from a Crown body to another Crown body or to a Ngāi Tahu recipient, or vested in a Ngāi Tahu recipient, for the purposes of giving effect to the deed of settlement.
+    (5) Nothing in the [Land Act 1948][728] applies to any settlement property that is to be transferred from a Crown body to another Crown body or to a Ngāi Tahu recipient, or vested in a Ngāi Tahu recipient, for the purposes of giving effect to the deed of settlement.
     
-    (6) Nothing in the [Land Act 1948][726] restricts the period for which a lease may be granted pursuant to subsection (1)(b).
+    (6) Nothing in the [Land Act 1948][728] restricts the period for which a lease may be granted pursuant to subsection (1)(b).
     
-    (7) The permission of a council (within the meaning of [Part 21][727] of the Local Government Act 1974) is not required for the laying out, or forming of, any private road or private way, or for the granting or reserving of a right of way over any private way, required for the purposes of, or incidental to, the deed of settlement.
+    (7) The permission of a council (within the meaning of [Part 21][729] of the Local Government Act 1974) is not required for the laying out, or forming of, any private road or private way, or for the granting or reserving of a right of way over any private way, required for the purposes of, or incidental to, the deed of settlement.
     
-    (8) [Sections 24][728] and [25][729] of the Reserves Act 1977 do not apply to a revocation of a reserve which is a settlement property to give effect to the deed of settlement.
+    (8) [Sections 24][730] and [25][731] of the Reserves Act 1977 do not apply to a revocation of a reserve which is a settlement property to give effect to the deed of settlement.
     
     (9) Except as expressly provided in this Act, where the reservation of land as a reserve is revoked by this Act, the land vests in the Crown.
     
@@ -2380,19 +2384,19 @@ Transfer and vesting of settlement properties
 
 ##### 21 Power of the Crown to acquire property compulsorily for purpose of settlement
     
-*   (1) Where the Crown is obliged by the deed of settlement to transfer to a Ngāi Tahu recipient, or where this Act provides for the vesting in a Ngāi Tahu recipient of, a settlement property to which this section applies, the Minister of the Crown for the time being responsible for the administration of the [Land Act 1948][726] may, after consultation with---
+*   (1) Where the Crown is obliged by the deed of settlement to transfer to a Ngāi Tahu recipient, or where this Act provides for the vesting in a Ngāi Tahu recipient of, a settlement property to which this section applies, the Minister of the Crown for the time being responsible for the administration of the [Land Act 1948][728] may, after consultation with---
         
     *   (a) any Minister of the Crown for the time being responsible for a Crown body which is the owner of the settlement property; and
     
     *   (b) any Minister of the Crown who is a shareholder of such a body,---
     
-    acquire the property pursuant to [Part 2][730] of the Public Works Act 1981 as if the property were land required for both government work and a public work, and Parts 2, [4][731], [5][732], [6][733], and [7][734] and [Schedules 1][735], [3][736], [4][737], and [5][738] of that Act, subject to the modifications set out in [Schedule 3][562] and to all other necessary modifications, apply accordingly.
+    acquire the property pursuant to [Part 2][732] of the Public Works Act 1981 as if the property were land required for both government work and a public work, and Parts 2, [4][733], [5][734], [6][735], and [7][736] and [Schedules 1][737], [3][738], [4][739], and [5][740] of that Act, subject to the modifications set out in [Schedule 3][562] and to all other necessary modifications, apply accordingly.
     
     (2) The settlement properties to which subsection (1) applies are the properties of a Crown body.
     
-    (3) The existence on the certificate of title to any settlement property acquired pursuant to subsection (1) of a memorial pursuant to any of the enactments referred to in [section 463][542] must not be taken into account in any assessment of compensation made pursuant to the [Public Works Act 1981][739] in relation to the acquisition of that settlement property.
+    (3) The existence on the certificate of title to any settlement property acquired pursuant to subsection (1) of a memorial pursuant to any of the enactments referred to in [section 463][542] must not be taken into account in any assessment of compensation made pursuant to the [Public Works Act 1981][741] in relation to the acquisition of that settlement property.
     
-    (4) Where a lease of a settlement property acquired pursuant to subsection (1) has been, or is to be, granted to the body from whom the property is acquired, that lease must be taken into account in any assessment of compensation made pursuant to the [Public Works Act 1981][739] in relation to the acquisition of that settlement property.
+    (4) Where a lease of a settlement property acquired pursuant to subsection (1) has been, or is to be, granted to the body from whom the property is acquired, that lease must be taken into account in any assessment of compensation made pursuant to the [Public Works Act 1981][741] in relation to the acquisition of that settlement property.
     
     (5) In this section, _Crown body_ has the meaning given to it in [section 20(11)][26].
 
@@ -2407,15 +2411,15 @@ Transfer of commercial properties---Subject to deferred selection
     
 *   (1) In this section, _Hagley Nurses Home_ means the property described by that name in [Schedule 4][563].
     
-    (2) Notwithstanding [section 3][740] of the Christchurch Hospital Amendment Act 1928, the Crown may purchase or otherwise acquire, and may transfer to any Ngāi Tahu recipient, the Hagley Nurses Home for the purposes of the deed of settlement and, on such transfer,---
+    (2) Notwithstanding [section 3][742] of the Christchurch Hospital Amendment Act 1928, the Crown may purchase or otherwise acquire, and may transfer to any Ngāi Tahu recipient, the Hagley Nurses Home for the purposes of the deed of settlement and, on such transfer,---
         
     *   (a) that section of that Act is repealed; and
     
     *   (b) the trust created by that section is cancelled; and
     
-    *   (c) the fee simple estate in the Hagley Nurses Home is free of that trust and any other limitation imposed by that Act or the [Christchurch Hospital Act 1887][741].
+    *   (c) the fee simple estate in the Hagley Nurses Home is free of that trust and any other limitation imposed by that Act or the [Christchurch Hospital Act 1887][743].
     
-    (3) On transfer of the Hagley Nurses Home to a Ngāi Tahu recipient pursuant to the deed of settlement and on receipt by the Registrar of a registrable memorandum of transfer, the Registrar must, without fee to the registered proprietor or the Ngāi Tahu recipient, note on the certificate of title to the Hagley Nurses Home, the words ""No longer held in trust for a nurses' home and recreation ground subject to the provisions of [section 3(2)][742] of the Christchurch Hospital Amendment Act 1928\.""
+    (3) On transfer of the Hagley Nurses Home to a Ngāi Tahu recipient pursuant to the deed of settlement and on receipt by the Registrar of a registrable memorandum of transfer, the Registrar must, without fee to the registered proprietor or the Ngāi Tahu recipient, note on the certificate of title to the Hagley Nurses Home, the words ""No longer held in trust for a nurses' home and recreation ground subject to the provisions of [section 3(2)][744] of the Christchurch Hospital Amendment Act 1928\.""
     
     Section 23(3): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
@@ -2425,9 +2429,9 @@ Transfer of commercial properties---Subject to deferred selection
     
     (2) If the Christchurch Court is transferred pursuant to the deed of settlement,---
         
-    *   (a) [Part 4A][743] of the Conservation Act 1987 does not apply to the transfer; and
+    *   (a) [Part 4A][745] of the Conservation Act 1987 does not apply to the transfer; and
     
-    *   (b) the Ngāi Tahu recipient must grant and do all other things necessary to create, in accordance with [section 237B][744] of the Resource Management Act 1991, an easement for an access strip over that part of Christchurch Court marked ""Proposed ROW on Foot in Gross in favour of CCC"" on Deed Map C8\.
+    *   (b) the Ngāi Tahu recipient must grant and do all other things necessary to create, in accordance with [section 237B][746] of the Resource Management Act 1991, an easement for an access strip over that part of Christchurch Court marked ""Proposed ROW on Foot in Gross in favour of CCC"" on Deed Map C8\.
     
     
 
@@ -2470,9 +2474,9 @@ Transfer of farm assets
     
     _Fiordland National Park_ means the Fiordland National Park established under the [National Parks Act 1980][687]
     
-    _Site A_ means the land in the Southland Land District comprising 54.3800 hectares, more or less, being part Fiordland National Park situated in Block X, Te Anau Survey District, being part of the land described in the [Fiordland National Park Order 1978][745] and marked ""A"" on SO 11756
+    _Site A_ means the land in the Southland Land District comprising 54.3800 hectares, more or less, being part Fiordland National Park situated in Block X, Te Anau Survey District, being part of the land described in the [Fiordland National Park Order 1978][747] and marked ""A"" on SO 11756
     
-    _Site B_ means the land in the Southland Land District comprising 9.2380 hectares, more or less, being part Fiordland National Park situated in Block IV, Te Anau Survey District, being part of the land described in the [Fiordland National Park Order 1978][745] and marked ""A"" on SO 11190\.
+    _Site B_ means the land in the Southland Land District comprising 9.2380 hectares, more or less, being part Fiordland National Park situated in Block IV, Te Anau Survey District, being part of the land described in the [Fiordland National Park Order 1978][747] and marked ""A"" on SO 11190\.
 
 ##### 30 Land excluded from Fiordland National Park
     
@@ -2523,7 +2527,7 @@ Transfer of forestry assets
 
 ##### 33 Certain transfers and grants not subdivisions
     
-*   Nothing in [section 11][718] and [Part 10][719] of the Resource Management Act 1991 applies to---
+*   Nothing in [section 11][720] and [Part 10][721] of the Resource Management Act 1991 applies to---
         
     *   (a) a transfer of forestry assets pursuant to section 7 of the deed of settlement; or
     
@@ -2533,19 +2537,19 @@ Transfer of forestry assets
 
 ##### 34 Transfer of Crown forest land to Ngāi Tahu recipient
     
-*   (1) In this section, _Crown Forestry Rental Trust Deed_ means the trust deed made on 30 April 1990 establishing a forestry rental trust pursuant to [section 34][746] of the Crown Forest Assets Act 1989\.
+*   (1) In this section, _Crown Forestry Rental Trust Deed_ means the trust deed made on 30 April 1990 establishing a forestry rental trust pursuant to [section 34][748] of the Crown Forest Assets Act 1989\.
     
-    (2) Crown forest land that is not licensed land and that is to be transferred to a Ngāi Tahu recipient pursuant to clause 7.3.13 of the deed of settlement is deemed to be licensed land for the purposes of [section 8HB][747] of the Treaty of Waitangi Act 1975\.
+    (2) Crown forest land that is not licensed land and that is to be transferred to a Ngāi Tahu recipient pursuant to clause 7.3.13 of the deed of settlement is deemed to be licensed land for the purposes of [section 8HB][749] of the Treaty of Waitangi Act 1975\.
     
-    (3) The transfer of Crown forest land pursuant to clause 7.3.13 of the deed of settlement is deemed to have been made pursuant to a final recommendation of the Waitangi Tribunal under [section 8HB(1)(a)][747] of the Treaty of Waitangi Act 1975 for the return of the land to Māori ownership so that, without limiting the effect of that deemed recommendation, the provisions of the Crown Forestry Rental Trust Deed and paragraph 4 of attachment 7.5 of the deed of settlement apply to give effect to section 7 of the deed of settlement.
+    (3) The transfer of Crown forest land pursuant to clause 7.3.13 of the deed of settlement is deemed to have been made pursuant to a final recommendation of the Waitangi Tribunal under [section 8HB(1)(a)][749] of the Treaty of Waitangi Act 1975 for the return of the land to Māori ownership so that, without limiting the effect of that deemed recommendation, the provisions of the Crown Forestry Rental Trust Deed and paragraph 4 of attachment 7.5 of the deed of settlement apply to give effect to section 7 of the deed of settlement.
     
-    (4) [Section 36(1)(b)][748] of the Crown Forest Assets Act 1989 does not apply to the transfer of Crown forest land pursuant to clause 7.3.13 of the deed of settlement.
+    (4) [Section 36(1)(b)][750] of the Crown Forest Assets Act 1989 does not apply to the transfer of Crown forest land pursuant to clause 7.3.13 of the deed of settlement.
     
-    (5) [Section 11(2)][749] of the Crown Forest Assets Act 1989 does not apply to the transfer of trees and improvements to a Ngāi Tahu recipient pursuant to the deed of settlement if the land on which those assets are situated is also transferred to a Ngāi Tahu recipient pursuant to the deed of settlement.
+    (5) [Section 11(2)][751] of the Crown Forest Assets Act 1989 does not apply to the transfer of trees and improvements to a Ngāi Tahu recipient pursuant to the deed of settlement if the land on which those assets are situated is also transferred to a Ngāi Tahu recipient pursuant to the deed of settlement.
 
 ##### 35 Crown forest land not transferred to Te Rūnanga o Ngāi Tahu
     
-*   Licensed land that is an available Crown forestry asset and that is not transferred pursuant to clause 7.3.13 of the deed of settlement is deemed to have been the subject of a final recommendation by the Waitangi Tribunal pursuant to [section 8HB(1)(b)][747] of the Treaty of Waitangi Act 1975 that the land not be liable to return to Māori ownership.
+*   Licensed land that is an available Crown forestry asset and that is not transferred pursuant to clause 7.3.13 of the deed of settlement is deemed to have been the subject of a final recommendation by the Waitangi Tribunal pursuant to [section 8HB(1)(b)][749] of the Treaty of Waitangi Act 1975 that the land not be liable to return to Māori ownership.
 
 ##### 36 Transfer of Aoraki forest land
     
@@ -2569,7 +2573,7 @@ Transfer of forestry assets
     
     (4) If the terms and conditions as determined pursuant to subsection (3) vary from the terms and conditions set out in the [Crown Forest Assets Act 1989][691], the terms and conditions as determined prevail.
     
-    (5) [Sections 18 to 28][750] and [section 34][746] of the Crown Forest Assets Act 1989 do not apply to a Ngāi Tahu Crown forestry licence granted pursuant to subsection (2).
+    (5) [Sections 18 to 28][752] and [section 34][748] of the Crown Forest Assets Act 1989 do not apply to a Ngāi Tahu Crown forestry licence granted pursuant to subsection (2).
     
     (6) The trees and improvements referred to in subsection (1) are to be regarded as assets separate from the land referred to in subsection (1) and capable of separate ownership.
 
@@ -2577,19 +2581,19 @@ Transfer of forestry assets
     
 *   (1) The Crown may sell or dispose of Crown forest land (whether licensed land or not) that is an available Crown forestry asset and that does not become a forestry asset pursuant to clause 7.3.11 of the deed of settlement.
     
-    (2) Subsection (1) applies notwithstanding [sections 35][751] and [37][752] of the Crown Forest Assets Act 1989, but subject to section 8 of the deed of settlement and [Part 9][57].
+    (2) Subsection (1) applies notwithstanding [sections 35][753] and [37][754] of the Crown Forest Assets Act 1989, but subject to section 8 of the deed of settlement and [Part 9][57].
 
 ##### 39 Covenants to complete survey work
     
 *   (1) The Crown may grant covenants, such as those contained in clause 4.3 of Part II of attachment 7.6 of the deed of settlement, for the purpose of facilitating the completion of a survey, deposit of any survey plan, or the adducing of clear title, in relation to a forestry asset that is to be transferred pursuant to the deed of settlement.
     
-    (2) Notwithstanding any enactment or rule of law, a covenant granted pursuant to subsection (1) may be registered with the Registrar pursuant to [section 129A][753] of the Property Law Act 1952 and, whether registered or not, has effect and is enforceable even if the covenant is positive or there is no dominant tenement.
+    (2) Notwithstanding any enactment or rule of law, a covenant granted pursuant to subsection (1) may be registered with the Registrar pursuant to [section 129A][755] of the Property Law Act 1952 and, whether registered or not, has effect and is enforceable even if the covenant is positive or there is no dominant tenement.
     
     Section 39(2): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
 ##### 40 Section 24H(6) of Conservation Act 1987 to apply
     
-*   [Section 24H(6)][754] of the Conservation Act 1987 applies to---
+*   [Section 24H(6)][756] of the Conservation Act 1987 applies to---
         
     *   (a) a Ngāi Tahu recipient in relation to any land and trees acquired from the Crown by that Ngāi Tahu recipient pursuant to the deed of settlement; and
     
@@ -2601,11 +2605,11 @@ Transfer of forestry assets
     
 *   (1) The Minister of Conservation may grant any easements which the Minister is required to grant to enable the Crown to comply with clause 4.7 of attachment 7.6 of the deed of settlement.
     
-    (2) An easement granted pursuant to subsection (1) is enforceable in accordance with its terms, notwithstanding [Part 3B][755] of the Conservation Act 1987\.
+    (2) An easement granted pursuant to subsection (1) is enforceable in accordance with its terms, notwithstanding [Part 3B][757] of the Conservation Act 1987\.
 
 ##### 42 Delegation
     
-*   _Amendment(s) incorporated in the [Act(s)][756]._
+*   _Amendment(s) incorporated in the [Act(s)][758]._
 
 ## Part 8  
 Transfer of assets---General
@@ -2620,7 +2624,7 @@ Transfer of assets---General
 
 ##### 45 Certain dispositions not subdivisions
     
-*   Nothing in [section 11][718] and [Part 10][719] of the Resource Management Act 1991 applies to---
+*   Nothing in [section 11][720] and [Part 10][721] of the Resource Management Act 1991 applies to---
         
     *   (a) the transfer of a commercial settlement property for the purpose of giving effect to the deed of settlement; or
     
@@ -2632,13 +2636,13 @@ Transfer of assets---General
 
 ##### 46 Issue of certificates of title
     
-*   Where the fee simple estate in any commercial settlement property for which no certificate of title has been issued under the [Land Transfer Act 1952][757]---
+*   Where the fee simple estate in any commercial settlement property for which no certificate of title has been issued under the [Land Transfer Act 1952][759]---
         
     *   (a) is vested in, or held by, the Crown; but
     
     *   (b) is to be acquired by, or transferred to, a Ngāi Tahu recipient pursuant to the deed of settlement,---
     
-    then, notwithstanding any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][757] for the fee simple estate in the commercial settlement property in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
+    then, notwithstanding any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][759] for the fee simple estate in the commercial settlement property in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
     
     Section 46: amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
@@ -2697,13 +2701,13 @@ Right of first refusal
         
         *   (iii) to grant a lease of relevant land if the term of the lease (including rights of renewal or extensions, whether in the lease or granted separately) is, or could be, for 50 years or longer; or
         
-        *   (iv) in the case of Landcorp Farming Limited or a company that is wholly-owned by Landcorp Farming Limited, to assign the right to receive any instalments payable under [section 65][758] of the Land Act 1948 in respect of any relevant land; but
+        *   (iv) in the case of Landcorp Farming Limited or a company that is wholly-owned by Landcorp Farming Limited, to assign the right to receive any instalments payable under [section 65][760] of the Land Act 1948 in respect of any relevant land; but
         
         
     
     *   (b) does not include the vesting of a reserve---
             
-        *   (i) under [section 26][759] or [section 26A][760] of the Reserves Act 1977; or
+        *   (i) under [section 26][761] or [section 26A][762] of the Reserves Act 1977; or
         
         *   (ii) under another Act, if---
                 
@@ -2717,9 +2721,9 @@ Right of first refusal
     
     _lease_ includes a concession in the form of a lease, and any right that grants exclusive possession
     
-    _mixed ownership model company_ has the same meaning as in [section 45P][700] of the Public Finance Act 1989
+    _mixed ownership model company_ has the same meaning as in [section 45P][701] of the Public Finance Act 1989
     
-    _public valuer_ has the same meaning as in [section 2][705] of the Valuers Act 1948
+    _public valuer_ has the same meaning as in [section 2][706] of the Valuers Act 1948
     
     _relevant land_ means---
         
@@ -2729,7 +2733,7 @@ Right of first refusal
             
         *   (i) vested in the Crown or held by the Crown under any Act; or
         
-        *   (ii) vested in another person under [section 26][759] or [section 26A][760] of the Reserves Act 1977; or
+        *   (ii) vested in another person under [section 26][761] or [section 26A][762] of the Reserves Act 1977; or
         
         *   (iii) vested in another person under another Act, if---
                 
@@ -2747,7 +2751,7 @@ Right of first refusal
         
         *   (ii) a Crown research institute; or
         
-        *   (iii) an institution established under [Part 14][761] of the Education Act 1989; or
+        *   (iii) an institution established under [Part 14][763] of the Education Act 1989; or
         
         *   (iv) Landcorp Farming Limited or a company that is wholly-owned by Landcorp Farming Limited; or
         
@@ -2781,17 +2785,17 @@ Right of first refusal
     
     (2) For the purposes of this Part, terms of disposal or of a contract or offer to dispose of relevant land are more favourable compared to other terms of disposal or of a contract or offer to dispose of relevant land if, from a purchaser's point of view, the first-mentioned terms of disposal or of the contract or offer to dispose of the relevant land (taken as a whole and including price) are more favourable compared to the second-mentioned terms of disposal or the contract or offer to dispose of the relevant land (taken as a whole and including price).
     
-    Section 48(1) **dispose of relevant land** paragraph (a)(iv): amended, on 12 April 2001, by [clause 4][762] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+    Section 48(1) **dispose of relevant land** paragraph (a)(iv): amended, on 12 April 2001, by [clause 4][764] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
     
-    Section 48(1) **Crown body** paragraph (a): amended, on 30 June 2012, by [section 11][715] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 48(1) **Crown body** paragraph (a): amended, on 30 June 2012, by [section 11][716] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
-    Section 48(1) **mixed ownership model company**: inserted, on 30 June 2012, by [section 11][715] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 48(1) **mixed ownership model company**: inserted, on 30 June 2012, by [section 11][716] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
-    Section 48(1) **relevant land** paragraph (c)(iv): amended, on 12 April 2001, by [clause 4][762] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+    Section 48(1) **relevant land** paragraph (c)(iv): amended, on 12 April 2001, by [clause 4][764] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
     
-    Section 48(1) **relevant land** paragraph (c)(vi): amended, on 1 August 2008, by [section 50(1)][763] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 48(1) **relevant land** paragraph (c)(vi): amended, on 1 August 2008, by [section 50(1)][765] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 48(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][764] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 48(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][766] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 49 Relevant land not to be disposed of except in accordance with this Part
     
@@ -2807,11 +2811,11 @@ Right of first refusal
     
     *   (c) a person who is entitled to receive an offer made pursuant to:
             
-        *   (i) [section 207(4)][765] of the Education Act 1989; or
+        *   (i) [section 207(4)][767] of the Education Act 1989; or
         
-        *   (ii) [section 23(1)][766] or [section 24(4)][767] of the New Zealand Railways Corporation Restructuring Act 1990; or
+        *   (ii) [section 23(1)][768] or [section 24(4)][769] of the New Zealand Railways Corporation Restructuring Act 1990; or
         
-        *   (iii) [section 40][721] of the Public Works Act 1981 or that section as applied by any other Act; or
+        *   (iii) [section 40][723] of the Public Works Act 1981 or that section as applied by any other Act; or
         
         
     
@@ -2829,11 +2833,11 @@ Right of first refusal
     
     *   (g) a person to whom the land is being disposed of pursuant to---
             
-        *   (i) [section 16A][768] of the Conservation Act 1987; or
+        *   (i) [section 16A][770] of the Conservation Act 1987; or
         
-        *   (ii) [section 24E][769] of the Conservation Act 1987; or
+        *   (ii) [section 24E][771] of the Conservation Act 1987; or
         
-        *   (iii) [section 15][770] of the Reserves Act 1977; or
+        *   (iii) [section 15][772] of the Reserves Act 1977; or
         
         *   (iv) an Act of Parliament that---
                 
@@ -2845,33 +2849,33 @@ Right of first refusal
         
         
     
-    *   (h) a person to whom the relevant land is being disposed of pursuant to [section 93(4)][771] of the Land Act 1948; or
+    *   (h) a person to whom the relevant land is being disposed of pursuant to [section 93(4)][773] of the Land Act 1948; or
     
     *   (i) a person who was, prior to the date of disposal, the lessee of the relevant land under a lease granted pursuant to---
             
-        *   (i) [section 66][772] of the Land Act 1948 on or before 21 November 1997; or
+        *   (i) [section 66][774] of the Land Act 1948 on or before 21 November 1997; or
         
-        *   (ii) [section 67][773] of the Land Act 1948 on or before 21 November 1997 and administered by the Commissioner of Crown Lands, being those leases described in [Schedule 6][565]; or
+        *   (ii) [section 67][775] of the Land Act 1948 on or before 21 November 1997 and administered by the Commissioner of Crown Lands, being those leases described in [Schedule 6][565]; or
         
-        *   (iii) [section 93(4)][771] of the Land Act 1948; or
+        *   (iii) [section 93(4)][773] of the Land Act 1948; or
         
         
     
-    *   (j) a trustee of a community trust the object or principal object of which is to provide, or arrange for the provision of, services within the meaning of the [New Zealand Public Health and Disability Act 2000][774]; or
+    *   (j) a trustee of a community trust the object or principal object of which is to provide, or arrange for the provision of, services within the meaning of the [New Zealand Public Health and Disability Act 2000][776]; or
     
     *   (k) a person to whom the land is being disposed of under---
             
-        *   (i) [section 117(3)][775] of the Public Works Act 1981 other than under the words ""may be dealt with as Crown land under the Land Act 1948"" in paragraph (b) of the subsection; or
+        *   (i) [section 117(3)][777] of the Public Works Act 1981 other than under the words ""may be dealt with as Crown land under the Land Act 1948"" in paragraph (b) of the subsection; or
         
-        *   (ii) [section 119(2)(a)][776] of the Public Works Act 1981; or
+        *   (ii) [section 119(2)(a)][778] of the Public Works Act 1981; or
         
         
     
     *   (l) a person to whom the land is being disposed of by way of gift for charitable purposes; or
     
-    *   (m) a person that is a port company (as defined in the [Port Companies Act 1988][777]) to which the relevant land (being land in a coastal marine area) is being disposed of pursuant to [section 355(3)][778] of the Resource Management Act 1991 for purposes essential to the operation of a port.
+    *   (m) a person that is a port company (as defined in the [Port Companies Act 1988][779]) to which the relevant land (being land in a coastal marine area) is being disposed of pursuant to [section 355(3)][780] of the Resource Management Act 1991 for purposes essential to the operation of a port.
     
-    Section 50(j): amended, on 1 January 2001, by [section 111(1)][779] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 50(j): amended, on 1 January 2001, by [section 111(1)][781] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 51 Notice of excepted transactions
     
@@ -2885,7 +2889,7 @@ Right of first refusal
     
     (2) A notice pursuant to subsection (1) must be given,---
         
-    *   (a) in the case of a disposal effected by a licensee paying off the whole of the purchase money under [section 65(7)][758] of the Land Act 1948, on the next working day after the disposal; and
+    *   (a) in the case of a disposal effected by a licensee paying off the whole of the purchase money under [section 65(7)][760] of the Land Act 1948, on the next working day after the disposal; and
     
     *   (b) in all other cases, not later than 10 working days before the disposal.
     
@@ -2923,11 +2927,11 @@ Right of first refusal
     
 *   The giving of a notice pursuant to [section 52][63] does not, of itself, mean that an obligation has arisen pursuant to---
         
-    *   (a) [section 207(4)][765] of the Education Act 1989; or
+    *   (a) [section 207(4)][767] of the Education Act 1989; or
     
-    *   (b) [section 23(1)][766] or [section 24(4)][767] of the New Zealand Railways Corporation Restructuring Act 1990; or
+    *   (b) [section 23(1)][768] or [section 24(4)][769] of the New Zealand Railways Corporation Restructuring Act 1990; or
     
-    *   (c) [section 40][721] of the Public Works Act 1981 or that section as applied by any other enactment.
+    *   (c) [section 40][723] of the Public Works Act 1981 or that section as applied by any other enactment.
     
     
 
@@ -2979,7 +2983,7 @@ Right of first refusal
     
     and that the property should therefore be treated as special land for the purposes of this Part.
     
-    (3) In relation to a proposed assignment of the right to receive any instalments payable pursuant to [section 65][758] of the Land Act 1948, the Crown body or other body concerned may give only a disposal notice and not a special land notice.
+    (3) In relation to a proposed assignment of the right to receive any instalments payable pursuant to [section 65][760] of the Land Act 1948, the Crown body or other body concerned may give only a disposal notice and not a special land notice.
 
 ##### 57 Procedure for determination of special land
     
@@ -3261,11 +3265,11 @@ Right of first refusal
     
     *   (b) the power to govern the financial and operating policies of the new Crown owner for the purpose of obtaining the benefits or the risks, or both, normally associated with ownership
     
-    _holding company_ has the meaning given to it in the [Companies Act 1993][780]
+    _holding company_ has the meaning given to it in the [Companies Act 1993][782]
     
     _new Crown owner_ means a Crown body to which the relevant land has been disposed and to which [section 50(a)][61] applies
     
-    _subsidiary_ has the meaning given to it in the [Companies Act 1993][780].
+    _subsidiary_ has the meaning given to it in the [Companies Act 1993][782].
 
 ##### 88 Change of control of new Crown owner to which relevant land has been transferred
     
@@ -3301,7 +3305,7 @@ Right of first refusal
     
     (10) Te Rūnanga o Ngāi Tahu is deemed to have given its written approval to the act, omission, or arrangement referred to in the definition of change of control in [section 87][98], but the requirements of this Part apply to any disposal or attempted disposal of the acquired land by the new Crown owner.
     
-    (11) If the new Crown owner and Te Rūnanga o Ngāi Tahu cannot agree on all terms and conditions (including price) for the offer given pursuant to subsections (2) or (3) and the matters that are not agreed are referred to arbitration pursuant to subsection 7(a), then the arbitration must be conducted in accordance with the [Arbitration Act 1996][781].
+    (11) If the new Crown owner and Te Rūnanga o Ngāi Tahu cannot agree on all terms and conditions (including price) for the offer given pursuant to subsections (2) or (3) and the matters that are not agreed are referred to arbitration pursuant to subsection 7(a), then the arbitration must be conducted in accordance with the [Arbitration Act 1996][783].
     
     (12) Te Rūnanga o Ngāi Tahu may commence the arbitration referred to in subsection (11) by giving a notice to the new Crown owner.
     
@@ -3478,15 +3482,15 @@ High country stations
     
 *   (1) In this section, _Caples Valley area_ and _Greenstone Valley area_ mean the areas identified by those names on the area plan.
     
-    (2) The covenants included in the deeds of covenant referred to in clause 10.5.1(a) to (e) of the deed of settlement are deemed to have been entered into pursuant to [section 77][782] of the Reserves Act 1977\.
+    (2) The covenants included in the deeds of covenant referred to in clause 10.5.1(a) to (e) of the deed of settlement are deemed to have been entered into pursuant to [section 77][784] of the Reserves Act 1977\.
     
-    (3) The easements referred to in clause 10.5.1(f) and (g) of the deed of settlement are deemed to have been acquired by the Minister of Conservation pursuant to [section 12][783] of the Reserves Act 1977\.
+    (3) The easements referred to in clause 10.5.1(f) and (g) of the deed of settlement are deemed to have been acquired by the Minister of Conservation pursuant to [section 12][785] of the Reserves Act 1977\.
     
     (4) Notwithstanding any enactment or rule of law, the covenants to provide public foot access to and over the Caples Valley area and the Greenstone Valley area provided for in the deeds of covenant referred to in clause 10.5.1(a) and clause 10.5.1(b) of the deed of settlement, are legally effective and enforceable by the Crown.
 
 ##### 105 Transfers and leasebacks
     
-*   (1) The [Land Act 1948][726] and any other enactment governing the transfer of land by the Crown and the entry by the Crown into a lease of land do not apply to any of the following:
+*   (1) The [Land Act 1948][728] and any other enactment governing the transfer of land by the Crown and the entry by the Crown into a lease of land do not apply to any of the following:
         
     *   (a) the transfer of land as required by section 10 of the deed of settlement:
     
@@ -3494,27 +3498,27 @@ High country stations
     
     *   (c) the giving of effect to clause 6 of the deed of gift referred to in clause 10.3 of the deed of settlement.
     
-    (2) For the avoidance of doubt, the following are dispositions of land by the Crown for the purposes of [Part 4A][743] of the Conservation Act 1987:
+    (2) For the avoidance of doubt, the following are dispositions of land by the Crown for the purposes of [Part 4A][745] of the Conservation Act 1987:
         
     *   (a) the transfer of land as required by section 10 of the deed of settlement:
     
     *   (b) the giving of effect to clause 6 of the deed of gift referred to in clause 10.3 of the deed of settlement.
     
-    (3) If no certificate of title has been issued under the [Land Transfer Act 1952][757] for land required to be transferred by section 10 of the deed of settlement, then, notwithstanding any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in the land in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
+    (3) If no certificate of title has been issued under the [Land Transfer Act 1952][759] for land required to be transferred by section 10 of the deed of settlement, then, notwithstanding any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in the land in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
     
     Section 105(3): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
 ##### 106 Subdivisions
     
-*   Nothing in [section 11][718] and [Part 10][719] of the Resource Management Act 1991 applies to anything done for the purposes of section 10 of the deed of settlement.
+*   Nothing in [section 11][720] and [Part 10][721] of the Resource Management Act 1991 applies to anything done for the purposes of section 10 of the deed of settlement.
 
 ##### 107 Leaseback conservation areas
     
-*   (1) On and from the effective date, the Minister of Conservation holds and manages the leaseback conservation areas as conservation areas pursuant to [section 7(2)][784] of the Conservation Act 1987, subject to any lease entered into pursuant to clause 10.7 of the deed of settlement (which is enforceable in accordance with its terms).
+*   (1) On and from the effective date, the Minister of Conservation holds and manages the leaseback conservation areas as conservation areas pursuant to [section 7(2)][786] of the Conservation Act 1987, subject to any lease entered into pursuant to clause 10.7 of the deed of settlement (which is enforceable in accordance with its terms).
     
-    (2) On and from the effective date, the leaseback conservation areas are not rateable under the [Local Government (Rating) Act 2002][785].
+    (2) On and from the effective date, the leaseback conservation areas are not rateable under the [Local Government (Rating) Act 2002][787].
     
-    Section 107(2): substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 107(2): substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 108 Concessions and commercial activities
     
@@ -3524,7 +3528,7 @@ High country stations
         
     *   (a) includes any such activity or provision which has been carried on without a view to making a profit or charging any fee or deriving any other consideration if the terms on which the activity is undertaken or the facilities are provided change so that it is undertaken, or they are provided, with such a view; but---
     
-    *   (b) does not include any activity described in [section 17O(4)][787] of the Conservation Act 1987
+    *   (b) does not include any activity described in [section 17O(4)][789] of the Conservation Act 1987
     
     _Crown commercial activity_ means any activity undertaken by the Crown, or the provision of facilities by the Crown, which is a commercial activity, but does not include any activity or provision of facilities for which a reasonable charge is made by the Crown towards recovery of the reasonable expenses incurred in organising the activity or providing the facilities.
     
@@ -3550,13 +3554,13 @@ High country stations
     
     (9) Te Rūnanga o Ngāi Tahu's fee---
         
-    *   (a) is to be treated as costs to which [section 60B(1)][788] of the Conservation Act 1987 applies; and
+    *   (a) is to be treated as costs to which [section 60B(1)][790] of the Conservation Act 1987 applies; and
     
-    *   (b) must be paid by the applicant as required under [section 60B(1)(c)][788] of that Act; and
+    *   (b) must be paid by the applicant as required under [section 60B(1)(c)][790] of that Act; and
     
-    *   (c) may be recovered by the Director-General in the manner specified in [section 60B(1)(d)][788] of that Act.
+    *   (c) may be recovered by the Director-General in the manner specified in [section 60B(1)(d)][790] of that Act.
     
-    (10) [Part 3B][755] of the Conservation Act 1987 applies to the grant of any concession to which subsection (2) applies, subject to the requirements of this section.
+    (10) [Part 3B][757] of the Conservation Act 1987 applies to the grant of any concession to which subsection (2) applies, subject to the requirements of this section.
 
 ##### 109 Conservation management strategies and conservation management plans
     
@@ -3598,13 +3602,13 @@ High country stations
     
     *   (d) the licence and easement over the area around McKellar Lodge referred to in paragraph 7.3 of attachment 10.20 of the deed of settlement.
     
-    (3) The licences and easements referred to in subsection (2) are enforceable in accordance with their terms, notwithstanding [Part 3B][755] of the Conservation Act 1987\.
+    (3) The licences and easements referred to in subsection (2) are enforceable in accordance with their terms, notwithstanding [Part 3B][757] of the Conservation Act 1987\.
 
 ##### 112 Licences for bridges
     
 *   (1) The Minister of Conservation and the chief executive may grant the licences referred to in clauses 10.9.2 and 10.9.3 of the deed of settlement.
     
-    (2) The licences referred to in subsection (1) are enforceable in accordance with their terms, notwithstanding [Part 3B][755] of the Conservation Act 1987\.
+    (2) The licences referred to in subsection (1) are enforceable in accordance with their terms, notwithstanding [Part 3B][757] of the Conservation Act 1987\.
 
 ##### 113 Stopping of roads in Mararoa Valley Area
     
@@ -3652,7 +3656,7 @@ High country stations
 
 ##### 116 New conservation area
     
-*   On the effective date, the area shown on allocation plan HC 528 (SO 24801 (Otago Land District) and SO 12277 (Southland Land District)) as the conservation area is deemed to be a conservation area held for conservation purposes, pursuant to [section 7][784] of the Conservation Act 1987\.
+*   On the effective date, the area shown on allocation plan HC 528 (SO 24801 (Otago Land District) and SO 12277 (Southland Land District)) as the conservation area is deemed to be a conservation area held for conservation purposes, pursuant to [section 7][786] of the Conservation Act 1987\.
 
 ## Part 11  
 Mahinga kai
@@ -3675,7 +3679,7 @@ Mahinga kai
 
 ##### 120 Tuku Tuku Iwi vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Tuku Tuku Iwi_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Tuku Tuku Iwi_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The reservation of Tuku Tuku Iwi as a reserve is revoked.
     
@@ -3683,71 +3687,71 @@ Mahinga kai
 
 ##### 121 Te Parinui o Whiti vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section and [section 122][137], _Te Parinui o Whiti_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section and [section 122][137], _Te Parinui o Whiti_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Te Parinui o Whiti ceases to be a conservation area.
     
-    (3) The fee simple estate in Te Parinui o Whiti is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Te Parinui o Whiti described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Te Parinui o Whiti is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Te Parinui o Whiti described in [Part A][791] of Schedule 7\.
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 122 Access to Te Parinui o Whiti
     
-*   (1) [Section 129B][790] of the Property Law Act 1952 does not apply to Te Parinui o Whiti.
+*   (1) [Section 129B][792] of the Property Law Act 1952 does not apply to Te Parinui o Whiti.
     
     (2) Neither the Crown nor any other person is obliged to provide or facilitate access for Te Rūnanga o Ngāi Tahu to Te Parinui o Whiti.
 
 ##### 123 Sinclair Wetlands vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Sinclair Wetlands_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Sinclair Wetlands_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The fee simple estate in Sinclair Wetlands is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Sinclair Wetlands described in [Schedule 7][566].
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
     
-    (4) For the purposes of [section 77A][791] of the Reserves Act 1977 only, Sinclair Wetlands is deemed to be Māori land.
+    (4) For the purposes of [section 77A][793] of the Reserves Act 1977 only, Sinclair Wetlands is deemed to be Māori land.
 
 ##### 124 Te Waiomākua vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section and in [section 177][197], _Te Waiomākua_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section and in [section 177][197], _Te Waiomākua_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The reservation of Te Waiomākua as a reserve is revoked.
     
-    (3) The fee simple estate in Te Waiomākua is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Te Waiomākua described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Te Waiomākua is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Te Waiomākua described in [Part A][791] of Schedule 7\.
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 125 Greenpark Huts vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Greenpark Huts_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Greenpark Huts_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Greenpark Huts ceases to be a conservation area.
     
-    (3) The fee simple estate in Greenpark Huts is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Greenpark Huts described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Greenpark Huts is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Greenpark Huts described in [Part A][791] of Schedule 7\.
 
 ##### 126 Motutapu vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Motutapu_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Motutapu_ means the land described by that name in [Part A][791] of Schedule 7\.
     
-    (2) The fee simple estate in Motutapu is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Motutapu described in [Part A][789] of Schedule 7\.
+    (2) The fee simple estate in Motutapu is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Motutapu described in [Part A][791] of Schedule 7\.
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 127 Ōkeina (Okains Bay) vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section and [sections 128 to 130][143], _Ōkeina (Okains Bay)_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section and [sections 128 to 130][143], _Ōkeina (Okains Bay)_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The appointment of Banks Peninsula District Council to control and manage Ōkeina (Okains Bay) as a reserve is revoked.
     
     (3) The reservation of Ōkeina (Okains Bay) as a reserve is revoked.
     
-    (4) The building on Ōkeina (Okains Bay) known as ""Tini Ara Pata"" and the fee simple estate in Ōkeina (Okains Bay) are vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Ōkeina (Okains Bay) described in [Part A][789] of Schedule 7\.
+    (4) The building on Ōkeina (Okains Bay) known as ""Tini Ara Pata"" and the fee simple estate in Ōkeina (Okains Bay) are vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Ōkeina (Okains Bay) described in [Part A][791] of Schedule 7\.
 
 ##### 128 Structures and improvements on Ōkeina (Okains Bay)
     
 *   (1) The ownership of the structures and improvements attached to or on Ōkeina (Okains Bay) is vested in the Banks Peninsula District Council to hold in trust, maintain, and administer for the benefit of the Ōkeina (Okains Bay) community.
     
-    (2) Subsection (1) applies whether or not Ōkeina (Okains Bay) continues to be controlled and managed as if it were a recreation reserve under [section 38][792] of the Reserves Act 1977\.
+    (2) Subsection (1) applies whether or not Ōkeina (Okains Bay) continues to be controlled and managed as if it were a recreation reserve under [section 38][794] of the Reserves Act 1977\.
     
     (3) The Banks Peninsula District Council may replace the structures and improvements on Ōkeina (Okains Bay) if it considers it necessary to do so.
     
@@ -3755,7 +3759,7 @@ Mahinga kai
     
     (5) Notwithstanding subsection (1), the Banks Peninsula District Council may, but is not required to, remove from Ōkeina (Okains Bay) the structures and improvements vested in it by that subsection.
     
-    (6) The Banks Peninsula District Council has rights of unrestricted access onto and over Ōkeina (Okains Bay) to use and maintain the structures and improvements vested in it by subsection (1), whether or not Ōkeina (Okains Bay) continues to be controlled and managed as if it were a recreation reserve under [section 38][792] of the Reserves Act 1977\.
+    (6) The Banks Peninsula District Council has rights of unrestricted access onto and over Ōkeina (Okains Bay) to use and maintain the structures and improvements vested in it by subsection (1), whether or not Ōkeina (Okains Bay) continues to be controlled and managed as if it were a recreation reserve under [section 38][794] of the Reserves Act 1977\.
     
     (7) The vesting of the fee simple estate in Ōkeina (Okains Bay) in Te Rūnanga o Ngāi Tahu by [section 127][142] does not affect---
         
@@ -3769,13 +3773,13 @@ Mahinga kai
 
 ##### 129 Management of Ōkeina (Okains Bay) by Banks Peninsula District Council
     
-*   (1) The agreement of Te Rūnanga o Ngāi Tahu in clause 11.2.9 of the deed of settlement to the Banks Peninsula District Council controlling and managing Ōkeina (Okains Bay) is sufficient for the purposes of [section 38(1)][792] of the Reserves Act 1977\.
+*   (1) The agreement of Te Rūnanga o Ngāi Tahu in clause 11.2.9 of the deed of settlement to the Banks Peninsula District Council controlling and managing Ōkeina (Okains Bay) is sufficient for the purposes of [section 38(1)][794] of the Reserves Act 1977\.
     
-    (2) The approval of the Minister of Conservation to the Banks Peninsula District Council controlling and managing Ōkeina (Okains Bay) is deemed to have been given for the purposes of [section 38(1)][792] of the Reserves Act 1977\.
+    (2) The approval of the Minister of Conservation to the Banks Peninsula District Council controlling and managing Ōkeina (Okains Bay) is deemed to have been given for the purposes of [section 38(1)][794] of the Reserves Act 1977\.
     
-    (3) The management and control by Banks Peninsula District Council of Ōkeina (Okains Bay) as if it were a recreation reserve and in accordance with [section 38][792] of the Reserves Act 1977 is subject to the restrictions, terms, and conditions set out in attachment 11.7 of the deed of settlement (as quoted in [Schedule 8][567]) as if they were approved under section 38(1) of the Reserves Act 1977\.
+    (3) The management and control by Banks Peninsula District Council of Ōkeina (Okains Bay) as if it were a recreation reserve and in accordance with [section 38][794] of the Reserves Act 1977 is subject to the restrictions, terms, and conditions set out in attachment 11.7 of the deed of settlement (as quoted in [Schedule 8][567]) as if they were approved under section 38(1) of the Reserves Act 1977\.
     
-    (4) The quoting in [Schedule 8][567] of the restrictions, terms, and conditions referred to in subsection (3) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions under [section 38(1)][792] of the Reserves Act 1977\.
+    (4) The quoting in [Schedule 8][567] of the restrictions, terms, and conditions referred to in subsection (3) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions under [section 38(1)][794] of the Reserves Act 1977\.
     
     (5) The Banks Peninsula District Council may exempt Ōkeina (Okains Bay) from rates, for so long as it is controlled and managed as if it were a recreation reserve, as contemplated in the restrictions, terms, and conditions referred to in subsection (3).
 
@@ -3787,61 +3791,61 @@ Mahinga kai
 
 ##### 131 South Bay-Kaikōura vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _South Bay-Kaikōura_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _South Bay-Kaikōura_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155],---
         
     *   (a) the reservation of South Bay-Kaikōura as a reserve is revoked; and
     
-    *   (b) the fee simple estate in South Bay-Kaikōura is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to South Bay-Kaikōura described in [Part A][789] of Schedule 7,---
+    *   (b) the fee simple estate in South Bay-Kaikōura is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to South Bay-Kaikōura described in [Part A][791] of Schedule 7,---
     
     on the date determined pursuant to [section 139(2)][155].
 
 ##### 132 The Point-Kaikōura vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _The Point-Kaikōura_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _The Point-Kaikōura_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155],---
         
     *   (a) the reservation of The Point-Kaikōura as a reserve is revoked; and
     
-    *   (b) the fee simple estate in The Point-Kaikōura is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to The Point-Kaikōura described in [Part A][789] of Schedule 7,---
+    *   (b) the fee simple estate in The Point-Kaikōura is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to The Point-Kaikōura described in [Part A][791] of Schedule 7,---
     
     on the date determined pursuant to section 139(2).
 
 ##### 133 Whakamātakiuru (Ellesmere Landing) vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section and in [sections 134][149] and [135][150], _Whakamātakiuru (Ellesmere Landing)_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section and in [sections 134][149] and [135][150], _Whakamātakiuru (Ellesmere Landing)_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155],---
         
     *   (a) the reservation of Whakamātakiuru (Ellesmere Landing) as a reserve (as created by the _Gazette_ 1867, page 201) is revoked; and
     
-    *   (b) the fee simple estate in Whakamātakiuru (Ellesmere Landing) is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Whakamātakiuru (Ellesmere Landing) described in [Part A][789] of Schedule 7,---
+    *   (b) the fee simple estate in Whakamātakiuru (Ellesmere Landing) is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Whakamātakiuru (Ellesmere Landing) described in [Part A][791] of Schedule 7,---
     
     on the date determined pursuant to [section 139(2)][155].
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 134 Certain leases of Whakamātakiuru (Ellesmere Landing) not subdivisions
     
-*   A lease granted pursuant to clause 11.2.14 of the deed of settlement for a term of 20 years or longer (including any rights of renewal) is not a subdivision for the purposes of [section 11][718] and [Part 10][719] of the Resource Management Act 1991\.
+*   A lease granted pursuant to clause 11.2.14 of the deed of settlement for a term of 20 years or longer (including any rights of renewal) is not a subdivision for the purposes of [section 11][720] and [Part 10][721] of the Resource Management Act 1991\.
 
 ##### 135 Road through Whakamātakiuru (Ellesmere Landing) vested in Selwyn District Council
     
-*   The area marked ""proposed road"" in Whakamātakiuru (Ellesmere Landing) on SO 19862 is vested in the Selwyn District Council as a road pursuant to [Part 21][727] of the Local Government Act 1974, to provide public access through Whakamātakiuru (Ellesmere Landing).
+*   The area marked ""proposed road"" in Whakamātakiuru (Ellesmere Landing) on SO 19862 is vested in the Selwyn District Council as a road pursuant to [Part 21][729] of the Local Government Act 1974, to provide public access through Whakamātakiuru (Ellesmere Landing).
 
 ##### 136 Matariki vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Matariki_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Matariki_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155], the fee simple estate in Matariki is vested in Te Rūnanga o Ngāi Tahu on the date determined pursuant to section 139(2).
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 137 Taramea (Howells Point) vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Taramea (Howells Point)_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Taramea (Howells Point)_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155],---
         
@@ -3849,13 +3853,13 @@ Mahinga kai
     
     *   (b) the reservation of Taramea (Howells Point) as a reserve is revoked; and
     
-    *   (c) the fee simple estate in Taramea (Howells Point) is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Taramea (Howells Point) described in [Part A][789] of Schedule 7,---
+    *   (c) the fee simple estate in Taramea (Howells Point) is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Taramea (Howells Point) described in [Part A][791] of Schedule 7,---
     
     on the date determined pursuant to section 139(2).
     
-    (3) The agreement of Te Rūnanga o Ngāi Tahu in clause 11.2.23 of the deed of settlement to the control and management of Taramea (Howells Point) as contemplated in clause 11.2.23 of the deed of settlement is sufficient for the purposes of [section 38(2)][792] of the Reserves Act 1977\.
+    (3) The agreement of Te Rūnanga o Ngāi Tahu in clause 11.2.23 of the deed of settlement to the control and management of Taramea (Howells Point) as contemplated in clause 11.2.23 of the deed of settlement is sufficient for the purposes of [section 38(2)][794] of the Reserves Act 1977\.
     
-    (4) The approval of the Minister of Conservation to the control and management of Taramea (Howells Point) as contemplated in clause 11.2.23 of the deed of settlement is deemed to have been given for the purposes of [section 38(2)][792] of the Reserves Act 1977\.
+    (4) The approval of the Minister of Conservation to the control and management of Taramea (Howells Point) as contemplated in clause 11.2.23 of the deed of settlement is deemed to have been given for the purposes of [section 38(2)][794] of the Reserves Act 1977\.
 
 #### Tribal properties
 
@@ -3879,13 +3883,13 @@ Mahinga kai
     
     *   (f) Whakamātakiuru (Ellesmere Landing),---
     
-    being the properties described by those names in [Part A][789] of Schedule 7; and
+    being the properties described by those names in [Part A][791] of Schedule 7; and
         
     *   (g) Ōaro:
     
     *   (h) Waipapa Point,---
     
-    being the properties described by those names in [Part B][793] of Schedule 7\.
+    being the properties described by those names in [Part B][795] of Schedule 7\.
     
     (2) An amount equal to the transfer value of the tribal property (or, if clause 11.2.29 of the deed of settlement applies, a sum calculated in accordance with paragraph (a) of that clause) must be paid by Te Rūnanga o Ngāi Tahu to the Crown no later than 5 business days after the settlement date.
 
@@ -3915,51 +3919,51 @@ Mahinga kai
 
 ##### 140 South Bay/Kaikōura Peninsula vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _South Bay/Kaikōura Peninsula_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _South Bay/Kaikōura Peninsula_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) Except as provided in [section 139(1)][155],---
         
     *   (a) the reservation of South Bay/Kaikōura Peninsula as a reserve is revoked; and
     
-    *   (b) the fee simple estate in South Bay/Kaikōura Peninsula is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to South Bay/Kaikōura Peninsula described in [Part A][789] of Schedule 7,---
+    *   (b) the fee simple estate in South Bay/Kaikōura Peninsula is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to South Bay/Kaikōura Peninsula described in [Part A][791] of Schedule 7,---
     
     on the date determined pursuant to section 139(2).
 
 ##### 141 Moturata vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Moturata_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Moturata_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The reservation of Moturata as a reserve is revoked.
     
-    (3) The fee simple estate in Moturata is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Moturata described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Moturata is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Moturata described in [Part A][791] of Schedule 7\.
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 142 Huriawa vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Huriawa_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Huriawa_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The reservation of Huriawa as a reserve is revoked.
     
-    (3) The fee simple estate in Huriawa is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Huriawa described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Huriawa is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Huriawa described in [Part A][791] of Schedule 7\.
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 143 Māpoutahi vested in Te Rūnanga o Ngāi Tahu
     
-*   (1) In this section, _Māpoutahi_ means the land described by that name in [Part A][789] of Schedule 7\.
+*   (1) In this section, _Māpoutahi_ means the land described by that name in [Part A][791] of Schedule 7\.
     
     (2) The reservation of Māpoutahi as a reserve is revoked.
     
-    (3) The fee simple estate in Māpoutahi is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Māpoutahi described in [Part A][789] of Schedule 7\.
+    (3) The fee simple estate in Māpoutahi is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to Māpoutahi described in [Part A][791] of Schedule 7\.
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (3) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 144 Noting on titles
     
 *   As soon as reasonably practicable after land referred to in [sections 140 to 143][157] has been declared by notice in the _Gazette_ to be protected private land and upon lodgment by the Minister of Conservation with the Registrar of the _Gazette_ notice, the Registrar must make a notation upon each certificate of title to that land, to record---
         
-    *   (a) that the land is declared to be protected private land under [section 76][794] of the Reserves Act 1977; and
+    *   (a) that the land is declared to be protected private land under [section 76][796] of the Reserves Act 1977; and
     
     *   (b) the date of the relevant agreement entered into pursuant to clause 11.3.6(a) of the deed of settlement.
     
@@ -3969,9 +3973,9 @@ Mahinga kai
     
 *   (1) Te Rūnanga o Ngāi Tahu and the Minister of Conservation may agree in writing to discontinue an agreement entered into pursuant to clause 11.3.6(a) or clause 11.3.6(b) of the deed of settlement.
     
-    (2) If Te Rūnanga o Ngāi Tahu and the Minister of Conservation agree to discontinue an agreement pursuant to subsection (1), the Minister of Conservation must revoke the declaration made under [section 76][794] of the Reserves Act 1977 in respect of that land.
+    (2) If Te Rūnanga o Ngāi Tahu and the Minister of Conservation agree to discontinue an agreement pursuant to subsection (1), the Minister of Conservation must revoke the declaration made under [section 76][796] of the Reserves Act 1977 in respect of that land.
     
-    (3) Notwithstanding anything to the contrary in [section 76][794] of the Reserves Act 1977, a declaration made pursuant to section 76 of that Act in respect of any land referred to in [sections 140 to 143][157] may not be revoked except in accordance with subsections (1) and (2).
+    (3) Notwithstanding anything to the contrary in [section 76][796] of the Reserves Act 1977, a declaration made pursuant to section 76 of that Act in respect of any land referred to in [sections 140 to 143][157] may not be revoked except in accordance with subsections (1) and (2).
     
     (4) If a declaration referred to in subsection (1) is revoked, the Registrar must, on receipt of notification to that effect from the Minister of Conservation, remove the notation required by [section 144][161] from the certificate of title to the land.
     
@@ -3985,15 +3989,15 @@ Mahinga kai
 
 ##### 147 Te Rūnanga o Ngāi Tahu to hold and administer Kahutara
     
-*   (1) In this section, _Kahutara_ means the recreation reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Kahutara_ means the recreation reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Kahutara is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as a recreation reserve.
+    (2) Kahutara is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as a recreation reserve.
     
-    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 148 Te Rūnanga o Ngāi Tahu to hold and administer Ōmihi/Goose Bay
     
-*   (1) In this section, _Ōmihi/Goose Bay_ means the areas described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Ōmihi/Goose Bay_ means the areas described by that name in [Part B][795] of Schedule 7\.
     
     (2) To the extent that Ōmihi/Goose Bay is a conservation area,---
         
@@ -4001,21 +4005,21 @@ Mahinga kai
     
     *   (b) it is deemed to be declared a reserve, and classified as a recreation reserve, pursuant to the [Reserves Act 1977][688].
     
-    (3) Ōmihi/Goose Bay is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as a recreation reserve.
+    (3) Ōmihi/Goose Bay is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as a recreation reserve.
     
-    (4) The vesting by subsection (3) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (4) The vesting by subsection (3) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 149 Te Rūnanga o Ngāi Tahu to hold and administer Ōaro
     
-*   (1) In this section, _Ōaro_ means the recreation reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Ōaro_ means the recreation reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Except as provided in [section 139(1)][155], Ōaro is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as a recreation reserve, on the date determined pursuant to section 139(2).
+    (2) Except as provided in [section 139(1)][155], Ōaro is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as a recreation reserve, on the date determined pursuant to section 139(2).
     
-    (3) The vesting of Ōaro in Te Rūnanga o Ngāi Tahu by subsection (2) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (3) The vesting of Ōaro in Te Rūnanga o Ngāi Tahu by subsection (2) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 150 Creation of historic reserve at Ōtūkoro
     
-*   (1) In this section, _Ōtūkoro_ means the area described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Ōtūkoro_ means the area described by that name in [Part B][795] of Schedule 7\.
     
     (2) Ōtūkoro ceases to be a conservation area.
     
@@ -4023,45 +4027,49 @@ Mahinga kai
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve; and
+    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve; and
     
-    *   (c) named the ""Ōtūkoro Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    *   (c) named the ""Ōtūkoro Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
     
     
 
 ##### 151 Te Rūnanga o Ngāi Tahu to hold and administer Maerewhenua
     
-*   (1) In this section, _Maerewhenua_ means the historic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Maerewhenua_ means the historic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) The appointment of the Historic Places Trust to control and manage Maerewhenua as a reserve is revoked.
+    (2) The appointment of Heritage New Zealand Pouhere Taonga to control and manage Maerewhenua as a reserve is revoked.
     
-    (3) Maerewhenua is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve.
+    (3) Maerewhenua is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve.
+    
+    Section 151(2): amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 152 Te Rūnanga o Ngāi Tahu to hold and administer Takiroa
     
-*   (1) In this section, _Takiroa_ means the historic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Takiroa_ means the historic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) The appointment of the Historic Places Trust to control and manage Takiroa as a reserve is revoked.
+    (2) The appointment of Heritage New Zealand Pouhere Taonga to control and manage Takiroa as a reserve is revoked.
     
-    (3) Takiroa is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve.
+    (3) Takiroa is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve.
+    
+    Section 152(2): amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 153 Te Rūnanga o Ngāi Tahu to hold and administer Kātiki
     
-*   (1) In this section, _Kātiki_ means the historic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Kātiki_ means the historic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Kātiki is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve.
+    (2) Kātiki is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve.
     
-    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 154 Te Rūnanga o Ngāi Tahu to hold and administer Ōnawe Pā
     
-*   (1) In this section, _Ōnawe Pā_ means the historic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Ōnawe Pā_ means the historic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Ōnawe Pā is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve.
+    (2) Ōnawe Pā is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve.
 
 ##### 155 Creation of reserve around Kopuwai
     
-*   (1) In this section, _Kopuwai_ means the area described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Kopuwai_ means the area described by that name in [Part B][795] of Schedule 7\.
     
     (2) If Kopuwai is surrendered to the Crown and held as a conservation area in the manner contemplated in clause 11.4.10 of the deed of settlement, it ceases to be a conservation area.
     
@@ -4069,13 +4077,13 @@ Mahinga kai
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve; and
+    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve; and
     
-    *   (c) named the ""Kopuwai Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    *   (c) named the ""Kopuwai Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
     
     (4) If Kopuwai is vested by subsection (3),---
         
-    *   (a) the vesting is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7; and
+    *   (a) the vesting is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7; and
     
     *   (b) the date on which Kopuwai is vested is the later of the settlement date or the business day following the date on which it is surrendered in accordance with subsection (2).
     
@@ -4085,51 +4093,51 @@ Mahinga kai
     
 *   (1) In this section,---
     
-    _Kawarau Gorge_ means the area described by the name ""Part A: Kawarau Gorge"" in [Part B][793] of Schedule 7
+    _Kawarau Gorge_ means the area described by the name ""Part A: Kawarau Gorge"" in [Part B][795] of Schedule 7
     
-    _road_ means the area described by the name ""Part B: Kawarau Gorge"" in [Part B][793] of Schedule 7\.
+    _road_ means the area described by the name ""Part B: Kawarau Gorge"" in [Part B][795] of Schedule 7\.
     
     (2) On the date referred to in subsection (4),---
         
     *   (a) the road is stopped; and
     
-    *   (b) Kawarau Gorge ceases to be a marginal strip under [section 24][796] of the Conservation Act 1987\.
+    *   (b) Kawarau Gorge ceases to be a marginal strip under [section 24][798] of the Conservation Act 1987\.
     
     (3) Kawarau Gorge and the road are deemed to be---
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve; and
+    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve; and
     
-    *   (c) named the ""Whatatōrere Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    *   (c) named the ""Whatatōrere Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
     
     (4) The date on which Kawarau Gorge and the road are vested by subsection (3) is the later of the settlement date or the date on which a survey has been completed for Kawarau Gorge (which date must be no later than 12 months after the settlement date, or such other date as Te Rūnanga o Ngāi Tahu and the Crown agree in writing).
     
-    (5) The vesting of Kawarau Gorge and the road by subsection (3) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (5) The vesting of Kawarau Gorge and the road by subsection (3) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
     
     (6) As soon as reasonably practicable after the vesting of Kawarau Gorge and the road by subsection (3), the Minister of Conservation must notify the vesting in the _Gazette_.
 
 ##### 157 Te Rūnanga o Ngāi Tahu to hold and administer Waipapa Point
     
-*   (1) In this section, _Waipapa Point_ means the scenic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Waipapa Point_ means the scenic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Except as provided in [section 139(1)][155], Waipapa Point is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as a scenic reserve, on the date determined pursuant to section 139(2).
+    (2) Except as provided in [section 139(1)][155], Waipapa Point is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as a scenic reserve, on the date determined pursuant to section 139(2).
     
-    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (3) The vesting by subsection (2) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 158 Te Rūnanga o Ngāi Tahu to hold and administer Maranuku
     
-*   (1) In this section, _Maranuku_ means the scenic reserve described by that name in [Part B][793] of Schedule 7\.
+*   (1) In this section, _Maranuku_ means the scenic reserve described by that name in [Part B][795] of Schedule 7\.
     
-    (2) Maranuku is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as a scenic reserve.
+    (2) Maranuku is deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as a scenic reserve.
 
 ##### 159 Creation of historic reserve at Moeraki Lake site
     
 *   (1) In this section,---
     
-    _Moeraki Lake site_ means the land described by that name in [Part B][793] of Schedule 7
+    _Moeraki Lake site_ means the land described by that name in [Part B][795] of Schedule 7
     
-    _wildlife refuge_ has the same meaning as in [section 2][714] of the Wildlife Act 1953\.
+    _wildlife refuge_ has the same meaning as in [section 2][715] of the Wildlife Act 1953\.
     
     (2) The status of the Moeraki Lake site as a wildlife refuge is revoked and, to the extent that the Moeraki Lake site is a conservation area, it ceases to be a conservation area.
     
@@ -4137,15 +4145,15 @@ Mahinga kai
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve; and
+    *   (b) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve; and
     
-    *   (c) named the ""Moeraki Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    *   (c) named the ""Moeraki Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
     
-    (4) The vesting of the Moeraki Lake site in Te Rūnanga o Ngāi Tahu by subsection (3) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (4) The vesting of the Moeraki Lake site in Te Rūnanga o Ngāi Tahu by subsection (3) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 160 Creation of reserve at Wairewa
     
-*   (1) In this section, _Wairewa_ means the areas described by that name in [Part B][793] of Schedule 7, but does not include the roads referred to in [section 161(1)][179].
+*   (1) In this section, _Wairewa_ means the areas described by that name in [Part B][795] of Schedule 7, but does not include the roads referred to in [section 161(1)][179].
     
     (2) The reservation of Wairewa as a reserve is revoked and, to the extent that Wairewa is a conservation area, it ceases to be a conservation area.
     
@@ -4153,11 +4161,11 @@ Mahinga kai
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) named the ""Ōruaka Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977; and
+    *   (b) named the ""Ōruaka Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977; and
     
-    *   (c) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve.
+    *   (c) vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve.
     
-    (4) The vesting by subsection (3) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (4) The vesting by subsection (3) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
 
 ##### 161 Addition of roads to Ōruaka Historic Reserve
     
@@ -4177,9 +4185,9 @@ Mahinga kai
     
     (3) The date on which the roads are stopped, declared a reserve, and classified as an historic reserve by subsection (2), is the later of the settlement date or the business day following the date on which the Minister of Conservation notifies the stopping, declaration, and classification of the roads in the _Gazette_ pursuant to subsection (6).
     
-    (4) The roads are deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][759] of the Reserves Act 1977, as part of the Ōruaka Historic Reserve, on the date specified in subsection (3).
+    (4) The roads are deemed to be vested in Te Rūnanga o Ngāi Tahu pursuant to [section 26][761] of the Reserves Act 1977, as part of the Ōruaka Historic Reserve, on the date specified in subsection (3).
     
-    (5) The vesting by subsection (4) is subject to the conditions and restrictions set out in [Part B][793] of Schedule 7\.
+    (5) The vesting by subsection (4) is subject to the conditions and restrictions set out in [Part B][795] of Schedule 7\.
     
     (6) As soon as reasonably practicable after the Banks Peninsula District Council notifies the Minister of Conservation that it agrees to the stopping of the roads by subsection (2)(a), the Minister of Conservation must notify in the _Gazette_---
         
@@ -4197,9 +4205,9 @@ Mahinga kai
     
 *   (1) The name of the Mount Cook National Park is changed to the Aoraki/Mount Cook National Park.
     
-    (2) The change of name by subsection (1) is deemed to have been made pursuant to [section 7(1)(d)][720] of the National Parks Act 1980\.
+    (2) The change of name by subsection (1) is deemed to have been made pursuant to [section 7(1)(d)][722] of the National Parks Act 1980\.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][797]._
+    (3) _Amendment(s) incorporated in the [Act(s)][799]._
 
 ##### 163 Reserves
     
@@ -4223,11 +4231,11 @@ Mahinga kai
     
 *   (1) The classification of the Ōmihi/Goose Bay Scenic Reserve is changed from a scenic reserve to an historic reserve.
     
-    (2) The change of classification by subsection (1) is deemed to have been made pursuant to [section 24][728] of the Reserves Act 1977\.
+    (2) The change of classification by subsection (1) is deemed to have been made pursuant to [section 24][730] of the Reserves Act 1977\.
 
 ##### 165 Change of name of conservation area
     
-*   The name of the Castle Hill Conservation Area is changed to Kura Tāwhiti Conservation Area, notwithstanding [section 18(3)][798] of the Conservation Act 1987\.
+*   The name of the Castle Hill Conservation Area is changed to Kura Tāwhiti Conservation Area, notwithstanding [section 18(3)][800] of the Conservation Act 1987\.
 
 ##### 166 Change of name of certain reserves
     
@@ -4241,7 +4249,7 @@ Mahinga kai
     
     (5) The name of the Wilsher Bay Scenic Reserve is changed to Maranuku Scenic Reserve.
     
-    (6) The changes of name by this section are deemed to have been made pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    (6) The changes of name by this section are deemed to have been made pursuant to [section 16(10)][797] of the Reserves Act 1977\.
 
 #### Vesting of bed of Te Waihora
 
@@ -4261,7 +4269,7 @@ Mahinga kai
     
     (2) The fee simple estate in the bed of Te Waihora is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to the bed of Te Waihora described in [Schedule 10][569], and to all other matters agreed pursuant to the deed of settlement.
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 169 Road vested in Selwyn District Council
     
@@ -4289,7 +4297,7 @@ Mahinga kai
     
     (5) If the fee simple estate in the Selwyn Delta river protection reserve is vested in Te Rūnanga o Ngāi Tahu by subsection (2),---
         
-    *   (a) it is to be treated as being included in the definition of bed of Te Waihora in [section 167][799]; and
+    *   (a) it is to be treated as being included in the definition of bed of Te Waihora in [section 167][801]; and
     
     *   (b) all of the terms of vesting of the fee simple estate in the bed of Te Waihora set out in [sections 167 to 182][187] apply to the vesting of the fee simple estate in the Selwyn Delta river protection reserve in Te Rūnanga o Ngāi Tahu.
     
@@ -4309,7 +4317,7 @@ Mahinga kai
 
 ##### 172 Registrar to issue certificates of title for bed of Te Waihora
     
-*   (1) The Registrar must issue a certificate of title for the bed of Te Waihora under the [Land Transfer Act 1952][757], in accordance with [Part 17][547], as soon as reasonably practicable, (and, in any event, no later than 2 years after the vesting of the bed of Te Waihora in Te Rūnanga o Ngāi Tahu by [section 168][188], or such later date as may be agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
+*   (1) The Registrar must issue a certificate of title for the bed of Te Waihora under the [Land Transfer Act 1952][759], in accordance with [Part 17][547], as soon as reasonably practicable, (and, in any event, no later than 2 years after the vesting of the bed of Te Waihora in Te Rūnanga o Ngāi Tahu by [section 168][188], or such later date as may be agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
     
     (2) The Registrar must note on the certificate of title all encumbrances and other matters that are agreed pursuant to the deed of settlement.
     
@@ -4357,7 +4365,7 @@ Mahinga kai
         
     *   (a) the bed of Te Waihora, and Te Waiomākua; and
     
-    *   (b) the areas described in [Schedule 11][570], so long as they are held, managed, or administered under the [Conservation Act 1987][686] or under any of the statutes listed in [Schedule 1][800] of the Conservation Act 1987; and
+    *   (b) the areas described in [Schedule 11][570], so long as they are held, managed, or administered under the [Conservation Act 1987][686] or under any of the statutes listed in [Schedule 1][802] of the Conservation Act 1987; and
     
     *   (c) any other areas within 500 metres of the bed of Te Waihora (or such other distance as may be agreed in writing by the Minister of Conservation and Te Rūnanga o Ngāi Tahu) which may be held, managed, or administered under the Conservation Act 1987 or under any of the statutes listed in Schedule 1 of the Conservation Act 1987 (excluding any such areas that are held and managed under that Act or any of those statutes by Fish and Game Councils) for so long as they are so held, managed, or administered; and
     
@@ -4369,7 +4377,7 @@ Mahinga kai
 
 ##### 178 Application of Conservation Act 1987
     
-*   (1) [Sections 17A(b)][801], [17W(7), and 17W(8)][802] of the Conservation Act 1987 apply with respect to the areas referred to in [section 177(2)(b) and (c)][197] as if the reference to ""conservation management plans"" in those sections were a reference to a joint management plan.
+*   (1) [Sections 17A(b)][803], [17W(7), and 17W(8)][804] of the Conservation Act 1987 apply with respect to the areas referred to in [section 177(2)(b) and (c)][197] as if the reference to ""conservation management plans"" in those sections were a reference to a joint management plan.
     
     (2) Subsection (1) does not apply if a joint management plan is not prepared and approved in accordance with clause 11.6.19 of the deed of settlement.
 
@@ -4377,7 +4385,7 @@ Mahinga kai
     
 *   Nothing in a joint management plan derogates from,---
         
-    *   (a) with respect to the areas referred to in [section 177(2)(b) and (c)][197], any provision of, or policy approved under, the [Conservation Act 1987][686], or any of the statutes listed in [Schedule 1][800] of the Conservation Act 1987, or any provision of the relevant conservation management strategy; and
+    *   (a) with respect to the areas referred to in [section 177(2)(b) and (c)][197], any provision of, or policy approved under, the [Conservation Act 1987][686], or any of the statutes listed in [Schedule 1][802] of the Conservation Act 1987, or any provision of the relevant conservation management strategy; and
     
     *   (b) with respect to the areas referred to in [section 177(2)(a)][197], any relevant iwi management plan approved by Te Rūnanga o Ngāi Tahu which relates to that area; and
     
@@ -4423,7 +4431,7 @@ Mahinga kai
     
     *   (f) providing for such matters as are contemplated by, or necessary for giving full effect to, any bylaws made pursuant to this provision, and their due administration.
     
-    (4) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Te Waihora for the purposes of the [Trespass Act 1980][803].
+    (4) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Te Waihora for the purposes of the [Trespass Act 1980][805].
 
 #### Vesting of bed of Muriwai (Coopers Lagoon)
 
@@ -4437,7 +4445,7 @@ Mahinga kai
     
     (2) The fee simple estate in the bed of Muriwai (Coopers Lagoon) is vested in Te Rūnanga o Ngāi Tahu, subject to the encumbrances relating to the bed of Muriwai (Coopers Lagoon) described in [Schedule 10][569], and to all other matters agreed pursuant to the deed of settlement.
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 185 Title extends to bed only
     
@@ -4453,7 +4461,7 @@ Mahinga kai
 
 ##### 186 Registrar to issue certificate of title for bed of Muriwai (Coopers Lagoon)
     
-*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][757], in accordance with [Part 17][547], as soon as reasonably practicable (and, in any event, no later than 2 years after the vesting of the bed of Muriwai (Coopers Lagoon) in Te Rūnanga o Ngāi Tahu by [section 184][205], or such other date as may be agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
+*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][759], in accordance with [Part 17][547], as soon as reasonably practicable (and, in any event, no later than 2 years after the vesting of the bed of Muriwai (Coopers Lagoon) in Te Rūnanga o Ngāi Tahu by [section 184][205], or such other date as may be agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
     
     (2) The Registrar must note on the certificate of title all encumbrances and other matters that are agreed pursuant to the deed of settlement.
     
@@ -4499,7 +4507,7 @@ Mahinga kai
     
     *   (c) the Minister of Conservation must consider any submissions received on the draft bylaws.
     
-    (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Muriwai (Coopers Lagoon) for the purposes of the [Trespass Act 1980][803].
+    (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Muriwai (Coopers Lagoon) for the purposes of the [Trespass Act 1980][805].
     
     (6) If Te Rūnanga o Ngāi Tahu and the Crown agree pursuant to [section 177(2)(e)][197] that the bed of Muriwai (Coopers Lagoon) is to be an area managed pursuant to a joint management plan, [section 182][202] will apply to the bed of Muriwai (Coopers Lagoon), and this section will not apply for so long as it is so managed.
 
@@ -4545,7 +4553,7 @@ Mahinga kai
 
 ##### 194 Registrar to issue certificates of title for bed of Lake Mahināpua
     
-*   (1) The Registrar must issue a certificate of title for the bed of Lake Mahināpua under the [Land Transfer Act 1952][757], in accordance with [Part 17][547], as soon as reasonably practicable (and, in any event, no later than 12 months after the vesting of the bed of Lake Mahināpua in Te Rūnanga o Ngāi Tahu by [section 192][214], unless otherwise agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
+*   (1) The Registrar must issue a certificate of title for the bed of Lake Mahināpua under the [Land Transfer Act 1952][759], in accordance with [Part 17][547], as soon as reasonably practicable (and, in any event, no later than 12 months after the vesting of the bed of Lake Mahināpua in Te Rūnanga o Ngāi Tahu by [section 192][214], unless otherwise agreed in writing by the Crown and Te Rūnanga o Ngāi Tahu).
     
     (2) The Registrar must note on the certificate of title all encumbrances and other matters that are agreed pursuant to the deed of settlement.
     
@@ -4591,7 +4599,7 @@ Mahinga kai
     
     *   (c) the Minister of Conservation must consider any submissions received on the draft bylaws.
     
-    (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Lake Mahināpua for the purposes of the [Trespass Act 1980][803].
+    (5) For the avoidance of doubt, Te Rūnanga o Ngāi Tahu is an occupier of the bed of Lake Mahināpua for the purposes of the [Trespass Act 1980][805].
 
 ##### 197 Existing lawful commercial use and structures
     
@@ -4613,21 +4621,21 @@ Mahinga kai
     
 *   The following areas are sites for the purposes of [sections 230 to 234][259]:
         
-    *   (a) the areas described in [Schedule 13][572] so long as they are held, managed, or administered under the [Conservation Act 1987][686] or under any of the statutes listed in [Schedule 1][800] of the Conservation Act 1987; and
+    *   (a) the areas described in [Schedule 13][572] so long as they are held, managed, or administered under the [Conservation Act 1987][686] or under any of the statutes listed in [Schedule 1][802] of the Conservation Act 1987; and
     
-    *   (b) any other areas within 500 metres of the bed of Lake Mahināpua (or such other distance as may be agreed in writing by the Minister of Conservation and Te Rūnanga o Ngāi Tahu) which may be held, managed, or administered under the Conservation Act 1987 or under any of the statutes listed in [Schedule 1][800] of the Conservation Act 1987 (excluding any such areas held, managed, or administered under that Act or any of those statutes by Fish and Game Councils) so long as they are so held, managed, or administered.
+    *   (b) any other areas within 500 metres of the bed of Lake Mahināpua (or such other distance as may be agreed in writing by the Minister of Conservation and Te Rūnanga o Ngāi Tahu) which may be held, managed, or administered under the Conservation Act 1987 or under any of the statutes listed in [Schedule 1][802] of the Conservation Act 1987 (excluding any such areas held, managed, or administered under that Act or any of those statutes by Fish and Game Councils) so long as they are so held, managed, or administered.
     
     
 
 ##### 200 Legal access to bed of Lake Mahināpua
     
-*   On the settlement date, or as soon as reasonably practicable thereafter, the Crown must grant an easement in the form set out in attachment 11.40 of the deed of settlement, in favour of the registered proprietor of the bed of Lake Mahināpua, over the recreation reserve land adjacent to the bed of Lake Mahināpua, notwithstanding [section 59A][804] of the Reserves Act 1977 and [Part 3B][755] of the Conservation Act 1987\.
+*   On the settlement date, or as soon as reasonably practicable thereafter, the Crown must grant an easement in the form set out in attachment 11.40 of the deed of settlement, in favour of the registered proprietor of the bed of Lake Mahināpua, over the recreation reserve land adjacent to the bed of Lake Mahināpua, notwithstanding [section 59A][806] of the Reserves Act 1977 and [Part 3B][757] of the Conservation Act 1987\.
 
 #### Lease of Te Waihora sites
 
 ##### 201 Grant of leases
     
-*   (1) In this section, _Pakoau_ and _Waikirikiri_ mean the land described respectively by those names in [Part C][805] of Schedule 7\.
+*   (1) In this section, _Pakoau_ and _Waikirikiri_ mean the land described respectively by those names in [Part C][807] of Schedule 7\.
     
     (2) On the settlement date, the Crown, acting through the Minister of Conservation, must grant leases to Te Rūnanga o Ngāi Tahu of---
         
@@ -4637,7 +4645,7 @@ Mahinga kai
     
     in the forms set out in attachments 11.41 and 11.42 of the deed of settlement.
     
-    (3) The leases granted by subsection (2) are deemed to be concessions granted pursuant to and in compliance with [Part 3B][755] of the Conservation Act 1987\.
+    (3) The leases granted by subsection (2) are deemed to be concessions granted pursuant to and in compliance with [Part 3B][757] of the Conservation Act 1987\.
 
 ## Part 12  
 Mahinga kai
@@ -4684,13 +4692,13 @@ Mahinga kai
         
         *   (ii) with respect to a lake not controlled by artificial means, any land which the waters of the lake do not cover at its highest level without exceeding its margin; or
         
-        *   (iii) with respect to a lake controlled by artificial means, any land which the waters of the lake do not cover at its maximum operating level as prescribed from time to time by any resource consent or rule of a regional plan or proposed plan within the meaning of the [Resource Management Act 1991][806]; or
+        *   (iii) with respect to a lake controlled by artificial means, any land which the waters of the lake do not cover at its maximum operating level as prescribed from time to time by any resource consent or rule of a regional plan or proposed plan within the meaning of the [Resource Management Act 1991][808]; or
         
         *   (iv) any river or watercourse, artificial or otherwise, draining into or out of a lake
         
         
     
-    _resource consent_ has the same meaning as in [section 87][807] of the Resource Management Act 1991
+    _resource consent_ has the same meaning as in [section 87][809] of the Resource Management Act 1991
     
     _river_---
         
@@ -4754,35 +4762,45 @@ Mahinga kai
     
     *   (b) providing for Te Rūnanga o Ngāi Tahu to waive its rights to be notified pursuant to such regulations.
     
-    (2) Nothing in any regulations made pursuant to this section will in any way affect the discretion of a consent authority as to whether or not to notify any application pursuant to [sections 93 to 94C][808] of the Resource Management Act 1991, and whether or not Te Rūnanga o Ngāi Tahu may be adversely affected under those sections.
+    (2) Nothing in any regulations made pursuant to this section will in any way affect the discretion of a consent authority as to whether or not to notify any application pursuant to [sections 93 to 94C][810] of the Resource Management Act 1991, and whether or not Te Rūnanga o Ngāi Tahu may be adversely affected under those sections.
     
-    Section 207(2): amended, on 1 August 2003, by [section 105(1)(a)][809] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 207(2): amended, on 1 August 2003, by [section 105(1)(a)][811] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 207(2): amended, on 1 August 2003, by [section 105(1)(b)][809] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 207(2): amended, on 1 August 2003, by [section 105(1)(b)][811] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 208 Local authorities must have regard to statutory acknowledgements
     
-*   From the effective date, and without derogating from its obligations under [Part 2][810] of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion in accordance with [sections 93 to 94C][808] of that Act as to whether Te Rūnanga o Ngāi Tahu is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the statutory area.
+*   From the effective date, and without derogating from its obligations under [Part 2][812] of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion in accordance with [sections 93 to 94C][810] of that Act as to whether Te Rūnanga o Ngāi Tahu is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the statutory area.
     
-    Section 208: substituted, on 1 August 2003, by [section 105(2)][809] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 208: substituted, on 1 August 2003, by [section 105(2)][811] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 209 Environment Court to have regard to statutory acknowledgements
     
-*   From the effective date, and without derogating from its obligations under [Part 2][810] of the Resource Management Act 1991, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining, pursuant to [section 274][811] of the Resource Management Act 1991, whether Te Rūnanga o Ngāi Tahu is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+*   From the effective date, and without derogating from its obligations under [Part 2][812] of the Resource Management Act 1991, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining, pursuant to [section 274][813] of the Resource Management Act 1991, whether Te Rūnanga o Ngāi Tahu is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 
-##### 210 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
+##### 210 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
     
-*   (1) In this section, _archaeological site_ has the same meaning as in [section 2][812] of the Historic Places Act 1993\.
+*   (1) If, on or after the effective date, an application is made under [section 44][814], [56][815], or [61][816] of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,---
+        
+    *   (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under [section 48][817], [56][815], or [62][818] of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
     
-    (2) From the effective date, the Historic Places Trust or the Environment Court (as the case may be) must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion pursuant to [section 14][19], and for the purpose of [section 20(1)][813], of the Historic Places Act 1993, as to whether Te Rūnanga o Ngāi Tahu is a person directly affected in relation to an archaeological site within the statutory area.
+    *   (b) the Environment Court, in determining under [section 59(1)][819] or [64(1)][820] of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether Te Rūnanga o Ngāi Tahu is a person directly affected by the decision.
+    
+    (2) In this section, _archaeological site_ has the meaning given in [section 6][821] of the Heritage New Zealand Pouhere Taonga Act 2014\.
+    
+    Section 210: replaced, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 211 Use of statutory acknowledgement with submissions
     
-*   (1) Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui may cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on a statutory area as evidence of Ngāi Tahu's association with the statutory area.
+*   (1) Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui may cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on a statutory area as evidence of Ngāi Tahu's association with the statutory area.
     
-    (2) For the avoidance of doubt, the content of the association, as recorded in a statutory acknowledgement, is not by virtue of the statutory acknowledgement binding as deemed fact upon consent authorities, the Environment Court, the Historic Places Trust, parties to proceedings before those bodies, or any other person able to participate in those proceedings, but the statutory acknowledgement may be taken into account by them.
+    (2) For the avoidance of doubt, the content of the association, as recorded in a statutory acknowledgement, is not by virtue of the statutory acknowledgement binding as deemed fact upon consent authorities, the Environment Court, Heritage New Zealand Pouhere Taonga, parties to proceedings before those bodies, or any other person able to participate in those proceedings, but the statutory acknowledgement may be taken into account by them.
     
     (3) Neither Te Rūnanga o Ngāi Tahu nor any member of Ngāi Tahu Whānui is precluded from stating that Ngāi Tahu has any association with the statutory area not described in the relevant statutory acknowledgement, nor does the content or existence of the statutory acknowledgement derogate from any such statement.
+    
+    Section 211(1): amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 211(2): amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 212 Authorisation to enter into deeds of recognition
     
@@ -4808,13 +4826,13 @@ Mahinga kai
         
     *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu, as required by regulations made pursuant to [section 207][233]; and
     
-    *   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to the statutory acknowledgements in relation to the statutory areas, as provided in [sections 208 to 210][234]; and
+    *   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to the statutory acknowledgements in relation to the statutory areas, as provided in [sections 208 to 210][234]; and
     
     *   (c) to empower the Minister of the Crown responsible for management of the statutory areas, or the Commissioner of Crown Lands, as the case may be, to enter into deeds of recognition, as provided in [section 212][238]; and
     
     *   (d) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite statutory acknowledgements as evidence of the association of Ngāi Tahu to the statutory areas, as provided in [section 211][237].
     
-    
+    Section 215(b): amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 216 Purposes of deeds of recognition
     
@@ -4840,15 +4858,15 @@ Mahinga kai
 
 ##### 220 Recording of statutory acknowledgements on statutory plans
     
-*   (1) Local authorities within the Ngāi Tahu claim area must attach to all regional policy statements, district plans, and regional plans (including proposed plans and proposed policy statements) from time to time prepared pursuant to the [Resource Management Act 1991][806], information recording all statutory acknowledgements affecting statutory areas covered wholly or partly by such policy statements or plans, either by way of reference to this Part or by setting out the statutory acknowledgements in full.
+*   (1) Local authorities within the Ngāi Tahu claim area must attach to all regional policy statements, district plans, and regional plans (including proposed plans and proposed policy statements) from time to time prepared pursuant to the [Resource Management Act 1991][808], information recording all statutory acknowledgements affecting statutory areas covered wholly or partly by such policy statements or plans, either by way of reference to this Part or by setting out the statutory acknowledgements in full.
     
-    (2) The attachment of information to any policy statement or plan pursuant to subsection (1) is for the purpose of public information only and the information is neither part of the plan (unless adopted by the relevant regional council or district council) nor subject to the provisions of [Schedule 1][814] of the Resource Management Act 1991\.
+    (2) The attachment of information to any policy statement or plan pursuant to subsection (1) is for the purpose of public information only and the information is neither part of the plan (unless adopted by the relevant regional council or district council) nor subject to the provisions of [Schedule 1][822] of the Resource Management Act 1991\.
 
 ##### 221 Pikirakatahi (Mount Earnslaw)
     
 *   (1) If any part of the area included in pastoral lease CL 338/105 (Otago Land District) on 21 November 1997 is ever surrendered to the Crown, then such part of that area as---
         
-    *   (a) is held under the [Conservation Act 1987][686] or under a statute listed in [Schedule 1][800] of the Conservation Act 1987; and
+    *   (a) is held under the [Conservation Act 1987][686] or under a statute listed in [Schedule 1][802] of the Conservation Act 1987; and
     
     *   (b) is identified using similar processes to those used before the date of the deed of settlement by Te Rūnanga o Ngāi Tahu and the Crown for identification of statutory areas which are mountains; and
     
@@ -4870,35 +4888,35 @@ Mahinga kai
     
 *   \[Repealed\]
     
-    Section 223: repealed, on 1 August 2003, by [section 96][815] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 223: repealed, on 1 August 2003, by [section 96][823] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 224 Application not requiring notification
     
 *   \[Repealed\]
     
-    Section 224: repealed, on 1 August 2003, by [section 96][815] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 224: repealed, on 1 August 2003, by [section 96][823] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 225 Representation at proceedings
     
-*   _Amendment(s) incorporated in the [Act(s)][811]._
+*   _Amendment(s) incorporated in the [Act(s)][813]._
 
 ##### 226 New Schedule 11 inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][806]._
+*   _Amendment(s) incorporated in the [Act(s)][808]._
 
 #### Amendments to Historic Places Act 1993
 
 ##### 227 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][812]._
+*   _Amendment(s) incorporated in the [Act(s)][824]._
 
 ##### 228 Powers of Trust in relation to authority application
     
-*   _Amendment(s) incorporated in the [Act(s)][816]._
+*   _Amendment(s) incorporated in the [Act(s)][825]._
 
 ##### 229 Rights of appeal
     
-*   _Amendment(s) incorporated in the [Act(s)][813]._
+*   _Amendment(s) incorporated in the [Act(s)][826]._
 
 #### Te Rūnanga o Ngāi Tahu to be statutory adviser
 
@@ -4936,7 +4954,7 @@ Mahinga kai
     
 *   (1) If any part of the area presently included in pastoral lease CL 338/105 (Otago Land District) on 21 November 1997 is ever surrendered to the Crown and becomes a conservation area and managed by the Department of Conservation, then such part of that area as---
         
-    *   (a) is held under the [Conservation Act 1987][686] or under a statute listed in [Schedule 1][800] of the Conservation Act 1987; and
+    *   (a) is held under the [Conservation Act 1987][686] or under a statute listed in [Schedule 1][802] of the Conservation Act 1987; and
     
     *   (b) is identified using similar processes to those used before the date of the deed of settlement by Te Rūnanga o Ngāi Tahu and the Crown for the identification of sites which are mountains; and
     
@@ -4994,7 +5012,7 @@ Mahinga kai
     
 *   (1) The Tōpuni declared by [section 238][268] must be identified and described in the relevant conservation management strategies, conservation management plans, and national park management plans.
     
-    (2) The initial identification and description of the Tōpuni in a conservation management strategy, conservation management plan, or national park management plan is for the purpose of public notice only and is not an amendment to the conservation management strategy, conservation management plan, or national park management plan for the purposes of [section 17I][817] of the Conservation Act 1987 or [section 46][818] of the National Parks Act 1980\.
+    (2) The initial identification and description of the Tōpuni in a conservation management strategy, conservation management plan, or national park management plan is for the purpose of public notice only and is not an amendment to the conservation management strategy, conservation management plan, or national park management plan for the purposes of [section 17I][827] of the Conservation Act 1987 or [section 46][828] of the National Parks Act 1980\.
     
     (3) The declaration of the Tōpuni in [section 238][268] must be notified by the Minister of Conservation in the _Gazette_.
 
@@ -5010,7 +5028,7 @@ Mahinga kai
     
     (5) Without limiting subsection (2), the Director-General may, after consultation with the conservation boards affected, initiate an amendment of any relevant conservation management strategy, conservation management plan, or national park management plan to incorporate objectives relating to the specific principles referred to in [section 240][270], including a recommendation to make bylaws or promulgate regulations.
     
-    (6) Any amendment initiated pursuant to subsection (5) is an amendment for the purposes of [section 17I(1) to (3)][817] of the Conservation Act 1987, or [section 46(1) to (4)][818] of the National Parks Act 1980, as the case may be.
+    (6) Any amendment initiated pursuant to subsection (5) is an amendment for the purposes of [section 17I(1) to (3)][827] of the Conservation Act 1987, or [section 46(1) to (4)][828] of the National Parks Act 1980, as the case may be.
     
     (7) The Director-General may, at his or her discretion, notify in the _Gazette_ any action intended to be taken pursuant to this section.
 
@@ -5084,7 +5102,7 @@ Mahinga kai
     
 *   (1) If any part of the area included in pastoral lease CL 338/105 (Otago Land District) on 21 November 1997 is ever surrendered to the Crown and becomes a conservation area managed by the Department of Conservation, then such part of that area as---
         
-    *   (a) is held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987; and
+    *   (a) is held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987; and
     
     *   (b) is identified using similar processes to those used before the date of the deed of settlement by Te Rūnanga o Ngāi Tahu and the Crown for identification of Tōpuni which are mountains; and
     
@@ -5098,7 +5116,7 @@ Mahinga kai
 
 ##### 254 Pouwhenua
     
-*   (1) Notwithstanding [section 49][819] of the National Parks Act 1980 and [Part 3B][755] of the Conservation Act 1987, but subject to subsection (4), Te Rūnanga o Ngāi Tahu may erect and maintain a pouwhenua within the Tōpuni declared by [section 238][268] in Kahurangi National Park.
+*   (1) Notwithstanding [section 49][829] of the National Parks Act 1980 and [Part 3B][757] of the Conservation Act 1987, but subject to subsection (4), Te Rūnanga o Ngāi Tahu may erect and maintain a pouwhenua within the Tōpuni declared by [section 238][268] in Kahurangi National Park.
     
     (2) Te Rūnanga o Ngāi Tahu has responsibility for the pouwhenua.
     
@@ -5148,17 +5166,17 @@ Mahinga kai
     
     (6) Unless terminated pursuant to [section 265][297], the nohoanga entitlements must be renewed for further terms of 10 years.
     
-    (7) [Section 11][718] and [Part 10][719] of the Resource Management Act 1991 do not apply to the granting of a nohoanga entitlement.
+    (7) [Section 11][720] and [Part 10][721] of the Resource Management Act 1991 do not apply to the granting of a nohoanga entitlement.
     
-    (8) [Part 3B][755] of the Conservation Act 1987 does not apply to the granting of a nohoanga entitlement.
+    (8) [Part 3B][757] of the Conservation Act 1987 does not apply to the granting of a nohoanga entitlement.
     
     (9) The grant of a nohoanga entitlement pursuant to subsection (4) must be notified by the land holding agent in the _Gazette_.
     
     (10) The Surveyor-General must note the grant of a nohoanga entitlement pursuant to subsection (4), and the notice in the _Gazette_ published pursuant to subsection (9), in his or her records.
     
-    Section 256(4): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 256(4): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 256(10): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 256(10): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 257 Vesting of entitlement land
     
@@ -5204,7 +5222,7 @@ Mahinga kai
     
     (5) The giving of consent by a land holding agent pursuant to subsection (4) is completely at the land holding agent's discretion and subject to such conditions as the land holding agent thinks fit.
     
-    (6) Where entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (4),---
+    (6) Where entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (4),---
         
     *   (a) require an environmental impact report in relation to the proposed activities and an audit of that report at the holder's expense; and
     
@@ -5212,13 +5230,13 @@ Mahinga kai
     
     (7) When applying for a consent pursuant to subsection (4), the holder must provide to the land holding agent details of the proposed activities, including but not limited to,---
         
-    *   (a) the effect of the activities on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, on the surrounding land and upon any wildlife; and
+    *   (a) the effect of the activities on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, on the surrounding land and upon any wildlife; and
     
     *   (b) any proposed measures by the holder to avoid, remedy, or mitigate any adverse effects.
     
     (8) If the Crown has complied with its obligations pursuant to the nohoanga entitlement, it is not obliged to compensate the holder for any activities undertaken by the holder pursuant to subsection (4), whether on termination of the nohoanga entitlement or at any other time.
     
-    (9) [Part 3B][755] of the Conservation Act 1987 does not apply to this section.
+    (9) [Part 3B][757] of the Conservation Act 1987 does not apply to this section.
 
 ##### 260 Obligations related to nohoanga entitlements
     
@@ -5282,23 +5300,23 @@ Mahinga kai
     
     *   (c) in accordance with a plan that meets standards agreed from time to time by the land holding agent and the Surveyor-General.
     
-    Section 261(a): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 261(a): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 262 Section 44 of Reserves Act 1977 not to apply
     
-*   [Section 44][821] of the Reserves Act 1977 does not apply to nohoanga entitlements which are granted over land held under that Act.
+*   [Section 44][831] of the Reserves Act 1977 does not apply to nohoanga entitlements which are granted over land held under that Act.
 
 ##### 263 Rates
     
-*   The grant of a nohoanga entitlement is not a lease, licence, or other agreement for the purposes of note 2 of [Part 1][822] of Schedule 1 of the Local Government (Rating) Act 2002\.
+*   The grant of a nohoanga entitlement is not a lease, licence, or other agreement for the purposes of note 2 of [Part 1][832] of Schedule 1 of the Local Government (Rating) Act 2002\.
     
-    Section 263: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 263: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 264 Targeted rates
     
-*   Te Rūnanga o Ngāi Tahu is liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Rūnanga o Ngāi Tahu is entitled to occupy the entitlement land under [section 259(1)][291].
+*   Te Rūnanga o Ngāi Tahu is liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Rūnanga o Ngāi Tahu is entitled to occupy the entitlement land under [section 259(1)][291].
     
-    Section 264: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 264: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 265 Termination of nohoanga entitlements
     
@@ -5348,17 +5366,17 @@ Mahinga kai
     
 *   (1) Each place name in column 1 of [Schedule 96][655] is amended to the name in column 2 of that schedule.
     
-    (2) The amendments made by subsection (1) are deemed to have been made with the approval of the New Zealand Geographic Board and in accordance with the [New Zealand Geographic Board Act 1946][824].
+    (2) The amendments made by subsection (1) are deemed to have been made with the approval of the New Zealand Geographic Board and in accordance with the [New Zealand Geographic Board Act 1946][834].
 
 ##### 270 Encouragement of use of original Māori place names
     
 *   \[Repealed\]
     
-    Section 270: repealed, on 1 November 2008, by [section 38][825] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 270: repealed, on 1 November 2008, by [section 38][835] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
 
 ##### 271 Reinstatement of name of Kaiapoi Pā
     
-*   _Amendment(s) incorporated in the [Act(s)][826]_.
+*   _Amendment(s) incorporated in the [Act(s)][836]_.
 
 #### Appointments to statutory boards
 
@@ -5366,29 +5384,29 @@ Mahinga kai
     
 *   (1) _Amendment(s) incorporated in the [Act(s)][686]._
     
-    (2) The person to be appointed pursuant to [section 6D(1)(ca)][827] of the Conservation Act 1987 (as inserted by subsection (1)) must be appointed within 6 months after the settlement date.
+    (2) The person to be appointed pursuant to [section 6D(1)(ca)][837] of the Conservation Act 1987 (as inserted by subsection (1)) must be appointed within 6 months after the settlement date.
 
 ##### 273 Membership of Conservation Boards
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][828]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][838]._
     
-    (2) The persons to be appointed pursuant to [section 6P(7B)(a) and (7C)(a)][828] of the Conservation Act 1987 (as inserted by subsection (1)) must be appointed not later than the close of 30 November 1999\.
+    (2) The persons to be appointed pursuant to [section 6P(7B)(a) and (7C)(a)][838] of the Conservation Act 1987 (as inserted by subsection (1)) must be appointed not later than the close of 30 November 1999\.
 
 ##### 274 Guardians of Lakes Manapōuri, Monowai, and Te Anau
     
-*   (1), (2) _Amendment(s) incorporated in the [Act(s)][829]._
+*   (1), (2) _Amendment(s) incorporated in the [Act(s)][839]._
     
-    (3) The person to be appointed on the nomination of Te Rūnanga o Ngāi Tahu pursuant to [section 6X(1A)][829] of the Conservation Act 1987 (as inserted by subsection (2)) must be appointed within 6 months after the settlement date.
+    (3) The person to be appointed on the nomination of Te Rūnanga o Ngāi Tahu pursuant to [section 6X(1A)][839] of the Conservation Act 1987 (as inserted by subsection (2)) must be appointed within 6 months after the settlement date.
 
 ##### 275 Guardians of Lake Wanaka
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][830]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][840]._
     
-    (2) The person to be appointed on the nomination of Te Rūnanga o Ngāi Tahu pursuant to [section 5(1A)][830] of the Lake Wanaka Preservation Act 1973 (as inserted by subsection (1)) must be appointed within 6 months after the settlement date.
+    (2) The person to be appointed on the nomination of Te Rūnanga o Ngāi Tahu pursuant to [section 5(1A)][840] of the Lake Wanaka Preservation Act 1973 (as inserted by subsection (1)) must be appointed within 6 months after the settlement date.
 
 ##### 276 New Zealand Geographic Board
     
-*   _Amendment(s) incorporated in the [Act(s)][831]._
+*   _Amendment(s) incorporated in the [Act(s)][841]._
 
 #### Te Rūnanga o Ngāi Tahu to be adviser to Fish and Game Councils
 
@@ -5460,13 +5478,13 @@ Mahinga kai
     
 *   (1) The existence of protocols, once issued, and as amended from time to time, including the definition of protocols as set out in [section 281][317] and a summary of the terms of issue of protocols, must be noted in conservation management strategies, conservation management plans, and national park management plans affecting the Ngāi Tahu claim area.
     
-    (2) Noting of protocols pursuant to subsection (1) is for the purpose of public notice only and is not an amendment to the relevant strategies or plans for the purposes of [section 17I][817] of the Conservation Act 1987 or [section 46][818] of the National Parks Act 1980\.
+    (2) Noting of protocols pursuant to subsection (1) is for the purpose of public notice only and is not an amendment to the relevant strategies or plans for the purposes of [section 17I][827] of the Conservation Act 1987 or [section 46][828] of the National Parks Act 1980\.
 
 ##### 285 Enforceability of protocols
     
 *   (1) The Minister of Conservation must comply with a protocol as long as it remains in force.
     
-    (2) If the Minister of Conservation fails unreasonably to comply with a protocol, Te Rūnanga o Ngāi Tahu may, subject to the [Crown Proceedings Act 1950][832], enforce the protocol by way of public law action against the Minister of Conservation.
+    (2) If the Minister of Conservation fails unreasonably to comply with a protocol, Te Rūnanga o Ngāi Tahu may, subject to the [Crown Proceedings Act 1950][842], enforce the protocol by way of public law action against the Minister of Conservation.
     
     (3) Notwithstanding subsection (2), damages are not available as a remedy for failure to comply with a protocol.
     
@@ -5474,7 +5492,7 @@ Mahinga kai
 
 ##### 286 Limitation of rights
     
-*   Except as expressly provided in [sections 283 to 285][319] or in a protocol, a protocol does not of itself have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, land held, managed, or administered under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of that Act.
+*   Except as expressly provided in [sections 283 to 285][319] or in a protocol, a protocol does not of itself have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, land held, managed, or administered under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of that Act.
 
 #### Taonga species
 
@@ -5482,7 +5500,7 @@ Mahinga kai
     
 *   In [sections 288 to 296][325],---
     
-    _recovery plan_ means a written statement by the Department of Conservation of its intentions for the conservation of threatened species or endangered species over a defined period, that is intended to provide guidance to the Department of Conservation on the allocation of resources and promote discussion with the public, and includes any plan issued by the Minister of Conservation pursuant to [section 41(1)(e)][833] of the Wildlife Act 1953
+    _recovery plan_ means a written statement by the Department of Conservation of its intentions for the conservation of threatened species or endangered species over a defined period, that is intended to provide guidance to the Department of Conservation on the allocation of resources and promote discussion with the public, and includes any plan issued by the Minister of Conservation pursuant to [section 41(1)(e)][843] of the Wildlife Act 1953
     
     _species recovery group_ means a group of persons appointed for the purpose of making recommendations to the Department of Conservation in relation to a threatened or endangered species including persons with expertise relating to that threatened species from within the Department of Conservation and elsewhere, as well as persons who may be otherwise affected by such recommendations
     
@@ -5526,7 +5544,7 @@ Mahinga kai
             
         *   (i) recommendations to the Governor-General in Council for the promulgation of any regulations under any enactment; or
         
-        *   (ii) the preparation of any plans or publications for the advancement, conservation, management, or control of a taonga species pursuant to [section 41(1)(e)][833] of the Wildlife Act 1953; or
+        *   (ii) the preparation of any plans or publications for the advancement, conservation, management, or control of a taonga species pursuant to [section 41(1)(e)][843] of the Wildlife Act 1953; or
         
         *   (iii) proposals for the transfer of a taonga species into or from the Ngāi Tahu claim area or methods of control or protection of a taonga species.
         
@@ -5544,7 +5562,7 @@ Mahinga kai
             
         *   (i) recommendations to the Minister of Conservation in respect of the promulgation of any regulations under any enactment; or
         
-        *   (ii) the preparation of any plans or publications for the advancement, conservation, management, or control of a taonga species pursuant to [section 41(1)(e)][833] of the Wildlife Act 1953; or
+        *   (ii) the preparation of any plans or publications for the advancement, conservation, management, or control of a taonga species pursuant to [section 41(1)(e)][843] of the Wildlife Act 1953; or
         
         *   (iii) proposals for the transfer of a taonga species into or from the Ngāi Tahu claim area or methods of control or protection of a taonga species; and
         
@@ -5566,9 +5584,9 @@ Mahinga kai
     
     _sale_ has the same meaning as in the [Wildlife Act 1953][689]
     
-    _specimens_ means the dead bodies or any part of the dead bodies of any species of wildlife absolutely protected pursuant to [section 3][834] of the Wildlife Act 1953 or partially protected pursuant to [section 5][835] of that Act.
+    _specimens_ means the dead bodies or any part of the dead bodies of any species of wildlife absolutely protected pursuant to [section 3][844] of the Wildlife Act 1953 or partially protected pursuant to [section 5][845] of that Act.
     
-    (2) Notwithstanding anything to the contrary contained or implied in the [Wildlife Act 1953][689] or the [Wildlife Regulations 1955][836], members of Ngāi Tahu Whānui may lawfully have specimens in their possession.
+    (2) Notwithstanding anything to the contrary contained or implied in the [Wildlife Act 1953][689] or the [Wildlife Regulations 1955][846], members of Ngāi Tahu Whānui may lawfully have specimens in their possession.
     
     (3) Possession of specimens may be transferred between members of Ngāi Tahu Whānui by way of gift, bequest, or other non-commercial transfer but specimens may not be transferred by way of sale, whether to other members of Ngāi Tahu Whānui or to any other person or entity.
     
@@ -5584,25 +5602,25 @@ Mahinga kai
     
     _freshwater fish_ has the same meaning as in [section 2][683] of the Conservation Act 1987
     
-    _individual transferable quota_ has the same meaning as in [section 2][837] of the Fisheries Act 1996
+    _individual transferable quota_ has the same meaning as in [section 2][847] of the Fisheries Act 1996
     
     _non-commercially harvested species_ means the species listed in [section 306(1)][344]
     
-    _QMA_ means a quota management area as defined in [section 2][838] of the Fisheries Act 1983 and [section 2][839] of the Fisheries Act 1996
+    _QMA_ means a quota management area as defined in [section 2][848] of the Fisheries Act 1983 and [section 2][849] of the Fisheries Act 1996
     
-    _QMS_ means a quota management system as defined in [section 2][838] of the Fisheries Act 1983 and [section 2][840] of the Fisheries Act 1996
+    _QMS_ means a quota management system as defined in [section 2][848] of the Fisheries Act 1983 and [section 2][850] of the Fisheries Act 1996
     
     _quota_ means the amount of the Shellfish Species TACC for which Te Rūnanga o Ngāi Tahu has a right of first refusal pursuant to [section 307][345]
     
-    _Shellfish Species_ means the species listed in [Part B][793] of Schedule 98
+    _Shellfish Species_ means the species listed in [Part B][795] of Schedule 98
     
-    _Shellfish Species TACC_ means the total allowable commercial catch for Shellfish Species which have been made subject to the QMS allocated to the Crown pursuant to [section 49(3)][841] of the Fisheries Act 1996
+    _Shellfish Species TACC_ means the total allowable commercial catch for Shellfish Species which have been made subject to the QMS allocated to the Crown pursuant to [section 49(3)][851] of the Fisheries Act 1996
     
     _South Island fisheries waters_ means the area shown on Allocation Plan NT 506 (SO 19902)
     
     _taonga fish species_ means the species listed in [Part A][657] of Schedule 98
     
-    _total allowable commercial catch_ means the total allowable commercial catch set by the Minister of Fisheries pursuant to [sections 20][842] and [21][843] of the Fisheries Act 1996 in respect of the QMA relating to each quota management stock.
+    _total allowable commercial catch_ means the total allowable commercial catch set by the Minister of Fisheries pursuant to [sections 20][852] and [21][853] of the Fisheries Act 1996 in respect of the QMA relating to each quota management stock.
 
 ##### 298 Special association with taonga fish species acknowledged
     
@@ -5636,7 +5654,7 @@ Mahinga kai
         
     *   (a) consult with Te Rūnanga o Ngāi Tahu in its capacity as an advisory committee appointed pursuant to clause 12.14.7 of the deed of settlement; and
     
-    *   (b) recognise and provide for the association of Ngāi Tahu with the taonga fish species, consistent with the overall objectives of the [Fisheries Act 1983][844] and the [Fisheries Act 1996][845].
+    *   (b) recognise and provide for the association of Ngāi Tahu with the taonga fish species, consistent with the overall objectives of the [Fisheries Act 1983][854] and the [Fisheries Act 1996][855].
     
     (2) Subsection (1) applies only to the extent that the Minister of Fisheries is responsible for the taonga fish species.
 
@@ -5644,11 +5662,11 @@ Mahinga kai
     
 *   (1) The Crown having acknowledged the special association of Ngāi Tahu to the taonga fish species in [section 298][336], the Minister of Conservation must, in all matters concerning the management and conservation by the Department of Conservation of taonga fish species within the Ngāi Tahu claim area, consult with, and have particular regard to the advice of, Te Rūnanga o Ngāi Tahu in its capacity as an advisory committee appointed pursuant to clause 12.14.9 of the deed of settlement.
     
-    (2) Subsection (1) does not derogate from the obligations of the Minister of Conservation under [section 4][846] of the Conservation Act 1987 to give effect to the principles of the [Treaty of Waitangi][847].
+    (2) Subsection (1) does not derogate from the obligations of the Minister of Conservation under [section 4][856] of the Conservation Act 1987 to give effect to the principles of the [Treaty of Waitangi][857].
 
 ##### 305 Amendments to Conservation Act 1987 regarding Māori fishing rights
     
-*   _Amendment(s) incorporated in the [Act(s)][848]._
+*   _Amendment(s) incorporated in the [Act(s)][858]._
 
 ##### 306 Non-commercially harvested species
     
@@ -5668,11 +5686,11 @@ Mahinga kai
     
     *   (g) Waikōura (Freshwater crayfish---_Paranephrops_ spp).
     
-    (2) _Amendment(s) incorporated in the [regulations][849]_.
+    (2) _Amendment(s) incorporated in the [regulations][859]_.
     
-    (3) _Amendment(s) incorporated in the [regulations][850]_.
+    (3) _Amendment(s) incorporated in the [regulations][860]_.
     
-    (4) _Amendment(s) incorporated in the [regulations][851]_.
+    (4) _Amendment(s) incorporated in the [regulations][861]_.
 
 ##### 307 Right of first refusal to purchase quota
     
@@ -5682,7 +5700,7 @@ Mahinga kai
         
     *   (a) 40% of the total allowable commercial catch for the Shellfish Species in respect of any QMA in the Ngāi Tahu claim area:
     
-    *   (b) the quantity of quota allocated to the Crown pursuant to [section 49(3)][841] of the Fisheries Act 1996 in respect of the Shellfish Species in any QMA in the Ngāi Tahu claim area.
+    *   (b) the quantity of quota allocated to the Crown pursuant to [section 49(3)][851] of the Fisheries Act 1996 in respect of the Shellfish Species in any QMA in the Ngāi Tahu claim area.
     
     (3) If only part of a QMA is in the Ngāi Tahu claim area, the proportion of the total allowable commercial catch for the purposes of subsection (2) is 40% of the proportion of the total allowable commercial catch that relates to the part of the QMA in the Ngāi Tahu claim area.
     
@@ -5696,11 +5714,11 @@ Mahinga kai
     
 *   The right of first refusal in [section 307][345]---
         
-    *   (a) does not apply in respect of any provisional individual transferable quota allocated to the Crown pursuant to [section 49][841] of the Fisheries Act 1996; and
+    *   (a) does not apply in respect of any provisional individual transferable quota allocated to the Crown pursuant to [section 49][851] of the Fisheries Act 1996; and
     
     *   (b) does not apply in respect of any individual transferable quota acquired by any means by the Crown after the initial allocation of individual transferable quota; and
     
-    *   (c) does not require the Crown to purchase any provisional catch history or other catch rights pursuant to [section 37][852] of the Fisheries Act 1996 prior to the allocation of individual transferable quota.
+    *   (c) does not require the Crown to purchase any provisional catch history or other catch rights pursuant to [section 37][862] of the Fisheries Act 1996 prior to the allocation of individual transferable quota.
     
     
 
@@ -5712,15 +5730,15 @@ Mahinga kai
     
     *   (b) any percentage of quota received by Te Rūnanga o Ngāi Tahu from the Treaty of Waitangi Fisheries Commission---
     
-    exceeds limits on aggregation of holding quota under [section 28W][853] of the Fisheries Act 1983 (or [section 59][854] of the Fisheries Act 1996, as the case may be), Te Rūnanga o Ngāi Tahu is deemed to have received the consent of the Minister of Fisheries pursuant to section 28W(3) of the Fisheries Act 1983 (or [section 60][855] of the Fisheries Act 1996, as the case may be) to hold such excess percentage of quota.
+    exceeds limits on aggregation of holding quota under [section 28W][863] of the Fisheries Act 1983 (or [section 59][864] of the Fisheries Act 1996, as the case may be), Te Rūnanga o Ngāi Tahu is deemed to have received the consent of the Minister of Fisheries pursuant to section 28W(3) of the Fisheries Act 1983 (or [section 60][865] of the Fisheries Act 1996, as the case may be) to hold such excess percentage of quota.
 
 ##### 310 Temporary closure of fishing area or restriction on fishing methods
     
-*   _Amendment(s) incorporated in the [Act(s)][856]._
+*   _Amendment(s) incorporated in the [Act(s)][866]._
 
 ##### 311 Temporary closure of fisheries
     
-*   _Amendment(s) incorporated in the [Act(s)][856]._
+*   _Amendment(s) incorporated in the [Act(s)][866]._
 
 #### Coastal management
 
@@ -5742,17 +5760,17 @@ Mahinga kai
     
 *   In [sections 316 to 320][356],---
     
-    _authorisation_ has the same meaning as in [section 151][857] of the Resource Management Act 1991
+    _authorisation_ has the same meaning as in [section 151][867] of the Resource Management Act 1991
     
     _coastal marine area_ has the same meaning as in [section 2(1)][685] of the Resource Management Act 1991\.
 
 ##### 316 Te Rūnanga o Ngāi Tahu's right to purchase authorisations
     
-*   (1) If the Minister of Conservation offers by tender, pursuant to [section 157][858] of the Resource Management Act 1991, authorisations in respect of any part of the coastal marine area in the takiwā of Ngāi Tahu Whānui, Te Rūnanga o Ngāi Tahu has a preferential right (exercisable in accordance with and subject to [section 317][357]) to purchase a proportion of the authorisations which are the subject of that tender.
+*   (1) If the Minister of Conservation offers by tender, pursuant to [section 157][868] of the Resource Management Act 1991, authorisations in respect of any part of the coastal marine area in the takiwā of Ngāi Tahu Whānui, Te Rūnanga o Ngāi Tahu has a preferential right (exercisable in accordance with and subject to [section 317][357]) to purchase a proportion of the authorisations which are the subject of that tender.
     
     (2) The proportion of authorisations that Te Rūnanga o Ngāi Tahu has a preferential right to purchase pursuant to subsection (1) must,---
         
-    *   (a) in area, not exceed (together with the area of any authorisations already granted to Te Rūnanga o Ngāi Tahu pursuant to this Part) 10% of the area of the authorisations granted or proposed to be granted by the Minister of Conservation in that tender round pursuant to [section 161][859] of the Resource Management Act 1991 in respect of the takiwā of Ngāi Tahu Whānui; and
+    *   (a) in area, not exceed (together with the area of any authorisations already granted to Te Rūnanga o Ngāi Tahu pursuant to this Part) 10% of the area of the authorisations granted or proposed to be granted by the Minister of Conservation in that tender round pursuant to [section 161][869] of the Resource Management Act 1991 in respect of the takiwā of Ngāi Tahu Whānui; and
     
     *   (b) in terms of the relevant portions of the coastal marine area, be of not less than fair average quality relative to the quality of those portions for all other authorisations that are the subject of the tender round.
     
@@ -5766,13 +5784,13 @@ Mahinga kai
 
 ##### 318 Te Rūnanga o Ngāi Tahu deemed to have made tender
     
-*   (1) For the purposes of this Part and [sections 159 to 161][860] of the Resource Management Act 1991, where Te Rūnanga o Ngāi Tahu has, pursuant to [section 316][356], a preferential right to purchase authorisations, Te Rūnanga o Ngāi Tahu is deemed to have lodged (for $1 remuneration) a valid tender for the authorisations that complies with [section 158][861] of that Act.
+*   (1) For the purposes of this Part and [sections 159 to 161][870] of the Resource Management Act 1991, where Te Rūnanga o Ngāi Tahu has, pursuant to [section 316][356], a preferential right to purchase authorisations, Te Rūnanga o Ngāi Tahu is deemed to have lodged (for $1 remuneration) a valid tender for the authorisations that complies with [section 158][871] of that Act.
     
     (2) If, in response to an offer by tender referred to in [section 316(1)][356], the Minister of Conservation receives no tenders or the Minister considers that he or she would reject every one of any tenders lodged, the tender that Te Rūnanga o Ngāi Tahu is deemed to have lodged pursuant to subsection (1) is, for the purposes of this Part, deemed to be the tender most preferred by the Minister for the authorisations concerned.
 
 ##### 319 Resource Management Act 1991 not affected
     
-*   Except as provided in [sections 315 to 318][355], nothing in this Act limits or affects the powers, functions, and duties of the Minister of Conservation under [sections 151 to 162][857] of the Resource Management Act 1991\.
+*   Except as provided in [sections 315 to 318][355], nothing in this Act limits or affects the powers, functions, and duties of the Minister of Conservation under [sections 151 to 162][867] of the Resource Management Act 1991\.
 
 ##### 320 Sections 315 to 318 not to affect or create rights on coastal marine areas
     
@@ -5819,7 +5837,7 @@ Specific sites
     
     (3) The vesting by subsection (2) is subject to the encumbrances relating to the legal roads described in [Schedule 106][665].
     
-    (4) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (4) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 326 Creation and management of Waitaiki Historic Reserve
     
@@ -5829,11 +5847,11 @@ Specific sites
         
     *   (a) declared a reserve, and classified as an historic reserve, pursuant to the [Reserves Act 1977][688]; and
     
-    *   (b) vested in the Māwhera Incorporation pursuant to [section 26][759] of the Reserves Act 1977, as an historic reserve, subject to the conditions and restrictions set out in attachment 13.1 of the deed of settlement (as quoted in [Schedule 107][666]); and
+    *   (b) vested in the Māwhera Incorporation pursuant to [section 26][761] of the Reserves Act 1977, as an historic reserve, subject to the conditions and restrictions set out in attachment 13.1 of the deed of settlement (as quoted in [Schedule 107][666]); and
     
-    *   (c) named the ""Waitaiki Historic Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+    *   (c) named the ""Waitaiki Historic Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
     
-    (3) The quoting in [Schedule 107][666] of the conditions and restrictions set out in attachment 13.1 of the deed of settlement is a matter of record only and does not give them any greater force or effect than they have as special conditions and restrictions under [section 26(2)][759] of the Reserves Act 1977\.
+    (3) The quoting in [Schedule 107][666] of the conditions and restrictions set out in attachment 13.1 of the deed of settlement is a matter of record only and does not give them any greater force or effect than they have as special conditions and restrictions under [section 26(2)][761] of the Reserves Act 1977\.
     
     (4) In relation to the Waitaiki Historic Reserve, the Māwhera Incorporation is an administering body for the purposes of the [Reserves Act 1977][688].
 
@@ -5845,7 +5863,7 @@ Specific sites
     
     (2) The fee simple estate in Rarotoka is vested in Te Rūnanga o Ngāi Tahu as Māori freehold land.
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 #### Whenua Hou
 
@@ -5861,13 +5879,13 @@ Specific sites
 
 ##### 329 Change of name of Codfish Island Nature Reserve
     
-*   The name of Codfish Island Nature Reserve is deemed to be changed to ""Whenua Hou Nature Reserve"" pursuant to [section 16(10)][795] of the Reserves Act 1977\.
+*   The name of Codfish Island Nature Reserve is deemed to be changed to ""Whenua Hou Nature Reserve"" pursuant to [section 16(10)][797] of the Reserves Act 1977\.
 
 ##### 330 Whenua Hou Nature Reserve to include adjacent islets and stacks
     
 *   The islets and stacks adjacent to the Whenua Hou Nature Reserve, as shown on Allocation Plan SS 431 (SO 12251), are---
         
-    *   (a) deemed to be declared a reserve, and classified as a nature reserve, pursuant to [section 16][795] of the Reserves Act 1977; and
+    *   (a) deemed to be declared a reserve, and classified as a nature reserve, pursuant to [section 16][797] of the Reserves Act 1977; and
     
     *   (b) added to and become part of the Whenua Hou Nature Reserve.
     
@@ -5875,7 +5893,7 @@ Specific sites
 
 ##### 331 Southland Conservation Board to appoint committee in respect of Whenua Hou
     
-*   (1) Within 6 months from the settlement date, the Southland Conservation Board must appoint, pursuant to [section 6N(2)(b)][862] of the Conservation Act 1987, a committee of not more than 8 members consisting of---
+*   (1) Within 6 months from the settlement date, the Southland Conservation Board must appoint, pursuant to [section 6N(2)(b)][872] of the Conservation Act 1987, a committee of not more than 8 members consisting of---
         
     *   (a) 1 representative of each of the 4 Southland Papatipu Rūnanga, being Waihopai Rūnaka, Te Rūnanga o Awarua, Te Rūnanga o Oraka Aparima, and Hokonui Rūnaka; and
     
@@ -5889,9 +5907,9 @@ Specific sites
     
     (5) The Southland Conservation Board, the New Zealand Conservation Authority, and the Minister must consult with, and have particular regard to, the views of the committee, whenever it is practicable to do so, on all matters relating to the control and management of Whenua Hou.
     
-    (6) The committee must, after consultation with the Director-General of Conservation, prepare a policy in accordance with [section 20][702] of the Reserves Act 1977 setting out the conditions under which the Minister may grant permits for access to Whenua Hou under [section 57][863] of that Act.
+    (6) The committee must, after consultation with the Director-General of Conservation, prepare a policy in accordance with [section 20][703] of the Reserves Act 1977 setting out the conditions under which the Minister may grant permits for access to Whenua Hou under [section 57][873] of that Act.
     
-    (7) Pursuant to [section 6N(2)(b)][862] of the Conservation Act 1987, the Southland Conservation Board may delegate to the committee such other powers and functions in relation to Whenua Hou as it considers appropriate.
+    (7) Pursuant to [section 6N(2)(b)][872] of the Conservation Act 1987, the Southland Conservation Board may delegate to the committee such other powers and functions in relation to Whenua Hou as it considers appropriate.
 
 ##### 332 Statutory acknowledgement for Whenua Hou
     
@@ -5917,7 +5935,7 @@ Specific sites
     
     _Rakiura Māori_ means any person who is a member of the Ngāi Tahu tribe or Ngāti Mamoe tribe and is a descendant of the original Māori owners of Rakiura/Stewart Island
     
-    _Rakiura Tītī Committee_ means the committee elected pursuant to [regulation 7(1)(c)][864] of the Titi (Muttonbird) Islands Regulations 1978\.
+    _Rakiura Tītī Committee_ means the committee elected pursuant to [regulation 7(1)(c)][874] of the Titi (Muttonbird) Islands Regulations 1978\.
 
 ##### 334 Crown Tītī Islands vested in Te Rūnanga o Ngāi Tahu
     
@@ -5925,7 +5943,7 @@ Specific sites
     
     (2) The fee simple estate in the Crown Tītī Islands is vested in Te Rūnanga o Ngāi Tahu.
     
-    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][743] of the Conservation Act 1987 to reserve a marginal strip.
+    (3) For the purposes of [section 471][551], the vesting by subsection (2) is free from the requirement under [Part 4A][745] of the Conservation Act 1987 to reserve a marginal strip.
 
 ##### 335 Interim management of Crown Tītī Islands as if conservation area
     
@@ -5939,9 +5957,9 @@ Specific sites
         
         
     
-    *   (b) the management will be undertaken in accordance with the [Titi (Muttonbird) Islands Regulations 1978][865] as in force on 21 November 1997 together with any amendments to those regulations that are not inconsistent with paragraph (a); and
+    *   (b) the management will be undertaken in accordance with the [Titi (Muttonbird) Islands Regulations 1978][875] as in force on 21 November 1997 together with any amendments to those regulations that are not inconsistent with paragraph (a); and
     
-    *   (c) [section 334][379] does not limit or affect the power of the Minister to apply [sections 36 to 47][866] of the Conservation Act 1987 to the Crown Tītī Islands until the commencement date.
+    *   (c) [section 334][379] does not limit or affect the power of the Minister to apply [sections 36 to 47][876] of the Conservation Act 1987 to the Crown Tītī Islands until the commencement date.
     
     
 
@@ -5949,15 +5967,15 @@ Specific sites
     
 *   (1) As soon as practicable after the Minister is notified, in accordance with clause 13.6.3 of the deed of settlement, of the persons selected by the Rakiura Tītī Committee and Te Rūnanga o Ngāi Tahu in accordance with that clause, the Minister must, by notice in the _Gazette_, appoint those persons as an administering body (for the purposes of [section 2][682] of the Reserves Act 1977) of the Crown Tītī Islands.
     
-    (2) On the commencement date, the administering body appointed pursuant to subsection (1) is deemed to be appointed by the Minister pursuant to [section 38(2)][792] of the Reserves Act 1977 as an administering body to control and manage the Crown Tītī Islands as if they were a nature reserve, subject to the terms and conditions set out in attachments 13.8 and 13.9 of the deed of settlement (as quoted in [Schedules 109][668] and [110][669]) as if they were approved under section 38(2) of the Reserves Act 1977\.
+    (2) On the commencement date, the administering body appointed pursuant to subsection (1) is deemed to be appointed by the Minister pursuant to [section 38(2)][794] of the Reserves Act 1977 as an administering body to control and manage the Crown Tītī Islands as if they were a nature reserve, subject to the terms and conditions set out in attachments 13.8 and 13.9 of the deed of settlement (as quoted in [Schedules 109][668] and [110][669]) as if they were approved under section 38(2) of the Reserves Act 1977\.
     
     (3) The control and management of the Crown Tītī Islands in accordance with subsection (2) is subject to the customary rights of Rakiura Māori to take tītī on a sustainable basis, so that those rights are not in any way adversely affected by the control and management of the Crown Tītī Islands in accordance with that subsection.
     
-    (4) The agreement and approval of Te Rūnanga o Ngāi Tahu in clause 13.6.9 of the deed of settlement to the control and management of the Crown Tītī Islands in accordance with subsection (2) is sufficient for the purposes of [section 38(2)][792] of the Reserves Act 1977\.
+    (4) The agreement and approval of Te Rūnanga o Ngāi Tahu in clause 13.6.9 of the deed of settlement to the control and management of the Crown Tītī Islands in accordance with subsection (2) is sufficient for the purposes of [section 38(2)][794] of the Reserves Act 1977\.
     
-    (5) The approval of the Minister of Conservation to the control and management of the Crown Tītī Islands in accordance with subsection (2) is deemed to be given for the purposes of [section 38(2)][792] of the Reserves Act 1977\.
+    (5) The approval of the Minister of Conservation to the control and management of the Crown Tītī Islands in accordance with subsection (2) is deemed to be given for the purposes of [section 38(2)][794] of the Reserves Act 1977\.
     
-    (6) The quoting in [Schedules 109][668] and [110][669] of the terms and conditions as to the use of the Crown Tītī Islands is a matter of record only and does not give them any greater force or effect than they have as terms and conditions as to the use of the Crown Tītī Islands under [section 38(2)][792] of the Reserves Act 1977\.
+    (6) The quoting in [Schedules 109][668] and [110][669] of the terms and conditions as to the use of the Crown Tītī Islands is a matter of record only and does not give them any greater force or effect than they have as terms and conditions as to the use of the Crown Tītī Islands under [section 38(2)][794] of the Reserves Act 1977\.
     
     (7) Except as otherwise provided in this section, the administering body appointed pursuant to subsection (1) may exercise all the functions and powers of an administering body under the [Reserves Act 1977][688].
     
@@ -5973,7 +5991,7 @@ Specific sites
 
 ##### 337 Amendments to Titi (Muttonbird) Islands Regulations 1978
     
-*   (1), (2) _Amendment(s) incorporated in the [regulations][867]._
+*   (1), (2) _Amendment(s) incorporated in the [regulations][877]._
     
     (3) The Minister must, as soon as practicable, advise by notice in the _Gazette_ when subsections (1) and (2) take effect.
 
@@ -6004,9 +6022,9 @@ Ancillary claims
     
     _successors_ means, until the determination of the beneficiaries of an ancillary claim in accordance with paragraph 7 of attachment 14.2 of the deed of settlement,---
         
-    *   (a) all persons entitled to succeed to the interest of any deceased beneficiary, determined as if [section 109][868] of Te Ture Whenua Maori Act 1993 applied to the deceased beneficiary, and to every deceased successor to that beneficiary, upon the beneficiary's death (notwithstanding that the beneficiary may not have died intestate and that the land to which the ancillary claim relates is not Māori freehold land); or
+    *   (a) all persons entitled to succeed to the interest of any deceased beneficiary, determined as if [section 109][878] of Te Ture Whenua Maori Act 1993 applied to the deceased beneficiary, and to every deceased successor to that beneficiary, upon the beneficiary's death (notwithstanding that the beneficiary may not have died intestate and that the land to which the ancillary claim relates is not Māori freehold land); or
     
-    *   (b) where no person is primarily entitled to succeed to a deceased beneficiary, the persons determined as if [section 114][869] of Te Ture Whenua Maori Act 1993 applied to that beneficiary
+    *   (b) where no person is primarily entitled to succeed to a deceased beneficiary, the persons determined as if [section 114][879] of Te Ture Whenua Maori Act 1993 applied to that beneficiary
     
     _trust deed_ means the ancillary claims trust deed set out in attachment 14.1 of the deed of settlement.
 
@@ -6040,7 +6058,7 @@ Ancillary claims
     
     *   (c) if the Crown does not have title and is unable to acquire title to the delayed vesting property concerned in accordance with paragraph (b), the business day following the completion of the procedure set out in [section 21][27].
     
-    (3) The Minister in Charge of [Treaty of Waitangi][847] Negotiations must, as soon as practicable after each of the delayed vesting properties is vested in the ancillary claims trustees, advise by notice in the _Gazette_ when that delayed vesting property was vested.
+    (3) The Minister in Charge of [Treaty of Waitangi][857] Negotiations must, as soon as practicable after each of the delayed vesting properties is vested in the ancillary claims trustees, advise by notice in the _Gazette_ when that delayed vesting property was vested.
 
 #### Ngāi Tahu Ancillary Claims Trust
 
@@ -6082,13 +6100,13 @@ Ancillary claims
     
     (2) The Maori Land Court has the jurisdiction to make, on the application of the ancillary claims trustees once the prerequisites set out in clause 5.2 of attachment 14.1 of the deed of settlement have been satisfied, vesting orders in relation to claim property for the purpose of that clause.
     
-    (3) The Maori Land Court has jurisdiction to make vesting orders pursuant to subsections (1) and (2) notwithstanding the fact that a claim property subject to the vesting order is not Māori freehold land belonging to an estate to which [Part 4][870] of Te Ture Whenua Maori Act 1993 applies.
+    (3) The Maori Land Court has jurisdiction to make vesting orders pursuant to subsections (1) and (2) notwithstanding the fact that a claim property subject to the vesting order is not Māori freehold land belonging to an estate to which [Part 4][880] of Te Ture Whenua Maori Act 1993 applies.
 
 ##### 347 Subsequent inclusion in vesting order
     
-*   (1) Once a vesting order has been made pursuant to [section 346(1)][394], any beneficiary or person who considers that he or she should have been included in that vesting order may apply to the Maori Land Court under [section 18][871] of Te Ture Whenua Maori Act 1993 to be included in that vesting order.
+*   (1) Once a vesting order has been made pursuant to [section 346(1)][394], any beneficiary or person who considers that he or she should have been included in that vesting order may apply to the Maori Land Court under [section 18][881] of Te Ture Whenua Maori Act 1993 to be included in that vesting order.
     
-    (2) A person may apply to the Maori Land Court pursuant to subsection (1) notwithstanding the fact that the claim property subject to the vesting order is not Māori freehold land belonging to an estate to which [Part 4][870] of Te Ture Whenua Maori Act 1993 applies.
+    (2) A person may apply to the Maori Land Court pursuant to subsection (1) notwithstanding the fact that the claim property subject to the vesting order is not Māori freehold land belonging to an estate to which [Part 4][880] of Te Ture Whenua Maori Act 1993 applies.
     
     (3) The Maori Land Court has the jurisdiction to hear and determine an application made pursuant to subsection (1) and, if it finds in favour of the applicant and it considers it is just and equitable to do so in the circumstances, may, by order of the court,---
         
@@ -6104,23 +6122,23 @@ Ancillary claims
 
 ##### 348 Ngāi Tahu Ancillary Claims Trust an organisation named or described in Schedule 4 of Public Finance Act 1989
     
-*   (1) The Ngāi Tahu Ancillary Claims Trust is an organisation named or described in [Schedule 4][872] of the Public Finance Act 1989\.
+*   (1) The Ngāi Tahu Ancillary Claims Trust is an organisation named or described in [Schedule 4][882] of the Public Finance Act 1989\.
     
-    (2) To avoid doubt, the obligations of the Ngāi Tahu Ancillary Claims Trust under the [Public Finance Act 1989][873] are the responsibility of the trustees of the Ngāi Tahu Claims Trust.
+    (2) To avoid doubt, the obligations of the Ngāi Tahu Ancillary Claims Trust under the [Public Finance Act 1989][883] are the responsibility of the trustees of the Ngāi Tahu Claims Trust.
     
-    Section 348: substituted, on 25 January 2005, by [section 37(1)][874] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 348: substituted, on 25 January 2005, by [section 37(1)][884] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 349 Auditor-General to be auditor of Trust
     
-*   The Ngāi Tahu Ancillary Claims Trust is a public entity as defined in [section 4][875] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Ngāi Tahu Ancillary Claims Trust is a public entity as defined in [section 4][885] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 349: substituted, on 1 July 2001, by [section 53][876] of the Public Audit Act 2001 (2001 No 10).
+    Section 349: substituted, on 1 July 2001, by [section 53][886] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 350 Ngāi Tahu Ancillary Claims Trust to be Crown entity
     
 *   \[Repealed\]
     
-    Section 350: repealed, on 25 January 2005, by [section 37(1)][874] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 350: repealed, on 25 January 2005, by [section 37(1)][884] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Claim 1 (Waiharakeke J and Ōmihi K); claim 2 (Mangamaunu A)
 
@@ -6148,7 +6166,7 @@ Ancillary claims
     
     *   (b) form part of that reservation accordingly,---
     
-    as if it were declared to be included in, and to form part of, that reservation by [section 338(2)][877] of Te Ture Whenua Maori Act 1993\.
+    as if it were declared to be included in, and to form part of, that reservation by [section 338(2)][887] of Te Ture Whenua Maori Act 1993\.
     
     (4) Subsections (2) and (3) take effect on the settlement date.
 
@@ -6187,17 +6205,17 @@ Fenton entitlements
     
     (5) Unless suspended pursuant to [section 356][407], Fenton entitlements have effect in perpetuity.
     
-    (6) [Section 11][718] and [Part 10][719] of the Resource Management Act 1991 do not apply to the granting of a Fenton entitlement.
+    (6) [Section 11][720] and [Part 10][721] of the Resource Management Act 1991 do not apply to the granting of a Fenton entitlement.
     
-    (7) [Part 3B][755] of the Conservation Act 1987 does not apply to the granting of a Fenton entitlement.
+    (7) [Part 3B][757] of the Conservation Act 1987 does not apply to the granting of a Fenton entitlement.
     
     (8) The grant of a Fenton entitlement pursuant to subsection (3) must be notified by the land holding agent in the _Gazette_.
     
     (9) The Surveyor-General must note the grant of a Fenton entitlement pursuant to subsection (3), and the notice in the _Gazette_ published pursuant to subsection (8), in his or her records.
     
-    Section 355(4): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 355(4): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 355(9): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 355(9): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 356 Stopping of legal road
     
@@ -6211,11 +6229,11 @@ Fenton entitlements
     
     (2) The Crown may, after taking reasonable steps to notify the holders of their obligations under subsection (1), suspend a Fenton entitlement if, and for so long as, the holders of a Fenton entitlement do not comply with that subsection.
     
-    (3) At the meeting of the holders of a Fenton entitlement held pursuant to paragraph 18 of attachment 14.2 of the deed of settlement, the form that the representative body is to take must be put forward for consideration and resolution by those holders in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][878].
+    (3) At the meeting of the holders of a Fenton entitlement held pursuant to paragraph 18 of attachment 14.2 of the deed of settlement, the form that the representative body is to take must be put forward for consideration and resolution by those holders in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][888].
     
     (4) If the holders of a Fenton entitlement do not make a decision in accordance with subsection (3), they are deemed to have chosen---
         
-    *   (a) the option which received the most votes in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][878]; or
+    *   (a) the option which received the most votes in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][888]; or
     
     *   (b) if no votes are cast, an ahu whenua trust constituted pursuant to subsection (3).
     
@@ -6225,7 +6243,7 @@ Fenton entitlements
     
     *   (b) the trust property of the ahu whenua trust is the Fenton entitlement to be granted to the holders; and
     
-    *   (c) the ahu whenua trust is constituted on the day following the nomination of holders pursuant to paragraph (a) as if it were constituted pursuant to [section 215][879] of Te Ture Whenua Maori Act 1993, notwithstanding anything to the contrary in that section.
+    *   (c) the ahu whenua trust is constituted on the day following the nomination of holders pursuant to paragraph (a) as if it were constituted pursuant to [section 215][889] of Te Ture Whenua Maori Act 1993, notwithstanding anything to the contrary in that section.
     
     (6) For the purposes of [sections 355 to 370][406], the representative body is the representative of the holders of a Fenton entitlement.
     
@@ -6277,7 +6295,7 @@ Fenton entitlements
     
     (5) The giving of consent by a land holding agent pursuant to subsection (4) is completely at the land holding agent's discretion and subject to such conditions as the land holding agent thinks fit.
     
-    (6) Where entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (4),---
+    (6) Where entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (4),---
         
     *   (a) require an environmental impact report in relation to the proposed activities and an audit of that report at the holder's expense; and
     
@@ -6285,13 +6303,13 @@ Fenton entitlements
     
     (7) When applying for a consent pursuant to subsection (4), the holder must provide to the land holding agent details of the proposed activities, including but not limited to---
         
-    *   (a) the effect of the activities on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, on the surrounding land and upon any wildlife; and
+    *   (a) the effect of the activities on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, on the surrounding land and upon any wildlife; and
     
     *   (b) any proposed measures by the holder to avoid, remedy, or mitigate any adverse effects.
     
     (8) If the Crown has complied with its obligations under the Fenton entitlement, it is not obliged to compensate the holder for any activities undertaken by the holder pursuant to subsection (4), whether on suspension of the Fenton entitlement or at any other time.
     
-    (9) [Part 3B][755] of the Conservation Act 1987 does not apply to this section.
+    (9) [Part 3B][757] of the Conservation Act 1987 does not apply to this section.
 
 ##### 361 Obligations related to Fenton entitlements
     
@@ -6341,23 +6359,23 @@ Fenton entitlements
     
     *   (c) in accordance with a plan that meets standards agreed from time to time by the land holding agent and the Surveyor-General.
     
-    Section 362(a): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 362(a): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 363 Section 44 of Reserves Act 1977 not to apply
     
-*   [Section 44][821] of the Reserves Act 1977 does not apply to Fenton entitlements which are granted over land held under that Act.
+*   [Section 44][831] of the Reserves Act 1977 does not apply to Fenton entitlements which are granted over land held under that Act.
 
 ##### 364 Rates
     
-*   The grant of a Fenton entitlement is not a lease, licence, or other agreement for the purposes of note 2 of [Part 1][822] of Schedule 1 of the Local Government (Rating) Act 2002\.
+*   The grant of a Fenton entitlement is not a lease, licence, or other agreement for the purposes of note 2 of [Part 1][832] of Schedule 1 of the Local Government (Rating) Act 2002\.
     
-    Section 364: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 364: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 365 Targeted rates
     
-*   The holders are liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under [section 360(1)][411].
+*   The holders are liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under [section 360(1)][411].
     
-    Section 365: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 365: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 366 Suspension of Fenton entitlements
     
@@ -6413,7 +6431,7 @@ Fenton entitlements
     
 *   (1) A holder of a Fenton entitlement may not assign or grant a sub-entitlement to the holder's rights under that entitlement.
     
-    (2) Notwithstanding [section 369][420], the rights of a holder under a Fenton entitlement may only be disposed of in accordance with [sections 108][880] and [109][868] of Te Ture Whenua Maori Act 1993\.
+    (2) Notwithstanding [section 369][420], the rights of a holder under a Fenton entitlement may only be disposed of in accordance with [sections 108][890] and [109][878] of Te Ture Whenua Maori Act 1993\.
 
 #### Claim 3 (Taerutu); claim 4 (Waimaiaia); claim 5 (Torotoroa); claim 6 (Te Aka Aka); and claim 10 (Pukatahi and Te Houriri)  
 Customary fishing entitlements
@@ -6448,17 +6466,17 @@ Customary fishing entitlements
     
     (5) Unless suspended pursuant to [section 382][434], customary fishing entitlements have effect in perpetuity.
     
-    (6) [Section 11][718] and [Part 10][719] of the Resource Management Act 1991 do not apply to the granting of a customary fishing entitlement.
+    (6) [Section 11][720] and [Part 10][721] of the Resource Management Act 1991 do not apply to the granting of a customary fishing entitlement.
     
-    (7) [Part 3B][755] of the Conservation Act 1987 does not apply to the granting of a customary fishing entitlement.
+    (7) [Part 3B][757] of the Conservation Act 1987 does not apply to the granting of a customary fishing entitlement.
     
     (8) The grant of a customary fishing entitlement pursuant to subsection (3) must be notified by the land holding agent in the _Gazette_.
     
     (9) The Surveyor-General must note the grant of a customary fishing entitlement pursuant to subsection (3), and the notice in the _Gazette_ published pursuant to subsection (8), in his or her records.
     
-    Section 372(4): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 372(4): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 372(9): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 372(9): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 373 Representative body of holders of customary fishing entitlement
     
@@ -6508,7 +6526,7 @@ Customary fishing entitlements
     
     (6) The giving of consent by a land holding agent pursuant to subsection (5) is completely at the land holding agent's discretion and subject to such conditions as the land holding agent thinks fit.
     
-    (7) Where an entitlement area is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (5),---
+    (7) Where an entitlement area is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, the land holding agent may, in considering whether to give consent pursuant to subsection (5),---
         
     *   (a) require an environmental impact report in relation to the proposed activities and an audit of that report at the holder's expense; and
     
@@ -6516,13 +6534,13 @@ Customary fishing entitlements
     
     (8) When applying for a consent pursuant to subsection (5) the holder must provide to the land holding agent details of the proposed activities, including but not limited to---
         
-    *   (a) the effect of the activities on the entitlement area and, where the entitlement area is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][800] of the Conservation Act 1987, on the surrounding waterway or land, and upon any wildlife or fish species; and
+    *   (a) the effect of the activities on the entitlement area and, where the entitlement area is land held under the [Conservation Act 1987][686] or a statute listed in [Schedule 1][802] of the Conservation Act 1987, on the surrounding waterway or land, and upon any wildlife or fish species; and
     
     *   (b) any proposed measures by the holder to avoid, remedy, or mitigate any adverse effects.
     
     (9) If the Crown has complied with its obligations under the customary fishing entitlement, it is not obliged to compensate the holder for any activities undertaken by the holder pursuant to subsection (5), whether on suspension of the customary fishing entitlement or at any other time.
     
-    (10) [Part 3B][755] of the Conservation Act 1987 does not apply to this section.
+    (10) [Part 3B][757] of the Conservation Act 1987 does not apply to this section.
 
 ##### 377 Obligations related to customary fishing entitlements
     
@@ -6572,23 +6590,23 @@ Customary fishing entitlements
     
     *   (c) in accordance with a plan that meets standards agreed from time to time by the land holding agent and the Surveyor-General.
     
-    Section 378(a): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 378(a): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
 
 ##### 379 Section 44 of Reserves Act 1977 not to apply
     
-*   [Section 44][821] of the Reserves Act 1977 does not apply to customary fishing entitlements which are granted over land held under that Act.
+*   [Section 44][831] of the Reserves Act 1977 does not apply to customary fishing entitlements which are granted over land held under that Act.
 
 ##### 380 Rates
     
-*   The grant of a customary fishing entitlement is not a lease, licence or other agreement for the purposes of note 2 of [Part 1][822] of Schedule 1 of the Local Government (Rating) Act 2002\.
+*   The grant of a customary fishing entitlement is not a lease, licence or other agreement for the purposes of note 2 of [Part 1][832] of Schedule 1 of the Local Government (Rating) Act 2002\.
     
-    Section 380: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 380: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 381 Targeted rates
     
-*   The holders are liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under [section 376(1)][428].
+*   The holders are liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under [section 376(1)][428].
     
-    Section 381: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 381: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 382 Suspension of customary fishing entitlements
     
@@ -6644,7 +6662,7 @@ Customary fishing entitlements
     
 *   (1) A holder of a customary fishing entitlement may not assign or grant a sub-entitlement to his or her rights under that entitlement.
     
-    (2) Notwithstanding [section 385][437], the rights of a holder under a customary fishing entitlement may only be disposed of in accordance with [sections 108][880] and [109][868] of Te Ture Whenua Maori Act 1993\.
+    (2) Notwithstanding [section 385][437], the rights of a holder under a customary fishing entitlement may only be disposed of in accordance with [sections 108][890] and [109][878] of Te Ture Whenua Maori Act 1993\.
 
 #### Claim 7 (Te Ihutai)
 
@@ -6690,11 +6708,11 @@ Customary fishing entitlements
     
     (5) Before the Maori Land Court makes a vesting order in relation to the Bushy Point site pursuant to [section 346(1)][394], the ancillary claims trustees must have entered into, and presented for registration with the Registrar, a Ngā Whenua Rāhui kawenata relating to the protection of the Bushy Point site and access through the Bushy Point site in the form set out in attachment 14.6 of the deed of settlement.
     
-    (6) The Ngā Whenua Rāhui kawenata referred to in subsection (5) is deemed to be entered into under [section 77A][791] of the Reserves Act 1977, notwithstanding the fact that the Bushy Point site is not Māori land.
+    (6) The Ngā Whenua Rāhui kawenata referred to in subsection (5) is deemed to be entered into under [section 77A][793] of the Reserves Act 1977, notwithstanding the fact that the Bushy Point site is not Māori land.
     
-    (7) Notwithstanding [section 77A(1)(b)][791] of the Reserves Act 1977, the owner of the Bushy Point site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
+    (7) Notwithstanding [section 77A(1)(b)][793] of the Reserves Act 1977, the owner of the Bushy Point site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
     
-    (8) The Registrar must, in accordance with [section 77A][791] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (5) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][757], until such title is issued, may constitute it a folium of the register).
+    (8) The Registrar must, in accordance with [section 77A][793] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (5) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][759], until such title is issued, may constitute it a folium of the register).
     
     Section 390(5): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -6718,11 +6736,11 @@ Customary fishing entitlements
     
 *   (1) In this section, _remaining lakeside sites_ means the land described by that name in [Schedule 111][670].
     
-    (2) If the process set out in [section 40][721] of the Public Works Act 1981 is invoked in relation to the remaining lakeside sites and it is found that there are no persons from whom those sites were acquired, or successors of those persons for the purposes of that section, then---
+    (2) If the process set out in [section 40][723] of the Public Works Act 1981 is invoked in relation to the remaining lakeside sites and it is found that there are no persons from whom those sites were acquired, or successors of those persons for the purposes of that section, then---
         
     *   (a) the beneficiaries of claim 14 (as defined in the Ngāi Tahu Ancillary Claims Report 1995) pursuant to clause 14.11 of the deed of settlement, as confirmed by the Maori Land Court, will be treated as being the persons from whom the remaining lakeside sites were acquired for the purposes of that section; and
     
-    *   (b) [section 40(2)(c)][721] and (d) of the Public Works Act 1981 does not apply to those beneficiaries and the remaining lakeside sites.
+    *   (b) [section 40(2)(c)][723] and (d) of the Public Works Act 1981 does not apply to those beneficiaries and the remaining lakeside sites.
     
     
 
@@ -6734,7 +6752,7 @@ Customary fishing entitlements
     
     (2) The fee simple estate in the Tatawai replacement site is vested in the ancillary claims trustees.
     
-    (3) For the purposes of [section 77A][791] of the Reserves Act 1977 only, the Tatawai replacement site is deemed to be Māori land.
+    (3) For the purposes of [section 77A][793] of the Reserves Act 1977 only, the Tatawai replacement site is deemed to be Māori land.
 
 #### Claim 55 (Waikouaiti Lagoon)
 
@@ -6746,9 +6764,9 @@ Customary fishing entitlements
         
     *   (a) continue to be entitled to catch fish from the Waikouaiti Lagoon; and
     
-    *   (b) are deemed to be authorised to harvest fish, including indigenous fish, from the Waikouaiti Lagoon pursuant to [section 50][881] of the Reserves Act 1977\.
+    *   (b) are deemed to be authorised to harvest fish, including indigenous fish, from the Waikouaiti Lagoon pursuant to [section 50][891] of the Reserves Act 1977\.
     
-    (3) For the purposes of subsection (2), the beneficial owners of the Matainaka 1N reserve are those persons determined by the Maori Land Court from time to time to be beneficial owners pursuant to [Te Ture Whenua Maori Act 1993][882].
+    (3) For the purposes of subsection (2), the beneficial owners of the Matainaka 1N reserve are those persons determined by the Maori Land Court from time to time to be beneficial owners pursuant to [Te Ture Whenua Maori Act 1993][892].
 
 #### Claim 17 (Arawhata MR 1)
 
@@ -6764,11 +6782,11 @@ Customary fishing entitlements
     
     (5) Before the Maori Land Court makes a vesting order in relation to Arawhata site (No 2) pursuant to [section 346(1)][394], the ancillary claims trustees must have entered into and presented for registration with the Registrar, a Ngā Whenua Rāhui kawenata relating to the protection of Arawhata site (No 2) in the form set out in attachment 14.7 of the deed of settlement.
     
-    (6) The Ngā Whenua Rāhui kawenata referred to in subsection (5) is deemed to be entered into under [section 77A][791] of the Reserves Act 1977, notwithstanding the fact that Arawhata site (No 2) is not Māori land.
+    (6) The Ngā Whenua Rāhui kawenata referred to in subsection (5) is deemed to be entered into under [section 77A][793] of the Reserves Act 1977, notwithstanding the fact that Arawhata site (No 2) is not Māori land.
     
-    (7) Notwithstanding [section 77A(1)(b)][791] of the Reserves Act 1977, the owner of Arawhata site (No 2) may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
+    (7) Notwithstanding [section 77A(1)(b)][793] of the Reserves Act 1977, the owner of Arawhata site (No 2) may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
     
-    (8) The Registrar must, in accordance with [section 77A][791] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (5) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][757], until such title is issued, may constitute it a folium of the register).
+    (8) The Registrar must, in accordance with [section 77A][793] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (5) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][759], until such title is issued, may constitute it a folium of the register).
     
     (9) Subsections (5) to (8) do not apply if the Minister of Conservation has notified the ancillary claims trustees pursuant to clause 14.14.2(b) of the deed of settlement that no Ngā Whenua Rāhui kawenata is required.
     
@@ -6802,7 +6820,7 @@ Customary fishing entitlements
     
     (7) Within 1 year of the vesting of the Bruce Bay site (No 1) by subsection (3), and before the Maori Land Court makes a vesting order in relation to that site pursuant to [section 346(1)][394], the ancillary claims trustees must have offered formal licences or leases for a period of not less than 5 years to the persons occupying the Bruce Bay site (No 1) on 21 November 1997\.
     
-    Section 396(5): amended, on 1 August 2008, by [section 50(1)][763] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 396(5): amended, on 1 August 2008, by [section 50(1)][765] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 397 Vesting of Bruce Bay site (No 2)
     
@@ -6850,7 +6868,7 @@ Customary fishing entitlements
     
     (3) The vesting by subsection (2) is subject to the encumbrance relating to the Māwhera Chambers described in [Schedule 111][670].
     
-    (4) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (2).
+    (4) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (2).
 
 ##### 403 Vesting of Greymouth railway land
     
@@ -6860,7 +6878,7 @@ Customary fishing entitlements
     
     (3) The vesting by subsection (2) is subject to the encumbrances relating to the Greymouth railway land described in [Schedule 111][670].
     
-    (4) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (2).
+    (4) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (2).
 
 ##### 404 Vesting of Lake Kaniere site
     
@@ -6910,21 +6928,21 @@ Customary fishing entitlements
 
 ##### 409 Application by Waikouaiti Māori Foreshore Trust Board
     
-*   Notwithstanding [section 461(3)][540], the Waikouaiti Māori Foreshore Trust Board or members of Ngāi Tahu Whānui may apply to the Maori Land Court under [section 131][884] of Te Ture Whenua Maori Act 1993 for a status order in relation to the Karitane site if agreement is not reached in accordance with clause 14.17.3 of the deed of settlement.
+*   Notwithstanding [section 461(3)][540], the Waikouaiti Māori Foreshore Trust Board or members of Ngāi Tahu Whānui may apply to the Maori Land Court under [section 131][894] of Te Ture Whenua Maori Act 1993 for a status order in relation to the Karitane site if agreement is not reached in accordance with clause 14.17.3 of the deed of settlement.
 
 #### Claim 112 (Tautuku)
 
 ##### 410 Application of Conservation Act 1987 to access granted by the Crown
     
-*   [Sections 17S to 17W][885], [17Y(1)(a)][886], 17Y(2), and [17Z(3)][887] of the Conservation Act 1987 do not apply to any easement granted by the Crown pursuant to clause 14.19.2 of the deed of settlement.
+*   [Sections 17S to 17W][895], [17Y(1)(a)][896], 17Y(2), and [17Z(3)][897] of the Conservation Act 1987 do not apply to any easement granted by the Crown pursuant to clause 14.19.2 of the deed of settlement.
 
 ##### 411 Application of Property Law Act 2007 to access granted by the Crown
     
-*   [Subpart 3][888] of Part 6 of the Property Law Act 2007 does not apply to the provision of any legal access by the Crown pursuant to clause 14.19.3 of the deed of settlement.
+*   [Subpart 3][898] of Part 6 of the Property Law Act 2007 does not apply to the provision of any legal access by the Crown pursuant to clause 14.19.3 of the deed of settlement.
     
-    Section 411 heading: amended, on 1 January 2008, by [section 364(1)][889] of the Property Law Act 2007 (2007 No 91).
+    Section 411 heading: amended, on 1 January 2008, by [section 364(1)][899] of the Property Law Act 2007 (2007 No 91).
     
-    Section 411: amended, on 1 January 2008, by [section 364(1)][889] of the Property Law Act 2007 (2007 No 91).
+    Section 411: amended, on 1 January 2008, by [section 364(1)][899] of the Property Law Act 2007 (2007 No 91).
 
 #### Claim 56 (Maranuku)
 
@@ -6946,9 +6964,9 @@ Customary fishing entitlements
     
     (1A) The reservation of the Maranuku site as a recreation reserve is revoked.
     
-    (2) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
+    (2) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
     
-    Section 414(1A): inserted, on 17 May 2005, by [section 3][890] of the Ngāi Tahu Claims Settlement Amendment Act 2005 (2005 No 64).
+    Section 414(1A): inserted, on 17 May 2005, by [section 3][900] of the Ngāi Tahu Claims Settlement Amendment Act 2005 (2005 No 64).
 
 ##### 415 Identification of beneficiaries to Maranuku site
     
@@ -6972,7 +6990,7 @@ Customary fishing entitlements
     
     (2) The vesting by subsection (1) is subject to the encumbrances relating to the Waimumu site (No 1) described in [Schedule 111][670].
     
-    (3) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
+    (3) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
 
 ##### 418 Vesting of Waimumu site (No 2)
     
@@ -6980,7 +6998,7 @@ Customary fishing entitlements
     
     (2) The vesting by subsection (1) is subject to the encumbrances relating to the Waimumu site (No 2) described in [Schedule 111][670].
     
-    (3) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
+    (3) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
 
 ##### 419 Vesting of Waimumu site (No 3)
     
@@ -6988,7 +7006,7 @@ Customary fishing entitlements
     
     (2) The vesting by subsection (1) is subject to the encumbrances relating to the Waimumu site (No 3) described in [Schedule 111][670].
     
-    (3) [Part 3][883] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
+    (3) [Part 3][893] of the Public Works Act 1981 does not apply to the vesting by subsection (1).
 
 ##### 420 Identification of beneficiaries to Waimumu sites
     
@@ -7036,7 +7054,7 @@ Customary fishing entitlements
     
     (3) The fee simple estate in the Pūrākaunui site is vested in the Pūrākaunui Block Incorporation on the settlement date.
     
-    (4) A marginal strip of 100 metres wide, or to the landward margin of the Pūrākaunui site, whichever is the lesser, extending along and abutting the landward margin of the foreshore of the Pūrākaunui site is reserved from the vesting of the fee simple estate in the Pūrākaunui site as if it had been reserved under [section 24AA][891] of the Conservation Act 1987\.
+    (4) A marginal strip of 100 metres wide, or to the landward margin of the Pūrākaunui site, whichever is the lesser, extending along and abutting the landward margin of the foreshore of the Pūrākaunui site is reserved from the vesting of the fee simple estate in the Pūrākaunui site as if it had been reserved under [section 24AA][901] of the Conservation Act 1987\.
 
 ##### 426 Vesting of road site
     
@@ -7052,7 +7070,7 @@ Customary fishing entitlements
 
 ##### 427 Application of Fencing Act 1978
     
-*   The [Fencing Act 1978][892] (except for [section 3(1)][893] of that Act) applies to the fence constructed by the Crown pursuant to clause 14.26.4 of the deed of settlement.
+*   The [Fencing Act 1978][902] (except for [section 3(1)][903] of that Act) applies to the fence constructed by the Crown pursuant to clause 14.26.4 of the deed of settlement.
 
 #### Wai 324 and Wai 27, claim 51 (Taiaroa Head)
 
@@ -7078,7 +7096,7 @@ Customary fishing entitlements
     
     (3) The vesting by subsection (2) is subject to the encumbrances relating to the Taiaroa Head site (No 1) described in [Schedule 111][670].
     
-    (4) [Part 3][883] of the Public Works Act 1981 does not apply to the revocation by subsection (1) or the vesting by subsection (2).
+    (4) [Part 3][893] of the Public Works Act 1981 does not apply to the revocation by subsection (1) or the vesting by subsection (2).
     
     (5) Notwithstanding subsection (2) and any Act or rule of law, the assets that are fixed to, or are under or over, the Taiaroa Head site (No 1) are not vested in the ancillary claims trustees, but remain in the ownership of the person or persons owning them at the date of the vesting by subsection (2).
 
@@ -7086,7 +7104,7 @@ Customary fishing entitlements
     
 *   (1) Until the business day which is 25 business days after the establishment and naming of the joint management body in accordance with clause 14.27.12 of the deed of settlement, and notwithstanding [section 429(2)][500], the Minister of Conservation---
         
-    *   (a) must administer the Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][743] of the Conservation Act 1987, as if it were a nature reserve; and
+    *   (a) must administer the Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][745] of the Conservation Act 1987, as if it were a nature reserve; and
     
     *   (b) may expend monies thereon for the purposes of its administration as if it were a nature reserve.
     
@@ -7096,7 +7114,7 @@ Customary fishing entitlements
     
 *   (1) In order to identify the beneficiaries of the Taiaroa Head site (No 1), the ancillary claims trustees must comply with [section 344][392], except that---
         
-    *   (a) the ancillary claims trustees must identify the successors to Korako Karetai who would be entitled to have the Taiaroa Head site (No 1) offered back to them if [Part 3][883] of the Public Works Act 1981 were invoked in relation to that land; and
+    *   (a) the ancillary claims trustees must identify the successors to Korako Karetai who would be entitled to have the Taiaroa Head site (No 1) offered back to them if [Part 3][893] of the Public Works Act 1981 were invoked in relation to that land; and
     
     *   (b) paragraphs 18 to 22 of attachment 14.2 of the deed of settlement do not apply to the identification of the beneficiaries of the Taiaroa Head site (No 1) by the ancillary claims trustees.
     
@@ -7108,21 +7126,21 @@ Customary fishing entitlements
     
 *   For the purposes only of clauses 14.27.6 to 14.27.13 of the deed of settlement, the successors to Korako Karetai are, in relation to the Taiaroa Head site (No 1), deemed to be owners---
         
-    *   (a) within the meaning of [section 170][894] of Te Ture Whenua Maori Act 1993, for the purposes of that Act; and
+    *   (a) within the meaning of [section 170][904] of Te Ture Whenua Maori Act 1993, for the purposes of that Act; and
     
-    *   (b) within the meaning of [regulation 2][706] of the Maori Assembled Owners Regulations 1995, for the purposes of those regulations.
+    *   (b) within the meaning of [regulation 2][707] of the Maori Assembled Owners Regulations 1995, for the purposes of those regulations.
     
     
 
 ##### 433 Decisions of successors to Korako Karetai
     
-*   (1) If the successors to Korako Karetai do not make a decision at the meeting held pursuant to clause 14.27.6 of the deed of settlement in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][878] to adopt any one option from each of the list of options set out in clause 14.27.7 of the deed of settlement, they will be deemed to have chosen---
+*   (1) If the successors to Korako Karetai do not make a decision at the meeting held pursuant to clause 14.27.6 of the deed of settlement in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][888] to adopt any one option from each of the list of options set out in clause 14.27.7 of the deed of settlement, they will be deemed to have chosen---
         
     *   (a) the option which received the most votes in accordance with those procedures; or
     
     *   (b) if no votes are cast, the first option from that list.
     
-    (2) The recording officers of the meetings held pursuant to clauses 14.27.6, 14.27.9, and 14.27.11 of the deed of settlement must report to the Minister in Charge of Treaty of Waitangi Negotiations and the ancillary claims trustees as soon as practicable after those meetings, under the procedure set out in [regulation 48][895] of the Maori Assembled Owners Regulations 1995,---
+    (2) The recording officers of the meetings held pursuant to clauses 14.27.6, 14.27.9, and 14.27.11 of the deed of settlement must report to the Minister in Charge of Treaty of Waitangi Negotiations and the ancillary claims trustees as soon as practicable after those meetings, under the procedure set out in [regulation 48][905] of the Maori Assembled Owners Regulations 1995,---
         
     *   (a) the decisions of the successors to Korako Karetai made pursuant to clause 14.27.7 of the deed of settlement; and
     
@@ -7154,7 +7172,7 @@ Customary fishing entitlements
     
     (3) The ancillary claims trustees must transfer the Taiaroa Head site (No 1) on the date and in the manner stated in the notice published pursuant to subsection (1).
     
-    (4) The transfer by subsection (3) is subject to the administration of the Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][743] of the Conservation Act 1987, by the joint management body pursuant to [section 437(1)][508] as if it were a nature reserve.
+    (4) The transfer by subsection (3) is subject to the administration of the Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][745] of the Conservation Act 1987, by the joint management body pursuant to [section 437(1)][508] as if it were a nature reserve.
     
     (5) On presentation by the ancillary claims trustees of the transfer of the Taiaroa Head site (No 1) for registration, the Registrar must---
         
@@ -7168,7 +7186,7 @@ Customary fishing entitlements
 
 ##### 436 Vesting of Taiaroa Head site (No 2)
     
-*   (1) The Taiaroa Head site (No 2) is deemed to be vested in Te Rūnanga Ōtākou (to hold but not administer) pursuant to [section 26][759] of the Reserves Act 1997, as a nature reserve.
+*   (1) The Taiaroa Head site (No 2) is deemed to be vested in Te Rūnanga Ōtākou (to hold but not administer) pursuant to [section 26][761] of the Reserves Act 1997, as a nature reserve.
     
     (2) The vesting by subsection (1) is effective on the business day which is 25 business days after the establishment and naming of the joint management body pursuant to clause 14.27.12 of the deed of settlement.
     
@@ -7180,23 +7198,23 @@ Customary fishing entitlements
 
 ##### 437 Administration of Taiaroa Head site (No 1) by joint management body
     
-*   (1) The Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][743] of the Conservation Act 1987, must be administered by the joint management body---
+*   (1) The Taiaroa Head site (No 1), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][745] of the Conservation Act 1987, must be administered by the joint management body---
         
-    *   (a) as if it were a nature reserve and as if the joint management body had been appointed by the Minister of Conservation under [section 38(2)][792] of the Reserves Act 1977 as an administering body to control and manage the Taiaroa Head site (No 1) as if it were a nature reserve; and
+    *   (a) as if it were a nature reserve and as if the joint management body had been appointed by the Minister of Conservation under [section 38(2)][794] of the Reserves Act 1977 as an administering body to control and manage the Taiaroa Head site (No 1) as if it were a nature reserve; and
     
-    *   (b) subject to the conditions and restrictions set out in attachment 14.15 of the deed of settlement (as quoted in [Schedule 116][675]) which apply to the control and management of the Taiaroa Head site (No 1) by the joint management body, as if they were approved under [section 38(2)][792] of the Reserves Act 1977\.
+    *   (b) subject to the conditions and restrictions set out in attachment 14.15 of the deed of settlement (as quoted in [Schedule 116][675]) which apply to the control and management of the Taiaroa Head site (No 1) by the joint management body, as if they were approved under [section 38(2)][794] of the Reserves Act 1977\.
     
-    (2) The quoting in [Schedule 116][675] of the conditions and restrictions as to the administration of the Taiaroa Head site (No 1) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions as to the use of the Taiaroa Head site (No 1) under [section 38(2)][792] of the Reserves Act 1977\.
+    (2) The quoting in [Schedule 116][675] of the conditions and restrictions as to the administration of the Taiaroa Head site (No 1) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions as to the use of the Taiaroa Head site (No 1) under [section 38(2)][794] of the Reserves Act 1977\.
 
 ##### 438 Administration of Taiaroa Head site (No 2) by joint management body
     
 *   (1) The Taiaroa Head site (No 2) must be administered by the joint management body---
         
-    *   (a) as if it had been vested in the joint management body pursuant to [section 26][759] of the Reserves Act 1977 as a nature reserve; and
+    *   (a) as if it had been vested in the joint management body pursuant to [section 26][761] of the Reserves Act 1977 as a nature reserve; and
     
-    *   (b) subject to the conditions and restrictions set out in attachment 14.15 of the deed of settlement (as quoted in [Schedule 116][675]) which apply to the control and management of the Taiaroa Head site (No 2) by the joint management body, as if they were specified pursuant to [section 26(2)][759] of the Reserves Act 1977\.
+    *   (b) subject to the conditions and restrictions set out in attachment 14.15 of the deed of settlement (as quoted in [Schedule 116][675]) which apply to the control and management of the Taiaroa Head site (No 2) by the joint management body, as if they were specified pursuant to [section 26(2)][761] of the Reserves Act 1977\.
     
-    (2) The quoting in [Schedule 116][675] of the conditions and restrictions as to the administration of the Taiaroa Head site (No 2) is a matter of record only and does not give them any greater force or effect than they have as special conditions and restrictions of vesting land pursuant to [section 26(2)][759] of the Reserves Act 1977\.
+    (2) The quoting in [Schedule 116][675] of the conditions and restrictions as to the administration of the Taiaroa Head site (No 2) is a matter of record only and does not give them any greater force or effect than they have as special conditions and restrictions of vesting land pursuant to [section 26(2)][761] of the Reserves Act 1977\.
 
 ##### 439 Administration by joint management body
     
@@ -7222,7 +7240,7 @@ Customary fishing entitlements
 
 ##### 442 Preparation of management plan for Taiaroa Head sites
     
-*   The management plan to be prepared by the joint management body for the Taiaroa Head sites under [section 41][896] of the Reserves Act 1977 may---
+*   The management plan to be prepared by the joint management body for the Taiaroa Head sites under [section 41][906] of the Reserves Act 1977 may---
         
     *   (a) include the wildlife sanctuary if the Minister of Conservation has exercised the discretion under [section 441][512]; and
     
@@ -7238,9 +7256,9 @@ Customary fishing entitlements
     
     *   (b) the Taiaroa Head site (No 3) will be held in the same manner as the Taiaroa Head site (No 1) from the date of vesting of that site by paragraph (a); and
     
-    *   (c) the Taiaroa Head site (No 3), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][743] of the Conservation Act 1987, will be administered by the joint management body from the date that site is vested by paragraph (a) as if it were a reserve in accordance with the reserve classification it held immediately before it was vested by paragraph (a); and
+    *   (c) the Taiaroa Head site (No 3), including any land reserved from the disposition of that site as a marginal strip pursuant to [Part 4A][745] of the Conservation Act 1987, will be administered by the joint management body from the date that site is vested by paragraph (a) as if it were a reserve in accordance with the reserve classification it held immediately before it was vested by paragraph (a); and
     
-    *   (d) [Part 3][883] of the Public Works Act 1981 will not apply to the revocation or the vesting by paragraph (a).
+    *   (d) [Part 3][893] of the Public Works Act 1981 will not apply to the revocation or the vesting by paragraph (a).
     
     (2) Notwithstanding subsection (1) and any enactment or rule of law, if the Minister of Conservation vests the Taiaroa Head site (No 3) in the descendants of Korako Karetai under subsection (1)(a), the assets that are fixed to, or are under or over, the site are not vested pursuant to subsection (1)(a) but remain in the ownership of the person or persons owning them at the date of the transfer of that land.
     
@@ -7349,11 +7367,11 @@ South Island Landless Natives Act
 
 ##### 452 Lease of Whakapoai land
     
-*   (1) The Crown may lease back the Whakapoai land on the terms set out in attachment 15.1 of the deed of settlement, notwithstanding anything to the contrary in the [Land Act 1948][726] or any other statutory provisions governing the transfer of Crown land and the entry by the Crown into a lease of land.
+*   (1) The Crown may lease back the Whakapoai land on the terms set out in attachment 15.1 of the deed of settlement, notwithstanding anything to the contrary in the [Land Act 1948][728] or any other statutory provisions governing the transfer of Crown land and the entry by the Crown into a lease of land.
     
     (2) If the Minister takes the action set out in [section 451(1)(a)][525],---
         
-    *   (a) the Governor-General may declare the Whakapoai land to be a national park to which the [National Parks Act 1980][687] applies in accordance with [section 7][720] of that Act, notwithstanding anything to the contrary in the National Parks Act 1980; and
+    *   (a) the Governor-General may declare the Whakapoai land to be a national park to which the [National Parks Act 1980][687] applies in accordance with [section 7][722] of that Act, notwithstanding anything to the contrary in the National Parks Act 1980; and
     
     *   (b) the Whakapoai land will be managed by the Crown as part of the Kahurangi National Park as if the Whakapoai land were constituted a national park under the National Parks Act 1980\.
     
@@ -7363,9 +7381,9 @@ South Island Landless Natives Act
     
     *   (b) added to the Kahurangi National Park,---
     
-    as if it had been declared and added pursuant to [section 7][720] of the National Parks Act 1980, notwithstanding anything to the contrary in [section 8][897] of that Act.
+    as if it had been declared and added pursuant to [section 7][722] of the National Parks Act 1980, notwithstanding anything to the contrary in [section 8][907] of that Act.
     
-    (4) [Section 11][718] and [Part 10][719] of the Resource Management Act 1991 do not apply to any lease back of the Whakapoai land to the Crown.
+    (4) [Section 11][720] and [Part 10][721] of the Resource Management Act 1991 do not apply to any lease back of the Whakapoai land to the Crown.
 
 #### Claim 92 (Port Adventure)
 
@@ -7425,13 +7443,13 @@ South Island Landless Natives Act
     
     (3) For the purposes only of clauses 15.6 and 15.7 of the deed of settlement, the successors to a SILNA land are, in relation to that land, deemed to be owners---
         
-    *   (a) within the meaning of [section 170][894] of Te Ture Whenua Maori Act 1993, for the purposes of that Act; and
+    *   (a) within the meaning of [section 170][904] of Te Ture Whenua Maori Act 1993, for the purposes of that Act; and
     
-    *   (b) within the meaning of [regulation 2][706] of the Maori Assembled Owners Regulations 1995, for the purposes of those regulations.
+    *   (b) within the meaning of [regulation 2][707] of the Maori Assembled Owners Regulations 1995, for the purposes of those regulations.
     
-    (4) If the successors to a SILNA land do not make a decision in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][878] to adopt any one of the options listed in clause 15.7.5 of the deed of settlement, they must be deemed to have chosen the option which received the most votes in accordance with those procedures.
+    (4) If the successors to a SILNA land do not make a decision in accordance with the procedures set out in the [Maori Assembled Owners Regulations 1995][888] to adopt any one of the options listed in clause 15.7.5 of the deed of settlement, they must be deemed to have chosen the option which received the most votes in accordance with those procedures.
     
-    (5) The recording officer of each meeting of successors to a SILNA land must report to the Minister, under the procedure set out in [regulation 48][895] of the Maori Assembled Owners Regulations 1995, the decisions of the successors made under clause 15.7.2 or clause 15.7.4, and clause 15.7.5 of the deed of settlement.
+    (5) The recording officer of each meeting of successors to a SILNA land must report to the Minister, under the procedure set out in [regulation 48][905] of the Maori Assembled Owners Regulations 1995, the decisions of the successors made under clause 15.7.2 or clause 15.7.4, and clause 15.7.5 of the deed of settlement.
     
     (6) The Registrar may (and must, upon instruction from the Minister) take such steps as are necessary on the Registrar's part to give effect to section 15 of the deed of settlement.
     
@@ -7463,11 +7481,11 @@ South Island Landless Natives Act
     
     (4) Before the Maori Land Court makes a vesting order in relation to the Pāringa River site pursuant to [section 346(1)][394], the ancillary claims trustees must have entered into, and presented for registration with the Registrar, a Ngā Whenua Rāhui kawenata relating to the protection of the Pāringa River site in the form set out in attachment 15.2 of the deed of settlement.
     
-    (5) The Ngā Whenua Rāhui kawenata referred to in subsection (4) is deemed to be entered into under [section 77A][791] of the Reserves Act 1977, notwithstanding the fact that the Pāringa River site is not Māori land.
+    (5) The Ngā Whenua Rāhui kawenata referred to in subsection (4) is deemed to be entered into under [section 77A][793] of the Reserves Act 1977, notwithstanding the fact that the Pāringa River site is not Māori land.
     
-    (6) Notwithstanding [section 77A(1)(b)][791] of the Reserves Act 1977, the owner of the Pāringa River site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
+    (6) Notwithstanding [section 77A(1)(b)][793] of the Reserves Act 1977, the owner of the Pāringa River site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
     
-    (7) The Registrar must, in accordance with [section 77A][791] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (4) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][757], until such title is issued, may constitute it a folium of the register).
+    (7) The Registrar must, in accordance with [section 77A][793] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (4) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][759], until such title is issued, may constitute it a folium of the register).
     
     Section 457(4): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -7483,11 +7501,11 @@ South Island Landless Natives Act
     
     (4) Before the Maori Land Court makes a vesting order in relation to Okahu replacement site pursuant to [section 346(1)][394], the ancillary claims trustees must have entered into and presented for registration with the Registrar, a Ngā Whenua Rāhui kawenata relating to the protection of Okahu replacement site in the form set out in attachment 15.3 of the deed of settlement.
     
-    (5) The Ngā Whenua Rāhui kawenata referred to in subsection (4) is deemed to be entered into under [section 77A][791] of the Reserves Act 1977, notwithstanding the fact that Okahu replacement site is not Māori land.
+    (5) The Ngā Whenua Rāhui kawenata referred to in subsection (4) is deemed to be entered into under [section 77A][793] of the Reserves Act 1977, notwithstanding the fact that Okahu replacement site is not Māori land.
     
-    (6) Notwithstanding [section 77A(1)(b)][791] of the Reserves Act 1977, the owner of Okahu replacement site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
+    (6) Notwithstanding [section 77A(1)(b)][793] of the Reserves Act 1977, the owner of Okahu replacement site may only terminate the Ngā Whenua Rāhui kawenata with the written agreement of the Minister of Conservation.
     
-    (7) The Registrar must, in accordance with [section 77A][791] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (4) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][757], until such title is issued, may constitute it a folium of the register).
+    (7) The Registrar must, in accordance with [section 77A][793] of the Reserves Act 1977, register the Ngā Whenua Rāhui kawenata referred to in subsection (4) as soon as it is executed and presented for registration by the ancillary claims trustees (and, if no certificate of title has been issued under the [Land Transfer Act 1952][759], until such title is issued, may constitute it a folium of the register).
     
     Section 458(4): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -7528,21 +7546,21 @@ Conditions and legislation
     
 *   \[Repealed\]
     
-    Section 462: repealed, on 23 May 2008, by [section 7][898] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+    Section 462: repealed, on 23 May 2008, by [section 7][908] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ##### 463 Enactments relating to resumptive memorials on land within Ngāi Tahu claim area no longer to apply
     
 *   Nothing in---
         
-    *   (a) [sections 8A to 8H][899] of the Treaty of Waitangi Act 1975; or
+    *   (a) [sections 8A to 8H][909] of the Treaty of Waitangi Act 1975; or
     
-    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][679] by [Part 4][900] of the New Zealand Railways Corporation Restructuring Act 1990; or
+    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][679] by [Part 4][910] of the New Zealand Railways Corporation Restructuring Act 1990; or
     
-    *   (c) [sections 27A to 27C][901] of the State-Owned Enterprises Act 1986; or
+    *   (c) [sections 27A to 27C][911] of the State-Owned Enterprises Act 1986; or
     
-    *   (d) [sections 211 to 213][902] of the Education Act 1989; or
+    *   (d) [sections 211 to 213][912] of the Education Act 1989; or
     
-    *   (e) [Part 3][903] of the New Zealand Railways Corporation Restructuring Act 1990---
+    *   (e) [Part 3][913] of the New Zealand Railways Corporation Restructuring Act 1990---
     
     applies in relation to any land within the Ngāi Tahu claim area.
 
@@ -7574,13 +7592,13 @@ Conditions and legislation
 
 ##### 465 Maori Trust Boards Act 1955
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][904]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][914]._
     
     (2) _Amendment(s) incorporated in the Act(s)_.
 
 ##### 466 Rule against perpetuities not to apply
     
-*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][905] do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provision of that Act would otherwise make the document invalid or ineffective.
+*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][915] do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provision of that Act would otherwise make the document invalid or ineffective.
 
 ##### 467 Settlement for benefit of Ngāi Tahu Whānui collectively
     
@@ -7609,17 +7627,17 @@ Miscellaneous
 
 ##### 471 Disposition by the Crown
     
-*   Except as expressly provided in this Act, the vesting of the fee simple estate in a specified settlement property is deemed to be a disposition by the Crown for the purposes of [Part 4A][743] of the Conservation Act 1987\.
+*   Except as expressly provided in this Act, the vesting of the fee simple estate in a specified settlement property is deemed to be a disposition by the Crown for the purposes of [Part 4A][745] of the Conservation Act 1987\.
 
 ##### 472 Encumbrances
     
-*   (1) Except as expressly provided in this Act, an encumbrance which is not registrable under the [Land Transfer Act 1952][757] is not required by virtue of this Act to be registered against the certificate of title for the specified settlement property concerned.
+*   (1) Except as expressly provided in this Act, an encumbrance which is not registrable under the [Land Transfer Act 1952][759] is not required by virtue of this Act to be registered against the certificate of title for the specified settlement property concerned.
     
     (2) The inclusion in a schedule of this Act of an encumbrance in relation to land does not give the encumbrance any greater force or effect than it has had it not been included in the schedule.
     
-    (3) Except as expressly provided in this Act, nothing in [Te Ture Whenua Maori Act 1993][882] applies to an encumbrance given pursuant to this Act or the deed of settlement in relation to land that is vested as Māori freehold land pursuant to any of [Parts 13][361], [14][383], or [15][516].
+    (3) Except as expressly provided in this Act, nothing in [Te Ture Whenua Maori Act 1993][892] applies to an encumbrance given pursuant to this Act or the deed of settlement in relation to land that is vested as Māori freehold land pursuant to any of [Parts 13][361], [14][383], or [15][516].
     
-    (4) Except as expressly provided in this Act, the fee simple estate of a specified settlement property that is land under the [Land Transfer Act 1952][757] and that is vested by this Act is vested subject to any encumbrances on the certificate of title relating to the specified settlement property.
+    (4) Except as expressly provided in this Act, the fee simple estate of a specified settlement property that is land under the [Land Transfer Act 1952][759] and that is vested by this Act is vested subject to any encumbrances on the certificate of title relating to the specified settlement property.
 
 ##### 473 Continuing application of statute and other matters
     
@@ -7629,7 +7647,7 @@ Miscellaneous
     
 *   (1) Where the fee simple estate in a specified settlement property is vested by this Act in a Ngāi Tahu recipient, and that specified settlement property is---
         
-    *   (a) land which is registered under the [Land Transfer Act 1952][757], the Registrar must, on written application by any person authorised by the chief executive,---
+    *   (a) land which is registered under the [Land Transfer Act 1952][759], the Registrar must, on written application by any person authorised by the chief executive,---
             
         *   (i) register that Ngāi Tahu recipient as the proprietor of the fee simple estate in that specified settlement property, in substitution for the Crown body which held the fee simple estate in that specified settlement property immediately before that vesting; and
         
@@ -7637,7 +7655,7 @@ Miscellaneous
         
         
     
-    *   (b) land other than land registered under the [Land Transfer Act 1952][757], the Registrar must, on written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that specified settlement property, in [form 1][906] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
+    *   (b) land other than land registered under the [Land Transfer Act 1952][759], the Registrar must, on written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that specified settlement property, in [form 1][916] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
     
     (2) An application made in accordance with subsection (1) must---
         
@@ -7655,25 +7673,25 @@ Miscellaneous
     
     Section 474(1)(b): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
-    Section 474(2)(b): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 474(2)(b): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
     
     Section 474(4): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
 ##### 475 Certification of registrable interests
     
-*   (1) Where the fee simple estate in a specified settlement property is vested in a Ngāi Tahu recipient subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the [Land Transfer Act 1952][757]) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Surveyor-General, must include in the certificate given pursuant to subsection (1) or subsection (2) of [section 474][554], a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attaching to it.
+*   (1) Where the fee simple estate in a specified settlement property is vested in a Ngāi Tahu recipient subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the [Land Transfer Act 1952][759]) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Surveyor-General, must include in the certificate given pursuant to subsection (1) or subsection (2) of [section 474][554], a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attaching to it.
     
     (2) The Registrar must enter a notation of the easement or encumbrance upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement or encumbrance.
     
-    (3) Where a notation of an easement or encumbrance is entered upon the relevant certificate of title pursuant to subsection (2), the easement or encumbrance is deemed for all purposes (including all subsequent dealings) to be created under the [Land Transfer Act 1952][757].
+    (3) Where a notation of an easement or encumbrance is entered upon the relevant certificate of title pursuant to subsection (2), the easement or encumbrance is deemed for all purposes (including all subsequent dealings) to be created under the [Land Transfer Act 1952][759].
     
-    Section 475(1): amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 475(1): amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12).
     
     Section 475(2): amended, on 1 February 1999, pursuant to section 31(2) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
 ##### 476 Exclusions
     
-*   (1) [Sections 24][728] and [25][729] of the Reserves Act 1977, the [Wildlife Act 1953][689], and [sections 18(7)][798], 18(8), and [26][907] of the Conservation Act 1987 do not apply to---
+*   (1) [Sections 24][730] and [25][731] of the Reserves Act 1977, the [Wildlife Act 1953][689], and [sections 18(7)][800], 18(8), and [26][917] of the Conservation Act 1987 do not apply to---
         
     *   (a) a change of classification or purpose of a reserve; or
     
@@ -7685,11 +7703,11 @@ Miscellaneous
     
     where the reserve, wildlife refuge, or conservation area is a specified settlement property vested in a Ngāi Tahu recipient by this Act, unless expressly provided otherwise in the section by which the specified settlement property is vested.
     
-    (2) [Sections 78(1)(a)][908], [79][909], [80][910], [81][911], and [82][912] of the Reserves Act 1977 do not apply to the vesting of a specified settlement property by this Act.
+    (2) [Sections 78(1)(a)][918], [79][919], [80][920], [81][921], and [82][922] of the Reserves Act 1977 do not apply to the vesting of a specified settlement property by this Act.
     
-    (3) Nothing in [section 11][718] or [Part 10][719] of the Resource Management Act 1991 applies to the vesting of the fee simple estate in a specified settlement property by this Act, or anything incidental to, or required for the purposes of, any such vesting.
+    (3) Nothing in [section 11][720] or [Part 10][721] of the Resource Management Act 1991 applies to the vesting of the fee simple estate in a specified settlement property by this Act, or anything incidental to, or required for the purposes of, any such vesting.
     
-    (4) [Sections 116(2)(d)][913], [117][775], and [118][914] of the Public Works Act 1981, and [sections 342][915] and [345(3)][916] of the Local Government Act 1974, do not apply to the stopping of a road by this Act.
+    (4) [Sections 116(2)(d)][923], [117][777], and [118][924] of the Public Works Act 1981, and [sections 342][925] and [345(3)][926] of the Local Government Act 1974, do not apply to the stopping of a road by this Act.
 
 ##### 477 Stopping of roads
     
@@ -8100,19 +8118,19 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 [s 21][27]
 
-*   1 For the purposes of [section 21][27], the following provisions of [Part 2][730] of the Public Works Act 1981 and of [Schedule 3][736] of that Act do not apply:
+*   1 For the purposes of [section 21][27], the following provisions of [Part 2][732] of the Public Works Act 1981 and of [Schedule 3][738] of that Act do not apply:
         
-    *   (a) [section 23(1)(b)(iv)][917]:
+    *   (a) [section 23(1)(b)(iv)][927]:
     
-    *   (b) [section 23(3)][917]:
+    *   (b) [section 23(3)][927]:
     
-    *   (c) [sections 24][918] and [25][919]:
+    *   (c) [sections 24][928] and [25][929]:
     
-    *   (d) [form B][736] of Schedule 3\.
+    *   (d) [form B][738] of Schedule 3\.
     
     
 
-*   2 For the purposes of [section 21][27], [section 23(1)(b)][917] of the Public Works Act 1981 has effect as if, for subparagraphs (ii) and (iii), the following subparagraph were substituted:
+*   2 For the purposes of [section 21][27], [section 23(1)(b)][927] of the Public Works Act 1981 has effect as if, for subparagraphs (ii) and (iii), the following subparagraph were substituted:
     
     > *   "(ii) a statement that the land is to be acquired under section 21 of the Ngāi Tahu Claims Settlement Act 1998; and".
     > 
@@ -8120,7 +8138,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     
     
 
-*   3 For the purposes of [section 21][27], [section 26][920] of the Public Works Act 1981 has effect as if, for subsection (1), the following subsection were substituted:
+*   3 For the purposes of [section 21][27], [section 26][930] of the Public Works Act 1981 has effect as if, for subsection (1), the following subsection were substituted:
     
     > *   "(1) After the expiration of the period of 20 working days specified in the notice served under section 23(1)(c) of this Act, the land intended to be taken must be taken in the following manner:
     >         
@@ -8134,7 +8152,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     >     
     >     *   "(e) the Minister must recommend the Governor-General to issue a Proclamation taking the land.
     >     
-    >     *   "Schedule 3 clause 3: amended, on 1 June 2002, pursuant to [section 69(1) ][820]of the Cadastral Survey Act 2002 (2002 No 12)."
+    >     *   "Schedule 3 clause 3: amended, on 1 June 2002, pursuant to [section 69(1) ][830]of the Cadastral Survey Act 2002 (2002 No 12)."
     >     
     >     
     > 
@@ -8142,7 +8160,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     
     
 
-*   4 For the purposes of [section 21][27], [Schedule 1][735] of the Public Works Act 1981 has effect as if, for the form set out in that schedule, the following form were substituted:
+*   4 For the purposes of [section 21][27], [Schedule 1][737] of the Public Works Act 1981 has effect as if, for the form set out in that schedule, the following form were substituted:
     
     > #### "Notice of intention to take land in \[_insert name of city or district_\] for the purpose of giving effect to the Ngāi Tahu settlement
     > 
@@ -8181,7 +8199,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     
     
 
-*   5 For the purposes of [section 21][27], [Form A][736] of Schedule 3 of the Public Works Act 1981 has effect as if,---
+*   5 For the purposes of [section 21][27], [Form A][738] of Schedule 3 of the Public Works Act 1981 has effect as if,---
         
     *   (a) for the words ""_or_ \[_name of local authority_\] for the purpose of \[_insert name of public work mentioned in Proclamation or declaration_\]"", the words ""so that it can be transferred to a Ngāi Tahu recipient pursuant to the Ngāi Tahu settlement"" were substituted; and
     
@@ -8321,7 +8339,7 @@ Māpoutahi All that land situated in Otago Land District, Dunedin City, comprisi
 
 Subject to protected Private Land Agreement in form set out in attachment 11.20 of the deed of settlement.
 
-Registered as an archaeological site by the Historic Places Trust and classified as a Pā Site---Register number 5678\. 
+Registered as an archaeological site by the Historic Places Trust and classified as a Pā Site---Register number 5678\.
 
 Matariki All that land situated in Southland Land District, Southland District, comprising an undefined area being Matariki Island and Islet (off Cosy Nook). Subject to survey, as shown on Allocation Plan A 194 (SO 12239). None.
 
@@ -8333,7 +8351,7 @@ Moturata (Taieri Island) All that land situated in Otago Land District, Clutha D
 
 Subject to licence to graze dated 23 July 1997 in favour of Murray Thacker.
 
-Subject to licence to graze dated 23 July 1997 in favour of B R Harris and J P Harris. 
+Subject to licence to graze dated 23 July 1997 in favour of B R Harris and J P Harris.
 
 Sinclair Wetlands All that land situated in Otago Land District, Clutha District, comprising 258.8471 hectares, more or less, being Sections 2, 3, 4, 5 and Part Sections 1 and 6, Block XVI and Sections 1, 2, 3, 4, 6 and 8, Block XXIII, Waihola Survey District, (SO 65, 78, 1742 and 8342). Part Certificate of Title 428/22 subject to Covenant registered as Document 651066\. As shown marked ""B"" on Allocation Plan A 500 (SO 24691). Subject to assumption of all of the obligations of the Crown under an unregistered agreement dated 13 July 1985 between Horace Alexander Sinclair and Ducks Unlimited (NZ) Incorporated (subsequently assigned to the Crown pursuant to an Agreement for Sale and Purchase between Ducks Unlimited (NZ) Incorporated and Peter Austin Gowing (as Agent for the Crown) (with the exception of the obligation to provide institutional care described in clause 6 of that agreement).
 
@@ -8415,7 +8433,7 @@ Maerewhenua All that land situated in Otago Land District, Waitaki District, com
 
 Moeraki Lake site All that land situated in Westland Land District, Westland District, comprising 4.6 hectares, approximately, being Part Section 2, SO 11969\. Part _Gazette_ 1993, page 1394\. Subject to survey, as shown on Allocation Plan A 204 (SO 12493). 
 
-Subject to an existing licence to occupy (numbered 40.029) entered into pursuant to [section 17(1)(f)][921] of the Conservation Act 1987 on 22 June 1995 over a bach site on the Moeraki Lake site:
+Subject to an existing licence to occupy (numbered 40.029) entered into pursuant to [section 17(1)(f)][931] of the Conservation Act 1987 on 22 June 1995 over a bach site on the Moeraki Lake site:
 
 Subject to Te Rūnanga o Ngāi Tahu granting, on vesting of reserve,---
     
@@ -8433,7 +8451,7 @@ Subject to grazing licence dated 5 June 1996 between the Minister of Conservatio
 
 Subject to right of New Zealand Transport Agency to use road spoil dumping site on reserve.
 
-Subject to power line easement in favour of R J Taylor and C M Webb, approved under [section 17Q][922], Conservation Act 1987 on 14 June 1987, and obligation to execute Deed of Easement for registration under [Land Transfer Act 1952][757].
+Subject to power line easement in favour of R J Taylor and C M Webb, approved under [section 17Q][932], Conservation Act 1987 on 14 June 1987, and obligation to execute Deed of Easement for registration under [Land Transfer Act 1952][759].
 
 Ōnawe Pā All that land situated in Canterbury Land District, Banks Peninsula District, comprising 28.4051 hectares, more or less, being Rural Sections 728, 26442 (SO 4404) and 42007 (SO 16213). All Certificate of Title 23B/888, together with a drainage easement by Conveyance (Deed 141D/818) and a grant of water rights by Transfer 229735; and all _Gazette_ Notice 541973/1), respectively. As shown on Allocation Plan MS 26 (SO 19833). None.
 
@@ -8470,8 +8488,8 @@ All that land situated in Canterbury Land District, Banks Peninsula District, co
 
 Both subject to survey, as shown on Allocation Plan MS 511 (SO 19893). Subject to grazing licence dated 4 May 1992 in favour of P L Higinbottom.
 
-*   Schedule 7 Part B: amended, on 1 August 2008, by [section 50(1)][763] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule 7 Part B: amended, on 1 August 2008, pursuant to [clause 28(2)][923] of Schedule 2 of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 7 Part B: amended, on 1 August 2008, by [section 50(1)][765] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 7 Part B: amended, on 1 August 2008, pursuant to [clause 28(2)][933] of Schedule 2 of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part C  
 Lease of Te Waihora sites
@@ -8740,11 +8758,11 @@ Clauses 11.6.19 to 11.6.23 of deed of settlement Joint Management Plan for Te Wa
 
 ##### 11.6.22 Time for preparation and submission of Plan
     
-*   Te Rūnanga and the Crown agree that the time periods specified in _[clause 11.6.19(g)][924]_ and _(o)_ for notification and submission for approval of the Joint Management Plan may be extended by agreement between Te Rūnanga and the Minister of Conservation.
+*   Te Rūnanga and the Crown agree that the time periods specified in _[clause 11.6.19(g)][934]_ and _(o)_ for notification and submission for approval of the Joint Management Plan may be extended by agreement between Te Rūnanga and the Minister of Conservation.
 
 ##### 11.6.23 Resolution of disputes
     
-*   Te Rūnanga and the Crown agree that the following provisions shall apply to any dispute between them arising out of the preparation or implementation of the Joint Management Plan (other than approval of the Joint Management Plan by Te Rūnanga and the Minister of Conservation pursuant to _[clause 11.6.19(o)][924]_):
+*   Te Rūnanga and the Crown agree that the following provisions shall apply to any dispute between them arising out of the preparation or implementation of the Joint Management Plan (other than approval of the Joint Management Plan by Te Rūnanga and the Minister of Conservation pursuant to _[clause 11.6.19(o)][934]_):
         
     *   (a) Te Rūnanga and the Crown acknowledge and agree that they wish to minimise and promptly settle any disputes which may arise. Accordingly each of them shall make active efforts in good faith to resolve any dispute which may arise;
     
@@ -8756,7 +8774,7 @@ Clauses 11.6.19 to 11.6.23 of deed of settlement Joint Management Plan for Te Wa
         
         
     
-    *   (c) if Te Rūnanga and the Crown cannot agree on a dispute resolution process within 10 Business Days (or such longer period as the parties might agree) after either party gives such written notice under _clause 11.6.23(b)_, or using such a process fail to settle the dispute within 25 Business Days after that date (or such longer period as the parties might agree) then the parties agree to refer the dispute to arbitration under the [Arbitration Act 1996][781]. The arbitration shall be conducted by one arbitrator appointed by the parties, if they can agree upon one, or failing agreement, one arbitrator to be appointed by the President for the time being of the Arbitrators' Institute of New Zealand. Te Rūnanga and the Crown agree to be bound by the award in the arbitration;
+    *   (c) if Te Rūnanga and the Crown cannot agree on a dispute resolution process within 10 Business Days (or such longer period as the parties might agree) after either party gives such written notice under _clause 11.6.23(b)_, or using such a process fail to settle the dispute within 25 Business Days after that date (or such longer period as the parties might agree) then the parties agree to refer the dispute to arbitration under the [Arbitration Act 1996][783]. The arbitration shall be conducted by one arbitrator appointed by the parties, if they can agree upon one, or failing agreement, one arbitrator to be appointed by the President for the time being of the Arbitrators' Institute of New Zealand. Te Rūnanga and the Crown agree to be bound by the award in the arbitration;
     
     *   (d) Te Rūnanga and the Crown shall bear the costs of such dispute resolution equally, unless otherwise agreed; and
     
@@ -8785,7 +8803,7 @@ Lake Mahināpua
     
 *   4 Part Reserve 1933 (SO 4614 and 5756) (26.1992 hectares). Balance _Gazette_ 1979, page 1396\.
     
-    Land managed under [section 62][925] Conservation Act 1987 adjoining the southern boundary of the lake, shown as J33/22 on DOC allocation map SO 11209 sheet J33\.
+    Land managed under [section 62][935] Conservation Act 1987 adjoining the southern boundary of the lake, shown as J33/22 on DOC allocation map SO 11209 sheet J33\.
 
 *   5 Part Lot 5 DP 1478 (39.8138 hectares).
 
@@ -8834,7 +8852,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Aoraki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Aoraki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Aoraki or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -8851,6 +8869,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Aoraki.
+    
+*   Schedule 14: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -8887,7 +8907,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Aparima River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Aparima River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Aparima River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -8904,6 +8924,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Aparima River.
+    
+*   Schedule 15: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -8942,7 +8964,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hakataramea River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hakataramea River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Hakataramea River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -8959,6 +8981,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Hakataramea River.
+    
+*   Schedule 16: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -8989,7 +9013,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hakatere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hakatere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Hakatere or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9006,6 +9030,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Hakatere.
+    
+*   Schedule 17: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9042,7 +9068,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Hananui, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Hananui, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Hananui or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9059,6 +9085,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Hananui.
+    
+*   Schedule 18: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9089,7 +9117,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hekeao, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hekeao, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Hekeao or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9106,6 +9134,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Hekeao.
+    
+*   Schedule 19: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9142,7 +9172,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Hoka Kura, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Hoka Kura, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Hoka Kura or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9159,6 +9189,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Hoka Kura.
+    
+*   Schedule 20: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9191,7 +9223,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hurunui River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Hurunui River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Hurunui River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9208,6 +9240,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Hurunui River.
+    
+*   Schedule 21: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9242,7 +9276,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kā Moana Haehae, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kā Moana Haehae, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Kā Moana Haehae or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9259,6 +9293,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Kā Moana Haehae.
+    
+*   Schedule 22: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9293,7 +9329,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Kakaunui River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Kakaunui River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Kakaunui River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9310,6 +9346,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Kakaunui River.
+    
+*   Schedule 23: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9346,7 +9384,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Karangarua Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Karangarua Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Karangarua Lagoon or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9363,6 +9401,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Karangarua Lagoon.
+    
+*   Schedule 24: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9403,7 +9443,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kōtuku-Whakaoho, as provided in [section 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kōtuku-Whakaoho, as provided in [section 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Kōtuku-Whakaoho or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9420,6 +9460,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Kōtuku-Whakaoho.
+    
+*   Schedule 25: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9452,7 +9494,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Kōwai River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Kōwai River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Kōwai River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9469,6 +9511,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Kōwai River.
+    
+*   Schedule 26: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9509,7 +9553,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kura Tāwhiti, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kura Tāwhiti, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Kura Tāwhiti or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9526,6 +9570,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Kura Tāwhiti.
+    
+*   Schedule 27: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9560,7 +9606,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kuramea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Kuramea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Kuramea or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9577,6 +9623,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Kuramea.
+    
+*   Schedule 28: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9607,7 +9655,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Hauroko, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Hauroko, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Hauroko or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9624,6 +9672,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Hauroko.
+    
+*   Schedule 29: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9660,7 +9710,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Hawea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Hawea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Hawea or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9677,6 +9727,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Hawea.
+    
+*   Schedule 30: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9713,7 +9765,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Kaniere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Kaniere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Kaniere or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9730,6 +9782,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Kaniere.
+    
+*   Schedule 31: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9768,7 +9822,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Ōhau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Ōhau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Ōhau or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9785,6 +9839,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Ōhau.
+    
+*   Schedule 32: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9819,7 +9875,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Pāringa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Pāringa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Pāringa or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9836,6 +9892,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Pāringa.
+    
+*   Schedule 33: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9870,7 +9928,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Pūkaki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Pūkaki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Pūkaki or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9887,6 +9945,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Pūkaki.
+    
+*   Schedule 34: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9923,7 +9983,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Rotorua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Rotorua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Rotorua or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9940,6 +10000,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Rotorua.
+    
+*   Schedule 35: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -9982,7 +10044,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Wanaka, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Lake Wanaka, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Lake Wanaka or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -9999,6 +10061,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Wanaka.
+    
+*   Schedule 36: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10039,7 +10103,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Mahi Tīkumu, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Mahi Tīkumu, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Mahi Tīkumu or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10056,6 +10120,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Mahi Tīkumu.
+    
+*   Schedule 37: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10100,7 +10166,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Makaawhio, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Makaawhio, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Makaawhio or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10117,6 +10183,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Makaawhio.
+    
+*   Schedule 38: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10153,7 +10221,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Manawapōpōre/ Hikuraki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Manawapōpōre/ Hikuraki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Manawapōpōre/Hikuraki or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10170,6 +10238,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Manawapōpōre/Hikuraki.
+    
+*   Schedule 39: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10208,7 +10278,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Mata-au, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Mata-au, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Mata-au or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10225,6 +10295,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Mata-au.
+    
+*   Schedule 40: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10261,7 +10333,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Matakaea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Matakaea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Matakaea or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10278,6 +10350,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Matakaea.
+    
+*   Schedule 41: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10310,7 +10384,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Mataura River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Mataura River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Mataura River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10327,6 +10401,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Mataura River.
+    
+*   Schedule 42: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10359,7 +10435,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Moana Rua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Moana Rua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Moana Rua or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10376,6 +10452,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Moana Rua.
+    
+*   Schedule 43: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10408,7 +10486,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Motupōhue, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Motupōhue, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Motupōhue or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10425,6 +10503,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Motupōhue.
+    
+*   Schedule 44: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10461,7 +10541,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Moturau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Moturau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Moturau or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10478,6 +10558,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Moturau.
+    
+*   Schedule 45: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10516,7 +10598,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ō Tū Wharekai, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ō Tū Wharekai, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Ō Tū Wharekai or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10533,6 +10615,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Ō Tū Wharekai.
+    
+*   Schedule 46: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10569,7 +10653,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōkari Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōkari Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Ōkari Lagoon or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10586,6 +10670,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Ōkari Lagoon.
+    
+*   Schedule 47: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10618,7 +10704,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōkārito Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōkārito Lagoon, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Ōkārito Lagoon or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10635,6 +10721,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Lake Ōkārito.
+    
+*   Schedule 48: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10677,7 +10765,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōrakipaoa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Ōrakipaoa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Ōrakipaoa or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10694,6 +10782,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Ōrakipaoa.
+    
+*   Schedule 49: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10730,7 +10820,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Ōreti River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Ōreti River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Ōreti River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10747,6 +10837,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Ōreti River.
+    
+*   Schedule 50: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10785,7 +10877,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Pikirakatahi, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Pikirakatahi, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Pikirakatahi or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10802,6 +10894,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Pikirakatahi.
+    
+*   Schedule 51: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10832,7 +10926,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Pomahaka River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Pomahaka River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Pomahaka River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10849,6 +10943,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Pomahaka River.
+    
+*   Schedule 52: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10885,7 +10981,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Pouerua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Pouerua, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Pouerua or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10902,6 +10998,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Pouerua.
+    
+*   Schedule 53: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10936,7 +11034,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Punatarakao, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Punatarakao, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Punatarakao or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -10953,6 +11051,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Punatarakao.
+    
+*   Schedule 54: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -10985,7 +11085,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Rangitata River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Rangitata River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Rangitata River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11002,6 +11102,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Rangitata River.
+    
+*   Schedule 55: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11038,7 +11140,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Taramakau River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Taramakau River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Taramakau River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11055,6 +11157,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Taramakau River.
+    
+*   Schedule 56: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11091,7 +11195,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Takapo, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Takapo, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Takapo or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11108,6 +11212,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Takapo.
+    
+*   Schedule 57: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11146,7 +11252,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Ana-au, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Ana-au, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Te Ana-au or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11163,6 +11269,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Ana-Au.
+    
+*   Schedule 58: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11203,7 +11311,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Ao Mārama, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Ao Mārama, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Te Ao Mārama or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11220,6 +11328,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Ao Mārama.
+    
+*   Schedule 59: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11254,7 +11364,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tauraka Poti, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tauraka Poti, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Te Tauraka Poti or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11271,6 +11381,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Tauraka Poti.
+    
+*   Schedule 60: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11307,7 +11419,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Wairere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Wairere, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Te Wairere or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11324,6 +11436,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Wairere.
+    
+*   Schedule 61: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11360,7 +11474,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tititea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tititea, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Tititea or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11377,6 +11491,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Tititea.
+    
+*   Schedule 62: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11407,7 +11523,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Toi Toi as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Toi Toi as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Toi Toi or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11424,6 +11540,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Toi Toi.
+    
+*   Schedule 63: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11460,7 +11578,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tokatā, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tokatā, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Tokatā or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11477,6 +11595,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Tokatā.
+    
+*   Schedule 64: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11495,7 +11615,7 @@ Under [section 206][232], the Crown acknowledges Te Rūnanga o Ngāi Tahu's stat
 
 ##### Ngāi Tahu association with the Tūtae Putaputa
 
-This river, and the mahinga kai which it provided, fell under the mana of the Ngāti Wairaki chief Rakatuarua until Ngāi Tahu gained manawhenua (tribal authority over the area) by way of the Ngāti Kurī hapū. 
+This river, and the mahinga kai which it provided, fell under the mana of the Ngāti Wairaki chief Rakatuarua until Ngāi Tahu gained manawhenua (tribal authority over the area) by way of the Ngāti Kurī hapū.
 
 The tūpuna had considerable knowledge of whakapapa, traditional trails and tauranga waka, places for gathering kai and other taonga, ways in which to use the resources of the river, the relationship of people with the river and their dependence on it, and tikanga for the proper and sustainable utilisation of resources. All of these values remain important to Ngāi Tahu today.
 
@@ -11511,7 +11631,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Tūtae Putaputa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Tūtae Putaputa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Tūtae Putaputa or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11528,6 +11648,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Tūtae Putaputa.
+    
+*   Schedule 65: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11564,7 +11686,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tūtoko, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Tūtoko, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Tūtoko or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11581,6 +11703,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Tūtoko.
+    
+*   Schedule 66: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11617,7 +11741,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Uerau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Uerau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Uerau or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11634,6 +11758,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Uerau.
+    
+*   Schedule 67: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11670,7 +11796,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Uruwera, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Uruwera, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Uruwera or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11687,6 +11813,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Uruwera.
+    
+*   Schedule 68: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11737,7 +11865,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waiau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waiau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Waiau or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11754,6 +11882,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Waiau.
+    
+*   Schedule 69: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11804,7 +11934,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Waihola/Waipori, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Waihola/Waipori, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Waihola/Waipori or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11821,6 +11951,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Waihola/Waipori.
+    
+*   Schedule 70: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11859,7 +11991,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Wairewa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Wairewa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Wairewa or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11876,6 +12008,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Wairewa.
+    
+*   Schedule 71: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11926,7 +12060,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waitaki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waitaki, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Waitaki or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11943,6 +12077,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Waitaki.
+    
+*   Schedule 72: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -11977,7 +12113,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Waituna, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Waituna, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Waituna or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -11994,6 +12130,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Waituna.
+    
+*   Schedule 73: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -12028,7 +12166,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waipara River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to the Waipara River, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of the Waipara River or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -12045,6 +12183,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the Waipara River.
+    
+*   Schedule 74: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -12087,7 +12227,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakatipu-wai-māori, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakatipu-wai-māori, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Whakatipu-wai-māori or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -12104,6 +12244,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Whakatipu-wai-māori.
+    
+*   Schedule 75: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -12142,7 +12284,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakamatau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakamatau, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Whakamatau or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -12159,6 +12301,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Whakamatau.
+    
+*   Schedule 76: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -12197,7 +12341,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakarukumoana, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whakarukumoana, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Whakarukumoana or the Commissioner of Crown Lands, as the case may be, to enter into a Deed of Recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -12214,6 +12358,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Whakarukumoana.
+    
+*   Schedule 77: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -12222,7 +12368,7 @@ Schedule added to Resource Management Act 1991
 
 [s 226][253]
 
-_Amendment(s) incorporated in the [Act(s)][926]._
+_Amendment(s) incorporated in the [Act(s)][936]._
 
 ---
 
@@ -12824,11 +12970,11 @@ Created and granted on \[_insert date_\]
         
     *   4.5.1 the giving of consent by the Landholding Agent pursuant to this clause shall be completely at his or her discretion and subject to such conditions as he or she thinks fit;
     
-    *   4.5.2 where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act the Landholding Agent may, in considering whether to give consent pursuant to this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at Te Rūnanga's expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement land and the surrounding land or on any wildlife;
+    *   4.5.2 where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act the Landholding Agent may, in considering whether to give consent pursuant to this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at Te Rūnanga's expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement land and the surrounding land or on any wildlife;
     
     *   4.5.3 when applying for any consent under this clause Te Rūnanga shall provide to the Landholding Agent details of the proposed activity, including, but not limited to:
             
-        *   (i) the effect of the activity on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act, on the surrounding land and upon any wildlife;
+        *   (i) the effect of the activity on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act, on the surrounding land and upon any wildlife;
         
         *   (ii) any proposed measures by Te Rūnanga to avoid, remedy, or mitigate any adverse effects;
         
@@ -12882,9 +13028,9 @@ Created and granted on \[_insert date_\]
     
     **4.15** **Targeted rates**
     
-    Te Rūnanga is liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Rūnanga is entitled to occupy the entitlement land under clause 4.3\.
+    Te Rūnanga is liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Rūnanga is entitled to occupy the entitlement land under clause 4.3\.
     
-    Schedule 94 clause 4.15: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Schedule 94 clause 4.15: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 5 TERMINATION
     
@@ -13786,7 +13932,7 @@ Pursuant to [section 215][241] and without limiting the rest of this schedule, t
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Marokura, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Marokura, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite this statutory acknowledgement as evidence of the association of Ngāi Tahu to Te Tai o Marokura as provided in [section 208][234] (clause 12.2.5 of the deed of settlement).
 
@@ -13801,6 +13947,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239] and [215]
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Tai o Marokura.
+    
+*   Schedule 100: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -13853,7 +14001,7 @@ Pursuant to [section 215][241] and without limiting the rest of this schedule, t
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Mahaanui, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Mahaanui, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite this statutory acknowledgement as evidence of the association of Ngāi Tahu to Te Tai o Mahaanui as provided in [section 211][237] (clause 12.2.5 of the deed of settlement).
 
@@ -13868,6 +14016,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Tai o Mahaanui.
+    
+*   Schedule 101: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -13918,7 +14068,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Mimi o Tū Te Rakiwhānoa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Mimi o Tū Te Rakiwhānoa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite this statutory acknowledgement as evidence of the association of Ngāi Tahu to Te Mimi o Tū Te Rakiwhānoa as provided in [section 208][234] (clause 12.2.5 of the deed of settlement).
 
@@ -13933,6 +14083,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Mimi o Tū Te Rakiwhānoa.
+    
+*   Schedule 102: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -13987,7 +14139,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Arai Te Uru, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Te Tai o Arai Te Uru, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite this statutory acknowledgement as evidence of the association of Ngāi Tahu to Te Tai o Arai Te Uru as provided in [section 208][234] (clause 12.2.5 of the deed of settlement).
 
@@ -14002,6 +14154,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Te Tai o Arai Te Uru.
+    
+*   Schedule 103: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -14042,7 +14196,7 @@ Mokamoka (Mokomoko or Mokemoke) was one such settlement, in a shallow inlet off 
 
 Ōue, at the mouth of the Ōreti River (New River Estuary), opposite Ōmaui, was one of the principal settlements in Murihiku. Honekai who was a principal chief of Murihiku in his time was resident at this settlement in the early 1820s, at the time of the sealers. In 1850 there were said to still be 40 people living at the kaik at Ōmaui under the chief Mauhe. Honekai's brother, Pukarehu, was a man who led a very quiet life, and so was little known. He is remembered, however, in the small knob in the hills above Ōmaui which bears his name. When he passed away he was interred in the sandhills at the south end of the Ōreti Beach opposite Ōmaui. Ōue is said to have got its name from a man Māui left to look after his interests there until his return. It was also here that the coastal track to Riverton began. From Ōue to the beach the track was called Te Ara Pakipaki, then, when it reached the beach, it was called Mā Te Aweawe, finally, at the Riverton end, it was known as Mate a Waewae.
 
-After the death of Honekai, and as a consequence of inter-hapū and inter-tribal hostilities in the Canterbury region, many inhabitants of Ōue and other coastal villages on Foveaux Strait relocated to Ruapuke Island, which became the Ngāi Tahu stronghold in the south. The rangatira Pahi and Tupai were among the first to settle on the island. Pahi had previously had one of the larger and oldest pā in Murihiku at Pahi (Pahia), where 40 to 50 whare (houses) were reported in 1828\. The [Treaty of Waitangi][847] was signed at Ruapuke Island by Tuhawaiki and others. No battles however occurred here, the pā Pā-raki-ao was never fully completed, due to the realisation that Te Rauparaha could not reach this far south.
+After the death of Honekai, and as a consequence of inter-hapū and inter-tribal hostilities in the Canterbury region, many inhabitants of Ōue and other coastal villages on Foveaux Strait relocated to Ruapuke Island, which became the Ngāi Tahu stronghold in the south. The rangatira Pahi and Tupai were among the first to settle on the island. Pahi had previously had one of the larger and oldest pā in Murihiku at Pahi (Pahia), where 40 to 50 whare (houses) were reported in 1828\. The [Treaty of Waitangi][857] was signed at Ruapuke Island by Tuhawaiki and others. No battles however occurred here, the pā Pā-raki-ao was never fully completed, due to the realisation that Te Rauparaha could not reach this far south.
 
 Other important villages along the coast included: Te Wae Wae (Waiau), Taunoa (Ōrepuki), Kawakaputaputa (Wakaputa), Ōraka (Colac Bay), Aparima (Riverton---named Aparima after the daughter of the noted southern rangatira Hekeia, to whom he bequeathed all of the land which his eye could see as he stood on a spot at Ōtaitai, just north of Riverton), Turangiteuaru, Awarua (Bluff), Te Whera, Toe Toe (mouth of the Mataura River) and Waikawa.
 
@@ -14076,7 +14230,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Rakiura/Te Ara a Kiwa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Rakiura/Te Ara a Kiwa, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to enable Te Rūnanga o Ngāi Tahu and any member of Ngāi Tahu Whānui to cite this statutory acknowledgement as evidence of the association of Ngāi Tahu to Rakiura/Te Ara a Kiwa as provided in [section 208][234] (clause 12.2.5 of the deed of settlement).
 
@@ -14091,6 +14245,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Rakiura/Te Ara a Kiwa.
+    
+*   Schedule 104: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -14103,9 +14259,9 @@ Clauses 12.17.3 and 12.17.4 of deed of settlement Right to purchase authorisatio
     
 *   The Crown agrees that the Settlement Legislation will provide that the right to purchase Authorisations described in clause 12.17.2 shall be exercisable as follows:
         
-    *   (a) at least 10 Business Days in advance of any offer by public tender pursuant to [section 157][858] of the Resource Management Act 1991 of Authorisations for the whole or any part of the Takiwā of Ngāi Tahu Whānui, the Minister will notify Te Rūnanga of that intended offer and will provide to Te Rūnanga, or ensure Te Rūnanga has reasonable access to any information which would be included in the public notice of the offer of Authorisations pursuant to [section 157][858] of that Act, or which the Minister would make available, upon request, to any other tenderer or member of the public who so requested;
+    *   (a) at least 10 Business Days in advance of any offer by public tender pursuant to [section 157][868] of the Resource Management Act 1991 of Authorisations for the whole or any part of the Takiwā of Ngāi Tahu Whānui, the Minister will notify Te Rūnanga of that intended offer and will provide to Te Rūnanga, or ensure Te Rūnanga has reasonable access to any information which would be included in the public notice of the offer of Authorisations pursuant to [section 157][868] of that Act, or which the Minister would make available, upon request, to any other tenderer or member of the public who so requested;
     
-    *   (b) after considering tenders submitted for any part of the Takiwā of Ngāi Tahu Whānui pursuant to [section 158][861] of the Act, the Minister shall give written notice to Te Rūnanga.
+    *   (b) after considering tenders submitted for any part of the Takiwā of Ngāi Tahu Whānui pursuant to [section 158][871] of the Act, the Minister shall give written notice to Te Rūnanga.
             
         *   (i) offering to Te Rūnanga, on the terms and conditions (including as to remuneration) specified in the tender or tenders most preferred by the Minister for each Authorisation, that Authorisation or those Authorisations (if more than one) which the Minister considers would satisfy the conditions of _clauses 12.17.2(a)_ and _(b)_. Where the only tender is the tender deemed to have been lodged by Te Rūnanga under _clause 12.17.6(a)_, or where there are other tenders but the Minister decides not to accept any of those other tenders, the deemed tender shall, for the purposes of this _clause 12.17.3(b)(i)_, be the tender most preferred by the Minister for that Authorisation; and
         
@@ -14155,7 +14311,7 @@ Clauses 12.17.3 and 12.17.4 of deed of settlement Right to purchase authorisatio
         
         *   (iii) the Minister shall be free to grant such Authorisation to any other tenderer on terms and conditions different from those upon which the Minister offered the Authorisation to Te Rūnanga, provided that the Minister has first offered the Authorisation to Te Rūnanga on those new terms, in accordance with the procedures set out in this _clause 12.17.3_ (excepting _clauses 12.17.3(a), 12.17.3(c)(i), 12.17.3(d)_ and _12.17.3(e)_) and Te Rūnanga has failed or declined to exercise its right to purchase the Authorisation on those new terms and conditions accordingly; and
         
-        *   (iv) if the Minister wishes to re-offer the Authorisation by public tender in accordance with [section 157][858] of the Resource Management Act 1991, the Minister must comply with all of the procedures set out in this _clause 12.17.3_.
+        *   (iv) if the Minister wishes to re-offer the Authorisation by public tender in accordance with [section 157][868] of the Resource Management Act 1991, the Minister must comply with all of the procedures set out in this _clause 12.17.3_.
         
         
     
@@ -14167,7 +14323,7 @@ Clauses 12.17.3 and 12.17.4 of deed of settlement Right to purchase authorisatio
         
     *   (a) in respect of the various time limits specified in _clauses 12.17.3(b), 12.17.3(c)_, and _12.17.3(e)_ time shall be of the essence;
     
-    *   (b) if Te Rūnanga disputes any notice given by the Minister under _clause 12.17.3(d)(ii)_ or deemed to be so given by the proviso to _clause 12.17.3(d)_, it may give notice in writing to the Minister by no later than 5.00 pm on the 2nd Business Day following receipt of the notice from the Minister that it seeks that the dispute be referred to arbitration, and the parties agree that the dispute shall thereupon be referred to arbitration under the [Arbitration Act 1996][781], in accordance with this _clause 12.17.4_, provided that if Te Rūnanga fails to give notice within the period specified it shall be deemed not to dispute the Minister's notice;
+    *   (b) if Te Rūnanga disputes any notice given by the Minister under _clause 12.17.3(d)(ii)_ or deemed to be so given by the proviso to _clause 12.17.3(d)_, it may give notice in writing to the Minister by no later than 5.00 pm on the 2nd Business Day following receipt of the notice from the Minister that it seeks that the dispute be referred to arbitration, and the parties agree that the dispute shall thereupon be referred to arbitration under the [Arbitration Act 1996][783], in accordance with this _clause 12.17.4_, provided that if Te Rūnanga fails to give notice within the period specified it shall be deemed not to dispute the Minister's notice;
     
     *   (c) the arbitration shall be conducted by a single arbitrator:
             
@@ -14177,7 +14333,7 @@ Clauses 12.17.3 and 12.17.4 of deed of settlement Right to purchase authorisatio
         
         
     
-    *   (d) Te Rūnanga and the Crown agree to be bound by the award in the arbitration, there shall be no appeal to any Court arising from that award and accordingly [clauses 4][927] and [5][928] of the Second Schedule to the Arbitration Act 1996 shall not apply;
+    *   (d) Te Rūnanga and the Crown agree to be bound by the award in the arbitration, there shall be no appeal to any Court arising from that award and accordingly [clauses 4][937] and [5][938] of the Second Schedule to the Arbitration Act 1996 shall not apply;
     
     *   (e) the award in the arbitration shall be made not more than 5 Business Days after the appointment of the arbitrator under _clause 12.17.4(c)_;
     
@@ -14202,9 +14358,9 @@ Crown Tītī Islands
 
 The islands that:
     
-*   (a) since the deed of cession dated 29 June 1864 whereby the island of Rakiura and all the large islands and all the small islands adjacent to it were transferred to the Crown, have remained in the ownership and control of the Crown subject to certain rights of Rakiura Māori to take tītī as provided in the [Titi (Muttonbird) Islands Regulations 1978][865], and includes the islets and stacks adjacent to them, and also includes Pikaumamakau-iti (North Island) being 8.3 hectares, more or less, Section 1, SO 12217; and
+*   (a) since the deed of cession dated 29 June 1864 whereby the island of Rakiura and all the large islands and all the small islands adjacent to it were transferred to the Crown, have remained in the ownership and control of the Crown subject to certain rights of Rakiura Māori to take tītī as provided in the [Titi (Muttonbird) Islands Regulations 1978][875], and includes the islets and stacks adjacent to them, and also includes Pikaumamakau-iti (North Island) being 8.3 hectares, more or less, Section 1, SO 12217; and
 
-*   (b) are more particularly defined in the term "Crown island" in [regulation 2][867] of the Titi (Muttonbird) Islands Regulations 1978, and includes the islets and stacks adjacent to them, and also includes Pikaumamakau-iti (North Island) being 8.3 hectares, more or less, Section 1, SO 12217; and
+*   (b) are more particularly defined in the term "Crown island" in [regulation 2][877] of the Titi (Muttonbird) Islands Regulations 1978, and includes the islets and stacks adjacent to them, and also includes Pikaumamakau-iti (North Island) being 8.3 hectares, more or less, Section 1, SO 12217; and
 
 *   (c) are more particularly described as Southland Land District, Southland District, comprising---
         
@@ -14212,43 +14368,43 @@ The islands that:
         
         46.9 hectares, more or less, being Section 15, SO 12215:
     
-    *   (ii) Jacky Lee Island, 
+    *   (ii) Jacky Lee Island,
         
         30.7 hectares, more or less, being Section 16, SO 12215:
     
-    *   (iii) Bunker Islets, 
+    *   (iii) Bunker Islets,
         
         10.7 hectares, more or less, being Section 17, SO 12215:
     
-    *   (iv) Pihore Island, 
+    *   (iv) Pihore Island,
         
         1.4 hectares, more or less, being Section 14, SO 12215:
     
-    *   (v) Weka Island, 
+    *   (v) Weka Island,
         
         8.1 hectares, more or less, being Section 11, SO 12215:
     
-    *   (vi) Rukawahakura Island, 
+    *   (vi) Rukawahakura Island,
         
         23.3 hectares, more or less, being Section 12, SO 12215:
     
-    *   (vii) Takiwiwini Island, 
+    *   (vii) Takiwiwini Island,
         
         1.5 hectares, more or less, being Section 13, SO 12215:
     
-    *   (viii) Kopeka Island, 
+    *   (viii) Kopeka Island,
         
         1.8 hectares, more or less, being Section 10, SO 12215:
     
-    *   (ix) The Brothers (formerly known as the Sisters), 
+    *   (ix) The Brothers (formerly known as the Sisters),
         
         4.6 hectares, more or less, being Section 9, SO 12215:
     
-    *   (x) Ernest Island, 
+    *   (x) Ernest Island,
         
         16.7 hectares, more or less, being Section 7, SO 12215:
     
-    *   (xi) Kaninihi Island, 
+    *   (xi) Kaninihi Island,
         
         2.6 hectares, more or less, being Section 8, SO 12215:
     
@@ -14260,23 +14416,23 @@ The islands that:
         
         3.2 hectares, more or less, being Section 6, SO 12215:
     
-    *   (xiv) Big Island, 
+    *   (xiv) Big Island,
         
         23.6 hectares, more or less, being Section 4, SO 12215:
     
-    *   (xv) Betsy Island, 
+    *   (xv) Betsy Island,
         
         6.3 hectares, more or less, being Section 2 , SO 12215:
     
-    *   (xvi) Kundy Island or North Island, 
+    *   (xvi) Kundy Island or North Island,
         
         23.0 hectares, more or less, being Section 1, SO 12215:
     
-    *   (xvii) Rat Island, 
+    *   (xvii) Rat Island,
         
         13.1 hectares, more or less, being Section 3, SO 12215:
     
-    *   (xviii) Pikomamakau-iti Island or North Island, 
+    *   (xviii) Pikomamakau-iti Island or North Island,
         
         8.3 hectares, more or less, being Section 1, SO 12217\.
     
@@ -14284,8 +14440,8 @@ The islands that:
 
 As shown on Allocation Plans SS 432, sheets 1 to 9 (SO 12252), and includes the islets and stacks adjacent to them. None.
 
-Legal roads Certain legal but unformed roads within the outside boundary of Part Reserve 145, situated in Blocks III, IV, VII, VIII, XII, and XVI Kaniere Survey District and Blocks V, IX, and XIII Turiwhate Survey District, as shown bordered with bold black lines and labelled ""Middle Section"" in the plan of the Arahura Valley as shown on Allocation Plan SS 429/1 (SO 12506), more particularly described as Westland Land District, Westland District, comprising 130 hectares, approximately, being Legal Road adjoining Part Reserve 145, Rural Sections 3061, 3106 and 5562, Part Rural Sections 744, 1676 and 2711, Section 1, SO 11596, Lot 1, DP 730, Section 2, SO 12438, Lot 1, DP 2095, Rural Section 2313, Wainihinihi Creek, Caledonian Creek and Mount Brown Creek. Subject to proposed access easements in favour of Lot 1 DP 730, Rural Sections 3061 and 3106 and Part Rural Section 2711\. Subject to survey as shown on Allocation Plan SS 429/1, 2, 2A, 3A and 4 (SO 12506) and Allocation Plan SS 429/3 (SO 12544). Subject to exploration Permit 40 051 entered into pursuant to the [Crown Minerals Act 1991][929] on 31 May 1993 between the Minister of Energy and L&M Mining Limited and registered in Land Titles Office No. 094861\.  
-Subject to exploration Permit 40 194 entered into pursuant to the [Crown Minerals Act 1991][929] on 1 August 1996 between the Minister of Energy and Kenneth Charles Tuhuru Tainui and registered in the Land Titles Office No. 100520\.  
+Legal roads Certain legal but unformed roads within the outside boundary of Part Reserve 145, situated in Blocks III, IV, VII, VIII, XII, and XVI Kaniere Survey District and Blocks V, IX, and XIII Turiwhate Survey District, as shown bordered with bold black lines and labelled ""Middle Section"" in the plan of the Arahura Valley as shown on Allocation Plan SS 429/1 (SO 12506), more particularly described as Westland Land District, Westland District, comprising 130 hectares, approximately, being Legal Road adjoining Part Reserve 145, Rural Sections 3061, 3106 and 5562, Part Rural Sections 744, 1676 and 2711, Section 1, SO 11596, Lot 1, DP 730, Section 2, SO 12438, Lot 1, DP 2095, Rural Section 2313, Wainihinihi Creek, Caledonian Creek and Mount Brown Creek. Subject to proposed access easements in favour of Lot 1 DP 730, Rural Sections 3061 and 3106 and Part Rural Section 2711\. Subject to survey as shown on Allocation Plan SS 429/1, 2, 2A, 3A and 4 (SO 12506) and Allocation Plan SS 429/3 (SO 12544). Subject to exploration Permit 40 051 entered into pursuant to the [Crown Minerals Act 1991][939] on 31 May 1993 between the Minister of Energy and L&M Mining Limited and registered in Land Titles Office No. 094861\.  
+Subject to exploration Permit 40 194 entered into pursuant to the [Crown Minerals Act 1991][939] on 1 August 1996 between the Minister of Energy and Kenneth Charles Tuhuru Tainui and registered in the Land Titles Office No. 100520\.  
 Subject to easements granted by the Māwhera Incorporation in favour of the owners of the adjoining sections to maintain vehicular and other access to the adjoining sections in the form set out in attachment 13.4 of the deed of settlement, entered into pursuant to clause 2.2(a) of attachment 13.3 of the deed of settlement.  
 
 Subject to an easement in perpetuity granted by the Māwhera Incorporation in favour of the Minister of Conservation permitting the public to have access on foot over so much of the walkway from the Landsburg Bridge to the Waitaiki Historic Reserve as crosses the Legal roads, entered into pursuant to clause 2.2(b) of attachment 13.3 of the deed of settlement.  
@@ -14439,7 +14595,7 @@ Pursuant to [section 215][241], and without limiting the rest of this schedule, 
     
 *   (a) to require that consent authorities forward summaries of relevant resource consent applications to Te Rūnanga o Ngāi Tahu as required by regulations made pursuant to [section 207][233] (clause 12.2.3 of the deed of settlement); and
 
-*   (b) to require that relevant consent authorities, the Historic Places Trust, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whenua Hou, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
+*   (b) to require that relevant consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court, as the case may be, have regard to this statutory acknowledgement in relation to Whenua Hou, as provided in [sections 208 to 210][234] (clause 12.2.4 of the deed of settlement); and
 
 *   (c) to empower the Minister responsible for management of Whenua Hou or the Commissioner for Crown Lands, as the case may be, to enter into a deed of recognition as provided in [section 212][238] (clause 12.2.6 of the deed of settlement); and
 
@@ -14456,6 +14612,8 @@ Except as expressly provided in [sections 208 to 211][234], [213][239], and [215
 Except as expressly provided in this Act, this statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
 
 Except as expressly provided in this Act, this statutory acknowledgement does not, of itself, have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, Whenua Hou.
+    
+*   Schedule 108: amended, on 20 May 2014, by [section 107][717] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ---
 
@@ -14470,7 +14628,7 @@ Attachment 13.8 of deed of settlement Terms and conditions of administering body
         
     *   (a) the Administering Body and the Minister will meet from time to time throughout the year to discuss any matter relating to the control and management of the Crown Tītī Islands, including the matters set out in _paragraph 2(d) of this attachment_, and the Minister shall be given reasonable notice of and have the right to attend all meetings of the Administering Body which relate to the control and management of the Crown Tītī Islands;
     
-    *   (b) prior to the annual meeting of Rakiura Māori held pursuant to [Regulation 7(1)][864] of the Regulations, the Administering Body and the Minister shall agree on a work programme for the following year and agree who should fund and undertake each part of that work programme;
+    *   (b) prior to the annual meeting of Rakiura Māori held pursuant to [Regulation 7(1)][874] of the Regulations, the Administering Body and the Minister shall agree on a work programme for the following year and agree who should fund and undertake each part of that work programme;
     
     *   (c) the Administering Body and the Minister will not unreasonably withhold its or his or her agreement to the inclusion of any proposal in the annual work programme if the proposal is consistent with the control and management of the Crown Tītī Islands in accordance with _clause 13.6_ of the deed of settlement;
     
@@ -14508,7 +14666,7 @@ Attachment 13.8 of deed of settlement Terms and conditions of administering body
         
         
     
-    *   (g) the Administering Body and the Minister will present the agreed annual work programme to the annual meeting of Rakiura Māori held pursuant to [Regulation 7(1)][864] of the Regulations;
+    *   (g) the Administering Body and the Minister will present the agreed annual work programme to the annual meeting of Rakiura Māori held pursuant to [Regulation 7(1)][874] of the Regulations;
     
     *   (h) the Minister, and his or her servants and agents, on giving reasonable notice to the Administering Body, shall have the right of reasonable access to the Crown Tītī Islands for the purposes of inspection and carrying out his or her powers and duties under the Settlement Legislation, the Regulations (until the Commencement Date) or any statutes relating to the control and management of the natural environment and of any species of wildlife; and
     
@@ -14721,8 +14879,8 @@ All that land situated in Otago Land District, Dunedin City, comprising---
 
 *   (b) 4087 square metres, more or less, being Ōtākou Māori Reserve, Block A3, Part Section 54, Block II, Portobello Survey District. Part _Gazette_ Notice 265921\. Exclusive of such mines and minerals as were not taken by Proclamation 842\.
 
-Subject to survey, as shown marked ""Site 1"" on Allocation Plan A 188 (SO 24692). Subject to access permit dated 8 February 1990 granted by and on behalf of the Minister of Conservation by an officer under a designation given to him by the Director-General of Conservation under [section 53][930] of the Wildlife Act 1953 and [sections 49][931] and [57][863] of the Reserves Act 1977 for Dean Nelson and Chris Lalas of the Department of Conservation to access Taiaroa Head site (No 1).  
-Subject to access permit dated 4 August 1995 granted by and on behalf of the Minister of Conservation by an officer under a designation given to him by the Director-General of Conservation under [section 57][863] of the Reserves Act 1977 for George R Chance to access Taiaroa Head site (No 1).
+Subject to survey, as shown marked ""Site 1"" on Allocation Plan A 188 (SO 24692). Subject to access permit dated 8 February 1990 granted by and on behalf of the Minister of Conservation by an officer under a designation given to him by the Director-General of Conservation under [section 53][940] of the Wildlife Act 1953 and [sections 49][941] and [57][873] of the Reserves Act 1977 for Dean Nelson and Chris Lalas of the Department of Conservation to access Taiaroa Head site (No 1).  
+Subject to access permit dated 4 August 1995 granted by and on behalf of the Minister of Conservation by an officer under a designation given to him by the Director-General of Conservation under [section 57][873] of the Reserves Act 1977 for George R Chance to access Taiaroa Head site (No 1).
 
 Taiaroa Head site (No 2) 
 
@@ -14781,7 +14939,7 @@ Wainono site All that land situated in the Canterbury Land District, Waimate Dis
 
 Wildlife sanctuary All that land situated in Otago Land District, Dunedin City, comprising 7400 square metres, more or less, being Section 74, Block II, Portobello Survey District (SO 18782). Proclamation 519375\. As shown adjoining site 2 on Allocation Plan A 188 (SO 24692). None.
 
-*   Schedule 111: amended, on 10 May 2011, by [section 100(3)][932] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+*   Schedule 111: amended, on 10 May 2011, by [section 100(3)][942] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ---
 
@@ -14844,11 +15002,11 @@ Created and granted on \[_insert date_\]
         
     *   4.4.1 the giving of consent by the Landholding Agent pursuant to this clause shall be completely at his or her discretion and subject to such conditions as he or she thinks fit;
     
-    *   4.4.2 where the entitlement land is held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act, the Landholding Agent may, in considering whether to give consent under this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at the Holders' expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement land and the surrounding land or on any wildlife;
+    *   4.4.2 where the entitlement land is held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act, the Landholding Agent may, in considering whether to give consent under this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at the Holders' expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement land and the surrounding land or on any wildlife;
     
     *   4.4.3 when applying for any consent under this clause, the Holders shall provide to the Landholding Agent details of the proposed activity, including, but not limited to:
             
-        *   (a) the effect of the activity on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act, on the surrounding land and upon any wildlife;
+        *   (a) the effect of the activity on the entitlement land and, where the entitlement land is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act, on the surrounding land and upon any wildlife;
         
         *   (b) any proposed measures by the Holders to avoid, remedy, or mitigate any adverse effects;
         
@@ -14870,7 +15028,7 @@ Created and granted on \[_insert date_\]
     
     **4.8** **Entitlement is not assignable**
     
-    The Holders may not assign or grant a sub-entitlement to their rights under this Entitlement, but, notwithstanding clause 7, the rights of any Holder under this Entitlement may only be disposed of in accordance with [sections 108][880] and [109][868] of Te Ture Whenua Maori Act 1993\.
+    The Holders may not assign or grant a sub-entitlement to their rights under this Entitlement, but, notwithstanding clause 7, the rights of any Holder under this Entitlement may only be disposed of in accordance with [sections 108][890] and [109][878] of Te Ture Whenua Maori Act 1993\.
     
     **4.9** **Enforceability**
         
@@ -14892,9 +15050,9 @@ Created and granted on \[_insert date_\]
     
     **4.13** **Targeted rates**
     
-    The holders are liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under clause 4.2\.
+    The holders are liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under clause 4.2\.
     
-    Schedule 112 clause 4.13: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Schedule 112 clause 4.13: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 5 SUSPENSION
     
@@ -15072,11 +15230,11 @@ Created and granted on \[_insert date_\]
         
     *   4.4.1 the giving of consent by the Landholding Agent pursuant to this clause shall be completely at his or her discretion and subject to such conditions as he or she thinks fit;
     
-    *   4.4.2 where the entitlement land is held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act, the Landholding Agent may, in considering whether to give consent under this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at the Holders' expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement area and the surrounding Waterway or land or on any wildlife or fish species;
+    *   4.4.2 where the entitlement land is held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act, the Landholding Agent may, in considering whether to give consent under this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at the Holders' expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement area and the surrounding Waterway or land or on any wildlife or fish species;
     
     *   4.4.3 when applying for any consent under this clause the Holders must provide to the Landholding Agent details of the proposed activity, including, but not limited to:
             
-        *   (a) the effect of the activity on the entitlement area and, where the entitlement area is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][800] of that Act, on the surrounding Waterway or land and upon any wildlife or fish species;
+        *   (a) the effect of the activity on the entitlement area and, where the entitlement area is land held under the [Conservation Act 1987][686] or any Act in [Schedule 1][802] of that Act, on the surrounding Waterway or land and upon any wildlife or fish species;
         
         *   (b) any proposed measures by the Holders to avoid, remedy, or mitigate any adverse effects;
         
@@ -15098,7 +15256,7 @@ Created and granted on \[_insert date_\]
     
     **4.8** **Entitlement is not assignable**
     
-    The Holders may not assign or grant a sub-entitlement to their rights under this Entitlement, but, notwithstanding clause 7, the rights of any Holder under this Entitlement may only be disposed of in accordance with [section 108][880] and [109][868] of Te Ture Whenua Maori Act 1993\.
+    The Holders may not assign or grant a sub-entitlement to their rights under this Entitlement, but, notwithstanding clause 7, the rights of any Holder under this Entitlement may only be disposed of in accordance with [section 108][890] and [109][878] of Te Ture Whenua Maori Act 1993\.
     
     **4.9** **Enforceability**
         
@@ -15120,9 +15278,9 @@ Created and granted on \[_insert date_\]
     
     **4.13** **Targeted rates**
     
-    The holders are liable to pay targeted rates under [section 9][823] of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under clause 4.2\.
+    The holders are liable to pay targeted rates under [section 9][833] of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under clause 4.2\.
     
-    Schedule 114 clause 4.13: substituted, on 1 July 2003, by [section 137(1)][786] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Schedule 114 clause 4.13: substituted, on 1 July 2003, by [section 137(1)][788] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 5 SUSPENSION
     
@@ -15325,43 +15483,45 @@ Whakapohai site All that land situated in Westland Land District, Westland Distr
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][933] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][934] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][943] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][944] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][935] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][936] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][945] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][946] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][764]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][717]
     
-    Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][715]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][766]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][932]
+    Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][716]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][763], [clause 28(2)][923] Schedule 2
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][942]
     
-    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][898]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][765], [clause 28(2)][933] Schedule 2
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][825]
+    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][908]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][889]
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][835]
     
-    [Ngāi Tahu Claims Settlement Amendment Act 2005][937] (2005 No 64)
+    Property Law Act 2007 (2007 No 91): [section 364(1)][899]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][874]
+    [Ngāi Tahu Claims Settlement Amendment Act 2005][947] (2005 No 64)
     
-    Resource Management Amendment Act 2003 (2003 No 23): [sections 96][815], [105][809]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][884]
     
-    Cadastral Survey Act 2002 (2002 No 12): [section 69(1)][820]
+    Resource Management Amendment Act 2003 (2003 No 23): [sections 96][823], [105][811]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][786]
+    Cadastral Survey Act 2002 (2002 No 12): [section 69(1)][830]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][876]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][788]
     
-    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][762]
+    Public Audit Act 2001 (2001 No 10): [section 53][886]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][779]
+    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][764]
+    
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][781]
     
     Land Transfer (Automation) Amendment Act 1998 (1998 No 123): section 31(2)
     
@@ -16062,248 +16222,258 @@ Whakapohai site All that land situated in Westland Land District, Westland Distr
 [690]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM160819
 [691]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM191768
 [692]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM442682
-[693]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444607
-[694]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289897
-[695]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM49172
-[696]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM293015
-[697]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM97376
-[698]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM175958
-[699]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM222630
-[700]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4576341
-[701]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM36968
-[702]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444612
-[703]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395066
-[704]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117235
-[705]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM249947
-[706]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200130
-[707]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444605
-[708]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM270019
-[709]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444610
-[710]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444617
-[711]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM97382
-[712]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117230
-[713]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117232
-[714]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM276819
-[715]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4538252
-[716]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117225
-[717]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289716
-[718]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM231942
-[719]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM236786
-[720]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37904
-[721]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46055
-[722]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46068
-[723]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46073
-[724]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM246310
-[725]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM246311
-[726]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM250585
-[727]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420324
-[728]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444632
-[729]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444648
-[730]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45772
-[731]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46319
-[732]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46329
-[733]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46963
-[734]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46992
-[735]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48607
-[736]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48622
-[737]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48630
-[738]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48634
-[739]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45426
-[740]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM204876
-[741]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM20617
-[742]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46523
-[743]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104697
-[744]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM237280
-[745]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM64544
-[746]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192355
-[747]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435597
-[748]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192358
-[749]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192323
-[750]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192333
-[751]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192357
-[752]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192359
-[753]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM268470
-[754]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104939
-[755]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104633
-[756]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192318
-[757]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM269031
-[758]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251760
-[759]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444650
-[760]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444652
-[761]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM183661
-[762]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21620
-[763]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1313622
-[764]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4929207
-[765]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM184649
-[766]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223118
-[767]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223119
-[768]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104281
-[769]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104933
-[770]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444484
-[771]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM252152
-[772]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251765
-[773]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251778
-[774]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM80050
-[775]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47324
-[776]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47332
-[777]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM131682
-[778]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM239322
-[779]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM81644
-[780]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM319569
-[781]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM403276
-[782]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444912
-[783]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444476
-[784]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104251
-[785]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM131393
-[786]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM133500
-[787]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104635
-[788]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106949
-[789]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430816
-[790]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM268477
-[791]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444916
-[792]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444666
-[793]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430818
-[794]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444911
-[795]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444492
-[796]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104699
-[797]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37901
-[798]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104682
-[799]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM429967
-[800]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM107200
-[801]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104292
-[802]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104652
-[803]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM36926
-[804]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444760
-[805]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430820
-[806]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM230264
-[807]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM233848
-[808]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM234301
-[809]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM197009
-[810]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM231904
-[811]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM237755
-[812]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300516
-[813]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300622
-[814]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240686
-[815]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM196399
-[816]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300610
-[817]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104615
-[818]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM38204
-[819]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM38217
-[820]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM142639
-[821]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444690
-[822]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM133513
-[823]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM132209
-[824]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240104
-[825]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1065526
-[826]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM35628
-[827]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104092
-[828]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104221
-[829]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104245
-[830]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM411147
-[831]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240128
-[832]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM261466
-[833]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277820
-[834]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277090
-[835]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277093
-[836]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM8734
-[837]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395007
-[838]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM66587
-[839]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395130
-[840]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395134
-[841]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395993
-[842]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395549
-[843]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395551
-[844]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM66581
-[845]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM394191
-[846]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104078
-[847]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435834
-[848]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM105792
-[849]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM108889
-[850]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM110741
-[851]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM112480
-[852]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395948
-[853]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM68626
-[854]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM396334
-[855]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM396347
-[856]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM397974
-[857]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235459
-[858]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235488
-[859]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235495
-[860]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235493
-[861]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235490
-[862]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104217
-[863]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444740
-[864]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61962
-[865]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61920
-[866]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106633
-[867]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61925
-[868]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291241
-[869]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291252
-[870]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291209
-[871]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM290548
-[872]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM163544
-[873]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM160808
-[874]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM328867
-[875]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM88548
-[876]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM88957
-[877]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM292881
-[878]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200125
-[879]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291887
-[880]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291238
-[881]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444707
-[882]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289881
-[883]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46051
-[884]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291292
-[885]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104644
-[886]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104656
-[887]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104658
-[888]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM969578
-[889]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM969644
-[890]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM348906
-[891]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104914
-[892]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21806
-[893]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21842
-[894]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291590
-[895]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200507
-[896]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444680
-[897]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37909
-[898]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1297534
-[899]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435544
-[900]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223148
-[901]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM98097
-[902]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM184658
-[903]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223144
-[904]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289344
-[905]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM353436
-[906]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM272486
-[907]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104957
-[908]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444920
-[909]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444929
-[910]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444932
-[911]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444934
-[912]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444936
-[913]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47320
-[914]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47327
-[915]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420607
-[916]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420626
-[917]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45793
-[918]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45797
-[919]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46009
-[920]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46014
-[921]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104284
-[922]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104640
-[923]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1313717
-[924]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430832
-[925]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106977
-[926]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM242504
-[927]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM405766
-[928]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM405767
-[929]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM242535
-[930]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277890
-[931]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444706
-[932]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM3231293
-[933]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998516
-[934]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998515
-[935]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998532
-[936]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[937]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM348900
+[693]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005508
+[694]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444607
+[695]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289897
+[696]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM49172
+[697]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM293015
+[698]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM97376
+[699]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM175958
+[700]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM222630
+[701]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4576341
+[702]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM36968
+[703]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444612
+[704]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395066
+[705]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117235
+[706]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM249947
+[707]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200130
+[708]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444605
+[709]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM270019
+[710]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444610
+[711]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444617
+[712]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM97382
+[713]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117230
+[714]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117232
+[715]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM276819
+[716]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4538252
+[717]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005646
+[718]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM117225
+[719]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289716
+[720]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM231942
+[721]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM236786
+[722]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37904
+[723]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46055
+[724]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46068
+[725]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46073
+[726]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM246310
+[727]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM246311
+[728]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM250585
+[729]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420324
+[730]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444632
+[731]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444648
+[732]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45772
+[733]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46319
+[734]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46329
+[735]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46963
+[736]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46992
+[737]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48607
+[738]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48622
+[739]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48630
+[740]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM48634
+[741]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45426
+[742]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM204876
+[743]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM20617
+[744]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46523
+[745]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104697
+[746]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM237280
+[747]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM64544
+[748]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192355
+[749]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435597
+[750]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192358
+[751]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192323
+[752]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192333
+[753]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192357
+[754]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192359
+[755]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM268470
+[756]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104939
+[757]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104633
+[758]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM192318
+[759]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM269031
+[760]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251760
+[761]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444650
+[762]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444652
+[763]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM183661
+[764]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21620
+[765]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1313622
+[766]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4929207
+[767]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM184649
+[768]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223118
+[769]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223119
+[770]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104281
+[771]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104933
+[772]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444484
+[773]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM252152
+[774]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251765
+[775]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM251778
+[776]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM80050
+[777]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47324
+[778]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47332
+[779]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM131682
+[780]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM239322
+[781]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM81644
+[782]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM319569
+[783]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM403276
+[784]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444912
+[785]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444476
+[786]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104251
+[787]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM131393
+[788]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM133500
+[789]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104635
+[790]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106949
+[791]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430816
+[792]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM268477
+[793]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444916
+[794]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444666
+[795]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430818
+[796]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444911
+[797]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444492
+[798]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104699
+[799]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37901
+[800]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104682
+[801]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM429967
+[802]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM107200
+[803]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104292
+[804]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104652
+[805]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM36926
+[806]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444760
+[807]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430820
+[808]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM230264
+[809]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM233848
+[810]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM234301
+[811]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM197009
+[812]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM231904
+[813]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM237755
+[814]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005562
+[815]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005580
+[816]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005587
+[817]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005568
+[818]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005588
+[819]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005584
+[820]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005590
+[821]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM4005423
+[822]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240686
+[823]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM196399
+[824]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300516
+[825]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300610
+[826]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM300622
+[827]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104615
+[828]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM38204
+[829]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM38217
+[830]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM142639
+[831]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444690
+[832]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM133513
+[833]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM132209
+[834]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240104
+[835]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1065526
+[836]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM35628
+[837]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104092
+[838]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104221
+[839]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104245
+[840]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM411147
+[841]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM240128
+[842]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM261466
+[843]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277820
+[844]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277090
+[845]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277093
+[846]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM8734
+[847]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395007
+[848]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM66587
+[849]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395130
+[850]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395134
+[851]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395993
+[852]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395549
+[853]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395551
+[854]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM66581
+[855]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM394191
+[856]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104078
+[857]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435834
+[858]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM105792
+[859]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM108889
+[860]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM110741
+[861]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM112480
+[862]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM395948
+[863]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM68626
+[864]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM396334
+[865]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM396347
+[866]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM397974
+[867]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235459
+[868]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235488
+[869]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235495
+[870]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235493
+[871]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM235490
+[872]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104217
+[873]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444740
+[874]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61962
+[875]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61920
+[876]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106633
+[877]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM61925
+[878]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291241
+[879]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291252
+[880]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291209
+[881]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM290548
+[882]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM163544
+[883]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM160808
+[884]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM328867
+[885]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM88548
+[886]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM88957
+[887]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM292881
+[888]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200125
+[889]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291887
+[890]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291238
+[891]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444707
+[892]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289881
+[893]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46051
+[894]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291292
+[895]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104644
+[896]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104656
+[897]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104658
+[898]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM969578
+[899]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM969644
+[900]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM348906
+[901]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104914
+[902]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21806
+[903]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM21842
+[904]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM291590
+[905]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM200507
+[906]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444680
+[907]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM37909
+[908]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1297534
+[909]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM435544
+[910]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223148
+[911]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM98097
+[912]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM184658
+[913]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM223144
+[914]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM289344
+[915]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM353436
+[916]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM272486
+[917]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104957
+[918]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444920
+[919]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444929
+[920]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444932
+[921]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444934
+[922]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444936
+[923]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47320
+[924]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM47327
+[925]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420607
+[926]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM420626
+[927]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45793
+[928]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM45797
+[929]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46009
+[930]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM46014
+[931]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104284
+[932]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM104640
+[933]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM1313717
+[934]: http://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html#DLM430832
+[935]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM106977
+[936]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM242504
+[937]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM405766
+[938]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM405767
+[939]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM242535
+[940]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM277890
+[941]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM444706
+[942]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM3231293
+[943]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998516
+[944]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998515
+[945]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM2998532
+[946]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[947]: http://www.legislation.govt.nz/act/public/1998/0097/latest/link.aspx?id=DLM348900
