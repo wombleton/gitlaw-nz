@@ -1,5 +1,5 @@
 Reprint  
-as at 20 March 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -721,7 +721,7 @@ Co-governance of Waikato River
     
     *   (d) [Health Act 1956][128]:
     
-    *   (e) [Historic Places Act 1993][129]:
+    *   (e) [Heritage New Zealand Pouhere Taonga Act 2014][129]:
     
     *   (f) [Land Drainage Act 1908][130]:
     
@@ -741,7 +741,7 @@ Co-governance of Waikato River
     
     *   (n) [Walking Access Act 2008][137].
     
-    
+    Section 18(7)(e): replaced, on 20 May 2014, by [section 107][138] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### Reviews
 
@@ -875,7 +875,7 @@ Co-governance of Waikato River
     
     *   (b) the Authority's capacity, rights, powers, and privileges are subject to this Act, other enactments, and the common law.
     
-    (2) The Authority may prescribe a fee for the purposes of [clause 16(3)][138] of Schedule 4\.
+    (2) The Authority may prescribe a fee for the purposes of [clause 16(3)][139] of Schedule 4\.
 
 #### Resource consent functions
 
@@ -897,7 +897,7 @@ Co-governance of Waikato River
     
     *   (b) to be allowed to make a point source discharge to the Waikato River:
     
-    *   (c) to do any activity listed in [section 13][139] of the Resource Management Act 1991 in relation to the Waikato River.
+    *   (c) to do any activity listed in [section 13][140] of the Resource Management Act 1991 in relation to the Waikato River.
     
     
 
@@ -923,7 +923,7 @@ Co-governance of Waikato River
 
 ##### 30 Call-ins
     
-*   (1) This section applies if an application is called in and referred to a board of inquiry under [Part 6AA][140] of the Resource Management Act 1991\.
+*   (1) This section applies if an application is called in and referred to a board of inquiry under [Part 6AA][141] of the Resource Management Act 1991\.
     
     (2) As soon as practicable, the Environmental Protection Authority must serve notice on the Authority of the decision to call in the application.
     
@@ -937,15 +937,15 @@ Co-governance of Waikato River
     
     *   (b) the same number of other persons; and
     
-    *   (c) a chairperson appointed under [section 149J(3)(b)][141] of the Resource Management Act 1991\.
+    *   (c) a chairperson appointed under [section 149J(3)(b)][142] of the Resource Management Act 1991\.
     
     (6) The Authority and the Minister must discuss the persons to be appointed to the board with a view to ensuring that the board contains members with an appropriate mix of skills, expertise, and experience.
     
-    (7) Persons appointed under subsection (5) must be treated in the same manner as persons appointed under [section 149J][141] of the Resource Management Act 1991\.
+    (7) Persons appointed under subsection (5) must be treated in the same manner as persons appointed under [section 149J][142] of the Resource Management Act 1991\.
 
 ##### 31 Section 100A of Resource Management Act 1991
     
-*   (1) This section applies if the Council receives a request under [section 100A][142] of the Resource Management Act 1991 to delegate the hearing of an application to a commissioner or commissioners.
+*   (1) This section applies if the Council receives a request under [section 100A][143] of the Resource Management Act 1991 to delegate the hearing of an application to a commissioner or commissioners.
     
     (2) The Council must delegate the hearing duties, functions, and powers only of the persons it must appoint under [section 29(2)(a)][39]. It must not delegate the hearing duties, functions, and powers of the persons whom the Authority must appoint under section 29(2)(b).
     
@@ -953,17 +953,17 @@ Co-governance of Waikato River
     
     (4) The commissioners delegated to hear the application are---
         
-    *   (a) the commissioners to whom the Council delegates hearing duties, functions, and powers under subsection (2), who are appointed under [section 100A][142] of the Resource Management Act 1991; and
+    *   (a) the commissioners to whom the Council delegates hearing duties, functions, and powers under subsection (2), who are appointed under [section 100A][143] of the Resource Management Act 1991; and
     
-    *   (b) the persons whom the Authority appoints under [section 29(2)(b)][39], who are deemed to be appointed under [section 100A][142] of the Resource Management Act 1991; and
+    *   (b) the persons whom the Authority appoints under [section 29(2)(b)][39], who are deemed to be appointed under [section 100A][143] of the Resource Management Act 1991; and
     
-    *   (c) the independent chairperson appointed under [section 29(2)(c)][39], who is deemed to be appointed under [section 100A][142] of the Resource Management Act 1991\.
+    *   (c) the independent chairperson appointed under [section 29(2)(c)][39], who is deemed to be appointed under [section 100A][143] of the Resource Management Act 1991\.
     
     
 
 ##### 32 Section 147(1)(c) of Resource Management Act 1991
     
-*   [Section 29][39] applies if an application is lodged with the Environmental Protection Authority under [section 145][143] of the Resource Management Act 1991 and a direction is made under [section 147(1)(c)][144] of the Act to refer the matter to the Council.
+*   [Section 29][39] applies if an application is lodged with the Environmental Protection Authority under [section 145][144] of the Resource Management Act 1991 and a direction is made under [section 147(1)(c)][145] of the Act to refer the matter to the Council.
 
 #### Waikato River Clean-up Trust function
 
@@ -977,7 +977,7 @@ Co-governance of Waikato River
     
     (4) The terms of the trust are set out in [Schedule 3][82].
     
-    (5) The trustee of the trust is deemed to satisfy the requirements of [section CW 41(5)(a)][145] of the Income Tax Act 2007\.
+    (5) The trustee of the trust is deemed to satisfy the requirements of [section CW 41(5)(a)][146] of the Income Tax Act 2007\.
 
 #### Administrative provisions
 
@@ -1049,11 +1049,11 @@ Co-governance of Waikato River
     
     (2) The conservation component is, for the purposes of the [Conservation Act 1987][88],---
         
-    *   (a) a conservation management plan under [section 17E][146]; and
+    *   (a) a conservation management plan under [section 17E][147]; and
     
-    *   (b) a freshwater fisheries management plan under [section 17J][147].
+    *   (b) a freshwater fisheries management plan under [section 17J][148].
     
-    (3) The fisheries component is a fisheries plan under [section 11A][148] of the Fisheries Act 1996\.
+    (3) The fisheries component is a fisheries plan under [section 11A][149] of the Fisheries Act 1996\.
     
     (4) The regional council component means that a relevant local authority that is preparing, reviewing, or changing a [Resource Management Act 1991][87] planning document must have regard to the plan.
     
@@ -1063,7 +1063,7 @@ Co-governance of Waikato River
     
 *   The Upper Waikato River integrated management plan may be reviewed and amended---
         
-    *   (a) as a combined initiative of the Trusts that prepared the plan, and the Trust for Ngati Tuwharetoa if it did not participate in the preparation of the plan and decides under [clause 4(4)][149] of Schedule 5 to participate in the review, and the relevant departments, relevant local authorities, and appropriate agencies; and
+    *   (a) as a combined initiative of the Trusts that prepared the plan, and the Trust for Ngati Tuwharetoa if it did not participate in the preparation of the plan and decides under [clause 4(4)][150] of Schedule 5 to participate in the review, and the relevant departments, relevant local authorities, and appropriate agencies; and
     
     *   (b) wholly or as to an individual component; and
     
@@ -1108,9 +1108,9 @@ Upper Waikato River co-management arrangements
     
 *   (1) A local authority served under [section 41(2)(a)][56] preparing, reviewing, or changing a Resource Management Act 1991 planning document must recognise the environmental plan in the same manner as would be required under the [Resource Management Act 1991][87] for any planning document recognised by an iwi authority.
     
-    (2) A consent authority considering an application for a resource consent under [section 104][150] of the Resource Management Act 1991 must have regard to the environmental plan, if it considers that section 104(1)(c) applies to the plan.
+    (2) A consent authority considering an application for a resource consent under [section 104][151] of the Resource Management Act 1991 must have regard to the environmental plan, if it considers that section 104(1)(c) applies to the plan.
     
-    (3) A person carrying out functions or exercising powers under [sections 12 to 14][151] of the Fisheries Act 1996 must recognise and provide for the environmental plan to the extent to which its contents relate to the functions or powers.
+    (3) A person carrying out functions or exercising powers under [sections 12 to 14][152] of the Fisheries Act 1996 must recognise and provide for the environmental plan to the extent to which its contents relate to the functions or powers.
     
     (4) A person carrying out functions or exercising powers under the conservation legislation in relation to the Waikato River and its catchment must have particular regard to the environmental plan to the extent to which its contents relate to the functions or powers.
 
@@ -1186,7 +1186,7 @@ Upper Waikato River co-management arrangements
     
     *   (b) preparation, review, change, or variation of a [Resource Management Act 1991][87] planning document, under [section 48][64]:
     
-    *   (c) duties, functions, or powers under [Part 6][152] of the Resource Management Act 1991 in relation to applications for resource consents, under [section 49][65].
+    *   (c) duties, functions, or powers under [Part 6][153] of the Resource Management Act 1991 in relation to applications for resource consents, under [section 49][65].
     
     (2) A joint management agreement must provide a process for the local authority and the Trust to explore---
         
@@ -1228,15 +1228,15 @@ Upper Waikato River co-management arrangements
         
     *   (a) meet no less than twice each year to---
             
-        *   (i) discuss and agree the priorities for the monitoring of those matters set out in [section 35(2)(a) to (e)][153] of the Resource Management Act 1991:
+        *   (i) discuss and agree the priorities for the monitoring of those matters set out in [section 35(2)(a) to (e)][154] of the Resource Management Act 1991:
         
-        *   (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in [section 35(2)(a) to (e)][153] of the Resource Management Act 1991:
+        *   (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in [section 35(2)(a) to (e)][154] of the Resource Management Act 1991:
         
-        *   (iii) discuss the potential for the iwi to participate in the monitoring of those matters set out in [section 35(2)(a) to (e)][153] of the Resource Management Act 1991:
+        *   (iii) discuss the potential for the iwi to participate in the monitoring of those matters set out in [section 35(2)(a) to (e)][154] of the Resource Management Act 1991:
         
         
     
-    *   (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in [section 35(2)(a) to (e)][153] of the Resource Management Act 1991, including---
+    *   (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in [section 35(2)(a) to (e)][154] of the Resource Management Act 1991, including---
             
         *   (i) the potential for review of [Resource Management Act 1991][87] planning documents; and
         
@@ -1246,13 +1246,13 @@ Upper Waikato River co-management arrangements
     
     *   (c) agree appropriate procedures for reporting back to the Trust on the enforcement action taken by the local authority:
     
-    *   (d) discuss and agree the role of the Trust in the 5 yearly review provided for in [section 35(2A)][153] of the Resource Management Act 1991:
+    *   (d) discuss and agree the role of the Trust in the 5 yearly review provided for in [section 35(2A)][154] of the Resource Management Act 1991:
     
     *   (e) discuss the potential for persons nominated by the Trust to participate in enforcement action under the [Resource Management Act 1991][87].
     
     (3) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (4) [Schedule 7][154] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (4) [Schedule 7][155] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 48 Preparation, review, change, or variation of Resource Management Act 1991 planning document
     
@@ -1278,7 +1278,7 @@ Upper Waikato River co-management arrangements
     
     (4) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (5) [Schedule 7][154] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (5) [Schedule 7][155] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 49 Resource consent process
     
@@ -1322,29 +1322,29 @@ Upper Waikato River co-management arrangements
     
     *   (b) the information must be---
             
-        *   (i) the same as would be given to affected persons through limited notification under [section 95B][155] of the Resource Management Act 1991; or
+        *   (i) the same as would be given to affected persons through limited notification under [section 95B][156] of the Resource Management Act 1991; or
         
         *   (ii) the information that the local authority and the Trust agree on:
         
         
     
-    *   (c) the information must be provided as soon as reasonably practicable after the application is received and before a determination is made under [sections 95A to 95C][156] of the Resource Management Act 1991:
+    *   (c) the information must be provided as soon as reasonably practicable after the application is received and before a determination is made under [sections 95A to 95C][157] of the Resource Management Act 1991:
     
     *   (d) the local authority and the Trust must jointly develop and agree criteria to assist local authority decision-making under the following processes or sections of the [Resource Management Act 1991][87]:
             
         *   (i) best practice for pre-application processes:
         
-        *   (ii) [section 87E][157] (request that an application be determined by the Environment Court rather than the consent authority):
+        *   (ii) [section 87E][158] (request that an application be determined by the Environment Court rather than the consent authority):
         
-        *   (iii) [section 88(3)][158] (incomplete application for resource consent):
+        *   (iii) [section 88(3)][159] (incomplete application for resource consent):
         
-        *   (iv) [section 91][159] (deferral pending additional consents):
+        *   (iv) [section 91][160] (deferral pending additional consents):
         
-        *   (v) [section 92][160] (requests for further information):
+        *   (v) [section 92][161] (requests for further information):
         
-        *   (vi) [sections 95 to 95F][161] (notification of applications for resource consent):
+        *   (vi) [sections 95 to 95F][162] (notification of applications for resource consent):
         
-        *   (vii) [sections 127][162] and [128][109] (change, cancellation, or review of consent conditions).
+        *   (vii) [sections 127][163] and [128][109] (change, cancellation, or review of consent conditions).
         
         
     
@@ -1356,7 +1356,7 @@ Upper Waikato River co-management arrangements
     
     (4) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (5) [Schedule 7][154] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (5) [Schedule 7][155] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 50 Process for finalising
     
@@ -1466,7 +1466,7 @@ Upper Waikato River co-management arrangements
     
     ###### Schedule 7 of Local Government Act 2002 excluded
     
-    (19) [Schedule 7][154] of the Local Government Act 2002 does not apply to the local authority and the Trust when, in finalising the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (19) [Schedule 7][155] of the Local Government Act 2002 does not apply to the local authority and the Trust when, in finalising the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 51 Suspension
     
@@ -1484,11 +1484,11 @@ Upper Waikato River co-management arrangements
 
 ##### 53 Legal framework
     
-*   (1) [Sections 36B][163] to 36E of the Resource Management Act 1991 do not apply to a joint management agreement.
+*   (1) [Sections 36B][164] to 36E of the Resource Management Act 1991 do not apply to a joint management agreement.
     
     (2) The carrying out of a duty or function, or the exercise of a power, under a joint management agreement has the same legal effect as the carrying out of a duty or function, or the exercise of a power, by a local authority.
     
-    (3) A local authority must not use the special consultative procedure under [section 83][164] of the Local Government Act 2002 in relation to a joint management agreement.
+    (3) A local authority must not use the special consultative procedure under [section 83][165] of the Local Government Act 2002 in relation to a joint management agreement.
     
     (4) A joint management agreement is enforceable between the parties to it.
     
@@ -1574,11 +1574,11 @@ Upper Waikato River co-management arrangements
         
         *   (ii) any agreements or arrangements between Ngati Tuwharetoa, Raukawa, or Te Arawa River Iwi and any Crown agency, local authority, or other person; or
         
-        *   (iii) the [Te Arawa Lakes (Fisheries) Regulations 2006][165]; or
+        *   (iii) the [Te Arawa Lakes (Fisheries) Regulations 2006][166]; or
         
         
     
-    *   (b) have an undue adverse effect on the rights, benefits, and duties of a mandated iwi organisation (as defined in the [Maori Fisheries Act 2004][166]) of Ngati Tuwharetoa, Raukawa, or Te Arawa River Iwi; or
+    *   (b) have an undue adverse effect on the rights, benefits, and duties of a mandated iwi organisation (as defined in the [Maori Fisheries Act 2004][167]) of Ngati Tuwharetoa, Raukawa, or Te Arawa River Iwi; or
     
     *   (c) preclude or otherwise limit the ability of Ngati Tuwharetoa, Raukawa, or Te Arawa River Iwi to enter any agreements or arrangements with any Crown agency, local authority, or other person.
     
@@ -1604,19 +1604,19 @@ Upper Waikato River co-management arrangements
 
 ##### 61 Rule against perpetuities
     
-*   (1) Neither the rule against perpetuities nor the [Perpetuities Act 1964][167] prescribes or restricts the period during which---
+*   (1) Neither the rule against perpetuities nor the [Perpetuities Act 1964][168] prescribes or restricts the period during which---
         
     *   (a) each Trust and the Waikato River Clean-up Trust may exist in law; or
     
     *   (b) the trustees of each Trust and the Waikato River Clean-up Trust may hold or deal with property or income from property in their capacity as trustees.
     
-    (2) Neither the rule against perpetuities nor the [Perpetuities Act 1964][167] applies to a document entered into to give effect to the deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+    (2) Neither the rule against perpetuities nor the [Perpetuities Act 1964][168] applies to a document entered into to give effect to the deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ##### 62 Authority and Trusts: public bodies, entities, and authorities
     
-*   (1) The Authority and each Trust is a public body for the purposes of [clause 30][168] of Schedule 7 of the Local Government Act 2002\.
+*   (1) The Authority and each Trust is a public body for the purposes of [clause 30][169] of Schedule 7 of the Local Government Act 2002\.
     
-    (2) The Authority is a public entity as defined in [section 4][169] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The Authority is a public entity as defined in [section 4][170] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (3) The Authority is a public authority for the purposes of the definition of public authority in the [Resource Management Act 1991][87].
     
@@ -1722,7 +1722,7 @@ Process to review vision and strategy
 
 ##### 2 Duty following review
     
-*   If the Authority considers that an amendment to the vision and strategy may be appropriate as a result of its review, the Authority must prepare a draft vision and strategy by following the process in [clause 3][170].
+*   If the Authority considers that an amendment to the vision and strategy may be appropriate as a result of its review, the Authority must prepare a draft vision and strategy by following the process in [clause 3][171].
 
 ##### 3 Preparation of draft
     
@@ -1760,7 +1760,7 @@ Process to review vision and strategy
     
     *   (b) call on interested persons to make submissions on the draft to the Authority at the place and before a date, specified in the notice, no less than 20 business days after the date of the notice.
     
-    (5) The Authority must also give to the persons who provided comments under [clause 3][170]---
+    (5) The Authority must also give to the persons who provided comments under [clause 3][171]---
         
     *   (a) a copy of the draft; and
     
@@ -1845,7 +1845,7 @@ Terms of Waikato River Clean-up Trust
     
 *   In this schedule, unless the context requires another meaning,---
     
-    _object_ means the object of the trust described in [clause 3][171]
+    _object_ means the object of the trust described in [clause 3][172]
     
     _property_---
         
@@ -1991,7 +1991,7 @@ Terms of Waikato River Clean-up Trust
     
     (3) In exercising its investment powers, the trustee must---
         
-    *   (a) act in accordance with the applicable provisions of [Part 2][172] of the Trustee Act 1956; and
+    *   (a) act in accordance with the applicable provisions of [Part 2][173] of the Trustee Act 1956; and
     
     *   (b) have due regard to the object.
     
@@ -2051,7 +2051,7 @@ Terms of Waikato River Clean-up Trust
     
     *   (o) generally to do all other lawful acts and things that are incidental or conducive to the attainment of the object; and
     
-    *   (p) to pay from the assets of the trust costs incurred by the trustee in carrying out any of its duties or functions or exercising any of its authorities, discretions, or powers, except as prohibited by [clause 12][173].
+    *   (p) to pay from the assets of the trust costs incurred by the trustee in carrying out any of its duties or functions or exercising any of its authorities, discretions, or powers, except as prohibited by [clause 12][174].
     
     (3) All authorities, discretions, and powers that the trustee has may be exercised by the trustee in its absolute discretion and from time to time and on such terms and conditions and in such manner and by such means as it thinks fit.
     
@@ -2067,13 +2067,13 @@ Terms of Waikato River Clean-up Trust
     
     *   (b) the trustee may pay reasonable and proper remuneration for services actually rendered to the trust.
     
-    (3) Subclause (1) does not apply if the [Income Tax Act 2007][174] or any other relevant legislation is amended to allow a person with some control over a business carried on by, for, or for the benefit of a trust to be able to direct or divert an amount from the trust to the person's own benefit or advantage without compromising the charitable tax status of the trust.
+    (3) Subclause (1) does not apply if the [Income Tax Act 2007][175] or any other relevant legislation is amended to allow a person with some control over a business carried on by, for, or for the benefit of a trust to be able to direct or divert an amount from the trust to the person's own benefit or advantage without compromising the charitable tax status of the trust.
     
     (4) In this clause,---
         
-    *   (a) _benefit or advantage_ includes a benefit or advantage listed in [section CW 42(8)][175] of the Income Tax Act 2007:
+    *   (a) _benefit or advantage_ includes a benefit or advantage listed in [section CW 42(8)][176] of the Income Tax Act 2007:
     
-    *   (b) _person with some control_ includes a person who has control of the types described in [sections CW 42(5) to (7)][175] of the Income Tax Act 2007\.
+    *   (b) _person with some control_ includes a person who has control of the types described in [sections CW 42(5) to (7)][176] of the Income Tax Act 2007\.
     
     
 
@@ -2165,11 +2165,11 @@ Terms of Waikato River Clean-up Trust
     
     (2) The report must include---
         
-    *   (a) adequate details of the applications for funding approved by the trustee under [clause 6][176] during the financial year; and
+    *   (a) adequate details of the applications for funding approved by the trustee under [clause 6][177] during the financial year; and
     
-    *   (b) adequate details of the reports received by the trustee from recipients of funds under [clause 6(7)][176]; and
+    *   (b) adequate details of the reports received by the trustee from recipients of funds under [clause 6(7)][177]; and
     
-    *   (c) the accounts for the financial year prepared and audited under [clause 15][177].
+    *   (c) the accounts for the financial year prepared and audited under [clause 15][178].
     
     (3) The trustee must publish the annual report.
     
@@ -2304,7 +2304,7 @@ Waikato River Authority
 
 ##### 4 Cessation of membership
     
-*   (1) A member whose term of appointment has ended under [clause 3(3)(a)][178] continues to hold office until---
+*   (1) A member whose term of appointment has ended under [clause 3(3)(a)][179] continues to hold office until---
         
     *   (a) the member is reappointed; or
     
@@ -2474,7 +2474,7 @@ Waikato River Authority
 
 ##### 10 Decisions by Minister and nominated person
     
-*   (1) If the members of the Authority are unable to reach a decision as described in [clause 9(1)][179], they must refer the matter to---
+*   (1) If the members of the Authority are unable to reach a decision as described in [clause 9(1)][180], they must refer the matter to---
         
     *   (a) the Minister for the Environment or another Minister nominated by the Minister for the Environment; and
     
@@ -2494,7 +2494,7 @@ Waikato River Authority
 
 ##### 11 Members bound by decisions
     
-*   (1) Members are bound by the decisions and recommendations made by the Authority and by recommendations that have become binding under [clause 10][180].
+*   (1) Members are bound by the decisions and recommendations made by the Authority and by recommendations that have become binding under [clause 10][181].
     
     (2) Members must not take steps to undermine the decisions and recommendations.
 
@@ -2518,7 +2518,7 @@ Waikato River Authority
     
     *   (c) the subsequent discovery that the person was incapable of being a member; or
     
-    *   (d) a member's contravention of [clause 13(1) or (2)][181].
+    *   (d) a member's contravention of [clause 13(1) or (2)][182].
     
     
 
@@ -2692,7 +2692,7 @@ Waikato River Authority
     
     *   (b) the member appointed under [clause 2(1)(h)][86] designated by the appointer of members under clause 2(1)(h) to be an initial co-chair.
     
-    (4) For 5 years following the commencement date, the member appointed under [clause 2(1)(a)][86] is the designated co-chair under [clause 6(2)][182].
+    (4) For 5 years following the commencement date, the member appointed under [clause 2(1)(a)][86] is the designated co-chair under [clause 6(2)][183].
 
 ---
 
@@ -2741,7 +2741,7 @@ Upper Waikato River integrated management plan
 
 ##### 3 Approval of plan
     
-*   (1) The Trusts and the relevant departments, relevant local authorities, and appropriate agencies must consider submissions made under [clause 2][183], to the extent to which they are consistent with the purpose of the plan.
+*   (1) The Trusts and the relevant departments, relevant local authorities, and appropriate agencies must consider submissions made under [clause 2][184], to the extent to which they are consistent with the purpose of the plan.
     
     (2) The Trusts and, as applicable, the relevant Minister or the Council or the appropriate agency may then approve the plan.
     
@@ -2797,11 +2797,11 @@ Upper Waikato River integrated management plan
         
         
     
-    (5) The Trusts that participate in a review under subclause (1) or (3) and the relevant departments, relevant local authorities, and appropriate agencies must apply [clauses 1 to 3][184], modified as necessary, to the review.
+    (5) The Trusts that participate in a review under subclause (1) or (3) and the relevant departments, relevant local authorities, and appropriate agencies must apply [clauses 1 to 3][185], modified as necessary, to the review.
     
     (6) If the Trusts that participate in a review and the relevant departments, relevant local authorities, and appropriate agencies agree as a result of the review that the plan should be amended in a material way, the amendment must be approved under [section 37(3)][50].
     
-    (7) If the Trusts that prepared a plan and the relevant departments, relevant local authorities, and appropriate agencies agree that the plan should be amended in a way that is not material, they must apply [clause 3(3) to (5)][185], modified as necessary, to the proposed amendment and the amendment need not be approved under [section 37(3)][50].
+    (7) If the Trusts that prepared a plan and the relevant departments, relevant local authorities, and appropriate agencies agree that the plan should be amended in a way that is not material, they must apply [clause 3(3) to (5)][186], modified as necessary, to the proposed amendment and the amendment need not be approved under [section 37(3)][50].
 
 #### 
 
@@ -2815,15 +2815,17 @@ Upper Waikato River integrated management plan
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][186] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][187] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][187] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][188] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][188] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][189] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][189] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][190] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Raukawa Claims Settlement Act 2014 (2014 No 7): [section 138][97]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][138]
+    
+    Raukawa Claims Settlement Act 2014 (2014 No 7): [section 138][97]
     
     Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][124]
     
@@ -2962,7 +2964,7 @@ Upper Waikato River integrated management plan
 [126]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM394191
 [127]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM255625
 [128]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM305839
-[129]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM300510
+[129]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM4005402
 [130]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM160976
 [131]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM415531
 [132]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM170872
@@ -2971,55 +2973,56 @@ Upper Waikato River integrated management plan
 [135]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM8800
 [136]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM172771
 [137]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM230364
-[138]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833141
-[139]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM231970
-[140]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2418625
-[141]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2417778
-[142]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416444
-[143]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235409
-[144]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235413
-[145]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1513269
-[146]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM104603
-[147]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM104619
-[148]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM395502
-[149]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833147
-[150]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM234355
-[151]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM395504
-[152]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233845
-[153]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233009
-[154]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM175643
-[155]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416410
-[156]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416409
-[157]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2414716
-[158]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233858
-[159]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233881
-[160]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233884
-[161]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM234326
-[162]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235220
-[163]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233037
-[164]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM172328
-[165]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM415605
-[166]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM311463
-[167]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM353436
-[168]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM175699
-[169]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM88548
-[170]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922971
-[171]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922991
-[172]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM305061
-[173]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2923002
-[174]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1512300
-[175]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1513271
-[176]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922994
-[177]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2923005
-[178]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2765116
-[179]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833134
-[180]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833135
-[181]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833138
-[182]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833130
-[183]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833145
-[184]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833144
-[185]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833146
-[186]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998516
-[187]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998515
-[188]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998532
-[189]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[138]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM4005646
+[139]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833141
+[140]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM231970
+[141]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2418625
+[142]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2417778
+[143]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416444
+[144]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235409
+[145]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235413
+[146]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1513269
+[147]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM104603
+[148]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM104619
+[149]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM395502
+[150]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833147
+[151]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM234355
+[152]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM395504
+[153]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233845
+[154]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233009
+[155]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM175643
+[156]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416410
+[157]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2416409
+[158]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2414716
+[159]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233858
+[160]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233881
+[161]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233884
+[162]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM234326
+[163]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM235220
+[164]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM233037
+[165]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM172328
+[166]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM415605
+[167]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM311463
+[168]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM353436
+[169]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM175699
+[170]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM88548
+[171]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922971
+[172]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922991
+[173]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM305061
+[174]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2923002
+[175]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1512300
+[176]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM1513271
+[177]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2922994
+[178]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2923005
+[179]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2765116
+[180]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833134
+[181]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833135
+[182]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833138
+[183]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833130
+[184]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833145
+[185]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833144
+[186]: http://www.legislation.govt.nz/act/public/2010/0119/latest/whole.html#DLM2833146
+[187]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998516
+[188]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998515
+[189]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM2998532
+[190]: http://www.pco.parliament.govt.nz/editorial-conventions/
