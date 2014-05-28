@@ -1,7 +1,7 @@
 Reprint  
-as at 19 March 2008
+as at 20 May 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Porirua City Council (Pauatahanui Burial Ground) Act 2007Local Act2007 No 1
 
@@ -13,51 +13,51 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purposes of this Act][4]
+[3][4][][4][Purposes of this Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
 [Part 2][6]  
 [Burial Ground][6]
 
-[Subpart 1][7]---[Status, control, and management][7]
+[Subpart 1][7][---][7][Status, control, and management][7]
 
-[5][8] [Confirmation of vesting of Burial Ground in Council][8]
+[5][8][][8][Confirmation of vesting of Burial Ground in Council][8]
 
-[6][9] [Application to Burial Ground of general provisions on closed burial grounds][9]
+[6][9][][9][Application to Burial Ground of general provisions on closed burial grounds][9]
 
-[7][10] [Dissolution of Trusts][10]
+[7][10][][10][Dissolution of Trusts][10]
 
-[8][11] [Interests of Stace heirs and assigns under caveat extinguished][11]
+[8][11][][11][Interests of Stace heirs and assigns under caveat extinguished][11]
 
-[9][12] [Entitlements of purchasers, survivors, etc, saved][12]
+[9][12][][12][Entitlements of purchasers, survivors, etc, saved][12]
 
-[10][13] [Burial Ground continues to be called Pauatahanui Burial Ground][13]
+[10][13][][13][Burial Ground continues to be called Pauatahanui Burial Ground][13]
 
-[Subpart 2][14]---[Maintenance, inspection, and records][14]
+[Subpart 2][14][---][14][Maintenance, inspection, and records][14]
 
-[11][15] [Sections 12 and 13 apply only while Council is controller and manager][15]
+[11][15][][15][Sections 12 and 13 apply only while Council is controller and manager][15]
 
-[12][16] [Maintenance of Burial Ground][16]
+[12][16][][16][Maintenance of Burial Ground][16]
 
-[13][17] [Inspection of Burial Ground][17]
+[13][17][][17][Inspection of Burial Ground][17]
 
-[14][18] [Records relating to Burial Ground][18]
+[14][18][][18][Records relating to Burial Ground][18]
 
 [Schedule][19]  
 [Pauatahanui Burial Ground][19]
@@ -238,7 +238,9 @@ Burial Ground
     
     (3) The Council must take all reasonably practicable steps to foster community involvement in the upkeep and beautification of the Burial Ground.
     
-    (4) The Council must consult with the New Zealand Historic Places Trust before the Council undertakes any major repairs or major earthworks at the Burial Ground.
+    (4) The Council must consult with Heritage New Zealand Pouhere Taonga before the Council undertakes any major repairs or major earthworks at the Burial Ground.
+    
+    Section 12(4): amended, on 20 May 2014, by [section 107][37] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 13 Inspection of Burial Ground
     
@@ -263,74 +265,31 @@ Pauatahanui Burial Ground
 
 All that piece of land containing 3179 square metres more or less being section 1 on SO Plan 336355 Wellington Registry.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Porirua City Council (Pauatahanui Burial Ground) Act 2007\. The reprint incorporates all the amendments to the Porirua City Council (Pauatahanui Burial Ground) Act 2007 as at 19 March 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Porirua City Council (Pauatahanui Burial Ground) Act 2007 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][37] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][38] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][39] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations in Force, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][40] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][38] and [17E][39] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][37]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/2007/0001/latest/whole.html#DLM967804
 [2]: http://www.legislation.govt.nz/act/local/2007/0001/latest/whole.html#DLM967805
 [3]: http://www.legislation.govt.nz/act/local/2007/0001/latest/whole.html#DLM967806
@@ -367,6 +326,8 @@ All that piece of land containing 3179 square metres more or less being section 
 [34]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM355451
 [35]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM355860
 [36]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM355862
-[37]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM195439
-[38]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM195468
-[39]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM195470
+[37]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM4005646
+[38]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM2998516
+[39]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM2998515
+[40]: http://www.legislation.govt.nz/act/local/2007/0001/latest/link.aspx?id=DLM2998532
+[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
