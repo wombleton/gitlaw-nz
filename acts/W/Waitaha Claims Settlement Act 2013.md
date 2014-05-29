@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -123,7 +123,7 @@ This Act is administered by the Ministry of Justice.
 
 [29 ][49][][49][Environment Court to have regard to statutory acknowledgement][49]
 
-[30 ][50][][50][Historic Places Trust and Environment Court to have regard to statutory acknowledgement][50]
+[30 ][50][][50][Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement][50]
 
 [31 ][51][][51][Recording statutory acknowledgement on statutory plans][51]
 
@@ -631,7 +631,7 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
     
     _general matters schedule_ means the schedule of that name that forms part of the deed of settlement
     
-    _Historic Places Trust_ means the New Zealand Historic Places Trust (Pouhere Taonga) continued by [section 38][150] of the Historic Places Act 1993
+    _Heritage New Zealand Pouhere Taonga_ means the Crown entity established by [section 9][150] of the Heritage New Zealand Pouhere Taonga Act 2014
     
     _historical claims_ has the meaning given in [section 11][15]
     
@@ -752,6 +752,10 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
     _Waitaha area of interest_ and _area of interest_ mean the area that Waitaha identifies as its area of interest, as set out in part 1 of the attachments to the deed of settlement
     
     _Waitaha values_ has the meaning given in [section 41(2)][65].
+    
+    Section 9 **Heritage New Zealand Pouhere Taonga**: inserted, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 9 **Historic Places Trust**: repealed, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 10 Meaning of Waitaha
     
@@ -883,7 +887,7 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
     
 *   (1) This section amends the [Treaty of Waitangi Act 1975][145].
     
-    (2) In [Schedule 3][157], insert in its appropriate alphabetical order ""Waitaha Claims Settlement Act 2013, section 12(4) and (5)"".
+    (2) In [Schedule 3][158], insert in its appropriate alphabetical order ""Waitaha Claims Settlement Act 2013, section 12(4) and (5)"".
 
 #### Protections no longer apply
 
@@ -905,15 +909,15 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
     
     (2) The enactments are---
         
-    *   (a) [sections 8A to 8HJ][158] of the Treaty of Waitangi Act 1975:
+    *   (a) [sections 8A to 8HJ][159] of the Treaty of Waitangi Act 1975:
     
-    *   (b) [sections 27A to 27C][159] of the State-Owned Enterprises Act 1986:
+    *   (b) [sections 27A to 27C][160] of the State-Owned Enterprises Act 1986:
     
-    *   (c) [sections 211 to 213][160] of the Education Act 1989:
+    *   (c) [sections 211 to 213][161] of the Education Act 1989:
     
-    *   (d) [Part 3][161] of the Crown Forest Assets Act 1989:
+    *   (d) [Part 3][162] of the Crown Forest Assets Act 1989:
     
-    *   (e) [Part 3][162] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    *   (e) [Part 3][163] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
     
 
@@ -949,7 +953,7 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
 
 ##### 16 Rule against perpetuities does not apply
     
-*   (1) The rule against perpetuities and the provisions of the [Perpetuities Act 1964][163] do not---
+*   (1) The rule against perpetuities and the provisions of the [Perpetuities Act 1964][164] do not---
         
     *   (a) prescribe or restrict the period during which---
             
@@ -959,9 +963,9 @@ Preliminary provisions, acknowledgements and apology, settlement of historical c
         
         
     
-    *   (b) apply to a protocol, deed of recognition, or other document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that [Act][163] would otherwise make the document, or a right conferred by the document, invalid or ineffective.
+    *   (b) apply to a protocol, deed of recognition, or other document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that [Act][164] would otherwise make the document, or a right conferred by the document, invalid or ineffective.
     
-    (2) However, if Te Kapu o Waitaha is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the [Perpetuities Act 1964][163] to that trust must be determined under the general law.
+    (2) However, if Te Kapu o Waitaha is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the [Perpetuities Act 1964][164] to that trust must be determined under the general law.
 
 #### Timing of actions or matters
 
@@ -1028,7 +1032,7 @@ Cultural redress
     
 *   (1) The Crown must comply with a protocol while it is in force.
     
-    (2) If the Crown fails, without good cause, to comply with a protocol, the trustees may, subject to the [Crown Proceedings Act 1950][164], enforce the protocol.
+    (2) If the Crown fails, without good cause, to comply with a protocol, the trustees may, subject to the [Crown Proceedings Act 1950][165], enforce the protocol.
     
     (3) Despite subsection (2), damages or any form of monetary compensation are not available as a remedy for a failure by the Crown to comply with a protocol.
     
@@ -1056,13 +1060,13 @@ Cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to the document for the purposes of [section 17I][165] of the Conservation Act 1987 or [section 46][166] of the National Parks Act 1980\.
+    *   (b) not an amendment to the document for the purposes of [section 17I][166] of the Conservation Act 1987 or [section 46][167] of the National Parks Act 1980\.
     
     (3) The conservation protocol does not have the effect of granting, creating, or providing evidence of---
         
-    *   (a) rights relating to the marine and coastal area (as defined in [section 9(1)][167] of the Marine and Coastal Area (Takutai Moana) Act 2011); or
+    *   (a) rights relating to the marine and coastal area (as defined in [section 9(1)][168] of the Marine and Coastal Area (Takutai Moana) Act 2011); or
     
-    *   (b) an estate or interest in land held, managed, or administered or flora or fauna managed or administered under the [Conservation Act 1987][168] or an enactment listed in [Schedule 1][169] of that Act.
+    *   (b) an estate or interest in land held, managed, or administered or flora or fauna managed or administered under the [Conservation Act 1987][169] or an enactment listed in [Schedule 1][170] of that Act.
     
     
 
@@ -1080,11 +1084,11 @@ Cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to the minerals programme for the purposes of the [Crown Minerals Act 1991][170].
+    *   (b) not an amendment to the minerals programme for the purposes of the [Crown Minerals Act 1991][171].
     
     (3) The Crown minerals protocol does not have the effect of granting, creating, or providing evidence of an estate in, or rights relating to, any Crown owned mineral.
     
-    (4) In this section, _Crown owned mineral_ and _minerals programme_ have the meanings given to them in [section 2(1)][171] of the Crown Minerals Act 1991\.
+    (4) In this section, _Crown owned mineral_ and _minerals programme_ have the meanings given to them in [section 2(1)][172] of the Crown Minerals Act 1991\.
 
 #### Taonga tūturu protocol
 
@@ -1100,7 +1104,7 @@ Cultural redress
     
 *   In this subpart,---
     
-    _specified freehold land_ has the meaning given in [section 9(1)][167] of the Marine and Coastal Area (Takutai Moana) Act 2011
+    _specified freehold land_ has the meaning given in [section 9(1)][168] of the Marine and Coastal Area (Takutai Moana) Act 2011
     
     _statements of association_ means the statements---
         
@@ -1118,39 +1122,41 @@ Cultural redress
     
 *   The only purposes of the statutory acknowledgement are to---
         
-    *   (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, in accordance with [sections 28 to 30][48]; and
+    *   (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, in accordance with [sections 28 to 30][48]; and
     
     *   (b) require relevant consent authorities to give summaries and notices of resource consent applications to the trustees, in accordance with [section 32][52]; and
     
     *   (c) enable the trustees and any member of Waitaha to cite the statutory acknowledgement as evidence of the association of Waitaha with the relevant statutory areas, in accordance with [section 33][53].
     
-    
+    Section 27(a)****: amended, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 28 Relevant consent authorities to have regard to statutory acknowledgement
     
 *   (1) This section applies in relation to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area.
     
-    (2) On and from the effective date, a relevant consent authority must have regard to the statutory acknowledgement relating to the statutory area in deciding, under [section 95E][172] of the Resource Management Act 1991, whether the trustees are affected persons in relation to the activity.
+    (2) On and from the effective date, a relevant consent authority must have regard to the statutory acknowledgement relating to the statutory area in deciding, under [section 95E][173] of the Resource Management Act 1991, whether the trustees are affected persons in relation to the activity.
     
-    (3) Subsection (2) does not limit the obligations of a relevant consent authority under the [Resource Management Act 1991][173].
+    (3) Subsection (2) does not limit the obligations of a relevant consent authority under the [Resource Management Act 1991][174].
 
 ##### 29 Environment Court to have regard to statutory acknowledgement
     
 *   (1) This section applies to proceedings before the Environment Court in relation to an application for a resource consent for an activity within, adjacent to, or directly affecting the statutory area.
     
-    (2) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area in deciding, under [section 274][174] of the Resource Management Act 1991, whether the trustees are persons with an interest in proceedings greater than that of the general public.
+    (2) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area in deciding, under [section 274][175] of the Resource Management Act 1991, whether the trustees are persons with an interest in proceedings greater than that of the general public.
     
-    (3) Subsection (2) does not limit the obligations of the Environment Court under the [Resource Management Act 1991][173].
+    (3) Subsection (2) does not limit the obligations of the Environment Court under the [Resource Management Act 1991][174].
 
-##### 30 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
+##### 30 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
     
-*   (1) This section applies if, on or after the effective date, an application is made under [section 11][175] or [12][176] of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area.
+*   (1) If, on or after the effective date, an application is made under [section 44][176], [56][177], or [61][178] of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,--- 
+        
+    *   (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under [section 48][179], [56][177], or [62][180] of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
     
-    (2) The Historic Places Trust must have regard to the statutory acknowledgement relating to the statutory area in exercising its powers under [section 14][177] of the Historic Places Act 1993 in relation to the application, including determining under section 14(6)(a) of that Act whether the trustees may be directly affected by an extension of time. 
+    *   (b) the Environment Court, in determining under [section 59(1)][181] or [64(1)][182] of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
     
-    (3) The Environment Court must have regard to the statutory acknowledgement relating to the statutory area in determining, under [section 20][178] of the Historic Places Act 1993, an appeal against a decision of the Historic Places Trust in relation to the application, including determining whether the trustees are directly affected by the decision.
+    (2) In this section, _archaeological site_ has the meaning given in [section 6][183] of the Heritage New Zealand Pouhere Taonga Act 2014\.
     
-    (4) In this section, _archaeological site_ has the meaning given in [section 2][179] of the Historic Places Act 1993\.
+    Section 30****: replaced, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 31 Recording statutory acknowledgement on statutory plans
     
@@ -1168,7 +1174,7 @@ Cultural redress
         
     *   (a) part of the statutory plan; or
     
-    *   (b) subject to the provisions of [Schedule 1][180] of the Resource Management Act 1991\.
+    *   (b) subject to the provisions of [Schedule 1][184] of the Resource Management Act 1991\.
     
     
 
@@ -1178,39 +1184,39 @@ Cultural redress
         
     *   (a) if the application is received by the consent authority, a summary of the application; and
     
-    *   (b) if notice of an application for resource consent is served on the consent authority under [section 145(10)][181] of the Resource Management Act 1991, a copy of the notice.
+    *   (b) if notice of an application for resource consent is served on the consent authority under [section 145(10)][185] of the Resource Management Act 1991, a copy of the notice.
     
-    (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under [section 95B][182] of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
+    (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under [section 95B][186] of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
     
     (3) A summary of an application must be given under subsection (1)(a)---
         
     *   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; and
     
-    *   (b) before the consent authority decides under [section 95(a)][183] of the Resource Management Act 1991 whether to notify the application.
+    *   (b) before the consent authority decides under [section 95(a)][187] of the Resource Management Act 1991 whether to notify the application.
     
     (4) A copy of the notice under subsection (1)(b) must be given no later than 10 business days after the day on which the relevant consent authority receives the notice.
     
     (5) This section does not affect a relevant consent authority's obligation---
         
-    *   (a) under [section 95(a)][183] of the Resource Management Act 1991, to decide whether to notify an application:
+    *   (a) under [section 95(a)][187] of the Resource Management Act 1991, to decide whether to notify an application:
     
-    *   (b) under [section 95E][172] of that Act, to decide whether the trustees are affected persons in relation to an application. 
+    *   (b) under [section 95E][173] of that Act, to decide whether the trustees are affected persons in relation to an application. 
     
     
 
 ##### 33 Use of statutory acknowledgement
     
-*   (1) The trustees and any member of Waitaha may, as evidence of the association of Waitaha with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under [Part 6AA][184] of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+*   (1) The trustees and any member of Waitaha may, as evidence of the association of Waitaha with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under [Part 6AA][188] of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
     
     (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on---
         
     *   (a) relevant consent authorities:
     
-    *   (b) the Environmental Protection Authority or a board of inquiry under [Part 6AA][184] of the Resource Management Act 1991:
+    *   (b) the Environmental Protection Authority or a board of inquiry under [Part 6AA][188] of the Resource Management Act 1991:
     
     *   (c) the Environment Court:
     
-    *   (d) the Historic Places Trust:
+    *   (d) Heritage New Zealand Pouhere Taonga:
     
     *   (e) parties to proceedings before the bodies specified in paragraphs (a) to (d):
     
@@ -1224,21 +1230,27 @@ Cultural redress
     
     *   (b) the content and existence of the statutory acknowledgement do not limit any statement made.
     
+    Section 33(1)****: amended, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
+    Section 33(2)(d)****: replaced, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 34 Trustees may waive rights
     
 *   (1) The trustees may waive the right to be given summaries, and copies of notices, of resource consent applications under [section 32][52] in relation to a statutory area.
     
-    (2) The trustees may waive the right to have a relevant consent authority, the Environment Court, or the Historic Places Trust have regard to the statutory acknowledgement under [sections 28 to 30][48] in relation to a statutory area.
+    (2) The trustees may waive the right to have a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga have regard to the statutory acknowledgement under [sections 28 to 30][48] in relation to a statutory area.
     
-    (3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or the Historic Places Trust, stating---
+    (3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga, stating---
         
     *   (a) the scope of the waiver; and
     
     *   (b) the period for which it applies.
     
     (4) An obligation under this subpart does not apply to the extent that the corresponding right has been waived under this section.
+    
+    Section 34(2)****: amended, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 34(3)****: amended, on 20 May 2014, by [section 107][157] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 35 Application of statutory acknowledgement to river, stream, or coastal marine area
     
@@ -1328,9 +1340,9 @@ Cultural redress
 
 ##### 40 Amendment to Resource Management Act 1991
     
-*   (1) This section amends the [Resource Management Act 1991][173].
+*   (1) This section amends the [Resource Management Act 1991][174].
     
-    (2) In [Schedule 11][185], insert in its appropriate alphabetical order ""Waitaha Claims Settlement Act 2013"".
+    (2) In [Schedule 11][189], insert in its appropriate alphabetical order ""Waitaha Claims Settlement Act 2013"".
 
 ### Subpart 3---Te Whakairinga Kōrero
 
@@ -1340,11 +1352,11 @@ Cultural redress
     
     (2) In this subpart,---
     
-    _conservation board_ means a board established under [section 6L][186] of the Conservation Act 1987
+    _conservation board_ means a board established under [section 6L][190] of the Conservation Act 1987
     
-    _national park management plan_ means a management plan for a national park prepared under [section 45][187] of the National Parks Act 1980
+    _national park management plan_ means a management plan for a national park prepared under [section 45][191] of the National Parks Act 1980
     
-    _New Zealand Conservation Authority_ means the authority established under [section 6A][188] of the Conservation Act 1987
+    _New Zealand Conservation Authority_ means the authority established under [section 6A][192] of the Conservation Act 1987
     
     _ngā tikanga o Waitaha_ means the statement of ngā tikanga o Waitaha set out on pages 1 and 2 of part 1 of the documents schedule
     
@@ -1474,7 +1486,7 @@ Cultural redress
         
     *   (a) is for the purpose of public notice only; and
     
-    *   (b) is not an amendment to a document for the purposes of [section 17I][189] of the Conservation Act 1987 or [section 46][166] of the National Parks Act 1980\.
+    *   (b) is not an amendment to a document for the purposes of [section 17I][193] of the Conservation Act 1987 or [section 46][167] of the National Parks Act 1980\.
     
     
 
@@ -1512,7 +1524,7 @@ Cultural redress
     
     (2) The Director-General must consult affected conservation boards before initiating an amendment under subsection (1).
     
-    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][190] of the Conservation Act 1987 or [section 46(1) to (4)][166] of the National Parks Act 1980, as the case requires.
+    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][194] of the Conservation Act 1987 or [section 46(1) to (4)][167] of the National Parks Act 1980, as the case requires.
     
     (4) This section does not limit [section 51(2)][75].
 
@@ -1556,15 +1568,15 @@ Cultural redress
     
     (2) Bylaws made under this section---
         
-    *   (a) are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][191]; and 
+    *   (a) are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][195]; and 
     
-    *   (b) must be presented to the House of Representatives under [section 41][192] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][196] of that Act.
     
-    Section 54(2): replaced, on 5 August 2013, by [section 55][193].
+    Section 54(2): replaced, on 5 August 2013, by [section 55][197].
 
 ##### 55 Amendment relating to Legislation Act 2012
     
-*   (1) This section amends this Act and takes effect on the repeal by the [Legislation Act 2012][191] of the [Acts and Regulations Publication Act 1989][194] and the [Regulations (Disallowance) Act 1989][195].
+*   (1) This section amends this Act and takes effect on the repeal by the [Legislation Act 2012][195] of the [Acts and Regulations Publication Act 1989][198] and the [Regulations (Disallowance) Act 1989][199].
     
     (2) _Amendment(s) incorporated in the [Act(s)][78]_.
 
@@ -1572,11 +1584,11 @@ Cultural redress
     
 *   (1) This section applies if Te Whakairinga Kōrero applies to any land in---
         
-    *   (a) a national park under the [National Parks Act 1980][196]; or
+    *   (a) a national park under the [National Parks Act 1980][200]; or
     
-    *   (b) a conservation area under the [Conservation Act 1987][168]; or
+    *   (b) a conservation area under the [Conservation Act 1987][169]; or
     
-    *   (c) a reserve under the [Reserves Act 1977][197].
+    *   (c) a reserve under the [Reserves Act 1977][201].
     
     (2) Te Whakairinga Kōrero does not affect---
         
@@ -1716,25 +1728,25 @@ Cultural redress
 
 ##### 68 Maungaruahine Pā Historic Reserve
     
-*   (1) The reservation of the Maungaruahine Pā Historic Reserve (being Maungaruahine Pa Historic Reserve) as a historic reserve subject to [section 18][198] of the Reserves Act 1977 is revoked.
+*   (1) The reservation of the Maungaruahine Pā Historic Reserve (being Maungaruahine Pa Historic Reserve) as a historic reserve subject to [section 18][202] of the Reserves Act 1977 is revoked.
     
     (2) The fee simple estate in the Maungaruahine Pā Historic Reserve vests in the trustees.
     
-    (3) The Maungaruahine Pā Historic Reserve is declared a reserve and classified as a historic reserve subject to [section 18][198] of the Reserves Act 1977\.
+    (3) The Maungaruahine Pā Historic Reserve is declared a reserve and classified as a historic reserve subject to [section 18][202] of the Reserves Act 1977\.
     
     (4) The name of the reserve created by subsection (3) is the Maungaruahine Pā Historic Reserve.
     
-    (5) The trustees are the administering body of the Maungaruahine Pā Historic Reserve for the purposes of the [Reserves Act 1977][197].
+    (5) The trustees are the administering body of the Maungaruahine Pā Historic Reserve for the purposes of the [Reserves Act 1977][201].
 
 ##### 69 Subsequent transfer of Maungaruahine Pā Historic Reserve
     
-*   (1) This section applies to all, or a part, of the Maungaruahine Pā Historic Reserve that, at any time after vesting in the trustees under [section 68][98], remains a reserve under the [Reserves Act 1977][197] (the _reserve land_).
+*   (1) This section applies to all, or a part, of the Maungaruahine Pā Historic Reserve that, at any time after vesting in the trustees under [section 68][98], remains a reserve under the [Reserves Act 1977][201] (the _reserve land_).
     
     (2) The fee simple estate in the reserve land may be transferred to any other person, but only in accordance with this section, despite any other enactment or rule of law.
     
     (3) The Minister of Conservation must give written consent to the transfer of the fee simple estate in the reserve land to another person or persons (the _new owners_) if, upon written application, the registered proprietors of the reserve land satisfy the Minister that the new owners are able to---
         
-    *   (a) comply with the requirements of the [Reserves Act 1977][197]; and
+    *   (a) comply with the requirements of the [Reserves Act 1977][201]; and
     
     *   (b) perform the duties of an administering body under that Act.
     
@@ -1750,7 +1762,7 @@ Cultural redress
     
     (6) The new owners, from the time of registration under subsection (4),---
         
-    *   (a) are the administering body of the reserve land for the purposes of the [Reserves Act 1977][197]; and
+    *   (a) are the administering body of the reserve land for the purposes of the [Reserves Act 1977][201]; and
     
     *   (b) hold the reserve land for the same reserve purposes as those for which it was held by the administering body immediately before the transfer.
     
@@ -1766,15 +1778,15 @@ Cultural redress
 
 ##### 70 Ōtara Scenic Reserve
     
-*   (1) The reservation, subject to [section 19][199] of the Reserves Act 1977, of the Ōtara Scenic Reserve (being part of the Otawa Scenic Reserve) is revoked.
+*   (1) The reservation, subject to [section 19][203] of the Reserves Act 1977, of the Ōtara Scenic Reserve (being part of the Otawa Scenic Reserve) is revoked.
     
     (2) The fee simple estate in the Ōtara Scenic Reserve vests in the trustees.
     
-    (3) The Ōtara Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][199] of the Reserves Act 1977\.
+    (3) The Ōtara Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in [section 19(1)(a)][203] of the Reserves Act 1977\.
     
     (4) The name of the reserve created under subsection (3) is the Ōtara Scenic Reserve.
     
-    (5) The trustees are the administering body of the Ōtara Scenic Reserve for the purposes of the [Reserves Act 1977][197].
+    (5) The trustees are the administering body of the Ōtara Scenic Reserve for the purposes of the [Reserves Act 1977][201].
 
 ##### 71 Restriction on transfer of Ōtara Scenic Reserve 
     
@@ -1828,7 +1840,7 @@ Cultural redress
 
 ##### 74 Ōtanewainuku
     
-*   (1) Ōtanewainuku ceases to be a conservation area under the [Conservation Act 1987][168].
+*   (1) Ōtanewainuku ceases to be a conservation area under the [Conservation Act 1987][169].
     
     (2) The fee simple estate in Ōtanewainuku vests as undivided equal shares in the following as tenants in common:
         
@@ -1844,15 +1856,15 @@ Cultural redress
     
     *   (f) the trustees of the Tapuika Iwi Authority Trust.
     
-    (3) Ōtanewainuku is declared a reserve and classified as a scenic reserve subject to [section 19(1)(a)][200] of the Reserves Act 1977\.
+    (3) Ōtanewainuku is declared a reserve and classified as a scenic reserve subject to [section 19(1)(a)][204] of the Reserves Act 1977\.
     
     (4) The reserve is named Ōtanewainuku Scenic Reserve.
     
-    (5) The joint management body established by [section 76][107] is the administering body of the reserve, and the [Reserves Act 1977][197] applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under [section 26][201] of that Act.
+    (5) The joint management body established by [section 76][107] is the administering body of the reserve, and the [Reserves Act 1977][201] applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under [section 26][205] of that Act.
     
     (6) Subsections (1) to (5) do not take effect until the persons described in subsection (2) have provided the Crown with a registrable easement in gross for a right of way over Ōtanewainuku on the terms and conditions set out in part 11 of the documents schedule.
     
-    (7) Despite the provisions of the [Reserves Act 1977][197], the easement---
+    (7) Despite the provisions of the [Reserves Act 1977][201], the easement---
         
     *   (a) is enforceable in accordance with its terms; and
     
@@ -1862,7 +1874,7 @@ Cultural redress
 
 ##### 75 Pūwhenua 
     
-*   (1) Pūwhenua ceases to be a conservation area under the [Conservation Act 1987][168].
+*   (1) Pūwhenua ceases to be a conservation area under the [Conservation Act 1987][169].
     
     (2) The fee simple estate in Pūwhenua vests as undivided equal shares in the following as tenants in common:
         
@@ -1878,11 +1890,11 @@ Cultural redress
     
     *   (f) the trustees of Te Tahuhu o Tawakeheimoa Trust.
     
-    (3) Pūwhenua is declared a reserve and classified as a scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
+    (3) Pūwhenua is declared a reserve and classified as a scenic reserve subject to [section 19(1)(a)][203] of the Reserves Act 1977\.
     
     (4) The reserve is named Pūwhenua Scenic Reserve.
     
-    (5) The joint management body established by [section 76][107] is the administering body of the reserve, and the [Reserves Act 1977][197] applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under [section 26][201] of that Act.
+    (5) The joint management body established by [section 76][107] is the administering body of the reserve, and the [Reserves Act 1977][201] applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under [section 26][205] of that Act.
 
 ##### 76 Joint management body for Ōtanewainuku and Pūwhenua Scenic Reserves
     
@@ -1914,7 +1926,7 @@ Cultural redress
     
     (6) A member may be appointed, reappointed, or discharged at the discretion of the appointer.
     
-    (7) [Sections 32][202] to 34 of the Reserves Act 1977 apply to the joint management body as if it were a board.
+    (7) [Sections 32][206] to 34 of the Reserves Act 1977 apply to the joint management body as if it were a board.
     
     (8) However, the first meeting of the body must be held no later than 2 months after the vesting date.
 
@@ -1950,7 +1962,7 @@ Cultural redress
 
 ##### 80 Interests in land for joint cultural redress properties
     
-*   (1) This section applies to a joint cultural redress property while all or part of the property remains a reserve under the [Reserves Act 1977][197] (the _reserve land_).
+*   (1) This section applies to a joint cultural redress property while all or part of the property remains a reserve under the [Reserves Act 1977][201] (the _reserve land_).
     
     (2) If the property is affected by an encumbrance that is an interest in land listed for the property in [Schedule 4][144] or that is granted in relation to the property before the vesting date, the encumbrance applies as if the administering body were the grantor, or the grantee, as the case may be, of the encumbrance in respect of the reserve land.
     
@@ -2012,25 +2024,25 @@ Cultural redress
 
 ##### 83 Application of Part 4A of Conservation Act 1987
     
-*   (1) The vesting of the fee simple estate in a joint cultural redress property under this subpart is a disposition for the purposes of [Part 4A][203] of the Conservation Act 1987, but [sections 24][204], [24A][205], and [24AA][206] of that Act do not apply to the disposition.
+*   (1) The vesting of the fee simple estate in a joint cultural redress property under this subpart is a disposition for the purposes of [Part 4A][207] of the Conservation Act 1987, but [sections 24][208], [24A][209], and [24AA][210] of that Act do not apply to the disposition.
     
-    (2) If the reservation of a joint cultural redress property under [section 74(3)][105] or [75(3)][106] is revoked in relation to all or part of the property, then the vesting is no longer exempt from [section 24][204] (except subsection (2A)) of the Conservation Act 1987 in relation to all or that part of the property.
+    (2) If the reservation of a joint cultural redress property under [section 74(3)][105] or [75(3)][106] is revoked in relation to all or part of the property, then the vesting is no longer exempt from [section 24][208] (except subsection (2A)) of the Conservation Act 1987 in relation to all or that part of the property.
 
 ##### 84 Recording application of Part 4A of Conservation Act 1987 and sections of this subpart
     
 *   (1) The Registrar-General must record on the computer freehold register for a joint cultural redress property that---
         
-    *   (a) the land is subject to [Part 4A][203] of the Conservation Act 1987, but that [section 24][204] of that Act does not apply; and
+    *   (a) the land is subject to [Part 4A][207] of the Conservation Act 1987, but that [section 24][208] of that Act does not apply; and
     
     *   (b) the land is subject to [sections 77][108], [80(3)][112], and [83(2)][115].
     
-    (2) A record made under subsection (1) that land is subject to [Part 4A][203] of the Conservation Act 1987 is to be treated as having been made under [section 24D(1)][207] of that Act.
+    (2) A record made under subsection (1) that land is subject to [Part 4A][207] of the Conservation Act 1987 is to be treated as having been made under [section 24D(1)][211] of that Act.
     
     (3) If the reservation under [section 74(3)][105] or [75(3)][106] is revoked for---
         
     *   (a) all of the property, then the Director-General must apply in writing to the Registrar-General to remove from the computer freehold registers for the property the notifications that---
             
-        *   (i) [section 24][204] of the Conservation Act 1987 does not apply; and
+        *   (i) [section 24][208] of the Conservation Act 1987 does not apply; and
         
         *   (ii) the property is subject to [sections 77][108], [80(3)][112], and [83(2)][115]; or
         
@@ -2042,7 +2054,7 @@ Cultural redress
 
 ##### 85 Application of other enactments to joint cultural redress properties
     
-*   (1) [Section 11][208] and [Part 10][209] of the Resource Management Act 1991 do not apply to---
+*   (1) [Section 11][212] and [Part 10][213] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting of the fee simple estate in a joint cultural redress property under this subpart; or
     
@@ -2050,37 +2062,37 @@ Cultural redress
     
     (2) The vesting of the fee simple estate in a joint cultural redress property under this subpart does not---
         
-    *   (a) limit [section 10][210] or [11][211] of the Crown Minerals Act 1991; or
+    *   (a) limit [section 10][214] or [11][215] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (3) The permission of a council under [section 348][212] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a joint cultural redress property.
+    (3) The permission of a council under [section 348][216] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a joint cultural redress property.
 
 ##### 86 Application of Reserves Act 1977 to joint cultural redress properties that are reserve
     
-*   (1) Despite [sections 48A(6)][213], [114(5)][214], and [115(6)][215] of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a joint cultural redress property.
+*   (1) Despite [sections 48A(6)][217], [114(5)][218], and [115(6)][219] of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a joint cultural redress property.
     
-    (2) [Sections 78(1)(a)][216], [79 to 81][217], and [88][218] of the Reserves Act 1977 do not apply in relation to a joint cultural redress property.
+    (2) [Sections 78(1)(a)][220], [79 to 81][221], and [88][222] of the Reserves Act 1977 do not apply in relation to a joint cultural redress property.
     
-    (3) If the reservation under [section 74(3)][105] or [75(3)][106] of a joint cultural redress property as a reserve is revoked under [section 24][219] of the Reserves Act 1977 in relation to all or part of the property, [section 25][220] of that Act, except subsection (2) of that provision, does not apply to the revocation.
+    (3) If the reservation under [section 74(3)][105] or [75(3)][106] of a joint cultural redress property as a reserve is revoked under [section 24][223] of the Reserves Act 1977 in relation to all or part of the property, [section 25][224] of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ##### 87 Joint cultural redress property that is reserve must not be mortgaged
     
-*   The registered proprietors of a joint cultural redress property must not mortgage, or give a security interest in, all or any part of the property that, at any time after vesting under [section 74][105] or [75][106], remains a reserve under the [Reserves Act 1977][197].
+*   The registered proprietors of a joint cultural redress property must not mortgage, or give a security interest in, all or any part of the property that, at any time after vesting under [section 74][105] or [75][106], remains a reserve under the [Reserves Act 1977][201].
 
 ##### 88 Saving of bylaws, etc, in relation to joint cultural redress property that is reserve
     
-*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister made or imposed under the [Reserves Act 1977][197] or the [Conservation Act 1987][168] in relation to a joint cultural redress property before the property vested under [section 74][105] or [75][106].
+*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister made or imposed under the [Reserves Act 1977][201] or the [Conservation Act 1987][169] in relation to a joint cultural redress property before the property vested under [section 74][105] or [75][106].
     
-    (2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the [Reserves Act 1977][197] or the [Conservation Act 1987][168].
+    (2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the [Reserves Act 1977][201] or the [Conservation Act 1987][169].
 
 ##### 89 Scenic reserve not to become Crown protected area
     
 *   (1) A joint cultural redress property is not a Crown protected area.
     
-    (2) The Minister must not change the name of a joint cultural redress property under [section 16(10)][221] of the Reserves Act 1977 without the written consent of the administering body of the property, and section 16(10A) of that Act does not apply to the proposed change.
+    (2) The Minister must not change the name of a joint cultural redress property under [section 16(10)][225] of the Reserves Act 1977 without the written consent of the administering body of the property, and section 16(10A) of that Act does not apply to the proposed change.
     
-    (3) In this section, _Crown protected area_ has the meaning given by [section 4][222] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    (3) In this section, _Crown protected area_ has the meaning given by [section 4][226] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ### Subpart 7---General provisions relating to vesting of cultural redress properties in trustees
 
@@ -2118,11 +2130,11 @@ Cultural redress
 
 ##### 92 Application of Part 4A of Conservation Act 1987
     
-*   (1) The vesting of the fee simple estate in a cultural redress property in the trustees under [subpart 5][87] is a disposition for the purposes of [Part 4A][203] of the Conservation Act 1987, but [sections 24(2A)][204], [24A][205], and [24AA][206] of that Act do not apply to the disposition.
+*   (1) The vesting of the fee simple estate in a cultural redress property in the trustees under [subpart 5][87] is a disposition for the purposes of [Part 4A][207] of the Conservation Act 1987, but [sections 24(2A)][208], [24A][209], and [24AA][210] of that Act do not apply to the disposition.
     
-    (2) Despite subsection (1), the rest of [section 24][204] of the Conservation Act 1987 does not apply to the vesting of a reserve site under [section 68][98] or [70][100]. 
+    (2) Despite subsection (1), the rest of [section 24][208] of the Conservation Act 1987 does not apply to the vesting of a reserve site under [section 68][98] or [70][100]. 
     
-    (3) If the reservation of a reserve site under [section 68(3)][98] or [70(3)][100] is revoked in relation to all or part of the site, then the vesting is no longer exempt from the rest of [section 24][204] of the Conservation Act 1987 in relation to all or that part of the site.
+    (3) If the reservation of a reserve site under [section 68(3)][98] or [70(3)][100] is revoked in relation to all or part of the site, then the vesting is no longer exempt from the rest of [section 24][208] of the Conservation Act 1987 in relation to all or that part of the site.
 
 ##### 93 Recording application of Part 4A of Conservation Act 1987 and sections of this Part
     
@@ -2130,7 +2142,7 @@ Cultural redress
         
     *   (a) the Maungaruahine Pā Historic Reserve that---
             
-        *   (i) the land is subject to [Part 4A][203] of the Conservation Act 1987, but that [section 24][204] of that Act does not apply; and
+        *   (i) the land is subject to [Part 4A][207] of the Conservation Act 1987, but that [section 24][208] of that Act does not apply; and
         
         *   (ii) the land is subject to [sections 69][99] and [92(3)][125] of this Act; and
         
@@ -2138,21 +2150,21 @@ Cultural redress
     
     *   (b) the Ōtara Scenic Reserve that---
             
-        *   (i) the land is subject to [Part 4A][203] of the Conservation Act 1987, but that [section 24][204] of that Act does not apply; and
+        *   (i) the land is subject to [Part 4A][207] of the Conservation Act 1987, but that [section 24][208] of that Act does not apply; and
         
         *   (ii) the land is subject to [sections 71][101] and [92(3)][125] of this Act; and
         
         
     
-    *   (c) any other cultural redress property, that the land is subject to [Part 4A][203] of the Conservation Act 1987\.
+    *   (c) any other cultural redress property, that the land is subject to [Part 4A][207] of the Conservation Act 1987\.
     
-    (2) A record made under subsection (1) that land is subject to [Part 4A][203] of the Conservation Act 1987 is to be treated as having been made under [section 24D(1)][207] of that Act.
+    (2) A record made under subsection (1) that land is subject to [Part 4A][207] of the Conservation Act 1987 is to be treated as having been made under [section 24D(1)][211] of that Act.
     
     (3) If the reservation under [section 68(3)][98] of the Maungaruahine Pā Historic Reserve is revoked in relation to---
         
     *   (a) all of the site, then the Director-General must apply in writing to the Registrar-General to remove from the computer freehold register for the site the records that---
             
-        *   (i) [section 24][204] of the Conservation Act 1987 does not apply to the site; and
+        *   (i) [section 24][208] of the Conservation Act 1987 does not apply to the site; and
         
         *   (ii) the site is subject to [sections 69][99] and [92(3)][125] of this Act; or
         
@@ -2164,7 +2176,7 @@ Cultural redress
         
     *   (a) all of the reserve, then the Director-General must apply in writing to the Registrar-General to remove from the computer freehold register for the reserve the records that---
             
-        *   (i) [section 24][204] of the Conservation Act 1987 does not apply to the site; and
+        *   (i) [section 24][208] of the Conservation Act 1987 does not apply to the site; and
         
         *   (ii) the site is subject to [sections 71][101] and [92(3)][125] of this Act; or
         
@@ -2176,9 +2188,9 @@ Cultural redress
 
 ##### 94 Application of other enactments to cultural redress properties
     
-*   (1) [Sections 24][219] and [25][220] of the Reserves Act 1977 do not apply to the revocation, under [sections 68(1)][98] and [70(1)][100], of the reserve status of a reserve site.
+*   (1) [Sections 24][223] and [25][224] of the Reserves Act 1977 do not apply to the revocation, under [sections 68(1)][98] and [70(1)][100], of the reserve status of a reserve site.
     
-    (2) [Section 11][208] and [Part 10][209] of the Resource Management Act 1991 do not apply to---
+    (2) [Section 11][212] and [Part 10][213] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting of the fee simple estate in a cultural redress property under [subpart 5][87]; or
     
@@ -2186,37 +2198,37 @@ Cultural redress
     
     (3) The vesting of the fee simple estate in a cultural redress property under [subpart 5][87] does not---
         
-    *   (a) limit [section 10][210] or [11][211] of the Crown Minerals Act 1991; or
+    *   (a) limit [section 10][214] or [11][215] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (4) The permission of a council under [section 348][212] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a cultural redress property.
+    (4) The permission of a council under [section 348][216] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a cultural redress property.
 
 #### Provisions relating to reserve sites
 
 ##### 95 Application of Reserves Act 1977 to reserve sites
     
-*   (1) Despite [sections 48A(6)][213], [114(5)][214], and [115(6)][215] of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
+*   (1) Despite [sections 48A(6)][217], [114(5)][218], and [115(6)][219] of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
     
-    (2) [Sections 78(1)(a)][216], [79 to 81][217], and [88][218] of the Reserves Act 1977 do not apply in relation to a reserve site.
+    (2) [Sections 78(1)(a)][220], [79 to 81][221], and [88][222] of the Reserves Act 1977 do not apply in relation to a reserve site.
     
-    (3) If the reservation under [section 68(3)][98] or [70(3)][100] of a reserve site is revoked under [section 24][219] of the Reserves Act 1977 in relation to all or part of the site, [section 25][220] of that Act, except subsection (2) of that provision, does not apply to the revocation.
+    (3) If the reservation under [section 68(3)][98] or [70(3)][100] of a reserve site is revoked under [section 24][223] of the Reserves Act 1977 in relation to all or part of the site, [section 25][224] of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ##### 96 Reserve site must not be mortgaged
     
-*   The registered proprietors of a reserve site must not mortgage, or give a security interest in, all or any part of the site that, at any time after vesting in the trustees under [section 68][98] or [70][100], remains a reserve under the [Reserves Act 1977][197].
+*   The registered proprietors of a reserve site must not mortgage, or give a security interest in, all or any part of the site that, at any time after vesting in the trustees under [section 68][98] or [70][100], remains a reserve under the [Reserves Act 1977][201].
 
 ##### 97 Saving of bylaws, etc, in relation to reserve sites
     
-*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister made or imposed under the [Reserves Act 1977][197] or the [Conservation Act 1987][168] in relation to a reserve site before the site vested in the trustees under [section 68][98] or [70][100].
+*   (1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister made or imposed under the [Reserves Act 1977][201] or the [Conservation Act 1987][169] in relation to a reserve site before the site vested in the trustees under [section 68][98] or [70][100].
     
-    (2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the [Reserves Act 1977][197] or the [Conservation Act 1987][168].
+    (2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the [Reserves Act 1977][201] or the [Conservation Act 1987][169].
 
 #### Names of reserves
 
 ##### 98 New reserve names
     
-*   (1) If a site vested under [section 68][98] or [70][100] comprised, immediately before the vesting, the whole of a reserve, and an official geographic name was assigned under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][223] to the site,---
+*   (1) If a site vested under [section 68][98] or [70][100] comprised, immediately before the vesting, the whole of a reserve, and an official geographic name was assigned under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][227] to the site,---
         
     *   (a) that official geographic name is discontinued; and
     
@@ -2232,9 +2244,9 @@ Cultural redress
     
     (4) In this section,---
     
-    _Board_ means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by [section 7][224] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+    _Board_ means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by [section 7][228] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
     
-    _Crown protected area, Gazetteer,_ and _official geographic name_ have the meanings given by [section 4][222] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    _Crown protected area, Gazetteer,_ and _official geographic name_ have the meanings given by [section 4][226] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ## Part 3  
 Commercial redress
@@ -2301,9 +2313,9 @@ Commercial redress
     
 *   (1) For the purposes of [section 102][138], the authorised person may grant a covenant to arrange for the later creation of a computer freehold register for any land that is to be transferred to the trustees under part 6 of the deed of settlement.
     
-    (2) Despite the [Land Transfer Act 1952][225],---
+    (2) Despite the [Land Transfer Act 1952][229],---
         
-    *   (a) the authorised person may request the Registrar-General to register a covenant referred to in subsection (1) under the [Land Transfer Act 1952][225] by creating a computer interest register; and
+    *   (a) the authorised person may request the Registrar-General to register a covenant referred to in subsection (1) under the [Land Transfer Act 1952][229] by creating a computer interest register; and
     
     *   (b) the Registrar-General must register the covenant in accordance with paragraph (a).
     
@@ -2311,7 +2323,7 @@ Commercial redress
 
 ##### 104 Application of other enactments
     
-*   (1) [Section 11][208] and [Part 10][209] of the Resource Management Act 1991 do not apply to---
+*   (1) [Section 11][212] and [Part 10][213] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the transfer of a property to the trustees under this Part; or
     
@@ -2319,17 +2331,17 @@ Commercial redress
     
     (2) The transfer of a property under this Part does not---
         
-    *   (a) limit [section 10][210] or [11][211] of the Crown Minerals Act 1991; or
+    *   (a) limit [section 10][214] or [11][215] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (3) The transfer of a property is a disposition for the purposes of [Part 4A][203] of the Conservation Act 1987, but [sections 24(2A)][204], [24A][205], and [24AA][206] of that Act do not apply to the disposition.
+    (3) The transfer of a property is a disposition for the purposes of [Part 4A][207] of the Conservation Act 1987, but [sections 24(2A)][208], [24A][209], and [24AA][210] of that Act do not apply to the disposition.
     
     (4) In exercising its powers under [sections 99][135] and [100][136], the Crown is not required to comply with any other enactment that would regulate or apply to the transfer of a property.
     
     (5) Subsection (4) is subject to subsections (2) and (3).
     
-    (6) The permission of a council under [section 348][212] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way that may be required to fulfil the terms of part 6 of the deed of settlement in relation to the transfer of a property.
+    (6) The permission of a council under [section 348][216] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way that may be required to fulfil the terms of part 6 of the deed of settlement in relation to the transfer of a property.
 
 ---
 
@@ -2448,7 +2460,7 @@ Maungaruahine Pā Historic Reserve
 
 South Auckland Land District--Western Bay of Plenty District.17.3200 hectares, more or less, being Section 51 Block V Maketu Survey District. All GN H076552\. 
 
-Historic reserve subject to [section 18][198] of the Reserves Act 1977\.
+Historic reserve subject to [section 18][202] of the Reserves Act 1977\.
 
 ##### Site that vests in fee simple to be administered as scenic reserve
 
@@ -2458,7 +2470,7 @@ Historic reserve subject to [section 18][198] of the Reserves Act 1977\.
 
 South Auckland Land District--Western Bay of Plenty District.5.0050 hectares, more or less, being Sections 1 and 2 SO 450796\. Part proclamation 10017\. 
 
-Scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][203] of the Reserves Act 1977\.
 
 ---
 
@@ -2479,7 +2491,7 @@ Ngā pae maunga: Joint cultural redress properties
 
 5.0 hectares, approximately, being Part Waitaha 1\. Part _Gazette_ 1884 page 238\.
 
-As shown on deed plan OTS-075-21\. Scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
+As shown on deed plan OTS-075-21\. Scenic reserve subject to [section 19(1)(a)][203] of the Reserves Act 1977\.
 
 Subject to an unregistered guiding permit with concession number PAC 04-06-40 to Golden Fern Trust (dated 22/9/10).
 
@@ -2497,7 +2509,7 @@ Pūwhenua
 
 As shown on deed plan OTS-075-22\. 
 
-Scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
+Scenic reserve subject to [section 19(1)(a)][203] of the Reserves Act 1977\.
 
 #### 
 
@@ -2511,15 +2523,17 @@ Scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][226] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][227] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][230] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][231] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][228] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][229] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][232] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][233] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Waitaha Claims Settlement Act 2013 (2013 No 38): [section 55][79]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][157]
+    
+    Waitaha Claims Settlement Act 2013 (2013 No 38): [section 55][79]
 
 
 
@@ -2673,83 +2687,87 @@ Scenic reserve subject to [section 19(1)(a)][199] of the Reserves Act 1977\.
 [147]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM230272
 [148]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM103616
 [149]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM160819
-[150]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300681
+[150]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005508
 [151]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM170881
 [152]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM270019
 [153]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2412743
 [154]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2412769
 [155]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM319999
 [156]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM432125
-[157]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1347539
-[158]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM435544
-[159]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM98097
-[160]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM184658
-[161]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM192356
-[162]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM223144
-[163]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM353436
-[164]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM261466
-[165]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104615
-[166]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM38204
-[167]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM3213146
-[168]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM103609
-[169]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM107200
-[170]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242535
-[171]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242543
-[172]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2416413
-[173]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM230264
-[174]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM237755
-[175]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300607
-[176]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300608
-[177]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300610
-[178]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300622
-[179]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM300516
-[180]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM240686
-[181]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM235409
-[182]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2416410
-[183]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM234326
-[184]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2418625
-[185]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242504
-[186]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104213
-[187]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM38202
-[188]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104086
-[189]: http://www.legislation.govt.nz/act/public/2013/0038/latest/whole.html#DLM104615
-[190]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104284
-[191]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2997643
-[192]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998573
-[193]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM5072308
-[194]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM195097
-[195]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM195534
-[196]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM36962
-[197]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444304
-[198]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444607
-[199]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444610
-[200]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104683
-[201]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444650
-[202]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444659
-[203]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104697
-[204]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104699
-[205]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104910
-[206]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104914
-[207]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104928
-[208]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM231942
-[209]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM236786
-[210]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM246310
-[211]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM246311
-[212]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM420676
-[213]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444702
-[214]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM445052
-[215]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM445059
-[216]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444920
-[217]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444929
-[218]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444949
-[219]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444632
-[220]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444648
-[221]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444492
-[222]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065420
-[223]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065400
-[224]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065473
-[225]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM269031
-[226]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998516
-[227]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998515
-[228]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998532
-[229]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[157]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005646
+[158]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1347539
+[159]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM435544
+[160]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM98097
+[161]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM184658
+[162]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM192356
+[163]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM223144
+[164]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM353436
+[165]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM261466
+[166]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104615
+[167]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM38204
+[168]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM3213146
+[169]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM103609
+[170]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM107200
+[171]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242535
+[172]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242543
+[173]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2416413
+[174]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM230264
+[175]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM237755
+[176]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005562
+[177]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005580
+[178]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005587
+[179]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005568
+[180]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005588
+[181]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005584
+[182]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005590
+[183]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM4005423
+[184]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM240686
+[185]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM235409
+[186]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2416410
+[187]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM234326
+[188]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2418625
+[189]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM242504
+[190]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104213
+[191]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM38202
+[192]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104086
+[193]: http://www.legislation.govt.nz/act/public/2013/0038/latest/whole.html#DLM104615
+[194]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104284
+[195]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2997643
+[196]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998573
+[197]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM5072308
+[198]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM195097
+[199]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM195534
+[200]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM36962
+[201]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444304
+[202]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444607
+[203]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444610
+[204]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104683
+[205]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444650
+[206]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444659
+[207]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104697
+[208]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104699
+[209]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104910
+[210]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104914
+[211]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM104928
+[212]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM231942
+[213]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM236786
+[214]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM246310
+[215]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM246311
+[216]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM420676
+[217]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444702
+[218]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM445052
+[219]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM445059
+[220]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444920
+[221]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444929
+[222]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444949
+[223]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444632
+[224]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444648
+[225]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM444492
+[226]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065420
+[227]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065400
+[228]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM1065473
+[229]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM269031
+[230]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998516
+[231]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998515
+[232]: http://www.legislation.govt.nz/act/public/2013/0038/latest/link.aspx?id=DLM2998532
+[233]: http://www.pco.parliament.govt.nz/editorial-conventions/
