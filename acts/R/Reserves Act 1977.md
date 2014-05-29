@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -461,6 +461,8 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013
     
+    _Heritage New Zealand Pouhere Taonga_ means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
+    
     _Land Settlement Board_ means the Land Settlement Board established by the [Land Act 1948][178]
     
     _lease_, in relation to a reserve vested in the Crown,---
@@ -524,8 +526,6 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     _Maori reservation_ means a Maori reservation constituted under [section 338][181] of Te Ture Whenua Maori Act 1993 or the corresponding provisions of any former Act
     
     _Minister_ means the Minister of Conservation
-    
-    _New Zealand Historic Places Trust_ means the New Zealand Historic Places Trust established by the Historic Places Act 1954
     
     _Nga Whenua Rahui kawenata_ means an agreement entered into under [section 77A][106]
     
@@ -637,23 +637,27 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 2(1) **Heritage New Zealand Pouhere Taonga**: inserted, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
     Section 2(1) **lease**: inserted, on 1 July 1996, by [section 2(4)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 2(1) **licence**: inserted, on 1 July 1996, by [section 2(4)][179] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(1) **manawhenua**: inserted, on 24 March 1993, by section 2 of the Reserves Amendment Act 1993 (1993 No 8).
     
-    Section 2(1) **Maori** and **Maori land**: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **Maori** and **Maori land**: amended, on 1 July 1993, pursuant to [section 362(2)][196] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 2(1) **Maori reservation**: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **Maori reservation**: amended, on 1 July 1993, pursuant to [section 362(2)][196] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
     Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
     Section 2(1) **National Parks and Reserves Authority**: repealed, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **Nature Conservation Council**: repealed, on 10 April 1990, by [section 91][193] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 2(1) **New Zealand Historic Places Trust**: repealed, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 2(1) **Nga Whenua Rahui kawenata**: inserted, on 24 March 1993, by section 2 of the Reserves Amendment Act 1993 (1993 No 8).
     
@@ -665,21 +669,21 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 2(1) **ranger**: inserted, on 27 December 1983, by section 2 of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 2(1) **regional council**: inserted, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **regional council**: inserted, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (h): amended, on 1 April 1981, pursuant to [section 80(2)][196] of the National Parks Act 1980 (1980 No 66).
+    Section 2(1) **reserve** or **public reserve** paragraph (h): amended, on 1 April 1981, pursuant to [section 80(2)][197] of the National Parks Act 1980 (1980 No 66).
     
     Section 2(1) **reserve** or **public reserve** paragraph (i): replaced, on 1 January 1980, by section 2(1) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (i): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
+    Section 2(1) **reserve** or **public reserve** paragraph (i): amended, on 1 February 1982, pursuant to [section 248(1)][198] of the Public Works Act 1981 (1981 No 35).
     
-    Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
+    Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 February 1982, pursuant to [section 248(1)][198] of the Public Works Act 1981 (1981 No 35).
     
     Section 2(1) **reserve** or **public reserve** paragraph (j): amended, on 1 January 1980, by section 2(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
     Section 2(1) **specified not-for-profit entity**: inserted, on 1 April 2014, by [section 125][192] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **territorial authority**: replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **territorial authority**: replaced, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 ## Part 1  
 Administration
@@ -716,7 +720,7 @@ Administration
     
     provided that no excavation or other activities may be made or carried on on any private land or any Crown land subject to a Crown lease without the consent of the owner of the land first being obtained:
     
-    provided also that no excavation or other activities shall be made or carried on that would contravene the provisions of the [Historic Places Act 1993][198].
+    provided also that no excavation or other activities shall be made or carried on that would contravene the provisions of the [Heritage New Zealand Pouhere Taonga Act 2014][199].
     
     (2) Where any such land is Crown land, it may be set apart as a reserve under [section 167][188] of the Land Act 1948\.
     
@@ -732,7 +736,7 @@ Administration
     
     Compare: 1953 No 69 ss 57, 67
     
-    Section 4(1) second proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 4(1) second proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 5 Restricting application of this Act
     
@@ -856,15 +860,15 @@ Administration
     
     Section 8(8): amended, on 1 April 1988, pursuant to [section 90(a)][227] of the State Sector Act 1988 (1988 No 20).
     
-    Section 8(9)(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(a): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(9)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(9)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 8(9)(c): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(10)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 8(10)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 8(10)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 8(10)(c): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 8(12): inserted, on 10 April 1990, by [section 92][229] of the Conservation Law Reform Act 1990 (1990 No 31).
 
@@ -929,11 +933,11 @@ Acquisition of land for reserves
     
     Compare: 1953 No 69 s 15
     
-    Section 12(1) proviso: amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 12(1) proviso: amended, on 1 July 1993, pursuant to [section 362(2)][196] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 12(1) proviso: amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
+    Section 12(1) proviso: amended, on 1 February 1982, pursuant to [section 248(1)][198] of the Public Works Act 1981 (1981 No 35).
     
-    Section 12(1)(b): amended, on 1 February 1982, pursuant to [section 248(1)][197] of the Public Works Act 1981 (1981 No 35).
+    Section 12(1)(b): amended, on 1 February 1982, pursuant to [section 248(1)][198] of the Public Works Act 1981 (1981 No 35).
     
     Section 12(3): amended, on 1 February 1990, pursuant to section 9(2) of the Survey Amendment Act (No 3) 1989 (1989 No 139).
 
@@ -949,7 +953,7 @@ Acquisition of land for reserves
     
     *   (b) the Minister shall give to the Minister of Energy not less than 3 months' notice of the proposal.
     
-    (4) In any case where a reserve that the Minister considers should be declared a national reserve is one which another Minister of the Crown or the New Zealand Historic Places Trust has been appointed to control and manage, he or she shall obtain the consent of that other Minister or, as the case may be, of the Trust before making any recommendation to the Governor-General that an Order in Council be made under subsection (1).
+    (4) In any case where a reserve that the Minister considers should be declared a national reserve is one which another Minister of the Crown or Heritage New Zealand Pouhere Taonga has been appointed to control and manage, he or she shall obtain the consent of that other Minister or, as the case may be, of the Trust before making any recommendation to the Governor-General that an Order in Council be made under subsection (1).
     
     (5) When a reserve has been declared by Order in Council to be a national reserve the reserve shall---
         
@@ -972,6 +976,8 @@ Acquisition of land for reserves
     Section 13(1): amended, on 13 January 1981, by section 2 of the Reserves Amendment Act (No 2) 1980 (1980 No 139).
     
     Section 13(2): amended, on 13 January 1981, by section 2 of the Reserves Amendment Act (No 2) 1980 (1980 No 139).
+    
+    Section 13(4): amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 13(5)(a): amended, on 13 January 1981, by section 2 of the Reserves Amendment Act (No 2) 1980 (1980 No 139).
 
@@ -1223,7 +1229,7 @@ Classification and management of reserves
     
     Section 16(8): amended, on 27 December 1983, by section 3(2) of the Reserves Amendment Act 1983 (1983 No 43).
     
-    Section 16(10): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 16(10): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 16(10A): inserted, on 1 November 2008, by [section 38][251] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
@@ -1267,7 +1273,7 @@ Classification and management of reserves
     
     *   (b) where scenic, historic, archaeological, biological, geological, or other scientific features or indigenous flora or fauna or wildlife are present on the reserve, those features or that flora or fauna or wildlife shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this subsection shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this subsection shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (c) those qualities of the reserve which contribute to the pleasantness, harmony, and cohesion of the natural environment and to the better use and enjoyment of the reserve shall be conserved:
     
@@ -1275,7 +1281,7 @@ Classification and management of reserves
     
     Compare: 1953 No 69 ss 32, 33; 1964 No 108 s 2
     
-    Section 17(2)(b) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 17(2)(b) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 18 Historic reserves
     
@@ -1293,13 +1299,13 @@ Classification and management of reserves
     
     *   (e) except where the Minister otherwise determines, the indigenous flora and fauna and natural environment shall as far as possible be preserved:
     
-    provided that nothing in paragraph (c) shall authorise the doing of anything with respect to fauna or wildlife that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, and nothing in this subsection shall authorise the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198].
+    provided that nothing in paragraph (c) shall authorise the doing of anything with respect to fauna or wildlife that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, and nothing in this subsection shall authorise the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199].
     
     Compare: 1953 No 69 ss 63, 64
     
     Section 18(2)(b): amended, on 1 January 1980, by section 19(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 18(2) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 18(2) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 19 Scenic reserves
     
@@ -1319,7 +1325,7 @@ Classification and management of reserves
     
     *   (d) where historic, archaeological, geological, biological, or other scientific features are present in the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
@@ -1333,15 +1339,15 @@ Classification and management of reserves
     
     *   (d) where historic, archaeological, geological, biological, or other scientific features are present in the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
     Compare: 1953 No 69 ss 33, 56
     
-    Section 19(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 19(2)(d) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 19(3)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 19(3)(d) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 20 Nature reserves
     
@@ -1357,7 +1363,7 @@ Classification and management of reserves
     
     *   (d) where scenic, historic, archaeological, biological, geological, or other scientific features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (e) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained.
     
@@ -1367,7 +1373,7 @@ Classification and management of reserves
     
     Section 20(2)(c): amended, on 23 September 1981, by section 3(1) of the Reserves Amendment Act 1981 (1981 No 30).
     
-    Section 20(2)(d) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 20(2)(d) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 21 Scientific reserves
     
@@ -1381,7 +1387,7 @@ Classification and management of reserves
     
     *   (c) where scenic, historic, archaeological, biological, or natural features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (d) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water, and forest conservation area shall be maintained:
     
@@ -1393,7 +1399,7 @@ Classification and management of reserves
     
     Section 21(2)(b): amended, on 23 September 1981, by section 3(2) of the Reserves Amendment Act 1981 (1981 No 30).
     
-    Section 21(2)(c) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 21(2)(c) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 22 Government purpose reserves
     
@@ -1407,7 +1413,7 @@ Classification and management of reserves
         
     *   (a) where scenic, historic, archaeological, biological, cultural, scientific, or natural features or wildlife are present on the reserve, those features or wildlife shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
     
     *   (b) to the extent compatible with the principal or primary purpose of the reserve, its value as a soil, water and forest conservation area shall be maintained.
     
@@ -1417,7 +1423,7 @@ Classification and management of reserves
     
     Section 22(3): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 22(4)(a) proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 22(4)(a) proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 22(5): amended, on 23 September 1981, by section 3(3) of the Reserves Amendment Act 1981 (1981 No 30).
 
@@ -1429,7 +1435,7 @@ Classification and management of reserves
         
     *   (a) where scenic, historic, archaeological, biological, or natural features are present on the reserve, those features shall be managed and protected to the extent compatible with the principal or primary purpose of the reserve:
         
-        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Historic Places Act 1993][198]:
+        provided that nothing in this paragraph shall authorise the doing of anything with respect to fauna that would contravene any provision of the [Wildlife Act 1953][255] or any regulations or Proclamation or notification under that Act, or the doing of anything with respect to archaeological features in any reserve that would contravene any provision of the [Heritage New Zealand Pouhere Taonga Act 2014][199]:
         
         provided also that nothing in this paragraph shall authorise the doing of anything with respect to any esplanade reserve created under [section 167][188] of the Land Act 1948, or section 190(3) or Part 25 of the Municipal Corporations Act 1954 or [Part 2][248] of the Counties Amendment Act 1961 and existing at the commencement of this Act, or any local purpose reserve for esplanade purposes created under the said Part 25 or [Part 2][248] or under [Part 20][256] of the Local Government Amendment Act 1978 or under [Part 10][242] of the Resource Management Act 1991 after the commencement of this Act, that would impede the right of the public freely to pass and repass over the reserve on foot, unless the administering body determines that access should be prohibited or restricted to preserve the stability of the land or the biological values of the reserve:
     
@@ -1443,7 +1449,7 @@ Classification and management of reserves
     
     Section 23(2): amended, on 1 January 1980, by section 6(2) of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 23(2) first proviso: amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 23(2)(a) first proviso: amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 23(2)(a) second proviso: replaced, on 1 January 1980, by section 7 of the Reserves Amendment Act 1979 (1979 No 63).
     
@@ -1485,7 +1491,7 @@ Classification and management of reserves
     
     (4) \[Repealed\]
     
-    (5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from the New Zealand Historic Places Trust before making his or her decision.
+    (5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from Heritage New Zealand Pouhere Taonga before making his or her decision.
     
     (6) Subsection (2) shall not apply to any government purpose reserve, but no change of classification or purpose or revocation of the reservation of such a reserve or any part of such a reserve shall be made without the prior approval of the Minister appointed under [section 22][31] or [section 36][48] to control and manage that reserve.
     
@@ -1515,11 +1521,13 @@ Classification and management of reserves
     
     Section 24(2)(b): amended, on 1 January 1980, by section 8 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 24(2)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24(2)(c): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 24(2)(c) proviso: inserted, on 1 January 1980, by section 9 of the Reserves Amendment Act 1979 (1979 No 63).
     
     Section 24(4): repealed, on 24 May 2013, by [section 8(1)][258] of the Reserves Amendment Act 2013 (2013 No 17).
+    
+    Section 24(5): amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 24(7): amended, on 17 December 1997, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
@@ -1557,21 +1565,21 @@ Classification and management of reserves
     
     Section 24A: inserted, on 1 January 1980, by section 10 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 24A heading: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A heading: amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(1): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(1): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(a): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 24A(2)(c): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(2)(c): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 24A(3)(a): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
     Section 24A(3)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 24A(3)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 24A(3)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 ##### 25 Effect of revocation of reserve or change of classification or purpose
     
@@ -2355,9 +2363,9 @@ Classification and management of reserves
     
     Section 54(1A): inserted, on 1 January 1980, by section 17 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 54(1A)(a): replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 54(1A)(a): replaced, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 54(1A)(b): replaced, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 54(1A)(b): replaced, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 54(2): amended, on 1 July 1996, by [section 8(1)(c)][285] of the Reserves Amendment Act 1996 (1996 No 3).
     
@@ -2531,7 +2539,7 @@ Classification and management of reserves
     
     Section 58A(3)(b): replaced, on 1 October 1991, by [section 362][236] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 58A(3)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 58A(3)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 ##### 59 Powers in respect of scientific reserves
     
@@ -2691,7 +2699,7 @@ Classification and management of reserves
     
     Section 64(1A): inserted, on 1 January 1980, by section 21 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 64(1A): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 64(1A): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 #### Special provisions as to recreation reserves set apart for racecourse purposes
 
@@ -3024,7 +3032,7 @@ Financial provisions
         
     *   (a) in the case of a reserve which a Minister of the Crown other than the Minister of Conservation has been appointed to control and manage pursuant to [section 22][31] or [section 36][48], the money referred to in subsection (1) shall be paid in accordance with the [Public Finance Act 1989][267] into a Crown Bank Account, a Departmental Bank Account, or a Trust Bank Account, and applied in managing, administering, or improving reserves in accordance with this Act, or, shall be paid into a Crown Bank Account, as directed by that first-mentioned Minister:
     
-    *   (b) in the case of a reserve of which the New Zealand Historic Places Trust is the administering body, the money referred to in subsection (1) shall be applied by that Trust for the purposes of the [Historic Places Act 1993][198].
+    *   (b) in the case of a reserve of which Heritage New Zealand Pouhere Taonga is the administering body, the money referred to in subsection (1) shall be applied by that Trust for the purposes of the [Heritage New Zealand Pouhere Taonga Act 2014][199].
     
     (3) All money received by way of gift or legacy or contributed by any local authority out of its general funds in respect of any reserve that is not for the time being under the control and management of an administering body or a Minister of the Crown other than the Minister of Conservation shall be paid into a Trust Bank Account established under [section 67][307] of the Public Finance Act 1989 and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing reserves of any classification, or as consideration for conservation covenants or as the Minister may direct pursuant to [section 84][114], or otherwise in carrying out in respect of that reserve the objects of this Act.
     
@@ -3046,7 +3054,7 @@ Financial provisions
     
     Section 78(2)(a): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
-    Section 78(2)(b): amended, on 1 July 1993, pursuant to [section 118(1)][199] of the Historic Places Act 1993 (1993 No 38).
+    Section 78(2)(b): amended, on 20 May 2014, by [section 107][194] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 78(3): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][309] of the Public Finance Act 1989 (1989 No 44).
     
@@ -3164,9 +3172,9 @@ Financial provisions
     
     Section 85A: inserted, on 1 January 1980, by section 24 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 85A: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 85A: amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
-    Section 85A(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 85A(a): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 ##### 86 Payment of rates on Maori reservations
     
@@ -3286,7 +3294,7 @@ Financial provisions
     
     Compare: 1953 No 69 s 80(5); 1963 No 112 s 3
     
-    Section 91: amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 91: amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
 
 ##### 92 Relief of lessees and licensees of reserves
     
@@ -3661,7 +3669,7 @@ Miscellaneous provisions
     
     Section 101(1): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 101(1)(b): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 101(1)(b): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 101(1)(c): amended, on 1 April 1987, by [section 65(1)][190] of the Conservation Act 1987 (1987 No 65).
     
@@ -3767,7 +3775,7 @@ Miscellaneous provisions
     
     Section 105(a): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 105(a): amended, on 1 July 2003, by [section 262][194] of the Local Government Act 2002 (2002 No 84).
+    Section 105(a): amended, on 1 July 2003, by [section 262][195] of the Local Government Act 2002 (2002 No 84).
     
     Section 105(b): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4061,7 +4069,7 @@ Miscellaneous provisions
     
     Section 119(1): replaced, on 1 January 1980, by section 27 of the Reserves Amendment Act 1979 (1979 No 63).
     
-    Section 119(2): amended, on 1 July 1993, pursuant to [section 362(2)][195] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 119(2): amended, on 1 July 1993, pursuant to [section 362(2)][196] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 120 Rights of objection and of making submissions
     
@@ -4628,7 +4636,9 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][192]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][194]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][192]
     
     Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 3][369]
     
@@ -4658,7 +4668,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Resource Management Amendment Act 2003 (2003 No 23): [section 99][286]
     
-    Local Government Act 2002 (2002 No 84): [section 262][194]
+    Local Government Act 2002 (2002 No 84): [section 262][195]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][313]
     
@@ -4684,11 +4694,9 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Reserves Amendment Act (No 2) 1993 (1993 No 42)
     
-    Historic Places Act 1993 (1993 No 38): [section 118(1)][199]
-    
     Reserves Amendment Act 1993 (1993 No 8)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][195]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][196]
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][316]
     
@@ -4720,7 +4728,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][349]
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][197]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][198]
     
     Reserves Amendment Act 1981 (1981 No 30)
     
@@ -4938,12 +4946,12 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 [191]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM376605
 [192]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5740664
 [193]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209142
-[194]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM174088
-[195]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM293026
-[196]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM38526
-[197]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM48604
-[198]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM300510
-[199]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM301645
+[194]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4005646
+[195]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM174088
+[196]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM293026
+[197]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM38526
+[198]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM48604
+[199]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4005402
 [200]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255625
 [201]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138107
 [202]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM251170
