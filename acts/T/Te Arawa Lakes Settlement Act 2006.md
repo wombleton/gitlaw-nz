@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -238,7 +238,7 @@ This Act is administered by the Ministry of Justice.
 
 [63][105][][105][Environment Court must have regard to statutory acknowledgement][105]
 
-[64][106][][106][Historic Places Trust and Environment Court to have regard to statutory acknowledgement][106]
+[64][106][][106][Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement][106]
 
 [65][107][][107][Recording of statutory acknowledgement on statutory plans][107]
 
@@ -746,7 +746,7 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
     
     *   (b) the streams and rivers flowing into the Te Arawa lakes, to the extent specifically provided for in clauses 6 to 8 of the fisheries protocol
     
-    _Historic Places Trust_ means the New Zealand Historic Places Trust (Pouhere Taonga) continued by [section 38][181] of the Historic Places Act 1993
+    _Heritage New Zealand Pouhere Taonga_ means the Crown entity established by [section 9][181] of the Heritage New Zealand Pouhere Taonga Act 2014
     
     _included species_ has the meaning set out in [section 72(1)][118]
     
@@ -899,6 +899,10 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
     _water_ has the same meaning as in [section 2(1)][184] of the Resource Management Act 1991\.
     
     Section 11 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][186] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 11 **_Heritage New Zealand Pouhere Taonga_**: inserted, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 11 **_Historic Places Trust_**: repealed, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 12 Meaning of Te Arawa
     
@@ -1084,13 +1088,13 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
 
 \[Repealed\]
     
-*   Heading: repealed, on 23 May 2008, pursuant to [section 7][187] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+*   Heading: repealed, on 23 May 2008, pursuant to [section 7][188] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ##### 16 Jurisdiction of Tribunal to consider claims
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 23 May 2008, by [section 7][187] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+    Section 16: repealed, on 23 May 2008, by [section 7][188] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ### Subpart 4---Miscellaneous matters
 
@@ -1098,7 +1102,7 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
 
 ##### 17 Rule against perpetuities does not apply
     
-*   (1) Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][188]---
+*   (1) Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][189]---
         
     *   (a) prescribes or restricts the period during which---
             
@@ -1110,17 +1114,19 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
     
     *   (b) applies to a document entered into to give effect to particular provisions of the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document or a right conferred by the document invalid or ineffective.
     
-    (2) However, if the Trust becomes a charitable trust, the application (if any) of the rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][188] must be determined under the general law.
+    (2) However, if the Trust becomes a charitable trust, the application (if any) of the rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][189] must be determined under the general law.
 
 #### Other Acts
 
 ##### 18 Application of other Acts
     
-*   (1) The [Resource Management Act 1991][189] applies except to the extent that this Act expressly excludes its application.
+*   (1) The [Resource Management Act 1991][190] applies except to the extent that this Act expressly excludes its application.
     
-    (2) Nothing in this Act limits the application of the provisions of the [Historic Places Act 1993][190] in relation to the Te Arawa lakebeds.
+    (2) Nothing in this Act limits the application of the provisions of the [Heritage New Zealand Pouhere Taonga Act 2014][191] in relation to the Te Arawa lakebeds.
     
-    (3) [Section 26ZO][191] of the Conservation Act 1987 does not apply to a Te Arawa lakebed.
+    (3) [Section 26ZO][192] of the Conservation Act 1987 does not apply to a Te Arawa lakebed.
+    
+    Section 18(2): amended, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### Date when actions or matters occur or take effect
 
@@ -1141,17 +1147,17 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
 *   (1) In this section and [sections 21][35] and [28][46], _reserve site_ means each site declared to be a reserve by notice in the _Gazette_, as specified in [Schedule 3][169].
     
-    (2) The appointment of Eastern Region Fish and Game New Zealand under [section 29][192] of the Reserves Act 1977 to manage the Lake Ngapouri Wildlife Management Reserve and the Lake Tutaeinanga Wildlife Management Reserve described as reserve sites in [Schedule 3][169] is revoked to the extent that each reserve site is Te Arawa lakebed or Crown stratum.
+    (2) The appointment of Eastern Region Fish and Game New Zealand under [section 29][193] of the Reserves Act 1977 to manage the Lake Ngapouri Wildlife Management Reserve and the Lake Tutaeinanga Wildlife Management Reserve described as reserve sites in [Schedule 3][169] is revoked to the extent that each reserve site is Te Arawa lakebed or Crown stratum.
 
 ##### 21 Reserve status revoked
     
-*   (1) The reservation of each reserve site as a reserve, subject to [section 17][193], [19][194], or [22][195] of the Reserves Act 1977, as the case may be, is revoked to the extent that those reserve sites comprise the Te Arawa lakebeds or Crown stratum.
+*   (1) The reservation of each reserve site as a reserve, subject to [section 17][194], [19][195], or [22][196] of the Reserves Act 1977, as the case may be, is revoked to the extent that those reserve sites comprise the Te Arawa lakebeds or Crown stratum.
     
     (2) Before a part of a reserve site referred to in subsection (1) vests in the Trustees of the Te Arawa Lakes Trust,---
         
-    *   (a) that part vests in the Crown as Crown land under the [Land Act 1948][196], subject to [section 82(1)][197] of the Reserves Act 1977; and
+    *   (a) that part vests in the Crown as Crown land under the [Land Act 1948][197], subject to [section 82(1)][198] of the Reserves Act 1977; and
     
-    *   (b) the Minister of Conservation may direct that the payment for that part be paid and applied in the manner provided for in [section 82(1)][197] of the Reserves Act 1977 as if the direction had been given under section 82(1)(a) of that Act.
+    *   (b) the Minister of Conservation may direct that the payment for that part be paid and applied in the manner provided for in [section 82(1)][198] of the Reserves Act 1977 as if the direction had been given under section 82(1)(a) of that Act.
     
     
 
@@ -1165,7 +1171,7 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
 *   (1) The fee simple estate in each Te Arawa lakebed is vested in trust in the Trustees of the Te Arawa Lakes Trust.
     
-    (2) The Crown retains the ownership of the Crown stratum as Crown land under the [Land Act 1948][196].
+    (2) The Crown retains the ownership of the Crown stratum as Crown land under the [Land Act 1948][197].
     
     (3) The vesting of each Te Arawa lakebed is subject to---
         
@@ -1225,11 +1231,11 @@ Cultural redress: Vesting of Te Arawa lakebeds
 
 ##### 28 Application of other Acts under this Part
     
-*   (1) [Sections 24][198] and [25][199] of the Reserves Act 1977 do not apply to the revocation by [section 21][35] of the reserve status of any part of a reserve site.
+*   (1) [Sections 24][199] and [25][200] of the Reserves Act 1977 do not apply to the revocation by [section 21][35] of the reserve status of any part of a reserve site.
     
-    (2) [Part 4A][200] of the Conservation Act 1987 does not apply to the vesting of a Te Arawa lakebed by [section 23][38].
+    (2) [Part 4A][201] of the Conservation Act 1987 does not apply to the vesting of a Te Arawa lakebed by [section 23][38].
     
-    (3) [Section 11][201] and [Part 10][202] of the Resource Management Act 1991 do not apply to---
+    (3) [Section 11][202] and [Part 10][203] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting of the fee simple estate in a Te Arawa lakebed by [section 23][38]; or
     
@@ -1237,11 +1243,11 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
     (4) The vesting of the fee simple estate in a Te Arawa lakebed by [section 23][38] does not---
         
-    *   (a) limit [section 10][203] or [section 11][204] of the Crown Minerals Act 1991; or
+    *   (a) limit [section 10][204] or [section 11][205] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals; or
     
-    *   (c) limit the rights and obligations of the Crown or a local authority in respect of geothermal resources under the [Resource Management Act 1991][189] or any other relevant enactment or rule of law.
+    *   (c) limit the rights and obligations of the Crown or a local authority in respect of geothermal resources under the [Resource Management Act 1991][190] or any other relevant enactment or rule of law.
     
     
 
@@ -1331,7 +1337,7 @@ Cultural redress: Vesting of Te Arawa lakebeds
         
     *   (a) complied with---
             
-        *   (i) the [Resource Management Act 1991][189] or any equivalent prior legislation; or
+        *   (i) the [Resource Management Act 1991][190] or any equivalent prior legislation; or
         
         *   (ii) a relevant district plan, regional plan, or proposed plan; or
         
@@ -1339,7 +1345,7 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
     *   (b) required a resource consent (or any equivalent requirement under prior legislation), which was not obtained or complied with; or
     
-    *   (c) required a concession under the [Reserves Act 1977][205], but that concession was not obtained; or
+    *   (c) required a concession under the [Reserves Act 1977][206], but that concession was not obtained; or
     
     *   (d) required the consent of the Crown as the owner of that lakebed and of the Crown stratum, but that consent was not obtained; or
     
@@ -1359,9 +1365,9 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
     (2) Subsection (1) applies if a person---
         
-    *   (a) makes an application for a resource consent or building consent under the [Resource Management Act 1991][189] or the [Building Act 2004][206], as the case may be, in order to use, occupy, access, repair, maintain, remove, or demolish an existing structure; or
+    *   (a) makes an application for a resource consent or building consent under the [Resource Management Act 1991][190] or the [Building Act 2004][207], as the case may be, in order to use, occupy, access, repair, maintain, remove, or demolish an existing structure; or
     
-    *   (b) seeks to rectify the non-compliance of an existing structure with or under the [Resource Management Act 1991][189] or the [Building Act 2004][206].
+    *   (b) seeks to rectify the non-compliance of an existing structure with or under the [Resource Management Act 1991][190] or the [Building Act 2004][207].
     
     
 
@@ -1387,7 +1393,7 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
     *   (c) the consent of the owner of the lakebed or of the Crown stratum, despite that consent not being obtained; or
     
-    *   (d) the acquisition of, and compliance with, a concession under the [Reserves Act 1977][205], despite that concession not being acquired or complied with.
+    *   (d) the acquisition of, and compliance with, a concession under the [Reserves Act 1977][206], despite that concession not being acquired or complied with.
     
     (3) An existing commercial activity may take place in or on, or may otherwise affect, a Te Arawa lakebed or the Crown stratum above the lakebed---
         
@@ -1409,11 +1415,11 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
 *   (1) In [sections 38 to 40][64] and [45][74], _public utility_ means a structure or thing made, or an activity carried on, for the purposes of public utility, and includes---
         
-    *   (a) a network utility operation as defined in [section 166][207] of the Resource Management Act 1991; and
+    *   (a) a network utility operation as defined in [section 166][208] of the Resource Management Act 1991; and
     
     *   (b) any project or works relating to electricity generation; and
     
-    *   (c) harbourmaster functions carried out, and harbour works made, under [Part 3A][208] of the Maritime Transport Act 1994; and
+    *   (c) harbourmaster functions carried out, and harbour works made, under [Part 3A][209] of the Maritime Transport Act 1994; and
     
     *   (d) navigation aids and any activity of or on behalf of the Crown, a local authority, or a statutory body that is necessary for the purpose of assisting or improving the navigation of vessels over the Te Arawa lakebeds; and
     
@@ -1425,7 +1431,7 @@ Cultural redress: Vesting of Te Arawa lakebeds
     
     (2) In [sections 38][64], [39][65], and [46][75], _public utility authority_ means a person that places, installs, or performs a public utility in or on a Te Arawa lakebed.
     
-    Section 37(1)(c): amended, on 23 October 2013, by [section 90][209] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 37(1)(c): amended, on 23 October 2013, by [section 90][210] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 38 Rights for public utilities without authorisation
     
@@ -1576,9 +1582,9 @@ Other cultural redress
     
 *   (1) No later than the settlement date, the Rotorua District Council and the Bay of Plenty Regional Council must establish the Rotorua Lakes Strategy Group, whose members are appointed by the organisations.
     
-    (2) Despite the fact that the Group includes persons appointed by the Trustees of the Te Arawa Lakes Trust, the Group is a joint committee within the meaning of [clause 30(1)(b)][210] of Schedule 7 of the Local Government Act 2002\.
+    (2) Despite the fact that the Group includes persons appointed by the Trustees of the Te Arawa Lakes Trust, the Group is a joint committee within the meaning of [clause 30(1)(b)][211] of Schedule 7 of the Local Government Act 2002\.
     
-    (3) Despite [Schedule 7][211] of the Local Government Act 2002, the Group---
+    (3) Despite [Schedule 7][212] of the Local Government Act 2002, the Group---
         
     *   (a) is a permanent committee; and
     
@@ -1602,13 +1608,13 @@ Other cultural redress
 
 ##### 51 Application of other Acts under this subpart
     
-*   (1) To avoid doubt, except as otherwise provided in this subpart, the provisions of the [Local Government Act 2002][212] and the [Local Government Official Information and Meetings Act 1987][213] apply to the Group.
+*   (1) To avoid doubt, except as otherwise provided in this subpart, the provisions of the [Local Government Act 2002][213] and the [Local Government Official Information and Meetings Act 1987][214] apply to the Group.
     
-    (2) [Clauses 23(3)][214], [27][215], [30(5), (7), and (9)(b)][210], and [31(3) and (4)][216] of Schedule 7 of the Local Government Act 2002 do not apply to the Group.
+    (2) [Clauses 23(3)][215], [27][216], [30(5), (7), and (9)(b)][211], and [31(3) and (4)][217] of Schedule 7 of the Local Government Act 2002 do not apply to the Group.
     
-    (3) [Clauses 6(1)(b)][217], [12][218], [30(3)][210], and [31(1) and (2)][216] of Schedule 7 of the Local Government Act 2002 apply only to the members of the Group appointed by the Bay of Plenty Regional Council or the Rotorua District Council, as the case may be.
+    (3) [Clauses 6(1)(b)][218], [12][219], [30(3)][211], and [31(1) and (2)][217] of Schedule 7 of the Local Government Act 2002 apply only to the members of the Group appointed by the Bay of Plenty Regional Council or the Rotorua District Council, as the case may be.
     
-    (4) References in [clause 19(2)][219] of Schedule 7 of the Local Government Act 2002 to a member of a local authority and a member of a committee of a local authority are also references to the persons appointed by the Trustees of the Te Arawa Lakes Trust to be members of the Group.
+    (4) References in [clause 19(2)][220] of Schedule 7 of the Local Government Act 2002 to a member of a local authority and a member of a committee of a local authority are also references to the persons appointed by the Trustees of the Te Arawa Lakes Trust to be members of the Group.
     
     (5) To avoid doubt, the members of the Group appointed by the Trustees of the Te Arawa Lakes Trust---
         
@@ -1616,7 +1622,7 @@ Other cultural redress
     
     *   (b) do not have the right to attend meetings of the Bay of Plenty Regional Council or the Rotorua District Council merely by reason of their status as members of the Group.
     
-    (6) References in [section 48][220] of the Local Government Official Information and Meetings Act 1987 to a local authority are also references to the Group.
+    (6) References in [section 48][221] of the Local Government Official Information and Meetings Act 1987 to a local authority are also references to the Group.
 
 ### Subpart 2---Protocols
 
@@ -1656,7 +1662,7 @@ Other cultural redress
     
 *   (1) The Crown must comply with a protocol while it is in force.
     
-    (2) If the Crown fails, without good cause, to comply with its obligations under a protocol, the Trustees of the Te Arawa Lakes Trust may, subject to the [Crown Proceedings Act 1950][221], enforce the protocol.
+    (2) If the Crown fails, without good cause, to comply with its obligations under a protocol, the Trustees of the Te Arawa Lakes Trust may, subject to the [Crown Proceedings Act 1950][222], enforce the protocol.
     
     (3) Despite subsection (2), damages or any form of monetary compensation from the Crown are not available as a remedy for failure to comply with a protocol.
     
@@ -1678,7 +1684,7 @@ Other cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to a conservation document for the purposes of [section 17I][222] of the Conservation Act 1987 or [section 46][223] of the National Parks Act 1980\.
+    *   (b) not an amendment to a conservation document for the purposes of [section 17I][223] of the Conservation Act 1987 or [section 46][224] of the National Parks Act 1980\.
     
     (3) The DOC protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, land held, managed, or administered, or flora or fauna managed or administered, under the conservation legislation.
 
@@ -1692,11 +1698,11 @@ Other cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to a fisheries plan for the purposes of [section 11A][224] of the Fisheries Act 1996\.
+    *   (b) not an amendment to a fisheries plan for the purposes of [section 11A][225] of the Fisheries Act 1996\.
     
-    (3) The fisheries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, property rights or assets (including fish, aquatic life, and seaweed) held, managed, or administered under the fisheries legislation, the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][225], or the [Maori Fisheries Act 2004][226].
+    (3) The fisheries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, property rights or assets (including fish, aquatic life, and seaweed) held, managed, or administered under the fisheries legislation, the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][226], or the [Maori Fisheries Act 2004][227].
     
-    (4) In this section, _fisheries plans_ means plans approved under [Part 3][227] of the Fisheries Act 1996\.
+    (4) In this section, _fisheries plans_ means plans approved under [Part 3][228] of the Fisheries Act 1996\.
 
 #### Protected New Zealand objects protocol
 
@@ -1704,13 +1710,13 @@ Other cultural redress
     
 *   (1) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or ngā taonga tūturu.
     
-    (2) In this section, _protected New Zealand object_ and _ngā taonga tūturu_ have the same meanings as in [section 2][228] of the Protected Objects Act 1975\.
+    (2) In this section, _protected New Zealand object_ and _ngā taonga tūturu_ have the same meanings as in [section 2][229] of the Protected Objects Act 1975\.
 
 #### Environment protocol
 
 ##### 58 Effect of environment protocol
     
-*   The environment protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, resources managed or administered under the [Resource Management Act 1991][189].
+*   The environment protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, resources managed or administered under the [Resource Management Act 1991][190].
 
 ### Subpart 3---Statutory acknowledgement
 
@@ -1734,7 +1740,7 @@ Other cultural redress
         
     *   (a) means a _district plan_, _proposed plan_, _regional coastal plan_, _regional plan_, or _regional policy statement_ as defined in [section 2(1)][184] of the Resource Management Act 1991; and
     
-    *   (b) includes a proposed policy statement provided for by [Schedule 1][229] of the Resource Management Act 1991\.
+    *   (b) includes a proposed policy statement provided for by [Schedule 1][230] of the Resource Management Act 1991\.
     
     
 
@@ -1748,31 +1754,39 @@ Other cultural redress
     
 *   (1) The only purposes of the statutory acknowledgement are---
         
-    *   (a) to require the relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in [sections 62 to 64][104]; and
+    *   (a) to require the relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in [sections 62 to 64][104]; and
     
     *   (b) to require the relevant consent authorities to forward summaries of all applications for resource consents to the Trustees of the Te Arawa Lakes Trust, as provided for in [section 66][108]; and
     
     *   (c) to enable the Trustees and members of Te Arawa to cite the statutory acknowledgement as evidence of the association of Te Arawa with the statutory area, as provided for in [section 67][109].
     
     (2) This section does not limit the operation of [sections 68][111] and [69][112].
+    
+    Section 61(1)(a): amended, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 62 Relevant consent authorities must have regard to statutory acknowledgement
     
-*   (1) From the effective date, a relevant consent authority must have regard to the statutory acknowledgement in forming an opinion in accordance with [sections 93 to 94C][230] of the Resource Management Act 1991 as to whether the Trustees of the Te Arawa Lakes Trust are persons who may be adversely affected by the grant of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+*   (1) From the effective date, a relevant consent authority must have regard to the statutory acknowledgement in forming an opinion in accordance with [sections 93 to 94C][231] of the Resource Management Act 1991 as to whether the Trustees of the Te Arawa Lakes Trust are persons who may be adversely affected by the grant of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
     
-    (2) Subsection (1) does not limit the obligations of a relevant consent authority under [Part 2][231] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of a relevant consent authority under [Part 2][232] of the Resource Management Act 1991\.
 
 ##### 63 Environment Court must have regard to statutory acknowledgement
     
-*   (1) From the effective date, the Environment Court must have regard to the statutory acknowledgement in determining under [section 274][232] of the Resource Management Act 1991 whether the Trustees of the Te Arawa Lakes Trust are persons having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+*   (1) From the effective date, the Environment Court must have regard to the statutory acknowledgement in determining under [section 274][233] of the Resource Management Act 1991 whether the Trustees of the Te Arawa Lakes Trust are persons having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
     
-    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][231] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][232] of the Resource Management Act 1991\.
 
-##### 64 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
+##### 64 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
     
-*   (1) From the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement in forming an opinion under [section 14(6)(a)][233] or [section 20(1)][234] of the Historic Places Act 1993, as the case may be, as to whether the Trustees of the Te Arawa Lakes Trust are (or, for the purposes of section 14(6)(a), may be) persons directly affected in relation to an archaeological site within the statutory area.
+*   (1) If, on or after the effective date, an application is made under [section 44][234], [56][235], or [61][236] of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,--- 
+        
+    *   (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under [section 48][237], [56][235], or [62][238] of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
     
-    (2) In this section, _archaeological site_ has the same meaning as in [section 2][235] of the Historic Places Act 1993\.
+    *   (b) the Environment Court, in determining under [section 59(1)][239] or [64(1)][240] of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the Trustees of the Lake Te Arawa Lakes Trust are persons directly affected by the decision.
+    
+    (2) In this section, _archaeological site_ has the meaning given in [section 6][241] of the Heritage New Zealand Pouhere Taonga Act 2014\.
+    
+    Section 64: replaced, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 65 Recording of statutory acknowledgement on statutory plans
     
@@ -1786,7 +1800,7 @@ Other cultural redress
             
         *   (i) part of the statutory plan (unless adopted by the local authority); or
         
-        *   (ii) subject to the provisions of [Schedule 1][229] of the Resource Management Act 1991\.
+        *   (ii) subject to the provisions of [Schedule 1][230] of the Resource Management Act 1991\.
         
         
     
@@ -1798,9 +1812,9 @@ Other cultural redress
     
     (2) The information provided under subsection (1) must be---
         
-    *   (a) the same as would be given under [section 93][230] of the Resource Management Act 1991 to persons who may be adversely affected, or as may be agreed between the Trustees of the Te Arawa Lakes Trust and the relevant consent authority; and
+    *   (a) the same as would be given under [section 93][231] of the Resource Management Act 1991 to persons who may be adversely affected, or as may be agreed between the Trustees of the Te Arawa Lakes Trust and the relevant consent authority; and
     
-    *   (b) forwarded as soon as is reasonably practicable after the application is received, and before a determination is made in accordance with [sections 93 to 94C][230] of the Resource Management Act 1991\.
+    *   (b) forwarded as soon as is reasonably practicable after the application is received, and before a determination is made in accordance with [sections 93 to 94C][231] of the Resource Management Act 1991\.
     
     (3) The Trustees of the Te Arawa Lakes Trust may, by notice in writing to a relevant consent authority,---
         
@@ -1810,7 +1824,7 @@ Other cultural redress
     
     (4) This section does not affect the obligation of a relevant consent authority---
         
-    *   (a) to notify an application in accordance with [sections 93 to 94C][230] of the Resource Management Act 1991:
+    *   (a) to notify an application in accordance with [sections 93 to 94C][231] of the Resource Management Act 1991:
     
     *   (b) to form an opinion as to whether the Trustees of the Te Arawa Lakes Trust are persons who are or may be adversely affected under those sections.
     
@@ -1818,7 +1832,7 @@ Other cultural redress
 
 ##### 67 Use of statutory acknowledgement
     
-*   (1) The Trustees of the Te Arawa Lakes Trust or a member of Te Arawa may, as evidence of the association of Te Arawa with the statutory area, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+*   (1) The Trustees of the Te Arawa Lakes Trust or a member of Te Arawa may, as evidence of the association of Te Arawa with the statutory area, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
     
     (2) The content of the statement of association is not, by reason of the statutory acknowledgement, binding as deemed fact on---
         
@@ -1826,7 +1840,7 @@ Other cultural redress
     
     *   (b) the Environment Court:
     
-    *   (c) the Historic Places Trust:
+    *   (c) Heritage New Zealand Pouhere Taonga:
     
     *   (d) parties to proceedings before those bodies:
     
@@ -1837,6 +1851,10 @@ Other cultural redress
     (4) Neither the Trustees of the Te Arawa Lakes Trust nor members of Te Arawa are precluded from stating that Te Arawa has an association with the statutory area that is not described in the statutory acknowledgement.
     
     (5) The content and existence of the statutory acknowledgement do not limit a statement made under subsection (4).
+    
+    Section 67(1): amended, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 67(2)(c): replaced, on 20 May 2014, by [section 107][187] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### General provisions relating to statutory acknowledgement
 
@@ -1862,7 +1880,7 @@ Other cultural redress
 
 ##### 70 Amendment to Resource Management Act 1991
     
-*   [Schedule 11][236] of the Resource Management Act 1991 is amended by inserting, in its appropriate alphabetical order, the item ""Te Arawa Lakes Settlement Act 2006"".
+*   [Schedule 11][242] of the Resource Management Act 1991 is amended by inserting, in its appropriate alphabetical order, the item ""Te Arawa Lakes Settlement Act 2006"".
 
 ### Subpart 4---Place names
 
@@ -1876,7 +1894,7 @@ Other cultural redress
         
     *   (a) with the approval of the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa; and
     
-    *   (b) in accordance with the [New Zealand Geographic Board Act 1946][237].
+    *   (b) in accordance with the [New Zealand Geographic Board Act 1946][243].
     
     
 
@@ -1886,7 +1904,7 @@ Other cultural redress
     
 *   (1) In this subpart,---
     
-    _commercial fishing_ has the same meaning as in [section 2(1)][238] of the Fisheries Act 1996
+    _commercial fishing_ has the same meaning as in [section 2(1)][244] of the Fisheries Act 1996
     
     _customary food gathering_ means the taking of included species from, or their management within, the Te Arawa fisheries area---
         
@@ -1912,7 +1930,7 @@ Other cultural redress
     
     *   (c) includes whitebait, any specific whitebait species, or any other species if, at any time, they are managed and administered under the [Fisheries Act 1996][179]
     
-    _sustainable utilisation_ means the utilisation of fisheries resources while ensuring sustainability, as the terms utilisation and ensuring sustainability are defined in [section 8(2)][239] of the Fisheries Act 1996
+    _sustainable utilisation_ means the utilisation of fisheries resources while ensuring sustainability, as the terms utilisation and ensuring sustainability are defined in [section 8(2)][245] of the Fisheries Act 1996
     
     _Te Arawa fisheries area_---
         
@@ -1920,7 +1938,7 @@ Other cultural redress
     
     *   (b) does not include the streams and rivers flowing into the Te Arawa lakes.
     
-    (2) In subsection (1), _aquatic life_, _fish_, _sports fish_, _unwanted aquatic life_, and _whitebait_ have the same meanings as in [section 2(1)][238] of the Fisheries Act 1996\.
+    (2) In subsection (1), _aquatic life_, _fish_, _sports fish_, _unwanted aquatic life_, and _whitebait_ have the same meanings as in [section 2(1)][244] of the Fisheries Act 1996\.
 
 ##### 73 Commercial fishing not permitted
     
@@ -1972,7 +1990,7 @@ Other cultural redress
     
     *   (f) empower the Trustees,---
             
-        *   (i) despite [section 10(d)][240] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992, to make bylaws in accordance with [sections 77 to 79][127] that restrict or prohibit the taking of included species from the whole or part of the Te Arawa fisheries area for any purpose that the Trustees consider necessary for the sustainable utilisation of included species; and
+        *   (i) despite [section 10(d)][246] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992, to make bylaws in accordance with [sections 77 to 79][127] that restrict or prohibit the taking of included species from the whole or part of the Te Arawa fisheries area for any purpose that the Trustees consider necessary for the sustainable utilisation of included species; and
         
         *   (ii) despite [section 73][119], to recommend to the Minister of Fisheries that commercial fishing be permitted for some or all of the included species in the whole or part of the Te Arawa fisheries area, subject to that fisheries area being administered by the Ministry of Fisheries in accordance with the [Fisheries Act 1996][179]; and
         
@@ -1992,7 +2010,7 @@ Other cultural redress
     
     *   (i) provide for other matters necessary or desirable to achieve compliance with, and the proper administration of, the regulations.
     
-    (2) Subsection (1) applies despite [section 17B][241] of the Fisheries Act 1996\.
+    (2) Subsection (1) applies despite [section 17B][247] of the Fisheries Act 1996\.
     
     (3) The Governor-General may, by Order in Council, make regulations recommended under subsection (1).
 
@@ -2002,7 +2020,7 @@ Other cultural redress
     
 *   (1) If a recommendation is made to the Minister of Fisheries under a regulation made under [section 74(1)(f)(ii)][121], the Minister must---
         
-    *   (a) act consistently with the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][225]; and
+    *   (a) act consistently with the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][226]; and
     
     *   (b) consult the Minister of Conservation on---
             
@@ -2024,9 +2042,9 @@ Other cultural redress
     
 *   (1) Regulations made under [section 74(1)][121] prevail in relation to all or part of the Te Arawa fisheries area over---
         
-    *   (a) [regulation 70][242] of the Freshwater Fisheries Regulations 1983, to the extent that that regulation applies to included species; and
+    *   (a) [regulation 70][248] of the Freshwater Fisheries Regulations 1983, to the extent that that regulation applies to included species; and
     
-    *   (b) [regulation 71][243] of the Freshwater Fisheries Regulations 1983, to the extent that that regulation applies to---
+    *   (b) [regulation 71][249] of the Freshwater Fisheries Regulations 1983, to the extent that that regulation applies to---
             
         *   (i) the taking of an included species for human consumption; or
         
@@ -2034,9 +2052,9 @@ Other cultural redress
         
         
     
-    *   (c) the [Fisheries (Amateur Fishing) Regulations 1986][244], to the extent that they apply to included species; and
+    *   (c) the [Fisheries (Amateur Fishing) Regulations 1986][250], to the extent that they apply to included species; and
     
-    *   (d) the [Fisheries (Kaimoana Customary Fishing) Regulations 1998][245], to the extent that they apply to the included species.
+    *   (d) the [Fisheries (Kaimoana Customary Fishing) Regulations 1998][251], to the extent that they apply to the included species.
     
     (2) However, regulations made under [section 74(1)][121] prevail in relation to all or part of the Te Arawa fisheries area only if a management committee is appointed in accordance with section 74(1)(b) and (c) to manage customary food gathering in relation to all or part of the Te Arawa fisheries area.
 
@@ -2223,7 +2241,7 @@ Miscellaneous provisions
     
     (2) In this section,---
     
-    _Inland Revenue Acts_ has the same meaning as in [section 3(1)][246] of the Tax Administration Act 1994
+    _Inland Revenue Acts_ has the same meaning as in [section 3(1)][252] of the Tax Administration Act 1994
     
     _market value interest_ and _voting interest_ have the same meanings as in section YA 1 of the Income Tax Act 2007\.
     
@@ -2283,7 +2301,7 @@ Miscellaneous provisions
     
 *   (1) A document, matter, or thing that would have been admissible in evidence for or against the Arawa Māori Trust Board is, on and after the commencement of this Act, admissible in evidence for or against the Trustees of the Te Arawa Lakes Trust.
     
-    (2) For the purpose of this section, _document_ has the same meaning as in [section 48G][247] of the Evidence Act 1908\.
+    (2) For the purpose of this section, _document_ has the same meaning as in [section 48G][253] of the Evidence Act 1908\.
 
 ##### 90 Registers
     
@@ -2311,7 +2329,7 @@ Miscellaneous provisions
     
     _transferred employee_ means a person employed by the Arawa Māori Trust Board immediately before the commencement of this Act who becomes an employee of the Trustees of the Te Arawa Lakes Trust on the commencement of this Act.
     
-    (2) A person who, at any time before the commencement of this Act, held office as a member of the Arawa Māori Trust Board or who was an officer, employee, agent, or representative of that Board, is not personally liable in respect of an act or thing done or omitted to be done by him or her before the commencement of this Act in the exercise or bona fide purported exercise of an authority conferred by or under the [Maori Trust Boards Act 1955][248] or any other enactment.
+    (2) A person who, at any time before the commencement of this Act, held office as a member of the Arawa Māori Trust Board or who was an officer, employee, agent, or representative of that Board, is not personally liable in respect of an act or thing done or omitted to be done by him or her before the commencement of this Act in the exercise or bona fide purported exercise of an authority conferred by or under the [Maori Trust Boards Act 1955][254] or any other enactment.
     
     (3) This section applies only---
         
@@ -2357,7 +2375,7 @@ Miscellaneous provisions
 
 ##### 96 Acts repealed
     
-*   (1) [Section 88(2)][249] of the Maori Purposes Act 1931 is repealed.
+*   (1) [Section 88(2)][255] of the Maori Purposes Act 1931 is repealed.
     
     (2) [Section 4][173] of the Maori Trust Boards Act 1955 is repealed.
 
@@ -2371,25 +2389,25 @@ Miscellaneous provisions
 
 ##### 98 Provision not to apply to Te Arawa lakebeds
     
-*   [Section 88(1)][249] of the Maori Purposes Act 1931 does not apply to any Te Arawa lakebed.
+*   [Section 88(1)][255] of the Maori Purposes Act 1931 does not apply to any Te Arawa lakebed.
 
 ##### 99 Amendments to Acts
     
-*   (1) [Section 8(4)(b)][250] of the Maori Purposes Act 1934 is amended by omitting the words ""Arawa Maori Trust Board"", and substituting the words ""Trustees of the Te Arawa Lakes Trust"".
+*   (1) [Section 8(4)(b)][256] of the Maori Purposes Act 1934 is amended by omitting the words ""Arawa Maori Trust Board"", and substituting the words ""Trustees of the Te Arawa Lakes Trust"".
     
-    (2) [Schedule 7][251] of the Radiocommunications Act 1989 is amended by omitting from the second column of the item relating to the Arawa Māori Trust Board, the words ""Te Arawa Māori Trust Board"", and substituting the words ""Trustees of the Te Arawa Lakes Trust"".
+    (2) [Schedule 7][257] of the Radiocommunications Act 1989 is amended by omitting from the second column of the item relating to the Arawa Māori Trust Board, the words ""Te Arawa Māori Trust Board"", and substituting the words ""Trustees of the Te Arawa Lakes Trust"".
 
 ##### 100 Amendments to regulations
     
-*   (1) [Schedules 1][252] and [2][253] of the Maori Trust Boards Regulations 1985 are amended by omitting the item relating to the Arawa Maori Trust Board.
+*   (1) [Schedules 1][258] and [2][259] of the Maori Trust Boards Regulations 1985 are amended by omitting the item relating to the Arawa Maori Trust Board.
     
-    (2) [Regulation 2(1)][254] of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 is amended by inserting, in their appropriate alphabetical order, the following definitions:
+    (2) [Regulation 2(1)][260] of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 is amended by inserting, in their appropriate alphabetical order, the following definitions:
     
     > "_included species_ has the same meaning as in section 72(1) of the Te Arawa Lakes Settlement Act 2006
     > 
     > "_Te Arawa fisheries area_ has the same meaning as in section 72(1) of the Te Arawa Lakes Settlement Act 2006".
     
-    (3) [Regulation 4][255] of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434) is amended by inserting, after subclause (1), the following subclause:
+    (3) [Regulation 4][261] of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434) is amended by inserting, after subclause (1), the following subclause:
     
     > *   "(1A) However, these regulations do not limit any regulations made under section 74 of the Te Arawa Lakes Settlement Act 2006, to the extent that the later regulations relate to included species in the Te Arawa fisheries area."
     > 
@@ -2401,7 +2419,7 @@ Miscellaneous provisions
 
 ##### 101 Transitional provision relating to Antiquities Act 1975
     
-*   (1) The purpose of this section is to apply certain provisions of the [Antiquities Act 1975][256] until the provisions of the [Protected Objects Amendment Act 2006][257] come into force on 1 November 2006\.
+*   (1) The purpose of this section is to apply certain provisions of the [Antiquities Act 1975][262] until the provisions of the [Protected Objects Amendment Act 2006][263] come into force on 1 November 2006\.
     
     (2) Until 31 October 2006, the following definitions apply in place of those referred to in [section 2(1)(a)][3]:
     
@@ -2438,7 +2456,7 @@ Te Arawa lakebeds
 
 Bed of Lake Rotorua8 088.0000 hectares, more or less, being Section 1 SO 338985\. Part _Gazette_ 1955, page 1377Hamurana Wildlife Refuge. _Gazette_ 1958, page 466\.
 
-Lake Rotorua (Motutara) Wildlife Refuge. ([SR 1993/135][258]).
+Lake Rotorua (Motutara) Wildlife Refuge. ([SR 1993/135][264]).
 
 The right of the Rotorua District Council to disturb the lakebed and remove sediment at Ruapeka Bay, Ohinemutu (Bay of Plenty Regional Council resource consent No 51136).
 
@@ -2456,7 +2474,7 @@ Bed of Lake Ōkareka340.4600 hectares, more or less, being Section 1 SO 338992\.
 
 Bed of Lake Tarawera4 148.4000 hectares, more or less, being Section 1 SO 338996\. Part _Gazette_ notice S. 643146 
 
-Bed of Lake Rotomahana755.3350 hectares, more or less, being Sections 1 and 2 SO 338995\. Part _Gazette_ 1908, page 612 and Part _Gazette_ notice H. 306305Lake Rotomahana Wildlife Refuge being the entire lakebed. [Lake Rotomahana Wildlife Refuge Order 1967][259] (SR 1967/198).
+Bed of Lake Rotomahana755.3350 hectares, more or less, being Sections 1 and 2 SO 338995\. Part _Gazette_ 1908, page 612 and Part _Gazette_ notice H. 306305Lake Rotomahana Wildlife Refuge being the entire lakebed. [Lake Rotomahana Wildlife Refuge Order 1967][265] (SR 1967/198).
 
 Bed of Lake Rerewhakaaitu589.7900 hectares, more or less, being Section 1 SO 338990\. Part _Gazette_ notice H. 581685The right of the Rotorua District Council to dam the inlet to Awaatua Bay, to control water levels (Bay of Plenty Regional Council resource consent No 21600/2).
 
@@ -2803,21 +2821,23 @@ Taumaihi Point260-U16GR 040 313point
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][260] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][261] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][266] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][267] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][262] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][263] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][268] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][269] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][209]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][187]
+    
+    Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][210]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][186]
     
-    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][187]
+    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][188]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][264]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][270]
 
 
 
@@ -3002,87 +3022,93 @@ Taumaihi Point260-U16GR 040 313point
 [178]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM160819
 [179]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM394191
 [180]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM66581
-[181]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM300681
+[181]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005508
 [182]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM170881
 [183]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM270019
 [184]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM230272
 [185]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM435375
 [186]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4929207
-[187]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM1297534
-[188]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM353436
-[189]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM230264
-[190]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM300510
-[191]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM106019
-[192]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444656
-[193]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444605
-[194]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444610
-[195]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444621
-[196]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM250585
-[197]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444936
-[198]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444632
-[199]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444648
-[200]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM104697
-[201]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM231942
-[202]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM236786
-[203]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM246310
-[204]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM246311
-[205]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444304
-[206]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM306035
-[207]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM236206
-[208]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM5689750
-[209]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4698973
-[210]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175699
-[211]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175643
-[212]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM170872
-[213]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM122241
-[214]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175683
-[215]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175695
-[216]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM176002
-[217]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175653
-[218]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175662
-[219]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175674
-[220]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM123095
-[221]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM261466
-[222]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM104615
-[223]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM38204
-[224]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395502
-[225]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM281432
-[226]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM311463
-[227]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395396
-[228]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM432125
-[229]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM240686
-[230]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM234301
-[231]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM231904
-[232]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM237755
-[233]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM300610
-[234]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM300622
-[235]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM300516
-[236]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM242504
-[237]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM240104
-[238]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM394199
-[239]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395389
-[240]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM281461
-[241]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395536
-[242]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM93730
-[243]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM93731
-[244]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM112670
-[245]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM267986
-[246]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM348353
-[247]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM143502
-[248]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM289314
-[249]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM210691
-[250]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM217532
-[251]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM198288
-[252]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM103079
-[253]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM103090
-[254]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM267994
-[255]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM268626
-[256]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM432115
-[257]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM375089
-[258]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175824
-[259]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM26912
-[260]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998516
-[261]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998515
-[262]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998532
-[263]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[264]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM1523176
+[187]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005646
+[188]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM1297534
+[189]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM353436
+[190]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM230264
+[191]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005402
+[192]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM106019
+[193]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444656
+[194]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444605
+[195]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444610
+[196]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444621
+[197]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM250585
+[198]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444936
+[199]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444632
+[200]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444648
+[201]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM104697
+[202]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM231942
+[203]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM236786
+[204]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM246310
+[205]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM246311
+[206]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM444304
+[207]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM306035
+[208]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM236206
+[209]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM5689750
+[210]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4698973
+[211]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175699
+[212]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175643
+[213]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM170872
+[214]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM122241
+[215]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175683
+[216]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175695
+[217]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM176002
+[218]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175653
+[219]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175662
+[220]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175674
+[221]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM123095
+[222]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM261466
+[223]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM104615
+[224]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM38204
+[225]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395502
+[226]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM281432
+[227]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM311463
+[228]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395396
+[229]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM432125
+[230]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM240686
+[231]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM234301
+[232]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM231904
+[233]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM237755
+[234]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005562
+[235]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005580
+[236]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005587
+[237]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005568
+[238]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005588
+[239]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005584
+[240]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005590
+[241]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM4005423
+[242]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM242504
+[243]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM240104
+[244]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM394199
+[245]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395389
+[246]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM281461
+[247]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM395536
+[248]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM93730
+[249]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM93731
+[250]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM112670
+[251]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM267986
+[252]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM348353
+[253]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM143502
+[254]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM289314
+[255]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM210691
+[256]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM217532
+[257]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM198288
+[258]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM103079
+[259]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM103090
+[260]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM267994
+[261]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM268626
+[262]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM432115
+[263]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM375089
+[264]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM175824
+[265]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM26912
+[266]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998516
+[267]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998515
+[268]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM2998532
+[269]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[270]: http://www.legislation.govt.nz/act/public/2006/0043/latest/link.aspx?id=DLM1523176
