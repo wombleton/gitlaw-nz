@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -139,7 +139,7 @@ This Act is administered by the Office of Treaty Settlements.
 
 [39][55][][55][Environment Court to have regard to statutory acknowledgement under section 274 of Resource Management Act 1991][55]
 
-[40][56][][56][Historic Places Trust and Environment Court to have regard to statutory acknowledgement under sections 14 and 20 of Historic Places Act 1993][56]
+[40][56][][56][Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement][56]
 
 [41][57][][57][Use of statutory acknowledgement with submissions][57]
 
@@ -396,6 +396,8 @@ Interpretation
     
     _encumbrance_ means a lease, licence, permit, easement, access arrangement, consent, or third party right, whether registered or unregistered as at 19 November 1999
     
+    _Heritage New Zealand Pouhere Taonga_ has the meaning given in [section 6][78] of the Heritage New Zealand Pouhere Taonga Act 2014
+    
     _Māori freehold land_ has the same meaning as in [section 4][5] of Te Ture Whenua Maori Act 1993
     
     _Minister_ means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -456,7 +458,9 @@ Interpretation
     
     _settlement property_ means a property or property interest to be transferred to, or vested in, a Pouakani recipient under section 5 or section 6 of the deed of settlement.
     
-    Section 9 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][78] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 9 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][79] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 9 **Heritage New Zealand Pouhere Taonga**: inserted, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 10 Meaning of Pouakani historical claims
     
@@ -521,13 +525,13 @@ Settlement of claims
     
     (4) Subsection (3) does not exclude the jurisdiction of a court, judicial body, or tribunal in respect of the interpretation or implementation of the deed of settlement or this Act.
     
-    Compare: 1998 No 97 [s 461][79]; 1999 No 118 [s 9][80]
+    Compare: 1998 No 97 [s 461][81]; 1999 No 118 [s 9][82]
 
 ##### 13 Jurisdiction of Waitangi Tribunal to consider claims
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 23 May 2008, by [section 7][81] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+    Section 13: repealed, on 23 May 2008, by [section 7][83] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ##### 14 Enactments relating to protections for land subject to Pouakani historical claims and Pouakani boundary claims no longer to apply
     
@@ -539,19 +543,19 @@ Settlement of claims
     
     (2) The enactments are---
         
-    *   (a) [sections 8A to 8HA][82] of the Treaty of Waitangi Act 1975:
+    *   (a) [sections 8A to 8HA][84] of the Treaty of Waitangi Act 1975:
     
-    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][83] by [Part 4][84] of the New Zealand Railways Corporation Restructuring Act 1990:
+    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][85] by [Part 4][86] of the New Zealand Railways Corporation Restructuring Act 1990:
     
-    *   (c) [sections 27A to 27C][85] of the State-Owned Enterprises Act 1986:
+    *   (c) [sections 27A to 27C][87] of the State-Owned Enterprises Act 1986:
     
-    *   (d) [sections 211 to 213][86] of the Education Act 1989:
+    *   (d) [sections 211 to 213][88] of the Education Act 1989:
     
-    *   (e) [Part 3][87] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    *   (e) [Part 3][89] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
     (3) Subsection (1) does not apply to the land described in ML Plan 14984\.
     
-    Compare: 1998 No 97 [s 463][88]; 1999 No 118 [s 11][89]
+    Compare: 1998 No 97 [s 463][90]; 1999 No 118 [s 11][91]
 
 ##### 15 Removal of resumptive memorials
     
@@ -571,7 +575,7 @@ Settlement of claims
     
     (4) Subsection (3) does not require the Registrar to note any duplicate certificate of title.
     
-    Compare: 1998 No 97 [s 464][90]; 1999 No 118 [s 12][91]
+    Compare: 1998 No 97 [s 464][92]; 1999 No 118 [s 12][93]
 
 ##### 16 Crown may dispose of Pouakani Forest if forest not transferred to Pouakani governance entity
     
@@ -579,13 +583,13 @@ Settlement of claims
         
     *   (a) the Crown may sell or otherwise dispose of the Pouakani Forest; and
     
-    *   (b) the Minister for State Owned Enterprises and the Minister of Finance may, by notice in the _Gazette_ declare that the Pouakani Forest is no longer Crown forest land and, on the publication of the notice, the land is Crown land subject to the [Land Act 1948][92].
+    *   (b) the Minister for State Owned Enterprises and the Minister of Finance may, by notice in the _Gazette_ declare that the Pouakani Forest is no longer Crown forest land and, on the publication of the notice, the land is Crown land subject to the [Land Act 1948][94].
     
-    (2) This section applies despite anything in the [Crown Forest Assets Act 1989][93].
+    (2) This section applies despite anything in the [Crown Forest Assets Act 1989][95].
     
-    (3) If the Pouakani Forest is sold or otherwise disposed of under this section it ceases to be Crown forest land within the meaning of [section 2(1)][94] of the Crown Forest Assets Act 1989\.
+    (3) If the Pouakani Forest is sold or otherwise disposed of under this section it ceases to be Crown forest land within the meaning of [section 2(1)][96] of the Crown Forest Assets Act 1989\.
     
-    Compare: 1998 No 97 [s 38][95]
+    Compare: 1998 No 97 [s 38][97]
 
 ##### 17 Settlement for benefit of Pouakani people
     
@@ -593,15 +597,15 @@ Settlement of claims
     
     (2) Subsection (1) does not apply to clause 7.2.4 of the deed of settlement or [section 29][41] of this Act.
     
-    Compare: 1998 No 97 [s 467][96]; 1999 No 118 [s 13][97]
+    Compare: 1998 No 97 [s 467][98]; 1999 No 118 [s 13][99]
 
 #### Miscellaneous
 
 ##### 18 Rule against perpetuities not to apply
     
-*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][98] do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
+*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][100] do not apply to any document entered into to give effect to the deed of settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
     
-    Compare: 1998 No 97 [s 466][99]; 1999 No 118 [s 14][100]
+    Compare: 1998 No 97 [s 466][101]; 1999 No 118 [s 14][102]
 
 ## Part 4  
 General provisions as to transfer and vesting of settlement properties
@@ -616,37 +620,37 @@ General provisions as to transfer and vesting of settlement properties
     
     (2) In exercising the powers conferred by subsection (1), the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the sale or other disposition of the settlement property.
     
-    (3) If the fee simple estate in the Pouakani Forest is transferred to a Pouakani recipient, the Pouakani Forest ceases to be Crown forest land within the meaning of [section 2(1)][94] of the Crown Forest Assets Act 1989\.
+    (3) If the fee simple estate in the Pouakani Forest is transferred to a Pouakani recipient, the Pouakani Forest ceases to be Crown forest land within the meaning of [section 2(1)][96] of the Crown Forest Assets Act 1989\.
     
     (4) If an action is required to be undertaken by the Registrar under this Act, it is without fee to the registered proprietor or to the Pouakani recipient.
     
-    Compare: 1998 No 97 [s 20(1)--(3)][101]; 1999 No 118 [s 15(1)--(3)][102]
+    Compare: 1998 No 97 [s 20(1)--(3)][103]; 1999 No 118 [s 15(1)--(3)][104]
 
 ##### 20 Application of other enactments
     
-*   (1) Nothing in [section 11][103] or [Part 10][104] of the Resource Management Act 1991 applies to---
+*   (1) Nothing in [section 11][105] or [Part 10][106] of the Resource Management Act 1991 applies to---
         
     *   (a) the transfer or vesting of a settlement property for the purpose of giving effect to the deed of settlement; or
     
     *   (b) any matter incidental to, or required for the purpose of, the transfer or vesting of a settlement property for the purpose of giving effect to the deed of settlement.
     
-    (2) Neither this Act nor any transfer or vesting of the fee simple estate in a settlement property under this Act, limits [section 10][105] or [section 11][106] of the Crown Minerals Act 1991\.
+    (2) Neither this Act nor any transfer or vesting of the fee simple estate in a settlement property under this Act, limits [section 10][107] or [section 11][108] of the Crown Minerals Act 1991\.
     
-    (3) The transfer or vesting of the fee simple estate in a settlement property under this Act is a disposition for the purposes of [Part 4A][107] of the Conservation Act 1987, but [sections 24(2A)][108], [24A][109], and [24AA][110] of that Act do not apply to the disposition.
+    (3) The transfer or vesting of the fee simple estate in a settlement property under this Act is a disposition for the purposes of [Part 4A][109] of the Conservation Act 1987, but [sections 24(2A)][110], [24A][111], and [24AA][112] of that Act do not apply to the disposition.
     
-    Compare: 1998 No 97 [s 45][111]
+    Compare: 1998 No 97 [s 45][113]
 
 ##### 21 Issue of certificates of title
     
-*   (1) Subsection (2) applies if the fee simple estate in any settlement property for which no certificate of title has been issued or currently exists under the [Land Transfer Act 1952][112]---
+*   (1) Subsection (2) applies if the fee simple estate in any settlement property for which no certificate of title has been issued or currently exists under the [Land Transfer Act 1952][114]---
         
     *   (a) is vested in, or held by, the Crown; but
     
     *   (b) is to be transferred to, or vested in, a Pouakani recipient under the deed of settlement.
     
-    (2) If this subsection applies, then, despite any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][112] for the fee simple estate in the settlement property in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
+    (2) If this subsection applies, then, despite any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][114] for the fee simple estate in the settlement property in the name of the Crown, and that certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner.
     
-    Compare: 1998 No 97 [s 46][113]
+    Compare: 1998 No 97 [s 46][115]
 
 ## Part 5  
 Transfer and vesting of settlement properties
@@ -659,35 +663,35 @@ Transfer and vesting of settlement properties
     
 *   (1) The Crown may sell Crown forestry assets for the purpose of giving effect to the deed of settlement.
     
-    (2) This section applies despite anything in the [Crown Forest Assets Act 1989][93].
+    (2) This section applies despite anything in the [Crown Forest Assets Act 1989][95].
     
-    (3) In this section, _Crown forestry assets_ has the meaning that it has in [section 2(1)][94] of the Crown Forest Assets Act 1989\.
+    (3) In this section, _Crown forestry assets_ has the meaning that it has in [section 2(1)][96] of the Crown Forest Assets Act 1989\.
 
 ##### 23 Covenant to complete survey work
     
 *   (1) Despite any enactment or rule of law, the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement---
         
-    *   (a) must be registered by the Registrar under [section 126A][114] of the Property Law Act 1952 if the Registrar receives a copy of that covenant certified by the Minister; and
+    *   (a) must be registered by the Registrar under [section 126A][116] of the Property Law Act 1952 if the Registrar receives a copy of that covenant certified by the Minister; and
     
     *   (b) whether registered or not, has effect and is enforceable even if the covenant is positive and there is no dominant tenement.
     
-    (2) Despite anything in the [Land Transfer Act 1952][112], even though the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement is in respect of land for which no certificate of title has been issued under that Act,---
+    (2) Despite anything in the [Land Transfer Act 1952][114], even though the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement is in respect of land for which no certificate of title has been issued under that Act,---
         
     *   (a) the Minister may request the Registrar to register the covenant under that Act by constituting it a folium in the register book; and
     
     *   (b) the Registrar must register the covenant accordingly.
     
-    Compare: 1998 No 97 [s 39][115]
+    Compare: 1998 No 97 [s 39][117]
 
 ##### 24 Section 24H(6) of Conservation Act 1987 to apply
     
-*   (1) [Section 24H(6)][116] of the Conservation Act 1987 applies to the Pouakani governance entity in relation to any marginal strip adjoining the Pouakani Forest, while the entity is the registered proprietor of the Pouakani Forest, as if---
+*   (1) [Section 24H(6)][118] of the Conservation Act 1987 applies to the Pouakani governance entity in relation to any marginal strip adjoining the Pouakani Forest, while the entity is the registered proprietor of the Pouakani Forest, as if---
         
-    *   (a) the Pouakani governance entity were the holder of a Crown forestry licence under the [Crown Forest Assets Act 1989][93]; and
+    *   (a) the Pouakani governance entity were the holder of a Crown forestry licence under the [Crown Forest Assets Act 1989][95]; and
     
     *   (b) the Minister of Conservation had appointed the Pouakani governance entity to be the manager of the marginal strip.
     
-    (2) In this section, _marginal strip_ has the same meaning as in [section 2(1)][117] of the Conservation Act 1987\.
+    (2) In this section, _marginal strip_ has the same meaning as in [section 2(1)][119] of the Conservation Act 1987\.
 
 ##### 25 Minister of Conservation may grant easements
     
@@ -695,17 +699,17 @@ Transfer and vesting of settlement properties
     
     (2) An easement granted under subsection (1)---
         
-    *   (a) is registrable under [section 17ZA(2)][118] of the Conservation Act 1987, as if it were a deed to which that provision applied; and
+    *   (a) is registrable under [section 17ZA(2)][120] of the Conservation Act 1987, as if it were a deed to which that provision applied; and
     
-    *   (b) is enforceable in accordance with its terms, despite [Part 3B][119] of the Conservation Act 1987\.
+    *   (b) is enforceable in accordance with its terms, despite [Part 3B][121] of the Conservation Act 1987\.
     
-    Compare: 1998 No 97 [s 41][120]
+    Compare: 1998 No 97 [s 41][122]
 
 ##### 26 Permission of council not required to form private road or private way
     
-*   The permission of a council (within the meaning of [Part 21][121] of the Local Government Act 1974) is not required for the laying out, or forming of, a private road or private way, or for the granting or reserving of a right of way over a private way, required for the purposes of, or incidental to, section 5 of the deed of settlement.
+*   The permission of a council (within the meaning of [Part 21][123] of the Local Government Act 1974) is not required for the laying out, or forming of, a private road or private way, or for the granting or reserving of a right of way over a private way, required for the purposes of, or incidental to, section 5 of the deed of settlement.
     
-    Compare: 1998 No 97 [s 20(7)][101]
+    Compare: 1998 No 97 [s 20(7)][103]
 
 ##### 27 Preservation order cancelled
     
@@ -749,7 +753,7 @@ Transfer and vesting of settlement properties
 
 ##### 30 Issue of certificate of title for Block B9B
     
-*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][112] for the fee simple estate in Block B9B in the name of Pouakani B9B Trust as Māori freehold land, the boundaries of which are shown on ML Plan 22432\.
+*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][114] for the fee simple estate in Block B9B in the name of Pouakani B9B Trust as Māori freehold land, the boundaries of which are shown on ML Plan 22432\.
     
     (2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under [section 31(1)(b)][44], and, in any event, no later than---
         
@@ -769,7 +773,7 @@ Transfer and vesting of settlement properties
         
         
     
-    (4) An encumbrance that is not registrable under the [Land Transfer Act 1952][112] is not required, by virtue of this section, to be registered against the certificate of title issued under subsection (1).
+    (4) An encumbrance that is not registrable under the [Land Transfer Act 1952][114] is not required, by virtue of this section, to be registered against the certificate of title issued under subsection (1).
     
     (5) The Minister must supply the Registrar with a notice, containing a description of any registrable or notifiable encumbrances subject to which, or with the benefit of which, the land for which a certificate of title is to be issued under subsection (1) is vested, or advising that there are no such encumbrances---
         
@@ -785,7 +789,7 @@ Transfer and vesting of settlement properties
     
 *   (1) On the settlement date or on the date that the Chief Surveyor approves the plan of the boundaries of the stewardship land, whichever occurs later,---
         
-    *   (a) the stewardship land ceases to be a conservation area for the purposes of the [Conservation Act 1987][122]; and
+    *   (a) the stewardship land ceases to be a conservation area for the purposes of the [Conservation Act 1987][124]; and
     
     *   (b) the fee simple estate in the stewardship land is vested in the Pouakani governance entity as Māori freehold land, subject to those encumbrances disclosed by the Crown to the Pouakani Claims Trust under clause 6.5.10(a) of the deed of settlement.
     
@@ -793,7 +797,7 @@ Transfer and vesting of settlement properties
 
 ##### 32 Issue of certificate of title for stewardship land
     
-*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][112] for the fee simple estate in the stewardship land as Māori freehold land.
+*   (1) The Registrar must issue a certificate of title under the [Land Transfer Act 1952][114] for the fee simple estate in the stewardship land as Māori freehold land.
     
     (2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under [section 31(1)(b)][44], and, in any event, no later than---
         
@@ -813,7 +817,7 @@ Transfer and vesting of settlement properties
         
         
     
-    (4) An encumbrance that is not registrable under the [Land Transfer Act 1952][112] is not required, by virtue of this section, to be registered against the certificate of title issued under subsection (1).
+    (4) An encumbrance that is not registrable under the [Land Transfer Act 1952][114] is not required, by virtue of this section, to be registered against the certificate of title issued under subsection (1).
     
     (5) The Minister must supply the Registrar with a certificate, containing a description of any registrable or notifiable encumbrances subject to which, or with the benefit of which, the land for which a certificate of title is to be issued under subsection (1) is vested, or advising that there are no such encumbrances---
         
@@ -830,7 +834,7 @@ Cultural redress
     
 *   (1) In this Part and in [Schedule 2][72] and [Schedule 3][73],---
     
-    _consent authority_ has the same meaning as in [section 2(1)][123] of the Resource Management Act 1991
+    _consent authority_ has the same meaning as in [section 2(1)][125] of the Resource Management Act 1991
     
     _Crown MOU land_ means that part of the MOU land that is owned by the Crown, as identified on the map attached to the memorandum of understanding
     
@@ -842,7 +846,7 @@ Cultural redress
     
     _MOU land_ means the land to which the memorandum of understanding applies, as identified on the map attached to that memorandum
     
-    _resource consent_ has the same meaning as in [section 87][124] of the Resource Management Act 1991
+    _resource consent_ has the same meaning as in [section 87][126] of the Resource Management Act 1991
     
     _statement of joint aspirations_ means the statement made by the Pouakani people and the Crown contained in [Schedule 2][72]
     
@@ -864,7 +868,7 @@ Cultural redress
     
 *   The Crown acknowledges the statements made by the Pouakani people of the particular cultural, spiritual, historic, and traditional association of the Pouakani people with the Crown-owned area of Titiraupenga, the text of which is set out in [Schedule 3][73].
     
-    Compare: 1998 No 97 [s 206][125]
+    Compare: 1998 No 97 [s 206][127]
 
 ##### 36 Purposes of statutory acknowledgement
     
@@ -872,11 +876,13 @@ Cultural redress
         
     *   (a) to require that consent authorities forward summaries of resource consent applications to the Pouakani governance entity as required by regulations made under [section 37][53]; and
     
-    *   (b) to require that consent authorities, the Historic Places Trust, and the Environment Court have regard to the statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in [sections 38 to 40][54]; and
+    *   (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, and the Environment Court have regard to the statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in [sections 38 to 40][54]; and
     
     *   (c) to enable the Pouakani governance entity and any member of the Pouakani people to cite the statutory acknowledgement as evidence of the association of the Pouakani people to the Crown-owned area of Titiraupenga, as provided in [section 41][57].
     
-    Compare: 1998 No 97 [s 215][126]
+    Compare: 1998 No 97 [s 215][128]
+    
+    Section 36(b): amended, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 37 Distribution of applications to Pouakani governance entity
     
@@ -888,39 +894,43 @@ Cultural redress
     
     (2) Nothing in regulations made under this section affects in any way the discretion of a consent authority as to---
         
-    *   (a) whether to notify an application under [sections 93 to 94C][127] of the Resource Management Act 1991; and
+    *   (a) whether to notify an application under [sections 93 to 94C][129] of the Resource Management Act 1991; and
     
     *   (b) whether the Pouakani governance entity may be adversely affected under those sections.
     
-    Compare: 1998 No 97 [s 207][128]
+    Compare: 1998 No 97 [s 207][130]
     
-    Section 37(2)(a): amended, on 1 August 2003, by [section 106(1)(a)][129] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 37(2)(a): amended, on 1 August 2003, by [section 106(1)(a)][131] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 37(2)(b): amended, on 1 August 2003, by [section 106(1)(b)][129] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 37(2)(b): amended, on 1 August 2003, by [section 106(1)(b)][131] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 38 Consent authorities must have regard to statutory acknowledgments
     
-*   From the effective date, and without derogation from its obligations under [Part 2][130] of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to the Crown-owned area of Titiraupenga in forming an opinion in accordance with [sections 93 to 94C][127] of that Act as to whether the Pouakani governance entity is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the Crown-owned area of Titiraupenga.
+*   From the effective date, and without derogation from its obligations under [Part 2][132] of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to the Crown-owned area of Titiraupenga in forming an opinion in accordance with [sections 93 to 94C][129] of that Act as to whether the Pouakani governance entity is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the Crown-owned area of Titiraupenga.
     
-    Section 38: substituted, on 1 August 2003, by [section 106(2)][129] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 38: substituted, on 1 August 2003, by [section 106(2)][131] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 39 Environment Court to have regard to statutory acknowledgement under section 274 of Resource Management Act 1991
     
-*   From the effective date, and without derogating from its obligations under [Part 2][130] of the Resource Management Act 1991, the Environment Court must have regard to the statutory acknowledgement in determining, for the purposes of [section 274][131] of the Resource Management Act 1991, whether the Pouakani governance entity has an interest, greater than the public generally, in proceedings relating to an application for a resource consent for activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
+*   From the effective date, and without derogating from its obligations under [Part 2][132] of the Resource Management Act 1991, the Environment Court must have regard to the statutory acknowledgement in determining, for the purposes of [section 274][133] of the Resource Management Act 1991, whether the Pouakani governance entity has an interest, greater than the public generally, in proceedings relating to an application for a resource consent for activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
     
-    Compare: 1998 No 97 [s 209][132]
+    Compare: 1998 No 97 [s 209][134]
 
-##### 40 Historic Places Trust and Environment Court to have regard to statutory acknowledgement under sections 14 and 20 of Historic Places Act 1993
+##### 40 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
     
-*   (1) From the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement in forming an opinion, for the purposes of [section 14][133] or [section 20(1)][134] of the Historic Places Act 1993, as to whether the Pouakani governance entity is directly affected in relation to an archaeological site within the Crown-owned area of Titiraupenga.
+*   (1) If, on or after the effective date, an application is made under [section 44][135], [56][136], or [61][137] of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,--- 
+        
+    *   (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under [section 48][138], [56][136], or [62][139] of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
     
-    (2) In this section, _archaeological site_ has the same meaning as in [section 2][135] of the Historic Places Act 1993\.
+    *   (b) the Environment Court, in determining under [section 59(1)][140] or [64(1)][141] of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the Crown-owned area of Titiraupenga, including in making a determination as to whether the Pouakani governance entity is a person directly affected by the decision.
     
-    Compare: 1998 No 97 [s 210][136]
+    (2) In this section, _archaeological site_ has the meaning given in [section 6][78] of the Heritage New Zealand Pouhere Taonga Act 2014\.
+    
+    Section 40: replaced, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 41 Use of statutory acknowledgement with submissions
     
-*   (1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people's association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
+*   (1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people's association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
     
     (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on---
         
@@ -928,7 +938,7 @@ Cultural redress
     
     *   (b) the Environment Court; and
     
-    *   (c) the Historic Places Trust; and
+    *   (c) Heritage New Zealand Pouhere Taonga; and
     
     *   (d) parties to proceedings before those bodies; and
     
@@ -942,25 +952,29 @@ Cultural redress
     
     (6) The content and existence of the statutory acknowledgement do not derogate from a statement made under subsection (5).
     
-    Compare: 1998 No 97 [s 211][137]
+    Compare: 1998 No 97 [s 211][142]
+    
+    Section 41(1): amended, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
+    Section 41(2)(c): replaced, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 42 Recording of statutory acknowledgement on statutory plans
     
 *   (1) Local authorities with jurisdiction in respect of the Crown-owned area of Titiraupenga must attach information recording the statutory acknowledgement to---
         
-    *   (a) all regional policy statements, regional plans, district plans, and proposed plans (as defined in [section 2][123] of the Resource Management Act 1991) that---
+    *   (a) all regional policy statements, regional plans, district plans, and proposed plans (as defined in [section 2][125] of the Resource Management Act 1991) that---
             
         *   (i) cover, wholly or partly, the Crown-owned area of Titiraupenga; and
         
-        *   (ii) are prepared under the [Resource Management Act 1991][138]; and
+        *   (ii) are prepared under the [Resource Management Act 1991][143]; and
         
         
     
-    *   (b) all proposed policy statements, of the kind referred to in [Schedule 1][139] of the Resource Management Act 1991, that---
+    *   (b) all proposed policy statements, of the kind referred to in [Schedule 1][144] of the Resource Management Act 1991, that---
             
         *   (i) cover, wholly or partly, the Crown-owned area of Titiraupenga; and
         
-        *   (ii) are prepared under the [Resource Management Act 1991][138].
+        *   (ii) are prepared under the [Resource Management Act 1991][143].
         
         
     
@@ -968,9 +982,9 @@ Cultural redress
         
     *   (a) may be by way of reference to this Part or by setting out the statutory acknowledgement in full; and
     
-    *   (b) is for the purpose of public information only, and the information is neither part of the document (unless adopted by the relevant regional council or district council) nor subject to the provisions of [Schedule 1][139] of the Resource Management Act 1991\.
+    *   (b) is for the purpose of public information only, and the information is neither part of the document (unless adopted by the relevant regional council or district council) nor subject to the provisions of [Schedule 1][144] of the Resource Management Act 1991\.
     
-    Compare: 1998 No 97 [s 220][140]
+    Compare: 1998 No 97 [s 220][145]
 
 #### Memorandum of understanding
 
@@ -980,7 +994,7 @@ Cultural redress
     
     (2) The memorandum of understanding may be amended only by written agreement between the Minister of Conservation and the Pouakani governance entity.
     
-    Compare: 1998 No 97 [s 212][141]
+    Compare: 1998 No 97 [s 212][146]
 
 ##### 44 Alienation of land terminates memorandum of understanding
     
@@ -998,7 +1012,7 @@ Cultural redress
         
         
     
-    Compare: 1998 No 97 [s 214][142]
+    Compare: 1998 No 97 [s 214][147]
 
 ##### 45 Memorandum of understanding subject to Crown obligations
     
@@ -1008,25 +1022,25 @@ Cultural redress
     
     *   (b) the Crown's powers to amend policy and to introduce legislation amending existing law.
     
-    Compare: 1998 No 97 [s 283][143]; 1999 No 118 [s 19][144]
+    Compare: 1998 No 97 [s 283][148]; 1999 No 118 [s 19][149]
 
 ##### 46 Enforceability of memorandum of understanding
     
 *   (1) The Minister of Conservation must comply with the memorandum of understanding as long as it remains in force.
     
-    (2) If the Minister of Conservation fails unreasonably to comply with the memorandum of understanding, the Pouakani governance entity may, subject to the [Crown Proceedings Act 1950][145], enforce the memorandum of understanding by way of public law action against the Minister of Conservation.
+    (2) If the Minister of Conservation fails unreasonably to comply with the memorandum of understanding, the Pouakani governance entity may, subject to the [Crown Proceedings Act 1950][150], enforce the memorandum of understanding by way of public law action against the Minister of Conservation.
     
     (3) Despite subsection (2), damages are not available as a remedy for failure to comply with the memorandum of understanding.
     
-    Compare: 1998 No 97 [s 285(1)--(3)][146]; 1999 No 118 [s 21(1), (2), (4)][147]
+    Compare: 1998 No 97 [s 285(1)--(3)][151]; 1999 No 118 [s 21(1), (2), (4)][152]
 
 ##### 47 Noting of memorandum of understanding
     
 *   (1) The existence of the memorandum of understanding, as amended from time to time, and a summary of the terms of the memorandum must be noted in all conservation management strategies and conservation management plans that affect the MOU land.
     
-    (2) Noting of the memorandum of understanding under this section is for the purpose of public notice only, and is not an amendment to a strategy or plan for the purpose of [section 17I][148] of the Conservation Act 1987\.
+    (2) Noting of the memorandum of understanding under this section is for the purpose of public notice only, and is not an amendment to a strategy or plan for the purpose of [section 17I][153] of the Conservation Act 1987\.
     
-    Compare: 1998 No 97 [s 284][149]; 1999 No 118 [s 20][150]
+    Compare: 1998 No 97 [s 284][154]; 1999 No 118 [s 20][155]
 
 #### Effect of statement of joint aspirations, statutory acknowledgement, and memorandum of understanding
 
@@ -1044,25 +1058,25 @@ Cultural redress
         
         
     
-    Compare: 1998 No 97 [s 217][151]
+    Compare: 1998 No 97 [s 217][156]
 
 ##### 49 Rights not affected
     
 *   Except as expressly provided in [sections 34 to 42][49], [48][66], and [50][68], neither the statutory acknowledgement nor the statement of joint aspirations affects the lawful rights or interests of a person who is not a party to the deed of settlement.
     
-    Compare: 1998 No 97 [s 218][152]
+    Compare: 1998 No 97 [s 218][157]
 
 ##### 50 Limitation of rights
     
 *   Except as expressly provided in [sections 34 to 49][49], the statutory acknowledgement, the statement of joint aspirations, and the memorandum of understanding (except as expressly provided in the memorandum of understanding) do not have the effect of granting, creating, or providing evidence of an estate or interest in, or any rights of any kind whatsoever relating to, the Crown-owned area of Titiraupenga or the Crown MOU land, as the case may be.
     
-    Compare: 1998 No 97 [s 219][153]
+    Compare: 1998 No 97 [s 219][158]
 
 #### Amendment to Resource Management Act 1991
 
 ##### 51 Amendment to Resource Management Act 1991
     
-*   _Amendment(s) incorporated in the [Act(s)][154]._
+*   _Amendment(s) incorporated in the [Act(s)][159]._
 
 ---
 
@@ -1255,7 +1269,7 @@ Under [section 36][52] of the Pouakani Claims Settlement Act 2000 (clause 3.2.5 
     
 *   (a) to require that consent authorities forward summaries of resource consent applications to the Pouakani governance entity as required by regulations made under [section 37][53] of the Pouakani Claims Settlement Act 2000 (clause 3.2.2 of the deed of settlement); and
 
-*   (b) to require that consent authorities, the Historic Places Trust, and the Environment Court have regard to this statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in [sections 38 to 40][54] of the Pouakani Claims Settlement Act 2000 (clause 3.2.3 of the deed of settlement); and
+*   (b) to require that consent authorities, the Heritage New Zealand Pouhere Taonga, and the Environment Court have regard to this statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in [sections 38 to 40][54] of the Pouakani Claims Settlement Act 2000 (clause 3.2.3 of the deed of settlement); and
 
 *   (c) to enable the Pouakani governance entity and any member of the Pouakani people to cite this statutory acknowledgement as evidence of the association of the Pouakani people to the Crown-owned area of Titiraupenga, as provided in [section 41][57] of the Pouakani Claims Settlement Act 2000 (clause 3.2.4 of the deed of settlement).
 
@@ -1272,6 +1286,8 @@ Except as expressly provided in the Pouakani Claims Settlement Act 2000, this st
 Except as expressly provided in the Pouakani Claims Settlement Act 2000, this statutory acknowledgement does not have the effect of granting, creating, or providing evidence of an estate or interest in, or any rights of any kind whatsoever relating to, the Crown-owned area of Titiraupenga.
 
 This statutory acknowledgement does not preclude the Crown from providing a statutory acknowledgement in respect of the Crown-owned area of Titiraupenga to persons other than the Pouakani people.
+    
+*   Schedule 3: amended, on 20 May 2014, by [section 107][80] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### 
 
@@ -1285,19 +1301,21 @@ This statutory acknowledgement does not preclude the Crown from providing a stat
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][155] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][156] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][160] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][161] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][157] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][158] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][162] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][163] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][78]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][80]
     
-    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][81]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][79]
     
-    Resource Management Amendment Act 2003 (2003 No 23): [section 106][129]
+    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][83]
+    
+    Resource Management Amendment Act 2003 (2003 No 23): [section 106][131]
     
     [Pouakani Claims Settlement Act Commencement Order 2001][75] (SR 2001/19)
 
@@ -1381,84 +1399,89 @@ This statutory acknowledgement does not preclude the Crown from providing a stat
 [75]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM21605
 [76]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429207
 [77]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44416
-[78]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4929207
-[79]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430672
-[80]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44475
-[81]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM1297534
-[82]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM435544
-[83]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM435367
-[84]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM223148
-[85]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM98097
-[86]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM184658
-[87]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM223144
-[88]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430675
-[89]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44477
-[90]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430676
-[91]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44478
-[92]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM250585
-[93]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM191768
-[94]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM191774
-[95]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429709
-[96]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430679
-[97]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44479
-[98]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM353436
-[99]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430678
-[100]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44480
-[101]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429665
-[102]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44482
-[103]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM231942
-[104]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM236786
-[105]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM246310
-[106]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM246311
-[107]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104697
-[108]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104699
-[109]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104910
-[110]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104914
-[111]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429718
-[112]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM269031
-[113]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429719
-[114]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM268441
-[115]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429710
-[116]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104939
-[117]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM103616
-[118]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104660
-[119]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104633
-[120]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429712
-[121]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM420324
-[122]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM103609
-[123]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM230272
-[124]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM233848
-[125]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430041
-[126]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430054
-[127]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM234301
-[128]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430042
-[129]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM197011
-[130]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM231904
-[131]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM237755
-[132]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430047
-[133]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM300610
-[134]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM300622
-[135]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM300516
-[136]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430048
-[137]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430050
-[138]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM230264
-[139]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM240686
-[140]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430059
-[141]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430051
-[142]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430053
-[143]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430157
-[144]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44489
-[145]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM261466
-[146]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430159
-[147]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44491
-[148]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104615
-[149]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430158
-[150]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44490
-[151]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430056
-[152]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430057
-[153]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430058
-[154]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM242504
-[155]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998516
-[156]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998515
-[157]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998532
-[158]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[78]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005423
+[79]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4929207
+[80]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005646
+[81]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430672
+[82]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44475
+[83]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM1297534
+[84]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM435544
+[85]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM435367
+[86]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM223148
+[87]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM98097
+[88]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM184658
+[89]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM223144
+[90]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430675
+[91]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44477
+[92]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430676
+[93]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44478
+[94]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM250585
+[95]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM191768
+[96]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM191774
+[97]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429709
+[98]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430679
+[99]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44479
+[100]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM353436
+[101]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430678
+[102]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44480
+[103]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429665
+[104]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44482
+[105]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM231942
+[106]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM236786
+[107]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM246310
+[108]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM246311
+[109]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104697
+[110]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104699
+[111]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104910
+[112]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104914
+[113]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429718
+[114]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM269031
+[115]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429719
+[116]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM268441
+[117]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429710
+[118]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104939
+[119]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM103616
+[120]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104660
+[121]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104633
+[122]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM429712
+[123]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM420324
+[124]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM103609
+[125]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM230272
+[126]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM233848
+[127]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430041
+[128]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430054
+[129]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM234301
+[130]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430042
+[131]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM197011
+[132]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM231904
+[133]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM237755
+[134]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430047
+[135]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005562
+[136]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005580
+[137]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005587
+[138]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005568
+[139]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005588
+[140]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005584
+[141]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM4005590
+[142]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430050
+[143]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM230264
+[144]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM240686
+[145]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430059
+[146]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430051
+[147]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430053
+[148]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430157
+[149]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44489
+[150]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM261466
+[151]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430159
+[152]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44491
+[153]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM104615
+[154]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430158
+[155]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM44490
+[156]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430056
+[157]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430057
+[158]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM430058
+[159]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM242504
+[160]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998516
+[161]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998515
+[162]: http://www.legislation.govt.nz/act/public/2000/0090/latest/link.aspx?id=DLM2998532
+[163]: http://www.pco.parliament.govt.nz/editorial-conventions/
