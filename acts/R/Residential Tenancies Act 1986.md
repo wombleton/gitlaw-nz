@@ -748,7 +748,7 @@ An Act to reform and restate the law relating to residential tenancies, to defin
     
     Section 2(1) **accommodation broker**: amended, on 1 October 2010, by [section 4(5)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 2(1) **address for service**: substituted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 2(1) **address for service**: replaced, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 2(1) **adult**: amended, on 26 April 2005, by [section 7][251] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -762,7 +762,7 @@ An Act to reform and restate the law relating to residential tenancies, to defin
     
     Section 2(1) **boarding house**, **boarding house tenancy**, **boarding house tenancy agreement**, and **boarding room**: inserted, on 1 October 2010, by [section 4(2)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 2(1) **chief executive**: substituted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 2(1) **chief executive**: replaced, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 2(1) **contact address**: inserted, on 1 May 1996, by [section 2(2)][253] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
@@ -792,11 +792,11 @@ An Act to reform and restate the law relating to residential tenancies, to defin
     
     Section 2(1) **member of the landlord's or owner's family**: inserted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 2(1) **Minister**: substituted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 2(1) **Minister**: replaced, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 2(1) **Ministry**: repealed, on 1 October 2010, by [section 4(4)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 2(1) **officer of the Tribunal**: substituted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 2(1) **officer of the Tribunal**: replaced, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 2(1) **possession order**: amended, on 1 October 2010, by [section 4(8)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -806,7 +806,7 @@ An Act to reform and restate the law relating to residential tenancies, to defin
     
     Section 2(1) **Registrar**: replaced, on 12 December 2012, by [section 4][254] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
-    Section 2(1) **service tenancy**: substituted, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 2(1) **service tenancy**: replaced, on 1 October 2010, by [section 4(3)][250] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 2(1) **Tenancy Mediator**: amended, on 1 May 1996, by [section 2(6)][253] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
@@ -829,7 +829,7 @@ Application of Act
     
 *   This Act applies to every tenancy for residential purposes except as specifically provided.
     
-    Section 4: substituted, on 1 October 2010, by [section 5][256] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 4: replaced, on 1 October 2010, by [section 5][256] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 5 Act excluded in certain cases
     
@@ -933,7 +933,7 @@ Application of Act
     
     Compare: Residential Tenancies Act 1978--1981 s 7 (SA)
     
-    Section 5(1)(b): substituted, on 1 May 1996, by [section 3(1)][265] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 5(1)(b): replaced, on 1 May 1996, by [section 3(1)][265] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 5(1)(ba): inserted, on 1 December 1996 (not applying to any tenancy that commenced before that date), by [section 3(2)][265] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
@@ -941,21 +941,21 @@ Application of Act
     
     Section 5(1)(c): amended, on 1 June 2005, by [section 206][267] of the Corrections Act 2004 (2004 No 50).
     
-    Section 5(1)(h): substituted, on 1 October 2010, by [section 6(1)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(1)(h): replaced, on 1 October 2010, by [section 6(1)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 5(1)(j): substituted, on 1 April 1990, by [section 230(1)][269] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 5(1)(j): replaced, on 1 April 1990, by [section 230(1)][269] of the Sale of Liquor Act 1989 (1989 No 63).
     
     Section 5(1)(j): amended, on 18 December 2013, by [section 417(1)][270] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 5(1)(k): substituted, on 1 October 2010, by [section 6(2)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(1)(k): replaced, on 1 October 2010, by [section 6(2)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 5(1)(l): substituted, on 1 October 2010, by [section 6(2)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(1)(l): replaced, on 1 October 2010, by [section 6(2)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 5(1)(n): substituted, on 1 October 2010, by [section 6(3)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(1)(n): replaced, on 1 October 2010, by [section 6(3)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 5(1)(q): amended, on 20 June 2011, by [section 233(1)][271] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 5(1)(s): substituted, on 1 October 2010, by [section 6(4)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(1)(s): replaced, on 1 October 2010, by [section 6(4)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 5(1)(t): amended, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
@@ -963,17 +963,17 @@ Application of Act
     
     Section 5(1)(tb): inserted, on 1 October 2010, by [section 6(5)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 5(1)(u): added, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 5(1)(u): inserted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
-    Section 5(1)(v): added, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 5(1)(v): inserted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
-    Section 5(1)(w): added, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 5(1)(w): inserted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
-    Section 5(1)(x): added, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 5(1)(x): inserted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
-    Section 5(2): added, on 1 October 2010, by [section 6(6)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(2): inserted, on 1 October 2010, by [section 6(6)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 5(3): added, on 1 October 2010, by [section 6(6)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 5(3): inserted, on 1 October 2010, by [section 6(6)][268] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
     
@@ -1136,7 +1136,7 @@ Tenancy agreements
     
     (4) In this section _tenancy agreement_ includes a prospective tenancy agreement, regardless of whether or not a tenancy is granted.
     
-    Section 12: substituted, on 1 May 1996, by [section 5(1)][283] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 12: replaced, on 1 May 1996, by [section 5(1)][283] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 12A Choice of procedures
     
@@ -1152,7 +1152,7 @@ Tenancy agreements
     
     Section 12A: inserted, on 1 May 1996, by [section 5(1)][283] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 12A(2): substituted, on 1 January 2002, by [section 71(1)][285] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 12A(2): replaced, on 1 January 2002, by [section 71(1)][285] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 13 Form of tenancy agreement
     
@@ -1160,7 +1160,7 @@ Tenancy agreements
     
     (2) The landlord shall, before the tenancy commences, provide the tenant with a copy of the tenancy agreement.
     
-    Section 13: substituted, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 13: replaced, on 1 December 1996, by [section 6(1)][286] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 13A Contents of tenancy agreement
     
@@ -1276,7 +1276,7 @@ Tenancy agreements
     
     (2) \[Repealed\]
     
-    Section 15: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 15: replaced, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 15(2): repealed, on 1 October 2010, by [section 10(2)][288] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1288,11 +1288,11 @@ Tenancy agreements
     
     (3) The obligation in subsection (1) does not apply to a contact person whose name and contact details are contained in a boarding house tenancy agreement.
     
-    Section 16: substituted, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 16: replaced, on 1 December 1996, by [section 7(1)][291] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 16(2): repealed, on 1 October 2010, by [section 10(2)][288] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 16(3): added, on 1 October 2010, by [section 12][292] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 16(3): inserted, on 1 October 2010, by [section 12][292] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 16A Landlord must have agent if out of New Zealand for longer than 21 consecutive days
     
@@ -1426,7 +1426,7 @@ Tenancy agreements
     
     Section 19(1): amended, on 1 October 2010, by [section 16(1)][297] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 19(1)(b): substituted, on 1 May 1996, by [section 8(1)][298] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 19(1)(b): replaced, on 1 May 1996, by [section 8(1)][298] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 19(1)(b): amended, on 1 October 2010, by [section 16(2)][297] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -1454,7 +1454,7 @@ Tenancy agreements
     
     *   (c) give to the tenant a copy of the receipt issued in accordance with paragraph (b).
     
-    Section 20: substituted, on 18 August 1992, by [section 4][299] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 20: replaced, on 18 August 1992, by [section 4][299] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 21 Tenant may pay bond direct to chief executive with landlord's consent
     
@@ -1482,9 +1482,9 @@ Tenancy agreements
     
     *   (c) give to the landlord a copy of the receipt issued in accordance with paragraph (b).
     
-    Section 21: substituted, on 18 August 1992, by [section 4][299] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 21: replaced, on 18 August 1992, by [section 4][299] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 21(2): substituted, on 1 May 1996, by [section 9][300] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 21(2): replaced, on 1 May 1996, by [section 9][300] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 21(2): amended, on 1 October 2010, by [section 17][301] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1512,7 +1512,7 @@ Tenancy agreements
     
     (2) The chief executive must pay the bond (or, as the case requires, part of the bond) in accordance with the terms of the application.
     
-    Section 22: substituted, on 1 October 2010, by [section 18][303] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 22: replaced, on 1 October 2010, by [section 18][303] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 22A Applications to chief executive for payment of bond without agreement of other party
     
@@ -1688,13 +1688,13 @@ Tenancy agreements
     
     *   (c) that it would not be unfair to the tenant to allow the original notice to be varied in the manner proposed.
     
-    Section 24: substituted, on 1 May 1996, by [section 12][305] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 24: replaced, on 1 May 1996, by [section 12][305] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 24(1)(c): amended, on 1 October 2010, by [section 19(1)][306] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 24(1)(f)(i): amended, on 1 October 2010, by [section 19(2)][306] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 24(1)(g): substituted, on 1 October 2010, by [section 19(3)][306] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 24(1)(g): replaced, on 1 October 2010, by [section 19(3)][306] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 24(1A): inserted, on 1 October 2010, by [section 19(4)][306] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1786,7 +1786,7 @@ Tenancy agreements
     
     (3) The Tribunal may, on an application under subsection (2), make an order increasing the rent by any amount the Tribunal thinks fit, if the Tribunal is satisfied that (except for the absence of agreement on increasing the rent) subsection (1) applies to the tenancy.
     
-    Section 28: substituted, on 1 October 2010, by [section 22][313] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 28: replaced, on 1 October 2010, by [section 22][313] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 28A Increase of rent by order in case of unforeseen expenses
     
@@ -1844,7 +1844,7 @@ Tenancy agreements
     
     Compare: 1973 No 26 s 23; Residential Tenancies Act 1978--1981 s 37 (SA)
     
-    Section 29(4)(b): substituted, on 1 May 1996, by [section 13][314] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 29(4)(b): replaced, on 1 May 1996, by [section 13][314] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 30 Landlord to keep records
     
@@ -1858,7 +1858,7 @@ Tenancy agreements
     
     Compare: Residential Tenancies Act 1978--1981 s 38 (SA)
     
-    Section 30(1): substituted, on 1 May 1996, by [section 14][315] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 30(1): replaced, on 1 May 1996, by [section 14][315] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 31 Apportionment of rent
     
@@ -1886,7 +1886,7 @@ Tenancy agreements
     
     Compare: Residential Tenancies Act 1978--1981 s 59 (SA)
     
-    Section 32(3): added, on 1 October 2010, by [section 23][316] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 32(3): inserted, on 1 October 2010, by [section 23][316] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 33 Tenant's goods not to be seized
     
@@ -1906,7 +1906,7 @@ Tenancy agreements
     
     *   (b) foodstuffs and other perishable goods if the landlord has reasonable cause to believe that the premises have been abandoned by the tenant.
     
-    Section 33: substituted, on 1 May 1996, by [section 15][317] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 33: replaced, on 1 May 1996, by [section 15][317] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 33(4)(a): amended, on 1 October 2010, by [section 24][318] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -1978,7 +1978,7 @@ Tenancy agreements
     
     (5) In this section, _premises_ includes facilities that are exclusively for the use of the tenant.
     
-    Section 39: substituted, on 1 October 2010, by [section 25][321] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 39: replaced, on 1 October 2010, by [section 25][321] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 40 Tenant's responsibilities
     
@@ -2036,9 +2036,9 @@ Tenancy agreements
     
     Compare: [1952 No 51][248] [s 116D][323]; 1975 No 36 s 10; Residential Tenancies Act 1978--1981 ss 42, 43 (SA)
     
-    Section 40(1)(e)(iv): added, on 1 May 1996, by [section 18][324] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 40(1)(e)(iv): inserted, on 1 May 1996, by [section 18][324] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 40(1)(e)(v): added, on 1 May 1996, by [section 18][324] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 40(1)(e)(v): inserted, on 1 May 1996, by [section 18][324] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 40(2)(ab): inserted, on 1 October 2010, by [section 26(1)][325] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -2080,11 +2080,11 @@ Tenancy agreements
     
     Compare: Residential Tenancies Act 1978--1981 s 50 (SA)
     
-    Section 42(4): substituted, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 42(4): replaced, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 42(5): added, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 42(5): inserted, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 42(6): added, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 42(6): inserted, on 1 October 2010, by [section 27][327] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 43 Disposition of landlord's interest
     
@@ -2102,7 +2102,7 @@ Tenancy agreements
     
     Section 43(1)(a): amended, on 1 May 1996, by [section 19(1)][328] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 43(1)(d): added, on 1 May 1996, by [section 19(2)][328] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 43(1)(d): inserted, on 1 May 1996, by [section 19(2)][328] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 43(2): amended, on 1 May 1996, by [section 19(3)][328] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
@@ -2134,7 +2134,7 @@ Tenancy agreements
     
     Section 44(2A): inserted, on 1 October 2010, by [section 28(3)][330] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 44(4): substituted, on 1 May 1996, by [section 5(2)][283] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 44(4): replaced, on 1 May 1996, by [section 5(2)][283] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 45 Landlord's responsibilities
     
@@ -2174,7 +2174,7 @@ Tenancy agreements
     
     Section 45(1)(ca): inserted, on 1 October 2010, by [section 29(1)][332] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 45(1)(d)(ii): substituted, on 1 October 2010, by [section 29(2)][332] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 45(1)(d)(ii): replaced, on 1 October 2010, by [section 29(2)][332] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 45(1A): inserted, on 1 October 2010, by [section 29(3)][332] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -2196,7 +2196,7 @@ Tenancy agreements
     
     (2) When a landlord is offering residential premises as available for letting, the landlord shall inform prospective tenants if the premises are on the market for the purposes of sale or other disposition.
     
-    Section 47(2): added, on 1 May 1996, by [section 20][333] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 47(2): inserted, on 1 May 1996, by [section 20][333] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 48 Landlord's right of entry
     
@@ -2264,19 +2264,19 @@ Tenancy agreements
     
     Section 48(1)(a): amended, on 1 October 2010, by [section 30(1)][335] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 48(2)(c): substituted, on 1 May 1996, by [section 21(1)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 48(2)(c): replaced, on 1 May 1996, by [section 21(1)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 48(2)(d): amended, on 1 May 1996, by [section 21(2)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 48(2)(da): inserted, on 1 October 2010, by [section 30(2)][335] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 48(2)(e): added, on 1 May 1996, by [section 21(2)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 48(2)(e): inserted, on 1 May 1996, by [section 21(2)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 48(3): substituted, on 1 October 2010, by [section 30(3)][335] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 48(3): replaced, on 1 October 2010, by [section 30(3)][335] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 48(3A): inserted, on 1 October 2010, by [section 30(3)][335] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 48(4): substituted, on 1 May 1996, by [section 21(4)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 48(4): replaced, on 1 May 1996, by [section 21(4)][336] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 48(6): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -2310,7 +2310,7 @@ Tenancy agreements
     
     Compare: Residential Tenancies Act 1978--1981 s 61(1) (SA)
     
-    Section 50(a): substituted, on 1 October 2010, by [section 31][338] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 50(a): replaced, on 1 October 2010, by [section 31][338] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 50(ab): inserted, on 1 October 2010, by [section 31][338] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -2390,15 +2390,15 @@ Tenancy agreements
     
     Section 51(1): amended, on 1 October 2010, by [section 33(1)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 51(1)(a): substituted, on 1 October 2010, by [section 33(2)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 51(1)(a): replaced, on 1 October 2010, by [section 33(2)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 51(1)(c): substituted, on 1 October 2010, by [section 33(3)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 51(1)(c): replaced, on 1 October 2010, by [section 33(3)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 51(2): amended, on 1 October 2010, by [section 33(4)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 51(3)(ca): inserted, on 1 October 2010, by [section 33(5)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 51(6): substituted, on 1 October 2010, by [section 33(6)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 51(6): replaced, on 1 October 2010, by [section 33(6)][340] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 52 Provision for shorter notice may be made with consent of Tribunal
     
@@ -2432,7 +2432,7 @@ Tenancy agreements
     
     *   (c) in the case of a service tenancy granted by the Armed Forces to any person subject to the [Armed Forces Discipline Act 1971][247], a certificate by the Secretary of Defence to the effect that operational requirements necessitated the giving of notice of less than 14 days shall be accepted by the Tribunal as conclusive proof of that matter.
     
-    Section 53(1): substituted, on 1 October 2010, by [section 34(1)][341] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 53(1): replaced, on 1 October 2010, by [section 34(1)][341] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 53(2): amended, on 1 October 2010, by [section 34(2)][341] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -2508,13 +2508,13 @@ Tenancy agreements
     
     (4) In this section _premises_ includes facilities.
     
-    Section 55(1)(c): substituted, on 1 October 2010, by [section 37][344] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 55(1)(c): replaced, on 1 October 2010, by [section 37][344] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 55(1A): inserted, on 1 May 1996, by [section 22(1)][345] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 55(1B): inserted, on 1 May 1996, by [section 22(1)][345] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 55(4): added, on 1 May 1996, by [section 22(2)][345] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 55(4): inserted, on 1 May 1996, by [section 22(2)][345] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 56 Termination for non-payment of rent and other breaches
     
@@ -2534,13 +2534,13 @@ Tenancy agreements
     
     (2) Where an application is made by a landlord under this section and the Tribunal is satisfied that at the time of determining the matter the landlord could have made an application under [section 55][84], the Tribunal shall determine the matter as if an application had been made under that section.
     
-    Section 56 heading: substituted, on 1 October 2010, by [section 38(1)][346] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 56 heading: replaced, on 1 October 2010, by [section 38(1)][346] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 56(1)(a): amended, on 1 October 2010, by [section 38(2)][346] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 56(1)(b)(i): amended, on 1 October 2010, by [section 38(3)][346] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 56(2): added, on 1 May 1996, by [section 23][347] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 56(2): inserted, on 1 May 1996, by [section 23][347] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 57 Effect on subtenancy of termination of head tenancy
     
@@ -2714,7 +2714,7 @@ Tenancy agreements
     
     (5) It is declared that a tenant commits an unlawful act if, without reasonable excuse, he or she abandons the premises when the rent is in arrear.
     
-    Section 61(5): added, on 1 October 2010, by [section 43][353] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 61(5): inserted, on 1 October 2010, by [section 43][353] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 62 Goods left on premises on termination of tenancy
     
@@ -2730,7 +2730,7 @@ Tenancy agreements
     
     (4) In this section, **premises** includes facilities.
     
-    Section 62: substituted, on 1 October 2010, by [section 44][356] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 62: replaced, on 1 October 2010, by [section 44][356] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 62A Disposal of abandoned goods following assessment of market value
     
@@ -2846,7 +2846,7 @@ Tenancy agreements
     
     Section 64(2): amended, on 1 October 2010, by [section 46][360] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 64(4): substituted, on 1 May 1996, by [section 25][361] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 64(4): replaced, on 1 May 1996, by [section 25][361] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 64(4): amended, on 12 December 2012, by [section 5][362] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
 
@@ -2858,7 +2858,7 @@ Tenancy agreements
     
     (3) To avoid doubt, the Tribunal has jurisdiction under this section even though the premises are not subject to a tenancy agreement.
     
-    Section 65(3): added, on 1 October 2010, by [section 47][364] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 65(3): inserted, on 1 October 2010, by [section 47][364] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 66 Reduction or termination of fixed-term tenancy
     
@@ -2882,15 +2882,15 @@ Tenancy agreements
     
     Compare: Residential Tenancies Act 1980 s 113 (Vic)
     
-    Section 66: substituted, on 1 May 1996, by [section 27][365] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 66: replaced, on 1 May 1996, by [section 27][365] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 66 heading: amended, on 1 October 2010, by [section 48(1)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 66(2): amended, on 1 October 2010, by [section 48(2)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 66(3): added, on 1 October 2010, by [section 48(3)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 66(3): inserted, on 1 October 2010, by [section 48(3)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 66(4): added, on 1 October 2010, by [section 48(3)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 66(4): inserted, on 1 October 2010, by [section 48(3)][366] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ## Part 2A  
 Boarding house tenancies
@@ -3530,7 +3530,7 @@ The Tenancy Tribunal
     
     Section 67(2A): inserted, on 1 May 1996, by [section 28(2)][369] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 67(3): substituted, on 1 May 1996, by [section 28(2)][369] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 67(3): replaced, on 1 May 1996, by [section 28(2)][369] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 67(3): amended, on 1 October 2010, by [section 50(1)][370] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -3574,7 +3574,7 @@ The Tenancy Tribunal
     
     Section 68(3): amended, on 1 January 2002, by [section 70(1)][372] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 68(5): substituted, on 1 May 1996, by [section 29][373] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 68(5): replaced, on 1 May 1996, by [section 29][373] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 68(5)(c): amended, on 1 October 2010, by [section 51(2)][371] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -3610,7 +3610,7 @@ The Tenancy Tribunal
     
     (5) Sittings of the Tribunal for the dispatch of its business in any particular place shall, subject to any directions by the Principal Tenancy Adjudicator, be held on such days and at such times as may be appointed by the Tenancy Adjudicator, or one of the Tenancy Adjudicators, stationed at, and authorised to exercise the jurisdiction of the Tribunal in, that place.
     
-    Section 71(2): substituted, on 1 October 2010, by [section 52][377] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 71(2): replaced, on 1 October 2010, by [section 52][377] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 72 Registrars
     
@@ -3702,19 +3702,19 @@ The Tenancy Tribunal
     
     *   (c) there shall be paid to every such appointee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][383]; and the provisions of that Act shall apply accordingly as if every such appointee were a member of a statutory Board within the meaning of that Act.
     
-    Section 76(1): substituted, on 1 May 1996, by [section 31(1)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 76(1): replaced, on 1 May 1996, by [section 31(1)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 76(2): substituted, on 1 May 1996, by [section 31(1)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 76(2): replaced, on 1 May 1996, by [section 31(1)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 76(2): amended, on 1 October 2010, by [section 56(1)][385] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 76(3): substituted, on 1 October 2010, by [section 56(2)][385] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 76(3): replaced, on 1 October 2010, by [section 56(2)][385] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 76(4): repealed, on 1 May 1996, by [section 31(2)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 76(8): amended, on 1 October 2010, by [section 56(3)][385] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 76(9)(a): substituted, on 1 May 1996, by [section 31(3)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 76(9)(a): replaced, on 1 May 1996, by [section 31(3)][384] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 76(11)(b): amended, on 1 October 2010, by [section 56(4)][385] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -3792,7 +3792,7 @@ The Tenancy Tribunal
     
     (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
     
-    Section 77(1): substituted, on 1 October 2010, by [section 57(1)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(1): replaced, on 1 October 2010, by [section 57(1)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 77(2)(ab): inserted, on 1 October 2010, by [section 57(2)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -3812,15 +3812,15 @@ The Tenancy Tribunal
     
     Section 77(2A): inserted, on 14 April 2014, by [section 4(2)][391] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
     
-    Section 77(4): substituted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 77(4): replaced, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
     
     Section 77(4A): inserted, on 1 October 2010, by [section 57(6)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(5): substituted, on 1 October 2010, by [section 57(7)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(5): replaced, on 1 October 2010, by [section 57(7)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 77(6): amended, on 1 October 2010, by [section 57(8)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 77(7): substituted, on 1 October 2010, by [section 57(9)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 77(7): replaced, on 1 October 2010, by [section 57(9)][390] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 78 Orders of Tribunal
     
@@ -3964,7 +3964,7 @@ The Tenancy Tribunal
     
     (4) Any proceedings transferred to a District Court under this section shall be deemed to have been commenced by action in that court, and shall be dealt with by that court accordingly.
     
-    Section 83(2): substituted, on 1 May 1996, by [section 33][398] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 83(2): replaced, on 1 May 1996, by [section 33][398] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 83A Referral of complaints to Health and Disability Commissioner
     
@@ -4004,7 +4004,7 @@ The Tenancy Tribunal
     
     (5) The chief executive must publish every determination under subsection (3) and every variation or replacement under subsection (4) in the _Gazette_ and on the Internet.
     
-    Section 86: substituted, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 86: replaced, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 86(1): amended, on 12 December 2012, by [section 7(1)][401] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
@@ -4018,7 +4018,7 @@ The Tenancy Tribunal
     
     (3) For the purposes of this section and [section 88][165], the _appropriate Registrar_ is the Registrar nearest any premises in respect of which an application is made under this Act or any other Registrar that the chief executive considers appropriate for the purposes of the application.
     
-    Section 87: substituted, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 87: replaced, on 1 October 2010, by [section 60][400] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 87(1): amended, on 12 December 2012, by [section 8(1)][402] of the Residential Tenancies Amendment Act 2012 (2012 No 113).
     
@@ -4076,7 +4076,7 @@ The Tenancy Tribunal
     
     Section 88(5): amended, on 1 October 2010, by [section 61(2)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 88(6)(a): substituted, on 1 October 2010, by [section 61(3)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 88(6)(a): replaced, on 1 October 2010, by [section 61(3)][404] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 88(8): inserted, on 14 April 2014, by [section 6][405] of the Residential Tenancies Amendment Act 2011 (2011 No 46).
 
@@ -4130,7 +4130,7 @@ The Tenancy Tribunal
     
     Section 90(2)(d): amended, on 1 May 1996, by [section 35][407] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 90(2)(e): added, on 1 May 1996, by [section 35][407] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 90(2)(e): inserted, on 1 May 1996, by [section 35][407] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 91 Notice of hearing by Tribunal
     
@@ -4194,7 +4194,7 @@ The Tenancy Tribunal
     
     Section 92(1): amended, on 1 May 1996, by [section 36(1)][408] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 92(2): added, on 1 October 2010, by [section 64][410] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 92(2): inserted, on 1 October 2010, by [section 64][410] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 93 Right of audience
     
@@ -4250,7 +4250,7 @@ The Tenancy Tribunal
     
     Section 93(7)(b): amended, on 1 May 1996, by [section 37][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 93(7)(c): added, on 1 May 1996, by [section 37][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 93(7)(c): inserted, on 1 May 1996, by [section 37][412] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 94 Minors and persons under disability
     
@@ -4284,7 +4284,7 @@ The Tenancy Tribunal
     
     and also includes any order made in any such proceedings.
     
-    Section 94(3): substituted, on 1 May 1996, by [section 38][415] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 94(3): replaced, on 1 May 1996, by [section 38][415] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 95 Proceedings usually to be in public
     
@@ -4384,7 +4384,7 @@ The Tenancy Tribunal
     
     Section 99(2): amended, on 1 October 2010, by [section 67(2)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 99(3): added, on 1 October 2010, by [section 67(3)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 99(3): inserted, on 1 October 2010, by [section 67(3)][418] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 100 Tenancy Mediator or Tribunal may require valuer's report in certain proceedings
     
@@ -4392,7 +4392,7 @@ The Tenancy Tribunal
     
     (2) In any case where the Crown or any instrument of the Crown is a party, the registered valuer shall not be an employee of the Crown.
     
-    Section 100: substituted, on 1 May 1996, by [section 40(1)][419] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 100: replaced, on 1 May 1996, by [section 40(1)][419] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 101 Protection of persons appearing, etc
     
@@ -4448,13 +4448,13 @@ The Tenancy Tribunal
     
     Section 102(2)(a): amended, on 1 May 1996, by [section 41(1)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(2)(d): added, on 1 May 1996, by [section 41(2)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 102(2)(d): inserted, on 1 May 1996, by [section 41(2)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(3)(a): substituted, on 1 May 1996, by [section 41(3)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 102(3)(a): replaced, on 1 May 1996, by [section 41(3)][421] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 102(4): added, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 102(4): inserted, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 102(5): added, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 102(5): inserted, on 1 October 2010, by [section 68(2)][420] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 103 Reference of questions of law to High Court
     
@@ -4502,11 +4502,11 @@ The Tenancy Tribunal
     
     (6) The chief executive may advance to any person who seeks to enforce an order pursuant to subsection (1) the amount of any filing fee payable by that person; and, where the chief executive does make any such advance, the amount of the advance shall be recoverable from the other party as a debt due to the Crown.
     
-    Section 107(2): substituted, on 1 May 1996, by [section 42][422] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 107(2): replaced, on 1 May 1996, by [section 42][422] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 107(3): amended, on 1 October 2010, by [section 69][423] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 107(6): substituted, on 18 August 1992, by [section 8][424] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 107(6): replaced, on 18 August 1992, by [section 8][424] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 108 Enforcement of work orders
     
@@ -4550,7 +4550,7 @@ The Tenancy Tribunal
     
     Section 108(5): amended, on 18 August 1992, by [section 9(2)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 108(6): substituted, on 18 August 1992, by [section 9(3)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 108(6): replaced, on 18 August 1992, by [section 9(3)][426] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 109 Unlawful acts
     
@@ -4592,17 +4592,17 @@ The Tenancy Tribunal
     
     Section 109(1): amended, on 18 August 1992, by [section 10(1)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(2): substituted, on 1 May 1996, by [section 43(1)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 109(2): replaced, on 1 May 1996, by [section 43(1)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 109(4): substituted, on 1 October 2010, by [section 71][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 109(4): replaced, on 1 October 2010, by [section 71][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 109(4A): inserted, on 1 October 2010, by [section 71][429] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 109(5): amended, on 18 August 1992, by [section 10(2)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(6): substituted, on 18 August 1992, by [section 10(3)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 109(6): replaced, on 18 August 1992, by [section 10(3)][427] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 109(7): added, on 1 May 1996, by [section 43(3)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 109(7): inserted, on 1 May 1996, by [section 43(3)][428] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 109A Tribunal may restrain further commissions of unlawful acts
     
@@ -4660,7 +4660,7 @@ The Tenancy Tribunal
     
     Compare: 1988 No 110 s 56
     
-    Section 112: substituted, on 1 May 1996, by [section 44][432] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 112: replaced, on 1 May 1996, by [section 44][432] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 112(1): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4804,7 +4804,7 @@ The Tenancy Tribunal
     
 *   The chief executive must ensure that assistance is reasonably available from his or her staff to any person who seeks it in completing any forms required by this Act or any rules made under [section 116][206], or in doing anything in relation to the filing of an application or an appeal against an order of the Tribunal, or the enforcement of an order of the Tribunal.
     
-    Section 113: substituted, on 1 October 2010, by [section 76][435] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 113: replaced, on 1 October 2010, by [section 76][435] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 ##### 114 Powers of entry of Tenancy Mediators
     
@@ -4834,7 +4834,7 @@ The Tenancy Tribunal
     
     Section 114(2): amended, on 1 April 1990, pursuant to [section 105(2)][437] of the Defence Act 1990 (1990 No 28).
     
-    Section 114(6): substituted, on 1 October 2010, by [section 77(1)][438] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 114(6): replaced, on 1 October 2010, by [section 77(1)][438] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 114(7): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4878,7 +4878,7 @@ The Tenancy Tribunal
     
     *   (f) the summoning of witnesses, and the payment of witnesses from public funds or otherwise:
     
-    *   (g) the duties, functions, and powers of chief executive and Tenancy Mediators:
+    *   (g) the duties, functions, and powers of the chief executive and Tenancy Mediators:
     
     *   (h) the transfers of proceedings from the Tribunal to a District Court:
     
@@ -4926,9 +4926,9 @@ The Tenancy Tribunal
     
     Section 117(1A): inserted, on 1 October 2010, by [section 79(1)][441] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 117(2)(b): substituted, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 117(2)(b): replaced, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 117(2)(c): added, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 117(2)(c): inserted, on 1 May 1996, by [section 45][442] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 117(5): amended, on 1 October 2010, by [section 79(2)][441] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
@@ -4971,13 +4971,13 @@ Administration
 
 #### Functions and powers of chief executive
     
-*   Heading: substituted, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+*   Heading: replaced, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 121 Chief executive responsible for administration of Act
     
 *   The chief executive is responsible for the general administration of this Act.
     
-    Section 121: substituted, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 121: replaced, on 18 August 1992, by [section 11][443] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 122 Director-General may delegate powers
     
@@ -5071,7 +5071,7 @@ Administration
     
     Section 124(2): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 124(3): substituted, on 1 May 1996, by [section 46(1)][446] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 124(3): replaced, on 1 May 1996, by [section 46(1)][446] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
     Section 124(4)(a): amended, on 18 August 1992, by [section 19][295] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
@@ -5109,17 +5109,17 @@ Administration
     
     *   (b) the auditor's report on those financial statements.
     
-    Section 126: substituted, on 18 August 1992, by [section 13(1)][448] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 126: replaced, on 18 August 1992, by [section 13(1)][448] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
     Section 126(1): amended, on 1 October 2010, by [section 81][449] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 126(1): amended, on 25 January 2005, by [section 37(1)][450] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 126(2): substituted, on 1 May 1996, by [section 47][451] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 126(2): replaced, on 1 May 1996, by [section 47][451] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 #### Residential Tenancies Trust Account
     
-*   Heading: substituted, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+*   Heading: replaced, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 127 Residential Tenancies Trust Account
     
@@ -5161,7 +5161,7 @@ Administration
     
     (9) All money credited to Part B of the Residential Tenancies Fund immediately before the commencement of the [Residential Tenancies Amendment Act 1992][457] shall be deemed to be the property of the Crown.
     
-    Section 127: substituted, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 127: replaced, on 18 August 1992, by [section 14][452] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
     Section 127(4): amended, on 1 October 2010, by [section 82(1)][458] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -5175,7 +5175,7 @@ Administration
     
     (2) Without limiting subsection (1), the chief executive may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor to be an additional auditor of the Residential Tenancies Trust Account.
     
-    Section 128: substituted, on 1 July 2001, by [section 53][460] of the Public Audit Act 2001 (2001 No 10).
+    Section 128: replaced, on 1 July 2001, by [section 53][460] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 129 Part B of the Fund
     
@@ -5199,7 +5199,7 @@ Administration
     
 *   No money from time to time standing to the credit of the Residential Tenancies Trust Account shall be taken in or be subject to execution, whether by way of garnishee or otherwise, without the written consent of the chief executive.
     
-    Section 132: substituted, on 18 August 1992, by [section 16][462] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 132: replaced, on 18 August 1992, by [section 16][462] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ## Part 5  
 Miscellaneous provisions
@@ -5300,15 +5300,15 @@ Miscellaneous provisions
     
     Compare: Residential Tenancies Act 1978--1981 s 93 (SA)
     
-    Section 136(1)(b): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(b): replaced, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(1)(c): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(c): replaced, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(1)(d): substituted, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(1)(d): replaced, on 1 October 2010, by [section 84(1)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 136(2): substituted, on 1 May 1996, by [section 50(3)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(2): replaced, on 1 May 1996, by [section 50(3)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(2)(c): substituted, on 1 October 2010, by [section 84(2)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+    Section 136(2)(c): replaced, on 1 October 2010, by [section 84(2)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
     Section 136(2A): inserted, on 1 October 2010, by [section 84(3)][465] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
@@ -5318,7 +5318,7 @@ Miscellaneous provisions
     
     Section 136(7): amended, on 1 May 1996, by [section 50(6)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
     
-    Section 136(8): added, on 1 May 1996, by [section 50(7)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
+    Section 136(8): inserted, on 1 May 1996, by [section 50(7)][466] of the Residential Tenancies Amendment Act 1996 (1996 No 7).
 
 ##### 136A Calculation of periods
     
@@ -5406,9 +5406,9 @@ Miscellaneous provisions
     
     Section 140(1)(ea): inserted, on 1 October 2010, by [section 86][469] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
     
-    Section 140(2): added, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 140(2): inserted, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
     
-    Section 140(3): added, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
+    Section 140(3): inserted, on 18 August 1992, by [section 17][470] of the Residential Tenancies Amendment Act 1992 (1992 No 79).
 
 ##### 141 Schedule 1 may be amended by Order in Council
     
@@ -5422,7 +5422,7 @@ Miscellaneous provisions
     
     (2) However, the Tribunal, in exercising its jurisdiction in accordance with [section 85][161] of this Act, may look to [Part 4][472] of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
     
-    Section 142: substituted, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
+    Section 142: replaced, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
 
 ##### 143 Housing Corporation Act 1974 amended
     
@@ -5445,7 +5445,7 @@ Clauses for rent increases in fixed-term tenancy agreements
 
 [s 24(1A)][474]
 
-*   Schedule 1: substituted, on 1 October 2010, by [section 88][475] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
+*   Schedule 1: replaced, on 1 October 2010, by [section 88][475] of the Residential Tenancies Amendment Act 2010 (2010 No 95).
 
 _Select one of the following:_
 
@@ -5820,8 +5820,6 @@ Transitional provisions
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][450]
     
     Corrections Act 2004 (2004 No 50): [section 206][267]
-    
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): section 4(1)
     
     Human Rights Amendment Act 2001 (2001 No 96): [sections 70(1)][372], [71(1)][285]
     
