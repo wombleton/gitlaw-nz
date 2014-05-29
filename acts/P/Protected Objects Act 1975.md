@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -980,7 +980,7 @@ Ngā taonga tūturu ownership and Maori Land Court
     
     (3) Every person who, after the commencement of this Act, finds any taonga tūturu anywhere in New Zealand or within the territorial waters of New Zealand shall, within 28 days of finding the taonga tūturu, notify either the chief executive or the nearest public museum, which shall notify the chief executive, of the finding of the taonga tūturu:
     
-    provided that in the case of any taonga tūturu found during the course of any archaeological investigation authorised by the New Zealand Historic Places Trust under section 44 of the Historic Places Act 1980, the notification shall be made within 28 days of the completion of the field work undertaken in connection with the investigation.
+    provided that in the case of any taonga tūturu found during the course of any archaeological investigation authorised by Heritage New Zealand Pouhere Taonga under [section 48][93] of the Heritage New Zealand Pouhere Taonga Act 2014, the notification shall be made within 28 days of the completion of the field work undertaken in connection with the investigation.
     
     (4) Upon receipt of a notification in accordance with subsection (3), the chief executive must---
         
@@ -1012,47 +1012,47 @@ Ngā taonga tūturu ownership and Maori Land Court
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 11 heading: amended, on 1 November 2006, by [section 16(1)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11 heading: amended, on 1 November 2006, by [section 16(1)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(1): amended, on 1 November 2006, by [section 16(2)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(1): amended, on 1 November 2006, by [section 16(2)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(1) proviso: amended, on 1 November 2006, by [section 16(2)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(1) proviso: amended, on 1 November 2006, by [section 16(2)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(2): amended, on 1 November 2006, by [section 16(3)(a)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(2): amended, on 1 November 2006, by [section 16(3)(a)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(2): amended, on 1 November 2006, by [section 16(3)(b)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(2): amended, on 1 November 2006, by [section 16(3)(b)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(2) proviso: amended, on 1 November 2006, by [section 16(3)(a)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(2) proviso: amended, on 1 November 2006, by [section 16(3)(a)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(2) proviso: amended, on 1 November 2006, by [section 16(3)(c)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(2) proviso: amended, on 1 November 2006, by [section 16(3)(c)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(3): amended, on 1 November 2006, by [section 16(4)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(3): amended, on 1 November 2006, by [section 16(4)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 11(3): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 11(3) proviso: amended, on 1 November 2006, by [section 16(4)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(3) proviso: amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 11(3) proviso: amended, on 1 February 1981, pursuant to section 61 of the Historic Places Act 1980 (1980 No 16).
+    Section 11(3) proviso: amended, on 1 November 2006, by [section 16(4)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(4): substituted, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(4): substituted, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(5): substituted, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(5): substituted, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(6): added, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(6): added, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(7): added, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(7): added, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(8): added, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(8): added, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 11(9): added, on 1 November 2006, by [section 16(5)][93] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 11(9): added, on 1 November 2006, by [section 16(5)][94] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 11(9): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11A Taonga tūturu found in customary marine title area
     
-*   If taonga tūturu are found in a part of the common marine and coastal area for which a customary marine title order has been awarded under the [Marine and Coastal Area (Takutai Moana) Act 2011][94], [section 82][95] of that Act applies to that finding instead of [section 11][36] of this Act, except to the extent that section 11 is expressly applied by section 82 of that Act.
+*   If taonga tūturu are found in a part of the common marine and coastal area for which a customary marine title order has been awarded under the [Marine and Coastal Area (Takutai Moana) Act 2011][96], [section 82][97] of that Act applies to that finding instead of [section 11][36] of this Act, except to the extent that section 11 is expressly applied by section 82 of that Act.
     
-    Section 11A: inserted, on 1 April 2011, by [section 128][96] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 11A: inserted, on 1 April 2011, by [section 128][98] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 12 Maori Land Court's jurisdiction over ngā taonga tūturu
     
@@ -1064,56 +1064,56 @@ Ngā taonga tūturu ownership and Maori Land Court
     
     *   (c) in the case of any taonga tūturu recovered from a grave to determine, if possible, the proper person or persons to hold custody of the taonga tūturu:
     
-    *   (d) to make an order prohibiting any person from dealing with or doing any injury to any taonga tūturu which is the subject-matter of any application to the court, or of any application to the Chief Judge in respect of the exercise of any jurisdiction specially conferred on him or her by [Te Ture Whenua Maori Act 1993][97] or otherwise, if in any case the application has not been finally disposed of by the court or the Chief Judge or the Appellate Court, as the case may be:
+    *   (d) to make an order prohibiting any person from dealing with or doing any injury to any taonga tūturu which is the subject-matter of any application to the court, or of any application to the Chief Judge in respect of the exercise of any jurisdiction specially conferred on him or her by [Te Ture Whenua Maori Act 1993][99] or otherwise, if in any case the application has not been finally disposed of by the court or the Chief Judge or the Appellate Court, as the case may be:
     
     *   (e) to vest in any person or persons as trustee or trustees any taonga tūturu for safekeeping and preservation:
     
     *   (f) to enforce the obligations of the trust (whether by way of an order or otherwise) against any person or persons appointed by the court as trustee or trustees:
     
-    *   (g) to appoint a new trustee or trustees for any taonga tūturu held in trust, under the same conditions as laid down in [section 222][98] of Te Ture Whenua Maori Act 1993\.
+    *   (g) to appoint a new trustee or trustees for any taonga tūturu held in trust, under the same conditions as laid down in [section 222][100] of Te Ture Whenua Maori Act 1993\.
     
     (2) The Maori Land Court shall have jurisdiction to make an order prohibiting any offering for sale, or parting with possession, of any taonga tūturu (whether or not a taonga tūturu to which [section 11][36] applies) by any person if that taonga tūturu is in the power or possession of that person by way of gift according to Māori custom and usage.
     
-    (3) The provisions of [section 19(1)(b)][99] of Te Ture Whenua Maori Act 1993 apply in respect of any matter in respect of which the Maori Land Court has jurisdiction under subsection (1) or subsection (2).
+    (3) The provisions of [section 19(1)(b)][101] of Te Ture Whenua Maori Act 1993 apply in respect of any matter in respect of which the Maori Land Court has jurisdiction under subsection (1) or subsection (2).
     
-    (4) To avoid doubt, [section 30][100] of Te Ture Whenua Maori Act 1993, and any other relevant provision in that Act, applies to any claim for ownership or any appeal lodged under this Act.
+    (4) To avoid doubt, [section 30][102] of Te Ture Whenua Maori Act 1993, and any other relevant provision in that Act, applies to any claim for ownership or any appeal lodged under this Act.
     
-    Section 12 heading: amended, on 1 November 2006, by [section 17(1)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12 heading: amended, on 1 November 2006, by [section 17(1)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1): amended, on 1 November 2006, by [section 17(2)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1): amended, on 1 November 2006, by [section 17(2)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(a): amended, on 1 November 2006, by [section 17(3)(a)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(a): amended, on 1 November 2006, by [section 17(3)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(a): amended, on 1 November 2006, by [section 17(3)(b)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(a): amended, on 1 November 2006, by [section 17(3)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(b): amended, on 1 November 2006, by [section 17(4)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(b): amended, on 1 November 2006, by [section 17(4)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(c): amended, on 1 November 2006, by [section 17(5)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(c): amended, on 1 November 2006, by [section 17(5)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(d): amended, on 1 November 2006, by [section 17(6)(a)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(d): amended, on 1 November 2006, by [section 17(6)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(d): amended, on 1 November 2006, by [section 17(6)(b)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(d): amended, on 1 November 2006, by [section 17(6)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(e): amended, on 1 November 2006, by [section 17(7)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(e): amended, on 1 November 2006, by [section 17(7)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(g): amended, on 1 November 2006, by [section 17(8)(a)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(g): amended, on 1 November 2006, by [section 17(8)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(1)(g): amended, on 1 November 2006, by [section 17(8)(b)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(1)(g): amended, on 1 November 2006, by [section 17(8)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(2): amended, on 1 November 2006, by [section 17(9)(a)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(2): amended, on 1 November 2006, by [section 17(9)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(2): amended, on 1 November 2006, by [section 17(9)(b)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(2): amended, on 1 November 2006, by [section 17(9)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(2): amended, on 1 November 2006, by [section 17(9)(c)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(2): amended, on 1 November 2006, by [section 17(9)(c)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(3): amended, on 1 November 2006, by [section 17(10)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(3): amended, on 1 November 2006, by [section 17(10)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 12(4): added, on 1 November 2006, by [section 17(11)][101] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 12(4): added, on 1 November 2006, by [section 17(11)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ## Part 3  
 Miscellaneous
     
-*   Part 3 heading: inserted, on 1 November 2006, by [section 18][102] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Part 3 heading: inserted, on 1 November 2006, by [section 18][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 13 Disposal of ngā taonga tūturu
     
@@ -1135,33 +1135,33 @@ Miscellaneous
     
     (6) Where any taonga tūturu is forfeited to the Crown pursuant to this section, it shall be delivered to the Minister and retained in safe custody according to his or her directions.
     
-    Section 13 heading: amended, on 1 November 2006, by [section 19(1)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13 heading: amended, on 1 November 2006, by [section 19(1)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(1): amended, on 1 November 2006, by [section 19(2)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(1): amended, on 1 November 2006, by [section 19(2)(a)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(1): amended, on 1 November 2006, by [section 19(2)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(1): amended, on 1 November 2006, by [section 19(2)(b)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(2): amended, on 1 November 2006, by [section 19(3)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(2): amended, on 1 November 2006, by [section 19(3)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 13(2): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 13(3): amended, on 1 November 2006, by [section 19(4)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(3): amended, on 1 November 2006, by [section 19(4)(a)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(3): amended, on 1 November 2006, by [section 19(4)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(3): amended, on 1 November 2006, by [section 19(4)(b)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(3): amended, on 1 November 2006, by [section 19(4)(c)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(3): amended, on 1 November 2006, by [section 19(4)(c)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 13(3): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 13(4): substituted, on 1 November 2006, by [section 19(5)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(4): substituted, on 1 November 2006, by [section 19(5)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 13(4): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 13(5): amended, on 1 November 2006, by [section 19(6)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(5): amended, on 1 November 2006, by [section 19(6)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(6): amended, on 1 November 2006, by [section 19(7)(a)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(6): amended, on 1 November 2006, by [section 19(7)(a)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 13(6): amended, on 1 November 2006, by [section 19(7)(b)][103] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 13(6): amended, on 1 November 2006, by [section 19(7)(b)][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 14 Registration of collectors
     
@@ -1171,7 +1171,7 @@ Miscellaneous
         
     *   (a) who is not ordinarily resident in New Zealand; or
     
-    *   (b) who has been convicted of an offence against any provision of this Act or of the Historic Places Act 1980\.
+    *   (b) who has been convicted of an offence against any provision of this Act or of the [Heritage New Zealand Pouhere Taonga Act 2014][106].
     
     (3) It shall be a condition of registration of any person as a registered collector that---
         
@@ -1185,7 +1185,7 @@ Miscellaneous
     
     (4) Every application for registration as a collector of ngā taonga tūturu shall be in the form provided by the chief executive, and, where registration is granted by the chief executive to any person, a certificate of registration shall be issued to the applicant under the hand of the chief executive.
     
-    (5) The chief executive shall revoke the registration of any registered collector who is convicted of an offence against this Act or the Historic Places Act 1980\.
+    (5) The chief executive shall revoke the registration of any registered collector who is convicted of an offence against this Act or the [Heritage New Zealand Pouhere Taonga Act 2014][106].
     
     (6) Every person commits an offence who,---
         
@@ -1205,47 +1205,47 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 14(1): amended, on 1 November 2006, by [section 20(1)(a)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(1): amended, on 1 November 2006, by [section 20(1)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 14(1): amended, on 1 November 2006, by [section 20(1)(b)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(1): amended, on 1 November 2006, by [section 20(1)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 14(1): amended, on 1 November 2006, by [section 20(1)(c)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(1): amended, on 1 November 2006, by [section 20(1)(c)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(1): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(2): amended, on 1 November 2006, by [section 20(2)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(2): amended, on 1 November 2006, by [section 20(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(2): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(2)(b): amended, on 1 February 1981, pursuant to section 61 of the Historic Places Act 1980 (1980 No 16).
+    Section 14(2)(b): amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 14(3)(a): amended, on 1 November 2006, by [section 20(3)(a)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(3)(a): amended, on 1 November 2006, by [section 20(3)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 14(3)(b): amended, on 1 November 2006, by [section 20(3)(b)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(3)(b): amended, on 1 November 2006, by [section 20(3)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(3)(b): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(3)(c): amended, on 1 November 2006, by [section 20(3)(a)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(3)(c): amended, on 1 November 2006, by [section 20(3)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 14(3)(c): amended, on 1 November 2006, by [section 20(3)(c)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(3)(c): amended, on 1 November 2006, by [section 20(3)(c)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(3)(c): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(3)(d): amended, on 1 November 2006, by [section 20(3)(c)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(3)(d): amended, on 1 November 2006, by [section 20(3)(c)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(3)(d): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(4): amended, on 1 November 2006, by [section 20(4)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(4): amended, on 1 November 2006, by [section 20(4)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(4): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
+    Section 14(5): amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    
     Section 14(5): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 14(5): amended, on 1 February 1981, pursuant to section 61 of the Historic Places Act 1980 (1980 No 16).
+    Section 14(6): substituted, on 1 November 2006, by [section 20(5)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 14(6): substituted, on 1 November 2006, by [section 20(5)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
-    
-    Section 14(7): added, on 1 November 2006, by [section 20(5)][104] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14(7): added, on 1 November 2006, by [section 20(5)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14(7): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1259,7 +1259,7 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
-    Section 14A: inserted, on 1 November 2006, by [section 21][105] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 14A: inserted, on 1 November 2006, by [section 21][108] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 14A(2): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1293,9 +1293,9 @@ Miscellaneous
     
     (5) The chief executive shall revoke the licence of any licensed auctioneer or licensed secondhand dealer---
         
-    *   (a) who is convicted of an offence against this Act or the Historic Places Act 1980; or
+    *   (a) who is convicted of an offence against this Act or the [Heritage New Zealand Pouhere Taonga Act 2014][106]; or
     
-    *   (b) who ceases to be an auctioneer licensed under the [Auctioneers Act 1928][106] or, as the case may be, a secondhand dealer licensed under the [Secondhand Dealers and Pawnbrokers Act 2004][63].
+    *   (b) who ceases to be an auctioneer licensed under the [Auctioneers Act 1928][109] or, as the case may be, a secondhand dealer licensed under the [Secondhand Dealers and Pawnbrokers Act 2004][63].
     
     (6) Every person commits an offence who,---
         
@@ -1309,59 +1309,59 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 15(1): amended, on 1 November 2006, by [section 22(1)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(1): amended, on 1 November 2006, by [section 22(1)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(1): amended, on 1 November 2006, by [section 22(1)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(1): amended, on 1 November 2006, by [section 22(1)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 15(1): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 15(2)(a): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(a): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(a): amended, on 1 November 2006, by [section 22(3)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(a): amended, on 1 November 2006, by [section 22(3)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(a): amended, on 1 November 2006, by [section 22(3)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(a): amended, on 1 November 2006, by [section 22(3)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(b): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(b): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(b): amended, on 1 November 2006, by [section 22(4)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(b): amended, on 1 November 2006, by [section 22(4)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(b): amended, on 1 November 2006, by [section 22(4)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(b): amended, on 1 November 2006, by [section 22(4)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(c): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(c): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(c): amended, on 1 November 2006, by [section 22(5)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(c): amended, on 1 November 2006, by [section 22(5)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(c) proviso: amended, on 1 November 2006, by [section 22(5)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(c) proviso: amended, on 1 November 2006, by [section 22(5)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(c) proviso: amended, on 1 November 2006, by [section 22(5)(c)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(c) proviso: amended, on 1 November 2006, by [section 22(5)(c)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(d): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(d): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(d): amended, on 1 November 2006, by [section 22(6)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(d): amended, on 1 November 2006, by [section 22(6)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(d): amended, on 1 November 2006, by [section 22(6)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(d): amended, on 1 November 2006, by [section 22(6)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(e): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(e): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(e): amended, on 1 November 2006, by [section 22(7)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(e): amended, on 1 November 2006, by [section 22(7)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 15(2)(e): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 15(2)(f): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(f): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(f): amended, on 1 November 2006, by [section 22(8)(a)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(f): amended, on 1 November 2006, by [section 22(8)(a)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(f): amended, on 1 November 2006, by [section 22(8)(b)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(f): amended, on 1 November 2006, by [section 22(8)(b)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(f): amended, on 1 July 1992, pursuant to [section 34][108] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
+    Section 15(2)(f): amended, on 1 July 1992, pursuant to [section 34][111] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
     
-    Section 15(2)(g): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(g): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 15(2)(g): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 15(2)(h): amended, on 1 November 2006, by [section 22(2)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(h): amended, on 1 November 2006, by [section 22(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(2)(h): amended, on 1 November 2006, by [section 22(9)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(2)(h): amended, on 1 November 2006, by [section 22(9)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 15(2)(h): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
@@ -1371,13 +1371,13 @@ Miscellaneous
     
     Section 15(5): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 15(5)(a): amended, on 1 February 1981, pursuant to section 61 of the Historic Places Act 1980 (1980 No 16).
+    Section 15(5)(a): amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
     Section 15(5)(b): amended, on 1 April 2005, by [section 89][68] of the Secondhand Dealers and Pawnbrokers Act 2004 (2004 No 70).
     
-    Section 15(6): substituted, on 1 November 2006, by [section 22(10)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(6): substituted, on 1 November 2006, by [section 22(10)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 15(7): added, on 1 November 2006, by [section 22(10)][107] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 15(7): added, on 1 November 2006, by [section 22(10)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 15(7): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1399,21 +1399,21 @@ Miscellaneous
     
     commits an offence, and shall be liable on conviction, in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu or, in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 16(1): amended, on 1 November 2006, by [section 23(1)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(1): amended, on 1 November 2006, by [section 23(1)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 16(2): amended, on 1 November 2006, by [section 23(2)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(2): amended, on 1 November 2006, by [section 23(2)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 16(3): amended, on 1 November 2006, by [section 23(3)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(3): amended, on 1 November 2006, by [section 23(3)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 16(3): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
     Section 16(4): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 16(4): amended, on 1 November 2006, by [section 23(5)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(4): amended, on 1 November 2006, by [section 23(5)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 16(4)(a): amended, on 1 November 2006, by [section 23(4)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(4)(a): amended, on 1 November 2006, by [section 23(4)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 16(4)(b): amended, on 1 November 2006, by [section 23(4)][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 16(4)(b): amended, on 1 November 2006, by [section 23(4)][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 17 Disclosure of information
     
@@ -1425,11 +1425,11 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 17(1): amended, on 1 November 2006, by [section 24(1)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 17(1): amended, on 1 November 2006, by [section 24(1)][113] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 17(1): amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 17(2): substituted, on 1 November 2006, by [section 24(2)][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 17(2): substituted, on 1 November 2006, by [section 24(2)][113] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 17(2): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1443,11 +1443,11 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
     
-    Section 18 heading: amended, on 1 November 2006, by [section 25(1)][111] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 18 heading: amended, on 1 November 2006, by [section 25(1)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 18(1): amended, on 1 November 2006, by [section 25(2)][111] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 18(1): amended, on 1 November 2006, by [section 25(2)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 18(2): substituted, on 1 November 2006, by [section 25(3)][111] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 18(2): substituted, on 1 November 2006, by [section 25(3)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 18(2): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1459,7 +1459,7 @@ Miscellaneous
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each object.
     
-    Section 18A: inserted, on 1 November 2006, by [section 26][112] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 18A: inserted, on 1 November 2006, by [section 26][115] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 18A: amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1467,7 +1467,7 @@ Miscellaneous
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 November 2006, by [section 27][113] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 19: repealed, on 1 November 2006, by [section 27][116] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 20 Annual report
     
@@ -1475,11 +1475,11 @@ Miscellaneous
     
     Compare: 1962 No 37 s 14
     
-    Section 20: amended, on 1 November 2006, by [section 28(a)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 20: amended, on 1 November 2006, by [section 28(a)][117] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 20: amended, on 1 November 2006, by [section 28(b)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 20: amended, on 1 November 2006, by [section 28(b)][117] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 20: amended, on 1 November 2006, by [section 28(c)][114] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 20: amended, on 1 November 2006, by [section 28(c)][117] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 20: amended, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 
@@ -1489,7 +1489,7 @@ Miscellaneous
     
     Compare: 1962 No 37 s 15
     
-    Section 21: amended, on 1 November 2006, by [section 29][115] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 21: amended, on 1 November 2006, by [section 29][118] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 22 Regulations
     
@@ -1529,17 +1529,17 @@ Miscellaneous
     
     Compare: 1962 No 37 s 16
     
-    Section 22: substituted, on 1 November 2006, by [section 30][116] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 22: substituted, on 1 November 2006, by [section 30][119] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 23 Consequential amendments
     
-*   _Amendment(s) incorporated in the [Act(s)][117]._
+*   _Amendment(s) incorporated in the [Act(s)][120]._
 
 ##### 24 Repeals
     
 *   The following enactments are hereby consequentially repealed:
         
-    *   (a) _amendment(s) incorporated in the [Act(s)][118]_:
+    *   (a) _amendment(s) incorporated in the [Act(s)][121]_:
     
     *   (b) the Historic Articles Act 1962\.
     
@@ -1552,7 +1552,7 @@ Authorised public museums
 
 [s 2][4]
 
-*   Schedule number: amended, on 1 November 2006, by [section 31][119] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Schedule number: amended, on 1 November 2006, by [section 31][122] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 Auckland War Memorial Museum, Auckland.
 
@@ -1562,8 +1562,8 @@ Canterbury Museum, Christchurch.
 
 Otago Museum, Dunedin.
     
-*   Schedule 1 Auckland Institute and Museum, Auckland: repealed, on 2 September 1996, by [section 32(3)][120] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
-*   Schedule 1 Auckland War Memorial Museum, Auckland: inserted, on 2 September 1996, by [section 32(3)][120] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
+*   Schedule 1 Auckland Institute and Museum, Auckland: repealed, on 2 September 1996, by [section 32(3)][123] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
+*   Schedule 1 Auckland War Memorial Museum, Auckland: inserted, on 2 September 1996, by [section 32(3)][123] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
 *   Schedule 1 Museum of New Zealand Te Papa Tongarewa, Wellington: inserted, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 *   Schedule 1 National Museum, Wellington: repealed, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 
@@ -1574,7 +1574,7 @@ UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import,
 
 [s 2(1)][4]
 
-*   Schedule 2: added, on 1 November 2006, by [section 32][121] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Schedule 2: added, on 1 November 2006, by [section 32][124] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 #### Done at Paris, 14 November 1970
 
@@ -1839,7 +1839,7 @@ UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects
 
 [s 2(1)][4]
 
-*   Schedule 3: added, on 1 November 2006, by [section 32][121] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Schedule 3: added, on 1 November 2006, by [section 32][124] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 #### **(Rome, 24 June 1995)**
 
@@ -2180,7 +2180,7 @@ Categories of protected New Zealand objects
 
 [s 2(1)][4]
 
-*   Schedule 4: added, on 1 November 2006, by [section 32][121] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Schedule 4: added, on 1 November 2006, by [section 32][124] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 1 Archaeological, ethnographic, and historical objects of non-New Zealand origin, relating to New Zealand
     
@@ -2288,7 +2288,7 @@ Categories of protected New Zealand objects
         
         *   (ii) any unique document or collection of unique documents not less than 50 years old; or
         
-        *   (iii) a public record and a protected record as defined by the [Public Records Act 2005][122].
+        *   (iii) a public record and a protected record as defined by the [Public Records Act 2005][125].
         
         
     
@@ -2346,7 +2346,9 @@ Categories of protected New Zealand objects
 
 ##### 6 New Zealand archaeological objects
     
-*   This category consists of any objects, assemblages, scientific samples, and organic remains derived from a New Zealand archaeological site, as defined by the [Historic Places Act 1993][123].
+*   This category consists of any objects, assemblages, scientific samples, and organic remains derived from a New Zealand archaeological site, as defined by the [Heritage New Zealand Pouhere Taonga Act 2014][106].
+    
+    Schedule 4 clause 6: amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 7 Numismatic and philatelic objects
     
@@ -2516,19 +2518,21 @@ Categories of protected New Zealand objects
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][125] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][126] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][127] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][126] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][128] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][129] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][65]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][95]
+    
+    Auctioneers Act 2013 (2013 No 148): [section 28(3)][65]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][71]
     
-    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][96]
+    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][98]
     
     Limitation Act 2010 (2010 No 110): [section 58][91]
     
@@ -2540,15 +2544,13 @@ Categories of protected New Zealand objects
     
     Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][67]
     
-    Auckland War Memorial Museum Act 1996 (1996 No 4 (L)): [section 32(3)][120]
+    Auckland War Memorial Museum Act 1996 (1996 No 4 (L)): [section 32(3)][123]
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][86]
     
     Copyright Act 1994 (1994 No 143): [section 236(1)][74]
     
-    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 34][108]
-    
-    Historic Places Act 1980 (1980 No 16): section 61
+    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 34][111]
 
 
 
@@ -2645,38 +2647,40 @@ Categories of protected New Zealand objects
 [90]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2033100
 [91]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2033287
 [92]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376278
-[93]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376280
-[94]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213102
-[95]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213407
-[96]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213476
-[97]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM289881
-[98]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM292101
-[99]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM290549
-[100]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM290757
-[101]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376282
-[102]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376283
-[103]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376285
-[104]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376286
-[105]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376287
-[106]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM205305
-[107]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376289
-[108]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM260281
-[109]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376290
-[110]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376291
-[111]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376292
-[112]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376293
-[113]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376295
-[114]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376296
-[115]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376297
-[116]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376298
-[117]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM387126
-[118]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM278106
-[119]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376600
-[120]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM83638
-[121]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376601
-[122]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM345528
-[123]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM300510
-[124]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998516
-[125]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998515
-[126]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998532
-[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[93]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM4005568
+[94]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376280
+[95]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM4005646
+[96]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213102
+[97]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213407
+[98]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM3213476
+[99]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM289881
+[100]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM292101
+[101]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM290549
+[102]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM290757
+[103]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376282
+[104]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376283
+[105]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376285
+[106]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM4005402
+[107]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376286
+[108]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376287
+[109]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM205305
+[110]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376289
+[111]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM260281
+[112]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376290
+[113]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376291
+[114]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376292
+[115]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376293
+[116]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376295
+[117]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376296
+[118]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376297
+[119]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376298
+[120]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM387126
+[121]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM278106
+[122]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376600
+[123]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM83638
+[124]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM376601
+[125]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM345528
+[126]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998516
+[127]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998515
+[128]: http://www.legislation.govt.nz/act/public/1975/0041/latest/link.aspx?id=DLM2998532
+[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
