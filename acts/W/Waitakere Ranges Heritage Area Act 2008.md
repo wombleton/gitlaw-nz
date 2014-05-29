@@ -1,7 +1,7 @@
 Reprint  
-as at 1 November 2010
+as at 20 May 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Waitakere Ranges Heritage Area Act 2008Local Act2008 No 1
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -23,98 +23,98 @@ A general outline of these changes is set out in the notes at the end of this re
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
 [Part 1][4]  
 [Preliminary provisions][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
 [Part 2][7]  
 [Heritage area, heritage features, planning requirements, etc][7]
 
-[5][8] [Waitakere Ranges heritage area established][8]
+[5][8][][8][Waitakere Ranges heritage area established][8]
 
-[6][9] [Boundary extension by Order in Council][9]
+[6][9][][9][Boundary extension by Order in Council][9]
 
-[7][10] [National significance and heritage features of heritage area][10]
+[7][10][][10][National significance and heritage features of heritage area][10]
 
-[8][11] [Heritage area objectives][11]
+[8][11][][11][Heritage area objectives][11]
 
 [Matters relating to Resource Management Act 1991][12]
 
-[9][13] [Relationship between this Act and Resource Management Act 1991][13]
+[9][13][][13][Relationship between this Act and Resource Management Act 1991][13]
 
-[10][14] [Regional policy statements and regional plans][14]
+[10][14][][14][Regional policy statements and regional plans][14]
 
-[11][15] [District plans][15]
+[11][15][][15][District plans][15]
 
-[12][16] [Requests for plan changes][16]
+[12][16][][16][Requests for plan changes][16]
 
-[13][17] [Resource consents][17]
+[13][17][][17][Resource consents][17]
 
-[14][18] [Conditions on resource consents][18]
+[14][18][][18][Conditions on resource consents][18]
 
-[15][19] [Designations and heritage orders][19]
+[15][19][][19][Designations and heritage orders][19]
 
-[16][20] [Applications for declarations][20]
+[16][20][][20][Applications for declarations][20]
 
 [Matters relating to Local Government Acts 2002 and 1974][21]
 
-[17][22] [Application of section 77 of Local Government Act 2002 to this Act][22]
+[17][22][][22][Application of section 77 of Local Government Act 2002 to this Act][22]
 
-[18][23] [Auckland spatial plan][23]
+[18][23][][23][Auckland spatial plan][23]
 
-[19][24] [Management plan for Waitakere Ranges Regional Park][24]
+[19][24][][24][Management plan for Waitakere Ranges Regional Park][24]
 
-[20][25] [Management plan must be reviewed every 10 years][25]
+[20][25][][25][Management plan must be reviewed every 10 years][25]
 
-[21][26] [Watercare Services Limited][26] \[Repealed\]
+[21][26][][26][Watercare Services Limited][26] \[Repealed\]
 
 [Matters relating to other enactments][27]
 
-[22][28] [Council must have particular regard to purpose and objectives of this Act when acting under Schedule 3 enactments][28]
+[22][28][][28][Council must have particular regard to purpose and objectives of this Act when acting under Schedule 3 enactments][28]
 
-[23][29] [Waitakere Ranges heritage area covenants][29]
+[23][29][][29][Waitakere Ranges heritage area covenants][29]
 
-[24][30] [Relationship between this Act and Foreshore and Seabed Act 2004][30]
+[24][30][][30][Relationship between this Act and Foreshore and Seabed Act 2004][30]
 
 [Local area plans][31]
 
-[25][32] [Local area plans][32]
+[25][32][][32][Local area plans][32]
 
-[26][33] [Preparation, amendment, revocation, and replacement of LAPs][33]
+[26][33][][33][Preparation, amendment, revocation, and replacement of LAPs][33]
 
-[27][34] [Effect of LAP][34]
+[27][34][][34][Effect of LAP][34]
 
-[28][35] [Relationship between LAP and Resource Management Act 1991][35]
+[28][35][][35][Relationship between LAP and Resource Management Act 1991][35]
 
 [Deeds of acknowledgement][36]
 
-[29][37] [Acknowledgement of tangata whenua relationship][37]
+[29][37][][37][Acknowledgement of tangata whenua relationship][37]
 
-[30][38] [Purpose and effect of deed of acknowledgement][38]
+[30][38][][38][Purpose and effect of deed of acknowledgement][38]
 
-[31][39] [May be more than one deed of acknowledgement for same land][39]
+[31][39][][39][May be more than one deed of acknowledgement for same land][39]
 
-[32][40] [Notice of deed of acknowledgement][40]
+[32][40][][40][Notice of deed of acknowledgement][40]
 
 [Consultation processes with tangata whenua][41]
 
-[33][42] [Consultation processes with tangata whenua][42]
+[33][42][][42][Consultation processes with tangata whenua][42]
 
 [Part 3][43]  
 [Miscellaneous provisions][43]
 
-[34][44] [Council must monitor and report on certain matters relating to heritage area][44]
+[34][44][][44][Council must monitor and report on certain matters relating to heritage area][44]
 
-[35][45] [Preservation of existing rights][45]
+[35][45][][45][Preservation of existing rights][45]
 
-[36][46] [Transitional provisions][46]
+[36][46][][46][Transitional provisions][46]
 
 [Schedule 1][47]  
 [Indicative map of Waitakere Ranges heritage area][47]
@@ -889,80 +889,41 @@ Biosecurity Act 1993 ([Part 5][90])
 
 [Hauraki Gulf Marine Park Act 2000][91]
 
-[Historic Places Act 1993][92]
+[Heritage New Zealand Pouhere Taonga Act 2014][92]
 
 [Reserves Act 1977][93]
 
 [Soil Conservation and Rivers Control Act 1941][94]
 
----
+*   Schedule 3: amended, on 20 May 2014, by [section 107][95] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Waitakere Ranges Heritage Area Act 2008\. The reprint incorporates all the amendments to the Act as at 1 November 2010, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][95] ![](/images/external_link.gif).
+*   This is a reprint of the Waitakere Ranges Heritage Area Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][96] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][96] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][97] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][97] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][98] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][99] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][98] and [17E][99] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][95]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][50]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][50]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/2008/0001/latest/whole.html#DLM1076037
 [2]: http://www.legislation.govt.nz/act/local/2008/0001/latest/whole.html#DLM1076040
 [3]: http://www.legislation.govt.nz/act/local/2008/0001/latest/whole.html#DLM1076041
@@ -1054,11 +1015,11 @@ Biosecurity Act 1993 ([Part 5][90])
 [89]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM242504
 [90]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM315367
 [91]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM52557
-[92]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM300510
+[92]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM4005402
 [93]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM444304
 [94]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM230364
-[95]: http://www.pco.parliament.govt.nz/reprints/
-[96]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM195439
-[97]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[98]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM195468
-[99]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM195470
+[95]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM4005646
+[96]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM2998516
+[97]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM2998515
+[98]: http://www.legislation.govt.nz/act/local/2008/0001/latest/link.aspx?id=DLM2998532
+[99]: http://www.pco.parliament.govt.nz/editorial-conventions/
