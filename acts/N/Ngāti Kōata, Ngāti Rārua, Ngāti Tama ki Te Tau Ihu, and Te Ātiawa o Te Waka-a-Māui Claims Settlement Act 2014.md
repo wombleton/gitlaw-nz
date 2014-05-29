@@ -4531,7 +4531,7 @@ Commercial redress
 
 ##### 177 Interpretation
     
-*   (1) In this subpart, _protected site_ means any area of land situated in a licensed property or in the unlicensed land that is---
+*   (1) In this subpart, _protected site_ means any area of land situated in a licensed property or in the unlicensed land that---
         
     *   (a) is a wāhi tapu or wāhi tapu area within the meaning of [section 6][361] of the Heritage New Zealand Pouhere Taonga Act 2014; and
     
