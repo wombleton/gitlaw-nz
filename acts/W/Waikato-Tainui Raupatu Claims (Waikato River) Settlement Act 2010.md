@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -911,7 +911,7 @@ Settlement redress through legislation
     
     *   (d) [Health Act 1956][178]:
     
-    *   (e) [Historic Places Act 1993][179]:
+    *   (e) [Heritage New Zealand Pouhere Taonga Act 2014:][179]
     
     *   (f) [Land Drainage Act 1908][180]:
     
@@ -931,7 +931,7 @@ Settlement redress through legislation
     
     *   (n) [Walking Access Act 2008][188].
     
-    
+    Section 17(7)(e): replaced, on 20 May 2014, by [section 107][189] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### Reviews
 
@@ -1069,7 +1069,7 @@ Settlement redress through legislation
     
     *   (b) the Authority's capacity, rights, powers, and privileges are subject to this Act, other enactments, and the common law.
     
-    (2) The Authority may prescribe a fee for the purposes of [clause 16(3)][189] of Schedule 6\.
+    (2) The Authority may prescribe a fee for the purposes of [clause 16(3)][190] of Schedule 6\.
 
 #### Resource consent functions
 
@@ -1097,7 +1097,7 @@ Settlement redress through legislation
     
     *   (b) to be allowed to make a point source discharge to the Waikato River:
     
-    *   (c) to do any activity listed in [section 13][190] of the Resource Management Act 1991 in relation to the Waikato River.
+    *   (c) to do any activity listed in [section 13][191] of the Resource Management Act 1991 in relation to the Waikato River.
     
     
 
@@ -1123,7 +1123,7 @@ Settlement redress through legislation
 
 ##### 29 Call-ins
     
-*   (1) This section applies if an application is called in and referred to a board of inquiry under [Part 6AA][191] of the Resource Management Act 1991\.
+*   (1) This section applies if an application is called in and referred to a board of inquiry under [Part 6AA][192] of the Resource Management Act 1991\.
     
     (2) As soon as practicable, the Environmental Protection Authority must serve notice on the Authority of the decision to call in the application.
     
@@ -1137,15 +1137,15 @@ Settlement redress through legislation
     
     *   (b) the same number of other persons; and
     
-    *   (c) a chairperson appointed under [section 149J(3)(b)][192] of the Resource Management Act 1991\.
+    *   (c) a chairperson appointed under [section 149J(3)(b)][193] of the Resource Management Act 1991\.
     
     (6) The Authority and the Minister must discuss the persons to be appointed to the board with a view to ensuring that the board contains members with an appropriate mix of skills, expertise, and experience.
     
-    (7) Persons appointed under subsection (5) must be treated in the same manner as persons appointed under [section 149J][192] of the Resource Management Act 1991\.
+    (7) Persons appointed under subsection (5) must be treated in the same manner as persons appointed under [section 149J][193] of the Resource Management Act 1991\.
 
 ##### 30 Section 100A of Resource Management Act 1991
     
-*   (1) This section applies if the Council receives a request under [section 100A][193] of the Resource Management Act 1991 to delegate the hearing of an application to a commissioner or commissioners.
+*   (1) This section applies if the Council receives a request under [section 100A][194] of the Resource Management Act 1991 to delegate the hearing of an application to a commissioner or commissioners.
     
     (2) The Council must delegate the hearing duties, functions, and powers only of the persons it must appoint under [section 28(2)(a)][40]. It must not delegate the hearing duties, functions, and powers of the persons whom the Authority must appoint under section 28(2)(b).
     
@@ -1153,17 +1153,17 @@ Settlement redress through legislation
     
     (4) The commissioners delegated to hear the application are---
         
-    *   (a) the commissioners to whom the Council delegates hearing duties, functions, and powers under subsection (2), who are appointed under [section 100A][193] of the Resource Management Act 1991; and
+    *   (a) the commissioners to whom the Council delegates hearing duties, functions, and powers under subsection (2), who are appointed under [section 100A][194] of the Resource Management Act 1991; and
     
-    *   (b) the persons whom the Authority appoints under [section 28(2)(b)][40], who are deemed to be appointed under [section 100A][193] of the Resource Management Act 1991; and
+    *   (b) the persons whom the Authority appoints under [section 28(2)(b)][40], who are deemed to be appointed under [section 100A][194] of the Resource Management Act 1991; and
     
-    *   (c) the independent chairperson appointed under [section 28(2)(c)][40], who is deemed to be appointed under [section 100A][193] of the Resource Management Act 1991\.
+    *   (c) the independent chairperson appointed under [section 28(2)(c)][40], who is deemed to be appointed under [section 100A][194] of the Resource Management Act 1991\.
     
     
 
 ##### 31 Section 147(1)(c) of Resource Management Act 1991
     
-*   [Section 28][40] applies if an application is lodged with the Environmental Protection Authority under [section 145][194] of the Resource Management Act 1991 and a direction is made under [section 147(1)(c)][195] of the Act to refer the matter to the Council.
+*   [Section 28][40] applies if an application is lodged with the Environmental Protection Authority under [section 145][195] of the Resource Management Act 1991 and a direction is made under [section 147(1)(c)][196] of the Act to refer the matter to the Council.
 
 #### Waikato River Clean-up Trust function
 
@@ -1177,7 +1177,7 @@ Settlement redress through legislation
     
     (4) The terms of the trust are set out in [Schedule 5][128].
     
-    (5) The trustee of the trust is deemed to satisfy the requirements of [section CW 41(5)(a)][196] of the Income Tax Act 2007\.
+    (5) The trustee of the trust is deemed to satisfy the requirements of [section CW 41(5)(a)][197] of the Income Tax Act 2007\.
 
 #### Administrative provisions
 
@@ -1249,11 +1249,11 @@ Settlement redress through legislation
     
     (2) The conservation component is, for the purposes of the [Conservation Act 1987][137],---
         
-    *   (a) a conservation management plan under [section 17E][197]; and
+    *   (a) a conservation management plan under [section 17E][198]; and
     
-    *   (b) a freshwater fisheries management plan under [section 17J][198].
+    *   (b) a freshwater fisheries management plan under [section 17J][199].
     
-    (3) The fisheries component is a fisheries plan under [section 11A][199] of the Fisheries Act 1996\.
+    (3) The fisheries component is a fisheries plan under [section 11A][200] of the Fisheries Act 1996\.
     
     (4) The regional council component means that a relevant local authority that is preparing, reviewing, or changing a [Resource Management Act 1991][136] planning document must have regard to the plan.
     
@@ -1295,9 +1295,9 @@ Settlement redress through legislation
     
 *   (1) A local authority served under [section 39(2)(b)][56] preparing, reviewing, or changing a [Resource Management Act 1991][136] planning document must recognise the Waikato-Tainui environmental plan in the same manner as would be required under the Resource Management Act 1991 for any planning document recognised by an iwi authority.
     
-    (2) A consent authority considering an application for a resource consent under [section 104][200] of the Resource Management Act 1991 must have regard to the Waikato-Tainui environmental plan, if it considers that section 104(1)(c) applies to the plan.
+    (2) A consent authority considering an application for a resource consent under [section 104][201] of the Resource Management Act 1991 must have regard to the Waikato-Tainui environmental plan, if it considers that section 104(1)(c) applies to the plan.
     
-    (3) A person carrying out functions or exercising powers under [sections 12 to 14][201] of the Fisheries Act 1996 must recognise and provide for the Waikato-Tainui environmental plan to the extent to which its contents relate to the functions or powers.
+    (3) A person carrying out functions or exercising powers under [sections 12 to 14][202] of the Fisheries Act 1996 must recognise and provide for the Waikato-Tainui environmental plan to the extent to which its contents relate to the functions or powers.
     
     (4) A person carrying out functions or exercising powers under the conservation legislation in relation to the Waikato River and its catchment must have particular regard to the Waikato-Tainui environmental plan to the extent to which its contents relate to the functions or powers.
 
@@ -1335,7 +1335,7 @@ Settlement redress through legislation
     
     *   (b) preparation, review, change, or variation of a [Resource Management Act 1991][136] planning document, under [section 46][64]:
     
-    *   (c) duties, functions, or powers under [Part 6][202] of the Resource Management Act 1991 in relation to applications for resource consents, under [section 47][65].
+    *   (c) duties, functions, or powers under [Part 6][203] of the Resource Management Act 1991 in relation to applications for resource consents, under [section 47][65].
     
     
 
@@ -1371,15 +1371,15 @@ Settlement redress through legislation
         
     *   (a) meet no less than twice each year to---
             
-        *   (i) discuss and agree the priorities for the monitoring of those matters set out in [section 35(2)(a) to (e)][203] of the Resource Management Act 1991; and
+        *   (i) discuss and agree the priorities for the monitoring of those matters set out in [section 35(2)(a) to (e)][204] of the Resource Management Act 1991; and
         
-        *   (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in [section 35(2)(a) to (e)][203] of the Resource Management Act 1991; and
+        *   (ii) discuss and agree the methods for and extent of the monitoring of those matters set out in [section 35(2)(a) to (e)][204] of the Resource Management Act 1991; and
         
-        *   (iii) discuss the potential for Waikato-Tainui to participate in the monitoring of those matters set out in [section 35(2)(a) to (e)][203] of the Resource Management Act 1991:
+        *   (iii) discuss the potential for Waikato-Tainui to participate in the monitoring of those matters set out in [section 35(2)(a) to (e)][204] of the Resource Management Act 1991:
         
         
     
-    *   (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in [section 35(2)(a) to (e)][203] of the Resource Management Act 1991, including---
+    *   (b) meet no less than twice each year to discuss appropriate responses to address the outcomes of the monitoring of those matters set out in [section 35(2)(a) to (e)][204] of the Resource Management Act 1991, including---
             
         *   (i) the potential for review of [Resource Management Act 1991][136] planning documents; and
         
@@ -1389,13 +1389,13 @@ Settlement redress through legislation
     
     *   (c) agree appropriate procedures for reporting back to the Trust on the enforcement action taken by the local authority:
     
-    *   (d) discuss and agree the role of the Trust in the 5 yearly review provided for in [section 35(2A)][203] of the Resource Management Act 1991:
+    *   (d) discuss and agree the role of the Trust in the 5 yearly review provided for in [section 35(2A)][204] of the Resource Management Act 1991:
     
     *   (e) discuss the potential for persons nominated by the Trust to participate in enforcement action under the [Resource Management Act 1991][136].
     
     (3) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (4) [Schedule 7][204] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (4) [Schedule 7][205] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 46 Preparation, review, change, or variation of Resource Management Act 1991 planning document
     
@@ -1417,11 +1417,11 @@ Settlement redress through legislation
     
     *   (d) that the local authority and the Trust must discuss the potential for the Trust to participate in making decisions on a [Resource Management Act 1991][136] planning document under [clause 10][158] of Schedule 1 of the Resource Management Act 1991\.
     
-    (3) The part of the joint management agreement on preparing, reviewing, changing, or varying a [Resource Management Act 1991][136] planning document must also provide a mechanism for the Trust to participate in processes under [Part 2][205] of Schedule 1 of the Resource Management Act 1991\.
+    (3) The part of the joint management agreement on preparing, reviewing, changing, or varying a [Resource Management Act 1991][136] planning document must also provide a mechanism for the Trust to participate in processes under [Part 2][206] of Schedule 1 of the Resource Management Act 1991\.
     
     (4) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (5) [Schedule 7][204] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (5) [Schedule 7][205] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 47 Resource consent process
     
@@ -1483,23 +1483,23 @@ Settlement redress through legislation
         
         
     
-    *   (c) the information must be provided as soon as reasonably practicable after the application is received and before a determination is made under [sections 95A to 95C][206] of the Resource Management Act 1991:
+    *   (c) the information must be provided as soon as reasonably practicable after the application is received and before a determination is made under [sections 95A to 95C][207] of the Resource Management Act 1991:
     
     *   (d) the local authority and the Trust must jointly develop and agree criteria to assist local authority decision-making under the following processes or sections of the [Resource Management Act 1991][136]:
             
         *   (i) best practice for pre-application processes:
         
-        *   (ii) [section 87E][207] (request that an application be determined by the Environment Court rather than the consent authority):
+        *   (ii) [section 87E][208] (request that an application be determined by the Environment Court rather than the consent authority):
         
-        *   (iii) [section 88(3)][208] (incomplete application for resource consent):
+        *   (iii) [section 88(3)][209] (incomplete application for resource consent):
         
-        *   (iv) [section 91][209] (deferral pending additional consents):
+        *   (iv) [section 91][210] (deferral pending additional consents):
         
-        *   (v) [section 92][210] (requests for further information):
+        *   (v) [section 92][211] (requests for further information):
         
-        *   (vi) [sections 95 to 95F][211] (notification of applications for resource consent):
+        *   (vi) [sections 95 to 95F][212] (notification of applications for resource consent):
         
-        *   (vii) [sections 127][212] and [128][159] (change, cancellation, or review of consent conditions).
+        *   (vii) [sections 127][213] and [128][159] (change, cancellation, or review of consent conditions).
         
         
     
@@ -1511,7 +1511,7 @@ Settlement redress through legislation
     
     (4) The local authority and the Trust each bears its own costs of complying with this section.
     
-    (5) [Schedule 7][204] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (5) [Schedule 7][205] of the Local Government Act 2002 does not apply to the local authority and the Trust when, under the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 48 Process for finalising
     
@@ -1569,7 +1569,7 @@ Settlement redress through legislation
     
     (15) When the local authority and the Trust give notice to the Minister of the date on which the joint management agreement is to come into force, they must also give the Minister a copy of the agreement.
     
-    (16) [Schedule 7][204] of the Local Government Act 2002 does not apply to the local authority and the Trust when, in finalising the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (16) [Schedule 7][205] of the Local Government Act 2002 does not apply to the local authority and the Trust when, in finalising the joint management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 ##### 49 Suspension
     
@@ -1587,11 +1587,11 @@ Settlement redress through legislation
 
 ##### 51 Legal framework
     
-*   (1) [Sections 36B to 36E][213] of the Resource Management Act 1991 do not apply to a joint management agreement.
+*   (1) [Sections 36B to 36E][214] of the Resource Management Act 1991 do not apply to a joint management agreement.
     
     (2) The carrying out of a duty or function, or the exercise of a power, under a joint management agreement has the same legal effect as the carrying out of a duty or function, or the exercise of a power, by a local authority.
     
-    (3) A local authority must not use the special consultative procedure under [section 83][214] of the Local Government Act 2002 in relation to a joint management agreement.
+    (3) A local authority must not use the special consultative procedure under [section 83][215] of the Local Government Act 2002 in relation to a joint management agreement.
     
     (4) A joint management agreement is enforceable between the parties to it.
     
@@ -1675,7 +1675,7 @@ Settlement redress through legislation
     
     (3) Subsection (1) applies despite---
         
-    *   (a) [sections 9 to 17][215] of the Resource Management Act 1991:
+    *   (a) [sections 9 to 17][216] of the Resource Management Act 1991:
     
     *   (b) a rule in a regional or district plan:
     
@@ -1753,7 +1753,7 @@ Settlement redress through legislation
     
     (2) Subsection (1) applies despite---
         
-    *   (a) [sections 9 to 17][215] of the Resource Management Act 1991:
+    *   (a) [sections 9 to 17][216] of the Resource Management Act 1991:
     
     *   (b) a rule in a regional or district plan.
     
@@ -1769,7 +1769,7 @@ Settlement redress through legislation
     
     (2) The activities specified in subsection (1) may be carried out if they are approved by the Trust, despite---
         
-    *   (a) [sections 9 to 17][215] of the Resource Management Act 1991:
+    *   (a) [sections 9 to 17][216] of the Resource Management Act 1991:
     
     *   (b) a rule in a regional or district plan:
     
@@ -1947,7 +1947,7 @@ Settlement redress through legislation
             
         *   (i) any decision in relation to which consideration is required to be given to the vision and strategy under [section 17][24]; or
         
-        *   (ii) any decision relating to a permit under the [Crown Minerals Act 1991][216].
+        *   (ii) any decision relating to a permit under the [Crown Minerals Act 1991][217].
         
         
     
@@ -2171,27 +2171,27 @@ Settlement redress through legislation
     
 *   (1) In relation to the 1995 Act,---
         
-    *   (a) [sections 11][217] and [12][218] cease to apply to the sites of significance on the settlement date; and
+    *   (a) [sections 11][218] and [12][219] cease to apply to the sites of significance on the settlement date; and
     
-    *   (b) a notation made under [section 13(3)][219] must be deleted from the computer freehold registers for the sites of significance by the Registrar-General as soon as practicable on or after the settlement date.
+    *   (b) a notation made under [section 13(3)][220] must be deleted from the computer freehold registers for the sites of significance by the Registrar-General as soon as practicable on or after the settlement date.
     
     (2) In relation to the [Conservation Act 1987][137],---
         
-    *   (a) a vesting under [section 66][88] of this Act is a disposition for the purposes of [Part 4A][220]; and
+    *   (a) a vesting under [section 66][88] of this Act is a disposition for the purposes of [Part 4A][221]; and
     
-    *   (b) [sections 24][221], [24A][222], and [24AA][223] do not apply to the disposition.
+    *   (b) [sections 24][222], [24A][223], and [24AA][224] do not apply to the disposition.
     
-    (3) In relation to the [Crown Minerals Act 1991][216], a vesting under [section 66][88] of this Act does not---
+    (3) In relation to the [Crown Minerals Act 1991][217], a vesting under [section 66][88] of this Act does not---
         
-    *   (a) limit [section 10][224] or [11][225]; or
+    *   (a) limit [section 10][225] or [11][226]; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (4) In relation to the [Local Government Act 1974][181], the permission of a council under [section 348][226] is not required for forming, granting, laying out, or reserving a private road, private way, or right of way required to fulfil the terms of this Act in relation to a site of significance.
+    (4) In relation to the [Local Government Act 1974][181], the permission of a council under [section 348][227] is not required for forming, granting, laying out, or reserving a private road, private way, or right of way required to fulfil the terms of this Act in relation to a site of significance.
     
-    (5) In relation to the Reserves Act 1977, [section 16(10)][227] does not apply to the reserve created by [section 66(3)][88] of this Act.
+    (5) In relation to the Reserves Act 1977, [section 16(10)][228] does not apply to the reserve created by [section 66(3)][88] of this Act.
     
-    (6) In relation to the Resource Management Act 1991, [section 11][228] and [Part 10][229] do not apply to---
+    (6) In relation to the Resource Management Act 1991, [section 11][229] and [Part 10][230] do not apply to---
         
     *   (a) a vesting under [section 66][88] of this Act; or
     
@@ -2201,21 +2201,21 @@ Settlement redress through legislation
 
 ##### 72 How Conservation Act 1987 and Reserves Act 1977 affect reserve sites
     
-*   (1) The reservation of land as a reserve under [section 66(3)][88] is a disposition for the purposes of [Part 4A][220] of the Conservation Act 1987 but [sections 24][221], [24A][222], and [24AA][223] do not apply to the disposition.
+*   (1) The reservation of land as a reserve under [section 66(3)][88] is a disposition for the purposes of [Part 4A][221] of the Conservation Act 1987 but [sections 24][222], [24A][223], and [24AA][224] do not apply to the disposition.
     
-    (2) If the whole or part of the reservation of land as a reserve under [section 66(3)][88] is revoked under [section 24][230] of the Reserves Act 1977,---
+    (2) If the whole or part of the reservation of land as a reserve under [section 66(3)][88] is revoked under [section 24][231] of the Reserves Act 1977,---
         
-    *   (a) [section 25(2)][231] of the Reserves Act 1977 applies to the revocation but no other provision of section 25 applies:
+    *   (a) [section 25(2)][232] of the Reserves Act 1977 applies to the revocation but no other provision of section 25 applies:
     
-    *   (b) [section 24][221] of the Conservation Act 1987, except section 24(2A), applies to the land to which the revocation applies and [sections 24A][222] and [24AA][223] of that Act do not apply to the land to which the revocation applies.
+    *   (b) [section 24][222] of the Conservation Act 1987, except section 24(2A), applies to the land to which the revocation applies and [sections 24A][223] and [24AA][224] of that Act do not apply to the land to which the revocation applies.
     
     (3) The Registrar-General must record the effect of subsections (1) and (2) on the computer freehold register for the reserve sites.
     
-    (4) If the whole or part of the reservation of land as a reserve under [section 66(3)][88] is revoked under [section 24][230] of the Reserves Act 1977, the Director-General of Conservation must give written or electronic notice requiring the Registrar-General to remove the record made under subsection (3) from the computer freehold register for the land to which the revocation applies.
+    (4) If the whole or part of the reservation of land as a reserve under [section 66(3)][88] is revoked under [section 24][231] of the Reserves Act 1977, the Director-General of Conservation must give written or electronic notice requiring the Registrar-General to remove the record made under subsection (3) from the computer freehold register for the land to which the revocation applies.
     
-    (5) [Section 41][232] of the Reserves Act 1977 applies to the reserve sites as if, on the settlement date, the Minister of Conservation had given notice of vesting of the reserve sites and had directed under section 41(16) that section 41 was to apply.
+    (5) [Section 41][233] of the Reserves Act 1977 applies to the reserve sites as if, on the settlement date, the Minister of Conservation had given notice of vesting of the reserve sites and had directed under section 41(16) that section 41 was to apply.
     
-    (6) The Trust may authorise the taking or killing for commercial purposes of any fauna in the water of any part of the Waikato River within the reserve under [section 50][233] of the Reserves Act 1977, despite the proviso to section 50(1).
+    (6) The Trust may authorise the taking or killing for commercial purposes of any fauna in the water of any part of the Waikato River within the reserve under [section 50][234] of the Reserves Act 1977, despite the proviso to section 50(1).
     
     (7) The Trust must not mortgage, or give a security interest in, any part of the reserve created by [section 66(3)][88] that remains a reserve under the [Reserves Act 1977][162] after it is vested in the Trust.
 
@@ -2225,7 +2225,7 @@ Settlement redress through legislation
         
     *   (a) a person who, at the settlement date,---
             
-        *   (i) holds a fishing permit under [section 91][234] of the Fisheries Act 1996 entitling the holder to take for commercial purposes any fish in a reserve site; and
+        *   (i) holds a fishing permit under [section 91][235] of the Fisheries Act 1996 entitling the holder to take for commercial purposes any fish in a reserve site; and
         
         *   (ii) had taken fish in the reserve site under the permit:
         
@@ -2247,11 +2247,11 @@ Settlement redress through legislation
     
     *   (d) an agent of a purchaser of the annual catch entitlement.
     
-    (4) A fishing permit issued after the settlement date under [section 91][234] of the Fisheries Act 1996 authorising a person to take fish for commercial purposes is valid in a reserve site only if the person holding the permit---
+    (4) A fishing permit issued after the settlement date under [section 91][235] of the Fisheries Act 1996 authorising a person to take fish for commercial purposes is valid in a reserve site only if the person holding the permit---
         
     *   (a) is a person who, at the settlement date,---
             
-        *   (i) held a fishing permit under [section 91][234] of the Fisheries Act 1996 entitling the holder to take for commercial purposes any fish in a reserve site; and
+        *   (i) held a fishing permit under [section 91][235] of the Fisheries Act 1996 entitling the holder to take for commercial purposes any fish in a reserve site; and
         
         *   (ii) had taken fish in the reserve site under the permit; or
         
@@ -2287,7 +2287,7 @@ Settlement redress through legislation
     
     *   (g) is an agent of a purchaser from the owner, at the settlement date, of the annual catch entitlement; or
     
-    *   (h) has an authorisation issued under [section 50(1)][233] of the Reserves Act 1977 by the Trust.
+    *   (h) has an authorisation issued under [section 50(1)][234] of the Reserves Act 1977 by the Trust.
     
     (5) Access and use rights under this section may be exercised---
         
@@ -2379,23 +2379,23 @@ Settlement redress through legislation
 
 ##### 77 How Public Works Act 1981 affects managed properties
     
-*   (1) [Sections 40][235], except section 40(4), and [42][236] of the Public Works Act 1981 apply to a managed property as if it were---
+*   (1) [Sections 40][236], except section 40(4), and [42][237] of the Public Works Act 1981 apply to a managed property as if it were---
         
     *   (a) held by the Council for the public work of soil conservation and river control; and
     
     *   (b) acquired by the Council from the person from whom the land was first acquired for a public work.
     
-    (2) If [section 42(1)(a) or (b)][236] of the Public Works Act 1981 applies to a managed property,---
+    (2) If [section 42(1)(a) or (b)][237] of the Public Works Act 1981 applies to a managed property,---
         
-    *   (a) [section 42(1)(c) and (d)][236] do not apply; and
+    *   (a) [section 42(1)(c) and (d)][237] do not apply; and
     
     *   (b) the chief executive of LINZ or the local authority must instead transfer the managed property to the Trust for no financial or other consideration.
     
     (3) This section ceases to apply to a managed property disposed of under subsection (2).
     
-    (4) [Section 50][237] of the Public Works Act 1981 applies to a managed property.
+    (4) [Section 50][238] of the Public Works Act 1981 applies to a managed property.
     
-    (5) This section continues to apply to a managed property disposed of under [section 50][237] of the Public Works Act 1981\.
+    (5) This section continues to apply to a managed property disposed of under [section 50][238] of the Public Works Act 1981\.
     
     (6) Subsection (7) applies when the Council---
         
@@ -2405,39 +2405,39 @@ Settlement redress through legislation
             
         *   (i) keeping the property itself for another public work; or
         
-        *   (ii) disposing of the property under [section 50][237] of the Public Works Act 1981 for a public work, whether of the same kind or not.
+        *   (ii) disposing of the property under [section 50][238] of the Public Works Act 1981 for a public work, whether of the same kind or not.
         
         
     
-    (7) The Council and the Trust must discuss whether the public work referred to in subsection (6)(b)(i) or (ii) could be carried out if the property were transferred to the Trust instead of being kept by the Council or disposed of under [section 50][237] of the Public Works Act 1981 and, if they agree it could, the Council must transfer the property to the Trust for no financial or other consideration.
+    (7) The Council and the Trust must discuss whether the public work referred to in subsection (6)(b)(i) or (ii) could be carried out if the property were transferred to the Trust instead of being kept by the Council or disposed of under [section 50][238] of the Public Works Act 1981 and, if they agree it could, the Council must transfer the property to the Trust for no financial or other consideration.
 
 ##### 78 How various other Acts affect managed properties
     
 *   (1) In relation to the 1995 [Act][134],---
         
-    *   (a) [sections 11][217] and [12][218] cease to apply to the managed properties on the settlement date; and
+    *   (a) [sections 11][218] and [12][219] cease to apply to the managed properties on the settlement date; and
     
-    *   (b) a note under [section 13(3)][219] must be deleted from the computer freehold registers for the managed properties by the Registrar-General as soon as practicable on or after the settlement date.
+    *   (b) a note under [section 13(3)][220] must be deleted from the computer freehold registers for the managed properties by the Registrar-General as soon as practicable on or after the settlement date.
     
-    (2) In relation to the [Conservation Act 1987][137], a vesting under [section 74][96] of this Act is not a disposition for the purposes of [Part 4A][220].
+    (2) In relation to the [Conservation Act 1987][137], a vesting under [section 74][96] of this Act is not a disposition for the purposes of [Part 4A][221].
     
-    (3) In relation to the [Crown Minerals Act 1991][216], a vesting under [section 74][96] of this Act does not---
+    (3) In relation to the [Crown Minerals Act 1991][217], a vesting under [section 74][96] of this Act does not---
         
-    *   (a) limit [section 10][224] or [11][225]; or
+    *   (a) limit [section 10][225] or [11][226]; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (4) In relation to the [Estate and Gift Duties Act 1968][238], no gift duty is payable for the gift described in [section 74(3)][96], [77(2)(b)][99], or 77(7) of this Act.
+    (4) In relation to the [Estate and Gift Duties Act 1968][239], no gift duty is payable for the gift described in [section 74(3)][96], [77(2)(b)][99], or 77(7) of this Act.
     
     (5) In relation to the [Local Government Act 1974][181], the permission of a council under section 348 is not required for forming, granting, laying out, or reserving a private road, private way, or right of way required to fulfil the terms of this Act in relation to a managed property.
     
-    (6) In relation to the Resource Management Act 1991, [section 11][228] and [Part 10][239] do not apply to---
+    (6) In relation to the Resource Management Act 1991, [section 11][229] and [Part 10][240] do not apply to---
         
     *   (a) a vesting under [section 74][96] of this Act; or
     
     *   (b) a matter incidental to the vesting or required for the purpose of it.
     
-    (7) In relation to [Te Ture Whenua Maori Act 1993][240], nothing in it applies to the managed properties.
+    (7) In relation to [Te Ture Whenua Maori Act 1993][241], nothing in it applies to the managed properties.
 
 ##### 79 Additional managed properties
     
@@ -2521,7 +2521,7 @@ Settlement redress through legislation
     
     (13) The agreement is enforceable in accordance with its terms.
     
-    (14) [Schedule 7][204] of the Local Government Act 2002 does not apply to the Council and the Trust when, under the co-management agreement, they carry out the duties and functions or exercise the powers described in this section.
+    (14) [Schedule 7][205] of the Local Government Act 2002 does not apply to the Council and the Trust when, under the co-management agreement, they carry out the duties and functions or exercise the powers described in this section.
 
 #### Right of first refusal over Huntly Power Station
 
@@ -2645,7 +2645,7 @@ Settlement redress through legislation
         
     *   (a) _owner_ means the original proprietor of the licence:
     
-    *   (b) _licence_ means the existing privilege under the [Crown Minerals Act 1991][216] registered under number 37152\.
+    *   (b) _licence_ means the existing privilege under the [Crown Minerals Act 1991][217] registered under number 37152\.
     
     
 
@@ -2769,7 +2769,7 @@ Settlement redress through legislation
         
     *   (a) a claim that a member of Waikato-Tainui, or a marae, whaanau, or hapuu of Waikato-Tainui, may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not within the definition of Waikato-Tainui; or
     
-    *   (b) any excluded claim described in [section 8(2)][241] of the 1995 Act other than those parts of the Wai 30 claim described in subsection (3); or
+    *   (b) any excluded claim described in [section 8(2)][242] of the 1995 Act other than those parts of the Wai 30 claim described in subsection (3); or
     
     *   (c) a claim that a representative entity may have to the extent to which the claim is, or is based on, a claim referred to in paragraph (a) or (b).
     
@@ -2785,7 +2785,7 @@ Settlement redress through legislation
     
     *   (c) the settlement is final; and
     
-    *   (d) despite [sections 8C][242] and [8HD][243] of the Treaty of Waitangi Act 1975, Waikato-Tainui is entitled to appear and be heard on any question in relation to the lands in attachment 10 to the 1995 deed that arises in the course of any inquiry into a claim submitted to the Waitangi Tribunal.
+    *   (d) despite [sections 8C][243] and [8HD][244] of the Treaty of Waitangi Act 1975, Waikato-Tainui is entitled to appear and be heard on any question in relation to the lands in attachment 10 to the 1995 deed that arises in the course of any inquiry into a claim submitted to the Waitangi Tribunal.
     
     
 
@@ -2837,7 +2837,7 @@ Settlement redress through legislation
     
     *   (c) the proscription of jurisdiction does not include the jurisdiction to interpret and implement the deeds, the redress described in clause 2.2 of the 2008 deed, the redress described in clause 3.2 of the 2009 deed, and this Act:
     
-    *   (d) [sections 27A to 27C][244] of the State-Owned Enterprises Act 1986 no longer apply to the memorialised lands.
+    *   (d) [sections 27A to 27C][245] of the State-Owned Enterprises Act 1986 no longer apply to the memorialised lands.
     
     
 
@@ -2853,7 +2853,7 @@ Settlement redress through legislation
         
     *   (a) register the certificate against each certificate of title or computer freehold register identified in the certificate; and
     
-    *   (b) cancel each memorial under [sections 27A to 27C][244] of the State-Owned Enterprises Act 1986 that is entered on a computer register identified in the certificate.
+    *   (b) cancel each memorial under [sections 27A to 27C][245] of the State-Owned Enterprises Act 1986 that is entered on a computer register identified in the certificate.
     
     
 
@@ -2867,7 +2867,7 @@ Settlement redress through legislation
     
     *   (b) the trustees of the Trust and the Waikato River Clean-up Trust may hold or deal with property or income from property in their capacity as trustees.
     
-    (2) Neither the rule against perpetuities nor the [Perpetuities Act 1964][245] applies to a document entered into to give effect to the 2008 deed or the 2009 deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
+    (2) Neither the rule against perpetuities nor the [Perpetuities Act 1964][246] applies to a document entered into to give effect to the 2008 deed or the 2009 deed if the application of the rule or the Act would make the document invalid or ineffective or a right conferred by the document invalid or ineffective.
 
 ##### 93 Regulations and bylaws
     
@@ -2875,9 +2875,9 @@ Settlement redress through legislation
     
     (2) Regulations under subsection (1) may provide for the use for cultural purposes of---
         
-    *   (a) the body or a part of the body of dead wildlife, as defined in [section 2(1)][246] of the Wildlife Act 1953 but not including the wildlife specified in [Schedules 1][247] and [5][248] of that Act:
+    *   (a) the body or a part of the body of dead wildlife, as defined in [section 2(1)][247] of the Wildlife Act 1953 but not including the wildlife specified in [Schedules 1][248] and [5][249] of that Act:
     
-    *   (b) the bone, teeth, or baleen obtained from dead marine mammals, as defined in [section 2(1)][249] of the Marine Mammals Protection Act 1978, that beach in the mouth of the Waikato River.
+    *   (b) the bone, teeth, or baleen obtained from dead marine mammals, as defined in [section 2(1)][250] of the Marine Mammals Protection Act 1978, that beach in the mouth of the Waikato River.
     
     (3) Within 80 business days of the settlement date, the Minister of Fisheries must recommend to the Governor-General the making of regulations under the [Fisheries Act 1996][176] providing for Waikato-Tainui to manage customary fishing on the Waikato River through the issuing of customary fishing authorisations to fisheries managed under the Fisheries Act 1996\.
     
@@ -2895,9 +2895,9 @@ Settlement redress through legislation
 
 ##### 95 Authority and Trust: public bodies, entities, and authorities
     
-*   (1) The Authority and the Trust are public bodies for the purposes of [clause 30][250] of Schedule 7 of the Local Government Act 2002\.
+*   (1) The Authority and the Trust are public bodies for the purposes of [clause 30][251] of Schedule 7 of the Local Government Act 2002\.
     
-    (2) The Authority is a public entity as defined in [section 4][251] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The Authority is a public entity as defined in [section 4][252] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (3) The Authority is a public authority for the purposes of the definition of public authority in the [Resource Management Act 1991][136].
     
@@ -3119,7 +3119,7 @@ Process to review vision and strategy
 
 ##### 2 Duty following review
     
-*   If the Authority considers that an amendment to the vision and strategy may be appropriate as a result of its review, the Authority must prepare a draft vision and strategy by following the process in [clause 3][252].
+*   If the Authority considers that an amendment to the vision and strategy may be appropriate as a result of its review, the Authority must prepare a draft vision and strategy by following the process in [clause 3][253].
 
 ##### 3 Preparation of draft
     
@@ -3157,7 +3157,7 @@ Process to review vision and strategy
     
     *   (b) call on interested persons to make submissions on the draft to the Authority at the place and before a date, specified in the notice, no less than 20 business days after the date of the notice.
     
-    (5) The Authority must also give to the persons consulted under [clause 3][252]---
+    (5) The Authority must also give to the persons consulted under [clause 3][253]---
         
     *   (a) a copy of the draft; and
     
@@ -3448,7 +3448,7 @@ Terms of Waikato River Clean-up Trust
     
     *   (o) generally to do all other lawful acts and things that are incidental or conducive to the attainment of the object; and
     
-    *   (p) to pay from the assets of the trust costs incurred by the trustee in carrying out any of its duties or functions or exercising any of its authorities, discretions, or powers, except as prohibited by [clause 12][253].
+    *   (p) to pay from the assets of the trust costs incurred by the trustee in carrying out any of its duties or functions or exercising any of its authorities, discretions, or powers, except as prohibited by [clause 12][254].
     
     (3) All authorities, discretions, and powers that the trustee has may be exercised by the trustee in its absolute discretion and from time to time and on such terms and conditions and in such manner and by such means as it thinks fit.
     
@@ -3464,13 +3464,13 @@ Terms of Waikato River Clean-up Trust
     
     *   (b) the trustee may pay reasonable and proper remuneration for services actually rendered to the trust.
     
-    (3) Subclause (1) does not apply if the [Income Tax Act 2007][254] or any other relevant legislation is amended to allow a person with some control over a business carried on by, for, or for the benefit of a trust to be able to direct or divert an amount from the trust to the person's own benefit or advantage without compromising the charitable tax status of the trust.
+    (3) Subclause (1) does not apply if the [Income Tax Act 2007][255] or any other relevant legislation is amended to allow a person with some control over a business carried on by, for, or for the benefit of a trust to be able to direct or divert an amount from the trust to the person's own benefit or advantage without compromising the charitable tax status of the trust.
     
     (4) In this clause,---
         
-    *   (a) _benefit or advantage_ includes a benefit or advantage listed in [section CW 42(8)][255] of the Income Tax Act 2007:
+    *   (a) _benefit or advantage_ includes a benefit or advantage listed in [section CW 42(8)][256] of the Income Tax Act 2007:
     
-    *   (b) _person with some control_ includes a person who has control of the types described in [sections CW 42(5) to (7)][255] of the Income Tax Act 2007\.
+    *   (b) _person with some control_ includes a person who has control of the types described in [sections CW 42(5) to (7)][256] of the Income Tax Act 2007\.
     
     
 
@@ -3560,9 +3560,9 @@ Terms of Waikato River Clean-up Trust
         
     *   (a) adequate details of the applications for funding approved by the trustee under clause 6 during the financial year; and
     
-    *   (b) adequate details of the reports received by the trustee from recipients of funds under [clause 6(7)][256]; and
+    *   (b) adequate details of the reports received by the trustee from recipients of funds under [clause 6(7)][257]; and
     
-    *   (c) the accounts for the financial year prepared and audited under [clause 15][257].
+    *   (c) the accounts for the financial year prepared and audited under [clause 15][258].
     
     (3) The trustee must publish the annual report.
     
@@ -3697,7 +3697,7 @@ Waikato River Authority
 
 ##### 4 Cessation of membership
     
-*   (1) A member whose term of appointment has ended under [clause 3(3)(a)][258] continues to hold office until---
+*   (1) A member whose term of appointment has ended under [clause 3(3)(a)][259] continues to hold office until---
         
     *   (a) the member is reappointed; or
     
@@ -3869,11 +3869,11 @@ Waikato River Authority
 
 ##### 10 Decisions by Minister and nominated person
     
-*   (1) If the members of the Authority are unable to reach a decision as described in [clause 9(1)][259], they must refer the matter to---
+*   (1) If the members of the Authority are unable to reach a decision as described in [clause 9(1)][260], they must refer the matter to---
         
     *   (a) the Minister for the Environment or another Minister nominated by the Minister for the Environment; and
     
-    *   (b) a person nominated by the members appointed under [clause 2(1)(a) to (e)][260].
+    *   (b) a person nominated by the members appointed under [clause 2(1)(a) to (e)][261].
     
     (2) The members of the Authority must provide the persons to whom the matter is referred under subclause (1) with a written statement of the matters in disagreement and the reasons for the disagreement.
     
@@ -3889,7 +3889,7 @@ Waikato River Authority
 
 ##### 11 Members bound by decisions
     
-*   (1) Members are bound by the decisions and recommendations made by the Authority and by recommendations that have become binding under [clause 10][261].
+*   (1) Members are bound by the decisions and recommendations made by the Authority and by recommendations that have become binding under [clause 10][262].
     
     (2) Members must not take steps to undermine the decisions and recommendations.
 
@@ -3913,7 +3913,7 @@ Waikato River Authority
     
     *   (c) the subsequent discovery that the person was incapable of being a member; or
     
-    *   (d) a member's contravention of [clause 13(1) or (2)][262].
+    *   (d) a member's contravention of [clause 13(1) or (2)][263].
     
     
 
@@ -4081,7 +4081,7 @@ Waikato River Authority
     
     *   (b) the member appointed under [clause 2(1)(h)][135] designated by the appointer of members under clause 2(1)(h) to be an initial co-chair.
     
-    (4) For not less than 5 years following the commencement date, the member appointed under [clause 2(1)(a)][135] is the designated co-chair under [clause 6(2)][263].
+    (4) For not less than 5 years following the commencement date, the member appointed under [clause 2(1)(a)][135] is the designated co-chair under [clause 6(2)][264].
 
 ---
 
@@ -4172,11 +4172,11 @@ Integrated river management plan
         
         
     
-    (4) Waikato-Tainui and the relevant departments, relevant local authorities, and appropriate agencies doing a review under subclause (1) or (3) must apply [clauses 1 to 3][264], modified as necessary, to the review.
+    (4) Waikato-Tainui and the relevant departments, relevant local authorities, and appropriate agencies doing a review under subclause (1) or (3) must apply [clauses 1 to 3][265], modified as necessary, to the review.
     
     (5) If Waikato-Tainui and the relevant departments, relevant local authorities, and appropriate agencies agree as a result of the review that the plan should be amended in a material way, the amendment must be approved under [section 36(2)][52].
     
-    (6) If Waikato-Tainui and the relevant departments, relevant local authorities, and appropriate agencies agree that the plan should be amended in a way that is not material, they must apply [clause 3(3) to (5)][265], modified as necessary, to the proposed amendment and the amendment need not be approved under section 36(2).
+    (6) If Waikato-Tainui and the relevant departments, relevant local authorities, and appropriate agencies agree that the plan should be amended in a way that is not material, they must apply [clause 3(3) to (5)][266], modified as necessary, to the proposed amendment and the amendment need not be approved under section 36(2).
 
 ---
 
@@ -4189,7 +4189,7 @@ Consequential amendments
 
 ##### Treaty of Waitangi Act 1975 (1975 No 114)
 
-[Schedule 3][266]: add:
+[Schedule 3][267]: add:
 
 > "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010, [section 90(2)][116]."
 
@@ -4197,11 +4197,11 @@ Consequential amendments
 
 ##### Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434)
 
-[Regulation 4(1A)][267]: revoke and substitute:
+[Regulation 4(1A)][268]: revoke and substitute:
 
 > *   "(1A) However, these regulations do not limit any regulations made under---
 >         
->     *   "(a) [section 74][268] of the Te Arawa Lakes Settlement Act 2006, to the extent to which the later regulations relate to included species in the Te Arawa fisheries area:
+>     *   "(a) [section 74][269] of the Te Arawa Lakes Settlement Act 2006, to the extent to which the later regulations relate to included species in the Te Arawa fisheries area:
 >     
 >     *   "(b) [section 93(3)][120] of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010\."
 >     
@@ -4221,15 +4221,17 @@ Consequential amendments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][269] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][270] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][270] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][271] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][271] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][272] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][272] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][273] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][174]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][189]
+    
+    Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][174]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][147]
     
@@ -4420,7 +4422,7 @@ Consequential amendments
 [176]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM394191
 [177]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM255625
 [178]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM305839
-[179]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM300510
+[179]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM4005402
 [180]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM160976
 [181]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM415531
 [182]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM170872
@@ -4430,87 +4432,88 @@ Consequential amendments
 [186]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM172771
 [187]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM230364
 [188]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1244000
-[189]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833983
-[190]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231970
-[191]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2418625
-[192]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2417778
-[193]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2416444
-[194]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235409
-[195]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235413
-[196]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1513269
-[197]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104603
-[198]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104619
-[199]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM395502
-[200]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM234355
-[201]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM395504
-[202]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233845
-[203]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233009
-[204]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM175643
-[205]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM241513
-[206]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2416409
-[207]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2414716
-[208]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233858
-[209]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233881
-[210]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233884
-[211]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM234326
-[212]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235220
-[213]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233037
-[214]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM172328
-[215]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231918
-[216]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM242535
-[217]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370561
-[218]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370563
-[219]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370564
-[220]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104697
-[221]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104699
-[222]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104910
-[223]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104914
-[224]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM246310
-[225]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM246311
-[226]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM420676
-[227]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444492
-[228]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231942
-[229]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231927
-[230]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444632
-[231]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444648
-[232]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444680
-[233]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444707
-[234]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM396924
-[235]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46055
-[236]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46073
-[237]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46305
-[238]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM385591
-[239]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM236786
-[240]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM289881
-[241]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370553
-[242]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM435562
-[243]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM435805
-[244]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM98097
-[245]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM353436
-[246]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM276819
-[247]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM278547
-[248]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM278571
-[249]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM25116
-[250]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM175699
-[251]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM88548
-[252]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2819702
-[253]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833958
-[254]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1512300
-[255]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1513271
-[256]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833950
-[257]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833961
-[258]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2765116
-[259]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833976
-[260]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2833969
-[261]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833977
-[262]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833980
-[263]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833972
-[264]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833986
-[265]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833988
-[266]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1347539
-[267]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM268626
-[268]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM382115
-[269]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998516
-[270]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998515
-[271]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998532
-[272]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[189]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM4005646
+[190]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833983
+[191]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231970
+[192]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2418625
+[193]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2417778
+[194]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2416444
+[195]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235409
+[196]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235413
+[197]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1513269
+[198]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104603
+[199]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104619
+[200]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM395502
+[201]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM234355
+[202]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM395504
+[203]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233845
+[204]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233009
+[205]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM175643
+[206]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM241513
+[207]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2416409
+[208]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2414716
+[209]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233858
+[210]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233881
+[211]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233884
+[212]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM234326
+[213]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM235220
+[214]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM233037
+[215]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM172328
+[216]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231918
+[217]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM242535
+[218]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370561
+[219]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370563
+[220]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370564
+[221]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104697
+[222]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104699
+[223]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104910
+[224]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104914
+[225]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM246310
+[226]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM246311
+[227]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM420676
+[228]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444492
+[229]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231942
+[230]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM231927
+[231]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444632
+[232]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444648
+[233]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444680
+[234]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM444707
+[235]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM396924
+[236]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46055
+[237]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46073
+[238]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM46305
+[239]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM385591
+[240]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM236786
+[241]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM289881
+[242]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM370553
+[243]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM435562
+[244]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM435805
+[245]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM98097
+[246]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM353436
+[247]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM276819
+[248]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM278547
+[249]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM278571
+[250]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM25116
+[251]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM175699
+[252]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM88548
+[253]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2819702
+[254]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833958
+[255]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1512300
+[256]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1513271
+[257]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833950
+[258]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833961
+[259]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2765116
+[260]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833976
+[261]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2833969
+[262]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833977
+[263]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833980
+[264]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833972
+[265]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833986
+[266]: http://www.legislation.govt.nz/act/public/2010/0024/latest/whole.html#DLM2833988
+[267]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM1347539
+[268]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM268626
+[269]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM382115
+[270]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998516
+[271]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998515
+[272]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM2998532
+[273]: http://www.pco.parliament.govt.nz/editorial-conventions/
