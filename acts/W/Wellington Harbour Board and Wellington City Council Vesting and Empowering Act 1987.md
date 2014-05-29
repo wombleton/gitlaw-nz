@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2001
+as at 20 May 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement25 September 1987
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -25,43 +25,43 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   [Preamble][2]
 
-[1][3] [Short Title][3]
+[1][3][][3][Short Title][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Special Act][5]
+[3][5][][5][Special Act][5]
 
-[4][6] [Land to be vested in Board][6]
+[4][6][][6][Land to be vested in Board][6]
 
-[5][7] [Land may be leased or licensed by Board][7]
+[5][7][][7][Land may be leased or licensed by Board][7]
 
-[6][8] [Removal of statutory constraints over part of Lambton Harbour Development Area][8]
+[6][8][][8][Removal of statutory constraints over part of Lambton Harbour Development Area][8]
 
-[7][9] [Authority and powers in respect of Lambton Harbour Development Project][9]
+[7][9][][9][Authority and powers in respect of Lambton Harbour Development Project][9]
 
-[8][10] [Council boundary and bylaws][10]
+[8][10][][10][Council boundary and bylaws][10]
 
-[9][11] [Application of Part 20 of Local Government Act 1974][11]
+[9][11][][11][Application of Part 20 of Local Government Act 1974][11]
 
-[10][12] [Roads][12]
+[10][12][][12][Roads][12]
 
-[11][13] [Variation of Lambton Harbour Development Area][13]
+[11][13][][13][Variation of Lambton Harbour Development Area][13]
 
-[12][14] [Commencement of combined planning scheme][14]
+[12][14][][14][Commencement of combined planning scheme][14]
 
-[13][15] [Accounting records][15]
+[13][15][][15][Accounting records][15]
 
-[14][16] [Financial year][16]
+[14][16][][16][Financial year][16]
 
-[15][17] [Annual estimates][17]
+[15][17][][17][Annual estimates][17]
 
-[16][18] [Annual financial statement][18]
+[16][18][][18][Annual financial statement][18]
 
-[17][19] [Audit][19]
+[17][19][][19][Audit][19]
 
-[18][20] [Certain rights and powers not affected][20]
+[18][20][][20][Certain rights and powers not affected][20]
 
-[19][21] [Repeals][21]
+[19][21][][21][Repeals][21]
 
 [Schedule 1][22]  
 [Land to be vested in Wellington Harbour Board][22]
@@ -139,7 +139,7 @@ An Act---
 
 ##### 5 Land may be leased or licensed by Board
     
-*   (1) Subject to subsection (2), for the purposes of the Lambton Harbour Development Project, the Board is hereby authorised and empowered to grant leases of, or licences to occupy, any part or parts of the land described in [Schedule 2][23] (other than the land described in [clause 4][29] of that schedule) of which it is not the owner in the same manner in all respects as if it was the owner of that land.
+*   (1) Subject to subsection (2), for the purposes of the Lambton Harbour Development Project, the Board is hereby authorised and empowered to grant leases of, or licences to occupy, any part or parts of the land described in [Schedule 2][23] (other than the land described in clause 4 of that schedule) of which it is not the owner in the same manner in all respects as if it was the owner of that land.
     
     (2) Any lease or licence granted under subsection (1) shall be for a term or terms not exceeding a total period of 50 years after the date of commencement of this Act:
     
@@ -149,7 +149,7 @@ An Act---
 
 ##### 6 Removal of statutory constraints over part of Lambton Harbour Development Area
     
-*   (1) The land described in [clauses 1][30], [2][31], and [3][32] of Schedule 2 shall be free from all trusts, endowment provisions, reservations, or restrictions imposed upon it by the [Wellington Harbour Board and Corporation Land Act 1880][33], the Wellington Harbour Board Loans Consolidation and Empowering Act 1884, the [Wellington Corporation and Harbour Board Streets and Lands Act 1892][34], the Wellington Harbour Board Reclamation and Empowering Act 1898, the Harbours Act 1950, or any prior Harbours Act, or by or as a result of any Act, Order in Council, Proclamation, _Gazette_ notice, or other authorisation relating to the reclamation or acquisition of that land.
+*   (1) The land described in clauses 1, 2, and 3 of [Schedule 2][23] shall be free from all trusts, endowment provisions, reservations, or restrictions imposed upon it by the [Wellington Harbour Board and Corporation Land Act 1880][29], the Wellington Harbour Board Loans Consolidation and Empowering Act 1884, the [Wellington Corporation and Harbour Board Streets and Lands Act 1892][30], the Wellington Harbour Board Reclamation and Empowering Act 1898, the Harbours Act 1950, or any prior Harbours Act, or by or as a result of any Act, Order in Council, Proclamation, _Gazette_ notice, or other authorisation relating to the reclamation or acquisition of that land.
     
     (2) The District Land Registrar shall take all such steps and make all such entries in the registers as are necessary to give effect to subsection (1).
 
@@ -157,7 +157,7 @@ An Act---
     
 *   (1) Subject to the provisions of this Act, the Board and the Council are hereby authorised and empowered, jointly and severally, to develop and promote the commercial, maritime, residential, educational, cultural, social, recreational and other uses, activities, and characteristics of the Lambton Harbour Development Project and to do all acts and things incidental thereto as if the Board and the Council were natural persons.
     
-    (2) Without derogating from the general authority and power contained in subsection (1) and notwithstanding any restrictions or limitations on the power of the Board or the Council or any procedures specified in the Harbours Act 1950, the [Local Government Act 1974][35], the [Public Bodies Leases Act 1969][36], the [Public Bodies Contracts Act 1959][37], or the Tramways Act 1908, but subject to the provisions of this Act, the Board and the Council, for the purposes specified in subsection (1) and of the Lambton Harbour Development Project, are hereby empowered to---
+    (2) Without derogating from the general authority and power contained in subsection (1) and notwithstanding any restrictions or limitations on the power of the Board or the Council or any procedures specified in the Harbours Act 1950, the [Local Government Act 1974][31], the [Public Bodies Leases Act 1969][32], the [Public Bodies Contracts Act 1959][33], or the Tramways Act 1908, but subject to the provisions of this Act, the Board and the Council, for the purposes specified in subsection (1) and of the Lambton Harbour Development Project, are hereby empowered to---
         
     *   (a) enter into contracts or arrangements; and
     
@@ -199,13 +199,13 @@ An Act---
 
 ##### 9 Application of Part 20 of Local Government Act 1974
     
-*   [Part 20][38] of the Local Government Act 1974 shall apply to the Lambton Harbour Development Area with the following amendments or exceptions:
+*   [Part 20][34] of the Local Government Act 1974 shall apply to the Lambton Harbour Development Area with the following amendments or exceptions:
         
-    *   (a) the reference in [Part 20][38] of the Local Government Act 1974 to a district scheme, a proposed district scheme, or an operative district scheme shall, where there is some other planning scheme, proposed planning scheme, or operative planning scheme for the Lambton Harbour Development Area, be deemed to be a reference to that other scheme:
+    *   (a) the reference in [Part 20][34] of the Local Government Act 1974 to a district scheme, a proposed district scheme, or an operative district scheme shall, where there is some other planning scheme, proposed planning scheme, or operative planning scheme for the Lambton Harbour Development Area, be deemed to be a reference to that other scheme:
     
-    *   (b) [section 289][39] of the Local Government Act 1974 shall not apply to the Lambton Harbour Development Area nor to any subdivision of all or part of that area:
+    *   (b) [section 289][35] of the Local Government Act 1974 shall not apply to the Lambton Harbour Development Area nor to any subdivision of all or part of that area:
     
-    *   (c) in respect of [section 306][40] of the Local Government Act 1974, if the Council is not the planning authority for the Lambton Harbour Development Area, the certificate required by section 306(1)(g) of that Act shall be given by the Council only after consultation with the planning authority for the Lambton Harbour Development Area.
+    *   (c) in respect of [section 306][36] of the Local Government Act 1974, if the Council is not the planning authority for the Lambton Harbour Development Area, the certificate required by section 306(1)(g) of that Act shall be given by the Council only after consultation with the planning authority for the Lambton Harbour Development Area.
     
     
 
@@ -213,7 +213,7 @@ An Act---
     
 *   (1) The Board and the Council are hereby authorised and empowered to dedicate any part of the Lambton Harbour Development Area as a road.
     
-    (2) Notwithstanding [section 345][41] of the Local Government Act 1974, where the Council stops a road within the Lambton Harbour Development Area and the same is no longer required as road, such stopped road shall be vested in the Board and the Council.
+    (2) Notwithstanding [section 345][37] of the Local Government Act 1974, where the Council stops a road within the Lambton Harbour Development Area and the same is no longer required as road, such stopped road shall be vested in the Board and the Council.
 
 ##### 11 Variation of Lambton Harbour Development Area
     
@@ -233,7 +233,7 @@ An Act---
     
 *   The financial year for the Lambton Harbour Development Project shall end with 30 June in each year.
     
-    Section 14: amended, on 18 November 1992, by [section 5(1)][42] of the Local Legislation Act 1992 (1992 No 103).
+    Section 14: amended, on 18 November 1992, by [section 5(1)][38] of the Local Legislation Act 1992 (1992 No 103).
 
 ##### 15 Annual estimates
     
@@ -255,7 +255,7 @@ An Act---
     
     (2) Such estimates shall be presented to the Board and the Council for consideration and approval before the commencement of the Lambton Harbour Development Project, and thereafter not later than 30 September in the financial year to which they relate.
     
-    Section 15(2): amended, on 1 January 1993, by [section 5(2)][42] of the Local Legislation Act 1992 (1992 No 103).
+    Section 15(2): amended, on 1 January 1993, by [section 5(2)][38] of the Local Legislation Act 1992 (1992 No 103).
 
 ##### 16 Annual financial statement
     
@@ -281,7 +281,7 @@ An Act---
     
     Section 16(1)(b): amended, on 1 October 1997, pursuant to section 6(2) of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 16(2): amended, on 18 November 1992, by [section 5(3)][42] of the Local Legislation Act 1992 (1992 No 103).
+    Section 16(2): amended, on 18 November 1992, by [section 5(3)][38] of the Local Legislation Act 1992 (1992 No 103).
 
 ##### 17 Audit
     
@@ -291,39 +291,41 @@ An Act---
     
     (3) In any other case, either the Auditor-General or a person or firm that is qualified for appointment as an auditor of a company shall be appointed auditor as may be determined by the parties to the corporation, trust, partnership, or other body.
     
-    (4) For the purposes of carrying out the duties imposed by this section, the Auditor-General shall have and may exercise all the powers and functions that it has under the [Public Audit Act 2001][43] in respect of money and shares of a local authority and persons dealing therewith.
+    (4) For the purposes of carrying out the duties imposed by this section, the Auditor-General shall have and may exercise all the powers and functions that it has under the [Public Audit Act 2001][39] in respect of money and shares of a local authority and persons dealing therewith.
     
-    Section 17(1): amended, on 1 July 2001, pursuant to [section 52][44] of the Public Audit Act 2001 (2001 No 10).
+    Section 17(1): amended, on 1 July 2001, pursuant to [section 52][40] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 17(2): amended, on 1 July 2001, pursuant to [section 52][44] of the Public Audit Act 2001 (2001 No 10).
+    Section 17(2): amended, on 1 July 2001, pursuant to [section 52][40] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 17(3): amended, on 1 July 2001, pursuant to [section 52][44] of the Public Audit Act 2001 (2001 No 10).
+    Section 17(3): amended, on 1 July 2001, pursuant to [section 52][40] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 17(4): amended, on 1 July 2001, pursuant to [section 52][44] of the Public Audit Act 2001 (2001 No 10).
+    Section 17(4): amended, on 1 July 2001, pursuant to [section 52][40] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 17(4): amended, on 1 July 2001, pursuant to [section 54(1)(a)][45] of the Public Audit Act 2001 (2001 No 10).
+    Section 17(4): amended, on 1 July 2001, pursuant to [section 54(1)(a)][41] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 18 Certain rights and powers not affected
     
 *   (1) Nothing in this Act shall be construed as limiting the application of the provisions of---
         
-    *   (a) the [Conservation Act 1987][46]:
+    *   (a) the [Conservation Act 1987][42]:
     
     *   (b) sections 175 to 188 and 203 to 207 of the Harbours Act 1950:
     
-    *   (c) the [Health Act 1956][47]:
+    *   (c) the [Health Act 1956][43]:
     
-    *   (d) the Historic Places Act 1980:
+    *   (d) the [Heritage New Zealand Pouhere Taonga Act 2014][44]:
     
     *   (e) the New Zealand Ports Authority Act 1968:
     
-    *   (f) the [Public Works Act 1981][48]:
+    *   (f) the [Public Works Act 1981][45]:
     
     *   (g) except as provided in [section 12][14] of this Act, the Town and Country Planning Act 1977:
     
     *   (h) the Water and Soil Conservation Act 1967\.
     
     (2) Nothing in this Act shall be construed as limiting the application of the Local Authorities Loans Act 1956, and any borrowing by any company of which the Board or the Council, jointly or severally, have control associated with the Lambton Harbour Development Project shall be deemed for the purposes of the Local Authorities Loans Act 1956 to be borrowing by the Board or the Council, jointly or severally, as the case may be.
+    
+    Section 18(1)(d): replaced, on 20 May 2014, by [section 107][46] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 19 Repeals
     
@@ -349,15 +351,15 @@ Lambton Harbour Development Area
 
 *   2 All those parcels of land, being---
         
-    *   (a) 1.2565 hectares, more or less, being land reclaimed from the sea situated in Block VII, Port Nicholson Survey District, and comprising the land described in Schedules 2 and 3 of the Wellington Harbour Board Reclamation and Empowering Act 1898 (excepting therefrom the land now comprised in certificate of title 14A/1034, Wellington Land Registry) and the land described as being between Waterloo Quay and the Railway Wharf in [Schedule 1][49] of the Wellington Harbour Board and Corporation Land Act 1880 and Schedule 2 of the Wellington Harbour Board Loans Consolidation and Empowering Act 1884, and being the balance of the land comprised and described in certificate of title 314/34 (Wellington Land Registry).
+    *   (a) 1.2565 hectares, more or less, being land reclaimed from the sea situated in Block VII, Port Nicholson Survey District, and comprising the land described in Schedules 2 and 3 of the Wellington Harbour Board Reclamation and Empowering Act 1898 (excepting therefrom the land now comprised in certificate of title 14A/1034, Wellington Land Registry) and the land described as being between Waterloo Quay and the Railway Wharf in [Schedule 1][47] of the Wellington Harbour Board and Corporation Land Act 1880 and Schedule 2 of the Wellington Harbour Board Loans Consolidation and Empowering Act 1884, and being the balance of the land comprised and described in certificate of title 314/34 (Wellington Land Registry).
     
     *   (b) 701 m2, more or less, being Section 29, Block VII, Port Nicholson Survey District, and being the land comprised and described in certificate of title 14A/1034 (Wellington Land Registry) (SO Plan 27576).
     
     *   (c) 6.5625 hectares, more or less, being Section 25, Block VII, Port Nicholson Survey District, and being the land comprised and described in certificate of title 991/11 (Wellington Land Registry) (SO Plan 27516).
     
-    *   (d) 501 m2, more or less, being a portion of the land reclaimed from the sea contiguous to the Queens Wharf situated in Block VII, Port Nicholson Survey District and described in [Schedule 3][50] of the Wellington Corporation and Harbour Board Streets and Lands Act 1892, and being the land comprised and described in certificate of title 75/210 (Wellington Land Registry) (SO Plan 13625).
+    *   (d) 501 m2, more or less, being a portion of the land reclaimed from the sea contiguous to the Queens Wharf situated in Block VII, Port Nicholson Survey District and described in [Schedule 3][48] of the Wellington Corporation and Harbour Board Streets and Lands Act 1892, and being the land comprised and described in certificate of title 75/210 (Wellington Land Registry) (SO Plan 13625).
     
-    *   (e) 1 447 m2, more or less, being a portion of the land reclaimed from the sea contiguous to the Queens Wharf situated in Block VII, Port Nicholson Survey District, and described in [Schedule 2][51] of the Wellington Corporation and Harbour Board Streets and Lands Act 1892, and being the land comprised and described in certificate of title 75/53 (Wellington Land Registry) (SO Plan 13625).
+    *   (e) 1 447 m2, more or less, being a portion of the land reclaimed from the sea contiguous to the Queens Wharf situated in Block VII, Port Nicholson Survey District, and described in [Schedule 2][49] of the Wellington Corporation and Harbour Board Streets and Lands Act 1892, and being the land comprised and described in certificate of title 75/53 (Wellington Land Registry) (SO Plan 13625).
     
     *   (f) 5.0811 hectares, more or less, being Lots 1 and 2, Deposited Plan 1372, and being the land comprised and described in certificate of title 147/178 (Wellington Land Registry).
     
@@ -395,7 +397,7 @@ Lambton Harbour Development Area
 
 (i)2 551 m2, more or less being, Lots 1, 2, 3, 4, 5, and 6 on Deposited Plan 2428, and being the land comprised and described in certificate of title 193/193 (Wellington Land Registry).
 
-(ii)1.4076 hectares, more or less, being part Lot 1 A/3006, Lots 24 and 26, Deposited Plan 4798, and closed road, situated in Block VII, Port Nicholson Survey District, being part of the land described in [Schedule 6][52] of the Wellington Harbour Board and Corporation Empowering Act 1898, and being the land comprised and described in certificate of title 383/18 (Wellington Land Registry) (SO Plan 18097).
+(ii)1.4076 hectares, more or less, being part Lot 1 A/3006, Lots 24 and 26, Deposited Plan 4798, and closed road, situated in Block VII, Port Nicholson Survey District, being part of the land described in [Schedule 6][50] of the Wellington Harbour Board and Corporation Empowering Act 1898, and being the land comprised and described in certificate of title 383/18 (Wellington Land Registry) (SO Plan 18097).
 
 (b)All that leasehold interest under lease 741843 (Wellington Land Registry) in 2 340 m2, more or less, being Lots 27, 28, 29, 30, 31, 32, and 33 on Deposited Plan 9880, and being the land comprised and described in certificate of title F4/614 (Wellington Land Registry).
 
@@ -420,7 +422,7 @@ Enactments repealed
 
 ##### Reclamation within the Harbour of Wellington Act 1887
 
-_Amendment(s) incorporated in the [Act(s)][53]._
+_Amendment(s) incorporated in the [Act(s)][51]._
 
 ##### Wellington Corporation and Harbour Board Streets and Lands Act 1892
 
@@ -463,7 +465,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Legislation Act 1992][54].
+*   (1) This Act may be cited as the [Local Legislation Act 1992][52].
     
     (2) Except as provided in section 5(5), this Act shall come into force on the day on which it receives the Royal assent.
 
@@ -475,78 +477,37 @@ Commencementsee section 1(2)
     
     (5) Subsection (2) shall come into force on 1 January 1993\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2001, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][55] ![](/images/external_link.gif).
+*   This is a reprint of the Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][56] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][53] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][54] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][57] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][55] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][58] and [17E][59] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][46]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Public Audit Act 2001 (2001 No 10): [sections 52][40], [54(1)(a)][41]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][57]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Public Audit Act 2001 (2001 No 10): [sections 52][44], [54(1)(a)][45]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][60]
-    
-    Local Legislation Act 1992 (1992 No 103): [section 5(1)--(3)][42]
+    Local Legislation Act 1992 (1992 No 103): [section 5(1)--(3)][38]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78109
 [2]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78110
 [3]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78113
@@ -575,35 +536,32 @@ Commencementsee section 1(2)
 [26]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM270041
 [27]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM269031
 [28]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM252417
-[29]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78156
-[30]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78153
-[31]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78154
-[32]: http://www.legislation.govt.nz/act/local/1987/0005/latest/whole.html#DLM78155
-[33]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM15179
-[34]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23804
-[35]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM415531
-[36]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM394841
-[37]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM324218
-[38]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM419973
-[39]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420156
-[40]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420285
-[41]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420626
-[42]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM280664
-[43]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88540
-[44]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88956
-[45]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88959
-[46]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM103609
-[47]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM305839
-[48]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM45426
-[49]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM15300
-[50]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23831
-[51]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23830
-[52]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM25828
-[53]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM19860
-[54]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM280655
-[55]: http://www.pco.parliament.govt.nz/reprints/
-[56]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM195439
-[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[58]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM195468
-[59]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM195470
-[60]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM408960
+[29]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM15179
+[30]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23804
+[31]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM415531
+[32]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM394841
+[33]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM324218
+[34]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM419973
+[35]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420156
+[36]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420285
+[37]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM420626
+[38]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM280664
+[39]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88540
+[40]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88956
+[41]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM88959
+[42]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM103609
+[43]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM305839
+[44]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM4005402
+[45]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM45426
+[46]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM4005646
+[47]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM15300
+[48]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23831
+[49]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM23830
+[50]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM25828
+[51]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM19860
+[52]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM280655
+[53]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM2998516
+[54]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM2998515
+[55]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM2998532
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[57]: http://www.legislation.govt.nz/act/local/1987/0005/latest/link.aspx?id=DLM408960
