@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -298,11 +298,11 @@ An Act to consolidate and amend certain enactments relating to the administratio
     
     *   (b) does not include, subject to paragraph (a), any agreement under which property in the goods passes absolutely to the person who agrees to purchase them at the time of the agreement or upon or at any time before delivery of the goods
     
-    _intestate_ includes a person who leaves a will but dies intestate as to some beneficial interest in his real or personal estate
+    _intestate_ includes a person who leaves a will but dies intestate as to some beneficial interest in his or her real or personal estate
     
     _Maori_ means a Maori within the meaning of [Te Ture Whenua Maori Act 1993][115]
     
-    _personal chattels_, in relation to any person who has died, means all vehicles, boats, and aircraft and their accessories, garden effects, horses, stable furniture and effects, domestic animals, plate, plated articles, linen, china, glass, books, pictures, prints, furniture, jewellery, articles of household or personal use or ornament, musical and scientific instruments and apparatus, wines, liquors, and consumable stores, which immediately before his death were owned by him or in which immediately before his death he had an interest as debtor under a security interest as defined in the [Personal Property Securities Act 1999][116], or as purchaser under a hire purchase agreement; but does not include any chattels used exclusively or principally at the death of the deceased for business purposes or money or securities for money
+    _personal chattels_, in relation to any person who has died, means all vehicles, boats, and aircraft and their accessories, garden effects, horses, stable furniture and effects, domestic animals, plate, plated articles, linen, china, glass, books, pictures, prints, furniture, jewellery, articles of household or personal use or ornament, musical and scientific instruments and apparatus, wines, liquors, and consumable stores, which immediately before his or her death were owned by him or her or in which immediately before his or her death he or she had an interest as debtor under a security interest as defined in the [Personal Property Securities Act 1999][116], or as purchaser under a hire purchase agreement; but does not include any chattels used exclusively or principally at the death of the deceased for business purposes or money or securities for money
     
     _real estate_ means lands, tenements, and hereditaments, corporeal or incorporeal, and whether in possession, reversion, remainder, or expectancy; and any estate or interest in them or any of them, whether freehold or chattel interests; and any possibility, right, or title of entry or action in or concerning them or any of them
     
@@ -322,13 +322,13 @@ An Act to consolidate and amend certain enactments relating to the administratio
     
     References to a child or issue living at the death of any person include a child or issue who is conceived but not born at the death but who is subsequently born alive.
     
-    (2) Nothing in this Act shall affect any special provision in any Act for the time being in force relating to the wills of Maoris or to the obtaining of administration of the estate of a deceased Maori or the distribution of the estate of a deceased Maori.
+    (2) Nothing in this Act shall affect any special provision in any Act for the time being in force relating to the wills of Maori or to the obtaining of administration of the estate of a deceased Maori or the distribution of the estate of a deceased Maori.
     
     Compare: 1952 No 56 s 2
     
     Section 2(1) **court**: amended, on 1 April 1980, pursuant to [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 2(1) **de facto relationship**: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 4][119] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 2(1) **de facto relationship**: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 4][119] of the Administration Amendment Act 2001 (2001 No 6).
     
     Section 2(1) **goods**: inserted, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
@@ -344,9 +344,7 @@ An Act to consolidate and amend certain enactments relating to the administratio
     
     Section 2(1) **Registrar**: amended, on 1 April 1980, pursuant to [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 2(1) **surviving de facto partner**: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 4][119] of the Administration Amendment Act 2001 (2001 No 6).
-    
-    Section 2(1) **trustee corporation**: amended, on 1 July 2009, pursuant to section 30(2)(a) of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 2(1) **surviving de facto partner**: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 4][119] of the Administration Amendment Act 2001 (2001 No 6).
     
     Section 2(1) **trustee corporation**: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
@@ -389,7 +387,7 @@ Administration by administrator
     
 *   (1) In granting letters of administration with or without a will annexed, or an order to administer with or without a will annexed, in respect of the estate of any deceased person or any part thereof, the court shall have regard to the rights of all persons interested in the estate of the deceased person or the proceeds of sale thereof, and, in particular, administration with a will annexed may be granted to a devisee or legatee; and any such administration may be limited in any way the court thinks fit:
     
-    provided that, subject to the provisions of subsection (2), where the deceased died wholly intestate as to his estate, administration shall be granted to some 1 or more persons beneficially interested in the estate of the deceased, if they make an application for the purpose.
+    provided that, subject to the provisions of subsection (2), where the deceased died wholly intestate as to his or her estate, administration shall be granted to some 1 or more persons beneficially interested in the estate of the deceased, if they make an application for the purpose.
     
     (2) Where by reason of the insolvency of the estate or other special circumstances the court thinks it necessary or expedient to do so, it may---
         
@@ -399,11 +397,11 @@ Administration by administrator
     
     (3) A grant may be made under subsection (2) notwithstanding that any person excluded from the grant would be competent to take it.
     
-    (4) Before determining to exclude from any such grant any person who, apart from this section, would by law be entitled to, or be included in, the grant, and wishes to have, or to be so included in, the grant, the court shall have regard to his competency and solvency, his ability effectively to administer the estate, the rights of all persons interested in the estate, and any changes in circumstances between the making of the will (if any) and the time when the court is asked to make the grant.
+    (4) Before determining to exclude from any such grant any person who, apart from this section, would by law be entitled to, or be included in, the grant, and wishes to have, or to be so included in, the grant, the court shall have regard to his or her competency and solvency, his or her ability effectively to administer the estate, the rights of all persons interested in the estate, and any changes in circumstances between the making of the will (if any) and the time when the court is asked to make the grant.
     
     (5) The court may, in its discretion, make any grant of administration (other than the probate of a will) conditional upon the person to whom the grant is made giving such security as the court may require for the due collection, getting in, and administration of the estate of the deceased:
     
-    provided that the court shall not require any trustee corporation, or any person obtaining administration to the use or for the benefit of Her Majesty, to give any such security.
+    provided that the court shall not require any trustee corporation, or any person obtaining administration to the use or for the benefit of the Sovereign, to give any such security.
     
     (6) The court shall not exercise its powers under subsection (5) unless it is satisfied that, in the special circumstances of the case, the imposition of the requirement of security would be expedient having regard to the following matters:
         
@@ -411,9 +409,9 @@ Administration by administrator
     
     *   (b) the financial position of the proposed administrator:
     
-    *   (c) the extent of his interest (if any) in the estate:
+    *   (c) the extent of his or her interest (if any) in the estate:
     
-    *   (d) whether or not he is a creditor in the estate:
+    *   (d) whether or not he or she is a creditor in the estate:
     
     *   (e) whether or not there are any minor beneficiaries or beneficiaries under any other disability:
     
@@ -431,7 +429,7 @@ Administration by administrator
 
 ##### 7 Administration pending legal proceedings
     
-*   (1) Where any legal proceedings touching the validity of the will of a deceased person, or for obtaining, recalling, or revoking any grant of administration, are pending, the court may grant administration of the estate of the deceased to a temporary administrator, who shall, until he is discharged or removed under [section 21][27], have all the rights and powers of a general administrator, other than the right of distributing the balance of the estate remaining after payment of debts, funeral and testamentary expenses, duties, and fees, and every such temporary administrator shall be subject to the immediate control of the court and act under its direction.
+*   (1) Where any legal proceedings touching the validity of the will of a deceased person, or for obtaining, recalling, or revoking any grant of administration, are pending, the court may grant administration of the estate of the deceased to a temporary administrator, who shall, until he or she is discharged or removed under [section 21][27], have all the rights and powers of a general administrator, other than the right of distributing the balance of the estate remaining after payment of debts, funeral and testamentary expenses, duties, and fees, and every such temporary administrator shall be subject to the immediate control of the court and act under its direction.
     
     (2) The court may, out of the estate of the deceased, grant to a temporary administrator appointed under this section such reasonable remuneration as the court thinks fit.
     
@@ -439,7 +437,7 @@ Administration by administrator
 
 ##### 8 Grant of special administration where administrator is out of New Zealand
     
-*   (1) If at any time after the death of a person any administrator of his estate is residing out of New Zealand, the court may, on the application of any creditor or person interested in the estate, grant to him or some other person special administration of the estate of the deceased in such form and with such powers as the court may direct or approve. Unless the court otherwise directs, every grant of special administration shall continue until the administrator to whom the grant is made is discharged or removed under [section 21][27].
+*   (1) If at any time after the death of a person any administrator of his or her estate is residing out of New Zealand, the court may, on the application of any creditor or person interested in the estate, grant to him or her or some other person special administration of the estate of the deceased in such form and with such powers as the court may direct or approve. Unless the court otherwise directs, every grant of special administration shall continue until the administrator to whom the grant is made is discharged or removed under [section 21][27].
     
     (2) While a grant of special administration of the estate of a deceased person remains in force the previously subsisting administration of that estate shall be deemed to be suspended, and the administrator thereunder shall not be liable for acts and things done by the administrator under the grant of special administration.
     
@@ -453,21 +451,21 @@ Administration by administrator
 
 ##### 9 Administration during minority of executor
     
-*   (1) Where a person who is sole executor of a will is at the date of the testator's death a minor who is not entitled to a grant of probate under subsection (3), administration with the will annexed may be granted to such person as the court thinks fit, until the minor becomes entitled to and obtains a grant of probate to him; and on his attaining full age or sooner becoming entitled to a grant of probate under that subsection and not before, probate of the will may be granted to him.
+*   (1) Where a person who is sole executor of a will is at the date of the testator's death a minor who is not entitled to a grant of probate under subsection (3), administration with the will annexed may be granted to such person as the court thinks fit, until the minor becomes entitled to and obtains a grant of probate to him or her; and on his or her attaining full age or sooner becoming entitled to a grant of probate under that subsection and not before, probate of the will may be granted to him or her.
     
-    (2) Where a testator by his will appoints a person who at his death is a minor who is not entitled to a grant of probate under subsection (3) to be an executor, the appointment shall not operate to transfer any interest in the estate of the deceased to the minor or to constitute him an administrator for any purpose, unless and until probate is granted to him under this section.
+    (2) Where a testator by his or her will appoints a person who at his or her death is a minor who is not entitled to a grant of probate under subsection (3) to be an executor, the appointment shall not operate to transfer any interest in the estate of the deceased to the minor or to constitute him or her an administrator for any purpose, unless and until probate is granted to him or her under this section.
     
-    (3) Where a testator by his will appoints a person who is a minor to be an executor, probate of the will may be granted to the person if, at the date of the grant,---
+    (3) Where a testator by his or her will appoints a person who is a minor to be an executor, probate of the will may be granted to the person if, at the date of the grant,---
         
     *   (a) the person has attained full age; or
     
     *   (b) the person has attained the age of 18 years and is or has been married or in a civil union.
     
-    (4) A minor to whom probate is granted under paragraph (b) of subsection (3) shall have the same rights, powers, duties, and obligations as executor as he would have if he were of full age, and shall be liable accordingly for his acts and omissions as executor.
+    (4) A minor to whom probate is granted under paragraph (b) of subsection (3) shall have the same rights, powers, duties, and obligations as executor as he or she would have if he or she were of full age, and shall be liable accordingly for his or her acts and omissions as executor.
     
     Compare: Supreme Court of Judicature (Consolidation) Act 1925 s 165 (UK)
     
-    Section 9(3)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 4][126] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 9(3)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 4][126] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 9A Grant of administration to holder of enduring power of attorney
     
@@ -569,8 +567,6 @@ Administration by administrator
     
     Section 9B: inserted, on 3 July 1998, by [section 2][130] of the Administration Amendment Act (No 2) 1998 (1998 No 82).
     
-    Section 9B(4)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-    
     Section 9B(4)(c): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 10 Administration with will annexed
@@ -591,9 +587,9 @@ Administration by administrator
     
     his rights in respect of the executorship shall wholly cease, and the representation to the testator and the administration of the testator's estate shall devolve and be committed as if that person had not been appointed executor.
     
-    (2) Where a person is appointed by a will to be both executor and trustee and his rights in respect of the executorship wholly cease under subsection (1), his rights in respect of the trusteeship shall also wholly cease and the trusteeship shall devolve or be determined as if he had not been appointed as trustee:
+    (2) Where a person is appointed by a will to be both executor and trustee and his or her rights in respect of the executorship wholly cease under subsection (1), his or her rights in respect of the trusteeship shall also wholly cease and the trusteeship shall devolve or be determined as if he or she had not been appointed as trustee:
     
-    provided that nothing in this subsection shall prevent his subsequent appointment as trustee.
+    provided that nothing in this subsection shall prevent his or her subsequent appointment as trustee.
     
     Compare: Administration of Estates Act 1925 s 5 (UK)
 
@@ -613,7 +609,7 @@ Administration by administrator
     
 *   (1) An executor of a sole or last surviving executor of a testator shall be the executor of that testator:
     
-    provided that for the purposes of the foregoing provisions of this subsection a person who does not prove the will of his testator shall be deemed not to be an executor notwithstanding his appointment as such by the will, and in the case of an executor who on his death leaves surviving him some other executor of his testator who at the time of the testator's death has not proved but who afterwards proves the will of that testator, it shall cease to apply when probate to the surviving executor is granted.
+    provided that for the purposes of the foregoing provisions of this subsection a person who does not prove the will of his or her testator shall be deemed not to be an executor notwithstanding his or her appointment as such by the will, and in the case of an executor who on his or her death leaves surviving him or her some other executor of his or her testator who at the time of the testator's death has not proved but who afterwards proves the will of that testator, it shall cease to apply when probate to the surviving executor is granted.
     
     (2) So long as the chain of representation is unbroken, the last executor in the chain is the executor of every preceding testator.
     
@@ -631,7 +627,7 @@ Administration by administrator
         
     *   (a) has the same rights in respect of the estate of that testator as the original executor would have had if living; and
     
-    *   (b) is, to the extent to which the estate of that testator has come to his hands, answerable as if he were an original executor.
+    *   (b) is, to the extent to which the estate of that testator has come to his or her hands, answerable as if he or she were an original executor.
     
     Compare: Administration of Estates Act 1925 s 7 (UK)
 
@@ -639,19 +635,19 @@ Administration by administrator
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 21  November 1973, by section 2 of the Administration Amendment Act 1973 (1973 No 47).
+    Section 14: repealed, on 21 November 1973, by section 2 of the Administration Amendment Act 1973 (1973 No 47).
 
 ##### 15 Administration bond
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 January 1980, by [section 4(1)][136] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 15: repealed, on 1 January 1980, by [section 4(1)][135] of the Administration Amendment Act 1979 (1979 No 38).
 
 ##### 16 Proceedings if condition of bond broken
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 January 1980, by [section 4(1)][136] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 16: repealed, on 1 January 1980, by [section 4(1)][135] of the Administration Amendment Act 1979 (1979 No 38).
 
 ##### 17 Administration as evidence
     
@@ -661,21 +657,21 @@ Administration by administrator
 
 ##### 18 Certificates of administration
     
-*   (1) Subject to the provisions of subsection (2), at any time after the grant of the relevant administration the Registrar may, on the request of the administrator, issue under his hand and the seal of the court such number of certificates of administration, in the form set out in [Schedule 1][109], as may be required.
+*   (1) Subject to the provisions of subsection (2), at any time after the grant of the relevant administration the Registrar may, on the request of the administrator, issue under his or her hand and the seal of the court such number of certificates of administration, in the form set out in [Schedule 1][109], as may be required.
     
     (2) \[Repealed\]
     
-    (3) Every such certificate shall, in the absence of proof to the contrary, be sufficient evidence of the death and the date of death of the testator or intestate and of the grant of administration to the administrator for all purposes including registering the administrator as proprietor of any estate or interest in any land under the [Land Transfer Act 1952][137], or of any mining privilege under the Mining Act 1926, or of any securities issued by or property in any bank or company or body or association. No District Land Registrar or Mining Registrar or bank or company or body or association to which any such certificate is produced shall be concerned to inquire concerning the trusts on which the administrator holds any such land or mining privilege or securities or property, or (except where a caveat has been lodged under the authority of the Land Transfer Act 1952) as to his authority to transfer or deal with the same.
+    (3) Every such certificate shall, in the absence of proof to the contrary, be sufficient evidence of the death and the date of death of the testator or intestate and of the grant of administration to the administrator for all purposes including registering the administrator as proprietor of any estate or interest in any land under the [Land Transfer Act 1952][136], or of any mining privilege under the Mining Act 1926, or of any securities issued by or property in any bank or company or body or association. No District Land Registrar or Mining Registrar or bank or company or body or association to which any such certificate is produced shall be concerned to inquire concerning the trusts on which the administrator holds any such land or mining privilege or securities or property, or (except where a caveat has been lodged under the authority of the Land Transfer Act 1952) as to his or her authority to transfer or deal with the same.
     
-    (4) The fee payable to the Registrar in respect of each such certificate shall be $1 or such other amount as may from time to time be prescribed by the Governor-General by Order in Council.
+    (4) The fee payable to the Registrar in respect of each such certificate shall be $30 or such other amount as may from time to time be prescribed by the Governor-General by Order in Council.
     
     Compare: 1952 No 56 s 8A; 1957 No 38 s 2(1)
     
-    Section 18(1): amended, on 1 January 1986, by [section 11(2)][138] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
+    Section 18(1): amended, on 1 January 1986, by [section 11(2)][137] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
     
-    Section 18(2): repealed, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 18(2): repealed, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 18(4): $18.10 is the fee payable to the Registrar for the purposes of section 18(4), on 1 July 2011, by [regulation 2][140] of the Administration (Fee) Regulations 1997 (SR 1997/330).
+    Section 18(4): amended, on 1 July 2013, by [regulation 5(1)][139] of the High Court Fees Regulations 2013 (SR 2013/226).
 
 ##### 19 Proceedings where executor neglects to prove will
     
@@ -691,17 +687,11 @@ Administration by administrator
     
     Compare: 1952 No 56 s 9
     
-    Section 19(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-    
     Section 19(1): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
-    
-    Section 19(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 19(3): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
     Section 19(4): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
-    
-    Section 19(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 19(5): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
@@ -709,7 +699,7 @@ Administration by administrator
     
 *   (1) Immediately on the grant of probate under subsection (4) of section 19---
         
-    *   (a) all the powers, rights, discretions, and duties of Public Trust or the Māori Trustee (except those conferred or imposed by the [Public Trust Act 2001][141] or the [Maori Trustee Act 1953][142] and except also the rights reserved by this section) in relation to the testator's estate, and all liability of Public Trust or the Māori Trustee under any contract or agreement entered into by him, or otherwise affecting or relating to the estate or any part thereof, shall pass to the executor obtaining probate:
+    *   (a) all the powers, rights, discretions, and duties of Public Trust or the Māori Trustee (except those conferred or imposed by the [Public Trust Act 2001][140] or the [Maori Trustee Act 1953][141] and except also the rights reserved by this section) in relation to the testator's estate, and all liability of Public Trust or the Māori Trustee under any contract or agreement entered into by him or her, or otherwise affecting or relating to the estate or any part thereof, shall pass to the executor obtaining probate:
     
     *   (b) no claim shall thereafter lie against Public Trust or the Māori Trustee in respect of any such liability:
         
@@ -717,37 +707,33 @@ Administration by administrator
     
     *   (c) subject to and on the allowance and payment of all money due for commission, necessary outlay, disbursements, costs, charges, and expenses affecting the estate, including the costs of and incidental to the application for probate, and consequent thereon, and subject also to the provisions of this section and [section 19][25], such portion of the estate as is then unadministered by Public Trust or the Māori Trustee shall vest in the executor obtaining probate.
     
-    (2) Nothing in this section shall relieve Public Trust or the Māori Trustee from the consequences of his own devastavit.
+    (2) Nothing in this section shall relieve Public Trust or the Māori Trustee from the consequences of his or her own devastavit.
     
     Compare: 1952 No 56 s 10
     
-    Section 20 heading: amended, on 1 July 2009, by [section 30(1)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20 heading: amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20 heading: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 20(1)(a): amended, on 1 July 2009, by [section 30(1)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20(1)(a): amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20(1)(a): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 20(1)(b): amended, on 1 July 2009, by [section 30(1)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20(1)(b): amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20(1)(b): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 20(1)(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-    
     Section 20(1)(c): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
-    
-    Section 20(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20(2): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 21 Discharge or removal of administrator
     
-*   (1) Where an administrator is absent from New Zealand for 12 months without leaving a lawful attorney, or desires to be discharged from the office of administrator, or becomes incapable of acting as administrator or unfit to so act, or where it becomes expedient to discharge or remove an administrator, the court may discharge or remove that administrator, and may if it thinks fit appoint any person to be administrator in his place, on such terms and conditions in all respects as the court thinks fit.
+*   (1) Where an administrator is absent from New Zealand for 12 months without leaving a lawful attorney, or desires to be discharged from the office of administrator, or becomes incapable of acting as administrator or unfit to so act, or where it becomes expedient to discharge or remove an administrator, the court may discharge or remove that administrator, and may if it thinks fit appoint any person to be administrator in his or her place, on such terms and conditions in all respects as the court thinks fit.
     
     (2) The administrator so removed or discharged shall, from the date of that order, cease to be liable for acts and things done after that date.
     
-    (3) Upon any administrator being discharged or removed as aforesaid (whether or not any other administrator is appointed) all the estate and rights of the previous administrator or administrators which were vested in him or them as such shall become and be vested in the continuing administrator or administrators (including any administrator appointed under subsection (1)) who shall have the same powers, authorities, discretions, and duties, and may in all respects act, as if he or they had been originally appointed as the administrator or administrators.
+    (3) Upon any administrator being discharged or removed as aforesaid (whether or not any other administrator is appointed) all the estate and rights of the previous administrator or administrators which were vested in him or her or them as such shall become and be vested in the continuing administrator or administrators (including any administrator appointed under subsection (1)) who shall have the same powers, authorities, discretions, and duties, and may in all respects act, as if he or she or they had been originally appointed as the administrator or administrators.
     
     (4) This section shall, with all necessary modifications, extend to the case where an administrator dies, and the powers and authorities hereby conferred may be exercised and shall take effect accordingly.
     
@@ -759,7 +745,7 @@ Administration by administrator
 
 ##### 22 Interim vesting of estate where no executor appointed
     
-*   (1) Subject to the provisions of this Act and any other Act, where a person dies without leaving a will that effectively appoints an executor, his estate shall, until administration is granted in respect thereof, vest in the Crown in the same manner and to the same extent as formerly in England in the case of personal property it vested in the ordinary.
+*   (1) Subject to the provisions of this Act and any other Act, where a person dies without leaving a will that effectively appoints an executor, his or her estate shall, until administration is granted in respect thereof, vest in the Crown in the same manner and to the same extent as formerly in England in the case of personal property it vested in the ordinary.
     
     (2) While any estate remains vested in the Crown in accordance with this section, the [Crown Proceedings Act 1950][143] shall apply to the service on the Crown of notices and documents relating to the estate as if they related to civil proceedings instituted against the Crown.
     
@@ -773,11 +759,11 @@ Administration by administrator
 
 ##### 24 Estate to vest in administrator
     
-*   (1) Immediately upon the grant of administration of the estate of any deceased person, all the estate then unadministered of that person, whether held by him beneficially or held by him in trust, shall vest in the administrator to whom the administration is granted for all the estate therein of that person:
+*   (1) Immediately upon the grant of administration of the estate of any deceased person, all the estate then unadministered of that person, whether held by him or her beneficially or held by him or her in trust, shall vest in the administrator to whom the administration is granted for all the estate therein of that person:
     
     provided that nothing in this section shall affect the earlier vesting in an executor by operation of law.
     
-    (2) The title of every administrator to any part of the estate of a deceased person, whether he has died before or after the commencement of this Act, shall relate back to and be deemed to have arisen immediately upon the death of the deceased person, as if there had been no interval of time between the death and the grant of administration.
+    (2) The title of every administrator to any part of the estate of a deceased person, whether he or she has died before or after the commencement of this Act, shall relate back to and be deemed to have arisen immediately upon the death of the deceased person, as if there had been no interval of time between the death and the grant of administration.
     
     (3) If there are concurrently more administrators than 1 of any part of the estate that part shall vest in them as joint tenants.
     
@@ -797,13 +783,13 @@ Administration by administrator
 
 ##### 26 Estate to be assets for payment of debts, etc
     
-*   The whole of the estate of every deceased person shall be assets in the hands of his administrator for the payment of all duties and fees payable under any Act imposing or charging duties or fees on the estates of deceased persons, and for the payment in the ordinary course of administration of his debts and of debts properly incurred by his administrator; and for those purposes the administrator may, in as full and effectual a manner in law as the testator or intestate could have done in his lifetime, sell, lease (with or without an optional or compulsory purchasing clause), or mortgage (with or without a power of sale), the estate, or any part thereof.
+*   The whole of the estate of every deceased person shall be assets in the hands of his or her administrator for the payment of all duties and fees payable under any Act imposing or charging duties or fees on the estates of deceased persons, and for the payment in the ordinary course of administration of his or her debts and of debts properly incurred by his or her administrator; and for those purposes the administrator may, in as full and effectual a manner in law as the testator or intestate could have done in his or her lifetime, sell, lease (with or without an optional or compulsory purchasing clause), or mortgage (with or without a power of sale), the estate, or any part thereof.
     
     Compare: 1952 No 56 s 14
 
 ##### 27 Power of sale on intestacy
     
-*   (1) On the death of a person intestate as to any real or personal estate, his administrator shall have power to sell that real estate and to call in, sell, and convert into money such part of that personal estate as may not consist of money, with power to postpone the sale, calling in, and conversion for such a period as the administrator, without being liable to account, may think proper, and so that, unless required for purposes of administration owing to want of other assets, personal chattels be not sold under this section except for special reason.
+*   (1) On the death of a person intestate as to any real or personal estate, his or her administrator shall have power to sell that real estate and to call in, sell, and convert into money such part of that personal estate as may not consist of money, with power to postpone the sale, calling in, and conversion for such a period as the administrator, without being liable to account, may think proper, and so that, unless required for purposes of administration owing to want of other assets, personal chattels be not sold under this section except for special reason.
     
     (2) This section shall have effect notwithstanding that the administrator has ceased to hold the real or personal estate as administrator and holds it as trustee.
     
@@ -823,19 +809,19 @@ Administration by administrator
 
 ##### 29 Administrator to represent real estate
     
-*   In all actions concerning the real estate of a deceased person, his administrator shall represent his real estate and the persons interested therein in the same manner and to the same extent as, in actions concerning personal estate, the administrator represents that estate and the persons interested therein.
+*   In all actions concerning the real estate of a deceased person, his or her administrator shall represent his or her real estate and the persons interested therein in the same manner and to the same extent as, in actions concerning personal estate, the administrator represents that estate and the persons interested therein.
     
     Compare: 1952 No 56 s 18
 
 ##### 30 Rights and duties of administrator as to real estate
     
-*   The administrator of any deceased person shall have the same rights and be subject to the same duties and liabilities with respect to the real estate of that person as he has and is subject to with respect to the personal estate of that person, and shall perform the duties imposed on the administrator by any Act imposing or charging duties or fees or liabilities on the estates of deceased persons.
+*   The administrator of any deceased person shall have the same rights and be subject to the same duties and liabilities with respect to the real estate of that person as he or she has and is subject to with respect to the personal estate of that person, and shall perform the duties imposed on the administrator by any Act imposing or charging duties or fees or liabilities on the estates of deceased persons.
     
     Compare: 1952 No 56 s 20
 
 ##### 31 Payment of claims where estate insufficient
     
-*   Where the estate within the meaning of [Part 6][145] of the Insolvency Act 2006 of any deceased person is insufficient to pay his debts, funeral, and testamentary expenses in full, it shall be lawful for the administrator to apply that estate in accordance with the priorities that would be applicable if it were being administered under that Part, without the administrator being under any obligation to have recourse to that Part or to administer that estate thereunder, and any surplus shall be held for the person or persons lawfully entitled thereto.
+*   Where the estate within the meaning of [Part 6][145] of the Insolvency Act 2006 of any deceased person is insufficient to pay his or her debts, funeral, and testamentary expenses in full, it shall be lawful for the administrator to apply that estate in accordance with the priorities that would be applicable if it were being administered under that Part, without the administrator being under any obligation to have recourse to that Part or to administer that estate thereunder, and any surplus shall be held for the person or persons lawfully entitled thereto.
     
     Compare: 1957 No 36 s 104
     
@@ -843,7 +829,7 @@ Administration by administrator
 
 ##### 32 Administration suits
     
-*   (1) In any case where the assets of any deceased person are being administered by the court (whether the person has died before or after the commencement of this Act) if his estate proves to be insufficient for the payment in full of his debts and liabilities, the same rules shall apply and be observed as would be applicable if the estate were being administered under [Part 6][145] of the Insolvency Act 2006, and all persons who in any such case would be entitled to prove for and receive dividends out of the estate of the deceased person may come in under the decree or order for the administration of the estate and make such claims against it as they may respectively be entitled to by virtue of that Part and this Act.
+*   (1) In any case where the assets of any deceased person are being administered by the court (whether the person has died before or after the commencement of this Act) if his or her estate proves to be insufficient for the payment in full of his or her debts and liabilities, the same rules shall apply and be observed as would be applicable if the estate were being administered under [Part 6][145] of the Insolvency Act 2006, and all persons who in any such case would be entitled to prove for and receive dividends out of the estate of the deceased person may come in under the decree or order for the administration of the estate and make such claims against it as they may respectively be entitled to by virtue of that Part and this Act.
     
     (2) In any action or other proceeding for the administration by the court of the estate of any deceased person, no court shall have jurisdiction to order or allow payment of costs out of the estate to the party responsible for the commencement or continuance of the action or proceeding, unless the court first certifies that there were reasonable grounds for the action being commenced or continued, and then only to the extent to which the continuance was necessary.
     
@@ -855,19 +841,19 @@ Administration by administrator
     
 *   Subject to the provisions of this Act and of any other Act, in the administration of the estate of every person who has died, whether before or after the commencement of this Act, no debt or liability of the person shall be entitled to any priority or preference by reason merely that it arises under a bond, deed, or instrument under seal; but all the creditors of that person shall be treated as standing in equal degree and be paid accordingly out of the assets of the deceased person, whether those assets are legal or equitable:
     
-    provided that nothing in this section shall prejudice or affect any lien, charge, mortgage, or other security which any creditor may hold or be entitled to for payment of his debt or liability.
+    provided that nothing in this section shall prejudice or affect any lien, charge, mortgage, or other security which any creditor may hold or be entitled to for payment of his or her debt or liability.
     
     Compare: 1952 No 56 s 21
 
 ##### 34 Charges on property of deceased to be paid primarily out of the property charged
     
-*   (1) Where a person dies possessed of, or entitled to, or under a general power of appointment by his will disposes of, an interest in property, or where an interest in property passes by survivorship on the death of a person, and at the time of his death the interest is charged with the payment of money, whether by way of mortgage, charge, or otherwise, and the deceased has not by will, deed, or other document signified a contrary or other intention, the interest so charged shall, as between the different persons claiming through the deceased, be primarily liable for payment of all amounts charged thereon; and every part of the said interest, according to its value, shall bear a proportionate part of the amounts charged on the whole thereof.
+*   (1) Where a person dies possessed of, or entitled to, or under a general power of appointment by his or her will disposes of, an interest in property, or where an interest in property passes by survivorship on the death of a person, and at the time of his or her death the interest is charged with the payment of money, whether by way of mortgage, charge, or otherwise, and the deceased has not by will, deed, or other document signified a contrary or other intention, the interest so charged shall, as between the different persons claiming through the deceased, be primarily liable for payment of all amounts charged thereon; and every part of the said interest, according to its value, shall bear a proportionate part of the amounts charged on the whole thereof.
     
     (1A) However, subsection (1) does not apply to an interest in any personal chattels if a person dies possessed of or entitled to the interest and it passes under the will or on the intestacy of the person to the person's husband, wife, or civil union partner, or to a surviving de facto partner of the person.
     
     (2) Such a contrary or other intention shall not be deemed to be signified---
         
-    *   (a) by a general direction for payment of debts or of all the debts of the testator out of his personal estate, or his residuary real and personal estate, or his residuary real estate, or his residuary personal estate; or
+    *   (a) by a general direction for payment of debts or of all the debts of the testator out of his or her personal estate, or his or her residuary real and personal estate, or his or her residuary real estate, or his or her residuary personal estate; or
     
     *   (b) by a charge of debts upon any such estate---
     
@@ -877,17 +863,17 @@ Administration by administrator
     
     Compare: [1952 No 51][147] [s 149][148]; Administration of Estates Act 1925 s 35 (UK)
     
-    Section 34(1) proviso: repealed, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 5(1)][149] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 34(1) proviso: repealed, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 5(1)][149] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 34(1A): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 5(2)][149] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 34(1A): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 5(2)][149] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 34(1A): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 5][150] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 34(1A): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 5][150] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 35 Articles held under hire purchase agreement
     
-*   (1) Where any person, immediately before his death, had an interest as purchaser under a hire purchase agreement of any goods, if the person has by his will made a bequest in terms that would have included the goods if he had owned them immediately before his death, the bequest shall take effect, unless the context otherwise requires, as if he then owned the goods.
+*   (1) Where any person, immediately before his or her death, had an interest as purchaser under a hire purchase agreement of any goods, if the person has by his or her will made a bequest in terms that would have included the goods if he or she had owned them immediately before his or her death, the bequest shall take effect, unless the context otherwise requires, as if he or she then owned the goods.
     
-    (2) Where any person, immediately before his death, had an interest as purchaser under a hire purchase agreement of any goods, the provisions of [section 34][41] shall apply as if he then owned the goods and as if any amount payable by the purchaser under the agreement (including, in any case where the agreement confers on the purchaser an option to purchase the goods, any amount payable in the event of the exercise of that option) and not already paid were a charge on the goods.
+    (2) Where any person, immediately before his or her death, had an interest as purchaser under a hire purchase agreement of any goods, the provisions of [section 34][41] shall apply as if he or she then owned the goods and as if any amount payable by the purchaser under the agreement (including, in any case where the agreement confers on the purchaser an option to purchase the goods, any amount payable in the event of the exercise of that option) and not already paid were a charge on the goods.
     
     (3) The provisions of this section are without prejudice to the rights of the vendor of the goods under or by virtue of the hire purchase agreement.
     
@@ -911,11 +897,11 @@ Administration by administrator
     
 *   \[Repealed\]
     
-    Section 36A: repealed, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 36A: repealed, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 37 Liability of specific devise or bequest where estate primarily liable is insufficient
     
-*   If any testator's estate primarily liable for the payment of his debts is insufficient for that purpose, each of his specifically devised or bequeathed estates (if more than 1) shall be liable to make good the deficiency, in the proportion that the value of each of those estates bears to the aggregate value of the specifically devised or bequeathed estates of the testator.
+*   If any testator's estate primarily liable for the payment of his or her debts is insufficient for that purpose, each of his or her specifically devised or bequeathed estates (if more than 1) shall be liable to make good the deficiency, in the proportion that the value of each of those estates bears to the aggregate value of the specifically devised or bequeathed estates of the testator.
     
     Compare: 1952 No 56 s 22
 
@@ -953,19 +939,19 @@ Administration by administrator
 
 ##### 40 No right of retainer by administrator
     
-*   No person, being a creditor in his own right or as a trustee of any estate of which he is administrator, shall, by virtue of his office as administrator, have any right of retainer in priority to the other creditors of the estate in respect of any debt due to him; but every such creditor or administrator shall rank with other creditors, but without prejudice to any preferential claim or security which as a creditor he might have been able to enforce if he had not been the administrator.
+*   No person, being a creditor in his or her own right or as a trustee of any estate of which he or she is administrator, shall, by virtue of his or her office as administrator, have any right of retainer in priority to the other creditors of the estate in respect of any debt due to him or her; but every such creditor or administrator shall rank with other creditors, but without prejudice to any preferential claim or security which as a creditor he or she might have been able to enforce if he or she had not been the administrator.
     
     Compare: 1952 No 56 s 26
 
 ##### 41 Rights and liabilities of administrator
     
-*   Every person to whom administration of the estate of a deceased person is granted, other than an executor, shall, subject to the limitations contained in the grant, have the same rights and liabilities and be accountable in like manner as if he were the executor of the deceased.
+*   Every person to whom administration of the estate of a deceased person is granted, other than an executor, shall, subject to the limitations contained in the grant, have the same rights and liabilities and be accountable in like manner as if he or she were the executor of the deceased.
     
     Compare: Administration of Estates Act 1925 s 21 (UK)
 
 ##### 42 Liability of agent of administrator
     
-*   No person appointed an administrator upon an application made by him as the attorney or agent for an administrator absent from New Zealand shall be liable to account or pay money, or transfer property, to any one in respect of his administratorship excepting only to the administrator whose attorney or agent he was, or to any person who, after his appointment as administrator upon an application so made, is appointed administrator of the same estate.
+*   No person appointed an administrator upon an application made by him or her as the attorney or agent for an administrator absent from New Zealand shall be liable to account or pay money, or transfer property, to any one in respect of his or her administratorship excepting only to the administrator whose attorney or agent he or she was, or to any person who, after his or her appointment as administrator upon an application so made, is appointed administrator of the same estate.
     
     Compare: 1952 No 56 s 27
 
@@ -983,11 +969,11 @@ Administration by administrator
 
 ##### 45 Protection of persons acting on administration
     
-*   (1) Every administrator or person who makes any payment or disposition or assumes any liability, or who permits any payment or disposition to be made, or who does any act, or who permits any act to be done, in good faith under an administration shall, notwithstanding any defect or circumstances whatsoever affecting the validity of the administration or its subsequent revocation, have the same indemnity and protection in so doing and in respect of all commission and remuneration earned by him in so doing, as he would if the administration were valid and not revoked.
+*   (1) Every administrator or person who makes any payment or disposition or assumes any liability, or who permits any payment or disposition to be made, or who does any act, or who permits any act to be done, in good faith under an administration shall, notwithstanding any defect or circumstances whatsoever affecting the validity of the administration or its subsequent revocation, have the same indemnity and protection in so doing and in respect of all commission and remuneration earned by him or her in so doing, as he or she would if the administration were valid and not revoked.
     
-    (2) Where an administration is revoked, all payments and dispositions made in good faith to an administrator before the revocation thereof shall be valid discharges to the person making the same; and the administrator who acted under the revoked administration may retain and reimburse himself out of the estate that comes into his hands in respect of any acts, payments, dispositions, liabilities, commission, and remuneration in respect of which he is indemnified as aforesaid or which the person to whom administration is afterwards granted might have properly made.
+    (2) Where an administration is revoked, all payments and dispositions made in good faith to an administrator before the revocation thereof shall be valid discharges to the person making the same; and the administrator who acted under the revoked administration may retain and reimburse himself or herself out of the estate that comes into his or her hands in respect of any acts, payments, dispositions, liabilities, commission, and remuneration in respect of which he or she is indemnified as aforesaid or which the person to whom administration is afterwards granted might have properly made.
     
-    (3) Nothing in subsection (1) shall affect or prejudice the rights of any person entitled to any money or property that has been the subject of a payment or disposition to which that subsection relates against any person (other than the administrator in that capacity) to whom the payment or disposition has been made, but the person so entitled shall have the same remedy against the person (other than the administrator in that capacity) to whom the payment or disposition was made as he would have had against the administrator if the payment or disposition had not been made.
+    (3) Nothing in subsection (1) shall affect or prejudice the rights of any person entitled to any money or property that has been the subject of a payment or disposition to which that subsection relates against any person (other than the administrator in that capacity) to whom the payment or disposition has been made, but the person so entitled shall have the same remedy against the person (other than the administrator in that capacity) to whom the payment or disposition was made as he or she would have had against the administrator if the payment or disposition had not been made.
     
     (4) Nothing in this section shall restrict [section 51][59].
     
@@ -1025,15 +1011,15 @@ Administration by administrator
     
     *   (f) arising out of contracts to make a will containing certain provisions or not to revoke an existing will or specified provision therein or not to make a will.
     
-    (2) No action shall lie against the administrator or trustee of the estate of any deceased person by reason of his having distributed any part of the estate, and no application or order to which this section applies shall disturb the distribution, if it was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee for the purpose of providing for the maintenance, support, or education of any person who was totally or partially dependent on the deceased immediately before the death of the deceased, whether or not the administrator or trustee had notice at the time of the distribution of any application or intention to make any application that would affect the estate, being an application to which this section applies.
+    (2) No action shall lie against the administrator or trustee of the estate of any deceased person by reason of his or her having distributed any part of the estate, and no application or order to which this section applies shall disturb the distribution, if it was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee for the purpose of providing for the maintenance, support, or education of any person who was totally or partially dependent on the deceased immediately before the death of the deceased, whether or not the administrator or trustee had notice at the time of the distribution of any application or intention to make any application that would affect the estate, being an application to which this section applies.
     
-    (3) No person who may have made or may be entitled to make an application to which this section applies shall be entitled to bring an action against the administrator or trustee by reason of his having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee after the person (being of full legal capacity) has advised the administrator or trustee in writing or acknowledged in any document that the person either---
+    (3) No person who may have made or may be entitled to make an application to which this section applies shall be entitled to bring an action against the administrator or trustee by reason of his or her having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee after the person (being of full legal capacity) has advised the administrator or trustee in writing or acknowledged in any document that the person either---
         
     *   (a) consents to the distribution; or
     
     *   (b) does not intend to make any application that would affect the proposed distribution.
     
-    (4) No action shall lie against the administrator or trustee by reason of his having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee after the expiration of 6 months from the date of the grant in New Zealand of administration in the estate of the deceased, and before service on him of any application, and without notice in writing of any application or intention to make an application that would affect the estate, being an application to which this section applies.
+    (4) No action shall lie against the administrator or trustee by reason of his or her having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48, by the administrator or trustee after the expiration of 6 months from the date of the grant in New Zealand of administration in the estate of the deceased, and before service on him or her of any application, and without notice in writing of any application or intention to make an application that would affect the estate, being an application to which this section applies.
     
     (5) Subsection (4) does not apply to protect an administrator who, at the time of making a distribution, had reason to suspect that the death of the deceased was a homicide and the person to whom the distribution was made was a killer of the deceased.
     
@@ -1041,9 +1027,9 @@ Administration by administrator
     
     Section 47(1): replaced, on 1 July 1992, by [section 242(1)][162] of the Child Support Act 1991 (1991 No 142).
     
-    Section 47(1)(ca): repealed, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 6][163] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 47(1)(ca): repealed, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 6][163] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 47(1)(d): replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 6][163] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 47(1)(d): replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 6][163] of the Administration Amendment Act 2001 (2001 No 6).
     
     Section 47(1)(ea): inserted, on 17 November 2007, by [section 17][124] of the Succession (Homicide) Act 2007 (2007 No 95).
     
@@ -1051,13 +1037,13 @@ Administration by administrator
 
 ##### 48 Notices and distributions
     
-*   (1) For the purposes of this section and of [section 47][55], notice in writing to an administrator or trustee of an intention to make any application to which [section 47][55] applies shall lapse and shall be incapable of being renewed, so as to impose liability on the administrator or trustee in respect of a distribution thereafter, and the administrator or trustee may act as if he had not received the notice, unless, before the expiration of 3 months after the date on which he first receives notice in writing of the intention to make the application, the administrator or trustee is served with a copy of the application or receives notice in writing that the application has been made to the court:
+*   (1) For the purposes of this section and of [section 47][55], notice in writing to an administrator or trustee of an intention to make any application to which [section 47][55] applies shall lapse and shall be incapable of being renewed, so as to impose liability on the administrator or trustee in respect of a distribution thereafter, and the administrator or trustee may act as if he or she had not received the notice, unless, before the expiration of 3 months after the date on which he or she first receives notice in writing of the intention to make the application, the administrator or trustee is served with a copy of the application or receives notice in writing that the application has been made to the court:
     
     provided that nothing in this subsection shall prevent the subsequent making of the application within the period allowed by law.
     
     (2) Notwithstanding the provisions of [section 8][164] of the Family Protection Act 1955, for the purposes of [sections 47][55] and [51][59], a distribution by an administrator or trustee of any part of the estate shall be deemed to be properly made if it is made in accordance with any trust, power, or authority which is subsisting when the distribution is made and would justify the distribution if each application to which [section 47][55] applies in connection with the estate (being an application on which no order had been made before the distribution) were disallowed by the court:
     
-    provided that nothing in this subsection shall restrict the provisions in subsection (4) of section 47 requiring that the distribution shall have been made before service on him of a copy of any application and without notice in writing of the matters specified in that subsection.
+    provided that nothing in this subsection shall restrict the provisions in subsection (4) of section 47 requiring that the distribution shall have been made before service on him or her of a copy of any application and without notice in writing of the matters specified in that subsection.
     
     Compare: 1952 No 56 s 30A(6), (7); 1960 No 100 s 2
 
@@ -1065,11 +1051,11 @@ Administration by administrator
     
 *   (1) In any case where an administrator or trustee has made a distribution of any assets forming part of the estate of any deceased person or subject to any trust and there is nothing in any Act to prevent the distribution from being disturbed, the court may---
         
-    *   (a) make, subject to such terms and conditions as it thinks fit, in respect of any interest in any such assets that is for the time being retained by the person to whom those assets were distributed or his administrator or any person who has received any interest in those assets from either of them otherwise than in good faith and for full valuable consideration, any order to which [section 47][55] applies, or an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or an order requiring the transfer or payment of any such interest in any such assets to the administrator of the deceased or the trustee or to any person who in accordance with any enactment or rule of law has a right to follow the assets:
+    *   (a) make, subject to such terms and conditions as it thinks fit, in respect of any interest in any such assets that is for the time being retained by the person to whom those assets were distributed or his or her administrator or any person who has received any interest in those assets from either of them otherwise than in good faith and for full valuable consideration, any order to which [section 47][55] applies, or an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or an order requiring the transfer or payment of any such interest in any such assets to the administrator of the deceased or the trustee or to any person who in accordance with any enactment or rule of law has a right to follow the assets:
     
-    *   (b) order that any person to whom any assets were so distributed or his administrator shall pay to any applicant for an order to which [section 47][55] applies or for an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or to the administrator of the deceased or the trustee or to any person who in accordance with any enactment or rule of law has a right to follow the assets a sum not exceeding the net value of the assets at the date of distribution, or in a case where full valuable consideration has not been given a sum not exceeding the amount by which that net value exceeds the value of the consideration at that date, together (if the court thinks equitable) with interest thereon from that date until the date of the order at such rate as the court may specify:
+    *   (b) order that any person to whom any assets were so distributed or his or her administrator shall pay to any applicant for an order to which [section 47][55] applies or for an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or to the administrator of the deceased or the trustee or to any person who in accordance with any enactment or rule of law has a right to follow the assets a sum not exceeding the net value of the assets at the date of distribution, or in a case where full valuable consideration has not been given a sum not exceeding the amount by which that net value exceeds the value of the consideration at that date, together (if the court thinks equitable) with interest thereon from that date until the date of the order at such rate as the court may specify:
     
-    *   (c) order that any person who has received any interest in any such assets from the person to whom they were distributed or his administrator, otherwise than in good faith and for full valuable consideration, shall pay to any applicant for an order to which [section 47][55] applies, or for an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or to the administrator of the deceased or the trustee, or to any person who in accordance with any enactment or rule of law has a right to follow the assets, a sum not exceeding the net value of that interest at the date of the distribution, or in a case where full valuable consideration has not been given a sum not exceeding the amount by which that net value exceeds the value of the consideration at that date, together (if the court thinks equitable) with interest thereon from that date until the date of the order at such rate as the court may specify:
+    *   (c) order that any person who has received any interest in any such assets from the person to whom they were distributed or his or her administrator, otherwise than in good faith and for full valuable consideration, shall pay to any applicant for an order to which [section 47][55] applies, or for an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, or to the administrator of the deceased or the trustee, or to any person who in accordance with any enactment or rule of law has a right to follow the assets, a sum not exceeding the net value of that interest at the date of the distribution, or in a case where full valuable consideration has not been given a sum not exceeding the amount by which that net value exceeds the value of the consideration at that date, together (if the court thinks equitable) with interest thereon from that date until the date of the order at such rate as the court may specify:
     
     *   (d) in making any such order fix such terms and conditions as the court thinks fit, and for the purpose of giving effect to any such order, make such further order as it thinks fit.
     
@@ -1081,13 +1067,13 @@ Administration by administrator
         
         provided that, in the case of an application for an order under the Family Protection Act 1955 made by an administrator on behalf of a person who is not of full age or mental capacity, an application for an order under the said subsection (1) may be made within 2 years from the date of the grant in New Zealand of administration in the estate:
     
-    *   (b) in the case of an application to which subparagraph (i) of paragraph (b) of [section 50][58] applies, unless the application is made within 1 year after the satisfaction by the administrator or trustee of any claim in respect of any right or remedy against him:
+    *   (b) in the case of an application to which subparagraph (i) of paragraph (b) of [section 50][58] applies, unless the application is made within 1 year after the satisfaction by the administrator or trustee of any claim in respect of any right or remedy against him or her:
     
-    *   (c) in any other case, unless the application for an order under the said subsection (1) is made within the time within which the applicant could have enforced his claim in respect of the estate without special leave of the court if the assets had not been distributed:
+    *   (c) in any other case, unless the application for an order under the said subsection (1) is made within the time within which the applicant could have enforced his or her claim in respect of the estate without special leave of the court if the assets had not been distributed:
     
-    provided that, with the special leave of the court, the application may be heard by the court on an application made within the time within which the applicant could have enforced his claim in respect of the estate with special leave of the court if the assets had not been distributed.
+    provided that, with the special leave of the court, the application may be heard by the court on an application made within the time within which the applicant could have enforced his or her claim in respect of the estate with special leave of the court if the assets had not been distributed.
     
-    (4) Notwithstanding anything to the contrary in subsection (3), in any case where an administrator or trustee has made a distribution of any assets forming part of the estate of any deceased person or subject to any trust, and any person who is entitled to apply for an order under subsection (1) has, within the time specified in the said subsection (3), made an application to the court for any order to which [section 47][55] applies or an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, and that person was not aware of the distribution at the time when he made that application, that person, or any other person on whose behalf that application is deemed to be made, may apply to the court under the said subsection (1), and the application may be heard by the court after the expiration of the period prescribed by the said subsection (3) if it is made within 6 months after the date on which that person first became aware of the distribution.
+    (4) Notwithstanding anything to the contrary in subsection (3), in any case where an administrator or trustee has made a distribution of any assets forming part of the estate of any deceased person or subject to any trust, and any person who is entitled to apply for an order under subsection (1) has, within the time specified in the said subsection (3), made an application to the court for any order to which [section 47][55] applies or an order on any claim to which [section 35][165] of the Trustee Act 1956 applies, and that person was not aware of the distribution at the time when he or she made that application, that person, or any other person on whose behalf that application is deemed to be made, may apply to the court under the said subsection (1), and the application may be heard by the court after the expiration of the period prescribed by the said subsection (3) if it is made within 6 months after the date on which that person first became aware of the distribution.
     
     Compare: 1952 No 56 s 30B(1)--(4); 1960 No 100 s 2
 
@@ -1095,13 +1081,13 @@ Administration by administrator
     
 *   Notwithstanding any rule of law to the contrary, in any case where an administrator or trustee has made a distribution of any assets forming part of the estate of any deceased person or subject to any trust---
         
-    *   (a) any person may exercise the remedies (if any) given to him by subsection (1) of [section 49][57] and all other rights and remedies available to him (including all rights which he may have to follow assets and any money or property into which they have been converted) without first exercising the rights and remedies (if any) available to him against the administrator or the trustee in consequence of the making of the distribution:
+    *   (a) any person may exercise the remedies (if any) given to him or her by subsection (1) of [section 49][57] and all other rights and remedies available to him or her (including all rights which he or she may have to follow assets and any money or property into which they have been converted) without first exercising the rights and remedies (if any) available to him or her against the administrator or the trustee in consequence of the making of the distribution:
     
     *   (b) if any person exercises any right or remedy available against the administrator or the trustee in consequence of the distribution of any such assets, the administrator or trustee may---
             
         *   (i) apply to the court for any order which may be made under subsection (1) of [section 49][57]:
         
-        *   (ii) in any proceedings against him in respect of the exercise of any such right or remedy, by leave of the court and in accordance with the rules of court relating to such notices, issue a third party notice against any person against whom he may apply for an order under subparagraph (i).
+        *   (ii) in any proceedings against him or her in respect of the exercise of any such right or remedy, by leave of the court and in accordance with the rules of court relating to such notices, issue a third party notice against any person against whom he or she may apply for an order under subparagraph (i).
         
         
     
@@ -1111,7 +1097,7 @@ Administration by administrator
     
 *   In any case where an administrator or trustee has made a distribution of any assets forming part of the estate of any deceased person or subject to any trust, relief (whether under subsection (1) of [section 49][57] or in equity or otherwise) against any person other than the administrator or trustee or in respect of any interest of any such person in any assets so distributed and in any money or property into which they have been converted, may be denied wholly or in part, if---
         
-    *   (a) the person from whom relief is sought received the assets or interest in good faith and has altered his position in the reasonably held belief that the distribution was properly made and would not be set aside; and
+    *   (a) the person from whom relief is sought received the assets or interest in good faith and has altered his or her position in the reasonably held belief that the distribution was properly made and would not be set aside; and
     
     *   (b) in the opinion of the court it is inequitable to grant relief or to grant relief in full, as the case may be.
     
@@ -1119,11 +1105,11 @@ Administration by administrator
 
 ##### 52 Liability of person fraudulently obtaining or retaining estate of deceased
     
-*   If any person other than the administrator, to the defrauding of creditors or without full valuable consideration, obtains or receives or holds any part of the estate of a deceased person or effects the release of any debt or liability due to the estate of the deceased, he shall be charged as executor in his own wrong to the extent of the estate received or coming into his hands, or the debt or liability released, after deducting---
+*   If any person other than the administrator, to the defrauding of creditors or without full valuable consideration, obtains or receives or holds any part of the estate of a deceased person or effects the release of any debt or liability due to the estate of the deceased, he or she shall be charged as executor in his or her own wrong to the extent of the estate received or coming into his or her hands, or the debt or liability released, after deducting---
         
-    *   (a) any debt for valuable consideration and without fraud due to him from the deceased person at the time of his death which might properly be retained by an administrator; and
+    *   (a) any debt for valuable consideration and without fraud due to him or her from the deceased person at the time of his or her death which might properly be retained by an administrator; and
     
-    *   (b) any payment made by him which might properly be made by an administrator.
+    *   (b) any payment made by him or her which might properly be made by an administrator.
     
     Compare: Administration of Estates Act 1925 s 28 (UK)
 
@@ -1137,13 +1123,13 @@ Administration by administrator
 
 ##### 54 Production of instruments purporting to be testamentary
     
-*   The court may, whether any suit or other proceeding is or is not pending with respect to any administration, order any person to produce any paper or writing, being or purporting to be testamentary, which may be shown to be in the possession or under the control of that person; and if it is not shown that any such paper or writing is in the possession or under the control of any person, but it appears that there are reasonable grounds for believing that he has knowledge of any such paper or writing, the court may direct that person to attend for the purpose of being examined in open court, or upon interrogatories, respecting the same; and that person shall be bound to answer any such questions or interrogatories, and, if so ordered, to produce and bring in any such paper or writing, and shall be subject to the like process of contempt in case of default in not attending or in not answering any such questions or interrogatories, or not bringing in any such paper or writing, as he would have been subject to in case he had been a party to a suit in the court and had made any such default; and the costs of any such suit or proceeding shall be in the discretion of the court.
+*   The court may, whether any suit or other proceeding is or is not pending with respect to any administration, order any person to produce any paper or writing, being or purporting to be testamentary, which may be shown to be in the possession or under the control of that person; and if it is not shown that any such paper or writing is in the possession or under the control of any person, but it appears that there are reasonable grounds for believing that he or she has knowledge of any such paper or writing, the court may direct that person to attend for the purpose of being examined in open court, or upon interrogatories, respecting the same; and that person shall be bound to answer any such questions or interrogatories, and, if so ordered, to produce and bring in any such paper or writing, and shall be subject to the like process of contempt in case of default in not attending or in not answering any such questions or interrogatories, or not bringing in any such paper or writing, as he or she would have been subject to in case he or she had been a party to a suit in the court and had made any such default; and the costs of any such suit or proceeding shall be in the discretion of the court.
     
     Compare: Court of Probate Act 1857 s 26 (UK)
 
 ##### 55 Continuance of legal proceedings after revocation of temporary administration
     
-*   If, while any legal proceeding is pending in any court by or against an administrator to whom a temporary administration has been granted, that administration is revoked, the court may order that the proceeding be continued by or against the new administrator in like manner as if the same had been originally commenced by or against him, but subject to such conditions and variations, if any, as that court directs.
+*   If, while any legal proceeding is pending in any court by or against an administrator to whom a temporary administration has been granted, that administration is revoked, the court may order that the proceeding be continued by or against the new administrator in like manner as if the same had been originally commenced by or against him or her, but subject to such conditions and variations, if any, as that court directs.
     
     Compare: Administration of Estates Act 1925 s 17 (UK)
 
@@ -1167,11 +1153,7 @@ Administration by administrator
     
     Compare: 1952 No 56 s 36; 1957 No 38 s 4
     
-    Section 58 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-    
     Section 58 heading: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
-    
-    Section 58: amended, on 1 July 2009, pursuant to [section 30(2)(a)][135] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 58: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
@@ -1195,7 +1177,7 @@ Administration by administrator
     
     Compare: 1952 No 56 ss 37, 53
     
-    Section 59: amended, on 1 January 1986, by [section 11(2)][138] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
+    Section 59: amended, on 1 January 1986, by [section 11(2)][137] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
     
     Section 59(1)(e): amended, on 1 April 1980, pursuant to [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -1203,7 +1185,7 @@ Administration by administrator
 
 ##### 60 Caveat may be lodged
     
-*   (1) Any person may lodge with the Registrar a caveat against any application for administration at any time previous to the granting of administration, and every such caveat shall set forth the name of the person lodging it, and an address within New Zealand at which notices may be served on him.
+*   (1) Any person may lodge with the Registrar a caveat against any application for administration at any time previous to the granting of administration, and every such caveat shall set forth the name of the person lodging it, and an address within New Zealand at which notices may be served on him or her.
     
     (2) Every such caveat shall, unless application for administration is sooner made, lapse upon the expiration of 1 year from the date of the lodging of the caveat.
     
@@ -1239,7 +1221,7 @@ Administration by administrator
         
         
     
-    *   (b) every such order nisi, and every order enlarging the same, shall be served on the caveator by delivering a copy of the same at the address mentioned in his caveat:
+    *   (b) every such order nisi, and every order enlarging the same, shall be served on the caveator by delivering a copy of the same at the address mentioned in his or her caveat:
     
     *   (c) if before the day named in the order nisi or the day to which the order is enlarged the caveat is withdrawn, the order nisi may be made absolute at any time thereafter:
     
@@ -1253,7 +1235,7 @@ Administration by administrator
     
     *   (e) at any hearing under paragraph (d), the parties may, subject to the rules, verify their cases in whole or in part by affidavit, but so that the deponent in every such affidavit shall, on the application of the opposite party, be subject to be cross-examined by or on behalf of the opposite party orally in open court, and after cross-examination may be re-examined orally in open court by or on behalf of the party by whom the affidavit was filed:
     
-    *   (f) in any case where a caveat is lodged by Public Trust, the court may, if it thinks fit, order costs to be paid to him out of the estate, whether the order nisi is discharged or not.
+    *   (f) in any case where a caveat is lodged by Public Trust, the court may, if it thinks fit, order costs to be paid to him or her out of the estate, whether the order nisi is discharged or not.
     
     Compare: 1952 No 56 s 39; 1965 No 43 s 3
     
@@ -1287,9 +1269,9 @@ Administration by administrator
     
     Section 62(2A): inserted, on 1 January 1981, by [section 14(1)][173] of the Domicile Act 1976 (1976 No 17).
     
-    Section 62(3): amended, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 62(3): amended, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 62(4): repealed, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 62(4): repealed, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 63 Administration not to be granted to companies other than trustee companies
     
@@ -1311,11 +1293,11 @@ Administration by administrator
 
 ##### 64 Devolution of loan stock without administration
     
-*   (1) Where any person has died, whether before or after the commencement of this section, and at the time of his death the person was the registered holder of government stock of a nominal value not exceeding the prescribed amount, or of local authorities stock of a nominal value not exceeding the prescribed amount, or of both, the registrar of such stock may, in its discretion and without requiring any person to obtain administration, register as holder of the stock any person who proves to its satisfaction:
+*   (1) Where any person has died, whether before or after the commencement of this section, and at the time of his or her death the person was the registered holder of government stock of a nominal value not exceeding the prescribed amount, or of local authorities stock of a nominal value not exceeding the prescribed amount, or of both, the registrar of such stock may, in its discretion and without requiring any person to obtain administration, register as holder of the stock any person who proves to its satisfaction:
         
-    *   (a) that the registered holder has died and administration of his estate has not been obtained in New Zealand; and
+    *   (a) that the registered holder has died and administration of his or her estate has not been obtained in New Zealand; and
     
-    *   (b) that he is either---
+    *   (b) that he or she is either---
             
         *   (i) beneficially entitled to the stock under the will or on the intestacy of the deceased stockholder; or
         
@@ -1365,9 +1347,9 @@ Administration by administrator
     
     Section 64A(3): amended, on 3 June 1998, by [section 3][185] of the Administration Amendment Act 1998 (1998 No 24).
     
-    Section 64A(3)(c): amended, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 64A(3)(c): amended, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 64A(3)(d): repealed, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 64A(3)(d): repealed, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 65 Payment without administration
     
@@ -1381,7 +1363,7 @@ Administration by administrator
     
     _trustees of a superannuation fund_ means the trustees or administering body of any pension plan or superannuation fund; and includes the Government Superannuation Fund Authority and the Board of Trustees of the National Provident Fund.
     
-    (2) In the event of the death of any person to whom any sum of money not exceeding the prescribed amount is payable by the trustees of a superannuation fund, a society, a bank, an employer of the deceased person at or within 6 months before the date of his death, a local authority, a trustee corporation, Housing New Zealand Corporation the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown respectively, whether the death occurred before or after the commencement of this section, it shall be lawful for the trustees of the superannuation fund, society, bank, employer, local authority, trustee corporation, Housing New Zealand Corporation the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown, as the case may be, without requiring administration of the estate of that deceased person to be obtained in New Zealand, and on receiving such evidence as it considers satisfactory that the person has died and that administration of his estate has not been obtained in New Zealand, to pay the sum or any part thereof to any of the following persons:
+    (2) In the event of the death of any person to whom any sum of money not exceeding the prescribed amount is payable by the trustees of a superannuation fund, a society, a bank, an employer of the deceased person at or within 6 months before the date of his or her death, a local authority, a trustee corporation, Housing New Zealand Corporation, the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown respectively, whether the death occurred before or after the commencement of this section, it shall be lawful for the trustees of the superannuation fund, society, bank, employer, local authority, trustee corporation, Housing New Zealand Corporation, the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown, as the case may be, without requiring administration of the estate of that deceased person to be obtained in New Zealand, and on receiving such evidence as it considers satisfactory that the person has died and that administration of his or her estate has not been obtained in New Zealand, to pay the sum or any part thereof to any of the following persons:
         
     *   (a) the widow, widower, surviving civil union partner, or children of the deceased person:
     
@@ -1395,17 +1377,17 @@ Administration by administrator
     
     *   (e) any person who has and is exercising the role of providing day-to-day care for any of the children of the deceased person who are minors:
     
-    provided that no payment shall be made to any person unless he applies for or consents to receive that payment.
+    provided that no payment shall be made to any person unless he or she applies for or consents to receive that payment.
     
-    (3) It shall be lawful for the trustees of a superannuation fund, a society, a bank, an employer of the deceased person at or within 6 months before the date of his death, a local authority, a trustee corporation, Housing New Zealand Corporation the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown, respectively, out of the money to which subsection (2) applies, to pay the funeral expenses of a deceased person, or to refund the amount of those expenses to any person who has paid them, in any case where no person has applied for or consented to receive payment of the money under subsection (2).
+    (3) It shall be lawful for the trustees of a superannuation fund, a society, a bank, an employer of the deceased person at or within 6 months before the date of his or her death, a local authority, a trustee corporation, Housing New Zealand Corporation, the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][189], or the Crown, respectively, out of the money to which subsection (2) applies, to pay the funeral expenses of a deceased person, or to refund the amount of those expenses to any person who has paid them, in any case where no person has applied for or consented to receive payment of the money under subsection (2).
     
     (4) Where money is payable by a bank in the event of the death of any person and comprises money in a separate investment account under the National Savings Act 1940 and also other money, the provisions of subsections (2) and (3) shall apply separately to the amount of money in the investment account and to the amount of other money as if each such amount was the only amount payable by the bank in the event of the death of that person.
     
-    (5) Where, by virtue of a policy or policies of insurance within the meaning of the [Life Insurance Act 1908][190], a sum of money not exceeding the prescribed amount (including profits but not including any money that may be payable to or deductible by the company liable under the policy or policies) has become payable to the administrator of a deceased person, whether before or after the commencement of this section, it shall be lawful for the company, without requiring administration of the estate of the deceased person to be obtained in New Zealand, and upon receiving such evidence as it considers satisfactory that the person has died and that administration of his estate has not been obtained in New Zealand, to make payment of the sum or any part thereof to any of the persons to whom payment may be made under paragraphs (a) to (e) of subsection (2).
+    (5) Where, by virtue of a policy or policies of insurance within the meaning of the [Life Insurance Act 1908][190], a sum of money not exceeding the prescribed amount (including profits but not including any money that may be payable to or deductible by the company liable under the policy or policies) has become payable to the administrator of a deceased person, whether before or after the commencement of this section, it shall be lawful for the company, without requiring administration of the estate of the deceased person to be obtained in New Zealand, and upon receiving such evidence as it considers satisfactory that the person has died and that administration of his or her estate has not been obtained in New Zealand, to make payment of the sum or any part thereof to any of the persons to whom payment may be made under paragraphs (a) to (e) of subsection (2).
     
-    (6) Any payment made in good faith pursuant to this section to a person to whom the maker of the payment has reasonable grounds to believe that payment may be made under this section shall be valid against all persons whomsoever, and the maker of the payment shall be absolutely discharged from all liability in respect of money paid by him under this section.
+    (6) Any payment made in good faith pursuant to this section to a person to whom the maker of the payment has reasonable grounds to believe that payment may be made under this section shall be valid against all persons whomsoever, and the maker of the payment shall be absolutely discharged from all liability in respect of money paid by him or her under this section.
     
-    (7) Every person to whom money is paid pursuant to this section shall be liable to apply the money in due course of administration, and the maker of the payment may, if he thinks fit, without being liable to see to the application of the money, require any such person to give sufficient undertakings, by bond or otherwise, that the money so paid will be so applied.
+    (7) Every person to whom money is paid pursuant to this section shall be liable to apply the money in due course of administration, and the maker of the payment may, if he or she thinks fit, without being liable to see to the application of the money, require any such person to give sufficient undertakings, by bond or otherwise, that the money so paid will be so applied.
     
     Compare: 1952 No 56 s 43B; [1964 No 24][178] [s 3][179]
     
@@ -1429,19 +1411,15 @@ Administration by administrator
     
     Section 65(2): amended, on 1 April 1983, pursuant to section 122(8) of the Accident Compensation Act 1982 (1982 No 181).
     
-    Section 65(2): amended, on 11 October 1978, by [section 15(2)][199] of the Social Security Amendment Act 1978 (1978 No 58).
-    
     Section 65(2): amended, on 6 August 1976, by section 11(3) of the Superannuation Schemes Act 1976 (1976 No 3).
     
-    Section 65(2): amended, on 1 April 1974, by section 184 of the Accident Compensation Act 1972 (1972 No 43).
+    Section 65(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 6(1)][199] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 65(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 6(1)][200] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 65(2)(aa): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 7][200] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 65(2)(aa): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 7][201] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 65(2)(d): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 6(2)][199] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 65(2)(d): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 6(2)][200] of the Administration Amendment Act 2005 (2005 No 4).
-    
-    Section 65(2)(e): amended, on 1 July 2005, by [section 151][202] of the Care of Children Act 2004 (2004 No 90).
+    Section 65(2)(e): amended, on 1 July 2005, by [section 151][201] of the Care of Children Act 2004 (2004 No 90).
     
     Section 65(3): amended, on 1 April 2002, by [section 337(1)][195] of the Accident Compensation Act 2001 (2001 No 49).
     
@@ -1451,11 +1429,7 @@ Administration by administrator
     
     Section 65(3): amended, on 1 April 1983, pursuant to section 122(8) of the Accident Compensation Act 1982 (1982 No 181).
     
-    Section 65(3): amended, on 11 October 1978, by [section 15(2)][199] of the Social Security Amendment Act 1978 (1978 No 58).
-    
     Section 65(3): amended, on 6 August 1976, by section 11(3) of the Superannuation Schemes Act 1976 (1976 No 3).
-    
-    Section 65(3): amended, on 1 April 1974, by section 184 of the Accident Compensation Act 1972 (1972 No 43).
     
     Section 65(5): amended, on 3 June 1998, by [section 4][198] of the Administration Amendment Act 1998 (1998 No 24).
 
@@ -1463,27 +1437,27 @@ Administration by administrator
     
 *   Nothing in [section 65][77] shall prevent any person to whom the money to which that section applies or any part thereof ought to have been paid from pursuing and exercising any remedy for recovery thereof against the person or persons to whom the money has been paid.
     
-    Compare: 1952 No 56 s 43B(8); [1964 No 24][178] [s 3][179]
+    Compare: 1952 No 56 s 43B(8); 1964 No 24 [s 3][179]
 
 ##### 67 Other Acts providing for payment without administration not affected
     
-*   (1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, [section 86][203] of the Patents Act 1953, [section 41][204] of the Designs Act 1953, [section 52][205] of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
+*   (1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, [section 86][202] of the Patents Act 1953, [section 41][203] of the Designs Act 1953, [section 52][204] of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
     
     (2) Nothing in this Act, other than [Part 1A][81], shall affect the power of any building society, friendly society, industrial and provident society, trustee savings bank, private savings bank, or the Post Office Bank Limited, to make payment of any money or to transfer any property in accordance with a nomination made by any person pursuant to any other enactment.
     
-    Compare: 1952 No 56 s 43(3); [1964 No 24][178] [ss 2][206], [4(6)][207]
+    Compare: 1952 No 56 s 43(3); 1964 No 24 [ss 2][205], [4(6)][206]
     
-    Section 67(1): amended, on 20 August 2003, by [section 201][208] of the Trade Marks Act 2002 (2002 No 49).
+    Section 67(1): amended, on 20 August 2003, by [section 201][207] of the Trade Marks Act 2002 (2002 No 49).
     
     Section 67(1): amended, on 1 July 1994, by section 3 of the Administration Amendment Act 1993 (1993 No 109).
     
-    Section 67(2): amended, on 1 April 1987, by [section 32(1)][209] of the State-Owned Enterprises Act 1986 (1986 No 124).
+    Section 67(2): amended, on 1 April 1987, by [section 32(1)][208] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
     Section 67(2): amended (with effect on 11 December 1982), on 11 June 1985, by section 2 of the Administration Amendment Act 1985 (1985 No 79).
 
 ##### 68 Bondsmen and sureties deemed to be trustees
     
-*   Every person who, in the capacity of bondsman or surety for another, receives money or other property belonging to the estate of any deceased person shall be deemed to be a trustee within the meaning of the [Trustee Act 1956][210] in respect of that money or property, and may under that Act apply for relief and to be discharged from the custody of the money or property.
+*   Every person who, in the capacity of bondsman or surety for another, receives money or other property belonging to the estate of any deceased person shall be deemed to be a trustee within the meaning of the [Trustee Act 1956][209] in respect of that money or property, and may under that Act apply for relief and to be discharged from the custody of the money or property.
     
     Compare: 1952 No 56 s 44
 
@@ -1494,7 +1468,7 @@ Nominations of accounts
 
 ##### 68A Interpretation
     
-*   In this Part, unless the context otherwise requires, the term _nomination_ means the nomination by any person (in this Part referred to as the _nominator_), pursuant to any enactment, of any person or persons (in this Part referred to as the nominee or nominees) to whom any amount standing to the credit of the nominator in any account at the time of his death is to be paid on his death.
+*   In this Part, unless the context otherwise requires, the term _nomination_ means the nomination by any person (in this Part referred to as the nominator), pursuant to any enactment, of any person or persons (in this Part referred to as the nominee or nominees) to whom any amount standing to the credit of the nominator in any account at the time of his or her death is to be paid on his or her death.
     
     Section 68A: inserted, on 11 December 1982, by section 2 of the Administration Amendment Act 1982 (1982 No 43).
 
@@ -1520,7 +1494,7 @@ Nominations of accounts
     
     (2) Subject to subsection (3), every nomination shall have effect as if it were a specific legacy bequeathed by will.
     
-    (3) All money in any account that is subject to a nomination at the death of the nominator shall, notwithstanding the nomination, form part of his estate, and shall devolve and be subject to all claims against that estate, whether arising under any enactment or contract or otherwise, in the same manner and to the same extent as if it were a specific legacy bequeathed by will.
+    (3) All money in any account that is subject to a nomination at the death of the nominator shall, notwithstanding the nomination, form part of his or her estate, and shall devolve and be subject to all claims against that estate, whether arising under any enactment or contract or otherwise, in the same manner and to the same extent as if it were a specific legacy bequeathed by will.
     
     (4) Notwithstanding [section 24][31], it shall not be necessary to pay to the administrator of a deceased nominator any money in an account that is subject to a nomination by reason only that it forms part of the deceased nominator's estate pursuant to subsection (3).
     
@@ -1538,7 +1512,7 @@ Nominations of accounts
         
     *   (a) every general revocation by a nominator of all former testamentary dispositions shall be deemed to include the revocation of the nomination, unless the nomination is expressly preserved:
     
-    *   (b) every general testamentary disposition of the nominator's whole estate, or of the whole of his residuary estate, made subsequent to the nomination shall be deemed to revoke the nomination, unless the nomination is expressly preserved.
+    *   (b) every general testamentary disposition of the nominator's whole estate, or of the whole of his or her residuary estate, made subsequent to the nomination shall be deemed to revoke the nomination, unless the nomination is expressly preserved.
     
     Section 68D: inserted, on 11 December 1982, by section 2 of the Administration Amendment Act 1982 (1982 No 43).
 
@@ -1549,7 +1523,7 @@ Administration granted out of New Zealand
     
 *   For the purposes of this Part,---
     
-    _probate or letters of administration_ includes an exemplification of any probate or letters of administration, or a duplicate thereof sealed with the seal of the court granting the same, or a copy thereof certified as correct by or under the authority of the court granting the same, and also includes an exemplification or a copy certified by or under the authority of any court, or a duplicate sealed under the seal of any court, of any instrument which is filed in or issued out of that court and which within the jurisdiction of that court operates to make any person the administrator of any property of a deceased person as if probate or letters of administration had been granted to him by that court:
+    _probate or letters of administration_ includes an exemplification of any probate or letters of administration, or a duplicate thereof sealed with the seal of the court granting the same, or a copy thereof certified as correct by or under the authority of the court granting the same, and also includes an exemplification or a copy certified by or under the authority of any court, or a duplicate sealed under the seal of any court, of any instrument which is filed in or issued out of that court and which within the jurisdiction of that court operates to make any person the administrator of any property of a deceased person as if probate or letters of administration had been granted to him or her by that court:
     
     the filing in or the issuing out of any court of any instrument which operates to make any person an administrator as aforesaid shall be deemed to be equivalent to the granting of probate or letters of administration by that court to that person.
     
@@ -1612,7 +1586,7 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 54
     
-    Section 75: amended, on 1 January 1980, by [section 9(1)][211] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 75: amended, on 1 January 1980, by [section 9(1)][210] of the Administration Amendment Act 1979 (1979 No 38).
 
 ##### 76 Abolition of escheat
     
@@ -1624,9 +1598,9 @@ Distribution of intestate estates
     
 *   If a person (the _intestate_) dies intestate as to any real or personal estate and leaves the other person or people referred to in column 1 of the following table, that estate must be distributed in the manner or held on the trusts set out in column 2 of that table opposite the reference to the other person or people:
     
-    **Person or people intestate leaves****How estate to be distributed**
+    **Person or people intestate leaves** **How estate to be distributed**
     
-    1Husband, wife, civil union partner, or surviving de facto partner, but no issue and no parents**Personal chattels (as defined in [section 2(1)][212]):**  
+    1Husband, wife, civil union partner, or surviving de facto partner, but no issue and no parents **Personal chattels (as defined in [section 2(1)][211]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1635,7 +1609,7 @@ Distribution of intestate estates
     
     •anything that remains of the residue is held in trust for the husband, wife, civil union partner, or surviving de facto partner absolutely
     
-    2Husband, wife, civil union partner, or surviving de facto partner, and issue**Personal chattels (as defined in [section 2(1)][212]):**  
+    2Husband, wife, civil union partner, or surviving de facto partner, and issue **Personal chattels (as defined in [section 2(1)][211]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1648,7 +1622,7 @@ Distribution of intestate estates
     
     •two-thirds on the statutory trusts for the issue of the intestate
     
-    3Husband, wife, civil union partner, or surviving de facto partner, no issue, but 1 or both parents**Personal chattels (as defined in [section 2(1)][212]):**  
+    3Husband, wife, civil union partner, or surviving de facto partner, no issue, but one or both parents **Personal chattels (as defined in [section 2(1)][211]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1659,18 +1633,18 @@ Distribution of intestate estates
     
     •two-thirds for the husband, wife, civil union partner, or surviving de facto partner absolutely; and
     
-    •a third for the father and mother in equal shares absolutely or, if the intestate leaves only 1 parent, for that parent absolutely
+    •a third for the father and mother in equal shares absolutely or, if the intestate leaves only one parent, for that parent absolutely
     
-    4Issue but no husband, wife, civil union partner, or surviving de facto partnerAll of the estate is held on the statutory trusts for the issue of the intestate
+    4Issue but no husband, wife, civil union partner, or surviving de facto partner All of the estate is held on the statutory trusts for the issue of the intestate
     
-    5No husband, wife, civil union partner, or surviving de facto partner, and no issue, but 1 or both parentsAll of the estate is held in trust in equal shares for the parents, but if the intestate leaves only 1 parent, for that parent
+    5No husband, wife, civil union partner, or surviving de facto partner, and no issue, but one or both parents All of the estate is held in trust in equal shares for the parents, but if the intestate leaves only one parent, for that parent
     
-    6No husband, wife, civil union partner, or surviving de facto partner, no issue, and no parents, but 1 or more brothers or sisters (whether of full or half blood)All of the estate is held on the statutory trusts for the 1 or more brothers or sisters
+    6No husband, wife, civil union partner, or surviving de facto partner, no issue, and no parents, but 1 or more brothers or sisters (whether of full or half blood) All of the estate is held on the statutory trusts for the 1 or more brothers or sisters
     
-    7No one who takes an absolutely vested interest under the trusts referred to in items 1 to 6, but 1 or both maternal or paternal grandparents, or 1 or more maternal or paternal uncles or aunts (whether of full or half blood)All of the estate is held in trust as follows:  
+    7No one who takes an absolutely vested interest under the trusts referred to in items 1 to 6, but one or both maternal or paternal grandparents, or 1 or more maternal or paternal uncles or aunts (whether of full or half blood) All of the estate is held in trust as follows:  
     **as to half:**
     
-    •in equal shares for the maternal grandparents, but if the intestate leaves only 1 such grandparent, for that grandparent; or
+    •in equal shares for the maternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
     
     •if the intestate leaves no maternal grandparent, then on the statutory trusts for the maternal uncles and aunts; or
     
@@ -1678,49 +1652,49 @@ Distribution of intestate estates
     
     **as to the other half:**
     
-    •in equal shares for the paternal grandparents, but if the intestate leaves only 1 such grandparent, for that grandparent; or
+    •in equal shares for the paternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
     
     •if the intestate leaves no paternal grandparent, then on the statutory trusts for the paternal uncles and aunts; or
     
     •if no paternal grandparent or paternal uncle or aunt takes an absolutely vested interest under those trusts, then on the trusts on which the first half of the estate must be held
     
-    8No one who takes an absolute interest under items 1 to 7All of the estate belongs to the Crown as _bona vacantia_, and the Crown may (without prejudice to any other powers), out of all or any part of the estate, provide for---
+    8No one who takes an absolute interest under items 1 to 7 All of the estate belongs to the Crown as _bona vacantia_, and the Crown may (without prejudice to any other powers), out of all or any part of the estate, provide for---
     
     •dependants (whether kindred or not) of the intestate; and
     
     •other persons for whom the intestate might reasonably have been expected to make provision.
     
-    Section 77: replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77: replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 1: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 2: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 3: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 4: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 4: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 5: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 5: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 6: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 6: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 77A Effect on succession on intestacy of separation order
     
 *   Nothing in [section 77][96] affects [section 26][156] of the Family Proceedings Act 1980\.
     
-    Section 77A: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77A: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 77B Restrictions on succession on intestacy by certain de facto partners
     
@@ -1740,7 +1714,7 @@ Distribution of intestate estates
     
     (3) In subsection (2), _child of the de facto relationship_ and _contribution_ have the same meanings as they have in [section 2][113] of the Property (Relationships) Act 1976\.
     
-    Section 77B: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77B: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 77C Succession on intestacy if intestate partner dies leaving husband, wife, or civil union partner and 1 or more de facto partners
     
@@ -1756,17 +1730,17 @@ Distribution of intestate estates
     
     *   (b) the husband, wife, or civil union partner and each surviving de facto partner or, as the case requires, each of the surviving de facto partners, is entitled to an equal share of the estate that would, under [section 77][96], be distributed to or held on trust for a husband, wife, or civil union partner or, as the case requires, 1 surviving de facto partner.
     
-    Section 77C: replaced, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 8][215] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77C: replaced, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 8][214] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 78 Statutory trusts in favour of issue and other classes of relatives of intestate
     
 *   (1) Where under this Act the estate of an intestate, or any part thereof, is directed to be held on the statutory trusts for the issue of the intestate, the same shall be held upon the following trusts, namely:
         
-    *   (a) in trust, in equal shares if more than 1, for all or any the children or child of the intestate, living at the death of the intestate, who attain full age or marry or enter into a civil union under that age, and for all or any of the issue living at the death of the intestate who attain full age or marry or enter into a civil union under that age of any child of the intestate who predeceases the intestate, the said issue to take through all degrees, according to their stocks, in equal shares if more than 1, the share which their parent would have taken if living at the death of the intestate, and so that no issue shall take whose parent takes an absolutely vested interest:
+    *   (a) in trust, in equal shares if more than 1, for all or any children or child of the intestate, living at the death of the intestate, who attain full age or marry or enter into a civil union under that age, and for all or any of the issue living at the death of the intestate who attain full age or marry or enter into a civil union under that age of any child of the intestate who predeceases the intestate, the said issue to take through all degrees, according to their stocks, in equal shares if more than 1, the share which their parent would have taken if living at the death of the intestate, and so that no issue shall take whose parent takes an absolutely vested interest:
         
         provided that if any person capable of taking under this paragraph (including this proviso) dies before taking an absolutely vested interest leaving any child or children who shall be living at the expiration of 21 years from the death of the intestate or who shall sooner attain full age or marry or enter into a civil union under that age, that child or those children shall take, in equal shares if more than 1, the share which his, her, or their parent would have taken if he or she had not so died:
     
-    *   (b) the statutory power of advancement, and the statutory provisions which relate to maintenance, education, and benefit, and the accumulation of surplus income, shall apply, and when a person becomes entitled to a vested share or interest under the statutory trusts, that person shall be entitled on attaining the age of 18 years or sooner marrying or entering into a civil union to give a valid receipt for his share or interest:
+    *   (b) the statutory power of advancement, and the statutory provisions which relate to maintenance, education, and benefit, and the accumulation of surplus income, shall apply, and when a person becomes entitled to a vested share or interest under the statutory trusts, that person shall be entitled on attaining the age of 18 years or sooner marrying or entering into a civil union to give a valid receipt for his or her share or interest:
     
     *   (c) the administrator may permit any minor who has a vested or contingent interest in any personal chattels to have the use and enjoyment of the chattels in such manner and subject to such conditions (if any) as the administrator may consider reasonable, and without being liable to account for any consequential loss.
     
@@ -1786,19 +1760,19 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 57
     
-    Section 78(1)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 9(1)][216] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][215] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(1)(a) proviso: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 9(1)][216] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(a) proviso: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][215] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(1)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 9(2)][216] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(2)][215] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(2)(d): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 9][217] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 78(2)(d): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][216] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 78(2)(e): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 9][217] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 78(2)(e): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][216] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 79 Application to cases of partial intestacy
     
-*   (1) Where any person dies leaving a will effectively disposing of part of his estate, the provisions of this Part shall have effect in respect of the part of his estate not so disposed of, subject to the provisions of the will and of subsection (2).
+*   (1) Where any person dies leaving a will effectively disposing of part of his or her estate, the provisions of this Part shall have effect in respect of the part of his or her estate not so disposed of, subject to the provisions of the will and of subsection (2).
     
     (2) Where the deceased leaves a husband, wife, civil union partner, or surviving de facto partner who acquires a beneficial interest under the will of the deceased,---
         
@@ -1812,19 +1786,19 @@ Distribution of intestate estates
     
     *   (b) as not including a reference to a beneficial interest in any personal chattels.
     
-    (4) For the purposes of the foregoing provisions of this section the administrator may ascertain and fix the value of the said beneficial interest in accordance with [section 28][218] of the Trustee Act 1956, and no action shall lie against the administrator if he distributes the estate in accordance with the value that he has honestly and reasonably so fixed.
+    (4) For the purposes of the foregoing provisions of this section the administrator may ascertain and fix the value of the said beneficial interest in accordance with [section 28][217] of the Trustee Act 1956, and no action shall lie against the administrator if he or she distributes the estate in accordance with the value that he or she has honestly and reasonably so fixed.
     
     Compare: 1952 No 56 s 59; 1965 No 43 s 5
     
-    Section 79(2): replaced, on 3 June 1998, by [section 6][219] of the Administration Amendment Act 1998 (1998 No 24).
+    Section 79(2): replaced, on 3 June 1998, by [section 6][218] of the Administration Amendment Act 1998 (1998 No 24).
     
-    Section 79(2): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 10][220] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 79(2): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][219] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 79(2): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 10][221] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 79(2): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 79(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after 26 April 2005), by [section 10][220] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 79(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][219] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 79(2)(a): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after 1 February 2002), by [section 10][221] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 79(2)(a): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 80 Construction of documents
     
@@ -1836,9 +1810,9 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 60
     
-    Section 80(1): amended, on 1 January 1980, by [section 9(2)(a)][211] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 80(1): amended, on 1 January 1980, by [section 9(2)(a)][210] of the Administration Amendment Act 1979 (1979 No 38).
     
-    Section 80(1): amended, on 1 January 1980, by [section 9(2)(b)][211] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 80(1): amended, on 1 January 1980, by [section 9(2)(b)][210] of the Administration Amendment Act 1979 (1979 No 38).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1847,13 +1821,13 @@ Miscellaneous provisions
     
 *   (1) Subject to the provisions of this section, where a successor has become entitled under this Act to an interest as a beneficiary in the whole or any part of the real and personal property which passes on the intestacy of any person,---
         
-    *   (a) the successor may, by deed delivered to the intestate person's administrator, disclaim that interest if at the date of the disclaimer he has attained full age and is of sound mind:
+    *   (a) the successor may, by deed delivered to the intestate person's administrator, disclaim that interest if at the date of the disclaimer he or she has attained full age and is of sound mind:
     
     *   (b) the court may, by order, disclaim the interest on behalf of the successor or authorise the disclaimer of the interest by or on behalf of the successor if at the date of the disclaimer the successor has not attained full age or is not of sound mind.
     
     (2) No disclaimer under this section shall be valid unless---
         
-    *   (a) the disclaimer is made by the successor in his lifetime; and
+    *   (a) the disclaimer is made by the successor in his or her lifetime; and
     
     *   (b) the disclaimer relates to the whole of the successor's interest as a beneficiary under this Act in the real and personal property which passes on the intestacy of the person, including property which any other person has disclaimed under this section; and
     
@@ -1861,7 +1835,7 @@ Miscellaneous provisions
     
     (3) No disclaimer under this section shall be valid if---
         
-    *   (a) the successor has entered into enjoyment of the whole or any part of the interest to which he has become entitled as aforesaid; or
+    *   (a) the successor has entered into enjoyment of the whole or any part of the interest to which he or she has become entitled as aforesaid; or
     
     *   (b) the successor has transferred, assigned, mortgaged, settled, or otherwise disposed of that interest or of any part thereof or of any property which would include that interest or any part thereof if it were not disclaimed, or has covenanted or agreed to do any such thing; or
     
@@ -1879,7 +1853,7 @@ Miscellaneous provisions
     
     (5) Where a disclaimer which complies with all the requirements of this section has been made by or on behalf of any successor and the disclaimer is not void and does not become void by reason of its being deemed under [section 82][105] to be a transfer of the disclaimed interest---
         
-    *   (a) the property which passes on the intestacy of the person shall be distributed as if the successor had died immediately before the intestate person leaving only such issue (if any) as the successor would have left if he had died immediately before the intestate person:
+    *   (a) the property which passes on the intestacy of the person shall be distributed as if the successor had died immediately before the intestate person leaving only such issue (if any) as the successor would have left if he or she had died immediately before the intestate person:
     
     *   (b) the successor shall be deemed for all purposes neither to have become entitled to nor to have disposed of the disclaimed interest or any part thereof.
     
@@ -1889,11 +1863,11 @@ Miscellaneous provisions
     
     Compare: 1952 No 56 s 62; 1954 No 51 s 48
     
-    Section 81(5)(a): amended, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 81(5)(a): amended, on 24 May 1999, by [section 15(1)][138] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 82 Effect of bankruptcy on disclaimer on intestacy or under a will and right of administrator to distribute
     
-*   (1) Where a successor disclaims the interest as a beneficiary to which he is entitled under this Act in any real or personal property which passes on the intestacy of any person, or disclaims any interest as a beneficiary in any real or personal property to which he is entitled under the will of a deceased person, then, for the purposes of the [Insolvency Act 2006][222] and of any other Act or rule of law relating to the protection of creditors,---
+*   (1) Where a successor disclaims the interest as a beneficiary to which he or she is entitled under this Act in any real or personal property which passes on the intestacy of any person, or disclaims any interest as a beneficiary in any real or personal property to which he or she is entitled under the will of a deceased person, then, for the purposes of the [Insolvency Act 2006][221] and of any other Act or rule of law relating to the protection of creditors,---
         
     *   (a) the successor shall be deemed to have accepted the disclaimed interest; and
     
@@ -1907,7 +1881,7 @@ Miscellaneous provisions
     
     *   (c) the administrator has no reason to believe that the disclaimer is void or voidable or is about to become void or voidable by reason of its being deemed to be a transfer of the disclaimed interest.
     
-    (3) No action shall lie against any such administrator by reason of his distributing any disclaimed interest as aforesaid or by reason of his having failed to make any inquiry as to whether the successor was about to become bankrupt or as to whether the disclaimer was void or voidable or about to become void or voidable by reason of its being deemed to be a transfer of the disclaimed interest; but nothing in this subsection or in subsection (2) shall affect any right which any person may have to follow and recover any property to which the disclaimer relates.
+    (3) No action shall lie against any such administrator by reason of his or her distributing any disclaimed interest as aforesaid or by reason of his or her having failed to make any inquiry as to whether the successor was about to become bankrupt or as to whether the disclaimer was void or voidable or about to become void or voidable by reason of its being deemed to be a transfer of the disclaimed interest; but nothing in this subsection or in subsection (2) shall affect any right which any person may have to follow and recover any property to which the disclaimer relates.
     
     Compare: 1952 No 56 s 63
     
@@ -1935,17 +1909,17 @@ Miscellaneous provisions
     
     (4) Each time regulations are made under subsection (1) prescribing an amount for the purposes of [section 77][96], the prescribed amount applies to the estates of all persons dying on or after the date on which those regulations come into force, but does not apply to the estates of persons dying before that date.
     
-    Section 82A: inserted, on 3 June 1998, by [section 7][223] of the Administration Amendment Act 1998 (1998 No 24).
+    Section 82A: inserted, on 3 June 1998, by [section 7][222] of the Administration Amendment Act 1998 (1998 No 24).
     
-    Section 82A(1): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on of after 1 February 2002), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(1): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 82A(3): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on of after 1 February 2002), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(3): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 82A(4): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on of after 1 February 2002), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(4): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 83 Consequential amendment
     
-*   _Amendment(s) incorporated in the [Act(s)][210]._
+*   _Amendment(s) incorporated in the [Act(s)][209]._
 
 ##### 84 Repeals and savings
     
@@ -1957,9 +1931,9 @@ Miscellaneous provisions
     
     (4) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of section 3 of the Administration Amendment Act 1960 shall not affect the amendments made by that section.
     
-    (5) Except as expressly provided in this Act, nothing in this Act shall affect the [Maori Trustee Act 1953][142], the [Public Trust Act 2001][141], and the [Trustee Companies Act 1967][117].
+    (5) Except as expressly provided in this Act, nothing in this Act shall affect the [Maori Trustee Act 1953][141], the [Public Trust Act 2001][140], and the [Trustee Companies Act 1967][117].
     
-    Section 84(3): amended, on 1 January 1987, pursuant to [section 29(2)][225] of the Constitution Act 1986 (1986 No 114).
+    Section 84(3): amended, on 1 January 1987, pursuant to [section 29(2)][224] of the Constitution Act 1986 (1986 No 114).
     
     Section 84(5): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
@@ -1974,7 +1948,7 @@ In the High Court of New Zealand, at \[_place_\]
 
 In the estate of \[_name_\], of \[_address_\], deceased.
 
-Pursuant to section 18 of the Administration Act 1969, I hereby certify that, on \[_date_\], probate of the will \[_or_ letters of administration in the estate\]\* of the above-named deceased who died on or about \[_date_\], was \[were\] granted to \[_name_\], of \[_address_\].
+Pursuant to section 18 of the Administration Act 1969, I hereby certify that, on \[_date_\], probate of the will (_or_ letters of administration in the estate)\* of the above-named deceased who died on or about \[_date_\], was (were) granted to \[_name_\], of \[_address_\].
 
 Dated at: \[_place, date_\]
 
@@ -1984,7 +1958,7 @@ Registrar.
 
 \*In the case of a limited or special grant the exact nature of the grant should be shown.
 
-*   Schedule 1: amended, on 1 April 1980, by [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
+*   Schedule 1: amended, on 1 April 1980, pursuant to [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
 *   Schedule 1: amended, on 1 April 1973, by [section 18(3)][167] of the Judicature Amendment Act 1972 (1972 No 130).
 
 ---
@@ -1994,16 +1968,15 @@ Order to Public Trust or Māori Trustee to administer
 
 [s 58][67]
 
-*   Schedule 2 heading: amended, on 1 July 2009, pursuant to section 30(2)(a) of the Māori Trustee Amendments Act 2009 (2009 No 12).
 *   Schedule 2 heading: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
 In the High Court of New Zealand,
 
 Date:
 
-Upon reading the affidavits of \[_name_\], it is ordered that \[_name_\] shall be administrator of all the real and personal estate of deceased \[_with the will of the said \[name\] annexed_\].
+Upon reading the affidavits of \[_name_\], it is ordered that \[_name_\] shall be administrator of all the real and personal estate of deceased (with the will of the said \[_name_\] annexed).
     
-*   Schedule 2: amended, on 1 April 1980, pursuant to section 12 of the Judicature Amendment Act 1979 (1979 No 124).
+*   Schedule 2: amended, on 1 April 1980, pursuant to [section 12][118] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ---
 
@@ -2040,7 +2013,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Trustee Act 1953 (1953 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][226]._
+_Amendment(s) incorporated in the [Act(s)][225]._
 
 ##### Matrimonial Proceedings Amendment Act 1968 (1968 No 60)
 
@@ -2060,7 +2033,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][227]._
+_Amendment(s) incorporated in the [Act(s)][226]._
 
 ##### Trustee Amendment Act 1968 (1968 No 24)
 
@@ -2077,63 +2050,63 @@ Enactments declared not to have effect in New Zealand
 
 [ss 84(2), (3)][108]
 
-**Session and chapter****Title or Short Title****Extent of repeal**
+**Session and chapter** **Title or Short Title** **Extent of repeal**
 
-13 Edw 1 (_Stat. Westm. sec._), c 19The ordinary chargeable to pay the debts of an intestate.The whole chapter.
+13 Edw 1 (_Stat. Westm. sec._), c 19 The ordinary chargeable to pay the debts of an intestate. The whole chapter.
 
-13 Edw 1 (_Stat. Westm. sec._), c 23Writ of account for executorsThe whole chapter.
+13 Edw 1 (_Stat. Westm. sec._), c 23 Writ of account for executors The whole chapter.
 
-13 Edw (_Stat. Westm. sec._), c 34Dower forfeited by elopement with adultererFrom ""and if a wife willingly leave her husband"" to ""in which case she shall be restored to her action"".
+13 Edw (_Stat. Westm. sec._), c 34 Dower forfeited by elopement with adulterer From ""and if a wife willingly leave her husband"" to ""in which case she shall be restored to her action"".
 
-25 Edw 1, c 7Widow; her marriage estate; quarantine; estovers; dower; remarriageThe whole chapter.
+25 Edw 1, c 7 Widow; her marriage estate; quarantine; estovers; dower; remarriage The whole chapter.
 
-25 Edw 1, c 18The King's tenant, his debtorFrom ""and the residue"" to ""reasonable parts"".
+25 Edw 1, c 18 The King's tenant, his debtor From ""and the residue"" to ""reasonable parts"".
 
-Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.The whole statute.
+Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. The whole statute.
 
-4 Edw 3, c 7Executors shall have an action of trespass for a wrong done to their testator.The whole chapter.
+4 Edw 3, c 7 Executors shall have an action of trespass for a wrong done to their testator. The whole chapter.
 
-25 Edw 3, st 5 c 5Executors of executors shall have the same rights and duties as the first executors.The whole chapter.
+25 Edw 3, st 5 c 5 Executors of executors shall have the same rights and duties as the first executors. The whole chapter.
 
-31 Edw 3, st 4Probate of testamentsThe whole chapter
+31 Edw 3, st 4 Probate of testaments The whole chapter.
 
-31 Edw 3, st 1 c 11The ordinary shall commit administration upon an intestacy. The administrators shall have the same rights and charges as executors.The whole chapter.
+31 Edw 3, st 1 c 11 The ordinary shall commit administration upon an intestacy. The administrators shall have the same rights and charges as executors. The whole chapter.
 
-21 Hen 8, c 4An Act concerning executors of last wills and testaments.The whole Act.
+21 Hen 8, c 4 An Act concerning executors of last wills and testaments. The whole Act.
 
-21 Hen 8, c 5An Act concerning fines and sums of money to be taken by the Ministers of Bishops and other Ordinaries of Holy Church for the probate of Testaments.The whole Act.
+21 Hen 8, c 5 An Act concerning fines and sums of money to be taken by the Ministers of Bishops and other Ordinaries of Holy Church for the probate of Testaments. The whole Act.
 
-32 Hen 8, c 37For recovering of arrerage by executors and administrators.Sections 1, 2, and 3\.
+32 Hen 8, c 37 For recovering of arrerage by executors and administrators. Sections 1, 2, and 3\.
 
-1 Edw 6, c 12An Act for the repeal of certain statutes concerning treasons, felonies, etcSection 16\.
+1 Edw 6, c 12 An Act for the repeal of certain statutes concerning treasons, felonies, etc Section 16\.
 
-43 Eliz, c 8An Act against fraudulent administration of intestates goods.The whole Act.
+43 Eliz, c 8 An Act against fraudulent administration of intestates goods. The whole Act.
 
-29 Chas 2, c 3The Statute of FraudsSections 10, 11, 23, and 24\.
+29 Chas 2, c 3 The Statute of Frauds Sections 10, 11, 23, and 24\.
 
-30 Chas 2, c 7An Act to enable creditors to recover their debts of the executors and administrators of executors in their own wrong.The whole Act.
+30 Chas 2, c 7 An Act to enable creditors to recover their debts of the executors and administrators of executors in their own wrong. The whole Act.
 
-1 Jas 2, c 17An Act for reviving and continuance of several Acts of Parliament therein mentioned.The whole Act.
+1 Jas 2, c 17 An Act for reviving and continuance of several Acts of Parliament therein mentioned. The whole Act.
 
-4 Will & Mar, c 24An Act for reviving, continuing and explaining several laws therein mentioned that are expired and near expiring.Section 12\.
+4 Will & Mar, c 24 An Act for reviving, continuing and explaining several laws therein mentioned that are expired and near expiring. Section 12\.
 
-38 Geo 3, c 87The Administration of Estates Act 1798\.The whole Act.
+38 Geo 3, c 87 The Administration of Estates Act 1798\. The whole Act.
 
-11 Geo 4 & 1 Will 4, c 40The Executors Act 1830The whole Act.
+11 Geo 4 & 1 Will 4, c 40 The Executors Act 1830 The whole Act.
 
-11 Geo 4 & 1 Will 4, c 47The Debts Recovery Act 1830The whole Act.
+11 Geo 4 & 1 Will 4, c 47 The Debts Recovery Act 1830 The whole Act.
 
-3 & 4 Will 4, c 42The Civil Procedure Act 1833Sections 2, 37, and 38\.
+3 & 4 Will 4, c 42 The Civil Procedure Act 1833 Sections 2, 37, and 38\.
 
-3 & 4 Will 4, c 74The Fines and Recoveries Act 1833In section 27, the words ""no woman in respect of her dower, and"".
+3 & 4 Will 4, c 74 The Fines and Recoveries Act 1833 In section 27, the words ""no woman in respect of her dower, and"".
 
-3 & 4 Will, c 104The Administration of Estates Act 1833\.The whole Act.
+3 & 4 Will, c 104 The Administration of Estates Act 1833\. The whole Act.
 
-2 & 3 Vict, c 60The Debts Recovery Act 1839The whole Act.
+2 & 3 Vict, c 60 The Debts Recovery Act 1839 The whole Act.
 
-20 & 21 Vict, c 77The Court of Probate Act 1857The whole Act.
+20 & 21 Vict, c 77 The Court of Probate Act 1857 The whole Act.
 
-21 & 22 Vict, c 95The Court of Probate Act 1858The whole Act.
+21 & 22 Vict, c 95 The Court of Probate Act 1858 The whole Act.
 
 #### 
 
@@ -2147,17 +2120,19 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][228] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][229] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][227] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][228] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][230] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][231] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][229] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][230] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][184]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30][135]
+    High Court Fees Regulations 2013 (SR 2013/226): [regulation 5(1)][139]
+    
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][142]
     
     Succession (Homicide) Act 2007 (2007 No 95): [section 17][124]
     
@@ -2165,17 +2140,17 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
     
     Insolvency Act 2006 (2006 No 55): [section 445][146]
     
-    [Administration Amendment Act 2005][232] (2005 No 4)
+    [Administration Amendment Act 2005][231] (2005 No 4)
     
-    Care of Children Act 2004 (2004 No 90): [section 151][202]
+    Care of Children Act 2004 (2004 No 90): [section 151][201]
     
-    [Administration Amendment Act 2003][233] (2003 No 58)
+    [Administration Amendment Act 2003][232] (2003 No 58)
     
     Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][120]
     
     Local Government Act 2002 (2002 No 84): [section 262][182]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][208]
+    Trade Marks Act 2002 (2002 No 49): [section 201][207]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][123]
     
@@ -2185,19 +2160,17 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
     
     Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][196]
     
-    [Administration Amendment Act 2001][234] (2001 No 6)
+    [Administration Amendment Act 2001][233] (2001 No 6)
     
     Personal Property Act 1999 (1999 No 126): [section 191(1)][122]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][139]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][138]
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][197]
     
-    [Administration Amendment (No 2) Act 1998][235] (1998 No 82)
+    [Administration Amendment Act (No 2) 1998][234] (1998 No 82)
     
-    [Administration Amendment Act 1998][236] (1998 No 24)
-    
-    Administration (Fee) Regulations 1997 (SR 1997/330): [regulation 2][140]
+    [Administration Amendment Act 1998][235] (1998 No 24)
     
     Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][194]
     
@@ -2211,11 +2184,11 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
     
     Public Finance Act 1989 (1989 No 44): [section 86(1)][181]
     
-    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][209]
+    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][208]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][225]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][224]
     
-    Judicature Amendment (No 2) Act 1985 (1985 No 112): [section 11(2)][138]
+    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 11(2)][137]
     
     Administration Amendment Act 1985 (1985 No 79)
     
@@ -2227,9 +2200,7 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][118]
     
-    [Administration Amendment Act 1979][237] (1979 No 38)
-    
-    Social Security Amendment Act 1978 (1978 No 58): [section 15(2)][199]
+    [Administration Amendment Act 1979][236] (1979 No 38)
     
     Domicile Act 1976 (1976 No 17): [section 14(1)][173]
     
@@ -2238,8 +2209,6 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
     Administration Amendment Act 1973 (1973 No 47)
     
     Judicature Amendment Act 1972 (1972 No 130): [section 18(3)][167]
-    
-    Accident Compensation Act 1972 (1972 No 43): section 184
     
     Administration Amendment Act 1970 (1970 No 45)
 
@@ -2380,14 +2349,14 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
 [132]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM127565
 [133]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM127566
 [134]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM127568
-[135]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM1583888
-[136]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32817
-[137]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM269031
-[138]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM75961
-[139]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM30504
-[140]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM243309
-[141]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM122998
-[142]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282037
+[135]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32817
+[136]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM269031
+[137]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM75961
+[138]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM30504
+[139]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM5196144
+[140]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM122998
+[141]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282037
+[142]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM1583888
 [143]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM261466
 [144]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM305099
 [145]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM387732
@@ -2444,42 +2413,41 @@ Statute (_temp. incert._)Statute concerning tenants by the Curtesy of England.Th
 [196]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM96736
 [197]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM429013
 [198]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426211
-[199]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM22196
-[200]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334751
-[201]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88128
-[202]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM317988
-[203]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM280779
-[204]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM281772
-[205]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM164619
-[206]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351222
-[207]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351226
-[208]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM165256
-[209]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM98437
-[210]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM304703
-[211]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32823
-[212]: http://www.legislation.govt.nz/act/public/1969/0052/latest/whole.html#DLM392662
-[213]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88129
-[214]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334752
-[215]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334753
-[216]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334755
-[217]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88136
-[218]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM305237
-[219]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426213
-[220]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334756
-[221]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88137
-[222]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM385298
-[223]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426214
-[224]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88138
-[225]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM94263
-[226]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282703
-[227]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM390653
-[228]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998516
-[229]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998515
-[230]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998532
-[231]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[232]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334742
-[233]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM215887
-[234]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88114
-[235]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM428144
-[236]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426203
-[237]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32809
+[199]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334751
+[200]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88128
+[201]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM317988
+[202]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM280779
+[203]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM281772
+[204]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM164619
+[205]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351222
+[206]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351226
+[207]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM165256
+[208]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM98437
+[209]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM304703
+[210]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32823
+[211]: http://www.legislation.govt.nz/act/public/1969/0052/latest/whole.html#DLM392662
+[212]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88129
+[213]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334752
+[214]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334753
+[215]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334755
+[216]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88136
+[217]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM305237
+[218]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426213
+[219]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334756
+[220]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88137
+[221]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM385298
+[222]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426214
+[223]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88138
+[224]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM94263
+[225]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282703
+[226]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM390653
+[227]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998516
+[228]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998515
+[229]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998532
+[230]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[231]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334742
+[232]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM215887
+[233]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88114
+[234]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM428144
+[235]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426203
+[236]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32809
