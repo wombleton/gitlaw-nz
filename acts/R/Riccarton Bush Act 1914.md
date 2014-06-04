@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 20 May 2014
 
 # Riccarton Bush Act 1914Local Act1914 No 15
 
@@ -543,7 +543,7 @@ An Act to incorporate the Trustees of the Riccarton Bush
     
     *   (b) the Royal Society of New Zealand Canterbury Branch Incorporated; and 
     
-    *   (c) the New Zealand Historic Places Trust.
+    *   (c) Heritage New Zealand Pouhere Taonga.
     
     (3) The Board must make the draft management plan available for inspection free of charge during ordinary office hours at the Board's office.
     
@@ -564,6 +564,8 @@ An Act to incorporate the Trustees of the Riccarton Bush
     (9) The Board must comply with subsections (2) to (6) if it proposes to make material amendments to the management plan.
     
     Section 26: inserted, on 14 November 2012, by [section 10][50] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
+    
+    Section 26(2)(c): replaced, on 20 May 2014, by [section 107][56] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 27 Status of management plan
     
@@ -601,7 +603,7 @@ All that area in the Canterbury Land District, containing 15 acres 2 roods and 3
 
 [s 28][35]
 
-*   Schedule 2: inserted, on 14 November 2012, by [section 11][56] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
+*   Schedule 2: inserted, on 14 November 2012, by [section 11][57] of the Riccarton Bush Amendment Act 2012 (2012 No 4 (L)).
 
 3339 m² being Lot 1 on Deposited Plan 13668 and being the land comprised in computer freehold register CB511/172
 
@@ -617,11 +619,13 @@ All that area in the Canterbury Land District, containing 15 acres 2 roods and 3
 
 ###### 2 About this eprint
     
-*   This eprint is not an official version of the legislation under [section 18][57] of the Legislation Act 2012\.
+*   This eprint is not an official version of the legislation under [section 18][58] of the Legislation Act 2012\.
 
 ###### 3 Amendments incorporated in this eprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][52]
+*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][56]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][52]
     
     [Riccarton Bush Amendment Act 2012][55] (2012 No 4 (L))
     
@@ -685,5 +689,6 @@ All that area in the Canterbury Land District, containing 15 acres 2 roods and 3
 [53]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM171892
 [54]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM176026
 [55]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501300
-[56]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501343
-[57]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM2998516
+[56]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4005646
+[57]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM4501343
+[58]: http://www.legislation.govt.nz/act/local/1914/0015/latest/link.aspx?id=DLM2998516
