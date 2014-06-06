@@ -23468,253 +23468,253 @@ Forms
 
 _General forms_
 
-G 1General heading for documents filed in proceeding 
+G 1[General heading for documents filed in proceeding][1811] 
 
-G 2Notice of proceeding 
+G 2[Notice of proceeding][1814] 
 
-G 3Memorandum (general form) 
+G 3[Memorandum (general form)][1815] 
 
-G 4Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 
+G 4[Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908][1816] 
 
-G 5Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 
+G 5[Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955][1817] 
 
-G 6Notice to defendant served overseas 
+G 6[Notice to defendant served overseas][1861] 
 
-G 7Appearance under protest to jurisdiction 
+G 7[Appearance under protest to jurisdiction][1842] 
 
-G 8Appearance for ancillary purpose 
+G 8[Appearance for ancillary purpose][1843] 
 
-G 9Appearance reserving rights 
+G 9[Appearance reserving rights][1844] 
 
-G 10Memorandum to be attached to first document filed by party 
+G 10[Memorandum to be attached to first document filed by party][1834] 
 
-G 11Memorandum as to change of representation and/or address for service 
+G 11[Memorandum as to change of representation and/or address for service][1831] 
 
-G 12Notice of intention to speak Māori 
+G 12[Notice of intention to speak Māori][1777] 
 
-G 13Notice of proceeding when summary judgment sought by plaintiff 
+G 13[Notice of proceeding when summary judgment sought by plaintiff][1933] 
 
-G 14Third party notice 
+G 14[Third party notice][1801] 
 
-G 15Notice to other defendant 
+G 15[Notice to other defendant][1804] 
 
-G 16Affidavit of service 
+G 16[Affidavit of service][1855] 
 
-G 17Service of foreign process in New Zealand---Registrar's certificate 
+G 17[Service of foreign process in New Zealand---Registrar's certificate][1860] 
 
-G 18Request for service abroad 
+G 18[Request for service abroad][1862] 
 
-G 19Report of examiner 
+G 19[Report of examiner][1900] 
 
-G 20Subpoena to give evidence in New Zealand proceeding for service in Australia 
+G 20[Subpoena to give evidence in New Zealand proceeding for service in Australia][2211] 
 
-G 21Subpoena for production only issued in New Zealand proceeding for service in Australia 
+G 21[Subpoena for production only issued in New Zealand proceeding for service in Australia][2212] 
 
-G 22Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings 
+G 22[Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings][2214] 
 
-G 23Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia 
+G 23[Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia][2215] 
 
-G 24Notice of discontinuance 
+G 24[Notice of discontinuance][1943] 
 
-G 25Subpoena 
+G 25[Subpoena][1903] 
 
-G 26Subpoena to give evidence for service in Australia 
+G 26[Subpoena to give evidence for service in Australia][1907] 
 
-G 27Subpoena for production only for service in Australia 
+G 27[Subpoena for production only for service in Australia][1908] 
 
-G 28Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 
+G 28[Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006][1914] 
 
-G 29Certificate of non-compliance with subpoena for service in Australia 
+G 29[Certificate of non-compliance with subpoena for service in Australia][1920] 
 
-G 30Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 
+G 30[Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934][2091] 
 
-G 31Interlocutory application on notice 
+G 31[Interlocutory application on notice][1871] 
 
-G 32Interlocutory application without notice 
+G 32[Interlocutory application without notice][1872] 
 
-G 33Notice of opposition 
+G 33[Notice of opposition][1873] 
 
-G 34Interlocutory order 
+G 34[Interlocutory order][1875] 
 
-G 35Notice to answer interrogatories 
+G 35[Notice to answer interrogatories][1895] 
 
-G 36Notice to admit facts 
+G 36[Notice to admit facts][1896] 
 
-G 37Affidavit of documents 
+G 37[Affidavit of documents][1892] 
 
-G 38Freezing order 
+G 38[Freezing order][2247] 
 
-G 39Search order 
+G 39[Search order][2248] 
 
-G 40General court order 
+G 40[General court order][1928] 
 
-J 1Judgment by default in case of liquidated demand 
+J 1[Judgment by default in case of liquidated demand][1927] 
 
-J 2Judgment by default in proceeding for recovery of land 
+J 2[Judgment by default in proceeding for recovery of land][2249] 
 
-J 3Judgment on trial by Judge 
+J 3[Judgment on trial by Judge][2250] 
 
-J 4Judgment on trial by jury 
+J 4[Judgment on trial by jury][2251] 
 
-E 1Notice to liable party 
+E 1[Notice to liable party][1953] 
 
-E 2Statement of means of liable party 
+E 2[Statement of means of liable party][1954] 
 
-E 3Attachment order 
+E 3[Attachment order][1961] 
 
-E 4Charging order on land 
+E 4[Charging order on land][1975] 
 
-E 5Interim charging order 
+E 5[Interim charging order][1976] 
 
-E 6Final charging order 
+E 6[Final charging order][1977] 
 
-E 7Sale order 
+E 7[Sale order][1981] 
 
-E 8Possession order 
+E 8[Possession order][1982] 
 
-E 9Arrest order 
+E 9[Arrest order][1983] 
 
-E 10Sequestration order 
+E 10[Sequestration order][1984] 
 
-E 11Order to arrest and imprison absconding debtor 
+E 11[Order to arrest and imprison absconding debtor][1985] 
 
-E 12Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice 
+E 12[Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice][1986] 
 
-CL 1Commercial list 
+CL 1[Commercial list][2217] 
 
-CL 2Appearance in proceeding entered on commercial list 
+CL 2[Appearance in proceeding entered on commercial list][2218] 
 
-CL 3Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 
+CL 3[Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908][2221] 
 
-PR 1Affidavit for obtaining grant of probate 
+PR 1[Affidavit for obtaining grant of probate][2171] 
 
-PR 2Affidavit for obtaining grant of letters of administration with will annexed 
+PR 2[Affidavit for obtaining grant of letters of administration with will annexed][2172] 
 
-PR 3Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner 
+PR 3[Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner][2252] 
 
-PR 4Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased 
+PR 4[Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased][2253] 
 
-PR 5Affidavit for obtaining grant of administration on intestacy to parent of deceased 
+PR 5[Affidavit for obtaining grant of administration on intestacy to parent of deceased][2254] 
 
-PR 6Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased 
+PR 6[Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased][2255] 
 
-PR 7Probate in common form 
+PR 7[Probate in common form][2200] 
 
-PR 8Letters of administration with will annexed 
+PR 8[Letters of administration with will annexed][2201] 
 
-PR 9Letters of administration on intestacy 
+PR 9[Letters of administration on intestacy][2202] 
 
-PR 10Caveat 
+PR 10[Caveat][2177] 
 
-PR 11Exemplification of probate or letters of administration 
+PR 11[Exemplification of probate or letters of administration][2256] 
 
-PR 12Affidavit of valid execution 
+PR 12[Affidavit of valid execution][2190] 
 
-AD 1General heading for action _in personam_ 
+AD 1[General heading for action _in personam_][2140] 
 
-AD 2Notice of proceeding _in personam_ 
+AD 2[Notice of proceeding _in personam_][2139] 
 
-AD 3General heading for action _in rem_ 
+AD 3[General heading for action _in rem_][2142] 
 
-AD 4Notice of proceeding _in rem_ 
+AD 4[Notice of proceeding _in rem_][2141] 
 
-AD 5Notice of proceeding both _in rem_ and _in personam_ 
+AD 5[Notice of proceeding both _in rem_ and _in personam_][2143] 
 
-AD 6Memorandum of appearance 
+AD 6[Memorandum of appearance][2144] 
 
-AD 7Application for warrant of arrest 
+AD 7[Application for warrant of arrest][2146] 
 
-AD 8Indemnity to Registrar 
+AD 8[Indemnity to Registrar][2147] 
 
-AD 9Warrant of arrest 
+AD 9[Warrant of arrest][2148] 
 
-AD 10Notice by Registrar of arrest of property 
+AD 10[Notice by Registrar of arrest of property][2150] 
 
-AD 11Request for caveat against arrest 
+AD 11[Request for caveat against arrest][2151] 
 
-AD 12Release from arrest 
+AD 12[Release from arrest][2152] 
 
-AD 13Bail bond 
+AD 13[Bail bond][2153] 
 
-AD 14Request for caveat against release and payment 
+AD 14[Request for caveat against release and payment][2154] 
 
-AD 15Request for commission for appraisement and sale 
+AD 15[Request for commission for appraisement and sale][2155] 
 
-AD 16Commission for appraisement and sale 
+AD 16[Commission for appraisement and sale][2156] 
 
-AD 17Notice for priority of claims on sale 
+AD 17[Notice for priority of claims on sale][2157] 
 
-Arb 1Appeal under Arbitration Act 1996 
+Arb 1[Appeal under Arbitration Act 1996][2161] 
 
-Arb 2Notice for leave to appeal under Arbitration Act 1996 
+Arb 2[Notice for leave to appeal under Arbitration Act 1996][2162] 
 
-Arb 3Application to enter award as judgment 
+Arb 3[Application to enter award as judgment][2163] 
 
-C 1Statement of claim in proceeding for putting company into liquidation 
+C 1[Statement of claim in proceeding for putting company into liquidation][2224] 
 
-C 2Statement of claim in proceeding for order under section 174 of Companies Act 1993 
+C 2[Statement of claim in proceeding for order under section 174 of Companies Act 1993][1999] 
 
-C 3Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 
+C 3[Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993][2000] 
 
-C 4Verifying affidavit 
+C 4[Verifying affidavit][2226] 
 
-C 5Affidavit verifying statement of claim of limited company 
+C 5[Affidavit verifying statement of claim of limited company][2227] 
 
-C 6Advertisement of application for putting company into liquidation 
+C 6[Advertisement of application for putting company into liquidation][2230] 
 
-C 7Advertisement of application for order under section 174 of Companies Act 1993 
+C 7[Advertisement of application for order under section 174 of Companies Act 1993][2257] 
 
-C 8Affidavit of service 
+C 8[Affidavit of service][2232] 
 
-C 9Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) 
+C 9[Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993)][2233] 
 
-C 10Notification to liquidator of order putting company into liquidation 
+C 10[Notification to liquidator of order putting company into liquidation][2235] 
 
-C 11Notification to interim liquidator of appointment 
+C 11[Notification to interim liquidator of appointment][2236] 
 
-C 12Order putting company into liquidation 
+C 12[Order putting company into liquidation][2237] 
 
-C 13Order appointing interim liquidator 
+C 13[Order appointing interim liquidator][2238] 
 
-C 14General heading for notices in forms C 15 and C 16 
+C 14[General heading for notices in forms C 15 and C 16][2243] 
 
-C 15Notice to set aside voidable transaction under Companies Act 1993 
+C 15[Notice to set aside voidable transaction under Companies Act 1993][2244] 
 
-C 16Notice to set aside voidable charge under Companies Act 1993 
+C 16[Notice to set aside voidable charge under Companies Act 1993][2245] 
 
-B 1Request for issue of bankruptcy notice 
+B 1[Request for issue of bankruptcy notice][2098] 
 
-B 2Bankruptcy notice 
+B 2[Bankruptcy notice][2099] 
 
-B 3Creditor's application for adjudication order 
+B 3[Creditor's application for adjudication order][2101] 
 
-B 4Affidavit supporting creditor's application for adjudication 
+B 4[Affidavit supporting creditor's application for adjudication][2102] 
 
-B 5Summons to debtor 
+B 5[Summons to debtor][2103] 
 
-B 6Notice by debtor of intention to oppose application 
+B 6[Notice by debtor of intention to oppose application][2258] 
 
-B 7Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 
+B 7[Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006][2097] 
 
-B 8Notice of objection to discharge 
+B 8[Notice of objection to discharge][2118] 
 
-B 9Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 
+B 9[Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006][2122] 
 
-B 10Statement of affairs and affidavit 
+B 10[Statement of affairs and affidavit][2123] 
 
-B 11Report of trustee on proposal 
+B 11[Report of trustee on proposal][2124] 
 
-B 12Account of assets, debts, etc, of deceased person verified by affidavit 
+B 12[Account of assets, debts, etc, of deceased person verified by affidavit][2128] 
 
-B 13Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 
+B 13[Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006][2131] 
 
-B 14Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 
+B 14[Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006][2115] 
 
-B 15Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 
+B 15[Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006][2116] 
 
-B 16Order adjudicating debtor bankrupt 
+B 16[Order adjudicating debtor bankrupt][2104] 
 
-B 17Appointment of Official Assignee as receiver and manager 
+B 17[Appointment of Official Assignee as receiver and manager][2110] 
 
 ---
 
@@ -23851,9 +23851,9 @@ Date:
 
 **Note**: Please carefully read the memorandum attached to this notice.
     
-*   Schedule 2 Schedule 1 form G 2: replaced, on 4 February 2013, by [rule 18][2249] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
-*   Schedule 2 Schedule 1 form G 2: amended, on 11 October 2013, by [rule 25(1)][2250] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 2: amended, on 11 October 2013, by [rule 25(2)][2250] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 2: replaced, on 4 February 2013, by [rule 18][2259] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
+*   Schedule 2 Schedule 1 form G 2: amended, on 11 October 2013, by [rule 25(1)][2260] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 2: amended, on 11 October 2013, by [rule 25(2)][2260] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 
 #### Form G 3  
 Memorandum (general form)
@@ -24159,7 +24159,7 @@ Since you are resident outside New Zealand you are further notified that---
 
 *   8 If you want to dispute the jurisdiction of the High Court or to defend the plaintiff's claim, you should either directly, or through a qualified legal adviser in the place where you are, send written authority (by fax or email) to a solicitor in New Zealand to act for you.
 
-**Note**: This form should not be used if the defendant is to be served in Australia under [section 13][1768] of the Trans-Tasman Proceedings Act 2010\. Use instead the information that [section 15][2251] of that Act requires to be served on the defendant (_see_ [form 1][2252] of the Schedule of the Trans-Tasman Proceedings Regulations and Rules 2013).
+**Note**: This form should not be used if the defendant is to be served in Australia under [section 13][1768] of the Trans-Tasman Proceedings Act 2010\. Use instead the information that [section 15][2261] of that Act requires to be served on the defendant (_see_ [form 1][2262] of the Schedule of the Trans-Tasman Proceedings Regulations and Rules 2013).
 
 Date:
 
@@ -24169,8 +24169,8 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 6: amended, on 3 June 2014, by [rule 15][2253] of the High Court Amendment Rules 2014 (LI 2014/127).
-*   Schedule 2 Schedule 1 form G 6: amended, on 1 January 2011, by [rule 25][2254] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 6: amended, on 3 June 2014, by [rule 15][2263] of the High Court Amendment Rules 2014 (LI 2014/127).
+*   Schedule 2 Schedule 1 form G 6: amended, on 1 January 2011, by [rule 25][2264] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 7  
 Appearance under protest to jurisdiction
@@ -24191,7 +24191,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 7: amended, on 1 January 2011, by [rule 26][2255] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 7: amended, on 1 January 2011, by [rule 26][2265] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 8  
 Appearance for ancillary purpose
@@ -24290,7 +24290,7 @@ Documents for service on the party may be left at that address for service or ma
     
     emailed to the solicitor at \[_email address_\].
 
-*   Schedule 2 Schedule 1 form G 10: amended, on 11 November 2013, by [rule 29(1)][2256] of the High Court Amendment Rules (No 3) 2013 (SR 2013/425).
+*   Schedule 2 Schedule 1 form G 10: amended, on 11 November 2013, by [rule 29(1)][2266] of the High Court Amendment Rules (No 3) 2013 (SR 2013/425).
 
 #### Form G 11  
 Memorandum as to change of representation and/or address for service
@@ -24349,7 +24349,7 @@ Signature\*:
 
 †Select one.
 
-*   Schedule 2 Schedule 1 form G 11: amended, on 11 November 2013, by [rule 29(2)][2256] of the High Court Amendment Rules (No 3) 2013 (SR 2013/425).
+*   Schedule 2 Schedule 1 form G 11: amended, on 11 November 2013, by [rule 29(2)][2266] of the High Court Amendment Rules (No 3) 2013 (SR 2013/425).
 
 #### Form G 12  
 Notice of intention to speak Māori
@@ -24390,7 +24390,7 @@ Signature:
 
 #### Notes
     
-*   1 The [Maori Language Act 1987][2257] entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
+*   1 The [Maori Language Act 1987][2267] entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
 
 *   2 If a person intends to speak Māori at all case management conferences and hearings relating to a proceeding or application, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
 
@@ -24537,7 +24537,7 @@ Signature:
 
 \*Select one.
 
-_Add the following notice if the defendant is to be served overseas (other than in Australia and under [section 13][1768] of the Trans-Tasman Proceedings Act 2010). If the defendant is to be served in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010, do not use the following notice, but use instead the information that [section 15][2251] of that Act requires to be served on the defendant (see [form 1][2252] of the Schedule of the Trans-Tasman Regulations and Rules 2013)._
+_Add the following notice if the defendant is to be served overseas (other than in Australia and under [section 13][1768] of the Trans-Tasman Proceedings Act 2010). If the defendant is to be served in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010, do not use the following notice, but use instead the information that [section 15][2261] of that Act requires to be served on the defendant (see [form 1][2262] of the Schedule of the Trans-Tasman Regulations and Rules 2013)._
 
 #### Notice to defendant served overseas
 
@@ -24571,7 +24571,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 13: amended, on 11 October 2013, by [rule 26][2258] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 13: amended, on 11 October 2013, by [rule 26][2268] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 *   Schedule 2 Schedule 1 form G 13: amended, on 1 July 2013, pursuant to [rule 8][2079] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 14  
@@ -24645,8 +24645,8 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 14: amended, on 11 October 2013, by [rule 27(1)][2259] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 14: amended, on 11 October 2013, by [rule 27(2)][2259] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 14: amended, on 11 October 2013, by [rule 27(1)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 14: amended, on 11 October 2013, by [rule 27(2)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 
 #### Form G 15  
 Notice to other defendant
@@ -24687,7 +24687,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 15: amended, on 1 July 2013, by [rule 10][2260] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 15: amended, on 1 July 2013, by [rule 10][2270] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 16  
 Affidavit of service
@@ -24933,7 +24933,7 @@ Fax:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 20: amended, on 1 July 2013, by [rule 11][2261] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 20: amended, on 1 July 2013, by [rule 11][2271] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 21  
 Subpoena for production only issued in New Zealand proceeding for service in Australia
@@ -24978,7 +24978,7 @@ Fax:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 21: amended, on 1 July 2013, by [rule 12][2262] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 21: amended, on 1 July 2013, by [rule 12][2272] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 22  
 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings
@@ -25144,8 +25144,8 @@ Signature:
 
 *   4 The penalty for failing to attend without just excuse is a fine not exceeding $500\.
 
-*   Schedule 2 Schedule 1 form G 25: amended, on 1 July 2013, by [rule 13][2263] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
-*   Schedule 2 Schedule 1 form G 25: amended, on 1 December 2009, by [rule 9][2264] of the High Court Amendment Rules (No 2) 2009 (SR 2009/334).
+*   Schedule 2 Schedule 1 form G 25: amended, on 1 July 2013, by [rule 13][2273] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 25: amended, on 1 December 2009, by [rule 9][2274] of the High Court Amendment Rules (No 2) 2009 (SR 2009/334).
 
 #### Form G 26  
 Subpoena to give evidence for service in Australia
@@ -25182,9 +25182,9 @@ Fax:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 26: amended, on 11 October 2013, by [rule 28(1)][2265] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 26: amended, on 11 October 2013, by [rule 28(2)][2265] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 26: amended, on 1 July 2013, by [rule 14][2266] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 26: amended, on 11 October 2013, by [rule 28(1)][2275] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 26: amended, on 11 October 2013, by [rule 28(2)][2275] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 26: amended, on 1 July 2013, by [rule 14][2276] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 27  
 Subpoena for production only for service in Australia
@@ -25223,10 +25223,10 @@ Fax:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(1)][2267] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(2)][2267] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(3)][2267] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 27: amended, on 1 July 2013, by [rule 15][2268] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(1)][2277] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(2)][2277] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 27: amended, on 11 October 2013, by [rule 29(3)][2277] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 27: amended, on 1 July 2013, by [rule 15][2278] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form G 28  
 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006
@@ -25325,14 +25325,14 @@ This statement sets out your rights and obligations relating to the subpoena.
 
 *   16 The High Court of New Zealand can decide the application without a hearing if neither you (for example, in the application) nor the party who requested the issue of the subpoena (for example, in a document filed in response to the application) states that a hearing is required. If there is to be a hearing, the hearing may, if the court thinks fit, be by audio link or audiovisual link. You may, however, either in your application to set the subpoena aside or within a reasonable time after filing the application, request that the court direct that the hearing be by audio link or audiovisual link. If you make such a request, the court will direct that the hearing be by audio link or audiovisual link.
 
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(1)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(2)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(3)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(4)(a)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(4)(b)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(5)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(6)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(7)][2269] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(1)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(2)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(3)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(4)(a)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(4)(b)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(5)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(6)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 28: amended, on 11 October 2013, by [rule 30(7)][2279] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 
 #### Form G 29  
 Certificate of non-compliance with subpoena for service in Australia
@@ -25341,7 +25341,7 @@ Certificate of non-compliance with subpoena for service in Australia
 
 **To** the Federal Court of Australia at \[_place_\]
 
-The High Court of New Zealand certifies that on \[_date_\] the Honourable Justice \[_name_\] gave leave to serve a subpoena, being a subpoena to which [Part 4][2270] of the Evidence Act 2006 of New Zealand applies, on \[_name of person subpoenaed_\], and that \[_name of person subpoenaed_\] has failed to comply with the subpoena in that \[_particulars of failure to comply_\].
+The High Court of New Zealand certifies that on \[_date_\] the Honourable Justice \[_name_\] gave leave to serve a subpoena, being a subpoena to which [Part 4][2280] of the Evidence Act 2006 of New Zealand applies, on \[_name of person subpoenaed_\], and that \[_name of person subpoenaed_\] has failed to comply with the subpoena in that \[_particulars of failure to comply_\].
 
 Date:
 
@@ -25359,8 +25359,8 @@ Fax:
 
 Sealed: \[_date_\]
     
-*   Schedule 2 Schedule 1 form G 29: amended, on 11 October 2013, by [rule 31(1)][2271] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
-*   Schedule 2 Schedule 1 form G 29: amended, on 11 October 2013, by [rule 31(2)][2271] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 29: amended, on 11 October 2013, by [rule 31(1)][2281] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 1 form G 29: amended, on 11 October 2013, by [rule 31(2)][2281] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 
 #### Form G 30  
 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934
@@ -25491,7 +25491,7 @@ Signature:
 
 \[_Telephone number_\]
     
-*   Schedule 2 Schedule 1 form G 32: amended, on 1 January 2011, by [rule 27][2272] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 32: amended, on 1 January 2011, by [rule 27][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 33  
 Notice of opposition
@@ -25567,7 +25567,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 34: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 34: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 35  
 Notice to answer interrogatories
@@ -25703,7 +25703,7 @@ Documents that have never been in my control
 
 \[_List any documents that you know relate to a matter in question in the proceeding but that are not, and have never been, in your control. State, to the best of your knowledge and belief, where the documents are._\]
     
-*   Schedule 2 Schedule 1 form G 37: replaced, on 1 February 2012, by [rule 15][2274] of the High Court Amendment Rules (No 2) 2011 (SR 2011/351).
+*   Schedule 2 Schedule 1 form G 37: replaced, on 1 February 2012, by [rule 15][2284] of the High Court Amendment Rules (No 2) 2011 (SR 2011/351).
 
 #### Form G 38  
 Freezing order
@@ -25784,7 +25784,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 38: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 38: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 39  
 Search order
@@ -25859,8 +25859,8 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form G 39: replaced, on 15 May 2009, by [rule 7][2275] of the High Court Amendment Rules 2009 (SR 2009/75).
-*   Schedule 2 Schedule 1 form G 39: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 39: replaced, on 15 May 2009, by [rule 7][2285] of the High Court Amendment Rules 2009 (SR 2009/75).
+*   Schedule 2 Schedule 1 form G 39: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form G 40  
 General court order
@@ -25881,7 +25881,7 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form G 40: inserted, on 1 January 2011, by [rule 23][2276] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form G 40: inserted, on 1 January 2011, by [rule 23][2286] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form J 1  
 Judgment by default in case of liquidated demand
@@ -25900,7 +25900,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form J 1: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form J 1: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form J 2  
 Judgment by default in proceeding for recovery of land
@@ -25919,7 +25919,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form J 2: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form J 2: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form J 3  
 Judgment on trial by Judge
@@ -25938,7 +25938,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form J 3: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form J 3: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form J 4  
 Judgment on trial by jury
@@ -25957,7 +25957,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form J 4: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form J 4: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 1  
 Notice to liable party
@@ -26283,7 +26283,7 @@ Signature:
     
 *   1 Please see High Court Rules [17.31 to 17.39][1188] for the rules about this order. Those rules define the terms ""employer"" and ""salary or wages"".
 
-*   2 If you do not make payments as required, you can be sued for the amount owing. You may also be convicted of an offence under the [Judicature Amendment Act 2008][2277] and fined up to $1,000\.
+*   2 If you do not make payments as required, you can be sued for the amount owing. You may also be convicted of an offence under the [Judicature Amendment Act 2008][2287] and fined up to $1,000\.
 
 *   3 You must notify the Registrar of the High Court within 7 days if the debtor leaves or is dismissed from your employment.
 
@@ -26318,7 +26318,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 4: replaced, on 1 July 2013, by [rule 16][2278] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form E 4: replaced, on 1 July 2013, by [rule 16][2288] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form E 5  
 Interim charging order
@@ -26345,7 +26345,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 5: amended, on 1 January 2011, by [rule 29][2279] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 5: amended, on 1 January 2011, by [rule 29][2289] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 6  
 Final charging order
@@ -26366,7 +26366,7 @@ Signature:
 
 (Deputy Registrar)
     
-*   Schedule 2 Schedule 1 form E 6: replaced, on 1 July 2013, by [rule 17][2280] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form E 6: replaced, on 1 July 2013, by [rule 17][2290] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form E 7  
 Sale order
@@ -26425,7 +26425,7 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form E 7: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 7: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 8  
 Possession order
@@ -26458,7 +26458,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 8: amended, on 1 January 2011, by [rule 30][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 8: amended, on 1 January 2011, by [rule 30][2292] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 9  
 Arrest order
@@ -26485,7 +26485,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 9: amended, on 1 January 2011, by [rule 30][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 9: amended, on 1 January 2011, by [rule 30][2292] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 10  
 Sequestration order
@@ -26510,7 +26510,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 10: amended, on 1 January 2011, by [rule 30][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 10: amended, on 1 January 2011, by [rule 30][2292] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 11  
 Order to arrest and imprison absconding debtor
@@ -26539,7 +26539,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 11: amended, on 1 January 2011, by [rule 30][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 11: amended, on 1 January 2011, by [rule 30][2292] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form E 12  
 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice
@@ -26574,7 +26574,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form E 12: amended, on 1 January 2011, by [rule 30][2282] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form E 12: amended, on 1 January 2011, by [rule 30][2292] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form CL 1  
 Commercial list
@@ -26660,7 +26660,7 @@ Signature:
 
 **Note**: Please carefully read the memorandum attached to this notice.
     
-*   Schedule 2 Schedule 1 form CL 2: amended, on 1 January 2011, by [rule 31][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form CL 2: amended, on 1 January 2011, by [rule 31][2293] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form CL 3  
 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908
@@ -26974,8 +26974,8 @@ before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 1: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 1: amended, on 4 June 2013, by [rule 6][2284] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 1: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 1: amended, on 4 June 2013, by [rule 6][2294] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 2  
 Affidavit for obtaining grant of letters of administration with will annexed
@@ -27162,19 +27162,19 @@ I/We\*, \[_full name, place of residence, occupation_\], swear/severally swear/s
 
 *   I have not ceased to be a beneficiary under the will under [section 19][2197] of the Wills Act 2007 \[_if the will was made on or after 1 November 2007_\]/section 19, as modified by [section 40(2)(q)][2196], of the Wills Act 2007 \[_if the will was made before 1 November 2007_\]\*.
 
-*   I have not ceased to be a beneficiary under the will under [section 61][2207] of the Property (Relationships) Act 1976\. I chose option B under section 61\. I lodged a notice of choice of option under [section 65(2)(c)][2285] in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
+*   I have not ceased to be a beneficiary under the will under [section 61][2207] of the Property (Relationships) Act 1976\. I chose option B under section 61\. I lodged a notice of choice of option under [section 65(2)(c)][2295] in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
     
     \*Select one.
     
     
 
-_Omit paragraphs 13 and 14 when a trustee corporation within the meaning of [section 2][2286] of the Administration Act 1969 applies for the grant, either alone or jointly with another person._
+_Omit paragraphs 13 and 14 when a trustee corporation within the meaning of [section 2][2296] of the Administration Act 1969 applies for the grant, either alone or jointly with another person._
     
 *   13 _For this paragraph select the statement that applies._
 
 *   ###### Statement A
 
-*   I/We\* have made reasonable inquiries for the purposes of [section 5A(1)(a)][2287] of the Status of Children Act 1969 as to the existence of a parent or child of the deceased, in addition to those already known to me/us\* who could claim an interest in the deceased's estate/part of the deceased's estate\* only because of the [Status of Children Act 1969][1800] and the deceased's will. The inquiries included those required by section 5A(2) of the Status of Children Act 1969\. The nature of the inquiries was \[_specify_\].
+*   I/We\* have made reasonable inquiries for the purposes of [section 5A(1)(a)][2297] of the Status of Children Act 1969 as to the existence of a parent or child of the deceased, in addition to those already known to me/us\* who could claim an interest in the deceased's estate/part of the deceased's estate\* only because of the [Status of Children Act 1969][1800] and the deceased's will. The inquiries included those required by section 5A(2) of the Status of Children Act 1969\. The nature of the inquiries was \[_specify_\].
     
     \*Select one.
     
@@ -27182,7 +27182,7 @@ _Omit paragraphs 13 and 14 when a trustee corporation within the meaning of [sec
 
 *   ###### Statement B
 
-*   Making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 would unduly delay a grant of administration because \[_state why_\].
+*   Making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 would unduly delay a grant of administration because \[_state why_\].
 
 *   ###### Statement C
 
@@ -27190,7 +27190,7 @@ _Omit paragraphs 13 and 14 when a trustee corporation within the meaning of [sec
 
 *   ###### Statement D
 
-*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 because \[_state why_\].
+*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 because \[_state why_\].
 
 *   14 _If you selected statement A for paragraph 13, for this paragraph select the statement that applies, otherwise omit this paragraph._
 
@@ -27212,7 +27212,7 @@ _Omit paragraphs 13 and 14 when a trustee corporation within the meaning of [sec
 
 *   15 _Include the following paragraph where those discovered are children._
     
-    The person/Those\* discovered is/are\* aged \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+    The person/Those\* discovered is/are\* aged \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
     
     \*Select one.
     
@@ -27260,8 +27260,8 @@ Before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 2: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 2: amended, on 4 June 2013, by [rule 7][2290] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 2: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 2: amended, on 4 June 2013, by [rule 7][2300] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 3  
 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner
@@ -27324,7 +27324,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
     
     *   (b) \[_in the case of a surviving spouse or surviving civil union partner_\] by [section 26(1)][2205] of the Family Proceedings Act 1980; or
     
-    *   (c) \[_in every case_\] by the choice I have made between option A and option B, under [section 61][2207] of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with [section 65(2)(c)][2285] of that Act in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
+    *   (c) \[_in every case_\] by the choice I have made between option A and option B, under [section 61][2207] of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with [section 65(2)(c)][2295] of that Act in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
         
         \*Select one.
         
@@ -27334,7 +27334,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 _Statement B_
 
-(a) I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under [section 61][2207] of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with [section 65(2)(c)][2285] of that Act in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
+(a) I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under [section 61][2207] of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with [section 65(2)(c)][2295] of that Act in this court on \[_date_\]. A copy is attached and marked "\[_specify_\]".
 
 (b) My interest is not affected by [section 77B][2206] of the Administration Act 1969 (which negates the beneficial interest of a surviving de facto partner to a relationship of short duration in some circumstances \[_if you claim that section 77B(2) applies, state the facts supporting your claim_\].
 
@@ -27400,7 +27400,7 @@ _Statement B_
 
 *   10 _Include this paragraph if you selected statement B for paragraph 9, otherwise omit._
 
-*   The children named in paragraph \[_number_\] are children to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   The children named in paragraph \[_number_\] are children to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
 
 *   11 _Include this paragraph if you selected statement B for paragraph 9, otherwise omit._
 
@@ -27424,11 +27424,11 @@ _Statement B_
 
 *   ###### Statement A
 
-*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2287] of the Status of Children Act 1969, consisted of \[_specify_\].
+*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2297] of the Status of Children Act 1969, consisted of \[_specify_\].
 
 *   ###### Statement B
 
-*   Making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 would unduly delay a grant of administration because \[_state why_\].
+*   Making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 would unduly delay a grant of administration because \[_state why_\].
 
 *   ###### Statement C
 
@@ -27436,7 +27436,7 @@ _Statement B_
 
 *   ###### Statement D
 
-*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 because \[_state why_\].
+*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 because \[_state why_\].
 
 *   13 _If you selected statement A for paragraph 12, for this paragraph select the statement that applies, otherwise omit this paragraph._
 
@@ -27450,7 +27450,7 @@ _Statement B_
 
 *   14 _Include the following paragraph where those discovered are children_.
 
-*   The person/Those\* discovered is/are\* aged \[_specify ages_\] being a child/children\* to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   The person/Those\* discovered is/are\* aged \[_specify ages_\] being a child/children\* to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
     
     \*Select one.
     
@@ -27484,8 +27484,8 @@ Before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 3: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 3: amended, on 4 June 2013, by [rule 8][2291] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 3: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 3: amended, on 4 June 2013, by [rule 8][2301] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 4  
 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased
@@ -27630,21 +27630,21 @@ __Note: This form must be appropriately modified if more than 1 daughter or son 
 
 *   ###### Statement A
 
-*   Neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies to me.
+*   Neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies to me.
 
 *   ###### Statement B
 
-*   Both in the case of the children of the deceased who are named in paragraph \[_number_\] of this affidavit and in my case, neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   Both in the case of the children of the deceased who are named in paragraph \[_number_\] of this affidavit and in my case, neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
 
 *   11 _For this paragraph select the statement that applies._
 
 *   ###### Statement A
 
-*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2287] of the Status of Children Act 1969, consisted of \[_specify_\].
+*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2297] of the Status of Children Act 1969, consisted of \[_specify_\].
 
 *   ###### Statement B
 
-*   Making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
+*   Making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
 
 *   ###### Statement C
 
@@ -27652,7 +27652,7 @@ __Note: This form must be appropriately modified if more than 1 daughter or son 
 
 *   ###### Statement D
 
-*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 because \[_state why_\].
+*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 because \[_state why_\].
 
 *   12 _If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph._
 
@@ -27666,7 +27666,7 @@ __Note: This form must be appropriately modified if more than 1 daughter or son 
 
 *   13 _Include the following paragraph where those discovered are children._
 
-*   The person/Those\* discovered is/are\* aged \[_specify ages_\] being a child/children\* to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   The person/Those\* discovered is/are\* aged \[_specify ages_\] being a child/children\* to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
     
     \*Select one.
     
@@ -27700,9 +27700,9 @@ Before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 4: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 4: amended, on 1 September 2013, by [rule 18][2292] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
-*   Schedule 2 Schedule 1 form PR 4: amended, on 4 June 2013, by [rule 9][2293] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 4: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 4: amended, on 1 September 2013, by [rule 18][2302] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form PR 4: amended, on 4 June 2013, by [rule 9][2303] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 5  
 Affidavit for obtaining grant of administration on intestacy to parent of deceased
@@ -27843,11 +27843,11 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   ###### Statement A
 
-*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2287] of the Status of Children Act 1969, consisted of \[_specify_\].
+*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2297] of the Status of Children Act 1969, consisted of \[_specify_\].
 
 *   ###### Statement B
 
-*   Making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
+*   Making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
 
 *   ###### Statement C
 
@@ -27855,7 +27855,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   ###### Statement D
 
-*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 because \[_state why_\].
+*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 because \[_state why_\].
 
 *   12 _If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph._
 
@@ -27869,7 +27869,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   13 _Include the following paragraph where those discovered are children._
 
-*   The person/Those\* discovered is/are\* aged \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   The person/Those\* discovered is/are\* aged \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
     
     \*Select one.
     
@@ -27903,9 +27903,9 @@ Before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 5: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 5: amended, on 1 September 2013, by [rule 19][2294] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
-*   Schedule 2 Schedule 1 form PR 5: amended, on 4 June 2013, by [rule 10][2295] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 5: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 5: amended, on 1 September 2013, by [rule 19][2304] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form PR 5: amended, on 4 June 2013, by [rule 10][2305] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 6  
 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased
@@ -28038,21 +28038,21 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   ###### Statement A
 
-*   Neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies to me.
+*   Neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies to me.
 
 *   ###### Statement B
 
-*   Both in the case of the brothers and sisters of the deceased who are named in paragraph 11 of this affidavit and in my case, neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   Both in the case of the brothers and sisters of the deceased who are named in paragraph 11 of this affidavit and in my case, neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
 
 *   14 _For this paragraph select the statement that applies._
 
 *   ###### Statement A
 
-*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2287] of the Status of Children Act 1969, consisted of \[_specify_\].
+*   I have made reasonable inquiries for the purposes of the [Status of Children Act 1969][1800] as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by [section 5A(2)][2297] of the Status of Children Act 1969, consisted of \[_specify_\].
 
 *   ###### Statement B
 
-*   Making the inquiries specified in [section 5A(1)][2287] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
+*   Making the inquiries specified in [section 5A(1)][2297] of the Status of Children Act 1969 would unduly delay the making of a grant of administration because \[_state why_\].
 
 *   ###### Statement C
 
@@ -28060,7 +28060,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   ###### Statement D
 
-*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2287] of the Status of Children Act 1969 because \[_state why_\].
+*   No useful purpose would be served by making the inquiries specified in [section 5A(1)(a)][2297] of the Status of Children Act 1969 because \[_state why_\].
 
 *   15 _If you selected statement A for paragraph 14, for this paragraph select the statement that applies, otherwise omit this paragraph._
 
@@ -28074,7 +28074,7 @@ I, \[_full name, place of residence, occupation_\], swear/solemnly and sincerely
 
 *   16 _Include the following paragraph where those discovered are children._
 
-*   The person/Those\* discovered are\* \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2288] of the Adoption Act 1955 nor [section 4][2289] of the Status of Children Act 1969 is relevant or applies.
+*   The person/Those\* discovered are\* \[_specify ages_\], being a child/children\* to whom neither [section 16(2)(d)][2298] of the Adoption Act 1955 nor [section 4][2299] of the Status of Children Act 1969 is relevant or applies.
     
     \*Select one.
     
@@ -28108,8 +28108,8 @@ Before me:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 6: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 6: amended, on 4 June 2013, by [rule 11][2296] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 6: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 6: amended, on 4 June 2013, by [rule 11][2306] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 7  
 Probate in common form
@@ -28168,9 +28168,9 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form PR 7: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 7: amended, on 4 June 2013, by [rule 12(1)][2297] of the High Court Amendment Rules 2013 (SR 2013/128).
-*   Schedule 2 Schedule 1 form PR 7: amended, on 4 June 2013, by [rule 12(2)][2297] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 7: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 7: amended, on 4 June 2013, by [rule 12(1)][2307] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 7: amended, on 4 June 2013, by [rule 12(2)][2307] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 8  
 Letters of administration with will annexed
@@ -28261,9 +28261,9 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form PR 8: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 8: amended, on 4 June 2013, by [rule 13(1)][2298] of the High Court Amendment Rules 2013 (SR 2013/128).
-*   Schedule 2 Schedule 1 form PR 8: amended, on 4 June 2013, by [rule 13(2)][2298] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 8: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 8: amended, on 4 June 2013, by [rule 13(1)][2308] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 8: amended, on 4 June 2013, by [rule 13(2)][2308] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 9  
 Letters of administration on intestacy
@@ -28304,8 +28304,8 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form PR 9: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form PR 9: amended, on 4 June 2013, by [rule 14][2299] of the High Court Amendment Rules 2013 (SR 2013/128).
+*   Schedule 2 Schedule 1 form PR 9: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form PR 9: amended, on 4 June 2013, by [rule 14][2309] of the High Court Amendment Rules 2013 (SR 2013/128).
 
 #### Form PR 10  
 Caveat
@@ -28403,8 +28403,8 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 11: amended, on 1 July 2013, by [rule 20(1)][2300] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
-*   Schedule 2 Schedule 1 form PR 11: amended, on 1 July 2013, by [rule 20(2)][2300] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form PR 11: amended, on 1 July 2013, by [rule 20(1)][2310] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form PR 11: amended, on 1 July 2013, by [rule 20(2)][2310] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 #### Form PR 12  
 Affidavit of valid execution
@@ -28517,12 +28517,12 @@ Before me: \[_name, signature_\]
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form PR 12: amended, on 4 February 2013, by [rule 29][2301] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
+*   Schedule 2 Schedule 1 form PR 12: amended, on 4 February 2013, by [rule 29][2311] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
 
 #### Form AD 1  
 General heading for action _in personam_
 
-[rr 25.7(2)][1515], [25.9(2)][2302]
+[rr 25.7(2)][1515], [25.9(2)][2312]
 
 In the High Court of New Zealand
 
@@ -28595,8 +28595,8 @@ _You must endorse the notice of proceeding before it is issued. The endorsement 
 
 A defendant who intends to defend an action must file or serve a statement of defence within 20 working days after the day on which the statement of claim was served on that defendant, unless the court or a Judge gives leave to the contrary.
     
-*   Schedule 2 Schedule 1 form AD 2: amended, on 1 January 2011, by [rule 32(1)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form AD 2: amended, on 1 January 2011, by [rule 32(3)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 2: amended, on 1 January 2011, by [rule 32(1)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 2: amended, on 1 January 2011, by [rule 32(3)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 3  
 General heading for action _in rem_
@@ -28678,8 +28678,8 @@ This notice of proceeding must be served within 12 months after the date of the 
 
 _You must endorse the notice of proceeding before it is issued. The endorsement must contain a concise statement of the nature of the claim, the relief or remedy required, and the amount claimed (if any). In the case of a proceeding in rem add:_ The plaintiff claims against the \[_name of ship or describe property_\] under sections \[_specify_\] of the [Admiralty Act 1973][364].
     
-*   Schedule 2 Schedule 1 form AD 4: amended, on 1 January 2011, by [rule 32(1)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form AD 4: amended, on 1 January 2011, by [rule 32(3)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 4: amended, on 1 January 2011, by [rule 32(1)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 4: amended, on 1 January 2011, by [rule 32(3)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 5  
 Notice of proceeding both _in rem_ and _in personam_
@@ -28748,9 +28748,9 @@ The plaintiff claims against the second defendant \[_summary of claim and amount
 
 A defendant who intends to defend an action must file or serve a statement of defence within 20 working days after the day on which the statement of claim was served on that defendant, unless the court or a Judge gives leave to the contrary.
     
-*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(1)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(2)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(3)][2303] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(1)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(2)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 5: amended, on 1 January 2011, by [rule 32(3)][2313] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 6  
 Memorandum of appearance
@@ -28919,7 +28919,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form AD 10: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 10: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 11  
 Request for caveat against arrest
@@ -28952,7 +28952,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form AD 11: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 11: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 12  
 Release from arrest
@@ -28981,7 +28981,7 @@ Signature:
 
 \*Omit if this release is not under an order of the court.
 
-*   Schedule 2 Schedule 1 form AD 12: amended, on 1 January 2011, by [rule 24][2273] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form AD 12: amended, on 1 January 2011, by [rule 24][2283] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form AD 13  
 Bail bond
@@ -29262,7 +29262,7 @@ You can oppose this application within 10 working days after the day on which yo
 
 If you do not file and serve a notice of opposition, the court may proceed to determine this application in your absence.
     
-*   Schedule 2 Schedule 1 form Arb 2: amended, on 1 January 2011, by [rule 33][2304] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form Arb 2: amended, on 1 January 2011, by [rule 33][2314] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form Arb 3  
 Application to enter award as judgment
@@ -29573,7 +29573,7 @@ Advertisement of application for putting company into liquidation
 
 Date:
     
-*   Schedule 2 Schedule 1 form C 6: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form C 6: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form C 7  
 Advertisement of application for order under section 174 of Companies Act 1993
@@ -29684,7 +29684,7 @@ Signature:
 
 \*Select one.
 
-*   Schedule 2 Schedule 1 form C 9: amended, on 1 January 2011, by [rule 34][2305] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form C 9: amended, on 1 January 2011, by [rule 34][2315] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form C 10  
 Notification to liquidator of order putting company into liquidation
@@ -29773,7 +29773,7 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form C 12: replaced, on 1 January 2011, by [rule 22][2281] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form C 12: replaced, on 1 January 2011, by [rule 22][2291] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form C 13  
 Order appointing interim liquidator
@@ -29840,7 +29840,7 @@ and
 
 ##### This document notifies you that---
     
-*   1 The liquidator \[_full name_\] of \[_full name of company in liquidation_\] (the company) wants to have set aside the following transaction by the company that is voidable under [section 292][2306] of the Companies Act 1993: \[_details of transaction to be set aside, including dates, amounts, and nature_\].
+*   1 The liquidator \[_full name_\] of \[_full name of company in liquidation_\] (the company) wants to have set aside the following transaction by the company that is voidable under [section 292][2316] of the Companies Act 1993: \[_details of transaction to be set aside, including dates, amounts, and nature_\].
 
 *   2 The liquidator's postal, email, and street addresses are \[_state addresses_\].
 
@@ -29862,7 +29862,7 @@ and
 
 *   ###### Statement D
 
-*   a resolution of the creditors passed at the watershed meeting held under [section 239AT][2307] of the Companies Act 1993\.
+*   a resolution of the creditors passed at the watershed meeting held under [section 239AT][2317] of the Companies Act 1993\.
 
 *   4 The property or value that the liquidator wants to recover is \[_details of property or value_\].
 
@@ -29911,7 +29911,7 @@ and
 
 ##### This document notifies you that---
     
-*   1 The liquidator \[_full name_\] of \[_full name of company in liquidation_\] (the company) wants to have set aside the following charge by the company that is voidable under [section 293][2308] of the Companies Act 1993: \[_details of charge to be set aside, including dates, amounts, and nature_\].
+*   1 The liquidator \[_full name_\] of \[_full name of company in liquidation_\] (the company) wants to have set aside the following charge by the company that is voidable under [section 293][2318] of the Companies Act 1993: \[_details of charge to be set aside, including dates, amounts, and nature_\].
 
 *   2 The liquidator's postal, email, and street addresses are \[_state addresses_\].
 
@@ -29933,7 +29933,7 @@ and
 
 *   ###### Statement D
 
-*   a resolution of the creditors passed at the watershed meeting held under [section 239AT][2307] of the Companies Act 1993\.
+*   a resolution of the creditors passed at the watershed meeting held under [section 239AT][2317] of the Companies Act 1993\.
 
 *   4 In giving this notice, the liquidator relies on the following grounds: \[_specify grounds_\].
 
@@ -30065,9 +30065,9 @@ This notice is issued by \[_name and address of judgment creditor_\] in person b
 
 **Note**: The amount claimed for costs in paragraph 2 must be determined as if the proceeding were a category 2 proceeding specified in [Schedule 2][1759] of the High Court Rules and the time allocation were the time allocation for item 17 and band B specified in [Schedule 3][1760] of the High Court Rules.
     
-*   Schedule 2 Schedule 1 form B 2: amended, on 1 July 2013, by [rule 21][2309] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
-*   Schedule 2 Schedule 1 form B 2: amended, on 1 January 2011, by [rule 35(2)][2310] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
-*   Schedule 2 Schedule 1 form B 2: amended, on 1 January 2011, by [rule 35(3)][2310] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form B 2: amended, on 1 July 2013, by [rule 21][2319] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 1 form B 2: amended, on 1 January 2011, by [rule 35(2)][2320] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form B 2: amended, on 1 January 2011, by [rule 35(3)][2320] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form B 3  
 Creditor's application for adjudication order
@@ -30192,7 +30192,7 @@ _Insert a heading that conforms with [rule 24.5][1434] and describes the parties
 
 *   8 You are not required to attend the hearing and no warrant will be issued if you do not attend, but if you do not attend the hearing the court will proceed in your absence.
 
-*   9 If you intend to oppose the making of an order of adjudication you must, by 1 pm on the last working day before the hearing date, file a notice of opposition in [form B 6][2311], together with an affidavit in support of the opposition, and serve a copy of those documents on the applicant creditor.
+*   9 If you intend to oppose the making of an order of adjudication you must, by 1 pm on the last working day before the hearing date, file a notice of opposition in [form B 6][2258], together with an affidavit in support of the opposition, and serve a copy of those documents on the applicant creditor.
 
 Date:
 
@@ -30586,7 +30586,7 @@ Witness: \[_name, address, description_\]
 
 ##### Note
 
-When this certificate is filed it has the effect of both an application for the estate to be administered, and an order that the estate be administered, under [Part 6][2126] of the Insolvency Act 2006\. _See_ [section 386(2)][2312] of the Insolvency Act 2006\.
+When this certificate is filed it has the effect of both an application for the estate to be administered, and an order that the estate be administered, under [Part 6][2126] of the Insolvency Act 2006\. _See_ [section 386(2)][2321] of the Insolvency Act 2006\.
 
 #### Form B 14  
 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006
@@ -30739,7 +30739,7 @@ Date:
 
 Deputy Registrar
     
-*   Schedule 2 Schedule 1 form B 16: inserted, on 1 January 2011, by [rule 23][2276] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form B 16: inserted, on 1 January 2011, by [rule 23][2286] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 #### Form B 17  
 Appointment of Official Assignee as receiver and manager
@@ -30764,14 +30764,14 @@ Deputy Registrar
 
 _Three copies of this order must be filed in the court immediately after the making of the order._
     
-*   Schedule 2 Schedule 1 form B 17: inserted, on 1 January 2011, by [rule 23][2276] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
+*   Schedule 2 Schedule 1 form B 17: inserted, on 1 January 2011, by [rule 23][2286] of the High Court Amendment Rules (No 2) 2010 (SR 2010/394).
 
 ## Schedule 2  
 Appropriate daily recovery rates
 
 [r 14.4][1067]
 
-*   Schedule 2 Schedule 2: replaced, on 14 June 2012, by [rule 4][2313] of the High Court Amendment Rules 2012 (SR 2012/93).
+*   Schedule 2 Schedule 2: replaced, on 14 June 2012, by [rule 4][2322] of the High Court Amendment Rules 2012 (SR 2012/93).
 
 **Note**: The following are the appropriate daily recovery rates for the categories of proceedings referred to in [rule 14.3][1066].
 
@@ -30788,7 +30788,7 @@ Time allocations
 
 [r 14.5][1068]
 
-*   Schedule 2 Schedule 3: replaced, on 14 June 2012, by [rule 5][2314] of the High Court Amendment Rules 2012 (SR 2012/93).
+*   Schedule 2 Schedule 3: replaced, on 14 June 2012, by [rule 5][2323] of the High Court Amendment Rules 2012 (SR 2012/93).
 
 **General civil proceedings** **Allocated days or part days**
 
@@ -30932,7 +30932,7 @@ _Appeals_
 
 _Australian judgment proceedings_ 
 
-58APreparing and filing an application under [section 56][2315] of the Trans-Tasman Proceedings Act 2010 to register in the court an Australian judgment 0.30.30.3
+58APreparing and filing an application under [section 56][2324] of the Trans-Tasman Proceedings Act 2010 to register in the court an Australian judgment 0.30.30.3
 
 _Enforcement of judgment or order_ 
 
@@ -30944,7 +30944,7 @@ _Enforcement of judgment or order_
 
 62Other enforcement process 0.50.50.7
 
-*   Schedule 2 Schedule 3: amended, on 11 October 2013, by [rule 32][2316] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
+*   Schedule 2 Schedule 3: amended, on 11 October 2013, by [rule 32][2325] of the High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013 (SR 2013/351).
 
 ## Schedule 4  
 Code of conduct for expert witnesses
@@ -30997,7 +30997,7 @@ Code of conduct for expert witnesses
 
 *   7 In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement.
         
-    *   Schedule 2 Schedule 4 clause 7: replaced, on 1 December 2009, by [rule 10][2317] of the High Court Amendment Rules (No 2) 2009 (SR 2009/334).
+    *   Schedule 2 Schedule 4 clause 7: replaced, on 1 December 2009, by [rule 10][2326] of the High Court Amendment Rules (No 2) 2009 (SR 2009/334).
     
     
 
@@ -31006,7 +31006,7 @@ Matters for consideration at case management conference
 
 [rr 7.3][729], [7.4][730]
 
-*   Schedule 2 Schedule 5: replaced, on 4 February 2013, by [rule 19][2318] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
+*   Schedule 2 Schedule 5: replaced, on 4 February 2013, by [rule 19][2327] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
 
 **Note**: The presiding Judge will expect the parties at the first case management conference to have---
     
@@ -31073,7 +31073,7 @@ Standard directions for appeals
 
 [r 7.14][740]
 
-*   Schedule 2 Schedule 6: replaced, on 4 February 2013, by [rule 23][2319] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
+*   Schedule 2 Schedule 6: replaced, on 4 February 2013, by [rule 23][2328] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
 
 *   1 The appeal will be heard at \[_time, date_\]/at a time and date to be allocated by the Registrar\*.
     
@@ -31091,7 +31091,7 @@ Standard directions for appeals
 
 *   6 Unless detailed and specific points on appeal have been included in the notice of appeal, the appellant must file and serve, not later than 10 working days after the conference, points on appeal that clearly state the issues on appeal.
 
-*   7 If the appeal involves a significant issue under the [New Zealand Bill of Rights Act 1990][2320], or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal and with documents subsequently filed in the appeal. In other cases, the parties must advise the Judge whether they consider that an amicus curiae should be appointed.
+*   7 If the appeal involves a significant issue under the [New Zealand Bill of Rights Act 1990][2329], or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal and with documents subsequently filed in the appeal. In other cases, the parties must advise the Judge whether they consider that an amicus curiae should be appointed.
 
 *   8 The appellant must file and serve, not later than 20 working days after the conference, a common bundle of paginated and indexed copies of all relevant documents, including, if applicable,---
         
@@ -31149,7 +31149,7 @@ Standard directions for appeals by way of case stated and references under Part 
 [r 7.25(2)][752]
 
 *   Schedule 2 Schedule 7: replaced, on 1 February 2009, by [section 8(1)][447] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
-*   Schedule 2 Schedule 7 heading: amended, on 1 July 2013, by [rule 22][2321] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
+*   Schedule 2 Schedule 7 heading: amended, on 1 July 2013, by [rule 22][2330] of the High Court Amendment Rules (No 2) 2013 (SR 2013/214).
 
 *   1 The appeal will be heard (at \[_time_\] on \[_date_\]) \[**or**\] (at a time and date to be allocated by the Registrar).
 
@@ -31196,14 +31196,14 @@ Matters for consideration at pre-trial conference for proceedings on standard tr
 
 \[Repealed\]
     
-*   Schedule 2 Schedule 8: repealed, on 4 February 2013, by [rule 24][2322] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
+*   Schedule 2 Schedule 8: repealed, on 4 February 2013, by [rule 24][2331] of the High Court Amendment Rules (No 2) 2012 (SR 2012/409).
 
 ## Schedule 9  
 Discovery checklist and the listing and exchange protocol
 
 [rr 8.10][828], [8.11][829], [8.12][830], [8.15][833], [8.16][834], [8.27][845]
 
-*   Schedule 2 Schedule 9: inserted, on 1 February 2012, by [rule 14][2323] of the High Court Amendment Rules (No 2) 2011 (SR 2011/351).
+*   Schedule 2 Schedule 9: inserted, on 1 February 2012, by [rule 14][2332] of the High Court Amendment Rules (No 2) 2011 (SR 2011/351).
 
 The purpose of this schedule is to assist the parties in carrying out discovery in accordance with [subpart 1][818] of Part 8, and to specify detailed requirements for listing and exchanging documents when giving discovery.
 
@@ -31369,9 +31369,9 @@ Listing and exchange protocol
         
         
     
-    (2) Parties should endeavour to apply the specific details in [clauses 7 to 11][2324] to ensure consistency for listing and exchange.
+    (2) Parties should endeavour to apply the specific details in [clauses 7 to 11][2333] to ensure consistency for listing and exchange.
     
-    (3) Any technical terms have the meanings set out in the glossary in [Part 3][2325].
+    (3) Any technical terms have the meanings set out in the glossary in [Part 3][2334].
 
 ##### 7 List of documents format
     
@@ -31511,7 +31511,7 @@ Listing and exchange protocol
     
     (2) Documents for which privilege is claimed may be group listed in accordance with [rule 8.16(2)][834].
     
-    (3) Documents must be given a description in accordance with [clause 7(1)][2324], unless the description discloses information contained in a communication for which privilege is claimed.
+    (3) Documents must be given a description in accordance with [clause 7(1)][2333], unless the description discloses information contained in a communication for which privilege is claimed.
     
     (4) The parent document ID information must be noted in the list if the privilege claim relates to part of a document group.
 
@@ -31562,9 +31562,9 @@ _de-duplication_ means the process of identifying and removing duplicate documen
 
 _document_ has the meaning set out in [rule 1.3][452] of the High Court Rules and includes all ESI
 
-_document description_ means the set of data fields used to describe a document under [clause 7(1)][2324]
+_document description_ means the set of data fields used to describe a document under [clause 7(1)][2333]
 
-_document ID_ has the meaning set out in [clause 7(1)][2324]
+_document ID_ has the meaning set out in [clause 7(1)][2333]
 
 _document prioritisation technology_ (**predictive coding**) means technology that analyses the decisions of a human review of a sample set of documents. The software then prioritises/ranks the remainder of documents based on the decisions made on the sample documents, which allows the most relevant documents to be identified first
 
@@ -31613,7 +31613,7 @@ Commencement21 November 1910
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Judicature Amendment Act 1910][2326], and shall form part of and be read together with the Judicature Act 1908\.
+*   This Act may be cited as the [Judicature Amendment Act 1910][2335], and shall form part of and be read together with the Judicature Act 1908\.
 
 ##### 3 Execution of instruments by order of the High Court
     
@@ -31639,7 +31639,7 @@ Commencement16 October 1952
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Judicature Amendment Act 1952][2327], and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as "the principal Act").
+*   This Act may be cited as the [Judicature Amendment Act 1952][2336], and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as "the principal Act").
 
 ##### 2 Offices of the High Court
     
@@ -31659,7 +31659,7 @@ Commencement20 October 1972
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Judicature Amendment Act 1972][2328], and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as "the principal Act").
+*   This Act may be cited as the [Judicature Amendment Act 1972][2337], and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as "the principal Act").
 
 ## Part 1  
 Single procedure for the judicial review of the exercise of or failure to exercise a statutory power
@@ -31702,23 +31702,23 @@ Single procedure for the judicial review of the exercise of or failure to exerci
     
     Section 3 **person**: amended, on 1 August 1987, by section 341 of the Labour Relations Act 1987 (1987 No 77).
     
-    Section 3 **person**: amended, on 1 April 1980, pursuant to [section 18(2)][2329] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 3 **person**: amended, on 1 April 1980, pursuant to [section 18(2)][2338] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 3 **statutory power**: amended, on 7 October 1977, by [section 10(1)][2330] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 3 **statutory power**: amended, on 7 October 1977, by [section 10(1)][2339] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 3 **statutory power** paragraph (d): amended, on 7 October 1977, by [section 10(2)][2330] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 3 **statutory power** paragraph (d): amended, on 7 October 1977, by [section 10(2)][2339] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 3 **statutory power** paragraph (e): inserted, on 7 October 1977, by [section 10(2)][2330] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 3 **statutory power** paragraph (e): inserted, on 7 October 1977, by [section 10(2)][2339] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 3 **statutory power of decision**: amended, on 7 October 1977, by [section 10(3)][2330] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 3 **statutory power of decision**: amended, on 7 October 1977, by [section 10(3)][2339] of the Judicature Amendment Act 1977 (1977 No 32).
 
 ##### 3A Jurisdiction of Employment Court
     
 *   This Part is subject to the provisions of the Employment Relations Act 2000 relating to the jurisdiction of the Employment Court and High Court in respect of applications for review or proceedings for a writ or order of, or in the nature of, mandamus, prohibition, certiorari, or for a declaration or injunction against any body constituted by, or any person acting pursuant to, the Employment Relations Act 2000\.
     
-    Section 3A: replaced, on 2 October 2000, by [section 240][2331] of the Employment Relations Act 2000 (2000 No 24).
+    Section 3A: replaced, on 2 October 2000, by [section 240][2340] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 3A: amended, on 1 December 2004, by [section 72][2332] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 3A: amended, on 1 December 2004, by [section 72][2341] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 4 Application for review
     
@@ -31748,17 +31748,17 @@ Single procedure for the judicial review of the exercise of or failure to exerci
     
     Section 4(1): amended, on 1 April 1980, pursuant to [section 12][243] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 4(1): amended, on 7 October 1977, by [section 13(2)(a)][2333] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(1): amended, on 7 October 1977, by [section 13(2)(a)][2342] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 4(2A): inserted, on 7 October 1977, by [section 11(1)][2334] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(2A): inserted, on 7 October 1977, by [section 11(1)][2343] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 4(5): amended, on 7 October 1977, by [section 11(2)][2334] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(5): amended, on 7 October 1977, by [section 11(2)][2343] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 4(5A): inserted, on 7 October 1977, by [section 11(3)][2334] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(5A): inserted, on 7 October 1977, by [section 11(3)][2343] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 4(5B): inserted, on 7 October 1977, by [section 11(3)][2334] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(5B): inserted, on 7 October 1977, by [section 11(3)][2343] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 4(5C): inserted, on 7 October 1977, by [section 11(3)][2334] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 4(5C): inserted, on 7 October 1977, by [section 11(3)][2343] of the Judicature Amendment Act 1977 (1977 No 32).
 
 ##### 5 Defects in form, or technical irregularities
     
@@ -31790,7 +31790,7 @@ Single procedure for the judicial review of the exercise of or failure to exerci
     
     (3) Any order under subsection (1) or subsection (2) may be made subject to such terms and conditions as the court thinks fit, and may be expressed to continue in force until the application for review is finally determined or until such other date, or the happening of such other event, as the court may specify.
     
-    Section 8: replaced, on 7 October 1977, by [section 12][2335] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 8: replaced, on 7 October 1977, by [section 12][2344] of the Judicature Amendment Act 1977 (1977 No 32).
 
 ##### 9 Procedure
     
@@ -31820,9 +31820,9 @@ Single procedure for the judicial review of the exercise of or failure to exerci
     
     (7) Subject to this Part, the procedure in respect of any application for review shall be in accordance with rules of court.
     
-    Section 9: replaced, on 7 October 1977, by [section 13(1)][2333] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 9: replaced, on 7 October 1977, by [section 13(1)][2342] of the Judicature Amendment Act 1977 (1977 No 32).
     
-    Section 9(4A): inserted, on 15 August 1991, by [section 7][2336] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 9(4A): inserted, on 15 August 1991, by [section 7][2345] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 10 Powers of Judge to call conference and give directions
     
@@ -31856,7 +31856,7 @@ Single procedure for the judicial review of the exercise of or failure to exerci
     
     (3) Notwithstanding any of the foregoing provisions of this section, a Judge may, at any time before the hearing of an application for review has been commenced, exercise any of the powers specified in subsection (2) without holding a conference under subsection (1).
     
-    Section 10: replaced, on 7 October 1977, by [section 14][2337] of the Judicature Amendment Act 1977 (1977 No 32).
+    Section 10: replaced, on 7 October 1977, by [section 14][2346] of the Judicature Amendment Act 1977 (1977 No 32).
 
 ##### 11 Appeals
     
@@ -31887,7 +31887,7 @@ Miscellaneous amendments
     
     (3) This section shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Order in Council.
     
-    Section 20: brought into force, on 1 April 1973, by the [Judicature Amendment Act Commencement Order 1973][2338] (SR 1973/36).
+    Section 20: brought into force, on 1 April 1973, by the [Judicature Amendment Act Commencement Order 1973][2347] (SR 1973/36).
 
 ---
 
@@ -31899,7 +31899,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title
     
-*   (1) This Act may be cited as the [Judicature Amendment Act 1997][2339], and is part of the Judicature Act 1908 ("the principal Act").
+*   (1) This Act may be cited as the [Judicature Amendment Act 1997][2348], and is part of the Judicature Act 1908 ("the principal Act").
     
     (2) This Act comes into force on the date on which it receives the Royal assent.
 
@@ -31961,7 +31961,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Judicature (High Court Rules) Amendment Act 2008][2277].
+*   This Act is the [Judicature (High Court Rules) Amendment Act 2008][2287].
 
 ##### 2 Commencement
     
@@ -32048,7 +32048,7 @@ Pursuant to section 51C of the Judicature Act 1908, His Excellency the Governor-
 
 ##### 1 Title
     
-*   These rules are the [High Court Amendment Rules 2009][2340].
+*   These rules are the [High Court Amendment Rules 2009][2349].
 
 ##### 2 Commencement
     
@@ -32084,7 +32084,7 @@ Pursuant to section 51C of the Judicature Act 1908, His Excellency the Governor-
 
 ##### 1 Title
     
-*   These rules are the [High Court (Access to Court Documents) Amendment Rules 2009][2341].
+*   These rules are the [High Court (Access to Court Documents) Amendment Rules 2009][2350].
 
 ##### 2 Commencement
     
@@ -32109,7 +32109,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Judicature (Judicial Matters) Amendment Act 2010][2342].
+*   This Act is the [Judicature (Judicial Matters) Amendment Act 2010][2351].
 
 ##### 2 Commencement
     
@@ -32148,7 +32148,7 @@ Pursuant to section 51C of the Judicature Act 1908, His Excellency the Governor-
 
 ##### 1 Title
     
-*   These rules are the [High Court Amendment Rules 2010][2343].
+*   These rules are the [High Court Amendment Rules 2010][2352].
 
 ##### 2 Commencement
     
@@ -32209,7 +32209,7 @@ Pursuant to section 51C of the Judicature Act 1908, His Excellency the Governor-
 
 ##### 1 Title
     
-*   These rules are the [High Court Amendment Rules (No 2) 2010][2344].
+*   These rules are the [High Court Amendment Rules (No 2) 2010][2353].
 
 ##### 2 Commencement
     
@@ -32247,43 +32247,43 @@ Date of notification in _Gazette_: 4 November 2010\.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2345] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][2346] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2354] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][2355] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2347] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2348] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2356] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2357] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [High Court Amendment Rules 2014][2349] (LI 2014/127)
+*   [High Court Amendment Rules 2014][2358] (LI 2014/127)
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][277]
     
-    [High Court Amendment Rules (No 3) 2013][2350] (SR 2013/425)
+    [High Court Amendment Rules (No 3) 2013][2359] (SR 2013/425)
     
-    [High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013][2351] (SR 2013/351)
+    [High Court (Trans-Tasman Proceedings Act 2010) Amendment Rules 2013][2360] (SR 2013/351)
     
-    [High Court Amendment Rules (No 2) 2013][2352] (SR 2013/214)
+    [High Court Amendment Rules (No 2) 2013][2361] (SR 2013/214)
     
-    [High Court (Cultural Property (Protection in Armed Conflict) Act 2012) Amendment Rules 2013][2353] (SR 2013/196)
+    [High Court (Cultural Property (Protection in Armed Conflict) Act 2012) Amendment Rules 2013][2362] (SR 2013/196)
     
-    [High Court Amendment Rules 2013][2354] (SR 2013/128)
+    [High Court Amendment Rules 2013][2363] (SR 2013/128)
     
     Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][1852]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][380]
     
-    [High Court Amendment Rules (No 2) 2012][2355] (SR 2012/409)
+    [High Court Amendment Rules (No 2) 2012][2364] (SR 2012/409)
     
-    [High Court Amendment Rules 2012][2356] (SR 2012/93)
+    [High Court Amendment Rules 2012][2365] (SR 2012/93)
     
-    [Judicature Amendment Act 2012][2357] (2012 No 11)
+    [Judicature Amendment Act 2012][2366] (2012 No 11)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][385]
     
-    [High Court Amendment Rules (No 2) 2011][2358] (SR 2011/351)
+    [High Court Amendment Rules (No 2) 2011][2367] (SR 2011/351)
     
-    [High Court Amendment Rules 2011][2359] (SR 2011/350)
+    [High Court Amendment Rules 2011][2368] (SR 2011/350)
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][1970]
     
@@ -32291,31 +32291,31 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][305]
     
-    [High Court Amendment Rules (No 2) 2010][2344] (SR 2010/394)
+    [High Court Amendment Rules (No 2) 2010][2353] (SR 2010/394)
     
     Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][402]
     
-    [Judicature (Judicial Matters) Amendment Act 2010][2342] (2010 No 7)
+    [Judicature (Judicial Matters) Amendment Act 2010][2351] (2010 No 7)
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][1959]
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][395]
     
-    [High Court Amendment Rules (No 2) 2009][2360] (SR 2009/334)
+    [High Court Amendment Rules (No 2) 2009][2369] (SR 2009/334)
     
-    [High Court (Criminal Proceeds (Recovery) Act 2009) Amendment Rules 2009][2361] (SR 2009/313)
+    [High Court (Criminal Proceeds (Recovery) Act 2009) Amendment Rules 2009][2370] (SR 2009/313)
     
-    [High Court (Access to Court Documents) Amendment Rules 2009][2341] (SR 2009/133)
+    [High Court (Access to Court Documents) Amendment Rules 2009][2350] (SR 2009/133)
     
-    [High Court Amendment Rules 2009][2340] (SR 2009/75)
+    [High Court Amendment Rules 2009][2349] (SR 2009/75)
     
-    [Judicature (High Court Rules) Amendment Act 2008][2277] (2008 No 90)
+    [Judicature (High Court Rules) Amendment Act 2008][2287] (2008 No 90)
     
     Juries Amendment Act 2008 (2008 No 40): [sections 16(2)][390], [19(3)][388]
     
     Court Martial Act 2007 (2007 No 101): [section 87][417]
     
-    [Judicature Amendment Act 2007][2362] (2007 No 3)
+    [Judicature Amendment Act 2007][2371] (2007 No 3)
     
     Insolvency (Cross-border) Act 2006 (2006 No 57): [section 13][360]
     
@@ -32323,11 +32323,11 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Securities Markets Amendment Act 2006 (2006 No 47): [section 14][306]
     
-    [Judicature Amendment Act 2006][2363] (2006 No 16)
+    [Judicature Amendment Act 2006][2372] (2006 No 16)
     
-    [Judicature Amendment Act (No 2) 2005][2364] (2005 No 107)
+    [Judicature Amendment Act (No 2) 2005][2373] (2005 No 107)
     
-    [Judicature Amendment Act 2005][2364] (2005 No 57)
+    [Judicature Amendment Act 2005][2373] (2005 No 57)
     
     Court of Appeal (Civil) Rules 2005 (SR 2005/69): [rule 55][250]
     
@@ -32337,9 +32337,9 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Care of Children Act 2004 (2004 No 90): [section 151][367]
     
-    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][2332]
+    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][2341]
     
-    [Judicature Amendment Act 2004][2365] (2004 No 45)
+    [Judicature Amendment Act 2004][2374] (2004 No 45)
     
     Supreme Court Act 2003 (2003 No 53) [sections 43--45][255], [48(1), (2)][249]
     
@@ -32347,29 +32347,29 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14][290]
     
-    [Judicature Amendment Act 2002][2366] (2002 No 68)
+    [Judicature Amendment Act 2002][2375] (2002 No 68)
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][264]
     
-    [Judicature Amendment Act 2001][2367] (2001 No 83)
+    [Judicature Amendment Act 2001][2376] (2001 No 83)
     
     Habeas Corpus Act 2001 (2001 No 31): [section 22(1)][391]
     
     Legal Services Act 2000 (2000 No 42): [section 128][366]
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][2331]
+    Employment Relations Act 2000 (2000 No 24): [section 240][2340]
     
     Personal Property Securities Act 1999 (1999 No 126): [section 192(1)][289]
     
     Judicature (Rules Committee and Technical Advisers) Amendment Act 1999 (1999 No 88): [sections 2][384], [3][442]
     
-    [Judicature Amendment Act (No 2) 1999][2368] (1999 No 87)
+    [Judicature Amendment Act (No 2) 1999][2377] (1999 No 87)
     
     Immigration Amendment Act 1999 (1999 No 16): [section 63][394]
     
-    [Judicature Amendment Act 1998][2369] (1998 No 52)
+    [Judicature Amendment Act 1998][2378] (1998 No 52)
     
-    [Judicature Amendment Act 1997][2339] (1997 No 10)
+    [Judicature Amendment Act 1997][2348] (1997 No 10)
     
     Arbitration Act 1996 (1996 No 99): [sections 17][357], [20][304]
     
@@ -32379,7 +32379,7 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Judicature Amendment Act 1993 (1993 No 117)
     
-    [Judicature Amendment Act 1991][2370] (1991 No 60)
+    [Judicature Amendment Act 1991][2379] (1991 No 60)
     
     Judicature Amendment Act 1990 (1990 No 44)
     
@@ -32397,7 +32397,7 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Judicature Amendment Act 1986 (1986 No 93)
     
-    [Judicature Amendment Act (No 3) 1985][2371] (1985 No 136)
+    [Judicature Amendment Act (No 3) 1985][2380] (1985 No 136)
     
     [Judicature Amendment Act (No 2) 1985][440] (1985 No 112)
     
@@ -32405,25 +32405,25 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     District Courts Amendment Act (No 2) 1982 (1982 No 130): [section 4(2)][434]
     
-    [Judicature Amendment Act 1981][2372] (1981 No 40)
+    [Judicature Amendment Act 1981][2381] (1981 No 40)
     
-    [Judicature Amendment Act 1980][2373] (1980 No 88)
+    [Judicature Amendment Act 1980][2382] (1980 No 88)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][2329]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][2338]
     
-    [Judicature Amendment Act 1979][2374] (1979 No 124)
+    [Judicature Amendment Act 1979][2383] (1979 No 124)
     
     Judicature Amendment Act 1978 (1978 No 55)
     
-    [Judicature Amendment Act 1977][2375] (1977 No 32)
+    [Judicature Amendment Act 1977][2384] (1977 No 32)
     
     Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][274]
     
     Judicature Amendment Act 1974 (1974 No 57)
     
-    [Judicature Amendment Act Commencement Order 1973][2338] (SR 1973/36)
+    [Judicature Amendment Act Commencement Order 1973][2347] (SR 1973/36)
     
-    [Judicature Amendment Act 1972][2328] (1972 No 130)
+    [Judicature Amendment Act 1972][2337] (1972 No 130)
     
     Mental Health Act 1969 (1969 No 16): section 129(4), (7)
     
@@ -32431,7 +32431,7 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Judicature Amendment Act (No 2) 1968 (1968 No 59)
     
-    [Judicature Amendment Act 1965][2376] (1965 No 62)
+    [Judicature Amendment Act 1965][2385] (1965 No 62)
     
     Judicature Amendment Act 1963 (1963 No 133)
     
@@ -32443,7 +32443,7 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][427]
     
-    [Judicature Amendment Act 1957][2377] (1957 No 9)
+    [Judicature Amendment Act 1957][2386] (1957 No 9)
     
     Contracts Enforcement Act 1956 (1956 No 23): [section 3(2)][432]
     
@@ -32453,7 +32453,7 @@ Date of notification in _Gazette_: 4 November 2010\.
     
     Administration Act 1952 (1952 No 56): section 79(1)
     
-    [Judicature Amendment Act 1952][2327] (1952 No 24)
+    [Judicature Amendment Act 1952][2336] (1952 No 24)
     
     Limitation Act 1950 (1950 No 65): [section 35(2)][431]
     
@@ -34718,132 +34718,141 @@ Date of notification in _Gazette_: 4 November 2010\.
 [2246]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM393672
 [2247]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817648
 [2248]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817649
-[2249]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894859
-[2250]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502053
-[2251]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2576335
-[2252]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5500338
-[2253]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM6039952
-[2254]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329049
-[2255]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329050
-[2256]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5618689
-[2257]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM124115
-[2258]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502029
-[2259]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502055
-[2260]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192057
-[2261]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192058
-[2262]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192059
-[2263]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192060
-[2264]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486519
-[2265]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502021
-[2266]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192061
-[2267]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502057
-[2268]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192062
-[2269]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502058
-[2270]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM394208
-[2271]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502031
-[2272]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329051
-[2273]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329048
-[2274]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047921
-[2275]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1933011
-[2276]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329005
-[2277]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1463503
-[2278]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192025
-[2279]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329053
-[2280]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192027
-[2281]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329003
-[2282]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329054
-[2283]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329055
-[2284]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049410
-[2285]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM441994
-[2286]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM392635
-[2287]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM390679
-[2288]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM293189
-[2289]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM390672
-[2290]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049411
-[2291]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049412
-[2292]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192031
-[2293]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049413
-[2294]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192029
-[2295]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049414
-[2296]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049415
-[2297]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049416
-[2298]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049417
-[2299]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049418
-[2300]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192063
-[2301]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4895565
-[2302]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1819789
-[2303]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329056
-[2304]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329057
-[2305]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329058
-[2306]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321975
-[2307]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321545
-[2308]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321989
-[2309]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192033
-[2310]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329059
-[2311]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817922
-[2312]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM387753
-[2313]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448207
-[2314]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448208
-[2315]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2576389
-[2316]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502033
-[2317]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486514
-[2318]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894861
-[2319]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894863
-[2320]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM224791
-[2321]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192064
-[2322]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4895556
-[2323]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047919
-[2324]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM4266228
-[2325]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM4266234
-[2326]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM176970
-[2327]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM265812
-[2328]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM408329
-[2329]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM35085
-[2330]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442921
-[2331]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM61487
-[2332]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM316477
-[2333]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442924
-[2334]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442922
-[2335]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442923
-[2336]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM230223
-[2337]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442925
-[2338]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM38915
-[2339]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM408468
-[2340]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1933000
-[2341]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2034220
-[2342]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2753207
-[2343]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2907100
-[2344]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329016
-[2345]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998516
-[2346]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998515
-[2347]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998532
-[2348]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[2349]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM6039932
-[2350]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5618660
-[2351]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502035
-[2352]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192044
-[2353]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5193605
-[2354]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049400
-[2355]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894877
-[2356]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448200
-[2357]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4014102
-[2358]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047940
-[2359]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4048011
-[2360]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486529
-[2361]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2439506
-[2362]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM404782
-[2363]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM372723
-[2364]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM362204
-[2365]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM294321
-[2366]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM169023
-[2367]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM113910
-[2368]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM32204
-[2369]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM426660
-[2370]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM230212
-[2371]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM81016
-[2372]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM48662
-[2373]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM39485
-[2374]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM35027
-[2375]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442799
-[2376]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM373752
-[2377]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM308771
+[2249]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817651
+[2250]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817652
+[2251]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817653
+[2252]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817671
+[2253]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817672
+[2254]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817673
+[2255]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817674
+[2256]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817679
+[2257]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817907
+[2258]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM1817922
+[2259]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894859
+[2260]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502053
+[2261]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2576335
+[2262]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5500338
+[2263]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM6039952
+[2264]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329049
+[2265]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329050
+[2266]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5618689
+[2267]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM124115
+[2268]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502029
+[2269]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502055
+[2270]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192057
+[2271]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192058
+[2272]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192059
+[2273]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192060
+[2274]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486519
+[2275]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502021
+[2276]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192061
+[2277]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502057
+[2278]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192062
+[2279]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502058
+[2280]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM394208
+[2281]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502031
+[2282]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329051
+[2283]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329048
+[2284]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047921
+[2285]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1933011
+[2286]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329005
+[2287]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1463503
+[2288]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192025
+[2289]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329053
+[2290]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192027
+[2291]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329003
+[2292]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329054
+[2293]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329055
+[2294]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049410
+[2295]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM441994
+[2296]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM392635
+[2297]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM390679
+[2298]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM293189
+[2299]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM390672
+[2300]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049411
+[2301]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049412
+[2302]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192031
+[2303]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049413
+[2304]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192029
+[2305]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049414
+[2306]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049415
+[2307]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049416
+[2308]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049417
+[2309]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049418
+[2310]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192063
+[2311]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4895565
+[2312]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1819789
+[2313]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329056
+[2314]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329057
+[2315]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329058
+[2316]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321975
+[2317]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321545
+[2318]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM321989
+[2319]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192033
+[2320]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329059
+[2321]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM387753
+[2322]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448207
+[2323]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448208
+[2324]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2576389
+[2325]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502033
+[2326]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486514
+[2327]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894861
+[2328]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894863
+[2329]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM224791
+[2330]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192064
+[2331]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4895556
+[2332]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047919
+[2333]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM4266228
+[2334]: http://www.legislation.govt.nz/act/public/1908/0089/latest/whole.html#DLM4266234
+[2335]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM176970
+[2336]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM265812
+[2337]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM408329
+[2338]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM35085
+[2339]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442921
+[2340]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM61487
+[2341]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM316477
+[2342]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442924
+[2343]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442922
+[2344]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442923
+[2345]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM230223
+[2346]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442925
+[2347]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM38915
+[2348]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM408468
+[2349]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM1933000
+[2350]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2034220
+[2351]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2753207
+[2352]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2907100
+[2353]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM3329016
+[2354]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998516
+[2355]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998515
+[2356]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2998532
+[2357]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[2358]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM6039932
+[2359]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5618660
+[2360]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5502035
+[2361]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5192044
+[2362]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5193605
+[2363]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM5049400
+[2364]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4894877
+[2365]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4448200
+[2366]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4014102
+[2367]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4047940
+[2368]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM4048011
+[2369]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2486529
+[2370]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM2439506
+[2371]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM404782
+[2372]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM372723
+[2373]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM362204
+[2374]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM294321
+[2375]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM169023
+[2376]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM113910
+[2377]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM32204
+[2378]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM426660
+[2379]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM230212
+[2380]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM81016
+[2381]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM48662
+[2382]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM39485
+[2383]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM35027
+[2384]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM442799
+[2385]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM373752
+[2386]: http://www.legislation.govt.nz/act/public/1908/0089/latest/link.aspx?id=DLM308771
