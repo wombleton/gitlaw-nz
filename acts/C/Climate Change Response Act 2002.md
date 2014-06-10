@@ -17,7 +17,7 @@ Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have 
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry for the Environment and the Ministry of Business, Innovation, and Employment.
+This Act is administered by the Ministry for the Environment.
 
 ---
 
