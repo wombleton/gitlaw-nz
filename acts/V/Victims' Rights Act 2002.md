@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 7 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -177,20 +177,32 @@ This Act is administered by the Ministry of Justice.
 
 [51][75][][75][Return of property held as evidence][75]
 
-[Director-General of Health may delegate duties under Act][76]
+[Code for victims][76]
 
-[52][77][][77][Director-General of Health may delegate duties][77]
+[51A][77][][77][Interpretation][77]
 
-[Amendments][78]
+[51B][78][][78][Secretary to prepare code][78]
 
-[53][79][][79][Amendments][79]
+[51C][79][][79][Code to be approved by Minister][79]
 
-[Repeal][80]
+[51D][80][][80][Publication of code][80]
 
-[54][81][][81][Victims of Offences Act 1987 repealed][81]
+[51E][81][][81][Amendment to code][81]
 
-[Schedule][82]  
-[Enactments amended][82]
+[Director-General of Health may delegate duties under Act][82]
+
+[52][83][][83][Director-General of Health may delegate duties][83]
+
+[Amendments][84]
+
+[53][85][][85][Amendments][85]
+
+[Repeal][86]
+
+[54][87][][87][Victims of Offences Act 1987 repealed][87]
+
+[Schedule][88]  
+[Enactments amended][88]
 
 ---
 
@@ -217,9 +229,9 @@ Preliminary provisions
     
     _child_ means a boy or girl under the age of 14 years
     
-    _facility_ has the same meaning as in [section 9][83] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and includes a secure facility within the meaning of that section
+    _facility_ has the same meaning as in [section 9][89] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and includes a secure facility within the meaning of that section
     
-    _hospital_ has the same meaning as in [section 2(1)][84] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+    _hospital_ has the same meaning as in [section 2(1)][90] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
     
     _immediate family_, in relation to a victim,---
         
@@ -253,7 +265,7 @@ Preliminary provisions
     
     _judicial officer_ means a Judge, or other person who holds a judicial office (for example, a Justice of the Peace or Community Magistrate), exercising jurisdiction in criminal cases and, in relation to proceedings in court, means the judicial officer presiding over the proceedings
     
-    _lawyer_ has the meaning given to it by [section 6][85] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][91] of the Lawyers and Conveyancers Act 2006
     
     _offence_, in relation to a victim,---
         
@@ -281,21 +293,21 @@ Preliminary provisions
     
     *   (b) a parent or another close relative or a legal guardian of the victim:
     
-    *   (c) a Social Worker (as defined in [section 2(1)][86] of the Children, Young Persons, and Their Families Act 1989) if---
+    *   (c) a Social Worker (as defined in [section 2(1)][92] of the Children, Young Persons, and Their Families Act 1989) if---
             
         *   (i) the victim is a child or young person who is in the custody or under the guardianship or in the care of the chief executive or another person under that Act; or
         
-        *   (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under [section 31(1)(a)][87] of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)(b) or [section 33(1)(c)(ii)][88] of that Act:
+        *   (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under [section 31(1)(a)][93] of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)(b) or [section 33(1)(c)(ii)][94] of that Act:
         
         
     
-    *   (d) a welfare guardian of the victim, or manager of the property of the victim, appointed under the [Protection of Personal and Property Rights Act 1988][89]:
+    *   (d) a welfare guardian of the victim, or manager of the property of the victim, appointed under the [Protection of Personal and Property Rights Act 1988][95]:
     
-    *   (e) an attorney appointed by the victim under a power of attorney described in [section 95][90] of the Protection of Personal and Property Rights Act 1988 if---
+    *   (e) an attorney appointed by the victim under a power of attorney described in [section 95][96] of the Protection of Personal and Property Rights Act 1988 if---
             
         *   (i) the matter is one relating to the personal care and welfare of the victim in relation to which the attorney is authorised to act under the power of attorney; and
         
-        *   (ii) the occasion for the attorney to act has arisen under [section 98(3)][91] of that Act
+        *   (ii) the occasion for the attorney to act has arisen under [section 98(3)][97] of that Act
         
         
     
@@ -333,19 +345,19 @@ Preliminary provisions
     
     Compare: 1987 No 173 s 2
     
-    Section 4 **facility**: inserted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 4 **facility**: inserted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 4 **immediate family** paragraph (b): substituted, on 26 April 2005, by [section 7][93] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4 **immediate family** paragraph (b): substituted, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 4 **lawyer**: substituted, on 1 August 2008, by [section 348][94] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 4 **lawyer**: substituted, on 1 August 2008, by [section 348][100] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 4 **support person** paragraph (a): substituted, on 26 April 2005, by [section 7][93] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4 **support person** paragraph (a): substituted, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 4 **support person** paragraph (c)(ii): amended, on 1 July 2005, by [section 151][95] of the Care of Children Act 2004 (2004 No 90).
+    Section 4 **support person** paragraph (c)(ii): amended, on 1 July 2005, by [section 151][101] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 4 **support person** paragraph (c)(ii): amended, on 26 April 2005, by [section 7][93] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4 **support person** paragraph (c)(ii): amended, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 4 **young person**: amended, on 26 April 2005, by [section 7][93] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4 **young person**: amended, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 5 Directions about members of immediate family
     
@@ -386,7 +398,7 @@ Provisions relating to treatment and rights of victims generally
     
     Compare: 1987 No 173 s 3
     
-    Section 7: amended, on 1 October 2008, by [section 130(1)][96] of the Policing Act 2008 (2008 No 72).
+    Section 7: amended, on 1 October 2008, by [section 130(1)][102] of the Policing Act 2008 (2008 No 72).
 
 ##### 8 Access to services
     
@@ -412,7 +424,7 @@ Provisions relating to treatment and rights of victims generally
     
 *   [Sections 7 to 9][10], and the principles in them guiding the treatment of victims, do not confer on any person any legal right that is enforceable, for example, in a court of law.
     
-    Compare: 1993 No 28 [s 11(2)][97]
+    Compare: 1993 No 28 [s 11(2)][103]
 
 #### Information to be given to victims
 
@@ -430,15 +442,15 @@ Provisions relating to treatment and rights of victims generally
     
     *   (d) the Ministry of Social Development:
     
-    *   (e) a DHB (as defined in [section 6(1)][98] of the New Zealand Public Health and Disability Act 2000):
+    *   (e) a DHB (as defined in [section 6(1)][104] of the New Zealand Public Health and Disability Act 2000):
     
     *   (f) the New Zealand Police.
     
     (3) Nothing in this section prevents information of a kind that, under this section, must be given to a victim of an offence, from also being given to any other person (for example, to a person who was disadvantaged by the offence).
     
-    Section 11(2)(c): amended, on 1 October 2003, pursuant to [section 14(1)][99] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 11(2)(c): amended, on 1 October 2003, pursuant to [section 14(1)][105] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 11(2)(d): amended (with effect on 1 October 2001), on 1 August 2003, pursuant to [section 13(1)][100] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 11(2)(d): amended (with effect on 1 October 2001), on 1 August 2003, pursuant to [section 13(1)][106] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 12 Information about proceedings
     
@@ -480,13 +492,13 @@ Provisions relating to treatment and rights of victims generally
     
     Compare: 1987 No 173 s 6
     
-    Section 12(2)(c): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 12(2)(c): amended, on 1 July 2013, by [section 8][107] of the Victims' Rights Amendment Act 2011 (2011 No 95).
     
-    Section 12(4): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 12(4): amended, on 1 July 2013, by [section 8][107] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 13 Limits on duties to give information under sections 11 and 12
     
-*   (1) Nothing in [section 11][15] or [section 12][16] requires any person to give information if good reason for withholding the information would exist under any of [sections 6][102], [7][103], and [9][104] of the Official Information Act 1982, if a request for that information were made under that Act.
+*   (1) Nothing in [section 11][15] or [section 12][16] requires any person to give information if good reason for withholding the information would exist under any of [sections 6][108], [7][109], and [9][110] of the Official Information Act 1982, if a request for that information were made under that Act.
     
     (2) An example of a case where good reason of that kind for withholding information would exist is where the giving of the information would be likely to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial.
     
@@ -506,9 +518,9 @@ Provisions relating to treatment and rights of victims generally
 
 ##### 15 Victim's rights under Privacy Act 1993
     
-*   (1) No person may interfere with the privacy of a victim contrary to the [Privacy Act 1993][105].
+*   (1) No person may interfere with the privacy of a victim contrary to the [Privacy Act 1993][111].
     
-    (2) This section is not limited by [section 7][10], and does not limit or affect, or give any person any rights separate from, or additional to, the [Privacy Act 1993][105].
+    (2) This section is not limited by [section 7][10], and does not limit or affect, or give any person any rights separate from, or additional to, the [Privacy Act 1993][111].
 
 ##### 16 Restriction on giving victim's precise address in evidence or information provided to court
     
@@ -528,7 +540,7 @@ Provisions relating to treatment and rights of victims generally
     
 *   Nothing in [section 16][21] applies to a criminal proceeding if it is necessary to disclose the information in the charge in order to ensure that the defendant is fully and fairly informed of the nature of the charge.
     
-    Section 16A: inserted, on 26 June 2008, by [section 4][106] of the Victims' Rights Amendment Act 2008 (2008 No 42).
+    Section 16A: inserted, on 26 June 2008, by [section 4][112] of the Victims' Rights Amendment Act 2008 (2008 No 42).
 
 #### Victim impact statements
 
@@ -564,7 +576,7 @@ Provisions relating to treatment and rights of victims generally
     
     *   (c) that any views the victim has on whether the prosecutor should apply for orders, directions, or conditions of that kind, are ascertained.
     
-    Section 18(a)(i): amended, on 5 March 2012, by [section 4][107] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 18(a)(i): amended, on 5 March 2012, by [section 4][113] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 19 Form and verification of information ascertained
     
@@ -596,11 +608,11 @@ Provisions relating to treatment and rights of victims generally
     
     *   (b) read it or replayed it or submitted it in another way to the victim, and is satisfied that the victim approves of it.
     
-    Section 19(3)(a): amended, on 5 March 2012, by [section 5(1)][108] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 19(3)(a): amended, on 5 March 2012, by [section 5(1)][114] of the Victims' Rights Amendment Act 2011 (2011 No 95).
     
-    Section 19(4)(a): replaced, on 5 March 2012, by [section 5(2)][108] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 19(4)(a): replaced, on 5 March 2012, by [section 5(2)][114] of the Victims' Rights Amendment Act 2011 (2011 No 95).
     
-    Section 19(4)(ab): inserted, on 5 March 2012, by [section 5(2)][108] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 19(4)(ab): inserted, on 5 March 2012, by [section 5(2)][114] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 20 Statements by others disadvantaged by offence
     
@@ -630,9 +642,9 @@ Provisions relating to treatment and rights of victims generally
 
 ##### 21A Victim impact statement may be used for purpose of sentence indication
     
-*   A victim impact statement within the meaning of [section 22][30] of this Act may be submitted to a judicial officer for the purpose of giving a sentence indication under [section 61][109] of the Criminal Procedure Act 2011\.
+*   A victim impact statement within the meaning of [section 22][30] of this Act may be submitted to a judicial officer for the purpose of giving a sentence indication under [section 61][115] of the Criminal Procedure Act 2011\.
     
-    Section 21A: inserted, on 5 March 2012, by [section 6][110] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 21A: inserted, on 5 March 2012, by [section 6][116] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 22 Victim impact statement defined
     
@@ -656,7 +668,7 @@ Provisions relating to treatment and rights of victims generally
     
     (3) Nothing in this section permits a person to show part of a victim impact statement to an offender or a lawyer representing an offender contrary to an order made under [section 25][33].
     
-    (4) Despite anything in the [Privacy Act 1993][105], no offender may have access to a victim impact statement relating to the offender under that Act.
+    (4) Despite anything in the [Privacy Act 1993][111], no offender may have access to a victim impact statement relating to the offender under that Act.
 
 ##### 24 Return of statements at end of proceedings
     
@@ -674,7 +686,7 @@ Provisions relating to treatment and rights of victims generally
     
     *   (b) any other person (other than the offender) if the judicial officer, in his or her discretion and on an application for the purpose, orders that the other person need not return the copy or copies of the statement.
     
-    Section 24(3)(a): amended, on 1 October 2008, by [section 130(1)][96] of the Policing Act 2008 (2008 No 72).
+    Section 24(3)(a): amended, on 1 October 2008, by [section 130(1)][102] of the Policing Act 2008 (2008 No 72).
 
 ##### 25 Judicial officer may withhold part of statement from offender to protect victim's physical safety or security
     
@@ -716,7 +728,7 @@ Provisions relating to treatment and rights of victims generally
 
 ##### 28 Victim's views on application for order prohibiting permanently publication of name of accused or offender
     
-*   (1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under [section 200][111] of the Criminal Procedure Act 2011 for an order or further order---
+*   (1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under [section 200][117] of the Criminal Procedure Act 2011 for an order or further order---
         
     *   (a) prohibiting the publication of his or her name, address, or occupation, or of any particulars likely to lead to his or her identification; and
     
@@ -728,7 +740,7 @@ Provisions relating to treatment and rights of victims generally
     
     *   (b) must inform the court of any views ascertained under paragraph (a).
     
-    Section 28(1): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(1): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][118] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Provisions relating to rights of victims of certain offences
@@ -775,7 +787,7 @@ Provisions relating to rights of victims of certain offences
             
         *   (i) is given notice under [sections 34 to 38][51]; and
         
-        *   (ii) is given or supplied with notice or advice of matters or decisions or directions, and copies of orders and conditions, to be given or supplied to victims under [sections 41][113], [43][114], [45][115], [50][116], and [58][117] (and any other relevant provisions) of the Parole Act 2002; and
+        *   (ii) is given or supplied with notice or advice of matters or decisions or directions, and copies of orders and conditions, to be given or supplied to victims under [sections 41][119], [43][120], [45][121], [50][122], and [58][123] (and any other relevant provisions) of the Parole Act 2002; and
         
         
     
@@ -791,7 +803,7 @@ Provisions relating to rights of victims of certain offences
     
 *   (1) As soon as practicable after a victim comes into contact with the New Zealand Police, the Commissioner of Police must determine whether or not this section applies to the victim in accordance with [section 29][40] and, if it does,---
         
-    *   (a) must make all reasonable efforts to inform the victim that he or she has the right to ask to be given notice under [sections 34 to 38][51] and that, if he or she asks to be given notice of that kind and gives the New Zealand Police his or her current address, then he or she may also be given notice under [section 39][56] of this Act, or under [section 20][118] of the Prisoners' and Victims' Claims Act 2005; and
+    *   (a) must make all reasonable efforts to inform the victim that he or she has the right to ask to be given notice under [sections 34 to 38][51] and that, if he or she asks to be given notice of that kind and gives the New Zealand Police his or her current address, then he or she may also be given notice under [section 39][56] of this Act, or under [section 20][124] of the Prisoners' and Victims' Claims Act 2005; and
     
     *   (b) must, in the circumstances stated in subsection (2), make all reasonable efforts to inform a support person of the victim that a representative of the victim may be appointed under [section 42][60].
     
@@ -803,7 +815,7 @@ Provisions relating to rights of victims of certain offences
     
     (3) Subsection (1)(b) does not limit subsection (1)(a).
     
-    Section 32(1)(a): amended, on 4 June 2005, by [section 76][119] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
+    Section 32(1)(a): amended, on 4 June 2005, by section 76 of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
 
 #### Victim's address to be forwarded in certain cases
 
@@ -821,9 +833,9 @@ Provisions relating to rights of victims of certain offences
     
     *   (b) the offender, having been liable to be detained in a prison in connection with the offence, becomes liable to be detained---
             
-        *   (i) in a hospital following an application under [section 45(2)][120] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under [section 46][121] of that Act; or
+        *   (i) in a hospital following an application under [section 45(2)][125] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under [section 46][126] of that Act; or
         
-        *   (ii) in a facility following an application under [section 29(1)][122] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
+        *   (ii) in a facility following an application under [section 29(1)][127] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
         
         
     
@@ -831,25 +843,25 @@ Provisions relating to rights of victims of certain offences
         
     *   (a) that address has been given or forwarded to the Director-General under [section 31(c)][44] or subsection (1)(b) or subsection (2); and
     
-    *   (b) the person accused of the offence or, as the case requires, the offender, having been liable to be detained in a hospital or facility in connection with the offence, is removed to a prison under [section 47(1)][123] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or [section 71][124] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
+    *   (b) the person accused of the offence or, as the case requires, the offender, having been liable to be detained in a hospital or facility in connection with the offence, is removed to a prison under [section 47(1)][128] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or [section 71][129] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
     
     (4) An address required to be forwarded under this section must be forwarded as soon as practicable after the requirement arises.
     
-    Section 33(1)(a): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 33(1)(a): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 33(1)(b): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 33(1)(b): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 33(2)(b): substituted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 33(2)(b): substituted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 33(2)(b): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 33(2)(b): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 33(3)(b): substituted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 33(3)(b): substituted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 33(3)(b): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 33(3)(b): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
 
 ##### 33A Secretary must request victim's current address for notice under Prisoners' and Victims' Claims Act 2005
     
-*   (1) If the Secretary is required by [section 20][118] of the Prisoners' and Victims' Claims Act 2005 to give a written notice notifying the payment of money into the victims' claims trust bank account to be held in trust for an accused or an offender,---
+*   (1) If the Secretary is required by [section 20][124] of the Prisoners' and Victims' Claims Act 2005 to give a written notice notifying the payment of money into the victims' claims trust bank account to be held in trust for an accused or an offender,---
         
     *   (a) the Secretary must advise each specified person (as defined in subsection (2)) of that fact, and must ask each specified person to give the current address (including the full name) of a person who is or may be a victim of the accused or the offender to the Secretary if that address---
             
@@ -869,7 +881,7 @@ Provisions relating to rights of victims of certain offences
     
     *   (c) the Director-General of Health.
     
-    Section 33A: inserted, on 4 June 2005, by [section 77][126] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
+    Section 33A: inserted, on 4 June 2005, by section 77 of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
 
 #### Notice of certain matters to be given to victims of certain offences
 
@@ -897,7 +909,7 @@ Provisions relating to rights of victims of certain offences
     
     *   (d) until determination of an appeal against conviction or sentence.
     
-    (3) However, nothing in this section requires or permits the Commissioner to give notice of a matter contrary to an order made under [section 19][127] of the Bail Act 2000 prohibiting publication of matters relating to a bail hearing.
+    (3) However, nothing in this section requires or permits the Commissioner to give notice of a matter contrary to an order made under [section 19][131] of the Bail Act 2000 prohibiting publication of matters relating to a bail hearing.
 
 ##### 35 Notice of temporary release from, or escape or absconding from, or death in, prison detention or home detention, of accused or offender
     
@@ -905,13 +917,13 @@ Provisions relating to rights of victims of certain offences
         
     *   (a) reasonable prior notice of the offender's impending---
             
-        *   (i) temporary release from the legal custody of the chief executive of the Department of Corrections, under [section 62][128] of the Corrections Act 2004 (other than a release of that kind throughout which the offender is to be accompanied by a constable or constables); or
+        *   (i) temporary release from the legal custody of the chief executive of the Department of Corrections, under [section 62][132] of the Corrections Act 2004 (other than a release of that kind throughout which the offender is to be accompanied by a constable or constables); or
         
-        *   (ii) part-time release from custody of that kind, to engage in employment, under [section 62][128] of that Act; and
+        *   (ii) part-time release from custody of that kind, to engage in employment, under [section 62][132] of that Act; and
         
         
     
-    *   (b) reasonable prior notice of the offender's impending release from prison detention or home detention if the offender does not have a parole eligibility date under [section 20][129] of the Parole Act 2002; and
+    *   (b) reasonable prior notice of the offender's impending release from prison detention or home detention if the offender does not have a parole eligibility date under [section 20][133] of the Parole Act 2002; and
     
     *   (c) notice, as soon as practicable, of---
             
@@ -927,53 +939,53 @@ Provisions relating to rights of victims of certain offences
     
     (3) In this section, _prison detention_---
         
-    *   (a) means detention in a prison (or in a Police station or other place of confinement in accordance with [section 35][130] of the Corrections Act 2004); and
+    *   (a) means detention in a prison (or in a Police station or other place of confinement in accordance with [section 35][134] of the Corrections Act 2004); and
     
-    *   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in [section 34A(1)][131] of the Corrections Act 2004; but
+    *   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in [section 34A(1)][135] of the Corrections Act 2004; but
     
-    *   (c) does not include detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under [section 238(1)(d) or (e)][132] of the Children, Young Persons, and Their Families Act 1989; and
+    *   (c) does not include detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under [section 238(1)(d) or (e)][136] of the Children, Young Persons, and Their Families Act 1989; and
     
     *   (d) does not include detention of a kind referred to in [section 37(1)(a) or (b)][54] of this Act.
     
     Compare: 1987 No 173 s 11
     
-    Section 35(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][133] of the Policing Act 2008 (2008 No 72).
+    Section 35(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][137] of the Policing Act 2008 (2008 No 72).
     
-    Section 35(1)(a)(i): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 35(1)(a)(i): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 35(1)(a)(ii): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 35(1)(a)(ii): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 35(3)(a): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 35(3)(a): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 35(3)(b): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    Section 35(3)(b): amended, on 1 July 2013, by [section 8][107] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 36 Notice of convictions for breaching release or detention conditions and of decisions on recall orders
     
 *   (1) The chief executive of the Department of Corrections must give a victim to whom this section applies notice, as soon as practicable, of---
         
-    *   (a) every conviction of the offender for an offence against [section 71(1)][134] of the Parole Act 2002 of breaching, without reasonable excuse, any release conditions or detention conditions imposed on the offender by the New Zealand Parole Board; and
+    *   (a) every conviction of the offender for an offence against [section 71(1)][138] of the Parole Act 2002 of breaching, without reasonable excuse, any release conditions or detention conditions imposed on the offender by the New Zealand Parole Board; and
     
-    *   (b) every decision to make an interim recall order, under [section 62][135] of the Parole Act 2002, resulting in the offender being detained in a prison pending the determination of an application for recall made under that Act in respect of the offender; and
+    *   (b) every decision to make an interim recall order, under [section 62][139] of the Parole Act 2002, resulting in the offender being detained in a prison pending the determination of an application for recall made under that Act in respect of the offender; and
     
-    *   (c) every decision to make or to refuse to make a final recall order, under [section 66][136] of the Parole Act 2002, recalling the offender to continue serving his or her sentence in a prison; and
+    *   (c) every decision to make or to refuse to make a final recall order, under [section 66][140] of the Parole Act 2002, recalling the offender to continue serving his or her sentence in a prison; and
     
-    *   (d) every decision to quash an interim recall order or a final recall order, being a decision made on a review under [section 67][137] of the Parole Act 2002 (or made by the Board after a referral back to it on a review of that kind); and
+    *   (d) every decision to quash an interim recall order or a final recall order, being a decision made on a review under [section 67][141] of the Parole Act 2002 (or made by the Board after a referral back to it on a review of that kind); and
     
-    *   (e) every decision to quash a final recall order, being a decision made on an appeal under [section 68][138] of the Parole Act 2002 (or made by the Board after a referral back to it on an appeal of that kind).
+    *   (e) every decision to quash a final recall order, being a decision made on an appeal under [section 68][142] of the Parole Act 2002 (or made by the Board after a referral back to it on an appeal of that kind).
     
     (2) Nothing in subsection (1) prevents notice being given of other matters relating to the offender's compliance with release or detention conditions imposed on the offender.
     
-    Section 36(1)(b): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 36(1)(b): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
     
-    Section 36(1)(c): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    Section 36(1)(c): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
 
 ##### 37 Notice of discharge, leave of absence, or escape or death of accused or offender who is compulsorily detained in hospital or facility
     
 *   (1) Without limiting [sections 29][40] and [31][44], this section applies to a victim only if the person accused of the offence or, as the case requires, the offender, is liable to be detained in a hospital or facility in connection with the offence and, when his or her liability of that kind began, he or she was liable to be detained in a hospital or facility---
         
-    *   (a) as a special patient as defined in [section 2(1)][84] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient as defined in [section 6(2)][139] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    *   (a) as a special patient as defined in [section 2(1)][90] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient as defined in [section 6(2)][143] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
     
-    *   (b) under an order made under [section 25(1)(a) or (b)][140] or [section 34(1)(b)][141] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+    *   (b) under an order made under [section 25(1)(a) or (b)][144] or [section 34(1)(b)][145] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
     
     (2) The Director-General of Health must give a victim to whom this section applies---
         
@@ -981,9 +993,9 @@ Provisions relating to rights of victims of certain offences
     
     *   (b) reasonable prior notice of the first unescorted leave of absence granted to the person or offender---
             
-        *   (i) under [section 31][142] or [section 50][143] or [section 52][144] of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+        *   (i) under [section 31][146] or [section 50][147] or [section 52][148] of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
         
-        *   (ii) under any of [sections 65 to 67][145] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
+        *   (ii) under any of [sections 65 to 67][149] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
         
         *   (iii) \[Repealed\]
         
@@ -995,21 +1007,21 @@ Provisions relating to rights of victims of certain offences
     
     Compare: 1987 No 173 s 11A
     
-    Section 37 heading: amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37 heading: amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(1): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(1): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(1)(a): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(1)(a): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(1)(b): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(1)(b): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(2)(b)(i): substituted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(2)(b)(i): substituted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(2)(b)(ii): substituted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(2)(b)(ii): substituted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(2)(b)(iii): repealed, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(2)(b)(iii): repealed, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 37(2)(d): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 37(2)(d): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 38 Exception to section 37 once certain offenders no longer liable to detention for sentence imposed for offence
     
@@ -1017,25 +1029,25 @@ Provisions relating to rights of victims of certain offences
         
     *   (a) was, when his or her liability to detention in a hospital or facility began, liable to be detained---
             
-        *   (i) following an application under [section 45(2)][120] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under [section 46][121] of that Act; or
+        *   (i) following an application under [section 45(2)][125] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or under an arrangement under [section 46][126] of that Act; or
         
-        *   (ii) following an application under [section 29(1)][122] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+        *   (ii) following an application under [section 29(1)][127] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
         
-        *   (iii) under an order under [section 34(1)(a)][141] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
+        *   (iii) under an order under [section 34(1)(a)][145] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
         
         
     
-    *   (b) ceases, under [section 48][146] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, to be a special patient within the meaning of that Act or ceases, under [section 69][147] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, to be a special care recipient within the meaning of that Act.
+    *   (b) ceases, under [section 48][150] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, to be a special patient within the meaning of that Act or ceases, under [section 69][151] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, to be a special care recipient within the meaning of that Act.
     
     (2) If this section applies, the Director-General of Health must, instead of complying with [section 37(2)][54], give the victim notice, as soon as practicable, that the offender is no longer liable to detention for the sentence imposed for the offence.
     
-    Section 38(1): substituted, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 38(1): substituted, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 39 Notice of proposal to cancel or suspend liability for deportation
     
-*   (1) The chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Immigration Act 2009][148] must perform the actions in subsection (2) if---
+*   (1) The chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Immigration Act 2009][152] must perform the actions in subsection (2) if---
         
-    *   (a) a person is liable for deportation under the [Immigration Act 2009][148] as a result of any criminal offending; and
+    *   (a) a person is liable for deportation under the [Immigration Act 2009][152] as a result of any criminal offending; and
     
     *   (b) the Minister of Immigration is considering cancelling or suspending the person's liability for deportation or the person appeals against his or her liability for deportation to the Immigration and Protection Tribunal.
     
@@ -1069,13 +1081,13 @@ Provisions relating to rights of victims of certain offences
     
     (5) If the victim's address is given to the chief executive under subsection (2),---
         
-    *   (a) the chief executive must, if practicable, give the victim notice that the Minister is considering cancelling or suspending the deportation liability of the offender under [section 172][149] of the Immigration Act 2009; and
+    *   (a) the chief executive must, if practicable, give the victim notice that the Minister is considering cancelling or suspending the deportation liability of the offender under [section 172][153] of the Immigration Act 2009; and
     
-    *   (b) if a deportation liability notice has been served and the offender concerned appeals against that liability for deportation on humanitarian grounds under [section 206][150] of that Act, the chief executive must give the victim's address to the Immigration and Protection Tribunal, and that Tribunal must give the victim prior notice of the hearing of the appeal.
+    *   (b) if a deportation liability notice has been served and the offender concerned appeals against that liability for deportation on humanitarian grounds under [section 206][154] of that Act, the chief executive must give the victim's address to the Immigration and Protection Tribunal, and that Tribunal must give the victim prior notice of the hearing of the appeal.
     
     (6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)(a) or a decision on an appeal of the kind referred to in subsection (5)(b).
     
-    Section 39: substituted, at 2 am on 29 November 2010, by [section 406(1)][151] of the Immigration Act 2009 (2009 No 51).
+    Section 39: substituted, at 2 am on 29 November 2010, by [section 406(1)][155] of the Immigration Act 2009 (2009 No 51).
 
 #### Representatives for notice
 
@@ -1161,17 +1173,17 @@ Provisions relating to rights of victims of certain offences
 
 ##### 47 Victim may participate in process for offender's release from prison or release to or from home detention
     
-*   A victim to whom this section applies may participate in the process for making decisions about the offender's release from prison or release to or from home detention, under [sections 43(5)][114], [46(1)][152], 48A, 48B, and [49(4)][153] (and any other relevant provisions) of the Parole Act 2002\.
+*   A victim to whom this section applies may participate in the process for making decisions about the offender's release from prison or release to or from home detention, under [sections 43(5)][120], [46(1)][156], 48A, 48B, and [49(4)][157] (and any other relevant provisions) of the Parole Act 2002\.
     
-    Section 47: amended, on 1 October 2007, by [section 58][154] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 47: amended, on 1 October 2007, by [section 58][158] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Submissions on deportation of offender
 
 ##### 48 Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender's appeal against deportation
     
-*   A victim to whom this section applies may make submissions to the Minister of Immigration and to the Immigration and Protection Tribunal, in accordance with [sections 173][155] and [208][156] of the Immigration Act 2009\.
+*   A victim to whom this section applies may make submissions to the Minister of Immigration and to the Immigration and Protection Tribunal, in accordance with [sections 173][159] and [208][160] of the Immigration Act 2009\.
     
-    Section 48: substituted, at 2 am on 29 November 2010, by [section 406(1)][151] of the Immigration Act 2009 (2009 No 51).
+    Section 48: substituted, at 2 am on 29 November 2010, by [section 406(1)][155] of the Immigration Act 2009 (2009 No 51).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1190,15 +1202,15 @@ Miscellaneous provisions
         
     *   (a) the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right:
     
-    *   (b) an Ombudsman, in accordance with the [Ombudsmen Act 1975][157], if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
+    *   (b) an Ombudsman, in accordance with the [Ombudsmen Act 1975][161], if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
     
-    *   (c) the Independent Police Conduct Authority, in accordance with the [Independent Police Conduct Authority Act 1988][158], if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a constable:
+    *   (c) the Independent Police Conduct Authority, in accordance with the [Independent Police Conduct Authority Act 1988][162], if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a constable:
     
-    *   (d) the Privacy Commissioner, in accordance with the [Privacy Act 1993][105], if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
+    *   (d) the Privacy Commissioner, in accordance with the [Privacy Act 1993][111], if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
     
-    Section 49(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][133] of the Policing Act 2008 (2008 No 72).
+    Section 49(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][137] of the Policing Act 2008 (2008 No 72).
     
-    Section 49(2)(c): amended, on 29 November 2007, by [section 26][159] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 49(2)(c): amended, on 29 November 2007, by [section 26][163] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 50 Other ways in which rights may be enforced
     
@@ -1206,7 +1218,7 @@ Miscellaneous provisions
     
     (2) No person (for example, the Crown in right of New Zealand) may be required (for example, by any court, tribunal, or other body) to pay any money (whether by way of damages, compensation, or otherwise) to any other person just because of a breach of any of the specified provisions.
     
-    (3) An example of the operation of subsection (2) is that the Human Rights Review Tribunal (as defined in [section 2(1)][160] of the Privacy Act 1993) may require the payment of money in respect of conduct that is, or may be, a breach of any of the specified provisions, if that conduct also constitutes an interference with the privacy of an individual.
+    (3) An example of the operation of subsection (2) is that the Human Rights Review Tribunal (as defined in [section 2(1)][164] of the Privacy Act 1993) may require the payment of money in respect of conduct that is, or may be, a breach of any of the specified provisions, if that conduct also constitutes an interference with the privacy of an individual.
 
 #### Return of property held as evidence
 
@@ -1216,17 +1228,79 @@ Miscellaneous provisions
     
     Compare: 1987 No 173 s 7
 
+#### Code for victims
+    
+*   Heading: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
+##### 51A Interpretation
+    
+*   In [sections 51B to 51E][78],---
+    
+    _code_ means the code for victims
+    
+    _Minister_ means the Minister of Justice.
+    
+    Section 51A: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
+##### 51B Secretary to prepare code
+    
+*   (1) As soon as practicable after the commencement of this section, the Secretary must prepare a code.
+    
+    (2) The purpose of the code is to make available to victims information that is consistent with this Act and any other Act about---
+        
+    *   (a) the rights of victims; and
+    
+    *   (b) the services available to victims from government agencies and other organisations; and
+    
+    *   (c) the duties and responsibilities of government agencies when dealing with victims.
+    
+    (3) In preparing the code, the Secretary---
+        
+    *   (a) must consult the government agencies that provide services to victims; and
+    
+    *   (b) may consult any persons or representatives of persons as the Secretary considers appropriate.
+    
+    Section 51B: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
+##### 51C Code to be approved by Minister
+    
+*   A code prepared under [section 51B][78] does not have any effect for the purposes of this Act until---
+        
+    *   (a) it has been submitted to the Minister; and
+    
+    *   (b) the Minister, after being satisfied that appropriate consultation has been carried out under [section 51B(3)][78], has approved and signed the code.
+    
+    Section 51C: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
+##### 51D Publication of code
+    
+*   (1) As soon as practicable after the code has been approved by the Minister, the Secretary must notify the approval of the code in the _Gazette_.
+    
+    (2) The Secretary must---
+        
+    *   (a) promote awareness of the code in a variety of communications media; and
+    
+    *   (b) make copies of the code accessible to members of the public (whether electronically or otherwise).
+    
+    Section 51D: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
+##### 51E Amendment to code
+    
+*   The Secretary may at any time amend the code in the manner provided in [sections 51B to 51D][78], except that consultation need not be undertaken on matters involving minor corrections or updating, or otherwise of a minor or technical nature.
+    
+    Section 51E: inserted, on 7 June 2014, by [section 30][165] of the Victims' Rights Amendment Act 2014 (2014 No 35).
+
 #### Director-General of Health may delegate duties under Act
 
 ##### 52 Director-General of Health may delegate duties
     
 *   (1) The Director-General of Health may delegate any of his or her duties under [sections 33(3)][48], and [37 to 39][54] to any person who---
         
-    *   (a) holds the office of Director or Deputy Director of Mental Health, pursuant to [section 91][161] of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+    *   (a) holds the office of Director or Deputy Director of Mental Health, pursuant to [section 91][166] of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     
-    *   (b) is a Director of Area Mental Health Services appointed under [section 92][162] of that Act; or
+    *   (b) is a Director of Area Mental Health Services appointed under [section 92][167] of that Act; or
     
-    *   (c) is a compulsory care co-ordinator appointed under [section 140][163] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
+    *   (c) is a compulsory care co-ordinator appointed under [section 140][168] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
     
     (2) The delegation---
         
@@ -1248,15 +1322,15 @@ Miscellaneous provisions
     
     *   (b) must perform them (and may further delegate them to the extent that the delegation permits) only in accordance with any terms and conditions stated in the delegation.
     
-    Section 52(1)(b): amended, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 52(1)(b): amended, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 52(1)(c): added, on 1 September 2004, by [section 51][92] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 52(1)(c): added, on 1 September 2004, by [section 51][98] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 #### Amendments
 
 ##### 53 Amendments
     
-*   The Acts specified in the [Schedule][82] are amended in the manner indicated in that schedule.
+*   The Acts specified in the [Schedule][88] are amended in the manner indicated in that schedule.
 
 #### Repeal
 
@@ -1269,35 +1343,35 @@ Miscellaneous provisions
 ## Schedule  
 Enactments amended
 
-[s 53][79]
+[s 53][85]
 
 ##### Bail Act 2000 (2000 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][164]._
+_Amendment(s) incorporated in the [Act(s)][169]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][170]._
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][166]._
+_Amendment(s) incorporated in the [Act(s)][171]._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][167]._
+_Amendment(s) incorporated in the [Act(s)][172]._
 
 ##### Parole Act 2002 (2002 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][168]._
+_Amendment(s) incorporated in the [Act(s)][173]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][169]._
+_Amendment(s) incorporated in the [Act(s)][174]._
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][170]._
+_Amendment(s) incorporated in the [Act(s)][175]._
 
 ---
 
@@ -1309,7 +1383,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Victims' Rights Amendment Act 2011][171].
+*   This Act is the [Victims' Rights Amendment Act 2011][176].
 
 ##### 2 Commencement
     
@@ -1319,7 +1393,7 @@ Commencementsee section 2
     
     (3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
     
-    Section 2(1): sections 4--7 brought into force, on 5 March 2012, by the [Victims' Rights Amendment Act 2011 Commencement Order 2011][172] (SR 2011/416).
+    Section 2(1): sections 4--7 brought into force, on 5 March 2012, by the [Victims' Rights Amendment Act 2011 Commencement Order 2011][177] (SR 2011/416).
 
 ##### 3 Principal Act amended
     
@@ -1329,100 +1403,59 @@ Commencementsee section 2
     
 *   A victim impact statement may be submitted under section 21A of the principal Act (as inserted by section 6 of this Act) even if it was prepared before the date on which section 6 came into force.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Victims' Rights Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][173] ![](/images/external_link.gif).
+*   This is a reprint of the Victims' Rights Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][174] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][178] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][179] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][175] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][180] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][181] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][176] and [17E][177] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Victims' Rights Amendment Act 2014][182] (2014 No 35)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Victims' Rights Amendment Act 2011][176] (2011 No 95)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][118]
     
+    Immigration Act 2009 (2009 No 51): [section 406(1)][155]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][137], [130(1)][102]
     
-*   [Victims' Rights Amendment Act 2011][171] (2011 No 95)
+    [Victims' Rights Amendment Act 2008][183] (2008 No 42)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][112]
+    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][163]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][151]
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][158]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][133], [130(1)][96]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][100]
     
-    [Victims' Rights Amendment Act 2008][178] (2008 No 42)
+    Prisoners' and Victims' Claims Act 2005 (2005 No 74): sections 76, 77
     
-    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][159]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][99]
     
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][154]
+    Care of Children Act 2004 (2004 No 90): [section 151][101]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][94]
+    Corrections Act 2004 (2004 No 50): [section 206][130]
     
-    Prisoners' and Victims' Claims Act 2005 (2005 No 74): [sections 76][119], [77][126]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][98]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][93]
-    
-    Care of Children Act 2004 (2004 No 90): [section 151][95]
-    
-    Corrections Act 2004 (2004 No 50): [section 206][125]
-    
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][92]
-    
-    State Sector Amendment Act 2003 (2003 No 41): [sections 13(1)][100], [14(1)][99]
+    State Sector Amendment Act 2003 (2003 No 41): [sections 13(1)][106], [14(1)][105]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM157816
 [2]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM157817
 [3]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM157818
@@ -1498,106 +1531,111 @@ Commencementsee section 2
 [73]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158553
 [74]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158554
 [75]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158555
-[76]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158556
-[77]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158557
-[78]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158561
-[79]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158562
-[80]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158563
-[81]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158564
-[82]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158565
-[83]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225181
-[84]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM262181
-[85]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM364948
-[86]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM147094
-[87]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317453
-[88]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317458
-[89]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM126527
-[90]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM127556
-[91]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM127561
-[92]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM224534
-[93]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM333795
-[94]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM367849
-[95]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317988
-[96]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1102383
-[97]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM297051
-[98]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM80064
-[99]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201378
-[100]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201377
-[101]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059513
-[102]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65366
-[103]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65368
-[104]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65371
-[105]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM296638
-[106]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1379807
-[107]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059508
-[108]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059509
-[109]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3360116
-[110]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059510
-[111]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3360346
-[112]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3865810
-[113]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138832
-[114]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138835
-[115]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138845
-[116]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138850
-[117]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138876
-[118]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM351447
-[119]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM351724
-[120]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263090
-[121]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263406
-[122]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225412
-[123]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263409
-[124]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225493
-[125]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM297136
-[126]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM351725
-[127]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM68927
-[128]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295478
-[129]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138484
-[130]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295441
-[131]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM5340700
-[132]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM152948
-[133]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1102349
-[134]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139307
-[135]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138885
-[136]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138893
-[137]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139302
-[138]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139303
-[139]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225172
-[140]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM223890
-[141]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM224504
-[142]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263058
-[143]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263431
-[144]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263435
-[145]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225484
-[146]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263421
-[147]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225491
-[148]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440300
-[149]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440865
-[150]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440920
-[151]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1441347
-[152]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138846
-[153]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138849
-[154]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM411004
-[155]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440866
-[156]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440922
-[157]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM430983
-[158]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM126221
-[159]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM967974
-[160]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM296645
-[161]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263825
-[162]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263827
-[163]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225992
-[164]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM68904
-[165]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM78863
-[166]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM111585
-[167]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65309
-[168]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM137641
-[169]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM298798
-[170]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM135350
-[171]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059504
-[172]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4152905
-[173]: http://www.pco.parliament.govt.nz/reprints/
-[174]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM195439
-[175]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[176]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM195468
-[177]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM195470
-[178]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1379800
+[76]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152100
+[77]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152101
+[78]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152106
+[79]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152107
+[80]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152108
+[81]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM6152109
+[82]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158556
+[83]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158557
+[84]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158561
+[85]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158562
+[86]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158563
+[87]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158564
+[88]: http://www.legislation.govt.nz/act/public/2002/0039/latest/whole.html#DLM158565
+[89]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225181
+[90]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM262181
+[91]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM364948
+[92]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM147094
+[93]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317453
+[94]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317458
+[95]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM126527
+[96]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM127556
+[97]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM127561
+[98]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM224534
+[99]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM333795
+[100]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM367849
+[101]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM317988
+[102]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1102383
+[103]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM297051
+[104]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM80064
+[105]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201378
+[106]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201377
+[107]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059513
+[108]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65366
+[109]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65368
+[110]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65371
+[111]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM296638
+[112]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1379807
+[113]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059508
+[114]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059509
+[115]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3360116
+[116]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059510
+[117]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3360346
+[118]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3865810
+[119]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138832
+[120]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138835
+[121]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138845
+[122]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138850
+[123]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138876
+[124]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM351447
+[125]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263090
+[126]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263406
+[127]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225412
+[128]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263409
+[129]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225493
+[130]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM297136
+[131]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM68927
+[132]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295478
+[133]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138484
+[134]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295441
+[135]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM5340700
+[136]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM152948
+[137]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1102349
+[138]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139307
+[139]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138885
+[140]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138893
+[141]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139302
+[142]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139303
+[143]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225172
+[144]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM223890
+[145]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM224504
+[146]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263058
+[147]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263431
+[148]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263435
+[149]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225484
+[150]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263421
+[151]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225491
+[152]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440300
+[153]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440865
+[154]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440920
+[155]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1441347
+[156]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138846
+[157]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138849
+[158]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM411004
+[159]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440866
+[160]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1440922
+[161]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM430983
+[162]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM126221
+[163]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM967974
+[164]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM296645
+[165]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3942692
+[166]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263825
+[167]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM263827
+[168]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM225992
+[169]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM68904
+[170]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM78863
+[171]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM111585
+[172]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65309
+[173]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM137641
+[174]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM298798
+[175]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM135350
+[176]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059504
+[177]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4152905
+[178]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM2998516
+[179]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM2998515
+[180]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM2998532
+[181]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[182]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM3942602
+[183]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1379800
