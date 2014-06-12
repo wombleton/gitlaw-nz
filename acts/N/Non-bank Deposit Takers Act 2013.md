@@ -2187,37 +2187,37 @@ Miscellaneous provisions
     
 *   (1) An exemption granted under [section 157G][243] of the Reserve Bank of New Zealand Act 1989 that is in force immediately before this section comes into force---
         
-    *   (a) continues in force as if it were granted under [section 70][268] of this Act; and
+    *   (a) continues in force as if it were granted under [section 70][98] of this Act; and
     
     *   (b) may be amended or revoked as if it were granted under that section.
     
     (2) Any amendment to or revocation of the following exemption notices granted under [section 157G][243] of the Reserve Bank of New Zealand Act 1989 must be treated as being an amendment to or revocation of a class exemption, and therefore be treated in accordance with [section 71(2)][99]: 
         
-    *   (a) [Deposit Takers (Charitable and Religious Organisations) Exemption Notice 2010][269]:
+    *   (a) [Deposit Takers (Charitable and Religious Organisations) Exemption Notice 2010][268]:
     
-    *   (b) [Deposit Takers (Credit Ratings Minimum Threshold) Exemption Notice 2009][270]:
+    *   (b) [Deposit Takers (Credit Ratings Minimum Threshold) Exemption Notice 2009][269]:
     
-    *   (c) [Deposit Takers (Non-trustee Entities Risk Management) Exemption Notice 2009][271].
+    *   (c) [Deposit Takers (Non-trustee Entities Risk Management) Exemption Notice 2009][270].
     
     (3) Any amendment to or revocation of any other exemption granted under [section 157G][243] of the Reserve Bank of New Zealand Act 1989 must be treated in accordance with [section 71(3)][99]. 
     
-    (4) A reference in an exemption granted under [section 157G][243] of the Reserve Bank of New Zealand Act 1989 to any provision in [Part 5D][272] of the Reserve Bank of New Zealand Act 1989 (ie, to any of [sections 157A to 157ZZ][146] of that Act) must be taken as a reference to a provision in this Act that corresponds (with or without modification) to that provision.
+    (4) A reference in an exemption granted under [section 157G][243] of the Reserve Bank of New Zealand Act 1989 to any provision in [Part 5D][271] of the Reserve Bank of New Zealand Act 1989 (ie, to any of [sections 157A to 157ZZ][146] of that Act) must be taken as a reference to a provision in this Act that corresponds (with or without modification) to that provision.
     
-    Compare: 2011 No 6 [s 54][273]
+    Compare: 2011 No 6 [s 54][272]
 
 ##### 89 Transitional references in Reserve Bank of New Zealand Act 1989
     
-*   Until the end of the transition period referred to in [section 87][120], the following provisions of the [Reserve Bank of New Zealand Act 1989][147] (all of which are amended by [Schedule 2][274] of this Act) must be read as if the references in them to a licensed NBDT were references to an NBDT: 
+*   Until the end of the transition period referred to in [section 87][120], the following provisions of the [Reserve Bank of New Zealand Act 1989][147] (all of which are amended by [Schedule 2][273] of this Act) must be read as if the references in them to a licensed NBDT were references to an NBDT: 
         
-    *   (a) [section 46(1)(b)][275]:
+    *   (a) [section 46(1)(b)][274]:
     
-    *   (b) [section 49(2)(h)(iii)][276]:
+    *   (b) [section 49(2)(h)(iii)][275]:
     
-    *   (c) [section 50(2)(d)(iii)][277]:
+    *   (c) [section 50(2)(d)(iii)][276]:
     
-    *   (d) [section 53(3)(f)(iii)][278]:
+    *   (d) [section 53(3)(f)(iii)][277]:
     
-    *   (e) [section 58(b)][279].
+    *   (e) [section 58(b)][278].
     
     
 
@@ -2225,25 +2225,25 @@ Miscellaneous provisions
 
 ##### 90 Amendment to Corporations (Investigation and Management) Act 1989
     
-*   (1) This section amends the [Corporations (Investigation and Management) Act 1989][280].
+*   (1) This section amends the [Corporations (Investigation and Management) Act 1989][279].
     
-    (2) [Section 8(3)][281] is amended by inserting "", non-bank deposit taker licensed under the Non-bank Deposit Takers Act 2013,"" after ""licensed insurer"".
+    (2) [Section 8(3)][280] is amended by inserting "", non-bank deposit taker licensed under the Non-bank Deposit Takers Act 2013,"" after ""licensed insurer"".
 
 #### Consequential and other amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008
 
 ##### 91 Amendments to Financial Service Providers (Registration and Dispute Resolution) Act 2008
     
-*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][282].
+*   (1) This section amends the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][281].
     
-    (2) [Section 5][283] is amended by repealing paragraph (b) and substituting the following paragraph:
+    (2) [Section 5][282] is amended by repealing paragraph (b) and substituting the following paragraph:
     
     > *   "(b) being a licensed NBDT, as defined in the Non-bank Deposit Takers Act 2013:"
     > 
     > 
     
-    (3) [Section 15(2)][284] is amended by adding "", unless otherwise agreed by the relevant licensing authority and the Registrar"".
+    (3) [Section 15(2)][283] is amended by adding "", unless otherwise agreed by the relevant licensing authority and the Registrar"".
     
-    (4) [Schedule 2][285] is amended by adding the following item to the table:
+    (4) [Schedule 2][284] is amended by adding the following item to the table:
     
     > Reserve Bank of New ZealandLicensed NBDTsNon-bank Deposit Takers Act 2013
     > 
@@ -2263,9 +2263,9 @@ Miscellaneous provisions
     
 *   The following regulations are revoked:
         
-    *   (a) [Deposit Takers (In Receivership or Liquidation) Exemption Notice 2009][286] (SR 2009/299):
+    *   (a) [Deposit Takers (In Receivership or Liquidation) Exemption Notice 2009][285] (SR 2009/299):
     
-    *   (b) [Deposit Takers (Persons Declared Not to be Deposit Takers) Regulations 2011][287] (SR 2011/359).
+    *   (b) [Deposit Takers (Persons Declared Not to be Deposit Takers) Regulations 2011][286] (SR 2011/359).
     
     
 
@@ -2462,9 +2462,9 @@ Material incorporated by reference
 
 ##### 7 Application of Legislation Act 2012
     
-*   (1) [Part 2][288] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
+*   (1) [Part 2][287] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
     
-    (2) [Subpart 1][289] of Part 3 of the Legislation Act 2012 applies to a regulation that incorporates material by reference.
+    (2) [Subpart 1][288] of Part 3 of the Legislation Act 2012 applies to a regulation that incorporates material by reference.
     
     (3) Despite [section 41][245] of the Legislation Act 2012, material incorporated by reference in regulations need not be presented to the House of Representatives.
 
@@ -2475,11 +2475,11 @@ Consequential amendments to Reserve Bank of New Zealand Act 1989
 
 [s 92(1)][128]
 
-##### [Section 39][290]
+##### [Section 39][289]
 
 Insert "", the Non-bank Deposit Takers Act 2013,"" after ""of this Act"".
 
-##### [Section 41][291]
+##### [Section 41][290]
 
 Subsection (1)(c): repeal and substitute:
 
@@ -2495,25 +2495,25 @@ Subsection (2): repeal and substitute:
 > 
 > 
 
-##### [Section 46(1)(b)][275]
+##### [Section 46(1)(b)][274]
 
 Omit ""or of a deposit taker as defined in section 157C"" and substitute ""or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013"".
 
-##### [Section 47][292]
+##### [Section 47][291]
 
 Subsection (1): add ""or the Non-bank Deposit Takers Act 2013"".
 
 Subsection (4): add ""or the Non-bank Deposit Takers Act 2013"".
 
-##### [Section 49(2)(h)(iii)][276]
+##### [Section 49(2)(h)(iii)][275]
 
 Omit ""or a deposit taker as defined in section 157C"" and substitute ""or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013"".
 
-##### [Section 50(2)(d)(iii)][277]
+##### [Section 50(2)(d)(iii)][276]
 
 Omit ""or a deposit taker as defined in section 157C"" and substitute ""or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013"".
 
-##### [Section 51][293]
+##### [Section 51][292]
 
 Subsection (5): omit ""under either of"" and substitute ""under any of"".
 
@@ -2529,15 +2529,15 @@ Subsection (9): add:
 > 
 > 
 
-##### [Section 53(3)(f)(iii)][278]
+##### [Section 53(3)(f)(iii)][277]
 
 Omit ""or a deposit taker as defined in section 157C"" and substitute ""or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013"".
 
-##### [Section 58(b)][279]
+##### [Section 58(b)][278]
 
 Insert ""or a licensed NBDT (as defined in the Non-bank Deposit Takers Act 2013)"" after ""licensed insurer"".
 
-##### [Section 66G(2)][294]
+##### [Section 66G(2)][293]
 
 Paragraph (e): insert ""or under the Non-bank Deposit Takers Act 2013"" after ""under this Act"".
 
@@ -2563,21 +2563,21 @@ Subsection (1): insert after paragraph (e):
 > 
 > 
 
-##### [Section 162AB(1)][295]
+##### [Section 162AB(1)][294]
 
 Paragraph (a): omit ""and Parts 5B to 5D and under"" and substitute "", Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and"".
 
 Paragraph (b): omit ""and Parts 5B to 5D and under"" and substitute "", Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and"".
 
-##### [Part 5D][272]
+##### [Part 5D][271]
 
 Repeal.
 
-##### [Schedule 3][296]
+##### [Schedule 3][295]
 
 Repeal.
 
-##### [Schedule 4][297]
+##### [Schedule 4][296]
 
 Repeal.
 
@@ -2591,13 +2591,13 @@ Consequential amendments to other enactments
 ## Part 1  
 Amendments to other Acts
 
-##### [Financial Advisers Act 2008][298] (2008 No 91)
+##### [Financial Advisers Act 2008][297] (2008 No 91)
 
-[Section 5][299]: definition of _approved rating agency_: omit ""Reserve Bank of New Zealand Act 1989"" and substitute ""Non-bank Deposit Takers Act 2013"".
+[Section 5][298]: definition of _approved rating agency_: omit ""Reserve Bank of New Zealand Act 1989"" and substitute ""Non-bank Deposit Takers Act 2013"".
 
-##### [Local Government Borrowing Act 2011][300] (2011 No 77)
+##### [Local Government Borrowing Act 2011][299] (2011 No 77)
 
-Heading above section 7 and [section 7][301]: repeal and substitute:
+Heading above section 7 and [section 7][300]: repeal and substitute:
 
 > #### "Application of Non-bank Deposit Takers Act 2013
 > 
@@ -2607,29 +2607,29 @@ Heading above section 7 and [section 7][301]: repeal and substitute:
 > 
 > 
 
-##### [Search and Surveillance Act 2012][302] (2012 No 24)
+##### [Search and Surveillance Act 2012][301] (2012 No 24)
 
-[Schedule][303]: insert in its appropriate alphabetical order:
+[Schedule][302]: insert in its appropriate alphabetical order:
 
 > Non-bank Deposit Takers Act 2013 52(1) Appointed person may enter and search any place by consent or with warrant for purpose of investigating whether offence committed All (except sections 118 and 119)
 > 
 > 
 
-Item relating to the Reserve Bank of New Zealand Act 1989 in the [Schedule][303]: omit so much of the item as relates to [section 157ZM(1)][304] of that Act.
+Item relating to the Reserve Bank of New Zealand Act 1989 in the [Schedule][302]: omit so much of the item as relates to [section 157ZM(1)][303] of that Act.
 
-##### [Securities Trustees and Statutory Supervisors Act 2011][305] (2011 No 10)
+##### [Securities Trustees and Statutory Supervisors Act 2011][304] (2011 No 10)
 
-Definition of _deposit taker_ in [section 4(1)][306]: repeal and substitute:
+Definition of _deposit taker_ in [section 4(1)][305]: repeal and substitute:
 
 > "_deposit taker_ means an NBDT as defined in section 5 of the Non-bank Deposit Takers Act 2013".
 
-Paragraph (f) of the definition of _issuer obligation_ in [section 4(1)][306]: repeal and substitute:
+Paragraph (f) of the definition of _issuer obligation_ in [section 4(1)][305]: repeal and substitute:
 
 > *   "(f) the Non-bank Deposit Takers Act 2013:".
 > 
 > 
 
-Paragraph (f) of the definition of _licensee obligation_ in [section 4(1)][306]: repeal and substitute:
+Paragraph (f) of the definition of _licensee obligation_ in [section 4(1)][305]: repeal and substitute:
 
 > *   "(f) the Non-bank Deposit Takers Act 2013:".
 > 
@@ -2644,53 +2644,53 @@ Enacting statement: omit ""sections 157B, 157K, 157S, 157V, and 157ZY of the Res
 
 Enacting statement: omit ""in accordance with section 157E and taking into account the principles in section 157F"" and substitute ""in accordance with section 76 and taking into account the principles in section 8"".
 
-Definition of _Act_ in [regulation 3(1)][307]: repeal and substitute:
+Definition of _Act_ in [regulation 3(1)][306]: repeal and substitute:
 
 > "_Act_ means the Non-bank Deposit Takers Act 2013".
 
-[Regulation 3(1)][307]: insert in their appropriate alphabetical order:
+[Regulation 3(1)][306]: insert in their appropriate alphabetical order:
 
 > "_deposit taker_ means a licensed NBDT as defined in the Act
 > 
 > "_holding company_ means a company that has subsidiaries; and a company is another company's holding company if, but only if, that other company is its subsidiary".
 
-Definition of _asset sale with recourse_ in [regulation 3(1)][307]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
+Definition of _asset sale with recourse_ in [regulation 3(1)][306]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
 
-Definition of _credit rating_ in [regulation 3(1)][307]: omit ""section 157I"" and substitute ""section 23"".
+Definition of _credit rating_ in [regulation 3(1)][306]: omit ""section 157I"" and substitute ""section 23"".
 
-Definition of _direct credit substitute_ in [regulation 3(1)][307]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
+Definition of _direct credit substitute_ in [regulation 3(1)][306]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
 
-Definition of _forward asset purchase_ in [regulation 3(1)][307]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
+Definition of _forward asset purchase_ in [regulation 3(1)][306]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
 
-Definition of _group member_ in [regulation 3(1)][307]: repeal.
+Definition of _group member_ in [regulation 3(1)][306]: repeal.
 
-Definition of _related party_ in [regulation 3(1)][307]: omit ""in regulation 4"" and substitute ""in section 6 of the Act"".
+Definition of _related party_ in [regulation 3(1)][306]: omit ""in regulation 4"" and substitute ""in section 6 of the Act"".
 
-Definition of _substantial interest_ in [regulation 3(1)][307]: repeal.
+Definition of _substantial interest_ in [regulation 3(1)][306]: repeal.
 
 [Regulation 4][159]: repeal.
 
-[Regulation 5(2)(a)][308]: omit ""despite regulation 4(2)"" and substitute ""despite the definition of related party"".
+[Regulation 5(2)(a)][307]: omit ""despite regulation 4(2)"" and substitute ""despite the definition of related party"".
 
-[Regulation 6][309]: omit ""section 157I(a)"" and substitute ""section 23(1)(a)"".
+[Regulation 6][308]: omit ""section 157I(a)"" and substitute ""section 23(1)(a)"".
 
-[Regulation 10(3)(e)][310]: omit ""member of the borrowing group's"" and substitute ""guaranteeing subsidiary's"".
+[Regulation 10(3)(e)][309]: omit ""member of the borrowing group's"" and substitute ""guaranteeing subsidiary's"".
 
-[Regulation 14(5)][311]: omit ""within the meaning of section 5 of the Companies Act 1993"".
+[Regulation 14(5)][310]: omit ""within the meaning of section 5 of the Companies Act 1993"".
 
-[Regulation 16(2)][312]: omit ""members of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiaries"".
+[Regulation 16(2)][311]: omit ""members of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiaries"".
 
-[Regulation 17(2)(a)(ii)][313]: omit ""members of the borrowing group"" and substitute ""guaranteeing subsidiaries"".
+[Regulation 17(2)(a)(ii)][312]: omit ""members of the borrowing group"" and substitute ""guaranteeing subsidiaries"".
 
-[Regulation 19(2)][314]: omit ""member of the borrowing group"" and substitute ""guaranteeing subsidiary"".
+[Regulation 19(2)][313]: omit ""member of the borrowing group"" and substitute ""guaranteeing subsidiary"".
 
-[Regulation 20][315]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
+[Regulation 20][314]: omit ""member of the borrowing group"" in each place where it appears and substitute in each case ""guaranteeing subsidiary"".
 
-[Regulation 23(2)][316]: omit ""section 157ZD"" and substitute ""section 79"".
+[Regulation 23(2)][315]: omit ""section 157ZD"" and substitute ""section 79"".
 
-[Regulation 25(1)][317]: omit ""member of its borrowing group"" and substitute ""guaranteeing subsidiary"".
+[Regulation 25(1)][316]: omit ""member of its borrowing group"" and substitute ""guaranteeing subsidiary"".
 
-[Regulation 26(1)(b)][318]: omit ""member of the borrowing group"" and substitute ""guaranteeing subsidiary"".
+[Regulation 26(1)(b)][317]: omit ""member of the borrowing group"" and substitute ""guaranteeing subsidiary"".
 
 ##### [Deposit Takers (Liquidity Requirements) Regulations 2010][267] (SR 2010/351)
 
@@ -2700,7 +2700,7 @@ Enacting statement: omit ""section 157E"" and substitute ""section 76"".
 
 Enacting statement: omit ""section 157F"" and substitute ""section 8"".
 
-New regulation 2A: insert after [regulation 2][319]:
+New regulation 2A: insert after [regulation 2][318]:
 
 > ##### "2A Interpretation
 >     
@@ -2715,39 +2715,39 @@ Amendments relating to financial markets legislation
 
 [s 102][140]
 
-##### [Financial Markets Conduct Act 2013][320] (2013 No 69)
+##### [Financial Markets Conduct Act 2013][319] (2013 No 69)
 
-[Section 6(1)][321]: insert in its appropriate alphabetical order:
+[Section 6(1)][320]: insert in its appropriate alphabetical order:
 
 > "_NBDT_ has the same meaning as in section 5 of the Non-bank Deposit Takers Act 2013".
 
-Paragraph (f) of the definition of _issuer obligation_ in [section 6(1)][321]: repeal and substitute:
+Paragraph (f) of the definition of _issuer obligation_ in [section 6(1)][320]: repeal and substitute:
 
 > *   "(f) the Non-bank Deposit Takers Act 2013".
 > 
 > 
 
-Definition of _approved rating agency_ in [section 60(3)][322]: insert "", section 86 of the Non-bank Deposit Takers Act 2013,"" after ""1989"".
+Definition of _approved rating agency_ in [section 60(3)][321]: insert "", section 86 of the Non-bank Deposit Takers Act 2013,"" after ""1989"".
 
-[Clause 37(1)(c)][323] of Schedule 1: repeal and substitute:
+[Clause 37(1)(c)][322] of Schedule 1: repeal and substitute:
 
 > *   "(c) an NBDT; or".
 > 
 > 
 
-##### [Financial Markets (Repeals and Amendments) Act 2013][324] (2013 No 70)
+##### [Financial Markets (Repeals and Amendments) Act 2013][323] (2013 No 70)
 
-Items relating to [sections 157B(1)][155], [157C(1)(a)(i) and (c)(i) and (2) to (4)][156], and [157D][325] of the Reserve Bank of New Zealand Act 1989 in the [Schedule][326]: omit.
+Items relating to [sections 157B(1)][155], [157C(1)(a)(i) and (c)(i) and (2) to (4)][156], and [157D][324] of the Reserve Bank of New Zealand Act 1989 in the [Schedule][325]: omit.
 
-##### [Financial Markets Supervisors Act 2011][305] (2011 No 10)
+##### [Financial Markets Supervisors Act 2011][304] (2011 No 10)
 
-Paragraph (g) of the definition of _issuer obligation_ in [section 4(1)][306]: repeal and substitute:
+Paragraph (g) of the definition of _issuer obligation_ in [section 4(1)][305]: repeal and substitute:
 
 > *   "(g) the Non-bank Deposit Takers Act 2013".
 > 
 > 
 
-Paragraph (g) of the definition of _licensee obligation_ in [section 4(1)][306]: repeal and substitute:
+Paragraph (g) of the definition of _licensee obligation_ in [section 4(1)][305]: repeal and substitute:
 
 > *   "(g) the Non-bank Deposit Takers Act 2013:".
 > 
@@ -2765,11 +2765,11 @@ Paragraph (g) of the definition of _licensee obligation_ in [section 4(1)][306]:
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][327] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][328] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][326] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][327] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][329] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][330] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][328] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][329] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
@@ -3045,66 +3045,65 @@ Paragraph (g) of the definition of _licensee obligation_ in [section 4(1)][306]:
 [265]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607355
 [266]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3032712
 [267]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3245406
-[268]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200342
-[269]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2941600
-[270]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2202117
-[271]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2273400
-[272]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607314
-[273]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3638235
-[274]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM202463
-[275]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200037
-[276]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200045
-[277]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200046
-[278]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200051
-[279]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200060
-[280]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM144263
-[281]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM144299
-[282]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109400
-[283]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109499
-[284]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109513
-[285]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1585437
-[286]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2409400
-[287]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4043900
-[288]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2997693
-[289]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998558
-[290]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200028
-[291]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200032
-[292]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200042
-[293]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200048
-[294]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200309
-[295]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607578
-[296]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1608204
-[297]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1608212
-[298]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1584200
-[299]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1584508
-[300]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3620700
-[301]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3620720
-[302]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2136500
-[303]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4356950
-[304]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607394
-[305]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2651100
-[306]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2651125
-[307]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3032719
-[308]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031912
-[309]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3032778
-[310]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031953
-[311]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031989
-[312]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031993
-[313]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031970
-[314]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031966
-[315]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031932
-[316]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031975
-[317]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031979
-[318]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031981
-[319]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3245411
-[320]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090503
-[321]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090590
-[322]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090999
-[323]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4092469
-[324]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM5561103
-[325]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607348
-[326]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM5561604
-[327]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998516
-[328]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998515
-[329]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998532
-[330]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[268]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2941600
+[269]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2202117
+[270]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2273400
+[271]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607314
+[272]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3638235
+[273]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM202463
+[274]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200037
+[275]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200045
+[276]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200046
+[277]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200051
+[278]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200060
+[279]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM144263
+[280]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM144299
+[281]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109400
+[282]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109499
+[283]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1109513
+[284]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1585437
+[285]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2409400
+[286]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4043900
+[287]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2997693
+[288]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998558
+[289]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200028
+[290]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200032
+[291]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200042
+[292]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200048
+[293]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM200309
+[294]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607578
+[295]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1608204
+[296]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1608212
+[297]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1584200
+[298]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1584508
+[299]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3620700
+[300]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3620720
+[301]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2136500
+[302]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4356950
+[303]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607394
+[304]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2651100
+[305]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2651125
+[306]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3032719
+[307]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031912
+[308]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3032778
+[309]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031953
+[310]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031989
+[311]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031993
+[312]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031970
+[313]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031966
+[314]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031932
+[315]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031975
+[316]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031979
+[317]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3031981
+[318]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM3245411
+[319]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090503
+[320]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090590
+[321]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4090999
+[322]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM4092469
+[323]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM5561103
+[324]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM1607348
+[325]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM5561604
+[326]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998516
+[327]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998515
+[328]: http://www.legislation.govt.nz/act/public/2013/0104/latest/link.aspx?id=DLM2998532
+[329]: http://www.pco.parliament.govt.nz/editorial-conventions/
