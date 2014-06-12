@@ -1585,7 +1585,7 @@ Preliminary provisions
         
     *   (a) a notice of recognition given to a recognised agency or a recognised person in accordance with [section 148(1)(b)][196]; or
     
-    *   (b) a notification given to a recognised class in accordance with section 148(1)(c)(i)
+    *   (b) a notification given to a recognised class in accordance with [section 148(1)(c)(i)][196]
     
     _official template or model_, in relation to a food control plan, means a template or model---
         
@@ -4710,7 +4710,7 @@ Provisions relating to recognition, territorial authorities, administration, and
         
         
     
-    *   (d) set out the right of the recognised agency, recognised person, or recognised class (under section 355) to seek a review of the decision to withdraw the recognition.
+    *   (d) set out the right of the recognised agency, recognised person, or recognised class (under [section 355][447]) to seek a review of the decision to withdraw the recognition.
     
     (3) The chief executive may notify any withdrawal of recognition in the _Gazette_.
     
@@ -12756,7 +12756,7 @@ Public register of recognised agencies, recognised persons, and recognised class
 
 ##### 8 Requirement for, and purpose of, public register of recognised agencies, recognised persons, and recognised classes
     
-*   (1) The chief executive must keep and maintain a public register of the following that are recognised under subpart 1 of Part 4 of this Act:
+*   (1) The chief executive must keep and maintain a public register of the following that are recognised under [subpart 1 of Part 4][179] of this Act:
         
     *   (a) recognised agencies:
     
@@ -12810,7 +12810,7 @@ Public register of recognised agencies, recognised persons, and recognised class
             
             
         
-        *   (iii) a list of any members, or a description of any categories of members, within the class that are excluded from the recognised class in accordance with [section 141(5)][188]; and
+        *   (iii) a list of any members, or a description of any categories of members, within the class that are excluded from the recognised class in accordance with [section 141(5)][188] ; and
         
         *   (iv) any suspension of the class's recognition; and
         
