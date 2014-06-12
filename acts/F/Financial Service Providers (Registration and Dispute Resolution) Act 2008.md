@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2014
+as at 7 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -319,7 +319,7 @@ Preliminary provisions
 
 ##### 3 Overview
     
-*   (1) This Act requires financial service providers to be registered. 
+*   (1) This Act requires financial service providers to be registered.
     
     (2) In order to be registered, financial service providers are generally required to be members of a dispute resolution scheme if they provide financial services to retail clients.
     
@@ -1626,7 +1626,7 @@ Dispute resolution
     
     *   (b) if the decision is to approve the application, ensure that---
             
-        *   (i) the approval is published in the _Gazette_; and 
+        *   (i) the approval is published in the _Gazette_; and
         
         *   (ii) the chief executive updates the details described in [section 78(2)][117].
         
@@ -2082,11 +2082,17 @@ Dispute resolution
     
 *   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
         
-    *   (a) exempting any person or class of persons from the obligation to be a member of either an approved dispute resolution scheme or the reserve scheme, and prescribing the terms and conditions (if any) of the exemption:
+    *   (a) exempting any person or class of persons from the obligation to be a member of an approved dispute resolution scheme and prescribing the terms and conditions (if any) of the exemption:
+    
+    *   (aa) providing rules for an interim dispute resolution scheme:
     
     *   (b) prescribing the information or documents to be supplied to the Minister as part of an application under this Part:
     
     *   (c) prescribing processes for applications for the approval of dispute resolution schemes:
+    
+    *   (ca) prescribing matters for the purposes of [section 63(1)(g)(ii) and (s)][95]:
+    
+    *   (cb) prescribing provisions to be implied into rules about approved dispute resolution schemes:
     
     *   (d) prescribing rules for a class of approved dispute resolution scheme or for all approved dispute resolution schemes in the event that approval of those schemes is withdrawn:
     
@@ -2108,6 +2114,26 @@ Dispute resolution
     
     *   (b) the costs of compliance with the obligation would be unreasonable or not justified by the benefits of compliance.
     
+    (1B) The Minister must not recommend the making of regulations under subsection (1)(aa) unless the Minister---
+        
+    *   (a) is satisfied that---
+            
+        *   (i) members of a scheme that has ceased, or will cease, to be an approved dispute resolution scheme would be, or are, unable to reasonably become members of another approved dispute resolution scheme; and
+        
+        *   (ii) the interim dispute resolution scheme will be consistent with the purpose of this Part (_see_ [section 47][66]); and
+        
+        *   (iii) the interim dispute resolution scheme will be capable of providing a scheme for the purpose of this Part; and
+        
+        *   (iv) the rules of the interim dispute resolution scheme will comply with [section 63][95]; and
+        
+        
+    
+    *   (b) has consulted the FMA and any other persons that the Minister considers are likely to be substantially affected by the establishment of an interim dispute resolution scheme.
+    
+    (1C) The Minister must not recommend the making of regulations under subsection (1)(ca) or (cb) unless the Minister has consulted the FMA and any other persons that the Minister considers are likely to be substantially affected by the regulations.
+    
+    (1D) However, a failure to consult with the persons referred to in subsection (1B)(b) or (1C) does not affect the validity of the regulations.
+    
     (2) The Minister may refuse to make a decision under this Part until the prescribed fee is paid.
     
     (3) Any Order in Council made under subsection (1) may---
@@ -2122,11 +2148,25 @@ Dispute resolution
     
     Section 79(1)(a): substituted, on 1 July 2010, by [section 35(2)][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
+    Section 79(1)(a): amended, on 7 June 2014, by [section 43(1)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
+    Section 79(1)(aa): inserted, on 7 June 2014, by [section 43(2)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
+    Section 79(1)(ca): inserted, on 7 June 2014, by [section 43(3)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
+    Section 79(1)(cb): inserted, on 7 June 2014, by [section 43(3)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
     Section 79(1A): inserted, on 1 July 2010, by [section 35(3)][218] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    
+    Section 79(1B): inserted, on 7 June 2014, by [section 43(4)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
+    Section 79(1C): inserted, on 7 June 2014, by [section 43(4)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
+    
+    Section 79(1D): inserted, on 7 June 2014, by [section 43(4)][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
 
 #### Pecuniary and compensatory orders for contravening wholesale certification requirement
     
-*   Heading: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Heading: inserted, on 1 July 2010, by [section 36][220] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 ##### 79A Pecuniary order for contravening wholesale certification requirement
     
@@ -2148,9 +2188,9 @@ Dispute resolution
     
     (5) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
     
-    Section 79A: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79A: inserted, on 1 July 2010, by [section 36][220] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79A(1): amended, on 1 May 2011, by [section 82][220] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 79A(1): amended, on 1 May 2011, by [section 82][221] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 79B Compensation for contravention of wholesale certification requirement
     
@@ -2164,9 +2204,9 @@ Dispute resolution
     
     (5) In proceedings under this section, the court may make such orders as it thinks fit.
     
-    Section 79B: inserted, on 1 July 2010, by [section 36][219] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+    Section 79B: inserted, on 1 July 2010, by [section 36][220] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
     
-    Section 79B(2): amended, on 1 May 2011, by [section 82][220] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 79B(2): amended, on 1 May 2011, by [section 82][221] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Review and report on operation of this Part
 
@@ -2197,7 +2237,7 @@ Consequential amendment
 
 ##### [Privacy Act 1993][186] (1993 No 28)
 
-Part 1 of [Schedule 2][221]: insert the following item in its appropriate alphabetical order:
+Part 1 of [Schedule 2][222]: insert the following item in its appropriate alphabetical order:
 
 > Financial Service Providers (Registration and Dispute Resolution) Act 2008 [Section 24][36]
 > 
@@ -2224,17 +2264,17 @@ Financial Markets Authority Authorised financial advisers and qualifying financi
 
 Reserve Bank of New Zealand Registered banks [Reserve Bank of New Zealand Act 1989][151]
 
-Financial Markets Authority Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees [Securities Trustees and Statutory Supervisors Act 2011][222]
+Financial Markets Authority Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees [Securities Trustees and Statutory Supervisors Act 2011][223]
 
-Reserve Bank of New Zealand Licensed insurers [Insurance (Prudential Supervision) Act 2010][223]
+Reserve Bank of New Zealand Licensed insurers [Insurance (Prudential Supervision) Act 2010][224]
 
-Financial Markets Authority Persons who hold, or are authorised bodies under, a market services licence [Financial Markets Conduct Act 2013][224]
+Financial Markets Authority Persons who hold, or are authorised bodies under, a market services licence [Financial Markets Conduct Act 2013][225]
 
 *   Schedule 2: amended, on 1 April 2014, by [section 150][154] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
-*   Schedule 2: amended, on 7 September 2013, by [section 242][225] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+*   Schedule 2: amended, on 7 September 2013, by [section 242][226] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 *   Schedule 2: amended, on 1 October 2011, by [section 61(3)][155] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 *   Schedule 2: amended, on 1 May 2011, by [section 84(1)][212] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 2: amended, on 1 July 2010, by [section 37][226] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
+*   Schedule 2: amended, on 1 July 2010, by [section 37][227] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010 (2010 No 41).
 
 #### 
 
@@ -2248,15 +2288,17 @@ Financial Markets Authority Persons who hold, or are authorised bodies under, a 
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][227] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][228] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][228] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][229] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][229] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][230] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][230] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][231] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 91(3)][176]
+*   [Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014][232] (2014 No 34)
+    
+    Non-bank Deposit Takers Act 2013 (2013 No 104): [section 91(3)][176]
     
     Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][154]
     
@@ -2264,13 +2306,13 @@ Financial Markets Authority Persons who hold, or are authorised bodies under, a 
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 61][155]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][220], [84(1)][212]
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][221], [84(1)][212]
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 242][225]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 242][226]
     
-    [Financial Service Providers (Registration and Dispute Resolution) Act Commencement Order 2010][231] (SR 2010/231)
+    [Financial Service Providers (Registration and Dispute Resolution) Act Commencement Order 2010][233] (SR 2010/231)
     
-    [Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010][232] (2010 No 41)
+    [Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2010][234] (2010 No 41)
 
 
 
@@ -2493,17 +2535,19 @@ Financial Markets Authority Persons who hold, or are authorised bodies under, a 
 [216]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053685
 [217]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053686
 [218]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053689
-[219]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053690
-[220]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231793
-[221]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM298476
-[222]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2651100
-[223]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2478100
-[224]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM4090503
-[225]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3005143
-[226]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053694
-[227]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998516
-[228]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998515
-[229]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998532
-[230]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[231]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3149922
-[232]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053600
+[219]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM6109868
+[220]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053690
+[221]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3231793
+[222]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM298476
+[223]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2651100
+[224]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2478100
+[225]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM4090503
+[226]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3005143
+[227]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053694
+[228]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998516
+[229]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998515
+[230]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM2998532
+[231]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[232]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM6109801
+[233]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3149922
+[234]: http://www.legislation.govt.nz/act/public/2008/0097/latest/link.aspx?id=DLM3053600
