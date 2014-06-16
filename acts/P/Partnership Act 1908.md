@@ -272,9 +272,11 @@ The general law relating to partners
 
 ##### 6 Rights of person lending or selling in consideration of share of profits in case of bankruptcy
     
-*   In the event of any person to whom money has been advanced by way of loan upon such a contract as is mentioned in the last preceding section, or of any buyer of a goodwill in consideration of a share of the profits of the business, being adjudged a bankrupt, entering into an arrangement to pay his creditors less than 20 shillings in the pound, or dying in insolvent circumstances, the lender of the loan shall not be entitled to recover anything in respect of his loan, and the seller of the goodwill shall not be entitled to recover anything in respect of the share of profits contracted for, until the claims of the other creditors of the borrower or buyer for valuable consideration in money or money's worth have been satisfied.
+*   In the event of any person to whom money has been advanced by way of loan upon such a contract as is mentioned in the last preceding section, or of any buyer of a goodwill in consideration of a share of the profits of the business, being adjudged a bankrupt, entering into an arrangement to pay his creditors less than 100 cents in the dollar, or dying in insolvent circumstances, the lender of the loan shall not be entitled to recover anything in respect of his loan, and the seller of the goodwill shall not be entitled to recover anything in respect of the share of profits contracted for, until the claims of the other creditors of the borrower or buyer for valuable consideration in money or money's worth have been satisfied.
     
     Compare: 1891 No 6 s 6; Partnership Act 1890 s 3 (UK)
+    
+    Section 6: amended, on 10 July 1967, by section 14(1) of the Decimal Currency Amendment Act 1965 (1965 No 124).
 
 ##### 7 Meaning of ""firm""
     
