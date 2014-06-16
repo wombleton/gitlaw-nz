@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 7 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -357,13 +357,13 @@ This Act is administered by the Ministry for Primary Industries.
 
 [36][164][][164][Duty of officer to procure sample for analysis on request][164]
 
-[37][165][][165][Statements by Director-General][165]
+[37][165][][165][Statements by Director-General][165] \[Repealed\]
 
 [38][166][][166][Examination of Customs entries][166]
 
 [39][167][][167][Protection of persons acting under authority of Act][167]
 
-[40][168][][168][Recall of food][168]
+[40][168][][168][Recall of food][168] \[Repealed\]
 
 [41][169][][169][Records][169]
 
@@ -3285,11 +3285,9 @@ Miscellaneous provisions
 
 ##### 37 Statements by Director-General
     
-*   (1) The Director-General may from time to time, for the purpose of protecting the public, publish statements relating to any food or appliance, or to any matter contained or implied in advertisements, either generally or in any particular advertisement or class or classes of advertisements, relating to any food or appliance.
+*   \[Repealed\]
     
-    (2) Every statement published under this section shall be protected by qualified privilege.
-    
-    Compare: 1969 No 7 s 42; 1979 No 27 s 77
+    Section 37: repealed, on 7 June 2014, by [section 420(1)][257] of the Food Act 2014 (2014 No 32).
 
 ##### 38 Examination of Customs entries
     
@@ -3307,11 +3305,9 @@ Miscellaneous provisions
 
 ##### 40 Recall of food
     
-*   (1) The Minister may, for the purpose of protecting the public, issue to any importer, manufacturer, or seller of food, an order directing the recall of any food or appliance, or requiring the destruction or denaturing of any food that is unsound or unfit for human consumption or is damaged or deteriorated or perished, or that is contaminated with any poisonous, deleterious, or injurious substance.
+*   \[Repealed\]
     
-    (2) The importer, manufacturer, or seller shall, on receipt of the recall order, advise the Minister of the details of the manner in which he proposes to comply with the order, and shall give written notice to the Minister when the recall has been completed.
-    
-    (3) Every person commits an offence against this Act who fails to comply in any respect with any of the provisions of this section or any order issued under this section.
+    Section 40: repealed, on 7 June 2014, by [section 420(1)][257] of the Food Act 2014 (2014 No 32).
 
 ##### 41 Records
     
@@ -3321,7 +3317,7 @@ Miscellaneous provisions
     
     (3) Every person commits an offence against this Act who contravenes or fails to comply in any respect with any of the provisions of this section.
     
-    Section 41(1): amended, on 1 July 1996, by [section 24][257] of the Food Amendment Act 1996 (1996 No 41).
+    Section 41(1): amended, on 1 July 1996, by [section 24][258] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 42 Regulations
     
@@ -3413,7 +3409,7 @@ Miscellaneous provisions
     
     (2) The Minister may, by notice in the _Gazette_, vary for such period (not exceeding 12 months) as may be specified in the notice, any requirement imposed by any such regulations on any specified thing that may be contained in any food, or may, in like manner, permit the addition of a specified thing, or of a specified thing in any quantity or proportion to a food, or may vary any labelling requirement.
     
-    (2A) The Minister, before recommending the making of any regulation under subsection (1) or before giving notice in the _Gazette_ in accordance with subsection (2), must consult the Environmental Protection Authority established by [section 7][258] of the Environmental Protection Authority Act 2011 about the contents of any such regulations or notice relating to the appearance in food of any substance with toxic properties.
+    (2A) The Minister, before recommending the making of any regulation under subsection (1) or before giving notice in the _Gazette_ in accordance with subsection (2), must consult the Environmental Protection Authority established by [section 7][259] of the Environmental Protection Authority Act 2011 about the contents of any such regulations or notice relating to the appearance in food of any substance with toxic properties.
     
     (3) Any regulations under this section may be made applicable either to foods generally or to specified foods only.
     
@@ -3425,31 +3421,31 @@ Miscellaneous provisions
     
     Compare: 1969 No 7 s 46; 1979 No 27 s 82
     
-    Section 42(1)(d): amended, on 18 June 2002, by [section 16(1)(a)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(d): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(e): amended, on 18 June 2002, by [section 16(1)(b)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(e): amended, on 18 June 2002, by [section 16(1)(b)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(f): amended, on 18 June 2002, by [section 16(1)(a)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(f): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(g): amended, on 18 June 2002, by [section 16(1)(a)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(g): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
     
     Section 42(1)(i): substituted, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(j): amended, on 18 June 2002, by [section 16(1)(c)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(j): amended, on 18 June 2002, by [section 16(1)(c)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(q): amended, on 18 June 2002, by [section 16(1)(d)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(q): amended, on 18 June 2002, by [section 16(1)(d)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(u): substituted, on 18 June 2002, by [section 16(2)][259] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(u): substituted, on 18 June 2002, by [section 16(2)][260] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(y): amended, on 1 July 1996, by [section 25(1)][260] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(y): amended, on 1 July 1996, by [section 25(1)][261] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(1)(zb): repealed, on 1 July 1996, by [section 25(2)][260] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(zb): repealed, on 1 July 1996, by [section 25(2)][261] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(1)(zc): substituted, on 1 July 1996, by [section 25(2)][260] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(zc): substituted, on 1 July 1996, by [section 25(2)][261] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(2A): inserted, on 2 July 2001, by [section 149][261] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 42(2A): inserted, on 2 July 2001, by [section 149][262] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 42(2A): amended, on 1 July 2011, by [section 53(1)][262] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 42(2A): amended, on 1 July 2011, by [section 53(1)][263] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
     Section 42(6): added, on 8 March 1985, by section 2 of the Food Amendment Act 1985 (1985 No 18).
 
@@ -3507,13 +3503,13 @@ Miscellaneous provisions
     
     in respect of different classes of persons, foods, or other matters.
     
-    Section 42A: inserted, on 1 July 1996, by [section 26][263] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42A: inserted, on 1 July 1996, by [section 26][264] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42A(1): substituted, on 1 July 2002, by [section 6][264] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1): substituted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42A(1A): inserted, on 1 July 2002, by [section 6][264] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1A): inserted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42A(1B): inserted, on 1 July 2002, by [section 6][264] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1B): inserted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
 
 #### 
 
@@ -3527,21 +3523,23 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][265] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][266] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][266] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][267] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][267] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][268] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][268] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][269] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][222]
+*   Food Act 2014 (2014 No 32): [section 420(1)][257]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][222]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 253][239]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][208]
     
-    Environmental Protection Act 2011 (2011 No 14): [section 53(1)][262]
+    Environmental Protection Act 2011 (2011 No 14): [section 53(1)][263]
     
     Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27): [section 10][200]
     
@@ -3549,17 +3547,17 @@ Miscellaneous provisions
     
     Local Government Act 2002 (2002 No 84): [section 262][186]
     
-    [Food Amendment Act 2002][269] (2002 No 26)
+    [Food Amendment Act 2002][270] (2002 No 26)
     
     Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][199]
     
-    [Food Amendment Act (No 2) 1996][270] (1996 No 97)
+    [Food Amendment Act (No 2) 1996][271] (1996 No 97)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section  149][261]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][262]
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][183]
     
-    [Food Amendment Act 1996][271] (1996 No 41)
+    [Food Amendment Act 1996][272] (1996 No 41)
     
     Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][192]
     
@@ -3834,18 +3832,19 @@ Miscellaneous provisions
 [254]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392221
 [255]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392222
 [256]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392223
-[257]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392224
-[258]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366850
-[259]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147157
-[260]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392225
-[261]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM385160
-[262]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366997
-[263]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392226
-[264]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147131
-[265]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998516
-[266]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998515
-[267]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998532
-[268]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[269]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147111
-[270]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403249
-[271]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392200
+[257]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2996583
+[258]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392224
+[259]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366850
+[260]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147157
+[261]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392225
+[262]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM385160
+[263]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366997
+[264]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392226
+[265]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147131
+[266]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998516
+[267]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998515
+[268]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998532
+[269]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[270]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147111
+[271]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403249
+[272]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392200
