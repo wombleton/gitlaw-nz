@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2014
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1623,6 +1623,8 @@ The Parliament of New Zealand enacts as follows:
     (4) In this section, _provision_ includes any item, or any part of an item, in any of the schedules.
     
     Section 2(2): Part 1, Part 2 (other than sections 23--27 and 34--37), those provisions of Part 6 not already in force (other than sections 388, 389, 422(a), 429(a) and (b), and subpart 6), Part 7, Part 8 (other than sections 470--473, 510 and 511), section 597 (but only for the purpose of the provisions of Schedule 4 that are coming into force under paragraph (h)), clauses 1, 2, 6, 8, 9, 10, 12--14, 15, 19, 21 (other than paragraph (b)), 25--29, 48 and 49 of Schedule 1, clauses 1--3, 13(2) and (3), 14, 51, 58, and 59 of Schedule 4 brought into force, on 1 April 2014, by [clause 2(1)][785] of the Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51).
+    
+    Section 2(2): sections 23 to 27 brought into force, on 17 June 2014, by [clause 2(2)][785] of the Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51).
 
 ## Part 1  
 Preliminary provisions
@@ -16237,7 +16239,7 @@ Other transitional provisions on enactment of this Act
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51): [clause 2(1)][785]
+*   Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51): [clause 2][785]
     
     Non-bank Deposit Takers Act 2013 (2013 No 104): [section 102][841]
     
