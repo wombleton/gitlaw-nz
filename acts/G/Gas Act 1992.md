@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -156,265 +156,267 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [43E][64][][64][Access to dispute resolution scheme][64]
 
-[43EA][65][][65][Membership of dispute resolution scheme][65]
+[43EAA][65][][65][Indemnity disputes][65]
 
-[43EB][66][][66][Compliance with rules and binding settlements][66]
+[43EA][66][][66][Membership of dispute resolution scheme][66]
 
-[43EC][67][][67][Offence to fail to comply with District Court order][67]
+[43EB][67][][67][Compliance with rules and binding settlements][67]
 
-[Gas industry regulation-making powers][68]
+[43EC][68][][68][Offence to fail to comply with District Court order][68]
 
-[43F][69][][69][Gas governance regulations for wholesale market, processing facilities, transmission, and distribution of gas][69]
+[Gas industry regulation-making powers][69]
 
-[43G][70][][70][Other gas governance regulations][70]
+[43F][70][][70][Gas governance regulations for wholesale market, processing facilities, transmission, and distribution of gas][70]
 
-[43H][71][][71][Low fixed charge tariff option for domestic consumers][71]
+[43G][71][][71][Other gas governance regulations][71]
 
-[Process for making recommendations for gas governance regulations][72]
+[43H][72][][72][Low fixed charge tariff option for domestic consumers][72]
 
-[43I][73][][73][Which gas governance regulations can be made if there is no industry body or Commission][73]
+[Process for making recommendations for gas governance regulations][73]
 
-[43J][74][][74][Which gas governance regulations can be made if there is industry body but no Commission][74]
+[43I][74][][74][Which gas governance regulations can be made if there is no industry body or Commission][74]
 
-[43K][75][][75][Which gas governance regulations can be made if there is Commission][75]
+[43J][75][][75][Which gas governance regulations can be made if there is industry body but no Commission][75]
 
-[43L][76][][76][Consultation before making recommendation for gas governance regulations][76]
+[43K][76][][76][Which gas governance regulations can be made if there is Commission][76]
 
-[43M][77][][77][Other process for making recommendations for gas governance regulations][77]
+[43L][77][][77][Consultation before making recommendation for gas governance regulations][77]
 
-[43N][78][][78][Assessment of proposed gas governance regulations][78]
+[43M][78][][78][Other process for making recommendations for gas governance regulations][78]
 
-[43O][79][][79][Process after making recommendation for gas governance regulation][79]
+[43N][79][][79][Assessment of proposed gas governance regulations][79]
 
-[43P][80][][80][Urgent regulations][80]
+[43O][80][][80][Process after making recommendation for gas governance regulation][80]
 
-[Gas governance rules][81]
+[43P][81][][81][Urgent regulations][81]
 
-[43Q][82][][82][Gas governance rules][82]
+[Gas governance rules][82]
 
-[43R][83][][83][Method of making gas governance rules][83]
+[43Q][83][][83][Gas governance rules][83]
 
-[Supplementary provisions][84]
+[43R][84][][84][Method of making gas governance rules][84]
 
-[43S][85][][85][Supplementary empowering provision for regulations and rules][85]
+[Supplementary provisions][85]
 
-[43T][86][][86][Supplementary empowering provision for regulations][86]
+[43S][86][][86][Supplementary empowering provision for regulations and rules][86]
 
-[Provisions that apply if gas governance regulations or rules are in force][87]
+[43T][87][][87][Supplementary empowering provision for regulations][87]
 
-[43U][88][][88][Party must co-operate with investigations][88]
+[Provisions that apply if gas governance regulations or rules are in force][88]
 
-[43V][89][][89][Privileges protected][89]
+[43U][89][][89][Party must co-operate with investigations][89]
 
-[43W][90][][90][Limits on investigation powers][90]
+[43V][90][][90][Privileges protected][90]
 
-[43X][91][][91][Rulings Panel may make certain orders][91]
+[43W][91][][91][Limits on investigation powers][91]
 
-[43Y][92][][92][Restriction of remedies][92]
+[43X][92][][92][Rulings Panel may make certain orders][92]
 
-[43Z][93][][93][Limit on tort claims against service providers][93]
+[43Y][93][][93][Restriction of remedies][93]
 
-[Appeals][94]
+[43Z][94][][94][Limit on tort claims against service providers][94]
 
-[43ZA][95][][95][Appeals on ground of lack of jurisdiction][95]
+[Appeals][95]
 
-[43ZB][96][][96][Judicial review not precluded][96]
+[43ZA][96][][96][Appeals on ground of lack of jurisdiction][96]
 
-[43ZC][97][][97][Appeals on question of law in relation to decisions by industry body, Commission, or Rulings Panel][97]
+[43ZB][97][][97][Judicial review not precluded][97]
 
-[43ZD][98][][98][Right of appeal against suspension or termination orders][98]
+[43ZC][98][][98][Appeals on question of law in relation to decisions by industry body, Commission, or Rulings Panel][98]
 
-[43ZE][99][][99][Persons entitled to appeal][99]
+[43ZD][99][][99][Right of appeal against suspension or termination orders][99]
 
-[43ZF][100][][100][Determination of appeals][100]
+[43ZE][100][][100][Persons entitled to appeal][100]
 
-[43ZG][101][][101][High Court may refer appeals back to industry body, Commission, or Rulings Panel for reconsideration][101]
+[43ZF][101][][101][Determination of appeals][101]
 
-[43ZH][102][][102][Provisions pending determination of appeal][102]
+[43ZG][102][][102][High Court may refer appeals back to industry body, Commission, or Rulings Panel for reconsideration][102]
 
-[43ZI][103][][103][High Court may order proceedings be heard in private][103]
+[43ZH][103][][103][Provisions pending determination of appeal][103]
 
-[43ZJ][104][][104][Appeal to Court of Appeal in certain cases][104]
+[43ZI][104][][104][High Court may order proceedings be heard in private][104]
 
-[Subpart 2][105][---][105][Co-regulation of gas industry][105]
+[43ZJ][105][][105][Appeal to Court of Appeal in certain cases][105]
 
-[43ZK][106][][106][Purpose of subpart][106]
+[Subpart 2][106][---][106][Co-regulation of gas industry][106]
 
-[Approval of industry body][107]
+[43ZK][107][][107][Purpose of subpart][107]
 
-[43ZL][108][][108][Approval of industry body][108]
+[Approval of industry body][108]
 
-[43ZM][109][][109][Revocation of approval of industry body][109]
+[43ZL][109][][109][Approval of industry body][109]
 
-[Objectives of industry body in relation to recommendations for gas governance regulations][110]
+[43ZM][110][][110][Revocation of approval of industry body][110]
 
-[43ZN][111][][111][Objectives of industry body in recommending regulations for wholesale market, processing facilities, transmission, and distribution of gas][111]
+[Objectives of industry body in relation to recommendations for gas governance regulations][111]
 
-[GPS objectives and outcomes][112]
+[43ZN][112][][112][Objectives of industry body in recommending regulations for wholesale market, processing facilities, transmission, and distribution of gas][112]
 
-[43ZO][113][][113][Setting of GPS objectives and outcomes][113]
+[GPS objectives and outcomes][113]
 
-[43ZP][114][][114][What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, and distribution of gas][114]
+[43ZO][114][][114][Setting of GPS objectives and outcomes][114]
 
-[Industry body statement of intent][115]
+[43ZP][115][][115][What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, and distribution of gas][115]
 
-[43ZQ][116][][116][Industry body statement of intent][116]
+[Industry body statement of intent][116]
 
-[43ZR][117][][117][Extra information required in statement of intent for first financial year][117]
+[43ZQ][117][][117][Industry body statement of intent][117]
 
-[43ZS][118][][118][Application and term of statement of intent][118]
+[43ZR][118][][118][Extra information required in statement of intent for first financial year][118]
 
-[43ZT][119][][119][Process for providing statement of intent to Minister][119]
+[43ZS][119][][119][Application and term of statement of intent][119]
 
-[43ZU][120][][120][Amendments by industry body][120]
+[43ZT][120][][120][Process for providing statement of intent to Minister][120]
 
-[43ZV][121][][121][Statement of intent must be publicised][121]
+[43ZU][121][][121][Amendments by industry body][121]
 
-[Industry body annual report][122]
+[43ZV][122][][122][Statement of intent must be publicised][122]
 
-[43ZW][123][][123][Annual report][123]
+[Industry body annual report][123]
 
-[43ZX][124][][124][Disclosure of payments in respect of industry body board members and employees][124]
+[43ZW][124][][124][Annual report][124]
 
-[43ZY][125][][125][Annual report must be presented to House of Representatives][125]
+[43ZX][125][][125][Disclosure of payments in respect of industry body board members and employees][125]
 
-[Miscellaneous provisions][126]
+[43ZY][126][][126][Annual report must be presented to House of Representatives][126]
 
-[43ZZ][127][][127][Publication of industry body documents][127]
+[Miscellaneous provisions][127]
 
-[43ZZA][128][][128][Auditors][128]
+[43ZZ][128][][128][Publication of industry body documents][128]
 
-[Levy to fund industry body][129]
+[43ZZA][129][][129][Auditors][129]
 
-[43ZZB][130][][130][Industry body recommendation for levy regulations][130]
+[Levy to fund industry body][130]
 
-[43ZZC][131][][131][Costs that may be met from levy][131]
+[43ZZB][131][][131][Industry body recommendation for levy regulations][131]
 
-[43ZZD][132][][132][Minister must accept recommendations if certain conditions met][132]
+[43ZZC][132][][132][Costs that may be met from levy][132]
 
-[43ZZE][133][][133][Levy regulations that may be made][133]
+[43ZZD][133][][133][Minister must accept recommendations if certain conditions met][133]
 
-[43ZZF][134][][134][Expiry of subpart][134]
+[43ZZE][134][][134][Levy regulations that may be made][134]
 
-[Subpart 3][135][---][135][Governance of gas industry by Energy Commission][135]
+[43ZZF][135][][135][Expiry of subpart][135]
 
-[Preliminary provisions][136]
+[Subpart 3][136][---][136][Governance of gas industry by Energy Commission][136]
 
-[43ZZG][137][][137][Purpose][137]
+[Preliminary provisions][137]
 
-[Energy Commission][138]
+[43ZZG][138][][138][Purpose][138]
 
-[43ZZH][139][][139][Commission to govern gas industry established][139]
+[Energy Commission][139]
 
-[43ZZI][140][][140][Continuation of Commission's functions, objectives, etc][140]
+[43ZZH][140][][140][Commission to govern gas industry established][140]
 
-[43ZZJ][141][][141][Additional principal objective of Energy Commission][141]
+[43ZZI][141][][141][Continuation of Commission's functions, objectives, etc][141]
 
-[43ZZK][142][][142][Additional specific outcomes in relation to gas][142]
+[43ZZJ][142][][142][Additional principal objective of Energy Commission][142]
 
-[43ZZL][143][][143][Additional functions][143]
+[43ZZK][143][][143][Additional specific outcomes in relation to gas][143]
 
-[43ZZM][144][][144][Additional members and their duties][144]
+[43ZZL][144][][144][Additional functions][144]
 
-[Role of Energy Commission in relation to gas governance regulations and rules][145]
+[43ZZM][145][][145][Additional members and their duties][145]
 
-[43ZZN][146][][146][Objectives of recommendations][146]
+[Role of Energy Commission in relation to gas governance regulations and rules][146]
 
-[43ZZO][147][][147][Consultation and accountability sections apply][147]
+[43ZZN][147][][147][Objectives of recommendations][147]
 
-[43ZZP][148][][148][Levy of industry participants][148]
+[43ZZO][148][][148][Consultation and accountability sections apply][148]
 
-[43ZZQ][149][][149][Amendments to Ombudsmen Act 1975 and Public Finance Act 1989][149]
+[43ZZP][149][][149][Levy of industry participants][149]
 
-[Subpart 4][150][---][150][Exemptions from restrictive trade practice provisions of Commerce Act 1986][150]
+[43ZZQ][150][][150][Amendments to Ombudsmen Act 1975 and Public Finance Act 1989][150]
 
-[43ZZR][151][][151][Authorisations for purposes of Commerce Act 1986][151]
+[Subpart 4][151][---][151][Exemptions from restrictive trade practice provisions of Commerce Act 1986][151]
 
-[Part 5][152]  
-[Miscellaneous provisions][152]
+[43ZZR][152][][152][Authorisations for purposes of Commerce Act 1986][152]
 
-[General][153]
+[Part 5][153]  
+[Miscellaneous provisions][153]
 
-[44][154][][154][Gas suppliers][154]
+[General][154]
 
-[45][155][][155][Standards for gas supply][155]
+[44][155][][155][Gas suppliers][155]
 
-[46][156][][156][Safety requirements for distribution systems, etc][156]
+[45][156][][156][Standards for gas supply][156]
 
-[46A][157][][157][Owners or operators of gas supply systems must have safety management system][157]
+[46][157][][157][Safety requirements for distribution systems, etc][157]
 
-[46B][158][][158][Offence to breach requirement to have safety management system][158]
+[46A][158][][158][Owners or operators of gas supply systems must have safety management system][158]
 
-[47][159][][159][Testing and inspection of gasfitting work][159]
+[46B][159][][159][Offence to breach requirement to have safety management system][159]
 
-[48][160][][160][Power of entry][160]
+[47][160][][160][Testing and inspection of gasfitting work][160]
 
-[49][161][][161][Power to require information][161] \[Repealed\]
+[48][161][][161][Power of entry][161]
 
-[50][162][][162][Conditions relating to power to enter land or premises][162]
+[49][162][][162][Power to require information][162] \[Repealed\]
 
-[51][163][][163][Compensation for damage][163]
+[50][163][][163][Conditions relating to power to enter land or premises][163]
 
-[52][164][][164][Penalty for obstructing officers][164]
+[51][164][][164][Compensation for damage][164]
 
-[53][165][][165][Notices in relation to Maori land][165]
+[52][165][][165][Penalty for obstructing officers][165]
 
-[Regulations---General][166]
+[53][166][][166][Notices in relation to Maori land][166]
 
-[54][167][][167][Regulations][167]
+[Regulations---General][167]
 
-[54A][168][][168][Regulations that prescribe requirements for safety management systems][168]
+[54][168][][168][Regulations][168]
 
-[54B][169][][169][Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems][169]
+[54A][169][][169][Regulations that prescribe requirements for safety management systems][169]
 
-[Regulations---Information disclosure][170]
+[54B][170][][170][Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems][170]
 
-[55][171][][171][Regulations relating to information disclosure][171]
+[Regulations---Information disclosure][171]
 
-[56][172][][172][Information to be supplied to Secretary][172]
+[55][172][][172][Regulations relating to information disclosure][172]
 
-[56A][173][][173][Reasonable charge may be imposed for providing copies of statements][173]
+[56][173][][173][Information to be supplied to Secretary][173]
 
-[Miscellaneous provisions][174]
+[56A][174][][174][Reasonable charge may be imposed for providing copies of statements][174]
 
-[56B][175][][175][Offences for actions or omissions likely to cause serious harm or significant property damage][175]
+[Miscellaneous provisions][175]
 
-[57][176][][176][Other offences][176]
+[56B][176][][176][Offences for actions or omissions likely to cause serious harm or significant property damage][176]
 
-[57A][177][][177][Time for filing charging document][177]
+[57][177][][177][Other offences][177]
 
-[57B][178][][178][Infringement offences][178]
+[57A][178][][178][Time for filing charging document][178]
 
-[57C][179][][179][Infringement notices][179]
+[57B][179][][179][Infringement offences][179]
 
-[57D][180][][180][Procedural requirements for infringement notices][180]
+[57C][180][][180][Infringement notices][180]
 
-[57E][181][][181][Payment of infringement fee][181]
+[57D][181][][181][Procedural requirements for infringement notices][181]
 
-[57F][182][][182][Effect of infringement notice][182]
+[57E][182][][182][Payment of infringement fee][182]
 
-[58][183][][183][Repeals, revocations, and consequential amendments][183]
+[57F][183][][183][Effect of infringement notice][183]
 
-[59][184][][184][Savings][184]
+[58][184][][184][Repeals, revocations, and consequential amendments][184]
 
-[Amendment to Gas Act 1982][185]
+[59][185][][185][Savings][185]
 
-[60][186][][186][Power to execute works on private land][186]
+[Amendment to Gas Act 1982][186]
 
-[Schedule 1][187]  
-[Enactments repealed][187]
+[60][187][][187][Power to execute works on private land][187]
 
-[Schedule 2][188]  
-[Enactments amended][188]
+[Schedule 1][188]  
+[Enactments repealed][188]
 
-[Schedule 3][189]  
-[Regulations revoked][189]
+[Schedule 2][189]  
+[Enactments amended][189]
+
+[Schedule 3][190]  
+[Regulations revoked][190]
 
 ---
 
 Title \[Repealed\]
     
-*   Title: repealed, on 4 May 2010, by [section 4][190] of the Gas Amendment Act 2006 (2006 No 71).
+*   Title: repealed, on 4 May 2010, by [section 4][191] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 1 Short Title and commencement
     
@@ -422,7 +424,7 @@ Title \[Repealed\]
     
     (2) Except as provided in subsection (3), this Act shall come into force on 1 April 1993\.
     
-    (3) [Part 1][4], [Part 4][48], and [sections 54][167], [55][171], and [60][186] shall come into force on the day after the date on which this Act receives the Royal assent.
+    (3) [Part 1][4], [Part 4][48], and [sections 54][168], [55][172], and [60][187] shall come into force on the day after the date on which this Act receives the Royal assent.
 
 ##### 1A Purposes
     
@@ -436,7 +438,7 @@ Title \[Repealed\]
     
     *   (d) to promote the prevention of damage to property in connection with the supply and use of gas in New Zealand.
     
-    Section 1A: inserted, on 4 May 2010, by [section 5][191] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 1A: inserted, on 4 May 2010, by [section 5][192] of the Gas Amendment Act 2006 (2006 No 71).
 
 ## Part 1  
 Preliminary provisions
@@ -461,7 +463,7 @@ Preliminary provisions
     
     _biogas_ means the mixture of gases that is produced by anaerobic microbial decomposition of organic matter and that principally comprises methane and carbon dioxide together with lesser amounts of hydrogen sulphide, water vapour, or other gases
     
-    _Board_ means the Plumbers, Gasfitters, and Drainlayers Board continued under the [Plumbers, Gasfitters, and Drainlayers Act 2006][192]
+    _Board_ means the Plumbers, Gasfitters, and Drainlayers Board continued under the [Plumbers, Gasfitters, and Drainlayers Act 2006][193]
     
     _consumer_---
         
@@ -483,17 +485,17 @@ Preliminary provisions
         
         
     
-    *   (b) includes, for the purposes of any regulations made under [section 54][167] relating to odorisation or the measurement of calorific value, a gas transmission system
+    *   (b) includes, for the purposes of any regulations made under [section 54][168] relating to odorisation or the measurement of calorific value, a gas transmission system
     
-    _document_ has the same meaning as in [section 2(1)][193] of the Official Information Act 1982
+    _document_ has the same meaning as in [section 2(1)][194] of the Official Information Act 1982
     
     _dwellinghouse_ means any building or part of a building occupied as a separate dwelling; but does not include a meter box or gas measurement system located on the exterior of the building or the part of the building
     
-    _electric works_ means any works within the meaning of the [Electricity Act 1992][194]
+    _electric works_ means any works within the meaning of the [Electricity Act 1992][195]
     
     _existing fittings_ means any fittings installed before 1 January 1993; and includes any fittings that were partly installed, or work on the installation of which commenced, before 1 January 1993
     
-    _fire brigade_ has the same meaning as in [section 2][195] of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
+    _fire brigade_ has the same meaning as in [section 2][196] of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
     
     _fittings_ means everything used, or designed or intended for use, in or in connection with the supply, distribution, compression, or use of gas
     
@@ -541,11 +543,11 @@ Preliminary provisions
     
     *   (b) includes any person any subsidiary of which is a gas wholesaler
     
-    _gasfitting_ has the same meaning as in [section 4][196] of the Plumbers, Gasfitters, and Drainlayers Act 2006
+    _gasfitting_ has the same meaning as in [section 4][197] of the Plumbers, Gasfitters, and Drainlayers Act 2006
     
-    _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under [section 54][167] as the infringement fee for the offence
+    _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under [section 54][168] as the infringement fee for the offence
     
-    _infringement notice_ means a notice given under [section 57C][179]
+    _infringement notice_ means a notice given under [section 57C][180]
     
     _infringement offence_ means---
         
@@ -553,7 +555,7 @@ Preliminary provisions
     
     *   (b) a breach of any regulation made under this Act that is prescribed as an infringement offence
     
-    _level crossing_ has the same meaning as in [section 4(1)][197] of the Railways Act 2005
+    _level crossing_ has the same meaning as in [section 4(1)][198] of the Railways Act 2005
     
     _line function services_ means---
         
@@ -561,7 +563,7 @@ Preliminary provisions
     
     *   (b) the operation of such pipelines, including the assumption of responsibility for losses of gas
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][198]
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][199]
     
     _maintain_ includes to repair; and _maintenance_ has a corresponding meaning
     
@@ -573,7 +575,7 @@ Preliminary provisions
     
     _official standard_, in relation to a gas code of practice, means---
         
-    *   (a) a New Zealand Standard within the meaning of the [Standards Act 1988][199]; and
+    *   (a) a New Zealand Standard within the meaning of the [Standards Act 1988][200]; and
     
     *   (b) a standard specification prescribed by any standards organisation within the meaning of that Act
     
@@ -591,19 +593,19 @@ Preliminary provisions
     
     _pleasure vessel_ has the same meaning as in section 2(1) of the Shipping and Seamen Act 1952
     
-    _point of supply_, in relation to any place, means the point of supply of that place as prescribed by regulations made under [section 54][167]
+    _point of supply_, in relation to any place, means the point of supply of that place as prescribed by regulations made under [section 54][168]
     
     _price_ includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
     
     _relocatable building_ means any structure designed or adapted for human occupation that is designed to be relocatable; but does not include any tent
     
-    _road_ has the same meaning as in [section 315][200] of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of [section 2(1)][201] of the Government Roading Powers Act 1989; but does not include---
+    _road_ has the same meaning as in [section 315][201] of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of [section 2(1)][202] of the Government Roading Powers Act 1989; but does not include---
         
-    *   (a) a private road within the meaning of [section 315][202] of the Local Government Act 1974; or
+    *   (a) a private road within the meaning of [section 315][203] of the Local Government Act 1974; or
     
-    *   (b) a motorway within the meaning of the [Government Roading Powers Act 1989][203]; or
+    *   (b) a motorway within the meaning of the [Government Roading Powers Act 1989][204]; or
     
-    *   (c) any roadway laid out by order of the Maori Land Court under [sections 315 to 327][204] of Te Ture Whenua Maori Act 1993 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under [section 320][205] of that Act to be a road; or
+    *   (c) any roadway laid out by order of the Maori Land Court under [sections 315 to 327][205] of Te Ture Whenua Maori Act 1993 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under [section 320][206] of that Act to be a road; or
     
     *   (d) any level crossing
     
@@ -619,9 +621,9 @@ Preliminary provisions
     
     *   (c) harm that incapacitates, or is likely to incapacitate, the person suffering harm due to the inhalation of carbon monoxide; or
     
-    *   (d) harm of the kinds and descriptions that are serious harm under the [Health and Safety in Employment Act 1992][206]
+    *   (d) harm of the kinds and descriptions that are serious harm under the [Health and Safety in Employment Act 1992][207]
     
-    _telecommunications line_ means any line within the meaning of the [Telecommunications Act 2001][207]
+    _telecommunications line_ means any line within the meaning of the [Telecommunications Act 2001][208]
     
     _worker_ means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
     
@@ -633,7 +635,7 @@ Preliminary provisions
     
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
     
-    _WorkSafe_ means WorkSafe New Zealand established by section 5 of the [WorkSafe New Zealand Act 2013][208].
+    _WorkSafe_ means WorkSafe New Zealand established by section 5 of the [WorkSafe New Zealand Act 2013][209].
     
     (2) \[Repealed\]
     
@@ -641,63 +643,63 @@ Preliminary provisions
     
     Compare: 1982 No 27 s 2
     
-    Section 2(1) **all practicable steps**: inserted, on 5 December 2006, by [section 6(1)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **all practicable steps**: inserted, on 5 December 2006, by [section 6(1)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **Board**: amended, on 1 April 2010, by [section 185][210] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 2(1) **Board**: amended, on 1 April 2010, by [section 185][211] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 2(1) **consumer** paragraph (b): amended, on 14 October 2008, by [section 31(2)(a)][211] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 2(1) **consumer** paragraph (b): amended, on 14 October 2008, by [section 31(2)(a)][212] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 2(1) **consumer** paragraph (b): amended, on 14 October 2008, by [section 31(2)(b)][211] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 2(1) **consumer** paragraph (b): amended, on 14 October 2008, by [section 31(2)(b)][212] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 2(1) **distribution system**: substituted, on 4 May 2010, by [section 6(2)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **distribution system**: substituted, on 4 May 2010, by [section 6(2)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **distribution system** paragraph (a): amended, on 12 December 2012, by [section 4(1)][212] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 2(1) **distribution system** paragraph (a): amended, on 12 December 2012, by [section 4(1)][213] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 2(1) **gas distributor**: replaced, on 12 December 2012, by [section 4(2)][212] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 2(1) **gas distributor**: replaced, on 12 December 2012, by [section 4(2)][213] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 2(1) **gas inspector**: repealed, on 4 May 2010, by [section 6(3)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **gas inspector**: repealed, on 4 May 2010, by [section 6(3)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **gas operator** paragraph (b): amended, on 22 October 2003, by [section 3][213] of the Gas Amendment Act 2003 (2003 No 74).
+    Section 2(1) **gas operator** paragraph (b): amended, on 22 October 2003, by [section 3][214] of the Gas Amendment Act 2003 (2003 No 74).
     
-    Section 2(1) **gas producer**: inserted, on 12 December 2012, by [section 4(3)][212] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 2(1) **gas producer**: inserted, on 12 December 2012, by [section 4(3)][213] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 2(1) **gasfitting**: substituted, on 1 April 2010, by [section 185][210] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 2(1) **gasfitting**: substituted, on 1 April 2010, by [section 185][211] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 2(1) **infringement fee**: inserted, on 4 May 2010, by [section 6(5)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **infringement fee**: inserted, on 4 May 2010, by [section 6(5)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **infringement notice**: inserted, on 4 May 2010, by [section 6(5)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **infringement notice**: inserted, on 4 May 2010, by [section 6(5)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **infringement offence**: inserted, on 4 May 2010, by [section 6(5)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **infringement offence**: inserted, on 4 May 2010, by [section 6(5)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **level crossing**: substituted, on 20 July 2005, by [section 103(3)][214] of the Railways Act 2005 (2005 No 37).
+    Section 2(1) **level crossing**: substituted, on 20 July 2005, by [section 103(3)][215] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][215] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][216] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **place** paragraph (a): substituted, on 4 May 2010, by [section 6(4)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **place** paragraph (a): substituted, on 4 May 2010, by [section 6(4)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **point of supply**: inserted, on 4 May 2010, by [section 6(5)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **point of supply**: inserted, on 4 May 2010, by [section 6(5)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **road**: amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **road**: amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **road**: amended, on 28 July 1997, by [section 2(1)][217] of the Gas Amendment Act 1997 (1997 No 46).
+    Section 2(1) **road**: amended, on 28 July 1997, by [section 2(1)][218] of the Gas Amendment Act 1997 (1997 No 46).
     
-    Section 2(1) **road** paragraph (a): substituted, on 28 July 1997, by [section 2(2)][217] of the Gas Amendment Act 1997 (1997 No 46).
+    Section 2(1) **road** paragraph (a): substituted, on 28 July 1997, by [section 2(2)][218] of the Gas Amendment Act 1997 (1997 No 46).
     
-    Section 2(1) **road** paragraph (b): amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **road** paragraph (b): amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **road** paragraph (c): amended, on 1 July 1993, pursuant to [section 362(2)][218] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **road** paragraph (c): amended, on 1 July 1993, pursuant to [section 362(2)][219] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 2(1) **Secretary**: replaced, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 2(1) **Secretary**: replaced, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 2(1) **serious harm**: inserted, on 5 December 2006, by [section 6(1)][209] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **serious harm**: inserted, on 5 December 2006, by [section 6(1)][210] of the Gas Amendment Act 2006 (2006 No 71).
     
     Section 2(1) **subsidiary**: repealed, on 28 September 1993, by section 2(1) of the Gas Amendment Act 1993 (1993 No 144).
     
-    Section 2(1) **telecommunications line**: amended, on 20 December 2001, by [section 158][220] of the Telecommunications Act 2001 (2001 No 103).
+    Section 2(1) **telecommunications line**: amended, on 20 December 2001, by [section 158][221] of the Telecommunications Act 2001 (2001 No 103).
     
-    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][221] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][222] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
-    Section 2(1) **WorkSafe**: inserted, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 2(1) **WorkSafe**: inserted, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
     Section 2(2): repealed, on 28 September 1993, by section 2(2) of the Gas Amendment Act 1993 (1993 No 144).
 
@@ -705,15 +707,15 @@ Preliminary provisions
     
 *   (1) Subject to subsection (2), and except as expressly provided elsewhere in this Act, or in any other Act, this Act shall apply to every gas distributor, every gas retailer, and every consumer.
     
-    (2) Nothing in this Act (other than [sections 54(1)(n)(ii)][167] and [55][171]) applies to---
+    (2) Nothing in this Act (other than [sections 54(1)(n)(ii)][168] and [55][172]) applies to---
         
     *   (a) any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
             
-        *   (i) the [Crown Minerals Act 1991][222]:
+        *   (i) the [Crown Minerals Act 1991][223]:
         
         *   (ii) the Shipping and Seamen Act 1952:
         
-        *   (iii) the [Land Transport Act 1998][223]:
+        *   (iii) the [Land Transport Act 1998][224]:
         
         
     
@@ -735,15 +737,15 @@ Preliminary provisions
     
     Compare: 1982 No 27 s 3
     
-    Section 3(2): amended, on 27 September 2001, by [section 3][224] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 3(2): amended, on 27 September 2001, by [section 3][225] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 3(2)(a)(i): amended, on 24 May 2013, by [section 65][225] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 3(2)(a)(i): amended, on 24 May 2013, by [section 65][226] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 3(2)(a)(iii): amended, on 10 May 2011, by [section 100(3)][226] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 3(2)(a)(iii): amended, on 10 May 2011, by [section 100(3)][227] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 3(2)(a)(iii): amended, on 1 March 1999, by [section 215(1)][227] of the Land Transport Act 1998 (1998 No 110).
+    Section 3(2)(a)(iii): amended, on 1 March 1999, by [section 215(1)][228] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 3(3): added, on 20 April 2010, by [section 4][228] of the Gas Amendment Act 2010 (2010 No 17).
+    Section 3(3): added, on 20 April 2010, by [section 4][229] of the Gas Amendment Act 2010 (2010 No 17).
 
 ##### 4 Act to bind the Crown
     
@@ -760,11 +762,11 @@ General
     
     (2) The Minister must, as soon as reasonably practicable, by notice in the _Gazette_, declare that a person ceases to be a gas operator on a date stated in the notice if the Minister is satisfied that the person no longer carries on a business as a gas distributor.
     
-    Section 5: substituted, on 22 October 2003, by [section 4][229] of the Gas Amendment Act 2003 (2003 No 74).
+    Section 5: substituted, on 22 October 2003, by [section 4][230] of the Gas Amendment Act 2003 (2003 No 74).
 
 #### Functions and powers of WorkSafe and Secretary
     
-*   Heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+*   Heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 6 Functions of WorkSafe
     
@@ -778,7 +780,7 @@ General
     
     (2) This section is subject to [section 6A][13].
     
-    Section 6: replaced, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 6: replaced, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 6A Functions of Secretary
     
@@ -806,7 +808,7 @@ General
     
     _specified provision_ means a provision that is specified in a _Gazette_ notice under subsection (2)(b).
     
-    Section 6A: inserted, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 6A: inserted, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 6B WorkSafe and Secretary must share information 
     
@@ -814,7 +816,7 @@ General
     
     (2) The Secretary must provide information to WorkSafe if the information is necessary or desirable for WorkSafe to carry out its functions under this Act.
     
-    Section 6B: inserted, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 6B: inserted, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 7 Inspection of distribution systems, etc
     
@@ -842,27 +844,27 @@ General
     
     *   (e) by notice in writing require any person whom WorkSafe reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that WorkSafe reasonably believes is necessary to render that place or those fittings safe:
     
-    *   (f) require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under [section 54][167] or [section 55][171] to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
+    *   (f) require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under [section 54][168] or [section 55][172] to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
     
-    (5) This section shall apply notwithstanding anything to the contrary in [section 52][230] of the Government Roading Powers Act 1989\.
+    (5) This section shall apply notwithstanding anything to the contrary in [section 52][231] of the Government Roading Powers Act 1989\.
     
     Compare: 1982 No 27 s 8
     
-    Section 7(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(4): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(4): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(4)(b): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(4)(b): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(4)(c): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(4)(c): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(4)(e): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 7(4)(e): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 7(5): amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 7(5): amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 8 Report to be compiled
     
@@ -922,33 +924,33 @@ General
     
     (3B) Every person who is required to produce documents or supply information under this section has the same privileges in relation to the production of the documents or the supply of the information as witnesses have in any court.
     
-    (4) This section shall apply notwithstanding anything to the contrary in [section 52][230] of the Government Roading Powers Act 1989\.
+    (4) This section shall apply notwithstanding anything to the contrary in [section 52][231] of the Government Roading Powers Act 1989\.
     
     Compare: 1982 No 27 s 10
     
-    Section 9 heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9 heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(3): amended, on 4 May 2010, by [section 7(1)(a)][231] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 9(3): amended, on 4 May 2010, by [section 7(1)(a)][232] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 9(3): amended, on 4 May 2010, by [section 7(1)(b)][231] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 9(3): amended, on 4 May 2010, by [section 7(1)(b)][232] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 9(3A): inserted, on 4 May 2010, by [section 7(2)][231] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 9(3A): inserted, on 4 May 2010, by [section 7(2)][232] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 9(3A): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(3A): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(3A)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(3A)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(3A)(b): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 9(3A)(b): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 9(3B): inserted, on 4 May 2010, by [section 7(2)][231] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 9(3B): inserted, on 4 May 2010, by [section 7(2)][232] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 9(4): amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 9(4): amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 10 Objections to WorkSafe's requirements
     
@@ -964,13 +966,13 @@ General
     
     Compare: 1982 No 27 s 11(2)--(4)
     
-    Section 10 heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 10 heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 10(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 10(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 10(4): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 10(4): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 10(5): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 10(5): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 11 Effect of notice or requirement pending hearing
     
@@ -988,7 +990,7 @@ General
     
     Compare: 1982 No 27 s 11(5), (6)
     
-    Section 12(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 12(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 13 Appeal on question of law
     
@@ -996,15 +998,15 @@ General
     
     (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
     
-    (3) [Subpart 8][232] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][233] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
     (4) Subject to [section 14][22], where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
     
-    Section 13(1): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(1): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 13(3): replaced, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(3): replaced, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 13(4): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(4): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 WorkSafe may require immediate compliance
     
@@ -1018,21 +1020,21 @@ General
     
     Compare: 1982 No 27 s 11(8)--(11)
     
-    Section 14 heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 14 heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 14(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 14(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 14(2): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 14(2): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 14(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 14(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 15 Appeal against decision on application for injunction
     
 *   (1) A party to proceedings under this Act on an application under [section 14(3)][22] may appeal to the High Court against any decision of the District Court.
     
-    (1A) The [High Court Rules][234] and [sections 74 to 78][235] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][236] of that Act.
+    (1A) The [High Court Rules][235] and [sections 74 to 78][236] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][237] of that Act.
     
-    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][235] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][236] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (2A) Subsection (2) overrides subsection (1A).
     
@@ -1044,13 +1046,13 @@ General
     
     (6) Subject to subsections (3) to (5), the decision of the High Court on an appeal to that court under this section shall be final.
     
-    Section 15(1): substituted, on 24 November 2003, by [section 4][237] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 15(1): substituted, on 24 November 2003, by [section 4][238] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 15(1A): inserted, on 24 November 2003, by [section 4][237] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 15(1A): inserted, on 24 November 2003, by [section 4][238] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 15(2): substituted, on 24 November 2003, by [section 4][237] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 15(2): substituted, on 24 November 2003, by [section 4][238] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 15(2A): inserted, on 24 November 2003, by [section 4][237] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 15(2A): inserted, on 24 November 2003, by [section 4][238] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 16 Assessors
     
@@ -1058,11 +1060,11 @@ General
     
     (2) No person shall be appointed to act as an assessor unless he or she has special skill or knowledge relevant to the particular matter to be considered by the court.
     
-    (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][238]; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
+    (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][239]; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
     
-    Compare: 1982 No 27 s 12; 1989 No 44 [s 86(1)][239]
+    Compare: 1982 No 27 s 12; 1989 No 44 [s 86(1)][240]
     
-    Section 16(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 16(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 17 Notification of accidents
     
@@ -1086,7 +1088,7 @@ General
         
     *   (a) in the case of an accident involving gas supplied by a gas distributor or gas retailer, that gas distributor or gas retailer:
     
-    *   (b) if the accident is discovered by any person who is authorised to do gasfitting under [Part 2][240] of the Plumbers, Gasfitters, and Drainlayers Act 2006, that person:
+    *   (b) if the accident is discovered by any person who is authorised to do gasfitting under [Part 2][241] of the Plumbers, Gasfitters, and Drainlayers Act 2006, that person:
     
     *   (c) in all other cases, the occupier of the place where the accident occurred.
     
@@ -1094,23 +1096,23 @@ General
     
     (6) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3):
         
-    *   (a) [section 16(3)][241] of the Electricity Act 1992:
+    *   (a) [section 16(3)][242] of the Electricity Act 1992:
     
-    *   (b) [section 25(3)][242] of the Health and Safety in Employment Act 1992\.
+    *   (b) [section 25(3)][243] of the Health and Safety in Employment Act 1992\.
     
     Compare: 1982 No 27 s 14
     
-    Section 17 heading: amended, on 5 December 2006, by [section 8(1)][243] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 17 heading: amended, on 5 December 2006, by [section 8(1)][244] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 17(1): substituted, on 5 December 2006, by [section 8(2)][243] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 17(1): substituted, on 5 December 2006, by [section 8(2)][244] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 17(2): repealed, on 5 December 2006, by [section 8(2)][243] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 17(2): repealed, on 5 December 2006, by [section 8(2)][244] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 17(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 17(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 17(4)(b): substituted, on 1 April 2010, by [section 185][210] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 17(4)(b): substituted, on 1 April 2010, by [section 185][211] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 17(6): added, on 5 December 2006, by [section 8(3)][243] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 17(6): added, on 5 December 2006, by [section 8(3)][244] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 17A Transfer of accident information
     
@@ -1120,7 +1122,7 @@ General
     
     (3) If an accident relates to a specified matter, a person required to provide notification of any accident under section 17 may notify the Secretary in accordance with that section instead of WorkSafe.
     
-    Section 17A: replaced, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 17A: replaced, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 18 Interference with scene of accident
     
@@ -1128,15 +1130,15 @@ General
     
     (2) Where any person does interfere in any way with the scene of any accident to which [section 17][25] applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
     
-    (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the [Health and Safety in Employment Act 1992][206].
+    (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the [Health and Safety in Employment Act 1992][207].
     
     Compare: 1982 No 27 s 14(4), (5)
     
-    Section 18(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 18(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 18(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][244] of the Policing Act 2008 (2008 No 72).
+    Section 18(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][245] of the Policing Act 2008 (2008 No 72).
     
-    Section 18(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 18(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 19 Inquiries into accidents
     
@@ -1150,13 +1152,13 @@ General
     
     Compare: 1982 No 27 s 14(6), (7)
     
-    Section 19(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 19(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 19(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 19(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 19(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 19(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 19(4): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 19(4): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 20 Assistance to WorkSafe
     
@@ -1164,9 +1166,9 @@ General
     
     Compare: 1982 No 27 s 15
     
-    Section 20 heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 20 heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 20: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 20: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 21 Obstructing WorkSafe
     
@@ -1192,27 +1194,27 @@ General
     
     Compare: 1982 No 27 s 16
     
-    Section 21 heading: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21 heading: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21: amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 21: amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 21: amended, on 4 May 2010, by [section 10(1)][245] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 21: amended, on 4 May 2010, by [section 10(1)][246] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 21(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(b)(i): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(b)(i): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(b)(ii): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(b)(ii): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(b)(iii): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(b)(iii): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(b)(iv): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(b)(iv): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(c): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(c): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(d): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 21(d): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 21(d): amended, on 4 May 2010, by [section 10(2)][245] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 21(d): amended, on 4 May 2010, by [section 10(2)][246] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 22 Privilege against self-incrimination
     
@@ -1225,7 +1227,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
 *   Any existing fittings, lawfully fixed to or lawfully installed over or under any land that is not owned by the person that owns the fittings, shall continue to be fixed or installed until the owner of the fittings otherwise decides, and no person other than the owner of the fittings shall have any interest in any such fittings by reason only of having an interest in the land.
     
-    Compare: 1987 No 116 [s 20][246]; 1988 No 164 s 17
+    Compare: 1987 No 116 [s 20][247]; 1988 No 164 s 17
 
 ##### 24 Rights of entry in respect of existing fittings
     
@@ -1235,9 +1237,9 @@ Powers and duties of gas operators and other owners of gas fittings
     
     *   (b) in the case of fittings the construction, erection, or laying of which had not been completed before 1 January 1993, completing the fittings.
     
-    (2) A certificate under the seal of the owner of any existing fittings containing a statement that a specified fitting was installed (in whole or in part) before 1 January 1993 under the authority of the Petroleum Act 1937 or the Gas Act 1982 (or any Act repealed by either of those Acts) or the Electric Power Boards Act 1925 or the [Local Government Act 1974][247] or the [Public Works Act 1981][248] or any local or private Act shall be admissible in evidence in any proceedings and shall, in the absence of proof to the contrary, constitute proof of that statement.
+    (2) A certificate under the seal of the owner of any existing fittings containing a statement that a specified fitting was installed (in whole or in part) before 1 January 1993 under the authority of the Petroleum Act 1937 or the Gas Act 1982 (or any Act repealed by either of those Acts) or the Electric Power Boards Act 1925 or the [Local Government Act 1974][248] or the [Public Works Act 1981][249] or any local or private Act shall be admissible in evidence in any proceedings and shall, in the absence of proof to the contrary, constitute proof of that statement.
     
-    Compare: 1987 No 116 [s 12][249]; 1988 No 164 s 14
+    Compare: 1987 No 116 [s 12][250]; 1988 No 164 s 14
 
 ##### 25 Construction or maintenance of fittings on roads
     
@@ -1269,9 +1271,9 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (4) Nothing in subsection (1) applies in respect of the construction of fittings for the purposes of gas transmission.
     
-    Compare: 1987 No 116 [s 15][250]; 1988 No 164 s 16
+    Compare: 1987 No 116 [s 15][251]; 1988 No 164 s 16
     
-    Section 25(2): substituted, on 6 August 2010, by [section 18][251] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 25(2): substituted, on 6 August 2010, by [section 18][252] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 25A Criteria for setting reasonable conditions
     
@@ -1283,7 +1285,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
     *   (c) the need to lessen the damage that is likely to be caused to property (including structural integrity of the roads) as a result of work on the road:
     
-    *   (d) the compensation that may be payable under [section 51][163] for property that is likely to be damaged as a result of work on the road:
+    *   (d) the compensation that may be payable under [section 51][164] for property that is likely to be damaged as a result of work on the road:
     
     *   (e) the need to lessen disruption to the local community (including businesses):
     
@@ -1299,9 +1301,9 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (4) If the cost to the gas operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
     
-    Compare: 2001 No 103 [s 119][252]
+    Compare: 2001 No 103 [s 119][253]
     
-    Section 25A: inserted, on 6 August 2010, by [section 19][253] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 25A: inserted, on 6 August 2010, by [section 19][254] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 26 Notice to be given before work undertaken
     
@@ -1319,7 +1321,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (5) Where any such work is rendered urgent and necessary by any defective equipment, or other emergency, the gas operator shall be excused from complying with the requirements of subsection (1) before commencing the work, but shall give the information required by subsection (2) as soon as practicable thereafter.
     
-    Compare: 1987 No 116 [s 15A][254]; 1988 No 164 s 16
+    Compare: 1987 No 116 [s 15A][255]; 1988 No 164 s 16
 
 ##### 27 Offence
     
@@ -1327,9 +1329,9 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
     
-    Compare: 1987 No 116 [s 15B][255]; 1988 No 164 s 16
+    Compare: 1987 No 116 [s 15B][256]; 1988 No 164 s 16
     
-    Section 27(1): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 27(1): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Appeals in relation to conditions imposed
     
@@ -1341,7 +1343,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (2) Every such appeal shall be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court may allow on application made to it for that purpose either before or after the expiration of those 40 working days.
     
-    Compare: 1987 No 116 [s 15C][256]; 1988 No 164 s 16
+    Compare: 1987 No 116 [s 15C][257]; 1988 No 164 s 16
 
 ##### 29 Determination of appeals
     
@@ -1349,7 +1351,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (2) Subject to [section 30][41], the decision of a District Court in the determination of an appeal under [section 28][39] shall be final.
     
-    Compare: 1987 No 116 [s 15D][257]; 1988 No 164 s 16
+    Compare: 1987 No 116 [s 15D][258]; 1988 No 164 s 16
 
 ##### 30 Appeal on question of law
     
@@ -1357,23 +1359,23 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
     
-    (3) [Subpart 8][232] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][233] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
-    Section 30(1): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30(1): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(3): replaced, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30(3): replaced, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Charging for access to road reserve
     
 *   (1) Notwithstanding anything in this Act or any other enactment, no local authority or other body or person having jurisdiction over any road shall require the payment, by or on behalf of any gas operator, of any amount of or in the nature of rent in respect of any fittings constructed or placed in, on, along, over, across, or under that road.
     
-    (2) Nothing in subsection (1) applies in respect of a rate assessed under the [Local Government (Rating) Act 2002][258].
+    (2) Nothing in subsection (1) applies in respect of a rate assessed under the [Local Government (Rating) Act 2002][259].
     
-    (3) In this section, the term _road_ has the meaning given to it in [section 2][5], but also includes a motorway within the meaning of the [Government Roading Powers Act 1989][203].
+    (3) In this section, the term _road_ has the meaning given to it in [section 2][5], but also includes a motorway within the meaning of the [Government Roading Powers Act 1989][204].
     
-    Section 31(2): substituted, on 1 July 2003, by [section 137(1)][259] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 31(2): substituted, on 1 July 2003, by [section 137(1)][260] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 31(3): amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(3): amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 32 Rights of entry in respect of level crossings
     
@@ -1405,7 +1407,7 @@ Powers and duties of gas operators and other owners of gas fittings
     
     (6) Nothing in this section applies in respect of the construction, placing, or maintenance of fittings for the purposes of gas transmission.
     
-    Compare: 1987 No 116 [s 11][260]; 1988 No 164 s 13
+    Compare: 1987 No 116 [s 11][261]; 1988 No 164 s 13
 
 ##### 33 Local authority, etc, may require fittings to be moved
     
@@ -1425,15 +1427,15 @@ Powers and duties of gas operators and other owners of gas fittings
         
     *   (a) were laid or erected contrary to any provision of---
             
-        *   (i) this Act or any regulations made under [section 54][167]; or
+        *   (i) this Act or any regulations made under [section 54][168]; or
         
         *   (ii) the Gas Act 1982 (or any enactment repealed by that Act); or
         
         *   (iii) the Electric Power Boards Act 1925; or
         
-        *   (iv) the [Local Government Act 1974][247] or the [Local Government Act 2002][198]; or
+        *   (iv) the [Local Government Act 1974][248] or the [Local Government Act 2002][199]; or
         
-        *   (v) the [Public Works Act 1981][248]; or
+        *   (v) the [Public Works Act 1981][249]; or
         
         *   (vi) any local or private Act; or
         
@@ -1483,17 +1485,17 @@ Powers and duties of gas operators and other owners of gas fittings
     
     Compare: 1982 No 27 s 48(3), (5)
     
-    Section 34(2)(a)(iv): substituted, on 1 July 2003, by [section 262][215] of the Local Government Act 2002 (2002 No 84).
+    Section 34(2)(a)(iv): substituted, on 1 July 2003, by [section 262][216] of the Local Government Act 2002 (2002 No 84).
     
-    Section 34(4): amended, on 6 August 2010, by [section 20][261] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 34(4): amended, on 6 August 2010, by [section 20][262] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 35 Government Roading Powers Act 1989 not to apply
     
-*   [Sections 33][44] and [34][45] shall apply notwithstanding anything to the contrary in [section 54][262] of the Government Roading Powers Act 1989\.
+*   [Sections 33][44] and [34][45] shall apply notwithstanding anything to the contrary in [section 54][263] of the Government Roading Powers Act 1989\.
     
-    Section 35 heading: amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35 heading: amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35: amended, on 1 August 2008, by [section 50(1)][216] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35: amended, on 1 August 2008, by [section 50(1)][217] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 36 Owners and occupiers of private land and buildings may move fittings
     
@@ -1538,17 +1540,17 @@ Gas codes of practice
     
     (3) Every gas code of practice and every amendment or revocation of a gas code of practice shall show the date on which it was issued.
     
-    (4) WorkSafe may issue any code of practice, issued in accordance with the [Hazardous Substances and New Organisms Act 1996][263], as a gas code of practice under this Act.
+    (4) WorkSafe may issue any code of practice, issued in accordance with the [Hazardous Substances and New Organisms Act 1996][264], as a gas code of practice under this Act.
     
     Compare: 1968 No 125 ss 24A, 24B(1), (2); 1983 No 123 s 6
     
-    Section 37(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 37(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 37(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 37(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 37(4): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 37(4): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 37(4): added, on 2 July 2001, by [section 149][264] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 37(4): added, on 2 July 2001, by [section 149][265] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 
 ##### 38 Code may incorporate official standards by reference
     
@@ -1562,7 +1564,7 @@ Gas codes of practice
     
     (2) On the inclusion, in a code, of a reference to an official standard or part of an official standard, that official standard or, as the case may be, that part of that official standard (as it existed on the date of the inclusion but with such additions or variations (if any) as are specified in the code) shall be deemed to form part of the code.
     
-    Section 38(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 38(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 39 Code to be approved by Minister
     
@@ -1588,7 +1590,7 @@ Gas codes of practice
     
     Compare: 1968 No 125 s 24C; 1983 No 123 s 6
     
-    Section 39(2)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 39(2)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 40 Availability of codes
     
@@ -1600,7 +1602,7 @@ Gas codes of practice
     
     (2) The notice of approval published in the _Gazette_ pursuant to [section 39(4)(a)][51] shall show, in relation to the code, or the amendment to a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
     
-    Section 40(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 40(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 41 Emergency amendment of code
     
@@ -1612,31 +1614,31 @@ Gas codes of practice
     
     (4) Subject to subsection (5), an emergency amendment issued under this section shall for all purposes, while it remains in force, be deemed to have been issued under [section 37][49], and to have been approved, on the date of its issue, by the Minister under [section 39][51].
     
-    (5) If any regulation made under [section 54][167] requires compliance with any gas code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
+    (5) If any regulation made under [section 54][168] requires compliance with any gas code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
     
-    (6) Despite [section 73][265] of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
+    (6) Despite [section 73][266] of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
     
     (7) Subsection (8) applies if, pursuant to [section 6A(3)][13] and (4), the Secretary may exercise the power conferred by this section in relation to a matter specified in a _Gazette_ notice under section 6A(2).
     
-    (8) Despite [section 41][266] of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
+    (8) Despite [section 41][267] of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
     
     Compare: 1968 No 125 s 24D; 1983 No 123 s 6
     
-    Section 41(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 41(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 41(6): replaced, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 41(6): replaced, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 41(7): replaced, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 41(7): replaced, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 41(8): inserted, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 41(8): inserted, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 42 Citation of code
     
-*   In any regulations made under [section 54][167], any gas code of practice or amendment of a gas code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to [section 41(5)][53], to include and refer to the latest gas code of practice or amendment in force when the regulations were made.
+*   In any regulations made under [section 54][168], any gas code of practice or amendment of a gas code of practice may, without prejudice to any other method of citation, be cited by the title or reference given to it by WorkSafe and by its date of issue; and such citation shall be deemed, subject to [section 41(5)][53], to include and refer to the latest gas code of practice or amendment in force when the regulations were made.
     
     Compare: 1968 No 125 s 24E; 1983 No 123 s 6
     
-    Section 42: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 42: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 43 Proof of code
     
@@ -1648,7 +1650,7 @@ Gas codes of practice
     
     *   (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under [section 41(3)][53].
     
-    (3) In any proceedings for an offence against this Act or against any regulations made under [section 54][167],---
+    (3) In any proceedings for an offence against this Act or against any regulations made under [section 54][168],---
         
     *   (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by WorkSafe:
     
@@ -1656,48 +1658,48 @@ Gas codes of practice
     
     Compare: 1968 No 125 s 24F; 1983 No 123 s 6
     
-    Section 43(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 43(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 43(2)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 43(2)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 43(3)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 43(3)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 43(3)(b): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 43(3)(b): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ## Part 4A  
 Governance of gas industry
     
-*   Part 4A: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Part 4A: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ### Subpart 1---General and regulation-making powers
     
-*   Subpart 1: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Subpart 1: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43A Purpose
     
 *   The purpose of this Part is to provide for the governance of the gas industry.
     
-    Section 43A: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43A: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43B Outline of Part
     
 *   (1) Subpart 1 principally contains regulation-making powers that can be used for the governance of the gas industry.
     
-    (2) [Subpart 2][105] enables co-regulation of the gas industry by the Government and an industry body.
+    (2) [Subpart 2][106] enables co-regulation of the gas industry by the Government and an industry body.
     
     (3) Subpart 3 enables regulation of the gas industry by the Government and a Crown entity called the Energy Commission.
     
-    (4) [Subpart 2][105] expires if subpart 3 is brought into force by Order in Council.
+    (4) [Subpart 2][106] expires if subpart 3 is brought into force by Order in Council.
     
-    (5) [Subpart 4][150] contains exemptions from the restrictive trade practice provisions of the [Commerce Act 1986][268].
+    (5) [Subpart 4][151] contains exemptions from the restrictive trade practice provisions of the [Commerce Act 1986][269].
     
     (6) This section is intended only as a guide to the general scheme and effect of this Part.
     
-    Section 43B: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43B: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43C Outline of regulation-making powers
     
@@ -1725,7 +1727,7 @@ Governance of gas industry
     
     (2) This section is intended only as a guide to the general scheme and effect of the principal regulation-making powers in this Part.
     
-    Section 43C: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43C: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43D Interpretation
     
@@ -1733,17 +1735,17 @@ Governance of gas industry
     
     _board_, in relation to the industry body, means the directors, trustees, or other persons who constitute the governing board of the industry body
     
-    _Commission_ means the Energy Commission to be established under [section 43ZZH][139]
+    _Commission_ means the Energy Commission to be established under [section 43ZZH][140]
     
     _constitution_, in relation to the industry body, means its constitution or trust deed or other similar governing document
     
     _domestic consumer_ means any person who purchases gas in respect of any dwellinghouse
     
-    _gas governance regulations_ means regulations made under [sections 43F to 43T][69]
+    _gas governance regulations_ means regulations made under [sections 43F to 43T][70]
     
-    _GPS objectives and outcomes_ means objectives and outcomes set under [section 43ZO][113]
+    _GPS objectives and outcomes_ means objectives and outcomes set under [section 43ZO][114]
     
-    _industry body_ means the body approved by Order in Council under [section 43ZL][108]
+    _industry body_ means the body approved by Order in Council under [section 43ZL][109]
     
     _industry participant_ means---
         
@@ -1781,19 +1783,19 @@ Governance of gas industry
     
     _recommending body_, in relation to a recommendation for gas governance regulations or rules, means the industry body, the Commission, or the Minister who makes the recommendation
     
-    _rules_ and _gas governance rules_ mean rules made under [section 43Q][82]
+    _rules_ and _gas governance rules_ mean rules made under [section 43Q][83]
     
     _Rulings Panel_ means any Rulings Panel established under gas governance regulations
     
     _small consumer_ means a consumer who is supplied with less than 10 terajoules of gas per year.
     
-    Section 43D: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43D: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43D **gas producer**: repealed, on 12 December 2012, by [section 5][269] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43D **gas producer**: repealed, on 12 December 2012, by [section 5][270] of the Gas Amendment Act 2012 (2012 No 103).
 
 #### Dispute resolution
     
-*   Heading: substituted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+*   Heading: substituted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43E Access to dispute resolution scheme
     
@@ -1803,15 +1805,21 @@ Governance of gas industry
     
     (3) The _dispute resolution scheme_ is either---
         
-    *   (a) the approved scheme identified in [clause 3][271] of Schedule 4 of the Electricity Industry Act 2010; or
+    *   (a) the approved scheme identified in [clause 3][272] of Schedule 4 of the Electricity Industry Act 2010; or
     
-    *   (b) the regulated scheme provided for in regulations made under [clause 18][272] of Schedule 4 of that Act.
+    *   (b) the regulated scheme provided for in regulations made under [clause 18][273] of Schedule 4 of that Act.
     
     (4) The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
     
-    Compare: 1992 No 122 [s 158G][273]
+    Compare: 1992 No 122 [s 158G][274]
     
-    Section 43E: substituted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43E: substituted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
+
+##### 43EAA Indemnity disputes
+    
+*   The dispute resolution scheme may resolve disputes between members of the dispute resolution scheme concerning the application of the indemnity in section 46A of the Consumer Guarantees Act 1993 (an _indemnity dispute_).
+    
+    Section 43EAA: inserted, on 17 June 2014, by [section 16][275] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 43EA Membership of dispute resolution scheme
     
@@ -1821,7 +1829,7 @@ Governance of gas industry
     
     (3) A person need not be a member of a dispute resolution scheme if---
         
-    *   (a) the person is a member of a class of industry participants identified in regulations made under [section 43S(1)][85] as a class that need not be a member; or
+    *   (a) the person is a member of a class of industry participants identified in regulations made under [section 43S(1)][86] as a class that need not be a member; or
     
     *   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the _Gazette_ that---
             
@@ -1831,7 +1839,7 @@ Governance of gas industry
         
         
     
-    (4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum.
+    (4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum, and the person is unlikely to be involved in indemnity disputes.
     
     (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the _Gazette_ that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister---
         
@@ -1843,19 +1851,23 @@ Governance of gas industry
     
     (7) The Ministry must include on its Internet site a list of all current class and individual exemptions.
     
-    Section 43EA: inserted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43EA: inserted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 43EA(2): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43EA(2): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43EA(4): amended, on 17 June 2014, by [section 16][275] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 43EB Compliance with rules and binding settlements
     
 *   (1) Members of the dispute resolution scheme must comply with the rules of the scheme.
     
-    (2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do either or both of the following:
+    (2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do any of the following:
         
     *   (a) comply with the rules of the scheme:
     
-    *   (b) comply with a binding settlement determined by the scheme in response to a complaint.
+    *   (b) comply with a binding settlement determined by the scheme in response to a complaint:
+    
+    *   (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
     
     (3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
     
@@ -1863,29 +1875,33 @@ Governance of gas industry
     
     (5) A reference in this section to a **member** includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
     
-    Section 43EB: inserted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43EB: inserted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 43EB(5): inserted, on 12 December 2012, by [section 6][274] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43EB(2): amended, on 17 June 2014, by [section 16][275] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 43EB(2)(c): inserted, on 17 June 2014, by [section 16][275] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 43EB(5): inserted, on 12 December 2012, by [section 6][276] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43EC Offence to fail to comply with District Court order
     
-*   (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under [section 43EB][66], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000\.
+*   (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under [section 43EB][67], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    (2) Nothing in this section applies to an order or part of an order of a District Court referred to in [section 43EB(4)][66].
+    (2) Nothing in this section applies to an order or part of an order of a District Court referred to in [section 43EB(4)][67].
     
-    Section 43EC: inserted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43EC: inserted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 43EC(1): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43EC(1): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43EC(1): amended, on 12 December 2012, by [section 7][275] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43EC(1): amended, on 12 December 2012, by [section 7][277] of the Gas Amendment Act 2012 (2012 No 103).
 
 #### Gas industry regulation-making powers
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43F Gas governance regulations for wholesale market, processing facilities, transmission, and distribution of gas
     
-*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections [43I to 43P][73], make regulations for all or any of the purposes in subsection (2).
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections [43I to 43P][74], make regulations for all or any of the purposes in subsection (2).
     
     (2) The purposes are---
         
@@ -1923,13 +1939,13 @@ Governance of gas industry
     
     *   (d) requiring expansions, upgrades, or service quality improvements to gas transmission pipelines including specifying how these will be paid for.
     
-    Section 43F: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43F: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43F(2)(c): amended, on 12 December 2012, by [section 8][276] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43F(2)(c): amended, on 12 December 2012, by [section 8][278] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43G Other gas governance regulations
     
-*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][73], make regulations for all or any of the purposes in subsection (2).
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][74], make regulations for all or any of the purposes in subsection (2).
     
     (2) The purposes are---
         
@@ -1965,7 +1981,7 @@ Governance of gas industry
     
     *   ###### Dispute resolution procedures
     
-    *   (i) providing procedures for resolving disputes between industry participants:
+    *   (i) providing procedures for resolving disputes between industry participants, other than indemnity disputes (as defined in [section 43EAA][65]):
     
     *   (j) providing for the operation and facilitation of those dispute resolution procedures by a person, and the powers and procedures of that person:
     
@@ -1977,13 +1993,15 @@ Governance of gas industry
     
     *   (l) providing for processes for settling particular issues within the gas industry that may result in recommendations for gas governance regulations or rules, and requiring compliance by industry participants, the industry body, and the Commission with those processes, including compliance with requirements to produce documents as part of those processes.
     
-    Section 43G: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43G: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43G(2)(a): repealed, on 12 December 2012, by [section 9(1)][277] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43G(2)(a): repealed, on 12 December 2012, by [section 9(1)][279] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43G(2)(c): substituted, on 20 September 2007, by [section 4][278] of the Gas Amendment Act 2007 (2007 No 60).
+    Section 43G(2)(c): substituted, on 20 September 2007, by [section 4][280] of the Gas Amendment Act 2007 (2007 No 60).
     
-    Section 43G(2)(k): amended, on 12 December 2012, by [section 9(2)][277] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43G(2)(i): amended, on 17 June 2014, by [section 16][275] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 43G(2)(k): amended, on 12 December 2012, by [section 9(2)][279] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43H Low fixed charge tariff option for domestic consumers
     
@@ -1997,7 +2015,7 @@ Governance of gas industry
     
     _gas provider_ means a gas retailer or other business that contracts with consumers to sell delivered gas or a component of delivered gas.
     
-    (3) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][73], make regulations for all or any of the following purposes:
+    (3) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][74], make regulations for all or any of the following purposes:
         
     *   (a) requiring gas providers to make available to domestic consumers 1 or more tariff options that include a fixed charge for delivered gas to dwellinghouses at not more than a specified amount:
     
@@ -2019,7 +2037,7 @@ Governance of gas industry
     
     (8) Regulations made under subsection (3) may provide for the way in which the total charge of the low-use domestic consumer is to be assessed, which may be (without limitation) calculated with reference to national data or the data relating to any gas retailer or gas distributor.
     
-    (9) The Governor-General may, for the purpose of assisting retailers to deliver low fixed charge tariff options, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][73], make regulations for all or any of the following purposes:
+    (9) The Governor-General may, for the purpose of assisting retailers to deliver low fixed charge tariff options, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][74], make regulations for all or any of the following purposes:
         
     *   (a) regulating all or any charges charged by gas distributors to ensure that they are not, in the opinion of the Minister, unreasonably detrimental to the interests of low-use consumers:
     
@@ -2029,37 +2047,37 @@ Governance of gas industry
     
     *   (d) regulating the charging, offering, supply, and availability of delivered gas by other gas providers.
     
-    (10) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][73], make regulations providing for the supply and collection of information from gas providers and gas distributors---
+    (10) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with [sections 43I to 43P][74], make regulations providing for the supply and collection of information from gas providers and gas distributors---
         
     *   (a) about contracts, offers, advertising, or promotion relating to the supply of delivered gas, or components of delivered gas, to domestic consumers; or
     
     *   (b) information that is necessary for the purposes of calculating the total charge for the low-use domestic consumer.
     
-    Section 43H: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43H: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43H(5): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43H(5): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Process for making recommendations for gas governance regulations
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43I Which gas governance regulations can be made if there is no industry body or Commission
     
 *   If there is no industry body and no Commission, the Minister may recommend only---
         
-    *   (a) regulations prescribing terms and conditions for access to the Maui pipeline under [section 43F(2)(c)][69]:
+    *   (a) regulations prescribing terms and conditions for access to the Maui pipeline under [section 43F(2)(c)][70]:
     
-    *   (b) regulations under [section 43G][70], [section 43H][71], [section 43S][85], or [section 43T][86].
+    *   (b) regulations under [section 43G][71], [section 43H][72], [section 43S][86], or [section 43T][87].
     
-    Section 43I: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43I: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43J Which gas governance regulations can be made if there is industry body but no Commission
     
 *   (1) If there is an industry body but no Commission, the Minister may recommend only---
         
-    *   (a) regulations prescribing terms and conditions for access to the Maui pipeline under [section 43F(2)(c)][69]:
+    *   (a) regulations prescribing terms and conditions for access to the Maui pipeline under [section 43F(2)(c)][70]:
     
-    *   (b) other gas governance regulations under [section 43F][69] but only if the recommendation---
+    *   (b) other gas governance regulations under [section 43F][70] but only if the recommendation---
             
         *   (i) implements the effect of a recommendation of the industry body; and
         
@@ -2067,11 +2085,11 @@ Governance of gas industry
         
         
     
-    *   (c) regulations under [section 43G][70], [section 43H][71], [section 43S][85], or [section 43T][86].
+    *   (c) regulations under [section 43G][71], [section 43H][72], [section 43S][86], or [section 43T][87].
     
     (2) If there is an industry body but no Commission, the Minister must not recommend gas governance regulations under paragraph (a) or paragraph (c) or paragraph (h) of section 43G(2) unless the industry body has been given a reasonable opportunity to recommend gas governance regulations under those paragraphs.
     
-    Section 43J: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43J: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43K Which gas governance regulations can be made if there is Commission
     
@@ -2087,13 +2105,13 @@ Governance of gas industry
         
         
     
-    Section 43K: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43K: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43L Consultation before making recommendation for gas governance regulations
     
 *   (1) Before making a recommendation for any gas governance regulations, the recommending body must---
         
-    *   (a) undertake an assessment under [section 43N][78]; and
+    *   (a) undertake an assessment under [section 43N][79]; and
     
     *   (b) consult with persons that the recommending body thinks are representative of the interests of persons likely to be substantially affected by the proposed regulations; and
     
@@ -2107,29 +2125,29 @@ Governance of gas industry
     
     *   (b) does not differ from that recommendation in any material way (for example, other than in matters of drafting style or minor detail).
     
-    (3) Before making a recommendation concerning regulations under [section 43G(2)(a) to (h)][70] or [section 43H][71], the Minister must consult with the Minister of Consumer Affairs.
+    (3) Before making a recommendation concerning regulations under [section 43G(2)(a) to (h)][71] or [section 43H][72], the Minister must consult with the Minister of Consumer Affairs.
     
-    (4) This section is subject to [section 43P][80] in the case of urgent regulations.
+    (4) This section is subject to [section 43P][81] in the case of urgent regulations.
     
     (5) A regulation that is found by a court to be invalid solely because of a contravention of this section may not be declared to be invalid with effect earlier than 6 months after the date of the declaration.
     
-    Section 43L: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43L: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43M Other process for making recommendations for gas governance regulations
     
 *   (1) The following also applies to the making of recommendations for gas governance regulations:
         
-    *   (a) [sections 43ZN to 43ZP][111] apply to a recommendation of the industry body:
+    *   (a) [sections 43ZN to 43ZP][112] apply to a recommendation of the industry body:
     
-    *   (b) [sections 43ZZN][146] and [43ZZO][147] apply to a recommendation of the Commission:
+    *   (b) [sections 43ZZN][147] and [43ZZO][148] apply to a recommendation of the Commission:
     
-    *   (c) the industry body or the Commission must undertake an assessment under [section 43N][78] before making a recommendation:
+    *   (c) the industry body or the Commission must undertake an assessment under [section 43N][79] before making a recommendation:
     
-    *   (d) the Minister must, before making a recommendation for gas governance regulations for which a recommendation of the industry body is not required under [section 43J][74], have regard to any recommendation that the industry body may have made about those regulations.
+    *   (d) the Minister must, before making a recommendation for gas governance regulations for which a recommendation of the industry body is not required under [section 43J][75], have regard to any recommendation that the industry body may have made about those regulations.
     
-    (2) Subsection (1)(c) is subject to [section 43P][80] in the case of urgent regulations.
+    (2) Subsection (1)(c) is subject to [section 43P][81] in the case of urgent regulations.
     
-    Section 43M: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43M: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43N Assessment of proposed gas governance regulations
     
@@ -2149,7 +2167,7 @@ Governance of gas industry
     
     *   (c) ensure that the objective of the regulation is unlikely to be satisfactorily achieved by any reasonably practicable means other than the making of the regulation (for example, by education, information, or voluntary compliance); and
     
-    *   (d) prepare a statement of the proposal for the purpose of consultation under [section 43L(1)][76].
+    *   (d) prepare a statement of the proposal for the purpose of consultation under [section 43L(1)][77].
     
     (2) The statement of the proposal referred to in subsection (1)(d) must contain---
         
@@ -2163,7 +2181,7 @@ Governance of gas industry
     
     (3) The industry body or the Commission is not required to comply with subsection (1) if it is satisfied that the effect of the recommendation is minor and will not adversely affect the interests of any person in a substantial way.
     
-    Section 43N: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43N: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43O Process after making recommendation for gas governance regulation
     
@@ -2171,23 +2189,23 @@ Governance of gas industry
         
     *   (a) that recommendation; and
     
-    *   (b) the assessment completed under [section 43N][78].
+    *   (b) the assessment completed under [section 43N][79].
     
-    (2) The Commission or the Minister must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation that is likely to affect any powers of the Commerce Commission under [Part 4][279] or [sections 70 to 72][280] of the [Commerce Act 1986][268].
+    (2) The Commission or the Minister must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation that is likely to affect any powers of the Commerce Commission under [Part 4][281] or [sections 70 to 72][282] of the [Commerce Act 1986][269].
     
-    Section 43O: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43O: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43P Urgent regulations
     
-*   [Sections 43L][76] and [43N][78] (which relate to consultation and assessments) do not apply if the recommending body considers that it is necessary or desirable in the public interest that the proposed regulations be made urgently and, in this case, the recommendation must state that it is made in reliance on this section and then, within 6 months of those regulations being made,---
+*   [Sections 43L][77] and [43N][79] (which relate to consultation and assessments) do not apply if the recommending body considers that it is necessary or desirable in the public interest that the proposed regulations be made urgently and, in this case, the recommendation must state that it is made in reliance on this section and then, within 6 months of those regulations being made,---
         
     *   (a) the recommending body must---
             
-        *   (i) comply with [sections 43L][76] and [43N][78]; and
+        *   (i) comply with [sections 43L][77] and [43N][79]; and
         
         *   (ii) make a recommendation to the Minister on whether the regulations should be revoked, replaced, or amended; and
         
-        *   (iii) no later than 10 working days after making the recommendation, publicise the recommendation and the assessment completed under [section 43N][78]; and
+        *   (iii) no later than 10 working days after making the recommendation, publicise the recommendation and the assessment completed under [section 43N][79]; and
         
         
     
@@ -2195,11 +2213,11 @@ Governance of gas industry
     
     and then, within a further 6 months, the Minister must make that recommendation.
     
-    Section 43P: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43P: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Gas governance rules
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43Q Gas governance rules
     
@@ -2215,31 +2233,31 @@ Governance of gas industry
             
         *   (i) whether the rule applies principally to a particular group (eg, industry participants) rather than the general public:
         
-        *   (ii) whether the benefits of publication in accordance with [section 43R][83] rather than the [Legislation Act 2012][281] outweigh the costs of publication by that method:
+        *   (ii) whether the benefits of publication in accordance with [section 43R][84] rather than the [Legislation Act 2012][283] outweigh the costs of publication by that method:
         
         
     
     *   (d) the expertise and rule-making procedures of the recommending body.
     
-    (3) If the Minister makes, or the recommending body recommends, a rule for a purpose for which a gas governance regulation may be made, [sections 43I to 43P][73] apply (with necessary modifications) as if the rule were a gas governance regulation.
+    (3) If the Minister makes, or the recommending body recommends, a rule for a purpose for which a gas governance regulation may be made, [sections 43I to 43P][74] apply (with necessary modifications) as if the rule were a gas governance regulation.
     
-    (4) [Section 43R][83] applies to the method of making the rule.
+    (4) [Section 43R][84] applies to the method of making the rule.
     
-    (5) A rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][281] and must be presented to the House of Representatives under [section 41][282] of that Act.
+    (5) A rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][283] and must be presented to the House of Representatives under [section 41][284] of that Act.
     
     (6) To the extent that a rule is inconsistent with a gas governance regulation, the rule is subject to the gas governance regulation.
     
     (7) A rule that is found by a court to be invalid solely because of a contravention of subsection (2) may not be declared to be invalid with effect earlier than 6 months after the date of the declaration.
     
-    Section 43Q: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43Q: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43Q(2)(c)(ii): amended, on 5 August 2013, by [section 77(3)][283] of the Legislation Act 2012 (2012 No 119).
+    Section 43Q(2)(c)(ii): amended, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
     
-    Section 43Q(5): replaced, on 5 August 2013, by [section 77(3)][283] of the Legislation Act 2012 (2012 No 119).
+    Section 43Q(5): replaced, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 ##### 43R Method of making gas governance rules
     
-*   (1) A rule may be made under [section 43Q][82] by the Minister publishing a notice in the _Gazette_ that states---
+*   (1) A rule may be made under [section 43Q][83] by the Minister publishing a notice in the _Gazette_ that states---
         
     *   (a) the empowering provision for the gas governance regulation in relation to which the rule is made and a brief description of the nature of the rule; and
     
@@ -2249,7 +2267,7 @@ Governance of gas industry
     
     (3) A rule comes into force 28 days after the date on which it is notified in the _Gazette_ or on any later date stated in the notice.
     
-    (4) The Minister and the recommending body must make all of the rules made under [section 43Q][82] available to the public by making copies of them available---
+    (4) The Minister and the recommending body must make all of the rules made under [section 43Q][83] available to the public by making copies of them available---
         
     *   (a) for inspection, free of charge,---
             
@@ -2261,11 +2279,11 @@ Governance of gas industry
     
     *   (b) for purchase at a reasonable price.
     
-    Section 43R: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43R: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Supplementary provisions
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43S Supplementary empowering provision for regulations and rules
     
@@ -2283,7 +2301,7 @@ Governance of gas industry
     
     *   (f) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements in regulations or rules made under this subpart:
     
-    *   (fa) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any class of persons from all or any of the requirements in [sections 43EA to 43EC][65] (which relate to dispute resolution):
+    *   (fa) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any class of persons from all or any of the requirements in [sections 43EA to 43EC][66] (which relate to dispute resolution):
     
     *   (g) provide for the supply of information for the purpose of administration and enforcement of this Act, and regulations and rules made under this Act:
     
@@ -2295,21 +2313,21 @@ Governance of gas industry
     
     (3) In this subpart, unless the context otherwise requires, _terms and conditions_ includes both contractual matters and other types of arrangements and requirements.
     
-    Section 43S: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43S: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43S(1)(fa): inserted, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43S(1)(fa): inserted, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43T Supplementary empowering provision for regulations
     
-*   Any regulations made under this subpart may provide for offences that are punishable on conviction for a contravention of those regulations, or of rules made under [section 43Q][82], and provide for fines not exceeding $20,000 for those offences.
+*   Any regulations made under this subpart may provide for offences that are punishable on conviction for a contravention of those regulations, or of rules made under [section 43Q][83], and provide for fines not exceeding $20,000 for those offences.
     
-    Section 43T: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43T: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43T: amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43T: amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Provisions that apply if gas governance regulations or rules are in force
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43U Party must co-operate with investigations
     
@@ -2323,11 +2341,11 @@ Governance of gas industry
     
     *   (d) by giving all other assistance that may be reasonable and necessary to enable the matter to be fully investigated.
     
-    Section 43U: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43U: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43V Privileges protected
     
-*   (1) [Section 43U][88] does not limit any claim for legal professional privilege.
+*   (1) [Section 43U][89] does not limit any claim for legal professional privilege.
     
     (2) A person is not excused from answering a question or giving any information or document on the ground that to do so may incriminate or tend to incriminate that person.
     
@@ -2337,17 +2355,17 @@ Governance of gas industry
     
     *   (b) may not be used against the person in any proceedings before the Rulings Panel, except for information provided under any self-reporting obligation under those regulations.
     
-    Section 43V: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43V: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43W Limits on investigation powers
     
-*   (1) The industry body or the Commission may authorise, in writing, any person or persons to exercise all or any of the powers referred to in [section 43U(b) or (c)][88] in respect of an industry participant.
+*   (1) The industry body or the Commission may authorise, in writing, any person or persons to exercise all or any of the powers referred to in [section 43U(b) or (c)][89] in respect of an industry participant.
     
-    (2) An authorised person must, before entering premises under [section 43U(c)][88], give reasonable notice to the owner or occupier of the premises (at least 4 days before entry) of his or her intention to enter the premises.
+    (2) An authorised person must, before entering premises under [section 43U(c)][89], give reasonable notice to the owner or occupier of the premises (at least 4 days before entry) of his or her intention to enter the premises.
     
-    (3) An authorised person must, on first entering any premises under [section 43U(c)][88] and, if requested, at any later time, produce to the person apparently in charge of the premises the authorisation under subsection (1).
+    (3) An authorised person must, on first entering any premises under [section 43U(c)][89] and, if requested, at any later time, produce to the person apparently in charge of the premises the authorisation under subsection (1).
     
-    (4) If an authorised person enters any premises under [section 43U(c)][88] and is unable, despite reasonable efforts, to find any person apparently in charge, the authorised person must, before leaving the premises, leave a written notice stating---
+    (4) If an authorised person enters any premises under [section 43U(c)][89] and is unable, despite reasonable efforts, to find any person apparently in charge, the authorised person must, before leaving the premises, leave a written notice stating---
         
     *   (a) the authorised person's identity; and
     
@@ -2357,21 +2375,21 @@ Governance of gas industry
     
     *   (d) the reasons for entering.
     
-    (5) [Section 43U(c)][88] does not authorise an authorised person to enter a home, except with the consent of an occupier or under the authority of a warrant.
+    (5) [Section 43U(c)][89] does not authorise an authorised person to enter a home, except with the consent of an occupier or under the authority of a warrant.
     
-    (6) An authorised person may apply for a warrant by application made in the manner provided in [subpart 3][284] of Part 4 of the Search and Surveillance Act 2012\.
+    (6) An authorised person may apply for a warrant by application made in the manner provided in [subpart 3][286] of Part 4 of the Search and Surveillance Act 2012\.
     
-    (7) An issuing officer (within the meaning of [section 3][285] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether or not an industry participant has breached, or may breach, the gas governance regulations or rules, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
+    (7) An issuing officer (within the meaning of [section 3][287] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether or not an industry participant has breached, or may breach, the gas governance regulations or rules, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
     
-    (8) The provisions of [subparts 1][286], [3][284], [7][287], [9][288], and [10][289] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (8) The provisions of [subparts 1][288], [3][286], [7][289], [9][290], and [10][291] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 43W: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43W: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43W(6): amended, on 1 October 2012, by [section 318(2)][290] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 43W(6): amended, on 1 October 2012, by [section 318(2)][292] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 43W(7): amended, on 1 October 2012, by [section 318(3)][290] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 43W(7): amended, on 1 October 2012, by [section 318(3)][292] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 43W(8): inserted, on 1 October 2012, by [section 318(4)][290] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 43W(8): inserted, on 1 October 2012, by [section 318(4)][292] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 43X Rulings Panel may make certain orders
     
@@ -2399,11 +2417,11 @@ Governance of gas industry
     
     (2) In making any such decision, the Rulings Panel must take into account its previous decisions in respect of any similar situations previously dealt with by the industry body, the Commission, or the Rulings Panel.
     
-    Section 43X: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43X: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43Y Restriction of remedies
     
-*   (1) The remedies provided for in [section 43X][91] and in any gas governance regulations and rules are the only remedies in respect of a breach of those regulations or rules.
+*   (1) The remedies provided for in [section 43X][92] and in any gas governance regulations and rules are the only remedies in respect of a breach of those regulations or rules.
     
     (2) No one can bring an action for breach of statutory duty that arises out of, or relates to, a breach of those regulations or rules by an industry participant.
     
@@ -2413,7 +2431,7 @@ Governance of gas industry
     
     *   (b) damages in tort other than breach of statutory duty, for breach of contract, or for any other wrong, that arises from any act or omission that is also a breach of those regulations or rules.
     
-    Section 43Y: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43Y: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43Z Limit on tort claims against service providers
     
@@ -2421,23 +2439,23 @@ Governance of gas industry
     
     (2) _Service provider_ means a service provider appointed under the gas governance regulations.
     
-    Section 43Z: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43Z: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Appeals
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZA Appeals on ground of lack of jurisdiction
     
 *   An industry participant affected by a decision of the Rulings Panel may appeal that decision to the High Court on the ground of lack of jurisdiction.
     
-    Section 43ZA: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZA: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZB Judicial review not precluded
     
 *   Nothing in this Act limits access to the courts in an action for judicial review.
     
-    Section 43ZB: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZB: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZC Appeals on question of law in relation to decisions by industry body, Commission, or Rulings Panel
     
@@ -2445,7 +2463,7 @@ Governance of gas industry
     
     (2) The appeal must be made by giving notice of appeal within 20 working days after the date of the decision appealed against or within any further time that the court allows.
     
-    Section 43ZC: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZC: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZD Right of appeal against suspension or termination orders
     
@@ -2453,7 +2471,7 @@ Governance of gas industry
     
     (2) The appeal must be made by giving notice of appeal within 20 working days after the date of the order appealed against or within any further time that the court allows.
     
-    Section 43ZD: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZD: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZE Persons entitled to appeal
     
@@ -2465,7 +2483,7 @@ Governance of gas industry
     
     *   (c) any industry participant who joined as a party to the investigation of the matter that is subject to the appeal.
     
-    Section 43ZE: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZE: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZF Determination of appeals
     
@@ -2475,9 +2493,9 @@ Governance of gas industry
     
     *   (b) exercise any of the powers that could have been exercised by the industry body, the Commission, or the Rulings Panel in relation to the matter to which the appeal relates.
     
-    Compare: 1986 No 5 [s 93][291]
+    Compare: 1986 No 5 [s 93][293]
     
-    Section 43ZF: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZF: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZG High Court may refer appeals back to industry body, Commission, or Rulings Panel for reconsideration
     
@@ -2491,9 +2509,9 @@ Governance of gas industry
     
     (3) In reconsidering the matter, the industry body, the Commission, or the Rulings Panel, as the case may be, must have regard to the court's reasons for giving the direction, and the court's directions.
     
-    Compare: 1986 No 5 [s 94][292]
+    Compare: 1986 No 5 [s 94][294]
     
-    Section 43ZG: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZG: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZH Provisions pending determination of appeal
     
@@ -2501,7 +2519,7 @@ Governance of gas industry
     
     Compare: 1985 No 5 s 95
     
-    Section 43ZH: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZH: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZI High Court may order proceedings be heard in private
     
@@ -2511,13 +2529,13 @@ Governance of gas industry
     
     Compare: 1985 No 5 s 96
     
-    Section 43ZI: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZI: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZJ Appeal to Court of Appeal in certain cases
     
 *   (1) Any party to any appeal before the High Court against any decision of the industry body, the Commission, or the Rulings Panel, as the case may be, who is dissatisfied with any decision or order of the High Court may, with the leave of the High Court or of the Court of Appeal, appeal to the Court of Appeal.
     
-    (2) [Section 66][293] of the Judicature Act 1908 applies to the appeal.
+    (2) [Section 66][295] of the Judicature Act 1908 applies to the appeal.
     
     (3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to the following matters:
         
@@ -2533,21 +2551,21 @@ Governance of gas industry
     
     Compare: 1985 No 5 s 97
     
-    Section 43ZJ: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZJ: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ### Subpart 2---Co-regulation of gas industry
     
-*   Subpart 2: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Subpart 2: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZK Purpose of subpart
     
 *   The purpose of this subpart is to provide for co-regulation of the gas industry by the Government and an industry body.
     
-    Section 43ZK: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZK: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Approval of industry body
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZL Approval of industry body
     
@@ -2561,7 +2579,7 @@ Governance of gas industry
     
     *   (c) the industry body is capable of delivering outcomes that meet the Government's objectives for the gas industry; and
     
-    *   (d) the industry body has objectives, in its constitution, that are consistent with the objectives in [section 43ZN][111]; and
+    *   (d) the industry body has objectives, in its constitution, that are consistent with the objectives in [section 43ZN][112]; and
     
     *   (e) the industry body enables, and has provisions in its constitution that enable, all industry participants to become members of the industry body; and
     
@@ -2585,27 +2603,27 @@ Governance of gas industry
     
     (4) The references to industry participants in subsection (2)(a) and (e) do not include service providers appointed under any gas governance regulations.
     
-    Section 43ZL: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZL: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZM Revocation of approval of industry body
     
-*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, revoke any approval given under [section 43ZL][108].
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, revoke any approval given under [section 43ZL][109].
     
     (2) Before making a recommendation for the revocation of the approval of an industry body, the Minister must---
         
     *   (a) consult with the industry body; and
     
-    *   (b) be satisfied either that a Commission has been, or is to be, established or that the industry body has ceased to be a body that meets the criteria in [section 43ZL][108].
+    *   (b) be satisfied either that a Commission has been, or is to be, established or that the industry body has ceased to be a body that meets the criteria in [section 43ZL][109].
     
-    Section 43ZM: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZM: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Objectives of industry body in relation to recommendations for gas governance regulations
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZN Objectives of industry body in recommending regulations for wholesale market, processing facilities, transmission, and distribution of gas
     
-*   The objectives of the industry body, in recommending gas governance regulations under [section 43F][69], are as follows:
+*   The objectives of the industry body, in recommending gas governance regulations under [section 43F][70], are as follows:
         
     *   (a) the principal objective is to ensure that gas is delivered to existing and new customers in a safe, efficient, and reliable manner; and
     
@@ -2625,11 +2643,11 @@ Governance of gas industry
         
         
     
-    Section 43ZN: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZN: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### GPS objectives and outcomes
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZO Setting of GPS objectives and outcomes
     
@@ -2645,22 +2663,22 @@ Governance of gas industry
     
     (4) The industry body must have regard to those objectives and outcomes when making recommendations for gas governance regulations under this Part.
     
-    Section 43ZO: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZO: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZP What Minister can do with industry body recommendations about wholesale market, processing facilities, transmission, and distribution of gas
     
-*   (1) The Minister must decide, within 90 days of receiving a recommendation from the industry body in relation to gas governance regulations under [section 43F][69], either to accept or reject the recommendation.
+*   (1) The Minister must decide, within 90 days of receiving a recommendation from the industry body in relation to gas governance regulations under [section 43F][70], either to accept or reject the recommendation.
     
-    (2) Subsection (1) does not apply to regulations made under [section 43F(2)(c)][69] prescribing terms and conditions for access to the Maui pipeline.
+    (2) Subsection (1) does not apply to regulations made under [section 43F(2)(c)][70] prescribing terms and conditions for access to the Maui pipeline.
     
     (3) The Minister must publish a notice in the _Gazette_ stating his or her decision under subsection (1) and explaining the reasons for it or where copies of that explanation may be obtained.
     
-    Section 43ZP: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZP: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Industry body statement of intent
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
-*   Heading: amended, on 12 December 2012, by [section 10][294] of the Gas Amendment Act 2012 (2012 No 103).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: amended, on 12 December 2012, by [section 10][296] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZQ Industry body statement of intent
     
@@ -2684,29 +2702,29 @@ Governance of gas industry
     
     *   (h) any other matters that are reasonably necessary to achieve an understanding of the industry body's intentions and direction.
     
-    (3) The statement of intent must also contain the information required by [section 43ZR][117] for the first financial year to which it relates.
+    (3) The statement of intent must also contain the information required by [section 43ZR][118] for the first financial year to which it relates.
     
     (4) The statement of intent must be in writing, be dated, and be signed on behalf of the board by 2 members of the board of the industry body.
     
-    Section 43ZQ: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZQ: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZQ heading: amended, on 12 December 2012, by [section 11(1)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ heading: amended, on 12 December 2012, by [section 11(1)][297] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZQ(1): amended, on 12 December 2012, by [section 11(2)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ(1): amended, on 12 December 2012, by [section 11(2)][297] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZQ(2): amended, on 12 December 2012, by [section 11(3)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ(2): amended, on 12 December 2012, by [section 11(3)][297] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZQ(2)(g): amended, on 12 December 2012, by [section 11(2)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ(2)(g): amended, on 12 December 2012, by [section 11(2)][297] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZQ(3): amended, on 12 December 2012, by [section 11(3)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ(3): amended, on 12 December 2012, by [section 11(3)][297] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZQ(4): amended, on 12 December 2012, by [section 11(3)][295] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZQ(4): amended, on 12 December 2012, by [section 11(3)][297] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZR Extra information required in statement of intent for first financial year
     
 *   The industry body's statement of intent must contain the following information for the first financial year to which it relates:
         
-    *   (a) forecast financial statements for the industry body that have been prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][296] of the Financial Reporting Act 2013); and
+    *   (a) forecast financial statements for the industry body that have been prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][298] of the Financial Reporting Act 2013); and
     
     *   (b) other measures and standards necessary to judge the industry body's performance at the end of the financial year; and
     
@@ -2714,13 +2732,13 @@ Governance of gas industry
     
     *   (d) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the industry body.
     
-    Section 43ZR: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZR: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZR heading: amended, on 12 December 2012, by [section 12(1)][297] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZR heading: amended, on 12 December 2012, by [section 12(1)][299] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZR: amended, on 12 December 2012, by [section 12(2)][297] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZR: amended, on 12 December 2012, by [section 12(2)][299] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZR(a): replaced, on 1 April 2014, by [section 126][298] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 43ZR(a): replaced, on 1 April 2014, by [section 126][300] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 43ZS Application and term of statement of intent
     
@@ -2736,9 +2754,9 @@ Governance of gas industry
     
     *   (b) until a new statement of intent is in force in relation to the industry body (despite the end of any financial year to which the statement of intent relates); and
     
-    *   (c) with any amendments that are made as described in [section 43ZU][120].
+    *   (c) with any amendments that are made as described in [section 43ZU][121].
     
-    Section 43ZS: replaced, on 12 December 2012, by [section 13][299] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZS: replaced, on 12 December 2012, by [section 13][301] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZT Process for providing statement of intent to Minister
     
@@ -2752,17 +2770,17 @@ Governance of gas industry
     
     *   (c) the industry body must consider the comments (if any) on the draft and provide the final statement of intent to the Minister on or before the start of the financial year.
     
-    Section 43ZT: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZT: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZT heading: amended, on 12 December 2012, by [section 14(1)][300] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZT heading: amended, on 12 December 2012, by [section 14(1)][302] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZT(1): amended, on 12 December 2012, by [section 14(2)][300] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZT(1): amended, on 12 December 2012, by [section 14(2)][302] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZT(2): amended, on 12 December 2012, by [section 14(2)][300] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZT(2): amended, on 12 December 2012, by [section 14(2)][302] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZT(2)(a): amended, on 12 December 2012, by [section 14(2)][300] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZT(2)(a): amended, on 12 December 2012, by [section 14(2)][302] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZT(2)(c): amended, on 12 December 2012, by [section 14(2)][300] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZT(2)(c): amended, on 12 December 2012, by [section 14(2)][302] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZU Amendments by industry body
     
@@ -2792,29 +2810,29 @@ Governance of gas industry
     
     *   (d) the final amendment to the statement of intent is in force from the date on which the final amendment is provided to the Minister.
     
-    Section 43ZU: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZU: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZU(1): amended, on 12 December 2012, by [section 15][301] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZU(1): amended, on 12 December 2012, by [section 15][303] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZU(2): amended, on 12 December 2012, by [section 15][301] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZU(2): amended, on 12 December 2012, by [section 15][303] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZU(4): amended, on 12 December 2012, by [section 15][301] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZU(4): amended, on 12 December 2012, by [section 15][303] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZU(4)(d): amended, on 12 December 2012, by [section 15][301] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZU(4)(d): amended, on 12 December 2012, by [section 15][303] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZV Statement of intent must be publicised
     
 *   The industry body must publicise a final statement of intent or a final amended statement of intent as soon as practicable after it is provided to the Minister.
     
-    Section 43ZV: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZV: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZV heading: amended, on 12 December 2012, by [section 16(1)][302] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZV heading: amended, on 12 December 2012, by [section 16(1)][304] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZV: amended, on 12 December 2012, by [section 16(2)][302] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZV: amended, on 12 December 2012, by [section 16(2)][304] of the Gas Amendment Act 2012 (2012 No 103).
 
 #### Industry body annual report
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZW Annual report
     
@@ -2824,11 +2842,11 @@ Governance of gas industry
     
     *   (b) a report on the exercise of the powers conferred on it by this Part during the year; and
     
-    *   (c) audited financial statements for the industry body for that financial year that have been prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][296] of the Financial Reporting Act 2013); and
+    *   (c) audited financial statements for the industry body for that financial year that have been prepared in accordance with generally accepted accounting practice (within the meaning of [section 8][298] of the Financial Reporting Act 2013); and
     
     *   (d) the report on those financial statements that is signed by an auditor who was appointed or reappointed by the industry body within 12 months before the end of the period to which the statements relate; and
     
-    *   (e) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][303] of the Companies Act 1993; and those paragraphs apply as if references to---
+    *   (e) a report of the matters required to be included in the annual report of a company by paragraphs (e), (f), and (g) of [section 211(1)][305] of the Companies Act 1993; and those paragraphs apply as if references to---
             
         *   (i) an accounting period were references to that year; and
         
@@ -2838,17 +2856,17 @@ Governance of gas industry
         
         
     
-    *   (f) the disclosures required under [section 43ZX][124]; and
+    *   (f) the disclosures required under [section 43ZX][125]; and
     
     *   (g) any matters that relate to or affect the body's operations that the body is otherwise required, or has undertaken, or wishes to report on in its annual report.
     
     (2) An annual report must be in writing, be dated, and be signed on behalf of the board of the industry body by 2 members of the board of the industry body.
     
-    Section 43ZW: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZW: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZW(1)(a): amended, on 12 December 2012, by [section 17][304] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZW(1)(a): amended, on 12 December 2012, by [section 17][306] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZW(1)(c): replaced, on 1 April 2014, by [section 126][298] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 43ZW(1)(c): replaced, on 1 April 2014, by [section 126][300] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 43ZX Disclosure of payments in respect of industry body board members and employees
     
@@ -2866,17 +2884,17 @@ Governance of gas industry
     
     (2) In subsection (1), _member_ and _employee_ include a person who was a member of the board or employee at any time after the commencement of this section but who is no longer a member or employee.
     
-    Section 43ZX: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZX: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZY Annual report must be presented to House of Representatives
     
 *   The Minister must present a copy of the industry body's annual report to the House of Representatives as soon as practicable after receiving it.
     
-    Section 43ZY: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZY: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Miscellaneous provisions
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZ Publication of industry body documents
     
@@ -2888,29 +2906,29 @@ Governance of gas industry
     
     (2) The industry body must publicise its constitution.
     
-    Section 43ZZ: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZ: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZA Auditors
     
-*   For the purposes of the audit of any financial statements referred to in [section 43ZW][123], an auditor has, and may exercise and perform, all the functions, powers, and duties of an auditor under the [Companies Act 1993][305] as if the industry body were a company.
+*   For the purposes of the audit of any financial statements referred to in [section 43ZW][124], an auditor has, and may exercise and perform, all the functions, powers, and duties of an auditor under the [Companies Act 1993][307] as if the industry body were a company.
     
-    Section 43ZZA: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZA: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Levy to fund industry body
     
-*   Heading: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZB Industry body recommendation for levy regulations
     
-*   (1) The industry body may recommend to the Minister that regulations be made under [section 43ZZE][133] to require industry participants to pay a levy to the industry body.
+*   (1) The industry body may recommend to the Minister that regulations be made under [section 43ZZE][134] to require industry participants to pay a levy to the industry body.
     
     (2) The recommendation may recommend different levies or levy rates for different classes of industry participants.
     
-    Section 43ZZB: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZB: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZC Costs that may be met from levy
     
-*   (1) Levy regulations under [section 43ZZE][133] may provide for the levy to meet the following estimated costs:
+*   (1) Levy regulations under [section 43ZZE][134] may provide for the levy to meet the following estimated costs:
         
     *   (a) the costs of making recommendations concerning any gas governance regulations and rules under this Part:
     
@@ -2936,11 +2954,11 @@ Governance of gas industry
     
     *   (b) add under-recoveries in respect of a financial year to the levy payable in subsequent financial years.
     
-    Section 43ZZC: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZC: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZD Minister must accept recommendations if certain conditions met
     
-*   (1) The Minister may accept or reject a recommendation of the industry body to make levy regulations under [section 43ZZB][130].
+*   (1) The Minister may accept or reject a recommendation of the industry body to make levy regulations under [section 43ZZB][131].
     
     (2) However, the Minister must accept that recommendation, and recommend to the Governor-General that levy regulations be made, if he or she is satisfied that---
         
@@ -2948,15 +2966,15 @@ Governance of gas industry
     
     *   (b) the industry body has consulted with industry participants on the levy rate or amount; and
     
-    *   (c) the requirements of [sections 43ZZB to 43ZZE][130] are met.
+    *   (c) the requirements of [sections 43ZZB to 43ZZE][131] are met.
     
-    Section 43ZZD: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZD: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZD(2)(a): amended, on 12 December 2012, by [section 18][306] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZZD(2)(a): amended, on 12 December 2012, by [section 18][308] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZZE Levy regulations that may be made
     
-*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make levy regulations that meet the requirements of [sections 43ZZB to 43ZZD][130].
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make levy regulations that meet the requirements of [sections 43ZZB to 43ZZD][131].
     
     (2) The levy regulations must prescribe the amount of the levy, or the levy rate according to which the amount of the levy may be calculated.
     
@@ -2980,9 +2998,9 @@ Governance of gas industry
     
     (7) The levy regulations may exempt or provide for exemptions from, or provide for waivers of, the whole or any part of the levy for any case or class of cases.
     
-    Section 43ZZE: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZE: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZE(4A): inserted, on 12 December 2012, by [section 19][307] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZZE(4A): inserted, on 12 December 2012, by [section 19][309] of the Gas Amendment Act 2012 (2012 No 103).
 
 ##### 43ZZF Expiry of subpart
     
@@ -2990,15 +3008,15 @@ Governance of gas industry
     
     (2) The expiry of this subpart does not affect any gas governance regulations or rules made on the recommendation of the industry body.
     
-    Section 43ZZF: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZF: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ### Subpart 3---Governance of gas industry by Energy Commission
     
-*   Subpart 3: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Subpart 3: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Preliminary provisions
     
-*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZG Purpose
     
@@ -3008,11 +3026,11 @@ Governance of gas industry
     
     *   (b) other matters relating to the governance of the gas industry.
     
-    Section 43ZZG: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZG: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 #### Energy Commission
     
-*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZH Commission to govern gas industry established
     
@@ -3020,9 +3038,9 @@ Governance of gas industry
     
     (2) The Energy Commission is the same body as the Electricity Authority established by section 12 of the Electricity Industry Act 2010\.
     
-    Section 43ZZH: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZH: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZH(2): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZH(2): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZI Continuation of Commission's functions, objectives, etc
     
@@ -3036,11 +3054,11 @@ Governance of gas industry
     
     (2) All references to the Electricity Authority in any enactment or document must be read as references to the Energy Commission.
     
-    Section 43ZZI: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZI: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZI(1): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZI(1): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 43ZZI(2): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZI(2): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZJ Additional principal objective of Energy Commission
     
@@ -3048,9 +3066,9 @@ Governance of gas industry
     
     (2) This objective in relation to gas ranks equally with the objective specified in section 15 of the Electricity Industry Act 2010 in relation to electricity.
     
-    Section 43ZZJ: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZJ: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZJ(2): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZJ(2): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZK Additional specific outcomes in relation to gas
     
@@ -3078,9 +3096,9 @@ Governance of gas industry
     
     (2) \[Repealed\]
     
-    Section 43ZZK: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZK: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZK(2): repealed (without coming into force), on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZK(2): repealed (without coming into force), on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZL Additional functions
     
@@ -3106,9 +3124,9 @@ Governance of gas industry
     
     (3) The functions in this section rank equally with the functions specified in section 16 of the Electricity Industry Act 2010\.
     
-    Section 43ZZL: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZL: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZL(3): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZL(3): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZM Additional members and their duties
     
@@ -3118,29 +3136,29 @@ Governance of gas industry
     
     (3) A member appointed under this section, when acting as a member, must not act as a representative of, or promote the interests or views of, any organisation, a particular gas industry participant, or a particular group of gas industry participants.
     
-    Section 43ZZM: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZM: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZM: substituted (but not yet in force), on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZM: substituted (but not yet in force), on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 #### Role of Energy Commission in relation to gas governance regulations and rules
     
-*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Heading: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZN Objectives of recommendations
     
 *   In formulating recommendations for gas governance regulations and rules, the Commission must give effect to its principal objective and specific outcomes and have regard to its GPS objectives and outcomes.
     
-    Section 43ZZN: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZN: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZN: amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZN: amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZO Consultation and accountability sections apply
     
 *   Section 172Z of the Electricity Act 1992 applies (as if it had not been repealed) in relation to the Energy Commission in respect of gas.
     
-    Section 43ZZO: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZO: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZO: amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZO: amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZP Levy of industry participants
     
@@ -3158,9 +3176,9 @@ Governance of gas industry
     
     *   (b) provide for the transition from the industry body to the Commission.
     
-    Section 43ZZP: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZP: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZP(1): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZP(1): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 43ZZQ Amendments to Ombudsmen Act 1975 and Public Finance Act 1989
     
@@ -3172,19 +3190,19 @@ Governance of gas industry
     
     Energy Commission.
     
-    Section 43ZZQ: inserted (but not yet in force), on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZQ: inserted (but not yet in force), on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZQ(1): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZQ(1): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 43ZZQ(2): amended, on 1 November 2010, by [section 166][270] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 43ZZQ(2): amended, on 1 November 2010, by [section 166][271] of the Electricity Industry Act 2010 (2010 No 116).
 
 ### Subpart 4---Exemptions from restrictive trade practice provisions of Commerce Act 1986
     
-*   Subpart 4: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+*   Subpart 4: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
 
 ##### 43ZZR Authorisations for purposes of Commerce Act 1986
     
-*   The following are specifically authorised for the purpose of [section 43][308] of the Commerce Act 1986:
+*   The following are specifically authorised for the purpose of [section 43][310] of the Commerce Act 1986:
         
     *   (a) any act, matter, or thing done, or omitted to be done, by the industry body or an industry participant in the course of, or for the purpose of,---
             
@@ -3202,11 +3220,11 @@ Governance of gas industry
     
     *   (c) the industry body's constitution and statement of intent and any amendments to those documents.
     
-    Section 43ZZR: inserted, on 18 October 2004, by [section 5][267] of the Gas Amendment Act 2004 (2004 No 83).
+    Section 43ZZR: inserted, on 18 October 2004, by [section 5][268] of the Gas Amendment Act 2004 (2004 No 83).
     
-    Section 43ZZR(a)(i): amended, on 12 December 2012, by [section 20][309] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZZR(a)(i): amended, on 12 December 2012, by [section 20][311] of the Gas Amendment Act 2012 (2012 No 103).
     
-    Section 43ZZR(c): amended, on 12 December 2012, by [section 20][309] of the Gas Amendment Act 2012 (2012 No 103).
+    Section 43ZZR(c): amended, on 12 December 2012, by [section 20][311] of the Gas Amendment Act 2012 (2012 No 103).
 
 ## Part 5  
 Miscellaneous provisions
@@ -3225,53 +3243,53 @@ Miscellaneous provisions
 
 ##### 45 Standards for gas supply
     
-*   All gas supplied shall be of such quality and pressure as is for the time being prescribed by regulations made under [section 54][167].
+*   All gas supplied shall be of such quality and pressure as is for the time being prescribed by regulations made under [section 54][168].
     
     Compare: 1982 No 27 s 60
 
 ##### 46 Safety requirements for distribution systems, etc
     
-*   (1) All distribution systems, gas installations, fittings, and gas appliances shall be of such quality and standard, and shall be constructed, maintained, and operated in accordance with such safety requirements, as are prescribed by regulations made under [section 54][167].
+*   (1) All distribution systems, gas installations, fittings, and gas appliances shall be of such quality and standard, and shall be constructed, maintained, and operated in accordance with such safety requirements, as are prescribed by regulations made under [section 54][168].
     
-    (2) Nothing in subsection (1) applies to any distribution system, gas installation, fittings, or gas appliance exempted from the provisions of this section by regulations made under [section 54][167].
+    (2) Nothing in subsection (1) applies to any distribution system, gas installation, fittings, or gas appliance exempted from the provisions of this section by regulations made under [section 54][168].
     
     Compare: 1982 No 27 s 61
 
 ##### 46A Owners or operators of gas supply systems must have safety management system
     
-*   (1) Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under [section 54][167], a safety management system that requires all practicable steps to be taken to prevent the gas supply system from presenting a significant risk of---
+*   (1) Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under [section 54][168], a safety management system that requires all practicable steps to be taken to prevent the gas supply system from presenting a significant risk of---
         
     *   (a) serious harm to any member of the public; or
     
     *   (b) significant damage to property owned by a person other than the person that owns or operates the gas supply system.
     
-    (2) For the purposes of this section and [sections 46B][158] and [54A][168], _gas supply system_ means the distribution systems, gas installations, fittings, and gas appliances prescribed in regulations made under [section 54][167], being distribution systems, gas installations, fittings, and gas appliances that form part of a system for conveying gas to consumers.
+    (2) For the purposes of this section and [sections 46B][159] and [54A][169], _gas supply system_ means the distribution systems, gas installations, fittings, and gas appliances prescribed in regulations made under [section 54][168], being distribution systems, gas installations, fittings, and gas appliances that form part of a system for conveying gas to consumers.
     
-    Section 46A: inserted, on 4 May 2010, by [section 11][310] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 46A: inserted, on 4 May 2010, by [section 11][312] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 46B Offence to breach requirement to have safety management system
     
-*   Every person who, being a person that owns or operates a gas supply system, breaches [section 46A][157] commits an offence and is liable on conviction to a fine not exceeding $250,000\.
+*   Every person who, being a person that owns or operates a gas supply system, breaches [section 46A][158] commits an offence and is liable on conviction to a fine not exceeding $250,000\.
     
-    Section 46B: inserted, on 4 May 2010, by [section 11][310] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 46B: inserted, on 4 May 2010, by [section 11][312] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 46B: amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46B: amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Testing and inspection of gasfitting work
     
-*   (1) Where any gasfitting is carried out, that work or, as the case may require, the gas installation or gas appliance in respect of which that work is carried out shall not be connected to a gas supply unless such testing, certification, and inspection as is required in respect of that work by regulations made under [section 54][167] has been carried out.
+*   (1) Where any gasfitting is carried out, that work or, as the case may require, the gas installation or gas appliance in respect of which that work is carried out shall not be connected to a gas supply unless such testing, certification, and inspection as is required in respect of that work by regulations made under [section 54][168] has been carried out.
     
-    (2) No person shall sell, or offer for sale, any gas appliance or fittings that have not been tested and certified in accordance with regulations made under [section 54][167].
+    (2) No person shall sell, or offer for sale, any gas appliance or fittings that have not been tested and certified in accordance with regulations made under [section 54][168].
     
-    (3) No person (being a gas wholesaler or gas retailer) shall supply gas for passage through any gas installation unless that person is satisfied that such inspection and certification as is required in respect of that gas installation by regulations made under [section 54][167] has been carried out.
+    (3) No person (being a gas wholesaler or gas retailer) shall supply gas for passage through any gas installation unless that person is satisfied that such inspection and certification as is required in respect of that gas installation by regulations made under [section 54][168] has been carried out.
     
-    (4) Nothing in this section prevents the connection of a gas installation or a gas appliance to a gas supply or a gas supply system, or the supply of gas to a gas installation, where that connection or supply is solely for the purposes of carrying out any testing, inspection, or certification required by any regulations made under [section 54][167].
+    (4) Nothing in this section prevents the connection of a gas installation or a gas appliance to a gas supply or a gas supply system, or the supply of gas to a gas installation, where that connection or supply is solely for the purposes of carrying out any testing, inspection, or certification required by any regulations made under [section 54][168].
     
     Compare: 1979 No 139 ss 37, 38
 
 ##### 48 Power of entry
     
-*   (1) For the purpose of ensuring that the requirements of [section 47][159] are complied with in relation to any gasfitting, any person authorised by the Board for the purpose may, at any reasonable time, enter any premises (including a dwellinghouse) and---
+*   (1) For the purpose of ensuring that the requirements of [section 47][160] are complied with in relation to any gasfitting, any person authorised by the Board for the purpose may, at any reasonable time, enter any premises (including a dwellinghouse) and---
         
     *   (a) inspect and test any gas installation or gas appliance on those premises that is, or is intended to be, connected to a gas supply:
     
@@ -3293,11 +3311,11 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 4 May 2010, by [section 12][311] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 49: repealed, on 4 May 2010, by [section 12][313] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 50 Conditions relating to power to enter land or premises
     
-*   (1) Subject to subsections (2) and (3) and to [sections 32][43] and [48][160], but notwithstanding any other provision of this Act, any provision in this Act or in any regulations made under [section 54][167] giving any person the power to enter any land or premises without the consent of the owner or occupier shall be subject to the following conditions:
+*   (1) Subject to subsections (2) and (3) and to [sections 32][43] and [48][161], but notwithstanding any other provision of this Act, any provision in this Act or in any regulations made under [section 54][168] giving any person the power to enter any land or premises without the consent of the owner or occupier shall be subject to the following conditions:
         
     *   (a) entry to the land or premises shall only be made by the person specified in the relevant provision or any other person that the person so specified authorises in writing, either specifically or as a member of a class so authorised:
     
@@ -3307,35 +3325,35 @@ Miscellaneous provisions
     
     *   (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
     
-    *   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of [section 3][285] of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in [subpart 3][284] of Part 4 of the Search and Surveillance Act 2012\.
+    *   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of [section 3][287] of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in [subpart 3][286] of Part 4 of the Search and Surveillance Act 2012\.
     
-    (1A) [Subparts 1][286], [3][284], [7][287], [9][288], and [10][289] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
+    (1A) [Subparts 1][288], [3][286], [7][289], [9][290], and [10][291] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
     
     (2) The conditions specified in subsection (1) shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of gas.
     
     (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purpose in respect of which entry is required.
     
-    (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under [section 54][167] giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][312]) unless the person entering has a security clearance approved by the person in charge of the area.
+    (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under [section 54][168] giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][314]) unless the person entering has a security clearance approved by the person in charge of the area.
     
     Compare: 1968 No 125 s 15A; 1983 No 123 s 4; 1987 No 111 s 5
     
-    Section 50(1)(e): replaced, on 1 October 2012, by [section 318(5)][290] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 50(1)(e): replaced, on 1 October 2012, by [section 318(5)][292] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 50(1A): inserted, on 1 October 2012, by [section 318(6)][290] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 50(1A): inserted, on 1 October 2012, by [section 318(6)][292] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 51 Compensation for damage
     
 *   (1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by this Act on WorkSafe or a gas operator or any other owner of existing fittings shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
     
-    (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][248], and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
+    (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][249], and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
     
     (3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on WorkSafe shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
     
     Compare: 1968 No 125 s 16
     
-    Section 51(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 51(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 51(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 51(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 52 Penalty for obstructing officers
     
@@ -3343,17 +3361,17 @@ Miscellaneous provisions
     
     Compare: 1982 No 27 s 63
     
-    Section 52: amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 52: amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Notices in relation to Maori land
     
-*   (1) Where a notice or other document is to be given to the owner of land for the purposes of this Act, then, in the case of Maori land, the notice or other document may be served on the Registrar of the Maori Land Court in accordance with [Part 10][313] of Te Ture Whenua Maori Act 1993, and the provisions of that Part shall apply accordingly.
+*   (1) Where a notice or other document is to be given to the owner of land for the purposes of this Act, then, in the case of Maori land, the notice or other document may be served on the Registrar of the Maori Land Court in accordance with [Part 10][315] of Te Ture Whenua Maori Act 1993, and the provisions of that Part shall apply accordingly.
     
-    (2) In this section, the term _Maori land_ has the same meaning as in [section 4][314] of Te Ture Whenua Maori Act 1993\.
+    (2) In this section, the term _Maori land_ has the same meaning as in [section 4][316] of Te Ture Whenua Maori Act 1993\.
     
-    Section 53(1): amended, on 1 July 1993, pursuant to [section 362(2)][218] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 53(1): amended, on 1 July 1993, pursuant to [section 362(2)][219] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 53(2): amended, on 1 July 1993, pursuant to [section 362(2)][218] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 53(2): amended, on 1 July 1993, pursuant to [section 362(2)][219] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 #### Regulations---General
 
@@ -3381,7 +3399,7 @@ Miscellaneous provisions
     
     *   (bb) prescribing requirements for safety management systems:
     
-    *   (bc) prescribing, for the purposes of [sections 46A][157], [46B][158], and [54A][168], what distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system) and the circumstances and conditions in which any distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system):
+    *   (bc) prescribing, for the purposes of [sections 46A][158], [46B][159], and [54A][169], what distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system) and the circumstances and conditions in which any distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system):
     
     *   (c) prescribing standards in respect of fittings, gas appliances, gas installations, meters, and gas that are or is to be supplied to or used by gas retailers and consumers:
     
@@ -3429,9 +3447,9 @@ Miscellaneous provisions
         
         
     
-    *   (o) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the [Building Act 2004][315], or both, to exempt specific gas installations, gas appliances, fittings, persons, or things from requirements imposed by regulations made under this section, subject to any conditions that WorkSafe or, as the case requires, the chief executive thinks fit:
+    *   (o) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the [Building Act 2004][317], or both, to exempt specific gas installations, gas appliances, fittings, persons, or things from requirements imposed by regulations made under this section, subject to any conditions that WorkSafe or, as the case requires, the chief executive thinks fit:
     
-    *   (p) exempting or providing for the exemption of distribution systems, gas installations, fittings, and gas appliances from the provisions of [section 46][156]:
+    *   (p) exempting or providing for the exemption of distribution systems, gas installations, fittings, and gas appliances from the provisions of [section 46][157]:
     
     *   (q) prescribing the matters in respect of which fees are payable under this Act; prescribing the amount of the fees or the method by which they are to be assessed; and providing for the remission or refund of any such fees:
     
@@ -3465,7 +3483,7 @@ Miscellaneous provisions
         
         *   (ia) any official standard, or any part of an official standard; or
         
-        *   (ii) any approved code of practice for the time being in force pursuant to [section 20A][316] of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,---
+        *   (ii) any approved code of practice for the time being in force pursuant to [section 20A][318] of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,---
         
         shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     
@@ -3475,73 +3493,73 @@ Miscellaneous provisions
     
     (3) Without limiting paragraph (b) of subsection (1), regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by WorkSafe before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
     
-    (4) Without limiting the [Interpretation Act 1999][317], no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person---
+    (4) Without limiting the [Interpretation Act 1999][319], no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person---
         
     *   (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
     
     *   (b) to set any standard.
     
-    (5) Notwithstanding [section 1(3)][2], and without limiting [section 11][318] of the Interpretation Act 1999, no regulation made under this section may be expressed to come into force before 1 April 1993\.
+    (5) Notwithstanding [section 1(3)][2], and without limiting [section 11][320] of the Interpretation Act 1999, no regulation made under this section may be expressed to come into force before 1 April 1993\.
     
-    (6) The Minister, before recommending the making of any regulations under this section, must consult the Environmental Protection Authority established by [section 7][319] of the Environmental Protection Authority Act 2011 about the contents of such regulations and shall take into account any submissions made by that Authority.
+    (6) The Minister, before recommending the making of any regulations under this section, must consult the Environmental Protection Authority established by [section 7][321] of the Environmental Protection Authority Act 2011 about the contents of such regulations and shall take into account any submissions made by that Authority.
     
     Compare: 1968 No 125 s 55; 1982 No 27 s 67; 1983 No 123 s 8; 1987 No 111 s 13
     
-    Section 54(1)(b)(iv): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(b)(iv): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(bb): inserted, on 5 December 2006, by [section 13(1)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(bb): inserted, on 5 December 2006, by [section 13(1)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(bc): inserted, on 5 December 2006, by [section 13(1)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(bc): inserted, on 5 December 2006, by [section 13(1)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(d): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(d): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(e) proviso: repealed, on 1 April 2010, by [section 185][210] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 54(1)(e) proviso: repealed, on 1 April 2010, by [section 185][211] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 54(1)(n): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(n): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(n)(i) proviso: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(n)(i) proviso: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(o): substituted, on 31 March 2005, by [section 414][321] of the Building Act 2004 (2004 No 72).
+    Section 54(1)(o): substituted, on 31 March 2005, by [section 414][323] of the Building Act 2004 (2004 No 72).
     
-    Section 54(1)(o): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(o): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(r): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(1)(r): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(1)(s): amended, on 5 December 2006, by [section 13(2)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(s): amended, on 5 December 2006, by [section 13(2)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(sb): inserted, on 5 December 2006, by [section 13(3)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(sb): inserted, on 5 December 2006, by [section 13(3)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(sc): inserted, on 5 December 2006, by [section 13(3)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(sc): inserted, on 5 December 2006, by [section 13(3)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(sd): inserted, on 5 December 2006, by [section 13(3)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(sd): inserted, on 5 December 2006, by [section 13(3)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(1)(se): inserted, on 5 December 2006, by [section 13(3)][320] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54(1)(se): inserted, on 5 December 2006, by [section 13(3)][322] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 54(2)(a): amended, on 27 September 2001, by [section 4(1)][322] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 54(2)(a): amended, on 27 September 2001, by [section 4(1)][324] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 54(2)(b)(ia): inserted, on 27 September 2001, by [section 4(2)][322] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 54(2)(b)(ia): inserted, on 27 September 2001, by [section 4(2)][324] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 54(2)(b)(ii): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(2)(b)(ii): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(2A): inserted, on 27 September 2001, by [section 4(3)][322] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 54(2A): inserted, on 27 September 2001, by [section 4(3)][324] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 54(2B): inserted, on 27 September 2001, by [section 4(3)][322] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 54(2B): inserted, on 27 September 2001, by [section 4(3)][324] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 54(3): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(3): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(4): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 54(4): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(4): amended, on 1 November 1999, pursuant to [section 38(1)][323] of the Interpretation Act 1999 (1999 No 85).
+    Section 54(4): amended, on 1 November 1999, pursuant to [section 38(1)][325] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 54(5): amended, on 1 November 1999, pursuant to [section 38(1)][323] of the Interpretation Act 1999 (1999 No 85).
+    Section 54(5): amended, on 1 November 1999, pursuant to [section 38(1)][325] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 54(6): added, on 2 July 2001, by [section 149][264] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 54(6): added, on 2 July 2001, by [section 149][265] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 54(6): amended, on 1 July 2011, by [section 53(1)][324] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 54(6): amended, on 1 July 2011, by [section 53(1)][326] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ##### 54A Regulations that prescribe requirements for safety management systems
     
-*   (1) Regulations made under [section 54(1)(bb)][167] must provide for requirements relating to---
+*   (1) Regulations made under [section 54(1)(bb)][168] must provide for requirements relating to---
         
     *   (a) the systematic identification of---
             
@@ -3559,7 +3577,7 @@ Miscellaneous provisions
     
     *   (e) the audit of the safety management system.
     
-    (2) Regulations made under [section 54(1)(bb)][167] for the purposes of subsection (1)(b) may include, for example, requirements relating to---
+    (2) Regulations made under [section 54(1)(bb)][168] for the purposes of subsection (1)(b) may include, for example, requirements relating to---
         
     *   (a) the design, construction, operation, maintenance, and inspection of the gas supply system; and
     
@@ -3573,7 +3591,7 @@ Miscellaneous provisions
     
     *   (f) the investigation of accidents that involve or affect the gas supply system.
     
-    (3) Regulations made under [section 54(1)(bb)][167] for the purposes of subsection (1)(e) may include, for example, requirements relating to---
+    (3) Regulations made under [section 54(1)(bb)][168] for the purposes of subsection (1)(e) may include, for example, requirements relating to---
         
     *   (a) who may conduct audits; and
     
@@ -3601,15 +3619,15 @@ Miscellaneous provisions
         
         
     
-    Section 54A: inserted, on 5 December 2006, by [section 14][325] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54A: inserted, on 5 December 2006, by [section 14][327] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 54B Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
     
 *   (1) To avoid doubt, a person required by a safety management system to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
     
-    (2) Different requirements may be prescribed under [section 54(1)(bb)][167] in respect of different classes of persons.
+    (2) Different requirements may be prescribed under [section 54(1)(bb)][168] in respect of different classes of persons.
     
-    Section 54B: inserted, on 5 December 2006, by [section 14][325] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 54B: inserted, on 5 December 2006, by [section 14][327] of the Gas Amendment Act 2006 (2006 No 71).
 
 #### Regulations---Information disclosure
 
@@ -3643,7 +3661,7 @@ Miscellaneous provisions
     
     *   (e) prescribing the form and manner in which the financial statements required by regulations made under paragraph (b) shall be made available:
     
-    *   (f) prescribing the form of statutory declaration and by whom it shall be made for the purposes of [section 56][172]:
+    *   (f) prescribing the form of statutory declaration and by whom it shall be made for the purposes of [section 56][173]:
     
     *   (g) requiring, in respect of statements or information required from pipeline owners,---
             
@@ -3667,37 +3685,37 @@ Miscellaneous provisions
     
     (2) The regulations may not require the disclosure of the names of the parties to, or the terms and conditions of, contracts made before 1 August 1990 but, if the contract is modified after that date, the regulations may require the disclosure of information as to the modification, the term or condition that has been modified (including its context), and the names (or characteristics) of the parties.
     
-    (3) Notwithstanding [section 1(3)][2] of this Act, and without limiting [section 11][318] of the Interpretation Act 1999, no regulations made under this section may be expressed to come into force before 1 April 1993\.
+    (3) Notwithstanding [section 1(3)][2] of this Act, and without limiting [section 11][320] of the Interpretation Act 1999, no regulations made under this section may be expressed to come into force before 1 April 1993\.
     
     (4) References in this section to pipeline owners, gas wholesalers, gas retailers, and gas distributors include any person that is or was such a person for any part of a financial year.
     
-    Compare: 1987 No 116 [s 5C][326]; 1990 No 21 s 3
+    Compare: 1987 No 116 [s 5C][328]; 1990 No 21 s 3
     
     Section 55(1)(b): substituted, on 28 September 1993, by section 3(1) of the Gas Amendment Act 1993 (1993 No 144).
     
-    Section 55(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][327] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 55(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][329] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 55(1)(b): amended, on 1 October 1997, pursuant to [section 6(2)][327] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 55(1)(b): amended, on 1 October 1997, pursuant to [section 6(2)][329] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 55(1)(c): amended, on 27 September 2001, by [section 5(1)][328] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 55(1)(c): amended, on 27 September 2001, by [section 5(1)][330] of the Gas Amendment Act 2001 (2001 No 67).
     
     Section 55(1)(d): amended, on 28 September 1993, by section 3(2) of the Gas Amendment Act 1993 (1993 No 144).
     
-    Section 55(1)(g): substituted, on 27 September 2001, by [section 5(2)][328] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 55(1)(g): substituted, on 27 September 2001, by [section 5(2)][330] of the Gas Amendment Act 2001 (2001 No 67).
     
     Section 55(1)(ha): inserted, on 28 September 1993, by section 3(3) of the Gas Amendment Act 1993 (1993 No 144).
     
-    Section 55(1)(ha): amended, on 15 November 2000, by [section 3][329] of the Gas Amendment Act 2000 (2000 No 69).
+    Section 55(1)(ha): amended, on 15 November 2000, by [section 3][331] of the Gas Amendment Act 2000 (2000 No 69).
     
-    Section 55(2): substituted, on 27 September 2001, by [section 5(3)][328] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 55(2): substituted, on 27 September 2001, by [section 5(3)][330] of the Gas Amendment Act 2001 (2001 No 67).
     
-    Section 55(3): amended, on 1 November 1999, pursuant to [section 38(1)][323] of the Interpretation Act 1999 (1999 No 85).
+    Section 55(3): amended, on 1 November 1999, pursuant to [section 38(1)][325] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 55(4): added, on 27 September 2001, by [section 5(4)][328] of the Gas Amendment Act 2001 (2001 No 67).
+    Section 55(4): added, on 27 September 2001, by [section 5(4)][330] of the Gas Amendment Act 2001 (2001 No 67).
 
 ##### 56 Information to be supplied to Secretary
     
-*   (1) Every person who is required by regulations made under [section 55][171] to make available statements and information shall supply to the Secretary---
+*   (1) Every person who is required by regulations made under [section 55][172] to make available statements and information shall supply to the Secretary---
         
     *   (a) a copy of all statements and information, made available to the public pursuant to regulations made under that section, which statements and information must be supplied within 5 working days after the statements and information are first made so available:
     
@@ -3705,19 +3723,19 @@ Miscellaneous provisions
     
     (2) Every person to whom a request is made pursuant to subsection (1)(b) shall comply with that request within 30 days after receiving the request or within such further period as the Secretary in any particular case may allow.
     
-    (3) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under [section 55(1)(f)][171].
+    (3) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under [section 55(1)(f)][172].
     
-    Compare: 1987 No 116 [s 5D][330]; 1990 No 21 s 3
+    Compare: 1987 No 116 [s 5D][332]; 1990 No 21 s 3
     
-    Section 56(1)(a): amended, on 28 July 1997, by [section 3][331] of the Gas Amendment Act 1997 (1997 No 46).
+    Section 56(1)(a): amended, on 28 July 1997, by [section 3][333] of the Gas Amendment Act 1997 (1997 No 46).
 
 ##### 56A Reasonable charge may be imposed for providing copies of statements
     
-*   (1) Any person who is required by regulations made under [section 55][171] to provide copies of statements and information, on request, to the public, may charge for providing those copies.
+*   (1) Any person who is required by regulations made under [section 55][172] to provide copies of statements and information, on request, to the public, may charge for providing those copies.
     
     (2) Any charge imposed under subsection (1) for copies of statements and information may be no more than is reasonably required to recover the costs of providing those copies.
     
-    Section 56A: inserted, on 28 July 1997, by [section 4][332] of the Gas Amendment Act 1997 (1997 No 46).
+    Section 56A: inserted, on 28 July 1997, by [section 4][334] of the Gas Amendment Act 1997 (1997 No 46).
 
 #### Miscellaneous provisions
 
@@ -3751,57 +3769,57 @@ Miscellaneous provisions
     
     (5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
     
-    (6) Despite anything to the contrary in [section 25][333] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
+    (6) Despite anything to the contrary in [section 25][335] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
     
-    Compare: 1992 No 96 [s 49][334]
+    Compare: 1992 No 96 [s 49][336]
     
-    Section 56B: inserted, on 4 May 2010, by [section 15][335] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 56B: inserted, on 4 May 2010, by [section 15][337] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 56B(3): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56B(3): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56B(6): inserted, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56B(6): inserted, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Other offences
     
 *   (1) Every person commits an offence against this section who---
         
-    *   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under [section 55][171]; or
+    *   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under [section 55][172]; or
     
-    *   (b) fails, without reasonable excuse, to comply with the requirements of [section 56(1)(a)][172] or section 56(1)(b) or section 56(2) or section 56(3).
+    *   (b) fails, without reasonable excuse, to comply with the requirements of [section 56(1)(a)][173] or section 56(1)(b) or section 56(2) or section 56(3).
     
-    (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to [section 56][172].
+    (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to [section 56][173].
     
     (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
     (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000\.
     
-    Compare: 1987 No 116 [s 5E][336]; 1990 No 21 s 3
+    Compare: 1987 No 116 [s 5E][338]; 1990 No 21 s 3
     
-    Section 57 heading: substituted, on 4 May 2010, by [section 16][337] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 57 heading: substituted, on 4 May 2010, by [section 16][339] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 57(3): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57(3): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 57(4): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57(4): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57A Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][333] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under [section 54][167] or [55][171] ends on the date that is 5 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][335] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under [section 54][168] or [55][172] ends on the date that is 5 years after the date on which the offence was committed.
     
-    Section 57A: replaced, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57A: replaced, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57B Infringement offences
     
 *   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][338] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][340] of the Criminal Procedure Act 2011; or
     
-    *   (b) be served with an infringement notice as provided in [section 57C][179].
+    *   (b) be served with an infringement notice as provided in [section 57C][180].
     
-    (2) Despite [section 21][339] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][340].
+    (2) Despite [section 21][341] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][342].
     
-    Section 57B: replaced, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57B: replaced, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 57B(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57B(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 57C Infringement notices
     
@@ -3811,7 +3829,7 @@ Miscellaneous provisions
     
     *   (b) WorkSafe or another person has not taken enforcement action against the same defendant in respect of the same matter.
     
-    (2) WorkSafe may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][339] of the Summary Proceedings Act 1957\.
+    (2) WorkSafe may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][341] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
     
@@ -3827,23 +3845,23 @@ Miscellaneous provisions
     
     *   (b) in relation to a person other than WorkSafe, the filing of a charging document under this Act.
     
-    Section 57C: inserted, on 4 May 2010, by [section 17(1)][341] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 57C: inserted, on 4 May 2010, by [section 17(1)][343] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 57C(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(1)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(1)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(1)(b): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(1)(b): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(2): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(2): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(4)(a): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(4)(a): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(4)(a)(i): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57C(4)(a)(i): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 57C(4)(b): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57C(4)(b): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57C(4)(b): amended, on 4 October 2013, by [regulation 3(1)][342] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 57C(4)(b): amended, on 4 October 2013, by [regulation 3(1)][344] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 57D Procedural requirements for infringement notices
     
@@ -3867,7 +3885,7 @@ Miscellaneous provisions
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][339] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][341] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -3875,27 +3893,27 @@ Miscellaneous provisions
     
     *   (h) any other prescribed matters.
     
-    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][339] of the Summary Proceedings Act 1957 and, in that case,---
+    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][341] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed under regulations made under this Act; and
     
-    *   (b) in all other respects, [section 21][339] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][341] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
     (6) Reminder notices must contain the prescribed information.
     
-    Section 57D: inserted, on 4 May 2010, by [section 17(1)][341] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 57D: inserted, on 4 May 2010, by [section 17(1)][343] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 57D(1): amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57D(1): amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 57D(3): amended, on 1 July 2013, by [section 413][233] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57D(3): amended, on 1 July 2013, by [section 413][234] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57E Payment of infringement fee
     
 *   WorkSafe must pay all infringement fees received into a Crown Bank Account.
     
-    Section 57E: inserted, on 4 May 2010, by [section 17(1)][341] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 57E: inserted, on 4 May 2010, by [section 17(1)][343] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 57E: amended, on 16 December 2013, by [section 22][219] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    Section 57E: amended, on 16 December 2013, by [section 22][220] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 57F Effect of infringement notice
     
@@ -3903,21 +3921,21 @@ Miscellaneous provisions
     
     (2) Subsection (1) does not prevent a court being told, for the purpose of sentencing a person convicted of an offence under this Act, that the person has paid, or is obliged to pay, an infringement fee for a particular infringement offence.
     
-    Section 57F: inserted, on 4 May 2010, by [section 17(1)][341] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 57F: inserted, on 4 May 2010, by [section 17(1)][343] of the Gas Amendment Act 2006 (2006 No 71).
 
 ##### 58 Repeals, revocations, and consequential amendments
     
-*   (1) The enactments specified in [Schedule 1][187] are hereby repealed.
+*   (1) The enactments specified in [Schedule 1][188] are hereby repealed.
     
-    (2) The enactments specified in [Schedule 2][188] are hereby amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 2][189] are hereby amended in the manner indicated in that schedule.
     
-    (3) The regulations specified in [Schedule 3][189] are hereby revoked.
+    (3) The regulations specified in [Schedule 3][190] are hereby revoked.
     
     (4) The Gas Meter Testing Fees Determination 1982 (SR 1982/130) is hereby revoked.
 
 ##### 59 Savings
     
-*   The repeal, by [section 58(1)][183], of the Gas Act 1982 does not affect---
+*   The repeal, by [section 58(1)][184], of the Gas Act 1982 does not affect---
         
     *   (a) the validity of anything validated by section 69 of that Act; and
     
@@ -3936,7 +3954,7 @@ Miscellaneous provisions
 ## Schedule 1  
 Enactments repealed
 
-[s 58(1)][183]
+[s 58(1)][184]
 
 ## Auckland Provincial Act
 
@@ -3999,38 +4017,38 @@ Enactments repealed
 ## Schedule 2  
 Enactments amended
 
-[s 58(2)][183]
+[s 58(2)][184]
 
 ##### Energy Companies Act 1992 (1992 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][343]._
+_Amendment(s) incorporated in the [Act(s)][345]._
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][344]._
+_Amendment(s) incorporated in the [Act(s)][346]._
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][345]._
+_Amendment(s) incorporated in the [Act(s)][347]._
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][346]._
+_Amendment(s) incorporated in the [Act(s)][348]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][347]._
+_Amendment(s) incorporated in the [Act(s)][349]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][348]._
+_Amendment(s) incorporated in the [Act(s)][350]._
 
 ---
 
 ## Schedule 3  
 Regulations revoked
 
-[s 58(3)][183]
+[s 58(3)][184]
 
 ##### Gas Industry Regulations 1984 (SR 1984/246)
 
@@ -4046,7 +4064,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Gas Amendment Act 2004][349].
+*   (1) This Act is the [Gas Amendment Act 2004][351].
     
     (2) In this Act, the Gas Act 1992 is called ""the principal Act"".
 
@@ -4056,7 +4074,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
     
-    Section 2(1): amended, on 18 October 2004, by [section 201(1)][350] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1): amended, on 18 October 2004, by [section 201(1)][352] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Commencement of Energy Commission provisions
 
@@ -4098,7 +4116,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Gas Amendment Act 2006][351].
+*   This Act is the [Gas Amendment Act 2006][353].
 
 ##### 2 Commencement
     
@@ -4106,7 +4124,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
     
-    Section 2(2): sections 4, 5, 6(2)--(5), 7, 10--12, and 15--18 brought into force, on 4 May 2010, by the [Gas Amendment Act 2006 Commencement Order 2010][352] (SR 2010/75).
+    Section 2(2): sections 4, 5, 6(2)--(5), 7, 10--12, and 15--18 brought into force, on 4 May 2010, by the [Gas Amendment Act 2006 Commencement Order 2010][354] (SR 2010/75).
 
 ##### 17 New sections 57A to 57F inserted
     
@@ -4124,7 +4142,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][353].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][355].
 
 ##### 2 Commencement
     
@@ -4148,87 +4166,89 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][354] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][355] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][356] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][357] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][356] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][357] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][358] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][359] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][298]
+*   Consumer Guarantees Amendment Act 2013 (2013 No 144): [section 16][275]
     
-    WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][219]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][300]
     
-    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][342]
+    WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][220]
     
-    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][221]
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][344]
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][225]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][222]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][283]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][226]
     
-    [Gas Amendment Act 2012][358] (2012 No 103)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][285]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 318][290]
+    [Gas Amendment Act 2012][360] (2012 No 103)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][233]
+    Search and Surveillance Act 2012 (2012 No 24): [section 318][292]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][324]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][234]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][226]
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][326]
     
-    Electricity Industry Act 2010 (2010 No 116): [section 166][270]
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][227]
     
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 18--20][251]
+    Electricity Industry Act 2010 (2010 No 116): [section 166][271]
     
-    [Gas Amendment Act 2010][359] (2010 No 17)
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 18--20][252]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][244]
+    [Gas Amendment Act 2010][361] (2010 No 17)
     
-    Commerce Amendment Act 2008 (2008 No 70): [section 31(2)][211]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][245]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][216]
+    Commerce Amendment Act 2008 (2008 No 70): [section 31(2)][212]
     
-    [Gas Amendment Act 2007][360] (2007 No 60)
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][217]
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][210]
+    [Gas Amendment Act 2007][362] (2007 No 60)
     
-    [Gas Amendment Act 2006][351] (2006 No 71)
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][211]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][214]
+    [Gas Amendment Act 2006][353] (2006 No 71)
     
-    [Gas Amendment Act 2004][349] (2004 No 83)
+    Railways Act 2005 (2005 No 37): [section 103(3)][215]
     
-    Building Act 2004 (2004 No 72): [section 414][321]
+    [Gas Amendment Act 2004][351] (2004 No 83)
     
-    [Gas Amendment Act 2003][361] (2003 No 74)
+    Building Act 2004 (2004 No 72): [section 414][323]
     
-    Local Government Act 2002 (2002 No 84): [section 262][215]
+    [Gas Amendment Act 2003][363] (2003 No 74)
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][237]
+    Local Government Act 2002 (2002 No 84): [section 262][216]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][259]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][238]
     
-    Telecommunications Act 2001 (2001 No 103): [section 158][220]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][260]
     
-    [Gas Amendment Act 2001][362] (2001 No 67)
+    Telecommunications Act 2001 (2001 No 103): [section 158][221]
     
-    [Gas Amendment Act 2000][363] (2000 No 69)
+    [Gas Amendment Act 2001][364] (2001 No 67)
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][323]
+    [Gas Amendment Act 2000][365] (2000 No 69)
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][227]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][325]
     
-    [Gas Amendment Act 1997][364] (1997 No 46)
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][228]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][327]
+    [Gas Amendment Act 1997][366] (1997 No 46)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][264]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][329]
+    
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][265]
     
     Gas Amendment Act 1993 (1993 No 144)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][218]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][219]
 
 
 
@@ -4297,303 +4317,305 @@ Commencementsee section 2
 [62]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285914
 [63]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285947
 [64]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285948
-[65]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372708
-[66]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372709
-[67]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372710
-[68]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285950
-[69]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285951
-[70]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285953
-[71]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285955
-[72]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285963
-[73]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285964
-[74]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285966
-[75]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285968
-[76]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285970
-[77]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285972
-[78]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285974
-[79]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285976
-[80]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285978
-[81]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285980
-[82]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285981
-[83]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285983
-[84]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285985
-[85]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285986
-[86]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285989
-[87]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285991
-[88]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285992
-[89]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285994
-[90]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285996
-[91]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285998
-[92]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286200
-[93]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286202
-[94]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286205
-[95]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286206
-[96]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286208
-[97]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286210
-[98]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286212
-[99]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286214
-[100]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286216
-[101]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286218
-[102]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286220
-[103]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286222
-[104]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286224
-[105]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286226
-[106]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286228
-[107]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286230
-[108]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286231
-[109]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286234
-[110]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286236
-[111]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286237
-[112]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286239
-[113]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286240
-[114]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286242
-[115]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286244
-[116]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286245
-[117]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286247
-[118]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286249
-[119]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286251
-[120]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286253
-[121]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286255
-[122]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286257
-[123]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286258
-[124]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286260
-[125]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286264
-[126]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286266
-[127]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286267
-[128]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286269
-[129]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286271
-[130]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286272
-[131]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286274
-[132]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286276
-[133]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286278
-[134]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286280
-[135]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601800
-[136]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601801
-[137]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601802
-[138]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601803
-[139]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601804
-[140]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601806
-[141]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601809
-[142]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601811
-[143]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601813
-[144]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601815
-[145]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601817
-[146]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601818
-[147]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601820
-[148]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601822
-[149]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601824
-[150]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286508
-[151]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286510
-[152]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286512
-[153]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286513
-[154]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286514
-[155]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286515
-[156]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286516
-[157]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942835
-[158]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942837
-[159]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286519
-[160]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286520
-[161]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286521
-[162]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286522
-[163]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286524
-[164]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286525
-[165]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286526
-[166]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286528
-[167]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286529
-[168]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286538
-[169]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286541
-[170]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286543
-[171]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286544
-[172]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286553
-[173]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286555
-[174]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286557
-[175]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942848
-[176]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286559
-[177]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942855
-[178]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942856
-[179]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942857
-[180]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942859
-[181]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942860
-[182]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942861
-[183]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286566
-[184]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286567
-[185]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286568
-[186]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286569
-[187]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286570
-[188]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286573
-[189]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286576
-[190]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396707
-[191]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396708
-[192]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396777
-[193]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM64790
-[194]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM281857
-[195]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM432653
-[196]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396786
-[197]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM341575
-[198]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM170872
-[199]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM128138
-[200]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM420326
-[201]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM173374
-[202]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM420338
-[203]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM173368
-[204]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM292808
-[205]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM292817
-[206]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM278828
-[207]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM124960
-[208]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5302001
-[209]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396710
-[210]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM397798
-[211]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1194782
-[212]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990025
-[213]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217054
-[214]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM343101
-[215]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM174088
-[216]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1313622
-[217]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410371
-[218]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM293026
-[219]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5302071
-[220]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM127740
-[221]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4929207
-[222]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM242535
-[223]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM433612
-[224]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112765
-[225]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5081570
-[226]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3231293
-[227]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM435656
-[228]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852871
-[229]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217055
-[230]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM175289
-[231]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396725
-[232]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360482
-[233]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360714
-[234]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM147653
-[235]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM243909
-[236]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM243795
-[237]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM168713
-[238]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM264952
-[239]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163175
-[240]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM397105
-[241]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM282438
-[242]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM279288
-[243]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396726
-[244]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1102349
-[245]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396729
-[246]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119737
-[247]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM415531
-[248]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM45426
-[249]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119704
-[250]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119714
-[251]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924930
-[252]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM127423
-[253]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924931
-[254]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119717
-[255]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119720
-[256]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119723
-[257]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119726
-[258]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM131393
-[259]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM133500
-[260]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119701
-[261]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924933
-[262]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM175293
-[263]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM381221
-[264]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM385160
-[265]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM330308
-[266]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM129566
-[267]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315529
-[268]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM87622
-[269]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990032
-[270]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2634629
-[271]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2634710
-[272]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3252404
-[273]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM283333
-[274]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990034
-[275]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990035
-[276]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990036
-[277]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990037
-[278]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107118
-[279]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM88433
-[280]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89078
-[281]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2997643
-[282]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998573
-[283]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998633
-[284]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136781
-[285]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136542
-[286]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136771
-[287]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136877
-[288]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136888
-[289]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136896
-[290]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2137109
-[291]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89908
-[292]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89910
-[293]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM147320
-[294]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990038
-[295]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990039
-[296]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4632894
-[297]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990040
-[298]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5740665
-[299]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990041
-[300]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990043
-[301]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990044
-[302]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990045
-[303]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM321118
-[304]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990046
-[305]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM319569
-[306]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990047
-[307]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990048
-[308]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM88405
-[309]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990049
-[310]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396730
-[311]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396734
-[312]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM204972
-[313]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM291803
-[314]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM289897
-[315]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM306035
-[316]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5834632
-[317]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31458
-[318]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31478
-[319]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3366850
-[320]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396735
-[321]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM309090
-[322]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112766
-[323]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31885
-[324]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3366997
-[325]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396736
-[326]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119423
-[327]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM408960
-[328]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112767
-[329]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM77701
-[330]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119426
-[331]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410372
-[332]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410373
-[333]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360067
-[334]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM279656
-[335]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396740
-[336]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119430
-[337]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396742
-[338]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360057
-[339]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM311346
-[340]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3359902
-[341]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396743
-[342]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5642106
-[343]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM267128
-[344]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM98974
-[345]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230212
-[346]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM194753
-[347]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163182
-[348]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230264
-[349]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315518
-[350]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM331112
-[351]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396700
-[352]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2831200
-[353]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924904
-[354]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998516
-[355]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998515
-[356]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998532
-[357]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[358]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990020
-[359]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852866
-[360]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107111
-[361]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217048
-[362]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112759
-[363]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM76895
-[364]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410365
+[65]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM6156500
+[66]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372708
+[67]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372709
+[68]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3372710
+[69]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285950
+[70]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285951
+[71]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285953
+[72]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285955
+[73]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285963
+[74]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285964
+[75]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285966
+[76]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285968
+[77]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285970
+[78]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285972
+[79]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285974
+[80]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285976
+[81]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285978
+[82]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285980
+[83]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285981
+[84]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285983
+[85]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285985
+[86]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285986
+[87]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285989
+[88]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285991
+[89]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285992
+[90]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285994
+[91]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285996
+[92]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM285998
+[93]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286200
+[94]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286202
+[95]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286205
+[96]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286206
+[97]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286208
+[98]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286210
+[99]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286212
+[100]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286214
+[101]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286216
+[102]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286218
+[103]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286220
+[104]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286222
+[105]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286224
+[106]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286226
+[107]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286228
+[108]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286230
+[109]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286231
+[110]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286234
+[111]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286236
+[112]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286237
+[113]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286239
+[114]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286240
+[115]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286242
+[116]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286244
+[117]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286245
+[118]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286247
+[119]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286249
+[120]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286251
+[121]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286253
+[122]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286255
+[123]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286257
+[124]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286258
+[125]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286260
+[126]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286264
+[127]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286266
+[128]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286267
+[129]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286269
+[130]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286271
+[131]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286272
+[132]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286274
+[133]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286276
+[134]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286278
+[135]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286280
+[136]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601800
+[137]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601801
+[138]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601802
+[139]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601803
+[140]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601804
+[141]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601806
+[142]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601809
+[143]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601811
+[144]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601813
+[145]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601815
+[146]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601817
+[147]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601818
+[148]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601820
+[149]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601822
+[150]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM3601824
+[151]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286508
+[152]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286510
+[153]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286512
+[154]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286513
+[155]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286514
+[156]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286515
+[157]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286516
+[158]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942835
+[159]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942837
+[160]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286519
+[161]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286520
+[162]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286521
+[163]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286522
+[164]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286524
+[165]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286525
+[166]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286526
+[167]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286528
+[168]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286529
+[169]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286538
+[170]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286541
+[171]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286543
+[172]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286544
+[173]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286553
+[174]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286555
+[175]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286557
+[176]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942848
+[177]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286559
+[178]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942855
+[179]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942856
+[180]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942857
+[181]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942859
+[182]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942860
+[183]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM2942861
+[184]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286566
+[185]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286567
+[186]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286568
+[187]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286569
+[188]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286570
+[189]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286573
+[190]: http://www.legislation.govt.nz/act/public/1992/0124/latest/whole.html#DLM286576
+[191]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396707
+[192]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396708
+[193]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396777
+[194]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM64790
+[195]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM281857
+[196]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM432653
+[197]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396786
+[198]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM341575
+[199]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM170872
+[200]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM128138
+[201]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM420326
+[202]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM173374
+[203]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM420338
+[204]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM173368
+[205]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM292808
+[206]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM292817
+[207]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM278828
+[208]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM124960
+[209]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5302001
+[210]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396710
+[211]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM397798
+[212]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1194782
+[213]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990025
+[214]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217054
+[215]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM343101
+[216]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM174088
+[217]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1313622
+[218]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410371
+[219]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM293026
+[220]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5302071
+[221]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM127740
+[222]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4929207
+[223]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM242535
+[224]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM433612
+[225]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112765
+[226]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5081570
+[227]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3231293
+[228]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM435656
+[229]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852871
+[230]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217055
+[231]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM175289
+[232]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396725
+[233]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360482
+[234]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360714
+[235]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM147653
+[236]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM243909
+[237]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM243795
+[238]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM168713
+[239]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM264952
+[240]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163175
+[241]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM397105
+[242]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM282438
+[243]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM279288
+[244]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396726
+[245]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1102349
+[246]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396729
+[247]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119737
+[248]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM415531
+[249]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM45426
+[250]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119704
+[251]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119714
+[252]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924930
+[253]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM127423
+[254]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924931
+[255]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119717
+[256]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119720
+[257]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119723
+[258]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119726
+[259]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM131393
+[260]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM133500
+[261]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119701
+[262]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924933
+[263]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM175293
+[264]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM381221
+[265]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM385160
+[266]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM330308
+[267]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM129566
+[268]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315529
+[269]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM87622
+[270]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990032
+[271]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2634629
+[272]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2634710
+[273]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3252404
+[274]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM283333
+[275]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5787659
+[276]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990034
+[277]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990035
+[278]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990036
+[279]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990037
+[280]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107118
+[281]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM88433
+[282]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89078
+[283]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2997643
+[284]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998573
+[285]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998633
+[286]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136781
+[287]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136542
+[288]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136771
+[289]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136877
+[290]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136888
+[291]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2136896
+[292]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2137109
+[293]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89908
+[294]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM89910
+[295]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM147320
+[296]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990038
+[297]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990039
+[298]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4632894
+[299]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990040
+[300]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5740665
+[301]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990041
+[302]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990043
+[303]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990044
+[304]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990045
+[305]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM321118
+[306]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990046
+[307]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM319569
+[308]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990047
+[309]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990048
+[310]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM88405
+[311]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990049
+[312]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396730
+[313]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396734
+[314]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM204972
+[315]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM291803
+[316]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM289897
+[317]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM306035
+[318]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5834632
+[319]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31458
+[320]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31478
+[321]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3366850
+[322]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396735
+[323]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM309090
+[324]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112766
+[325]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM31885
+[326]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3366997
+[327]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396736
+[328]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119423
+[329]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM408960
+[330]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112767
+[331]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM77701
+[332]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119426
+[333]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410372
+[334]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410373
+[335]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360067
+[336]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM279656
+[337]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396740
+[338]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM119430
+[339]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396742
+[340]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3360057
+[341]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM311346
+[342]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3359902
+[343]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396743
+[344]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5642106
+[345]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM267128
+[346]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM98974
+[347]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230212
+[348]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM194753
+[349]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163182
+[350]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230264
+[351]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315518
+[352]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM331112
+[353]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396700
+[354]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2831200
+[355]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924904
+[356]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998516
+[357]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998515
+[358]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998532
+[359]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[360]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990020
+[361]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852866
+[362]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107111
+[363]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217048
+[364]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112759
+[365]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM76895
+[366]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410365
