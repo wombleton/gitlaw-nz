@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Justice.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -461,7 +461,7 @@ An Act to restate and reform the law relating to the carriage of goods within Ne
     
     *   (d) the joint and several liability of every successive carrier under a contract to which [section 13][15] applies,---
     
-    is limited in amount in each case to the sum of $1,500 for each unit of goods lost or damaged or, in the case of a contract at declared value risk, the amount specified in the contract.
+    is limited in amount in each case to the sum of $2,000 for each unit of goods lost or damaged or, in the case of a contract at declared value risk, the amount specified in the contract.
     
     (2) The limitation of amount for the time being specified in subsection (1) does not apply to---
         
@@ -473,7 +473,7 @@ An Act to restate and reform the law relating to the carriage of goods within Ne
     
     Compare: 1940 No 31 s 6; 1948 No 66 s 6; 1967 No 151 s 28
     
-    Section 15(1): amended, on 1 December 1989, by section 2(1) of the Carriage of Goods Amendment Act 1989 (1989 No 100).
+    Section 15(1): amended, on 17 June 2014, by [section 4][50] of the Carriage of Goods Amendment Act 2013 (2013 No 147).
 
 #### Liability of employees
 
@@ -675,7 +675,7 @@ An Act to restate and reform the law relating to the carriage of goods within Ne
 
 ##### 30 Certain other Acts not affected
     
-*   Nothing in this Act shall limit or affect any of the provisions of the Explosives Act 1957, the Restricted Drugs Act 1960, the [Radiation Protection Act 1965][50], the Dangerous Goods Act 1974, or any other enactment relating to goods of a particular nature or class; and in any case where any of the provisions of this Act are inconsistent with any of the provisions of any such other enactment, the provisions of that other enactment shall prevail.
+*   Nothing in this Act shall limit or affect any of the provisions of the Explosives Act 1957, the Restricted Drugs Act 1960, the [Radiation Protection Act 1965][51], the Dangerous Goods Act 1974, or any other enactment relating to goods of a particular nature or class; and in any case where any of the provisions of this Act are inconsistent with any of the provisions of any such other enactment, the provisions of that other enactment shall prevail.
     
     Compare: 1967 No 151 s 44
 
@@ -743,15 +743,17 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][51] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][52] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][52] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][53] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][53] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][54] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][54] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][55] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][47]
+*   [Carriage of Goods Amendment Act 2013][56] (2013 No 147)
+    
+    Companies Amendment Act 2013 (2013 No 111): [section 14][47]
     
     Insolvency Act 2006 (2006 No 55): [section 445][48]
     
@@ -760,8 +762,6 @@ _Amendment(s) incorporated in the Act(s)_.
     Maritime Transport Act 1994 (1994 No 104): [section 212(2)][44]
     
     Defence Act 1990 (1990 No 28): [section 105(1)][41]
-    
-    Carriage of Goods Amendment Act 1989 (1989 No 100)
     
     Carriage of Goods Amendment Act 1980 (1980 No 102)
 
@@ -817,8 +817,10 @@ _Amendment(s) incorporated in the Act(s)_.
 [47]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM5620822
 [48]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM387857
 [49]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM242491
-[50]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM372538
-[51]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998516
-[52]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998515
-[53]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998532
-[54]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[50]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM5788407
+[51]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM372538
+[52]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998516
+[53]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998515
+[54]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998532
+[55]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[56]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM5788402
