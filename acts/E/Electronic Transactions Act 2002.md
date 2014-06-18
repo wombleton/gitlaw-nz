@@ -1,5 +1,5 @@
 Reprint  
-as at 10 May 2014
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -145,7 +145,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
     
     (2) [Sections 14(3)][21] and [36][50] come into force on the day after the date on which this Act receives the Royal assent.
     
-    Section 2(1): Electronic Transactions Act 2002 (except sections 14(3) and 36) brought into force, on 21 November 2003, by the [Electronic Transactions Act Commencement Order 2003][54] (SR 2003/289).
+    Section 2(1): this Act (except sections 14(3) and 36) brought into force, on 21 November 2003, by the [Electronic Transactions Act Commencement Order 2003][54] (SR 2003/289).
 
 ## Part 1  
 Preliminary
@@ -729,42 +729,39 @@ Provisions
 
 [Section 25F(4)][83]
 
-##### Door to Door Sales Act 1967 (1967 No 126)
-
-[Section 6(1)][84]
-
 ##### Fisheries Act 1996 (1996 No 88)
 
-[Part 8][85]
+[Part 8][84]
 
 ##### Medicines Regulations 1984 (SR 1984/143)
 
-[Regulations 41][86] and [42][87]
+[Regulations 41][85] and [42][86]
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65)
 
-[Section 13C][88]
+[Section 13C][87]
 
 ##### Passports Act 1992 (1992 No 92)
 
-[Section 12][89]
+[Section 12][88]
     
-*   Schedule Part 2 Citizenship Regulations 1978: repealed, on 21 November 2003, by [clause 3(1)(a)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Citizenship Regulations 2002: inserted, on 21 November 2003, by [clause 3(1)(a)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Corrections Regulations 2005: inserted, on 6 June 2008, by [clause 4(2)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Criminal Justice Regulations 1985: repealed, on 21 November 2003, by [clause 3(1)(b)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
-*   Schedule Part 2 Dental Act 1988: repealed, on 6 June 2008, by [clause 4(1)(a)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Dieticians Act 1950: repealed, on 6 June 2008, by [clause 4(1)(b)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Health Act 1956: repealed, on 6 June 2008, by [clause 4(1)(c)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Human Tissue Act 1964: repealed, on 6 June 2008, by [clause 4(1)(d)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Medical Practitioners Act 1995: repealed, on 6 June 2008, by [clause 4(1)(e)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Mental Health (Compulsory Assessment and Treatment) Act 1992: repealed, on 6 June 2008, by [clause 4(1)(f)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Occupational Therapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(g)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Penal Institutions Regulations 2000: repealed, on 6 June 2008, by [clause 4(1)(h)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Pharmacy Act 1970: repealed, on 6 June 2008, by [clause 4(1)(i)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Physiotherapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(j)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Tuberculosis Act 1948: repealed, on 6 June 2008, by [clause 4(1)(k)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
-*   Schedule Part 2 Venereal Diseases Regulations 1982: repealed, on 6 June 2008, by [clause 4(1)(l)][91] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Citizenship Regulations 1978: repealed, on 21 November 2003, by [clause 3(1)(a)][89] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Citizenship Regulations 2002: inserted, on 21 November 2003, by [clause 3(1)(a)][89] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Corrections Regulations 2005: inserted, on 6 June 2008, by [clause 4(2)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Criminal Justice Regulations 1985: repealed, on 21 November 2003, by [clause 3(1)(b)][89] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 2 Dental Act 1988: repealed, on 6 June 2008, by [clause 4(1)(a)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Dieticians Act 1950: repealed, on 6 June 2008, by [clause 4(1)(b)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Door to Door Sales Act 1967 : repealed, on 17 June 2014, by [section 41(2)][91] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Schedule Part 2 Health Act 1956: repealed, on 6 June 2008, by [clause 4(1)(c)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Human Tissue Act 1964: repealed, on 6 June 2008, by [clause 4(1)(d)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Medical Practitioners Act 1995: repealed, on 6 June 2008, by [clause 4(1)(e)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Mental Health (Compulsory Assessment and Treatment) Act 1992: repealed, on 6 June 2008, by [clause 4(1)(f)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Occupational Therapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(g)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Penal Institutions Regulations 2000: repealed, on 6 June 2008, by [clause 4(1)(h)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Pharmacy Act 1970: repealed, on 6 June 2008, by [clause 4(1)(i)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Physiotherapy Act 1949: repealed, on 6 June 2008, by [clause 4(1)(j)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Tuberculosis Act 1948: repealed, on 6 June 2008, by [clause 4(1)(k)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
+*   Schedule Part 2 Venereal Diseases Regulations 1982: repealed, on 6 June 2008, by [clause 4(1)(l)][90] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 
 ## Part 3  
 Descriptions of provisions of enactments
@@ -882,10 +879,10 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 *   Schedule Part 4 item (7): substituted, on 1 July 2009, by [section 35][117] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
 *   Schedule Part 4 item (8): substituted, on 1 July 2009, by [section 87][118] of the Court Martial Act 2007 (2007 No 101).
 *   Schedule Part 4 item (8A): inserted, on 1 July 2009, by [section 81][119] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
-*   Schedule Part 4 item (11): repealed, on 21 November 2003, by [clause 3(2)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 4 item (11): repealed, on 21 November 2003, by [clause 3(2)][89] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
 *   Schedule Part 4 item (13): substituted, on 6 June 2008, by [clause 6(1)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 *   Schedule Part 4 item (14): substituted, at 2 am on 29 November 2010, by [section 406(1)][121] of the Immigration Act 2009 (2009 No 51).
-*   Schedule Part 4 item (17): repealed, on 21 November 2003, by [clause 3(2)][90] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
+*   Schedule Part 4 item (17): repealed, on 21 November 2003, by [clause 3(2)][89] of the Electronic Transactions (Exclusion of Enactments and Provisions) Order 2003 (SR 2003/290).
 *   Schedule Part 4 item (21): substituted, on 6 June 2008, by [clause 6(2)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 *   Schedule Part 4 item (22): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
 *   Schedule Part 4 item (23): repealed, on 6 June 2008, by [clause 6(3)][120] of the Electronic Transactions (Amendments to Schedule) Order 2008 (SR 2008/113).
@@ -917,6 +914,8 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 ###### 4 Amendments incorporated in this reprint
     
 *   [Electronic Transactions (Contract Formation) Amendment Act 2014][127] (2014 No 25)
+    
+    Fair Trading Amendment Act 2013 (2013 No 143): [section 41(2)][91]
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][121]
     
@@ -1024,14 +1023,14 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 [81]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414515
 [82]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM414535
 [83]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM437129
-[84]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM384193
-[85]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401151
-[86]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96538
-[87]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96539
-[88]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM23477
-[89]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM278019
-[90]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220625
-[91]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281631
+[84]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM401151
+[85]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96538
+[86]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96539
+[87]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM23477
+[88]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM278019
+[89]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM220625
+[90]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281631
+[91]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM3673107
 [92]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM96438
 [93]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM1281633
 [94]: http://www.legislation.govt.nz/act/public/2002/0035/latest/link.aspx?id=DLM144692
