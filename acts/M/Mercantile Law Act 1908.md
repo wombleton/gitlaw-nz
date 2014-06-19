@@ -1,3 +1,6 @@
+Reprint  
+as at 17 June 2014
+
 # Mercantile Law Act 1908Public Act1908 No 117
 
 Date of assent4 August 1908
@@ -6,132 +9,134 @@ Date of assent4 August 1908
 
 ###### Note
 
-This Act is administered in the Ministry of Commerce
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
+
+This Act is administered in the Ministry of Commerce.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title, etc][1]
+[1][2][][2][Short Title, etc][2]
 
-[Part 1][2]  
-[Mercantile agents][2]
+[Part 1][3]  
+[Mercantile agents][3]
 
-[2][3] [Interpretation][3]
+[2][4][][4][Interpretation][4]
 
-[Dispositions by mercantile agents][4]
+[Dispositions by mercantile agents][5]
 
-[3][5] [Powers of mercantile agent with respect to disposition of goods][5]
+[3][6][][6][Powers of mercantile agent with respect to disposition of goods][6]
 
-[4][6] [Effect of pledges of documents of title][6]
+[4][7][][7][Effect of pledges of documents of title][7]
 
-[5][7] [Pledge for antecedent debt][7]
+[5][8][][8][Pledge for antecedent debt][8]
 
-[6][8] [Rights acquired by exchange of goods or documents][8]
+[6][9][][9][Rights acquired by exchange of goods or documents][9]
 
-[7][9] [Agreements through clerks, etc][9]
+[7][10][][10][Agreements through clerks, etc][10]
 
-[8][10] [Provisions as to consignors and consignees][10]
+[8][11][][11][Provisions as to consignors and consignees][11]
 
-[9][11] [Effect of transfer of document of title to goods on vendor's lien, and right of stoppage _in transitu_][11]
+[9][12][][12][Effect of transfer of document of title to goods on vendor's lien, and right of stoppage _in transitu_][12]
 
-[Miscellaneous][12]
+[Miscellaneous][13]
 
-[10][13] [Mode of transferring documents][13]
+[10][14][][14][Mode of transferring documents][14]
 
-[11][14] [Saving of rights of true owner][14]
+[11][15][][15][Saving of rights of true owner][15]
 
-[12][15] [Saving for common law powers of mercantile agent][15]
+[12][16][][16][Saving for common law powers of mercantile agent][16]
 
-[Part 2][16]  
-[Bills of lading][16]
+[Part 2][17]  
+[Bills of lading][17]
 
-[13][17] [Interpretation][17]
+[13][18][][18][Interpretation][18]
 
-[13A][18] [Application of this Part][18]
+[13A][19][][19][Application of this Part][19]
 
-[13B][19] [Rights under shipping documents][19]
+[13B][20][][20][Rights under shipping documents][20]
 
-[13C][20] [Liabilities under shipping documents][20]
+[13C][21][][21][Liabilities under shipping documents][21]
 
-[14][21] [Right of stoppage _in transitu_, or claims for freight, not affected][21]
+[14][22][][22][Right of stoppage _in transitu_, or claims for freight, not affected][22]
 
-[15][22] [Bill of lading in hands of consignee, etc, conclusive evidence as against master, etc][22]
+[15][23][][23][Bill of lading in hands of consignee, etc, conclusive evidence as against master, etc][23]
 
-[16][23] [When master may be exonerated from liability][23]
+[16][24][][24][When master may be exonerated from liability][24]
 
-[Part 3][24]  
-[Carriers][24]
+[Part 3][25]  
+[Carriers][25]
 
-[17][25] [][25] \[Repealed\]
+[17][26][][26][Carriers liable for neglect or default in carriage of goods, notwithstanding notice to contrary][26] \[Repealed\]
 
-[18][26] [][26] \[Repealed\]
+[18][27][][27][Exception of conditions for carrying adjudged by a Court or Judge to be reasonable][27] \[Repealed\]
 
-[19][27] [][27] \[Repealed\]
+[19][28][][28][Special contracts not binding unless signed][28] \[Repealed\]
 
-[20][28] [][28] \[Repealed\]
+[20][29][][29][Carriers not liable in certain cases beyond limited amount unless value declared and extra payment made][29] \[Repealed\]
 
-[Part 4][29]  
-[Delivery of goods, and lien for freight][29]
+[Part 4][30]  
+[Delivery of goods, and lien for freight][30]
 
-[21][30] [Interpretation][30]
+[21][31][][31][Interpretation][31]
 
-[22][31] [Power to shipowner to enter and land goods in default of entry and landing by owner of goods][31]
+[22][32][][32][Power to shipowner to enter and land goods in default of entry and landing by owner of goods][32]
 
-[23][32] [Continuation of lien for freight if shipowner gives notice][32]
+[23][33][][33][Continuation of lien for freight if shipowner gives notice][33]
 
-[24][33] [Lien to be discharged on deposit with warehouse owner][33]
+[24][34][][34][Lien to be discharged on deposit with warehouse owner][34]
 
-[25][34] [Right of warehouse owner, if no notice is given, to pay deposit to shipowner][34]
+[25][35][][35][Right of warehouse owner, if no notice is given, to pay deposit to shipowner][35]
 
-[26][35] [Course to be taken if notice to retain is given][35]
+[26][36][][36][Course to be taken if notice to retain is given][36]
 
-[27][36] [After 90 days warehouse owner may sell goods by public auction][36]
+[27][37][][37][After 90 days warehouse owner may sell goods by public auction][37]
 
-[28][37] [Notices of sale to be given][37]
+[28][38][][38][Notices of sale to be given][38]
 
-[29][38] [Money arising from sale, how to be applied][38]
+[29][39][][39][Money arising from sale, how to be applied][39]
 
-[30][39] [Warehouse owner's rent and expenses][39]
+[30][40][][40][Warehouse owner's rent and expenses][40]
 
-[31][40] [Warehouse owner's protection][40]
+[31][41][][41][Warehouse owner's protection][41]
 
-[Part 5][41]  
-[Unpaid vendors of warehoused goods][41]
+[Part 5][42]  
+[Unpaid vendors of warehoused goods][42]
 
-[32][42] [Interpretation][42]
+[32][43][][43][Interpretation][43]
 
-[33][43] [Unpaid vendor's lien determined on delivery of bond warrants to bona fide holder for value][43]
+[33][44][][44][Unpaid vendor's lien determined on delivery of bond warrants to bona fide holder for value][44]
 
-[34][44] [Possession of warrants prima facie evidence of ownership][44]
+[34][45][][45][Possession of warrants prima facie evidence of ownership][45]
 
-[35][45] [Holder of warrant entitled to delivery][45]
+[35][46][][46][Holder of warrant entitled to delivery][46]
 
-[36][46] [Registered holder of warrant deemed to be owner][46]
+[36][47][][47][Registered holder of warrant deemed to be owner][47]
 
-[37][47] [Lien of registered transferee of warrant determined on delivery of warrant bona fide and for value][47]
+[37][48][][48][Lien of registered transferee of warrant determined on delivery of warrant bona fide and for value][48]
 
-[38][48] [Warrants of free goods put on the same footing as bond warrants][48]
+[38][49][][49][Warrants of free goods put on the same footing as bond warrants][49]
 
-[39][49] [Provisions same in respect of bonded and free warehouses][49]
+[39][50][][50][Provisions same in respect of bonded and free warehouses][50]
 
-[40][50] [Vendor's lien not prejudiced save as against bona fide subpurchaser or pledgee for value, etc][50]
+[40][51][][51][Vendor's lien not prejudiced save as against bona fide subpurchaser or pledgee for value, etc][51]
 
-[41][51] [Goods not to be transferred in books of warehouseman except on production of warrant][51]
+[41][52][][52][Goods not to be transferred in books of warehouseman except on production of warrant][52]
 
-[42][52] [Special contracts restraining negotiability of warrants][52]
+[42][53][][53][Special contracts restraining negotiability of warrants][53]
 
-[43][53] [Warehouseman's lien not prejudiced by sale or transfer of goods][53]
+[43][54][][54][Warehouseman's lien not prejudiced by sale or transfer of goods][54]
 
-[Part 6][54]  
-[Book purchasers protection][54]
+[Part 6][55]  
+[Book purchasers protection][55]
 
-[44][55] [Validity of agreements for purchase of books][55]
+[44][56][][56][Validity of agreements for purchase of books][56] \[Repealed\]
 
-[Schedule][56]  
-[Enactments consolidated][56]
+[Schedule][57]  
+[Enactments consolidated][57]
 
 ---
 
@@ -141,20 +146,20 @@ An Act to consolidate certain enactments of the General Assembly relating to tra
     
 *   (1) The Short Title of this Act is the Mercantile Law Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][56] hereto.
+    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][57].
     
     (3) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
     
-    (4) In order to remove any doubt as to the applicability of the provisions of Parts [2][16], [3][24], and [4][29] of this Act to and in respect of navigable lakes and inland navigable waters of New Zealand, it is hereby declared that those provisions extend and apply to all parts of New Zealand so far as the same are applicable.
+    (4) In order to remove any doubt as to the applicability of the provisions of [Parts 2][17], [3][25], and [4][30] of this Act to and in respect of navigable lakes and inland navigable waters of New Zealand, it is hereby declared that those provisions extend and apply to all parts of New Zealand so far as the same are applicable.
     
     (5) This Act is divided into Parts, as follows:
         
-    *   PART [1][2]---Mercantile Agents. (Sections [2 to 12][3].)
-    *   PART [2][16]---Bills of Lading. (Sections [13 to 16][17].)
-    *   PART [3][24]---Carriers. (Sections [17 to 20][25].)
-    *   PART [4][29]---Delivery of Goods and Lien for Freight. (Sections [21 to 31][30].)
-    *   PART [5][41]---Unpaid Vendors of Warehoused Goods. (Sections [32 to 43][42].)
-    *   PART [6][54]---Book Purchasers Protection. (Section [44][55].)
+    *   [Part 1][3]---Mercantile Agents. ([Sections 2 to 12][4].)
+    *   [Part 2][17]---Bills of Lading. ([Sections 13 to 16][18].)
+    *   [Part 3][25]---Carriers. ([Sections 17 to 20][26].)
+    *   [Part 4][30]---Delivery of Goods and Lien for Freight. ([Sections 21 to 31][31].)
+    *   [Part 5][42]---Unpaid Vendors of Warehoused Goods. ([Sections 32 to 43][43].)
+    *   [Part 6][55]---Book Purchasers Protection. ([Section 44][56].)
     
     
 
@@ -165,17 +170,17 @@ Mercantile agents
     
 *   (1) In this Part of this Act, if not inconsistent with the context,---
     
-    _Document of title_ includes any bill of lading, dock warrant, warehouse keeper's certificate, and warrant or order for the delivery of goods, and any other document used in the ordinary course of business as proof of the possession or control of goods, or authorising or purporting to authorise, either by endorsement or by delivery, the possessor of the document to transfer or receive goods thereby represented
+    _document of title_ includes any bill of lading, dock warrant, warehouse keeper's certificate, and warrant or order for the delivery of goods, and any other document used in the ordinary course of business as proof of the possession or control of goods, or authorising or purporting to authorise, either by endorsement or by delivery, the possessor of the document to transfer or receive goods thereby represented
     
-    _Goods_ includes wares and merchandise
+    _goods_ includes wares and merchandise
     
-    _Mercantile agent_ means an agent having in the customary course of his business as such agent authority either to sell goods, or to consign goods for the purpose of sale, or to buy goods, or to raise money on the security of goods
+    _mercantile agent_ means an agent having in the customary course of his business as such agent authority either to sell goods, or to consign goods for the purpose of sale, or to buy goods, or to raise money on the security of goods
     
-    _Pledge_ includes any contract pledging or giving a lien or security on goods, whether in consideration of an original advance, or of any further or continuing advance, or of any pecuniary liability.
+    _pledge_ includes any contract pledging or giving a lien or security on goods, whether in consideration of an original advance, or of any further or continuing advance, or of any pecuniary liability.
     
     (2) A person shall be deemed to be in possession of goods, or of the documents of title to goods, where the goods or documents are in his actual custody, or are held by any other person subject to his control or for him or on his behalf.
     
-    Compare: 1890 No 11 s 3; Factors Act 1889, s 1 (UK)
+    Compare: 1890 No 11 s 3; Factors Act 1889 s 1 (UK)
 
 #### Dispositions by mercantile agents
 
@@ -183,7 +188,7 @@ Mercantile agents
     
 *   (1) Where a mercantile agent is, with the consent of the owner, in possession of goods or of the documents of title to goods, any sale, pledge, or other disposition of the goods made by him when acting in the ordinary course of business of a mercantile agent shall, subject to the provisions of this Part of this Act, be as valid as if he were expressly authorised by the owner of the goods to make the same; provided that the person taking under the disposition acts in good faith, and has not at the time of the disposition notice that the person making the disposition has no authority to make the same.
     
-    (1A) Where a mercantile agent is, with the consent of the owner, in possession of goods, or documents of title to the goods, that are subject to a perfected security interest under the [Personal Property Securities Act 1999][57], the person taking under any disposition of the goods is deemed to have notice that the person making the disposition has no authority to make it, unless it is proved that the authority did exist.
+    (1A) Where a mercantile agent is, with the consent of the owner, in possession of goods, or documents of title to the goods, that are subject to a perfected security interest under the [Personal Property Securities Act 1999][58], the person taking under any disposition of the goods is deemed to have notice that the person making the disposition has no authority to make it, unless it is proved that the authority did exist.
     
     (2) Where a mercantile agent has, with the consent of the owner, been in possession of goods or of the documents of title to goods, any sale, pledge, or other disposition which would have been valid if the consent had continued shall be valid notwithstanding the determination of the consent, provided that the person taking under the disposition has not at the time thereof notice that the consent has been determined.
     
@@ -191,17 +196,15 @@ Mercantile agents
     
     (4) For the purposes of this Part of this Act the consent of the owner shall be presumed in the absence of evidence to the contrary.
     
-    Compare: 1890 No 11 s 4; Factors Act 1889, s 2 (UK)
+    Compare: 1890 No 11 s 4; Factors Act 1889 s 2 (UK)
     
-    Subsection (1A) was inserted, as from 1 April 1990, by section 67 Motor Vehicle Securities Act 1989 (1989 No 14).
-    
-    Subsection (1A) was substituted, as from 1 May 2002, by section [191(1)][58] Personal Property Securities Act 1999 (1999 No 126). _See_ also Part [12][59] of that Act for transitional provisions.
+    Section 3(1A) : replaced, on 1 May 2002, by [section 191(1)][59] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 4 Effect of pledges of documents of title
     
 *   A pledge of the documents of title to goods shall be deemed to be a pledge of the goods.
     
-    Compare: 1890 No 11 s 5; Factors Act 1889, s 3 (UK)
+    Compare: 1890 No 11 s 5; Factors Act 1889 s 3 (UK)
 
 ##### 5 Pledge for antecedent debt
     
@@ -213,13 +216,13 @@ Mercantile agents
     
 *   The consideration necessary for the validity of a sale, pledge, or other disposition of goods in pursuance of this Part of this Act may be either a payment in cash, or the delivery or transfer of other goods, or of a document of title to goods, or of a negotiable security, or any other valuable consideration; but where goods are pledged by a mercantile agent in consideration of the delivery or transfer of other goods, or of a document of title to goods, or of a negotiable security, the pledgee shall acquire no right or interest in the goods so pledged in excess of the value of the goods, documents, or security when so delivered or transferred in exchange.
     
-    Compare: 1890 No 11 s 7; Factors Act 1889, s 5 (UK)
+    Compare: 1890 No 11 s 7; Factors Act 1889 s 5 (UK)
 
 ##### 7 Agreements through clerks, etc
     
 *   For the purposes of this Part of this Act an agreement made with a mercantile agent through a clerk or other person authorised in the ordinary course of business to make contracts of sale or pledge on his behalf shall be deemed to be an agreement with the agent.
     
-    Compare: 1890 No 11 s 8; Factors Act 1889, s 6 (UK)
+    Compare: 1890 No 11 s 8; Factors Act 1889 s 6 (UK)
 
 ##### 8 Provisions as to consignors and consignees
     
@@ -227,15 +230,15 @@ Mercantile agents
     
     (2) Nothing in this section shall limit or affect the validity of any sale, pledge, or disposition by a mercantile agent.
     
-    Compare: 1890 No 11 s 9; Factors Act 1889, s 7 (UK)
+    Compare: 1890 No 11 s 9; Factors Act 1889 s 7 (UK)
 
 ##### 9 Effect of transfer of document of title to goods on vendor's lien, and right of stoppage _in transitu_
     
 *   Where a document of title to goods has been lawfully transferred to a person as a buyer or owner of the goods, and that person transfers the document to a person who takes the document in good faith and for valuable consideration, the last-mentioned transfer shall have the same effect for defeating any vendor's lien or right of stoppage _in transitu_ as the transfer of a bill of lading has for defeating the right of stoppage _in transitu_:
     
-    Provided that this section shall be construed subject to section [48][60] of the [Sale of Goods Act 1908][61].
+    Provided that this section shall be construed subject to [section 48][60] of the Sale of Goods Act 1908\.
     
-    Compare: 1890 No 11 s 12; Factors Act 1889, s 10 (UK)
+    Compare: 1890 No 11 s 12; Factors Act 1889 s 10 (UK)
 
 #### Miscellaneous
 
@@ -243,27 +246,27 @@ Mercantile agents
     
 *   For the purposes of this Part of this Act the transfer of a document may be by endorsement, or where the document is by custom or by its express terms transferable by delivery, or makes the goods deliverable to the bearer, then by delivery.
     
-    Compare: 1890 No 11 s 13; Factors Act 1889, s 11 (UK)
+    Compare: 1890 No 11 s 13; Factors Act 1889 s 11 (UK)
 
 ##### 11 Saving of rights of true owner
     
 *   Nothing in this Part of this Act shall---
         
-    *   (a) Authorise a mercantile agent to exceed or depart from his authority as between himself and his principal, or exempt him from any liability, civil or criminal, for so doing; or
+    *   (a) authorise a mercantile agent to exceed or depart from his authority as between himself and his principal, or exempt him from any liability, civil or criminal, for so doing; or
     
-    *   (b) Prevent the owner of goods from recovering the goods from a mercantile agent or his trustee in bankruptcy at any time before the sale or pledge thereof; or
+    *   (b) prevent the owner of goods from recovering the goods from a mercantile agent or his trustee in bankruptcy at any time before the sale or pledge thereof; or
     
-    *   (c) Prevent the owner of goods pledged by a mercantile agent from having the right to redeem the goods at any time before the sale thereof, on satisfying the claim for which the goods were pledged and paying to the mercantile agent, if by him required, any money in respect of which such agent would by law be entitled to retain the goods or the documents of title thereto, or any of them, by way of lien as against the owner, or from recovering from any person with whom the goods have been pledged any balance of money remaining in his hands as the produce of the sale of the goods after deducting the amount of his lien; or
+    *   (c) prevent the owner of goods pledged by a mercantile agent from having the right to redeem the goods at any time before the sale thereof, on satisfying the claim for which the goods were pledged and paying to the mercantile agent, if by him required, any money in respect of which such agent would by law be entitled to retain the goods or the documents of title thereto, or any of them, by way of lien as against the owner, or from recovering from any person with whom the goods have been pledged any balance of money remaining in his hands as the produce of the sale of the goods after deducting the amount of his lien; or
     
-    *   (d) Prevent the owner of goods sold by a mercantile agent from recovering from the buyer the price agreed to be paid for the same, or any part of that price, subject to any right of set-off on the part of the buyer against such agent.
+    *   (d) prevent the owner of goods sold by a mercantile agent from recovering from the buyer the price agreed to be paid for the same, or any part of that price, subject to any right of set-off on the part of the buyer against such agent.
     
-    Compare: 1890 No 11 s 14; Factors Act 1889, s 12 (UK)
+    Compare: 1890 No 11 s 14; Factors Act 1889 s 12 (UK)
 
 ##### 12 Saving for common law powers of mercantile agent
     
 *   The provisions of this Part of this Act shall be construed in amplification and not in derogation of the powers exercisable by a mercantile agent independently of this Part of this Act.
     
-    Compare: 1890 No 11 s 15; Factors Act 1889, s 13 (UK)
+    Compare: 1890 No 11 s 15; Factors Act 1889 s 13 (UK)
 
 ## Part 2  
 Bills of lading
@@ -272,151 +275,151 @@ Bills of lading
     
 *   (1) In this Part of this Act, unless the context otherwise requires,---
     
-    _Bill of lading_, _sea waybill_, and _ship's delivery order_ shall be construed in accordance with section [13A][18] of this Act
+    _bill of lading_, _sea waybill_, and _ship's delivery order_ shall be construed in accordance with [section 13A][19] of this Act
     
-    _The contract of carriage_ means,---
+    _the contract of carriage_ means,---
         
-    *   (a) In relation to a bill of lading or sea waybill, the contract contained in or evidenced by that bill or waybill; and
+    *   (a) in relation to a bill of lading or sea waybill, the contract contained in or evidenced by that bill or waybill; and
     
-    *   (b) In relation to a ship's delivery order, the contract under or for the purposes of which the undertaking contained in the order is given:
+    *   (b) in relation to a ship's delivery order, the contract under or for the purposes of which the undertaking contained in the order is given
     
-    _Holder_, in relation to a bill of lading, shall be construed in accordance with subsection [(2)][17] of this section
+    _holder_, in relation to a bill of lading, shall be construed in accordance with subsection (2) of this section
     
-    _Information technology_ includes any computer or other technology by means of which information or other matter may be recorded or communicated without being reduced to documentary form
+    _information technology_ includes any computer or other technology by means of which information or other matter may be recorded or communicated without being reduced to documentary form
     
-    _Network_ has the same meaning as in section [5][62] of the [Telecommunications Act 2001][63].
-    
-    Network: this definition was substituted, as from 20 December 2001, by section [158][64] Telecommunications Act 2001 (2001 No 103).
+    _network_ has the same meaning as in [section 5][61] of the Telecommunications Act 2001\.
     
     (2) References in this Part of this Act to the holder of a bill of lading are references to any of the following persons:
         
-    *   (a) A person with possession of the bill who, by virtue of being the person identified in the bill, is the consignee of the goods to which the bill relates:
+    *   (a) a person with possession of the bill who, by virtue of being the person identified in the bill, is the consignee of the goods to which the bill relates:
     
-    *   (b) A person with possession of the bill as a result of the completion (by delivery of the bill) of any endorsement of the bill or, in the case of a bearer bill, as a result of any other transfer of the bill:
+    *   (b) a person with possession of the bill as a result of the completion (by delivery of the bill) of any endorsement of the bill or, in the case of a bearer bill, as a result of any other transfer of the bill:
     
-    *   (c) A person with possession of the bill as a result of any transaction by virtue of which that person would have become a holder under paragraph [(a)][17] or paragraph [(b)][17] of this subsection had not the transaction been effected at a time when possession of the bill no longer gave a right (as against the carrier) to possession of the goods to which the bill relates;---
+    *   (c) a person with possession of the bill as a result of any transaction by virtue of which that person would have become a holder under paragraph (a) or paragraph (b) of this subsection had not the transaction been effected at a time when possession of the bill no longer gave a right (as against the carrier) to possession of the goods to which the bill relates;
     
     and a person shall be regarded for the purposes of this Act as having become the lawful holder of the bill of lading whenever that person has become the holder of the bill in good faith.
     
-    (3) References in this Part of this Act to a person's being identified in a document include references to that person being identified by a description which allows for the identity of that person to be varied, in accordance with the terms of the document, after its issue; and the reference in section [13A(3)(b)][18] of this Part of this Act to a document identifying a person shall be construed accordingly.
+    (3) References in this Part of this Act to a person's being identified in a document include references to that person being identified by a description which allows for the identity of that person to be varied, in accordance with the terms of the document, after its issue; and the reference in [section 13A(3)(b)][19] of this Part of this Act to a document identifying a person shall be construed accordingly.
     
-    (4) Without prejudice to section [13B(2)][19] of this Act, nothing in this Part of this Act shall preclude its operation in relation to a case where the goods to which a document relates---
+    (4) Without prejudice to [section 13B(2)][20] of this Act, nothing in this Part of this Act shall preclude its operation in relation to a case where the goods to which a document relates---
         
-    *   (a) Cease to exist after the issue of the document; or
+    *   (a) cease to exist after the issue of the document; or
     
-    *   (b) Cannot be identified (whether because they are mixed with other goods or for any other reason);---
+    *   (b) cannot be identified (whether because they are mixed with other goods or for any other reason);
     
     and references in this Part of this Act to the goods to which a document relates shall be construed accordingly.
     
     (5) The Governor-General may, by Order in Council, make regulations for the application of this Part of this Act to cases where a network or other information technology is used for effecting transactions corresponding to---
         
-    *   (a) The issue, endorsement, delivery or other transfer of a document to which this Part of this Act applies; or
+    *   (a) the issue, endorsement, delivery or other transfer of a document to which this Part of this Act applies; or
     
-    *   (b) The doing of anything else in relation to such a document.
+    *   (b) the doing of anything else in relation to such a document.
     
-    (6) Regulations made under subsection [(5)][17] of this section may---
+    (6) Regulations made under subsection (5) of this section may---
         
-    *   (a) Make such modifications of the provisions of this Part of this Act as are appropriate in connection with the application of this Part of this Act to any case mentioned in that subsection; and
+    *   (a) make such modifications of the provisions of this Part of this Act as are appropriate in connection with the application of this Part of this Act to any case mentioned in that subsection; and
     
-    *   (b) Contain supplemental, incidental, consequential, and transitional provisions.
+    *   (b) contain supplemental, incidental, consequential, and transitional provisions.
     
-    (7) The provisions of this Part of this Act shall have effect without prejudice to the application, in relation to any case, of section [209][65] of the [Maritime Transport Act 1994][66].
+    (7) The provisions of this Part of this Act shall have effect without prejudice to the application, in relation to any case, of [section 209][62] of the Maritime Transport Act 1994\.
     
     Compare: 1880 No 12 s 21
     
-    Section 13 was substituted, and sections 13A to 13C were inserted, as from 1 February 1995, by section 2 Mercantile Law Amendment Act 1994 (1994 No 106). _See_ clause [2][67] [Mercantile Law Amendment Act Commencement Order 1994][68] (SR 1994/270).
+    Section 13: replaced, on 1 February 1995, by section 2 of the Mercantile Law Amendment Act 1994 (1994 No 106).
+    
+    Section 13(1) **network**: replaced, on 20 December 2001, by [section 158][63] of the Telecommunications Act 2001 (2001 No 103).
 
 ##### 13A Application of this Part
     
 *   (1) This Part of this Act applies to the following documents:
         
-    *   (a) Any bill of lading:
+    *   (a) any bill of lading:
     
-    *   (b) Any sea waybill:
+    *   (b) any sea waybill:
     
-    *   (c) Any ship's delivery order.
+    *   (c) any ship's delivery order.
     
     (2) References in this Act to a bill of lading---
         
-    *   (a) Do not include references to a document which is incapable of transfer either by endorsement or, as a bearer bill, by delivery without endorsement; but
+    *   (a) do not include references to a document which is incapable of transfer either by endorsement or, as a bearer bill, by delivery without endorsement; but
     
-    *   (b) Subject to paragraph [(a)][18] of this subsection, include references to a received for shipment bill of lading.
+    *   (b) subject to paragraph (a) of this subsection, include references to a received for shipment bill of lading.
     
     (3) References in this Act to a sea waybill are references to any document that is not a bill of lading but---
         
-    *   (a) Is such a receipt for goods as contains or evidences a contract for the carriage of goods by sea; and
+    *   (a) is such a receipt for goods as contains or evidences a contract for the carriage of goods by sea; and
     
-    *   (b) Identifies the person to whom delivery of the goods is to be made by the carrier in accordance with that contract.
+    *   (b) identifies the person to whom delivery of the goods is to be made by the carrier in accordance with that contract.
     
     (4) References in this Part of this Act to a ship's delivery order are references to any document that is neither a bill of lading nor a sea waybill, but contains an undertaking that---
         
-    *   (a) Is given under or for the purposes of a contract for the carriage by sea of the goods to which the document relates, or of goods which include those goods; and
+    *   (a) is given under or for the purposes of a contract for the carriage by sea of the goods to which the document relates, or of goods which include those goods; and
     
-    *   (b) Is an undertaking by the carrier to a person identified in the document to deliver the goods to which the document relates to that person.
+    *   (b) is an undertaking by the carrier to a person identified in the document to deliver the goods to which the document relates to that person.
     
-    Section 13 was substituted, and sections 13A to 13C were inserted, as from 1 February 1995, by section 2 Mercantile Law Amendment Act 1994 (1994 No 106). _See_ clause [2][67] [Mercantile Law Amendment Act Commencement Order 1994][68] (SR 1994/270).
+    Section 13A: inserted, on 1 February 1995, by section 2 of the Mercantile Law Amendment Act 1994 (1994 No 106).
 
 ##### 13B Rights under shipping documents
     
 *   (1) Subject to this section, a person who becomes---
         
-    *   (a) The lawful holder of a bill of lading; or
+    *   (a) the lawful holder of a bill of lading; or
     
-    *   (b) The person who (without being an original party to the contract of carriage) is the person to whom delivery of the goods to which a sea waybill relates is to be made by the carrier in accordance with that contract; or
+    *   (b) the person who (without being an original party to the contract of carriage) is the person to whom delivery of the goods to which a sea waybill relates is to be made by the carrier in accordance with that contract; or
     
-    *   (c) The person to whom delivery of the goods to which a ship's delivery order relates is to be made in accordance with the undertaking contained in the order,---
+    *   (c) the person to whom delivery of the goods to which a ship's delivery order relates is to be made in accordance with the undertaking contained in the order,---
     
     shall (by virtue of becoming the holder of the bill or, as the case may be, the person to whom delivery is to be made) have transferred to and vested in him or her all rights of suit under the contract of carriage as if that person had been a party to that contract.
     
-    (2) Where a person becomes the lawful holder of a bill of lading when possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates, that person shall not have any rights transferred to him or her by virtue of subsection [(1)][19] of this section unless that person becomes the holder of the bill---
+    (2) Where a person becomes the lawful holder of a bill of lading when possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates, that person shall not have any rights transferred to him or her by virtue of subsection (1) of this section unless that person becomes the holder of the bill---
         
-    *   (a) By virtue of a transaction effected in pursuance of any contractual or other arrangements made before the time when such a right to possession ceased to attach to possession of the bill; or
+    *   (a) by virtue of a transaction effected in pursuance of any contractual or other arrangements made before the time when such a right to possession ceased to attach to possession of the bill; or
     
-    *   (b) As a result of the rejection to that person by another person of goods or documents delivered to the other person in pursuance of any such arrangements.
+    *   (b) as a result of the rejection to that person by another person of goods or documents delivered to the other person in pursuance of any such arrangements.
     
-    (3) The rights vested in any person by virtue of the operation of subsection [(1)][19] of this section in relation to a ship's delivery order---
+    (3) The rights vested in any person by virtue of the operation of subsection (1) of this section in relation to a ship's delivery order---
         
-    *   (a) Shall be so vested subject to the terms of the order; and
+    *   (a) shall be so vested subject to the terms of the order; and
     
     *   (b) Where the goods to which the order relates form a part only of the goods to which the contract of carriage relates, shall be confined to rights in respect of the goods to which the order relates.
     
     (4) Where, in the case of any document to which this Part of this Act applies,---
         
-    *   (a) A person with any interest or right in or in relation to goods to which the document relates sustains loss or damage in consequence of a breach of the contract of carriage; but
+    *   (a) a person with any interest or right in or in relation to goods to which the document relates sustains loss or damage in consequence of a breach of the contract of carriage; but
     
-    *   (b) Subsection [(1)][19] of this section operates in relation to that document so that rights of suit in respect of that breach are vested in another person,---
+    *   (b) subsection (1) of this section operates in relation to that document so that rights of suit in respect of that breach are vested in another person,---
     
     the other person shall be entitled to exercise those rights for the benefit of the person who sustained the loss or damage to the same extent as they could have been exercised if they had been vested in the person for whose benefit they are exercised.
     
-    (5) Where rights are transferred by virtue of the operation of subsection [(1)][19] of this section in relation to any document, the transfer for which that subsection provides shall extinguish any entitlement to those rights that derives,---
+    (5) Where rights are transferred by virtue of the operation of subsection (1) of this section in relation to any document, the transfer for which that subsection provides shall extinguish any entitlement to those rights that derives,---
         
-    *   (a) Where that document is a bill of lading, from a person's having been an original party to the contract of carriage; or
+    *   (a) where that document is a bill of lading, from a person's having been an original party to the contract of carriage; or
     
-    *   (b) In the case of any document to which this Act applies from the previous operation of that subsection in relation to that document;---
+    *   (b) in the case of any document to which this Act applies from the previous operation of that subsection in relation to that document;
     
     but the operation of that subsection shall be without prejudice to any rights which derive from a person's having been an original party to the contract contained in, or evidenced by, a sea waybill and, in relation to a ship's delivery order, shall be without prejudice to any rights deriving otherwise than from the previous operation of that subsection in relation to that order.
     
-    Section 13 was substituted, and sections 13A to 13C were inserted, as from 1 February 1995, by section 2 Mercantile Law Amendment Act 1994 (1994 No 106). _See_ clause [2][67] [Mercantile Law Amendment Act Commencement Order 1994][68] (SR 1994/270).
+    Section 13B: inserted, on 1 February 1995, by section 2 of the Mercantile Law Amendment Act 1994 (1994 No 106).
 
 ##### 13C Liabilities under shipping documents
     
-*   (1) Where section [13B(1)][19] of this Act operates in relation to any document to which this Part of this Act applies and the person in whom rights are vested by virtue of that subsection---
+*   (1) Where [section 13B(1)][20] of this Act operates in relation to any document to which this Part of this Act applies and the person in whom rights are vested by virtue of that subsection---
         
-    *   (a) Takes or demands delivery from the carrier of any of the goods to which the document relates; or
+    *   (a) takes or demands delivery from the carrier of any of the goods to which the document relates; or
     
-    *   (b) Makes a claim under the contract of carriage against the carrier in respect of any of those goods; or
+    *   (b) makes a claim under the contract of carriage against the carrier in respect of any of those goods; or
     
-    *   (c) Is a person who, at a time before those rights were vested in him or her, took or demanded delivery from the carrier of any of those goods,---
+    *   (c) is a person who, at a time before those rights were vested in him or her, took or demanded delivery from the carrier of any of those goods,---
     
-    that person shall (by virtue of taking or demanding delivery or making the claim or, in a case to which paragraph [(c)][20] of this subsection applies, of having the rights vested in him or her) become subject to the same liabilities under that contract as if that person had been a party to that contract.
+    that person shall (by virtue of taking or demanding delivery or making the claim or, in a case to which paragraph (c) of this subsection applies, of having the rights vested in him or her) become subject to the same liabilities under that contract as if that person had been a party to that contract.
     
     (2) Where the goods to which a ship's delivery order relates form a part only of the goods to which the contract of carriage relates, the liabilities to which any person is subject by virtue of the operation of this subsection in relation to that order shall exclude liabilities in respect of any goods to which the order does not relate.
     
     (3) This section, so far as it imposes liabilities under any contract on any person, shall be without prejudice to the liabilities under the contract of any person as an original party to the contract.
     
-    Compare: 1908 No 117 s [13][17]
+    Compare: 1908 No 117 [s 13][18]
     
-    Section 13 was substituted, and sections 13A to 13C were inserted, as from 1 February 1995, by section 2 Mercantile Law Amendment Act 1994 (1994 No 106). _See_ clause [2][67] [Mercantile Law Amendment Act Commencement Order 1994][68] (SR 1994/270).
+    Section 13C: inserted, on 1 February 1995, by section 2 of the Mercantile Law Amendment Act 1994 (1994 No 106).
 
 ##### 14 Right of stoppage _in transitu_, or claims for freight, not affected
     
@@ -430,7 +433,7 @@ Bills of lading
     
     Compare: 1880 No 12 s 23
     
-    Section 15 was amended by section [2][69] Mercantile Law Amendment Act 1922 (1922 No 25) by inserting the words ""of the shipper or"". _See_ also section [3][70] of that Act.
+    Section 15: amended, on 16 October 1922, by [section 2][64] of the Mercantile Law Amendment Act 1922 (1922 No 25).
 
 ##### 16 When master may be exonerated from liability
     
@@ -441,29 +444,29 @@ Bills of lading
 ## Part 3  
 Carriers
 
-##### 17
+##### 17 Carriers liable for neglect or default in carriage of goods, notwithstanding notice to contrary
     
 *   \[Repealed\]
     
-    Sections 17-20 were repealed by section 11 Carriers Act 1948\.
+    Section 17: repealed, on 2 December 1948, by section 11 of the Carriers Act 1948 (1948 No 66).
 
-##### 18
+##### 18 Exception of conditions for carrying adjudged by a Court or Judge to be reasonable
     
 *   \[Repealed\]
     
-    Sections 17-20 were repealed by section 11 Carriers Act 1948\.
+    Section 18: repealed, on 2 December 1948, by section 11 of the Carriers Act 1948 (1948 No 66).
 
-##### 19
+##### 19 Special contracts not binding unless signed
     
 *   \[Repealed\]
     
-    Sections 17-20 were repealed by section 11 Carriers Act 1948\.
+    Section 19: repealed, on 2 December 1948, by section 11 of the Carriers Act 1948 (1948 No 66).
 
-##### 20
+##### 20 Carriers not liable in certain cases beyond limited amount unless value declared and extra payment made
     
 *   \[Repealed\]
     
-    Sections 17-20 were repealed by section 11 Carriers Act 1948\.
+    Section 20: repealed, on 2 December 1948, by section 11 of the Carriers Act 1948 (1948 No 66).
 
 ## Part 4  
 Delivery of goods, and lien for freight
@@ -472,23 +475,23 @@ Delivery of goods, and lien for freight
     
 *   In this Part of this Act, if not inconsistent with the context,---
     
-    _Entry_ means the entry required by the Customs laws to be made for the landing or discharge of goods from an importing ship
+    _entry_ means the entry required by the Customs laws to be made for the landing or discharge of goods from an importing ship
     
-    _Goods_ includes every description of wares and merchandise
+    _goods_ includes every description of wares and merchandise
     
-    _Owner of goods_ includes every person who is for the time being entitled, either as owner or agent for the owner, to the possession of the goods, subject in the case of a lien to such lien
+    _owner of goods_ includes every person who is for the time being entitled, either as owner or agent for the owner, to the possession of the goods, subject in the case of a lien to such lien
     
-    _Report_ means the report required by the Customs laws to be made by the master of any importing ship
+    _report_ means the report required by the Customs laws to be made by the master of any importing ship
     
-    _Shipowner_ includes the master of the ship and every other person authorised to act as agent for the owner or entitled to receive the freight, demurrage, or other charges payable in respect of such ship
+    _shipowner_ includes the master of the ship and every other person authorised to act as agent for the owner or entitled to receive the freight, demurrage, or other charges payable in respect of such ship
     
-    _Warehouse_ includes all warehouses, buildings, and premises in which goods when landed from ships may be lawfully placed
+    _warehouse_ includes all warehouses, buildings, and premises in which goods when landed from ships may be lawfully placed
     
-    _Warehouse owner_ means the occupier of any warehouse as hereinbefore defined
+    _warehouse owner_ means the occupier of any warehouse as hereinbefore defined
     
-    _Wharf_ includes all wharves, quays, docks, and premises in or upon which any goods when landed from ships may be lawfully placed
+    _wharf_ includes all wharves, quays, docks, and premises in or upon which any goods when landed from ships may be lawfully placed
     
-    _Wharf owner_ means the occupier of any wharf as hereinbefore defined.
+    _wharf owner_ means the occupier of any wharf as hereinbefore defined.
     
     Compare: 1880 No 12 s 29
 
@@ -496,19 +499,19 @@ Delivery of goods, and lien for freight
     
 *   Where the owner of goods imported from foreign parts into New Zealand fails to make entry thereof, or, having made entry thereof, to land the same or take delivery thereof, and to proceed therewith with all convenient speed by the times severally hereinafter mentioned, the shipowner may make entry of and land or unship the said goods at the times, in the manner, and subject to the conditions following, that is to say:
         
-    *   (a) If a time for the delivery of the goods is expressed in the charterparty, bill of lading, or agreement, then at any time after the time so expressed:
+    *   (a) if a time for the delivery of the goods is expressed in the charterparty, bill of lading, or agreement, then at any time after the time so expressed:
     
-    *   (b) If no time for the delivery of the goods is expressed in the charterparty, bill of lading, or agreement, then at any time after the expiration of 72 hours, exclusive of a Sunday or holiday, after the report of the ship:
+    *   (b) if no time for the delivery of the goods is expressed in the charterparty, bill of lading, or agreement, then at any time after the expiration of 72 hours, exclusive of a Sunday or holiday, after the report of the ship:
     
-    *   (c) If any wharf or warehouse is named in the charterparty, bill of lading, or agreement as the wharf or warehouse where the goods are to be placed, and if they can be conveniently there received, the shipowner in landing them by virtue of this enactment shall cause them to be placed on such wharf or in such warehouse:
+    *   (c) if any wharf or warehouse is named in the charterparty, bill of lading, or agreement as the wharf or warehouse where the goods are to be placed, and if they can be conveniently there received, the shipowner in landing them by virtue of this enactment shall cause them to be placed on such wharf or in such warehouse:
     
-    *   (d) In other cases the shipowner, in landing goods by virtue of this enactment, shall place them on or in some wharf or warehouse on or in which goods of a like nature are usually placed, such wharf or warehouse being, if the goods are dutiable, a wharf or warehouse duly approved by the Minister of Customs for the landing of dutiable goods:
+    *   (d) in other cases the shipowner, in landing goods by virtue of this enactment, shall place them on or in some wharf or warehouse on or in which goods of a like nature are usually placed, such wharf or warehouse being, if the goods are dutiable, a wharf or warehouse duly approved by the Minister of Customs for the landing of dutiable goods:
     
-    *   (e) If at any time before the goods are landed or unshipped the owner of the goods is ready and offers to land or take delivery of the same, he shall be allowed so to do, and his entry shall in such case be preferred to any entry made by the shipowner:
+    *   (e) if at any time before the goods are landed or unshipped the owner of the goods is ready and offers to land or take delivery of the same, he shall be allowed so to do, and his entry shall in such case be preferred to any entry made by the shipowner:
     
-    *   (f) If any goods are for the purpose of convenience in assorting the same landed at the wharf where the ship is discharged, and the owner of the goods at the time of such landing has made entry and is ready and offers to take delivery thereof and to convey the same to some other wharf or warehouse, such goods shall be assorted at landing; and shall, if demanded, be delivered to the owner thereof within 24 hours after assortment, and the expense of and consequent on such landing and assortment shall be borne by the shipowner:
+    *   (f) if any goods are for the purpose of convenience in assorting the same landed at the wharf where the ship is discharged, and the owner of the goods at the time of such landing has made entry and is ready and offers to take delivery thereof and to convey the same to some other wharf or warehouse, such goods shall be assorted at landing; and shall, if demanded, be delivered to the owner thereof within 24 hours after assortment, and the expense of and consequent on such landing and assortment shall be borne by the shipowner:
     
-    *   (g) If at any time before the goods are landed or unshipped the owner thereof has made entry for the landing and warehousing thereof at any particular wharf or warehouse other than that at which the ship is discharging, and has offered and been ready to take delivery thereof, and the shipowner has failed to make such delivery, and has also failed at the time of such offer to give the owner of the goods correct information of the time at which such goods can be delivered, then the shipowner shall, before landing or unshipping such goods under the power hereby given to him, give to the owner of the goods or of such wharf or warehouse as last aforesaid 24 hours' notice in writing of his readiness to deliver the goods, and shall, if he lands or unships the same without such notice, do so at his own risk and expense.
+    *   (g) if at any time before the goods are landed or unshipped the owner thereof has made entry for the landing and warehousing thereof at any particular wharf or warehouse other than that at which the ship is discharging, and has offered and been ready to take delivery thereof, and the shipowner has failed to make such delivery, and has also failed at the time of such offer to give the owner of the goods correct information of the time at which such goods can be delivered, then the shipowner shall, before landing or unshipping such goods under the power hereby given to him, give to the owner of the goods or of such wharf or warehouse as last aforesaid 24 hours' notice in writing of his readiness to deliver the goods, and shall, if he lands or unships the same without such notice, do so at his own risk and expense.
     
     Compare: 1880 No 12 s 30
 
@@ -538,13 +541,13 @@ Delivery of goods, and lien for freight
     
 *   If such deposit is made with the wharf or warehouse owner, and the person making the same does within 15 days after making it give to the wharf or warehouse owner notice as aforesaid,---
         
-    *   (a) The wharf or warehouse owner shall immediately apprise the shipowner of such notice, and shall pay or tender to him out of the sum deposited the sum admitted by such notice to be payable, and shall retain the balance or, if no sum is admitted to be payable, the whole of the sum deposited for 30 days from the date of the said notice:
+    *   (a) ihe wharf or warehouse owner shall immediately apprise the shipowner of such notice, and shall pay or tender to him out of the sum deposited the sum admitted by such notice to be payable, and shall retain the balance or, if no sum is admitted to be payable, the whole of the sum deposited for 30 days from the date of the said notice:
     
-    *   (b) At the expiration of such 30 days, unless legal or arbitral proceedings have in the meantime been instituted by the shipowner against the owner of the goods to recover the said balance or sum, or otherwise for the settlement of any disputes between them concerning such freight or other charges as aforesaid, and notice in writing of such proceedings has been served on him, the wharf or warehouse owner shall pay the said balance or sum over to the owner of the goods, and shall by such payment be discharged from all liability in respect thereof.
+    *   (b) at the expiration of such 30 days, unless legal or arbitral proceedings have in the meantime been instituted by the shipowner against the owner of the goods to recover the said balance or sum, or otherwise for the settlement of any disputes between them concerning such freight or other charges as aforesaid, and notice in writing of such proceedings has been served on him, the wharf or warehouse owner shall pay the said balance or sum over to the owner of the goods, and shall by such payment be discharged from all liability in respect thereof.
     
     Compare: 1880 No 12 s 35
     
-    Paragraph (b) was amended, as from 1 July 1997, by section [17][71] Arbitration Act 1996 (1996 No 99) by inserting after the word ""legal"" the words ""or arbitral"".
+    Section 26(b): amended, on 1 July 1997, by [section 17][65] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 27 After 90 days warehouse owner may sell goods by public auction
     
@@ -566,17 +569,17 @@ Delivery of goods, and lien for freight
     
 *   In every case of any such sale as aforesaid the wharf or warehouse owner shall apply the money received from the sale in the following order:
         
-    *   (a) If the goods are sold for home use, in payment of any Customs or excise duties owing in respect thereof;
+    *   (a) if the goods are sold for home use, in payment of any Customs or excise duties owing in respect thereof;
     
-    *   (b) In payment of the expenses of the sale;
+    *   (b) in payment of the expenses of the sale;
     
-    *   (c) In the absence of any agreement between the wharf or warehouse owner and the shipowner concerning the priority of their respective charges, in payment of the rent, rates, and other charges due to the wharf or warehouse owner in respect of the said goods;
+    *   (c) in the absence of any agreement between the wharf or warehouse owner and the shipowner concerning the priority of their respective charges, in payment of the rent, rates, and other charges due to the wharf or warehouse owner in respect of the said goods;
     
-    *   (d) In payment of the amount claimed by the shipowner as due for freight or other charges in respect of the said goods;
+    *   (d) in payment of the amount claimed by the shipowner as due for freight or other charges in respect of the said goods;
     
-    *   (e) But in the case of any agreement between the wharf or warehouse owner and the shipowner concerning the priority of their respective charges, then such charges shall have priority according to the terms of such agreement; and
+    *   (e) but in the case of any agreement between the wharf or warehouse owner and the shipowner concerning the priority of their respective charges, then such charges shall have priority according to the terms of such agreement; and
     
-    *   (f) The surplus, if any, shall be paid to the owner of the goods.
+    *   (f) the surplus, if any, shall be paid to the owner of the goods.
     
     Compare: 1880 No 12 s 38
 
@@ -599,27 +602,27 @@ Unpaid vendors of warehoused goods
     
 *   In this Part of this Act, if not inconsistent with the context,---
     
-    _Bonded warehouse_ means a building approved and appointed by the Minister of Customs for the warehousing of goods without payment of duty on the first entry thereof
+    _bonded warehouse_ means a building approved and appointed by the Minister of Customs for the warehousing of goods without payment of duty on the first entry thereof
     
-    _Free warehouse_ means a building licensed by the Minister of Customs to be used exclusively for the storage of any goods not liable to the payment of Customs duties, or whereon such duties have been paid previously to storage
+    _free warehouse_ means a building licensed by the Minister of Customs to be used exclusively for the storage of any goods not liable to the payment of Customs duties, or whereon such duties have been paid previously to storage
     
-    _Goods_ includes wares and merchandise of every description
+    _goods_ includes wares and merchandise of every description
     
-    _Pledge_ means any deposit and delivery of warrants or certificates with intent that the holder thereof may dispose of the goods to which such warrants or certificates relate in the event of the terms of the deposit not being fulfilled by the persons making the same
+    _pledge_ means any deposit and delivery of warrants or certificates with intent that the holder thereof may dispose of the goods to which such warrants or certificates relate in the event of the terms of the deposit not being fulfilled by the persons making the same
     
-    _Pledgee_ means the person in whose favour the deposit of the warrants or certificates is made
+    _pledgee_ means the person in whose favour the deposit of the warrants or certificates is made
     
-    _Sale_ means any absolute disposition of goods, whether for payment to be made in cash or upon credit
+    _sale_ means any absolute disposition of goods, whether for payment to be made in cash or upon credit
     
-    _Subpurchaser_ means any person purchasing from or under the person to whom the original bonder or storer of goods in a bonded or free warehouse sold the same and delivered the warrants or certificates relating thereto
+    _subpurchaser_ means any person purchasing from or under the person to whom the original bonder or storer of goods in a bonded or free warehouse sold the same and delivered the warrants or certificates relating thereto
     
-    _Warehouse keeper_ means the person having the management of any bonded or free warehouse, whether the warehouseman himself or a person employed by him
+    _warehouse keeper_ means the person having the management of any bonded or free warehouse, whether the warehouseman himself or a person employed by him
     
-    _Warehouse keeper's book_ means the book wherein the warehouse keeper enters a list of all goods received in and delivered out of the warehouse managed by him
+    _warehouse keeper's book_ means the book wherein the warehouse keeper enters a list of all goods received in and delivered out of the warehouse managed by him
     
-    _Warehouseman_ means the person for whose immediate benefit and under whose control the storage of goods in a bonded or free warehouse is carried on
+    _warehouseman_ means the person for whose immediate benefit and under whose control the storage of goods in a bonded or free warehouse is carried on
     
-    _Warrants_ or _certificates_ means any receipt or undertaking issued by or on behalf of the warehouseman, and signed by him or on his behalf, acknowledging the receipt in a specified warehouse of goods to be held on behalf of a person named and described, giving the particulars of the goods stored, the marks or brands (if any) thereon, the terms upon which the goods are stored, and containing an undertaking on the part of the warehouseman to deliver the same to the endorsee, holder, or bearer of the warrant or certificate.
+    _warrants_ or _certificates_ means any receipt or undertaking issued by or on behalf of the warehouseman, and signed by him or on his behalf, acknowledging the receipt in a specified warehouse of goods to be held on behalf of a person named and described, giving the particulars of the goods stored, the marks or brands (if any) thereon, the terms upon which the goods are stored, and containing an undertaking on the part of the warehouseman to deliver the same to the endorsee, holder, or bearer of the warrant or certificate.
     
     Compare: 1880 No 12 s 85
 
@@ -698,97 +701,107 @@ Book purchasers protection
 
 ##### 44 Validity of agreements for purchase of books
     
-*   (1) Every agreement for the purchase of any book or part of a book, or of engravings, lithographs, or pictures, or of any other like matter, whether illustrated or not (herein termed **printed matter**), shall be absolutely void in every case where such printed matter is not to be delivered to the purchaser at the date of such agreement in a completed form, and so as to embrace the whole of the volumes or numbers of the printed matter, unless the purchaser of such printed matter first signs an agreement on a form in which, in red capital letters not less than great primer, the following words and figures are printed---namely, ""The total liability of the purchaser under this agreement is \[_Inserting the amount in similar printed letters and also in printed figures of like size_\]"", and unless such form is printed or written in black, wholly or partly, across and subsequent to the printing of such red letters and figures.
+*   \[Repealed\]
     
-    (2) The vendor of such printed matter, or his agent, shall at the time of the signing of the agreement aforesaid also hand over to the purchaser a duplicate of the agreement, having printed on it in addition the words ""Duplicate to be kept by purchaser"", and the name and address in full of the vendor; and the vendor shall not be entitled to recover under such agreement unless he produces an acknowledgment by the purchaser that he has received such duplicate of the agreement as aforesaid.
-    
-    (3) In any action in any Court on any contract for the purchase of such printed matter the Court may determine the value of the said printed matter, proof of which shall be on the vendor.
-    
-    Compare: 1891 No 21 ss 2, 3, 4
+    Section 44: repealed, on 17 June 2014, by [section 41(2)][66] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ---
 
 ## Schedule  
 Enactments consolidated
 
-Section [1(2)][1]
+[s 1(2)][2]
 
 *   1880, No 12---The Mercantile Law Act 1880: Except sections 4, 41, 43, 45 to 51, 59 to 77, and 81 to 83\.
 *   1889, No 11---The Mercantile Law Act Amendment Act 1889\.
 *   1890, No 11---The Mercantile Agents Act 1890: Except sections 10 and 11
 *   1891, No 21---The Book Purchasers Protection Act 1891\.
 
+#### 
+
+---
+
+##### Eprint notes
+
+###### 1 General
+    
+*   This is an eprint of the Mercantile Law Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 About this eprint
+    
+*   This eprint is not an official version of the legislation under [section 18][67] of the Legislation Act 2012\.
+
+###### 3 Amendments incorporated in this eprint
+    
+*   Fair Trading Amendment Act 2013 (2013 No 143): [section 41(2)][66]
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171947
-[1]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171949
-[2]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171950
-[3]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171951
-[4]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171960
-[5]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171961
-[6]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171964
-[7]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171965
-[8]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171966
-[9]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171967
-[10]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171968
-[11]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171969
-[12]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171970
-[13]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171971
-[14]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171972
-[15]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171973
-[16]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171974
-[17]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171975
-[18]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171990
-[19]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171992
-[20]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171994
-[21]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171996
-[22]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171997
-[23]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171999
-[24]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172400
-[25]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172401
-[26]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172403
-[27]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172405
-[28]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172407
-[29]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172409
-[30]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172410
-[31]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172429
-[32]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172430
-[33]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172431
-[34]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172432
-[35]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172433
-[36]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172435
-[37]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172436
-[38]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172437
-[39]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172438
-[40]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172439
-[41]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172440
-[42]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172441
-[43]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172465
-[44]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172466
-[45]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172467
-[46]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172468
-[47]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172469
-[48]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172470
-[49]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172471
-[50]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172472
-[51]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172473
-[52]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172474
-[53]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172475
-[54]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172476
-[55]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172477
-[56]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172478
-[57]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM45599
-[58]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM47639
-[59]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM47641
+
+[0]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171947
+[2]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171949
+[3]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171950
+[4]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171951
+[5]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171960
+[6]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171961
+[7]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171964
+[8]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171965
+[9]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171966
+[10]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171967
+[11]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171968
+[12]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171969
+[13]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171970
+[14]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171971
+[15]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171972
+[16]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171973
+[17]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171974
+[18]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171975
+[19]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171990
+[20]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171992
+[21]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171994
+[22]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171996
+[23]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171997
+[24]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM171999
+[25]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172400
+[26]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172401
+[27]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172403
+[28]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172405
+[29]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172407
+[30]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172409
+[31]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172410
+[32]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172429
+[33]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172430
+[34]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172431
+[35]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172432
+[36]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172433
+[37]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172435
+[38]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172436
+[39]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172437
+[40]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172438
+[41]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172439
+[42]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172440
+[43]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172441
+[44]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172465
+[45]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172466
+[46]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172467
+[47]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172468
+[48]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172469
+[49]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172470
+[50]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172471
+[51]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172472
+[52]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172473
+[53]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172474
+[54]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172475
+[55]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172476
+[56]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172477
+[57]: http://www.legislation.govt.nz/act/public/1908/0117/latest/whole.html#DLM172478
+[58]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM45599
+[59]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM47639
 [60]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM174687
-[61]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM173957
-[62]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM124974
-[63]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM124960
-[64]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM127740
-[65]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM336930
-[66]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM334659
-[67]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM197249
-[68]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM197244
-[69]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM195709
-[70]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM195710
-[71]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM405707
+[61]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM124974
+[62]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM336930
+[63]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM127740
+[64]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM195709
+[65]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM405707
+[66]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM3673107
+[67]: http://www.legislation.govt.nz/act/public/1908/0117/latest/link.aspx?id=DLM2998516
