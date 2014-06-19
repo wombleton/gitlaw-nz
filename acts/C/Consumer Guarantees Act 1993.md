@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -40,165 +40,173 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [5][8][][8][Guarantees as to title][8]
 
-[6][9][][9][Guarantee as to acceptable quality][9]
+[5A][9][][9][Guarantee as to delivery][9]
 
-[7][10][][10][Meaning of acceptable quality][10]
+[6][10][][10][Guarantee as to acceptable quality][10]
 
-[8][11][][11][Guarantees as to fitness for particular purpose][11]
+[7][11][][11][Meaning of acceptable quality][11]
 
-[9][12][][12][Guarantee that goods comply with description][12]
+[7A][12][][12][Guarantee of acceptable quality in supply of gas and electricity][12]
 
-[10][13][][13][Guarantee that goods comply with sample][13]
+[7B][13][][13][Relationship of section 7A with rest of Act][13]
 
-[11][14][][14][Guarantee as to price][14]
+[8][14][][14][Guarantees as to fitness for particular purpose][14]
 
-[12][15][][15][Guarantee as to repairs and spare parts][15]
+[9][15][][15][Guarantee that goods comply with description][15]
 
-[13][16][][16][Express guarantees][16]
+[10][16][][16][Guarantee that goods comply with sample][16]
 
-[General provisions][17]
+[11][17][][17][Guarantee as to price][17]
 
-[14][18][][18][Provisions relating to manufacturers' express guarantees][18]
+[12][18][][18][Guarantee as to repairs and spare parts][18]
 
-[15][19][][19][Contracts of work and materials][19]
+[13][19][][19][Express guarantees][19]
 
-[Part 2][20]  
-[Right of redress against suppliers in respect of supply of goods][20]
+[General provisions][20]
 
-[Right of redress against suppliers][21]
+[14][21][][21][Provisions relating to manufacturers' express guarantees][21]
 
-[16][22][][22][Circumstances where consumers have right of redress against suppliers][22]
+[15][22][][22][Contracts of work and materials][22]
 
-[17][23][][23][Exception in respect of guarantee as to acceptable quality][23]
+[Part 2][23]  
+[Right of redress against suppliers in respect of supply of goods][23]
 
-[Remedies][24]
+[Right of redress against suppliers][24]
 
-[18][25][][25][Options against suppliers where goods do not comply with guarantees][25]
+[16][25][][25][Circumstances where consumers have right of redress against suppliers][25]
 
-[19][26][][26][Requirement to remedy][26]
+[17][26][][26][Exception in respect of guarantee as to acceptable quality][26]
 
-[Provisions relating to rejection of goods][27]
+[Remedies][27]
 
-[20][28][][28][Loss of right to reject goods][28]
+[18][28][][28][Options against suppliers where goods do not comply with guarantees][28]
 
-[21][29][][29][Failure of substantial character][29]
+[19][29][][29][Requirement to remedy][29]
 
-[22][30][][30][Manner of rejecting goods][30]
+[Provisions relating to rejection of goods][30]
 
-[23][31][][31][Consumers' options of refund or replacement][31]
+[20][31][][31][Loss of right to reject goods][31]
 
-[23A][32][][32][Goods subject to collateral credit agreement][32]
+[21][32][][32][Failure of substantial character][32]
 
-[24][33][][33][Rights of donees][33]
+[22][33][][33][Manner of rejecting goods][33]
 
-[Part 3][34]  
-[Right of redress against manufacturers in respect of supply of goods][34]
+[23][34][][34][Consumers' options of refund or replacement][34]
 
-[Right of redress against manufacturers][35]
+[23A][35][][35][Goods subject to collateral credit agreement][35]
 
-[25][36][][36][Circumstances where consumers have right of redress against manufacturers][36]
+[24][36][][36][Rights of donees][36]
 
-[26][37][][37][Exceptions to right of redress against manufacturers][37]
+[Part 3][37]  
+[Right of redress against manufacturers in respect of supply of goods][37]
 
-[Remedies][38]
+[Right of redress against manufacturers][38]
 
-[27][39][][39][Options against manufacturers where goods do not comply with guarantees][39]
+[25][39][][39][Circumstances where consumers have right of redress against manufacturers][39]
 
-[Part 4][40]  
-[Supply of services][40]
+[26][40][][40][Exceptions to right of redress against manufacturers][40]
 
-[28][41][][41][Guarantee as to reasonable care and skill][41]
+[Remedies][41]
 
-[29][42][][42][Guarantee as to fitness for particular purpose][42]
+[27][42][][42][Options against manufacturers where goods do not comply with guarantees][42]
 
-[30][43][][43][Guarantee as to time of completion][43]
+[Part 4][43]  
+[Supply of services][43]
 
-[31][44][][44][Guarantee as to price][44]
+[28][44][][44][Guarantee as to reasonable care and skill][44]
 
-[Right of redress against suppliers where services fail to comply with guarantees][45]
+[29][45][][45][Guarantee as to fitness for particular purpose][45]
 
-[32][46][][46][Options of consumers where services do not comply with guarantees][46]
+[30][46][][46][Guarantee as to time of completion][46]
 
-[33][47][][47][Exceptions to right of redress against supplier in relation to services][47]
+[31][47][][47][Guarantee as to price][47]
 
-[34][48][][48][Contracts of work and materials][48]
+[Right of redress against suppliers where services fail to comply with guarantees][48]
 
-[Provisions relating to cancellation][49]
+[32][49][][49][Options of consumers where services do not comply with guarantees][49]
 
-[35][50][][50][Application of right to cancel contract][50]
+[33][50][][50][Exceptions to right of redress against supplier in relation to services][50]
 
-[36][51][][51][Failure of substantial character][51]
+[34][51][][51][Contracts of work and materials][51]
 
-[37][52][][52][Rules applying to cancellation][52]
+[Provisions relating to cancellation][52]
 
-[38][53][][53][Effects of cancellation][53]
+[35][53][][53][Application of right to cancel contract][53]
 
-[39][54][][54][Ancillary power of court or Disputes Tribunal to grant relief][54]
+[36][54][][54][Failure of substantial character][54]
 
-[39A][55][][55][Services subject to collateral credit agreement][55]
+[37][55][][55][Rules applying to cancellation][55]
 
-[40][56][][56][Saving][56]
+[38][56][][56][Effects of cancellation][56]
 
-[Part 5][57]  
-[Miscellaneous provisions][57]
+[39][57][][57][Ancillary power of court or Disputes Tribunal to grant relief][57]
 
-[Exceptions][58]
+[39A][58][][58][Services subject to collateral credit agreement][58]
 
-[41][59][][59][Exceptions][59]
+[40][59][][59][Saving][59]
 
-[42][60][][60][Exception in respect of repairs and parts][60]
+[Part 5][60]  
+[Miscellaneous provisions][60]
 
-[43][61][][61][No contracting out except for business transactions][61]
+[Exceptions][61]
 
-[43A][62][][62][Exclusion of liability in favour of non-contracting supplier][62]
+[41][62][][62][Exceptions][62]
 
-[General provisions][63]
+[42][63][][63][Exception in respect of repairs and parts][63]
 
-[44][64][][64][Assessment of damages in case of hire purchase agreements][64]
+[43][64][][64][No contracting out except for business transactions][64]
 
-[45][65][][65][Liability for representations][65]
+[43A][65][][65][Exclusion of liability in favour of non-contracting supplier][65]
 
-[46][66][][66][Liability of assignees and creditors][66]
+[General provisions][66]
 
-[47][67][][67][Jurisdiction][67]
+[44][67][][67][Assessment of damages in case of hire purchase agreements][67]
 
-[Amendment to Sale of Goods Act 1908][68]
+[45][68][][68][Liability for representations][68]
 
-[48][69][][69][Exclusion where Consumer Guarantees Act 1993 applies][69]
+[46][69][][69][Liability of assignees and creditors][69]
 
-[Amendment to Hire Purchase Act 1971][70]
+[46A][70][][70][Indemnification of gas and electricity retailers][70]
+
+[47][71][][71][Jurisdiction][71]
+
+[Amendment to Sale of Goods Act 1908][72]
+
+[48][73][][73][Exclusion where Consumer Guarantees Act 1993 applies][73]
+
+[Amendment to Hire Purchase Act 1971][74]
 
 \[Repealed\]
 
-[49][71][][71][Exclusion where Consumer Guarantees Act 1993 applies][71] \[Repealed\]
+[49][75][][75][Exclusion where Consumer Guarantees Act 1993 applies][75] \[Repealed\]
 
-[Amendments to Motor Vehicle Dealers Act 1975][72]
+[Amendments to Motor Vehicle Dealers Act 1975][76]
 
-[50][73][][73][Application of Motor Vehicle Dealers Fidelity Guarantee Fund][73]
+[50][77][][77][Application of Motor Vehicle Dealers Fidelity Guarantee Fund][77]
 
-[51][74][][74][Jurisdiction of Disputes Tribunal][74]
+[51][78][][78][Jurisdiction of Disputes Tribunal][78]
 
-[52][75][][75][Referral of certain disputes to Disputes Tribunal][75]
+[52][79][][79][Referral of certain disputes to Disputes Tribunal][79]
 
-[Amendments to Contractual Remedies Act 1979][76]
+[Amendments to Contractual Remedies Act 1979][80]
 
-[53][77][][77][Assignees][77]
+[53][81][][81][Assignees][81]
 
-[54][78][][78][Savings][78]
+[54][82][][82][Savings][82]
 
-[Amendment to Building Act 1991][79]
+[Amendment to Building Act 1991][83]
 
-[55][80][][80][Fair Trading Act 1986 and Consumer Guarantees Act 1993 not affected][80]
+[55][84][][84][Fair Trading Act 1986 and Consumer Guarantees Act 1993 not affected][84]
 
-[Application of Act][81]
+[Application of Act][85]
 
-[56][82][][82][Application of Act][82]
+[56][86][][86][Application of Act][86]
 
 ---
 
 Title \[Repealed\]
     
-*   Title: repealed, on 18 December 2013, by [section 4][83] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+*   Title: repealed, on 18 December 2013, by [section 4][87] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 1 Short Title and commencement
     
@@ -228,7 +236,7 @@ Title \[Repealed\]
     
     *   (b) certain rights of redress against suppliers and manufacturers if goods or services fail to comply with a guarantee.
     
-    Section 1A: inserted, on 18 December 2013, by [section 5][84] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 1A: inserted, on 18 December 2013, by [section 5][88] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 2 Interpretation
     
@@ -292,13 +300,19 @@ Title \[Repealed\]
         
         *   (iv) minerals, trees, and crops, whether on, under, or attached to land or not:
         
-        *   (v) electricity and gas:
+        *   (v) non-reticulated gas:
         
         *   (vi) to avoid doubt, water and computer software; but
         
         
     
     *   (c) despite paragraph (b)(i), does not include a whole building, or part of a whole building, attached to land unless the building is a structure that is easily removable and is not designed for residential accommodation
+    
+    _line function services_ has,---
+        
+    *   (a) in relation to gas, the meaning set out in [section 2(1)][89] of the Gas Act 1992; and
+    
+    *   (b) in relation to electricity, the meaning set out in [section 2(1)][90] of the Electricity Act 1992
     
     _manufacturer_ means a person that carries on the business of assembling, producing, or processing goods, and includes---
         
@@ -334,7 +348,9 @@ Title \[Repealed\]
         
         *   (v) a contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits:
         
-        *   (vi) a contract for, or in relation to, the supply of electricity, gas, telecommunications, or water, or the removal of waste water; but
+        *   (vi) a contract for, or in relation to, the supply of telecommunications or water, or the removal of waste water:
+        
+        *   (vii) a contract relating to (but not for) the supply of gas or electricity, other than line function services; but
         
         
     
@@ -346,7 +362,7 @@ Title \[Repealed\]
         
         
     
-    _subsidiary_ has the same meaning as in [sections 5][85] and [6][86] of the Companies Act 1993
+    _subsidiary_ has the same meaning as in [sections 5][91] and [6][92] of the Companies Act 1993
     
     _supplier_---
         
@@ -370,23 +386,15 @@ Title \[Repealed\]
             
         *   (i) where the rights of the supplier have been transferred by assignment or by operation of law, the person for the time being entitled to those rights:
         
-        *   (ii) a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][87] who has lent money on the security of goods supplied to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods:
+        *   (ii) a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][93] who has lent money on the security of goods supplied to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods:
         
-        *   (iii) a person who, in trade, assigns or procures the assignment of goods to a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][87] to enable the creditor to supply those goods, or goods of that kind, to the consumer:
+        *   (iii) a person who, in trade, assigns or procures the assignment of goods to a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][93] to enable the creditor to supply those goods, or goods of that kind, to the consumer:
         
-        *   (iv) a person who, in trade, is acting as an agent for another, whether or not that other is supplying in trade; and
+        *   (iv) a person (other than an auctioneer) who, in trade, is acting as an agent for another, whether or not that other is supplying in trade
         
         
     
-    *   (c) for the avoidance of doubt in the following circumstances, means only,---
-            
-        *   (i) in the case of a supply of electricity as a good, the retailer of the electricity with whom the consumer has a contract; and
-        
-        *   (ii) in the case of a supply of electricity line function services, the distributor who owns or operates the line that is connected to the consumer's premises; and
-        
-        *   (iii) in the case of other services relating to electricity, the person who provides that service to the consumer
-        
-        
+    *   (c) \[Repealed\]
     
     _supply_,---
         
@@ -402,19 +410,35 @@ Title \[Repealed\]
     
     *   (b) services shall be treated as supplied at the time when they are provided, granted, or conferred.
     
-    Compare: 1971 No 147 s 2; 1986 No 121 [s 2][88]; Trade Practices Act 1974 ss 4B, 74A(1), (3), (4) (Aust); Consumer Products Warranties Act 1977 s 2(h) (Saskatchewan)
+    (3) However, despite subsection (2), a guarantee under [section 6][10] applies to the goods delivered to the consumer on and from the time at which the consumer receives the goods.
     
-    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3][89] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Compare: 1971 No 147 s 2; 1986 No 121 [s 2][94]; Trade Practices Act 1974 ss 4B, 74A(1), (3), (4) (Aust); Consumer Products Warranties Act 1977 s 2(h) (Saskatchewan)
     
-    Section 2(1) **services**: substituted, on 8 July 2003, by [section 3][89] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3][95] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
     
-    Section 2(1) **subsidiary**: substituted, on 1 July 1994, by [section 2][90] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **goods** paragraph (b)(v): replaced, on 17 June 2014, by [section 6(1)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 2(1) **supplier**: substituted, on 8 July 2003, by [section 3][89] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 2(1) **line function services**: inserted, on 17 June 2014, by [section 6(2)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 2(1) **supplier** paragraph (b)(ii): substituted, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 2(1) **services**: substituted, on 8 July 2003, by [section 3][95] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
     
-    Section 2(1) **supplier** paragraph (b)(iii): substituted, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 2(1) **services** paragraph (b)(vi): replaced, on 17 June 2014, by [section 6(3)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 2(1) **services** paragraph (b)(vii): inserted, on 17 June 2014, by [section 6(3)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 2(1) **subsidiary**: substituted, on 1 July 1994, by [section 2][97] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 2(1) **supplier**: substituted, on 8 July 2003, by [section 3][95] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    
+    Section 2(1) **supplier** paragraph (b)(ii): substituted, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    
+    Section 2(1) **supplier** paragraph (b)(iii): substituted, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    
+    Section 2(1) **supplier** paragraph (b)(iv): replaced, on 17 June 2014, by [section 6(4)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 2(1) **supplier** paragraph (c): repealed, on 17 June 2014, by [section 6(5)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 2(3): inserted, on 17 June 2014, by [section 6(6)][96] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 3 Act to bind the Crown
     
@@ -433,7 +457,7 @@ Guarantees in respect of supply of goods
 
 ##### 5 Guarantees as to title
     
-*   (1) Subject to [section 41][59], the following guarantees apply where goods are supplied to a consumer:
+*   (1) Subject to [section 41][62], the following guarantees apply where goods are supplied to a consumer:
         
     *   (a) that the supplier has a right to sell the goods; and
     
@@ -441,7 +465,7 @@ Guarantees in respect of supply of goods
     
     *   (c) that the consumer has the right to undisturbed possession of the goods, except in so far as that right is varied pursuant to---
             
-        *   (i) a term of the agreement for supply in any case where that agreement is a hire purchase agreement within the meaning of the [Income Tax Act 2007][92]; or
+        *   (i) a term of the agreement for supply in any case where that agreement is a hire purchase agreement within the meaning of the [Income Tax Act 2007][99]; or
         
         *   (ii) a security, or a term of the agreement for supply, in respect of which the consumer has received---
                 
@@ -461,27 +485,47 @@ Guarantees in respect of supply of goods
     
     (5) Where the goods are only hired or leased, the guarantee set out in subsection (1)(c) shall confer a right to undisturbed possession of the goods only for the period of the hire or lease.
     
-    (6) [Part 2][20] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+    (6) [Part 2][23] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
     
-    Compare: 1908 No 168 [s 14][93]; 1971 No 147 s 11
+    Compare: 1908 No 168 [s 14][100]; 1971 No 147 s 11
     
-    Section 5(1)(c)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][94] of the Income Tax Act 2007 (2007 No 97).
+    Section 5(1)(c)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][101] of the Income Tax Act 2007 (2007 No 97).
+
+##### 5A Guarantee as to delivery
+    
+*   (1) Where a supplier is responsible for delivering, or for arranging for the delivery of, goods to a consumer there is a guarantee that the goods will be received by the consumer---
+        
+    *   (a) at a time, or within a period, agreed between the supplier and the consumer; or
+    
+    *   (b) if no time or period has been agreed, within a reasonable time.
+    
+    (2) Where the delivery of the goods fails to comply with the guarantee under this section, [Part 2][23] gives the consumer a right of redress against the supplier and, in that case, the consumer may,---
+        
+    *   (a) if the failure is of a substantial character, reject the goods under [section 18(3)][28]; and
+    
+    *   (b) in any case, obtain damages under [section 18(4)][28] (other than damages relating to the remedies set out in section 18(2)), whether or not the consumer also rejects the goods.
+    
+    (3) For the purposes of this section, the reference in [section 20(1)(b)][31] to an agent of the supplier must be treated as including any carrier or other person who undertakes to deliver the goods on behalf of the supplier.
+    
+    (4) A consumer's rights of redress under [Part 2][23] in relation to the guarantee under this section are limited to those specified in subsection (2).
+    
+    Section 5A: inserted, on 17 June 2014, by [section 7][102] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 6 Guarantee as to acceptable quality
     
-*   (1) Subject to [section 41][59], where goods are supplied to a consumer there is a guarantee that the goods are of acceptable quality.
+*   (1) Subject to [section 41][62], where goods are supplied to a consumer there is a guarantee that the goods are of acceptable quality.
     
     (2) Where the goods fail to comply with the guarantee in this section,---
         
-    *   (a) [Part 2][20] may give the consumer a right of redress against the supplier; and
+    *   (a) [Part 2][23] may give the consumer a right of redress against the supplier; and
     
-    *   (b) [Part 3][34] may give the consumer a right of redress against the manufacturer.
+    *   (b) [Part 3][37] may give the consumer a right of redress against the manufacturer.
     
-    Compare: 1908 No 168 [s 16(b)][95]; 1971 No 147 s 12; Consumer Products Warranties Act 1977 s 11(4), (7) (Saskatchewan)
+    Compare: 1908 No 168 [s 16(b)][103]; 1971 No 147 s 12; Consumer Products Warranties Act 1977 s 11(4), (7) (Saskatchewan)
 
 ##### 7 Meaning of acceptable quality
     
-*   (1) For the purposes of [section 6][9], goods are of _acceptable quality_ if they are as---
+*   (1) For the purposes of [section 6][10], goods are of _acceptable quality_ if they are as---
         
     *   (a) fit for all the purposes for which goods of the type in question are commonly supplied; and
     
@@ -501,6 +545,8 @@ Guarantees in respect of supply of goods
     
     *   (h) any statements made about the goods on any packaging or label on the goods:
     
+    *   (ha) the nature of the supplier and the context in which the supplier supplies the goods:
+    
     *   (i) any representation made about the goods by the supplier or the manufacturer:
     
     *   (j) all other relevant circumstances of the supply of the goods.
@@ -518,10 +564,68 @@ Guarantees in respect of supply of goods
     (5) A reference in subsections (2) and (3) to a defect means any failure of the goods to comply with the guarantee of acceptable quality.
     
     Compare: Consumer Products Warranties Act 1977 ss 2(a), 34 (Saskatchewan)
+    
+    Section 7(1)(ha): inserted, on 17 June 2014, by [section 8][104] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+
+##### 7A Guarantee of acceptable quality in supply of gas and electricity
+    
+*   (1) There is a guarantee that the supply of gas by a gas retailer, and the supply of electricity by an electricity retailer, to a consumer is of an acceptable quality.
+    
+    (2) The guarantee of acceptable quality is a guarantee that---
+        
+    *   (a) the supply of gas or electricity is as safe as a reasonable consumer would expect it to be; and
+    
+    *   (b) the supply of gas or electricity to a place is as reliable as a reasonable consumer would expect a supply to that place to be; and
+    
+    *   (c) the quality of the gas or electricity supplied is such that it can be consistently used for the things that a reasonable consumer would expect to use gas or electricity for.
+    
+    (3) When determining what a reasonable consumer would expect, it is assumed that the consumer has considered---
+        
+    *   (a) that the supply of gas or electricity may be affected by emergencies, or other events or circumstances, outside the control of the retailer or any other person involved in the supply of gas or electricity; and
+    
+    *   (b) that the supply of gas or electricity may be interrupted for safety, maintenance, or other technical reasons; and
+    
+    *   (c) that the quality of gas or electricity supplied may fluctuate, but that fluctuations are acceptable only within tolerances permitted by gas and electricity safety regulations; and
+    
+    *   (d) that the reliability and quality of the supply of gas or electricity may vary depending on the location of the place to which the gas or electricity is supplied; and
+    
+    *   (e) that reliability and quality of supply may be related to price.
+    
+    (4) The supply of gas or electricity will not fail to comply with the guarantee of acceptable quality---
+        
+    *   (a) if the gas or electricity has been used by the consumer in an unreasonable manner or to an unreasonable extent, and the supply of gas or electricity would have complied with the guarantee of acceptable quality if it had not been used in that manner or to that extent; or
+    
+    *   (b) if, in a case where the quality and reliability of supply by a gas or electricity retailer to a particular consumer is likely to be significantly worse than the quality and reliability of supply that generally applies to gas or electricity supplied by the retailer,---
+            
+        *   (i) the retailer or the person supplying line function services has specifically explained to the consumer the ways in which the supply is likely to be significantly worse; and
+        
+        *   (ii) the consumer has accepted the supply on that basis, even if an otherwise reasonable consumer may not regard that supply as acceptable.
+        
+        
+    
+    (5) In this section and [section 7B][13],---
+    
+    _electricity retailer_ means a retailer as defined in the [Electricity Industry Act 2010][105]
+    
+    _gas retailer_ means a gas retailer as defined in the [Gas Act 1992][106].
+    
+    Section 7A: inserted, on 17 June 2014, by [section 9][107] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+
+##### 7B Relationship of section 7A with rest of Act
+    
+*   (1) For the purposes of this Act, except as described in this section, gas (other than non-reticulated gas) and electricity are not to be treated as being goods, and the supply of gas or electricity by retailers is not to be treated as the supply of a service.
+    
+    (2) If the supply of gas or electricity fails to comply with the guarantee of acceptable quality in [section 7A][12], in order that [Part 2][23] may apply to give consumers a right of redress against gas retailers and electricity retailers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+    
+    (3) For the purpose of applying the provisions of [Part 5][60] to the supply of gas and electricity to consumers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+    
+    (4) To avoid doubt, the guarantee provided by [section 7A][13] is the only guarantee provided under this Act that relates to the supply of gas (other than non-reticulated gas) or electricity by gas retailers and electricity retailers.
+    
+    Section 7B: inserted, on 17 June 2014, by [section 9][107] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 8 Guarantees as to fitness for particular purpose
     
-*   (1) Subject to [section 41][59], the following guarantees apply where goods are supplied to a consumer:
+*   (1) Subject to [section 41][62], the following guarantees apply where goods are supplied to a consumer:
         
     *   (a) that the goods are reasonably fit for any particular purpose that the consumer makes known, expressly or by implication, to the supplier as the purpose for which the goods are being acquired by the consumer; and
     
@@ -535,43 +639,43 @@ Guarantees in respect of supply of goods
     
     (3) This section applies whether or not the purpose is a purpose for which the goods are commonly supplied.
     
-    (4) [Part 2][20] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+    (4) [Part 2][23] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
     
-    Compare: 1908 No 168 [s 16(a)][95]; 1971 No 147 s 13
+    Compare: 1908 No 168 [s 16(a)][103]; 1971 No 147 s 13
 
 ##### 9 Guarantee that goods comply with description
     
-*   (1) Subject to [section 41][59], where goods are supplied by description to a consumer, there is a guarantee that the goods correspond with the description.
+*   (1) Subject to [section 41][62], where goods are supplied by description to a consumer, there is a guarantee that the goods correspond with the description.
     
     (2) A supply of goods is not prevented from being a supply by description by reason only that, being exposed for sale or hire, they are selected by a consumer.
     
-    (3) If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and in [section 10][13] will both apply.
+    (3) If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and in [section 10][16] will both apply.
     
     (4) Where the goods fail to comply with the guarantee in this section,---
         
-    *   (a) [Part 2][20] gives the consumer a right of redress against the supplier; and
+    *   (a) [Part 2][23] gives the consumer a right of redress against the supplier; and
     
-    *   (b) [Part 3][34] may give the consumer a right of redress against the manufacturer.
+    *   (b) [Part 3][37] may give the consumer a right of redress against the manufacturer.
     
-    Compare: 1908 No 168 [s 15][96]; 1971 No 147 s 14(2); Trade Practices Act 1974 s 70(2) (Aust)
+    Compare: 1908 No 168 [s 15][108]; 1971 No 147 s 14(2); Trade Practices Act 1974 s 70(2) (Aust)
 
 ##### 10 Guarantee that goods comply with sample
     
-*   (1) Subject to [section 41][59], the following guarantees apply where goods are supplied to a consumer by reference to a sample or demonstration model:
+*   (1) Subject to [section 41][62], the following guarantees apply where goods are supplied to a consumer by reference to a sample or demonstration model:
         
     *   (a) that the goods correspond with the sample or demonstration model in quality; and
     
     *   (b) that the consumer will have a reasonable opportunity to compare the goods with the sample.
     
-    (2) If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and [section 9][12] will both apply.
+    (2) If the goods are supplied by reference to a sample or demonstration model as well as by description, the guarantees in this section and [section 9][15] will both apply.
     
-    (3) [Part 2][20] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
+    (3) [Part 2][23] gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
     
-    Compare: 1908 No 168 [s 17][97]; 1971 No 147 s 14(1)
+    Compare: 1908 No 168 [s 17][109]; 1971 No 147 s 14(1)
 
 ##### 11 Guarantee as to price
     
-*   (1) Subject to [section 41][59], where goods are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the goods in any case where the price for the goods is not---
+*   (1) Subject to [section 41][62], where goods are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the goods in any case where the price for the goods is not---
         
     *   (a) determined by the contract; nor
     
@@ -581,23 +685,23 @@ Guarantees in respect of supply of goods
     
     (2) Where there is a failure to comply with the guarantee in this section, the consumer's right of redress is to refuse to pay more than a reasonable price.
     
-    (3) Nothing in [Part 2][20] confers any other right of redress.
+    (3) Nothing in [Part 2][23] confers any other right of redress.
     
-    Compare: 1908 No 168 [s 10][98]; Supply of Goods and Services Act 1982 s 15 (UK)
+    Compare: 1908 No 168 [s 10][110]; Supply of Goods and Services Act 1982 s 15 (UK)
 
 ##### 12 Guarantee as to repairs and spare parts
     
-*   (1) Subject to [sections 41][59] and [42][60], where goods are first supplied to a consumer in New Zealand (whether or not that supply is the first-ever supply of the goods), there is a guarantee that the manufacturer will take reasonable action to ensure that facilities for repair of the goods and supply of parts for the goods are reasonably available for a reasonable period after the goods are so supplied.
+*   (1) Subject to [sections 41][62] and [42][63], where goods are first supplied to a consumer in New Zealand (whether or not that supply is the first-ever supply of the goods), there is a guarantee that the manufacturer will take reasonable action to ensure that facilities for repair of the goods and supply of parts for the goods are reasonably available for a reasonable period after the goods are so supplied.
     
-    (2) [Part 3][34] gives the consumer a right of redress against the manufacturer where the goods fail to comply with the guarantee in this section.
+    (2) [Part 3][37] gives the consumer a right of redress against the manufacturer where the goods fail to comply with the guarantee in this section.
     
     Compare: Trade Practices Act 1974 s 74F(1) (Aust); Consumer Products Warranties Act 1977 s 11(8) (Saskatchewan)
 
 ##### 13 Express guarantees
     
-*   (1) Where goods are supplied to a consumer, this Act applies to any express guarantee given by a manufacturer of the goods which is binding on the manufacturer in accordance with [section 14][18].
+*   (1) Where goods are supplied to a consumer, this Act applies to any express guarantee given by a manufacturer of the goods which is binding on the manufacturer in accordance with [section 14][21].
     
-    (2) [Part 3][34] gives the consumer a right of redress against the manufacturer where the goods fail to comply with any such guarantee.
+    (2) [Part 3][37] gives the consumer a right of redress against the manufacturer where the goods fail to comply with any such guarantee.
 
 #### General provisions
 
@@ -626,7 +730,7 @@ Right of redress against suppliers in respect of supply of goods
 
 ##### 17 Exception in respect of guarantee as to acceptable quality
     
-*   Notwithstanding [section 16][22], where---
+*   Notwithstanding [section 16][25], where---
         
     *   (a) the manufacturer, or a servant or agent of the manufacturer, makes a representation in respect of goods (otherwise than a statement on any packaging or label); and
     
@@ -642,19 +746,19 @@ Right of redress against suppliers in respect of supply of goods
     
     (2) Where the failure can be remedied, the consumer may---
         
-    *   (a) require the supplier to remedy the failure within a reasonable time in accordance with [section 19][26]:
+    *   (a) require the supplier to remedy the failure within a reasonable time in accordance with [section 19][29]:
     
     *   (b) where a supplier who has been required to remedy a failure refuses or neglects to do so, or does not succeed in doing so within a reasonable time,---
             
         *   (i) have the failure remedied elsewhere and obtain from the supplier all reasonable costs incurred in having the failure remedied; or
         
-        *   (ii) subject to [section 20][28], reject the goods in accordance with [section 22][30].
+        *   (ii) subject to [section 20][31], reject the goods in accordance with [section 22][33].
         
         
     
-    (3) Where the failure cannot be remedied or is of a substantial character within the meaning of [section 21][29], the consumer may---
+    (3) Where the failure cannot be remedied or is of a substantial character within the meaning of [section 21][32], the consumer may---
         
-    *   (a) subject to [section 20][28], reject the goods in accordance with [section 22][30]; or
+    *   (a) subject to [section 20][31], reject the goods in accordance with [section 22][33]; or
     
     *   (b) obtain from the supplier damages in compensation for any reduction in value of the goods below the price paid or payable by the consumer for the goods.
     
@@ -706,21 +810,21 @@ Right of redress against suppliers in respect of supply of goods
     
     *   (d) the amount of use to which it is reasonable for them to be put before the defect becomes apparent.
     
-    (3) This section applies notwithstanding [section 37][99] of the Sale of Goods Act 1908\.
+    (3) This section applies notwithstanding [section 37][111] of the Sale of Goods Act 1908\.
     
     Compare: Consumer Products Warranties Act 1977 s 20(2), (3) (Saskatchewan)
 
 ##### 21 Failure of substantial character
     
-*   For the purposes of [section 18(3)][25], a failure to comply with a guarantee is of a substantial character in any case where---
+*   For the purposes of [section 18(3)][28], a failure to comply with a guarantee is of a substantial character in any case where---
         
     *   (a) the goods would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
     
     *   (b) the goods depart in 1 or more significant respects from the description by which they were supplied or, where they were supplied by reference to a sample or demonstration model, from the sample or demonstration model; or
     
-    *   (c) the goods are substantially unfit for a purpose for which goods of the type in question are commonly supplied or, where [section 8(1)][11] applies, the goods are unfit for a particular purpose made known to the supplier or represented by the supplier to be a purpose for which the goods would be fit, and the goods cannot easily and within a reasonable time be remedied to make them fit for such purpose; or
+    *   (c) the goods are substantially unfit for a purpose for which goods of the type in question are commonly supplied or, where [section 8(1)][14] applies, the goods are unfit for a particular purpose made known to the supplier or represented by the supplier to be a purpose for which the goods would be fit, and the goods cannot easily and within a reasonable time be remedied to make them fit for such purpose; or
     
-    *   (d) the goods are not of acceptable quality within the meaning of [section 7][10] because they are unsafe.
+    *   (d) the goods are not of acceptable quality within the meaning of [section 7][11] because they are unsafe.
     
     
 
@@ -782,9 +886,9 @@ Right of redress against suppliers in respect of supply of goods
     
     *   (b) is for the provision of credit by a person other than the supplier to enable the consumer to pay, or defer payment, for the goods
     
-    _supplier_ does not include a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][87] who has lent money to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods.
+    _supplier_ does not include a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][93] who has lent money to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods.
     
-    Section 23A: inserted, on 18 December 2013, by [section 10][100] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 23A: inserted, on 18 December 2013, by [section 10][112] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 24 Rights of donees
     
@@ -801,19 +905,19 @@ Right of redress against manufacturers in respect of supply of goods
     
 *   This Part gives a consumer a right of redress against a manufacturer of goods where---
         
-    *   (a) the goods fail to comply with the guarantee as to acceptable quality set out in [section 6][9]:
+    *   (a) the goods fail to comply with the guarantee as to acceptable quality set out in [section 6][10]:
     
-    *   (b) the goods fail to comply with the guarantee as to correspondence with description set out in [section 9][12] due to the failure of the goods to correspond with any description applied to the goods by or on behalf of the manufacturer or with the express or implied consent of the manufacturer:
+    *   (b) the goods fail to comply with the guarantee as to correspondence with description set out in [section 9][15] due to the failure of the goods to correspond with any description applied to the goods by or on behalf of the manufacturer or with the express or implied consent of the manufacturer:
     
-    *   (c) the goods fail to comply with the guarantee as to repairs and parts set out in [section 12][15]:
+    *   (c) the goods fail to comply with the guarantee as to repairs and parts set out in [section 12][18]:
     
-    *   (d) the goods fail, during the currency of the guarantee, to comply with any express guarantee given by the manufacturer that is binding on the manufacturer in accordance with [section 14][18].
+    *   (d) the goods fail, during the currency of the guarantee, to comply with any express guarantee given by the manufacturer that is binding on the manufacturer in accordance with [section 14][21].
     
     
 
 ##### 26 Exceptions to right of redress against manufacturers
     
-*   Notwithstanding [section 25][36], there shall be no right of redress against the manufacturer under this Act in respect of goods which---
+*   Notwithstanding [section 25][39], there shall be no right of redress against the manufacturer under this Act in respect of goods which---
         
     *   (a) fail to comply with the guarantee of acceptable quality only because of---
             
@@ -870,13 +974,13 @@ Supply of services
 
 ##### 28 Guarantee as to reasonable care and skill
     
-*   Subject to [section 41][59], where services are supplied to a consumer there is a guarantee that the service will be carried out with reasonable care and skill.
+*   Subject to [section 41][62], where services are supplied to a consumer there is a guarantee that the service will be carried out with reasonable care and skill.
     
     Compare: Trade Practices Act 1974 s 74(1) (Aust); Supply of Goods and Services Act 1982 s 13 (UK)
 
 ##### 29 Guarantee as to fitness for particular purpose
     
-*   Subject to [section 41][59], where services are supplied to a consumer there is a guarantee that the service, and any product resulting from the service, will be---
+*   Subject to [section 41][62], where services are supplied to a consumer there is a guarantee that the service, and any product resulting from the service, will be---
         
     *   (a) reasonably fit for any particular purpose; and
     
@@ -892,7 +996,7 @@ Supply of services
 
 ##### 30 Guarantee as to time of completion
     
-*   Subject to [section 41][59], where services are supplied to a consumer there is a guarantee that the service will be completed within a reasonable time in any case where the time for the service to be carried out is not---
+*   Subject to [section 41][62], where services are supplied to a consumer there is a guarantee that the service will be completed within a reasonable time in any case where the time for the service to be carried out is not---
         
     *   (a) fixed by the contract; nor
     
@@ -904,7 +1008,7 @@ Supply of services
 
 ##### 31 Guarantee as to price
     
-*   (1) Subject to [section 41][59], where services are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the service in any case where the price for the service is not---
+*   (1) Subject to [section 41][62], where services are supplied to a consumer there is a guarantee that the consumer is not liable to pay to the supplier more than a reasonable price for the service in any case where the price for the service is not---
         
     *   (a) determined by the contract; nor
     
@@ -916,13 +1020,13 @@ Supply of services
     
     (3) Nothing in this Part confers any other right of redress.
     
-    Compare: 1908 No 168 [s 10][98]; Supply of Goods and Services Act 1982 s 15 (UK)
+    Compare: 1908 No 168 [s 10][110]; Supply of Goods and Services Act 1982 s 15 (UK)
 
 #### Right of redress against suppliers where services fail to comply with guarantees
 
 ##### 32 Options of consumers where services do not comply with guarantees
     
-*   Where a service supplied to a consumer fails to comply with a guarantee set out in any of [sections 28 to 30][41], the consumer may,---
+*   Where a service supplied to a consumer fails to comply with a guarantee set out in any of [sections 28 to 30][44], the consumer may,---
         
     *   (a) where the failure can be remedied,---
             
@@ -932,15 +1036,15 @@ Supply of services
                 
             *   (A) have the failure remedied elsewhere and recover from the supplier all reasonable costs incurred in having the failure remedied; or
             
-            *   (B) subject to [section 35][50], cancel the contract for the supply of the service in accordance with [section 37][52]:
+            *   (B) subject to [section 35][53], cancel the contract for the supply of the service in accordance with [section 37][55]:
             
             
         
         
     
-    *   (b) where the failure cannot be remedied or is of a substantial character within the meaning of [section 36][51],---
+    *   (b) where the failure cannot be remedied or is of a substantial character within the meaning of [section 36][54],---
             
-        *   (i) subject to [section 35][50], if there is a contract between the supplier and the consumer for the supply of the service, cancel that contract in accordance with [section 37][52]; or.
+        *   (i) subject to [section 35][53], if there is a contract between the supplier and the consumer for the supply of the service, cancel that contract in accordance with [section 37][55]; or.
         
         *   (ii) obtain from the supplier damages in compensation for any reduction in value of the product of a service below the charge paid or payable by the consumer for the service:
         
@@ -948,11 +1052,11 @@ Supply of services
     
     *   (c) in addition to the remedies set out in paragraphs (a) and (b), obtain from the supplier damages for any loss or damage to the consumer resulting from the failure (other than loss or damage through reduction in value of the product of the service) which was reasonably foreseeable as liable to result from the failure.
     
-    Section 32(b)(i): substituted, on 8 July 2003, by [section 4][101] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 32(b)(i): substituted, on 8 July 2003, by [section 4][113] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
 
 ##### 33 Exceptions to right of redress against supplier in relation to services
     
-*   Notwithstanding [section 32][46], there shall be no right of redress against a supplier under this Act in respect of a service or any product resulting from a service which fails to comply with a guarantee set out in [section 29][42] or [section 30][43] only because of---
+*   Notwithstanding [section 32][49], there shall be no right of redress against a supplier under this Act in respect of a service or any product resulting from a service which fails to comply with a guarantee set out in [section 29][45] or [section 30][46] only because of---
         
     *   (a) an act or default or omission of, or any representation made by, any person other than the supplier or a servant or agent of the supplier; or
     
@@ -962,23 +1066,23 @@ Supply of services
 
 ##### 34 Contracts of work and materials
     
-*   Nothing in [section 32][46] limits or affects the rights of a consumer under [Part 2][20] or [Part 3][34] where the contract is one of work and materials.
+*   Nothing in [section 32][49] limits or affects the rights of a consumer under [Part 2][23] or [Part 3][37] where the contract is one of work and materials.
 
 #### Provisions relating to cancellation
 
 ##### 35 Application of right to cancel contract
     
-*   Where the service to be supplied under the contract is merely incidental to the supply of goods, the consumer cannot cancel the contract under this Act if he or she has or had the right to reject the goods under [section 18][25].
+*   Where the service to be supplied under the contract is merely incidental to the supply of goods, the consumer cannot cancel the contract under this Act if he or she has or had the right to reject the goods under [section 18][28].
 
 ##### 36 Failure of substantial character
     
-*   For the purposes of [section 32(b)][46], a failure to comply with a guarantee is of a substantial character in any case where---
+*   For the purposes of [section 32(b)][49], a failure to comply with a guarantee is of a substantial character in any case where---
         
     *   (a) the services would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
     
     *   (b) the product of the service is substantially unfit for a purpose for which services of the type in question are commonly supplied and the product cannot easily and within a reasonable time be remedied to make it fit for the purpose; or
     
-    *   (c) where [section 29][42] applies, the product of the service is unfit for a particular purpose, or is of such a nature and quality that the product of the service cannot be expected to achieve any particular result, made known to the supplier and the product cannot easily and within a reasonable time be remedied to make it fit for the particular purpose or to achieve the particular result; or
+    *   (c) where [section 29][45] applies, the product of the service is unfit for a particular purpose, or is of such a nature and quality that the product of the service cannot be expected to achieve any particular result, made known to the supplier and the product cannot easily and within a reasonable time be remedied to make it fit for the particular purpose or to achieve the particular result; or
     
     *   (d) the product of the service is unsafe.
     
@@ -996,7 +1100,7 @@ Supply of services
     
     (3) Where it is reasonably practicable to communicate with the supplier, subsection (2) shall take effect subject to any provision in the contract for the supply of a service requiring notice of cancellation in writing.
     
-    Compare: 1979 No 11 [s 8(1), (2)][102]
+    Compare: 1979 No 11 [s 8(1), (2)][114]
 
 ##### 38 Effects of cancellation
     
@@ -1012,11 +1116,11 @@ Supply of services
         
     *   (a) the right of a party to recover damages in respect of a misrepresentation or the repudiation or breach of the contract by another party; or
     
-    *   (b) the right of the consumer to recover damages under [section 32(b)(ii) or 32(c)][46] for failure to comply with a guarantee; or
+    *   (b) the right of the consumer to recover damages under [section 32(b)(ii) or 32(c)][49] for failure to comply with a guarantee; or
     
     *   (c) the right of the consumer under this Act to reject goods supplied in connection with the service.
     
-    Compare: 1979 No 11 [s 8(3), (4)][102]
+    Compare: 1979 No 11 [s 8(3), (4)][114]
 
 ##### 39 Ancillary power of court or Disputes Tribunal to grant relief
     
@@ -1062,7 +1166,7 @@ Supply of services
     
     *   (d) any other person if it is material for him or her to know whether relief under this section will be granted.
     
-    Compare: 1979 No 11 [s 9][103]
+    Compare: 1979 No 11 [s 9][115]
 
 ##### 39A Services subject to collateral credit agreement
     
@@ -1086,11 +1190,11 @@ Supply of services
     
     *   (b) is for the provision of credit by a person other than the supplier to enable the consumer to pay, or defer payment, for the services
     
-    _supplier_ does not include a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][87] who has lent money to a consumer, if the whole or part of the price of the services is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the services.
+    _supplier_ does not include a creditor within the meaning of the [Credit Contracts and Consumer Finance Act 2003][93] who has lent money to a consumer, if the whole or part of the price of the services is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the services.
     
-    (4) This section does not limit [section 39][54].
+    (4) This section does not limit [section 39][57].
     
-    Section 39A: inserted, on 18 December 2013, by [section 11][104] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 39A: inserted, on 18 December 2013, by [section 11][116] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 40 Saving
     
@@ -1119,35 +1223,57 @@ Miscellaneous provisions
     
     (2) Nothing in this Act shall give any person a right of redress against a charitable organisation in any case where goods or services are supplied by the charitable organisation for the principal purpose of benefiting the person to whom the supply is made.
     
-    (3) Nothing in this Act shall apply in cases where goods are supplied---
-        
-    *   (a) by auction; or
+    (3) \[Repealed\]
     
-    *   (b) by competitive tender.
-    
-    
+    Section 41(3): repealed, on 17 June 2014, by [section 12][117] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 42 Exception in respect of repairs and parts
     
-*   (1) [Section 12][15] does not apply where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods.
+*   (1) [Section 12][18] does not apply where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods.
     
-    (2) Where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods after the expiration of a specified period, [section 12][15] shall not apply in relation to those goods after the expiration of that period.
+    (2) Where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods after the expiration of a specified period, [section 12][18] shall not apply in relation to those goods after the expiration of that period.
     
     Compare: Trade Practices Act 1974 s 74F(2), (3) (Aust)
 
 ##### 43 No contracting out except for business transactions
     
-*   (1) Subject to this section and to [sections 40][56], [41][59], and [43A][62], the provisions of this Act shall have effect notwithstanding any provision to the contrary in any agreement.
+*   (1) Subject to this section and to [sections 40][59], [41][62], and [43A][65], the provisions of this Act shall have effect notwithstanding any provision to the contrary in any agreement.
     
-    (2) Nothing in subsection (1) shall apply to an agreement made between a supplier and a consumer who acquires, or holds himself or herself out as acquiring, under the agreement, goods or services for the purposes of a business provided either---
+    (2) However, despite subsection (1), parties to an agreement may include a provision in their agreement to the effect that the provisions of this Act will not apply to that agreement, provided that---
         
-    *   (a) that the agreement is in writing; or
+    *   (a) the agreement is in writing; and
     
-    *   (b) where it is not possible to conclude an agreement in writing because the supplier is unaware of the acceptance by the consumer of the supplier's offer at the time of acceptance, that the supplier has clearly displayed the terms and conditions of the service at every place of the supplier's business.
+    *   (b) the goods or services are, or (in connection only with the guarantee of acceptable quality in [section 7A][12]) the gas or electricity is, supplied and acquired in trade; and
     
-    (3) [Section 56][105] of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
+    *   (c) all parties to the agreement---
+            
+        *   (i) are in trade; and
+        
+        *   (ii) agree to contract out of the provisions of this Act; and
+        
+        
     
-    (4) Every supplier and every manufacturer commits an offence against [section 13(i)][106] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act other than in accordance with subsection (2) or [section 43A][62].
+    *   (d) it is fair and reasonable that the parties are bound by the provision in the agreement.
+    
+    (2A) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (2)(d), the court must take account of all the circumstances of the agreement, including---
+        
+    *   (a) the subject matter of the agreement; and 
+    
+    *   (b) the value of the goods, services, gas, or electricity (as relevant); and
+    
+    *   (c) the respective bargaining power of the parties, including---
+            
+        *   (i) the extent to which a party was able to negotiate the terms of the agreement; and
+        
+        *   (ii) whether a party was required to either accept or reject the agreement on the terms and conditions presented by another party; and
+        
+        
+    
+    *   (d) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
+    
+    (3) [Section 56][118] of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
+    
+    (4) Every supplier and every manufacturer commits an offence against [section 13(i)][119] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act other than in accordance with subsection (2) or [section 43A][65].
     
     (5) Where an agreement of the kind described in subsection (2) excludes any provision of this Act, the benefit of the exclusion shall be deemed to be conferred on any manufacturer of the goods supplied under the agreement, as well as on the supplier of those goods.
     
@@ -1161,17 +1287,21 @@ Miscellaneous provisions
     
     Compare: 1971 No 147 s 51
     
-    Section 43(1): amended, on 8 July 2003, by [section 5(1)][107] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 43(1): amended, on 8 July 2003, by [section 5(1)][120] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
     
-    Section 43(4): amended, on 8 July 2003, by [section 5(2)][107] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 43(2): replaced, on 17 June 2014, by [section 13][121] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 43(2A): inserted, on 17 June 2014, by [section 13][121] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    
+    Section 43(4): amended, on 8 July 2003, by [section 5(2)][120] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
 
 ##### 43A Exclusion of liability in favour of non-contracting supplier
     
-*   (1) An agreement of the kind referred to in [section 43(2)][61] may exclude any provision of this Act that applies to a non-contracting supplier of services to the consumer with whom the agreement is made.
+*   (1) An agreement of the kind referred to in [section 43(2)][64] may exclude any provision of this Act that applies to a non-contracting supplier of services to the consumer with whom the agreement is made.
     
     (2) The non-contracting supplier has the benefit of the exclusion.
     
-    Section 43A: inserted, on 8 July 2003, by [section 6][108] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
+    Section 43A: inserted, on 8 July 2003, by [section 6][122] of the Consumer Guarantees Amendment Act 2003 (2003 No 33).
 
 #### General provisions
 
@@ -1185,7 +1315,7 @@ Miscellaneous provisions
     
 *   (1) Where goods assigned or procured to be assigned to the supplier by a person acting in trade (in this section referred to as the **dealer**) are supplied to a consumer, every representation made to the consumer by the dealer, or anyone acting on behalf of the dealer, in connection with or in the course of negotiations leading to the supply of the goods shall give the consumer---
         
-    *   (a) as against the supplier, subject to [section 46][66], the same rights as the consumer would have had under this Act if the representation had been made by the supplier personally:
+    *   (a) as against the supplier, subject to [section 46][69], the same rights as the consumer would have had under this Act if the representation had been made by the supplier personally:
     
     *   (b) as against the dealer who made the representation and any person on whose behalf the dealer was acting in making it, the same rights against any or all of them personally as the consumer would have had under this Act if that person had supplied the goods to the consumer as a result of the negotiations.
     
@@ -1205,15 +1335,65 @@ Miscellaneous provisions
     
     Compare: 1971 No 147 s 18
     
-    Section 46 heading: amended, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 46 heading: amended, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 46(2): amended, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 46(2): amended, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 46(3): amended, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 46(3): amended, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+
+##### 46A Indemnification of gas and electricity retailers
+    
+*   (1) This section applies if---
+        
+    *   (a) there has been a failure of the acceptable quality guarantee in [section 7A][12] in the supply of gas or electricity to a consumer by a retailer, as determined---
+            
+        *   (i) by the retailer; or
+        
+        *   (ii) if the retailer does not make a determination or if the retailer's determination is challenged, by the dispute resolution scheme following a complaint made under [section 43EA][123] of the Gas Act 1992 or under [section 95][124] of the Electricity Industry Act 2010 (as the case requires); or
+        
+        *   (iii) by a court or a Disputes Tribunal (if a court or a Disputes Tribunal makes a determination on the issue); and
+        
+        
+    
+    *   (b) the failure of acceptable quality was wholly or partly the result of an event, circumstance, or condition associated with---
+            
+        *   (i) a gas pipeline or other equipment that was, at the time of the failure, the responsibility of a person then supplying line function services (a _responsible party_); or
+        
+        *   (ii) electricity lines or other equipment that was, at the time of the failure, the responsibility of a person (including Transpower (as defined in the [Electricity Industry Act 2010][105])) then supplying line function services (a _responsible party_); and
+        
+        
+    
+    *   (c) the failure was not a result of a person involved in the supply complying with a rule or order with which it was legally obliged to comply; and 
+    
+    *   (d) the failure was not a result of action taken by Transpower in its capacity as system operator under the [Electricity Industry Act 2010][105]; and
+    
+    *   (e) the consumer obtains a remedy under [Part 2][23] in relation to the failure against the gas or electricity retailer; and
+    
+    *   (f) that remedy is a cost to the retailer (a _remedy cost_).
+    
+    (2) If this section applies, a retailer that has incurred remedy costs is entitled to be indemnified for those costs by the responsible party or responsible parties. 
+    
+    (3) The amount of a responsible party's liability under the indemnity is limited to the proportion of the remedy costs that is attributable to the events, circumstances, or conditions associated with the gas pipelines, electricity lines, or other equipment that the responsible party was responsible for at the time of the failure. 
+    
+    (4) However,---
+        
+    *   (a) if a responsible party pays compensation to a consumer (_payment A_) in respect of a service provided directly by the responsible party to the consumer; and
+    
+    *   (b) if the retailer incurs remedy costs in relation to that consumer for a failure of acceptable quality that arose from the same event, circumstance, or condition that led to the payment of payment A; then
+    
+    *   (c) the amount that the retailer would otherwise recover from the responsible party in respect of that consumer must be reduced by the amount of payment A.
+    
+    (5) Disputes between gas or electricity retailers and responsible parties relating to the existence or allocation of liability under the indemnity may be dealt with by the dispute resolution scheme referred to,---
+        
+    *   (a) in the case of gas, in [section 43E][125] of the Gas Act 1992; and
+    
+    *   (b) in the case of electricity, in [section 95][124] of the Electricity Industry Act 2010\.
+    
+    Section 46A: inserted, on 17 June 2014, by [section 14][126] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
 
 ##### 47 Jurisdiction
     
-*   (1) Any court of competent jurisdiction, and any Disputes Tribunal established under [section 4][109] of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under [section 23A][32] or [39][54].
+*   (1) Any court of competent jurisdiction, and any Disputes Tribunal established under [section 4][127] of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under [section 23A][35] or [39][57].
     
     (2) In this section, _court of competent jurisdiction_ means---
         
@@ -1223,11 +1403,11 @@ Miscellaneous provisions
             
         *   (i) a claim referred to in subsection (1) does not exceed $200,000; or
         
-        *   (ii) an order under [section 23A][32] or [39][54] does not exceed the limits prescribed by subsection (3).
+        *   (ii) an order under [section 23A][35] or [39][57] does not exceed the limits prescribed by subsection (3).
         
         
     
-    (3) A District Court may make an order under [section 23A][32] or [39][54] if the order does not---
+    (3) A District Court may make an order under [section 23A][35] or [39][57] if the order does not---
         
     *   (a) require a person to pay an amount exceeding $200,000:
     
@@ -1239,7 +1419,7 @@ Miscellaneous provisions
     
     (4) Subject to subsection (6), a Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $15,000\.
     
-    (5) Subject to subsection (6), a Disputes Tribunal may make an order under [section 23A][32] or [39][54] if the order does not---
+    (5) Subject to subsection (6), a Disputes Tribunal may make an order under [section 23A][35] or [39][57] if the order does not---
         
     *   (a) require a person to pay an amount exceeding $15,000:
     
@@ -1249,47 +1429,47 @@ Miscellaneous provisions
     
     *   (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $15,000\.
     
-    (6) Where in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][110] of the Disputes Tribunals Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000\.
+    (6) Where in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][128] of the Disputes Tribunals Act 1988, subsections (4) and (5) shall be read as if every reference in those subsections to $15,000 were a reference to $20,000\.
     
-    Section 47(1): amended, on 18 December 2013, by [section 15(1)][111] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 47(1): amended, on 18 December 2013, by [section 15(1)][129] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 47(1): amended, on 18 December 2013, by [section 15(2)][111] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 47(1): amended, on 18 December 2013, by [section 15(2)][129] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 47(2)(b)(ii): amended, on 18 December 2013, by [section 15(2)][111] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 47(2)(b)(ii): amended, on 18 December 2013, by [section 15(2)][129] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 47(3): amended, on 18 December 2013, by [section 15(2)][111] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 47(3): amended, on 18 December 2013, by [section 15(2)][129] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 47(4): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(4): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 47(5): amended, on 18 December 2013, by [section 15(2)][111] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
+    Section 47(5): amended, on 18 December 2013, by [section 15(2)][129] of the Consumer Guarantees Amendment Act 2013 (2013 No 144).
     
-    Section 47(5)(a): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(5)(a): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 47(5)(b): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(5)(b): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 47(5)(c): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(5)(c): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 47(5)(d): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(5)(d): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 47(6): amended, on 1 August 2009, by [section 8][112] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 47(6): amended, on 1 August 2009, by [section 8][130] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 #### Amendment to Sale of Goods Act 1908
 
 ##### 48 Exclusion where Consumer Guarantees Act 1993 applies
     
-*   _Amendment(s) incorporated in the [Act(s)][113]._
+*   _Amendment(s) incorporated in the [Act(s)][131]._
 
 #### Amendment to Hire Purchase Act 1971
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Heading: repealed, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 49 Exclusion where Consumer Guarantees Act 1993 applies
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 April 2005, by [section 139][91] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 49: repealed, on 1 April 2005, by [section 139][98] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 #### Amendments to Motor Vehicle Dealers Act 1975
 
@@ -1309,11 +1489,11 @@ Miscellaneous provisions
 
 ##### 53 Assignees
     
-*   _Amendment(s) incorporated in the [Act(s)][114]._
+*   _Amendment(s) incorporated in the [Act(s)][132]._
 
 ##### 54 Savings
     
-*   _Amendment(s) incorporated in the [Act(s)][115]._
+*   _Amendment(s) incorporated in the [Act(s)][133]._
 
 #### Amendment to Building Act 1991
 
@@ -1327,7 +1507,7 @@ Miscellaneous provisions
     
 *   This Act does not apply to any contract for the supply of goods or services made before the commencement of this Act.
     
-    Compare: 1979 No 11 [s 16][116]; 1982 No 132 [s 15][117]
+    Compare: 1979 No 11 [s 16][134]; 1982 No 132 [s 15][135]
 
 #### 
 
@@ -1341,25 +1521,25 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][118] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][119] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][136] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][137] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][120] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][121] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][138] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][139] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Consumer Guarantee Amendment Act 2013][122] (2013 No 144)
+*   [Consumer Guarantee Amendment Act 2013][140] (2013 No 144)
     
-    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][112]
+    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][130]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][94]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][101]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][91]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][98]
     
-    [Consumer Guarantees Amendment Act 2003][123] (2003 No 33)
+    [Consumer Guarantees Amendment Act 2003][141] (2003 No 33)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][90]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][97]
 
 
 
@@ -1372,118 +1552,136 @@ Miscellaneous provisions
 [6]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312800
 [7]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312801
 [8]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312802
-[9]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312807
-[10]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312808
-[11]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312809
-[12]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312810
-[13]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312811
-[14]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312812
-[15]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312813
-[16]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312814
-[17]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312815
-[18]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312816
-[19]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312817
-[20]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312818
-[21]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312819
-[22]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312820
-[23]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312821
-[24]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312822
-[25]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312823
-[26]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312824
-[27]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312825
-[28]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312826
-[29]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312828
-[30]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312829
-[31]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312830
-[32]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM5840604
-[33]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312831
-[34]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312832
-[35]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312833
-[36]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312834
-[37]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312835
-[38]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312836
-[39]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312837
-[40]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312838
-[41]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312839
-[42]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312840
-[43]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312841
-[44]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312842
-[45]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312843
-[46]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312844
-[47]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312846
-[48]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312847
-[49]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312848
-[50]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312849
-[51]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312850
-[52]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312851
-[53]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312852
-[54]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312853
-[55]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM5840611
-[56]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312854
-[57]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312855
-[58]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312856
-[59]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312857
-[60]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312858
-[61]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312859
-[62]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312862
-[63]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312864
-[64]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312865
-[65]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312866
-[66]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312867
-[67]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312870
-[68]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312874
-[69]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312875
-[70]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312877
-[71]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312879
-[72]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312881
-[73]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312882
-[74]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312883
-[75]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312884
-[76]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312886
-[77]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312887
-[78]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312888
-[79]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312889
-[80]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312890
-[81]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312892
-[82]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312893
-[83]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787609
-[84]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787610
-[85]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM319999
-[86]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM320101
-[87]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM211511
-[88]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM96444
-[89]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198915
-[90]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM328986
-[91]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM213532
-[92]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1512300
-[93]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174627
-[94]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1523176
-[95]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174629
-[96]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174628
-[97]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174631
-[98]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174619
-[99]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174669
-[100]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787633
-[101]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198922
-[102]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31587
-[103]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31589
-[104]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787639
-[105]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174699
-[106]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM96908
-[107]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198923
-[108]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198924
-[109]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM133619
-[110]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM133648
-[111]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787657
-[112]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1919616
-[113]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM173957
-[114]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31591
-[115]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM32009
-[116]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM32011
-[117]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM64714
-[118]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998516
-[119]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998515
-[120]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998532
-[121]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[122]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787603
-[123]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198909
+[9]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM6159810
+[10]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312807
+[11]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312808
+[12]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM6159815
+[13]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM6159820
+[14]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312809
+[15]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312810
+[16]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312811
+[17]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312812
+[18]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312813
+[19]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312814
+[20]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312815
+[21]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312816
+[22]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312817
+[23]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312818
+[24]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312819
+[25]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312820
+[26]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312821
+[27]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312822
+[28]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312823
+[29]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312824
+[30]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312825
+[31]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312826
+[32]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312828
+[33]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312829
+[34]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312830
+[35]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM5840604
+[36]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312831
+[37]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312832
+[38]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312833
+[39]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312834
+[40]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312835
+[41]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312836
+[42]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312837
+[43]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312838
+[44]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312839
+[45]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312840
+[46]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312841
+[47]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312842
+[48]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312843
+[49]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312844
+[50]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312846
+[51]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312847
+[52]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312848
+[53]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312849
+[54]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312850
+[55]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312851
+[56]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312852
+[57]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312853
+[58]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM5840611
+[59]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312854
+[60]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312855
+[61]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312856
+[62]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312857
+[63]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312858
+[64]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312859
+[65]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312862
+[66]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312864
+[67]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312865
+[68]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312866
+[69]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312867
+[70]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM6159829
+[71]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312870
+[72]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312874
+[73]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312875
+[74]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312877
+[75]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312879
+[76]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312881
+[77]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312882
+[78]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312883
+[79]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312884
+[80]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312886
+[81]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312887
+[82]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312888
+[83]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312889
+[84]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312890
+[85]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312892
+[86]: http://www.legislation.govt.nz/act/public/1993/0091/latest/whole.html#DLM312893
+[87]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787609
+[88]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787610
+[89]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM285420
+[90]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM281866
+[91]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM319999
+[92]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM320101
+[93]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM211511
+[94]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM96444
+[95]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198915
+[96]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787613
+[97]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM328986
+[98]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM213532
+[99]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1512300
+[100]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174627
+[101]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1523176
+[102]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787621
+[103]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174629
+[104]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787623
+[105]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2634200
+[106]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM285411
+[107]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787625
+[108]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174628
+[109]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174631
+[110]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174619
+[111]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174669
+[112]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787633
+[113]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198922
+[114]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31587
+[115]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31589
+[116]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787639
+[117]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787646
+[118]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM174699
+[119]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM96908
+[120]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198923
+[121]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787648
+[122]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198924
+[123]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM3372708
+[124]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2634495
+[125]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM285948
+[126]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787650
+[127]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM133619
+[128]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM133648
+[129]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787657
+[130]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM1919616
+[131]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM173957
+[132]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM31591
+[133]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM32009
+[134]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM32011
+[135]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM64714
+[136]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998516
+[137]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998515
+[138]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM2998532
+[139]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[140]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM5787603
+[141]: http://www.legislation.govt.nz/act/public/1993/0091/latest/link.aspx?id=DLM198909
