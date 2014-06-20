@@ -2261,7 +2261,7 @@ Preliminary provisions
     
     _QFE adviser_ has the same meaning as in [section 5][788] of the Financial Advisers Act 2008
     
-    _qualified auditor_ has the meaning set out in [section 461E][599]
+    _qualified auditor_ has the meaning set out in [section 461E][587]
     
     _quoted_, in relation to---
         
