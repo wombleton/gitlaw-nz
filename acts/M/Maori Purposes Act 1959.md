@@ -69,6 +69,8 @@ This Act is administered by Te Puni Kōkiri.
 
 [Amendments to principal Act][21]
 
+\[Spent\]
+
 [18][22][][22][Salaries and travelling allowances of Judges and Commissioners][22] \[Repealed\]
 
 [19][23][][23][Family protection][23] \[Repealed\]
@@ -94,6 +96,8 @@ This Act is administered by Te Puni Kōkiri.
 [29][33][][33][Special succession fee on trust funds][33] \[Repealed\]
 
 [Amendments of other Acts relating to Maoris][34]
+
+\[Spent\]
 
 [30][35][][35][Removal of restrictions on alienation][35] \[Repealed\]
 
@@ -382,6 +386,8 @@ Amendments of law relating to Maoris
     Section 17: spent, on 1 July 1993, pursuant to [section 362(2)][47] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 #### Amendments to principal Act
+
+\[Spent\]
     
 *   Heading: spent, on 1 July 1993, pursuant to [section 362(2)][47] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
@@ -458,6 +464,8 @@ Amendments of law relating to Maoris
     Section 29: repealed, on 1 April 1963, by section 34(3) of the Maori Affairs Amendment Act 1962 (1962 No 45).
 
 #### Amendments of other Acts relating to Maoris
+
+\[Spent\]
     
 *   Heading: spent, on 1 July 1993, pursuant to [section 362(2)][47] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
@@ -517,7 +525,7 @@ Amendments of law relating to Maoris
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][79] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][79] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
