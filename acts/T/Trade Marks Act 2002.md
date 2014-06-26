@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 24 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3857,7 +3857,7 @@ Legal proceedings
         
         *   (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
         
-        *   (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+        *   (iv) if the person is a registered user of the JBMS (within the meaning of [section 131A][420] of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
         
         
     
@@ -3870,6 +3870,10 @@ Legal proceedings
     *   (c) make copies of the document.
     
     Section 155B: inserted, on 7 October 2011, by [section 23][419] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    
+    Section 155B(2)(d)(iv): amended, on 24 June 2014, by [section 38(3)(a)][421] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
+    
+    Section 155B(2)(d)(iv): amended, on 24 June 2014, by [section 38(3)(b)][421] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
 
 ##### 155C Chief executive may require person to appear and answer questions concerning goods in control of Customs
     
@@ -3891,11 +3895,15 @@ Legal proceedings
         
         *   (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
         
-        *   (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+        *   (iv) if the person is a registered user of the JBMS (within the meaning of [section 131A][420] of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
         
         
     
     Section 155C: inserted, on 7 October 2011, by [section 23][419] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    
+    Section 155C(2)(d)(iv): amended, on 24 June 2014, by [section 38(4)(a)][421] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
+    
+    Section 155C(2)(d)(iv): amended, on 24 June 2014, by [section 38(4)(b)][421] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
 
 ##### 155D Customs officer may apply for production order
     
@@ -4145,9 +4153,9 @@ Legal proceedings
     
     (4) In any proceeding under this Act before the Commissioner, the Commissioner may administer oaths to any witness, and may in the prescribed manner require the attendance of any witness and discovery and production of documents.
     
-    (5) Any evidence given on oath before the Commissioner is deemed to be given in a judicial proceeding for the purposes of [sections 108][420] and [109][421] of the Crimes Act 1961\.
+    (5) Any evidence given on oath before the Commissioner is deemed to be given in a judicial proceeding for the purposes of [sections 108][422] and [109][423] of the Crimes Act 1961\.
     
-    (6) [Section 111][422] of the Crimes Act 1961 applies to every affidavit and statutory declaration made for the purposes of this Act.
+    (6) [Section 111][424] of the Crimes Act 1961 applies to every affidavit and statutory declaration made for the purposes of this Act.
     
     Compare: 1953 No 66 s 68
 
@@ -4163,7 +4171,7 @@ Legal proceedings
     
     Compare: 1953 No 66 s 69
     
-    Section 161(2): amended, on 15 December 2005, by [section 14][423] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 161(2): amended, on 15 December 2005, by [section 14][425] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 162 Registration is prima facie evidence of validity
     
@@ -4290,7 +4298,7 @@ Administrative provisions and miscellaneous
 
 ##### 175 Commissioner and Assistant Commissioners of Trade Marks
     
-*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][424],---
+*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][426],---
         
     *   (a) the Commissioner of Trade Marks; and
     
@@ -4298,7 +4306,7 @@ Administrative provisions and miscellaneous
     
     (2) Those persons are employees of the Ministry, and those appointments may be made separately or in conjunction with any other office in the Ministry. 
     
-    Section 175: replaced, on 16 September 2011, by [section 24][425] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175: replaced, on 16 September 2011, by [section 24][427] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175A Functions of Commissioner
     
@@ -4316,7 +4324,7 @@ Administrative provisions and miscellaneous
     
     *   (f) perform or exercise other functions, duties, and powers conferred on him or her by this Act and the regulations.
     
-    Section 175A: inserted, on 16 September 2011, by [section 24][425] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175A: inserted, on 16 September 2011, by [section 24][427] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175B Powers of Assistant Commissioners
     
@@ -4324,7 +4332,7 @@ Administrative provisions and miscellaneous
     
     (2) The fact that an Assistant Commissioner performs or exercises those functions, duties, and powers is conclusive evidence of the authority to do so.
     
-    Section 175B: inserted, on 16 September 2011, by [section 24][425] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175B: inserted, on 16 September 2011, by [section 24][427] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175C Power of Commissioner to delegate
     
@@ -4346,7 +4354,7 @@ Administrative provisions and miscellaneous
     
     (5) Any reference in this Act or the regulations to the Commissioner includes a reference to the delegate in respect of anything delegated to that person.
     
-    Section 175C: inserted, on 16 September 2011, by [section 24][425] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175C: inserted, on 16 September 2011, by [section 24][427] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 176 Hearing before exercise of Commissioner's discretion
     
@@ -4416,9 +4424,9 @@ Administrative provisions and miscellaneous
     
     Compare: 1953 No 66 s 5(1)
     
-    Section 182(b): replaced, on 15 December 2005, by [section 15][426] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 182(b): replaced, on 15 December 2005, by [section 15][428] of the Trade Marks Amendment Act 2005 (2005 No 116).
     
-    Section 182(d): replaced, on 16 September 2011, by [section 25][427] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 182(d): replaced, on 16 September 2011, by [section 25][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 183 No notices of trusts may be entered in register
     
@@ -4588,7 +4596,7 @@ Administrative provisions and miscellaneous
         
         
     
-    Section 193 heading: amended, on 15 December 2005, by [section 16][428] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 193 heading: amended, on 15 December 2005, by [section 16][430] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 #### Amendment of other documents
 
@@ -4642,7 +4650,7 @@ Administrative provisions and miscellaneous
 
 ##### 198 Annual report by Commissioner of Patents
     
-*   The Commissioner of Patents must, in his or her annual report with respect to the operation of the [Patents Act 1953][429], include a report with respect to the operation of this Act as if it formed a part of or was included in that Act.
+*   The Commissioner of Patents must, in his or her annual report with respect to the operation of the [Patents Act 1953][431], include a report with respect to the operation of this Act as if it formed a part of or was included in that Act.
     
     Compare: 1953 No 66 s 83
 
@@ -4744,15 +4752,15 @@ Administrative provisions and miscellaneous
     
     *   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Section 199(b)(ia): inserted, on 16 September 2011, by [section 26(1)][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(b)(ia): inserted, on 16 September 2011, by [section 26(1)][432] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(c) heading: repealed, on 16 September 2011, by [section 26(2)][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(c) heading: repealed, on 16 September 2011, by [section 26(2)][432] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(c): repealed, on 16 September 2011, by [section 26(2)][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(c): repealed, on 16 September 2011, by [section 26(2)][432] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(e)(i): replaced, on 16 September 2011, by [section 26(3)][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(e)(i): replaced, on 16 September 2011, by [section 26(3)][432] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(j): replaced, on 16 September 2011, by [section 26(4)][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(j): replaced, on 16 September 2011, by [section 26(4)][432] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 199A Regulations: Madrid Protocol
     
@@ -4782,7 +4790,7 @@ Administrative provisions and miscellaneous
         
         
     
-    Section 199A: inserted, on 16 September 2011, by [section 27][431] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199A: inserted, on 16 September 2011, by [section 27][433] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 200 Orders in Council relating to convention countries
     
@@ -4802,7 +4810,7 @@ Administrative provisions and miscellaneous
     
 *   (1) The Trade Marks Act 1953 (1953 No 66) is repealed.
     
-    (2) Despite the repeal of the Trade Marks Act 1953 by subsection (1), the [Prohibited Marks Order 1961][432] (SR 1961/120) and the [Prohibited Marks Order 1982][433] (SR 1982/127)---
+    (2) Despite the repeal of the Trade Marks Act 1953 by subsection (1), the [Prohibited Marks Order 1961][434] (SR 1961/120) and the [Prohibited Marks Order 1982][435] (SR 1982/127)---
         
     *   (a) continue in force as if that Act had not been repealed; and
     
@@ -4842,7 +4850,7 @@ Administrative provisions and miscellaneous
     
 *   A certificate of validity of registration given under section 61 of the Trade Marks Act 1953 has effect as if given under [section 165(1)][289] of this Act.
     
-    Section 206: amended, on 15 December 2005, by [section 17][434] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 206: amended, on 15 December 2005, by [section 17][436] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 207 Orders in Council relating to convention countries under Trade Marks Act 1953
     
@@ -4876,9 +4884,9 @@ Administrative provisions and miscellaneous
     
     (7) A trade mark that was registered as a defensive trade mark under the Trade Marks Act 1953 cannot be revoked under [section 66(1)(a) or (b)][97] until 3 years after the coming into force of this Act.
     
-    Section 208(2): amended, on 22 October 2003, by [section 3][435] of the Trade Marks Amendment Act 2003 (2003 No 100).
+    Section 208(2): amended, on 22 October 2003, by [section 3][437] of the Trade Marks Amendment Act 2003 (2003 No 100).
     
-    Section 208(5): replaced, on 15 December 2005, by [section 18][436] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 208(5): replaced, on 15 December 2005, by [section 18][438] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 209 Status of notes, etc, on register before commencement of Act
     
@@ -4897,7 +4905,7 @@ Acts amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][437]._
+_Amendment(s) incorporated in the [Act(s)][439]._
 
 ##### Animal Remedies Act 1967 (1967 No 51)
 
@@ -4905,7 +4913,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][438]._
+_Amendment(s) incorporated in the [Act(s)][440]._
 
 ##### Copyright Act 1994 (1994 No 143)
 
@@ -4913,23 +4921,23 @@ _Amendment(s) incorporated in the [Act(s)][396]._
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][439]._
+_Amendment(s) incorporated in the [Act(s)][441]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][440]._
+_Amendment(s) incorporated in the [Act(s)][442]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][441]._
+_Amendment(s) incorporated in the [Act(s)][443]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][442]._
+_Amendment(s) incorporated in the [Act(s)][444]._
 
 ##### Geographical Indications Act 1994 (1994 No 125)
 
-_Amendment(s) incorporated in the [Act(s)][443]._
+_Amendment(s) incorporated in the [Act(s)][445]._
 
 ##### Pesticides Act 1979 (1979 No 26)
 
@@ -4937,23 +4945,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][444]._
+_Amendment(s) incorporated in the [Act(s)][446]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][445]._
+_Amendment(s) incorporated in the [Act(s)][447]._
 
 ##### Smoke-free Environment Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][446]._
+_Amendment(s) incorporated in the [Act(s)][448]._
 
 ##### Standards Act 1988 (1988 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][447]._
+_Amendment(s) incorporated in the [Act(s)][449]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][448]._
+_Amendment(s) incorporated in the [Act(s)][450]._
 
 #### 
 
@@ -4967,27 +4975,29 @@ _Amendment(s) incorporated in the [Act(s)][448]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][449] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][450] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][451] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][452] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][451] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][452] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][453] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][454] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][402]
+*   Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10): [section 38(3), (4)][421]
+    
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][402]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][364]
     
-    [Trade Marks Amendment Act 2012][453] (2012 No 20)
+    [Trade Marks Amendment Act 2012][455] (2012 No 20)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][394]
     
-    [Trade Marks Amendment Act 2011][454] (2011 No 71)
+    [Trade Marks Amendment Act 2011][456] (2011 No 71)
     
-    [Trade Marks Amendment Act 2005][455] (2005 No 116)
+    [Trade Marks Amendment Act 2005][457] (2005 No 116)
     
-    [Trade Marks Amendment Act 2003 ][456](2003 No 100)
+    [Trade Marks Amendment Act 2003 ][458](2003 No 100)
     
     [Trade Marks Act 2002 Commencement Order 2003][360] (SR 2003/188)
 
@@ -5413,40 +5423,42 @@ _Amendment(s) incorporated in the [Act(s)][448]._
 [417]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290104
 [418]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290108
 [419]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290110
-[420]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328793
-[421]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328796
-[422]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328799
-[423]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362648
-[424]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM129109
-[425]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353613
-[426]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362649
-[427]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290126
-[428]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362650
-[429]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM280030
-[430]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290127
-[431]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290128
-[432]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM15734
-[433]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM82309
-[434]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362651
-[435]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218849
-[436]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362652
-[437]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM392629
-[438]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM88410
-[439]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM261925
-[440]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM133292
-[441]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM96923
-[442]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM51363
-[443]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345232
-[444]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM298477
-[445]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM45426
-[446]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM223905
-[447]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM128701
-[448]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM314314
-[449]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998516
-[450]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998515
-[451]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998532
-[452]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[453]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM4015202
-[454]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290000
-[455]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362630
-[456]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218843
+[420]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM6169875
+[421]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM5311805
+[422]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328793
+[423]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328796
+[424]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328799
+[425]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362648
+[426]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM129109
+[427]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353613
+[428]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362649
+[429]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290126
+[430]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362650
+[431]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM280030
+[432]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290127
+[433]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290128
+[434]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM15734
+[435]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM82309
+[436]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362651
+[437]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218849
+[438]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362652
+[439]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM392629
+[440]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM88410
+[441]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM261925
+[442]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM133292
+[443]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM96923
+[444]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM51363
+[445]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345232
+[446]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM298477
+[447]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM45426
+[448]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM223905
+[449]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM128701
+[450]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM310742
+[451]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998516
+[452]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998515
+[453]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998532
+[454]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[455]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM4015202
+[456]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290000
+[457]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362630
+[458]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218843
