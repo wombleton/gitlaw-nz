@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 24 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -6785,7 +6785,7 @@ Border protection measures
         
         *   (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
         
-        *   (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+        *   (iv) if the person is a registered user of the JBMS (within the meaning of [section 131A][559] of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
         
         
     
@@ -6798,6 +6798,10 @@ Border protection measures
     *   (c) make copies of the document.
     
     Section 144A: inserted, on 7 October 2011, by [section 10][558] of the Copyright Amendment Act 2011 (2011 No 72).
+    
+    Section 144A(2)(d)(iv): amended, on 24 June 2014, by [section 38(1)(a)][560] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
+    
+    Section 144A(2)(d)(iv): amended, on 24 June 2014, by [section 38(1)(b)][560] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
 
 ##### 144B Chief executive may require person to appear and answer questions concerning goods in control of Customs
     
@@ -6819,11 +6823,15 @@ Border protection measures
         
         *   (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
         
-        *   (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+        *   (iv) if the person is a registered user of the JBMS (within the meaning of [section 131A][559] of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
         
         
     
     Section 144B: inserted, on 7 October 2011, by [section 10][558] of the Copyright Amendment Act 2011 (2011 No 72).
+    
+    Section 144B(2)(d)(iv): amended, on 24 June 2014, by [section 38(2)(a)][560] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
+    
+    Section 144B(2)(d)(iv): amended, on 24 June 2014, by [section 38(2)(b)][560] of the Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10).
 
 ##### 144C Customs officer may apply for production order
     
@@ -6959,7 +6967,7 @@ Border protection measures
 
 #### Miscellaneous matters
     
-*   Heading: inserted, on 16 September 2011, by [section 11][559] of the Copyright Amendment Act 2011 (2011 No 72).
+*   Heading: inserted, on 16 September 2011, by [section 11][561] of the Copyright Amendment Act 2011 (2011 No 72).
 
 ##### 145 Delegation of powers, duties, and functions
     
@@ -6985,9 +6993,9 @@ Border protection measures
     
     Compare: 1966 No 19 s 228A; 1971 No 42 s 10
     
-    Section 146: amended, on 7 October 2011, by [section 12(1)][560] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 146: amended, on 7 October 2011, by [section 12(1)][562] of the Copyright Amendment Act 2011 (2011 No 72).
     
-    Section 146: amended, on 7 October 2011, by [section 12(2)][560] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 146: amended, on 7 October 2011, by [section 12(2)][562] of the Copyright Amendment Act 2011 (2011 No 72).
     
     Section 146: amended, on 1 October 1996, by [section 289(1)][552] of the Customs and Excise Act 1996 (1996 No 27).
 
@@ -7002,11 +7010,11 @@ Copyright licensing
     
     *   (b) works made by or by employees of, or commissioned by, a single individual, firm, company, or group of companies.
     
-    (2) In subsection (1), _group of companies_ means a holding company and its subsidiaries as defined in [sections 5][561] and [6][562] of the Companies Act 1993\.
+    (2) In subsection (1), _group of companies_ means a holding company and its subsidiaries as defined in [sections 5][563] and [6][564] of the Companies Act 1993\.
     
     Compare: Copyright, Designs and Patents Act 1988 s 116(4) (UK)
     
-    Section 147(2): substituted, on 31 October 2008, by [section 67][563] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 147(2): substituted, on 31 October 2008, by [section 67][565] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### References and applications with respect to licensing schemes
 
@@ -7052,13 +7060,13 @@ Copyright licensing
     
     Compare: Copyright, Designs and Patents Act 1988 s 117 (UK)
     
-    Section 148(a)(iv): substituted, on 31 October 2008, by [section 68(1)][564] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 148(a)(iv): substituted, on 31 October 2008, by [section 68(1)][566] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 148(b): amended, on 31 October 2008, by [section 68(2)][564] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 148(b): amended, on 31 October 2008, by [section 68(2)][566] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 148(d)(iii): substituted, on 31 October 2008, by [section 68(3)][564] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 148(d)(iii): substituted, on 31 October 2008, by [section 68(3)][566] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 148(d)(iv): repealed, on 31 October 2008, by [section 68(3)][564] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 148(d)(iv): repealed, on 31 October 2008, by [section 68(3)][566] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### References with respect to licensing schemes
 
@@ -7232,9 +7240,9 @@ Copyright licensing
     
     Compare: Copyright, Designs and Patents Act 1988 s 124 (UK)
     
-    Section 156(a)(iii): substituted, on 31 October 2008, by [section 69(1)][565] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 156(a)(iii): substituted, on 31 October 2008, by [section 69(1)][567] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 156(b): amended, on 31 October 2008, by [section 69(2)][565] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 156(b): amended, on 31 October 2008, by [section 69(2)][567] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 157 Reference to Tribunal of proposed licence
     
@@ -7340,7 +7348,7 @@ Copyright licensing
     
     (2) When this section applies, the Tribunal must, in considering what charges (if any) should be paid for a licence, have regard to the extent to which the owners of the copyright in the works included in the communication work have already received, or are entitled to receive, payment in respect of their inclusion.
     
-    Section 163: substituted, on 31 October 2008, by [section 70][566] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 163: substituted, on 31 October 2008, by [section 70][568] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 164 Licences to reflect conditions imposed by promoters of events
     
@@ -7358,9 +7366,9 @@ Copyright licensing
     
     Compare: Copyright, Designs and Patents Act 1988 s 132 (UK)
     
-    Section 164(1): amended, on 31 October 2008, by [section 71(1)][567] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 164(1): amended, on 31 October 2008, by [section 71(1)][569] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 164(2)(b): amended, on 31 October 2008, by [section 71(2)][567] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 164(2)(b): amended, on 31 October 2008, by [section 71(2)][569] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 165 Licences to reflect payments in respect of underlying rights
     
@@ -7370,9 +7378,9 @@ Copyright licensing
     
     Compare: Copyright, Designs and Patents Act 1988 s 133 (UK)
     
-    Section 165(2): amended, on 31 October 2008, by [section 72(a)][568] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 165(2): amended, on 31 October 2008, by [section 72(a)][570] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 165(2): amended, on 31 October 2008, by [section 72(b)][568] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 165(2): amended, on 31 October 2008, by [section 72(b)][570] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 166 Licences in respect of works included in retransmissions
     
@@ -7384,7 +7392,7 @@ Copyright licensing
     
     Compare: Copyright, Designs and Patents Act 1988 s 134 (UK)
     
-    Section 166(1): substituted, on 31 October 2008, by [section 73][569] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 166(1): substituted, on 31 October 2008, by [section 73][571] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### Implied indemnity in schemes or licences for reprographic copying
 
@@ -7448,7 +7456,7 @@ Copyright licensing
     
     (6) An order under subsection (5) has effect from the date on which it is made or such later date as may be specified by the Tribunal.
     
-    Section 168(1)(e): amended, on 31 October 2008, by [section 74][570] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 168(1)(e): amended, on 31 October 2008, by [section 74][572] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ## Part 9  
 Performers' rights
@@ -7541,11 +7549,11 @@ Performers' rights
     
     Compare: Copyright Act 1968 s 248A(2) (Aust); Copyright, Designs and Patents Act 1988 s 180(2) (UK)
     
-    Section 169 **commercial exploitation** paragraph (d): substituted, on 31 October 2008, by [section 75(1)][571] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 169 **commercial exploitation** paragraph (d): substituted, on 31 October 2008, by [section 75(1)][573] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 169 **convention country**: substituted, on 14 October 1999, by [section 2(2)][572] of the Copyright Amendment Act 1999 (1999 No 124).
+    Section 169 **convention country**: substituted, on 14 October 1999, by [section 2(2)][574] of the Copyright Amendment Act 1999 (1999 No 124).
     
-    Section 169 **recording** paragraph (b): amended, on 31 October 2008, by [section 75(2)][571] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 169 **recording** paragraph (b): amended, on 31 October 2008, by [section 75(2)][573] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 170 Application
     
@@ -7583,7 +7591,7 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 s 180(3), (4) (UK)
     
-    Section 170(4)(a): amended, on 31 October 2008, by [section 76][573] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 170(4)(a): amended, on 31 October 2008, by [section 76][575] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### Performers' rights
 
@@ -7599,7 +7607,7 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 s 182 (UK)
     
-    Section 171(1)(b): substituted, on 31 October 2008, by [section 77][574] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 171(1)(b): substituted, on 31 October 2008, by [section 77][576] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 172 Infringement by use of recording made without performer's consent
     
@@ -7611,7 +7619,7 @@ Performers' rights
     
     *   (c) A knows or has reason to believe that the recording was made without the performer's consent.
     
-    Section 172: substituted, on 31 October 2008, by [section 78][575] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 172: substituted, on 31 October 2008, by [section 78][577] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 173 Copying of recordings
     
@@ -7665,7 +7673,7 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 Schedule 2 para 3 (UK)
     
-    Section 175(1): substituted, on 31 October 2008, by [section 79][576] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 175(1): substituted, on 31 October 2008, by [section 79][578] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 175A Transient reproduction of recording of performance
     
@@ -7677,7 +7685,7 @@ Performers' rights
     
     *   (c) has no independent economic significance.
     
-    Section 175A: inserted, on 31 October 2008, by [section 80][577] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 175A: inserted, on 31 October 2008, by [section 80][579] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 176 Permitted acts in relation to performances, criticism, reviews, and news reporting
     
@@ -7727,9 +7735,9 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 Schedule 2 para 5 (UK)
     
-    Section 178 heading: amended, on 31 October 2008, by [section 81(1)][578] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 178 heading: amended, on 31 October 2008, by [section 81(1)][580] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 178(1): amended, on 31 October 2008, by [section 81(2)][578] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 178(1): amended, on 31 October 2008, by [section 81(2)][580] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 179 Recording of communication works by educational establishment
     
@@ -7737,9 +7745,9 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 Schedule 2 para 6(1) (UK)
     
-    Section 179 heading: amended, on 31 October 2008, by [section 82(1)][579] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 179 heading: amended, on 31 October 2008, by [section 82(1)][581] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 179: amended, on 31 October 2008, by [section 82(2)][579] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 179: amended, on 31 October 2008, by [section 82(2)][581] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 180 Subsequent dealings
     
@@ -7805,9 +7813,9 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 Schedule 2 para 13 (UK)
     
-    Section 184(1): substituted, on 31 October 2008, by [section 83(1)][580] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 184(1): substituted, on 31 October 2008, by [section 83(1)][582] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 184(2)(a): amended, on 31 October 2008, by [section 83(2)][580] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 184(2)(a): amended, on 31 October 2008, by [section 83(2)][582] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 185 Recordings of folk songs
     
@@ -7857,7 +7865,7 @@ Performers' rights
     
     *   (b) for all purposes after either of the conditions in subsection (2) is broken.
     
-    Section 187: substituted, on 31 October 2008, by [section 84][581] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 187: substituted, on 31 October 2008, by [section 84][583] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 188 Free public playing or showing of communication work
     
@@ -7893,7 +7901,7 @@ Performers' rights
     
     *   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
     
-    Section 188: substituted, on 16 September 2011, by [section 13(1)][582] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 188: substituted, on 16 September 2011, by [section 13(1)][584] of the Copyright Amendment Act 2011 (2011 No 72).
 
 ##### 188A Free public playing or showing of communication work that is simultaneous with reception
     
@@ -7929,19 +7937,19 @@ Performers' rights
     
     *   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
     
-    Section 188A: inserted, on 16 September 2011, by [section 13(1)][582] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 188A: inserted, on 16 September 2011, by [section 13(1)][584] of the Copyright Amendment Act 2011 (2011 No 72).
 
 ##### 188B Assessment of damages for infringement of rights under this Part in relation to performance or recording
     
 *   Where the making of a communication work is an infringement of rights under this Part in relation to a performance or recording, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
     
-    Section 188B: inserted, on 16 September 2011, by [section 13(1)][582] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 188B: inserted, on 16 September 2011, by [section 13(1)][584] of the Copyright Amendment Act 2011 (2011 No 72).
 
 ##### 189 Reception and retransmission of broadcast in cable programme service
     
 *   \[Repealed\]
     
-    Section 189: repealed, on 31 October 2008, by [section 86][583] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 189: repealed, on 31 October 2008, by [section 86][585] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 190 Provision of subtitled copies of communication work
     
@@ -7949,7 +7957,7 @@ Performers' rights
     
     (2) A body must not be prescribed for the purposes of subsection (1) if it is established or conducted for profit.
     
-    Section 190: substituted, on 31 October 2008, by [section 87][584] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 190: substituted, on 31 October 2008, by [section 87][586] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 191 Recording of communication work for archival purposes
     
@@ -7961,7 +7969,7 @@ Performers' rights
     
     (2) A body must not be prescribed for the purposes of subsection (1) if it is established or conducted for profit.
     
-    Section 191: substituted, on 31 October 2008, by [section 88][585] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 191: substituted, on 31 October 2008, by [section 88][587] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 192 Power of Tribunal to give consent on behalf of performer
     
@@ -8131,7 +8139,7 @@ Performers' rights
     
     Compare: Copyright, Designs and Patents Act 1988 s 198(1), (2), (3)(a), (5), (6) (UK)
     
-    Section 198(2)(b): substituted, on 31 October 2008, by [section 89][586] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 198(2)(b): substituted, on 31 October 2008, by [section 89][588] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
     Section 198(4): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -8209,7 +8217,7 @@ Performers' rights
     
 *   \[Repealed\]
     
-    Section 203: repealed, on 14 October 1999, by [section 4][587] of the Copyright Amendment Act 1999 (1999 No 124).
+    Section 203: repealed, on 14 October 1999, by [section 4][589] of the Copyright Amendment Act 1999 (1999 No 124).
 
 ##### 204 Application of Part 9 to other entities
     
@@ -8235,7 +8243,7 @@ Performers' rights
     
     *   (c) just the territory (or 1 or more of the territories) concerned.
     
-    Section 204: substituted, on 14 October 1999, by [section 2(1)][572] of the Copyright Amendment Act 1999 (1999 No 124).
+    Section 204: substituted, on 14 October 1999, by [section 2(1)][574] of the Copyright Amendment Act 1999 (1999 No 124).
 
 ## Part 10  
 Copyright Tribunal
@@ -8258,15 +8266,15 @@ Copyright Tribunal
     
     (3) The 5 other persons shall be appointed as members of the Tribunal by the Governor-General on the recommendation of the Minister.
     
-    (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][588] by virtue merely of his or her appointment to the Tribunal.
+    (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][590] by virtue merely of his or her appointment to the Tribunal.
     
     Compare: 1962 No 33 s 30(1), (2), (7)
     
-    Section 206(1): amended, on 1 September 2011, by [section 8(1)][589] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 206(1): amended, on 1 September 2011, by [section 8(1)][591] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
     Section 206(2)(a): substituted, on 1 October 1995, by [section 10(3)][434] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 206(3): amended, on 1 September 2011, by [section 8(2)][589] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 206(3): amended, on 1 September 2011, by [section 8(2)][591] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
 
 ##### 207 Term of office of members of Tribunal
     
@@ -8288,13 +8296,13 @@ Copyright Tribunal
     
 *   (1) Any member of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
     
-    (2) Any member of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the [Insolvency Act 2006][590], adjudged bankrupt.
+    (2) Any member of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the [Insolvency Act 2006][592], adjudged bankrupt.
     
     (3) Any member of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
     Compare: 1962 No 33 ss 31, 32
     
-    Section 208(2): amended, on 3 December 2007, by [section 445][591] of the Insolvency Act 2006 (2006 No 55).
+    Section 208(2): amended, on 3 December 2007, by [section 445][593] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 209 Deputies of members
     
@@ -8316,9 +8324,9 @@ Copyright Tribunal
 
 ##### 210 Remuneration and travelling allowances
     
-*   (1) The Tribunal is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][592].
+*   (1) The Tribunal is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][594].
     
-    (2) There shall be paid to members of the Tribunal, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][592], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to members of the Tribunal, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][594], and the provisions of that Act shall apply accordingly.
     
     Compare: 1962 No 33 s 35
 
@@ -8362,7 +8370,7 @@ Copyright Tribunal
     
     Compare: 1962 No 33 s 43(1)--(4)
     
-    Section 213(2): amended, on 1 September 2011, by [section 9][593] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 213(2): amended, on 1 September 2011, by [section 9][595] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
     Section 213(6): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8388,11 +8396,11 @@ Copyright Tribunal
     
     (3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][594] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][596] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
     
-    Compare: 1962 No 33 s 44; 1993 No 82 [s 106][595]
+    Compare: 1962 No 33 s 44; 1993 No 82 [s 106][597]
     
-    Section 215(4): amended, on 1 August 2007, by [section 216][596] of the Evidence Act 2006 (2006 No 69).
+    Section 215(4): amended, on 1 August 2007, by [section 216][598] of the Evidence Act 2006 (2006 No 69).
 
 ##### 216 Witness summons
     
@@ -8412,7 +8420,7 @@ Copyright Tribunal
     
     (3) The power to issue a witness summons may be exercised by the Tribunal or the chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or the chairperson.
     
-    Compare: 1993 No 82 [s 109][597]
+    Compare: 1993 No 82 [s 109][599]
 
 ##### 217 Service of summons
     
@@ -8430,11 +8438,11 @@ Copyright Tribunal
     
     (3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
     
-    Compare: 1993 No 82 [s 110][598]
+    Compare: 1993 No 82 [s 110][600]
 
 ##### 218 Witnesses' allowances
     
-*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][599], and those regulations shall apply accordingly.
+*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][601], and those regulations shall apply accordingly.
     
     (2) On each occasion on which the Tribunal issues a summons under [section 216][375], the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
     
@@ -8448,7 +8456,7 @@ Copyright Tribunal
     
     *   (b) be paid from money appropriated by Parliament for the purpose.
     
-    Compare: 1993 No 82 [s 111][600]
+    Compare: 1993 No 82 [s 111][602]
     
     Section 218(1): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8458,7 +8466,7 @@ Copyright Tribunal
     
     (2) Counsel and agents appearing before the Tribunal shall have the same privileges and immunities as counsel have in proceedings in a District Court.
     
-    Compare: 1993 No 82 [s 112][601]
+    Compare: 1993 No 82 [s 112][603]
 
 ##### 220 Non-attendance or refusal to co-operate
     
@@ -8474,7 +8482,7 @@ Copyright Tribunal
     
     (3) No person summoned to attend before the Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with [section 218][377].
     
-    Compare: 1993 No 82 [s 113][602]
+    Compare: 1993 No 82 [s 113][604]
     
     Section 220(2): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8492,7 +8500,7 @@ Copyright Tribunal
     
     Section 221(1): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 221(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][603] of the Policing Act 2008 (2008 No 72).
+    Section 221(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][605] of the Policing Act 2008 (2008 No 72).
 
 ##### 222 Costs
     
@@ -8516,7 +8524,7 @@ Copyright Tribunal
     
     (6) The High Court shall hear and determine any question submitted to it under this section, and shall remit the case with its opinion to the Tribunal.
     
-    Compare: 1962 No 33 s 47; 1993 No 82 [s 122][604]
+    Compare: 1962 No 33 s 47; 1993 No 82 [s 122][606]
 
 ##### 224 Appeal on question of law
     
@@ -8524,7 +8532,7 @@ Copyright Tribunal
     
     (2) Every appeal under this section shall be dealt with in accordance with rules of court.
     
-    Compare: 1993 No 94 [s 58][605]
+    Compare: 1993 No 94 [s 58][607]
 
 ## Part 11  
 Miscellaneous provisions
@@ -8553,7 +8561,7 @@ Miscellaneous provisions
 
 #### Technological protection measures
     
-*   Heading: substituted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+*   Heading: substituted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226 Definitions of TPM terms
     
@@ -8573,7 +8581,7 @@ Miscellaneous provisions
     
     _TPM work_ means a copyright work that is protected by a technological protection measure.
     
-    Section 226: substituted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226: substituted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226A Prohibited conduct in relation to technological protection measure
     
@@ -8587,7 +8595,7 @@ Miscellaneous provisions
     
     (3) A person (_A_) must not publish information enabling or assisting another person to circumvent a technological protection measure if A intends that the information will be used to infringe copyright in a TPM work.
     
-    Section 226A: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226A: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226B Rights of issuer of TPM work
     
@@ -8601,7 +8609,7 @@ Miscellaneous provisions
     
     (5) [Section 134][215] (order as to disposal of infringing copy or other object) applies, with all necessary modifications, in relation to the disposal of anything that is delivered up under subsection (3).
     
-    Section 226B: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226B: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226C Offence of contravening section 226A
     
@@ -8617,7 +8625,7 @@ Miscellaneous provisions
     
     (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
     
-    Section 226C: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226C: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
     Section 226C(4): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8657,7 +8665,7 @@ Miscellaneous provisions
     
     (6) In this section and in [section 226E][392], _encryption research_ means identifying and analysing flaws and vulnerabilities of encryption technology.
     
-    Section 226D: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226D: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226E User's options if prevented from exercising permitted act by TPM
     
@@ -8689,11 +8697,11 @@ Miscellaneous provisions
     
     (4) A qualified person who exercises a permitted act on behalf of the user of a TPM work must not charge the user more than a sum consisting of the total of the cost of the provision of the service and a reasonable contribution to the qualified person's general expenses.
     
-    Section 226E: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226E: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### Copyright management information
     
-*   Heading: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+*   Heading: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226F Meaning of copyright management information
     
@@ -8703,7 +8711,7 @@ Miscellaneous provisions
     
     *   (b) identifies or indicates some or all of the terms and conditions for using the work, or indicates that the use of the work is subject to terms and conditions.
     
-    Section 226F: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226F: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226G Interference with CMI prohibited
     
@@ -8715,7 +8723,7 @@ Miscellaneous provisions
     
     *   (b) A does not know, and has no reason to believe, that the removal or modification will induce, enable, facilitate, or conceal an infringement of the copyright in the work.
     
-    Section 226G: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226G: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226H Commercial dealing in work subject to CMI interference
     
@@ -8729,13 +8737,13 @@ Miscellaneous provisions
     
     *   (c) A does not know, and has no reason to believe, that any copyright management information attached to, or embodied in, the copy has been removed or modified without the authority of the copyright owner or the exclusive licensee.
     
-    Section 226H: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226H: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226I Contravention of section 226G or 226H
     
 *   A copyright owner or licensee of a work has the same rights in relation to a contravention of [section 226G][395] or [226H][396] as a copyright owner has in respect of an infringement of copyright.
     
-    Section 226I: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226I: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 226J Offence of dealing in work subject to CMI interference
     
@@ -8747,7 +8755,7 @@ Miscellaneous provisions
     
     (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $150,000 or a term of imprisonment not exceeding 5 years or both.
     
-    Section 226J: inserted, on 31 October 2008, by [section 90][606] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 226J: inserted, on 31 October 2008, by [section 90][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
     Section 226J(2): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8771,7 +8779,7 @@ Miscellaneous provisions
     
     Section 227(1): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 227(1): amended, on 31 October 2008, by [section 91][607] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 227(1): amended, on 31 October 2008, by [section 91][609] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 228 Rights and remedies in respect of apparatus, etc, for unauthorised reception of transmissions
     
@@ -8801,7 +8809,7 @@ Miscellaneous provisions
     
     Compare: Copyright, Designs and Patents Act 1988 s 298 (UK)
     
-    Section 228(1)(a): amended, on 31 October 2008, pursuant to [section 92][608] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 228(1)(a): amended, on 31 October 2008, pursuant to [section 92][610] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 #### Other countries
 
@@ -8819,9 +8827,9 @@ Miscellaneous provisions
     
     Compare: Copyright, Designs and Patents Act 1988 s 299 (UK)
     
-    Section 229(2): amended, on 31 October 2008, by [section 93(1)][609] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 229(2): amended, on 31 October 2008, by [section 93(1)][611] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 229(3): amended, on 31 October 2008, by [section 93(2)][609] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 229(3): amended, on 31 October 2008, by [section 93(2)][611] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 230 Application to convention countries
     
@@ -8847,7 +8855,7 @@ Miscellaneous provisions
     
     *   (c) the work was first published in a convention country.
     
-    Section 230(1)(d): substituted, on 31 October 2008, by [section 94][610] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 230(1)(d): substituted, on 31 October 2008, by [section 94][612] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 231 Expenditure or liability incurred in connection with copyright work
     
@@ -8909,7 +8917,7 @@ Miscellaneous provisions
     
     Section 232: substituted, on 14 October 1999, by [section 3(1)][429] of the Copyright Amendment Act 1999 (1999 No 124).
     
-    Section 232(2)(d): substituted, on 31 October 2008, by [section 95][611] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 232(2)(d): substituted, on 31 October 2008, by [section 95][613] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
 
 ##### 233 Denial of copyright to persons connected with countries not giving adequate protection to New Zealand works
     
@@ -9025,27 +9033,27 @@ Miscellaneous provisions
     
     Compare: 1962 No 33 ss 29(4), (5), 66
     
-    Section 234(e): amended, on 31 October 2008, by [section 96(1)][612] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 234(e): amended, on 31 October 2008, by [section 96(1)][614] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 234(ea): inserted, on 31 October 2008, by [section 96(2)][612] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
+    Section 234(ea): inserted, on 31 October 2008, by [section 96(2)][614] of the Copyright (New Technologies) Amendment Act 2008 (2008 No 27).
     
-    Section 234(eb): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(eb): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(ec): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(ec): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(ed): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(ed): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(ee): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(ee): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(ef): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(ef): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(eg): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(eg): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
-    Section 234(eh): inserted, on 1 September 2011, by [section 10][613] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
+    Section 234(eh): inserted, on 1 September 2011, by [section 10][615] of the Copyright (Infringing File Sharing) Amendment Act 2011 (2011 No 11).
     
     Section 234(i): amended, on 1 October 1996, by [section 289(1)][552] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 234(m): substituted, on 16 September 2011, by [section 14][614] of the Copyright Amendment Act 2011 (2011 No 72).
+    Section 234(m): substituted, on 16 September 2011, by [section 14][616] of the Copyright Amendment Act 2011 (2011 No 72).
     
     Section 234(q): amended, on 1 July 2013, by [section 413][536] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -9170,9 +9178,9 @@ Transitional provisions and savings
     
 *   The question of authorship of a work made before commencement shall be determined in accordance with---
         
-    *   (a) [clause 11(3)(b)][615] in relation to a soundtrack associated with a cinematograph film within the meaning of the 1962 Act:
+    *   (a) [clause 11(3)(b)][617] in relation to a soundtrack associated with a cinematograph film within the meaning of the 1962 Act:
     
-    *   (b) [clause 12(1)][616] in relation to a film made before 1 April 1963:
+    *   (b) [clause 12(1)][618] in relation to a film made before 1 April 1963:
     
     *   (c) the new copyright provisions for the purposes of the rights conferred by [Part 4][132]:
     
@@ -9348,7 +9356,7 @@ Transitional provisions and savings
         
         
     
-    *   (e) a literary, dramatic, musical, or artistic work made before commencement, other than a work to which paragraphs (a) to (d) or [clause 18][617] or [clause 19][618] applies, [section 22(1)][28] applies.
+    *   (e) a literary, dramatic, musical, or artistic work made before commencement, other than a work to which paragraphs (a) to (d) or [clause 18][619] or [clause 19][620] applies, [section 22(1)][28] applies.
     
     (3) If, in any case to which subclause (2)(d)(ii) applies, the identity of the author becomes known before the date on which the copyright would otherwise have expired, copyright expires in accordance with [section 22(1)][28].
     
@@ -9482,7 +9490,7 @@ Transitional provisions and savings
         
     *   (a) to a work of unknown authorship that was unpublished before commencement, being a literary, dramatic, musical, or artistic work (other than a photograph), only after the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force; and
     
-    *   (b) to a work referred to in [clause 17][619], if the work is one to which, under that clause, a section of this Act applies.
+    *   (b) to a work referred to in [clause 17][621], if the work is one to which, under that clause, a section of this Act applies.
     
     Compare: Copyright, Designs and Patents Act 1988 Schedule 1 para 15(3) (UK)
 
@@ -9500,13 +9508,13 @@ Transitional provisions and savings
         
     *   (a) was made before 1 April 1963; and
     
-    *   (b) at the time when the work was made, constituted a design capable of registration under the [Designs Act 1953][620] or under the enactments repealed by that Act; and
+    *   (b) at the time when the work was made, constituted a design capable of registration under the [Designs Act 1953][622] or under the enactments repealed by that Act; and
     
     *   (c) has been used as a model or pattern to be multiplied by an industrial process or is intended to be so used.
     
     (2) For the purposes of subclause (1)(c), a design shall be deemed to have been used, or to be intended to be used, as a model or pattern to be multiplied by any industrial process---
         
-    *   (a) when the design is copied or is intended to be copied on more than 50 single objects, unless all the objects in which the design is copied or intended to be copied together form only a single set of articles as defined in [section 2(1)][621] of the Designs Act 1953; or
+    *   (a) when the design is copied or is intended to be copied on more than 50 single objects, unless all the objects in which the design is copied or intended to be copied together form only a single set of articles as defined in [section 2(1)][623] of the Designs Act 1953; or
     
     *   (b) when the design is applied to, or is intended to be applied to,---
             
@@ -9664,7 +9672,7 @@ Transitional provisions and savings
 
 ##### 38 Certain assignments or licences on or after 1 April 1914 and before 1 April 1963
     
-*   (1) Where a document to which [clause 37(1)][622] applies is an assignment made or a licence granted---
+*   (1) Where a document to which [clause 37(1)][624] applies is an assignment made or a licence granted---
         
     *   (a) on or after 1 April 1914 and before 1 April 1963; and
     
@@ -9805,7 +9813,7 @@ Enactments amended
 
 ##### Antiquities Act 1975 (1975 No 41) (RS Vol 26, p 31)
 
-_Amendment(s) incorporated in the [Act(s)][623]._
+_Amendment(s) incorporated in the [Act(s)][625]._
 
 ##### Archives Act 1957 (1957 No 13) (RS Vol 1, p 127)
 
@@ -9813,11 +9821,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Commerce Act 1986 (1986 No 5) (RS Vol 31, p 71)
 
-_Amendment(s) incorporated in the [Act(s)][624]._
+_Amendment(s) incorporated in the [Act(s)][626]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][625]._
+_Amendment(s) incorporated in the [Act(s)][627]._
 
 ##### Enemy Property Act 1951 (1951 No 48) (RS Vol 6, p 317)
 
@@ -9825,11 +9833,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][626]._
+_Amendment(s) incorporated in the [Act(s)][628]._
 
 ##### Layout Designs Act 1994 (1994 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][627]._
+_Amendment(s) incorporated in the [Act(s)][629]._
 
 ##### Ministry of Agriculture and Fisheries Act 1953 (1953 No 7) (RS Vol 18, p 509)
 
@@ -9841,7 +9849,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][628]._
+_Amendment(s) incorporated in the [Act(s)][630]._
 
 ##### Survey Act 1986 (1986 No 123)
 
@@ -9856,7 +9864,7 @@ Enactments repealed
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][629]._
+_Amendment(s) incorporated in the [Act(s)][631]._
 
 ##### Copyright Act 1962 (1962 No 33)
 
@@ -9874,11 +9882,11 @@ _Amendment(s) incorporated in the [Act(s)][629]._
 
 ##### Decimal Currency Act 1964 (1964 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][630]._
+_Amendment(s) incorporated in the [Act(s)][632]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][631]._
+_Amendment(s) incorporated in the [Act(s)][633]._
 
 ---
 
@@ -9915,19 +9923,21 @@ Regulations revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][632] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][633] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][634] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][635] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][634] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][635] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][636] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][637] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Copyright (Parallel Importing of Films) Amendment Act 2013][636] (2013 No 86)
+*   Customs and Excise (Border Processing---Trade Single Window and Duties) Amendment Act 2014 (2014 No 10): [section 38(1), (2)][560]
+    
+    [Copyright (Parallel Importing of Films) Amendment Act 2013][638] (2013 No 86)
     
     Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][539]
     
-    [Copyright (Infringing File Sharing and Cellular Mobile Networks) Order 2013][637] (SR 2013/336)
+    [Copyright (Infringing File Sharing and Cellular Mobile Networks) Order 2013][639] (SR 2013/336)
     
     Inquiries Act 2013 (2013 No 60): [section 39][457]
     
@@ -9937,27 +9947,27 @@ Regulations revoked
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][536]
     
-    [Copyright Amendment Act 2011][638] (2011 No 72)
+    [Copyright Amendment Act 2011][640] (2011 No 72)
     
     Television New Zealand Amendment Act 2011 (2011 No 52): [section 14][489]
     
-    [Copyright (Infringing File Sharing) Amendment Act 2011][639] (2011 No 11)
+    [Copyright (Infringing File Sharing) Amendment Act 2011][641] (2011 No 11)
     
-    [Copyright Amendment Act 2010][640] (2010 No 55)
+    [Copyright Amendment Act 2010][642] (2010 No 55)
     
     Designs Amendment Act 2010 (2010 No 15): [section 8][498]
     
-    [Copyright (New Technologies) Amendment Act 2008 Commencement Amendment Order (No 2) 2009][641] (SR 2009/51)
+    [Copyright (New Technologies) Amendment Act 2008 Commencement Amendment Order (No 2) 2009][643] (SR 2009/51)
     
-    [Copyright (New Technologies) Amendment Act 2008 Commencement Order (No 2) 2008][642] (SR 2008/411)
+    [Copyright (New Technologies) Amendment Act 2008 Commencement Order (No 2) 2008][644] (SR 2008/411)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][603]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][605]
     
     [Copyright (New Technologies) Amendment Act 2008][505] (2008 No 27)
     
     Evidence Act 2006 (2006 No 69): section 216
     
-    Insolvency Act 2006 (2006 No 55): [section 445][591]
+    Insolvency Act 2006 (2006 No 55): [section 445][593]
     
     Education Amendment Act 2006 (2006 No 19): [section 60(1)][431]
     
@@ -9965,9 +9975,9 @@ Regulations revoked
     
     Public Records Act 2005 (2005 No 40): [section 67(1)][426]
     
-    [Copyright Amendment Act 2005][643] (2005 No 33)
+    [Copyright Amendment Act 2005][645] (2005 No 33)
     
-    [Copyright (Parallel Importation of Films and Onus of Proof) Amendment Act 2003][644] (2003 No 111)
+    [Copyright (Parallel Importation of Films and Onus of Proof) Amendment Act 2003][646] (2003 No 111)
     
     Trade Marks Act 2002 (2002 No 49): [section 201][534]
     
@@ -9979,13 +9989,13 @@ Regulations revoked
     
     [Copyright Act Commencement Order 2000][459] (SR 2000/245)
     
-    [Copyright Amendment Act 1999][645] (1999 No 124)
+    [Copyright Amendment Act 1999][647] (1999 No 124)
     
     Interpretation Act 1999 (1999 No 85): [section 38][456]
     
-    [Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998][646] (1998 No 20)
+    [Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998][648] (1998 No 20)
     
-    [Copyright Amendment Act 1997][647] (1997 No 38)
+    [Copyright Amendment Act 1997][649] (1997 No 38)
     
     Copyright Amendment Act 1996 (1996 No 28)
     
@@ -10554,92 +10564,94 @@ Regulations revoked
 [556]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM409981
 [557]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM409982
 [558]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987481
-[559]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987494
-[560]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987495
-[561]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM319999
-[562]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM320101
-[563]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122681
-[564]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122683
-[565]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122684
-[566]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122685
-[567]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122687
-[568]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122688
-[569]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122689
-[570]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122692
-[571]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122693
-[572]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM44999
-[573]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122696
-[574]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122697
-[575]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122698
-[576]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122701
-[577]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122702
-[578]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122704
-[579]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122705
-[580]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122706
-[581]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122707
-[582]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987496
-[583]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122715
-[584]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122716
-[585]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122718
-[586]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122721
-[587]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM45507
-[588]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM129109
-[589]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764374
-[590]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM385298
-[591]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM387857
-[592]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM264952
-[593]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3663208
-[594]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM393462
-[595]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305410
-[596]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM394552
-[597]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305420
-[598]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305422
-[599]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3359902
-[600]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305423
-[601]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305424
-[602]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305425
-[603]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1102349
-[604]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305441
-[605]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM313818
-[606]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122722
-[607]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122777
-[608]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122778
-[609]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122779
-[610]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122780
-[611]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122781
-[612]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122782
-[613]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764376
-[614]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987502
-[615]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347145
-[616]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347151
-[617]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347166
-[618]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347167
-[619]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347159
-[620]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM281070
-[621]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM281076
-[622]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347191
-[623]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM432283
-[624]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM88410
-[625]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM133287
-[626]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM312894
-[627]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM341480
-[628]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM45433
-[629]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM155364
-[630]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM351232
-[631]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM314307
-[632]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998516
-[633]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998515
-[634]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998532
-[635]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[636]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM5313601
-[637]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM5539000
-[638]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987402
-[639]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764300
-[640]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3040900
-[641]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1915300
-[642]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1689419
-[643]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM340897
-[644]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM220349
-[645]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM44993
-[646]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM426039
-[647]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM409975
+[559]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM6169875
+[560]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM5311805
+[561]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987494
+[562]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987495
+[563]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM319999
+[564]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM320101
+[565]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122681
+[566]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122683
+[567]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122684
+[568]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122685
+[569]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122687
+[570]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122688
+[571]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122689
+[572]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122692
+[573]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122693
+[574]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM44999
+[575]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122696
+[576]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122697
+[577]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122698
+[578]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122701
+[579]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122702
+[580]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122704
+[581]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122705
+[582]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122706
+[583]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122707
+[584]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987496
+[585]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122715
+[586]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122716
+[587]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122718
+[588]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122721
+[589]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM45507
+[590]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM129109
+[591]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764374
+[592]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM385298
+[593]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM387857
+[594]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM264952
+[595]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3663208
+[596]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM393462
+[597]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305410
+[598]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM394552
+[599]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305420
+[600]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305422
+[601]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3359902
+[602]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305423
+[603]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305424
+[604]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305425
+[605]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1102349
+[606]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM305441
+[607]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM313818
+[608]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122722
+[609]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122777
+[610]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122778
+[611]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122779
+[612]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122780
+[613]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122781
+[614]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1122782
+[615]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764376
+[616]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987502
+[617]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347145
+[618]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347151
+[619]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347166
+[620]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347167
+[621]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347159
+[622]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM281070
+[623]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM281076
+[624]: http://www.legislation.govt.nz/act/public/1994/0143/latest/whole.html#DLM347191
+[625]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM432283
+[626]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM88410
+[627]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM133287
+[628]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM312894
+[629]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM341480
+[630]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM45433
+[631]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM155364
+[632]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM351232
+[633]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM314307
+[634]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998516
+[635]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998515
+[636]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2998532
+[637]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[638]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM5313601
+[639]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM5539000
+[640]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3987402
+[641]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM2764300
+[642]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM3040900
+[643]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1915300
+[644]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM1689419
+[645]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM340897
+[646]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM220349
+[647]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM44993
+[648]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM426039
+[649]: http://www.legislation.govt.nz/act/public/1994/0143/latest/link.aspx?id=DLM409975
