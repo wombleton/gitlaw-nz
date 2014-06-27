@@ -1,5 +1,5 @@
 Reprint  
-as at 7 June 2014
+as at 24 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -52,324 +52,326 @@ This Act is administered by the Ministry for Primary Industries.
 
 [8][14][][14][Exercise of powers of Director and other officers][14]
 
-[Part 1A][15]  
-[Exemptions from Food Hygiene Regulations 1974][15]
+[8AAA][15][][15][Border information supplied using JBMS must be supplied in approved form and manner][15]
 
-[Purpose][16]
+[Part 1A][16]  
+[Exemptions from Food Hygiene Regulations 1974][16]
 
-[8A][17][][17][Purpose][17]
+[Purpose][17]
 
-[8AA][18][][18][Relationship between this Part and Animal Products Act 1999][18]
+[8A][18][][18][Purpose][18]
 
-[8AB][19][][19][Relationship between this Part and Wine Act 2003][19]
+[8AA][19][][19][Relationship between this Part and Animal Products Act 1999][19]
 
-[Applications for exemption][20]
+[8AB][20][][20][Relationship between this Part and Wine Act 2003][20]
 
-[8B][21][][21][Applications for exemption][21]
+[Applications for exemption][21]
 
-[8C][22][][22][Limitations on further applications][22]
+[8B][22][][22][Applications for exemption][22]
 
-[Effect of exemption][23]
+[8C][23][][23][Limitations on further applications][23]
 
-[8D][24][][24][Effect of exemption][24]
+[Effect of exemption][24]
 
-[8E][25][][25][Duties of territorial authorities to enforce Food Hygiene Regulations 1974 not affected][25]
+[8D][25][][25][Effect of exemption][25]
 
-[Powers of Director-General to grant exemptions][26]
+[8E][26][][26][Duties of territorial authorities to enforce Food Hygiene Regulations 1974 not affected][26]
 
-[8F][27][][27][Procedure where application made to Director-General][27]
+[Powers of Director-General to grant exemptions][27]
 
-[8G][28][][28][Definition of appropriate food safety programme][28]
+[8F][28][][28][Procedure where application made to Director-General][28]
 
-[8H][29][][29][Director-General not to refuse exemption unless applicant given opportunity to be heard][29]
+[8G][29][][29][Definition of appropriate food safety programme][29]
 
-[8I][30][][30][Terms of exemption][30]
+[8H][30][][30][Director-General not to refuse exemption unless applicant given opportunity to be heard][30]
 
-[8J][31][][31][Duration of exemption][31]
+[8I][31][][31][Terms of exemption][31]
 
-[8K][32][][32][Revocation of exemption][32]
+[8J][32][][32][Duration of exemption][32]
 
-[8L][33][][33][Surrender of exemption][33]
+[8K][33][][33][Revocation of exemption][33]
 
-[8M][34][][34][Substituted exemption][34]
+[8L][34][][34][Surrender of exemption][34]
 
-[Powers of territorial authorities to grant exemptions][35]
+[8M][35][][35][Substituted exemption][35]
 
-[8N][36][][36][Procedure where application made to territorial authority][36]
+[Powers of territorial authorities to grant exemptions][36]
 
-[8O][37][][37][Applications referred to Director-General][37]
+[8N][37][][37][Procedure where application made to territorial authority][37]
 
-[8P][38][][38][Territorial authority not to refuse exemption unless applicant given opportunity to be heard][38]
+[8O][38][][38][Applications referred to Director-General][38]
 
-[8Q][39][][39][Terms of exemption][39]
+[8P][39][][39][Territorial authority not to refuse exemption unless applicant given opportunity to be heard][39]
 
-[8R][40][][40][Duration of exemption][40]
+[8Q][40][][40][Terms of exemption][40]
 
-[8S][41][][41][Revocation of exemption][41]
+[8R][41][][41][Duration of exemption][41]
 
-[8T][42][][42][Surrender of exemption][42]
+[8S][42][][42][Revocation of exemption][42]
 
-[8U][43][][43][Substituted exemption][43]
+[8T][43][][43][Surrender of exemption][43]
 
-[Rights of appeal][44]
+[8U][44][][44][Substituted exemption][44]
 
-[8V][45][][45][Rights of appeal][45]
+[Rights of appeal][45]
 
-[8W][46][][46][Procedure on appeal][46]
+[8V][46][][46][Rights of appeal][46]
 
-[8X][47][][47][Determination of appeal][47]
+[8W][47][][47][Procedure on appeal][47]
 
-[8Y][48][][48][Decision of Director-General to be final][48]
+[8X][48][][48][Determination of appeal][48]
 
-[8Z][49][][49][Costs][49]
+[8Y][49][][49][Decision of Director-General to be final][49]
 
-[Transfer of functions of territorial authorities][50]
+[8Z][50][][50][Costs][50]
 
-[8ZA][51][][51][Transfer of functions][51]
+[Transfer of functions of territorial authorities][51]
 
-[8ZB][52][][52][Transfer agreement][52]
+[8ZA][52][][52][Transfer of functions][52]
 
-[8ZC][53][][53][Effect of transfer][53]
+[8ZB][53][][53][Transfer agreement][53]
 
-[8ZD][54][][54][Change, revocation, or relinquishment of transfer][54]
+[8ZC][54][][54][Effect of transfer][54]
 
-[Performance standards for territorial authorities][55]
+[8ZD][55][][55][Change, revocation, or relinquishment of transfer][55]
 
-[8ZE][56][][56][Minister may issue performance standards][56]
+[Performance standards for territorial authorities][56]
 
-[8ZF][57][][57][Territorial authorities to meet performance standards][57]
+[8ZE][57][][57][Minister may issue performance standards][57]
 
-[8ZG][58][][58][Non-performance by territorial authority][58]
+[8ZF][58][][58][Territorial authorities to meet performance standards][58]
 
-[8ZH][59][][59][Costs, charges, and expenses incurred by Minister][59]
+[8ZG][59][][59][Non-performance by territorial authority][59]
 
-[8ZI][60][][60][Duration of appointment][60]
+[8ZH][60][][60][Costs, charges, and expenses incurred by Minister][60]
 
-[Monitoring compliance with exemptions][61]
+[8ZI][61][][61][Duration of appointment][61]
 
-[8ZJ][62][][62][Duty to monitor compliance with exemption][62]
+[Monitoring compliance with exemptions][62]
 
-[Guidelines relating to granting of exemptions by territorial authorities][63]
+[8ZJ][63][][63][Duty to monitor compliance with exemption][63]
 
-[8ZK][64][][64][Director-General may issue guidelines][64]
+[Guidelines relating to granting of exemptions by territorial authorities][64]
 
-[8ZL][65][][65][Consultation on guidelines][65]
+[8ZK][65][][65][Director-General may issue guidelines][65]
 
-[8ZM][66][][66][Territorial authorities to observe guidelines][66]
+[8ZL][66][][66][Consultation on guidelines][66]
 
-[8ZN][67][][67][Standard criteria for food safety programmes][67]
+[8ZM][67][][67][Territorial authorities to observe guidelines][67]
 
-[8ZO][68][][68][Incorporation of material by reference][68]
+[8ZN][68][][68][Standard criteria for food safety programmes][68]
 
-[8ZP][69][][69][Verification, notification, availability, and commencement of guidelines][69]
+[8ZO][69][][69][Incorporation of material by reference][69]
 
-[Non-compliance with exemption an offence][70]
+[8ZP][70][][70][Verification, notification, availability, and commencement of guidelines][70]
 
-[8ZQ][71][][71][Non-compliance with exemption an offence][71]
+[Non-compliance with exemption an offence][71]
 
-[Notification of auditor of food safety programmes][72]
+[8ZQ][72][][72][Non-compliance with exemption an offence][72]
 
-[8ZR][73][][73][Notification of auditor of food safety programmes][73]
+[Notification of auditor of food safety programmes][73]
 
-[Register of exemptions][74]
+[8ZR][74][][74][Notification of auditor of food safety programmes][74]
 
-[8ZS][75][][75][Director-General to maintain register of exemptions][75]
+[Register of exemptions][75]
 
-[8ZT][76][][76][Duty on territorial authorities to forward information for inclusion on register][76]
+[8ZS][76][][76][Director-General to maintain register of exemptions][76]
 
-[8ZU][77][][77][Director-General to notify territorial authority][77]
+[8ZT][77][][77][Duty on territorial authorities to forward information for inclusion on register][77]
 
-[Approval of persons to audit food safety programmes][78]
+[8ZU][78][][78][Director-General to notify territorial authority][78]
 
-[8ZV][79][][79][Approval of persons to audit food safety programmes adopted by holders of exemptions][79]
+[Approval of persons to audit food safety programmes][79]
 
-[8ZW][80][][80][Integrity of audit process][80]
+[8ZV][80][][80][Approval of persons to audit food safety programmes adopted by holders of exemptions][80]
 
-[8ZX][81][][81][Conditions of approval][81]
+[8ZW][81][][81][Integrity of audit process][81]
 
-[8ZY][82][][82][Duration of approval][82]
+[8ZX][82][][82][Conditions of approval][82]
 
-[8ZZ][83][][83][Revocation of approval][83]
+[8ZY][83][][83][Duration of approval][83]
 
-[8ZZA][84][][84][Surrender of approval][84]
+[8ZZ][84][][84][Revocation of approval][84]
 
-[8ZZB][85][][85][Director-General to notify territorial authority of revocation or surrender of approval][85]
+[8ZZA][85][][85][Surrender of approval][85]
 
-[8ZZC][86][][86][Substituted approval][86]
+[8ZZB][86][][86][Director-General to notify territorial authority of revocation or surrender of approval][86]
 
-[8ZZD][87][][87][Approved auditor to notify termination of audit contract][87]
+[8ZZC][87][][87][Substituted approval][87]
 
-[8ZZE][88][][88][Offence][88]
+[8ZZD][88][][88][Approved auditor to notify termination of audit contract][88]
 
-[8ZZF][89][][89][Director-General to keep list of approved auditors][89]
+[8ZZE][89][][89][Offence][89]
 
-[Miscellaneous provision][90]
+[8ZZF][90][][90][Director-General to keep list of approved auditors][90]
 
-[8ZZG][91][][91][Other exemption powers not affected][91]
+[Miscellaneous provision][91]
 
-[Part 2][92]  
-[Sales and advertisements][92]
+[8ZZG][92][][92][Other exemption powers not affected][92]
 
-[9][93][][93][General prohibitions on sales][93]
+[Part 2][93]  
+[Sales and advertisements][93]
 
-[10][94][][94][Misleading labelling and packaging][94]
+[9][94][][94][General prohibitions on sales][94]
 
-[11][95][][95][Restrictions on advertising][95]
+[10][95][][95][Misleading labelling and packaging][95]
 
-[11AA][96][][96][Contravention of Act, etc, knowing that will create risk to human health][96]
+[11][96][][96][Restrictions on advertising][96]
 
-[11A][97][][97][Restriction on selling raw milk][97]
+[11AA][97][][97][Contravention of Act, etc, knowing that will create risk to human health][97]
 
-[Part 2A][98]  
-[Food standards][98]
+[11A][98][][98][Restriction on selling raw milk][98]
 
-[Purposes of this Part][99]
+[Part 2A][99]  
+[Food standards][99]
 
-[11B][100][][100][Purposes of this Part][100]
+[Purposes of this Part][100]
 
-[Power to issue food standards][101]
+[11B][101][][101][Purposes of this Part][101]
 
-[11C][102][][102][Minister may issue food standards][102]
+[Power to issue food standards][102]
 
-[11D][103][][103][Prescribed foods][103]
+[11C][103][][103][Minister may issue food standards][103]
 
-[11E][104][][104][Preconditions for issuing food standard][104]
+[11D][104][][104][Prescribed foods][104]
 
-[Incorporation of material by reference][105]
+[11E][105][][105][Preconditions for issuing food standard][105]
 
-[11F][106][][106][Food standards may incorporate material by reference][106]
+[Incorporation of material by reference][106]
 
-[General provisions relating to food standards][107]
+[11F][107][][107][Food standards may incorporate material by reference][107]
 
-[11G][108][][108][Verification, notification, availability, and commencement of food standards][108]
+[General provisions relating to food standards][108]
 
-[11H][109][][109][Further general provisions relating to food standards][109]
+[11G][109][][109][Verification, notification, availability, and commencement of food standards][109]
 
-[11I][110][][110][Food standards subject to disallowance][110]
+[11H][110][][110][Further general provisions relating to food standards][110]
 
-[11J][111][][111][Minister not to delegate power to issue food standards][111]
+[11I][111][][111][Food standards subject to disallowance][111]
 
-[11K][112][][112][Proof of food standards][112]
+[11J][112][][112][Minister not to delegate power to issue food standards][112]
 
-[11L][113][][113][Amendment and revocation of food standards][113]
+[11K][113][][113][Proof of food standards][113]
 
-[Emergency food standards][114]
+[11L][114][][114][Amendment and revocation of food standards][114]
 
-[11M][115][][115][Emergency food standards][115]
+[Emergency food standards][115]
 
-[11N][116][][116][Director-General not to delegate power to issue emergency food standards][116]
+[11M][116][][116][Emergency food standards][116]
 
-[Offences and penalties][117]
+[11N][117][][117][Director-General not to delegate power to issue emergency food standards][117]
 
-[11O][118][][118][Contravention of food standards][118]
+[Offences and penalties][118]
 
-[11P][119][][119][Prescribed foods][119]
+[11O][119][][119][Contravention of food standards][119]
 
-[11Q][120][][120][Offences and penalties][120]
+[11P][120][][120][Prescribed foods][120]
 
-[Transitional provisions][121]
+[11Q][121][][121][Offences and penalties][121]
 
-[11R][122][][122][Definitions][122]
+[Transitional provisions][122]
 
-[11S][123][][123][Application of food standards and food regulations during transition period][123]
+[11R][123][][123][Definitions][123]
 
-[11T][124][][124][Minister to identify alternative food standards][124]
+[11S][124][][124][Application of food standards and food regulations during transition period][124]
 
-[11U][125][][125][Persons may elect to be governed by food standards][125]
+[11T][125][][125][Minister to identify alternative food standards][125]
 
-[11V][126][][126][Revocation of election][126]
+[11U][126][][126][Persons may elect to be governed by food standards][126]
 
-[11W][127][][127][Application of alternative food standards adopted during transition period][127]
+[11V][127][][127][Revocation of election][127]
 
-[11X][128][][128][Effect of adoption of alternative food standards on persons subsequently selling food][128]
+[11W][128][][128][Application of alternative food standards adopted during transition period][128]
 
-[11Y][129][][129][Adoption of alternative food standards may be necessary if person to deal with food lawfully][129]
+[11X][129][][129][Effect of adoption of alternative food standards on persons subsequently selling food][129]
 
-[11Z][130][][130][Minister may declare mandatory food standard][130]
+[11Y][130][][130][Adoption of alternative food standards may be necessary if person to deal with food lawfully][130]
 
-[11ZA][131][][131][Application of mandatory food standard during transition period][131]
+[11Z][131][][131][Minister may declare mandatory food standard][131]
 
-[11ZB][132][][132][Inconsistencies between food standards and Food Regulations 1984, and between mandatory and alternative food standards][132]
+[11ZA][132][][132][Application of mandatory food standard during transition period][132]
 
-[11ZC][133][][133][Duty to disclose which food regime applies][133]
+[11ZB][133][][133][Inconsistencies between food standards and Food Regulations 1984, and between mandatory and alternative food standards][133]
 
-[11ZD][134][][134][Register of elections][134]
+[11ZC][134][][134][Duty to disclose which food regime applies][134]
 
-[11ZE][135][][135][Offences][135]
+[11ZD][135][][135][Register of elections][135]
 
-[Part 3][136]  
-[Enforcement][136]
+[11ZE][136][][136][Offences][136]
 
-[12][137][][137][Powers of officers][137]
+[Part 3][137]  
+[Enforcement][137]
 
-[13][138][][138][Powers of local authority inspectors][138]
+[12][138][][138][Powers of officers][138]
 
-[14][139][][139][Further provisions relating to seizure and detention of articles][139]
+[13][139][][139][Powers of local authority inspectors][139]
 
-[15][140][][140][Seizure and destruction of decayed or putrified food][140]
+[14][140][][140][Further provisions relating to seizure and detention of articles][140]
 
-[15A][141][][141][Power to issue search warrant even though offence not imprisonable][141]
+[15][141][][141][Seizure and destruction of decayed or putrified food][141]
 
-[16][142][][142][District Court may order return of property or compensation][142]
+[15A][142][][142][Power to issue search warrant even though offence not imprisonable][142]
 
-[17][143][][143][Power of Medical Officer of Health to require information][143]
+[16][143][][143][District Court may order return of property or compensation][143]
 
-[18][144][][144][Power to require name and address of seller][144]
+[17][144][][144][Power of Medical Officer of Health to require information][144]
 
-[19][145][][145][Source of information or reports need not be disclosed][145]
+[18][145][][145][Power to require name and address of seller][145]
 
-[20][146][][146][Procuring of samples for analysis][146]
+[19][146][][146][Source of information or reports need not be disclosed][146]
 
-[21][147][][147][How samples to be dealt with][147]
+[20][147][][147][Procuring of samples for analysis][147]
 
-[22][148][][148][Analysis of sample and certificate or report of analyst][148]
+[21][148][][148][How samples to be dealt with][148]
 
-[23][149][][149][Evidence of analysis][149]
+[22][149][][149][Analysis of sample and certificate or report of analyst][149]
 
-[24][150][][150][Special provisions relating to imported consignments][150]
+[23][150][][150][Evidence of analysis][150]
 
-[25][151][][151][Presumption that contents conform with label][151]
+[24][151][][151][Special provisions relating to imported consignments][151]
 
-[26][152][][152][Obstruction of officers][152]
+[25][152][][152][Presumption that contents conform with label][152]
 
-[27][153][][153][Time for filing charging document][153]
+[26][153][][153][Obstruction of officers][153]
 
-[27A][154][][154][Copy of analyst's certificate or report to be served with summons][154]
+[27][154][][154][Time for filing charging document][154]
 
-[28][155][][155][General penalty][155]
+[27A][155][][155][Copy of analyst's certificate or report to be served with summons][155]
 
-[29][156][][156][Liability of principal for acts of agents, etc][156]
+[28][156][][156][General penalty][156]
 
-[30][157][][157][Strict liability][157]
+[29][157][][157][Liability of principal for acts of agents, etc][157]
 
-[31][158][][158][Further defences][158]
+[30][158][][158][Strict liability][158]
 
-[32][159][][159][Liability of persons named on labels][159]
+[31][159][][159][Further defences][159]
 
-[33][160][][160][Payment of expenses of analysis on conviction][160]
+[32][160][][160][Liability of persons named on labels][160]
 
-[34][161][][161][Forfeiture on conviction][161]
+[33][161][][161][Payment of expenses of analysis on conviction][161]
 
-[35][162][][162][Courts may order withdrawal of goods from circulation][162]
+[34][162][][162][Forfeiture on conviction][162]
 
-[Part 4][163]  
-[Miscellaneous provisions][163]
+[35][163][][163][Courts may order withdrawal of goods from circulation][163]
 
-[36][164][][164][Duty of officer to procure sample for analysis on request][164]
+[Part 4][164]  
+[Miscellaneous provisions][164]
 
-[37][165][][165][Statements by Director-General][165] \[Repealed\]
+[36][165][][165][Duty of officer to procure sample for analysis on request][165]
 
-[38][166][][166][Examination of Customs entries][166]
+[37][166][][166][Statements by Director-General][166] \[Repealed\]
 
-[39][167][][167][Protection of persons acting under authority of Act][167]
+[38][167][][167][Examination of Customs entries][167]
 
-[40][168][][168][Recall of food][168] \[Repealed\]
+[39][168][][168][Protection of persons acting under authority of Act][168]
 
-[41][169][][169][Records][169]
+[40][169][][169][Recall of food][169] \[Repealed\]
 
-[42][170][][170][Regulations][170]
+[41][170][][170][Records][170]
 
-[42A][171][][171][Regulations for fees and charges][171]
+[42][171][][171][Regulations][171]
+
+[42A][172][][172][Regulations for fees and charges][172]
 
 ---
 
@@ -381,7 +383,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council, and different dates may be so appointed in respect of different provisions of this Act.
     
-    Section 1(2): this Act brought into force, on 1 August 1984, by the [Food Act Commencement Order 1984][172] (SR 1984/178).
+    Section 1(2): this Act brought into force, on 1 August 1984, by the [Food Act Commencement Order 1984][173] (SR 1984/178).
 
 ##### 2 Interpretation
     
@@ -405,7 +407,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _appliance_ includes the whole or any part of any utensil, container, vessel, machinery, instrument, apparatus, or article used or represented for use in or for the preparing, processing, manufacturing, packing, storing, carrying, delivering, or selling of any food; and includes any utensil, container, vessel, machinery, instrument, apparatus, or article used or capable of being used in the cleaning of any such appliance
     
-    _approved auditor_ means a person for the time being approved under [section 8ZV][79] to carry out periodic audits of food safety programmes adopted by persons who hold exemptions
+    _approved auditor_ means a person for the time being approved under [section 8ZV][80] to carry out periodic audits of food safety programmes adopted by persons who hold exemptions
     
     _Australia - New Zealand Joint Food Standards Agreement_ means the Agreement Between the Government of New Zealand and the Government of Australia Establishing a System for the Development of Joint Food Standards, done at Wellington on 5 December 1995
     
@@ -423,7 +425,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     and includes the normal accessories and equipment of the container, when imported with the container and used exclusively with it; but does not include any vehicle, or any ordinary packing case, crate, box, or other similar article used for packing
     
-    _Customs_ or _the Customs_ has the meaning given to it by [section 2(1)][173] of the Customs and Excise Act 1996
+    _Customs_ or _the Customs_ has the meaning given to it by [section 2(1)][174] of the Customs and Excise Act 1996
     
     _description_ includes any pictorial representation; and _described_ has a corresponding meaning
     
@@ -435,7 +437,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _district_ means the district of a territorial authority
     
-    _enforcement authority_, in [Part 1A][15], means,---
+    _enforcement authority_, in [Part 1A][16], means,---
         
     *   (a) in relation to an exemption granted by the Director-General, the Director-General:
     
@@ -445,7 +447,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _examine_ includes weigh, count, and measure; but does not include take or analyse samples
     
-    _exemption_ means an exemption granted under [section 8F][27] or [section 8N][36]
+    _exemption_ means an exemption granted under [section 8F][28] or [section 8N][37]
     
     _food_ means anything that is used or represented for use as food or drink for human beings; and includes---
         
@@ -457,9 +459,9 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _food safety programme_ has the meaning given to it in [section 4A][8]
     
-    _food standard_ means a food standard issued under [section 11C][102] and for the time being in force
+    _food standard_ means a food standard issued under [section 11C][103] and for the time being in force
     
-    _guideline_ means a guideline issued pursuant to [section 8ZK][64] and for the time being in force
+    _guideline_ means a guideline issued pursuant to [section 8ZK][65] and for the time being in force
     
     _importer_ means any person by or for whom any goods are imported; and includes the consignee of any goods; and also includes any person who is or becomes---
         
@@ -469,7 +471,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     *   (c) beneficially interested in any goods---
     
-    on or at any time after the importation of those goods and before they have ceased to be subject to the control of the Customs in accordance with the [Customs and Excise Act 1996][174]
+    on or at any time after the importation of those goods and before they have ceased to be subject to the control of the Customs in accordance with the [Customs and Excise Act 1996][175]
     
     _label_ means any written, pictorial, or other descriptive matter appearing on or attached to---
         
@@ -483,7 +485,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _local authority inspector_ means the environmental health officer of a territorial authority
     
-    _Medical Officer of Health_ means the Medical Officer of Health appointed under the [Health Act 1956][175] for a health district; and includes any Deputy Medical Officer of Health; and also includes any other officer acting under the direction of the Medical Officer of Health for any of the purposes of this Act
+    _Medical Officer of Health_ means the Medical Officer of Health appointed under the [Health Act 1956][176] for a health district; and includes any Deputy Medical Officer of Health; and also includes any other officer acting under the direction of the Medical Officer of Health for any of the purposes of this Act
     
     _Minister_ means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
     
@@ -493,7 +495,7 @@ An Act to consolidate and amend the law relating to the sale of food
     
     _package_ includes anything in or by which goods for carriage or for sale may be cased, covered, enclosed, contained, or packed; and, in the case of goods sold or carried or intended for sale or carriage in more than 1 package, includes every such package
     
-    _port_ means either a Customs port or a Customs airport designated as such under [section 9][176] of the Customs and Excise Act 1996
+    _port_ means either a Customs port or a Customs airport designated as such under [section 9][177] of the Customs and Excise Act 1996
     
     _prescribed_ means prescribed by or under regulations made under this Act
     
@@ -509,51 +511,51 @@ An Act to consolidate and amend the law relating to the sale of food
     
     *   (e) bring to the notice of the public in New Zealand in any other manner
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][177]
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][178]
     
     _vehicle_ includes an aircraft, a hovercraft, and a ship.
     
-    Compare: 1969 No 7 s 2; 1979 No 27 s 2; [1979 No 59][178] [s 8(3)][179]
+    Compare: 1969 No 7 s 2; 1979 No 27 s 2; [1979 No 59][179] [s 8(3)][180]
     
-    Section 2 **appliance**: amended, on 18 June 2002, by [section 15][180] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **appliance**: amended, on 18 June 2002, by [section 15][181] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **approved auditor**: inserted, on 1 July 1997, by [section 2][181] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 2 **approved auditor**: inserted, on 1 July 1997, by [section 2][182] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 2 **Australia - New Zealand Joint Food Standards Agreement**: inserted, on 1 July 1996, by [section 2][182] of the Food Amendment Act 1996 (1996 No 41).
+    Section 2 **Australia - New Zealand Joint Food Standards Agreement**: inserted, on 1 July 1996, by [section 2][183] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 2 **Customs** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2 **Customs** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2 **designated officer**: inserted, on 1 July 2002, by [section 4(1)][184] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **designated officer**: inserted, on 1 July 2002, by [section 4(1)][185] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **Director**: substituted, on 23 March 1987, by [section 6][185] of the Health Amendment Act 1987 (1987 No 10).
+    Section 2 **Director**: substituted, on 23 March 1987, by [section 6][186] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 2 **Director-General**: substituted, on 1 July 2002, by [section 4(1)][184] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **Director-General**: substituted, on 1 July 2002, by [section 4(1)][185] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **district**: substituted, on 1 July 2003, by [section 262][186] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **district**: substituted, on 1 July 2003, by [section 262][187] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2 **enforcement authority**: inserted, on 1 July 1997, by [section 2][181] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 2 **enforcement authority**: inserted, on 1 July 1997, by [section 2][182] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 2 **exemption**: inserted, on 1 July 1997, by [section 2][181] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 2 **exemption**: inserted, on 1 July 1997, by [section 2][182] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 2 **food safety programme**: inserted, on 1 July 1996, by [section 2][182] of the Food Amendment Act 1996 (1996 No 41).
+    Section 2 **food safety programme**: inserted, on 1 July 1996, by [section 2][183] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 2 **food standard**: inserted, on 1 July 1996, by [section 2][182] of the Food Amendment Act 1996 (1996 No 41).
+    Section 2 **food standard**: inserted, on 1 July 1996, by [section 2][183] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 2 **guideline**: inserted, on 1 July 1997, by [section 2][181] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 2 **guideline**: inserted, on 1 July 1997, by [section 2][182] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 2 **importer**: amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2 **importer**: amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2 **local authority inspector**: substituted, on 1 July 2003, by [section 262][186] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority inspector**: substituted, on 1 July 2003, by [section 262][187] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2 **Minister**: substituted, on 1 July 2002, by [section 4(1)][184] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **Minister**: substituted, on 1 July 2002, by [section 4(1)][185] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **Ministry**: inserted, on 1 July 2002, by [section 4(1)][184] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **Ministry**: inserted, on 1 July 2002, by [section 4(1)][185] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **officer**: substituted, on 1 July 2002, by [section 4(1)][184] of the Food Amendment Act 2002 (2002 No 26).
+    Section 2 **officer**: substituted, on 1 July 2002, by [section 4(1)][185] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 2 **port**: substituted, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2 **port**: substituted, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2 **territorial authority**: substituted, on 1 July 2003, by [section 262][186] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **territorial authority**: substituted, on 1 July 2003, by [section 262][187] of the Local Government Act 2002 (2002 No 84).
 
 ## Part 1  
 Application and administration of Act
@@ -610,7 +612,7 @@ Application and administration of Act
     
     *   (b) a particular person or group of persons within the food industry.
     
-    Section 4A: inserted, on 1 July 1996, by [section 3][187] of the Food Amendment Act 1996 (1996 No 41).
+    Section 4A: inserted, on 1 July 1996, by [section 3][188] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 5 Food offered as prizes
     
@@ -626,7 +628,7 @@ Application and administration of Act
     
 *   (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
     
-    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][188], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
+    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][189], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
     
     (3) Subject to the provisions of this Act and of any regulations made under this Act, every such committee may regulate its own procedure.
     
@@ -634,7 +636,7 @@ Application and administration of Act
 
 ##### 7 Appointment of analysts and officers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][189] such analysts and officers as may be required for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][190] such analysts and officers as may be required for the purposes of this Act.
     
     (2) The Director-General may from time to time appoint any person, not being a member of the Public Service, as an analyst or officer for the purposes of this Act.
     
@@ -648,25 +650,25 @@ Application and administration of Act
     
     (4) There may be paid out of money appropriated by Parliament for the purpose to any person appointed under subsection (2) such remuneration as may be fixed by the Director-General.
     
-    (5) No person appointed as an analyst or officer under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][189] or of the [Government Superannuation Fund Act 1956][190].
+    (5) No person appointed as an analyst or officer under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][190] or of the [Government Superannuation Fund Act 1956][191].
     
     Compare: 1969 No 7 s 19; 1979 No 27 s 9
     
-    Section 7(1): amended, on 1 April 1988, pursuant to [section 88(2)][191] of the State Sector Act 1988 (1988 No 20).
+    Section 7(1): amended, on 1 April 1988, pursuant to [section 88(2)][192] of the State Sector Act 1988 (1988 No 20).
     
-    Section 7(2): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 7(2): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 7(2A): inserted, on 1 July 2002, by [section 5][193] of the Food Amendment Act 2002 (2002 No 26).
+    Section 7(2A): inserted, on 1 July 2002, by [section 5][194] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 7(4): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 7(4): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 7(5): amended, on 1 April 1988, pursuant to [section 88(2)][191] of the State Sector Act 1988 (1988 No 20).
+    Section 7(5): amended, on 1 April 1988, pursuant to [section 88(2)][192] of the State Sector Act 1988 (1988 No 20).
 
 ##### 7A Designation of Director
     
 *   The Director-General must from time to time designate an employee as Director for the purposes of this Act.
     
-    Section 7A: substituted, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 7A: substituted, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
 
 ##### 8 Exercise of powers of Director and other officers
     
@@ -674,7 +676,7 @@ Application and administration of Act
         
     *   (a) under the direction of the Director-General; and
     
-    *   (b) in the case of the Director, and every officer appointed under the [State Sector Act 1988][189], under the control of---
+    *   (b) in the case of the Director, and every officer appointed under the [State Sector Act 1988][190], under the control of---
             
         *   (i) the Director-General; and
         
@@ -688,68 +690,88 @@ Application and administration of Act
     
     Compare: 1979 No 27 s 10
     
-    Section 8(1): substituted, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 8(1): substituted, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 8(1A): repealed, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 8(1A): repealed, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+
+##### 8AAA Border information supplied using JBMS must be supplied in approved form and manner
+    
+*   (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+    
+    (2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with [section 41D][196] or [41H][197] of the Biosecurity Act 1993) must supply the information in a form and manner---
+        
+    *   (a) for complying with the requirement by using the JBMS; and
+    
+    *   (b) for the time being generally approved in writing by the Director-General.
+    
+    (3) The approved form and manner referred to in subclause (2)---
+        
+    *   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+    
+    *   (b) may be set out, for the information of registered JBMS users, in Customs rules under [section 288(1)(j)][198] of the Customs and Excise Act 1996\.
+    
+    (4) _Border information_, _JBMS_, and _Ministry_ have, in this section, the meanings given or referred to in [section 41A(1)][199] of the Biosecurity Act 1993\.
+    
+    Section 8AAA: inserted, on 24 June 2014, by [section 16][200] of the Biosecurity (Border Processing---Trade Single Window) Amendment Act 2014 (2014 No 11).
 
 ## Part 1A  
 Exemptions from Food Hygiene Regulations 1974
     
-*   Part 1A: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Part 1A: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Purpose
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8A Purpose
     
-*   The purpose of this Part is to facilitate a voluntary transition from compliance with the [Food Hygiene Regulations 1974][196] (SR 1974/169) to the adoption, by the food industry, of food safety programmes.
+*   The purpose of this Part is to facilitate a voluntary transition from compliance with the [Food Hygiene Regulations 1974][202] (SR 1974/169) to the adoption, by the food industry, of food safety programmes.
     
-    Section 8A: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8A: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8AA Relationship between this Part and Animal Products Act 1999
     
-*   (1) The following persons are exempt from the requirements of the [Food Hygiene Regulations 1974][196], and therefore from the application of this Part, in respect of any operations carried out under a risk management programme registered under Part 2 of the Animal Products Act 1999:
+*   (1) The following persons are exempt from the requirements of the [Food Hygiene Regulations 1974][202], and therefore from the application of this Part, in respect of any operations carried out under a risk management programme registered under Part 2 of the Animal Products Act 1999:
         
     *   (a) primary processors of animal material, dual operator butchers, and other persons required by that Act to operate under a registered risk management programme:
     
     *   (b) secondary processors of animal products that are food who have elected, by registering a risk management programme as provided in section 32 of that Act, to be subject to the provisions of that Act rather than the Food Act regime:
     
-    *   (ba) dairy processors (as defined in [section 4(1)][197] of the Animal Products Act 1999):
+    *   (ba) dairy processors (as defined in [section 4(1)][203] of the Animal Products Act 1999):
     
     *   (c) subject to subsection (2), secondary processors of animal products that are food who have, in accordance with section 34 of the Animal Products Act 1999, registered a food safety programme as a risk management programme for the purpose of operating under the 2 programmes alternatively or intermittently.
     
-    (2) A person who is subject to any regulated control scheme under the [Animal Products Act 1999][198] is also exempt from the requirements of the [Food Hygiene Regulations 1974][196], and therefore from the application of this Part, in respect of any operations that are covered by the regulated control scheme, unless the regulated control scheme specifically states that such operations are not to be treated as exempt from the Food Act regime.
+    (2) A person who is subject to any regulated control scheme under the [Animal Products Act 1999][204] is also exempt from the requirements of the [Food Hygiene Regulations 1974][202], and therefore from the application of this Part, in respect of any operations that are covered by the regulated control scheme, unless the regulated control scheme specifically states that such operations are not to be treated as exempt from the Food Act regime.
     
-    (3) The exemption from the requirements of this Part or of the [Food Hygiene Regulations 1974][196] of secondary processors referred to in subsection (1)(c) relates only to operations carried out under the registered risk management programme in accordance with the terms and conditions of its registration.
+    (3) The exemption from the requirements of this Part or of the [Food Hygiene Regulations 1974][202] of secondary processors referred to in subsection (1)(c) relates only to operations carried out under the registered risk management programme in accordance with the terms and conditions of its registration.
     
     (4) Any food safety programme that is so registered as a risk management programme is to be subject to whichever audit or verification regime is specified for it under section 34(3) of the Animal Products Act 1999\.
     
     (5) The terms _primary processor_ and _secondary processor_ have the meanings given by section 4 of the Animal Products Act 1999\.
     
-    Section 8AA: inserted, on 1 November 1999, by [section 8(1)][199] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 8AA: inserted, on 1 November 1999, by [section 8(1)][205] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
     
-    Section 8AA(1)(ba): inserted, on 1 June 2005, by [section 10(1)][200] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
+    Section 8AA(1)(ba): inserted, on 1 June 2005, by [section 10(1)][206] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
 
 ##### 8AB Relationship between this Part and Wine Act 2003
     
-*   The following persons are exempt from the requirements of the [Food Hygiene Regulations 1974][196], and therefore from the application of this Part, in respect of any operations carried out under a wine standards management plan registered under subpart 1 of [Part 2][201] of the Wine Act 2003:
+*   The following persons are exempt from the requirements of the [Food Hygiene Regulations 1974][202], and therefore from the application of this Part, in respect of any operations carried out under a wine standards management plan registered under subpart 1 of [Part 2][207] of the Wine Act 2003:
         
-    *   (a) winemakers (as defined in [section 4][202] of that Act):
+    *   (a) winemakers (as defined in [section 4][208] of that Act):
     
-    *   (b) makers of wine products (as defined in [section 4][202] of that Act):
+    *   (b) makers of wine products (as defined in [section 4][208] of that Act):
     
-    *   (c) any other person who is required to operate under a wine standards management plan under [section 12][203] of that Act.
+    *   (c) any other person who is required to operate under a wine standards management plan under [section 12][209] of that Act.
     
-    Section 8AB: inserted, on 1 January 2004, by [section 125][204] of the Wine Act 2003 (2003 No 114).
+    Section 8AB: inserted, on 1 January 2004, by [section 125][210] of the Wine Act 2003 (2003 No 114).
 
 #### Applications for exemption
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8B Applications for exemption
     
-*   (1) Subject to [section 8C][22], any person may apply to the Director-General or the relevant territorial authority for an exemption from the provisions of the [Food Hygiene Regulations 1974][196] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
+*   (1) Subject to [section 8C][23], any person may apply to the Director-General or the relevant territorial authority for an exemption from the provisions of the [Food Hygiene Regulations 1974][202] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
     
     (2) Every application for an exemption shall---
         
@@ -765,39 +787,39 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) where the application relates to a vehicle, any territorial authority that, under this Part, has the function of granting exemptions in respect of a district in which that vehicle operates.
     
-    Section 8B: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8B: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8C Limitations on further applications
     
-*   (1) Subject to subsection (2), where an application for an exemption is made under [section 8B][21], and the exemption is refused, no further application that is the same or substantially the same as the first application may be made (whether to the same person or body or a different person or body) within the period of 6 months after the date of that refusal.
+*   (1) Subject to subsection (2), where an application for an exemption is made under [section 8B][22], and the exemption is refused, no further application that is the same or substantially the same as the first application may be made (whether to the same person or body or a different person or body) within the period of 6 months after the date of that refusal.
     
     (2) A further application may be made within the period specified in subsection (1) if the Director-General or, as the case requires, the territorial authority to which the application is made is satisfied that there are special circumstances justifying the making of the further application within that period.
     
-    Section 8C: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8C: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Effect of exemption
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8D Effect of exemption
     
-*   (1) Where an exemption is in force in respect of any premises or vehicle, nothing in any of [Parts 1 to 17][205] of the Food Hygiene Regulations 1974 shall apply in respect of those premises or, as the case may be, that vehicle.
+*   (1) Where an exemption is in force in respect of any premises or vehicle, nothing in any of [Parts 1 to 17][211] of the Food Hygiene Regulations 1974 shall apply in respect of those premises or, as the case may be, that vehicle.
     
-    (2) The fact that an exemption is in force in respect of any premises or vehicle does not affect the powers of a designated officer under [regulation 82][206] of the Food Hygiene Regulations 1974 in respect of those premises or, as the case may be, that vehicle.
+    (2) The fact that an exemption is in force in respect of any premises or vehicle does not affect the powers of a designated officer under [regulation 82][212] of the Food Hygiene Regulations 1974 in respect of those premises or, as the case may be, that vehicle.
     
-    Section 8D: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8D: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8D(2): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 8D(2): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
 
 ##### 8E Duties of territorial authorities to enforce Food Hygiene Regulations 1974 not affected
     
-*   (1) Subject to [section 8D(1)][24], nothing in this Part affects the duty of a territorial authority to enforce the provisions of the [Food Hygiene Regulations 1974][196] within its own district.
+*   (1) Subject to [section 8D(1)][25], nothing in this Part affects the duty of a territorial authority to enforce the provisions of the [Food Hygiene Regulations 1974][202] within its own district.
     
     (2) For the purpose of fulfilling the duty referred to in subsection (1), every territorial authority shall take all reasonable steps---
         
     *   (a) to inform itself as to whether or not the premises and vehicles in respect of which its duty applies---
             
-        *   (i) are registered in accordance with the [Food Hygiene Regulations 1974][196]; or
+        *   (i) are registered in accordance with the [Food Hygiene Regulations 1974][202]; or
         
         *   (ii) are exempt from compliance with those regulations by virtue of an exemption granted under this Part; and
         
@@ -805,29 +827,29 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) to keep that information up to date.
     
-    Section 8E: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8E: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Powers of Director-General to grant exemptions
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8F Procedure where application made to Director-General
     
-*   On receiving an application made under [section 8B][21], the Director-General, if he or she is satisfied---
+*   On receiving an application made under [section 8B][22], the Director-General, if he or she is satisfied---
         
     *   (a) that the applicant has adopted an appropriate food safety programme; and
     
-    *   (b) that the applicant will take all reasonable steps to comply with all relevant provisions of this Act, all relevant provisions of regulations made under this Act (other than the [Food Hygiene Regulations 1974][196]), and with all applicable food standards; and
+    *   (b) that the applicant will take all reasonable steps to comply with all relevant provisions of this Act, all relevant provisions of regulations made under this Act (other than the [Food Hygiene Regulations 1974][202]), and with all applicable food standards; and
     
     *   (c) that the granting of the exemption is appropriate, having regard to all relevant circumstances,---
     
-    may exempt the applicant from the provisions of the [Food Hygiene Regulations 1974][196] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
+    may exempt the applicant from the provisions of the [Food Hygiene Regulations 1974][202] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
     
-    Section 8F: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8F: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8G Definition of appropriate food safety programme
     
-*   A food safety programme is not appropriate, for the purposes of [section 8F][27] or [section 8O][37], unless it complies, at a minimum, with the following requirements:
+*   A food safety programme is not appropriate, for the purposes of [section 8F][28] or [section 8O][38], unless it complies, at a minimum, with the following requirements:
         
     *   (a) the programme must be based on the principles of Hazard Analysis Critical Control Point (HACCP), as set out in the current edition of the _Codex Alimentarius_:
     
@@ -861,7 +883,7 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (h) the programme must set out appropriate record-keeping requirements.
     
-    Section 8G: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8G: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8H Director-General not to refuse exemption unless applicant given opportunity to be heard
     
@@ -873,13 +895,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) a reasonable opportunity to make written submissions in respect of the matter.
     
-    Section 8H: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8H: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8I Terms of exemption
     
-*   (1) Every exemption granted under [section 8F][27] by the Director-General shall specify the terms of the exemption.
+*   (1) Every exemption granted under [section 8F][28] by the Director-General shall specify the terms of the exemption.
     
-    (2) Subject to subsection (5), the Director-General may from time to time vary the terms of an exemption granted under [section 8F][27], by endorsement on the exemption or otherwise in writing.
+    (2) Subject to subsection (5), the Director-General may from time to time vary the terms of an exemption granted under [section 8F][28], by endorsement on the exemption or otherwise in writing.
     
     (3) An exemption may be unconditional or subject to such conditions as the Director-General thinks fit and specifies in the exemption.
     
@@ -887,31 +909,31 @@ Exemptions from Food Hygiene Regulations 1974
     
     (5) Except where the terms or conditions of an exemption are varied, pursuant to subsection (2) or subsection (4), on the application of the holder of the exemption and in accordance with the terms of that application, the Director-General shall not vary the terms or conditions of any exemption under this section without first giving the holder of the exemption a reasonable opportunity to make written submissions to the Director-General in relation to the matter.
     
-    Section 8I: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8I: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8J Duration of exemption
     
-*   (1) The Director-General may specify in any exemption granted under [section 8F][27] that the exemption is to have effect indefinitely or for a stated period.
+*   (1) The Director-General may specify in any exemption granted under [section 8F][28] that the exemption is to have effect indefinitely or for a stated period.
     
-    (2) Every exemption granted under [section 8F][27]---
+    (2) Every exemption granted under [section 8F][28]---
         
     *   (a) shall come into force on the date of its issue; and
     
     *   (b) shall continue in force until,---
             
-        *   (i) it is revoked pursuant to [section 8K][32]; or
+        *   (i) it is revoked pursuant to [section 8K][33]; or
         
         *   (ii) in the case of an exemption granted for a stated period, the expiry of that period; or
         
-        *   (iii) it is surrendered pursuant to [section 8L][33].
+        *   (iii) it is surrendered pursuant to [section 8L][34].
         
         
     
-    Section 8J: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8J: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8K Revocation of exemption
     
-*   (1) Subject to subsection (3), the Director-General may at any time, by notice in writing to the holder of an exemption, revoke an exemption granted under [section 8F][27].
+*   (1) Subject to subsection (3), the Director-General may at any time, by notice in writing to the holder of an exemption, revoke an exemption granted under [section 8F][28].
     
     (2) Without limiting the generality of subsection (1), the Director-General may revoke an exemption if the Director-General is satisfied---
         
@@ -921,7 +943,7 @@ Exemptions from Food Hygiene Regulations 1974
             
         *   (i) this Act; or
         
-        *   (ii) any regulations made under this Act (other than any provision of the [Food Hygiene Regulations 1974][196] from which the holder is exempt); or
+        *   (ii) any regulations made under this Act (other than any provision of the [Food Hygiene Regulations 1974][202] from which the holder is exempt); or
         
         *   (iii) any applicable food standard.
         
@@ -929,35 +951,35 @@ Exemptions from Food Hygiene Regulations 1974
     
     (3) The Director-General shall not revoke an exemption unless the Director-General has first given the holder of the exemption a reasonable opportunity to be heard.
     
-    Section 8K: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8K: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8L Surrender of exemption
     
-*   (1) Subject to this section, the holder of an exemption granted under [section 8F][27] may at any time surrender that exemption by notice in writing to that effect sent to the Director-General.
+*   (1) Subject to this section, the holder of an exemption granted under [section 8F][28] may at any time surrender that exemption by notice in writing to that effect sent to the Director-General.
     
     (2) The surrender shall take effect on the expiry of 3 months after the date of the receipt of the notice by the Director-General, or on such earlier date as the Director-General may approve.
     
     (3) On or before the surrender takes effect, the holder of the exemption shall send the exemption to the Director-General.
     
-    Section 8L: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8L: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8M Substituted exemption
     
-*   Notwithstanding anything in this Part, the Director-General may, if he or she thinks fit, cancel an existing exemption granted under [section 8F][27] and issue a new exemption in substitution for it,---
+*   Notwithstanding anything in this Part, the Director-General may, if he or she thinks fit, cancel an existing exemption granted under [section 8F][28] and issue a new exemption in substitution for it,---
         
-    *   (a) where the terms or conditions of the existing exemption are to be or have been varied under [section 8I][30]:
+    *   (a) where the terms or conditions of the existing exemption are to be or have been varied under [section 8I][31]:
     
     *   (b) where the existing exemption has become disfigured or dilapidated, or contains a mistake, or where the Director-General is satisfied that the existing exemption has been lost or destroyed.
     
-    Section 8M: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8M: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Powers of territorial authorities to grant exemptions
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8N Procedure where application made to territorial authority
     
-*   (1) On receiving an application made under [section 8B][21], the territorial authority, if it is satisfied---
+*   (1) On receiving an application made under [section 8B][22], the territorial authority, if it is satisfied---
         
     *   (a) that the applicant has adopted a food safety programme; and
     
@@ -965,13 +987,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) that the food safety programme satisfies those standard criteria; and
     
-    *   (d) that the applicant will take all reasonable steps to comply with all relevant provisions of this Act, all relevant provisions of regulations made under this Act (other than the [Food Hygiene Regulations 1974][196]), and with all applicable food standards; and
+    *   (d) that the applicant will take all reasonable steps to comply with all relevant provisions of this Act, all relevant provisions of regulations made under this Act (other than the [Food Hygiene Regulations 1974][202]), and with all applicable food standards; and
     
     *   (e) that the granting of the exemption is appropriate, having regard to all relevant circumstances,---
     
-    may exempt the applicant from the provisions of the [Food Hygiene Regulations 1974][196] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
+    may exempt the applicant from the provisions of the [Food Hygiene Regulations 1974][202] in respect of any premises of the applicant, or any vehicle of the applicant, or both.
     
-    (2) On receiving an application made under [section 8B][21], the territorial authority, if it is satisfied---
+    (2) On receiving an application made under [section 8B][22], the territorial authority, if it is satisfied---
         
     *   (a) that the applicant has adopted a food safety programme; but
     
@@ -979,17 +1001,17 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) that the application otherwise satisfies the requirements of paragraphs (d) and (e) of subsection (1),---
     
-    shall refer the application to the Director-General for determination pursuant to [section 8O][37].
+    shall refer the application to the Director-General for determination pursuant to [section 8O][38].
     
-    (3) Where, pursuant to [section 8O(3)][37] or [section 8X(1)(b)][47], the Director-General directs a territorial authority to grant an exemption, the territorial authority shall, in accordance with that direction, grant the exemption accordingly.
+    (3) Where, pursuant to [section 8O(3)][38] or [section 8X(1)(b)][48], the Director-General directs a territorial authority to grant an exemption, the territorial authority shall, in accordance with that direction, grant the exemption accordingly.
     
-    Section 8N: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8N: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8O Applications referred to Director-General
     
-*   (1) Where, pursuant to [section 8N(2)][36], an application is referred to the Director-General, the Director-General shall decide whether or not the food safety programme adopted by the applicant is appropriate.
+*   (1) Where, pursuant to [section 8N(2)][37], an application is referred to the Director-General, the Director-General shall decide whether or not the food safety programme adopted by the applicant is appropriate.
     
-    (2) [Section 8G][28] shall apply for the purposes of deciding, pursuant to this section, whether or not a food safety programme is appropriate.
+    (2) [Section 8G][29] shall apply for the purposes of deciding, pursuant to this section, whether or not a food safety programme is appropriate.
     
     (3) If the Director-General, after considering an application in accordance with this section, decides that the food safety programme adopted by the applicant is appropriate,---
         
@@ -1015,7 +1037,7 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) a reasonable opportunity to make written submissions in respect of the matter.
     
-    Section 8O: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8O: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8P Territorial authority not to refuse exemption unless applicant given opportunity to be heard
     
@@ -1027,17 +1049,17 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) a reasonable opportunity to make written submissions in respect of the matter.
     
-    (2) Where a territorial authority refuses to grant an exemption, the territorial authority shall give written notice of its decision to the applicant, and shall inform the applicant of the applicant's right of appeal under [section 8V][45].
+    (2) Where a territorial authority refuses to grant an exemption, the territorial authority shall give written notice of its decision to the applicant, and shall inform the applicant of the applicant's right of appeal under [section 8V][46].
     
-    (3) Nothing in this section applies where a territorial authority is directed, pursuant to [section 8O(4)][37], to refuse to grant an exemption.
+    (3) Nothing in this section applies where a territorial authority is directed, pursuant to [section 8O(4)][38], to refuse to grant an exemption.
     
-    Section 8P: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8P: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8Q Terms of exemption
     
-*   (1) Every exemption granted under [section 8N][36] by a territorial authority shall specify the terms of the exemption.
+*   (1) Every exemption granted under [section 8N][37] by a territorial authority shall specify the terms of the exemption.
     
-    (2) Subject to subsections (5) and (6), the territorial authority may from time to time vary the terms of an exemption granted under [section 8N][36], by endorsement on the exemption or otherwise in writing.
+    (2) Subject to subsections (5) and (6), the territorial authority may from time to time vary the terms of an exemption granted under [section 8N][37], by endorsement on the exemption or otherwise in writing.
     
     (3) An exemption may be unconditional or subject to such conditions as the territorial authority thinks fit and specifies in the exemption.
     
@@ -1051,7 +1073,7 @@ Exemptions from Food Hygiene Regulations 1974
     
     the territorial authority shall not vary the terms or conditions of any exemption under this section without first giving the holder of the exemption a reasonable opportunity to make written submissions to the territorial authority in relation to the matter.
     
-    (6) Where a territorial authority grants an exemption on the direction of the Director-General given under [section 8O(3)][37],---
+    (6) Where a territorial authority grants an exemption on the direction of the Director-General given under [section 8O(3)][38],---
         
     *   (a) the territorial authority shall not vary the terms or conditions of that exemption under this section except with the agreement of the Director-General:
     
@@ -1059,31 +1081,31 @@ Exemptions from Food Hygiene Regulations 1974
     
     (7) The Director-General shall not give a direction pursuant to subsection (6)(b) in relation to an exemption without first giving the holder of the exemption a reasonable opportunity to make written submissions to the Director-General in relation to the matter.
     
-    Section 8Q: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8Q: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8R Duration of exemption
     
-*   (1) A territorial authority may specify in any exemption granted by it under [section 8N][36] that the exemption is to have effect indefinitely or for a stated period.
+*   (1) A territorial authority may specify in any exemption granted by it under [section 8N][37] that the exemption is to have effect indefinitely or for a stated period.
     
-    (2) Every exemption granted under [section 8N][36]---
+    (2) Every exemption granted under [section 8N][37]---
         
     *   (a) shall come into force on the date of its issue; and
     
     *   (b) shall continue in force until,---
             
-        *   (i) it is revoked pursuant to [section 8S][41]; or
+        *   (i) it is revoked pursuant to [section 8S][42]; or
         
         *   (ii) in the case of an exemption granted for a stated period, the expiry of that period; or
         
-        *   (iii) it is surrendered pursuant to [section 8T][42].
+        *   (iii) it is surrendered pursuant to [section 8T][43].
         
         
     
-    Section 8R: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8R: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8S Revocation of exemption
     
-*   (1) Subject to subsection (3), a territorial authority may at any time, by notice in writing to the holder of an exemption, revoke an exemption granted by that territorial authority under [section 8N][36].
+*   (1) Subject to subsection (3), a territorial authority may at any time, by notice in writing to the holder of an exemption, revoke an exemption granted by that territorial authority under [section 8N][37].
     
     (2) Without limiting the generality of subsection (1), a territorial authority may revoke an exemption if the territorial authority is satisfied---
         
@@ -1093,7 +1115,7 @@ Exemptions from Food Hygiene Regulations 1974
             
         *   (i) this Act; or
         
-        *   (ii) any regulations made under this Act (other than any provision of the [Food Hygiene Regulations 1974][196] from which the holder is exempt); or
+        *   (ii) any regulations made under this Act (other than any provision of the [Food Hygiene Regulations 1974][202] from which the holder is exempt); or
         
         *   (iii) any applicable food standard.
         
@@ -1101,45 +1123,45 @@ Exemptions from Food Hygiene Regulations 1974
     
     (3) A territorial authority shall not revoke an exemption unless the territorial authority has first given the holder of the exemption a reasonable opportunity to be heard.
     
-    Section 8S: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8S: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8T Surrender of exemption
     
-*   (1) Subject to this section, the holder of an exemption granted by a territorial authority under [section 8N][36] may at any time surrender that exemption by notice in writing to that effect sent to that territorial authority.
+*   (1) Subject to this section, the holder of an exemption granted by a territorial authority under [section 8N][37] may at any time surrender that exemption by notice in writing to that effect sent to that territorial authority.
     
     (2) The surrender shall take effect on the expiry of 3 months after the date of the receipt of the notice by the territorial authority, or on such earlier date as the territorial authority may approve.
     
     (3) On or before the surrender takes effect, the holder of the exemption shall send the exemption to the territorial authority.
     
-    Section 8T: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8T: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8U Substituted exemption
     
-*   Notwithstanding anything in this Part, a territorial authority may, if it thinks fit, cancel an existing exemption granted by that territorial authority under [section 8N][36] and issue a new exemption in substitution for that exemption,---
+*   Notwithstanding anything in this Part, a territorial authority may, if it thinks fit, cancel an existing exemption granted by that territorial authority under [section 8N][37] and issue a new exemption in substitution for that exemption,---
         
-    *   (a) where the terms or conditions of the existing exemption are to be or have been varied under [section 8Q][39]:
+    *   (a) where the terms or conditions of the existing exemption are to be or have been varied under [section 8Q][40]:
     
     *   (b) where the existing exemption has become disfigured or dilapidated, or contains a mistake, or where the territorial authority is satisfied that the existing exemption has been lost or destroyed.
     
-    Section 8U: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8U: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Rights of appeal
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8V Rights of appeal
     
-*   (1) Subject to subsection (2), any person whose application under [section 8B][21] to a territorial authority for an exemption is refused may appeal against that decision to the Director-General.
+*   (1) Subject to subsection (2), any person whose application under [section 8B][22] to a territorial authority for an exemption is refused may appeal against that decision to the Director-General.
     
     (2) No appeal shall lie under this section in any of the following cases:
         
-    *   (a) where the decision of the territorial authority to refuse to grant an exemption is made at the direction of the Director-General given under [section 8O(4)][37]:
+    *   (a) where the decision of the territorial authority to refuse to grant an exemption is made at the direction of the Director-General given under [section 8O(4)][38]:
     
     *   (b) where the decision to refuse to grant the exemption is made by the Director-General---
             
-        *   (i) by virtue of the transfer to the Director-General of a territorial authority's functions, duties, and powers under [section 8ZA][51]; or
+        *   (i) by virtue of the transfer to the Director-General of a territorial authority's functions, duties, and powers under [section 8ZA][52]; or
         
-        *   (ii) by virtue of an appointment made under [section 8ZG][58].
+        *   (ii) by virtue of an appointment made under [section 8ZG][59].
         
         
     
@@ -1155,13 +1177,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     (5) On lodging an appeal under this section, the appellant shall forthwith give a copy of the notice of appeal to the territorial authority against whose decision the appeal is lodged.
     
-    Section 8V: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8V: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8W Procedure on appeal
     
-*   (1) Every appeal under [section 8V][45] shall be determined as soon as reasonably practicable after the appeal is lodged.
+*   (1) Every appeal under [section 8V][46] shall be determined as soon as reasonably practicable after the appeal is lodged.
     
-    (2) On an appeal under [section 8V][45],---
+    (2) On an appeal under [section 8V][46],---
         
     *   (a) the Director-General shall not be bound to follow any formal procedure; and
     
@@ -1171,43 +1193,43 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (d) the Director-General shall consider all submissions made by or on behalf of the appellant or the territorial authority whose decision is appealed against.
     
-    (3) On an appeal under [section 8V][45], the Director-General---
+    (3) On an appeal under [section 8V][46], the Director-General---
         
     *   (a) may make, or cause to be made, such inquiry into the matter as the Director-General thinks fit; and
     
     *   (b) may receive in evidence any statement, document, information, or matter that may in his or her opinion assist in dealing effectively with the appeal, whether or not the statement, document, information, or matter would otherwise be admissible in a court of law.
     
-    (4) Subject to this section and to any regulations made under this Act, the Director-General may determine the procedure relating to any appeal under [section 8V][45].
+    (4) Subject to this section and to any regulations made under this Act, the Director-General may determine the procedure relating to any appeal under [section 8V][46].
     
-    Section 8W: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8W: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8X Determination of appeal
     
-*   (1) On an appeal under [section 8V][45] against a decision of a territorial authority, the Director-General may---
+*   (1) On an appeal under [section 8V][46] against a decision of a territorial authority, the Director-General may---
         
     *   (a) confirm the decision of the territorial authority; or
     
     *   (b) reverse the decision appealed against, and direct the territorial authority to grant an exemption to the appellant on such terms and conditions as the Director-General considers appropriate.
     
-    (2) On determining an appeal under [section 8V][45], the Director-General shall cause the parties to be notified, in writing, of the Director-General's decision, and of the reasons for the Director-General's decision.
+    (2) On determining an appeal under [section 8V][46], the Director-General shall cause the parties to be notified, in writing, of the Director-General's decision, and of the reasons for the Director-General's decision.
     
-    Section 8X: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8X: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8Y Decision of Director-General to be final
     
-*   The decision of the Director-General on any appeal under [section 8V][45] shall be final.
+*   The decision of the Director-General on any appeal under [section 8V][46] shall be final.
     
-    Section 8Y: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8Y: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8Z Costs
     
-*   On any appeal under [section 8V][45], the Director-General may make an order for the payment by any party to the appeal of all or part of the costs incurred in respect of the appeal by any other party to the appeal, and in any such case the costs so awarded shall be recoverable as a debt due by the party against whom they have been awarded to the party in whose favour they have been awarded.
+*   On any appeal under [section 8V][46], the Director-General may make an order for the payment by any party to the appeal of all or part of the costs incurred in respect of the appeal by any other party to the appeal, and in any such case the costs so awarded shall be recoverable as a debt due by the party against whom they have been awarded to the party in whose favour they have been awarded.
     
-    Section 8Z: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8Z: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Transfer of functions of territorial authorities
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZA Transfer of functions
     
@@ -1215,13 +1237,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     (2) A territorial authority may not transfer---
         
-    *   (a) the duty conferred by [section 8E(2)][25]; or
+    *   (a) the duty conferred by [section 8E(2)][26]; or
     
     *   (b) the power of transfer conferred by this section.
     
     (3) A territorial authority shall not transfer its functions, powers, and duties under this section unless---
         
-    *   (a) it has used the special consultative procedure set out in [section 83][207] of the Local Government Act 2002; and
+    *   (a) it has used the special consultative procedure set out in [section 83][213] of the Local Government Act 2002; and
     
     *   (b) before using that special consultative procedure, it serves notice on the Director-General of its proposal to transfer the functions, powers, and duties; and
     
@@ -1233,53 +1255,53 @@ Exemptions from Food Hygiene Regulations 1974
         
         
     
-    Section 8ZA: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZA: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZA(3)(a): substituted, on 1 July 2003, by [section 262][186] of the Local Government Act 2002 (2002 No 84).
+    Section 8ZA(3)(a): substituted, on 1 July 2003, by [section 262][187] of the Local Government Act 2002 (2002 No 84).
 
 ##### 8ZB Transfer agreement
     
-*   A transfer of functions, powers, and duties under [section 8ZA][51] shall be made---
+*   A transfer of functions, powers, and duties under [section 8ZA][52] shall be made---
         
     *   (a) by agreement between the territorial authorities concerned or, as the case requires, between the territorial authority concerned and the Director-General; and
     
     *   (b) on such terms and conditions as are agreed.
     
-    Section 8ZB: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZB: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZC Effect of transfer
     
-*   (1) Where a territorial authority transfers its functions, powers, and duties under [section 8ZA][51], that territorial authority shall cease to be responsible for the exercise or performance of those functions, powers, and duties.
+*   (1) Where a territorial authority transfers its functions, powers, and duties under [section 8ZA][52], that territorial authority shall cease to be responsible for the exercise or performance of those functions, powers, and duties.
     
-    (2) Where functions, powers, and duties are transferred under [section 8ZA][51] to a territorial authority,---
+    (2) Where functions, powers, and duties are transferred under [section 8ZA][52] to a territorial authority,---
         
     *   (a) that territorial authority shall be responsible for the exercise or performance of those functions, powers, and duties; and
     
     *   (b) its functions, powers, and duties shall be deemed to be extended in such manner as may be necessary to enable it to undertake, exercise, and perform the functions, powers, and duties so transferred to it.
     
-    (3) Where functions, powers, and duties are transferred under [section 8ZA][51] to the Director-General,---
+    (3) Where functions, powers, and duties are transferred under [section 8ZA][52] to the Director-General,---
         
     *   (a) the Director-General shall be responsible for the exercise or performance of those functions, powers, and duties; and
     
     *   (b) the functions, powers, and duties of the Director-General shall be deemed to be extended in such manner as may be necessary to enable the Director-General to undertake, exercise, and perform the functions, powers, and duties so transferred.
     
-    Section 8ZC: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZC: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZD Change, revocation, or relinquishment of transfer
     
-*   (1) A territorial authority which has transferred its functions, powers, and duties under [section 8ZA][51] may,---
+*   (1) A territorial authority which has transferred its functions, powers, and duties under [section 8ZA][52] may,---
         
     *   (a) with the agreement of the transferee, change the transfer at any time:
     
     *   (b) revoke the transfer at any time by notice to the transferee.
     
-    (2) A transferee to which functions, powers, and duties have been transferred under [section 8ZA][51] may relinquish the transfer in accordance with the transfer agreement.
+    (2) A transferee to which functions, powers, and duties have been transferred under [section 8ZA][52] may relinquish the transfer in accordance with the transfer agreement.
     
-    Section 8ZD: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZD: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Performance standards for territorial authorities
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZE Minister may issue performance standards
     
@@ -1303,13 +1325,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) adequate and appropriate consideration of any such submissions.
     
-    Section 8ZE: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZE: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZF Territorial authorities to meet performance standards
     
-*   Every territorial authority shall take all reasonable steps to ensure that it complies with the requirements of any performance standards for the time being in force under [section 8ZE][56].
+*   Every territorial authority shall take all reasonable steps to ensure that it complies with the requirements of any performance standards for the time being in force under [section 8ZE][57].
     
-    Section 8ZF: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZF: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZG Non-performance by territorial authority
     
@@ -1327,25 +1349,25 @@ Exemptions from Food Hygiene Regulations 1974
     
     (4) Where the Director-General is appointed under subsection (1) to exercise or perform the functions, powers, or duties of a territorial authority, the Director-General may do so as if the functions, powers, or duties were conferred on the Director-General directly by this Part; and the provisions of this Act shall apply accordingly.
     
-    Section 8ZG: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZG: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZH Costs, charges, and expenses incurred by Minister
     
-*   All costs, charges, and expenses incurred by the Minister for the purposes of [section 8ZG][58], or by a territorial authority appointed under that section, or by the Director-General in the case where he or she is appointed under that section, in exercising or performing any functions, powers, or duties of a territorial authority, shall be recoverable from the territorial authority as a debt due to the Crown or may be deducted from any money payable to the territorial authority by the Crown.
+*   All costs, charges, and expenses incurred by the Minister for the purposes of [section 8ZG][59], or by a territorial authority appointed under that section, or by the Director-General in the case where he or she is appointed under that section, in exercising or performing any functions, powers, or duties of a territorial authority, shall be recoverable from the territorial authority as a debt due to the Crown or may be deducted from any money payable to the territorial authority by the Crown.
     
-    Section 8ZH: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZH: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZI Duration of appointment
     
-*   (1) In making an appointment under [section 8ZG][58], the Minister shall specify the period for which the appointment is made, and it may from time to time be renewed.
+*   (1) In making an appointment under [section 8ZG][59], the Minister shall specify the period for which the appointment is made, and it may from time to time be renewed.
     
-    (2) In determining whether any appointment under [section 8ZG][58] should be renewed or whether a new appointment should be made, the Minister shall consider whether the territorial authority is capable of exercising its functions, powers, and duties under this Part, and, if the Minister considers the territorial authority is so capable, the territorial authority shall be directed by the Minister to resume those functions, powers, and duties.
+    (2) In determining whether any appointment under [section 8ZG][59] should be renewed or whether a new appointment should be made, the Minister shall consider whether the territorial authority is capable of exercising its functions, powers, and duties under this Part, and, if the Minister considers the territorial authority is so capable, the territorial authority shall be directed by the Minister to resume those functions, powers, and duties.
     
-    Section 8ZI: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZI: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Monitoring compliance with exemptions
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZJ Duty to monitor compliance with exemption
     
@@ -1353,11 +1375,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     (2) Where a territorial authority grants an exemption under this Part, that territorial authority shall have the function of monitoring compliance with that exemption.
     
-    Section 8ZJ: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZJ: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Guidelines relating to granting of exemptions by territorial authorities
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZK Director-General may issue guidelines
     
@@ -1369,15 +1391,15 @@ Exemptions from Food Hygiene Regulations 1974
     
     (2) Without limiting the generality of subsection (1), guidelines issued under this section may---
         
-    *   (a) specify standard criteria for food safety programmes in accordance with [section 8ZN][67]:
+    *   (a) specify standard criteria for food safety programmes in accordance with [section 8ZN][68]:
     
-    *   (b) specify terms or conditions, or both, that must be included in an exemption granted pursuant to [section 8N(1)][36]:
+    *   (b) specify terms or conditions, or both, that must be included in an exemption granted pursuant to [section 8N(1)][37]:
     
-    *   (c) specify the period for which an exemption granted pursuant to [section 8N(1)][36] is to have effect.
+    *   (c) specify the period for which an exemption granted pursuant to [section 8N(1)][37] is to have effect.
     
     (3) The Director-General may from time to time amend or revoke any guidelines issued pursuant to this section.
     
-    Section 8ZK: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZK: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZL Consultation on guidelines
     
@@ -1389,13 +1411,13 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) adequate and appropriate consideration of any such submissions.
     
-    Section 8ZL: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZL: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZM Territorial authorities to observe guidelines
     
 *   Every territorial authority shall observe every guideline, so far as the guideline is applicable to that territorial authority.
     
-    Section 8ZM: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZM: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZN Standard criteria for food safety programmes
     
@@ -1413,11 +1435,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) by setting out the criteria in the form of model provisions:
     
-    *   (c) by incorporating material by reference in accordance with [section 8ZO][68].
+    *   (c) by incorporating material by reference in accordance with [section 8ZO][69].
     
     (4) For the purposes of this section, an application for an exemption is based on a particular food safety programme if the application relies on the adoption, by the applicant, of that food safety programme.
     
-    Section 8ZN: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZN: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZO Incorporation of material by reference
     
@@ -1443,7 +1465,7 @@ Exemptions from Food Hygiene Regulations 1974
     
     (5) The Director-General shall make available for inspection free of charge or for purchase at a reasonable price, at such place or places as he or she shall from time to time appoint, copies of all material incorporated in guidelines by reference under subsection (1).
     
-    Section 8ZO: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZO: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZP Verification, notification, availability, and commencement of guidelines
     
@@ -1477,11 +1499,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     (5) Nothing in subsection (3) applies in respect of any amendment to any guidelines to correct any obvious mistake (including, without limitation, grammatical and typographical errors or omissions).
     
-    Section 8ZP: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZP: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Non-compliance with exemption an offence
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZQ Non-compliance with exemption an offence
     
@@ -1503,15 +1525,15 @@ Exemptions from Food Hygiene Regulations 1974
     
     and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
     
-    Section 8ZQ: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZQ: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZQ(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZQ(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8ZQ(3): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZQ(3): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Notification of auditor of food safety programmes
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZR Notification of auditor of food safety programmes
     
@@ -1545,15 +1567,15 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) in any other case, to a fine not exceeding $2,000\.
     
-    Section 8ZR: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZR: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZR(4): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZR(4): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8ZR(5): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZR(5): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Register of exemptions
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZS Director-General to maintain register of exemptions
     
@@ -1593,9 +1615,9 @@ Exemptions from Food Hygiene Regulations 1974
     
     (4) The Director-General shall make such arrangements as are reasonably necessary to facilitate effective and efficient access by territorial authorities to information in the register.
     
-    Section 8ZS: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZS: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZS(2)(a): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 8ZS(2)(a): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
 
 ##### 8ZT Duty on territorial authorities to forward information for inclusion on register
     
@@ -1607,11 +1629,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) revokes an exemption under this Part; or
     
-    *   (d) receives any notification under [section 8ZR][73],---
+    *   (d) receives any notification under [section 8ZR][74],---
     
-    the territorial authority shall, as soon as practicable, forward to the Director-General such information as is reasonably necessary to enable the Director-General to comply with the requirements of [section 8ZS][75] in relation to that exemption.
+    the territorial authority shall, as soon as practicable, forward to the Director-General such information as is reasonably necessary to enable the Director-General to comply with the requirements of [section 8ZS][76] in relation to that exemption.
     
-    Section 8ZT: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZT: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZU Director-General to notify territorial authority
     
@@ -1623,11 +1645,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     the Director-General shall, as soon as practicable, inform the relevant territorial authority of the grant or revocation of that exemption.
     
-    Section 8ZU: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZU: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 #### Approval of persons to audit food safety programmes
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZV Approval of persons to audit food safety programmes adopted by holders of exemptions
     
@@ -1655,11 +1677,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (c) a reasonable opportunity to make written submissions in respect of the matter.
     
-    Section 8ZV: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZV: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZW Integrity of audit process
     
-*   (1) Without limiting subsection (3) of [section 8ZV][79], in determining whether or not to grant an approval under that section, the Director-General shall take into account the need to ensure the integrity of the audit process, and, in particular, the need to ensure that---
+*   (1) Without limiting subsection (3) of [section 8ZV][80], in determining whether or not to grant an approval under that section, the Director-General shall take into account the need to ensure the integrity of the audit process, and, in particular, the need to ensure that---
         
     *   (a) an approved auditor maintains an appropriate degree of impartiality and independence in carrying out the auditor's duties; and
     
@@ -1673,7 +1695,7 @@ Exemptions from Food Hygiene Regulations 1974
         
         
     
-    (2) Without limiting [section 8ZX][81], it shall be a condition of every approval granted under [section 8ZV][79] that the approved auditor must---
+    (2) Without limiting [section 8ZX][82], it shall be a condition of every approval granted under [section 8ZV][80] that the approved auditor must---
         
     *   (a) maintain an appropriate degree of impartiality and independence in carrying out the auditor's duties; and
     
@@ -1687,21 +1709,21 @@ Exemptions from Food Hygiene Regulations 1974
         
         
     
-    Section 8ZW: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZW: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZX Conditions of approval
     
-*   (1) Subject to [section 8ZW][80], an approval granted under [section 8ZV][79] may be subject to such conditions as the Director-General thinks fit and specifies in the approval.
+*   (1) Subject to [section 8ZW][81], an approval granted under [section 8ZV][80] may be subject to such conditions as the Director-General thinks fit and specifies in the approval.
     
     (2) Subject to subsection (3), the Director-General may at any time, by written notice to the holder of an approval, revoke, amend, or add to any conditions imposed pursuant to subsection (1).
     
     (3) Except where any variation to any approval is made, pursuant to subsection (2), on the application of the holder of the approval and in accordance with the terms of that application, the Director-General shall not vary any approval under this section without first giving the holder of the approval a reasonable opportunity to make written submissions to the Director-General in relation to the matter.
     
-    Section 8ZX: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZX: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZY Duration of approval
     
-*   (1) The Director-General may specify in any approval granted under [section 8ZV][79] that the approval is to have effect indefinitely or for a stated period.
+*   (1) The Director-General may specify in any approval granted under [section 8ZV][80] that the approval is to have effect indefinitely or for a stated period.
     
     (2) Every such approval---
         
@@ -1709,19 +1731,19 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) shall continue in force until,---
             
-        *   (i) it is revoked pursuant to [section 8ZZ][83]; or
+        *   (i) it is revoked pursuant to [section 8ZZ][84]; or
         
         *   (ii) in the case of an approval granted for a stated period, the expiry of that period; or
         
-        *   (iii) it is surrendered pursuant to [section 8ZZA][84].
+        *   (iii) it is surrendered pursuant to [section 8ZZA][85].
         
         
     
-    Section 8ZY: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZY: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZ Revocation of approval
     
-*   (1) Subject to subsection (2), the Director-General may at any time, by notice in writing to the holder of an approval granted under [section 8ZV][79], revoke that approval if the Director-General is satisfied---
+*   (1) Subject to subsection (2), the Director-General may at any time, by notice in writing to the holder of an approval granted under [section 8ZV][80], revoke that approval if the Director-General is satisfied---
         
     *   (a) that the holder of the approval is not a fit and proper person to carry out audits of food safety programmes adopted by persons who hold exemptions; or
     
@@ -1733,33 +1755,33 @@ Exemptions from Food Hygiene Regulations 1974
     
     (3) Where an approval is revoked pursuant to this section, the former holder of that approval shall, as soon as practicable after that revocation, take all reasonable steps to notify the fact of that revocation to each person who was a client of that former holder (in that former holder's capacity as a person approved to audit food safety programmes) immediately before that revocation.
     
-    Section 8ZZ: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZ: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZA Surrender of approval
     
-*   (1) Subject to this section, the holder of an approval granted under [section 8ZV][79] may at any time surrender that approval by notice in writing to that effect sent to the Director-General.
+*   (1) Subject to this section, the holder of an approval granted under [section 8ZV][80] may at any time surrender that approval by notice in writing to that effect sent to the Director-General.
     
     (2) The surrender shall take effect on the expiry of 3 months after the date of the receipt of the notice by the Director-General, or on such earlier date as the Director-General may approve.
     
     (3) On or before the surrender takes effect, the holder of the approval shall send the approval to the Director-General.
     
-    Section 8ZZA: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZA: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZB Director-General to notify territorial authority of revocation or surrender of approval
     
-*   Where an approval granted under [section 8ZV][79] is revoked or surrendered, the Director-General shall, as soon as practicable, notify that fact to every territorial authority.
+*   Where an approval granted under [section 8ZV][80] is revoked or surrendered, the Director-General shall, as soon as practicable, notify that fact to every territorial authority.
     
-    Section 8ZZB: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZB: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZC Substituted approval
     
-*   Notwithstanding anything in this Part, the Director-General may, if he or she thinks fit, cancel an existing approval granted under [section 8ZV][79] and issue a new approval in substitution for it,---
+*   Notwithstanding anything in this Part, the Director-General may, if he or she thinks fit, cancel an existing approval granted under [section 8ZV][80] and issue a new approval in substitution for it,---
         
-    *   (a) where the conditions of the approval are to be or have been varied under [section 8ZX][81]:
+    *   (a) where the conditions of the approval are to be or have been varied under [section 8ZX][82]:
     
     *   (b) where the existing approval has become disfigured or dilapidated, or contains a mistake, or where the Director-General is satisfied that the existing approval has been lost or destroyed.
     
-    Section 8ZZC: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZC: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZD Approved auditor to notify termination of audit contract
     
@@ -1771,11 +1793,11 @@ Exemptions from Food Hygiene Regulations 1974
     
     that person shall, within 14 days of so ceasing to be the approved auditor in relation to that food safety programme, notify the enforcement authority, in writing, of that fact.
     
-    Section 8ZZD: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZD: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZE Offence
     
-*   (1) Every person commits an offence against this Act who fails to comply with the requirements of [section 8ZZ(3)][83] or [section 8ZZD][87].
+*   (1) Every person commits an offence against this Act who fails to comply with the requirements of [section 8ZZ(3)][84] or [section 8ZZD][88].
     
     (2) Every individual who commits an offence against subsection (1) is liable on conviction,---
         
@@ -1789,15 +1811,15 @@ Exemptions from Food Hygiene Regulations 1974
     
     *   (b) in any other case, to a fine not exceeding $2,000\.
     
-    Section 8ZZE: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZE: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZZE(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZZE(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8ZZE(3): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8ZZE(3): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8ZZF Director-General to keep list of approved auditors
     
-*   (1) The Director-General shall cause to be kept and maintained a list of every holder of an approval granted under [section 8ZV][79].
+*   (1) The Director-General shall cause to be kept and maintained a list of every holder of an approval granted under [section 8ZV][80].
     
     (2) The Director-General---
         
@@ -1815,19 +1837,19 @@ Exemptions from Food Hygiene Regulations 1974
     
     (4) The Director-General shall make such arrangements as are reasonably necessary to facilitate effective and efficient access by territorial authorities to the list.
     
-    Section 8ZZF: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZF: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
     
-    Section 8ZZF(2)(a): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 8ZZF(2)(a): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
 
 #### Miscellaneous provision
     
-*   Heading: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+*   Heading: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 8ZZG Other exemption powers not affected
     
-*   Nothing in this Part limits [section 42(1)(z)][170] or any regulations made pursuant to that provision.
+*   Nothing in this Part limits [section 42(1)(z)][171] or any regulations made pursuant to that provision.
     
-    Section 8ZZG: inserted, on 1 July 1997, by [section 3][195] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 8ZZG: inserted, on 1 July 1997, by [section 3][201] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ## Part 2  
 Sales and advertisements
@@ -1882,11 +1904,11 @@ Sales and advertisements
     
     *   (b) in any other case, to a fine not exceeding $5,000\.
     
-    Section 9: substituted, on 1 July 1996, by [section 4][209] of the Food Amendment Act 1996 (1996 No 41).
+    Section 9: substituted, on 1 July 1996, by [section 4][215] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 9(5): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(5): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 9(6): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(6): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Misleading labelling and packaging
     
@@ -1910,13 +1932,13 @@ Sales and advertisements
     
     Compare: 1969 No 7 ss 7, 39(1)
     
-    Section 10(2): substituted, on 1 July 1996, by [section 5][210] of the Food Amendment Act 1996 (1996 No 41).
+    Section 10(2): substituted, on 1 July 1996, by [section 5][216] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 10(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 10(3): added, on 1 July 1996, by [section 5][210] of the Food Amendment Act 1996 (1996 No 41).
+    Section 10(3): added, on 1 July 1996, by [section 5][216] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 10(3): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(3): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Restrictions on advertising
     
@@ -1950,15 +1972,15 @@ Sales and advertisements
     
     Compare: 1969 No 7 s 8
     
-    Section 11(1): substituted, on 1 July 1996, by [section 6(1)][211] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11(1): substituted, on 1 July 1996, by [section 6(1)][217] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11(3): substituted, on 1 July 1996, by [section 6(2)][211] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11(3): substituted, on 1 July 1996, by [section 6(2)][217] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11(3): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(3): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 11(4): added, on 1 July 1996, by [section 6(2)][211] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11(4): added, on 1 July 1996, by [section 6(2)][217] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11(4): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(4): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11AA Contravention of Act, etc, knowing that will create risk to human health
     
@@ -1966,9 +1988,9 @@ Sales and advertisements
     
     (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
     
-    Section 11AA: inserted, on 1 July 1996, by [section 7][212] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11AA: inserted, on 1 July 1996, by [section 7][218] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11AA(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11AA(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11A Restriction on selling raw milk
     
@@ -1988,38 +2010,38 @@ Sales and advertisements
     
     and the person may buy it accordingly.
     
-    (3) A milk producer may sell raw milk to a dairy processor (as defined in [section 4(1)][197] of the Animal Products Act 1999) who---
+    (3) A milk producer may sell raw milk to a dairy processor (as defined in [section 4(1)][203] of the Animal Products Act 1999) who---
         
     *   (a) purchases the milk for processing for sale or export; and
     
     *   (b) is a person who---
             
-        *   (i) carries out the processing under a risk management programme registered (or deemed to be registered) under the [Animal Products Act 1999][198] or under a food safety programme (as defined in [section 4(1)][197] of that Act); or
+        *   (i) carries out the processing under a risk management programme registered (or deemed to be registered) under the [Animal Products Act 1999][204] or under a food safety programme (as defined in [section 4(1)][203] of that Act); or
         
-        *   (ii) carries out processing of a kind that is exempt under [section 9][213] of that Act from the requirement for a risk management programme; or
+        *   (ii) carries out processing of a kind that is exempt under [section 9][219] of that Act from the requirement for a risk management programme; or
         
-        *   (iii) is a person or business who, by [section 79][214] of the Animal Products (Ancillary and Transitional Provisions) Act 1999, is at the time of the sale excused from the requirement to operate under a registered risk management programme or a food safety programme.
+        *   (iii) is a person or business who, by [section 79][220] of the Animal Products (Ancillary and Transitional Provisions) Act 1999, is at the time of the sale excused from the requirement to operate under a registered risk management programme or a food safety programme.
         
         
     
-    (4) This section is subject to [section 9][93].
+    (4) This section is subject to [section 9][94].
     
     Section 11A: inserted, on 1 April 1988, by section 27(1) of the Milk Act 1988 (1988 No 13).
     
-    Section 11A(1): amended, on 1 June 2005, by [section 10(2)][200] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
+    Section 11A(1): amended, on 1 June 2005, by [section 10(2)][206] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
     
-    Section 11A(3): substituted, on 1 June 2005, by [section 10(3)][200] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
+    Section 11A(3): substituted, on 1 June 2005, by [section 10(3)][206] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
     
-    Section 11A(4): added, on 1 June 2005, by [section 10(3)][200] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
+    Section 11A(4): added, on 1 June 2005, by [section 10(3)][206] of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27).
 
 ## Part 2A  
 Food standards
     
-*   Part 2A: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Part 2A: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### Purposes of this Part
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11B Purposes of this Part
     
@@ -2039,11 +2061,11 @@ Food standards
     
     *   (b) in particular, to give effect to the Australia - New Zealand Joint Food Standards Agreement.
     
-    Section 11B: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11B: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### Power to issue food standards
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11C Minister may issue food standards
     
@@ -2085,13 +2107,13 @@ Food standards
     
     *   (m) such other matters relating to food as may affect public health.
     
-    Section 11C: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11C: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11D Prescribed foods
     
-*   (1) Without limiting the generality of [section 11C][102], food standards may be issued under that section---
+*   (1) Without limiting the generality of [section 11C][103], food standards may be issued under that section---
         
-    *   (a) declaring a food to be a prescribed food for the purposes of [section 11P][119]; and
+    *   (a) declaring a food to be a prescribed food for the purposes of [section 11P][120]; and
     
     *   (b) specifying the circumstances and conditions in which that food is to be or not to be a prescribed food.
     
@@ -2101,9 +2123,9 @@ Food standards
     
     *   (b) particular circumstances in which the food is dealt with,---
     
-    it is necessary or desirable that the provisions of [section 11P][119] apply in respect of the food in order to minimise the risk of illness or injury posed by the food.
+    it is necessary or desirable that the provisions of [section 11P][120] apply in respect of the food in order to minimise the risk of illness or injury posed by the food.
     
-    Section 11D: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11D: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11E Preconditions for issuing food standard
     
@@ -2127,13 +2149,13 @@ Food standards
     
     *   (c) adequate and appropriate consideration of any such submissions.
     
-    Compare: 1994 No 104 [s 39(2)][216]
+    Compare: 1994 No 104 [s 39(2)][222]
     
-    Section 11E: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11E: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### Incorporation of material by reference
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11F Food standards may incorporate material by reference
     
@@ -2153,13 +2175,13 @@ Food standards
     
     (5) The Director-General shall make available for inspection free of charge or for purchase at a reasonable price, at such place or places as he or she shall from time to time appoint, copies of all material incorporated in a food standard by reference under subsection (1).
     
-    Compare: 1994 No 104 [s 452][217]
+    Compare: 1994 No 104 [s 452][223]
     
-    Section 11F: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11F: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### General provisions relating to food standards
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11G Verification, notification, availability, and commencement of food standards
     
@@ -2189,9 +2211,9 @@ Food standards
     
     (3) Every food standard issued under this Act shall come into force on the 28th day after the date of its notification in the _Gazette_ or on such later day as may be specified for that purpose in the standard.
     
-    Compare: 1993 No 28 [s 49][218]
+    Compare: 1993 No 28 [s 49][224]
     
-    Section 11G: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11G: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11H Further general provisions relating to food standards
     
@@ -2211,59 +2233,59 @@ Food standards
     
     *   (b) allows the Minister, the Director-General, or any other person to impose requirements as to the performance of any activities.
     
-    (4) Subject to [section 11G(3)][108], the commencement of any food standard may be wholly suspended until it is applied by the Minister by notice in the _Gazette_.
+    (4) Subject to [section 11G(3)][109], the commencement of any food standard may be wholly suspended until it is applied by the Minister by notice in the _Gazette_.
     
-    Compare: 1994 No 104 [s 451(1), (3), (4)][219]
+    Compare: 1994 No 104 [s 451(1), (3), (4)][225]
     
-    Section 11H: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11H: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11I Food standards subject to disallowance
     
-*   A food standard is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][220] and must be presented to the House of Representatives under [section 41][221] of that Act.
+*   A food standard is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][226] and must be presented to the House of Representatives under [section 41][227] of that Act.
     
-    Section 11I: replaced, on 5 August 2013, by [section 77(3)][222] of the Legislation Act 2012 (2012 No 119).
+    Section 11I: replaced, on 5 August 2013, by [section 77(3)][228] of the Legislation Act 2012 (2012 No 119).
 
 ##### 11J Minister not to delegate power to issue food standards
     
-*   Notwithstanding anything in [section 28][223] of the State Sector Act 1988, the Minister shall not delegate to any other person the Minister's power to issue food standards.
+*   Notwithstanding anything in [section 28][229] of the State Sector Act 1988, the Minister shall not delegate to any other person the Minister's power to issue food standards.
     
-    Compare: 1994 No 104 [s 451(8)][219]
+    Compare: 1994 No 104 [s 451(8)][225]
     
-    Section 11J: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11J: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11K Proof of food standards
     
-*   (1) Without affecting any other method of proof, the production in any proceedings of a copy of any food standard purporting to have been issued by the Minister shall, in the absence of evidence to the contrary, be sufficient evidence that it has been issued under the authority of [section 11C][102], on the date shown on it as the date of issue.
+*   (1) Without affecting any other method of proof, the production in any proceedings of a copy of any food standard purporting to have been issued by the Minister shall, in the absence of evidence to the contrary, be sufficient evidence that it has been issued under the authority of [section 11C][103], on the date shown on it as the date of issue.
     
-    (2) Without affecting any other method of proof, the production in any proceedings of a copy of an emergency food standard purporting to have been issued by the Director-General shall, in the absence of evidence to the contrary, be sufficient evidence that it has been issued under the authority of [section 11M][115], on the date shown on it as the date of issue.
+    (2) Without affecting any other method of proof, the production in any proceedings of a copy of an emergency food standard purporting to have been issued by the Director-General shall, in the absence of evidence to the contrary, be sufficient evidence that it has been issued under the authority of [section 11M][116], on the date shown on it as the date of issue.
     
     (3) In any proceedings, and without affecting any other method of proof,---
         
-    *   (a) any material incorporated in a food standard by reference under [section 11F(1)][106] may be proved by the production of a copy of that material certified to be correct by the Director-General; and
+    *   (a) any material incorporated in a food standard by reference under [section 11F(1)][107] may be proved by the production of a copy of that material certified to be correct by the Director-General; and
     
     *   (b) judicial notice shall be taken of the signature of the Director-General.
     
-    Compare: 1992 No 122 [s 42][224]
+    Compare: 1992 No 122 [s 42][230]
     
-    Section 11K: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11K: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11L Amendment and revocation of food standards
     
 *   (1) The Minister may at any time amend or revoke any food standard.
     
-    (2) Subject to subsection (3), the provisions of [sections 11E to 11K][104] shall apply in respect of any amendment or revocation of any food standard.
+    (2) Subject to subsection (3), the provisions of [sections 11E to 11K][105] shall apply in respect of any amendment or revocation of any food standard.
     
-    (3) Nothing in [section 11E(2)][104] applies in respect of any amendment to any food standard to correct any obvious mistake (including, without limitation, grammatical and typographical errors or omissions).
+    (3) Nothing in [section 11E(2)][105] applies in respect of any amendment to any food standard to correct any obvious mistake (including, without limitation, grammatical and typographical errors or omissions).
     
-    Section 11L: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11L: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### Emergency food standards
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11M Emergency food standards
     
-*   (1) The Director-General may from time to time exercise the powers conferred on the Minister by [section 11C][102] or [section 11L][113] to issue food standards or amend food standards, or both, if the Director-General considers that---
+*   (1) The Director-General may from time to time exercise the powers conferred on the Minister by [section 11C][103] or [section 11L][114] to issue food standards or amend food standards, or both, if the Director-General considers that---
         
     *   (a) the issue or amendment of a food standard is necessary to alleviate or minimise any risk of the death of, or serious harm to, any person; and
     
@@ -2277,7 +2299,7 @@ Food standards
     
     *   (c) show the date on which it is issued.
     
-    (3) Notwithstanding anything in [section 11E][104] or [section 11G][108],---
+    (3) Notwithstanding anything in [section 11E][105] or [section 11G][109],---
         
     *   (a) before issuing any emergency food standard under this section, the Director-General shall consult with such persons, representative groups within the food industry or elsewhere, government departments, Crown entities, and local authorities as the Director-General in each case considers appropriate, but no other consultation shall be required with respect to the issuing of an emergency food standard:
     
@@ -2303,19 +2325,19 @@ Food standards
     
     (5) The Minister may revoke any emergency food standard, and the revocation shall be notified as if it were an emergency food standard.
     
-    Section 11M: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11M: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11N Director-General not to delegate power to issue emergency food standards
     
-*   (1) Notwithstanding anything in [section 41][225] of the State Sector Act 1988, the Director-General shall not delegate to any other person the power conferred on the Director-General by [section 11M][115].
+*   (1) Notwithstanding anything in [section 41][231] of the State Sector Act 1988, the Director-General shall not delegate to any other person the power conferred on the Director-General by [section 11M][116].
     
-    (2) Nothing in this section limits [section 40][226] of the State Sector Act 1988\.
+    (2) Nothing in this section limits [section 40][232] of the State Sector Act 1988\.
     
-    Section 11N: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11N: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 #### Offences and penalties
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11O Contravention of food standards
     
@@ -2341,7 +2363,7 @@ Food standards
     
     *   (f) otherwise act in contravention of, or fail to comply with, any food standards relating to food manufactured or prepared for sale or sold in New Zealand, or imported into New Zealand.
     
-    Section 11O: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11O: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11P Prescribed foods
     
@@ -2369,19 +2391,19 @@ Food standards
     
     (3) Without limiting subsections (1) and (2), where,---
         
-    *   (a) in order to satisfy the requirements of either of those subsections, a person would normally be required to satisfy an officer with respect to compliance with the [Food Hygiene Regulations 1974][196]; and
+    *   (a) in order to satisfy the requirements of either of those subsections, a person would normally be required to satisfy an officer with respect to compliance with the [Food Hygiene Regulations 1974][202]; and
     
-    *   (b) by virtue of an exemption granted to that person under [Part 1A][15], that person is exempt from compliance with those regulations,---
+    *   (b) by virtue of an exemption granted to that person under [Part 1A][16], that person is exempt from compliance with those regulations,---
     
     that person shall, in addition to satisfying that officer with respect to the other requirements of that subsection, also satisfy that officer, by the production of such evidence as the officer may reasonably require, that the person will comply in all respects with all relevant conditions of that exemption.
     
-    Section 11P: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11P: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11P(3): added, on 1 July 1997, by [section 4][227] of the Food Amendment Act (No 2) 1996 (1996 No 97).
+    Section 11P(3): added, on 1 July 1997, by [section 4][233] of the Food Amendment Act (No 2) 1996 (1996 No 97).
 
 ##### 11Q Offences and penalties
     
-*   (1) Every individual who contravenes any of the provisions of [section 11O][118] or [section 11P][119] commits an offence and is liable on conviction,---
+*   (1) Every individual who contravenes any of the provisions of [section 11O][119] or [section 11P][120] commits an offence and is liable on conviction,---
         
     *   (a) in any case where the court is satisfied that the individual intended to commit the offence, to a fine not exceeding $5,000:
     
@@ -2389,7 +2411,7 @@ Food standards
     
     and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
     
-    (2) Every body corporate who contravenes any of the provisions of [section 11O][118] or [section 11P][119] commits an offence and is liable on conviction,---
+    (2) Every body corporate who contravenes any of the provisions of [section 11O][119] or [section 11P][120] commits an offence and is liable on conviction,---
         
     *   (a) in any case where the court is satisfied that the body corporate intended to commit the offence, to a fine not exceeding $20,000:
     
@@ -2397,47 +2419,47 @@ Food standards
     
     and, where the offence is a continuing one, to a further fine not exceeding $1,000, for every day or part of a day during which the offence continues.
     
-    Section 11Q: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11Q: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11Q(1): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11Q(1): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 11Q(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11Q(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Transitional provisions
     
-*   Heading: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+*   Heading: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11R Definitions
     
-*   In this section and [sections 11S to 11ZE][123], unless the context otherwise requires,---
+*   In this section and [sections 11S to 11ZE][124], unless the context otherwise requires,---
     
-    _alternative food standards_ means food standards that are identified, pursuant to [section 11T][124], as food standards compliance with which is an alternative to compliance with 1 or more specified provisions of the Food Regulations 1984
+    _alternative food standards_ means food standards that are identified, pursuant to [section 11T][125], as food standards compliance with which is an alternative to compliance with 1 or more specified provisions of the Food Regulations 1984
     
-    _election_ means an election made pursuant to [section 11U][125]; and _to elect_ has a corresponding meaning
+    _election_ means an election made pursuant to [section 11U][126]; and _to elect_ has a corresponding meaning
     
-    _mandatory food standard_ means a food standard in respect of which a declaration under [section 11Z][130] is for the time being in force
+    _mandatory food standard_ means a food standard in respect of which a declaration under [section 11Z][131] is for the time being in force
     
-    _superseded food regulation_ means a provision of the Food Regulations 1984 in respect of which food standards are identified, pursuant to [section 11T][124], as alternative food standards
+    _superseded food regulation_ means a provision of the Food Regulations 1984 in respect of which food standards are identified, pursuant to [section 11T][125], as alternative food standards
     
     _transition period_ means the period beginning with the commencement of this section and ending with the close of such date as is specified for the purpose by the Governor-General by Order in Council.
     
-    Section 11R: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11R: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11S Application of food standards and food regulations during transition period
     
-*   Except as provided in [section 11W][127] or [section 11Y][129] or [section 11ZA][131], during the transition period,---
+*   Except as provided in [section 11W][128] or [section 11Y][130] or [section 11ZA][132], during the transition period,---
         
     *   (a) no food standard shall apply in respect of any person or any food, and---
             
         *   (i) no person shall be liable to be prosecuted for, or convicted of, any offence relating to any food standard; and
         
-        *   (ii) no power or duty conferred or imposed by any of [sections 12][137], [13][138], [14][139], [15A][141], [17][143], or [20][146] in relation to the enforcement of, or any breach or alleged breach of, any food standard shall be exercised or performed in respect of any person or any food; and
+        *   (ii) no power or duty conferred or imposed by any of [sections 12][138], [13][139], [14][140], [15A][142], [17][144], or [20][147] in relation to the enforcement of, or any breach or alleged breach of, any food standard shall be exercised or performed in respect of any person or any food; and
         
         
     
     *   (b) every provision of the Food Regulations 1984 shall apply in the normal way as if there were no food standards in force under this Act.
     
-    Section 11S: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11S: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11T Minister to identify alternative food standards
     
@@ -2451,7 +2473,7 @@ Food standards
     
     (2) It shall not be necessary, for the purposes of this section, for a declaring provision to identify, in respect of each and every provision of any food standards, which provision of the Food Regulations 1984 is a superseded food regulation, as long as the declaring provision contains sufficient detail to enable a reasonable person to ascertain which provisions of the Food Regulations 1984 need not be complied with if those food standards are complied with.
     
-    Section 11T: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11T: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11U Persons may elect to be governed by food standards
     
@@ -2483,7 +2505,7 @@ Food standards
         
         
     
-    Section 11U: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11U: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11V Revocation of election
     
@@ -2501,11 +2523,11 @@ Food standards
         
         
     
-    Section 11V: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11V: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11W Application of alternative food standards adopted during transition period
     
-*   (1) Notwithstanding [section 11S][123], where a person elects that alternative food standards are to apply, during the transition period, in respect of a particular food dealt with by that person, then, while that election has effect,---
+*   (1) Notwithstanding [section 11S][124], where a person elects that alternative food standards are to apply, during the transition period, in respect of a particular food dealt with by that person, then, while that election has effect,---
         
     *   (a) those food standards shall apply, in accordance with the terms of the election, in respect of---
             
@@ -2521,11 +2543,11 @@ Food standards
     
     (2) Nothing in subsection (1) limits or affects the liability of that person for any offence committed before that election takes effect.
     
-    Section 11W: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11W: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11X Effect of adoption of alternative food standards on persons subsequently selling food
     
-*   The fact that, by virtue of an election made by any person, any food standards apply, in accordance with [section 11W][127], during the transition period, in respect of any food dealt with by that person does not require any other person (in this subsection referred to as the **seller**) who sells that food to comply with those food standards, if---
+*   The fact that, by virtue of an election made by any person, any food standards apply, in accordance with [section 11W][128], during the transition period, in respect of any food dealt with by that person does not require any other person (in this subsection referred to as the **seller**) who sells that food to comply with those food standards, if---
         
     *   (a) the first-mentioned person disposed of that food in a package; and
     
@@ -2535,19 +2557,19 @@ Food standards
     
     *   (d) the food has at no time between its disposal by the first-mentioned person and its sale by the seller been repackaged.
     
-    Section 11X: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11X: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11Y Adoption of alternative food standards may be necessary if person to deal with food lawfully
     
 *   Where---
         
-    *   (a) any person deals with any food in any manner (other than in the manner permitted by [section 11X][128]); and
+    *   (a) any person deals with any food in any manner (other than in the manner permitted by [section 11X][129]); and
     
     *   (b) that person can lawfully deal with that food under this Act in that manner only by complying with the provisions of alternative food standards (whether or not that person must also comply with any provision of the Food Regulations 1984 or any mandatory food standards),---
     
     then that person shall not deal with that food in that manner unless that person has elected that those alternative food standards are to apply in respect of that food.
     
-    Section 11Y: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11Y: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11Z Minister may declare mandatory food standard
     
@@ -2557,11 +2579,11 @@ Food standards
     
     (3) The Minister may at any time, in like manner, amend or revoke any declaration made under this section.
     
-    Section 11Z: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11Z: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11ZA Application of mandatory food standard during transition period
     
-*   Notwithstanding [section 11S][123], where a mandatory food standard applies in respect of any food, then, during the transition period,---
+*   Notwithstanding [section 11S][124], where a mandatory food standard applies in respect of any food, then, during the transition period,---
         
     *   (a) that food standard shall apply, in accordance with the terms of that food standard, in respect of---
             
@@ -2573,7 +2595,7 @@ Food standards
     
     *   (b) this Act shall apply accordingly.
     
-    Section 11ZA: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11ZA: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11ZB Inconsistencies between food standards and Food Regulations 1984, and between mandatory and alternative food standards
     
@@ -2581,7 +2603,7 @@ Food standards
     
     (2) In the event of any inconsistency between any provisions of any mandatory food standards and the provisions of any alternative food standards, where that inconsistency arises during the transition period, the provisions of the mandatory food standards shall, to the extent of the inconsistency, prevail.
     
-    Section 11ZB: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11ZB: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11ZC Duty to disclose which food regime applies
     
@@ -2593,7 +2615,7 @@ Food standards
     
     that person shall, on request by any other person, promptly tell the other person whether the first-mentioned person has elected that alternative food standards are to apply in respect of that food.
     
-    Section 11ZC: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11ZC: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11ZD Register of elections
     
@@ -2617,13 +2639,13 @@ Food standards
     
     *   (c) permit the officer to produce or make a printout or copy of the register or any part of the register.
     
-    (4) [Section 12(3)][137] applies, with all necessary modifications, in respect of the exercise by an officer of any powers under subsection (3).
+    (4) [Section 12(3)][138] applies, with all necessary modifications, in respect of the exercise by an officer of any powers under subsection (3).
     
-    Section 11ZD: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11ZD: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 11ZE Offences
     
-*   (1) Every person commits an offence against this Act who fails to comply with the requirements of [section 11ZC][133] or [section 11ZD][134].
+*   (1) Every person commits an offence against this Act who fails to comply with the requirements of [section 11ZC][134] or [section 11ZD][135].
     
     (2) Every individual who commits an offence against subsection (1) is liable on conviction,---
         
@@ -2641,11 +2663,11 @@ Food standards
     
     and, where the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
     
-    Section 11ZE: inserted, on 1 July 1996, by [section 9][215] of the Food Amendment Act 1996 (1996 No 41).
+    Section 11ZE: inserted, on 1 July 1996, by [section 9][221] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 11ZE(2): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11ZE(2): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 11ZE(3): amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11ZE(3): amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Enforcement
@@ -2678,7 +2700,7 @@ Enforcement
     
     *   (d) examine any article to which this section applies:
     
-    *   (e) subject to [sections 20][146] and [21][147], purchase or take samples of---
+    *   (e) subject to [sections 20][147] and [21][148], purchase or take samples of---
             
         *   (i) any food that the officer reasonably believes to be intended for sale or to have been sold; or
         
@@ -2710,7 +2732,7 @@ Enforcement
     
     *   (k) take photographs of any premises or vehicle, or any article to which this section applies, or any other thing, where or by means of or in relation to which the officer reasonably believes an offence against this Act or against any regulations made under this Act has been committed.
     
-    (2A) Subject to [sections 14][139] and [16][142], the provisions of [Part 4][228] of the Search and Surveillance Act 2012 (except [subparts 2][229] and [3][230], [sections 118][231], [119][232], [125(4)][233], [131(5)(f)][234], and [133][235], and [subparts 6][236] and [8][237]) apply in respect of any seizure and detention under subsection (2)(i) or (j).
+    (2A) Subject to [sections 14][140] and [16][143], the provisions of [Part 4][234] of the Search and Surveillance Act 2012 (except [subparts 2][235] and [3][236], [sections 118][237], [119][238], [125(4)][239], [131(5)(f)][240], and [133][241], and [subparts 6][242] and [8][243]) apply in respect of any seizure and detention under subsection (2)(i) or (j).
     
     (3) On demand by any person in any premises or vehicle, or claiming any interest in any article, in or in respect of which any power is exercised under this section, the officer exercising the power shall identify himself and produce evidence that he is an officer.
     
@@ -2718,11 +2740,11 @@ Enforcement
     
     Compare: 1969 No 7 s 21(1), (2), (4); 1979 No 27 s 47(1)--(6)
     
-    Section 12(2)(g): amended, on 1 July 1996, by [section 10][238] of the Food Amendment Act 1996 (1996 No 41).
+    Section 12(2)(g): amended, on 1 July 1996, by [section 10][244] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 12(2)(j): amended, on 1 July 1996, by [section 10][238] of the Food Amendment Act 1996 (1996 No 41).
+    Section 12(2)(j): amended, on 1 July 1996, by [section 10][244] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 12(2A): inserted, on 1 October 2012, by [section 253(2)][239] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(2A): inserted, on 1 October 2012, by [section 253(2)][245] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 12(4): repealed, on 1 April 1987, by section 25(1) of the Official Information Amendment Act 1987 (1987 No 8).
 
@@ -2730,19 +2752,19 @@ Enforcement
     
 *   (1) A local authority inspector, and any other person assisting him and acting under his direct supervision, may at any reasonable time, within any district in which the inspector is employed,---
         
-    *   (a) enter and inspect any premises (not being a dwellinghouse) or vehicle (including any fixtures, fittings, or appliances in the premises or vehicle) where the inspector reasonably believes that any article to which [section 12][137] applies is, for the purposes of sale, prepared, processed, manufactured, packed, stored, carried, or delivered, or is sold:
+    *   (a) enter and inspect any premises (not being a dwellinghouse) or vehicle (including any fixtures, fittings, or appliances in the premises or vehicle) where the inspector reasonably believes that any article to which [section 12][138] applies is, for the purposes of sale, prepared, processed, manufactured, packed, stored, carried, or delivered, or is sold:
     
     *   (b) open and examine any receptacle or package that the inspector reasonably believes contains any food or appliance:
     
-    *   (c) examine any article to which [section 12][137] applies:
+    *   (c) examine any article to which [section 12][138] applies:
     
-    *   (d) seize and detain any food or appliance by means of or in relation to which the inspector reasonably believes an offence against any of paragraphs (a) to (d) of [section 9(4)][93] or against [section 11Q][120] or against any regulations made under this Act has been committed:
+    *   (d) seize and detain any food or appliance by means of or in relation to which the inspector reasonably believes an offence against any of paragraphs (a) to (d) of [section 9(4)][94] or against [section 11Q][121] or against any regulations made under this Act has been committed:
     
-    *   (e) take photographs of any premises or vehicle, or any article to which [section 12][137] applies, or any other thing, where or by means of or in relation to which the inspector reasonably believes any such offence has been committed.
+    *   (e) take photographs of any premises or vehicle, or any article to which [section 12][138] applies, or any other thing, where or by means of or in relation to which the inspector reasonably believes any such offence has been committed.
     
-    (1A) Subject to [sections 14][139] and [16][142], the provisions of [Part 4][228] of the Search and Surveillance Act 2012 (except [subparts 2][229] and [3][230], [sections 118][231], [119][232], [125(4)][233], [131(5)(f)][234], and [133][235], and [subparts 6][236] and [8][237]) apply in respect of any seizure and detention under subsection (1)(d).
+    (1A) Subject to [sections 14][140] and [16][143], the provisions of [Part 4][234] of the Search and Surveillance Act 2012 (except [subparts 2][235] and [3][236], [sections 118][237], [119][238], [125(4)][239], [131(5)(f)][240], and [133][241], and [subparts 6][242] and [8][243]) apply in respect of any seizure and detention under subsection (1)(d).
     
-    (2) [Section 12(3)][137], with all necessary modifications, shall apply in respect of the exercise by a local authority inspector of any powers under this section.
+    (2) [Section 12(3)][138], with all necessary modifications, shall apply in respect of the exercise by a local authority inspector of any powers under this section.
     
     (3) Every local authority---
         
@@ -2752,35 +2774,35 @@ Enforcement
     
     Compare: 1969 No 7 s 21(3), (10)
     
-    Section 13(1)(d): amended, on 1 July 1996, by [section 11][240] of the Food Amendment Act 1996 (1996 No 41).
+    Section 13(1)(d): amended, on 1 July 1996, by [section 11][246] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 13(1A): inserted, on 1 October 2012, by [section 253(3)][239] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(1A): inserted, on 1 October 2012, by [section 253(3)][245] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(2): amended, on 1 April 1987, by [section 25(1)][241] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 13(2): amended, on 1 April 1987, by [section 25(1)][247] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 13(3): substituted, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 13(3): substituted, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
 
 ##### 14 Further provisions relating to seizure and detention of articles
     
-*   (1) If any officer or local authority inspector seizes any article under [section 12][137] or [section 13][138] in any premises or vehicle that is not in the occupation or use of the owner of the article, he shall forthwith give notice in writing of the seizure to the owner, or to the consignor or consignee, or to the agent of the owner, of the article, if his name and address are on or attached to the article or are otherwise known to the officer or inspector, and the address is that of a place in New Zealand.
+*   (1) If any officer or local authority inspector seizes any article under [section 12][138] or [section 13][139] in any premises or vehicle that is not in the occupation or use of the owner of the article, he shall forthwith give notice in writing of the seizure to the owner, or to the consignor or consignee, or to the agent of the owner, of the article, if his name and address are on or attached to the article or are otherwise known to the officer or inspector, and the address is that of a place in New Zealand.
     
     (2) Subject to subsection (3), where any article is---
         
-    *   (a) ordered to be detained under paragraph (h) of subsection (2) of [section 12][137]; or
+    *   (a) ordered to be detained under paragraph (h) of subsection (2) of [section 12][138]; or
     
     *   (b) seized under paragraph (i) or paragraph (j) of that subsection; or
     
-    *   (c) seized under [section 13(1)(d)][138],---
+    *   (c) seized under [section 13(1)(d)][139],---
     
     it may, at the option of the officer or local authority inspector concerned, be detained in the premises or vehicle where it was ordered to be detained or seized, or removed to another place and detained there, at the expense of the owner at the time of the order or seizure.
     
-    (3) An officer or local authority inspector shall release any article seized or ordered by him to be detained under [section 12][137] or [section 13][138] when he is satisfied---
+    (3) An officer or local authority inspector shall release any article seized or ordered by him to be detained under [section 12][138] or [section 13][139] when he is satisfied---
         
     *   (a) that all the provisions of this Act and of any regulations and food standards made under this Act, to the extent that they are material, have been complied with in respect of the article; and
     
     *   (b) that the article is fit for the purpose for which it is intended to be sold or used.
     
-    (4) If, within the time limited by [section 16(1)][142], the seized article has not been released and no application for disallowance of that seizure has been made under that section or any such application has been dismissed, the article shall,---
+    (4) If, within the time limited by [section 16(1)][143], the seized article has not been released and no application for disallowance of that seizure has been made under that section or any such application has been dismissed, the article shall,---
         
     *   (a) in the case of a seizure by an officer, become the property of the Crown; or
     
@@ -2792,39 +2814,39 @@ Enforcement
     
     (5) Without prejudice to the owner's liability under subsections (2) and (4), where the article was, at the time of the seizure, in the possession of a person who was not the owner and the identity of the owner is not known to the officer or local authority inspector, the person in whose possession the article was at that time shall be liable for any costs and expenses incurred in the detention, removal, or disposition of that article.
     
-    (6) If any article seized under [section 12][137] or [section 13][138] is not destroyed or otherwise disposed of under this section, it shall be returned to the person from whom it was seized when the officer or local authority inspector concerned is satisfied of the matters referred to in subsection (3).
+    (6) If any article seized under [section 12][138] or [section 13][139] is not destroyed or otherwise disposed of under this section, it shall be returned to the person from whom it was seized when the officer or local authority inspector concerned is satisfied of the matters referred to in subsection (3).
     
     Compare: 1969 No 7 s 21(5)--(8)
     
-    Section 14(3)(a): amended, on 1 July 1996, by [section 12][242] of the Food Amendment Act 1996 (1996 No 41).
+    Section 14(3)(a): amended, on 1 July 1996, by [section 12][248] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 14(4)(a): amended, on 1 October 2012, by [section 253(4)][239] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 14(4)(a): amended, on 1 October 2012, by [section 253(4)][245] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 14(4)(a): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 14(4)(a): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 14(4)(aa): repealed, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 14(4)(aa): repealed, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
 
 ##### 15 Seizure and destruction of decayed or putrified food
     
-*   Notwithstanding [sections 12 to 14][137], an officer or a local authority inspector may at any time seize and destroy any food that is decayed or putrified.
+*   Notwithstanding [sections 12 to 14][138], an officer or a local authority inspector may at any time seize and destroy any food that is decayed or putrified.
     
     Compare: 1969 No 7 s 21(9)
 
 ##### 15A Power to issue search warrant even though offence not imprisonable
     
-*   (1) A search warrant may be issued under [section 6][243] of the Search and Surveillance Act 2012 in respect of an offence which has been or is suspected to have been committed against [section 9][93] or [section 10][94] or [section 11][95] or [section 11Q][120] or [section 11ZE][135] or which is believed to be intended to be so committed, even though the offence is not punishable by imprisonment.
+*   (1) A search warrant may be issued under [section 6][249] of the Search and Surveillance Act 2012 in respect of an offence which has been or is suspected to have been committed against [section 9][94] or [section 10][95] or [section 11][96] or [section 11Q][121] or [section 11ZE][136] or which is believed to be intended to be so committed, even though the offence is not punishable by imprisonment.
     
-    (2) An officer who is authorised in writing by the Director-General to apply for search warrants in relation to the offences referred to in subsection (1) may apply for such a warrant under [section 6][243] of the Search and Surveillance Act 2012 as if that officer were a constable.
+    (2) An officer who is authorised in writing by the Director-General to apply for search warrants in relation to the offences referred to in subsection (1) may apply for such a warrant under [section 6][249] of the Search and Surveillance Act 2012 as if that officer were a constable.
     
-    Section 15A: inserted, on 1 July 1996, by [section 13][244] of the Food Amendment Act 1996 (1996 No 41).
+    Section 15A: inserted, on 1 July 1996, by [section 13][250] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 15A(1): amended, on 1 October 2012, by [section 253(5)][239] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 15A(1): amended, on 1 October 2012, by [section 253(5)][245] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 15A(2): inserted, on 1 October 2012, by [section 253(6)][239] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 15A(2): inserted, on 1 October 2012, by [section 253(6)][245] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 16 District Court may order return of property or compensation
     
-*   (1) Any person claiming any interest in any article seized or ordered to be detained under [section 12][137] or [section 13][138], may, within 3 days thereafter, apply to a District Court for an order---
+*   (1) Any person claiming any interest in any article seized or ordered to be detained under [section 12][138] or [section 13][139], may, within 3 days thereafter, apply to a District Court for an order---
         
     *   (a) that the seizure or the order for detention be disallowed and that the article be returned or otherwise made available to him:
     
@@ -2850,7 +2872,7 @@ Enforcement
     
     (7) The applicant shall serve notice of his application on the respondent on or before the date on which he files it in the court.
     
-    (8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the [District Courts Act 1947][245] shall apply with respect to every application to the court under this section.
+    (8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the [District Courts Act 1947][251] shall apply with respect to every application to the court under this section.
     
     (9) Every order made by the court under this section shall be final and binding on all parties.
     
@@ -2858,15 +2880,15 @@ Enforcement
     
     Compare: 1969 No 7 s 22; 1979 No 27 s 49
     
-    Section 16(1)(b): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 16(1)(b): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 16(2)(c): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 16(2)(c): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 16(5): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 16(5): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
 
 ##### 17 Power of Medical Officer of Health to require information
     
-*   (1) Without limiting [section 12][137], where the Medical Officer of Health or the Director reasonably suspects that any person is in possession---
+*   (1) Without limiting [section 12][138], where the Medical Officer of Health or the Director reasonably suspects that any person is in possession---
         
     *   (a) of any food for the purpose of sale; or
     
@@ -2886,13 +2908,13 @@ Enforcement
     
     Compare: 1969 No 7 s 27; 1979 No 27 s 50
     
-    Section 17(1): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 17(1): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 17(1): amended, on 1 July 1996, by [section 14][246] of the Food Amendment Act 1996 (1996 No 41).
+    Section 17(1): amended, on 1 July 1996, by [section 14][252] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 17(2): amended, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 17(2): amended, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 17(4): repealed, on 1 April 1987, by [section 25(1)][241] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 17(4): repealed, on 1 April 1987, by [section 25(1)][247] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 18 Power to require name and address of seller
     
@@ -2922,15 +2944,15 @@ Enforcement
     
     *   (b) before or forthwith after obtaining the sample or appliance, inform the owner or the person from whom it is obtained of his intention to submit it to an analyst:
     
-    *   (c) thereafter, in the case of a sample, deal with the sample in the manner set out in [section 21][147].
+    *   (c) thereafter, in the case of a sample, deal with the sample in the manner set out in [section 21][148].
     
     (3) For the purposes of subsection (2), an officer may require the person in possession of a food, or his employee or agent, to show and permit the inspection of any package containing the food and to take therefrom the sample demanded.
     
     (4) Where any food is kept for retail sale in an unopened package, no person shall be required by any officer to sell less than the whole of the contents of the package.
     
-    (5) Nothing in this section or in [section 21][147] shall apply to the procuring of a sample of a food from a vending machine if the officer obtains the sample by properly making payment for it and no person present admits to being in charge of the machine.
+    (5) Nothing in this section or in [section 21][148] shall apply to the procuring of a sample of a food from a vending machine if the officer obtains the sample by properly making payment for it and no person present admits to being in charge of the machine.
     
-    (6) Notwithstanding anything in this section or in [section 21][147],---
+    (6) Notwithstanding anything in this section or in [section 21][148],---
         
     *   (a) an officer shall not be obliged to submit to an analyst any sample or appliance that he has obtained:
     
@@ -2944,7 +2966,7 @@ Enforcement
 
 ##### 21 How samples to be dealt with
     
-*   (1) Subject to the succeeding provisions of this section, where an officer has procured a sample of a food under [section 20][146] (except subsection (8)), he shall---
+*   (1) Subject to the succeeding provisions of this section, where an officer has procured a sample of a food under [section 20][147] (except subsection (8)), he shall---
         
     *   (a) divide the sample into 3 parts; and
     
@@ -2988,7 +3010,7 @@ Enforcement
     
     Compare: 1969 No 7 s 25; 1979 No 27 s 55
     
-    Section 22(5): repealed, on 1 April 1987, by [section 25(1)][241] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 22(5): repealed, on 1 April 1987, by [section 25(1)][247] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 23 Evidence of analysis
     
@@ -2996,7 +3018,7 @@ Enforcement
     
     (2) A certificate referred to in subsection (1) shall be admissible in evidence only if---
         
-    *   (a) at least 14 clear days before the hearing at which the certificate is tendered, a copy of that certificate (in addition to the copy required by [section 27A(1)][154] to be served with the summons) is served, by or on behalf of the prosecutor, on the defendant, and the defendant is, at the same time, informed in writing that the prosecutor does not propose to call the analyst as a witness at the hearing; and
+    *   (a) at least 14 clear days before the hearing at which the certificate is tendered, a copy of that certificate (in addition to the copy required by [section 27A(1)][155] to be served with the summons) is served, by or on behalf of the prosecutor, on the defendant, and the defendant is, at the same time, informed in writing that the prosecutor does not propose to call the analyst as a witness at the hearing; and
     
     *   (b) the defendant does not, by notice in writing given to the prosecutor at least 7 clear days before the hearing, require the analyst to be called by the prosecutor as a witness at the hearing.
     
@@ -3006,13 +3028,13 @@ Enforcement
     
     Compare: 1969 No 7 s 36; 1979 No 27 s 56
     
-    Section 23(2)(a): amended, on 1 July 1996, by [section 18(2)][247] of the Food Amendment Act 1996 (1996 No 41).
+    Section 23(2)(a): amended, on 1 July 1996, by [section 18(2)][253] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 23(4): amended, on 1 July 1996, by [section 15][248] of the Food Amendment Act 1996 (1996 No 41).
+    Section 23(4): amended, on 1 July 1996, by [section 15][254] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 24 Special provisions relating to imported consignments
     
-*   (1) Where, in any port, any officer takes any sample under [section 20][146] from any imported consignment of any substance reasonably believed by him to be food, or takes any appliance under [section 12(2)(e)(ii)][137] or section 20, from any imported consignment the following provisions shall apply:
+*   (1) Where, in any port, any officer takes any sample under [section 20][147] from any imported consignment of any substance reasonably believed by him to be food, or takes any appliance under [section 12(2)(e)(ii)][138] or section 20, from any imported consignment the following provisions shall apply:
         
     *   (a) the officer shall forthwith notify the importer that he has taken the sample or appliance:
     
@@ -3034,25 +3056,25 @@ Enforcement
         
         
     
-    *   (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)(iii) shall limit or affect the [Customs and Excise Act 1996][174].
+    *   (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)(iii) shall limit or affect the [Customs and Excise Act 1996][175].
     
     (2) Where an officer seizes any goods under this section, he shall serve notice of his action on the importer of the goods; and, if the goods are still under the control of the Customs, he shall also serve a copy of the notice on the Customs who shall ensure that the goods are not delivered from the control of the Customs without the written consent of the officer.
     
-    (3) Where any goods are seized under this section, [section 16][142] shall apply with all necessary modifications.
+    (3) Where any goods are seized under this section, [section 16][143] shall apply with all necessary modifications.
     
-    (4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the [Customs and Excise Act 1996][174] in the case of uncustomed or prohibited goods.
+    (4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the [Customs and Excise Act 1996][175] in the case of uncustomed or prohibited goods.
     
-    Compare: 1970 No 151 [s 9][249]; 1979 No 27 s 57
+    Compare: 1970 No 151 [s 9][255]; 1979 No 27 s 57
     
-    Section 24(1)(b): amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 24(1)(b): amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 24(1)(f): amended, on 1 July 1996, by [section 16][250] of the Food Amendment Act 1996 (1996 No 41).
+    Section 24(1)(f): amended, on 1 July 1996, by [section 16][256] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 24(1)(g): amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 24(1)(g): amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 24(2): amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 24(2): amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 24(4): amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 24(4): amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 25 Presumption that contents conform with label
     
@@ -3070,7 +3092,7 @@ Enforcement
     
     *   (b) except with the authority of an officer or of an analyst or under an order of a court, he erases, alters, opens, breaks, or removes any mark, seal, or fastening placed by an officer under this Act on any sample or part of a sample procured under this Act, other than a part of a sample or a bottle or package left with the owner of the food from which the sample was taken or the person from whom the sample was procured; or
     
-    *   (c) he refuses to sell to an officer, or to allow an officer to take, in the quantity that the officer reasonably requires as a sample, any food that appears to the officer to be intended for sale or to have been sold, or any advertising material or labelling material that appears to the officer to be intended for use in connection with the sale of any article to which [section 12][137] applies or to have been so used; or
+    *   (c) he refuses to sell to an officer, or to allow an officer to take, in the quantity that the officer reasonably requires as a sample, any food that appears to the officer to be intended for sale or to have been sold, or any advertising material or labelling material that appears to the officer to be intended for use in connection with the sale of any article to which [section 12][138] applies or to have been so used; or
     
     *   (d) he refuses or fails to give to an officer any assistance that that officer may reasonably require him to give, or to give to an officer any information, or to produce or permit an officer to examine and make copies of and extracts from any books, documents, or other records, that that officer is expressly authorised by this Act to require to be given or produced or to examine or make, or may reasonably require to be given or produced or to examine or make, or when required to give any such information or to produce any such books, documents, or other records, knowingly makes any false statement in respect thereof.
     
@@ -3080,23 +3102,23 @@ Enforcement
 
 ##### 27 Time for filing charging document
     
-*   (1) Despite anything to the contrary in [section 25][251] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][257] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
-    (2) Subsection (1) does not apply to an offence against [section 11AA][96].
+    (2) Subsection (1) does not apply to an offence against [section 11AA][97].
     
-    Section 27: replaced, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 27: replaced, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27A Copy of analyst's certificate or report to be served with summons
     
 *   (1) Where proceedings are brought for an offence against this Act or against any regulations made under this Act, there shall be served with the summons in any such proceedings a copy of the analyst's certificate or report (if any) relating to the prosecution.
     
-    (2) In any such proceedings, the court shall, on the request of either party to the proceedings, and may if it thinks fit without such request, order that the part of the sample retained by the officer under [section 21][147] be submitted, for analysis and report, to---
+    (2) In any such proceedings, the court shall, on the request of either party to the proceedings, and may if it thinks fit without such request, order that the part of the sample retained by the officer under [section 21][148] be submitted, for analysis and report, to---
         
     *   (a) an analyst named by the court; or
     
     *   (b) 2 analysts together, of whom 1 shall be nominated by the defendant and the other shall be either the analyst whose certificate or report is before the court or some other analyst appointed under this Act.
     
-    Section 27A: inserted, on 1 July 1996, by [section 18(1)][247] of the Food Amendment Act 1996 (1996 No 41).
+    Section 27A: inserted, on 1 July 1996, by [section 18(1)][253] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 28 General penalty
     
@@ -3104,11 +3126,11 @@ Enforcement
     
     Compare: 1969 No 7 s 39; 1979 No 27 s 62
     
-    Section 28: amended, on 1 July 2013, by [section 413][208] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28: amended, on 1 July 2013, by [section 413][214] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 28: amended, on 1 July 1996, by [section 19(a)][252] of the Food Amendment Act 1996 (1996 No 41).
+    Section 28: amended, on 1 July 1996, by [section 19(a)][258] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 28: amended, on 1 July 1996, by [section 19(b)][252] of the Food Amendment Act 1996 (1996 No 41).
+    Section 28: amended, on 1 July 1996, by [section 19(b)][258] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 29 Liability of principal for acts of agents, etc
     
@@ -3116,7 +3138,7 @@ Enforcement
     
     (2) Notwithstanding anything in subsection (1), where any proceedings are brought by virtue of that subsection---
         
-    *   (a) for an offence against [section 9][93] or [section 10][94] or [section 11AA][96] or [section 11Q][120], knowledge shall not, for the purposes of [section 9(5)][93] or section 9(6) or [section 10(2)][94] or section 10(3) or [section 11AA(1)][96] or [section 11Q(1)][120] or section 11Q(2), be imputed to the defendant by reason only of the knowledge of the agent or employee; or
+    *   (a) for an offence against [section 9][94] or [section 10][95] or [section 11AA][97] or [section 11Q][121], knowledge shall not, for the purposes of [section 9(5)][94] or section 9(6) or [section 10(2)][95] or section 10(3) or [section 11AA(1)][97] or [section 11Q(1)][121] or section 11Q(2), be imputed to the defendant by reason only of the knowledge of the agent or employee; or
     
     *   (b) for any other offence against this Act, it shall be a good defence to the charge if the defendant proves that the offence was committed without his knowledge and that he took all reasonable steps to prevent the commission of the offence.
     
@@ -3124,7 +3146,7 @@ Enforcement
     
     Compare: 1969 No 7 s 30; 1979 No 27 s 63
     
-    Section 29(2)(a): substituted, on 1 July 1996, by [section 20][253] of the Food Amendment Act 1996 (1996 No 41).
+    Section 29(2)(a): substituted, on 1 July 1996, by [section 20][259] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 30 Strict liability
     
@@ -3150,17 +3172,17 @@ Enforcement
     
     (4) In any such prosecution, evidence that the defendant took a step not specified in the written notice required by subsection (3) shall not, except with the leave of the court, be admissible for the purpose of supporting a defence under subsection (2).
     
-    (5) Nothing in this section applies in respect of an offence against [section 11AA][96].
+    (5) Nothing in this section applies in respect of an offence against [section 11AA][97].
     
     Compare: 1969 No 7 s 31
     
-    Section 30(1): amended, on 1 July 1996, by [section 21(1)][254] of the Food Amendment Act 1996 (1996 No 41).
+    Section 30(1): amended, on 1 July 1996, by [section 21(1)][260] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 30(2)(b)(i): amended, on 1 July 1996, by [section 21(2)][254] of the Food Amendment Act 1996 (1996 No 41).
+    Section 30(2)(b)(i): amended, on 1 July 1996, by [section 21(2)][260] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 30(2)(b)(ii): amended, on 1 July 1996, by [section 21(2)][254] of the Food Amendment Act 1996 (1996 No 41).
+    Section 30(2)(b)(ii): amended, on 1 July 1996, by [section 21(2)][260] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 30(5): added, on 1 July 1996, by [section 21(3)][254] of the Food Amendment Act 1996 (1996 No 41).
+    Section 30(5): added, on 1 July 1996, by [section 21(3)][260] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 31 Further defences
     
@@ -3194,9 +3216,9 @@ Enforcement
     
     Compare: 1969 No 7 s 32
     
-    Section 31(1): amended, on 1 July 1996, by [section 22(1)][255] of the Food Amendment Act 1996 (1996 No 41).
+    Section 31(1): amended, on 1 July 1996, by [section 22(1)][261] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 31(3): amended, on 1 July 1996, by [section 22(2)][255] of the Food Amendment Act 1996 (1996 No 41).
+    Section 31(3): amended, on 1 July 1996, by [section 22(2)][261] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 32 Liability of persons named on labels
     
@@ -3228,13 +3250,13 @@ Enforcement
 
 ##### 33 Payment of expenses of analysis on conviction
     
-*   (1) Where any person is convicted of an offence against this Act or any regulations made under this Act, the court may order that all fees and other expenses incidental to any analysis of the food in respect of which the conviction is entered (including any analysis under [section 27A(2)][154]) shall be paid by the defendant.
+*   (1) Where any person is convicted of an offence against this Act or any regulations made under this Act, the court may order that all fees and other expenses incidental to any analysis of the food in respect of which the conviction is entered (including any analysis under [section 27A(2)][155]) shall be paid by the defendant.
     
     (2) All such fees and expenses shall be deemed to be part of the costs attending the conviction, and shall be recoverable accordingly.
     
     Compare: 1969 No 7 s 41; 1979 No 27 s 65
     
-    Section 33(1): amended, on 1 July 1996, by [section 18(3)][247] of the Food Amendment Act 1996 (1996 No 41).
+    Section 33(1): amended, on 1 July 1996, by [section 18(3)][253] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 34 Forfeiture on conviction
     
@@ -3244,13 +3266,13 @@ Enforcement
     
     Compare: 1969 No 7 s 40; 1979 No 27 s 66
     
-    Section 34(1): amended, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 34(1): amended, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 34(2): substituted, on 1 July 1993, by [section 32][192] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 34(2): substituted, on 1 July 1993, by [section 32][193] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
 
 ##### 35 Courts may order withdrawal of goods from circulation
     
-*   (1) If any person who manufactures, packs, or imports foods of any description, or appliances of any kind, is convicted of an offence against any of the provisions of [Part 2][92] or [Part 2A][98] in respect of food of that description, or appliances of that kind, the court may in its discretion order that person to withdraw from sale all food of that description, or appliances of that kind, until the matter in relation to which the offence was committed has been remedied.
+*   (1) If any person who manufactures, packs, or imports foods of any description, or appliances of any kind, is convicted of an offence against any of the provisions of [Part 2][93] or [Part 2A][99] in respect of food of that description, or appliances of that kind, the court may in its discretion order that person to withdraw from sale all food of that description, or appliances of that kind, until the matter in relation to which the offence was committed has been remedied.
     
     (2) If the court makes an order under subsection (1), the Director-General shall cause particulars of the order and of the offence in relation to which the order was made to be published in the _Gazette_; and thereupon every distributor, wholesaler, or retailer who has possession of any food of the same description, or appliances of the same kind, that are packed and labelled in the same way as the food or appliances in relation to which the offence was committed shall withdraw them from sale, and may---
         
@@ -3260,17 +3282,17 @@ Enforcement
     
     (3) Every distributor, wholesaler, or retailer who takes action in accordance with paragraph (a) or paragraph (b) of subsection (2) may recover all the costs and expenses incurred in so acting (including, if action is taken under the said paragraph (a), the purchase price of the food, or appliances) from the person who supplied them as a debt due by that person to the distributor, wholesaler, or retailer.
     
-    (4) Without limiting subsection (1), if any person referred to in that subsection is convicted of an offence against any of the provisions of [Part 2][92] or [Part 2A][98] in respect of any package, or of any advertising material or labelling material, the court may in its discretion order that person to withdraw from use all packages or material of the same description until the matter in relation to which the offence was committed has been remedied; and in any such case subsections (2) and (3) shall apply with any necessary modifications.
+    (4) Without limiting subsection (1), if any person referred to in that subsection is convicted of an offence against any of the provisions of [Part 2][93] or [Part 2A][99] in respect of any package, or of any advertising material or labelling material, the court may in its discretion order that person to withdraw from use all packages or material of the same description until the matter in relation to which the offence was committed has been remedied; and in any such case subsections (2) and (3) shall apply with any necessary modifications.
     
-    (5) Where any person referred to in subsection (1) is convicted of an offence against any of the provisions of [Part 2][92] or [Part 2A][98], the Director-General may cause particulars of the offence and a description of the food or appliances in relation to which the offence was committed to be published in the _Gazette_.
+    (5) Where any person referred to in subsection (1) is convicted of an offence against any of the provisions of [Part 2][93] or [Part 2A][99], the Director-General may cause particulars of the offence and a description of the food or appliances in relation to which the offence was committed to be published in the _Gazette_.
     
     Compare: 1969 No 7 s 35
     
-    Section 35(1): amended, on 1 July 1996, by [section 23][256] of the Food Amendment Act 1996 (1996 No 41).
+    Section 35(1): amended, on 1 July 1996, by [section 23][262] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 35(4): amended, on 1 July 1996, by [section 23][256] of the Food Amendment Act 1996 (1996 No 41).
+    Section 35(4): amended, on 1 July 1996, by [section 23][262] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 35(5): amended, on 1 July 1996, by [section 23][256] of the Food Amendment Act 1996 (1996 No 41).
+    Section 35(5): amended, on 1 July 1996, by [section 23][262] of the Food Amendment Act 1996 (1996 No 41).
 
 ## Part 4  
 Miscellaneous provisions
@@ -3279,7 +3301,7 @@ Miscellaneous provisions
     
 *   (1) Where any person, other than the manufacturer of the food or any agent or employee of the manufacturer, requests any officer in writing to procure a sample of any food that is for sale and submit it for analysis for any purpose specified by that person, the officer, on payment by that person of the prescribed fee together with the cost of the sample, shall procure or arrange for another officer to procure a sample of the food and submit it for analysis for the specified purpose, unless he reasonably believes that the request is frivolous or vexatious.
     
-    (2) [Sections 20 to 22][146] shall, so far as they are applicable and with the necessary modifications, apply with respect to the procuring and analysis of the sample.
+    (2) [Sections 20 to 22][147] shall, so far as they are applicable and with the necessary modifications, apply with respect to the procuring and analysis of the sample.
     
     Compare: 1969 No 7 s 26
 
@@ -3287,7 +3309,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 7 June 2014, by [section 420(1)][257] of the Food Act 2014 (2014 No 32).
+    Section 37: repealed, on 7 June 2014, by [section 420(1)][263] of the Food Act 2014 (2014 No 32).
 
 ##### 38 Examination of Customs entries
     
@@ -3295,7 +3317,7 @@ Miscellaneous provisions
     
     Compare: 1969 No 7 s 43; 1979 No 27 s 79
     
-    Section 38: amended, on 1 October 1996, by [section 289(1)][183] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 38: amended, on 1 October 1996, by [section 289(1)][184] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 39 Protection of persons acting under authority of Act
     
@@ -3307,7 +3329,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 7 June 2014, by [section 420(1)][257] of the Food Act 2014 (2014 No 32).
+    Section 40: repealed, on 7 June 2014, by [section 420(1)][263] of the Food Act 2014 (2014 No 32).
 
 ##### 41 Records
     
@@ -3317,7 +3339,7 @@ Miscellaneous provisions
     
     (3) Every person commits an offence against this Act who contravenes or fails to comply in any respect with any of the provisions of this section.
     
-    Section 41(1): amended, on 1 July 1996, by [section 24][258] of the Food Amendment Act 1996 (1996 No 41).
+    Section 41(1): amended, on 1 July 1996, by [section 24][264] of the Food Amendment Act 1996 (1996 No 41).
 
 ##### 42 Regulations
     
@@ -3409,7 +3431,7 @@ Miscellaneous provisions
     
     (2) The Minister may, by notice in the _Gazette_, vary for such period (not exceeding 12 months) as may be specified in the notice, any requirement imposed by any such regulations on any specified thing that may be contained in any food, or may, in like manner, permit the addition of a specified thing, or of a specified thing in any quantity or proportion to a food, or may vary any labelling requirement.
     
-    (2A) The Minister, before recommending the making of any regulation under subsection (1) or before giving notice in the _Gazette_ in accordance with subsection (2), must consult the Environmental Protection Authority established by [section 7][259] of the Environmental Protection Authority Act 2011 about the contents of any such regulations or notice relating to the appearance in food of any substance with toxic properties.
+    (2A) The Minister, before recommending the making of any regulation under subsection (1) or before giving notice in the _Gazette_ in accordance with subsection (2), must consult the Environmental Protection Authority established by [section 7][265] of the Environmental Protection Authority Act 2011 about the contents of any such regulations or notice relating to the appearance in food of any substance with toxic properties.
     
     (3) Any regulations under this section may be made applicable either to foods generally or to specified foods only.
     
@@ -3421,31 +3443,31 @@ Miscellaneous provisions
     
     Compare: 1969 No 7 s 46; 1979 No 27 s 82
     
-    Section 42(1)(d): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(d): amended, on 18 June 2002, by [section 16(1)(a)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(e): amended, on 18 June 2002, by [section 16(1)(b)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(e): amended, on 18 June 2002, by [section 16(1)(b)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(f): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(f): amended, on 18 June 2002, by [section 16(1)(a)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(g): amended, on 18 June 2002, by [section 16(1)(a)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(g): amended, on 18 June 2002, by [section 16(1)(a)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(i): substituted, on 1 July 2002, by [Schedule 1][194] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(i): substituted, on 1 July 2002, by [Schedule 1][195] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(j): amended, on 18 June 2002, by [section 16(1)(c)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(j): amended, on 18 June 2002, by [section 16(1)(c)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(q): amended, on 18 June 2002, by [section 16(1)(d)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(q): amended, on 18 June 2002, by [section 16(1)(d)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(u): substituted, on 18 June 2002, by [section 16(2)][260] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42(1)(u): substituted, on 18 June 2002, by [section 16(2)][266] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42(1)(y): amended, on 1 July 1996, by [section 25(1)][261] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(y): amended, on 1 July 1996, by [section 25(1)][267] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(1)(zb): repealed, on 1 July 1996, by [section 25(2)][261] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(zb): repealed, on 1 July 1996, by [section 25(2)][267] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(1)(zc): substituted, on 1 July 1996, by [section 25(2)][261] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42(1)(zc): substituted, on 1 July 1996, by [section 25(2)][267] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42(2A): inserted, on 2 July 2001, by [section 149][262] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 42(2A): inserted, on 2 July 2001, by [section 149][268] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 42(2A): amended, on 1 July 2011, by [section 53(1)][263] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 42(2A): amended, on 1 July 2011, by [section 53(1)][269] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
     Section 42(6): added, on 8 March 1985, by section 2 of the Food Amendment Act 1985 (1985 No 18).
 
@@ -3471,7 +3493,7 @@ Miscellaneous provisions
     
     *   (b) the costs and expenses incurred by the Director in exercising powers, or performing functions or duties, or providing services, under any enactment other than this Act (whether the Director has incurred any cost or expense directly, or by arranging for another person to act on the Director's behalf, or help the Director, in exercising, performing, or providing, a power, function, duty, or service).
     
-    (1B) Subsection (1) does not limit the power to make regulations conferred by [section 42][170].
+    (1B) Subsection (1) does not limit the power to make regulations conferred by [section 42][171].
     
     (2) Any regulations made under subsection (1) may---
         
@@ -3503,13 +3525,13 @@ Miscellaneous provisions
     
     in respect of different classes of persons, foods, or other matters.
     
-    Section 42A: inserted, on 1 July 1996, by [section 26][264] of the Food Amendment Act 1996 (1996 No 41).
+    Section 42A: inserted, on 1 July 1996, by [section 26][270] of the Food Amendment Act 1996 (1996 No 41).
     
-    Section 42A(1): substituted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1): substituted, on 1 July 2002, by [section 6][271] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42A(1A): inserted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1A): inserted, on 1 July 2002, by [section 6][271] of the Food Amendment Act 2002 (2002 No 26).
     
-    Section 42A(1B): inserted, on 1 July 2002, by [section 6][265] of the Food Amendment Act 2002 (2002 No 26).
+    Section 42A(1B): inserted, on 1 July 2002, by [section 6][271] of the Food Amendment Act 2002 (2002 No 26).
 
 #### 
 
@@ -3523,55 +3545,57 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][266] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][267] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][272] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][273] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][268] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][269] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][274] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][275] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Food Act 2014 (2014 No 32): [section 420(1)][257]
+*   Food Act 2014 (2014 No 32): [section 420(1)][263]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][222]
+    Biosecurity (Border Processing---Trade Single Window) Amendment Act 2014 (2014 No 11): [section 16][200]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 253][239]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][228]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][208]
+    Search and Surveillance Act 2012 (2012 No 24): [section 253][245]
     
-    Environmental Protection Act 2011 (2011 No 14): [section 53(1)][263]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][214]
     
-    Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27): [section 10][200]
+    Environmental Protection Act 2011 (2011 No 14): [section 53(1)][269]
     
-    Wine Act 2003 (2003 No 114): [section 125][204]
+    Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005 (2005 No 27): [section 10][206]
     
-    Local Government Act 2002 (2002 No 84): [section 262][186]
+    Wine Act 2003 (2003 No 114): [section 125][210]
     
-    [Food Amendment Act 2002][270] (2002 No 26)
+    Local Government Act 2002 (2002 No 84): [section 262][187]
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][199]
+    [Food Amendment Act 2002][276] (2002 No 26)
     
-    [Food Amendment Act (No 2) 1996][271] (1996 No 97)
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][205]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][262]
+    [Food Amendment Act (No 2) 1996][277] (1996 No 97)
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][183]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][268]
     
-    [Food Amendment Act 1996][272] (1996 No 41)
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][184]
     
-    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][192]
+    [Food Amendment Act 1996][278] (1996 No 41)
     
-    State Sector Act 1988 (1988 No 20): [section 88(2)][191]
+    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][193]
+    
+    State Sector Act 1988 (1988 No 20): [section 88(2)][192]
     
     Milk Act 1988 (1988 No 13): section 27(1)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][241]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][247]
     
-    Health Amendment Act 1987 (1987 No 10): [section 6][185]
+    Health Amendment Act 1987 (1987 No 10): [section 6][186]
     
     Food Amendment Act 1985 (1985 No 18)
     
-    [Food Act Commencement Order 1984][172] (SR 1984/178)
+    [Food Act Commencement Order 1984][173] (SR 1984/178)
 
 
 
@@ -3590,261 +3614,267 @@ Miscellaneous provisions
 [12]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49907
 [13]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49913
 [14]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49917
-[15]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49922
-[16]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM4005120
-[17]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49924
-[18]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49926
-[19]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49931
-[20]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49933
-[21]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49934
-[22]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49936
-[23]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49938
-[24]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49939
-[25]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49942
-[26]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49944
-[27]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49945
-[28]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49947
-[29]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49949
-[30]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49951
-[31]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49953
-[32]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49955
-[33]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49957
-[34]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49959
-[35]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49961
-[36]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49962
-[37]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49964
-[38]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49966
-[39]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49968
-[40]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49970
-[41]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49972
-[42]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49974
-[43]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49976
-[44]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49978
-[45]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49979
-[46]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49981
-[47]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49983
-[48]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49985
-[49]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49987
-[50]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49989
-[51]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49990
-[52]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49993
-[53]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49995
-[54]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49997
-[55]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49999
-[56]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50100
-[57]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50102
-[58]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50104
-[59]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50106
-[60]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50108
-[61]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50110
-[62]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50111
-[63]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50113
-[64]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50114
-[65]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50116
-[66]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50118
-[67]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50120
-[68]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50122
-[69]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50124
-[70]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50126
-[71]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50127
-[72]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50129
-[73]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50130
-[74]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50132
-[75]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50133
-[76]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50136
-[77]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50138
-[78]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50140
-[79]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50141
-[80]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50143
-[81]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50145
-[82]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50147
-[83]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50149
-[84]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50151
-[85]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50153
-[86]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50155
-[87]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50157
-[88]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50159
-[89]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50161
-[90]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50164
-[91]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50165
-[92]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50167
-[93]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50168
-[94]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50170
-[95]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50172
-[96]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50175
-[97]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50177
-[98]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50182
-[99]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50184
-[100]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50185
-[101]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50187
-[102]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50188
-[103]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50190
-[104]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50192
-[105]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50194
-[106]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50195
-[107]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50197
-[108]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50198
-[109]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50700
-[110]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50702
-[111]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50704
-[112]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50706
-[113]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50708
-[114]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50710
-[115]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50711
-[116]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50713
-[117]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50715
-[118]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50716
-[119]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50718
-[120]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50721
-[121]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50723
-[122]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50724
-[123]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50737
-[124]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50739
-[125]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50741
-[126]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50743
-[127]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50745
-[128]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50747
-[129]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50749
-[130]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50751
-[131]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50753
-[132]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50755
-[133]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50757
-[134]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50759
-[135]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50761
-[136]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50763
-[137]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50764
-[138]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50768
-[139]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50772
-[140]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50778
-[141]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50779
-[142]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50781
-[143]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50783
-[144]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50787
-[145]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50789
-[146]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50791
-[147]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50792
-[148]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50793
-[149]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50795
-[150]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50798
-[151]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51304
-[152]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51305
-[153]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51307
-[154]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51310
-[155]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51312
-[156]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51314
-[157]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51316
-[158]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51320
-[159]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51323
-[160]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51324
-[161]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51326
-[162]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51329
-[163]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51331
-[164]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51332
-[165]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51333
-[166]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51334
-[167]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51336
-[168]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51337
-[169]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51338
-[170]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51340
-[171]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51353
-[172]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM98147
-[173]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM377342
-[174]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM377336
-[175]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM305839
-[176]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM378158
-[177]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM170872
-[178]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34653
-[179]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34672
-[180]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147156
-[181]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403251
-[182]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392202
-[183]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM380185
-[184]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147117
-[185]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM101379
-[186]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM174088
-[187]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392203
-[188]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM264952
-[189]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129109
-[190]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM446000
-[191]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM130375
-[192]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM295182
-[193]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147130
-[194]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147159
-[195]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403252
-[196]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM42657
-[197]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM33515
-[198]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM33501
-[199]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM36187
-[200]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338555
-[201]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222940
-[202]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222454
-[203]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222947
-[204]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM223293
-[205]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM42924
-[206]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM43734
-[207]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM172328
-[208]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3360714
-[209]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392204
-[210]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392205
-[211]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392206
-[212]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392207
-[213]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34305
-[214]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM37528
-[215]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392209
-[216]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM335699
-[217]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338874
-[218]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM297413
-[219]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338870
-[220]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2997643
-[221]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998573
-[222]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998633
-[223]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129507
-[224]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM282800
-[225]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129566
-[226]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129562
-[227]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403253
-[228]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136770
-[229]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM4355336
-[230]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136781
-[231]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136813
-[232]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136815
-[233]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136824
-[234]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136838
-[235]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136839
-[236]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136860
-[237]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136883
-[238]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392210
-[239]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136989
-[240]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392211
-[241]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM101353
-[242]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392212
-[243]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136635
-[244]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392213
-[245]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM242775
-[246]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392214
-[247]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392218
-[248]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392215
-[249]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM397220
-[250]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392216
-[251]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3360067
-[252]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392219
-[253]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392220
-[254]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392221
-[255]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392222
-[256]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392223
-[257]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2996583
-[258]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392224
-[259]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366850
-[260]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147157
-[261]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392225
-[262]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM385160
-[263]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366997
-[264]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392226
-[265]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147131
-[266]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998516
-[267]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998515
-[268]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998532
-[269]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[270]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147111
-[271]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403249
-[272]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392200
+[15]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM6168300
+[16]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49922
+[17]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM4005120
+[18]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49924
+[19]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49926
+[20]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49931
+[21]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49933
+[22]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49934
+[23]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49936
+[24]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49938
+[25]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49939
+[26]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49942
+[27]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49944
+[28]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49945
+[29]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49947
+[30]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49949
+[31]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49951
+[32]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49953
+[33]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49955
+[34]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49957
+[35]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49959
+[36]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49961
+[37]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49962
+[38]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49964
+[39]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49966
+[40]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49968
+[41]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49970
+[42]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49972
+[43]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49974
+[44]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49976
+[45]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49978
+[46]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49979
+[47]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49981
+[48]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49983
+[49]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49985
+[50]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49987
+[51]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49989
+[52]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49990
+[53]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49993
+[54]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49995
+[55]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49997
+[56]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM49999
+[57]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50100
+[58]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50102
+[59]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50104
+[60]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50106
+[61]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50108
+[62]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50110
+[63]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50111
+[64]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50113
+[65]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50114
+[66]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50116
+[67]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50118
+[68]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50120
+[69]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50122
+[70]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50124
+[71]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50126
+[72]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50127
+[73]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50129
+[74]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50130
+[75]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50132
+[76]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50133
+[77]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50136
+[78]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50138
+[79]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50140
+[80]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50141
+[81]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50143
+[82]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50145
+[83]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50147
+[84]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50149
+[85]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50151
+[86]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50153
+[87]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50155
+[88]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50157
+[89]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50159
+[90]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50161
+[91]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50164
+[92]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50165
+[93]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50167
+[94]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50168
+[95]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50170
+[96]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50172
+[97]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50175
+[98]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50177
+[99]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50182
+[100]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50184
+[101]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50185
+[102]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50187
+[103]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50188
+[104]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50190
+[105]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50192
+[106]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50194
+[107]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50195
+[108]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50197
+[109]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50198
+[110]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50700
+[111]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50702
+[112]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50704
+[113]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50706
+[114]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50708
+[115]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50710
+[116]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50711
+[117]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50713
+[118]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50715
+[119]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50716
+[120]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50718
+[121]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50721
+[122]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50723
+[123]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50724
+[124]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50737
+[125]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50739
+[126]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50741
+[127]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50743
+[128]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50745
+[129]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50747
+[130]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50749
+[131]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50751
+[132]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50753
+[133]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50755
+[134]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50757
+[135]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50759
+[136]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50761
+[137]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50763
+[138]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50764
+[139]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50768
+[140]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50772
+[141]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50778
+[142]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50779
+[143]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50781
+[144]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50783
+[145]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50787
+[146]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50789
+[147]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50791
+[148]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50792
+[149]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50793
+[150]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50795
+[151]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM50798
+[152]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51304
+[153]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51305
+[154]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51307
+[155]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51310
+[156]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51312
+[157]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51314
+[158]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51316
+[159]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51320
+[160]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51323
+[161]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51324
+[162]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51326
+[163]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51329
+[164]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51331
+[165]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51332
+[166]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51333
+[167]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51334
+[168]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51336
+[169]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51337
+[170]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51338
+[171]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51340
+[172]: http://www.legislation.govt.nz/act/public/1981/0045/latest/whole.html#DLM51353
+[173]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM98147
+[174]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM377342
+[175]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM377336
+[176]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM305839
+[177]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM378158
+[178]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM170872
+[179]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34653
+[180]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34672
+[181]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147156
+[182]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403251
+[183]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392202
+[184]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM380185
+[185]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147117
+[186]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM101379
+[187]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM174088
+[188]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392203
+[189]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM264952
+[190]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129109
+[191]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM446000
+[192]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM130375
+[193]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM295182
+[194]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147130
+[195]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147159
+[196]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM4417029
+[197]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM4417034
+[198]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM380176
+[199]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM4417002
+[200]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM5965839
+[201]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403252
+[202]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM42657
+[203]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM33515
+[204]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM33501
+[205]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM36187
+[206]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338555
+[207]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222940
+[208]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222454
+[209]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM222947
+[210]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM223293
+[211]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM42924
+[212]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM43734
+[213]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM172328
+[214]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3360714
+[215]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392204
+[216]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392205
+[217]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392206
+[218]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392207
+[219]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM34305
+[220]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM37528
+[221]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392209
+[222]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM335699
+[223]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338874
+[224]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM297413
+[225]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM338870
+[226]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2997643
+[227]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998573
+[228]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998633
+[229]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129507
+[230]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM282800
+[231]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129566
+[232]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM129562
+[233]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403253
+[234]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136770
+[235]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM4355336
+[236]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136781
+[237]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136813
+[238]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136815
+[239]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136824
+[240]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136838
+[241]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136839
+[242]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136860
+[243]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136883
+[244]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392210
+[245]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136989
+[246]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392211
+[247]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM101353
+[248]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392212
+[249]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2136635
+[250]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392213
+[251]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM242775
+[252]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392214
+[253]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392218
+[254]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392215
+[255]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM397220
+[256]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392216
+[257]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3360067
+[258]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392219
+[259]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392220
+[260]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392221
+[261]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392222
+[262]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392223
+[263]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2996583
+[264]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392224
+[265]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366850
+[266]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147157
+[267]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392225
+[268]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM385160
+[269]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM3366997
+[270]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392226
+[271]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147131
+[272]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998516
+[273]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998515
+[274]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM2998532
+[275]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[276]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM147111
+[277]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM403249
+[278]: http://www.legislation.govt.nz/act/public/1981/0045/latest/link.aspx?id=DLM392200
