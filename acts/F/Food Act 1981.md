@@ -704,7 +704,7 @@ Application and administration of Act
     
     *   (b) for the time being generally approved in writing by the Director-General.
     
-    (3) The approved form and manner referred to in subclause (2)---
+    (3) The approved form and manner referred to in subsection (2)---
         
     *   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
     
