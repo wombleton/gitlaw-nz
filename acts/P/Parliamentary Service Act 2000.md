@@ -1,5 +1,5 @@
 Reprint  
-as at 16 December 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1181,15 +1181,17 @@ Provisions applying in respect of Parliamentary Service
         
     *   (a) the audit of the Service:
     
-    *   (b) the information that is required to be provided by the Service under [section 14][137] or [section 15][138] of the Public Finance Act 1989:
+    *   (b) the information that is required to be provided by the Service under [sections 14 to 15A][137] and 15E of the Public Finance Act 1989:
     
     *   (c) the reports and information required to be prepared under the [Public Finance Act 1989][110]:
     
-    *   (d) any other matter done under, or in connection with, the Public Finance Act 1989\.
+    *   (d) any other matter done under, or in connection with, the [Public Finance Act 1989][110].
     
-    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][139] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][138] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][139] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(b): amended, on 1 July 2014, by [section 104][139] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][138] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
@@ -1493,7 +1495,7 @@ _Amendment(s) incorporated in the [Act(s)][149]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][150] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][151] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][150] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][151] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -1503,6 +1505,8 @@ _Amendment(s) incorporated in the [Act(s)][149]._
     
 *   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [sections 48--58][81]
     
+    Public Finance Amendment Act 2013 (2013 No 50): [section 104][139]
+    
     State Sector Amendment Act 2013 (2013 No 49): [section 64][136]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][108]
@@ -1511,7 +1515,7 @@ _Amendment(s) incorporated in the [Act(s)][149]._
     
     State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][129]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][139]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][138]
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][119]
     
@@ -1657,8 +1661,8 @@ _Amendment(s) incorporated in the [Act(s)][149]._
 [135]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135683
 [136]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM5205916
 [137]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161614
-[138]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161617
-[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
+[138]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
+[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM5328665
 [140]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56364
 [141]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56362
 [142]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56363
