@@ -1,5 +1,5 @@
 Reprint  
-as at 11 May 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3785,7 +3785,9 @@ Reporting
 
 ##### 74 Annual reporting of search powers
     
-*   Every annual report prepared by the Director-General for the purposes of [section 39][180] of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
+*   Every annual report prepared by the Director-General for the purposes of [section 43][180] of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
+    
+    Schedule 2 clause 74: amended, on 1 July 2014, by [section 104][181] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ## Part 7  
 Offences and penalties
@@ -3802,7 +3804,7 @@ Offences and penalties
     
     (2) Every person commits an offence who---
         
-    *   (a) fails to comply with a requirement of a NAIT officer under [clause 53][181]; and
+    *   (a) fails to comply with a requirement of a NAIT officer under [clause 53][182]; and
     
     *   (b) knows or ought reasonably to know that the person imposing the requirement is a NAIT officer.
     
@@ -3814,7 +3816,7 @@ Offences and penalties
 
 ##### 76 Offence of failing to carry out obligations in relation to computer system search
     
-*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under [clause 56][182].
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under [clause 56][183].
     
     Schedule 2 clause 76: amended, on 4 October 2013, by [regulation 3(1)][130] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
@@ -3904,7 +3906,7 @@ Offences and penalties
 
 ##### 80 Offence of failing to comply with production order
     
-*   (1) Every person commits an offence if he or she fails to comply with a production order made under [clause 16][183].
+*   (1) Every person commits an offence if he or she fails to comply with a production order made under [clause 16][184].
     
     (2) Every person who commits an offence against subclause (1) is liable on conviction,---
         
@@ -4050,7 +4052,7 @@ Offences and penalties
     
 *   (1) Every person commits an offence who fails to comply with directions given by a NAIT officer or a NAIT authorised person under---
         
-    *   (a) [clause 2][184]; or
+    *   (a) [clause 2][185]; or
     
     *   (b) [clause 5][127].
     
@@ -4068,15 +4070,15 @@ Offences and penalties
     
 *   (1) This section applies when a person is alleged to have committed an infringement offence.
     
-    (2) Proceedings may be taken against a person by serving an infringement notice on the person under [clause 87][185].
+    (2) Proceedings may be taken against a person by serving an infringement notice on the person under [clause 87][186].
     
     (3) If an infringement notice is served,---
         
-    *   (a) proceedings for an offence may be commenced in accordance with [section 21][186] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for an offence may be commenced in accordance with [section 21][187] of the Summary Proceedings Act 1957; and
     
-    *   (b) [section 21][186] of that Act applies with the necessary modifications.
+    *   (b) [section 21][187] of that Act applies with the necessary modifications.
     
-    (4) In this clause and [clauses 87 to 89][185],---
+    (4) In this clause and [clauses 87 to 89][186],---
     
     _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under this Act to be payable for the offence
     
@@ -4130,7 +4132,7 @@ Offences and penalties
         
         
     
-    (6) For the purposes of the [Summary Proceedings Act 1957][187], an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
+    (6) For the purposes of the [Summary Proceedings Act 1957][188], an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
 
 ##### 88 Form of infringement notice
     
@@ -4152,7 +4154,7 @@ Offences and penalties
     
     *   (g) a statement of what will happen if the person does not pay the infringement fee or ask for a hearing or for cancellation of the notice; and
     
-    *   (h) a summary of the provisions of [section 21(10)][186] of the Summary Proceedings Act 1957\.
+    *   (h) a summary of the provisions of [section 21(10)][187] of the Summary Proceedings Act 1957\.
     
     
 
@@ -4164,7 +4166,7 @@ Offences and penalties
 
 ##### 90 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][188] of the Criminal Procedure Act 2011, a charging document for any offence against this Act must be filed within 2 years after the date on which the matter giving rise to the charge first became known, or should have become known, to the Ministry or the NAIT organisation.
+*   Despite anything to the contrary in [section 25][189] of the Criminal Procedure Act 2011, a charging document for any offence against this Act must be filed within 2 years after the date on which the matter giving rise to the charge first became known, or should have become known, to the Ministry or the NAIT organisation.
     
     Schedule 2 clause 90 heading: replaced, on 4 October 2013, by [regulation 3(1)][130] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
@@ -4204,7 +4206,7 @@ Offences and penalties
 
 ##### 94 Defences must be notified to prosecutor
     
-*   (1) In a prosecution for an offence against [clause 82][189], [83][190], [84][191], or [85][192], it is a defence if the defendant proves---
+*   (1) In a prosecution for an offence against [clause 82][190], [83][191], [84][192], or [85][193], it is a defence if the defendant proves---
         
     *   (a) that the defendant took all reasonable steps to avoid committing the offence; or
     
@@ -4347,9 +4349,9 @@ Provisions applying where material is incorporated by reference in regulations m
 
 ##### 6 Application of Legislation Act 2012 to material incorporated by reference
     
-*   (1) [Subpart 1][193] of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
+*   (1) [Subpart 1][194] of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
     
-    (2) Nothing in [section 41][194] of the Legislation Act 2012 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
+    (2) Nothing in [section 41][195] of the Legislation Act 2012 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
     
     Schedule 3 clause 6: replaced, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
 
@@ -4368,7 +4370,7 @@ Enactments amended
 
 ##### Animal Products Act 1999 (1999 No 93)
 
-[Section 161(5)(a)(viiia)][195]: repeal and substitute:
+[Section 161(5)(a)(viiia)][196]: repeal and substitute:
 
 > *   "(viiia) the National Animal Identification and Tracing Act 2012:".
 > 
@@ -4376,25 +4378,25 @@ Enactments amended
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 2 of Schedule 1][196]: insert the following in its appropriate alphabetical order:
+[Part 2 of Schedule 1][197]: insert the following in its appropriate alphabetical order:
 
 > "National Animal Identification and Tracing Organisation".
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-[Section 2(1)][197]: definition of _wild animal_: omit ""an identification system registered under section 3 of the Animal Identification Act 1993"" from paragraph (a)(iii)(B) and substitute ""an animal identification device approved under the National Animal Identification and Tracing Act 2012"".
+[Section 2(1)][198]: definition of _wild animal_: omit ""an identification system registered under section 3 of the Animal Identification Act 1993"" from paragraph (a)(iii)(B) and substitute ""an animal identification device approved under the National Animal Identification and Tracing Act 2012"".
 
-[Section 9(2)(d)(i)][198]: repeal and substitute:
+[Section 9(2)(d)(i)][199]: repeal and substitute:
 
 > *   "(i) approved under the National Animal Identification and Tracing Act 2012; or".
 > 
 > 
 
-[Section 12(2)][199]: omit ""the branding thereof as provided for pursuant to section 3 of the Animal Identification Act 1993"" and substitute ""the identification of it under the National Animal Identification and Tracing Act 2012"".
+[Section 12(2)][200]: omit ""the branding thereof as provided for pursuant to section 3 of the Animal Identification Act 1993"" and substitute ""the identification of it under the National Animal Identification and Tracing Act 2012"".
 
-[Section 12A(8)][200]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
+[Section 12A(8)][201]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
 
-[Section 12B(4)][201]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
+[Section 12B(4)][202]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
 
 #### 
 
@@ -4408,17 +4410,19 @@ Enactments amended
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][202] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][203] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][203] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][204] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][204] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][205] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][205] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][206] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Telecommunications (Interception Capability and Security) Act 2013 (2013 No 91): [section 123][125]
     
     Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][130]
+    
+    Public Finance Amendment Act 2013 (2013 No 50): [section 104][181]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][117]
     
@@ -4608,29 +4612,30 @@ Enactments amended
 [177]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748532
 [178]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748527
 [179]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748533
-[180]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM162412
-[181]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748509
-[182]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748514
-[183]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748461
-[184]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748437
-[185]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748557
-[186]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM311346
-[187]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM310742
-[188]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM3360067
-[189]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748547
-[190]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748548
-[191]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748549
-[192]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748550
-[193]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2997694
-[194]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998573
-[195]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM36101
-[196]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM431744
-[197]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16628
-[198]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16998
-[199]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17209
-[200]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17227
-[201]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17235
-[202]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998516
-[203]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998515
-[204]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998532
-[205]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[180]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM162464
+[181]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM5328665
+[182]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748509
+[183]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748514
+[184]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748461
+[185]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748437
+[186]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748557
+[187]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM311346
+[188]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM310742
+[189]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM3360067
+[190]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748547
+[191]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748548
+[192]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748549
+[193]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748550
+[194]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2997694
+[195]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998573
+[196]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM36101
+[197]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM431744
+[198]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16628
+[199]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16998
+[200]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17209
+[201]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17227
+[202]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17235
+[203]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998516
+[204]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998515
+[205]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998532
+[206]: http://www.pco.parliament.govt.nz/editorial-conventions/
