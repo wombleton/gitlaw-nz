@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 24 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -40,520 +40,522 @@ This Act is administered by the Ministry for Primary Industries.
 
 [6][8][][8][References to this Act include references to Animal Products (Ancillary and Transitional Provisions) Act 1999, etc][8]
 
-[Application of Act generally][9]
+[6A][9][][9][Border information supplied using JBMS must be supplied in approved form and manner][9]
 
-[7][10][][10][Products and material to which Act generally applies][10]
+[Application of Act generally][10]
 
-[8][11][][11][Products and material excluded from ambit of Act][11]
+[7][11][][11][Products and material to which Act generally applies][11]
 
-[9][12][][12][Exemptions from ambit of Act by Order in Council][12]
+[8][12][][12][Products and material excluded from ambit of Act][12]
 
-[10][13][][13][Application of Act includes exclusive economic zone][13]
+[9][13][][13][Exemptions from ambit of Act by Order in Council][13]
 
-[Part 2][14]  
-[Risk management programmes][14]
+[10][14][][14][Application of Act includes exclusive economic zone][14]
 
-[11][15][][15][Object of this Part][15]
+[Part 2][15]  
+[Risk management programmes][15]
 
-[12][16][][16][What is a risk management programme?][16]
+[11][16][][16][Object of this Part][16]
 
-[13][17][][17][Who must have a risk management programme?][17]
+[12][17][][17][What is a risk management programme?][17]
 
-[14][18][][18][Director-General may grant limited exemption from requirement to have risk management programme][18]
+[13][18][][18][Who must have a risk management programme?][18]
 
-[15][19][][19][Certain persons may be required to have risk management programme by Order in Council][19]
+[14][19][][19][Director-General may grant limited exemption from requirement to have risk management programme][19]
 
-[16][20][][20][Duties of operators of risk management programmes][20]
+[15][20][][20][Certain persons may be required to have risk management programme by Order in Council][20]
 
-[17][21][][21][Contents of and requirements for risk management programmes][21]
+[16][21][][21][Duties of operators of risk management programmes][21]
 
-[17A][22][][22][Multi-business risk management programmes][22]
+[17][22][][22][Contents of and requirements for risk management programmes][22]
 
-[Registration of risk management programmes][23]
+[17A][23][][23][Multi-business risk management programmes][23]
 
-[18][24][][24][Register of risk management programmes][24]
+[Registration of risk management programmes][24]
 
-[19][25][][25][Matters to be shown in register of risk management programmes][25]
+[18][25][][25][Register of risk management programmes][25]
 
-[20][26][][26][Applications for registration of programmes][26]
+[19][26][][26][Matters to be shown in register of risk management programmes][26]
 
-[21][27][][27][Director-General may require further information][27]
+[20][27][][27][Applications for registration of programmes][27]
 
-[22][28][][28][Registration of risk management programme][28]
+[21][28][][28][Director-General may require further information][28]
 
-[23][29][][29][Refusal to register programme][29]
+[22][29][][29][Registration of risk management programme][29]
 
-[24][30][][30][Registration may not be transferred][30]
+[23][30][][30][Refusal to register programme][30]
 
-[25][31][][31][Significant amendments to risk management programme][31]
+[24][31][][31][Registration may not be transferred][31]
 
-[26][32][][32][Updates of minor amendments to risk management programmes][32]
+[25][32][][32][Significant amendments to risk management programme][32]
 
-[27][33][][33][Suspension of operations under registered programme][33]
+[26][33][][33][Updates of minor amendments to risk management programmes][33]
 
-[28][34][][34][Deregistration of risk management programme][34]
+[27][34][][34][Suspension of operations under registered programme][34]
 
-[28A][35][][35][Removal of animal product business from coverage of wider risk management programme][35]
+[28][35][][35][Deregistration of risk management programme][35]
 
-[29][36][][36][Surrender of registration][36]
+[28A][36][][36][Removal of animal product business from coverage of wider risk management programme][36]
 
-[30][37][][37][Risk management programme in conflict with regulations or specifications][37]
+[29][37][][37][Surrender of registration][37]
 
-[Relationship between Food Act regime and risk management programmes][38]
+[30][38][][38][Risk management programme in conflict with regulations or specifications][38]
 
-[31][39][][39][Object of sections 32 to 34][39]
+[Relationship between Food Act regime and risk management programmes][39]
 
-[32][40][][40][Secondary processors of animal products which are food may elect to operate under risk management programme][40]
+[31][40][][40][Object of sections 32 to 34][40]
 
-[33][41][][41][Implications of failure to elect in case of animal product which is food whose export requires an official assurance][41]
+[32][41][][41][Secondary processors of animal products which are food may elect to operate under risk management programme][41]
 
-[34][42][][42][Alternate or intermittent use of risk management programmes and food safety programmes][42]
+[33][42][][42][Implications of failure to elect in case of animal product which is food whose export requires an official assurance][42]
 
-[References to recognised risk management programme verifying agency][43]
+[34][43][][43][Alternate or intermittent use of risk management programmes and food safety programmes][43]
 
-[35][44][][44][References to recognised risk management programme verifying agency][44]
+[References to recognised risk management programme verifying agency][44]
 
-[36][45][][45][Director-General may require notification by recognised agency of termination of contracts][45] \[Repealed\]
+[35][45][][45][References to recognised risk management programme verifying agency][45]
 
-[Part 3][46]  
-[Regulated control schemes][46]
+[36][46][][46][Director-General may require notification by recognised agency of termination of contracts][46] \[Repealed\]
 
-[37][47][][47][Object of this Part][47]
+[Part 3][47]  
+[Regulated control schemes][47]
 
-[38][48][][48][Nature of regulated control schemes][48]
+[37][48][][48][Object of this Part][48]
 
-[39][49][][49][Scope of regulated control schemes][49]
+[38][49][][49][Nature of regulated control schemes][49]
 
-[40][50][][50][Director-General may set specifications and other requirements for purposes of regulated control schemes][50]
+[39][50][][50][Scope of regulated control schemes][50]
 
-[41][51][][51][Emergency control schemes][51]
+[40][51][][51][Director-General may set specifications and other requirements for purposes of regulated control schemes][51]
 
-[Part 4][52]  
-[Animal product standards and specifications][52]
+[41][52][][52][Emergency control schemes][52]
 
-[42][53][][53][Object of this Part][53]
+[Part 4][53]  
+[Animal product standards and specifications][53]
 
-[43][54][][54][Application of standards and specifications][54]
+[42][54][][54][Object of this Part][54]
 
-[44][55][][55][Regulations may prescribe animal product standards][55]
+[43][55][][55][Application of standards and specifications][55]
 
-[45][56][][56][Director-General may issue specifications supplementary to animal product standards][56]
+[44][56][][56][Regulations may prescribe animal product standards][56]
 
-[46][57][][57][Emergency animal product standards and specifications][57]
+[45][57][][57][Director-General may issue specifications supplementary to animal product standards][57]
 
-[Part 5][58]  
-[Export of animal material and products][58]
+[46][58][][58][Emergency animal product standards and specifications][58]
 
-[47][59][][59][Object of this Part][59]
+[Part 5][59]  
+[Export of animal material and products][59]
 
-[48][60][][60][Exporters of animal products for human or animal consumption, and certain other animal material and products, must be registered][60]
+[47][60][][60][Object of this Part][60]
 
-[49][61][][61][Registration of exporters of non-edible, etc, material or products may be required by Order in Council][61]
+[48][61][][61][Exporters of animal products for human or animal consumption, and certain other animal material and products, must be registered][61]
 
-[50][62][][62][Director-General may exempt certain consignments][62]
+[49][62][][62][Registration of exporters of non-edible, etc, material or products may be required by Order in Council][62]
 
-[51][63][][63][Duties of exporters][63]
+[50][63][][63][Director-General may exempt certain consignments][63]
 
-[Registration of exporters][64]
+[51][64][][64][Duties of exporters][64]
 
-[52][65][][65][Director-General to maintain register of exporters][65]
+[Registration of exporters][65]
 
-[53][66][][66][Matters to be shown in register of exporters][66]
+[52][66][][66][Director-General to maintain register of exporters][66]
 
-[54][67][][67][Applications for registration][67]
+[53][67][][67][Matters to be shown in register of exporters][67]
 
-[55][68][][68][Registration as exporter][68]
+[54][68][][68][Applications for registration][68]
 
-[56][69][][69][Refusal to register][69]
+[55][69][][69][Registration as exporter][69]
 
-[57][70][][70][Annual registration fee payable][70]
+[56][70][][70][Refusal to register][70]
 
-[58][71][][71][Deregistration of exporters][71]
+[57][71][][71][Annual registration fee payable][71]
 
-[59][72][][72][Refusal to register or decision to deregister may be reviewed in certain cases][72]
+[58][72][][72][Deregistration of exporters][72]
 
-[Export requirements and official assurances][73]
+[59][73][][73][Refusal to register or decision to deregister may be reviewed in certain cases][73]
 
-[59A][74][][74][Director-General to notify general requirements for animal product or material for export][74] \[Repealed\]
+[Export requirements and official assurances][74]
 
-[60][75][][75][Export requirements][75]
+[59A][75][][75][Director-General to notify general requirements for animal product or material for export][75] \[Repealed\]
 
-[60A][76][][76][Director-General to notify or make available export requirements][76]
+[60][76][][76][Export requirements][76]
 
-[60B][77][][77][Exemption from requirements of food standards where appropriate][77]
+[60A][77][][77][Director-General to notify or make available export requirements][77]
 
-[61][78][][78][Director-General may issue official assurances][78]
+[60B][78][][78][Exemption from requirements of food standards where appropriate][78]
 
-[61A][79][][79][No Crown liability][79]
+[61][79][][79][Director-General may issue official assurances][79]
 
-[62][80][][80][Form and content of official assurance][80]
+[61A][80][][80][No Crown liability][80]
 
-[63][81][][81][Obtaining of official assurance][81]
+[62][81][][81][Form and content of official assurance][81]
 
-[64][82][][82][Official assurance may be withdrawn, and reissued][82]
+[63][82][][82][Obtaining of official assurance][82]
 
-[65][83][][83][Persons who may be authorised to issue official assurances][83]
+[64][83][][83][Official assurance may be withdrawn, and reissued][83]
 
-[Part 5A][84]  
-[Game estates][84]
+[65][84][][84][Persons who may be authorised to issue official assurances][84]
 
-[65A][85][][85][Object of this Part][85]
+[Part 5A][85]  
+[Game estates][85]
 
-[65B][86][][86][What is a game estate?][86]
+[65A][86][][86][Object of this Part][86]
 
-[65C][87][][87][Use and disposal of animal material and product from game estate animals][87]
+[65B][87][][87][What is a game estate?][87]
 
-[65D][88][][88][Game estates that must be listed][88]
+[65C][88][][88][Use and disposal of animal material and product from game estate animals][88]
 
-[65E][89][][89][Director-General to maintain list of game estates][89]
+[65D][89][][89][Game estates that must be listed][89]
 
-[65F][90][][90][Matters to be shown in list of game estates][90]
+[65E][90][][90][Director-General to maintain list of game estates][90]
 
-[65G][91][][91][Applications for listing][91]
+[65F][91][][91][Matters to be shown in list of game estates][91]
 
-[65H][92][][92][Listing as game estate][92]
+[65G][92][][92][Applications for listing][92]
 
-[65I][93][][93][Refusal to list][93]
+[65H][93][][93][Listing as game estate][93]
 
-[65J][94][][94][Delisting][94]
+[65I][94][][94][Refusal to list][94]
 
-[65K][95][][95][Review of decision to refuse to list, or to delist][95]
+[65J][95][][95][Delisting][95]
 
-[65L][96][][96][Listing fee payable][96]
+[65K][96][][96][Review of decision to refuse to list, or to delist][96]
 
-[Part 6][97]  
-[Homekill and recreational catch][97]
+[65L][97][][97][Listing fee payable][97]
 
-[66][98][][98][Object of this Part][98]
+[Part 6][98]  
+[Homekill and recreational catch][98]
 
-[67][99][][99][Homekill allowed][99]
+[66][99][][99][Object of this Part][99]
 
-[68][100][][100][Processing of recreational catch][100]
+[67][100][][100][Homekill allowed][100]
 
-[69][101][][101][Homekill and recreational catch service providers][101]
+[68][101][][101][Processing of recreational catch][101]
 
-[70][102][][102][Limitation on regulated animal product and homekill or recreational catch operations being carried out at same premises or place][102]
+[69][102][][102][Homekill and recreational catch service providers][102]
 
-[71][103][][103][Requirements for dual operator butchers][103]
+[70][103][][103][Limitation on regulated animal product and homekill or recreational catch operations being carried out at same premises or place][103]
 
-[72][104][][104][Product processed by homekill or recreational catch service provider ceases to be regulated animal product][104]
+[71][104][][104][Requirements for dual operator butchers][104]
 
-[Listing of homekill and recreational catch service providers][105]
+[72][105][][105][Product processed by homekill or recreational catch service provider ceases to be regulated animal product][105]
 
-[73][106][][106][Director-General to maintain list of homekill and recreational catch service providers][106]
+[Listing of homekill and recreational catch service providers][106]
 
-[74][107][][107][Matters to be shown in list of homekill and recreational catch service providers][107]
+[73][107][][107][Director-General to maintain list of homekill and recreational catch service providers][107]
 
-[75][108][][108][Applications for listing][108]
+[74][108][][108][Matters to be shown in list of homekill and recreational catch service providers][108]
 
-[76][109][][109][Listing as homekill or recreational catch service provider][109]
+[75][109][][109][Applications for listing][109]
 
-[77][110][][110][Annual listing fee payable][110]
+[76][110][][110][Listing as homekill or recreational catch service provider][110]
 
-[Part 7][111]  
-[Officers, powers, etc][111]
+[77][111][][111][Annual listing fee payable][111]
 
-[Appointment of officers][112]
+[Part 7][112]  
+[Officers, powers, etc][112]
 
-[78][113][][113][Appointment of animal product officers][113]
+[Appointment of officers][113]
 
-[79][114][][114][Appointment of official assessors][114]
+[78][114][][114][Appointment of animal product officers][114]
 
-[Powers of Director-General][115]
+[79][115][][115][Appointment of official assessors][115]
 
-[80][116][][116][Director-General may issue notices][116]
+[Powers of Director-General][116]
 
-[81][117][][117][Director-General may give directions][117]
+[80][117][][117][Director-General may issue notices][117]
 
-[81A][118][][118][Director-General may require declarations as to supply or movement of animals, animal material, or animal products][118]
+[81][118][][118][Director-General may give directions][118]
 
-[81B][119][][119][Director-General may impose movement and related controls][119]
+[81A][119][][119][Director-General may require declarations as to supply or movement of animals, animal material, or animal products][119]
 
-[82][120][][120][Power to direct disposal, etc, of animal material or product in certain circumstances][120]
+[81B][120][][120][Director-General may impose movement and related controls][120]
 
-[83][121][][121][Director-General may give statements as to New Zealand animal product standard][121]
+[82][121][][121][Power to direct disposal, etc, of animal material or product in certain circumstances][121]
 
-[84][122][][122][Privileged statements by Director-General][122]
+[83][122][][122][Director-General may give statements as to New Zealand animal product standard][122]
 
-[85][123][][123][Recall of animal material and animal product][123]
+[84][123][][123][Privileged statements by Director-General][123]
 
-[86][124][][124][Delegation by Director-General][124]
+[85][124][][124][Recall of animal material and animal product][124]
 
-[Powers of animal product officers][125]
+[86][125][][125][Delegation by Director-General][125]
 
-[87][126][][126][Power of entry][126]
+[Powers of animal product officers][126]
 
-[88][127][][127][Power to examine, etc][127]
+[87][127][][127][Power of entry][127]
 
-[89][128][][128][Power to interrupt operations, etc][128]
+[88][128][][128][Power to examine, etc][128]
 
-[90][129][][129][Power to condemn and require disposal of animal products that are diseased, contaminated, etc][129]
+[89][129][][129][Power to interrupt operations, etc][129]
 
-[91][130][][130][Power to require presentation of live animals][130]
+[90][130][][130][Power to condemn and require disposal of animal products that are diseased, contaminated, etc][130]
 
-[91A][131][][131][Disposal of seized animals prior to commencement or determination of proceedings][131]
+[91][131][][131][Power to require presentation of live animals][131]
 
-[92][132][][132][Powers under search warrant][132] \[Repealed\]
+[91A][132][][132][Disposal of seized animals prior to commencement or determination of proceedings][132]
 
-[Powers of official assessors][133]
+[92][133][][133][Powers under search warrant][133] \[Repealed\]
 
-[93][134][][134][Powers of official assessors][134]
+[Powers of official assessors][134]
 
-[Search warrants][135]
+[93][135][][135][Powers of official assessors][135]
 
-[94][136][][136][Issue of search warrant][136]
+[Search warrants][136]
 
-[95][137][][137][Powers of Police and animal product officers under warrant][137]
+[94][137][][137][Issue of search warrant][137]
 
-[96][138][][138][Requirements when executing warrant][138]
+[95][138][][138][Powers of Police and animal product officers under warrant][138]
 
-[97][139][][139][Disposal of property seized under search warrant][139]
+[96][139][][139][Requirements when executing warrant][139]
 
-[General provisions][140]
+[97][140][][140][Disposal of property seized under search warrant][140]
 
-[98][141][][141][Protection of persons acting under authority of Act, etc][141]
+[General provisions][141]
 
-[Part 8][142]  
-[Recognised agencies, persons, and classes of persons][142]
+[98][142][][142][Protection of persons acting under authority of Act, etc][142]
 
-[99][143][][143][Outline of this Part][143]
+[Part 8][143]  
+[Recognised agencies, persons, and classes of persons][143]
 
-[100][144][][144][Interpretation][144]
+[99][144][][144][Outline of this Part][144]
 
-[Recognition of agencies, persons, and classes of persons][145]
+[100][145][][145][Interpretation][145]
 
-[101][146][][146][Recognition of agencies][146]
+[Recognition of agencies, persons, and classes of persons][146]
 
-[102][147][][147][Recognition of certain agencies without application][147]
+[101][147][][147][Recognition of agencies][147]
 
-[103][148][][148][Recognition of persons][148]
+[102][148][][148][Recognition of certain agencies without application][148]
 
-[104][149][][149][Recognition of certain persons without application][149]
+[103][149][][149][Recognition of persons][149]
 
-[105][150][][150][Recognition of classes of persons][150]
+[104][150][][150][Recognition of certain persons without application][150]
 
-[106][151][][151][Interrelationship between sections 101 to 105][151]
+[105][151][][151][Recognition of classes of persons][151]
 
-[Recognition process][152]
+[106][152][][152][Interrelationship between sections 101 to 105][152]
 
-[107][153][][153][Application for recognition][153]
+[Recognition process][153]
 
-[108][154][][154][Director-General may require further information][154]
+[107][154][][154][Application for recognition][154]
 
-[109][155][][155][Proposal to refuse application to recognise agency, person, or class of persons][155]
+[108][155][][155][Director-General may require further information][155]
 
-[110][156][][156][Proposal to exclude members, or categories of members, from recognition of class][156]
+[109][156][][156][Proposal to refuse application to recognise agency, person, or class of persons][156]
 
-[111][157][][157][Director-General may impose or vary conditions of recognition][157]
+[110][157][][157][Proposal to exclude members, or categories of members, from recognition of class][157]
 
-[112][158][][158][Grant of recognition][158]
+[111][158][][158][Director-General may impose or vary conditions of recognition][158]
 
-[112A][159][][159][Scope, effect, and transfer of recognition][159]
+[112][159][][159][Grant of recognition][159]
 
-[112B][160][][160][Duration of recognition][160]
+[112A][160][][160][Scope, effect, and transfer of recognition][160]
 
-[112C][161][][161][Renewal of recognition before expiry][161]
+[112B][161][][161][Duration of recognition][161]
 
-[112D][162][][162][Application for renewal of recognition][162]
+[112C][162][][162][Renewal of recognition before expiry][162]
 
-[112E][163][][163][Substituted notice of recognition][163]
+[112D][163][][163][Application for renewal of recognition][163]
 
-[112F][164][][164][Ongoing recognition fees, charges, or levies][164]
+[112E][164][][164][Substituted notice of recognition][164]
 
-[Performance of specified functions and activities][165]
+[112F][165][][165][Ongoing recognition fees, charges, or levies][165]
 
-[112G][166][][166][Duties of recognised agencies][166]
+[Performance of specified functions and activities][166]
 
-[112H][167][][167][Duties of recognised persons][167]
+[112G][167][][167][Duties of recognised agencies][167]
 
-[112I][168][][168][Recognised agency or person may act in other capacities][168]
+[112H][168][][168][Duties of recognised persons][168]
 
-[Suspension of recognition][169]
+[112I][169][][169][Recognised agency or person may act in other capacities][169]
 
-[112J][170][][170][Suspension of recognition of recognised agency, recognised person, or recognised class][170]
+[Suspension of recognition][170]
 
-[112K][171][][171][Director-General may extend suspension of recognition][171]
+[112J][171][][171][Suspension of recognition of recognised agency, recognised person, or recognised class][171]
 
-[112L][172][][172][Method of suspension of recognition][172]
+[112K][172][][172][Director-General may extend suspension of recognition][172]
 
-[112M][173][][173][Suspension does not limit other actions][173]
+[112L][173][][173][Method of suspension of recognition][173]
 
-[Withdrawal of recognition][174]
+[112M][174][][174][Suspension does not limit other actions][174]
 
-[112N][175][][175][Withdrawal of recognition of recognised agency or recognised person][175]
+[Withdrawal of recognition][175]
 
-[112O][176][][176][Withdrawal of recognition of recognised class][176]
+[112N][176][][176][Withdrawal of recognition of recognised agency or recognised person][176]
 
-[112P][177][][177][Method of withdrawal of recognition][177]
+[112O][177][][177][Withdrawal of recognition of recognised class][177]
 
-[Surrender of recognition][178]
+[112P][178][][178][Method of withdrawal of recognition][178]
 
-[112Q][179][][179][Surrender of recognition][179]
+[Surrender of recognition][179]
 
-[112R][180][][180][Effective date of surrender of recognition][180]
+[112Q][180][][180][Surrender of recognition][180]
 
-[Public register of recognised agencies, recognised persons, and recognised classes][181]
+[112R][181][][181][Effective date of surrender of recognition][181]
 
-[112S][182][][182][Public register of recognised agencies, recognised persons, and recognised classes to be kept][182]
+[Public register of recognised agencies, recognised persons, and recognised classes][182]
 
-[112T][183][][183][Contents of public register][183]
+[112S][183][][183][Public register of recognised agencies, recognised persons, and recognised classes to be kept][183]
 
-[112U][184][][184][Inspection of public register][184]
+[112T][184][][184][Contents of public register][184]
 
-[112V][185][][185][Removal from public register][185]
+[112U][185][][185][Inspection of public register][185]
 
-[Miscellaneous matters][186]
+[112V][186][][186][Removal from public register][186]
 
-[112W][187][][187][Notification to category or class of persons][187]
+[Miscellaneous matters][187]
 
-[112X][188][][188][Means of consultation][188]
+[112W][188][][188][Notification to category or class of persons][188]
 
-[112Y][189][][189][Director-General may require notification of termination of contracts][189]
+[112X][189][][189][Means of consultation][189]
 
-[112Z][190][][190][Director-General must consider exemption, waiver, or refund of fees][190]
+[112Y][190][][190][Director-General may require notification of termination of contracts][190]
 
-[Part 9][191]  
-[Cost recovery][191]
+[112Z][191][][191][Director-General must consider exemption, waiver, or refund of fees][191]
 
-[113][192][][192][Principles of cost recovery][192]
+[Part 9][192]  
+[Cost recovery][192]
 
-[114][193][][193][Methods of cost recovery][193]
+[113][193][][193][Principles of cost recovery][193]
 
-[115][194][][194][Cost recovery to relate generally to a financial year][194]
+[114][194][][194][Methods of cost recovery][194]
 
-[115A][195][][195][Application of section 115(1) to assurances in respect of export licences issued under Dairy Industry Restructuring Act 2001][195]
+[115][195][][195][Cost recovery to relate generally to a financial year][195]
 
-[116][196][][196][Three-yearly review of cost recovery][196]
+[115A][196][][196][Application of section 115(1) to assurances in respect of export licences issued under Dairy Industry Restructuring Act 2001][196]
 
-[117][197][][197][Fees and charges to be prescribed by regulations][197]
+[116][197][][197][Three-yearly review of cost recovery][197]
 
-[118][198][][198][Regulations may impose levies][198]
+[117][198][][198][Fees and charges to be prescribed by regulations][198]
 
-[119][199][][199][Trust accounts required to be kept by persons collecting levies][199]
+[118][199][][199][Regulations may impose levies][199]
 
-[120][200][][200][Other charges not requiring to be prescribed][200]
+[119][200][][200][Trust accounts required to be kept by persons collecting levies][200]
 
-[121][201][][201][Exemptions, waivers, and refunds][201]
+[120][201][][201][Other charges not requiring to be prescribed][201]
 
-[122][202][][202][Fees, levies, and charges to constitute debt due to Director-General][202]
+[121][202][][202][Exemptions, waivers, and refunds][202]
 
-[123][203][][203][Penalties for failure to pay fee, levy, or charge][203]
+[122][203][][203][Fees, levies, and charges to constitute debt due to Director-General][203]
 
-[124][204][][204][Obligation to pay fee, levy, or charge not suspended by dispute][204]
+[123][204][][204][Penalties for failure to pay fee, levy, or charge][204]
 
-[125][205][][205][Levy regulations to be confirmed][205]
+[124][205][][205][Obligation to pay fee, levy, or charge not suspended by dispute][205]
 
-[Part 10][206]  
-[Offences, penalties, and proceedings][206]
+[125][206][][206][Levy regulations to be confirmed][206]
 
-[126][207][][207][Offences involving endangerment of human or animal health][207]
+[Part 10][207]  
+[Offences, penalties, and proceedings][207]
 
-[127][208][][208][Offences involving deception][208]
+[126][208][][208][Offences involving endangerment of human or animal health][208]
 
-[128][209][][209][Sale of non-complying animal material or product][209]
+[127][209][][209][Offences involving deception][209]
 
-[129][210][][210][Presenting non-complying animal material for processing][210]
+[128][210][][210][Sale of non-complying animal material or product][210]
 
-[130][211][][211][Offence to export unless registered][211]
+[129][211][][211][Presenting non-complying animal material for processing][211]
 
-[131][212][][212][Offences in relation to homekill and recreational catch][212]
+[130][212][][212][Offence to export unless registered][212]
 
-[132][213][][213][Breach of compliance order][213]
+[131][213][][213][Offences in relation to homekill and recreational catch][213]
 
-[133][214][][214][Obstruction of officers, etc][214]
+[132][214][][214][Breach of compliance order][214]
 
-[134][215][][215][Offence of breach of duty][215]
+[133][215][][215][Obstruction of officers, etc][215]
 
-[135][216][][216][Failure to comply with Act, etc][216]
+[134][216][][216][Offence of breach of duty][216]
 
-[136][217][][217][Defence for persons charged with breach of duty or failure to comply][217]
+[135][217][][217][Failure to comply with Act, etc][217]
 
-[137][218][][218][Presumptions as to dual operator butchers][218]
+[136][218][][218][Defence for persons charged with breach of duty or failure to comply][218]
 
-[138][219][][219][Presumption as to possession for sale, etc][219]
+[137][219][][219][Presumptions as to dual operator butchers][219]
 
-[139][220][][220][Proof of compliance with Act][220]
+[138][220][][220][Presumption as to possession for sale, etc][220]
 
-[140][221][][221][Evidence in proceedings][221]
+[139][221][][221][Proof of compliance with Act][221]
 
-[141][222][][222][Presumption as to authority][222]
+[140][222][][222][Evidence in proceedings][222]
 
-[142][223][][223][Liability of body corporate][223]
+[141][223][][223][Presumption as to authority][223]
 
-[143][224][][224][Liability of directors and managers of companies][224]
+[142][224][][224][Liability of body corporate][224]
 
-[144][225][][225][Liability of companies and persons for actions of agent or employee][225]
+[143][225][][225][Liability of directors and managers of companies][225]
 
-[145][226][][226][Time limit for filing charging document for offence against section 129 or 135][226]
+[144][226][][226][Liability of companies and persons for actions of agent or employee][226]
 
-[Compliance orders][227]
+[145][227][][227][Time limit for filing charging document for offence against section 129 or 135][227]
 
-[146][228][][228][Compliance orders][228]
+[Compliance orders][228]
 
-[147][229][][229][Application for compliance order][229]
+[146][229][][229][Compliance orders][229]
 
-[148][230][][230][Notification of application][230]
+[147][230][][230][Application for compliance order][230]
 
-[149][231][][231][Right to be heard][231]
+[148][231][][231][Notification of application][231]
 
-[150][232][][232][Decision on application][232]
+[149][232][][232][Right to be heard][232]
 
-[151][233][][233][Interim compliance orders][233]
+[150][233][][233][Decision on application][233]
 
-[152][234][][234][Change or cancellation of compliance order][234]
+[151][234][][234][Interim compliance orders][234]
 
-[153][235][][235][Compliance with compliance order][235]
+[152][235][][235][Change or cancellation of compliance order][235]
 
-[154][236][][236][Appeals to High Court][236]
+[153][236][][236][Compliance with compliance order][236]
 
-[155][237][][237][Appeals to Court of Appeal or Supreme Court][237]
+[154][237][][237][Appeals to High Court][237]
 
-[156][238][][238][Effect of appeal][238]
+[155][238][][238][Appeals to Court of Appeal or Supreme Court][238]
 
-[157][239][][239][Rules of court][239]
+[156][239][][239][Effect of appeal][239]
 
-[Part 11][240]  
-[Miscellaneous provisions][240]
+[157][240][][240][Rules of court][240]
 
-[Identification and related systems][241]
+[Part 11][241]  
+[Miscellaneous provisions][241]
 
-[158][242][][242][Identification systems and devices][242]
+[Identification and related systems][242]
 
-[Recordkeeping requirements and use of information][243]
+[158][243][][243][Identification systems and devices][243]
 
-[159][244][][244][Records and returns][244]
+[Recordkeeping requirements and use of information][244]
 
-[160][245][][245][Records to be available for inspection, etc][245]
+[159][245][][245][Records and returns][245]
 
-[161][246][][246][Disclosure of information for purpose of ensuring product safety, etc][246]
+[160][246][][246][Records to be available for inspection, etc][246]
 
-[Right of review][247]
+[161][247][][247][Disclosure of information for purpose of ensuring product safety, etc][247]
 
-[162][248][][248][Right of review of certain decisions made under delegated authority][248]
+[Right of review][248]
 
-[Consultation, notification, etc][249]
+[162][249][][249][Right of review of certain decisions made under delegated authority][249]
 
-[163][250][][250][Consultation requirements for making of certain Orders in Council, specifications, etc][250]
+[Consultation, notification, etc][250]
 
-[164][251][][251][Notification of certain matters][251]
+[163][251][][251][Consultation requirements for making of certain Orders in Council, specifications, etc][251]
 
-[165][252][][252][Service of individual notices, etc][252]
+[164][252][][252][Notification of certain matters][252]
 
-[165A][253][][253][Directions, etc, to non-Ministry persons with functions under Act][253]
+[165][253][][253][Service of individual notices, etc][253]
 
-[Regulations, notices, etc][254]
+[165A][254][][254][Directions, etc, to non-Ministry persons with functions under Act][254]
 
-[166][255][][255][Regulations][255]
+[Regulations, notices, etc][255]
 
-[167][256][][256][Notices][256]
+[166][256][][256][Regulations][256]
 
-[168][257][][257][Incorporation of material by reference into regulations, notices, and orders][257]
+[167][257][][257][Notices][257]
 
-[Repeals, amendments, and transitional provisions][258]
+[168][258][][258][Incorporation of material by reference into regulations, notices, and orders][258]
 
-[169][259][][259][Repeals, amendments, and transitional provisions appear in Animal Products (Ancillary and Transitional Provisions) Act 1999][259]
+[Repeals, amendments, and transitional provisions][259]
 
-[Schedule][260]  
+[169][260][][260][Repeals, amendments, and transitional provisions appear in Animal Products (Ancillary and Transitional Provisions) Act 1999][260]
+
+[Schedule][261]  
 
 \[Repealed\]
 
@@ -561,27 +563,27 @@ This Act is administered by the Ministry for Primary Industries.
 
 An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
     
-*   Title: amended, on 1 June 2005, by [section 3][261] of the Animal Products Amendment Act 2005 (2005 No 26).
+*   Title: amended, on 1 June 2005, by [section 3][262] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ##### 1 Short Title and commencement
     
 *   (1) This Act may be cited as the Animal Products Act 1999\.
     
-    (2) This Act comes into force on 1 November 1999, except for [Part 2][14].
+    (2) This Act comes into force on 1 November 1999, except for [Part 2][15].
     
-    (3) [Part 2][14] comes into force on such date or dates as may be appointed by Order in Council, and for this purpose---
+    (3) [Part 2][15] comes into force on such date or dates as may be appointed by Order in Council, and for this purpose---
         
     *   (a) different dates may be appointed for different provisions; and
     
     *   (b) different dates may be appointed for different classes of animal material or products, animal product businesses, operations, or other purposes.
     
-    (4) To the extent not previously brought into force under subsection (3), [Part 2][14] comes into force on 1 November 2002\.
+    (4) To the extent not previously brought into force under subsection (3), [Part 2][15] comes into force on 1 November 2002\.
     
-    (5) The application of any provision brought into force by or under this section may, until 1 July 2006, be subject to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][262].
+    (5) The application of any provision brought into force by or under this section may, until 1 July 2006, be subject to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][263].
     
-    Section 1(3): Part 2 brought into force, on 20 November 2000, by the [Animal Products Act Commencement Order 2000][263] (SR 2000/206).
+    Section 1(3): Part 2 brought into force, on 20 November 2000, by the [Animal Products Act Commencement Order 2000][264] (SR 2000/206).
     
-    Section 1(5): amended, on 26 September 2002, by [section 3][264] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 1(5): amended, on 26 September 2002, by [section 3][265] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ## Part 1  
 Preliminary provisions
@@ -602,7 +604,7 @@ Preliminary provisions
         
     *   (a) _Individual risk management programmes_
         
-        [Part 2][14] generally requires all primary processors of animal material and products, and certain secondary processors of animal products for human or animal consumption, to operate under registered and independently verified risk management programmes suitable to their own particular animal material, products, and operations, unless and to the extent that such a programme is deemed unnecessary by reason of---
+        [Part 2][15] generally requires all primary processors of animal material and products, and certain secondary processors of animal products for human or animal consumption, to operate under registered and independently verified risk management programmes suitable to their own particular animal material, products, and operations, unless and to the extent that such a programme is deemed unnecessary by reason of---
             
         *   (i) the negligible degree of risk associated with the relevant animal material, product, operations, or intended product use; or
         
@@ -612,15 +614,15 @@ Preliminary provisions
     
     *   (b) _Regulated control schemes_
         
-        [Part 3][46] makes provision for the imposition of regulated control schemes in the case of animal material or products or matters for which individually tailored risk management programmes are impracticable or inappropriate. These schemes may be an alternative or a supplement to individual risk management programmes:
+        [Part 3][47] makes provision for the imposition of regulated control schemes in the case of animal material or products or matters for which individually tailored risk management programmes are impracticable or inappropriate. These schemes may be an alternative or a supplement to individual risk management programmes:
     
     *   (c) _Animal product standards_
         
-        [Part 4][52] provides for the setting of animal product standards that set criteria that must be met for particular animal products to be treated as fit for their intended purpose (whether or not those products are also produced under an individual risk management programme or a regulated control scheme), and for the setting of any technical specifications required to meet those standards:
+        [Part 4][53] provides for the setting of animal product standards that set criteria that must be met for particular animal products to be treated as fit for their intended purpose (whether or not those products are also produced under an individual risk management programme or a regulated control scheme), and for the setting of any technical specifications required to meet those standards:
     
     *   (d) _Exports of animal material and products_
         
-        [Part 5][58] makes special provision in relation to the export of animal material and products from New Zealand, by---
+        [Part 5][59] makes special provision in relation to the export of animal material and products from New Zealand, by---
             
         *   (i) requiring the registration of all exporters of animal material and products intended for human or animal consumption, and certain other animal products (subject to exemptions); and
         
@@ -632,9 +634,9 @@ Preliminary provisions
     
     *   (e) _Homekill and recreational catch_
         
-        [Part 6][97] makes special provision for the treatment of animals that are homekill or recreational catch, by---
+        [Part 6][98] makes special provision for the treatment of animals that are homekill or recreational catch, by---
             
-        *   (i) allowing for homekill or recreational catch to be processed either by the person whose homekill or recreational catch it is, or by a listed homekill or recreational catch service provider who operates outside the normal risk management and regulatory system contained in [Parts 2 to 4][14]; and
+        *   (i) allowing for homekill or recreational catch to be processed either by the person whose homekill or recreational catch it is, or by a listed homekill or recreational catch service provider who operates outside the normal risk management and regulatory system contained in [Parts 2 to 4][15]; and
         
         *   (ii) imposing restrictions to ensure that homekill and recreational catch products cannot be traded or exported, or mingled with animal material or products that are for trade or export.
         
@@ -654,13 +656,13 @@ Preliminary provisions
     
     *   (e) addressing non-compliance.
     
-    Section 3(1)(a): amended, on 26 September 2002, by [section 4][265] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 3(1)(a): amended, on 26 September 2002, by [section 4][266] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 3(1)(a): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 3(1)(a): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 3(1)(d)(ii): substituted, on 1 June 2005, by [section 4][267] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 3(1)(d)(ii): substituted, on 1 June 2005, by [section 4][268] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 3(1)(d)(iii): substituted, on 1 June 2005, by [section 4][267] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 3(1)(d)(iii): substituted, on 1 June 2005, by [section 4][268] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ##### 4 Interpretation
     
@@ -688,9 +690,9 @@ Preliminary provisions
     
     *   (b) exports animal material or product
     
-    _animal product officer_, or _officer_, means a person appointed as an animal product officer under [section 78][113], and includes the Director-General
+    _animal product officer_, or _officer_, means a person appointed as an animal product officer under [section 78][114], and includes the Director-General
     
-    _animal product standard_, or _standard_, means a standard prescribed under [section 44][55] or [section 46][57] that specifies the criteria that must be met to determine fitness for intended purpose of any class or description of animal product
+    _animal product standard_, or _standard_, means a standard prescribed under [section 44][56] or [section 46][58] that specifies the criteria that must be met to determine fitness for intended purpose of any class or description of animal product
     
     _client hunter_ means a person who pays the operator of a game estate for the right to hunt or catch animals on the estate as if they were in the wild
     
@@ -766,19 +768,19 @@ Preliminary provisions
         
         
     
-    *   (b) includes _dairy produce_ within the meaning of the Dairy Industry Act 1952 (as in force before its repeal by [section 75][268] of the Animal Products (Ancillary and Transitional Provisions) Act 1999)
+    *   (b) includes _dairy produce_ within the meaning of the Dairy Industry Act 1952 (as in force before its repeal by [section 75][269] of the Animal Products (Ancillary and Transitional Provisions) Act 1999)
     
     _Director-General_ means the chief executive of the Ministry
     
     _dual operator butcher_, or _dual operator_, means a retail butcher who---
         
-    *   (a) is listed under [section 76][109] as a homekill or recreational catch service provider; and
+    *   (a) is listed under [section 76][110] as a homekill or recreational catch service provider; and
     
     *   (b) processes homekill or recreational catch at the same premises or place as the retail butcher processes or trades in regulated animal product
     
     _eaten_, or _edible_, includes eaten or edible by animals
     
-    _exporter_ means a person who exports any animal material or product from New Zealand, whether or not for reward or for purposes of trade; and, where an exporter registered under [Part 5][58] is based overseas, includes the New Zealand agent or representative of that exporter
+    _exporter_ means a person who exports any animal material or product from New Zealand, whether or not for reward or for purposes of trade; and, where an exporter registered under [Part 5][59] is based overseas, includes the New Zealand agent or representative of that exporter
     
     _farm dairy_ means a place where milking animals are milked on a permanent or temporary basis; and
         
@@ -796,23 +798,23 @@ Preliminary provisions
     
     _financial year_ means a period of 12 months beginning on 1 July and ending on 30 June
     
-    _finfish_ has the same meaning as in the [Fisheries Act 1996][269]
+    _finfish_ has the same meaning as in the [Fisheries Act 1996][270]
     
     _fish_ means finfish and shellfish
     
     _fit for intended purpose_, used in relation to any animal product, is described in [section 5][7]
     
-    _Food Act regime_ means the alternative regimes under the [Food Act 1981][270] that consist of, or relate to,---
+    _Food Act regime_ means the alternative regimes under the [Food Act 1981][271] that consist of, or relate to,---
         
-    *   (a) [Part 1A][271] of that Act and food safety programmes:
+    *   (a) [Part 1A][272] of that Act and food safety programmes:
     
-    *   (b) the [Food Hygiene Regulations 1974][272]
+    *   (b) the [Food Hygiene Regulations 1974][273]
     
-    _food safety programme_ means an appropriate food safety programme within the meaning of the [Food Act 1981][270], being a programme whose adoption gives rise to an exemption from the [Food Hygiene Regulations 1974][272] under [Part 1A][271] of that Act
+    _food safety programme_ means an appropriate food safety programme within the meaning of the [Food Act 1981][271], being a programme whose adoption gives rise to an exemption from the [Food Hygiene Regulations 1974][273] under [Part 1A][272] of that Act
     
-    _Food Standards Code_ means the code incorporated into New Zealand law by the New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002 and issued by the Minister under [section 11C][273] of the Food Act 1981
+    _Food Standards Code_ means the code incorporated into New Zealand law by the New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002 and issued by the Minister under [section 11C][274] of the Food Act 1981
     
-    _game estate_ has the meaning given it by [section 65B][86]
+    _game estate_ has the meaning given it by [section 65B][87]
     
     _hazard_ means a biological, chemical, or physical agent that---
         
@@ -822,19 +824,19 @@ Preliminary provisions
     
     _homekill_ means an animal that---
         
-    *   (a) is killed (whether personally or by an agent) by its owner for the use or consumption of the owner, in terms of [section 67][99]; and
+    *   (a) is killed (whether personally or by an agent) by its owner for the use or consumption of the owner, in terms of [section 67][100]; and
     
-    *   (b) is processed either by its owner or by another person under [section 69][101], and not in compliance with [Parts 2 to 4][14];---
+    *   (b) is processed either by its owner or by another person under [section 69][102], and not in compliance with [Parts 2 to 4][15];---
     
     and _homekill product_ has a corresponding meaning
     
-    _homekill or recreational catch service provider_ means a person listed as such under [section 76][109]
+    _homekill or recreational catch service provider_ means a person listed as such under [section 76][110]
     
     _human or animal consumption_, used in relation to any animal product, means that the product is intended to be eaten, or taken orally, or administered parenterally, or applied topically
     
     _in writing_ means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax or email or other electronic means
     
-    _listed_, in relation to a homekill or recreational catch service provider, means currently listed under [section 76][109]
+    _listed_, in relation to a homekill or recreational catch service provider, means currently listed under [section 76][110]
     
     _marae_ includes the area of land on which all buildings such as wharenui (meeting house), wharekai (dining room), ablution blocks, and any other associated buildings are situated
     
@@ -846,13 +848,13 @@ Preliminary provisions
     
     _notice of recognition_ means, as applicable,---
         
-    *   (a) a notice of recognition given to a recognised agency or a recognised person in accordance with [section 112(1)(b)][274]; or
+    *   (a) a notice of recognition given to a recognised agency or a recognised person in accordance with [section 112(1)(b)][159]; or
     
-    *   (b) a notification given to a recognised class in accordance with [section 112(1)(c)(i)][274]
+    *   (b) a notification given to a recognised class in accordance with [section 112(1)(c)(i)][159]
     
-    _official assessor_ means a person appointed as an official assessor under [section 79][114]
+    _official assessor_ means a person appointed as an official assessor under [section 79][115]
     
-    _official assurance_ has the meaning given by [section 61(2)][78]
+    _official assurance_ has the meaning given by [section 61(2)][79]
     
     _operator_, in relation to an animal product business, means the owner or other person in control of the business
     
@@ -864,7 +866,7 @@ Preliminary provisions
     
     *   (b) other verification functions and activities in relation to regulated control schemes and export requirements:
     
-    *   (c) the provision of independent evaluations of the validity of risk management programmes for the purposes of [section 20(2)(b)][26]
+    *   (c) the provision of independent evaluations of the validity of risk management programmes for the purposes of [section 20(2)(b)][27]
     
     _place_ includes any building, conveyance, craft, fishing vessel, or structure; and includes any land, water, or other area where animals or animal material are produced or may be present
     
@@ -886,7 +888,7 @@ Preliminary provisions
         
         *   (iii) any other animal, or animal material derived from any other animal,---
         
-        processes those animals or that animal material to the extent specified by the Minister by notice in the _Gazette_ after appropriate consultation in accordance with [section 163][250] and after having regard to the following matters:
+        processes those animals or that animal material to the extent specified by the Minister by notice in the _Gazette_ after appropriate consultation in accordance with [section 163][251] and after having regard to the following matters:
             
         *   (iv) industry practice in relation to the animal material concerned:
         
@@ -918,25 +920,25 @@ Preliminary provisions
     
     *   (b) where used in reference to animal product produced under a risk management programme or a regulated control scheme, refers to animal product that results from the application of any process or processes covered by the programme or scheme
     
-    _public register_ means the public register of recognised agencies, recognised persons, and recognised classes maintained by the Director-General in accordance with [section 112S][182]
+    _public register_ means the public register of recognised agencies, recognised persons, and recognised classes maintained by the Director-General in accordance with [section 112S][183]
     
     _recognised agency_ means---
         
-    *   (a) a person who is recognised by the Director-General under [section 101][275] or [102][276]; and
+    *   (a) a person who is recognised by the Director-General under [section 101][147] or [102][148]; and
     
-    *   (b) a group of persons who are recognised by the Director-General under [section 102][276]
+    *   (b) a group of persons who are recognised by the Director-General under [section 102][148]
     
-    _recognised class_ means a class of natural persons that is recognised by the Director-General under [section 105][277]
+    _recognised class_ means a class of natural persons that is recognised by the Director-General under [section 105][151]
     
     _recognised person_ means a natural person who---
         
-    *   (a) is recognised by the Director-General under [section 103][278] or [104][279]; or
+    *   (a) is recognised by the Director-General under [section 103][149] or [104][150]; or
     
     *   (b) is a member of a recognised class, but only---
             
         *   (i) to the extent that the person carries out the specified functions and activities for which the class is recognised; and
         
-        *   (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][274]
+        *   (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][159]
         
         
     
@@ -946,19 +948,19 @@ Preliminary provisions
     
     _recreational catch_ means a wild animal that---
         
-    *   (a) is killed, captured, taken, or harvested by a recreational hunter or fisher, or other person undertaking similar recreational activities (including a client hunter killing or catching an animal on a game estate, as if in the wild), for the use or consumption of the hunter, fisher, or other person in terms of [section 68][100]; and
+    *   (a) is killed, captured, taken, or harvested by a recreational hunter or fisher, or other person undertaking similar recreational activities (including a client hunter killing or catching an animal on a game estate, as if in the wild), for the use or consumption of the hunter, fisher, or other person in terms of [section 68][101]; and
     
-    *   (b) is processed either by its catcher or by another person under [section 69][101], and not in compliance with [Parts 2 to 4][14];---
+    *   (b) is processed either by its catcher or by another person under [section 69][102], and not in compliance with [Parts 2 to 4][15];---
     
     and _recreational catch product_ has a corresponding meaning
     
-    _registered exporter_ means an exporter currently registered under [Part 5][58]
+    _registered exporter_ means an exporter currently registered under [Part 5][59]
     
-    _registered risk management programme_ means a risk management programme that is currently registered under [Part 2][14]
+    _registered risk management programme_ means a risk management programme that is currently registered under [Part 2][15]
     
-    _regulated animal product_ means animal material or product for trade or export that is processed, or has been or is required to be processed, in accordance with [Parts 2 to 4][14] (or with the [Food Act 1981][270]); and does not include any homekill or recreational catch product, or any product processed by a homekill or recreational catch service provider that ceases to be regulated animal product in terms of [section 72][104]
+    _regulated animal product_ means animal material or product for trade or export that is processed, or has been or is required to be processed, in accordance with [Parts 2 to 4][15] (or with the [Food Act 1981][271]); and does not include any homekill or recreational catch product, or any product processed by a homekill or recreational catch service provider that ceases to be regulated animal product in terms of [section 72][105]
     
-    _regulated control scheme_ means a scheme of a kind described in [section 38][48], and includes an emergency control scheme instituted under [section 41][51]
+    _regulated control scheme_ means a scheme of a kind described in [section 38][49], and includes an emergency control scheme instituted under [section 41][52]
     
     _rendering_ means the breaking down of animal tissues into constituent fat and protein elements, whether by the application of heat and pressure or otherwise
     
@@ -972,15 +974,15 @@ Preliminary provisions
     
     *   (c) risks to the wholesomeness of animal material or product
     
-    _risk management programme_ has the meaning given by [section 12][16], and, except in [Part 2][14], is to be taken to refer to a registered risk management programme
+    _risk management programme_ has the meaning given by [section 12][17], and, except in [Part 2][15], is to be taken to refer to a registered risk management programme
     
     _secondary processor_ means a person who, for reward (otherwise than as an employee) or for purposes of trade, processes animal product at any stage beyond its primary processing
     
     _sell_ has the same meaning as trade; and _sale_ has a corresponding meaning
     
-    _shellfish_ has the same meaning as in the [Fisheries Act 1996][269]
+    _shellfish_ has the same meaning as in the [Fisheries Act 1996][270]
     
-    _specified functions and activities_ means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with [section 112(2)(a)][274] as functions and activities that---
+    _specified functions and activities_ means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with [section 112(2)(a)][159] as functions and activities that---
         
     *   (a) a recognised agency is responsible for managing and carrying out; or
     
@@ -1022,95 +1024,115 @@ Preliminary provisions
     
     (2) For the purposes of this Act,---
         
-    *   (a) references to the requirements of [Parts 2 to 4][14] include references to the requirements of any regulations, standards, specifications, Ministerial orders, notices, or directions made or given for the purposes of those Parts; and similarly, references to the requirements of any other Part or provision include references to the requirements of any regulations, standards, specifications, notices, or directions made for the purposes of that Part or provision:
+    *   (a) references to the requirements of [Parts 2 to 4][15] include references to the requirements of any regulations, standards, specifications, Ministerial orders, notices, or directions made or given for the purposes of those Parts; and similarly, references to the requirements of any other Part or provision include references to the requirements of any regulations, standards, specifications, notices, or directions made for the purposes of that Part or provision:
     
-    *   (b) references to any regulations under, or made under, a particular Part include references to regulations made under [section 166][255] of this Act or [section 25][280] of the Animal Products (Ancillary and Transitional Provisions) Act 1999, for the purposes of that Part.
+    *   (b) references to any regulations under, or made under, a particular Part include references to regulations made under [section 166][256] of this Act or [section 25][275] of the Animal Products (Ancillary and Transitional Provisions) Act 1999, for the purposes of that Part.
     
     (3) The categorisation of any person as a primary producer, a primary processor, a secondary processor, an exporter, or a homekill or recreational catch service provider relates to the identification of the person in that capacity only, and does not prevent the person from being identified also, and accordingly treated as being, a person in any of the other categories.
     
-    (4) A notice in the _Gazette_ made for the purposes of paragraph (d) of the definition of _primary processor_ in subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][281] and must be presented to the House of Representatives under [section 41][282] of that Act.
+    (4) A notice in the _Gazette_ made for the purposes of paragraph (d) of the definition of _primary processor_ in subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][276] and must be presented to the House of Representatives under [section 41][277] of that Act.
     
     (5) Unless the context otherwise requires, parts of speech and grammatical forms of terms defined in this section have corresponding meanings in this Act.
     
-    Section 4(1) **accredited person**: substituted, on 1 June 2005, by [section 5(1)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **accredited person**: substituted, on 1 June 2005, by [section 5(1)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **accredited risk management programme verifier**: substituted, on 1 June 2005, by [section 5(1)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **accredited risk management programme verifier**: substituted, on 1 June 2005, by [section 5(1)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **accredited verifier**: repealed, on 26 September 2002, by [section 5(1)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **accredited verifier**: repealed, on 26 September 2002, by [section 5(1)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **client hunter**: inserted, on 26 September 2002, by [section 5(2)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **client hunter**: inserted, on 26 September 2002, by [section 5(2)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **dairy material**: inserted, on 1 June 2005, by [section 5(2)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **dairy material**: inserted, on 1 June 2005, by [section 5(2)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **dairy processing**: inserted, on 1 June 2005, by [section 5(2)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **dairy processing**: inserted, on 1 June 2005, by [section 5(2)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **dairy processor**: inserted, on 1 June 2005, by [section 5(2)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **dairy processor**: inserted, on 1 June 2005, by [section 5(2)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **dairy product**: inserted, on 1 June 2005, by [section 5(2)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **dairy product**: inserted, on 1 June 2005, by [section 5(2)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **farm dairy**: inserted, on 1 June 2005, by [section 5(3)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **farm dairy**: inserted, on 1 June 2005, by [section 5(3)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **farm dairy operator**: inserted, on 1 June 2005, by [section 5(3)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **farm dairy operator**: inserted, on 1 June 2005, by [section 5(3)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **Food Standards Code**: inserted, on 1 June 2005, by [section 5(4)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **Food Standards Code**: inserted, on 1 June 2005, by [section 5(4)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **game estate**: inserted, on 26 September 2002, by [section 5(2)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **game estate**: inserted, on 26 September 2002, by [section 5(2)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **milk**: inserted, on 1 June 2005, by [section 5(5)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **milk**: inserted, on 1 June 2005, by [section 5(5)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **notice of recognition**: inserted, on 31 August 2012, by [section 4(2)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **notice of recognition**: inserted, on 31 August 2012, by [section 4(2)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **permissible functions and activities**: inserted, on 31 August 2012, by [section 4(2)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **permissible functions and activities**: inserted, on 31 August 2012, by [section 4(2)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **primary processor** paragraph (b): substituted, on 26 September 2002, by [section 5(3)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **primary processor** paragraph (b): substituted, on 26 September 2002, by [section 5(3)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **primary processor** paragraph (ca): inserted, on 1 June 2005, by [section 5(6)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **primary processor** paragraph (ca): inserted, on 1 June 2005, by [section 5(6)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **primary processor** paragraph (d): substituted, on 26 September 2002, by [section 5(4)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **primary processor** paragraph (d): substituted, on 26 September 2002, by [section 5(4)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **public register**: inserted, on 31 August 2012, by [section 4(2)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **public register**: inserted, on 31 August 2012, by [section 4(2)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised agency**: replaced, on 31 August 2012, by [section 4(1)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **recognised agency**: replaced, on 31 August 2012, by [section 4(1)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised class**: inserted, on 31 August 2012, by [section 4(2)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **recognised class**: inserted, on 31 August 2012, by [section 4(2)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised person**: replaced, on 31 August 2012, by [section 4(1)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **recognised person**: replaced, on 31 August 2012, by [section 4(1)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised risk management programme verifier**: replaced, on 31 August 2012, by [section 4(1)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **recognised risk management programme verifier**: replaced, on 31 August 2012, by [section 4(1)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised risk management programme verifying agency**: replaced, on 31 August 2012, by [section 4(1)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **recognised risk management programme verifying agency**: replaced, on 31 August 2012, by [section 4(1)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **recognised verifying agency**: repealed, on 26 September 2002, by [section 5(5)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **recognised verifying agency**: repealed, on 26 September 2002, by [section 5(5)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **recreational catch** paragraph (a): amended, on 26 September 2002, by [section 5(6)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **recreational catch** paragraph (a): amended, on 26 September 2002, by [section 5(6)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **rendering**: inserted, on 26 September 2002, by [section 5(7)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **rendering**: inserted, on 26 September 2002, by [section 5(7)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **risk factors**: amended, on 26 September 2002, by [section 5(8)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **risk factors**: amended, on 26 September 2002, by [section 5(8)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **specified functions and activities**: inserted, on 31 August 2012, by [section 4(2)][284] of the Animal Products Amendment Act 2012 (2012 No 59).
+    Section 4(1) **specified functions and activities**: inserted, on 31 August 2012, by [section 4(2)][279] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 4(1) **verification**: amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 4(1) **verification**: amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 4(1) **verification**: amended, on 26 September 2002, by [section 5(9)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 4(1) **verification**: amended, on 26 September 2002, by [section 5(9)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 4(1) **verification** paragraph (a): amended, on 7 July 2010, by [section 4][285] of the Animal Products Amendment Act 2010 (2010 No 47).
+    Section 4(1) **verification** paragraph (a): amended, on 7 July 2010, by [section 4][280] of the Animal Products Amendment Act 2010 (2010 No 47).
     
-    Section 4(4): replaced, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 4(4): replaced, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
 
 ##### 5 Product processed fit for intended purpose
     
-*   The phrase _fit for intended purpose_, used in relation to animal product that has been processed in accordance with [Parts 2 to 4][14], means that, by reason of animal material or product having had the relevant risk factors managed in accordance with Parts 2 and 3, and meeting any relevant animal product standards and associated specifications set under Part 4, the product is suitable for the purpose for which the product is specifically stated or could reasonably be presumed to be intended having regard to its nature, packaging, and identification.
+*   The phrase _fit for intended purpose_, used in relation to animal product that has been processed in accordance with [Parts 2 to 4][15], means that, by reason of animal material or product having had the relevant risk factors managed in accordance with Parts 2 and 3, and meeting any relevant animal product standards and associated specifications set under Part 4, the product is suitable for the purpose for which the product is specifically stated or could reasonably be presumed to be intended having regard to its nature, packaging, and identification.
 
 ##### 6 References to this Act include references to Animal Products (Ancillary and Transitional Provisions) Act 1999, etc
     
 *   Except where the context otherwise requires,---
         
-    *   (a) references to _this Act_ include references to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][262], and to regulations or specifications or other requirements made or imposed under either Act:
+    *   (a) references to _this Act_ include references to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][263], and to regulations or specifications or other requirements made or imposed under either Act:
     
-    *   (b) references in other Acts to this Act also include references to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][262] and to regulations or specifications or other requirements made or imposed under that Act or this Act.
+    *   (b) references in other Acts to this Act also include references to the [Animal Products (Ancillary and Transitional Provisions) Act 1999][263] and to regulations or specifications or other requirements made or imposed under that Act or this Act.
     
-    Section 6: substituted, on 1 June 2005, by [section 6][287] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 6: substituted, on 1 June 2005, by [section 6][282] of the Animal Products Amendment Act 2005 (2005 No 26).
+
+##### 6A Border information supplied using JBMS must be supplied in approved form and manner
+    
+*   (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+    
+    (2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with [section 41D][283] or [41H][284] of the Biosecurity Act 1993) must supply the information in a form and manner---
+        
+    *   (a) for complying with the requirement by using the JBMS; and
+    
+    *   (b) for the time being generally approved in writing by the Director-General.
+    
+    (3) The approved form and manner referred to in subsection (2)---
+        
+    *   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+    
+    *   (b) may be set out, for the information of registered JBMS users, in Customs rules under [section 288(1)(j)][285] of the Customs and Excise Act 1996\.
+    
+    (4) _Border information_, _JBMS_, and _Ministry_ have, in this section, the meanings given or referred to in [section 41A(1)][286] of the Biosecurity Act 1993\.
+    
+    Section 6A: inserted, on 24 June 2014, by [section 16][287] of the Biosecurity (Border Processing---Trade Single Window) Amendment Act 2014 (2014 No 11).
 
 #### Application of Act generally
 
@@ -1124,15 +1146,15 @@ Preliminary provisions
     
     (2) The specific requirements of this Act apply principally to animal material and animal products that are intended for human or animal consumption, but may also apply or be made to apply to animal material and products intended for other purposes.
     
-    (3) This Act applies to the processing of animal products that are also foods within the meaning of the [Food Act 1981][270] to the extent provided in [sections 32 to 34][40].
+    (3) This Act applies to the processing of animal products that are also foods within the meaning of the [Food Act 1981][271] to the extent provided in [sections 32 to 34][41].
     
-    (4) This Act applies to the processing of animals that are homekill or recreational catch in the manner specified in [Part 6][97].
+    (4) This Act applies to the processing of animals that are homekill or recreational catch in the manner specified in [Part 6][98].
 
 ##### 8 Products and material excluded from ambit of Act
     
 *   (1) This Act does not apply to any animal material or animal product if and to the extent that---
         
-    *   (a) animal material or product of that kind is exempted from all or any of the provisions of this Act by Order in Council made under [section 9][12]; or
+    *   (a) animal material or product of that kind is exempted from all or any of the provisions of this Act by Order in Council made under [section 9][13]; or
     
     *   (b) \[Repealed\]
     
@@ -1174,15 +1196,15 @@ Preliminary provisions
     
     *   (f) such other matters as the Minister considers relevant.
     
-    (4) The Minister may not recommend the making of an order under this section unless satisfied that appropriate consultation has been carried out in accordance with [section 163][250].
+    (4) The Minister may not recommend the making of an order under this section unless satisfied that appropriate consultation has been carried out in accordance with [section 163][251].
     
     (5) An exemption under this section may have retrospective effect.
 
 ##### 10 Application of Act includes exclusive economic zone
     
-*   (1) This Act applies to the production and processing of animal material and animal products within New Zealand and within or on all New Zealand fisheries waters (as defined in the [Fisheries Act 1996][269]), but does not apply to the processing of fish on any fishing vessel within the exclusive economic zone that is not registered under the [Fisheries Act 1983][289] or the Fisheries Act 1996 unless the vessel is used to harvest farmed finfish or shellfish.
+*   (1) This Act applies to the production and processing of animal material and animal products within New Zealand and within or on all New Zealand fisheries waters (as defined in the [Fisheries Act 1996][270]), but does not apply to the processing of fish on any fishing vessel within the exclusive economic zone that is not registered under the [Fisheries Act 1983][289] or the Fisheries Act 1996 unless the vessel is used to harvest farmed finfish or shellfish.
     
-    (2) For the purposes of this section, fish landed in New Zealand from any fishing vessel registered under the [Fisheries Act 1996][269] are deemed to have been taken and processed within New Zealand fisheries waters until the contrary is proved.
+    (2) For the purposes of this section, fish landed in New Zealand from any fishing vessel registered under the [Fisheries Act 1996][270] are deemed to have been taken and processed within New Zealand fisheries waters until the contrary is proved.
     
     Section 10(1): amended, on 26 September 2002, by [section 7][290] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -1217,9 +1239,9 @@ Risk management programmes
     
     (4) A risk management programme for each type of animal material or product, each type of process or operation, and each set of premises or place may be formulated as a single stand-alone programme, or may form part of a larger risk management programme that applies to 1 or more materials, products, processes, operations, places, or premises within the same business or operation.
     
-    (4A) A risk management programme may also apply to 1 or more comparable animal product businesses in cases where the Director-General has given approval under [section 17A][22].
+    (4A) A risk management programme may also apply to 1 or more comparable animal product businesses in cases where the Director-General has given approval under [section 17A][23].
     
-    (5) A food safety programme may be registered as a risk management programme in accordance with [section 34][42].
+    (5) A food safety programme may be registered as a risk management programme in accordance with [section 34][43].
     
     Section 12(3A): inserted, on 26 September 2002, by [section 8(1)][291] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -1227,7 +1249,7 @@ Risk management programmes
 
 ##### 13 Who must have a risk management programme?
     
-*   (1) Subject to subsection (3), the following persons must operate under a registered risk management programme, whether as the registered holder of the programme or as a business to which the programme applies under [section 17A][22], in respect of their production or processing of animal material or animal product:
+*   (1) Subject to subsection (3), the following persons must operate under a registered risk management programme, whether as the registered holder of the programme or as a business to which the programme applies under [section 17A][23], in respect of their production or processing of animal material or animal product:
         
     *   (a) all primary processors of animal material:
     
@@ -1235,29 +1257,29 @@ Risk management programmes
     
     *   (c) retail butchers who are dual operator butchers:
     
-    *   (d) such other persons as may be specified by Order in Council under [section 15][19] as requiring to operate under a risk management programme.
+    *   (d) such other persons as may be specified by Order in Council under [section 15][20] as requiring to operate under a risk management programme.
     
-    (2) While a secondary processor of animal products intended for export to an overseas market for which an official assurance under [Part 5][58] is required is not obliged by subsection (1) to have a registered risk management programme,---
+    (2) While a secondary processor of animal products intended for export to an overseas market for which an official assurance under [Part 5][59] is required is not obliged by subsection (1) to have a registered risk management programme,---
         
-    *   (a) such a person should be aware of the implications of not having a programme as set out in [section 33][41]; and
+    *   (a) such a person should be aware of the implications of not having a programme as set out in [section 33][42]; and
     
-    *   (b) if the person elects under [section 32][40] to operate under a registered risk management programme, or to register a food safety programme as a risk management programme under [section 34][42] for the purposes of certain operations, they will be treated as a person who is required to have a registered risk management programme in respect of the animal products or operations concerned.
+    *   (b) if the person elects under [section 32][41] to operate under a registered risk management programme, or to register a food safety programme as a risk management programme under [section 34][43] for the purposes of certain operations, they will be treated as a person who is required to have a registered risk management programme in respect of the animal products or operations concerned.
     
     (3) Nothing in subsection (1) requires a person to operate under a risk management programme in respect of---
         
-    *   (a) the primary production of animal material (subject to any order under [section 15][19]):
+    *   (a) the primary production of animal material (subject to any order under [section 15][20]):
     
-    *   (b) the transporting of animal material prior to primary processing (subject to any order under [section 15][19]):
+    *   (b) the transporting of animal material prior to primary processing (subject to any order under [section 15][20]):
     
-    *   (c) the secondary processing of animal products not intended for human or animal consumption (except to the extent indicated in subsection (2) in respect of animal product for export for which an official assurance is required, and subject to any order under [section 15][19]):
+    *   (c) the secondary processing of animal products not intended for human or animal consumption (except to the extent indicated in subsection (2) in respect of animal product for export for which an official assurance is required, and subject to any order under [section 15][20]):
     
-    *   (d) the processing of any homekill or recreational catch by a listed homekill or recreational catch service provider (except as provided in [section 71][103] in the case of dual operator butchers):
+    *   (d) the processing of any homekill or recreational catch by a listed homekill or recreational catch service provider (except as provided in [section 71][104] in the case of dual operator butchers):
     
-    *   (e) the processing of dairy material or dairy product that is not intended for human or animal consumption (subject to any order made under [section 15][19]):
+    *   (e) the processing of dairy material or dairy product that is not intended for human or animal consumption (subject to any order made under [section 15][20]):
     
-    *   (f) any type of animal material, animal product, process, operation, premises, or place that is exempted from the provisions of this Part by Order in Council made under [section 9][12]:
+    *   (f) any type of animal material, animal product, process, operation, premises, or place that is exempted from the provisions of this Part by Order in Council made under [section 9][13]:
     
-    *   (g) any matter that is for the time being subject to an exemption granted by the Director-General under [section 14][18].
+    *   (g) any matter that is for the time being subject to an exemption granted by the Director-General under [section 14][19].
     
     Section 13(1): amended, on 1 June 2005, by [section 8(1)][292] of the Animal Products Amendment Act 2005 (2005 No 26).
     
@@ -1271,7 +1293,7 @@ Risk management programmes
 
 ##### 14 Director-General may grant limited exemption from requirement to have risk management programme
     
-*   (1) The Director-General may, by notice under [section 167][256], exempt in whole or in part any producer or processor from the requirement to formulate or operate under a risk management programme---
+*   (1) The Director-General may, by notice under [section 167][257], exempt in whole or in part any producer or processor from the requirement to formulate or operate under a risk management programme---
         
     *   (a) for such period as is specified in the notice; and
     
@@ -1289,7 +1311,7 @@ Risk management programmes
 
 ##### 15 Certain persons may be required to have risk management programme by Order in Council
     
-*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of primary producer, dairy processor, secondary processor, transporter, or exporter of animal material or products who would not otherwise be required to have a risk management programme by virtue of [section 13(3)(a), (b), (c), (e), or (f)][17] to operate under a risk management programme under this Part in respect of such animal material or products, processes, operations, premises, or places as may be specified in the order.
+*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of primary producer, dairy processor, secondary processor, transporter, or exporter of animal material or products who would not otherwise be required to have a risk management programme by virtue of [section 13(3)(a), (b), (c), (e), or (f)][18] to operate under a risk management programme under this Part in respect of such animal material or products, processes, operations, premises, or places as may be specified in the order.
     
     (2) The persons to whom the order applies may be defined by reference to---
         
@@ -1313,7 +1335,7 @@ Risk management programmes
         
         
     
-    *   (b) except where the Minister considers the making of the order a matter of urgency in the public interest, there has been appropriate consultation on the subject matter of the order in accordance with [section 163][250].
+    *   (b) except where the Minister considers the making of the order a matter of urgency in the public interest, there has been appropriate consultation on the subject matter of the order in accordance with [section 163][251].
     
     Section 15(1): amended, on 1 June 2005, by [section 9(a)][295] of the Animal Products Amendment Act 2005 (2005 No 26).
     
@@ -1339,9 +1361,9 @@ Risk management programmes
     
     Section 16(1)(e): amended, on 31 August 2012, by [section 5][297] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 16(1)(e): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 16(1)(e): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 16(2): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 16(2): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 17 Contents of and requirements for risk management programmes
     
@@ -1381,7 +1403,7 @@ Risk management programmes
             
         *   (i) any relevant animal product standard or other requirement prescribed by regulations made under this Act:
         
-        *   (ii) any relevant specifications set by the Director-General under [section 167][256] (including location of reference material and documents recording specific procedures).
+        *   (ii) any relevant specifications set by the Director-General under [section 167][257] (including location of reference material and documents recording specific procedures).
         
         
     
@@ -1401,9 +1423,9 @@ Risk management programmes
     
     *   (g) appropriate and auditable documentation and record keeping.
     
-    (4) A proposed risk management programme must also make appropriate provision for verification activities and the rights of recognised risk management programme verifiers, as specified by the Director-General by notice under [section 167][256].
+    (4) A proposed risk management programme must also make appropriate provision for verification activities and the rights of recognised risk management programme verifiers, as specified by the Director-General by notice under [section 167][257].
     
-    (5) A risk management programme may contain, as a component part, an appropriate food safety programme within the meaning of the [Food Act 1981][270], provided the food safety programme is registered as a risk management programme under [section 34][42].
+    (5) A risk management programme may contain, as a component part, an appropriate food safety programme within the meaning of the [Food Act 1981][271], provided the food safety programme is registered as a risk management programme under [section 34][43].
     
     Section 17(1)(b): substituted, on 26 September 2002, by [section 12(1)][298] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -1413,9 +1435,9 @@ Risk management programmes
     
     Section 17(4): amended, on 7 July 2010, by [section 5][299] of the Animal Products Amendment Act 2010 (2010 No 47).
     
-    Section 17(4): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 17(4): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 17(4): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 17(4): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 17A Multi-business risk management programmes
     
@@ -1439,7 +1461,7 @@ Risk management programmes
     
     (3) The approval may be given subject to conditions.
     
-    (4) Application for approval under this section must be made by the operator of the risk management programme, either at the time of application for its registration under [section 20][26], or as an application for amendment under [section 25(3)][31].
+    (4) Application for approval under this section must be made by the operator of the risk management programme, either at the time of application for its registration under [section 20][27], or as an application for amendment under [section 25(3)][32].
     
     (5) The Director-General may decline his or her approval under this section if not satisfied that the operator of another business to which it is proposed that the programme apply is a fit and proper person to operate an animal product business, taking into account whether the operator or any directors or managers of the business concerned have been convicted, whether in New Zealand or overseas, of any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of businesses of a kind (whether in New Zealand or elsewhere) that are regulated under this Act.
     
@@ -1459,7 +1481,7 @@ Risk management programmes
         
     *   (a) all risk management programmes registered under this Part; and
     
-    *   (b) matters relating to the registration of food safety programmes as risk management programmes under [section 34][42].
+    *   (b) matters relating to the registration of food safety programmes as risk management programmes under [section 34][43].
     
     (2) The purpose of the register is---
         
@@ -1501,15 +1523,15 @@ Risk management programmes
     
     *   (f) the location (if appropriate) and type of premises or place to which the programme applies (or, if more appropriate, a place where the general public can obtain up-to-date information of the location and type of premises or place to which the programme applies):
     
-    *   (g) the name of the recognised risk management programme verifying agency (and, if appropriate in the case of a food safety programme registered as a risk management programme under [section 34][42], the approved auditor under the [Food Act 1981][270]) responsible for the verification function under the programme:
+    *   (g) the name of the recognised risk management programme verifying agency (and, if appropriate in the case of a food safety programme registered as a risk management programme under [section 34][43], the approved auditor under the [Food Act 1981][271]) responsible for the verification function under the programme:
     
-    *   (h) identification of any risk management programme whose registration amounts to an election under [section 32][40]:
+    *   (h) identification of any risk management programme whose registration amounts to an election under [section 32][41]:
     
-    *   (i) identification of any food safety programme that is registered as a risk management programme under [section 34][42]:
+    *   (i) identification of any food safety programme that is registered as a risk management programme under [section 34][43]:
     
-    *   (j) the date on which the most recent amendment to the risk management programme has been registered under [section 25][31]:
+    *   (j) the date on which the most recent amendment to the risk management programme has been registered under [section 25][32]:
     
-    *   (k) the date of any update of the risk management programme under [section 26][32]:
+    *   (k) the date of any update of the risk management programme under [section 26][33]:
     
     *   (l) the date (and period, if appropriate) of any suspension of operations under the programme or any deregistration or surrender of registration of the programme:
     
@@ -1519,7 +1541,7 @@ Risk management programmes
     
     Section 19(f): amended, on 26 September 2002, by [section 14][302] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 19(g): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 19(g): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
     Section 19(j): amended, on 26 September 2002, by [section 16][303] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -1537,7 +1559,7 @@ Risk management programmes
         
         
     
-    *   (b) subject to subsection (3), a copy of a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the risk management programme in terms of [sections 12][16] and [17][21]; and
+    *   (b) subject to subsection (3), a copy of a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the risk management programme in terms of [sections 12][17] and [17][22]; and
     
     *   (c) the name of the recognised risk management programme verifying agency that has indicated it is prepared to undertake verification functions in respect of the programme; and
     
@@ -1547,11 +1569,11 @@ Risk management programmes
     
     (3) The Director-General may waive or modify the requirement to provide a copy of an independent evaluation report if---
         
-    *   (a) the risk management programme is fully based on a template, model, or code of practice approved under [section 12(3A)][16]; or
+    *   (a) the risk management programme is fully based on a template, model, or code of practice approved under [section 12(3A)][17]; or
     
-    *   (b) the risk management programme is a multi-business risk management programme approved by the Director-General in accordance with [section 17A][22]; or
+    *   (b) the risk management programme is a multi-business risk management programme approved by the Director-General in accordance with [section 17A][23]; or
     
-    *   (c) the risks to human or animal health are negligible, and the Director-General is satisfied that the nature of the business does not require an independent evaluation report to ensure validity in terms of [sections 12][16] and [17][21].
+    *   (c) the risks to human or animal health are negligible, and the Director-General is satisfied that the nature of the business does not require an independent evaluation report to ensure validity in terms of [sections 12][17] and [17][22].
     
     Section 20(2)(a): substituted, on 26 September 2002, by [section 17][304] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -1559,7 +1581,7 @@ Risk management programmes
     
     Section 20(2)(b): amended, on 1 June 2005, by [section 11(1)][305] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 20(2)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 20(2)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
     Section 20(3): added, on 1 June 2005, by [section 11(2)][305] of the Animal Products Amendment Act 2005 (2005 No 26).
 
@@ -1585,7 +1607,7 @@ Risk management programmes
     
     *   (c) the business, or its operator, is resident in New Zealand within the meaning of [section YD 1][306] or [YD 2][307] (excluding section YD 2(2)) of the Income Tax Act 2007\.
     
-    (1A) Nothing in subsection (1) requires the Director-General to register a risk management programme that purports to apply to a business or part-business of a person other than the applicant if the Director-General has not approved the programme's coverage of that business or part-business under [section 17A][22].
+    (1A) Nothing in subsection (1) requires the Director-General to register a risk management programme that purports to apply to a business or part-business of a person other than the applicant if the Director-General has not approved the programme's coverage of that business or part-business under [section 17A][23].
     
     (2) Registration may be subject to such reasonable conditions as the Director-General may specify, including conditions relating to the commencement of operations under the programme.
     
@@ -1603,7 +1625,7 @@ Risk management programmes
     
     (4) The Director-General must, as soon as practicable after registering a risk management programme, supply the operator's recognised risk management programme verifying agency with an authorised copy of the registered risk management programme.
     
-    (5) Registration of a programme under this section continues in force until the programme is deregistered under [section 28][34] or its registration is surrendered under [section 29][36].
+    (5) Registration of a programme under this section continues in force until the programme is deregistered under [section 28][35] or its registration is surrendered under [section 29][37].
     
     Section 22(1)(c): amended, on 1 April 2008, by [section ZA 2(1)][308] of the Income Tax Act 2007 (2007 No 97).
     
@@ -1611,11 +1633,11 @@ Risk management programmes
     
     Section 22(3A): inserted, on 1 June 2005, by [section 12(2)][309] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 22(4): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 22(4): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 23 Refusal to register programme
     
-*   (1) If, after considering an application and any further information or material supplied under [section 21][27], the Director-General proposes to refuse to register a risk management programme, the Director-General must give the applicant---
+*   (1) If, after considering an application and any further information or material supplied under [section 21][28], the Director-General proposes to refuse to register a risk management programme, the Director-General must give the applicant---
         
     *   (a) a notice containing such particulars as will clearly inform the applicant of the grounds on which the Director-General proposes to refuse to register the programme; and
     
@@ -1623,7 +1645,7 @@ Risk management programmes
     
     (2) Where the Director-General finally determines to refuse to register a programme, the Director-General must as soon as practicable notify that fact to the applicant in writing, giving reasons.
     
-    (3) If a person acting under the delegated authority of the Director-General declines to register a risk management programme, the applicant may seek a review of that decision under [section 162][248].
+    (3) If a person acting under the delegated authority of the Director-General declines to register a risk management programme, the applicant may seek a review of that decision under [section 162][249].
 
 ##### 24 Registration may not be transferred
     
@@ -1631,9 +1653,9 @@ Risk management programmes
     
     (2) Nothing in this section prevents the registration in the name of a new operator, or in relation to new premises or a new place, of a risk management programme in substantially identical terms to those which applied to a former operator or premises.
     
-    (2A) Nothing in this section prevents the extension of the programme to the business or part-business of another person in accordance with an approval given under [section 17A][22].
+    (2A) Nothing in this section prevents the extension of the programme to the business or part-business of another person in accordance with an approval given under [section 17A][23].
     
-    (3) For the purposes of this section, the following circumstances will, except as otherwise specified by the Director-General by notice under [section 167][256], be treated as involving a change in the operator of a registered risk management programme, and so require registration of a new risk management programme rather than amendment of an existing registered programme:
+    (3) For the purposes of this section, the following circumstances will, except as otherwise specified by the Director-General by notice under [section 167][257], be treated as involving a change in the operator of a registered risk management programme, and so require registration of a new risk management programme rather than amendment of an existing registered programme:
         
     *   (a) a change in the name of a company (but not in a company's shareholding):
     
@@ -1649,13 +1671,13 @@ Risk management programmes
         
     *   (a) is no longer appropriate, or will no longer be appropriate, to the animal material or product, processes, or premises or place covered by the programme; or
     
-    *   (b) otherwise impacts, or will impact, on the fitness for intended purpose of the animal product concerned or the content of the risk management programme as required under [section 17(1)][21].
+    *   (b) otherwise impacts, or will impact, on the fitness for intended purpose of the animal product concerned or the content of the risk management programme as required under [section 17(1)][22].
     
     (2) The operator must amend the programme, and apply for registration of the amendment, before the event where the operator knows of the change, event, or other matter in advance, and in all other cases must do so without unreasonable delay.
     
     (3) The operator of a risk management programme may at any time apply to the Director-General, in a manner approved by the Director-General and on payment of the prescribed fee (if any), for registration of an amendment to the programme.
     
-    (4) [Sections 21 to 23][27] apply to an application under this section, with any necessary modifications, as if it were an application for registration under [section 20][26].
+    (4) [Sections 21 to 23][28] apply to an application under this section, with any necessary modifications, as if it were an application for registration under [section 20][27].
     
     (5) As soon as practicable after determining to register an amendment, the Director-General must---
         
@@ -1675,9 +1697,9 @@ Risk management programmes
     
     (7) Where the Director-General finally determines to refuse to register an amendment, the Director-General must as soon as practicable notify that fact to the applicant in writing, giving reasons.
     
-    (8) If a person acting under the delegated authority of the Director-General declines to register an amendment, the applicant may seek a review of that decision under [section 162][248].
+    (8) If a person acting under the delegated authority of the Director-General declines to register an amendment, the applicant may seek a review of that decision under [section 162][249].
     
-    (9) The Director-General may, by notice under [section 167][256], specify matters in relation to amendments to risk management programmes and their amendment, including---
+    (9) The Director-General may, by notice under [section 167][257], specify matters in relation to amendments to risk management programmes and their amendment, including---
         
     *   (a) specifying the kinds of amendments that require registration and those which do not; and
     
@@ -1685,13 +1707,13 @@ Risk management programmes
     
     Section 25 heading: amended, on 26 September 2002, by [section 18][311] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 25(5)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 25(5)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 26 Updates of minor amendments to risk management programmes
     
-*   (1) For the purpose of ensuring that a registered risk management programme continues to comply with the requirements of [section 17][21], every operator of a risk management programme must from time to time notify the Director-General of all amendments to the risk management programme that---
+*   (1) For the purpose of ensuring that a registered risk management programme continues to comply with the requirements of [section 17][22], every operator of a risk management programme must from time to time notify the Director-General of all amendments to the risk management programme that---
         
-    *   (a) are of such a nature as not to require registration under [section 25][31]; and
+    *   (a) are of such a nature as not to require registration under [section 25][32]; and
     
     *   (b) have not been previously notified to the Director-General under this section.
     
@@ -1699,15 +1721,15 @@ Risk management programmes
         
     *   (a) be made in a manner approved by the Director-General; and
     
-    *   (b) be made at such intervals as may be prescribed by regulations made under this Act, or otherwise by notice by the Director-General under [section 167][256]; and
+    *   (b) be made at such intervals as may be prescribed by regulations made under this Act, or otherwise by notice by the Director-General under [section 167][257]; and
     
-    *   (c) contain such details and be accompanied by such other material (including declarations and evaluation reports, if required) as may be prescribed by regulations made under this Act or by notice by the Director-General under [section 167][256]; and
+    *   (c) contain such details and be accompanied by such other material (including declarations and evaluation reports, if required) as may be prescribed by regulations made under this Act or by notice by the Director-General under [section 167][257]; and
     
     *   (d) be accompanied by the prescribed fee (if any).
     
-    (3) On being satisfied that the requirements of this section have been complied with, and that the registered risk management programme concerned continues to comply with the requirements of [section 17][21], the Director-General must register the fact that the programme has been updated under this section.
+    (3) On being satisfied that the requirements of this section have been complied with, and that the registered risk management programme concerned continues to comply with the requirements of [section 17][22], the Director-General must register the fact that the programme has been updated under this section.
     
-    (4) The Director-General may, by notice under [section 167][256], specify matters for the purposes of this section.
+    (4) The Director-General may, by notice under [section 167][257], specify matters for the purposes of this section.
 
 ##### 27 Suspension of operations under registered programme
     
@@ -1735,17 +1757,17 @@ Risk management programmes
     
     (7) A suspension under this section does not affect any other actions that the Director-General may take under this Act.
     
-    (8) Where operations are suspended under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected animal material or product and exercise any of his or her other powers under [section 82][120].
+    (8) Where operations are suspended under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected animal material or product and exercise any of his or her other powers under [section 82][121].
     
-    (9) If a person acting under the delegated authority of the Director-General suspends any operations under this section, the operator of the risk management programme or of the animal product business concerned may seek a review of the suspension under [section 162][248].
+    (9) If a person acting under the delegated authority of the Director-General suspends any operations under this section, the operator of the risk management programme or of the animal product business concerned may seek a review of the suspension under [section 162][249].
     
-    Section 27(5): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 27(5): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 28 Deregistration of risk management programme
     
 *   (1) The Director-General may at any time remove a risk management programme from the register if the Director-General is satisfied that---
         
-    *   (a) the Director-General would be justified under [section 27][33] in suspending operations under the programme but, in light of repeated suspensions of operations under the risk management programme in the past under that section, it would be more appropriate to deregister the programme; or
+    *   (a) the Director-General would be justified under [section 27][34] in suspending operations under the programme but, in light of repeated suspensions of operations under the risk management programme in the past under that section, it would be more appropriate to deregister the programme; or
     
     *   (b) there is or has been such a serious failure of operations or other matters under the programme as to cast doubt on the fitness for intended purpose of the animal product produced under the programme; or
     
@@ -1777,23 +1799,23 @@ Risk management programmes
     
     *   (b) notify the appropriate recognised risk management programme verifying agency of that fact.
     
-    (4) Where a risk management programme is deregistered under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected animal material or product and may exercise any of his or her other powers under [section 82][120].
+    (4) Where a risk management programme is deregistered under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected animal material or product and may exercise any of his or her other powers under [section 82][121].
     
     (5) The Director-General may notify any deregistration under this section in the _Gazette_.
     
     (6) The deregistration of a risk management programme under this section does not affect any other actions that the Director-General may take under this Act.
     
-    (7) If a person acting under the delegated authority of the Director-General deregisters a risk management programme under this section, the operator of the risk management programme or of the animal product business concerned may seek a review of the deregistration under [section 162][248].
+    (7) If a person acting under the delegated authority of the Director-General deregisters a risk management programme under this section, the operator of the risk management programme or of the animal product business concerned may seek a review of the deregistration under [section 162][249].
     
     Section 28(1)(c): substituted, on 26 September 2002, by [section 19][312] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 28(3)(b): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 28(3)(b): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 28A Removal of animal product business from coverage of wider risk management programme
     
-*   (1) The Director-General may at any time remove any animal product business from the coverage of a registered risk management programme that applies to 2 or more comparable businesses if the Director-General is satisfied that deregistration of the programme would be appropriate under [section 28(1)][34] if the animal product business were the only one operating under the programme.
+*   (1) The Director-General may at any time remove any animal product business from the coverage of a registered risk management programme that applies to 2 or more comparable businesses if the Director-General is satisfied that deregistration of the programme would be appropriate under [section 28(1)][35] if the animal product business were the only one operating under the programme.
     
-    (2) Subsections (2) to (7) of [section 28][34] apply in relation to the removal of the business from the coverage of the risk management programme as if references in these sections to deregistration of the programme were references to removal from the coverage of the programme.
+    (2) Subsections (2) to (7) of [section 28][35] apply in relation to the removal of the business from the coverage of the risk management programme as if references in these sections to deregistration of the programme were references to removal from the coverage of the programme.
     
     Section 28A: inserted, on 26 September 2002, by [section 20][313] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -1813,7 +1835,7 @@ Risk management programmes
     
     (3) At the same time as notification under subsection (1) or subsection (2), the operator or other relevant person must also notify the Director-General of how it is proposed to deal with any remaining animal material or product covered by the risk management programme.
     
-    (4) The Director-General may approve or agree to any such proposal, but may also, if appropriate, exercise any of his or her powers under [section 82][120].
+    (4) The Director-General may approve or agree to any such proposal, but may also, if appropriate, exercise any of his or her powers under [section 82][121].
     
     (5) On being notified of a surrender under this section,---
         
@@ -1821,7 +1843,7 @@ Risk management programmes
     
     *   (b) the surrender takes effect from the date stated in the register.
     
-    Section 29(2)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 29(2)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 30 Risk management programme in conflict with regulations or specifications
     
@@ -1831,17 +1853,17 @@ Risk management programmes
 
 ##### 31 Object of sections 32 to 34
     
-*   The object of [sections 32 to 34][40] is to recognise the general equivalence of food safety programmes and risk management programmes, and to minimise the problems of overlap of 2 separate legislative regimes, by---
+*   The object of [sections 32 to 34][41] is to recognise the general equivalence of food safety programmes and risk management programmes, and to minimise the problems of overlap of 2 separate legislative regimes, by---
         
-    *   (a) allowing, in [section 32][40], a secondary processor of an animal product which is a food to elect to operate solely under a risk management programme and this Act, rather than under the equivalent Food Act regime (particularly where the food is for export, and may require official assurances); and
+    *   (a) allowing, in [section 32][41], a secondary processor of an animal product which is a food to elect to operate solely under a risk management programme and this Act, rather than under the equivalent Food Act regime (particularly where the food is for export, and may require official assurances); and
     
-    *   (b) providing, in [section 34][42], for the registration of food safety programmes as risk management programmes, and allowing switching between programmes in the case of persons who wish to operate principally under one regime, but may also need or wish to operate from time to time under the other regime in respect of all or part of their operations.
+    *   (b) providing, in [section 34][43], for the registration of food safety programmes as risk management programmes, and allowing switching between programmes in the case of persons who wish to operate principally under one regime, but may also need or wish to operate from time to time under the other regime in respect of all or part of their operations.
     
     Section 31: amended, on 26 September 2002, by [section 21][315] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 32 Secondary processors of animal products which are food may elect to operate under risk management programme
     
-*   (1) A secondary processor of an animal product which is a food within the meaning of the [Food Act 1981][270] may elect under this section to operate under a registered risk management programme rather than under a food safety programme or under the [Food Hygiene Regulations 1974][272] in respect of that product.
+*   (1) A secondary processor of an animal product which is a food within the meaning of the [Food Act 1981][271] may elect under this section to operate under a registered risk management programme rather than under a food safety programme or under the [Food Hygiene Regulations 1974][273] in respect of that product.
     
     (2) An election under this section---
         
@@ -1849,7 +1871,7 @@ Risk management programmes
     
     *   (b) takes effect when the risk management programme of the secondary processor is registered, or is notified in the register as taking effect.
     
-    (3) [Sections 20 to 23][26] apply in relation to the application for registration of a risk management programme of any person making an election under this section.
+    (3) [Sections 20 to 23][27] apply in relation to the application for registration of a risk management programme of any person making an election under this section.
     
     (4) Where an election is made under this section,---
         
@@ -1857,25 +1879,25 @@ Risk management programmes
     
     *   (b) the Food Act regime does not apply to the matters covered by the registered risk management programme.
     
-    (5) An election under this section is to be treated as revoked if the secondary processor surrenders the risk management programme under [section 29][36], and subsection (4) of this section ceases to apply on and from the date stated in the register.
+    (5) An election under this section is to be treated as revoked if the secondary processor surrenders the risk management programme under [section 29][37], and subsection (4) of this section ceases to apply on and from the date stated in the register.
     
     (6) When the Director-General has registered a secondary processor's risk management programme following an election of the processor under this section, the Director-General must---
         
-    *   (a) notify the chief executive of the agency for the time being responsible for the administration of the [Food Act 1981][270] and any relevant territorial authority (as defined in [section 8B][316] of the Food Act 1981) of the election; and
+    *   (a) notify the chief executive of the agency for the time being responsible for the administration of the [Food Act 1981][271] and any relevant territorial authority (as defined in [section 8B][316] of the Food Act 1981) of the election; and
     
-    *   (b) note the election on the register of risk management programmes in accordance with [section 19][25].
+    *   (b) note the election on the register of risk management programmes in accordance with [section 19][26].
     
     (7) Where an election is treated as revoked by subsection (5), the Director-General must similarly notify the chief executive and relevant territorial authority referred to in subsection (6)(a), and must note the revocation on the register.
 
 ##### 33 Implications of failure to elect in case of animal product which is food whose export requires an official assurance
     
-*   (1) Where a secondary processor operates under the Food Act regime rather than under a risk management programme in relation to any animal product that is for export, and overseas market access requirements as notified or made available by the Director-General under [section 60][75] apply to that product,---
+*   (1) Where a secondary processor operates under the Food Act regime rather than under a risk management programme in relation to any animal product that is for export, and overseas market access requirements as notified or made available by the Director-General under [section 60][76] apply to that product,---
         
     *   (a) the product must meet the requirements imposed by or under this Act for the giving of official assurances, if any official assurance is to be given under this Act in relation to the product; and
     
     *   (b) if it does not, it cannot be the subject of an official assurance under this Act.
     
-    (2) For the purposes of subsection (1)(a), the secondary processor must operate under either a registered risk management programme or a food safety programme that is registered as a risk management programme in accordance with [section 34][42], and meet such additional requirements as may be notified or made available under [section 60][75].
+    (2) For the purposes of subsection (1)(a), the secondary processor must operate under either a registered risk management programme or a food safety programme that is registered as a risk management programme in accordance with [section 34][43], and meet such additional requirements as may be notified or made available under [section 60][76].
     
     Section 33(2): amended, on 26 September 2002, by [section 22][317] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -1883,11 +1905,11 @@ Risk management programmes
     
 *   (1) A secondary processor who wishes to have a food safety programme recognised as a risk management programme to be operated on an intermittent basis may apply to the Director-General for registration of the programme as a risk management programme.
     
-    (2) The application must be in a manner approved by the Director-General and be accompanied by the prescribed fee (if any), and [sections 20(2) to 23][26] apply to any such application as if it were an application under section 20(1).
+    (2) The application must be in a manner approved by the Director-General and be accompanied by the prescribed fee (if any), and [sections 20(2) to 23][27] apply to any such application as if it were an application under section 20(1).
     
     (3) Where a food safety programme is registered as a risk management programme,---
         
-    *   (a) its operator may operate under it only at the times and in the manner, and on the giving of such notification, as may be specified in conditions (if any) imposed under [section 22][28]; and
+    *   (a) its operator may operate under it only at the times and in the manner, and on the giving of such notification, as may be specified in conditions (if any) imposed under [section 22][29]; and
     
     *   (b) during, or in respect of matters occurring during, any period when the operator operates under the programme as a risk management programme,---
             
@@ -1899,13 +1921,13 @@ Risk management programmes
     
     *   (c) during, or in respect of matters occurring during any period when the operator does not so operate, the operator is to be treated as subject to the Food Act regime, and, subject to any regulations made under this section, this Part does not apply in relation to that period or matters occurring during it; and
     
-    *   (d) despite anything in this Act or the [Food Act 1981][270], the risk management programme is subject to whichever audit or verification regime is specified by the Director-General under subsection (4).
+    *   (d) despite anything in this Act or the [Food Act 1981][271], the risk management programme is subject to whichever audit or verification regime is specified by the Director-General under subsection (4).
     
-    (4) In imposing conditions on registration under [section 22(3)][28], the Director-General---
+    (4) In imposing conditions on registration under [section 22(3)][29], the Director-General---
         
-    *   (a) must specify whether and to what extent the programme is to be subject to the verification requirements of this Act or the audit requirements of the [Food Act 1981][270]; and
+    *   (a) must specify whether and to what extent the programme is to be subject to the verification requirements of this Act or the audit requirements of the [Food Act 1981][271]; and
     
-    *   (b) in making such a specification, is to have regard to the desirability of continuity in audit or verification services, functions, or requirements and to any overseas market access requirements notified or made available under [section 60][75]; and
+    *   (b) in making such a specification, is to have regard to the desirability of continuity in audit or verification services, functions, or requirements and to any overseas market access requirements notified or made available under [section 60][76]; and
     
     *   (c) may impose such other conditions as are reasonable in light of the operator's proposed use of the programme.
     
@@ -1915,19 +1937,19 @@ Risk management programmes
         
     *   (a) the applicant; and
     
-    *   (b) the chief executive of the agency for the time being responsible for the administration of the [Food Act 1981][270], or the relevant territorial authority; and
+    *   (b) the chief executive of the agency for the time being responsible for the administration of the [Food Act 1981][271], or the relevant territorial authority; and
     
     *   (c) the applicant's recognised risk management programme verifying agency (if applicable); and
     
-    *   (d) the applicant's approved auditor under the [Food Act 1981][270].
+    *   (d) the applicant's approved auditor under the [Food Act 1981][271].
     
-    (7) Regulations and specifications made under [sections 166][255] and [167][256] may provide for matters relating to the registration of food safety programmes as risk management programmes under this Act. Such regulations may---
+    (7) Regulations and specifications made under [sections 166][256] and [167][257] may provide for matters relating to the registration of food safety programmes as risk management programmes under this Act. Such regulations may---
         
-    *   (a) specify or set criteria for determining whether all or any 1 or more classes of such programmes are to be subject to the verification regime of this Act or the audit regime of the [Food Act 1981][270]; and
+    *   (a) specify or set criteria for determining whether all or any 1 or more classes of such programmes are to be subject to the verification regime of this Act or the audit regime of the [Food Act 1981][271]; and
     
     *   (b) exempt persons or provide for their exemption, whether wholly, partially, or conditionally, from compliance with specified requirements imposed by or under either Act, where such exemptions are appropriate in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under the 2 Acts.
     
-    Section 34(6)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 34(6)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 #### References to recognised risk management programme verifying agency
     
@@ -1958,9 +1980,9 @@ Regulated control schemes
     
     *   (c) special provision is required for the purposes of overseas market access requirements.
     
-    Section 37(a): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 37(a): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 37(b): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 37(b): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 38 Nature of regulated control schemes
     
@@ -1970,17 +1992,17 @@ Regulated control schemes
     
     *   (b) having regard to considerations of economic efficiency, or to legal considerations that may require the exercise of statutory authority for the successful management of risk factors, it is necessary or appropriate that the measures be imposed generally rather than being dealt with by way of individual risk management programmes; or
     
-    *   (c) the measures are additional to those normally required to meet New Zealand animal product standards, and are necessary to meet access requirements of overseas markets as notified or made available under [section 60][75].
+    *   (c) the measures are additional to those normally required to meet New Zealand animal product standards, and are necessary to meet access requirements of overseas markets as notified or made available under [section 60][76].
     
     (2) A regulated control scheme may be imposed---
         
-    *   (a) by way of regulations made under [section 166][255] on the recommendation of the Minister, supplemented by specifications and other requirements set by the Director-General under [section 40][50]:
+    *   (a) by way of regulations made under [section 166][256] on the recommendation of the Minister, supplemented by specifications and other requirements set by the Director-General under [section 40][51]:
     
-    *   (b) in the case of measures required to meet access requirements of overseas markets that have been notified or made available under [section 60][75], by way of specifications and requirements set by the Director-General under [section 40][50].
+    *   (b) in the case of measures required to meet access requirements of overseas markets that have been notified or made available under [section 60][76], by way of specifications and requirements set by the Director-General under [section 40][51].
     
-    Section 38(1)(a): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 38(1)(a): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 38(1)(b): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 38(1)(b): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 39 Scope of regulated control schemes
     
@@ -1988,9 +2010,9 @@ Regulated control schemes
         
     *   (a) apply to all or any 1 or more classes of animal material or product, person or business, process or operation, premises or place, or area:
     
-    *   (b) without limiting the generality of [section 38][48], provide for matters such as surveying, monitoring, data collection, disease surveillance, sampling, testing, and analysis of or in relation to animal material and products and anything in the environment which may affect the suitability for its intended use of animal material or the fitness for intended purpose of animal products:
+    *   (b) without limiting the generality of [section 38][49], provide for matters such as surveying, monitoring, data collection, disease surveillance, sampling, testing, and analysis of or in relation to animal material and products and anything in the environment which may affect the suitability for its intended use of animal material or the fitness for intended purpose of animal products:
     
-    *   (c) authorise or provide for technical matters and specifications and matters of detail to be specified by the Director-General under [section 40][50].
+    *   (c) authorise or provide for technical matters and specifications and matters of detail to be specified by the Director-General under [section 40][51].
     
     (2) No regulated control scheme may be held invalid merely because it---
         
@@ -2000,9 +2022,9 @@ Regulated control schemes
     
     (3) The Minister may not recommend the making of regulations for the purposes of imposing a regulated control scheme unless he or she---
         
-    *   (a) is satisfied that any 1 or more of the criteria specified in [section 38(1)][48] apply; and
+    *   (a) is satisfied that any 1 or more of the criteria specified in [section 38(1)][49] apply; and
     
-    *   (b) is satisfied that appropriate consultation has been carried out in accordance with [section 163][250].
+    *   (b) is satisfied that appropriate consultation has been carried out in accordance with [section 163][251].
     
     (4) In determining whether or not to recommend the making of a regulated control scheme, or the content of such a scheme, the Minister is to have regard to---
         
@@ -2024,15 +2046,15 @@ Regulated control schemes
 
 ##### 40 Director-General may set specifications and other requirements for purposes of regulated control schemes
     
-*   (1) The Director-General may from time to time, by notice under [section 167][256], set specifications and other detailed requirements that---
+*   (1) The Director-General may from time to time, by notice under [section 167][257], set specifications and other detailed requirements that---
         
     *   (a) are specified or contemplated by or necessary or desirable to give effect to a regulated control scheme; or
     
-    *   (b) are necessary or desirable to meet overseas market access requirements that have been notified or made available under [section 60][75]; or
+    *   (b) are necessary or desirable to meet overseas market access requirements that have been notified or made available under [section 60][76]; or
     
     *   (c) are necessary or desirable to amplify the manner in which the requirements of any such scheme or requirements may or are to be met.
     
-    (2) The Director-General may set specifications and other requirements under subsection (1)(a) or (c) only after having regard to the matters specified in [section 39(4)][49] and (except where [section 163(5)][250] applies) after appropriate consultation carried out in accordance with section 163\.
+    (2) The Director-General may set specifications and other requirements under subsection (1)(a) or (c) only after having regard to the matters specified in [section 39(4)][50] and (except where [section 163(5)][251] applies) after appropriate consultation carried out in accordance with section 163\.
 
 ##### 41 Emergency control schemes
     
@@ -2050,13 +2072,13 @@ Regulated control schemes
     
     *   (b) it is not practicable in the circumstances of the particular case, in time to deal with the situation, to---
             
-        *   (i) issue or amend regulations or specifications in accordance with [sections 39][49] and [40][50]; or
+        *   (i) issue or amend regulations or specifications in accordance with [sections 39][50] and [40][51]; or
         
         *   (ii) otherwise effectively alleviate or minimise the relevant risk.
         
         
     
-    (2) Any such order may contain any of the matters specified in [sections 39][49] and [40][50].
+    (2) Any such order may contain any of the matters specified in [sections 39][50] and [40][51].
     
     (3) Any such order must as soon as practicable be---
         
@@ -2076,7 +2098,7 @@ Regulated control schemes
     
     *   (b) unless sooner revoked, expires at the end of 6 months after the date of its publication or notification in the _Gazette_, unless extended by the Minister by notice in the _Gazette_ for a further period not exceeding 6 months (at the end of which period it expires).
     
-    (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but [section 163][250] does not apply to an order under this section.
+    (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but [section 163][251] does not apply to an order under this section.
     
     (7) In the case of inconsistency between a Ministerial order under this section and any other regulated control scheme, the Ministerial order prevails.
     
@@ -2084,9 +2106,9 @@ Regulated control schemes
     
     (9) Despite anything in [section 28][322] of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
     
-    (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][281] and must be presented to the House of Representatives under [section 41][282] of that Act.
+    (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][276] and must be presented to the House of Representatives under [section 41][277] of that Act.
     
-    Section 41(10): replaced, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 41(10): replaced, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 4  
 Animal product standards and specifications
@@ -2107,7 +2129,7 @@ Animal product standards and specifications
 
 ##### 44 Regulations may prescribe animal product standards
     
-*   (1) Regulations may be made under [section 166][255], on the recommendation of the Minister, prescribing standards that specify the criteria that must be met to ensure that animal products produced or processed for reward or trade or for export from New Zealand are fit for intended purpose.
+*   (1) Regulations may be made under [section 166][256], on the recommendation of the Minister, prescribing standards that specify the criteria that must be met to ensure that animal products produced or processed for reward or trade or for export from New Zealand are fit for intended purpose.
     
     (2) Without limiting the generality of subsection (1), standards may be prescribed for the purposes of, or in relation to, all or any of the following matters:
         
@@ -2143,7 +2165,7 @@ Animal product standards and specifications
     
     *   (c) the same class of animal material or product, person or business, activity, or related matter or thing in different circumstances.
     
-    (4) A standard may authorise or provide for specifications and matters of detail to be specified by the Director-General under [section 45][56].
+    (4) A standard may authorise or provide for specifications and matters of detail to be specified by the Director-General under [section 45][57].
     
     (5) Without limiting the generality of subsection (1), a class of animal material or product, person or business, activity, or matter may be defined by reference to the premises or place, area, or locality in which the relevant animal material or product or matter or thing, is produced, processed, or otherwise dealt with, or occurs.
     
@@ -2163,17 +2185,17 @@ Animal product standards and specifications
     
     *   (d) such other matters as the Minister considers relevant.
     
-    (8) The Minister may not recommend the prescribing of any animal product standard unless the Minister is satisfied that appropriate consultation has been carried out in accordance with [section 163][250].
+    (8) The Minister may not recommend the prescribing of any animal product standard unless the Minister is satisfied that appropriate consultation has been carried out in accordance with [section 163][251].
 
 ##### 45 Director-General may issue specifications supplementary to animal product standards
     
-*   (1) The Director-General may from time to time, by notice under [section 167][256], set specifications and other detailed requirements that---
+*   (1) The Director-General may from time to time, by notice under [section 167][257], set specifications and other detailed requirements that---
         
-    *   (a) are specified or contemplated by or necessary to give effect to any standard prescribed under [section 44][55]:
+    *   (a) are specified or contemplated by or necessary to give effect to any standard prescribed under [section 44][56]:
     
     *   (b) are necessary or desirable to amplify the manner in which any such standard may or must be achieved.
     
-    (2) The Director-General may set specifications under this section only after having regard to the matters specified in [section 44(7)][55] and (except where [section 163(5)][250] applies) after appropriate consultation carried out in accordance with section 163\.
+    (2) The Director-General may set specifications under this section only after having regard to the matters specified in [section 44(7)][56] and (except where [section 163(5)][251] applies) after appropriate consultation carried out in accordance with section 163\.
 
 ##### 46 Emergency animal product standards and specifications
     
@@ -2191,13 +2213,13 @@ Animal product standards and specifications
     
     *   (b) it is not practicable in the circumstances of the particular case, in time to deal with the situation, to---
             
-        *   (i) issue or amend regulations or specifications in accordance with [sections 44][55] and [45][56]; or
+        *   (i) issue or amend regulations or specifications in accordance with [sections 44][56] and [45][57]; or
         
         *   (ii) otherwise effectively alleviate or minimise the relevant risk.
         
         
     
-    (2) Any such order may contain any of the matters specified in [sections 44][55] and [45][56].
+    (2) Any such order may contain any of the matters specified in [sections 44][56] and [45][57].
     
     (3) Any such order must as soon as practicable be---
         
@@ -2217,17 +2239,17 @@ Animal product standards and specifications
     
     *   (b) unless sooner revoked, expires at the end of 6 months after the date of its publication or notification in the _Gazette_, unless extended by the Minister by notice in the _Gazette_ for a further period not exceeding 6 months (at the end of which period it expires).
     
-    (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but [section 163][250] does not apply to an order under this section.
+    (6) Before making an order under this section, the Minister must ensure that such consultation as is reasonable and practicable in the circumstances has been undertaken, but [section 163][251] does not apply to an order under this section.
     
-    (7) In the case of inconsistency between a Ministerial order under this section and any animal product standard or specification prescribed or issued under [section 44][55] or [section 45][56], the Ministerial order prevails.
+    (7) In the case of inconsistency between a Ministerial order under this section and any animal product standard or specification prescribed or issued under [section 44][56] or [section 45][57], the Ministerial order prevails.
     
     (8) A Ministerial order may be amended at any time in the same manner as it was made.
     
     (9) Despite anything in [section 28][322] of the State Sector Act 1988, the Minister may not delegate to any other person the power to make orders under this section, or to extend or revoke such orders.
     
-    (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][281] and must be presented to the House of Representatives under [section 41][282] of that Act.
+    (10) An order made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][276] and must be presented to the House of Representatives under [section 41][277] of that Act.
     
-    Section 46(10): replaced, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 46(10): replaced, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 5  
 Export of animal material and products
@@ -2252,9 +2274,9 @@ Export of animal material and products
     
     *   (b) the animal material or product or consignment or person concerned is exempted from the requirements of this section---
             
-        *   (i) by Order in Council made under [section 9][12]; or
+        *   (i) by Order in Council made under [section 9][13]; or
         
-        *   (ii) by regulations under this Act or by notice given by the Director-General under [section 50][62].
+        *   (ii) by regulations under this Act or by notice given by the Director-General under [section 50][63].
         
         
     
@@ -2264,13 +2286,13 @@ Export of animal material and products
     
     *   (b) all animal material or products in respect of which---
             
-        *   (i) requirements are notified or made available under [section 60A][76]; and
+        *   (i) requirements are notified or made available under [section 60A][77]; and
         
         *   (ii) an official assurance is required:
         
         
     
-    *   (c) such other animal material or products as are specified by Order in Council made under [section 49][61].
+    *   (c) such other animal material or products as are specified by Order in Council made under [section 49][62].
     
     Section 48(1)(b): amended, on 1 June 2005, by [section 14(1)][324] of the Animal Products Amendment Act 2005 (2005 No 26).
     
@@ -2278,7 +2300,7 @@ Export of animal material and products
 
 ##### 49 Registration of exporters of non-edible, etc, material or products may be required by Order in Council
     
-*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of exporter of animal material or products, being animal material or products of a kind not described in [section 48(2)(a) or (b)][60], to register as exporters under this Part in respect of such animal material or products as may be specified in the order.
+*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of exporter of animal material or products, being animal material or products of a kind not described in [section 48(2)(a) or (b)][61], to register as exporters under this Part in respect of such animal material or products as may be specified in the order.
     
     (2) Without limiting the generality of subsection (1), the animal material or products to which the order relates may be defined by reference to---
         
@@ -2304,13 +2326,13 @@ Export of animal material and products
         
         
     
-    *   (b) in the case of an order recommended on a ground specified in paragraph (a)(i), there has been appropriate consultation on the subject matter of the order in accordance with [section 163][250].
+    *   (b) in the case of an order recommended on a ground specified in paragraph (a)(i), there has been appropriate consultation on the subject matter of the order in accordance with [section 163][251].
     
     
 
 ##### 50 Director-General may exempt certain consignments
     
-*   (1) The Director-General may, by notice under [section 167][256], exempt from all or any of the requirements of this Part any particular consignment or animal material or product or person, or class of consignments or animal material or products or persons, if the Director-General is satisfied that the consignment or animal material or product to be exported is---
+*   (1) The Director-General may, by notice under [section 167][257], exempt from all or any of the requirements of this Part any particular consignment or animal material or product or person, or class of consignments or animal material or products or persons, if the Director-General is satisfied that the consignment or animal material or product to be exported is---
         
     *   (a) to be used for the purposes of research or development; or
     
@@ -2332,7 +2354,7 @@ Export of animal material and products
             
         *   (i) any relevant animal product standards and specifications; and
         
-        *   (ii) any relevant requirements pertaining to exports notified or made available under [section 60A][76]; and
+        *   (ii) any relevant requirements pertaining to exports notified or made available under [section 60A][77]; and
         
         
     
@@ -2342,7 +2364,7 @@ Export of animal material and products
         
         *   (ii) are refused entry by the foreign government concerned; or
         
-        *   (iii) do not or no longer meet relevant requirements notified or made available under [section 60A][76]; or
+        *   (iii) do not or no longer meet relevant requirements notified or made available under [section 60A][77]; or
         
         *   (iv) do not have, or no longer have, the required official assurances; and
         
@@ -2398,7 +2420,7 @@ Export of animal material and products
     
     *   (b) the date of registration and the date of expiry of that registration:
     
-    *   (ba) the date of any deregistration under [section 58][71]:
+    *   (ba) the date of any deregistration under [section 58][72]:
     
     *   (c) such other particulars as may be required by or under this Act.
     
@@ -2408,15 +2430,15 @@ Export of animal material and products
 
 ##### 54 Applications for registration
     
-*   (1) A person who intends to export any animal material or product to which this Part applies (other than animal material or product exempted under [section 9][12] or [section 50][62] or by regulations under this Act) must apply to the Director-General, in a manner approved by the Director-General, for registration on the register of exporters.
+*   (1) A person who intends to export any animal material or product to which this Part applies (other than animal material or product exempted under [section 9][13] or [section 50][63] or by regulations under this Act) must apply to the Director-General, in a manner approved by the Director-General, for registration on the register of exporters.
     
     (2) On receipt of a properly made application accompanied by the prescribed fee (if any), the Director-General must register the applicant as an exporter unless the Director-General considers that---
         
     *   (a) the applicant is not a fit and proper person to be registered as an exporter, having regard to any conviction of the applicant or any director or manager of the applicant, whether in New Zealand or overseas, for any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of businesses of a kind (whether in New Zealand or elsewhere) that are regulated under this Act; or
     
-    *   (b) there has in the past been a serious or repeated failure by the applicant to comply with duties of the type specified in [section 51][63]; or
+    *   (b) there has in the past been a serious or repeated failure by the applicant to comply with duties of the type specified in [section 51][64]; or
     
-    *   (c) there are other good grounds for considering that the applicant is likely in the future to fail to comply with the duties specified in [section 51][63]; or
+    *   (c) there are other good grounds for considering that the applicant is likely in the future to fail to comply with the duties specified in [section 51][64]; or
     
     *   (d) subsection (3) applies to disqualify the person.
     
@@ -2464,15 +2486,15 @@ Export of animal material and products
     
 *   (1) Every registered exporter is liable to pay, either annually or at such greater interval as may be prescribed, the prescribed fee (if any), in respect of their continued registration.
     
-    (2) Any failure to pay the fee by the due date that persists for more than 30 days may result in deregistration under [section 58][71].
+    (2) Any failure to pay the fee by the due date that persists for more than 30 days may result in deregistration under [section 58][72].
 
 ##### 58 Deregistration of exporters
     
 *   (1) The Director-General may remove a person from the register of exporters if satisfied that---
         
-    *   (a) there has been a serious or repeated failure by the applicant to comply with the duties specified in [section 51][63]; or
+    *   (a) there has been a serious or repeated failure by the applicant to comply with the duties specified in [section 51][64]; or
     
-    *   (b) the person is disqualified from being registered as an exporter by virtue of [section 54(3)][67], or is not a fit and proper person to be registered as an exporter having regard to any conviction of a kind referred to in section 54(2)(a) that---
+    *   (b) the person is disqualified from being registered as an exporter by virtue of [section 54(3)][68], or is not a fit and proper person to be registered as an exporter having regard to any conviction of a kind referred to in section 54(2)(a) that---
             
         *   (i) arose after the person's registration as an exporter; or
         
@@ -2480,7 +2502,7 @@ Export of animal material and products
         
         
     
-    *   (c) any failure to pay the annual fee or other fee prescribed under [section 57][70] by the due date has persisted for more than 30 days.
+    *   (c) any failure to pay the annual fee or other fee prescribed under [section 57][71] by the due date has persisted for more than 30 days.
     
     (2) Before removing a person from the register, the Director-General must---
         
@@ -2490,7 +2512,7 @@ Export of animal material and products
     
     (3) Where the Director-General considers it urgently necessary in the interests of human or animal health, or the integrity or reputation of New Zealand exports,---
         
-    *   (a) the Director-General may direct the exporter to suspend all export operations, or such operations as the Director-General may specify, pending a final determination as to whether the exporter should be deregistered, and may also give such directions under [section 82][120] as appear to the Director-General to be reasonable in relation to any animal material or products under the control of the exporter at the time the direction is given; and
+    *   (a) the Director-General may direct the exporter to suspend all export operations, or such operations as the Director-General may specify, pending a final determination as to whether the exporter should be deregistered, and may also give such directions under [section 82][121] as appear to the Director-General to be reasonable in relation to any animal material or products under the control of the exporter at the time the direction is given; and
     
     *   (b) any such direction takes effect from the date of the notification under subsection (2), or such later date as the Director-General specifies; and
     
@@ -2506,7 +2528,7 @@ Export of animal material and products
 
 ##### 59 Refusal to register or decision to deregister may be reviewed in certain cases
     
-*   If a person acting under the delegated authority of the Director-General refuses an application to register a person as an exporter, or deregisters a person, the person may seek a review of that decision under [section 162][248].
+*   If a person acting under the delegated authority of the Director-General refuses an application to register a person as an exporter, or deregisters a person, the person may seek a review of that decision under [section 162][249].
 
 #### Export requirements and official assurances
     
@@ -2538,7 +2560,7 @@ Export of animal material and products
     
 *   (1) The Director-General must---
         
-    *   (a) either notify or ensure that there is made available to registered exporters any export requirements specified under [section 60][75]; and
+    *   (a) either notify or ensure that there is made available to registered exporters any export requirements specified under [section 60][76]; and
     
     *   (b) make those requirements available for inspection free of charge, or for purchase at reasonable cost, to such exporters, operators of risk management programmes, and other persons as are affected by the requirements.
     
@@ -2552,19 +2574,19 @@ Export of animal material and products
 
 ##### 60B Exemption from requirements of food standards where appropriate
     
-*   (1) The Director-General may, by notice under [section 167][256], where satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market,---
+*   (1) The Director-General may, by notice under [section 167][257], where satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market,---
         
-    *   (a) exempt from the requirements of any food standards issued under [Part 2A][330] of the Food Act 1981 or any standards specified by notice under [section 167][256] of this Act any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand to any destination other than Australia:
+    *   (a) exempt from the requirements of any food standards issued under [Part 2A][330] of the Food Act 1981 or any standards specified by notice under [section 167][257] of this Act any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand to any destination other than Australia:
     
     *   (b) exempt from the requirements of any such food standards that apply only in New Zealand any 1 or more classes or descriptions of animal material or animal product that is intended for export to Australia.
     
-    (2) Regulations made under [section 166][255] may also provide for exemptions of a kind referred to in subsection (1)(a) or (b).
+    (2) Regulations made under [section 166][256] may also provide for exemptions of a kind referred to in subsection (1)(a) or (b).
     
     Section 60B: inserted, on 1 June 2005, by [section 17][329] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ##### 61 Director-General may issue official assurances
     
-*   (1) The Director-General, or a person authorised by the Director-General under [section 65][83], may issue an official assurance in respect of animal material or animal product.
+*   (1) The Director-General, or a person authorised by the Director-General under [section 65][84], may issue an official assurance in respect of animal material or animal product.
     
     (2) Without limiting the matters to which an official assurance may apply, an official assurance is a general statement to a foreign government, or an agent of a foreign government, attesting that, as appropriate, any 1 or more of the following applies in respect of any animal material or animal product:
         
@@ -2572,7 +2594,7 @@ Export of animal material and products
     
     *   (b) the animal product concerned meets the applicable animal product standards set under this Act:
     
-    *   (c) any requirements specified by notice under [section 60A][76] that are stated in the assurance have been met:
+    *   (c) any requirements specified by notice under [section 60A][77] that are stated in the assurance have been met:
     
     *   (d) the situation in New Zealand, in relation to any matter concerning animal material or animal products, is as stated in the assurance.
     
@@ -2608,7 +2630,7 @@ Export of animal material and products
     
     (3) An official assurance may be communicated to its appropriate destination by writing, fax, electronic means, or any other form of communication that is accurate, clear, and verifiable.
     
-    (4) The Director-General may, by notice under [section 167][256], issue specifications setting out requirements and procedures for the issue and control of official assurances.
+    (4) The Director-General may, by notice under [section 167][257], issue specifications setting out requirements and procedures for the issue and control of official assurances.
 
 ##### 63 Obtaining of official assurance
     
@@ -2649,17 +2671,17 @@ Game estates
 
 ##### 65B What is a game estate?
     
-*   A game estate is a place within which animals are kept (whether all of the time or only some of the time), as if in the wild, for the purpose of providing opportunities for persons to hunt or catch them as recreational catch as if in the wild, being animals of a species, kind, or description specified for the purposes of this section by notice under [section 167][256].
+*   A game estate is a place within which animals are kept (whether all of the time or only some of the time), as if in the wild, for the purpose of providing opportunities for persons to hunt or catch them as recreational catch as if in the wild, being animals of a species, kind, or description specified for the purposes of this section by notice under [section 167][257].
     
     Section 65B: inserted, on 26 September 2002, by [section 29][333] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 65C Use and disposal of animal material and product from game estate animals
     
-*   (1) A client hunter may kill or process a game estate animal himself or herself (either on the game estate or on the client hunter's own property), or have it processed by a listed homekill or recreational catch service provider, in accordance with [section 68][100].
+*   (1) A client hunter may kill or process a game estate animal himself or herself (either on the game estate or on the client hunter's own property), or have it processed by a listed homekill or recreational catch service provider, in accordance with [section 68][101].
     
     (2) A game estate operator may dress and process a game estate animal for a client hunter only if the operator is a listed homekill or recreational catch service provider, except as provided in subsection (3).
     
-    (3) Nothing in [Part 6][97] or in subsection (2) of this section requires a game estate operator to be listed as a homekill or recreational catch service provider if---
+    (3) Nothing in [Part 6][98] or in subsection (2) of this section requires a game estate operator to be listed as a homekill or recreational catch service provider if---
         
     *   (a) the operator only carries out limited processing, such as removing trophy heads or skinning killed animals; or
     
@@ -2667,13 +2689,13 @@ Game estates
     
     (4) A game estate operator may also---
         
-    *   (a) in accordance with [section 67][99], have any game estate animal from his or her estate (whether or not caught or killed by a client hunter) killed or processed by a listed homekill or recreational catch service provider for the operator's own use or consumption as if the operator were the owner and farmer of the animal:
+    *   (a) in accordance with [section 67][100], have any game estate animal from his or her estate (whether or not caught or killed by a client hunter) killed or processed by a listed homekill or recreational catch service provider for the operator's own use or consumption as if the operator were the owner and farmer of the animal:
     
     *   (b) sell or otherwise dispose of any parts of a game estate animal (including such things as skins, hides, and trophy heads) from the operator's estate, by whomever caught or killed or processed, that are not for human or animal consumption:
     
-    *   (c) sell or dispose of any parts of such an animal to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][256].
+    *   (c) sell or dispose of any parts of such an animal to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][257].
     
-    (5) A game estate operator who is listed under this Part may also present killed game estate animals for primary processing in accordance with [Parts 2 to 4][14] for use or consumption as regulated animal product.
+    (5) A game estate operator who is listed under this Part may also present killed game estate animals for primary processing in accordance with [Parts 2 to 4][15] for use or consumption as regulated animal product.
     
     Section 65C: inserted, on 26 September 2002, by [section 29][333] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -2683,13 +2705,13 @@ Game estates
         
     *   (a) any edible parts of game estate animals killed by client hunters on the game estate are allowed by the operator to be removed by the client hunters (except to the extent they are intended for use as trophies); or
     
-    *   (b) the operator wishes to supply game estate animal material for processing in accordance with [Parts 2 to 4][14] for use or consumption as regulated animal product.
+    *   (b) the operator wishes to supply game estate animal material for processing in accordance with [Parts 2 to 4][15] for use or consumption as regulated animal product.
     
     Section 65D: inserted, on 26 September 2002, by [section 29][333] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 65E Director-General to maintain list of game estates
     
-*   (1) The Director-General must keep and maintain a list of all game estates to which [section 65D][88] applies.
+*   (1) The Director-General must keep and maintain a list of all game estates to which [section 65D][89] applies.
     
     (2) The purpose of the list is---
         
@@ -2739,7 +2761,7 @@ Game estates
     
 *   (1) On receipt of a properly made application accompanied by the prescribed fee (if any), the Director-General must list the applicant's operation as a game estate if satisfied that---
         
-    *   (a) the operation is a game estate to which [section 65D][88] applies; and
+    *   (a) the operation is a game estate to which [section 65D][89] applies; and
     
     *   (b) having regard to the objects and requirements of this Act, there is no good reason why the operation should not be listed as a game estate.
     
@@ -2767,7 +2789,7 @@ Game estates
         
     *   (a) the listed operator so requests; or
     
-    *   (b) the Director-General is satisfied that the criteria referred to in [section 65H][92] no longer apply, or the place is no longer operated as a game estate; or
+    *   (b) the Director-General is satisfied that the criteria referred to in [section 65H][93] no longer apply, or the place is no longer operated as a game estate; or
     
     *   (c) any failure to pay the listing fee (if any) by the due date has persisted for more than 30 days.
     
@@ -2777,13 +2799,13 @@ Game estates
     
     *   (b) give the person a reasonable opportunity, within the time specified in the written notice, to explain why the game estate should not be delisted, or to pay the unpaid fee.
     
-    (3) The delisting of a game estate under this section does not affect the right of a person to make a further application for listing under [section 65G][91].
+    (3) The delisting of a game estate under this section does not affect the right of a person to make a further application for listing under [section 65G][92].
     
     Section 65J: inserted, on 26 September 2002, by [section 29][333] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 65K Review of decision to refuse to list, or to delist
     
-*   If a person acting under the delegated authority of the Director-General refuses an application to list an operation as a game estate, or delists a game estate, the person aggrieved by the decision may seek a review of the decision under [section 162][248].
+*   If a person acting under the delegated authority of the Director-General refuses an application to list an operation as a game estate, or delists a game estate, the person aggrieved by the decision may seek a review of the decision under [section 162][249].
     
     Section 65K: inserted, on 26 September 2002, by [section 29][333] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -2812,7 +2834,7 @@ Homekill and recreational catch
     
     *   (c) dual operator butchers to operate under a risk management programme that specifically recognises and takes account of the risk factors involved in carrying out dual operations at the same premises or place.
     
-    Section 66(2)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 66(2)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 67 Homekill allowed
     
@@ -2820,9 +2842,9 @@ Homekill and recreational catch
         
     *   (a) killing or processing the animal himself or herself on his or her own property; or
     
-    *   (b) in the case of an animal owner who has been actively engaged in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the killing of the animal, having the animal killed or processed, otherwise than in accordance with [Parts 2 to 4][14], by a listed homekill or recreational catch service provider on the service provider's premises or place or the animal owner's own property,---
+    *   (b) in the case of an animal owner who has been actively engaged in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the killing of the animal, having the animal killed or processed, otherwise than in accordance with [Parts 2 to 4][15], by a listed homekill or recreational catch service provider on the service provider's premises or place or the animal owner's own property,---
     
-    so long as the resulting homekill product is for the use or consumption of the animal owner (including his or her family or household), and not for trade; and [Parts 2 to 4][14] do not apply to any such homekill.
+    so long as the resulting homekill product is for the use or consumption of the animal owner (including his or her family or household), and not for trade; and [Parts 2 to 4][15] do not apply to any such homekill.
     
     (2) For the purposes of subsection (1), homekill product will be treated as being for the use or consumption of the owner, and not for trade, if---
         
@@ -2832,7 +2854,7 @@ Homekill and recreational catch
             
         *   (i) are not for human or animal consumption; or
         
-        *   (ii) are sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][256].
+        *   (ii) are sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][257].
         
         
     
@@ -2858,9 +2880,9 @@ Homekill and recreational catch
         
     *   (a) killing or processing the animal himself or herself, on his or her own property or at or near the place where the animal was hunted or harvested; or
     
-    *   (b) having the animal killed or processed, otherwise than in accordance with [Parts 2 to 4][14], by a listed homekill or recreational catch service provider, on the service provider's premises or place or on the catcher's property or at or near the place where the animal was hunted or harvested,---
+    *   (b) having the animal killed or processed, otherwise than in accordance with [Parts 2 to 4][15], by a listed homekill or recreational catch service provider, on the service provider's premises or place or on the catcher's property or at or near the place where the animal was hunted or harvested,---
     
-    so long as the recreational catch product is for the use or consumption of the catcher (including members of the catcher's party or family or household), and not for trade; and [Parts 2 to 4][14] do not apply to any such recreational catch.
+    so long as the recreational catch product is for the use or consumption of the catcher (including members of the catcher's party or family or household), and not for trade; and [Parts 2 to 4][15] do not apply to any such recreational catch.
     
     (2) For the purposes of subsection (1), recreational catch product will be treated as being for the use or consumption of the catcher, and not for trade, if---
         
@@ -2870,31 +2892,31 @@ Homekill and recreational catch
             
         *   (i) are not for human or animal consumption; or
         
-        *   (ii) are sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][256].
+        *   (ii) are sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][257].
         
         
     
-    (3) For the purposes of this Act, customary catch that is duly authorised under the [Fisheries Act 1996][269] is to be treated as recreational catch that complies with the requirements of this section, so long as it is used for the purposes for which such catch is authorised.
+    (3) For the purposes of this Act, customary catch that is duly authorised under the [Fisheries Act 1996][270] is to be treated as recreational catch that complies with the requirements of this section, so long as it is used for the purposes for which such catch is authorised.
     
     Section 68(2)(b): substituted, on 26 September 2002, by [section 31][335] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 69 Homekill and recreational catch service providers
     
-*   (1) Despite anything in this Act, but subject to [section 70][102], the following persons may kill or process for reward, for the owner or hunter or harvester of the animal, any animal or animal material that is homekill or recreational catch without needing to have or comply with a risk management programme, or to comply with any other requirement imposed by or under [Parts 2 to 4][14]:
+*   (1) Despite anything in this Act, but subject to [section 70][103], the following persons may kill or process for reward, for the owner or hunter or harvester of the animal, any animal or animal material that is homekill or recreational catch without needing to have or comply with a risk management programme, or to comply with any other requirement imposed by or under [Parts 2 to 4][15]:
         
-    *   (a) persons listed as homekill or recreational catch service providers under [section 76][109]:
+    *   (a) persons listed as homekill or recreational catch service providers under [section 76][110]:
     
     *   (b) persons who are in the business of providing meals and who prepare and serve recreational catch as a meal to its catcher and members of the catcher's party:
     
     *   (c) any other class of persons specified for the purposes of this section by regulations made under this Act.
     
-    (2) Except as provided in [section 70][102], a person listed as a homekill or recreational catch service provider under this Part is exempt from the requirement to operate under a risk management programme in respect of the processing of animal material or products that are homekill or recreational catch; and nothing in [Parts 2 to 4][14] applies in respect of such operations.
+    (2) Except as provided in [section 70][103], a person listed as a homekill or recreational catch service provider under this Part is exempt from the requirement to operate under a risk management programme in respect of the processing of animal material or products that are homekill or recreational catch; and nothing in [Parts 2 to 4][15] applies in respect of such operations.
     
-    (3) Nothing in [section 131(2)(c)][212] prevents a person referred to in paragraphs (a) to (c) of subsection (1) from trading or otherwise disposing of animal material derived from the processing of homekill or recreational catch if the animal material---
+    (3) Nothing in [section 131(2)(c)][213] prevents a person referred to in paragraphs (a) to (c) of subsection (1) from trading or otherwise disposing of animal material derived from the processing of homekill or recreational catch if the animal material---
         
     *   (a) is skins, hides, horns, antlers, or other material that is not for human or animal consumption; or
     
-    *   (b) is sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][256].
+    *   (b) is sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under [section 167][257].
     
     Section 69(3): added, on 26 September 2002, by [section 32][336] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -2908,7 +2930,7 @@ Homekill and recreational catch
     
     (2) Subsection (1) does not apply to---
         
-    *   (a) retail butchers acting in accordance with [section 71][103]; or
+    *   (a) retail butchers acting in accordance with [section 71][104]; or
     
     *   (b) persons who are in the business of providing meals containing or consisting of regulated animal product, to the extent only that those persons also prepare and serve recreational catch as a meal to its catcher and members of the catcher's party; or
     
@@ -2934,15 +2956,15 @@ Homekill and recreational catch
     
     *   (ba) regulated animal product must be processed and stored separately from any homekill or recreational catch animal material or product:
     
-    *   (c) the dual operator butcher must operate under a risk management programme in respect of all regulated animal products within the retail butchery business (and accordingly is deemed to have made an election under [section 32][40]) at the premises or place concerned, and may not operate under the Food Act regime at the premises or place:
+    *   (c) the dual operator butcher must operate under a risk management programme in respect of all regulated animal products within the retail butchery business (and accordingly is deemed to have made an election under [section 32][41]) at the premises or place concerned, and may not operate under the Food Act regime at the premises or place:
     
-    *   (d) in addition to any other matters required under [Part 2][14], the risk management programme of the dual operator butcher must identify and specify the following matters:
+    *   (d) in addition to any other matters required under [Part 2][15], the risk management programme of the dual operator butcher must identify and specify the following matters:
             
         *   (i) the unique risk factors inherent in having homekill or recreational catch processed in a place or premises where regulated animal products are also processed or traded:
         
         *   (ii) the measures to be taken to ensure that homekill and recreational catch products are not confused with regulated animal products, and do not enter the dual operator's normal retail butcher trade or other trade in regulated animal products for human or animal consumption:
         
-        *   (iii) the measures to be taken to ensure that no product from the business, whether homekill, recreational catch, or regulated animal product for human or animal consumption, is exported, whether by the service provider or any other person (otherwise than as specifically provided by [section 50][62] in the case of the person whose homekill or recreational catch it was).
+        *   (iii) the measures to be taken to ensure that no product from the business, whether homekill, recreational catch, or regulated animal product for human or animal consumption, is exported, whether by the service provider or any other person (otherwise than as specifically provided by [section 50][63] in the case of the person whose homekill or recreational catch it was).
         
         
     
@@ -2950,7 +2972,7 @@ Homekill and recreational catch
     
     Section 71(1)(ba): inserted, on 26 September 2002, by [section 34][338] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 71(1)(d)(i): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 71(1)(d)(i): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
 
 ##### 72 Product processed by homekill or recreational catch service provider ceases to be regulated animal product
     
@@ -3028,7 +3050,7 @@ Homekill and recreational catch
     
     (3) Before removing a person from the list, the Director-General must notify the person in writing of his or her intention, and give the person a reasonable opportunity, within the time specified in the written notice, to pay the unpaid fee.
     
-    (4) The removal of a person from the list under this section does not affect their right to make a further application for listing under [section 75][108].
+    (4) The removal of a person from the list under this section does not affect their right to make a further application for listing under [section 75][109].
 
 ## Part 7  
 Officers, powers, etc
@@ -3061,7 +3083,7 @@ Officers, powers, etc
 
 ##### 80 Director-General may issue notices
     
-*   The Director-General may from time to time issue notices as specified in [section 167][256].
+*   The Director-General may from time to time issue notices as specified in [section 167][257].
 
 ##### 81 Director-General may give directions
     
@@ -3079,17 +3101,17 @@ Officers, powers, etc
     
     *   (e) any person in control of, or reasonably appearing to be in control of, any animal material or product.
     
-    (3) A direction must be given to a recognised class by notifying the class in accordance with [section 112W][187].
+    (3) A direction must be given to a recognised class by notifying the class in accordance with [section 112W][188].
     
     Section 81(1): amended, on 31 August 2012, by [section 9(1)][344] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 81(1): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 81(1): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 81(3): inserted, on 31 August 2012, by [section 9(2)][344] of the Animal Products Amendment Act 2012 (2012 No 59).
 
 ##### 81A Director-General may require declarations as to supply or movement of animals, animal material, or animal products
     
-*   (1) The Director-General may, by notice under [section 167][256], require the owner or person in control (or reasonably appearing to be in control) of any animal, animal material, or animal product to complete and supply, in accordance with the notice, a declaration under this section where---
+*   (1) The Director-General may, by notice under [section 167][257], require the owner or person in control (or reasonably appearing to be in control) of any animal, animal material, or animal product to complete and supply, in accordance with the notice, a declaration under this section where---
         
     *   (a) there is to be a change of ownership in the animal, animal material, or animal product concerned; or
     
@@ -3195,11 +3217,11 @@ Officers, powers, etc
     
     (7) A notice may at any time be amended or revoked in the same manner as that in which it was issued.
     
-    (8) [Section 164(2) to (4)][251] applies to the issue of notices under this section as if---
+    (8) [Section 164(2) to (4)][252] applies to the issue of notices under this section as if---
         
-    *   (a) they were notices of a kind listed in [section 167][256]; and
+    *   (a) they were notices of a kind listed in [section 167][257]; and
     
-    *   (b) [section 164(3)][251] applied in cases where it was not possible, reasonable, or practical to notify a matter in accordance with section 164(2).
+    *   (b) [section 164(3)][252] applied in cases where it was not possible, reasonable, or practical to notify a matter in accordance with section 164(2).
     
     (9) For the purposes of this section,---
         
@@ -3213,13 +3235,13 @@ Officers, powers, etc
     
 *   (1) This section applies in relation to a situation where the Director-General---
         
-    *   (a) suspends operations under a registered risk management programme in accordance with [section 27][33]; or
+    *   (a) suspends operations under a registered risk management programme in accordance with [section 27][34]; or
     
-    *   (b) deregisters a risk management programme in accordance with [section 28][34]; or
+    *   (b) deregisters a risk management programme in accordance with [section 28][35]; or
     
-    *   (c) accepts a surrender of registration under [section 29][36], in circumstances where no agreement has been reached on how it is proposed to deal with any remaining animal material or product covered by the risk management programme; or
+    *   (c) accepts a surrender of registration under [section 29][37], in circumstances where no agreement has been reached on how it is proposed to deal with any remaining animal material or product covered by the risk management programme; or
     
-    *   (d) suspends export operations of an exporter in accordance with [section 58][71]; or
+    *   (d) suspends export operations of an exporter in accordance with [section 58][72]; or
     
     *   (e) suspends an operation subject to a regulated control scheme, or deregisters or accepts deregistration of an operator or operation that is subject to a regulated control scheme, as is provided for in the relevant regulations.
     
@@ -3269,7 +3291,7 @@ Officers, powers, etc
     
     (2) The Director-General may, for the purpose of examining, controlling, or disposing of any material that he or she has reason to believe is being or has been misrepresented as being animal product, or as being suitable for inclusion in or processing into animal product when it is not, issue a notice in writing directing the recall of animal material and requiring it to be taken to a place specified in the notice, or a place agreed to between the Director-General and the recipient of the notice.
     
-    (3) A notice under this section (a _recall notice_) may also specify any requirements that may be imposed under [section 90][129] or [section 91][130].
+    (3) A notice under this section (a _recall notice_) may also specify any requirements that may be imposed under [section 90][130] or [section 91][131].
     
     (4) A recall notice may be directed to any 1 or more persons who own or have control over the animal material or product in question.
     
@@ -3285,11 +3307,11 @@ Officers, powers, etc
     
     *   (b) the Director-General may recover the costs and expenses reasonably incurred in assuming control of the material or product as a debt due from that person.
     
-    (7) Nothing in this section affects the power of the Director-General to issue a statement of a kind referred to in [section 84][122].
+    (7) Nothing in this section affects the power of the Director-General to issue a statement of a kind referred to in [section 84][123].
 
 ##### 86 Delegation by Director-General
     
-*   The Director-General may delegate under [section 41][348] of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act, except the power to issue statements under [section 84][122].
+*   The Director-General may delegate under [section 41][348] of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act, except the power to issue statements under [section 84][123].
 
 #### Powers of animal product officers
 
@@ -3313,7 +3335,7 @@ Officers, powers, etc
     
     (3) \[Repealed\]
     
-    (4) An animal product officer may, pursuant to and in accordance with the conditions of a search warrant issued under [section 94][136], enter any place (including a dwellinghouse or a marae) specified in the warrant.
+    (4) An animal product officer may, pursuant to and in accordance with the conditions of a search warrant issued under [section 94][137], enter any place (including a dwellinghouse or a marae) specified in the warrant.
     
     (5) The provisions of [subparts 1][349], [4][350], [7][351], [9][352], and [10][353] of Part 4 of the Search and Surveillance Act 2012 (except for [sections 118][354] and [119][355]) apply.
     
@@ -3323,9 +3345,9 @@ Officers, powers, etc
     
     Section 87(1)(b): amended, on 26 September 2002, by [section 37(1)][357] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 87(1)(e): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 87(1)(e): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 87(1)(f): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 87(1)(f): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 87(2): amended, on 1 October 2012, by [section 190(2)][356] of the Search and Surveillance Act 2012 (2012 No 24).
     
@@ -3339,7 +3361,7 @@ Officers, powers, etc
 
 ##### 88 Power to examine, etc
     
-*   (1) An animal product officer may, so far as is reasonably necessary for the purpose of determining compliance with this Act at any place that the officer may enter under [section 87(1)][126],---
+*   (1) An animal product officer may, so far as is reasonably necessary for the purpose of determining compliance with this Act at any place that the officer may enter under [section 87(1)][127],---
         
     *   (a) examine all things, and open containers, packages, and other things to inspect their contents:
     
@@ -3449,7 +3471,7 @@ Officers, powers, etc
     
 *   (1) This section applies if---
         
-    *   (a) a live animal is or live animals are seized by a constable or an animal product officer under the authority of a search warrant issued under [section 94][136]; and
+    *   (a) a live animal is or live animals are seized by a constable or an animal product officer under the authority of a search warrant issued under [section 94][137]; and
     
     *   (b) either---
             
@@ -3525,17 +3547,17 @@ Officers, powers, etc
         
     *   (a) the power to take, test, and examine any animal material or animal product or associated thing:
     
-    *   (b) the powers of an animal product officer under [section 89][128] (power to interrupt or restrict or prohibit operations, and associated power of direction):
+    *   (b) the powers of an animal product officer under [section 89][129] (power to interrupt or restrict or prohibit operations, and associated power of direction):
     
-    *   (c) the powers of an animal product officer under [section 90(1) and (3)][129] (power to condemn animal material or product and require or carry out its destruction, disposal, or rectification).
+    *   (c) the powers of an animal product officer under [section 90(1) and (3)][130] (power to condemn animal material or product and require or carry out its destruction, disposal, or rectification).
     
-    (2) Any destruction, disposal, or rectification required by the exercise of the powers described in [section 90(1)][129] is at the cost of the owner or person in control of the relevant animal material or product or thing.
+    (2) Any destruction, disposal, or rectification required by the exercise of the powers described in [section 90(1)][130] is at the cost of the owner or person in control of the relevant animal material or product or thing.
     
     (3) Every official assessor must, in the performance of his or her powers and functions,---
         
-    *   (a) use his or her best endeavours to comply with and give effect to any relevant performance standards or other requirements issued by the Director-General by notice under [section 167][256]; and
+    *   (a) use his or her best endeavours to comply with and give effect to any relevant performance standards or other requirements issued by the Director-General by notice under [section 167][257]; and
     
-    *   (b) comply with any lawful direction given by the Director-General under [section 81][117].
+    *   (b) comply with any lawful direction given by the Director-General under [section 81][118].
     
     
 
@@ -3543,7 +3565,7 @@ Officers, powers, etc
 
 ##### 94 Issue of search warrant
     
-*   (1) An issuing officer (within the meaning of [section 3][367] of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place (including any dwellinghouse or marae or other place that an animal product officer has no power to enter under [section 87][126]) if satisfied, on an application made in the manner provided in [subpart 3][360] of Part 4 of the Search and Surveillance Act 2012 by an animal product officer or a constable, that there are reasonable grounds for believing that there is at that place any thing---
+*   (1) An issuing officer (within the meaning of [section 3][367] of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place (including any dwellinghouse or marae or other place that an animal product officer has no power to enter under [section 87][127]) if satisfied, on an application made in the manner provided in [subpart 3][360] of Part 4 of the Search and Surveillance Act 2012 by an animal product officer or a constable, that there are reasonable grounds for believing that there is at that place any thing---
         
     *   (a) in respect of which an offence under this Act has been or is being committed; or
     
@@ -3553,7 +3575,7 @@ Officers, powers, etc
     
     *   (d) that might constitute a contaminant to or in any shellfish grown or harvested adjacent to or in the vicinity of the place, being a contaminant that may pose a risk to human health.
     
-    (2) Subject to [section 95][137], the provisions of [Part 4][358] of the Search and Surveillance Act 2012 apply.
+    (2) Subject to [section 95][138], the provisions of [Part 4][358] of the Search and Surveillance Act 2012 apply.
     
     (3) Despite subsection (2), [sections 118][354] and [119][355] apply only in respect of a warrant issued to a named constable or to every constable.
     
@@ -3567,13 +3589,13 @@ Officers, powers, etc
 
 ##### 95 Powers of Police and animal product officers under warrant
     
-*   (1) Without limiting the powers conferred by any search warrant issued under [section 94(1)][136], every warrant issued under that section authorises the constable or animal product officer who is executing it, and any person called on by that constable or officer to assist, to exercise---
+*   (1) Without limiting the powers conferred by any search warrant issued under [section 94(1)][137], every warrant issued under that section authorises the constable or animal product officer who is executing it, and any person called on by that constable or officer to assist, to exercise---
         
-    *   (a) all of the powers of an animal product officer under [sections 88 to 91][127]; or
+    *   (a) all of the powers of an animal product officer under [sections 88 to 91][128]; or
     
     *   (b) only such of those powers as are specified in the warrant.
     
-    (1A) To avoid doubt, [Part 4][358] of the Search and Surveillance Act 2012 does not apply in respect of any exercise of a power under [sections 89 to 91][128] as a consequence of subsection (1) of this section.
+    (1A) To avoid doubt, [Part 4][358] of the Search and Surveillance Act 2012 does not apply in respect of any exercise of a power under [sections 89 to 91][129] as a consequence of subsection (1) of this section.
     
     (2) A constable or an animal product officer may call on any person to assist him or her in the execution of a search warrant. Any such person may act only under the supervision and in accordance with the instructions of the constable or animal product officer.
     
@@ -3627,7 +3649,7 @@ Officers, powers, etc
     
 *   No animal product officer, official assessor, recognised person employed under the [State Sector Act 1988][339], or any person called on to assist an officer, official assessor, or recognised person who does any act or omits to do any act in pursuance of any of the functions or powers conferred on that officer, assessor, or person by or under this Act is under any civil or criminal liability in respect of that act or omission, unless the officer, assessor, or person has acted, or omitted to act, in bad faith or without reasonable cause.
     
-    Section 98: amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 98: amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ## Part 8  
 Recognised agencies, persons, and classes of persons
@@ -3658,7 +3680,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) regulations made under this Act; or
     
-    *   (c) a notice issued under [section 167][256]
+    *   (c) a notice issued under [section 167][257]
     
     _specified conviction_ means---
         
@@ -3686,7 +3708,7 @@ Recognised agencies, persons, and classes of persons
     
     (2) Before recognising an applicant, the Director-General must---
         
-    *   (a) consider whether to impose a condition under [section 111(1)][157] requiring the applicant to manage or supply recognised persons to carry out some or all of the permissible functions and activities for which recognition is sought; and
+    *   (a) consider whether to impose a condition under [section 111(1)][158] requiring the applicant to manage or supply recognised persons to carry out some or all of the permissible functions and activities for which recognition is sought; and
     
     *   (b) be satisfied that the applicant is a fit and proper person to manage and carry out the permissible functions and activities for which recognition is sought.
     
@@ -3712,7 +3734,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 102 Recognition of certain agencies without application
     
-*   (1) The Director-General may, without receiving an application under [section 101(1)][146], recognise any of the persons set out in subsection (2) as an agency that is responsible for the management and carrying out of specified functions and activities.
+*   (1) The Director-General may, without receiving an application under [section 101(1)][147], recognise any of the persons set out in subsection (2) as an agency that is responsible for the management and carrying out of specified functions and activities.
     
     (2) The persons are---
         
@@ -3720,7 +3742,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) any group of persons within the Ministry that is designated by the Director-General for the purpose.
     
-    (3) [Section 101(2)][146] and (3) apply to subsection (1) accordingly, with all necessary modifications.
+    (3) [Section 101(2)][147] and (3) apply to subsection (1) accordingly, with all necessary modifications.
     
     Section 102: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -3730,7 +3752,7 @@ Recognised agencies, persons, and classes of persons
     
     (2) Before recognising an applicant, the Director-General must---
         
-    *   (a) consider whether to impose a condition under [section 111(1)][157] requiring the applicant to be managed, employed, or engaged by a recognised agency to carry out some or all of the permissible functions and activities for which recognition is sought; and
+    *   (a) consider whether to impose a condition under [section 111(1)][158] requiring the applicant to be managed, employed, or engaged by a recognised agency to carry out some or all of the permissible functions and activities for which recognition is sought; and
     
     *   (b) be satisfied that the applicant is a fit and proper person to carry out the permissible functions and activities for which recognition is sought.
     
@@ -3756,13 +3778,13 @@ Recognised agencies, persons, and classes of persons
 
 ##### 104 Recognition of certain persons without application
     
-*   (1) The Director-General may, without receiving an application under [section 103(1)][148], recognise any of the following natural persons to carry out specified functions and activities:
+*   (1) The Director-General may, without receiving an application under [section 103(1)][149], recognise any of the following natural persons to carry out specified functions and activities:
         
     *   (a) any officer or employee of the Ministry:
     
     *   (b) any officer or employee of any department of the public service listed in [Schedule 1][372] of the State Sector Act 1988\.
     
-    (2) [Section 103(2)][148] and (3) apply to subsection (1) accordingly, with all necessary modifications.
+    (2) [Section 103(2)][149] and (3) apply to subsection (1) accordingly, with all necessary modifications.
     
     Section 104: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -3784,7 +3806,7 @@ Recognised agencies, persons, and classes of persons
     
     (3) Before recognising a class of natural persons, the Director-General must---
         
-    *   (a) consult the members of the class and the applicant (if any) in accordance with [section 112X][188] about the application for recognition of the class; and
+    *   (a) consult the members of the class and the applicant (if any) in accordance with [section 112X][189] about the application for recognition of the class; and
     
     *   (b) be satisfied that the class is an appropriate class to carry out the permissible functions and activities for which the class is proposed to be recognised.
     
@@ -3808,13 +3830,13 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) may take into account any other matters that the Director-General considers relevant.
     
-    (5) If the Director-General recognises a class of persons under this section, the Director-General may, if he or she considers on reasonable grounds that it is appropriate to do so, exclude 1 or more members of the class, or categories of members of the class, from the recognised class (_see_ [section 110][156]).
+    (5) If the Director-General recognises a class of persons under this section, the Director-General may, if he or she considers on reasonable grounds that it is appropriate to do so, exclude 1 or more members of the class, or categories of members of the class, from the recognised class (_see_ [section 110][157]).
     
     Section 105: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
 ##### 106 Interrelationship between sections 101 to 105
     
-*   To avoid doubt, a natural person may be recognised under any 1 or more of [sections 101 to 105][146] despite already being recognised in another capacity under any 1 or more of those sections.
+*   To avoid doubt, a natural person may be recognised under any 1 or more of [sections 101 to 105][147] despite already being recognised in another capacity under any 1 or more of those sections.
     
     Section 106: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -3824,7 +3846,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 107 Application for recognition
     
-*   An application for recognition under [section 101][146], [103][148], or [105][150] must---
+*   An application for recognition under [section 101][147], [103][149], or [105][151] must---
         
     *   (a) be in the appropriate form and manner provided or approved by the Director-General for that purpose; and
     
@@ -3846,9 +3868,9 @@ Recognised agencies, persons, and classes of persons
 
 ##### 109 Proposal to refuse application to recognise agency, person, or class of persons
     
-*   (1) If the Director-General proposes to refuse an application for recognition in whole or in part, the Director-General must consult the applicant in accordance with [section 112X][188] about the proposed refusal.
+*   (1) If the Director-General proposes to refuse an application for recognition in whole or in part, the Director-General must consult the applicant in accordance with [section 112X][189] about the proposed refusal.
     
-    (2) The notification given to the applicant in accordance with [section 112X(a)(i)][188] must---
+    (2) The notification given to the applicant in accordance with [section 112X(a)(i)][189] must---
         
     *   (a) specify the grounds for proposing to refuse the application; and
     
@@ -3858,15 +3880,15 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) the decision and the Director-General's reasons for it; and
     
-    *   (b) if applicable, the applicant's right to seek a review of that decision under [section 162][248].
+    *   (b) if applicable, the applicant's right to seek a review of that decision under [section 162][249].
     
     Section 109: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
 ##### 110 Proposal to exclude members, or categories of members, from recognition of class
     
-*   (1) If the Director-General proposes to exclude any members, or categories of members, from the recognition of a class, the Director-General must consult those members and the applicant (if any) in accordance with [section 112X][188] about the exclusion of the members.
+*   (1) If the Director-General proposes to exclude any members, or categories of members, from the recognition of a class, the Director-General must consult those members and the applicant (if any) in accordance with [section 112X][189] about the exclusion of the members.
     
-    (2) The notification given to the members and the applicant (if any) in accordance with [section 112X(a)][188] must---
+    (2) The notification given to the members and the applicant (if any) in accordance with [section 112X(a)][189] must---
         
     *   (a) specify the grounds for proposing to exclude the members; and
     
@@ -3876,23 +3898,23 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) the decision and the Director-General's reasons for it; and
     
-    *   (b) if applicable, the members' and the applicant's right to seek a review of that decision under [section 162][248].
+    *   (b) if applicable, the members' and the applicant's right to seek a review of that decision under [section 162][249].
     
     Section 110: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
 ##### 111 Director-General may impose or vary conditions of recognition
     
-*   (1) The Director-General may impose any conditions the Director-General thinks fit when he or she recognises an agency, a person, or a class of persons under any of [sections 101 to 105][146].
+*   (1) The Director-General may impose any conditions the Director-General thinks fit when he or she recognises an agency, a person, or a class of persons under any of [sections 101 to 105][147].
     
     (2) The Director-General may vary any conditions by, as appropriate,---
         
     *   (a) giving a recognised agency or a recognised person written notice of the variation; or
     
-    *   (b) notifying a recognised class of the variation in accordance with [section 112W][187].
+    *   (b) notifying a recognised class of the variation in accordance with [section 112W][188].
     
-    (3) However, before varying a condition the Director-General must consult the recognised agency, recognised person, or recognised class in accordance with [section 112X][188] about the proposed variation, unless the agency is, or is within, the Ministry or the person is within the Ministry.
+    (3) However, before varying a condition the Director-General must consult the recognised agency, recognised person, or recognised class in accordance with [section 112X][189] about the proposed variation, unless the agency is, or is within, the Ministry or the person is within the Ministry.
     
-    (4) If a person acting under the delegated authority of the Director-General varies a condition, the recognised agency, the recognised person, or a member of the recognised class to whom the condition applies may seek a review of the variation under [section 162][248].
+    (4) If a person acting under the delegated authority of the Director-General varies a condition, the recognised agency, the recognised person, or a member of the recognised class to whom the condition applies may seek a review of the variation under [section 162][249].
     
     (5) Subsections (3) and (4) do not apply if the variation is made on the application of the recognised agency, recognised person, or recognised class in accordance with the terms of that application.
     
@@ -3914,7 +3936,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (c) for a recognised class,---
             
-        *   (i) notify the class in accordance with [section 112W][187] of its recognition; and
+        *   (i) notify the class in accordance with [section 112W][188] of its recognition; and
         
         *   (ii) if there was an applicant, give the applicant written notice of the recognition of the class.
         
@@ -3924,11 +3946,11 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) the permissible functions and activities for which the recognition is granted; and
     
-    *   (b) for a recognised class, any members or categories of members that are excluded from the recognised class in accordance with [section 105(5)][150]; and
+    *   (b) for a recognised class, any members or categories of members that are excluded from the recognised class in accordance with [section 105(5)][151]; and
     
-    *   (c) any conditions of recognition imposed under [section 111(1)][157]; and
+    *   (c) any conditions of recognition imposed under [section 111(1)][158]; and
     
-    *   (d) the duration of the recognition under [section 112B][160].
+    *   (d) the duration of the recognition under [section 112B][161].
     
     Section 112: replaced, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -3946,7 +3968,7 @@ Recognised agencies, persons, and classes of persons
                 
             *   (A) to the extent that the member carries out the specified functions and activities for which the class is recognised; and 
             
-            *   (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][158]; and
+            *   (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][159]; and
             
             
         
@@ -3956,7 +3978,7 @@ Recognised agencies, persons, and classes of persons
             
         *   (i) is a recognised person; and
         
-        *   (ii) is subject to the duties of recognised persons set out in [section 112H][167]; and
+        *   (ii) is subject to the duties of recognised persons set out in [section 112H][168]; and
         
         *   (iii) may independently carry out the specified functions and activities for which the class is recognised; and
         
@@ -3964,9 +3986,9 @@ Recognised agencies, persons, and classes of persons
         
         
     
-    *   (c) all conditions of recognition imposed on the class under [section 111][157], and all directions or other requirements that apply to the class, also apply to, and must be complied with by, each member of the class individually; and
+    *   (c) all conditions of recognition imposed on the class under [section 111][158], and all directions or other requirements that apply to the class, also apply to, and must be complied with by, each member of the class individually; and
     
-    *   (d) a suspension or withdrawal of the recognition of the class, and any condition or corrective action imposed under [section 112J(3)][170] on the suspension of the class, also applies to each member of the class individually; and
+    *   (d) a suspension or withdrawal of the recognition of the class, and any condition or corrective action imposed under [section 112J(3)][171] on the suspension of the class, also applies to each member of the class individually; and
     
     *   (e) each member of the class who carries out the specified functions and activities for which the class is recognised---
             
@@ -3992,15 +4014,15 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) Recognition has effect for---
         
-    *   (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with [section 112(2)(d)][158]; or
+    *   (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with [section 112(2)(d)][159]; or
     
     *   (b) if no period is specified, an indefinite period.
     
     (2) However,---
         
-    *   (a) recognition ends if it is withdrawn under [section 112N][175] or [112O][176] or surrendered under [section 112Q][179]; and
+    *   (a) recognition ends if it is withdrawn under [section 112N][176] or [112O][177] or surrendered under [section 112Q][180]; and
     
-    *   (b) recognition has no effect while it is suspended under [section 112J][170] or [112K][171].
+    *   (b) recognition has no effect while it is suspended under [section 112J][171] or [112K][172].
     
     Section 112B: inserted, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -4012,7 +4034,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) the Director-General may renew the recognition without application if the agency, person, or class was initially recognised by the Director-General without application.
     
-    (2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) [section 101(2)][146] and (3), [103(2)][148] and (3), or [105(3)(b)][150] and (4) unless the Director-General is satisfied that---
+    (2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) [section 101(2)][147] and (3), [103(2)][149] and (3), or [105(3)(b)][151] and (4) unless the Director-General is satisfied that---
         
     *   (a) either---
             
@@ -4024,17 +4046,17 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) the reasons why the Director-General recognised the agency, person, or class still apply; and
     
-    *   (c) the agency or person has, or a sufficient proportion of the members of the class have, complied with all applicable conditions of recognition imposed under [section 111][157] and requirements of this Act during the period of recognition.
+    *   (c) the agency or person has, or a sufficient proportion of the members of the class have, complied with all applicable conditions of recognition imposed under [section 111][158] and requirements of this Act during the period of recognition.
     
-    (3) If the Director-General proposes to vary any conditions of recognition imposed on the agency, person, or class of persons under [section 111][157] when the Director-General renews the recognition, the Director-General---
+    (3) If the Director-General proposes to vary any conditions of recognition imposed on the agency, person, or class of persons under [section 111][158] when the Director-General renews the recognition, the Director-General---
         
-    *   (a) must vary the conditions in accordance with [section 111(2)][157] to (6); and
+    *   (a) must vary the conditions in accordance with [section 111(2)][158] to (6); and
     
-    *   (b) may, by notice in writing to the agency, person, or class, temporarily extend the specified period of the existing recognition in order to allow consultation in accordance with [section 111(3)][157] (if required) to be completed before the period of recognition ends.
+    *   (b) may, by notice in writing to the agency, person, or class, temporarily extend the specified period of the existing recognition in order to allow consultation in accordance with [section 111(3)][158] (if required) to be completed before the period of recognition ends.
     
-    (4) [Sections 108 to 112B][154] apply with all necessary modifications to applications under this section.
+    (4) [Sections 108 to 112B][155] apply with all necessary modifications to applications under this section.
     
-    (5) An application under this section that is received by the Director-General after the deadline specified in subsection (1) must be treated as if it were a new application for recognition under [section 101][146], [103][148], or [105][150], as applicable.
+    (5) An application under this section that is received by the Director-General after the deadline specified in subsection (1) must be treated as if it were a new application for recognition under [section 101][147], [103][149], or [105][151], as applicable.
     
     (6) In this section, _appropriate representative_ means any person who the Director-General is reasonably satisfied---
         
@@ -4046,7 +4068,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 112D Application for renewal of recognition
     
-*   An application for renewal of recognition under [section 112C][161] must---
+*   An application for renewal of recognition under [section 112C][162] must---
         
     *   (a) be in the appropriate form and manner provided or approved by the Director-General for that purpose; and
     
@@ -4058,7 +4080,7 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) A recognised agency or a recognised person may apply to the Director-General for a new notice of recognition to be issued in substitution for an existing notice of recognition if---
         
-    *   (a) any conditions of recognition imposed on the agency or person are varied under [section 111(2)][157]; or
+    *   (a) any conditions of recognition imposed on the agency or person are varied under [section 111(2)][158]; or
     
     *   (b) the existing notice has become disfigured or dilapidated, or contains a mistake; or
     
@@ -4094,9 +4116,9 @@ Recognised agencies, persons, and classes of persons
     
     *   (d) has systems, processes, and procedures to manage appropriately any conflict of interest that might arise while carrying out those functions and activities; and
     
-    *   (e) complies with all conditions of recognition imposed under [section 111][157]; and
+    *   (e) complies with all conditions of recognition imposed under [section 111][158]; and
     
-    *   (f) complies with all applicable directions given under [section 81][117]; and
+    *   (f) complies with all applicable directions given under [section 81][118]; and
     
     *   (g) complies with all applicable requirements of this Act.
     
@@ -4106,7 +4128,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) is not placed in a position or a situation that compromises his or her impartiality and independence in carrying out his or her specified functions and activities.
     
-    (3) The duties in [section 112H][167] apply to a recognised agency (in addition to the duties in subsection (1)), but only to the extent that the agency is recognised to carry out its specified functions and activities itself (instead of being recognised to manage or supply a recognised person to carry out its specified functions and activities).
+    (3) The duties in [section 112H][168] apply to a recognised agency (in addition to the duties in subsection (1)), but only to the extent that the agency is recognised to carry out its specified functions and activities itself (instead of being recognised to manage or supply a recognised person to carry out its specified functions and activities).
     
     Section 112G: inserted, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -4132,9 +4154,9 @@ Recognised agencies, persons, and classes of persons
         
         
     
-    *   (f) complies with all conditions of recognition imposed under [section 111][157]; and
+    *   (f) complies with all conditions of recognition imposed under [section 111][158]; and
     
-    *   (g) complies with all applicable directions given under [section 81][117]; and
+    *   (g) complies with all applicable directions given under [section 81][118]; and
     
     *   (h) complies with all applicable requirements of this Act.
     
@@ -4142,7 +4164,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 112I Recognised agency or person may act in other capacities
     
-*   Nothing in [section 112G][166] or [112H][167] prevents a recognised agency or a recognised person from carrying out functions and activities that are outside the scope of the agency's or person's specified functions and activities, provided that the agency or person does not do so---
+*   Nothing in [section 112G][167] or [112H][168] prevents a recognised agency or a recognised person from carrying out functions and activities that are outside the scope of the agency's or person's specified functions and activities, provided that the agency or person does not do so---
         
     *   (a) in the agency's or person's capacity as a recognised agency or a recognised person; or
     
@@ -4160,9 +4182,9 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) the performance of the agency, person, or a significant proportion of the members of the class is unsatisfactory, taking into account the requirements of the recognition; or
     
-    *   (b) the agency, person, or a significant proportion of the members of the class no longer meets 1 or more of the criteria on which that agency, person, or class was recognised under whichever of [sections 101 to 105][146] applies; or
+    *   (b) the agency, person, or a significant proportion of the members of the class no longer meets 1 or more of the criteria on which that agency, person, or class was recognised under whichever of [sections 101 to 105][147] applies; or
     
-    *   (c) the agency, person, or a significant proportion of the members of the class has failed to comply with [section 112G][166] or [112H][167] or any other applicable requirements of this Act, and that failure causes the Director-General to question the ability of the agency, person, or class to carry out the specified functions or activities of the agency, person, or class; or
+    *   (c) the agency, person, or a significant proportion of the members of the class has failed to comply with [section 112G][167] or [112H][168] or any other applicable requirements of this Act, and that failure causes the Director-General to question the ability of the agency, person, or class to carry out the specified functions or activities of the agency, person, or class; or
     
     *   (d) for an agency or a person, the agency or person has failed to pay an ongoing recognition fee, charge, or levy within 30 days after the date on which it was due and payable.
     
@@ -4178,7 +4200,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 112K Director-General may extend suspension of recognition
     
-*   (1) The Director-General may extend the period of a suspension under [section 112J][170] if the Director-General has reasonable grounds to believe that---
+*   (1) The Director-General may extend the period of a suspension under [section 112J][171] if the Director-General has reasonable grounds to believe that---
         
     *   (a) any conditions imposed under that section have not been satisfied within the suspension period; or
     
@@ -4186,11 +4208,11 @@ Recognised agencies, persons, and classes of persons
     
     (2) The period of extension---
         
-    *   (a) may be for any further period that the Director-General notifies in writing to the agency or the person, or notifies to the class in accordance with [section 112W][187], before the expiry of the original suspension; but
+    *   (a) may be for any further period that the Director-General notifies in writing to the agency or the person, or notifies to the class in accordance with [section 112W][188], before the expiry of the original suspension; but
     
     *   (b) must not exceed a further 3 months.
     
-    (3) The Director-General may (in addition to any conditions or requirements imposed under [section 112J(3)][170]) do either or both of the following:
+    (3) The Director-General may (in addition to any conditions or requirements imposed under [section 112J(3)][171]) do either or both of the following:
         
     *   (a) impose conditions that must be satisfied before the extended period of suspension is lifted:
     
@@ -4214,7 +4236,7 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) be given to a recognised agency or a recognised person by notice in writing; and
     
-    *   (b) be given to a recognised class by notifying the class in accordance with [section 112W][187]; and
+    *   (b) be given to a recognised class by notifying the class in accordance with [section 112W][188]; and
     
     *   (c) specify---
             
@@ -4226,11 +4248,11 @@ Recognised agencies, persons, and classes of persons
         
         *   (iv) the specified functions and activities that the suspension relates to; and
         
-        *   (v) any conditions or corrective actions imposed under [section 112J(3)][170] or [112K(3)][171]; and
+        *   (v) any conditions or corrective actions imposed under [section 112J(3)][171] or [112K(3)][172]; and
         
         
     
-    *   (d) if applicable, set out the right of the recognised agency, recognised person, or recognised class (under [section 162][248]) to seek a review of the decision to suspend the recognition of the agency, person, or class.
+    *   (d) if applicable, set out the right of the recognised agency, recognised person, or recognised class (under [section 162][249]) to seek a review of the decision to suspend the recognition of the agency, person, or class.
     
     (3) The Director-General may notify any suspension of recognition in the _Gazette_.
     
@@ -4240,7 +4262,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 112M Suspension does not limit other actions
     
-*   A suspension under [section 112J][170] or an extension of a suspension under [section 112K][171] does not affect any other actions that the Director-General may take under this Act.
+*   A suspension under [section 112J][171] or an extension of a suspension under [section 112K][172] does not affect any other actions that the Director-General may take under this Act.
     
     Section 112M: inserted, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -4252,23 +4274,23 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) The Director-General may withdraw all or part of the recognition of a recognised agency or a recognised person if the Director-General has reasonable grounds to believe that---
         
-    *   (a) suspending all or part of the agency's or person's recognition under [section 112J][170] (or extending a suspension under [section 112K][171]) would be justified, but repeated suspensions in the past have been ineffective; or
+    *   (a) suspending all or part of the agency's or person's recognition under [section 112J][171] (or extending a suspension under [section 112K][172]) would be justified, but repeated suspensions in the past have been ineffective; or
     
     *   (b) the agency or person is no longer a fit and proper person to carry out the agency's or person's specified functions and activities; or
     
-    *   (c) the agency or person has failed to comply with [section 112G][166] or [112H][167] or any other applicable requirements of this Act, and that failure causes the Director-General to question the agency's or the person's ability to carry out the agency's or person's specified functions or activities; or
+    *   (c) the agency or person has failed to comply with [section 112G][167] or [112H][168] or any other applicable requirements of this Act, and that failure causes the Director-General to question the agency's or the person's ability to carry out the agency's or person's specified functions or activities; or
     
     *   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
     
-    *   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in [section 112J(1)(d)][170]; or
+    *   (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in [section 112J(1)(d)][171]; or
     
     *   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
     
     *   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in [Schedule 1][372] of the State Sector Act 1988\.
     
-    (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with [section 112X][188] about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
+    (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with [section 112X][189] about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
     
-    (3) The notification given to the agency or person in accordance with [section 112X(a)(i)][190] must---
+    (3) The notification given to the agency or person in accordance with [section 112X(a)(i)][191] must---
         
     *   (a) specify the grounds for the proposed withdrawal; and
     
@@ -4280,13 +4302,13 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) The Director-General may withdraw all or part of the recognition of a recognised class if the Director-General has reasonable grounds to believe that a significant proportion of the members of the class---
         
-    *   (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][158]; or
+    *   (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with [section 112(1)(a)][159]; or
     
-    *   (b) have failed to comply with [section 112H][167] or any other applicable requirements of this Act, and that failure causes the Director-General to question the class's ability to carry out the class's specified functions or activities.
+    *   (b) have failed to comply with [section 112H][168] or any other applicable requirements of this Act, and that failure causes the Director-General to question the class's ability to carry out the class's specified functions or activities.
     
-    (2) However, before withdrawing recognition on the ground set out in subsection (1)(b), the Director-General must consult the recognised class in accordance with [section 112X][188] about the proposed withdrawal of recognition.
+    (2) However, before withdrawing recognition on the ground set out in subsection (1)(b), the Director-General must consult the recognised class in accordance with [section 112X][189] about the proposed withdrawal of recognition.
     
-    (3) The notification given to the recognised class in accordance with [section 112X(a)(ii)][188] must---
+    (3) The notification given to the recognised class in accordance with [section 112X(a)(ii)][189] must---
         
     *   (a) specify the grounds for the proposed withdrawal; and
     
@@ -4310,7 +4332,7 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) be given to a recognised agency, a recognised person, or an applicant by notice in writing; and
     
-    *   (b) be given to a recognised class by notifying the class in accordance with [section 112W][187]; and
+    *   (b) be given to a recognised class by notifying the class in accordance with [section 112W][188]; and
     
     *   (c) specify---
             
@@ -4326,7 +4348,7 @@ Recognised agencies, persons, and classes of persons
     
     (3) The Director-General may notify any withdrawal of recognition in the _Gazette_.
     
-    (4) An agency or a person who is recognised under any of [sections 101 to 104][146] and whose recognition is withdrawn must return the agency's or person's notice of recognition to the Director-General as soon as practicable after the withdrawal of recognition takes effect.
+    (4) An agency or a person who is recognised under any of [sections 101 to 104][147] and whose recognition is withdrawn must return the agency's or person's notice of recognition to the Director-General as soon as practicable after the withdrawal of recognition takes effect.
     
     (5) An agency or a person whose recognition is withdrawn must, as soon as practicable after the withdrawal of recognition takes effect, take reasonable steps to notify each person who was a client of the agency or person immediately before the withdrawal that the agency's or person's recognition has been withdrawn.
     
@@ -4358,9 +4380,9 @@ Recognised agencies, persons, and classes of persons
     
 *   A surrender takes effect on the later of---
         
-    *   (a) the date specified in the notice given in accordance with [section 112Q(1)][179]; or
+    *   (a) the date specified in the notice given in accordance with [section 112Q(1)][180]; or
     
-    *   (b) the date on which the Director-General records the surrender in the public register in accordance with [section 112T(1)(b)(v)][183] or removes the agency or person from the public register in accordance with [section 112V(3)][185].
+    *   (b) the date on which the Director-General records the surrender in the public register in accordance with [section 112T(1)(b)(v)][184] or removes the agency or person from the public register in accordance with [section 112V(3)][186].
     
     Section 112R: inserted, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -4420,7 +4442,7 @@ Recognised agencies, persons, and classes of persons
             
             
         
-        *   (iii) a list of any members, or a description of any categories of members, within the class that are excluded from the recognised class in accordance with [section 105(5)][150]; and
+        *   (iii) a list of any members, or a description of any categories of members, within the class that are excluded from the recognised class in accordance with [section 105(5)][151]; and
         
         *   (iv) any suspension of the class's recognition; and
         
@@ -4464,11 +4486,11 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 112C(3)(b) or renewed.
     
-    (2) Subsection (3) applies if the recognition of a recognised agency, a person who is recognised under [section 103][148], or a recognised class is---
+    (2) Subsection (3) applies if the recognition of a recognised agency, a person who is recognised under [section 103][149], or a recognised class is---
         
-    *   (a) withdrawn under [section 112N][175] or [112O][176]; or
+    *   (a) withdrawn under [section 112N][176] or [112O][177]; or
     
-    *   (b) surrendered under [section 112Q][179].
+    *   (b) surrendered under [section 112Q][180].
     
     (3) The Director-General must, as soon as practicable after withdrawing the recognition or being notified of the surrender,---
         
@@ -4516,7 +4538,7 @@ Recognised agencies, persons, and classes of persons
             
         *   (i) giving the person written notice; or
         
-        *   (ii) notifying the category or class of persons in accordance with [section 112W][187]; and
+        *   (ii) notifying the category or class of persons in accordance with [section 112W][188]; and
         
         
     
@@ -4530,7 +4552,7 @@ Recognised agencies, persons, and classes of persons
 
 ##### 112Y Director-General may require notification of termination of contracts
     
-*   (1) The Director-General may, by notice under [section 167][256], require any recognised risk management programme verifier or recognised risk management programme verifying agency to notify the Director-General of the termination of any contract with a client for managing or carrying out verification functions and activities.
+*   (1) The Director-General may, by notice under [section 167][257], require any recognised risk management programme verifier or recognised risk management programme verifying agency to notify the Director-General of the termination of any contract with a client for managing or carrying out verification functions and activities.
     
     (2) The notice may apply generally or to any particular case or class of case.
     
@@ -4542,13 +4564,13 @@ Recognised agencies, persons, and classes of persons
     
 *   (1) The Director-General must consider whether an exemption, a waiver, or a refund of all or part of a prescribed fee, charge, or levy is appropriate if---
         
-    *   (a) an application is made under [section 107][153] by 1 person for more than 1 type of recognition (for example, if a person applies to be recognised as both a recognised agency and a recognised person); or
+    *   (a) an application is made under [section 107][154] by 1 person for more than 1 type of recognition (for example, if a person applies to be recognised as both a recognised agency and a recognised person); or
     
-    *   (b) an application is made under [section 112C][161] by 1 person to renew more than 1 type of recognition; or
+    *   (b) an application is made under [section 112C][162] by 1 person to renew more than 1 type of recognition; or
     
-    *   (c) 1 person is liable under [section 112F][164] to pay a prescribed fee, charge, or levy for ongoing recognition under more than 1 of [sections 101 to 105][146].
+    *   (c) 1 person is liable under [section 112F][165] to pay a prescribed fee, charge, or levy for ongoing recognition under more than 1 of [sections 101 to 105][147].
     
-    (2) However, subsection (1) only applies if regulations prescribing the relevant fee, charge, or levy authorise the Director-General to grant an exemption, waiver, or refund in these circumstances (_see_ [section 121][201]).
+    (2) However, subsection (1) only applies if regulations prescribing the relevant fee, charge, or levy authorise the Director-General to grant an exemption, waiver, or refund in these circumstances (_see_ [section 121][202]).
     
     Section 112Z: inserted, on 31 August 2012, by [section 10][371] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -4559,7 +4581,7 @@ Cost recovery
     
 *   (1) The Minister and the Director-General are to take all reasonable steps to ensure that so many of the direct and indirect costs of administering this Act as are not provided for by money appropriated by Parliament for the purpose are recovered under this Part, whether by way of fees, levies, or otherwise.
     
-    (2) In determining the most appropriate method of cost recovery under [section 114][193], and its level, in any particular case or class of cases of animal material or product, animal product business, person, or other matter, the Minister and Director-General are to have regard, as far as is reasonably practicable, to the following criteria:
+    (2) In determining the most appropriate method of cost recovery under [section 114][194], and its level, in any particular case or class of cases of animal material or product, animal product business, person, or other matter, the Minister and Director-General are to have regard, as far as is reasonably practicable, to the following criteria:
         
     *   (a) equity, in that funding for a particular function, power, or service, or a particular class of functions, powers, or services, should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant function, power, or service at a level commensurate with their use or benefit from the function, power, or service:
     
@@ -4569,9 +4591,9 @@ Cost recovery
     
     *   (d) transparency, in that costs should be identified and allocated as closely as practicable in relation to tangible service provision for the recovery period in which the service is provided.
     
-    (3) Costs should not be recovered under this Part unless there has been appropriate consultation with affected parties in accordance with [section 163][250], and the parties involved have been given sufficient time and information to make an informed contribution.
+    (3) Costs should not be recovered under this Part unless there has been appropriate consultation with affected parties in accordance with [section 163][251], and the parties involved have been given sufficient time and information to make an informed contribution.
     
-    (4) Nothing in subsection (3) or [section 163][250] requires consultation in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the purview of any general consultation or any consultation carried out for the purposes of [section 116][196], and a failure to comply with subsection (3) does not affect the validity of any regulations made for the purposes of this Part.
+    (4) Nothing in subsection (3) or [section 163][251] requires consultation in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the purview of any general consultation or any consultation carried out for the purposes of [section 116][197], and a failure to comply with subsection (3) does not affect the validity of any regulations made for the purposes of this Part.
     
     (5) Nothing in this section requires a strict apportionment of the costs to be recovered for a particular function or service based on usage, and, without limiting the way in which fees or charges may be set, a fee or charge may be set at a level or in a way that---
         
@@ -4625,7 +4647,7 @@ Cost recovery
 
 ##### 115A Application of section 115(1) to assurances in respect of export licences issued under Dairy Industry Restructuring Act 2001
     
-*   [Section 115(1)][194] does not apply to assurances given in respect of export licences issued under the [Dairy Industry Restructuring Act 2001][376] until the financial year beginning 1 July 2010\.
+*   [Section 115(1)][195] does not apply to assurances given in respect of export licences issued under the [Dairy Industry Restructuring Act 2001][376] until the financial year beginning 1 July 2010\.
     
     Section 115A: inserted, on 15 December 2007, by [section 22][377] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
@@ -4643,7 +4665,7 @@ Cost recovery
     
 *   (1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing fees and charges for the purposes of this Act.
     
-    (2) The fees may be prescribed using any 1 or more of the methods specified in [section 114(a) to (f)][193], or any combination of those methods.
+    (2) The fees may be prescribed using any 1 or more of the methods specified in [section 114(a) to (f)][194], or any combination of those methods.
     
     (3) Different fees and charges, or different rates or types of fee or charge, may be prescribed in respect of different classes or descriptions of animal material, animal products, persons or businesses, operations, or other matters, or any combination of them.
     
@@ -4659,9 +4681,9 @@ Cost recovery
     
     *   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
     
-    (4A) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General under [section 167][256].
+    (4A) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General under [section 167][257].
     
-    (5) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 113][192] and [115][194] have been met.
+    (5) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 113][193] and [115][195] have been met.
     
     Section 117(4A): inserted, on 26 September 2002, by [section 41][378] of the Animal Products Amendment Act 2002 (2002 No 29).
 
@@ -4691,11 +4713,11 @@ Cost recovery
         
         and provide for related matters, including procedures and remuneration for arbitrators or mediators.
     
-    (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 113][192] and [115][194] have been met.
+    (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 113][193] and [115][195] have been met.
 
 ##### 119 Trust accounts required to be kept by persons collecting levies
     
-*   (1) Where regulations made under [section 118][198] require the operation of a trust account for any levy money by the person responsible for collecting the levy,---
+*   (1) Where regulations made under [section 118][199] require the operation of a trust account for any levy money by the person responsible for collecting the levy,---
         
     *   (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
     
@@ -4757,7 +4779,7 @@ Cost recovery
 
 ##### 124 Obligation to pay fee, levy, or charge not suspended by dispute
     
-*   The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in [section 123][203]), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
+*   The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in [section 123][204]), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
 ##### 125 Levy regulations to be confirmed
     
@@ -4777,9 +4799,9 @@ Cost recovery
     
     they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
     
-    Section 125(1)(b): amended, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 125(1)(b): amended, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
     
-    Section 125(2)(b): amended, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 125(2)(b): amended, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 10  
 Offences, penalties, and proceedings
@@ -4822,7 +4844,7 @@ Offences, penalties, and proceedings
     
     *   (b) falsifies, removes, misuses, alters, misapplies, misrepresents, or fails to apply any brand or material or product description or other form of identification of animal material or animal product required or authorised to be used under this Act; or
     
-    *   (c) falsifies, removes, misuses, alters, misapplies, misrepresents, or fails to apply any identification, differentiation, or security system or device specified or approved or required under [section 158][242]; or
+    *   (c) falsifies, removes, misuses, alters, misapplies, misrepresents, or fails to apply any identification, differentiation, or security system or device specified or approved or required under [section 158][243]; or
     
     *   (d) misrepresents, substitutes in whole or in part, adulterates, or otherwise tampers with animal material or animal product to which this Act applies so that it no longer matches or complies with its identification, description, certificate, label, or official assurance; or
     
@@ -4846,7 +4868,7 @@ Offences, penalties, and proceedings
     
     Section 127(1)(f): amended, on 31 August 2012, by [section 11(b)][384] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 127(1)(f): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 127(1)(f): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 127(2): repealed, on 1 July 2013, by [section 413][383] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4856,11 +4878,11 @@ Offences, penalties, and proceedings
     
 *   (1) A person commits an offence who sells or offers for sale, or has in the person's possession for sale,---
         
-    *   (a) any animal material to which any of [Parts 2 to 5][14] apply that, to the person's knowledge, does not or no longer meets any relevant specification under Part 4 or requirement under Part 5, or the requirements of any relevant regulation; or
+    *   (a) any animal material to which any of [Parts 2 to 5][15] apply that, to the person's knowledge, does not or no longer meets any relevant specification under Part 4 or requirement under Part 5, or the requirements of any relevant regulation; or
     
-    *   (b) any animal product to which any of [Parts 2 to 5][14] apply that, to the person's knowledge, has not been processed in accordance with the requirements of Parts 2 to 5 that apply to the product, or is not otherwise fit for intended purpose.
+    *   (b) any animal product to which any of [Parts 2 to 5][15] apply that, to the person's knowledge, has not been processed in accordance with the requirements of Parts 2 to 5 that apply to the product, or is not otherwise fit for intended purpose.
     
-    (2) A person commits an offence against this Act who sells or offers for sale, or has in possession for sale, any animal material or animal product for human or animal consumption that purports or is represented to have been produced or processed in accordance with [Parts 2 to 4][14], but that, to the person's knowledge, has not been processed in accordance with those Parts.
+    (2) A person commits an offence against this Act who sells or offers for sale, or has in possession for sale, any animal material or animal product for human or animal consumption that purports or is represented to have been produced or processed in accordance with [Parts 2 to 4][15], but that, to the person's knowledge, has not been processed in accordance with those Parts.
     
     (3) \[Repealed\]
     
@@ -4878,7 +4900,7 @@ Offences, penalties, and proceedings
 
 ##### 129 Presenting non-complying animal material for processing
     
-*   (1) A person commits an offence against this Act who, knowing that the animal material is or is likely to be processed for human or animal consumption, presents for sale or processing (whether directly or by an agent) any animal material that fails to comply with any requirement of [Parts 2 to 4][14] that applies to it.
+*   (1) A person commits an offence against this Act who, knowing that the animal material is or is likely to be processed for human or animal consumption, presents for sale or processing (whether directly or by an agent) any animal material that fails to comply with any requirement of [Parts 2 to 4][15] that applies to it.
     
     (2) Where in any proceedings for an offence against this section knowledge on the part of the defendant is an essential element of the offence with which the defendant is charged, that knowledge is to be presumed until the contrary is proved.
     
@@ -4894,7 +4916,7 @@ Offences, penalties, and proceedings
 
 ##### 130 Offence to export unless registered
     
-*   (1) A person commits an offence against this Act who, being a person who is required to be registered as an exporter in relation to the animal material or product concerned, without being so registered exports any animal material or animal product to which [Part 5][58] applies other than in accordance with an exemption granted under [section 9][12] or [section 50][62] or by regulations made under this Act.
+*   (1) A person commits an offence against this Act who, being a person who is required to be registered as an exporter in relation to the animal material or product concerned, without being so registered exports any animal material or animal product to which [Part 5][59] applies other than in accordance with an exemption granted under [section 9][13] or [section 50][63] or by regulations made under this Act.
     
     (2) \[Repealed\]
     
@@ -4926,15 +4948,15 @@ Offences, penalties, and proceedings
     
     (2) A person commits an offence against this Act who---
         
-    *   (a) operates for reward as if they were a homekill or recreational catch service provider without being currently listed as such under [section 76][109]; or
+    *   (a) operates for reward as if they were a homekill or recreational catch service provider without being currently listed as such under [section 76][110]; or
     
-    *   (ab) operates a property as a game estate of a kind that [section 65D][88] requires to be listed as a game estate under [Part 5A][84], unless the property is listed as a game estate under [section 65H][92]; or
+    *   (ab) operates a property as a game estate of a kind that [section 65D][89] requires to be listed as a game estate under [Part 5A][85], unless the property is listed as a game estate under [section 65H][93]; or
     
-    *   (b) being the owner or person in charge of an animal, engages for reward as a homekill or recreational catch service provider in respect of that animal a person who, to the owner's or person's knowledge, is not currently listed as a homekill or recreational catch service provider under [section 76][109]; or
+    *   (b) being the owner or person in charge of an animal, engages for reward as a homekill or recreational catch service provider in respect of that animal a person who, to the owner's or person's knowledge, is not currently listed as a homekill or recreational catch service provider under [section 76][110]; or
     
-    *   (ba) being the owner of an animal who has not been engaged in its day-to-day maintenance, or the day-to-day maintenance of other animals of the same kind, for a period of at least 28 days immediately preceding its killing, kills and processes that animal at any place other than his or her own property (as defined in [section 67(4)][99]), other than for humane purposes; or
+    *   (ba) being the owner of an animal who has not been engaged in its day-to-day maintenance, or the day-to-day maintenance of other animals of the same kind, for a period of at least 28 days immediately preceding its killing, kills and processes that animal at any place other than his or her own property (as defined in [section 67(4)][100]), other than for humane purposes; or
     
-    *   (bb) provides facilities for any person to kill or process an animal for human or animal consumption, otherwise than in accordance with [Parts 2 to 4][14], knowing that the person has not been engaged in the day-to-day maintenance of the animal, or of other animals of the same kind, for at least 28 days immediately preceding the killing of the animal, unless---
+    *   (bb) provides facilities for any person to kill or process an animal for human or animal consumption, otherwise than in accordance with [Parts 2 to 4][15], knowing that the person has not been engaged in the day-to-day maintenance of the animal, or of other animals of the same kind, for at least 28 days immediately preceding the killing of the animal, unless---
             
         *   (i) the person providing the facilities is a game estate operator or the owner of the place where the animal is taken or landed as recreational catch; or
         
@@ -4944,7 +4966,7 @@ Offences, penalties, and proceedings
     
     *   (bc) being a dual operator butcher, kills an animal that is homekill or recreational catch at any premises or place where regulated animal product is processed or traded; or
     
-    *   (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of [Parts 2 to 4][14] (except as permitted by [sections 67(2)(b)(ii)][99], [68(2)(b)(ii)][100], and [69][101]; or
+    *   (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of [Parts 2 to 4][15] (except as permitted by [sections 67(2)(b)(ii)][100], [68(2)(b)(ii)][101], and [69][102]; or
     
     *   (d) presents an animal to a homekill or recreational service provider for killing or processing as homekill when the person is not an owner of the animal who has been actively involved in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the presentation of the animal.
     
@@ -4984,7 +5006,7 @@ Offences, penalties, and proceedings
 
 ##### 132 Breach of compliance order
     
-*   (1) A person commits an offence against this Act who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order or interim compliance order issued under [section 150][232] or [section 151][233].
+*   (1) A person commits an offence against this Act who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order or interim compliance order issued under [section 150][233] or [section 151][234].
     
     (2) A person who commits an offence against this section is liable on conviction to---
         
@@ -5008,7 +5030,7 @@ Offences, penalties, and proceedings
     
     *   (b) an assistant of such a person; or
     
-    *   (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the [Food Act 1981][270] in relation to a food safety programme that is registered as a risk management programme pursuant to [section 34][42]),---
+    *   (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the [Food Act 1981][271] in relation to a food safety programme that is registered as a risk management programme pursuant to [section 34][43]),---
     
     who is acting in the exercise or performance of a function, power, or duty under this Act or under any risk management programme.
     
@@ -5020,15 +5042,15 @@ Offences, penalties, and proceedings
     
     *   (b) $50,000, in the case of an individual.
     
-    Section 133(1)(a): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 133(1)(a): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 133(1)(c): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 133(1)(c): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 133(1)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 133(1)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 133(2): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 133(2): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 133(2): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 133(2): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
     Section 133(3): amended, on 1 July 2013, by [section 413][383] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5036,13 +5058,13 @@ Offences, penalties, and proceedings
     
 *   (1) A person commits an offence who, without reasonable excuse,---
         
-    *   (a) being the operator of a risk management programme, breaches or fails to carry out any of the duties specified in [section 16][20]; or
+    *   (a) being the operator of a risk management programme, breaches or fails to carry out any of the duties specified in [section 16][21]; or
     
-    *   (b) being a recognised agency, breaches or fails to carry out any of the duties specified in [section 112G][166]; or
+    *   (b) being a recognised agency, breaches or fails to carry out any of the duties specified in [section 112G][167]; or
     
-    *   (c) being a recognised person, breaches or fails to carry out any of the duties specified in [section 112H][167]; or
+    *   (c) being a recognised person, breaches or fails to carry out any of the duties specified in [section 112H][168]; or
     
-    *   (d) being a registered exporter, breaches or fails to carry out any of the duties specified in [section 51][63].
+    *   (d) being a registered exporter, breaches or fails to carry out any of the duties specified in [section 51][64].
     
     (2) A person who commits an offence under subsection (1) is liable on conviction---
         
@@ -5066,39 +5088,39 @@ Offences, penalties, and proceedings
         
     *   (a) for operators of risk management programmes, the duties specified in---
             
-        *   (i) [section 16(1)(c)][20] (ensuring operations under a programme are adequately implemented and resourced):
+        *   (i) [section 16(1)(c)][21] (ensuring operations under a programme are adequately implemented and resourced):
         
-        *   (ii) [section 16(1)(d)][20] (ensuring operations under programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
+        *   (ii) [section 16(1)(d)][21] (ensuring operations under programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
         
-        *   (iii) [section 16(1)(e)][20] (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
+        *   (iii) [section 16(1)(e)][21] (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
         
         
     
     *   (b) for recognised persons, the duties specified in---
             
-        *   (i) [section 112H(c)][167] (maintaining impartiality and independence):
+        *   (i) [section 112H(c)][168] (maintaining impartiality and independence):
         
-        *   (ii) [section 112H(e)][167] (reporting required matters to Ministry):
+        *   (ii) [section 112H(e)][168] (reporting required matters to Ministry):
         
         *   (iii) \[Repealed\]
         
         
     
-    *   (c) for exporters, the duties specified in [section 51(b)][63] (export only material or products that meet relevant standards and specifications, and relevant overseas market access requirements).
+    *   (c) for exporters, the duties specified in [section 51(b)][64] (export only material or products that meet relevant standards and specifications, and relevant overseas market access requirements).
     
     Section 134(1)(b): amended, on 31 August 2012, by [section 12(1)][387] of the Animal Products Amendment Act 2012 (2012 No 59).
     
     Section 134(1)(c): amended, on 31 August 2012, by [section 12(2)][387] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 134(1)(c): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 134(1)(c): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 134(2): amended, on 1 July 2013, by [section 413][383] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 134(3)(a)(iii): amended, on 31 August 2012, by [section 12(3)][387] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 134(3)(a)(iii): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 134(3)(a)(iii): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 134(3)(b): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 134(3)(b): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 134(3)(b)(i): amended, on 31 August 2012, by [section 12(4)][387] of the Animal Products Amendment Act 2012 (2012 No 59).
     
@@ -5130,7 +5152,7 @@ Offences, penalties, and proceedings
 
 ##### 136 Defence for persons charged with breach of duty or failure to comply
     
-*   (1) In any prosecution for an offence against [section 134][215] or [section 135][216], it is a defence if the defendant proves that---
+*   (1) In any prosecution for an offence against [section 134][216] or [section 135][217], it is a defence if the defendant proves that---
         
     *   (a) the breach or failure concerned was due to the act or omission of another person, or to an accident or some other cause outside the defendant's control; and
     
@@ -5164,19 +5186,19 @@ Offences, penalties, and proceedings
             
         *   (i) a named person or body is or was, or is not or was not, an official assessor, an animal product officer, a recognised risk management programme verifier, a recognised risk management programme verifying agency, a recognised person, a recognised agency, or an employee of the Ministry; or
         
-        *   (ii) a specified risk management programme was or was not registered, or was or was not amended, deregistered, or surrendered under [Part 2][14]; or
+        *   (ii) a specified risk management programme was or was not registered, or was or was not amended, deregistered, or surrendered under [Part 2][15]; or
         
         *   (iia) any matter was or was not recorded on the risk management programme register; or
         
-        *   (iii) a named person was or was not registered as an exporter under [Part 5][58] or listed as a homekill or recreational catch service provider under [Part 6][97], or that the person's registration or listing was made, removed, or withdrawn; or
+        *   (iii) a named person was or was not registered as an exporter under [Part 5][59] or listed as a homekill or recreational catch service provider under [Part 6][98], or that the person's registration or listing was made, removed, or withdrawn; or
         
-        *   (iv) a specified operation was or was not suspended under [section 27][33] or [section 58][71]; or
+        *   (iv) a specified operation was or was not suspended under [section 27][34] or [section 58][72]; or
         
-        *   (v) any official assurance, or any statement under [section 83][121], had or had not been given in respect of any animal material or animal product or consignment; or
+        *   (v) any official assurance, or any statement under [section 83][122], had or had not been given in respect of any animal material or animal product or consignment; or
         
-        *   (vi) a named person had or had not made an election under [section 32][40] to operate under a registered risk management programme; or
+        *   (vi) a named person had or had not made an election under [section 32][41] to operate under a registered risk management programme; or
         
-        *   (vii) a specified food safety programme was or was not registered as a risk management programme, with specified conditions, pursuant to [section 34][42]; or
+        *   (vii) a specified food safety programme was or was not registered as a risk management programme, with specified conditions, pursuant to [section 34][43]; or
         
         *   (viii) a specified document was or was not a copy of an official assurance given under this Act; or
         
@@ -5186,7 +5208,7 @@ Offences, penalties, and proceedings
         
         *   (xi) a specified document was a copy of an extract from a register or listing kept under this Act; or
         
-        *   (xii) a specified identification, differentiation, or security system or device was or was not specified or approved under [section 158][242]:
+        *   (xii) a specified identification, differentiation, or security system or device was or was not specified or approved under [section 158][243]:
         
         
     
@@ -5200,11 +5222,11 @@ Offences, penalties, and proceedings
     
     *   (c) a certificate purporting to be signed by an analyst, a recognised agency, or a recognised person stating the results of an analysis, test, or examination of a sample taken under or for the purposes of this Act:
     
-    *   (d) a document purporting to be a copy of any material incorporated by reference into any regulation or notice or order under [section 167][256]:
+    *   (d) a document purporting to be a copy of any material incorporated by reference into any regulation or notice or order under [section 167][257]:
     
     *   (e) a document purporting to be a copy of a registered risk management programme:
     
-    *   (f) a document purporting to be a copy of an official assurance or a statement given under [section 83][121]:
+    *   (f) a document purporting to be a copy of an official assurance or a statement given under [section 83][122]:
     
     *   (g) a document purporting to be a copy of a notice or direction or approval or specification (including a copy of any material incorporated by reference) or requirement given under this Act.
     
@@ -5220,19 +5242,19 @@ Offences, penalties, and proceedings
     
     (5) The court may not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
     
-    Section 140(1)(a)(i): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 140(1)(a)(i): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 140(1)(a)(i): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 140(1)(a)(i): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
     Section 140(1)(a)(iia): inserted, on 1 June 2005, by [section 23][388] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 140(1)(c): amended, on 31 August 2012, by [section 13(1)][389] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 140(1)(c): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 140(1)(c): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 140(3): amended, on 31 August 2012, by [section 13(2)][389] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 140(3): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 140(3): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ##### 141 Presumption as to authority
     
@@ -5240,7 +5262,7 @@ Offences, penalties, and proceedings
     
     (2) The production of---
         
-    *   (a) any document presented by an animal product officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with [section 164][251] or [section 167][256], or a copy of any such notice or extract; and
+    *   (a) any document presented by an animal product officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with [section 164][252] or [section 167][257], or a copy of any such notice or extract; and
     
     *   (b) a copy of the _Gazette_ in which the notice was notified---
     
@@ -5264,11 +5286,11 @@ Offences, penalties, and proceedings
     
 *   (1) Any act or omission on behalf of a body corporate or other person (both called _the principal_) by a director, agent, or employee (each called _the agent_) of the principal is to be treated for the purposes of this Act as being also the act or omission of the principal.
     
-    (2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of [sections 126][207], [127][208], [128][209], [131(1)(b)][212], 131(1)(c), and 131(2)(b), it is a good defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
+    (2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of [sections 126][208], [127][209], [128][210], [131(1)(b)][213], 131(1)(c), and 131(2)(b), it is a good defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
 ##### 145 Time limit for filing charging document for offence against section 129 or 135
     
-*   (1) Despite anything to the contrary in [section 25][390] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 129][210] or [135][216] of this Act ends on the date that is 2 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][390] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 129][211] or [135][217] of this Act ends on the date that is 2 years after the date on which the offence was committed.
     
     (2) Nothing in subsection (1) affects the application of [section 25][390] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
@@ -5302,27 +5324,27 @@ Offences, penalties, and proceedings
 
 ##### 147 Application for compliance order
     
-*   (1) The Director-General may at any time apply to a District Court for a compliance order of a kind specified in [section 146][228].
+*   (1) The Director-General may at any time apply to a District Court for a compliance order of a kind specified in [section 146][229].
     
     (2) Every application to a District Court under this section must be made by originating application.
     
     (3) Except as modified---
         
-    *   (a) by [sections 148 to 156][230]; and
+    *   (a) by [sections 148 to 156][231]; and
     
-    *   (b) by any rules made under [section 157][239],---
+    *   (b) by any rules made under [section 157][240],---
     
     the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][391] apply with respect to every application to the court under this section.
 
 ##### 148 Notification of application
     
-*   (1) Except as provided in [section 151][233] (which relates to temporary compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
+*   (1) Except as provided in [section 151][234] (which relates to temporary compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
     
     (2) The notice must be served within 5 working days after the date on which the application is filed in the District Court, or within such further time as a District Court may allow.
 
 ##### 149 Right to be heard
     
-*   Except as provided in [section 151][233], before deciding an application for a compliance order, the court must---
+*   Except as provided in [section 151][234], before deciding an application for a compliance order, the court must---
         
     *   (a) hear the applicant; and
     
@@ -5334,7 +5356,7 @@ Offences, penalties, and proceedings
     
 *   After considering an application for a compliance order, the court may---
         
-    *   (a) make an appropriate order under [section 146][228]; or
+    *   (a) make an appropriate order under [section 146][229]; or
     
     *   (b) refuse the application.
     
@@ -5342,7 +5364,7 @@ Offences, penalties, and proceedings
 
 ##### 151 Interim compliance orders
     
-*   (1) If a District Court Judge considers it necessary to do so, the Judge may make an interim compliance order without requiring service of notice in accordance with [section 148][230] and without holding a hearing.
+*   (1) If a District Court Judge considers it necessary to do so, the Judge may make an interim compliance order without requiring service of notice in accordance with [section 148][231] and without holding a hearing.
     
     (2) Before making an interim compliance order, the Judge must consider---
         
@@ -5364,13 +5386,13 @@ Offences, penalties, and proceedings
         
     *   (a) takes effect from when it is served, or on and from such later date as the order directs; and
     
-    *   (b) remains in force until the application under [section 147][229] for a compliance order in respect of the same matter is determined, or until cancelled under subsection (5) of this section or under [section 152][234].
+    *   (b) remains in force until the application under [section 147][230] for a compliance order in respect of the same matter is determined, or until cancelled under subsection (5) of this section or under [section 152][235].
     
     (5) A person against whom an interim compliance order has been made without the person having been heard may apply to a District Court Judge to change or cancel the order, and, after hearing from that person and the applicant for the order, the Judge may confirm, change, or cancel the interim compliance order.
 
 ##### 152 Change or cancellation of compliance order
     
-*   (1) Without limiting [section 151(5)][233], any person directly affected by a compliance order may at any time apply to a District Court in the prescribed manner to change or cancel the order.
+*   (1) Without limiting [section 151(5)][234], any person directly affected by a compliance order may at any time apply to a District Court in the prescribed manner to change or cancel the order.
     
     (2) The applicant must, within 5 working days after making the application, serve notice of the application in the prescribed manner on the Director-General and on any other person (outside the Ministry) who was directly affected by the original order.
     
@@ -5402,7 +5424,7 @@ Offences, penalties, and proceedings
 
 ##### 154 Appeals to High Court
     
-*   (1AA) This subsection applies to a decision of a District Court, on an application under [section 147][229], to---
+*   (1AA) This subsection applies to a decision of a District Court, on an application under [section 147][230], to---
         
     *   (a) make or refuse to make a compliance order; or
     
@@ -5426,7 +5448,7 @@ Offences, penalties, and proceedings
 
 ##### 155 Appeals to Court of Appeal or Supreme Court
     
-*   (1) With the leave of the court appealed to, a party to an appeal under [section 154][236] may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
+*   (1) With the leave of the court appealed to, a party to an appeal under [section 154][237] may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
     
     (2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
     
@@ -5438,7 +5460,7 @@ Offences, penalties, and proceedings
     
 *   Except where the court making the order appealed from otherwise directs,---
         
-    *   (a) the operation of a compliance order is not suspended by an appeal under [section 154][236] or [section 155][237]; and
+    *   (a) the operation of a compliance order is not suspended by an appeal under [section 154][237] or [section 155][238]; and
     
     *   (b) every compliance order may be enforced in the same manner in all respects as if no such appeal were pending.
     
@@ -5461,7 +5483,7 @@ Miscellaneous provisions
 
 ##### 158 Identification systems and devices
     
-*   (1) The Director-General may from time to time, by notice under [section 167][256], specify or approve---
+*   (1) The Director-General may from time to time, by notice under [section 167][257], specify or approve---
         
     *   (a) systems and devices providing for the identification, differentiation, or security of animal material, animal products, premises or places, and associated things:
     
@@ -5525,23 +5547,23 @@ Miscellaneous provisions
     
     *   (c) any other recognised person or recognised agency who undertakes functions or activities in relation to the programme.
     
-    (3) For the purposes of this Act, the Director-General may, in any particular case or class of cases, by notice under [section 167][256],---
+    (3) For the purposes of this Act, the Director-General may, in any particular case or class of cases, by notice under [section 167][257],---
         
     *   (a) require records and other information additional to those specified in regulations to be kept and provided to the Director-General by any person referred to in subsections (1) and (2); and
     
     *   (b) specify the manner and form in which such records and other information are to be kept and provided.
     
-    Section 159(1)(g): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 159(1)(g): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 159(2)(b): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 159(2)(b): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 159(2)(b): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 159(2)(b): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 159(2)(c): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 159(2)(c): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
 
 ##### 160 Records to be available for inspection, etc
     
-*   A person who is required by or under [section 159][244] to keep records or any other information must at all reasonable times---
+*   A person who is required by or under [section 159][245] to keep records or any other information must at all reasonable times---
         
     *   (a) permit the Director-General, any animal product officer, or any official assessor to inspect and make copies of any such record or information; and
     
@@ -5587,7 +5609,7 @@ Miscellaneous provisions
         
         *   (v) the Meat Act 1981:
         
-        *   (vi) the [Food Act 1981][270]:
+        *   (vi) the [Food Act 1981][271]:
         
         *   (vii) the [Medicines Act 1981][402]:
         
@@ -5597,7 +5619,7 @@ Miscellaneous provisions
         
         *   (viiib) the [Hazardous Substances and New Organisms Act 1996][405]:
         
-        *   (ix) the [Fisheries Act 1996][269] or the [Fisheries Act 1983][289]:
+        *   (ix) the [Fisheries Act 1996][270] or the [Fisheries Act 1983][289]:
         
         *   (x) the [Customs and Excise Act 1996][406]:
         
@@ -5635,9 +5657,9 @@ Miscellaneous provisions
     
     Section 161(5)(a)(xib): inserted, on 1 June 2005, by [section 24(d)][409] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 161(5)(c): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 161(5)(c): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
-    Section 161(5)(c): amended, on 26 September 2002, by [section 5(10)][266] of the Animal Products Amendment Act 2002 (2002 No 29).
+    Section 161(5)(c): amended, on 26 September 2002, by [section 5(10)][267] of the Animal Products Amendment Act 2002 (2002 No 29).
     
     Section 161(5)(f): amended, on 18 September 2012, by [section 93][412] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -5647,33 +5669,33 @@ Miscellaneous provisions
     
 *   (1) This section applies to any of the following decisions made under this Act by a person acting under the delegated authority of the Director-General:
         
-    *   (a) a decision to refuse to register a risk management programme under [section 23][29] or an amendment to a programme under [section 25][31]:
+    *   (a) a decision to refuse to register a risk management programme under [section 23][30] or an amendment to a programme under [section 25][32]:
     
-    *   (b) a decision to suspend all or any operations under a risk management programme under [section 27][33], or to deregister a programme under [section 28][34], or to remove an animal product business or part-business from coverage of a programme under [section 28A][35]:
+    *   (b) a decision to suspend all or any operations under a risk management programme under [section 27][34], or to deregister a programme under [section 28][35], or to remove an animal product business or part-business from coverage of a programme under [section 28A][36]:
     
     *   (c) \[Repealed\]
     
     *   (d) \[Repealed\]
     
-    *   (e) a decision to refuse to register a person as an exporter under [section 56][69]:
+    *   (e) a decision to refuse to register a person as an exporter under [section 56][70]:
     
-    *   (f) a decision to deregister an exporter or to suspend export operations under [section 58][71]:
+    *   (f) a decision to deregister an exporter or to suspend export operations under [section 58][72]:
     
-    *   (g) a decision to refuse to list an operation as a game estate under [section 65I][93], or to delist a game estate under [section 65J][94]:
+    *   (g) a decision to refuse to list an operation as a game estate under [section 65I][94], or to delist a game estate under [section 65J][95]:
     
-    *   (h) a decision to refuse an application to recognise an agency under [section 101][146]:
+    *   (h) a decision to refuse an application to recognise an agency under [section 101][147]:
     
-    *   (i) a decision to refuse an application to recognise a person under [section 103][148]:
+    *   (i) a decision to refuse an application to recognise a person under [section 103][149]:
     
-    *   (j) a decision to refuse an application to recognise a class under [section 105][150]:
+    *   (j) a decision to refuse an application to recognise a class under [section 105][151]:
     
-    *   (k) a decision to exclude any members, or categories of members, from the recognition of a class under [section 105(5)][150]:
+    *   (k) a decision to exclude any members, or categories of members, from the recognition of a class under [section 105(5)][151]:
     
-    *   (l) a decision to vary a condition of recognition under [section 111][157], unless the variation is made on the application of the recognised agency, the recognised person, or a member of the recognised class in accordance with the terms of that application:
+    *   (l) a decision to vary a condition of recognition under [section 111][158], unless the variation is made on the application of the recognised agency, the recognised person, or a member of the recognised class in accordance with the terms of that application:
     
-    *   (m) a decision to suspend, or to extend the suspension of, recognition of an agency, a person, or a class under [section 112J][170] or [112K][171]:
+    *   (m) a decision to suspend, or to extend the suspension of, recognition of an agency, a person, or a class under [section 112J][171] or [112K][172]:
     
-    *   (n) a decision to withdraw recognition of an agency, a person, or a class under [section 112N][175] or [112O][176].
+    *   (n) a decision to withdraw recognition of an agency, a person, or a class under [section 112N][176] or [112O][177].
     
     (2) A person who is dissatisfied with any such decision may seek a review of the decision by the Director-General or by a person designated by the Director-General who was not involved in making the original decision.
     
@@ -5723,13 +5745,13 @@ Miscellaneous provisions
 
 ##### 163 Consultation requirements for making of certain Orders in Council, specifications, etc
     
-*   (1) Before making any recommendation for the making of an Order in Council or regulations under [section 9][12] (exclusion from ambit of Act), [section 15][19] (inclusion within requirement to have risk management programme), [section 38][48] (regulated control schemes), [section 44][55] (animal product standards), [section 49][61] (inclusion within requirement for exporters to be registered), or [section 118][198] (levies), the Minister---
+*   (1) Before making any recommendation for the making of an Order in Council or regulations under [section 9][13] (exclusion from ambit of Act), [section 15][20] (inclusion within requirement to have risk management programme), [section 38][49] (regulated control schemes), [section 44][56] (animal product standards), [section 49][62] (inclusion within requirement for exporters to be registered), or [section 118][199] (levies), the Minister---
         
     *   (a) must be satisfied that the Director-General has carried out consultation in accordance with subsection (3) and has advised the Minister of the results of any such consultation; and
     
     *   (b) must take into account the results of that consultation.
     
-    (2) Before setting any specifications or requirements for the purposes of any regulated control scheme or animal product standards under [section 40(1)(a) or (c)][50] or [section 45][56], the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
+    (2) Before setting any specifications or requirements for the purposes of any regulated control scheme or animal product standards under [section 40(1)(a) or (c)][51] or [section 45][57], the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
     
     (3) The Director-General must---
         
@@ -5751,11 +5773,11 @@ Miscellaneous provisions
 
 ##### 164 Notification of certain matters
     
-*   (1) This section applies to notices issued by the Director-General that are of a kind listed in [section 167][256].
+*   (1) This section applies to notices issued by the Director-General that are of a kind listed in [section 167][257].
     
     (2) Where any notice to which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must---
         
-    *   (a) notify the persons of the matter individually in accordance with [section 165][252]; and
+    *   (a) notify the persons of the matter individually in accordance with [section 165][253]; and
     
     *   (b) either---
             
@@ -5801,7 +5823,7 @@ Miscellaneous provisions
     
     *   (b) is a person or body who is not a Ministry employee or officer or group of Ministry employees or officers.
     
-    (1A) However, [section 112W][187] overrides this section if the relevant person is a member of a recognised class.
+    (1A) However, [section 112W][188] overrides this section if the relevant person is a member of a recognised class.
     
     (2) Where the Director-General wishes to issue a notification to a relevant person, the Director-General may issue that notification---
         
@@ -5833,7 +5855,7 @@ Miscellaneous provisions
     
     Section 165A: inserted, on 26 September 2002, by [section 46][415] of the Animal Products Amendment Act 2002 (2002 No 29).
     
-    Section 165A(1)(a): amended, on 1 June 2005, by [section 5(8)][283] of the Animal Products Amendment Act 2005 (2005 No 26).
+    Section 165A(1)(a): amended, on 1 June 2005, by [section 5(8)][278] of the Animal Products Amendment Act 2005 (2005 No 26).
     
     Section 165A(1A): inserted, on 31 August 2012, by [section 15][416] of the Animal Products Amendment Act 2012 (2012 No 59).
 
@@ -5843,21 +5865,21 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
-    *   (a) prescribing requirements, criteria, specifications, procedures, and related matters in relation to risk management programmes and the amending and updating of risk management programmes, and to elections to operate under a risk management programme under [section 32][40] or the registration of a food safety programme as a risk management programme under [section 34][42]:
+    *   (a) prescribing requirements, criteria, specifications, procedures, and related matters in relation to risk management programmes and the amending and updating of risk management programmes, and to elections to operate under a risk management programme under [section 32][41] or the registration of a food safety programme as a risk management programme under [section 34][43]:
     
-    *   (b) prescribing requirements, criteria, specifications, and other related matters in respect of regulated control schemes in accordance with [section 38][48]:
+    *   (b) prescribing requirements, criteria, specifications, and other related matters in respect of regulated control schemes in accordance with [section 38][49]:
     
-    *   (c) prescribing animal product standards, including criteria, specifications, and other related matters, in accordance with [section 44][55]:
+    *   (c) prescribing animal product standards, including criteria, specifications, and other related matters, in accordance with [section 44][56]:
     
-    *   (d) prescribing exemptions for any class of consignment, animal material or product, or person for the purposes of [section 50][62], including prescribing conditions in respect of any such exemption and authorising the Director-General to exempt or impose conditions in relation to any consignment, animal material or product, or person of a prescribed class:
+    *   (d) prescribing exemptions for any class of consignment, animal material or product, or person for the purposes of [section 50][63], including prescribing conditions in respect of any such exemption and authorising the Director-General to exempt or impose conditions in relation to any consignment, animal material or product, or person of a prescribed class:
     
-    *   (e) prescribing requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under [Part 8][142]:
+    *   (e) prescribing requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under [Part 8][143]:
     
     *   (ea) prescribing competencies, qualifications, experience, or other requirements that must be met---
             
-        *   (i) in order for a person to be recognised as a recognised agency or a recognised person under [Part 8][142]:
+        *   (i) in order for a person to be recognised as a recognised agency or a recognised person under [Part 8][143]:
         
-        *   (ii) in order for a class of persons to be recognised as a recognised class under [Part 8][142]:
+        *   (ii) in order for a class of persons to be recognised as a recognised class under [Part 8][143]:
         
         *   (iii) by a recognised agency, recognised person, or recognised class:
         
@@ -5873,13 +5895,13 @@ Miscellaneous provisions
     
     *   (g) prescribing procedures and requirements for applying for and obtaining official assurances, and otherwise prescribing matters in relation to official assurances:
     
-    *   (h) prescribing procedures and requirements relating to the use by persons of identification, differentiation, and security systems and devices approved or specified under [section 158][242], including prohibitions, restrictions, and conditions on the use of such systems and devices:
+    *   (h) prescribing procedures and requirements relating to the use by persons of identification, differentiation, and security systems and devices approved or specified under [section 158][243], including prohibitions, restrictions, and conditions on the use of such systems and devices:
     
-    *   (i) prescribing fees, charges, or levies for the purposes of this Act in accordance with the requirements for regulations made under [section 117][197] or [118][198], including---
+    *   (i) prescribing fees, charges, or levies for the purposes of this Act in accordance with the requirements for regulations made under [section 117][198] or [118][199], including---
             
-        *   (i) fees or charges for applications, renewals, or related matters under this Act (for example, for applications for registration under [Part 2][14] or [5][58] or for applications for recognition under [Part 8][142]):
+        *   (i) fees or charges for applications, renewals, or related matters under this Act (for example, for applications for registration under [Part 2][15] or [5][59] or for applications for recognition under [Part 8][143]):
         
-        *   (ii) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under [Part 2][14] or [5][58], for ongoing listing under [Part 6][97], or for ongoing recognition under [Part 8][142]):
+        *   (ii) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under [Part 2][15] or [5][59], for ongoing listing under [Part 6][98], or for ongoing recognition under [Part 8][143]):
         
         
     
@@ -5891,11 +5913,11 @@ Miscellaneous provisions
     
     *   (l) prescribing procedures and requirements for the listing of homekill and recreational catch service providers:
     
-    *   (m) prescribing for the purposes of [section 69][101] classes of persons who may kill or process for reward homekill or recreational catch without requiring to be listed as homekill or recreational catch service providers:
+    *   (m) prescribing for the purposes of [section 69][102] classes of persons who may kill or process for reward homekill or recreational catch without requiring to be listed as homekill or recreational catch service providers:
     
     *   (n) prescribing forms and procedures for the purposes of this Act:
     
-    *   (o) specifying matters which constitute offences for the purposes of [section 135(1)(b)][216]:
+    *   (o) specifying matters which constitute offences for the purposes of [section 135(1)(b)][217]:
     
     *   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
@@ -5925,51 +5947,51 @@ Miscellaneous provisions
     
 *   (1) The Director-General may from time to time issue notices for the following purposes:
         
-    *   (a) exempting under [section 14][18] any animal product producer or processor from the requirement to operate under a risk management programme:
+    *   (a) exempting under [section 14][19] any animal product producer or processor from the requirement to operate under a risk management programme:
     
-    *   (b) setting specifications in relation to risk management programmes for the purposes of [sections 17][21] and [34][42]:
+    *   (b) setting specifications in relation to risk management programmes for the purposes of [sections 17][22] and [34][43]:
     
-    *   (ba) specifying for the purposes of [section 24(3)][30] the circumstances that will not be treated as involving a change in the operator of a registered risk management programme:
+    *   (ba) specifying for the purposes of [section 24(3)][31] the circumstances that will not be treated as involving a change in the operator of a registered risk management programme:
     
-    *   (c) specifying matters in relation to the amendment of risk management programmes under [section 25][31], including specifying the kinds of changes that do not constitute an amendment requiring registration, and specifying the amount of notice of a future amendment that may be required:
+    *   (c) specifying matters in relation to the amendment of risk management programmes under [section 25][32], including specifying the kinds of changes that do not constitute an amendment requiring registration, and specifying the amount of notice of a future amendment that may be required:
     
-    *   (d) specifying matters in relation to the updating of risk management programmes under [section 26][32]:
+    *   (d) specifying matters in relation to the updating of risk management programmes under [section 26][33]:
     
-    *   (e) notifying requirements in relation to the termination of contracts with recognised risk management programme verifiers or recognised risk management programme verifying agencies under [section 112Y][189]:
+    *   (e) notifying requirements in relation to the termination of contracts with recognised risk management programme verifiers or recognised risk management programme verifying agencies under [section 112Y][190]:
     
-    *   (f) setting specifications for the purposes of, or imposing, a regulated control scheme for overseas market access purposes under [section 40(1)(b)][50]:
+    *   (f) setting specifications for the purposes of, or imposing, a regulated control scheme for overseas market access purposes under [section 40(1)(b)][51]:
     
     *   (g) setting specifications under a regulated control scheme in accordance with section 40:
     
-    *   (h) setting specifications and providing for matters of detail in relation to animal product standards in accordance with [section 45][56]:
+    *   (h) setting specifications and providing for matters of detail in relation to animal product standards in accordance with [section 45][57]:
     
-    *   (i) exempting under [section 50][62] any particular consignment or animal material or product or person, or class of consignments, animal material or products, or persons, from the export requirements of [Part 5][58]:
+    *   (i) exempting under [section 50][63] any particular consignment or animal material or product or person, or class of consignments, animal material or products, or persons, from the export requirements of [Part 5][59]:
     
-    *   (j) specifying particulars to be shown on the register of exporters under [section 53(c)][66]:
+    *   (j) specifying particulars to be shown on the register of exporters under [section 53(c)][67]:
     
-    *   (ja) specifying under [section 60][75] requirements that must be met in relation to animal material or product intended for export:
+    *   (ja) specifying under [section 60][76] requirements that must be met in relation to animal material or product intended for export:
     
-    *   (jb) notifying any exemption under [section 60B][77] from the requirements of any food standard:
+    *   (jb) notifying any exemption under [section 60B][78] from the requirements of any food standard:
     
-    *   (k) setting specifications in relation to the issue and control of official assurances under [section 62][80]:
+    *   (k) setting specifications in relation to the issue and control of official assurances under [section 62][81]:
     
-    *   (l) specifying matters in relation to the obtaining of official assurances under [section 63][81]:
+    *   (l) specifying matters in relation to the obtaining of official assurances under [section 63][82]:
     
-    *   (la) specifying species, kinds, or description of animals to be treated as game estate for the purposes of [section 65B][86]:
+    *   (la) specifying species, kinds, or description of animals to be treated as game estate for the purposes of [section 65B][87]:
     
-    *   (lb) specifying other particulars to be shown in the register of game estates kept under [section 65F][90]:
+    *   (lb) specifying other particulars to be shown in the register of game estates kept under [section 65F][91]:
     
-    *   (lc) for the purposes of [sections 67(2)][99], [68(2)][100], and [69(3)][101], imposing conditions in respect of the sale or disposal to renderers of any parts of a homekill or recreational catch product:
+    *   (lc) for the purposes of [sections 67(2)][100], [68(2)][101], and [69(3)][102], imposing conditions in respect of the sale or disposal to renderers of any parts of a homekill or recreational catch product:
     
-    *   (ld) requiring the making of declarations under [section 81A][118], and specifying matters in relation to the declarations:
+    *   (ld) requiring the making of declarations under [section 81A][119], and specifying matters in relation to the declarations:
     
-    *   (m) specifying requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under [Part 8][142]:
+    *   (m) specifying requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under [Part 8][143]:
     
     *   (maa) specifying competencies, qualifications, experience, or other requirements that must be met---
             
-        *   (i) in order for a person to be recognised as a recognised agency or a recognised person under [Part 8][142]:
+        *   (i) in order for a person to be recognised as a recognised agency or a recognised person under [Part 8][143]:
         
-        *   (ii) in order for a class of persons to be recognised as a recognised class under [Part 8][142]:
+        *   (ii) in order for a class of persons to be recognised as a recognised class under [Part 8][143]:
         
         *   (iii) by a recognised agency, recognised person, or recognised class:
         
@@ -5979,19 +6001,19 @@ Miscellaneous provisions
     
     *   (maab) specifying performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or a recognised person, a recognised class, or an official assessor when it is carrying out, its specified functions and activities:
     
-    *   (ma) specifying the value to be attributed to any component of a formula of a kind referred to in [section 117(4A)][197] that determines fees or charges:
+    *   (ma) specifying the value to be attributed to any component of a formula of a kind referred to in [section 117(4A)][198] that determines fees or charges:
     
-    *   (n) notifying, and setting specifications in relation to, identification and differentiation systems and security devices specified or approved under [section 158][242] for the purposes of this Act:
+    *   (n) notifying, and setting specifications in relation to, identification and differentiation systems and security devices specified or approved under [section 158][243] for the purposes of this Act:
     
-    *   (o) specifying records and other information to be kept and returns to be made by any person for the purposes of [section 159][244].
+    *   (o) specifying records and other information to be kept and returns to be made by any person for the purposes of [section 159][245].
     
     *   (p) \[Repealed\]
     
     *   (q) \[Repealed\]
     
-    (2) Any notice under subsection (1) must be notified in accordance with [section 164][251].
+    (2) Any notice under subsection (1) must be notified in accordance with [section 164][252].
     
-    (3) A notice made under subsection (1)(ma) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][281] and must be presented to the House of Representatives under [section 41][282] of that Act.
+    (3) A notice made under subsection (1)(ma) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][276] and must be presented to the House of Representatives under [section 41][277] of that Act.
     
     Section 167(1)(ba): inserted, on 26 September 2002, by [section 48(1)][419] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -6023,7 +6045,7 @@ Miscellaneous provisions
     
     Section 167(1)(q): repealed, on 31 August 2012, by [section 17(3)][420] of the Animal Products Amendment Act 2012 (2012 No 59).
     
-    Section 167(3): replaced, on 5 August 2013, by [section 77(3)][286] of the Legislation Act 2012 (2012 No 119).
+    Section 167(3): replaced, on 5 August 2013, by [section 77(3)][281] of the Legislation Act 2012 (2012 No 119).
 
 ##### 168 Incorporation of material by reference into regulations, notices, and orders
     
@@ -6057,7 +6079,7 @@ Miscellaneous provisions
 
 ##### 169 Repeals, amendments, and transitional provisions appear in Animal Products (Ancillary and Transitional Provisions) Act 1999
     
-*   (1) The following matters ancillary to this Act appear in the [Animal Products (Ancillary and Transitional Provisions) Act 1999][262]:
+*   (1) The following matters ancillary to this Act appear in the [Animal Products (Ancillary and Transitional Provisions) Act 1999][263]:
         
     *   (a) repeal of the Meat Act 1981 with effect on and from 1 July 2006:
     
@@ -6069,7 +6091,7 @@ Miscellaneous provisions
     
     *   (e) repeal of the Dairy Industry Act 1952 (with effect on the commencement of the [Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005][426]), together with associated revocations, amendments, and savings and transitional provisions.
     
-    (2) For the purposes of [sections 20][427], [21][428] and [22][429] of the Interpretation Act 1999, this Act, together with the [Animal Products (Ancillary and Transitional Provisions) Act 1999][262], is to be treated as having repealed the Meat Act 1981 and the Apiaries Act 1969 and (with effect on the commencement of the [Animal Products Amendment Act 2005][430]) the Dairy Industry Act 1952 and having been passed in substitution for those Acts (but without preventing the [Biosecurity Act 1993][403] from being similarly treated in relation to relevant provisions of the Apiaries Act 1969).
+    (2) For the purposes of [sections 20][427], [21][428] and [22][429] of the Interpretation Act 1999, this Act, together with the [Animal Products (Ancillary and Transitional Provisions) Act 1999][263], is to be treated as having repealed the Meat Act 1981 and the Apiaries Act 1969 and (with effect on the commencement of the [Animal Products Amendment Act 2005][430]) the Dairy Industry Act 1952 and having been passed in substitution for those Acts (but without preventing the [Biosecurity Act 1993][403] from being similarly treated in relation to relevant provisions of the Apiaries Act 1969).
     
     Section 169(1)(a): amended, on 26 September 2002, by [section 49][431] of the Animal Products Amendment Act 2002 (2002 No 29).
     
@@ -6085,7 +6107,7 @@ Miscellaneous provisions
 
 ## Schedule  
 
-[s 94][136]
+[s 94][137]
 
 \[Repealed\]
     
@@ -6127,7 +6149,7 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][435] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][436] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][435] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][436] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -6135,7 +6157,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][286]
+*   Biosecurity (Border Processing---Trade Single Window) Amendment Act 2014 (2014 No 11): [section 16][287]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][281]
     
     Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][412]
     
@@ -6165,7 +6189,7 @@ Commencementsee section 2
     
     [Animal Products Amendment Act 2002][441] (2002 No 29)
     
-    [Animal Products Act Commencement Order 2000][263] (SR 2000/206)
+    [Animal Products Act Commencement Order 2000][264] (SR 2000/206)
     
     Animal Welfare Act 1999 (1999 No 142): [section 194][411]
     
@@ -6182,285 +6206,285 @@ Commencementsee section 2
 [6]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM33515
 [7]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34195
 [8]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34197
-[9]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34199
-[10]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34300
-[11]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34301
-[12]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34305
-[13]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34306
-[14]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34308
-[15]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34309
-[16]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34310
-[17]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34313
-[18]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34318
-[19]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34321
-[20]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34325
-[21]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34328
-[22]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34334
-[23]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34339
-[24]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34340
-[25]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34341
-[26]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34345
-[27]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34350
-[28]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34351
-[29]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34356
-[30]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34357
-[31]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34359
-[32]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34362
-[33]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34363
-[34]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34365
-[35]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34368
-[36]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34370
-[37]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34372
-[38]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34373
-[39]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34374
-[40]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34376
-[41]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34377
-[42]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34379
-[43]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34381
-[44]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34383
-[45]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34386
-[46]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34388
-[47]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34389
-[48]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34391
-[49]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34393
-[50]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34394
-[51]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34395
-[52]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34396
-[53]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34397
-[54]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34398
-[55]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34399
-[56]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34800
-[57]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34801
-[58]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34802
-[59]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34803
-[60]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34806
-[61]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34809
-[62]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34810
-[63]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34811
-[64]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34814
-[65]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34815
-[66]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34817
-[67]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34820
-[68]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34822
-[69]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34823
-[70]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34824
-[71]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34825
-[72]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34827
-[73]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34833
-[74]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34830
-[75]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34835
-[76]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34837
-[77]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34839
-[78]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34841
-[79]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34843
-[80]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34845
-[81]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34846
-[82]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34848
-[83]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34850
-[84]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34851
-[85]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34853
-[86]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34855
-[87]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34857
-[88]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34859
-[89]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34861
-[90]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34863
-[91]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34865
-[92]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34867
-[93]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34869
-[94]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34871
-[95]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34873
-[96]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34875
-[97]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34877
-[98]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34878
-[99]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34880
-[100]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34884
-[101]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34886
-[102]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34888
-[103]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34890
-[104]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34893
-[105]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34894
-[106]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34895
-[107]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34896
-[108]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34897
-[109]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34898
-[110]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34899
-[111]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35200
-[112]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35201
-[113]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35202
-[114]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35203
-[115]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35205
-[116]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35206
-[117]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35207
-[118]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35209
-[119]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35211
-[120]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35214
-[121]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35217
-[122]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35219
-[123]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35220
-[124]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35222
-[125]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35223
-[126]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35224
-[127]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35228
-[128]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35230
-[129]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35231
-[130]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35234
-[131]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4828744
-[132]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35235
-[133]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35236
-[134]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35237
-[135]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35238
-[136]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35239
-[137]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35240
-[138]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35241
-[139]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35242
-[140]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35243
-[141]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35244
-[142]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715459
-[143]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715460
-[144]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715461
-[145]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715466
-[146]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715467
-[147]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715468
-[148]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715469
-[149]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715470
-[150]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715471
-[151]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715472
-[152]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715473
-[153]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715474
-[154]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715475
-[155]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715476
-[156]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715477
-[157]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715478
-[158]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715480
-[159]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715481
-[160]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715482
-[161]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715483
-[162]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715485
-[163]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715486
-[164]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715487
-[165]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715488
-[166]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715489
-[167]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715490
-[168]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715491
-[169]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715492
-[170]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715493
-[171]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715494
-[172]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715495
-[173]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715497
-[174]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715498
-[175]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715499
-[176]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716800
-[177]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716801
-[178]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716802
-[179]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716803
-[180]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716804
-[181]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716805
-[182]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716806
-[183]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716807
-[184]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716808
-[185]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716809
-[186]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716810
-[187]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716811
-[188]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716812
-[189]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716814
-[190]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716815
-[191]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35716
-[192]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35717
-[193]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35718
-[194]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35720
-[195]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM1128502
-[196]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35722
-[197]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35723
-[198]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35725
-[199]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35726
-[200]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35727
-[201]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35728
-[202]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35729
-[203]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35730
-[204]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35731
-[205]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35732
-[206]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35733
-[207]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35734
-[208]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35735
-[209]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35737
-[210]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35738
-[211]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35740
-[212]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35741
-[213]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35746
-[214]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35747
-[215]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35753
-[216]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35758
-[217]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35759
-[218]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35760
-[219]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35761
-[220]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35762
-[221]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35763
-[222]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35768
-[223]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35769
-[224]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35770
-[225]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35771
-[226]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35772
-[227]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35773
-[228]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35774
-[229]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35775
-[230]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35776
-[231]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35777
-[232]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35778
-[233]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35779
-[234]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35780
-[235]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35781
-[236]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35782
-[237]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35786
-[238]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35788
-[239]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35789
-[240]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35790
-[241]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35791
-[242]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35792
-[243]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35795
-[244]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35796
-[245]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36100
-[246]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36101
-[247]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36110
-[248]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36111
-[249]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36117
-[250]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36118
-[251]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36119
-[252]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36120
-[253]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36121
-[254]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36128
-[255]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36129
-[256]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36133
-[257]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36143
-[258]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36144
-[259]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36145
-[260]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36149
-[261]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338035
-[262]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM36152
-[263]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM9537
-[264]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148005
-[265]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148006
-[266]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148007
-[267]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338036
-[268]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM37520
-[269]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM394191
-[270]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM48686
-[271]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM49922
-[272]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM42657
-[273]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM50188
-[274]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35711
-[275]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35253
-[276]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35259
-[277]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35273
-[278]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35263
-[279]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35268
-[280]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM37227
-[281]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2997643
-[282]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2998573
-[283]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338037
-[284]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4443707
-[285]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM3039705
-[286]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2998633
-[287]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338062
+[9]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM6167700
+[10]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34199
+[11]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34300
+[12]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34301
+[13]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34305
+[14]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34306
+[15]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34308
+[16]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34309
+[17]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34310
+[18]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34313
+[19]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34318
+[20]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34321
+[21]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34325
+[22]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34328
+[23]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34334
+[24]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34339
+[25]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34340
+[26]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34341
+[27]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34345
+[28]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34350
+[29]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34351
+[30]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34356
+[31]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34357
+[32]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34359
+[33]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34362
+[34]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34363
+[35]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34365
+[36]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34368
+[37]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34370
+[38]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34372
+[39]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34373
+[40]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34374
+[41]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34376
+[42]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34377
+[43]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34379
+[44]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34381
+[45]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34383
+[46]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34386
+[47]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34388
+[48]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34389
+[49]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34391
+[50]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34393
+[51]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34394
+[52]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34395
+[53]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34396
+[54]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34397
+[55]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34398
+[56]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34399
+[57]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34800
+[58]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34801
+[59]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34802
+[60]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34803
+[61]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34806
+[62]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34809
+[63]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34810
+[64]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34811
+[65]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34814
+[66]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34815
+[67]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34817
+[68]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34820
+[69]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34822
+[70]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34823
+[71]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34824
+[72]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34825
+[73]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34827
+[74]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34833
+[75]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34830
+[76]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34835
+[77]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34837
+[78]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34839
+[79]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34841
+[80]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34843
+[81]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34845
+[82]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34846
+[83]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34848
+[84]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34850
+[85]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34851
+[86]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34853
+[87]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34855
+[88]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34857
+[89]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34859
+[90]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34861
+[91]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34863
+[92]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34865
+[93]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34867
+[94]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34869
+[95]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34871
+[96]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34873
+[97]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34875
+[98]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34877
+[99]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34878
+[100]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34880
+[101]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34884
+[102]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34886
+[103]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34888
+[104]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34890
+[105]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34893
+[106]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34894
+[107]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34895
+[108]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34896
+[109]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34897
+[110]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34898
+[111]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM34899
+[112]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35200
+[113]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35201
+[114]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35202
+[115]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35203
+[116]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35205
+[117]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35206
+[118]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35207
+[119]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35209
+[120]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35211
+[121]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35214
+[122]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35217
+[123]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35219
+[124]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35220
+[125]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35222
+[126]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35223
+[127]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35224
+[128]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35228
+[129]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35230
+[130]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35231
+[131]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35234
+[132]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4828744
+[133]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35235
+[134]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35236
+[135]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35237
+[136]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35238
+[137]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35239
+[138]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35240
+[139]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35241
+[140]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35242
+[141]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35243
+[142]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35244
+[143]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715459
+[144]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715460
+[145]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715461
+[146]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715466
+[147]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715467
+[148]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715468
+[149]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715469
+[150]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715470
+[151]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715471
+[152]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715472
+[153]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715473
+[154]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715474
+[155]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715475
+[156]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715476
+[157]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715477
+[158]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715478
+[159]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715480
+[160]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715481
+[161]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715482
+[162]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715483
+[163]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715485
+[164]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715486
+[165]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715487
+[166]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715488
+[167]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715489
+[168]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715490
+[169]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715491
+[170]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715492
+[171]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715493
+[172]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715494
+[173]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715495
+[174]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715497
+[175]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715498
+[176]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4715499
+[177]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716800
+[178]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716801
+[179]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716802
+[180]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716803
+[181]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716804
+[182]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716805
+[183]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716806
+[184]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716807
+[185]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716808
+[186]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716809
+[187]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716810
+[188]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716811
+[189]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716812
+[190]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716814
+[191]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM4716815
+[192]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35716
+[193]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35717
+[194]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35718
+[195]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35720
+[196]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM1128502
+[197]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35722
+[198]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35723
+[199]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35725
+[200]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35726
+[201]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35727
+[202]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35728
+[203]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35729
+[204]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35730
+[205]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35731
+[206]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35732
+[207]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35733
+[208]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35734
+[209]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35735
+[210]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35737
+[211]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35738
+[212]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35740
+[213]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35741
+[214]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35746
+[215]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35747
+[216]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35753
+[217]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35758
+[218]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35759
+[219]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35760
+[220]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35761
+[221]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35762
+[222]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35763
+[223]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35768
+[224]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35769
+[225]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35770
+[226]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35771
+[227]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35772
+[228]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35773
+[229]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35774
+[230]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35775
+[231]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35776
+[232]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35777
+[233]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35778
+[234]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35779
+[235]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35780
+[236]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35781
+[237]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35782
+[238]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35786
+[239]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35788
+[240]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35789
+[241]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35790
+[242]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35791
+[243]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35792
+[244]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35795
+[245]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM35796
+[246]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36100
+[247]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36101
+[248]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36110
+[249]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36111
+[250]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36117
+[251]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36118
+[252]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36119
+[253]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36120
+[254]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36121
+[255]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36128
+[256]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36129
+[257]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36133
+[258]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36143
+[259]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36144
+[260]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36145
+[261]: http://www.legislation.govt.nz/act/public/1999/0093/latest/whole.html#DLM36149
+[262]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338035
+[263]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM36152
+[264]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM9537
+[265]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148005
+[266]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148006
+[267]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148007
+[268]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338036
+[269]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM37520
+[270]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM394191
+[271]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM48686
+[272]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM49922
+[273]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM42657
+[274]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM50188
+[275]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM37227
+[276]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2997643
+[277]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2998573
+[278]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338037
+[279]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4443707
+[280]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM3039705
+[281]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM2998633
+[282]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338062
+[283]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4417029
+[284]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4417034
+[285]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM380176
+[286]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4417002
+[287]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM5965839
 [288]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM338064
 [289]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM66581
 [290]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM148020
@@ -6565,7 +6589,7 @@ Commencementsee section 2
 [389]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM4443797
 [390]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM3360067
 [391]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM242775
-[392]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM147655
+[392]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM147653
 [393]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM243909
 [394]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM243795
 [395]: http://www.legislation.govt.nz/act/public/1999/0093/latest/link.aspx?id=DLM168713
