@@ -6940,14 +6940,6 @@ Amendments, repeals, and miscellaneous provisions
 
 #### Transitional provisions
 
-##### 348 Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957
-    
-*   (1) Despite their repeal by section 337, sections 198 to 200 of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
-    
-    (2) Subsection (1) does not limit the application of the Interpretation Act 1999\.
-    
-    (3) This section expires on the close of 30 June 2014\.
-
 ##### 349 Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957
     
 *   (1) Despite the repeal of sections 200A to 200P of the Summary Proceedings Act 1957 by this Act,---
