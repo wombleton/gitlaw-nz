@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Land Information New Zealand.
 
@@ -517,7 +517,9 @@ General matters and key provisions relating to New Zealand Geographic Board Ngā
     
     (2) The report must include a copy of the part of the audited accounts of Land Information New Zealand that relate to the Board's expenditure for that year.
     
-    (3) A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under [section 39][90] of the Public Finance Act 1989\.
+    (3) A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under [section 44][90] of the Public Finance Act 1989\.
+    
+    Section 14(3): amended, on 1 July 2014, by [section 104][91] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ## Part 2  
 Naming of geographic features and Crown protected areas
@@ -584,7 +586,7 @@ Naming of geographic features and Crown protected areas
     
     *   (d) the contact details of the Board.
     
-    Compare: 1946 No 3 [s 12][91]
+    Compare: 1946 No 3 [s 12][92]
 
 ##### 17 Submissions
     
@@ -594,7 +596,7 @@ Naming of geographic features and Crown protected areas
     
     *   (b) may, if that person objects to the proposal, set out an alternative proposal or support the existing name, if any.
     
-    Compare: 1946 No 3 [s 13(1)][92]
+    Compare: 1946 No 3 [s 13(1)][93]
 
 ##### 18 Board to consider submissions and decide on objections
     
@@ -618,7 +620,7 @@ Naming of geographic features and Crown protected areas
     
     (3) The Board's determination of a proposal is final.
     
-    Compare: 1946 No 3 [ss 13(2)][92], [14][93]
+    Compare: 1946 No 3 [ss 13(2)][93], [14][94]
 
 ##### 20 Determination by Minister
     
@@ -632,7 +634,7 @@ Naming of geographic features and Crown protected areas
     
     (3) The Minister's determination on a proposal is final.
     
-    Compare: 1946 No 3 [s 13][92]
+    Compare: 1946 No 3 [s 13][93]
 
 ##### 21 Publication of official geographic names
     
@@ -662,13 +664,13 @@ Naming of geographic features and Crown protected areas
         
         
     
-    Compare: 1946 No 3 [s 15][94]
+    Compare: 1946 No 3 [s 15][95]
 
 ##### 22 Alteration of name of local authority
     
 *   (1) This section applies if the Board carries out the function to alter the name of a district or region provided for under [section 11(2)][17].
     
-    (2) Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under [section 260][87] of the Local Government Act 2002 to amend the name of the relevant local authority in [Schedule 2][95] of that Act to give effect to the alteration.
+    (2) Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under [section 260][87] of the Local Government Act 2002 to amend the name of the relevant local authority in [Schedule 2][96] of that Act to give effect to the alteration.
     
     (3) An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by [section 23(2)(a)][36].
 
@@ -808,7 +810,7 @@ Naming of geographic features and Crown protected areas
 
 #### Requirement to notify Board if name discontinued
     
-*   Heading: inserted, on 12 December 2012, by [section 5][96] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+*   Heading: inserted, on 12 December 2012, by [section 5][97] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
 
 ##### 31A Requirement to notify Board if name of Crown protected area discontinued
     
@@ -826,7 +828,7 @@ Naming of geographic features and Crown protected areas
     
     (2) On receipt of notification under subsection (1), the Board must remove the name of the Crown protected area from the list of official geographic names in the Gazetteer.
     
-    Section 31A: inserted, on 12 December 2012, by [section 5][96] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+    Section 31A: inserted, on 12 December 2012, by [section 5][97] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
 
 ## Part 3  
 Miscellaneous provisions
@@ -841,9 +843,9 @@ Miscellaneous provisions
     
     (2) However, subsection (1) does not apply if an official document containing a name other than an official geographic name states that the particular name is not the official geographic name of the geographic feature or Crown protected area to which it applies.
     
-    Compare: 1946 No 3 [s 18(1)][97]
+    Compare: 1946 No 3 [s 18(1)][98]
     
-    Section 32(1A): inserted, on 12 December 2012, by [section 6][98] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+    Section 32(1A): inserted, on 12 December 2012, by [section 6][99] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
 
 ##### 33 Injunction may be granted by Court
     
@@ -875,7 +877,7 @@ Miscellaneous provisions
         
         
     
-    Compare: 1946 No 3 [s 16][99]
+    Compare: 1946 No 3 [s 16][100]
 
 ##### 35 Validation of certain names
     
@@ -895,7 +897,7 @@ Miscellaneous provisions
     
     (3) The Board must, as soon as is reasonably practicable after the commencement of this Act, publish in the _Gazette_ the official geographic names referred to in subsection (1) that have not previously been gazetted.
     
-    Compare: 1946 No 3 [s 17][100]
+    Compare: 1946 No 3 [s 17][101]
 
 #### Proof of status as official geographic name
 
@@ -903,7 +905,7 @@ Miscellaneous provisions
     
 *   A copy of a _Gazette_ notice published under this Act is conclusive evidence of the official geographic name of the geographic feature or Crown protected area to which it applies.
     
-    Compare: 1946 No 3 [s 15(3)][94]
+    Compare: 1946 No 3 [s 15(3)][95]
 
 #### Repeal and amendments
 
@@ -944,7 +946,7 @@ Appointments and other procedures
         
         
     
-    *   (b) 1 person nominated by Te Rūnanga o Ngāi Tahu (as established under [section 6][101] of Te Runanga o Ngai Tahu Act 1996); and
+    *   (b) 1 person nominated by Te Rūnanga o Ngāi Tahu (as established under [section 6][102] of Te Runanga o Ngai Tahu Act 1996); and
     
     *   (c) 1 person nominated by the New Zealand Geographical Society Inc; and
     
@@ -1004,7 +1006,7 @@ Appointments and other procedures
     
     (5) The fact that a person attends a meeting as the deputy of the Surveyor-General is sufficient evidence of his or her authority to do so.
     
-    Compare: 1946 No 3 [s 4][102]
+    Compare: 1946 No 3 [s 4][103]
 
 ##### 5 Secretary and committees may be appointed
     
@@ -1016,7 +1018,7 @@ Appointments and other procedures
     
     *   (c) if any committee is appointed, the chair of that committee.
     
-    Compare: 1946 No 3 [s 7][103]
+    Compare: 1946 No 3 [s 7][104]
 
 #### _Power of Board to delegate_
 
@@ -1026,7 +1028,7 @@ Appointments and other procedures
         
     *   (a) a member of the Board:
     
-    *   (b) the secretary of the Board (if any) appointed under [clause 5][104]:
+    *   (b) the secretary of the Board (if any) appointed under [clause 5][105]:
     
     *   (c) an employee of the department holding a specified office or appointment or other suitable person:
     
@@ -1068,7 +1070,7 @@ Appointments and other procedures
     
 *   Unless otherwise expressly provided by or under this Act, the Board may regulate its own procedure.
     
-    Compare: 1946 No 3 [s 5(6)][105]
+    Compare: 1946 No 3 [s 5(6)][106]
 
 ##### 8 Meetings of Board
     
@@ -1076,13 +1078,13 @@ Appointments and other procedures
     
     (2) A quorum for a meeting of the Board is 5 members.
     
-    Compare: 1946 No 3 [s 5(1)][105], (2)
+    Compare: 1946 No 3 [s 5(1)][106], (2)
 
 ##### 9 Special meetings of Board
     
 *   (1) The chairperson of the Board must convene a special meeting of the Board if requested in writing to do so by at least 5 members of the Board.
     
-    (2) Written notice must be given of the special meeting in accordance with notice provisions adopted by the Board under [clause 7][106].
+    (2) Written notice must be given of the special meeting in accordance with notice provisions adopted by the Board under [clause 7][107].
     
     (3) The notice given under subclause (2) must include a statement of the business to be transacted.
     
@@ -1096,7 +1098,7 @@ Appointments and other procedures
     
     (3) However, the chairperson of the meeting has a deliberative vote, and in the case of an equality of votes, also has a casting vote.
     
-    Compare: 1946 No 3 [s 5(3)][105], (4)
+    Compare: 1946 No 3 [s 5(3)][106], (4)
 
 ##### 11 Fees and allowances
     
@@ -1108,7 +1110,7 @@ Appointments and other procedures
     
     (2) In subclause (1), _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
     
-    Compare: 1946 No 3 [s 6][107]
+    Compare: 1946 No 3 [s 6][108]
 
 ---
 
@@ -1119,7 +1121,7 @@ Consequential amendments
 
 ##### Conservation Act 1987 (1987 No 65)
 
-[Section 18(3)][108]: repeal and substitute:
+[Section 18(3)][109]: repeal and substitute:
 
 > *   "(3) The public notice referred to in subsection (2) must specify the proposed name for the proposed park or area.
 > 
@@ -1141,7 +1143,7 @@ Consequential amendments
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-[Section 5(1)(c)][109]: insert after subparagraph (iii):
+[Section 5(1)(c)][110]: insert after subparagraph (iii):
 
 > *   "(iiia) states the proposed name of the proposed marine reserve:".
 > 
@@ -1155,7 +1157,7 @@ Section 5: insert after subsection (7):
 
 ##### National Parks Act 1980 (1980 No 66)
 
-[Section 7][110]: insert after subsection (2):
+[Section 7][111]: insert after subsection (2):
 
 > *   "(2A) Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be."
 > 
@@ -1163,94 +1165,53 @@ Section 5: insert after subsection (7):
 
 ##### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
 
-[Section 270][111]: repeal.
+[Section 270][112]: repeal.
 
 ##### Official Information Act 1982 (1982 No 156)
 
-[Schedule 1][112]: omit ""New Zealand Geographic Board"" and substitute ""New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa"".
+[Schedule 1][113]: omit ""New Zealand Geographic Board"" and substitute ""New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa"".
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 2][113] of Schedule 1: insert ""New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa"" after ""The New Zealand Game Bird Habitat Trust Board"".
+[Part 2][114] of Schedule 1: insert ""New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa"" after ""The New Zealand Game Bird Habitat Trust Board"".
 
 ##### Reserves Act 1977 (1977 No 66)
 
-[Section 16][114]: insert after subsection (10):
+[Section 16][115]: insert after subsection (10):
 
 > *   "(10A) Before the Minister gives notice in the _Gazette_ under subsection (10), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be."
 > 
 > 
 
-[Section 52][115]: insert after subsection (1):
+[Section 52][116]: insert after subsection (1):
 
 > *   "(1A) Before the Minister gives notice in the _Gazette_ under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be."
 > 
 > 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][116] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][117] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][117] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][118] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][118] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][119] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][120] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][119] and [17E][120] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Public Finance Amendment Act 2013 (2013 No 50): [section 104][91]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012][121] (2012 No 110)
+    [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012][121] (2012 No 110)
     
     [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2009][69] (SR 2009/196)
     
@@ -1258,7 +1219,7 @@ Section 5: insert after subsection (7):
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065415
 [2]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1244233
 [3]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065417
@@ -1348,35 +1309,35 @@ Section 5: insert after subsection (7):
 [87]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM174084
 [88]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240141
 [89]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240146
-[90]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM162412
-[91]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240152
-[92]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240154
-[93]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240156
-[94]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240157
-[95]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM174258
-[96]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM4990736
-[97]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240162
-[98]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM4990739
-[99]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240160
-[100]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240161
-[101]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM117232
-[102]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240132
-[103]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240138
-[104]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065533
-[105]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240134
-[106]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065537
-[107]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240136
-[108]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM104682
-[109]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM398113
-[110]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM37904
-[111]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM430139
-[112]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM65921
-[113]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM431204
-[114]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM444492
-[115]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM444712
-[116]: http://www.pco.parliament.govt.nz/reprints/
-[117]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM195439
-[118]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[119]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM195468
-[120]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM195470
+[90]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM162468
+[91]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM5328665
+[92]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240152
+[93]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240154
+[94]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240156
+[95]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240157
+[96]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM174258
+[97]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM4990736
+[98]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240162
+[99]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM4990739
+[100]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240160
+[101]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240161
+[102]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM117232
+[103]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240132
+[104]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240138
+[105]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065533
+[106]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240134
+[107]: http://www.legislation.govt.nz/act/public/2008/0030/latest/whole.html#DLM1065537
+[108]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM240136
+[109]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM104682
+[110]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM398113
+[111]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM37904
+[112]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM430139
+[113]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM65921
+[114]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM431204
+[115]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM444492
+[116]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM444712
+[117]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM2998516
+[118]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM2998515
+[119]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM2998532
+[120]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [121]: http://www.legislation.govt.nz/act/public/2008/0030/latest/link.aspx?id=DLM4990748
