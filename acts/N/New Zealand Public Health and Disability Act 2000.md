@@ -1024,7 +1024,7 @@ District Health Boards
     
     *   (i) [sections 120 to 126][207] (immunities, indemnities, and insurance):
     
-    *   (j) [section 161][208] (in relation to shares and interests covered by [section 28][32]):
+    *   (j) [section 161][208] (in relation to shares and interests covered by [section 28][209]):
     
     *   (k) [section 170(1)][191] (in relation to any outputs covered by a Crown funding agreement):
     
@@ -1060,15 +1060,15 @@ District Health Boards
     
     *   (k) to be a good employer in accordance with [section 118][181] of the Crown Entities Act 2004\.
     
-    (2) Each DHB must pursue its objectives in accordance with any plan prepared under [section 38][47], its statement of intent, and any directions or requirements given to it by the Minister under [section 33][37], [33A][38], or [33B][40] of this Act, or [section 103][180] of the Crown Entities Act 2004, or under [section 107][209] of the Crown Entities Act 2004\.
+    (2) Each DHB must pursue its objectives in accordance with any plan prepared under [section 38][47], its statement of intent, and any directions or requirements given to it by the Minister under [section 33][37], [33A][38], or [33B][40] of this Act, or [section 103][180] of the Crown Entities Act 2004, or under [section 107][210] of the Crown Entities Act 2004\.
     
-    Section 22(1)(ba): inserted, on 9 November 2010, by [section 8(1)][210] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 22(1)(ba): inserted, on 9 November 2010, by [section 8(1)][211] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 22(1)(k): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 22(2): amended, on 24 February 2011, by [section 8(2)][210] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 22(2): amended, on 24 February 2011, by [section 8(2)][211] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 22(2): amended, on 24 February 2011, by [section 8(3)][210] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 22(2): amended, on 24 February 2011, by [section 8(3)][211] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 22(2): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1108,9 +1108,9 @@ District Health Boards
     
     (2) The Minister must, as soon as practicable after giving a notice to a DHB under subsection (1)(n), publish in the _Gazette_, and present to the House of Representatives, a copy of the notice.
     
-    (3) Subsection (1)(c), (f), and (k) is subject to the [Privacy Act 1993][211].
+    (3) Subsection (1)(c), (f), and (k) is subject to the [Privacy Act 1993][212].
     
-    (4) Subsection (1)(c) and (f) does not require a DHB to provide any information that could properly be withheld under the [Official Information Act 1982][212], if a request for that information were made under that Act.
+    (4) Subsection (1)(c) and (f) does not require a DHB to provide any information that could properly be withheld under the [Official Information Act 1982][213], if a request for that information were made under that Act.
     
     (5) A DHB that, in reliance on subsection (4), decides not to provide relevant information must advise the persons concerned of that decision.
     
@@ -1120,13 +1120,13 @@ District Health Boards
     
     (8) In subsection (1)(ba), _relevant organisations_ means 1 or more organisations that a DHB considers relevant to the provision of health services at a local, regional, or national level (for example, a DHB, the Ministry of Health, or an organisation that provides services under a service agreement).
     
-    Section 23(1)(ba): inserted, on 9 November 2010, by [section 9(1)][213] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 23(1)(ba): inserted, on 9 November 2010, by [section 9(1)][214] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 23(1)(j): amended, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 23(1)(l): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23(8): added, on 9 November 2010, by [section 9(2)][213] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 23(8): added, on 9 November 2010, by [section 9(2)][214] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 24 Co-operative agreements and arrangements
     
@@ -1156,7 +1156,7 @@ District Health Boards
     
     (6) As soon as practicable after issuing the guidelines for DHBs under subsection (4), the Minister must present to the House of Representatives a copy of those guidelines.
     
-    Section 24(2)(b): amended, on 24 February 2011, by [section 10][214] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 24(2)(b): amended, on 24 February 2011, by [section 10][215] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 25 Service agreements
     
@@ -1170,19 +1170,19 @@ District Health Boards
     
     (3) A DHB that has entered into a service agreement must monitor the performance under that agreement of the other parties to that agreement.
     
-    Section 25(2): amended, on 24 February 2011, by [section 11][215] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 25(2): amended, on 24 February 2011, by [section 11][216] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 #### Boards of DHBs
 
 ##### 26 Role of board
     
-*   (1) The board of a DHB has the role set out in [section 25][216] of the Crown Entities Act 2004\.
+*   (1) The board of a DHB has the role set out in [section 25][217] of the Crown Entities Act 2004\.
     
     (2) \[Repealed\]
     
-    (3) The board of a DHB must delegate to the chief executive of the DHB, under [clause 39][217] of Schedule 3, the power to make decisions on management matters relating to the DHB, but any such delegation may be made on such terms and conditions as the board thinks fit.
+    (3) The board of a DHB must delegate to the chief executive of the DHB, under [clause 39][218] of Schedule 3, the power to make decisions on management matters relating to the DHB, but any such delegation may be made on such terms and conditions as the board thinks fit.
     
-    (4) This section does not limit [clause 44][218] of Schedule 3\.
+    (4) This section does not limit [clause 44][219] of Schedule 3\.
     
     Section 26(1): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1190,19 +1190,19 @@ District Health Boards
 
 ##### 27 Duties of board
     
-*   (1) The board of a DHB must ensure that the DHB acts in a manner consistent with any relevant plan prepared under [section 38][47], and any directions under [section 33][37], [33A][38], or [33B][40] of this Act or [section 103][180] or [section 107][209] of the Crown Entities Act 2004\.
+*   (1) The board of a DHB must ensure that the DHB acts in a manner consistent with any relevant plan prepared under [section 38][47], and any directions under [section 33][37], [33A][38], or [33B][40] of this Act or [section 103][180] or [section 107][210] of the Crown Entities Act 2004\.
     
     (2) The duty in subsection (1)---
         
-    *   (a) applies in addition to the duties of the board in [sections 49 to 52][219] of the Crown Entities Act 2004; and
+    *   (a) applies in addition to the duties of the board in [sections 49 to 52][220] of the Crown Entities Act 2004; and
     
-    *   (b) is a collective duty owed to the Minister for the purposes of [section 58][220] of the Crown Entities Act 2004\.
+    *   (b) is a collective duty owed to the Minister for the purposes of [section 58][221] of the Crown Entities Act 2004\.
     
     (3) Despite [section 60(1)][198] of the Crown Entities Act 2004, a member of a board of a DHB may not apply for a court order under that section.
     
     Section 27: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 27(1): amended, on 24 February 2011, by [section 12][221] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 27(1): amended, on 24 February 2011, by [section 12][222] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 28 Shares in bodies corporate or interests in associations
     
@@ -1214,7 +1214,7 @@ District Health Boards
     
     (2) The Minister's consent under subsection (1) may be given subject to any conditions the Minister specifies.
     
-    (3) Conditions specified by the Minister under subsection (2) must be consistent with [section 97][222] of the Crown Entities Act 2004\.
+    (3) Conditions specified by the Minister under subsection (2) must be consistent with [section 97][223] of the Crown Entities Act 2004\.
     
     (4) [Sections 96][203] and [100][204] of the Crown Entities Act 2004 do not apply to DHBs.
     
@@ -1232,11 +1232,11 @@ District Health Boards
         
     *   (a) 7 members elected in accordance with [Schedule 2][160]; and
     
-    *   (b) up to 4 members appointed by the Minister under [section 28(1)(a)][223] of the Crown Entities Act 2004\.
+    *   (b) up to 4 members appointed by the Minister under [section 28(1)(a)][209] of the Crown Entities Act 2004\.
     
-    (2) If, at an election of members of a board of a DHB, fewer than 7 members are elected or no members are elected, the Minister may, in accordance with the procedure in [section 28][223] of the Crown Entities Act 2004, appoint persons who were eligible to stand in that election to fill the vacant elected member positions, and the persons so appointed hold office in all respects as if they had been elected under this Act.
+    (2) If, at an election of members of a board of a DHB, fewer than 7 members are elected or no members are elected, the Minister may, in accordance with the procedure in [section 28][209] of the Crown Entities Act 2004, appoint persons who were eligible to stand in that election to fill the vacant elected member positions, and the persons so appointed hold office in all respects as if they had been elected under this Act.
     
-    (3) Where a vacancy occurs in an elective position on a board, the Minister may, in accordance with the procedure in [section 28][223] of the Crown Entities Act 2004, appoint a person for the remainder of the term of office of the person who vacated office, and the provisions of this Act applying to elected members apply to the person so appointed.
+    (3) Where a vacancy occurs in an elective position on a board, the Minister may, in accordance with the procedure in [section 28][209] of the Crown Entities Act 2004, appoint a person for the remainder of the term of office of the person who vacated office, and the provisions of this Act applying to elected members apply to the person so appointed.
     
     (4) In making appointments to a board, the Minister must endeavour to ensure that---
         
@@ -1280,7 +1280,7 @@ District Health Boards
     
     (5) A Crown monitor may provide to the Minister any information that the Crown monitor obtains in the course of acting as such.
     
-    (6) Subsection (5) is subject to the [Privacy Act 1993][211].
+    (6) Subsection (5) is subject to the [Privacy Act 1993][212].
 
 ##### 31 Replacement of board by commissioner
     
@@ -1426,7 +1426,7 @@ District Health Boards
     
     (11) For the purposes of [section 115(5)][231] of the Crown Entities Act 2004, the procedure set out in this section is a procedure for giving directions.
     
-    Compare: 2004 No 115 [ss 107--111][209], [113][233]
+    Compare: 2004 No 115 [ss 107--111][210], [113][233]
     
     Section 33B: inserted, on 24 February 2011, by [section 14][235] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
@@ -1492,7 +1492,7 @@ District Health Boards
     
     (7) A DHB that is a party to the plan must ensure that the plan and any amendments to it are publicly available as soon as is reasonably practicable after the plan is finalised.
     
-    (8) In making the plan (and any amendments to it) publicly available, a DHB may omit any information that may properly be withheld under the [Official Information Act 1982][212] if a request for that information were made under that Act.
+    (8) In making the plan (and any amendments to it) publicly available, a DHB may omit any information that may properly be withheld under the [Official Information Act 1982][213] if a request for that information were made under that Act.
     
     Section 38: substituted, on 24 February 2011, by [section 15][236] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
@@ -1701,7 +1701,7 @@ Other publicly-owned health and disability organisations
 
 ##### 52 Membership of board
     
-*   (1) The board of Pharmac consists of up to 6 members appointed under [section 28][223] of the Crown Entities Act 2004\.
+*   (1) The board of Pharmac consists of up to 6 members appointed under [section 28][209] of the Crown Entities Act 2004\.
     
     (2) \[Repealed\]
     
@@ -1777,7 +1777,7 @@ Other publicly-owned health and disability organisations
 
 ##### 56 Membership of board
     
-*   (1) The board of NZBS consists of up to 7 members appointed under [section 28][223] of the Crown Entities Act 2004\.
+*   (1) The board of NZBS consists of up to 7 members appointed under [section 28][209] of the Crown Entities Act 2004\.
     
     (2) \[Repealed\]
     
@@ -1799,7 +1799,7 @@ Other publicly-owned health and disability organisations
     
     (2) HPA is a Crown entity for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
-    (3) The board of HPA consists of not fewer than 5 and not more than 7 members appointed under [section 28][223] of the Crown Entities Act 2004\.
+    (3) The board of HPA consists of not fewer than 5 and not more than 7 members appointed under [section 28][209] of the Crown Entities Act 2004\.
     
     (4) The [Crown Entities Act 2004][173] applies to HPA except to the extent that this Act expressly provides otherwise.
     
@@ -1975,7 +1975,7 @@ Other publicly-owned health and disability organisations
 
 ##### 59D Membership of board
     
-*   The board of HQSC consists of at least 7 members appointed under [section 28][223] of the Crown Entities Act 2004\.
+*   The board of HQSC consists of at least 7 members appointed under [section 28][209] of the Crown Entities Act 2004\.
     
     Section 59D: inserted, on 9 November 2010, by [section 17][256] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
@@ -2033,7 +2033,7 @@ Other publicly-owned health and disability organisations
 
 ##### 61 Role of board
     
-*   The board of an organisation has the role set out in [section 25][216] of the Crown Entities Act 2004\.
+*   The board of an organisation has the role set out in [section 25][217] of the Crown Entities Act 2004\.
     
     Section 61: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -2079,7 +2079,7 @@ Other publicly-owned health and disability organisations
         
     *   (a) the ability of the Minister to direct NZBS under [section 147][260] of that Act; or
     
-    *   (b) [section 107][209] of that Act.
+    *   (b) [section 107][210] of that Act.
     
     (5) \[Repealed\]
     
@@ -2276,11 +2276,15 @@ Family care policies
     
     *   (c) a determination cancelling a family care policy.
     
-    (6) Before the commencement of [section 38][270] of the Legislation Act 2012, subsection (5) must be read as if the reference to a disallowable instrument for the purposes of the Legislation Act 2012 were a reference to a regulation within the meaning of the Regulations (Disallowance) Act 1989\.
+    (6) \[Repealed\]
     
-    (7) Subsection (6) and this subsection are repealed on the day after the commencement of [section 38][270] of the Legislation Act 2012\.
+    (7) \[Repealed\]
     
     Section 70D: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    
+    Section 70D(6): repealed, on 6 August 2013, by [section 70D(7)][270].
+    
+    Section 70D(7): repealed, on 6 August 2013, by [section 70D(7)][270].
 
 ##### 70E Claims of unlawful discrimination in respect of this Act or family care policy precluded
     
@@ -2577,7 +2581,7 @@ Inquiries
     
     *   (b) in the case of an order made under subsection (3)(b) or (c), the time (if any) at which, or the circumstances (if any) in which, the order ceases to have effect.
     
-    (6) If an inquiry board makes an order, under subsection (3)(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the [Local Government Official Information and Meetings Act 1987][280], the [Official Information Act 1982][212], or the [Privacy Act 1993][211].
+    (6) If an inquiry board makes an order, under subsection (3)(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the [Local Government Official Information and Meetings Act 1987][280], the [Official Information Act 1982][213], or the [Privacy Act 1993][212].
     
     (7) An inquiry board may at any time deliberate in private as to its decision on any matter or question arising in the course of the inquiry.
     
@@ -3641,7 +3645,7 @@ Provisions applying to DHBs and their boards
 
 [Delegations][403]
 
-[39][217][][217][Delegations][217]
+[39][218][][218][Delegations][218]
 
 [40][404][][404][Effect of delegation][404]
 
@@ -3663,7 +3667,7 @@ Provisions applying to DHBs and their boards
 
 [Employees of DHBs][411]
 
-[44][218][][218][Employees of DHBs][218]
+[44][219][][219][Employees of DHBs][219]
 
 [Borrowing and investment][412]
 
@@ -3839,7 +3843,7 @@ Provisions applying to DHBs and their boards
     
     *   (d) that the member has, without permission from the board or Minister and without any reasonable excuse, been absent from 4 consecutive meetings of the board:
     
-    *   (e) that the member has breached any of the obligations and duties of a board member and [section 58(2)][220] or [section 59(2)][289] of the Crown Entities Act 2004 applies.
+    *   (e) that the member has breached any of the obligations and duties of a board member and [section 58(2)][221] or [section 59(2)][289] of the Crown Entities Act 2004 applies.
     
     Schedule 3 clause 9(e): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4001,7 +4005,7 @@ Provisions applying to DHBs and their boards
         
     *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][429] of the Privacy Act 1993:
     
-    *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][212].
+    *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][213].
     
     Compare: 1987 No 174 [s 51][430]
 
@@ -4329,19 +4333,19 @@ Provisions applying to DHBs and their boards
 
 ##### 40 Effect of delegation
     
-*   (1) If a function, duty, or power of a board or of the DHB concerned is delegated under a delegation under [clause 39][217], the delegate---
+*   (1) If a function, duty, or power of a board or of the DHB concerned is delegated under a delegation under [clause 39][218], the delegate---
         
     *   (a) may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions, and with the same effect, as if the delegate were the board, or the DHB concerned; but
     
     *   (b) may not delegate the function, duty, or power, except in accordance with the provisions of the delegation or with the written consent of the board.
     
-    (2) A delegate under [clause 39(5)][217] who is interested in a transaction of the DHB concerned may not perform a function or duty, or exercise a power, under the delegation, if the function, duty, or power relates to the transaction.
+    (2) A delegate under [clause 39(5)][218] who is interested in a transaction of the DHB concerned may not perform a function or duty, or exercise a power, under the delegation, if the function, duty, or power relates to the transaction.
     
     (3) Subclause (2) does not apply if the board of the DHB gives its prior written consent to the delegate performing the function or duty, or exercising the power, even though the function, duty, or power relates to the transaction.
     
-    (4) Nothing in this clause requires any delegate under [clause 39(5)][217] to hold a public meeting.
+    (4) Nothing in this clause requires any delegate under [clause 39(5)][218] to hold a public meeting.
     
-    (5) Every delegate who purports to perform a function or duty, or exercise a power, under a delegation under [clause 39][217] is presumed to do so in accordance with that delegation, unless the contrary is proved.
+    (5) Every delegate who purports to perform a function or duty, or exercise a power, under a delegation under [clause 39][218] is presumed to do so in accordance with that delegation, unless the contrary is proved.
 
 #### Seal
 
@@ -4413,7 +4417,7 @@ Provisions applying to DHBs and their boards
     
     (4) In respect of any DHB, matters relating to decisions on individual employees (for example, relating to the appointment, promotion, demotion, transfer, personal grievances, disciplining, or cessation of employment, of an employee) are the independent responsibility of the individual for the time being acting as chief executive of that DHB, without any interference from the board of the DHB or from committees of the board (or from members of the board or of committees of the board).
     
-    (5) This clause applies despite [sections 25][216] and [117][206] of the Crown Entities Act 2004\.
+    (5) This clause applies despite [sections 25][217] and [117][206] of the Crown Entities Act 2004\.
     
     (6) Despite [section 116(2)][205] of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to a DHB.
     
@@ -4924,7 +4928,7 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][429] of the Privacy Act 1993:
     
-    *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][212].
+    *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][213].
     
     Compare: 1987 No 174 [s 51][430]
 
@@ -6629,6 +6633,8 @@ Commencementsee section 2
     Health (Constituencies of District Health Boards) Order 2001 (SR 2001/77): [clause 7][319]
     
     Health Sector (Transfers) Amendment Act 2000 (2000 No 92): [section 4(3)][262]
+    
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 70D(7)][99]
 
 
 
@@ -6841,21 +6847,21 @@ Commencementsee section 2
 [206]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330367
 [207]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330372
 [208]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330566
-[209]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330355
-[210]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901016
-[211]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM296638
-[212]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM64784
-[213]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901017
-[214]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242702
-[215]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242703
-[216]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329949
-[217]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82504
-[218]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82519
-[219]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329978
-[220]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329989
-[221]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242704
-[222]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330342
-[223]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329954
+[209]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329954
+[210]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330355
+[211]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901016
+[212]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM296638
+[213]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM64784
+[214]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901017
+[215]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242702
+[216]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242703
+[217]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329949
+[218]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82504
+[219]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82519
+[220]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329978
+[221]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329989
+[222]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242704
+[223]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330342
 [224]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329955
 [225]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329958
 [226]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82066
@@ -6902,7 +6908,7 @@ Commencementsee section 2
 [267]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5205111
 [268]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM225519
 [269]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2997643
-[270]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998567
+[270]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5218209
 [271]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM304475
 [272]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139130
 [273]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139172
