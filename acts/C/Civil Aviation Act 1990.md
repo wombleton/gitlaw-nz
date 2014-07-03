@@ -1,5 +1,5 @@
 Reprint  
-as at 15 February 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -397,7 +397,7 @@ This Act is administered by the Ministry of Transport.
 
 [72E][182][][182][Authority to consider delegating or contracting out of functions and powers][182]
 
-[72F][183][][183][Extra information to be included in statement of intent][183]
+[72F][183][][183][Restriction applying to statement of intent][183]
 
 [72G][184][][184][Service charter][184]
 
@@ -5126,25 +5126,21 @@ Civil Aviation Authority of New Zealand
     
     Section 72E: inserted, on 10 August 1992, by [section 31][528] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
-##### 72F Extra information to be included in statement of intent
+##### 72F Restriction applying to statement of intent
     
-*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][544] of the Crown Entities Act 2004:
-        
-    *   (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
+*   (1) \[Repealed\]
     
-    *   (b) a statement of the Authority's best estimate of---
-            
-        *   (i) both the various impacts the outputs described in the statement of intent will have for, and the consequences of those outputs for, a safe civil aviation system in New Zealand during the year to which the statement of intent relates; and
-        
-        *   (ii) the impacts of those outputs on, and consequences of those outputs for, a safe civil aviation system in New Zealand for later years.
-        
-        
-    
-    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][545] of the Crown Entities Act 2004 applies accordingly.
+    (2) \[Repealed\]
     
     (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
     
     Section 72F: substituted, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 72F heading: replaced, on 1 July 2014, by [section 72][544] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 72F(1): repealed, on 1 July 2014, by [section 72][544] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 72F(2): repealed, on 1 July 2014, by [section 72][544] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 72G Service charter
     
@@ -5172,11 +5168,11 @@ Civil Aviation Authority of New Zealand
     
     Section 72G: inserted, on 10 August 1992, by [section 31][528] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72G(5): amended, on 20 August 1993, by [section 11][546] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72G(5): amended, on 20 August 1993, by [section 11][545] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72H Use of words Civil Aviation Authority
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][547] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][546] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Authority or to any person who is appropriately authorised by the Authority.
     
@@ -5250,25 +5246,25 @@ Civil Aviation Authority of New Zealand
     
     Section 72I(2): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][548] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][547] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][548] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3)(c): added, on 1 December 2004, by [section 9][548] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(c): added, on 1 December 2004, by [section 9][547] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(d): added, on 1 December 2004, by [section 9][548] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(d): added, on 1 December 2004, by [section 9][547] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
     Section 72I(3A): inserted, on 13 August 1996, by section 26 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][548] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][548] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][548] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3D): inserted, on 30 March 2007, by [section 32][550] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72I(3D): inserted, on 30 March 2007, by [section 32][549] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72I(4): substituted, on 20 August 1993, by [section 12][551] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72I(4): substituted, on 20 August 1993, by [section 12][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
     Section 72I(4)(aa): inserted, on 1 April 2002, by [section 10(2)][525] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
@@ -5288,7 +5284,7 @@ Civil Aviation Authority of New Zealand
     
     Section 72J: inserted, on 10 August 1992, by [section 31][528] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72J(3): added, on 20 August 1993, by [section 13][552] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72J(3): added, on 20 August 1993, by [section 13][551] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72K Powers of Director in relation to examinations, etc
     
@@ -5296,7 +5292,7 @@ Civil Aviation Authority of New Zealand
     
     Section 72K: inserted, on 10 August 1992, by [section 31][528] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72K: amended, on 1 June 2002, by [section 17][553] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72K: amended, on 1 June 2002, by [section 17][552] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 72L General Manager of Aviation Security Service
     
@@ -5306,7 +5302,7 @@ Civil Aviation Authority of New Zealand
     
     (3) The General Manager shall, in performing any functions or exercising any powers conferred or imposed on the General Manager by this Act or any other Act, or by regulations or rules made under this Act or any other Act, (including any functions or powers relating to enforcement of the aviation security provisions of this Act or any other Act, or regulations or rules made under this Act or any other Act), in respect of any particular case, act independently and shall not be responsible to the Minister, the Authority, or the Director for the performance of such functions or the exercise of such powers.
     
-    Section 72L: inserted, on 20 August 1993, by [section 14][554] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72L: inserted, on 20 August 1993, by [section 14][553] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
     Section 72L(2): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5324,15 +5320,15 @@ Civil Aviation Authority of New Zealand
     
     (2) No such direction or appointment, and no acts done by any employee or other person acting pursuant to any such direction or appointment, shall in any proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the employee or other person has not been appointed to any position to which the direction or appointment relates.
     
-    Section 72M: inserted, on 20 August 1993, by [section 14][554] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72M: inserted, on 20 August 1993, by [section 14][553] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72N Use of words Aviation Security Service
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][547] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][546] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Aviation Security Service or the Authority or to any person who is appropriately authorised by the Authority.
     
-    Section 72N: inserted, on 20 August 1993, by [section 14][554] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72N: inserted, on 20 August 1993, by [section 14][553] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72O References to Director to be read as General Manager of Aviation Security Service in certain circumstances
     
@@ -5342,7 +5338,7 @@ Civil Aviation Authority of New Zealand
     
     (3) No act, omission, or proceeding shall be called into question or declared invalid on the ground that the Director or the General Manager was not the appropriate person to be involved in the act, omission, or proceeding if it is clear that either the Director or the General Manager was the appropriate person to be so involved.
     
-    Section 72O: inserted, on 20 August 1993, by [section 14][554] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72O: inserted, on 20 August 1993, by [section 14][553] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ## Part 7  
 Registries and information services
@@ -5387,7 +5383,7 @@ Registries and information services
     
     *   (h) the current service charter:
     
-    *   (i) the current statement of intent under [section 139][544] of the Crown Entities Act 2004\.
+    *   (i) the current statement of intent under [section 139][554] of the Crown Entities Act 2004\.
     
     (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the [Official Information Act 1982][391], for inspection by the public free of charge.
     
@@ -11576,6 +11572,8 @@ Miscellaneous provisions
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][373]
     
+    Crown Entities Amendment Act 2013 (2013 No 51): [section 72][544]
+    
     Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][618]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][447]
@@ -12190,17 +12188,17 @@ Miscellaneous provisions
 [541]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311035
 [542]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240046
 [543]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311036
-[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
-[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330548
-[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
-[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
-[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
-[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
-[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
-[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
-[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
-[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
-[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
+[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM5327162
+[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
+[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
+[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
+[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
+[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
+[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
+[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
+[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
+[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
+[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
 [555]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240048
 [556]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269403
 [557]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409116
