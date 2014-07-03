@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Foreign Affairs and Trade.
 
@@ -44,7 +44,7 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [8][10][][10][Restriction on power of delegation][10]
 
-[9][11][][11][Government directions][11]
+[9][11][][11][Government directions][11] \[Repealed\]
 
 [10][12][][12][Further provisions applying to Institute and Board][12]
 
@@ -168,23 +168,9 @@ New Zealand Antarctic Institute
 
 ##### 9 Government directions
     
-*   (1) The Minister may from time to time, by written notice to the Board, direct the Board to include in its statement of intent under [section 139][32] of the Crown Entities Act 2004 such provision as the Minister considers necessary---
-        
-    *   (a) to enable the fulfilment (in whole or in part) of any obligation or undertaking arising from any international convention or international agreement or international arrangement to which the Government of New Zealand, or any department, agency, or other instrument of the Government of New Zealand, is a party; or
+*   \[Repealed\]
     
-    *   (b) to implement (in whole or in part) any policy of the Government of New Zealand in respect of Antarctica and the Southern Ocean.
-    
-    (2) \[Repealed\]
-    
-    (3) \[Repealed\]
-    
-    Compare: 1992 No 47 [s 15(1)(c)][33]
-    
-    Section 9(1): amended, on 25 January 2005, by [section 200][24] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 9(2): repealed, on 25 January 2005, by [section 200][24] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 9(3): repealed, on 25 January 2005, by [section 200][24] of the Crown Entities Act 2004 (2004 No 115).
+    Section 9: repealed, on 1 July 2014, by [section 72][32] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 10 Further provisions applying to Institute and Board
     
@@ -210,7 +196,7 @@ New Zealand Antarctic Institute
     
     (3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
     
-    Section 11(3): amended, on 1 July 2013, by [section 413][34] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(3): amended, on 1 July 2013, by [section 413][33] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Miscellaneous provisions
@@ -237,7 +223,7 @@ Miscellaneous provisions
     
     *   (c) the Crown shall remain liable to any third party as if the asset or liability had not been transferred but shall be indemnified by the Institute in respect of any liability to any third party.
     
-    Compare: 1993 No 147 [ss 16][35], [18][36]
+    Compare: 1993 No 147 [ss 16][34], [18][35]
 
 ##### 13 Ross Dependency Research Committee
     
@@ -249,7 +235,7 @@ Miscellaneous provisions
 
 ##### 14 Power to transfer employees of Ministry
     
-*   (1) Notwithstanding anything in [section 61A][37] of the State Sector Act 1988, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute, all or any of the employees of the Ministry who are carrying out those duties.
+*   (1) Notwithstanding anything in [section 61A][36] of the State Sector Act 1988, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute, all or any of the employees of the Ministry who are carrying out those duties.
     
     (2) Before transferring any employee under this section, the Secretary shall consult with the employee about the proposed transfer.
 
@@ -374,13 +360,13 @@ Provisions applying in respect of Institute and Board
 
 ##### 16 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowances for any members of the Board, the Institute may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][38].
+*   (1) For the purpose of providing a superannuation fund or retiring allowances for any members of the Board, the Institute may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][37].
     
-    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Institute by virtue of a transfer under [section 14(1)][17] of this Act, was a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][39] shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Institute; and that Act shall apply to that person in all respects as if that person's service with the Institute were Government service.
+    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Institute by virtue of a transfer under [section 14(1)][17] of this Act, was a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][38] shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Institute; and that Act shall apply to that person in all respects as if that person's service with the Institute were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][39], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][38], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][39], in accordance with subclause (2), the term _controlling authority_, in relation to any transferring employee, means the Institute.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][38], in accordance with subclause (2), the term _controlling authority_, in relation to any transferring employee, means the Institute.
     
     Schedule 1 clause 16(1): amended, on 25 January 2005, by [section 200][24] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -441,11 +427,11 @@ Enactments amended
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (RS Vol 28, p 341)
 
-_Amendment(s) incorporated in the [Act(s)][40]._
+_Amendment(s) incorporated in the [Act(s)][39]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][41]._
+_Amendment(s) incorporated in the [Act(s)][40]._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463) 
 
@@ -461,78 +447,37 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][42]._
+_Amendment(s) incorporated in the [Act(s)][41]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Antarctic Institute Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][43] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Antarctic Institute Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][44] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][42] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][43] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][45] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][44] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][45] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][46] and [17E][47] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Crown Entities Amendment Act 2013 (2013 No 51): [section 72][32]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][34]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][33]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][24]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0038/latest/whole.html#DLM390270
 [2]: http://www.legislation.govt.nz/act/public/1996/0038/latest/whole.html#DLM390272
 [3]: http://www.legislation.govt.nz/act/public/1996/0038/latest/whole.html#DLM390273
@@ -564,19 +509,17 @@ _Amendment(s) incorporated in the [Act(s)][42]._
 [29]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM330565
 [30]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM330567
 [31]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM330308
-[32]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM330540
-[33]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM265179
-[34]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM3360714
-[35]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM328904
-[36]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM328906
-[37]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM129741
-[38]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM143291
-[39]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM446000
-[40]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM387126
-[41]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM52294
-[42]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM400209
-[43]: http://www.pco.parliament.govt.nz/reprints/
-[44]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM195439
+[32]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM5327162
+[33]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM3360714
+[34]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM328904
+[35]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM328906
+[36]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM5478471
+[37]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM143291
+[38]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM446000
+[39]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM387126
+[40]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM52294
+[41]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM400209
+[42]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM2998516
+[43]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM2998515
+[44]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM2998532
 [45]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[46]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM195468
-[47]: http://www.legislation.govt.nz/act/public/1996/0038/latest/link.aspx?id=DLM195470
