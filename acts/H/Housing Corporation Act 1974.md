@@ -1,5 +1,5 @@
 Reprint  
-as at 14 April 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -121,7 +121,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 [Part 4][47]  
 [Financial provisions][47]
 
-[30][48][][48][Borrowing powers of Corporation and subsidiaries][48]
+[30][48][][48][Borrowing powers of Corporation and subsidiaries][48] \[Repealed\]
 
 [30AA][49][][49][Loans deemed to have been lawfully raised][49]
 
@@ -261,6 +261,8 @@ Title \[Repealed\]
     
 *   In this Act, unless the context otherwise requires,---
     
+    _annual financial statements_ means annual financial statements under [section 154][103] of the Crown Entities Act 2004
+    
     _approved securities_ means---
         
     *   (a) the bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
@@ -269,15 +271,15 @@ Title \[Repealed\]
     
     _Corporation_ means Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by [section 3(1)][6]
     
-    _Crown entity subsidiary_ has the same meaning as in the second column of [section 7(1)(c)][103] of the Crown Entities Act 2004
+    _Crown entity subsidiary_ has the same meaning as in the second column of [section 7(1)(c)][104] of the Crown Entities Act 2004
     
     _existing company_---
         
-    *   (a) means HNZ or Community Housing Limited (a company that on the commencement of the [Housing Corporation Amendment Act 2001][104] was duly incorporated under the [Companies Act 1993][105]); and
+    *   (a) means HNZ or Community Housing Limited (a company that on the commencement of the [Housing Corporation Amendment Act 2001][105] was duly incorporated under the [Companies Act 1993][106]); and
     
-    *   (b) includes any subsidiary (within the meaning of the [Companies Act 1993][105]) of an existing company
+    *   (b) includes any subsidiary (within the meaning of the [Companies Act 1993][106]) of an existing company
     
-    _HNZ_ means the company within the meaning of [section 2(1)][106] of the Housing Restructuring and Tenancy Matters Act 1992
+    _HNZ_ means the company within the meaning of [section 2(1)][107] of the Housing Restructuring and Tenancy Matters Act 1992
     
     _land_ includes interests in land, and houses and buildings
     
@@ -289,13 +291,15 @@ Title \[Repealed\]
     
     _security_ means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
     
-    _solicitor_ means a person who is duly enrolled as a barrister and solicitor under or by virtue of the [Lawyers and Conveyancers Act 2006][107] and who holds a current practising certificate as a barrister and solicitor under that Act
+    _solicitor_ means a person who is duly enrolled as a barrister and solicitor under or by virtue of the [Lawyers and Conveyancers Act 2006][108] and who holds a current practising certificate as a barrister and solicitor under that Act
     
-    _State Services Commissioner_ means the State Services Commissioner appointed under [section 3][108] of the State Sector Act 1988
+    _State Services Commissioner_ means the State Services Commissioner appointed under [section 3][109] of the State Sector Act 1988
     
-    _statement of intent_ means a statement of intent under [section 139][109] of the Crown Entities Act 2004
+    _statement of intent_ means a statement of intent under [section 139][110] of the Crown Entities Act 2004
     
-    _subsidiary_, in relation to the Corporation, means a body that would under the [Companies Act 1993][105] be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
+    _statement of performance expectations_ means a statement of performance expectations under [section 149C][111] of the Crown Entities Act 2004
+    
+    _subsidiary_, in relation to the Corporation, means a body that would under the [Companies Act 1993][106] be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
     
     _vesting day_,---
         
@@ -303,88 +307,92 @@ Title \[Repealed\]
     
     *   (b) in relation to an asset or liability of the Crown, means the day on which an order under [section 53][80] relating to that asset or liability comes into force.
     
-    Compare: 1965 No 47 [s 2][110]
+    Compare: 1965 No 47 [s 2][112]
     
-    Section 2 **appointed member**: repealed, on 8 August 1991, by [section 2(1)][111] of the Housing Corporation Amendment Act 1991 (1991 No 91).
+    Section 2 **annual financial statements**: inserted, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 2 **committee**: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **appointed member**: repealed, on 8 August 1991, by [section 2(1)][114] of the Housing Corporation Amendment Act 1991 (1991 No 91).
     
-    Section 2 **Corporation**: replaced, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **committee**: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2 **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **Corporation**: replaced, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][114] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    Section 2 **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 2 **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][117] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
     Section 2 **Director-General**: repealed, on 1 May 1993, by section 2(1) of the Housing Corporation Amendment Act 1992 (1992 No 78).
     
-    Section 2 **existing company**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **existing company**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **HNZ**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **HNZ**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **HNZ**: amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 2 **HNZ**: amended, on 1 July 2006, by [section 5(2)(b)][118] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
-    Section 2 **land**: replaced, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **land**: replaced, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **Minister**: replaced, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **Minister**: replaced, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **Minister of Housing**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **Minister of Housing**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
     Section 2 **property**: amended, on 8 August 1991, by section 2(2) of the Housing Corporation Amendment Act 1991 (1991 No 91).
     
-    Section 2 **security**: inserted, on 8 August 1991, by [section 2(3)][111] of the Housing Corporation Amendment Act 1991 (1991 No 91).
+    Section 2 **security**: inserted, on 8 August 1991, by [section 2(3)][114] of the Housing Corporation Amendment Act 1991 (1991 No 91).
     
-    Section 2 **solicitor**: replaced, on 1 August 2008, by [section 348][116] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 2 **solicitor**: replaced, on 1 August 2008, by [section 348][119] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 2 **State Services Commissioner**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **State Services Commissioner**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **statement of intent**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **statement of intent**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 2 **statement of intent**: amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **statement of intent**: amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2 **subsidiary**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **statement of performance expectations**: inserted, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 2 **vesting day**: inserted, on 1 July 2001, by [section 4][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 2 **subsidiary**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    
+    Section 2 **vesting day**: inserted, on 1 July 2001, by [section 4][116] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 1  
 Housing New Zealand Corporation
     
-*   Part 1 heading: amended, on 1 July 2001, by [section 5(3)][117] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Part 1 heading: amended, on 1 July 2001, by [section 5(3)][120] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 3 Establishment of Corporation
     
 *   (1) There is hereby established Housing New Zealand Corporation.
     
-    (2) The Corporation is a Crown entity for the purposes of [section 7][103] of the Crown Entities Act 2004\.
+    (2) The Corporation is a Crown entity for the purposes of [section 7][104] of the Crown Entities Act 2004\.
     
     (2A) \[Repealed\]
     
-    (3) The [Crown Entities Act 2004][118] applies to the Corporation except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][121] applies to the Corporation except to the extent that this Act expressly provides otherwise.
     
     (5) \[Repealed\]
     
-    Compare: 1965 No 47 [ss 3(1), (2)][119], [4(1), (7)][120]
+    Compare: 1965 No 47 [ss 3(1), (2)][122], [4(1), (7)][123]
     
-    Section 3(1): amended, on 1 July 2001, by [section 5(1)][117] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 3(1): amended, on 1 July 2001, by [section 5(1)][120] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 3(2): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3(2): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 3(2A): repealed, on 1 July 2001, by [section 5(2)][117] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 3(2A): repealed, on 1 July 2001, by [section 5(2)][120] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 3(3): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3(3): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 3(5): repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3(5): repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3AA Membership of Corporation
     
-*   (1) The Corporation must have at least 2, but no more than 8, members appointed under [section 28(1)(a)][121] of the Crown Entities Act 2004\.
+*   (1) The Corporation must have at least 2, but no more than 8, members appointed under [section 28(1)(a)][124] of the Crown Entities Act 2004\.
     
     (2) A person who is employed by a department of State responsible for advising the Minister on the Corporation's performance is disqualified from being a member.
     
-    (3) Subsection (2) does not limit [section 30][122] of the Crown Entities Act 2004\.
+    (3) Subsection (2) does not limit [section 30][125] of the Crown Entities Act 2004\.
     
-    (4) Members of the Corporation are the board for the purposes of the [Crown Entities Act 2004][118].
+    (4) Members of the Corporation are the board for the purposes of the [Crown Entities Act 2004][121].
     
-    Section 3AA: inserted, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3AA: inserted, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3A Corporation to have Tenancy Bond Division
     
@@ -410,43 +418,47 @@ Housing New Zealand Corporation
     
     *   (c) \[Repealed\]
     
-    Section 3B: inserted, on 1 July 2001, by [section 6][123] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 3B: inserted, on 1 July 2001, by [section 6][126] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 3B(b): amended, on 6 August 2010, by [section 6(2)(a)][124] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 3B(b): amended, on 6 August 2010, by [section 6(2)(a)][127] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 3B(c): repealed, on 6 August 2010, by [section 6(2)(b)][124] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 3B(c): repealed, on 6 August 2010, by [section 6(2)(b)][127] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
 
 ##### 3C Communication of the Crown's social objectives
     
 *   (1) To enable the Corporation to achieve the objective stated in [section 3B(a)][9] and to prepare or review its statements of intent, the Minister must, at least 3 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
     
-    (2) Each of the Corporation's statements of intent must state---
+    (2) Each of the Corporation's statements of performance expectations must state---
         
     *   (a) the objectives most recently notified by the Minister; and
     
     *   (b) the steps that the group comprising the Corporation and any Crown entity subsidiaries proposes to take in the financial year concerned and the next 2 financial years to achieve those objectives.
     
-    (3) Nothing in subsections (1) and (2) limits or affects [sections 141][125] and [142][126] of the Crown Entities Act 2004 or [section 20][32].
+    (3) Nothing in subsections (1) and (2) limits or affects [sections 141][128] and [149E][129] of the Crown Entities Act 2004 or [section 20][32].
     
-    Section 3C: inserted, on 1 July 2001, by [section 6][123] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 3C: inserted, on 1 July 2001, by [section 6][126] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 3C(1): amended, on 18 July 2013, by [section 42][114] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    Section 3C(1): amended, on 18 July 2013, by [section 42][117] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 3C(2)(b): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3C(2): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 3C(3): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3C(2)(b): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 3C(3): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 3C(3): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3D Other provisions relating to Corporation
     
 *   [Schedule 1A][98] applies to the Corporation.
     
-    Section 3D: inserted, on 1 July 2001, by [section 6][123] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 3D: inserted, on 1 July 2001, by [section 6][126] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 4 Offices of Corporation
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 4: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Director-General of Corporation
     
@@ -458,7 +470,7 @@ Housing New Zealand Corporation
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 19 December 1989, by [section 32(1)][127] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 6: repealed, on 19 December 1989, by [section 32(1)][130] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ##### 7 Members to hold office during pleasure
     
@@ -581,7 +593,7 @@ Functions and powers of Corporation
     
     (4) Subsection (2) does not limit subsection (1).
     
-    Section 18: replaced, on 1 July 2001, by [section 7][128] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 18: replaced, on 1 July 2001, by [section 7][131] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 19 Powers of Corporation
     
@@ -595,13 +607,13 @@ Functions and powers of Corporation
     
     *   (c) any other person or organisation.
     
-    (1B) Subsection (1A) does not limit [section 17][129] of the Crown Entities Act 2004\.
+    (1B) Subsection (1A) does not limit [section 17][132] of the Crown Entities Act 2004\.
     
     (2) \[Repealed\]
     
     (3) Nothing in this section or in [section 18][27] shall authorise or empower the Corporation to do anything in respect of any property owned by any other person, without the owner's consent.
     
-    (4) Without limiting [section 17][129] of the Crown Entities Act 2004, the Corporation may also from time to time---
+    (4) Without limiting [section 17][132] of the Crown Entities Act 2004, the Corporation may also from time to time---
         
     *   (a) act as an agent for the Crown, or for any Government department, or for any other person or body, and in return for such services charge any fees or other remuneration that may be agreed on between the Corporation and the principal; and
     
@@ -609,9 +621,9 @@ Functions and powers of Corporation
     
     *   (c) acting through a solicitor, or through a person acting under the supervision of a solicitor, draw or prepare for or on behalf of any other person---
             
-        *   (i) any conveyance within the meaning of the [Property Law Act 2007][130] of any real or personal property; or
+        *   (i) any conveyance within the meaning of the [Property Law Act 2007][133] of any real or personal property; or
         
-        *   (ii) any deed within the meaning of the [Property Law Act 2007][130] relating to any real or personal property; or
+        *   (ii) any deed within the meaning of the [Property Law Act 2007][133] relating to any real or personal property; or
         
         *   (iii) any tenancy agreement or lease, or any agreement evidencing any tenancy or lease---
         
@@ -623,51 +635,51 @@ Functions and powers of Corporation
     
     (6) \[Repealed\]
     
-    Compare: 1965 No 47 [ss 16][131], [22][132]
+    Compare: 1965 No 47 [ss 16][134], [22][135]
     
-    Section 19(1): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(1): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 19(1A): inserted, on 1 July 2001, by [section 8(1)][133] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 19(1A): inserted, on 1 July 2001, by [section 8(1)][136] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 19(1B): inserted, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(1B): inserted, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 19(2): repealed, on 1 July 2001, by [section 8(1)][133] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 19(2): repealed, on 1 July 2001, by [section 8(1)][136] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 19(4): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(4): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 19(4)(b): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(4)(b): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 19(4)(c): inserted, on 29 April 1987, by section 3 of the Housing Corporation Amendment Act 1987 (1987 No 68).
     
-    Section 19(4)(c)(i): amended, on 1 January 2008, by [section 364(1)][134] of the Property Law Act 2007 (2007 No 91).
+    Section 19(4)(c)(i): amended, on 1 January 2008, by [section 364(1)][137] of the Property Law Act 2007 (2007 No 91).
     
-    Section 19(4)(c)(ii): amended, on 1 January 2008, by [section 364(1)][134] of the Property Law Act 2007 (2007 No 91).
+    Section 19(4)(c)(ii): amended, on 1 January 2008, by [section 364(1)][137] of the Property Law Act 2007 (2007 No 91).
     
-    Section 19(6): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(6): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19A Corporation may sell or dispose of all or part of its property
     
 *   \[Repealed\]
     
-    Section 19A: repealed, on 1 July 2001, by [section 9][135] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 19A: repealed, on 1 July 2001, by [section 9][138] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 19B Validity of transactions
     
 *   \[Repealed\]
     
-    Section 19B: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19B: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19C Ministerial reviews
     
 *   \[Repealed\]
     
-    Section 19C: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19C: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Corporation to give effect to government policy
     
 *   (1) The Minister may require the Corporation to give effect to the policy of the Government, by---
         
-    *   (a) giving the Corporation a direction under [section 103][136] of the Crown Entities Act 2004; or
+    *   (a) giving the Corporation a direction under [section 103][139] of the Crown Entities Act 2004; or
     
     *   (b) giving the Corporation a direction requiring it to enter into a written agreement with the Minister to give effect to a policy stated in the agreement.
     
@@ -677,43 +689,43 @@ Functions and powers of Corporation
     
     (4) \[Repealed\]
     
-    Section 20: replaced, on 1 July 2001, by [section 10][137] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20: replaced, on 1 July 2001, by [section 10][140] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 20(1)(a): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(1)(a): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(1)(b): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(1)(b): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(2): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(2): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(3): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(3): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(4): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(4): repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20A Other provisions relating to directions
     
-*   (1) [Sections 114][138] and [115][139] of the Crown Entities Act 2004 apply to a direction under [section 20][32].
+*   (1) [Sections 114][141] and [115][142] of the Crown Entities Act 2004 apply to a direction under [section 20][32].
     
-    (2) When complying with [section 115(2)][139] of the Crown Entities Act 2004 in respect of a direction under [section 20(1)(b)][32], the Minister must also publish in the _Gazette_ and present to the House of Representatives a copy of the agreement entered into with the Corporation in accordance with the direction.
+    (2) When complying with [section 115(2)][142] of the Crown Entities Act 2004 in respect of a direction under [section 20(1)(b)][32], the Minister must also publish in the _Gazette_ and present to the House of Representatives a copy of the agreement entered into with the Corporation in accordance with the direction.
     
     (3) The Corporation must prepare, and give to the Minister for approval a draft plan stating how it proposes to give effect to the policy of the Government if,---
         
     *   (a) pursuant to a direction under [section 20][32], it enters into an agreement with the Minister that does not state how the policy of the Government is to be given effect to; or
     
-    *   (b) the Minister directs the Corporation to give effect to a government policy under [section 103][136] of the Crown Entities Act 2004\.
+    *   (b) the Minister directs the Corporation to give effect to a government policy under [section 103][139] of the Crown Entities Act 2004\.
     
     (4) Within 12 sitting days after approving a draft plan given under subsection (3), the Minister must present a copy of the approved plan to the House of Representatives.
     
-    Section 20A: inserted, on 1 July 2001, by [section 10][137] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20A: inserted, on 1 July 2001, by [section 10][140] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 20A heading: amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20A heading: amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20A(1): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20A(1): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20A(2): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20A(2): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20A(3)(a): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20A(3)(a): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20A(3)(b): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20A(3)(b): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20B Compensation of Corporation for providing certain services
     
@@ -725,43 +737,43 @@ Functions and powers of Corporation
     
     (2) If, because its statement of intent requires it to do so, the Corporation provides services that it cannot provide on normal business terms, the Crown may wholly or partly recompense it for doing so.
     
-    (3) In subsection (1)(b), _income-related rents_ and _market rents_ have the meanings given to those terms by [section 2(1)][140] of the Housing Restructuring and Tenancy Matters Act 1992\.
+    (3) In subsection (1)(b), _income-related rents_ and _market rents_ have the meanings given to those terms by [section 2(1)][143] of the Housing Restructuring and Tenancy Matters Act 1992\.
     
-    (4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under [section 7][141] of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under [section 20(1)(b)][32].
+    (4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under [section 7][144] of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under [section 20(1)(b)][32].
     
     (5) Nothing in this section limits or affects the generality of [section 20][32].
     
-    Section 20B: inserted, on 1 July 2001, by [section 10][137] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20B: inserted, on 1 July 2001, by [section 10][140] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 20B(3): amended, on 14 April 2014, by [section 25][142] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 20B(3): amended, on 14 April 2014, by [section 25][145] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 20B(3): amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 20B(3): amended, on 1 July 2006, by [section 5(2)(b)][118] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
-    Section 20B(4): amended, on 14 April 2014, by [section 25][142] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 20B(4): amended, on 14 April 2014, by [section 25][145] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 20B(4): amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 20B(4): amended, on 1 July 2006, by [section 5(2)(b)][118] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
-    Section 20B(4): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20B(4): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20C Application of sections 20 to 20B to subsidiaries
     
 *   [Sections 20 to 20B][32] apply to Crown entity subsidiaries of the Corporation as if every reference to the Corporation were a reference to a Crown entity subsidiary of the Corporation.
     
-    Section 20C: inserted, on 1 July 2001, by [section 10][137] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20C: inserted, on 1 July 2001, by [section 10][140] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 20C: amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20C: amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Loans to local authorities for housing purposes
     
 *   (1) The Corporation may from time to time make loans to local authorities for housing purposes.
     
-    (2) Any loan made to a local authority by the Corporation under this section may be made either out of money received by the Corporation under subsection (1) of [section 32][143] of the Housing Act 1955, or out of the other funds of the Corporation, as the Corporation may in any case determine.
+    (2) Any loan made to a local authority by the Corporation under this section may be made either out of money received by the Corporation under subsection (1) of [section 32][146] of the Housing Act 1955, or out of the other funds of the Corporation, as the Corporation may in any case determine.
     
-    (3) In this section, _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][144].
+    (3) In this section, _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][147].
     
-    Compare: 1965 No 47 [s 18][145]
+    Compare: 1965 No 47 [s 18][148]
     
-    Section 21(3): replaced, on 1 July 2003, by [section 262][146] of the Local Government Act 2002 (2002 No 84).
+    Section 21(3): replaced, on 1 July 2003, by [section 262][149] of the Local Government Act 2002 (2002 No 84).
 
 ##### 22 Loans for industry and other purposes
     
@@ -787,7 +799,7 @@ Functions and powers of Corporation
     
     (2) Where the Corporation makes any loan or expends any money or gives any guarantee or indemnity pursuant to a request by the Minister of Finance under subsection (1), and in accordance with the conditions specified by the Minister of Finance under that subsection, the Corporation shall be deemed to be guaranteed by the Minister of Finance in respect of any loss that may be incurred by the Corporation arising out of the loan, expenditure, guarantee, or indemnity; and any money payable to the Corporation by the Minister of Finance pursuant to any such guarantee in favour of the Corporation shall be paid to the Corporation from a Crown Bank Account without further appropriation than this section.
     
-    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][147] of the Public Finance Act 1989 (1989 No 44).
+    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][150] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 3  
 Securities for loans
@@ -796,7 +808,7 @@ Securities for loans
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 July 2001, by [section 12][148] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 25: repealed, on 1 July 2001, by [section 12][151] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 26 Mortgages of leasehold interests
     
@@ -808,11 +820,11 @@ Securities for loans
     
     _mortgage_ includes a charge
     
-    _registered_ means registered under the [Land Transfer Act 1952][149].
+    _registered_ means registered under the [Land Transfer Act 1952][152].
     
-    Compare: 1965 No 47 [s 24][150]
+    Compare: 1965 No 47 [s 24][153]
     
-    Section 26(2) **Corporation**: inserted, on 8 August 1991, by [section 9][151] of the Housing Corporation Amendment Act 1991 (1991 No 91).
+    Section 26(2) **Corporation**: inserted, on 8 August 1991, by [section 9][154] of the Housing Corporation Amendment Act 1991 (1991 No 91).
 
 ##### 27 Special provisions as to mortgages of leasehold interests in Crown land or certain classes of Maori land
     
@@ -820,9 +832,9 @@ Securities for loans
         
     *   (a) any lease of any Crown land or of any other land vested in Her Majesty; or
     
-    *   (b) any lease of land that is subject to the [Maori Vested Lands Administration Act 1954][152] or to the [Maori Reserved Land Act 1955][153]; or
+    *   (b) any lease of land that is subject to the [Maori Vested Lands Administration Act 1954][155] or to the [Maori Reserved Land Act 1955][156]; or
     
-    *   (c) any lease to which [section 57][154] of the Maori Vested Lands Administration Act 1954 applies.
+    *   (c) any lease to which [section 57][157] of the Maori Vested Lands Administration Act 1954 applies.
     
     (2) In this section---
     
@@ -854,13 +866,13 @@ Securities for loans
     
     (10) Notwithstanding anything to the contrary in any other Act, the power of sale shall be deemed to arise and accrue and may, without the consent of the leasing authority, be exercised by the Corporation at any time after the expiration of the period limited in that behalf by the mortgage.
     
-    Compare: 1965 No 47 [s 25][155]
+    Compare: 1965 No 47 [s 25][158]
     
-    Section 27(2) **Corporation**: inserted, on 8 August 1991, by [section 10][156] of the Housing Corporation Amendment Act 1991 (1991 No 91).
+    Section 27(2) **Corporation**: inserted, on 8 August 1991, by [section 10][159] of the Housing Corporation Amendment Act 1991 (1991 No 91).
     
-    Section 27(2) **Corporation**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][157] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 27(2) **Corporation**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][160] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 27(6) proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][157] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 27(6) proviso: amended, on 1 July 2009, pursuant to [section 30(2)(a)][160] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 28 Repayment of loans
     
@@ -874,72 +886,32 @@ Securities for loans
     
     (2) Any sum payable pursuant to subsection (1) to the Corporation's funds may be paid in cash at the time of the making of the loan or, at the option of the borrower, may be added to the amount of the loan, and in the latter case it may be secured by any security instrument in respect of the loan as if it formed part of the loan.
     
-    Compare: 1965 No 47 [s 27][158]; 1972 No 104 s 3
+    Compare: 1965 No 47 [s 27][161]; 1972 No 104 s 3
     
-    Section 29 heading: amended, on 1 July 2001, by [section 11(2)][159] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 29 heading: amended, on 1 July 2001, by [section 11(2)][162] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 29(1): amended, on 1 July 2001, by [section 11(1)][159] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 29(1): amended, on 1 July 2001, by [section 11(1)][162] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 29(2): amended, on 1 July 2001, by [section 11(1)][159] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 29(2): amended, on 1 July 2001, by [section 11(1)][162] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 4  
 Financial provisions
 
 ##### 30 Borrowing powers of Corporation and subsidiaries
     
-*   (1) The Corporation may do any of the things stated in subsection (2) only---
-        
-    *   (a) with the agreement of the Minister of Finance; and
+*   \[Repealed\]
     
-    *   (b) in compliance with any conditions subject to which the agreement was given.
-    
-    (2) The things referred to in subsection (1) are---
-        
-    *   (a) issue securities for the purpose of providing funds for carrying on its business under this Act, or as consideration for mortgages of land or other securities transferred to it:
-    
-    *   (b) \[Repealed\]
-    
-    *   (c) grant securities over, or otherwise charge, any of its real or personal property.
-    
-    (3) A subsidiary of the Corporation may do any of the things stated in subsection (4) only---
-        
-    *   (a) with the agreement of the Minister of Finance; and
-    
-    *   (b) in compliance with any conditions subject to which the agreement was given.
-    
-    (4) The things referred to in subsection (3) are---
-        
-    *   (a) \[Repealed\]
-    
-    *   (b) issue securities for the purpose of providing funds for carrying on its business, or as consideration for mortgages of land or other securities transferred to it:
-    
-    *   (c) grant securities over, or otherwise charge, any of its real or personal property.
-    
-    (5) The Corporation may seek the Minister of Finance's agreement for the purposes of subsection (1) or subsection (3)---
-        
-    *   (a) when it submits a statement of intent or modified statement of intent to the Minister under [Part 4][160] of the Crown Entities Act 2004; or
-    
-    *   (b) when the Minister gives it a notice, or enters an agreement with it, under [section 20][32]; or
-    
-    *   (c) at any other time.
-    
-    Section 30: replaced, on 1 July 2001, by [section 13][161] of the Housing Corporation Amendment Act 2001 (2001 No 37).
-    
-    Section 30(2)(b): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 30(4)(a): repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 30(5)(a): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30: repealed, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 30AA Loans deemed to have been lawfully raised
     
 *   So far as concerns any lender or holder,---
         
-    *   (a) all money borrowed by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been borrowed in accordance with [section 30][48]; and
+    *   (a) all money borrowed by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been borrowed in accordance with [subpart 3][163] of Part 4 of the Crown Entities Act 2004; and
     
-    *   (b) all securities and charges issued, granted, or varied by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been issued, granted, or varied in accordance with [section 30][48] or [subpart 3][162] of Part 4 of the Crown Entities Act 2004; and
+    *   (b) all securities and charges issued, granted, or varied by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been issued, granted, or varied in accordance with [subpart 3][163] of Part 4 of the Crown Entities Act 2004; and
     
-    *   (c) the following must for all purposes be treated as having been undertaken in accordance with [section 30][48] or [subpart 3][162] of Part 4 of the Crown Entities Act 2004:
+    *   (c) the following must for all purposes be treated as having been undertaken in accordance with [subpart 3][163] of Part 4 of the Crown Entities Act 2004:
             
         *   (i) all actions taken by the Corporation or a Crown entity subsidiary in the course of any borrowing or proposed borrowing:
         
@@ -949,19 +921,25 @@ Financial provisions
     
     *   (d) the lender or holder does not have to inquire whether, or to what extent, authority has been given under that Act.
     
-    Section 30AA: inserted, on 1 July 2001, by [section 13][161] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 30AA: inserted, on 1 July 2001, by [section 13][164] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 30AA(a): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(a): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 30AA(b): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(a): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 30AA(c): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(b): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 30AA(c)(i): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(b): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 30AA(c)(ii): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(c): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 30AA(d): amended, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30AA(c): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 30AA(c)(i): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 30AA(c)(ii): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 30AA(d): amended, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30A Power to enter into swaps or other financial arrangements
     
@@ -971,81 +949,83 @@ Financial provisions
 
 ##### 31 Securities issued by Corporation to be guaranteed by Crown
     
-*   (1) All bonds, stock, and other securities issued by the Corporation before the commencement of the [Housing Corporation Amendment Act 2001][104] (including all bonds, stock, and other securities taken over by the Corporation under [section 49][72] of this Act) are hereby declared to be guaranteed in accordance with the following provisions of this section.
+*   (1) All bonds, stock, and other securities issued by the Corporation before the commencement of the [Housing Corporation Amendment Act 2001][105] (including all bonds, stock, and other securities taken over by the Corporation under [section 49][72] of this Act) are hereby declared to be guaranteed in accordance with the following provisions of this section.
     
     (2) If any default is made by the Corporation in the payment of any principal or interest payable by it in respect of any bonds, stock, or other securities referred to in subsection (1), such principal or interest, as the case may be, shall forthwith be paid by the Minister of Finance out of a Crown Bank Account without further appropriation than this section.
     
     (3) All money paid by the Minister of Finance under the authority of this section on account of any bonds, stock, or other securities shall constitute a debt due by the Corporation to the Crown, and shall be recoverable accordingly.
     
-    Compare: 1965 No 47 [s 29][163]
+    Compare: 1965 No 47 [s 29][165]
     
-    Section 31(1): amended, on 1 July 2001, by [section 14][164] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 31(1): amended, on 1 July 2001, by [section 14][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 31(2): amended, on 25 January 2005, pursuant to [section 83(7)][147] of the Public Finance Act 1989 (1989 No 44).
+    Section 31(2): amended, on 25 January 2005, pursuant to [section 83(7)][150] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 32 Investments in securities issued by Corporation
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 October 1988, by [section 16(1)][165] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 32: repealed, on 1 October 1988, by [section 16(1)][167] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 33 Corporation may borrow money on hypothecation of securities
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 33: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 34 Registration of stock
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 34: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 35 Advances from Crown Bank Account
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 35: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 36 General Reserve Fund
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 36: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 37 Corporation to maintain approved securities on account of General Reserve Fund
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 37: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 38 Financial year
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 38: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 39 Unauthorised expenditure
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 July 2001, by [section 15][166] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 39: repealed, on 1 July 2001, by [section 15][168] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 40 Distribution of profits
     
 *   (1) The Corporation must pay its surplus for each financial year into a Crown bank account, unless the Minister authorises the Corporation to keep all or any part of it.
     
-    (2) In subsection (1), _surplus_ means surplus capital, and any operating net surplus, after any provision the Minister thinks proper has been made for any matters that, in the Minister's opinion (reached in the light of the Corporation's statement of intent) are necessary for the efficient and effective conduct of the Corporation's operations.
+    (2) In subsection (1), _surplus_ means surplus capital, and any operating net surplus, after any provision the Minister thinks proper has been made for any matters that, in the Minister's opinion (reached in the light of the Corporation's statement of performance expectations and annual financial statements) are necessary for the efficient and effective conduct of the Corporation's operations.
     
-    Section 40: replaced, on 1 July 2001, by [section 16][167] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 40: replaced, on 1 July 2001, by [section 16][169] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 40(1): amended, on 25 January 2005, pursuant to [section 65R(3)][168] of the Public Finance Act 1989 (1989 No 44).
+    Section 40(1): amended, on 25 January 2005, pursuant to [section 65R(3)][170] of the Public Finance Act 1989 (1989 No 44).
+    
+    Section 40(2): amended, on 1 July 2014, by [section 72][113] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 41 Audit of accounts
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 21 December 1992, by [section 42][169] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 41: repealed, on 21 December 1992, by [section 42][171] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 41A Crown entity
     
@@ -1057,7 +1037,7 @@ Financial provisions
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 42: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ## Part 5  
 General provisions
@@ -1084,15 +1064,15 @@ General provisions
     
     (3) Any person who contravenes subsection (2) commits an offence and shall be liable on conviction to a fine not exceeding $100 and to a further fine not exceeding $10 for each day on which the offence has continued.
     
-    Compare: 1965 No 47 [s 40][170]
+    Compare: 1965 No 47 [s 40][172]
     
-    Section 43(1): replaced, on 1 July 2001, by [section 18(1)][171] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 43(1): replaced, on 1 July 2001, by [section 18(1)][173] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 43(2): replaced, on 1 July 2001, by [section 18(1)][171] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 43(2): replaced, on 1 July 2001, by [section 18(1)][173] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 43(2A): inserted, on 1 July 2001, by [section 18(2)][171] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 43(2A): inserted, on 1 July 2001, by [section 18(2)][173] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 43(3): amended, on 1 July 2013, by [section 413][172] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(3): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43A Conveyancing
     
@@ -1104,9 +1084,9 @@ General provisions
     
     (4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under [section 19(4)(c)][28], the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
     
-    (5) Nothing in [sections 21][173], [22][174], or [24][175] of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under [section 19(4)(c)][28].
+    (5) Nothing in [sections 21][175], [22][176], or [24][177] of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under [section 19(4)(c)][28].
     
-    (6) Notwithstanding anything in [section 9][176] of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under [section 19(4)(c)][28].
+    (6) Notwithstanding anything in [section 9][178] of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under [section 19(4)(c)][28].
     
     (7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under [section 19(4)(c)][28].
     
@@ -1116,29 +1096,29 @@ General provisions
     
     Section 43A(3): repealed, on 1 July 2001, by [section 25(1)(b)][101] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 43A(5): amended, on 1 August 2008, by [section 348][116] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 43A(5): amended, on 1 August 2008, by [section 348][119] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 43A(6): amended, on 1 August 2008, by [section 348][116] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 43A(6): amended, on 1 August 2008, by [section 348][119] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 44 Prohibition of procuration fees
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 1 July 2001, by [section 19][177] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 44: repealed, on 1 July 2001, by [section 19][179] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 45 Corporation's liability for taxes and rates
     
-*   The Corporation shall be liable for taxes and rates to the same extent as if it were a company incorporated under the [Companies Act 1993][105].
+*   The Corporation shall be liable for taxes and rates to the same extent as if it were a company incorporated under the [Companies Act 1993][106].
     
-    Compare: 1965 No 47 [s 43][178]
+    Compare: 1965 No 47 [s 43][180]
     
-    Section 45: amended, on 1 July 2001, by [section 20][179] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 45: amended, on 1 July 2001, by [section 20][181] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 46 Members not Crown servants
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 47 Personal liability of members
     
@@ -1154,11 +1134,11 @@ General provisions
     
     *   (b) providing for such matters as are contemplated by or are necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    Compare: 1965 No 47 [s 44][180]
+    Compare: 1965 No 47 [s 44][182]
 
 ##### 49 Corporation to succeed State Advances Corporation
     
-*   (1) The Corporation shall be the successor to the State Advances Corporation of New Zealand established under the [State Advances Corporation Act 1965][181].
+*   (1) The Corporation shall be the successor to the State Advances Corporation of New Zealand established under the [State Advances Corporation Act 1965][183].
     
     (2) On the commencement of this Act,---
         
@@ -1168,25 +1148,25 @@ General provisions
     
     *   (c) all the contracts, debts, and liabilities of the State Advances Corporation immediately before the commencement of this Act (including every guarantee and indemnity continuing to have effect, immediately before the commencement of this Act, under subsection (3) of section 2 of the State Advances Corporation Amendment Act 1970) shall become the contracts, debts, and liabilities of the Corporation.
     
-    (3) A District Land Registrar shall, on written application by the Corporation, register it as the proprietor of any estate or interest that is registered in his land registration district under the [Land Transfer Act 1952][149] and is vested in the Corporation by this section.
+    (3) A District Land Registrar shall, on written application by the Corporation, register it as the proprietor of any estate or interest that is registered in his land registration district under the [Land Transfer Act 1952][152] and is vested in the Corporation by this section.
     
     (4) In the financial year ending with 31 March 1975, the Corporation and the State Advances Corporation of New Zealand shall be deemed to be the same body corporate for the purposes of [sections 41][61] and [42][63], so that one set of accounts and one general report may be prepared, delivered to the Minister, and laid before Parliament by the Corporation, for that financial year.
     
-    Section 49(1): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49(1): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 49(2)(b): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49(2)(b): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 49(2)(c): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49(2)(c): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 49(3): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49(3): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 49(4): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49(4): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 49A References to Housing Corporation of New Zealand
     
 *   Every reference to the Corporation under its former name of the Housing Corporation of New Zealand in any enactment, agreement, contract, deed, or other document enacted, entered into, or created before 1 July 2001 must be read as a reference to the Corporation under its present name.
     
-    Section 49A: inserted, on 1 July 2001, by [section 21][183] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 49A: inserted, on 1 July 2001, by [section 21][185] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 50 Amendments to other enactments, repeals, and savings
     
@@ -1200,9 +1180,9 @@ General provisions
     
     *   (b) to the Managing Director or General Manager of the State Advances Corporation of New Zealand shall hereafter be read as a reference to the person for the time being holding office as the chief executive (however designated) of the Corporation.
     
-    (4) Notwithstanding the repeal of the [State Advances Corporation Act 1965][181] by this section, all securities vested in the Corporation by [section 49][72] that immediately before the commencement of this Act were approved securities of the State Advances Corporation of New Zealand within the meaning of the [State Advances Corporation Act 1965][181] shall be deemed to be approved securities within the meaning of [section 2][4] of this Act.
+    (4) Notwithstanding the repeal of the [State Advances Corporation Act 1965][183] by this section, all securities vested in the Corporation by [section 49][72] that immediately before the commencement of this Act were approved securities of the State Advances Corporation of New Zealand within the meaning of the [State Advances Corporation Act 1965][183] shall be deemed to be approved securities within the meaning of [section 2][4] of this Act.
     
-    Section 50(3)(a): amended, on 1 July 2001, by [section 24(2)][182] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 50(3)(a): amended, on 1 July 2001, by [section 24(2)][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
     Section 50(3)(b): amended, on 1 July 2001, by section 24(2) of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
@@ -1213,7 +1193,7 @@ General provisions
 ## Part 6  
 Restructuring of housing entities
     
-*   Part 6: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Part 6: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 51 Interpretation
     
@@ -1231,25 +1211,25 @@ Restructuring of housing entities
     
     _rights_ means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective.
     
-    Section 51: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 51: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 #### Housing New Zealand Limited to become subsidiary of Corporation
     
-*   Heading: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Heading: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 52 Vesting in Corporation of the Crown's shares in Housing New Zealand Limited
     
-*   (1) On the commencement of the [Housing Corporation Amendment Act 2001][104], the shares in the capital of the company held immediately before that commencement by the responsible Minister and the Minister of Finance vest in the Corporation.
+*   (1) On the commencement of the [Housing Corporation Amendment Act 2001][105], the shares in the capital of the company held immediately before that commencement by the responsible Minister and the Minister of Finance vest in the Corporation.
     
-    (2) In subsection (1), _company_ and _responsible Minister_ have the meanings given to those terms by [section 2(1)][140] of the Housing Restructuring and Tenancy Matters Act 1992\.
+    (2) In subsection (1), _company_ and _responsible Minister_ have the meanings given to those terms by [section 2(1)][143] of the Housing Restructuring and Tenancy Matters Act 1992\.
     
-    Section 52: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 52: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 52(2): amended, on 1 July 2006, by [section 5(2)(b)][115] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 52(2): amended, on 1 July 2006, by [section 5(2)(b)][118] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 #### Transfer to Corporation of assets, functions, liabilities, and obligations of existing companies
     
-*   Heading: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Heading: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 53 Vesting orders
     
@@ -1283,7 +1263,7 @@ Restructuring of housing entities
     
     *   (c) must not recommend the making of an order conferring or imposing a right or obligation on the Corporation in relation to any asset or liability unless satisfied that it is necessary or desirable to do so because of the vesting of the asset or liability in the Corporation.
     
-    Section 53: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 53: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 54 Additional effects of orders
     
@@ -1295,7 +1275,7 @@ Restructuring of housing entities
     
     *   (c) the Corporation has all the rights, obligations, privileges, and immunities of the existing company concerned (and of any officer or employee of that company acting as an officer or employee of that company), and all the rights, obligations, privileges, and immunities of the Crown as aforesaid (other than rights, obligations, privileges, and immunities that the Crown has only by virtue of being the Crown), in relation to all appeals, applications, objections, and other proceedings before any authority, court, tribunal, or person acting judicially, relating to any asset or liability vested by the order concerned.
     
-    Section 54: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 54: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 55 Records and registers
     
@@ -1311,11 +1291,11 @@ Restructuring of housing entities
     
     *   (c) containing a recital that the asset or liability has vested in the Corporation under this Act.
     
-    Section 55: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 55: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 56 Vesting to take effect as amalgamation for certain purposes
     
-*   (1) For the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][185] of the Tax Administration Act 1994),---
+*   (1) For the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][187] of the Tax Administration Act 1994),---
         
     *   (a) the vesting of the assets and liabilities of an existing company under [section 53][80] is an amalgamation and a qualifying amalgamation of the company and the Corporation; and
     
@@ -1327,23 +1307,23 @@ Restructuring of housing entities
     
     (2) If the assets and liabilities of an existing company vest in the Corporation under [section 53][80],---
         
-    *   (a) [section FO 12(1)(b) and (d)][186] of the Income Tax Act 2007 must be treated as having been satisfied; and
+    *   (a) [section FO 12(1)(b) and (d)][188] of the Income Tax Act 2007 must be treated as having been satisfied; and
     
-    *   (b) for the purposes of [section FE 10][187] of that Act, the company must be treated as having been solvent immediately before the vesting day.
+    *   (b) for the purposes of [section FE 10][189] of that Act, the company must be treated as having been solvent immediately before the vesting day.
     
     (3) \[Repealed\]
     
-    (4) Subsections (1) and (2) apply as if the Corporation were a company within the meaning of the [Companies Act 1993][105].
+    (4) Subsections (1) and (2) apply as if the Corporation were a company within the meaning of the [Companies Act 1993][106].
     
     (5) Subsections (1) and (2) override [section 45][68].
     
-    Section 56: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 56: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][188] of the Income Tax Act 2007 (2007 No 97).
+    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][190] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 56(3): repealed, on 1 April 2014, by [section 126][189] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 56(3): repealed, on 1 April 2014, by [section 126][191] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 56(4): amended, on 1 April 2014, by [section 126][189] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 56(4): amended, on 1 April 2014, by [section 126][191] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 57 Certain matters not affected by vesting
     
@@ -1371,7 +1351,7 @@ Restructuring of housing entities
     
     *   (g) affects the Corporation's rights or liabilities under or in respect of any guarantee relating to the liabilities of an existing company given by or to the Corporation.
     
-    Section 57: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 57: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 58 Property or liabilities vested in Corporation
     
@@ -1383,7 +1363,7 @@ Restructuring of housing entities
     
     *   (c) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the Corporation is also deemed to be to the benefit of the Crown.
     
-    Section 58: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 58: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 59 Transfer of contracts and leases
     
@@ -1403,11 +1383,11 @@ Restructuring of housing entities
     
     (4) The transfer is binding on every party to the contract or lease.
     
-    Section 59: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 59: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 60 Application of Privacy Act 1993
     
-*   (1) For the purposes of the [Privacy Act 1993][190],---
+*   (1) For the purposes of the [Privacy Act 1993][192],---
         
     *   (a) the use by the Corporation or its employees of any information gathered or held by an existing company is a directly related purpose; and
     
@@ -1415,24 +1395,24 @@ Restructuring of housing entities
     
     (2) Subsection (1) is for the avoidance of doubt.
     
-    Section 60: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 60: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 7  
 Transfer of employees to Corporation
     
-*   Part 7: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Part 7: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 61 Interpretation
     
 *   In this Part, unless the context otherwise requires,---
     
-    _employment agreement_ has the meaning given to it by [section 5][191] of the Employment Relations Act 2000
+    _employment agreement_ has the meaning given to it by [section 5][193] of the Employment Relations Act 2000
     
     _old agreement_, in relation to a transferred employee, means the employment agreement applying to him or her immediately before he or she became a transferred employee
     
     _transferred employee_ means a person appointed to a position in the employment of the Corporation under [section 62][90].
     
-    Section 61: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 61: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 62 Transfer of employees to Corporation
     
@@ -1440,15 +1420,15 @@ Transfer of employees to Corporation
         
     *   (a) an employee of an existing company; or
     
-    *   (b) an employee of a department listed in [Schedule 1][192] of the State Sector Act 1988 whose chief executive is satisfied that the employee's duties are no longer to be carried out by the department but are instead to be carried out by the Corporation.
+    *   (b) an employee of a department listed in [Schedule 1][194] of the State Sector Act 1988 whose chief executive is satisfied that the employee's duties are no longer to be carried out by the department but are instead to be carried out by the Corporation.
     
-    Section 62: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 62: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 63 Consultation
     
 *   The Corporation must not appoint a person to a position in its employment under [section 62][90] without first consulting the person.
     
-    Section 63: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 63: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 64 Effect of old employment agreement
     
@@ -1458,7 +1438,7 @@ Transfer of employees to Corporation
     
     *   (b) binding on him or her, the Corporation, and any other party to it other than the former employer.
     
-    Section 64: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 64: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 65 Period during which old agreement applies
     
@@ -1474,7 +1454,7 @@ Transfer of employees to Corporation
     
     *   (b) any of the conditions of employment applying to him or her under it are varied (otherwise than under [section 67][95]).
     
-    Section 65: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 65: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 66 Circumstances in which new employment agreement to apply
     
@@ -1484,7 +1464,7 @@ Transfer of employees to Corporation
     
     *   (b) any of the conditions of employment applying to him or her under his or her old agreement are varied (otherwise than under [section 67][95]).
     
-    Section 66: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 66: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 67 Changes in duties or location
     
@@ -1496,13 +1476,13 @@ Transfer of employees to Corporation
     
     (2) Subsection (1) overrides [section 64][92].
     
-    Section 67: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 67: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 68 Transfer not enough to break continuous employment
     
 *   For the purposes of any provisions of a transferred employee's old agreement relating to continuity of service, his or her appointment to a position in the employment of the Corporation under [section 62][90] is not enough by itself to break his or her employment.
     
-    Section 68: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 68: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 69 Transfer not enough to entitle employee to redundancy or severance payment
     
@@ -1512,7 +1492,7 @@ Transfer of employees to Corporation
     
     *   (b) he or she has ceased by virtue of his or her appointment to a position in the employment of the Corporation to be an employee of that company or department.
     
-    Section 69: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 69: inserted, on 1 July 2001, by [section 22][186] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ---
 
@@ -1521,181 +1501,181 @@ Further provisions relating to Corporation
 
 [s 3D][11]
 
-*   Schedule 1A: inserted, on 1 July 2001, by [section 23][193] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Schedule 1A: inserted, on 1 July 2001, by [section 23][195] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Contents
 
-[1][194][][194][Interpretation][194] \[Repealed\]
+[1][196][][196][Interpretation][196] \[Repealed\]
 
-[Members' appointments][195]
-
-\[Repealed\]
-
-[2][196][][196][Criteria for appointments][196] \[Repealed\]
-
-[3][197][][197][Method of appointment][197] \[Repealed\]
-
-[4][198][][198][When appointment takes effect][198] \[Repealed\]
-
-[5][199][][199][Position where concurrent office][199] \[Repealed\]
-
-[Term of office][200]
+[Members' appointments][197]
 
 \[Repealed\]
 
-[6][201][][201][Term of office][201] \[Repealed\]
+[2][198][][198][Criteria for appointments][198] \[Repealed\]
 
-[7][202][][202][Restrictions on persons who may be members][202] \[Repealed\]
+[3][199][][199][Method of appointment][199] \[Repealed\]
 
-[8][203][][203][Members must consent and certify to appointment and disclose interests][203] \[Repealed\]
+[4][200][][200][When appointment takes effect][200] \[Repealed\]
 
-[Duties of members][204]
+[5][201][][201][Position where concurrent office][201] \[Repealed\]
 
-\[Repealed\]
-
-[9][205][][205][Duties of members][205] \[Repealed\]
-
-[Liability of members][206]
+[Term of office][202]
 
 \[Repealed\]
 
-[10][207][][207][Liability of members and committee members][207] \[Repealed\]
+[6][203][][203][Term of office][203] \[Repealed\]
 
-[Resignation and removal of members][208]
+[7][204][][204][Restrictions on persons who may be members][204] \[Repealed\]
 
-\[Repealed\]
+[8][205][][205][Members must consent and certify to appointment and disclose interests][205] \[Repealed\]
 
-[11][209][][209][Resignation][209] \[Repealed\]
-
-[12][210][][210][Removal from office][210] \[Repealed\]
-
-[Vacancies in Corporation's membership][211]
+[Duties of members][206]
 
 \[Repealed\]
 
-[13][212][][212][Effect of vacancy in membership][212] \[Repealed\]
+[9][207][][207][Duties of members][207] \[Repealed\]
 
-[Remuneration][213]
-
-\[Repealed\]
-
-[14][214][][214][Remuneration of members][214] \[Repealed\]
-
-[Chairperson and deputy chairperson][215]
+[Liability of members][208]
 
 \[Repealed\]
 
-[15][216][][216][Appointment][216] \[Repealed\]
+[10][209][][209][Liability of members and committee members][209] \[Repealed\]
 
-[16][217][][217][Term of office][217] \[Repealed\]
-
-[17][218][][218][Resignation][218] \[Repealed\]
-
-[18][219][][219][Exercise of chairperson's functions, duties, and powers during vacancy, etc][219] \[Repealed\]
-
-[Acts not to be called into question][220]
+[Resignation and removal of members][210]
 
 \[Repealed\]
 
-[19][221][][221][Acts not to be called into question][221] \[Repealed\]
+[11][211][][211][Resignation][211] \[Repealed\]
 
-[Disclosure of interest][222]
+[12][212][][212][Removal from office][212] \[Repealed\]
 
-\[Repealed\]
-
-[20][223][][223][Obligation to disclose interest][223] \[Repealed\]
-
-[21][224][][224][Meaning of interested][224] \[Repealed\]
-
-[22][225][][225][Disclosure of interest][225] \[Repealed\]
-
-[23][226][][226][Consequences of disclosure][226] \[Repealed\]
-
-[24][227][][227][Matters to be delegated to committee][227] \[Repealed\]
-
-[25][228][][228][Exceptions][228] \[Repealed\]
-
-[26][229][][229][Effect of non-compliance][229] \[Repealed\]
-
-[Use of information][230]
+[Vacancies in Corporation's membership][213]
 
 \[Repealed\]
 
-[27][231][][231][Restrictions on disclosure or use of information][231] \[Repealed\]
+[13][214][][214][Effect of vacancy in membership][214] \[Repealed\]
 
-[28][232][][232][When member may rely on certain information and advice][232] \[Repealed\]
-
-[29][233][][233][When clause 28 applies][233] \[Repealed\]
-
-[Procedure of Corporation: General][234]
+[Remuneration][215]
 
 \[Repealed\]
 
-[30][235][][235][Procedure generally][235] \[Repealed\]
+[14][216][][216][Remuneration of members][216] \[Repealed\]
 
-[Procedure of Corporation: Meetings][236]
-
-\[Repealed\]
-
-[31][237][][237][Ordinary meetings][237] \[Repealed\]
-
-[32][238][][238][Special meetings][238] \[Repealed\]
-
-[33][239][][239][Methods of holding meetings][239] \[Repealed\]
-
-[34][240][][240][Quorum][240] \[Repealed\]
-
-[35][241][][241][Who presides at meetings][241] \[Repealed\]
-
-[36][242][][242][Voting at meetings][242] \[Repealed\]
-
-[37][243][][243][Resolutions][243] \[Repealed\]
-
-[38][244][][244][Method of contracting][244] \[Repealed\]
-
-[39][245][][245][Attorneys][245] \[Repealed\]
-
-[Delegations][246]
-
-[40][247][][247][Ability for Corporation to delegate functions and powers][247] \[Repealed\]
-
-[41][248][][248][Certain powers must not be delegated][248]
-
-[42][249][][249][Effect of delegation][249] \[Repealed\]
-
-[43][250][][250][Presumption of acting in accordance with delegation][250] \[Repealed\]
-
-[44][251][][251][Other matters relating to delegation][251] \[Repealed\]
-
-[Subsidiaries][252]
+[Chairperson and deputy chairperson][217]
 
 \[Repealed\]
 
-[45][253][][253][Subsidiaries][253] \[Repealed\]
+[15][218][][218][Appointment][218] \[Repealed\]
 
-[Committees][254]
+[16][219][][219][Term of office][219] \[Repealed\]
+
+[17][220][][220][Resignation][220] \[Repealed\]
+
+[18][221][][221][Exercise of chairperson's functions, duties, and powers during vacancy, etc][221] \[Repealed\]
+
+[Acts not to be called into question][222]
 
 \[Repealed\]
 
-[46][255][][255][Corporation committees][255] \[Repealed\]
+[19][223][][223][Acts not to be called into question][223] \[Repealed\]
 
-[Employees][256]
+[Disclosure of interest][224]
 
-[47][257][][257][Appointment of chief executive][257] \[Repealed\]
+\[Repealed\]
 
-[48][258][][258][Appointment of other employees][258] \[Repealed\]
+[20][225][][225][Obligation to disclose interest][225] \[Repealed\]
 
-[49][259][][259][Liability of employees][259] \[Repealed\]
+[21][226][][226][Meaning of interested][226] \[Repealed\]
 
-[50][260][][260][Personnel policy][260] \[Repealed\]
+[22][227][][227][Disclosure of interest][227] \[Repealed\]
 
-[51][261][][261][Equal employment opportunities][261] \[Repealed\]
+[23][228][][228][Consequences of disclosure][228] \[Repealed\]
 
-[52][262][][262][Superannuation or retiring allowances][262] \[Repealed\]
+[24][229][][229][Matters to be delegated to committee][229] \[Repealed\]
 
-[53][263][][263][Application of certain Acts to members and employees][263] \[Repealed\]
+[25][230][][230][Exceptions][230] \[Repealed\]
 
-[54][264][][264][Existing Government Superannuation Fund members][264]
+[26][231][][231][Effect of non-compliance][231] \[Repealed\]
+
+[Use of information][232]
+
+\[Repealed\]
+
+[27][233][][233][Restrictions on disclosure or use of information][233] \[Repealed\]
+
+[28][234][][234][When member may rely on certain information and advice][234] \[Repealed\]
+
+[29][235][][235][When clause 28 applies][235] \[Repealed\]
+
+[Procedure of Corporation: General][236]
+
+\[Repealed\]
+
+[30][237][][237][Procedure generally][237] \[Repealed\]
+
+[Procedure of Corporation: Meetings][238]
+
+\[Repealed\]
+
+[31][239][][239][Ordinary meetings][239] \[Repealed\]
+
+[32][240][][240][Special meetings][240] \[Repealed\]
+
+[33][241][][241][Methods of holding meetings][241] \[Repealed\]
+
+[34][242][][242][Quorum][242] \[Repealed\]
+
+[35][243][][243][Who presides at meetings][243] \[Repealed\]
+
+[36][244][][244][Voting at meetings][244] \[Repealed\]
+
+[37][245][][245][Resolutions][245] \[Repealed\]
+
+[38][246][][246][Method of contracting][246] \[Repealed\]
+
+[39][247][][247][Attorneys][247] \[Repealed\]
+
+[Delegations][248]
+
+[40][249][][249][Ability for Corporation to delegate functions and powers][249] \[Repealed\]
+
+[41][250][][250][Certain powers must not be delegated][250]
+
+[42][251][][251][Effect of delegation][251] \[Repealed\]
+
+[43][252][][252][Presumption of acting in accordance with delegation][252] \[Repealed\]
+
+[44][253][][253][Other matters relating to delegation][253] \[Repealed\]
+
+[Subsidiaries][254]
+
+\[Repealed\]
+
+[45][255][][255][Subsidiaries][255] \[Repealed\]
+
+[Committees][256]
+
+\[Repealed\]
+
+[46][257][][257][Corporation committees][257] \[Repealed\]
+
+[Employees][258]
+
+[47][259][][259][Appointment of chief executive][259] \[Repealed\]
+
+[48][260][][260][Appointment of other employees][260] \[Repealed\]
+
+[49][261][][261][Liability of employees][261] \[Repealed\]
+
+[50][262][][262][Personnel policy][262] \[Repealed\]
+
+[51][263][][263][Equal employment opportunities][263] \[Repealed\]
+
+[52][264][][264][Superannuation or retiring allowances][264] \[Repealed\]
+
+[53][265][][265][Application of certain Acts to members and employees][265] \[Repealed\]
+
+[54][266][][266][Existing Government Superannuation Fund members][266]
 
 ---
 
@@ -1703,313 +1683,313 @@ Further provisions relating to Corporation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 1: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 1: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Members' appointments
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 2 Criteria for appointments
     
 *   \[Repealed\]
     
-    Schedule 1A clause 2: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 2: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Method of appointment
     
 *   \[Repealed\]
     
-    Schedule 1A clause 3: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 3: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 When appointment takes effect
     
 *   \[Repealed\]
     
-    Schedule 1A clause 4: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 4: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Position where concurrent office
     
 *   \[Repealed\]
     
-    Schedule 1A clause 5: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 5: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Term of office
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Term of office
     
 *   \[Repealed\]
     
-    Schedule 1A clause 6: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 6: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Restrictions on persons who may be members
     
 *   \[Repealed\]
     
-    Schedule 1A clause 7: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 7: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Members must consent and certify to appointment and disclose interests
     
 *   \[Repealed\]
     
-    Schedule 1A clause 8: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 8: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Duties of members
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Duties of members
     
 *   \[Repealed\]
     
-    Schedule 1A clause 9: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 9: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Liability of members
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Liability of members and committee members
     
 *   \[Repealed\]
     
-    Schedule 1A clause 10: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 10: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Resignation and removal of members
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Resignation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 11: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 11: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Removal from office
     
 *   \[Repealed\]
     
-    Schedule 1A clause 12: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 12: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Vacancies in Corporation's membership
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Effect of vacancy in membership
     
 *   \[Repealed\]
     
-    Schedule 1A clause 13: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 13: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Remuneration
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 Remuneration of members
     
 *   \[Repealed\]
     
-    Schedule 1A clause 14: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 14: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Chairperson and deputy chairperson
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Appointment
     
 *   \[Repealed\]
     
-    Schedule 1A clause 15: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 15: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 16 Term of office
     
 *   \[Repealed\]
     
-    Schedule 1A clause 16: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 16: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Resignation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 17: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 17: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 Exercise of chairperson's functions, duties, and powers during vacancy, etc
     
 *   \[Repealed\]
     
-    Schedule 1A clause 18: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 18: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Acts not to be called into question
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19 Acts not to be called into question
     
 *   \[Repealed\]
     
-    Schedule 1A clause 19: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 19: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Disclosure of interest
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Obligation to disclose interest
     
 *   \[Repealed\]
     
-    Schedule 1A clause 20: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 20: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Meaning of interested
     
 *   \[Repealed\]
     
-    Schedule 1A clause 21: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 21: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Disclosure of interest
     
 *   \[Repealed\]
     
-    Schedule 1A clause 22: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 22: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 Consequences of disclosure
     
 *   \[Repealed\]
     
-    Schedule 1A clause 23: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 23: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Matters to be delegated to committee
     
 *   \[Repealed\]
     
-    Schedule 1A clause 24: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 24: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 25 Exceptions
     
 *   \[Repealed\]
     
-    Schedule 1A clause 25: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 25: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 26 Effect of non-compliance
     
 *   \[Repealed\]
     
-    Schedule 1A clause 26: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 26: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Use of information
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 27 Restrictions on disclosure or use of information
     
 *   \[Repealed\]
     
-    Schedule 1A clause 27: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 27: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 28 When member may rely on certain information and advice
     
 *   \[Repealed\]
     
-    Schedule 1A clause 28: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 28: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 29 When clause 28 applies
     
 *   \[Repealed\]
     
-    Schedule 1A clause 29: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 29: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Procedure of Corporation: General
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30 Procedure generally
     
 *   \[Repealed\]
     
-    Schedule 1A clause 30: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 30: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Procedure of Corporation: Meetings
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 31 Ordinary meetings
     
 *   \[Repealed\]
     
-    Schedule 1A clause 31: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 31: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 32 Special meetings
     
 *   \[Repealed\]
     
-    Schedule 1A clause 32: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 32: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 33 Methods of holding meetings
     
 *   \[Repealed\]
     
-    Schedule 1A clause 33: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 33: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 34 Quorum
     
 *   \[Repealed\]
     
-    Schedule 1A clause 34: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 34: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 35 Who presides at meetings
     
 *   \[Repealed\]
     
-    Schedule 1A clause 35: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 35: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 36 Voting at meetings
     
 *   \[Repealed\]
     
-    Schedule 1A clause 36: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 36: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 37 Resolutions
     
 *   \[Repealed\]
     
-    Schedule 1A clause 37: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 37: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 38 Method of contracting
     
 *   \[Repealed\]
     
-    Schedule 1A clause 38: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 38: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 39 Attorneys
     
 *   \[Repealed\]
     
-    Schedule 1A clause 39: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 39: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Delegations
 
@@ -2017,63 +1997,63 @@ Further provisions relating to Corporation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 40: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 40: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 41 Certain powers must not be delegated
     
-*   (1) Despite [section 73][265] of the Crown Entities Act 2004, the Corporation must not delegate the power to grant a power of attorney.
+*   (1) Despite [section 73][267] of the Crown Entities Act 2004, the Corporation must not delegate the power to grant a power of attorney.
     
-    (2) Despite [sections 73(4)][265] and [74(1)(b)(i)][266] of the Crown Entities Act 2004,---
+    (2) Despite [sections 73(4)][267] and [74(1)(b)(i)][268] of the Crown Entities Act 2004,---
         
     *   (a) the Corporation may delegate its general power of delegation to the chief executive; but
     
     *   (b) the chief executive may not further delegate that power.
     
-    Schedule 1A clause 41(1): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 41(1): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 1A clause 41(2): replaced, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 41(2): replaced, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 42 Effect of delegation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 42: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 42: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 43 Presumption of acting in accordance with delegation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 43: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 43: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 44 Other matters relating to delegation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 44: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 44: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Subsidiaries
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 45 Subsidiaries
     
 *   \[Repealed\]
     
-    Schedule 1A clause 45: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 45: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Committees
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Corporation committees
     
 *   \[Repealed\]
     
-    Schedule 1A clause 46: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 46: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Employees
 
@@ -2081,51 +2061,51 @@ Further provisions relating to Corporation
     
 *   \[Repealed\]
     
-    Schedule 1A clause 47: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 47: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48 Appointment of other employees
     
 *   \[Repealed\]
     
-    Schedule 1A clause 48: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 48: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Liability of employees
     
 *   \[Repealed\]
     
-    Schedule 1A clause 49: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 49: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 50 Personnel policy
     
 *   \[Repealed\]
     
-    Schedule 1A clause 50: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 50: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 51 Equal employment opportunities
     
 *   \[Repealed\]
     
-    Schedule 1A clause 51: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 51: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 52 Superannuation or retiring allowances
     
 *   \[Repealed\]
     
-    Schedule 1A clause 52: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 52: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53 Application of certain Acts to members and employees
     
 *   \[Repealed\]
     
-    Schedule 1A clause 53: repealed, on 25 January 2005, by [section 200][112] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1A clause 53: repealed, on 25 January 2005, by [section 200][115] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 54 Existing Government Superannuation Fund members
     
-*   (1) Despite [clause 53][263], a person who, immediately before becoming an employee of the Corporation, was a contributor to the Government Superannuation Fund under [Part 2][267] or [Part 2A][268] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be employed in the Government service so long as that person continues to be an employee of the Corporation; and that Act applies to that person in all respects as if that person's service as an employee of the Corporation were Government service.
+*   (1) Despite [clause 53][265], a person who, immediately before becoming an employee of the Corporation, was a contributor to the Government Superannuation Fund under [Part 2][269] or [Part 2A][270] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be employed in the Government service so long as that person continues to be an employee of the Corporation; and that Act applies to that person in all respects as if that person's service as an employee of the Corporation were Government service.
     
     (2) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][269] in accordance with subclause (1), _controlling authority_, in relation to that employee, means the Corporation.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][271] in accordance with subclause (1), _controlling authority_, in relation to that employee, means the Corporation.
 
 ---
 
@@ -2136,11 +2116,11 @@ Enactments amended
 
 ##### Family Benefits (Home Ownership) Act 1964 (1964 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][270]._
+_Amendment(s) incorporated in the [Act(s)][272]._
 
 ##### Housing Act 1955 (1955 No 51) (1957 Reprint, Vol 6, p 221)
 
-_Amendment(s) incorporated in the [Act(s)][271]._
+_Amendment(s) incorporated in the [Act(s)][273]._
 
 ##### Life Insurance Act 1908 (1908 No 105) (1957 Reprint, Vol 8, p 336)
 
@@ -2184,7 +2164,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][272]._
+_Amendment(s) incorporated in the [Act(s)][274]._
 
 ##### State Services Act 1962 (1962 No 132) (Reprinted 1971, Vol 4, p 2533)
 
@@ -2203,7 +2183,7 @@ Enactments repealed
 
 ##### State Advances Corporation Act 1965 (1965 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][170]_)
+_Amendment(s) incorporated in the [Act(s)][172]_)
 
 ##### State Advances Corporation Amendment Act 1970 (1970 No 11)
 
@@ -2219,7 +2199,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Housing Corporation Amendment Act 1992][273], and shall be read together with and deemed part of the Housing Corporation Act 1974 (hereinafter referred to as the ""principal Act"").
+*   (1) This Act may be cited as the [Housing Corporation Amendment Act 1992][275], and shall be read together with and deemed part of the Housing Corporation Act 1974 (hereinafter referred to as the ""principal Act"").
     
     (2) Except as provided in subsections (3), (4), and (5), this Act shall come into force on the date on which it receives the Royal assent.
     
@@ -2259,55 +2239,55 @@ Commencementsee section 1
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][274] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][275] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][276] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][277] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][276] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][277] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][278] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][279] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][189]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][191]
     
-    Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][142]
+    Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][145]
     
-    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][114]
+    Crown Entities Amendment Act 2013 (2013 No 51): [sections 42][117], [72][113]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][172]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][174]
     
-    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 6][124]
+    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 6][127]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][157]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][160]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][188]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][190]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][134]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][137]
     
-    Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [section 5(2)(b)][115]
+    Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [section 5(2)(b)][118]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][116]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][119]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][112]
+    Crown Entities Act 2004 (2004 No 115): [section 200][115]
     
-    Local Government Act 2002 (2002 No 84): [section 262][146]
+    Local Government Act 2002 (2002 No 84): [section 262][149]
     
-    [Housing Corporation Amendment Act 2001][278] (2001 No 37)
+    [Housing Corporation Amendment Act 2001][280] (2001 No 37)
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][169]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][171]
     
     Housing Corporation Amendment Act 1992 (1992 No 78)
     
-    [Housing Corporation Amendment Act 1991][279] (1991 No 91)
+    [Housing Corporation Amendment Act 1991][281] (1991 No 91)
     
-    State Sector Amendment Act (No 2) 1989 (1989 No 136): [section 32(1)][127]
+    State Sector Amendment Act (No 2) 1989 (1989 No 136): [section 32(1)][130]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][280], [83(7)][147]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][282], [83(7)][150]
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][165]
+    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][167]
     
     Housing Corporation Amendment Act 1987 (1987 No 68)
     
-    [Housing Corporation Act Commencement Order 1974][281] (SR 1974/245)
+    [Housing Corporation Act Commencement Order 1974][283] (SR 1974/245)
 
 
 
@@ -2414,182 +2394,184 @@ Commencementsee section 1
 [100]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412733
 [101]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96740
 [102]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95836
-[103]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329641
-[104]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95829
-[105]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM319569
-[106]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269440
-[107]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM364938
-[108]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM129439
-[109]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330540
-[110]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373423
-[111]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248259
-[112]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM331111
-[113]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95838
-[114]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5326977
-[115]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM374680
-[116]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM367849
-[117]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95861
-[118]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329630
-[119]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373425
-[120]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373427
-[121]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329954
-[122]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329956
-[123]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95862
-[124]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2925110
-[125]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330542
-[126]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330543
-[127]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM194741
-[128]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95866
-[129]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329931
-[130]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM968961
-[131]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373451
-[132]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373463
-[133]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95868
-[134]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM969644
-[135]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95869
-[136]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330351
-[137]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95870
-[138]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330363
-[139]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330364
-[140]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269435
-[141]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269488
-[142]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5646466
-[143]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291330
-[144]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM170872
-[145]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373455
-[146]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM174088
-[147]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM163167
-[148]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95880
-[149]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269031
-[150]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373467
-[151]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248269
-[152]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM287740
-[153]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM289716
-[154]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM288087
-[155]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373469
-[156]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248270
-[157]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1583888
-[158]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373473
-[159]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95879
-[160]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330504
-[161]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95881
-[162]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330560
-[163]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373477
-[164]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95884
-[165]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM135631
-[166]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95885
-[167]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95886
-[168]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162792
-[169]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM289849
-[170]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373499
-[171]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95890
-[172]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM3360714
-[173]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365726
-[174]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365727
-[175]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365729
-[176]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365708
-[177]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95891
-[178]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373704
-[179]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95892
-[180]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373706
-[181]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373417
-[182]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96736
-[183]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95893
-[184]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95896
-[185]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM348353
-[186]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1516805
-[187]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM262035
-[188]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
-[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5740665
-[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM296638
-[191]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM58337
-[192]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM130706
-[193]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96734
-[194]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039503
-[195]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039510
-[196]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412499
-[197]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412501
-[198]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412503
-[199]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412505
-[200]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039511
-[201]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412508
-[202]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412510
-[203]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412512
-[204]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039512
-[205]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412515
-[206]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039513
-[207]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412518
-[208]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039514
-[209]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412521
-[210]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412523
-[211]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039515
-[212]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412526
-[213]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039516
-[214]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412529
-[215]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039517
-[216]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412532
-[217]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412534
-[218]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412536
-[219]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412538
-[220]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039518
-[221]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412541
-[222]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039519
-[223]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412544
-[224]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412546
-[225]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412548
-[226]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412550
-[227]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412552
-[228]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412554
-[229]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412556
-[230]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039520
-[231]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412559
-[232]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412561
-[233]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412563
-[234]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039521
-[235]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412566
-[236]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039522
-[237]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412569
-[238]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412571
-[239]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412573
-[240]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412575
-[241]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412577
-[242]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412579
-[243]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412581
-[244]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412583
-[245]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412585
-[246]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039523
-[247]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412588
-[248]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412590
-[249]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412593
-[250]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412595
-[251]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412597
-[252]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039524
-[253]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412700
-[254]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039525
-[255]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412704
-[256]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039526
-[257]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412707
-[258]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412709
-[259]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412711
-[260]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412713
-[261]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412715
-[262]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412717
-[263]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412719
-[264]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412721
-[265]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330308
-[266]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330309
-[267]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446395
-[268]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446842
-[269]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446000
-[270]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM351688
-[271]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291039
-[272]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM399728
-[273]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM270362
-[274]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998516
-[275]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998515
-[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998532
-[277]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[278]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
-[279]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
-[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
-[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
+[103]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330556
+[104]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329641
+[105]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95829
+[106]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM319569
+[107]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269440
+[108]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM364938
+[109]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM129439
+[110]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330540
+[111]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM6176675
+[112]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373423
+[113]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5327162
+[114]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248259
+[115]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM331111
+[116]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95838
+[117]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5326977
+[118]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM374680
+[119]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM367849
+[120]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95861
+[121]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329630
+[122]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373425
+[123]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373427
+[124]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329954
+[125]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329956
+[126]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95862
+[127]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2925110
+[128]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330542
+[129]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM6176677
+[130]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM194741
+[131]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95866
+[132]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM329931
+[133]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM968961
+[134]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373451
+[135]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373463
+[136]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95868
+[137]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM969644
+[138]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95869
+[139]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330351
+[140]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95870
+[141]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330363
+[142]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330364
+[143]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269435
+[144]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269488
+[145]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5646466
+[146]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291330
+[147]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM170872
+[148]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373455
+[149]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM174088
+[150]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM163167
+[151]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95880
+[152]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM269031
+[153]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373467
+[154]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248269
+[155]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM287740
+[156]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM289716
+[157]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM288087
+[158]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373469
+[159]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248270
+[160]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1583888
+[161]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373473
+[162]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95879
+[163]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330560
+[164]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95881
+[165]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373477
+[166]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95884
+[167]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM135631
+[168]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95885
+[169]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95886
+[170]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162792
+[171]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM289849
+[172]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373499
+[173]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95890
+[174]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM3360714
+[175]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365726
+[176]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365727
+[177]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365729
+[178]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM365708
+[179]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95891
+[180]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373704
+[181]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95892
+[182]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373706
+[183]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM373417
+[184]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96736
+[185]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95893
+[186]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95896
+[187]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM348353
+[188]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1516805
+[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM262035
+[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
+[191]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5740665
+[192]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM296638
+[193]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM58337
+[194]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM130706
+[195]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM96734
+[196]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039503
+[197]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039510
+[198]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412499
+[199]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412501
+[200]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412503
+[201]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412505
+[202]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039511
+[203]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412508
+[204]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412510
+[205]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412512
+[206]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039512
+[207]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412515
+[208]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039513
+[209]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412518
+[210]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039514
+[211]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412521
+[212]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412523
+[213]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039515
+[214]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412526
+[215]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039516
+[216]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412529
+[217]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039517
+[218]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412532
+[219]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412534
+[220]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412536
+[221]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412538
+[222]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039518
+[223]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412541
+[224]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039519
+[225]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412544
+[226]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412546
+[227]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412548
+[228]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412550
+[229]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412552
+[230]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412554
+[231]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412556
+[232]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039520
+[233]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412559
+[234]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412561
+[235]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412563
+[236]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039521
+[237]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412566
+[238]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039522
+[239]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412569
+[240]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412571
+[241]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412573
+[242]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412575
+[243]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412577
+[244]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412579
+[245]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412581
+[246]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412583
+[247]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412585
+[248]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039523
+[249]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412588
+[250]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412590
+[251]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412593
+[252]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412595
+[253]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412597
+[254]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039524
+[255]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412700
+[256]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039525
+[257]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412704
+[258]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM3039526
+[259]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412707
+[260]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412709
+[261]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412711
+[262]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412713
+[263]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412715
+[264]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412717
+[265]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412719
+[266]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM412721
+[267]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330308
+[268]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM330309
+[269]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446395
+[270]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446842
+[271]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM446000
+[272]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM351688
+[273]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291039
+[274]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM399728
+[275]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM270362
+[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998516
+[277]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998515
+[278]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998532
+[279]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
+[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
+[282]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
+[283]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
