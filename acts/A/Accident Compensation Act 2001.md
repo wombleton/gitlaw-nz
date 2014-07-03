@@ -1,5 +1,5 @@
 Reprint  
-as at 16 December 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,7 +15,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -3640,7 +3640,7 @@ Entitlements and related matters
 
 ##### 74 Limits on treatment providers in decisions on acute treatment
     
-*   (1) A treatment provider to whom a claimant presents for treatment may exercise the clinical judgment described in [section 7(b)][660] as to the urgency of the need for the treatment only if he or she is a treatment provider of a type appropriately qualified to make a clinical judgment of that kind.
+*   (1) A treatment provider to whom a claimant presents for treatment may exercise the clinical judgment described in [section 7(b)][9] as to the urgency of the need for the treatment only if he or she is a treatment provider of a type appropriately qualified to make a clinical judgment of that kind.
     
     (2) A treatment provider qualified as required by subsection (1) who makes a clinical judgment that treatment requires an acute admission must ensure that the treatment is provided by---
         
@@ -3772,7 +3772,7 @@ Entitlements and related matters
     
     *   (h) transport for independence.
     
-    (2) Terms in subsection (1)(a), (b), and (d) to (h) have the same meaning as in [clause 12][661] of Schedule 1\.
+    (2) Terms in subsection (1)(a), (b), and (d) to (h) have the same meaning as in [clause 12][660] of Schedule 1\.
     
     (3) The Corporation is liable to provide a key aspect of social rehabilitation to a claimant---
         
@@ -3912,11 +3912,11 @@ Entitlements and related matters
         
         
     
-    (2) Despite subsection (1)(b)(i), the Corporation is liable to provide vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for [clause 52][662] of Schedule 1 (relationship between weekly compensation and New Zealand superannuation), continue to be entitled to weekly compensation.
+    (2) Despite subsection (1)(b)(i), the Corporation is liable to provide vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for [clause 52][661] of Schedule 1 (relationship between weekly compensation and New Zealand superannuation), continue to be entitled to weekly compensation.
     
     Compare: 1998 No 114 Schedule 1 cl 53
     
-    Section 85(2): added, on 1 October 2008, by [section 15][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 85(2): added, on 1 October 2008, by [section 15][662] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 86 Matters to be considered in deciding whether to provide vocational rehabilitation
     
@@ -3962,19 +3962,19 @@ Entitlements and related matters
     
     *   (c) the vocational rehabilitation would be appropriate in the circumstances.
     
-    (2C) However, despite subsections (1)(b) and (2B)(b), the Corporation must not take into account as a factor against providing vocational rehabilitation that the claimant is, or may become, a person to whom [clause 52][662] of Schedule 1 (relationship between weekly compensation and New Zealand superannuation) applies.
+    (2C) However, despite subsections (1)(b) and (2B)(b), the Corporation must not take into account as a factor against providing vocational rehabilitation that the claimant is, or may become, a person to whom [clause 52][661] of Schedule 1 (relationship between weekly compensation and New Zealand superannuation) applies.
     
     (3) This section is subject to any regulations made under [section 324][415].
     
     Compare: 1998 No 114 Schedule 1 cl 56
     
-    Section 87(2): substituted, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 87(2): substituted, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 87(2A): inserted, on 1 October 2008, by [section 16][665] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 87(2A): inserted, on 1 October 2008, by [section 16][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 87(2B): inserted, on 1 October 2008, by [section 16][665] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 87(2B): inserted, on 1 October 2008, by [section 16][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 87(2C): inserted, on 1 October 2008, by [section 16][665] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 87(2C): inserted, on 1 October 2008, by [section 16][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 88 Vocational rehabilitation may start or resume if circumstances change
     
@@ -4026,9 +4026,9 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 96
     
-    Section 91(1A): inserted, on 1 October 2008, by [section 17][666] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 91(1A): inserted, on 1 October 2008, by [section 17][665] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 91(1A): amended, on 1 July 2010, by [section 11][667] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 91(1A): amended, on 1 July 2010, by [section 11][666] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 92 Report on initial occupational assessment
     
@@ -4178,7 +4178,7 @@ Entitlements and related matters
     
 *   First week compensation is salary or wages payable to the employee for the purposes of---
         
-    *   (a) [section 131][668] of the Employment Relations Act 2000:
+    *   (a) [section 131][667] of the Employment Relations Act 2000:
     
     *   (b) the [Income Tax Act 2007][592]:
     
@@ -4224,7 +4224,7 @@ Entitlements and related matters
     
 *   (1) When the Corporation is required or allowed by this Act to determine a claimant's incapacity for employment, it must do so under [section 103][127] or [section 105][129].
     
-    (2) When the Corporation is required or allowed by this Act to determine a claimant's vocational independence, it must do so under [sections 107 to 110][132] and [clauses 24 to 29][669] of Schedule 1\.
+    (2) When the Corporation is required or allowed by this Act to determine a claimant's vocational independence, it must do so under [sections 107 to 110][132] and [clauses 24 to 29][668] of Schedule 1\.
     
     Compare: 1998 No 114 s 83
 
@@ -4242,7 +4242,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 84
     
-    Section 102(2)(a): amended, on 1 August 2008, by [section 18][670] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 102(2)(a): amended, on 1 August 2008, by [section 18][669] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
     Section 102(2)(a): amended, on 18 September 2004, by [section 175(1)][576] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
@@ -4264,11 +4264,11 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 85
     
-    Section 103 heading: amended, on 11 May 2005, by [section 21(1)][671] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 103 heading: amended, on 11 May 2005, by [section 21(1)][670] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 103(4): added, on 11 May 2005, by [section 21(2)][671] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 103(4): added, on 11 May 2005, by [section 21(2)][670] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 103(5): added, on 11 May 2005, by [section 21(2)][671] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 103(5): added, on 11 May 2005, by [section 21(2)][670] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 104 Effect of determination under section 103 on entitlement to weekly compensation
     
@@ -4304,13 +4304,13 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 87
     
-    Section 105 heading: substituted, on 1 August 2008, by [section 19(1)][672] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 105 heading: substituted, on 1 August 2008, by [section 19(1)][671] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 105(1)(a): amended, on 1 August 2008, by [section 19(2)][672] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 105(1)(a): amended, on 1 August 2008, by [section 19(2)][671] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 105(3): added, on 11 May 2005, by [section 22][673] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 105(3): added, on 11 May 2005, by [section 22][672] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 105(4): added, on 11 May 2005, by [section 22][673] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 105(4): added, on 11 May 2005, by [section 22][672] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 106 Effect of determination under section 105 on entitlement to weekly compensation
     
@@ -4342,7 +4342,7 @@ Entitlements and related matters
         
     *   (a) for the purpose in subsection (3); and
     
-    *   (b) in accordance with [sections 108 to 110][133] and [clauses 24 to 29][669] of Schedule 1; and
+    *   (b) in accordance with [sections 108 to 110][133] and [clauses 24 to 29][668] of Schedule 1; and
     
     *   (c) at the Corporation's expense.
     
@@ -4358,9 +4358,9 @@ Entitlements and related matters
     
 *   (1) An assessment of a claimant's vocational independence must consist of---
         
-    *   (a) an occupational assessment under [clause 25][674] of Schedule 1; and
+    *   (a) an occupational assessment under [clause 25][673] of Schedule 1; and
     
-    *   (b) a medical assessment under [clause 28][675] of Schedule 1\.
+    *   (b) a medical assessment under [clause 28][674] of Schedule 1\.
     
     (2) The purpose of an occupational assessment is to---
         
@@ -4394,7 +4394,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 89
     
-    Section 109(2)(b): amended, on 11 May 2005, by [section 23][676] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 109(2)(b): amended, on 11 May 2005, by [section 23][675] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 110 Notice to claimant in relation to assessment of vocational independence
     
@@ -4446,7 +4446,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 92
     
-    Section 113(1): amended, on 22 October 2003, by [section 3][677] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003 (2003 No 80).
+    Section 113(1): amended, on 22 October 2003, by [section 3][676] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003 (2003 No 80).
 
 #### Interest on late payments of weekly compensation
 
@@ -4456,7 +4456,7 @@ Entitlements and related matters
     
     (2) The Corporation is liable to pay the interest---
         
-    *   (a) at the rate for the time being prescribed by, or for the purposes of, [section 87][678] of the Judicature Act 1908; and
+    *   (a) at the rate for the time being prescribed by, or for the purposes of, [section 87][677] of the Judicature Act 1908; and
     
     *   (b) from the date on which payment should have been made to the date on which it is made.
     
@@ -4470,7 +4470,7 @@ Entitlements and related matters
         
     *   (a) the amount of weekly compensation, but not weekly compensation based on minimum weekly earnings as determined under [clause 42(3)][550] of Schedule 1:
     
-    *   (b) the weekly amounts specified in [clauses 46][679] and [51][680] of Schedule 1\.
+    *   (b) the weekly amounts specified in [clauses 46][678] and [51][679] of Schedule 1\.
     
     (2) Any adjustments required by subsection (1)---
         
@@ -4492,7 +4492,7 @@ Entitlements and related matters
 
 ##### 116 Indexation of lump sum compensation, funeral grant, survivor's grant, and child care payments
     
-*   (1) The Corporation must adjust the amounts specified in [clauses 56][531], [64][532], [65][681], and [76][682] of Schedule 1 in the manner specified in subsection (2).
+*   (1) The Corporation must adjust the amounts specified in [clauses 56][531], [64][532], [65][680], and [76][681] of Schedule 1 in the manner specified in subsection (2).
     
     (2) Any adjustments required by subsection (1) must---
         
@@ -4554,11 +4554,11 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 116
     
-    Section 117(3A): inserted, on 1 July 2005, by [section 24][683] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 117(3A): inserted, on 1 July 2005, by [section 24][682] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 117(3B): inserted, on 1 July 2005, by [section 24][683] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 117(3B): inserted, on 1 July 2005, by [section 24][682] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 117(3C): inserted, on 1 July 2005, by [section 24][683] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 117(3C): inserted, on 1 July 2005, by [section 24][682] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 #### Disentitlements
 
@@ -4592,7 +4592,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 119
     
-    Section 118(1): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 118(1): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 119 Disentitlement for wilfully self-inflicted personal injuries and suicide
     
@@ -4616,11 +4616,11 @@ Entitlements and related matters
     
     *   (b) mental injury suffered by the claimant in the circumstances described in [section 21][27] or [21B][29].
     
-    Section 119: substituted, on 1 July 2010, by [section 12][684] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 119: substituted, on 1 July 2010, by [section 12][683] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 120 Disentitlement for conviction for murder
     
-*   (1) The Corporation must not provide any entitlement under [Part 4][685] of Schedule 1 to a claimant if the claimant---
+*   (1) The Corporation must not provide any entitlement under [Part 4][684] of Schedule 1 to a claimant if the claimant---
         
     *   (a) is entitled to the entitlement because of the death of another person; and
     
@@ -4630,7 +4630,7 @@ Entitlements and related matters
     
     (3) The suspension lasts until the proceedings in respect of the charge are finally determined or the charge is withdrawn.
     
-    (4) An entitlement provided to a claimant under [Part 4][685] of Schedule 1 becomes a debt due to the Corporation, and may be recovered in any court of competent jurisdiction, if---
+    (4) An entitlement provided to a claimant under [Part 4][684] of Schedule 1 becomes a debt due to the Corporation, and may be recovered in any court of competent jurisdiction, if---
         
     *   (a) the Corporation has provided the entitlement because of the death of another person; and
     
@@ -4638,31 +4638,31 @@ Entitlements and related matters
     
     (5) In this section, _murder_---
         
-    *   (a) means murder within the meaning of the [Crimes Act 1961][686]; and
+    *   (a) means murder within the meaning of the [Crimes Act 1961][685]; and
     
     *   (b) includes any killing of a person outside New Zealand that would, if done in New Zealand, have amounted to murder.
     
     Compare: 1998 No 114 s 121
     
-    Section 120(1): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 120(1): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 121 Disentitlement during imprisonment
     
-*   (1) The Corporation must not provide any entitlements under [Part 2][572] or [Part 4][685] of Schedule 1 to a claimant in respect of any period during which the claimant is a prisoner in any prison.
+*   (1) The Corporation must not provide any entitlements under [Part 2][572] or [Part 4][684] of Schedule 1 to a claimant in respect of any period during which the claimant is a prisoner in any prison.
     
-    (2) The Corporation is not required to undertake any assessments or make any payments under [Part 3][687] of Schedule 1 to a claimant while the claimant is a prisoner in any prison.
+    (2) The Corporation is not required to undertake any assessments or make any payments under [Part 3][686] of Schedule 1 to a claimant while the claimant is a prisoner in any prison.
     
-    (3) In this section, _prisoner_ and _prison_ have the same meaning as in [section 3(1)][688] of the Corrections Act 2004\.
+    (3) In this section, _prisoner_ and _prison_ have the same meaning as in [section 3(1)][687] of the Corrections Act 2004\.
     
     Compare: 1998 No 114 s 122
     
-    Section 121(1): amended, on 1 June 2005, by [section 206][689] of the Corrections Act 2004 (2004 No 50).
+    Section 121(1): amended, on 1 June 2005, by [section 206][688] of the Corrections Act 2004 (2004 No 50).
     
-    Section 121(1): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 121(1): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 121(2): amended, on 1 June 2005, by [section 206][689] of the Corrections Act 2004 (2004 No 50).
+    Section 121(2): amended, on 1 June 2005, by [section 206][688] of the Corrections Act 2004 (2004 No 50).
     
-    Section 121(3): substituted, on 1 June 2005, by [section 206][689] of the Corrections Act 2004 (2004 No 50).
+    Section 121(3): substituted, on 1 June 2005, by [section 206][688] of the Corrections Act 2004 (2004 No 50).
 
 ##### 122 Disentitlement for certain imprisoned offenders
     
@@ -4688,11 +4688,11 @@ Entitlements and related matters
         
     *   (a) treatment; and
     
-    *   (b) any ancillary service related to treatment referred to in [clause 3(1)][690] of Schedule 1\.
+    *   (b) any ancillary service related to treatment referred to in [clause 3(1)][689] of Schedule 1\.
     
     (4) Despite subsection (3), the Corporation must not provide any entitlement for surgery unless the surgery is required to restore the claimant's function to enable him or her to return to work.
     
-    Section 122: substituted, on 1 July 2010, by [section 13][691] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 122: substituted, on 1 July 2010, by [section 13][690] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 122A Exemption from section 122(1)
     
@@ -4700,7 +4700,7 @@ Entitlements and related matters
     
     (2) Nothing in this section gives a claimant the right to apply for an exemption under subsection (1).
     
-    Section 122A: inserted, on 1 July 2010, by [section 13][691] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 122A: inserted, on 1 July 2010, by [section 13][690] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### General provisions
 
@@ -4722,41 +4722,41 @@ Entitlements and related matters
         
         
     
-    *   (c) [sections 4][692] and [5][693] of the Maori Housing Act 1935; or
+    *   (c) [sections 4][691] and [5][692] of the Maori Housing Act 1935; or
     
-    *   (d) [sections 84F to 84M][694] of the District Courts Act 1947; or
+    *   (d) [sections 84F to 84M][693] of the District Courts Act 1947; or
     
-    *   (e) [sections 87(2)(b)][695], 88AE(1)(a), [103][696], [104][697], [105][698], [106][699], [106A][700], and [106B][701] of the Summary Proceedings Act 1957; or
+    *   (e) [sections 87(2)(b)][694], 88AE(1)(a), [103][695], [104][696], [105][697], [106][698], [106A][699], and [106B][700] of the Summary Proceedings Act 1957; or
     
-    *   (f) [section 27Y][702] of the Social Security Act 1964 (as saved by [section 256(1)][703] of the Child Support Act 1991) or [sections 71][704] and [86A][705] of the Social Security Act 1964; or
+    *   (f) section 27Y of the Social Security Act 1964 (as saved by [section 256(1)][701] of the Child Support Act 1991) or [sections 71][702] and [86A][703] of the Social Security Act 1964; or
     
-    *   (g) [sections 105][706], [110][707], [118][708], and [121][709] of the Family Proceedings Act 1980 (as saved by [section 259(1)][710] of the Child Support Act 1991); or
+    *   (g) [sections 105][704], [110][705], [118][706], and [121][707] of the Family Proceedings Act 1980 (as saved by [section 259(1)][708] of the Child Support Act 1991); or
     
-    *   (h) the [Child Support Act 1991][711]; or
+    *   (h) the [Child Support Act 1991][709]; or
     
-    *   (i) [subparts 1][712], [2][713], and [5][714] of Part 2 or [section 193][715] of the Student Loan Scheme Act 2011; or
+    *   (i) [subparts 1][710], [2][711], and [5][712] of Part 2 or [section 193][713] of the Student Loan Scheme Act 2011; or
     
-    *   (ia) [subpart 1][716] of Part 3 of the KiwiSaver Act 2006; or
+    *   (ia) [subpart 1][714] of Part 3 of the KiwiSaver Act 2006; or
     
-    *   (j) [section 157][717] of the Tax Administration Act 1994; or
+    *   (j) [section 157][715] of the Tax Administration Act 1994; or
     
-    *   (k) [section 41B][718] of the Legal Services Act 2011\.
+    *   (k) [section 41B][716] of the Legal Services Act 2011\.
     
     Compare: 1998 No 114 s 124
     
-    Section 123(2)(b)(ii): repealed, on 1 February 2011, by [section 241(2)][719] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 123(2)(b)(ii): repealed, on 1 February 2011, by [section 241(2)][717] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 123(2)(e): amended, on 13 February 2012, by [section 26][720] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 123(2)(e): amended, on 13 February 2012, by [section 26][718] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 123(2)(i): replaced, on 1 April 2012, by [section 223][721] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 123(2)(i): replaced, on 1 April 2012, by [section 223][719] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 123(2)(i): amended (with effect on 1 April 2012), on 30 March 2013, by [section 45][722] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 123(2)(i): amended (with effect on 1 April 2012), on 30 March 2013, by [section 45][720] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 123(2)(ia): inserted, on 1 December 2006, by [section 231][723] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 123(2)(ia): inserted, on 1 December 2006, by [section 231][721] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 123(2)(j): amended, on 2 September 2013, by [section 4][724] of the Accident Compensation Amendment Act 2013 (2013 No 44).
+    Section 123(2)(j): amended, on 2 September 2013, by [section 4][722] of the Accident Compensation Amendment Act 2013 (2013 No 44).
     
-    Section 123(2)(k): inserted, on 2 September 2013, by [section 4][724] of the Accident Compensation Amendment Act 2013 (2013 No 44).
+    Section 123(2)(k): inserted, on 2 September 2013, by [section 4][722] of the Accident Compensation Amendment Act 2013 (2013 No 44).
 
 ##### 124 Entitlements to be provided to claimant only
     
@@ -4790,7 +4790,7 @@ Entitlements and related matters
 
 ##### 126 Corporation to pay amount to claimant's estate
     
-*   (1) This section applies to any entitlement (other than lump sum compensation under [Part 3][687] of Schedule 1) that is a payment that the Corporation---
+*   (1) This section applies to any entitlement (other than lump sum compensation under [Part 3][686] of Schedule 1) that is a payment that the Corporation---
         
     *   (a) is liable to make to a claimant, but that has accrued and is unpaid at the date of the claimant's death; or
     
@@ -4820,15 +4820,15 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 128
     
-    Section 127(1): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 127(1): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 127(2): amended, at 2 am on 29 November 2010, by [section 406(1)][617] of the Immigration Act 2009 (2009 No 51).
     
-    Section 127(2): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 127(2): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 127(3): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 127(3): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 127(4): amended, on 1 July 2005, by [section 60(7)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 127(4): amended, on 1 July 2005, by [section 60(7)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 128 Payment for rehabilitation to claimant outside New Zealand
     
@@ -4836,7 +4836,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 129
     
-    Section 128: amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 128: amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 129 Payment for attendant care to claimant outside New Zealand
     
@@ -4848,7 +4848,7 @@ Entitlements and related matters
     
     Compare: 1998 No 114 s 130
     
-    Section 129(2): amended, on 1 July 2005, by [section 60(7)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 129(2): amended, on 1 July 2005, by [section 60(7)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 130 Payment to claimant outside New Zealand may be in New Zealand dollars to New Zealand bank account
     
@@ -4862,7 +4862,7 @@ Entitlements and related matters
 
 ##### 131 Advances of compensation and grants
     
-*   (1) Except as provided in this section, [section 123(2)(b)][155], and [clause 67][725] of Schedule 1, the Corporation must not pay any compensation, grant, or allowance in advance.
+*   (1) Except as provided in this section, [section 123(2)(b)][155], and [clause 67][723] of Schedule 1, the Corporation must not pay any compensation, grant, or allowance in advance.
     
     (2) The Corporation may pay weekly compensation or a survivor's grant without the full details necessary to support the relevant claim if---
         
@@ -4939,9 +4939,9 @@ Dispute resolution
     
     Compare: 1998 No 114 s 135
     
-    Section 134(1A): inserted, on 1 July 2005, by [section 25(1)][726] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 134(1A): inserted, on 1 July 2005, by [section 25(1)][724] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 134(4): repealed, on 1 July 2005, by [section 25(2)][726] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 134(4): repealed, on 1 July 2005, by [section 25(2)][724] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 135 How to apply for review
     
@@ -4981,7 +4981,7 @@ Dispute resolution
     
     Compare: 1998 No 114 s 136
     
-    Section 135(3): amended, on 1 July 2005, by [section 26][727] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 135(3): amended, on 1 July 2005, by [section 26][725] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 135A Time frame for lodging review application where alternative dispute resolution conducted about same matter
     
@@ -4989,7 +4989,7 @@ Dispute resolution
     
     (2) A review application to which this section applies must be lodged within the relevant time frame stated in [section 135(2)][170] unless regulations made under [section 328A][421] prescribe otherwise.
     
-    Section 135A: inserted, on 1 July 2005, by [section 27][728] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 135A: inserted, on 1 July 2005, by [section 27][726] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 136 Corporation to acknowledge receipt of review application
     
@@ -5093,9 +5093,9 @@ Dispute resolution
     
     Compare: 1998 No 114 s 145
     
-    Section 142(b): repealed, on 1 July 2005, by [section 28][729] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 142(b): repealed, on 1 July 2005, by [section 28][727] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 142(c): repealed, on 1 July 2005, by [section 28][729] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 142(c): repealed, on 1 July 2005, by [section 28][727] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 143 Record of hearing
     
@@ -5253,11 +5253,11 @@ Dispute resolution
     
     Compare: 1998 No 114 s 152
     
-    Section 149(5): repealed, on 1 July 2005, by [section 29][730] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 149(5): repealed, on 1 July 2005, by [section 29][728] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 150 District Courts rules and this Act apply to appeal
     
-*   An appeal under [section 149][186] is dealt with in accordance with the District Courts rules made under [section 122][731] of the District Courts Act 1947, as modified by this Act and any regulations made under it.
+*   An appeal under [section 149][186] is dealt with in accordance with the District Courts rules made under [section 122][729] of the District Courts Act 1947, as modified by this Act and any regulations made under it.
     
     Compare: 1998 No 114 s 153
 
@@ -5373,7 +5373,7 @@ Dispute resolution
     
     Compare: 1998 No 114 s 160
     
-    Section 157(3): amended, on 1 October 2003, pursuant to [section 14(1)][732] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 157(3): amended, on 1 October 2003, pursuant to [section 14(1)][730] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 158 Involvement of assessor
     
@@ -5501,9 +5501,9 @@ Dispute resolution
     
     (4) The special leave of the High Court must be sought within 21 days after the District Court refused leave.
     
-    (5) The [High Court Rules][733] and [sections 74 to 78][734] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under [section 72][735] of that Act.
+    (5) The [High Court Rules][731] and [sections 74 to 78][732] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under [section 72][733] of that Act.
     
-    Section 162: substituted, on 24 November 2003, by [section 4(1)][736] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 162: substituted, on 24 November 2003, by [section 4(1)][734] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 ##### 163 Appeal to Court of Appeal on question of law
     
@@ -5529,7 +5529,7 @@ Dispute resolution
     
     Compare: 1998 No 114 s 167
     
-    Section 164(1): amended, on 1 October 2003, pursuant to [section 14(1)][732] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 164(1): amended, on 1 October 2003, pursuant to [section 14(1)][730] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ## Part 6  
 Management of the Scheme
@@ -5580,7 +5580,7 @@ Management of the Scheme
     
     Section 166(1)(a): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 166(1)(b): repealed, on 3 March 2010, by [section 14][737] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 166(1)(b): repealed, on 3 March 2010, by [section 14][735] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 166(1)(c): repealed, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
@@ -5622,7 +5622,7 @@ Management of the Scheme
     
     *   (d) entitlements in respect of employers, private domestic workers, and self-employed persons that, immediately before 1 April 2007, would have been funded from the Self-Employed Work Account or the Employers' Account; and 
     
-    *   (e) entitlements that, immediately before the commencement of [section 21][738] of the Accident Compensation Amendment Act 2010, would have been funded from the Residual Claims Account as it was immediately before that commencement; and 
+    *   (e) entitlements that, immediately before the commencement of [section 21][736] of the Accident Compensation Amendment Act 2010, would have been funded from the Residual Claims Account as it was immediately before that commencement; and 
     
     *   (f) administering the Account; and
     
@@ -5638,7 +5638,7 @@ Management of the Scheme
     
     (5) Those regulations may also relate to the same or different prescribed periods.
     
-    Section 167: substituted, on 3 March 2010, by [section 15][739] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 167: substituted, on 3 March 2010, by [section 15][737] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 168 Employers to pay levies
     
@@ -5652,7 +5652,7 @@ Management of the Scheme
     
     Section 168(1): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 168(3): amended, on 1 August 2008, by [section 21][740] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 168(3): amended, on 1 August 2008, by [section 21][738] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 168A Private domestic workers to pay levies
     
@@ -5668,11 +5668,11 @@ Management of the Scheme
     
     (6) [Sections 170][215], [171][216], and [173][219] apply to private domestic workers as if they were both the employer and the employee, and references to [section 168][209] in those sections must, in relation to private domestic workers, be read as references to this section.
     
-    Section 168A: inserted, on 1 July 2005, by [section 31][741] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 168A: inserted, on 1 July 2005, by [section 31][739] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 168A(1): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 168A(3): amended, on 1 August 2008, by [section 22][742] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 168A(3): amended, on 1 August 2008, by [section 22][740] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
     Section 168A(4): repealed, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
@@ -5686,9 +5686,9 @@ Management of the Scheme
     
     (3) A self-employed person must pay the levy by the date specified for payment, whether in an invoice or other appropriate document given to the self-employed person by the Corporation or an agent of the Corporation, being a date not less than 30 days after the date of the invoice or other appropriate document.
     
-    Section 168B: inserted, on 1 April 2007, by [section 5][743] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 168B: inserted, on 1 April 2007, by [section 5][741] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 168B(3): amended, on 1 August 2008, by [section 23][744] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 168B(3): amended, on 1 August 2008, by [section 23][742] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 169 Rates of levies
     
@@ -5720,17 +5720,17 @@ Management of the Scheme
     
     *   (b) [section 175][221].
     
-    Section 169: substituted, on 1 April 2007, by [section 6][745] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 169: substituted, on 1 April 2007, by [section 6][743] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 169(1)(a): amended, on 3 March 2010, by [section 16(1)][746] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169(1)(a): amended, on 3 March 2010, by [section 16(1)][744] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 169(1)(b): amended, on 3 March 2010, by [section 16(1)][746] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169(1)(b): amended, on 3 March 2010, by [section 16(1)][744] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 169(2): substituted, on 3 March 2010, by [section 16(2)][746] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169(2): substituted, on 3 March 2010, by [section 16(2)][744] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 169(3): added, on 3 March 2010, by [section 16(2)][746] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169(3): added, on 3 March 2010, by [section 16(2)][744] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 169(4): added, on 3 March 2010, by [section 16(2)][746] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169(4): added, on 3 March 2010, by [section 16(2)][744] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 169AA Basis on which funds to be calculated
     
@@ -5762,19 +5762,19 @@ Management of the Scheme
         
         
     
-    Section 169AA: inserted, on 3 March 2010, by [section 17][747] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 169AA: inserted, on 3 March 2010, by [section 17][745] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 169A Limit on offsets in case of earnings as self-employed person
     
 *   (1) In determining a person's earnings as a self-employed person, no offset may be allowed for the amount of---
         
-    *   (a) any net loss of the person for an earlier tax year that might otherwise be offset by the person under [sections IA 1 to IA 4][748], [IA 7(9)][749] and [IA 9][750] of the Income Tax Act 2007; or
+    *   (a) any net loss of the person for an earlier tax year that might otherwise be offset by the person under [sections IA 1 to IA 4][746], [IA 7(9)][747] and [IA 9][748] of the Income Tax Act 2007; or
     
-    *   (b) any part of the net loss of a loss attributing qualifying company (as defined in [section YA 1][534] of the Income Tax Act 2007) attributable to the person as a shareholder of that company under [sections HA 20][751], [HA 24][752], [HA 26][753], [HA 27][754], and [IA 7(2)][749] of the Income Tax Act 2007\.
+    *   (b) any part of the net loss of a loss attributing qualifying company (as defined in [section YA 1][534] of the Income Tax Act 2007) attributable to the person as a shareholder of that company under [sections HA 20][749], [HA 24][750], [HA 26][751], [HA 27][752], and [IA 7(2)][747] of the Income Tax Act 2007\.
     
     (2) If the result of the calculation of a person's earnings as a self-employed person is a negative amount and the person also derives earnings as an employee, the person's earnings as an employee must not be reduced by the negative amount.
     
-    Section 169A: inserted, on 1 April 2007, by [section 7][755] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 169A: inserted, on 1 April 2007, by [section 7][753] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
     Section 169A(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
@@ -5830,21 +5830,21 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 281D; SR 2000/54 r 6
     
-    Section 170(1): substituted, on 3 March 2010, by [section 18(1)][756] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 170(1): substituted, on 3 March 2010, by [section 18(1)][754] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 170(3): amended, on 22 October 2003, by [section 4][757] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003 (2003 No 80).
+    Section 170(3): amended, on 22 October 2003, by [section 4][755] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003 (2003 No 80).
     
-    Section 170(4): substituted, on 1 April 2007, by [section 8(2)][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 170(4): substituted, on 1 April 2007, by [section 8(2)][756] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 170(4A): inserted, on 1 April 2007, by [section 8(2)][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 170(4A): inserted, on 1 April 2007, by [section 8(2)][756] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 170(4A): amended, on 3 March 2010, by [section 18(2)][756] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 170(4A): amended, on 3 March 2010, by [section 18(2)][754] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 170(5): amended, on 1 April 2007, by [section 8(3)][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 170(5): amended, on 1 April 2007, by [section 8(3)][756] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 170(6): substituted, on 1 April 2007, by [section 8(4)][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 170(6): substituted, on 1 April 2007, by [section 8(4)][756] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 170(8): amended, on 1 April 2007, by [section 8(5)][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 170(8): amended, on 1 April 2007, by [section 8(5)][756] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
 
 ##### 171 Classification of self-employed persons and employees engaged in 2 or more activities
     
@@ -5854,7 +5854,7 @@ Management of the Scheme
     
     (3) Subsection (2) applies only if the self-employed person's or the employer's records are sufficient and accurate enough to satisfy the Corporation that the apportionment of total earnings is correct.
     
-    Section 171: substituted, on 1 April 2007, by [section 9][759] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 171: substituted, on 1 April 2007, by [section 9][757] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
 
 ##### 172 Work Account levy not payable on earnings of employee over specified maximum
     
@@ -5890,7 +5890,7 @@ Management of the Scheme
     
     Section 172(2)(a): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 172(2)(b): substituted, on 1 July 2005, by [section 32][760] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 172(2)(b): substituted, on 1 July 2005, by [section 32][758] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 172(3): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
@@ -5900,7 +5900,7 @@ Management of the Scheme
     
 *   Nothing in this Act requires a self-employed person to pay a Work Account levy on earnings that exceed the specified maximum.
     
-    Section 172A: inserted, on 1 April 2007, by [section 10][761] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 172A: inserted, on 1 April 2007, by [section 10][759] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
 
 ##### 173 Estimation of levy
     
@@ -5982,7 +5982,7 @@ Management of the Scheme
     
     *   (b) the level of any adjustment.
     
-    Section 175: substituted, on 1 April 2007, by [section 11][762] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
+    Section 175: substituted, on 1 April 2007, by [section 11][760] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
 
 ##### 176 Incorporation by reference
     
@@ -6096,7 +6096,7 @@ Management of the Scheme
     
     *   (c) provide benchmarks against which the extent and management of work-related personal injuries can be measured---
     
-    by allowing accredited employers (after consulting their employees or their employees' representatives, including any union registered under the [Employment Relations Act 2000][763] that their employees belong to) to provide at their own cost entitlements in relation to work-related personal injuries suffered by their employees during a claim management period.
+    by allowing accredited employers (after consulting their employees or their employees' representatives, including any union registered under the [Employment Relations Act 2000][761] that their employees belong to) to provide at their own cost entitlements in relation to work-related personal injuries suffered by their employees during a claim management period.
     
     Compare: 1998 No 114 s 326B
 
@@ -6158,7 +6158,7 @@ Management of the Scheme
     
     *   (h) is able and will continue to be able to meet its expected financial and other obligations in relation to work-related personal injury claims because it is solvent and financially sound; and
     
-    *   (i) has consulted with the employer's employees and any representatives of those employees (including any union to which those employees belong that is registered under the [Employment Relations Act 2000][763]) about the employer's ability to comply with paragraphs (a) to (h).
+    *   (i) has consulted with the employer's employees and any representatives of those employees (including any union to which those employees belong that is registered under the [Employment Relations Act 2000][761]) about the employer's ability to comply with paragraphs (a) to (h).
     
     (2) The Corporation may revoke an accreditation agreement at any time if, in the opinion of the Corporation after discussion with the employer, the employer no longer complies with the framework or no longer fulfils the requirements in paragraphs (a) to (h) of subsection (1).
     
@@ -6214,7 +6214,7 @@ Management of the Scheme
         
     *   (a) representatives of the accredited employer; and
     
-    *   (b) representatives of employees of the accredited employer (including any union to which those employees belong that is registered under the [Employment Relations Act 2000][763]).
+    *   (b) representatives of employees of the accredited employer (including any union to which those employees belong that is registered under the [Employment Relations Act 2000][761]).
     
     Compare: 1998 No 114 s 326G
 
@@ -6238,11 +6238,11 @@ Management of the Scheme
     
     (2) For the purposes of subsection (1), [sections 175][221], [208(2)][262], [209][263], [210][264], [211(1) and (2)][265], and [212][266], and any relevant regulations made under this Act, apply with necessary modifications, as if the shareholder-employee were a self-employed person.
     
-    Section 190(1): amended, on 1 July 2010, by [section 19(1)(a)][764] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 190(1): amended, on 1 July 2010, by [section 19(1)(a)][762] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 190(1): amended, on 1 July 2010, by [section 19(1)(b)][764] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 190(1): amended, on 1 July 2010, by [section 19(1)(b)][762] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 190(2): amended, on 1 July 2010, by [section 19(2)][764] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 190(2): amended, on 1 July 2010, by [section 19(2)][762] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 190(2): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
 
@@ -6256,67 +6256,67 @@ Management of the Scheme
     
     Section 191(1): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 191(2): substituted, on 3 March 2010, by [section 20][765] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 191(2): substituted, on 3 March 2010, by [section 20][763] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Residual Claims Account
 
 \[Repealed\]
     
-*   Heading: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+*   Heading: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 192 Application and source of funds
     
 *   \[Repealed\]
     
-    Section 192: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 192: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 193 Liability to pay Residual Claims levy
     
 *   \[Repealed\]
     
-    Section 193: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 193: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 194 Rate of levy
     
 *   \[Repealed\]
     
-    Section 194: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 194: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 195 Classification of industries or risk
     
 *   \[Repealed\]
     
-    Section 195: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 195: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 196 Classification of employees engaged in 2 or more activities
     
 *   \[Repealed\]
     
-    Section 196: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 196: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 197 Classification of self-employed persons engaged in 2 or more activities
     
 *   \[Repealed\]
     
-    Section 197: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 197: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 198 Residual Claims levy where 2 or more employers
     
 *   \[Repealed\]
     
-    Section 198: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 198: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 199 Promotion of employer involvement
     
 *   \[Repealed\]
     
-    Section 199: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 199: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 200 Residual Claims levy not payable on earnings over specified maximum
     
 *   \[Repealed\]
     
-    Section 200: repealed, on 3 March 2010, by [section 21][738] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 200: repealed, on 3 March 2010, by [section 21][736] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Self-Employed Work Account
 
@@ -6426,7 +6426,7 @@ Management of the Scheme
         
     *   (a) less than 80% of the amount of weekly earnings specified in [clause 42(3)][550] of Schedule 1; or
     
-    *   (b) more than the maximum amount of weekly compensation specified in [clause 46][679] of Schedule 1\.
+    *   (b) more than the maximum amount of weekly compensation specified in [clause 46][678] of Schedule 1\.
     
     (3) The weekly compensation to be provided by the Corporation under this section must be set out in a written agreement between the Corporation and the self-employed person that includes---
         
@@ -6436,7 +6436,7 @@ Management of the Scheme
     
     *   (c) the details of the weekly compensation to be provided under the agreement; and
     
-    *   (d) those provisions of [Parts 2][572] and [4][685] of Schedule 1 that are to apply and those provisions that do not apply; and
+    *   (d) those provisions of [Parts 2][572] and [4][684] of Schedule 1 that are to apply and those provisions that do not apply; and
     
     *   (e) the levy payable and the time at which it becomes payable; and
     
@@ -6458,7 +6458,7 @@ Management of the Scheme
         
     *   (a) the person suffers incapacity resulting from a personal injury suffered during the period for which the agreement has effect; and
     
-    *   (b) the person has cover for the personal injury under [Part 2][766].
+    *   (b) the person has cover for the personal injury under [Part 2][764].
     
     (2) A person who purchases weekly compensation under [section 209][263], suffers personal injury in a particular cover period for which there is an agreement under section 209, and then, when that agreement no longer has effect, suffers incapacity or subsequent incapacity arising from that personal injury, is entitled to receive the following amount of weekly compensation for loss of earnings:
         
@@ -6466,11 +6466,11 @@ Management of the Scheme
     
     *   (b) the amount calculated under [Schedule 1][523], if no agreement under [section 209][263] exists at the time the incapacity commences.
     
-    (3) A person who purchases weekly compensation under [section 209][263] for loss of earnings as a self-employed person is entitled to receive weekly compensation for loss of earnings as a self-employed person in accordance with the agreement under that section, and [Parts 2][572] and [4][685] of Schedule 1 apply only to the extent provided in the agreement.
+    (3) A person who purchases weekly compensation under [section 209][263] for loss of earnings as a self-employed person is entitled to receive weekly compensation for loss of earnings as a self-employed person in accordance with the agreement under that section, and [Parts 2][572] and [4][684] of Schedule 1 apply only to the extent provided in the agreement.
     
     Compare: 1998 No 114 s 302C
     
-    Section 210(2): substituted, on 1 July 2005, by [section 36(1)][767] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 210(2): substituted, on 1 July 2005, by [section 36(1)][765] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 211 Levies for self-employed persons who purchase weekly compensation
     
@@ -6492,7 +6492,7 @@ Management of the Scheme
     
 *   A self-employed person who purchases weekly compensation under [section 209][263] must continue to pay the earner levy required by [section 219(1)][275].
     
-    Section 212: amended, on 3 March 2010, by [section 22][768] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 212: amended, on 3 March 2010, by [section 22][766] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Motor Vehicle Account
 
@@ -6506,9 +6506,9 @@ Management of the Scheme
     
     (2) The funds for the Motor Vehicle Account are to be derived from---
         
-    *   (a) levies to be paid by every person registered under [Part 17][769] of the Land Transport Act 1998 in respect of a motor vehicle; and
+    *   (a) levies to be paid by every person registered under [Part 17][767] of the Land Transport Act 1998 in respect of a motor vehicle; and
     
-    *   (b) levies to be paid by every person who holds a trade plate issued under [section 262(3)][770] of that Act; and
+    *   (b) levies to be paid by every person who holds a trade plate issued under [section 262(3)][768] of that Act; and
     
     *   (c) a levy to be paid in accordance with [section 214(4)][269]; and
     
@@ -6518,9 +6518,9 @@ Management of the Scheme
     
     (3) The levy payable under subsection (2)(c) is payable---
         
-    *   (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in [section 76A][771] of the Customs and Excise Act 1996) that is prescribed by regulations made under this Act; or
+    *   (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in [section 76A][769] of the Customs and Excise Act 1996) that is prescribed by regulations made under this Act; or
     
-    *   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), on any motor spirit in respect of which excise duty or excise-equivalent duty is for the time being payable under the [Customs and Excise Act 1996][772].
+    *   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), on any motor spirit in respect of which excise duty or excise-equivalent duty is for the time being payable under the [Customs and Excise Act 1996][770].
     
     (4) \[Repealed\]
     
@@ -6550,33 +6550,33 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 291
     
-    Section 213(1): substituted, on 3 March 2010, by [section 23(1)][773] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 213(1): substituted, on 3 March 2010, by [section 23(1)][771] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 213(2)(a): amended, on 1 May 2011, by [section 35(4)][590] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 213(2)(b): amended, on 1 May 2011, by [section 35(4)][590] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 213(2)(c): substituted, on 1 July 2003, by [section 5(1)][774] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 213(2)(c): substituted, on 1 July 2003, by [section 5(1)][772] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 213(2)(d): substituted, on 3 March 2010, by [section 23(2)][773] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 213(2)(d): substituted, on 3 March 2010, by [section 23(2)][771] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 213(3): substituted, on 1 July 2003, by [section 5(2)][774] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 213(3): substituted, on 1 July 2003, by [section 5(2)][772] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 213(3)(a): substituted, on 1 January 2010, by [section 11(4)][775] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 213(3)(a): substituted, on 1 January 2010, by [section 11(4)][773] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 213(4): repealed, on 1 July 2003, by [section 5(2)][774] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 213(4): repealed, on 1 July 2003, by [section 5(2)][772] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 213(5)(ba): inserted, on 3 March 2010, by [section 23(3)][773] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 213(5)(ba): inserted, on 3 March 2010, by [section 23(3)][771] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 213(6): substituted, on 3 March 2010, by [section 23(4)][773] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 213(6): substituted, on 3 March 2010, by [section 23(4)][771] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 213(7): added, on 3 March 2010, by [section 23(4)][773] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 213(7): added, on 3 March 2010, by [section 23(4)][771] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 214 Rate of levies
     
-*   (1) A person registered under [Part 17][769] of the Land Transport Act 1998 in respect of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
+*   (1) A person registered under [Part 17][767] of the Land Transport Act 1998 in respect of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
     
-    (2) A person who holds a trade plate issued under [section 262(3)][770] of the Land Transport Act 1998 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
+    (2) A person who holds a trade plate issued under [section 262(3)][768] of the Land Transport Act 1998 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
     
     (3) A registered owner of a motor vehicle that is a moped or motorcycle must pay, in accordance with this Act and regulations made under it, the prescribed Motorcycle Safety levy.
     
@@ -6586,7 +6586,7 @@ Management of the Scheme
         
     *   (a) at the rate or rates per litre or other unit prescribed by regulations made under this Act; or
     
-    *   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the [Customs and Excise Act 1996][772].
+    *   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the [Customs and Excise Act 1996][770].
     
     (4A) In this section and in [section 213][268], a reference to excise duty or excise-equivalent duty being payable includes a reference to excise duty or excise-equivalent duty being payable except that the rate of duty is zero.
     
@@ -6604,17 +6604,17 @@ Management of the Scheme
     
     Section 214(2): amended, on 1 May 2011, by [section 35(4)][590] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 214(3): substituted, on 3 March 2010, by [section 24][776] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 214(3): substituted, on 3 March 2010, by [section 24][774] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 214(3A): inserted, on 3 March 2010, by [section 24][776] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 214(3A): inserted, on 3 March 2010, by [section 24][774] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 214(4): added, on 1 July 2003, by [section 6][777] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 214(4): added, on 1 July 2003, by [section 6][775] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 214(4A): inserted, on 1 October 2008, by [section 17][778] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 214(4A): inserted, on 1 October 2008, by [section 17][776] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 214(4B): inserted, on 1 October 2008, by [section 17][778] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 214(4B): inserted, on 1 October 2008, by [section 17][776] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 214(5): added, on 1 July 2003, by [section 6][777] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 214(5): added, on 1 July 2003, by [section 6][775] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 ##### 215 Basis on which funds to be calculated
     
@@ -6636,7 +6636,7 @@ Management of the Scheme
     
     *   (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Motor Vehicle Account (minus the value of any accrued assets) in respect of the claims described in [section 213(5)(ba)][268].
     
-    Section 215: substituted, on 3 March 2010, by [section 25][779] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 215: substituted, on 3 March 2010, by [section 25][777] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 216 Levy categories
     
@@ -6644,9 +6644,9 @@ Management of the Scheme
         
     *   (a) motor vehicles:
     
-    *   (b) persons registered under [Part 17][769] of the Land Transport Act 1998 in respect of motor vehicles:
+    *   (b) persons registered under [Part 17][767] of the Land Transport Act 1998 in respect of motor vehicles:
     
-    *   (c) persons who hold trade plates under [section 262(3)][770] of the Land Transport Act 1998\.
+    *   (c) persons who hold trade plates under [section 262(3)][768] of the Land Transport Act 1998\.
     
     *   (d) fuel in respect of which a levy is payable under [section 213(2)(c)][268].
     
@@ -6656,7 +6656,7 @@ Management of the Scheme
     
     *   (b) registered owners of motor vehicles:
     
-    *   (c) persons who hold trade plates under [section 262(3)][770] of the Land Transport Act 1998\.
+    *   (c) persons who hold trade plates under [section 262(3)][768] of the Land Transport Act 1998\.
     
     (3) Subsection (2) does not limit subsection (1).
     
@@ -6666,17 +6666,17 @@ Management of the Scheme
     
     Section 216(1)(c): amended, on 1 May 2011, by [section 35(4)][590] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 216(1)(d): added, on 1 July 2003, by [section 7][780] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 216(1)(d): added, on 1 July 2003, by [section 7][778] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 216(2): added, on 3 March 2010, by [section 26][781] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 216(2): added, on 3 March 2010, by [section 26][779] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 216(2)(c): amended, on 5 December 2013, by [section 5][782] of the Accident Compensation Amendment Act (No 2) 2013 (2013 No 105).
+    Section 216(2)(c): amended, on 5 December 2013, by [section 5][780] of the Accident Compensation Amendment Act (No 2) 2013 (2013 No 105).
     
-    Section 216(3): added, on 3 March 2010, by [section 26][781] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 216(3): added, on 3 March 2010, by [section 26][779] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 217 Collection of levies
     
-*   (1) The levies payable under [section 214(1) or (2)][269] are payable on application for a motor vehicle licence under [section 244][783] of the Land Transport Act 1998 or on application for a trade plate under [section 262][770] of that Act (as the case may require) or in any other prescribed manner.
+*   (1) The levies payable under [section 214(1) or (2)][269] are payable on application for a motor vehicle licence under [section 244][781] of the Land Transport Act 1998 or on application for a trade plate under [section 262][768] of that Act (as the case may require) or in any other prescribed manner.
     
     (2) The levy payable under [section 213(2)(c)][268] on any fuel is payable---
         
@@ -6702,13 +6702,13 @@ Management of the Scheme
     
     Section 217(1): amended, on 1 May 2011, by [section 35(4)][590] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 217(2): substituted, on 1 July 2003, by [section 8(1)][784] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 217(2): substituted, on 1 July 2003, by [section 8(1)][782] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 217(3): substituted, on 3 March 2010, by [section 27][785] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 217(3): substituted, on 3 March 2010, by [section 27][783] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 217(4A): inserted, on 1 July 2003, by [section 8(2)][784] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 217(4A): inserted, on 1 July 2003, by [section 8(2)][782] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 217(6): added, on 1 July 2003, by [section 8(3)][784] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 217(6): added, on 1 July 2003, by [section 8(3)][782] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 #### Earners' Account
 
@@ -6762,15 +6762,15 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 282
     
-    Section 218(1)(d): substituted, on 1 July 2005, by [section 37][786] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 218(1)(d): substituted, on 1 July 2005, by [section 37][784] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 218(3)(b): repealed, on 3 March 2010, by [section 28(1)][787] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 218(3)(b): repealed, on 3 March 2010, by [section 28(1)][785] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 218(4)(b): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 218(4)(ea): inserted, on 3 March 2010, by [section 28(2)][787] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 218(4)(ea): inserted, on 3 March 2010, by [section 28(2)][785] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 218(5): substituted, on 3 March 2010, by [section 28(3)][787] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 218(5): substituted, on 3 March 2010, by [section 28(3)][785] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 219 Earners to pay levies
     
@@ -6782,7 +6782,7 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 283
     
-    Section 219(2): repealed, on 3 March 2010, by [section 29][788] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 219(2): repealed, on 3 March 2010, by [section 29][786] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 220 Rate of levies
     
@@ -6792,7 +6792,7 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 284
     
-    Section 220(2): repealed, on 3 March 2010, by [section 30][789] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 220(2): repealed, on 3 March 2010, by [section 30][787] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 220A Basis on which funds to be calculated
     
@@ -6812,7 +6812,7 @@ Management of the Scheme
     
     *   (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Earners' Account (minus the value of any accrued assets) in respect of the claims described in [section 218(4)(ea)][274].
     
-    Section 220A: inserted, on 3 March 2010, by [section 31][790] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 220A: inserted, on 3 March 2010, by [section 31][788] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 221 Collection of levies by deduction from employee earnings
     
@@ -6826,13 +6826,13 @@ Management of the Scheme
     
     (3) In this section, _PAYE intermediary_ means a PAYE intermediary as defined in [section YA 1][534] of the Income Tax Act 2007\.
     
-    Section 221(1): amended, on 3 March 2010, by [section 32][791] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 221(1): amended, on 3 March 2010, by [section 32][789] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 221(1)(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(1)(a)][792] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 221(1)(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(1)(a)][790] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 221(1)(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(1)(b)][792] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 221(1)(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(1)(b)][790] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 221(3): added, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(2)][792] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 221(3): added, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 167(2)][790] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 221(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
 
@@ -6842,7 +6842,7 @@ Management of the Scheme
     
     (2) [Schedule 4][526] applies to any payment made under subsection (1) if the Commissioner collects the levy.
     
-    Section 222 heading: amended, on 3 March 2010, by [section 33][793] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 222 heading: amended, on 3 March 2010, by [section 33][791] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Purchase of weekly compensation for periods outside employment
 
@@ -6878,29 +6878,29 @@ Management of the Scheme
     
     (5) A person who has cover under this section for any period is entitled to renew his or her cover if he or she does not return to work before that cover period expires.
     
-    (6) A person who is on parental leave within the meaning of the [Parental Leave and Employment Protection Act 1987][794], or who has had an application for parental leave approved under that Act, is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)(c), the person's weekly earnings are to be calculated as if the period of incapacity was before the commencement of the person's parental leave.
+    (6) A person who is on parental leave within the meaning of the [Parental Leave and Employment Protection Act 1987][792], or who has had an application for parental leave approved under that Act, is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)(c), the person's weekly earnings are to be calculated as if the period of incapacity was before the commencement of the person's parental leave.
     
     Compare: 1998 No 114 s 286
     
-    Section 223(2): substituted, on 1 July 2005, by [section 38][795] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 223(2): substituted, on 1 July 2005, by [section 38][793] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 223(3)(b): amended, on 1 August 2008, by [section 24(1)][796] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 223(3)(b): amended, on 1 August 2008, by [section 24(1)][794] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 223(3)(c)(i): amended, on 1 July 2010, by [section 34][797] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 223(3)(c)(i): amended, on 1 July 2010, by [section 34][795] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 223(3)(c)(ii): substituted, on 1 August 2008, by [section 24(3)][796] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 223(3)(c)(ii): substituted, on 1 August 2008, by [section 24(3)][794] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 223(3)(c)(iia): inserted, on 1 August 2008, by [section 24(3)][796] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 223(3)(c)(iia): inserted, on 1 August 2008, by [section 24(3)][794] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 223(6): substituted, on 1 August 2008, by [section 24(4)][796] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 223(6): substituted, on 1 August 2008, by [section 24(4)][794] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 224 Compensation for persons who purchase weekly compensation
     
-*   (1) A person who has purchased the right to receive weekly compensation under [section 223][281] is entitled to weekly compensation for loss of potential earning capacity as if that person had earnings at the rate specified in the relevant agreement between the person and the Corporation, and [Part 4][81] and [Parts 2][572] and [4][685] of Schedule 1 apply accordingly, if the person---
+*   (1) A person who has purchased the right to receive weekly compensation under [section 223][281] is entitled to weekly compensation for loss of potential earning capacity as if that person had earnings at the rate specified in the relevant agreement between the person and the Corporation, and [Part 4][81] and [Parts 2][572] and [4][684] of Schedule 1 apply accordingly, if the person---
         
     *   (a) suffers incapacity resulting from personal injury during the period for which the right to receive weekly compensation is applicable; and
     
-    *   (b) has cover in relation to the personal injury under [Part 2][766].
+    *   (b) has cover in relation to the personal injury under [Part 2][764].
     
     (2) Weekly compensation for loss of potential earning capacity under this section is payable for not more than 5 years after the date on which incapacity first commenced.
     
@@ -6954,13 +6954,13 @@ Management of the Scheme
     
     (4) The Minister may direct the Corporation to repay to the Crown any surplus funds held in the Non-Earners' Account.
     
-    (5) This section is not limited by any provision in the [Crown Entities Act 2004][798].
+    (5) This section is not limited by any provision in the [Crown Entities Act 2004][796].
     
     Compare: 1998 No 114 s 290
     
-    Section 227(1): amended, on 1 July 2005, by [section 39][799] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 227(1): amended, on 1 July 2005, by [section 39][797] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 227(3)(a): amended, on 1 July 2005, by [section 39][799] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 227(3)(a): amended, on 1 July 2005, by [section 39][797] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 227(4): substituted, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -6998,17 +6998,17 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 296
     
-    Section 228(1): substituted, on 1 July 2005, by [section 40(1)][800] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 228(1): substituted, on 1 July 2005, by [section 40(1)][798] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 228(1): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
     Section 228(2): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 228(3): substituted, on 1 July 2005, by [section 40(2)][800] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 228(3): substituted, on 1 July 2005, by [section 40(2)][798] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 228(4): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 228(4)(a): substituted, on 1 July 2005, by [section 40(3)][800] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 228(4)(a): substituted, on 1 July 2005, by [section 40(3)][798] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 229 Levy categories and rates
     
@@ -7022,7 +7022,7 @@ Management of the Scheme
     
     (2) Levies are payable by such persons or classes of persons or organisations as may be specified for the purpose by regulations made under this Act, and those levies are payable at a rate or rates prescribed by the regulations.
     
-    (3) If levies are so payable, the levies must be calculated so that the cost of all claims (of the type covered by the levy) under the Treatment Injury Account is to be fully funded, unless the Minister otherwise directs under [section 103][801] of the Crown Entities Act 2004\.
+    (3) If levies are so payable, the levies must be calculated so that the cost of all claims (of the type covered by the levy) under the Treatment Injury Account is to be fully funded, unless the Minister otherwise directs under [section 103][799] of the Crown Entities Act 2004\.
     
     (4) Claims referred to in subsection (3) do not include treatment injury suffered before the prescribed date from which premiums become payable under this section.
     
@@ -7030,13 +7030,13 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 297
     
-    Section 229(1)(a): substituted, on 1 July 2005, by [section 41(1)][802] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 229(1)(a): substituted, on 1 July 2005, by [section 41(1)][800] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Section 229(3): amended, on 18 July 2013, by [section 42][579] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
     Section 229(3): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 229(4): amended, on 1 July 2005, by [section 41(2)][802] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 229(4): amended, on 1 July 2005, by [section 41(2)][800] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 230 Collection of levies
     
@@ -7080,9 +7080,9 @@ Management of the Scheme
     
     Section 231(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][581] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 231(4): repealed, on 3 March 2010, by [section 35][803] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 231(4): repealed, on 3 March 2010, by [section 35][801] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 231(5): repealed, on 3 March 2010, by [section 35][803] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 231(5): repealed, on 3 March 2010, by [section 35][801] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 232 Work Account levy payable by employers on disposal or cessation of business or when ceasing to employ
     
@@ -7100,15 +7100,15 @@ Management of the Scheme
     
     Compare: SR 1999/196 r 19
     
-    Section 232 heading: amended, on 3 March 2010, by [section 36(1)][804] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 232 heading: amended, on 3 March 2010, by [section 36(1)][802] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 232 heading: amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 232(1): amended, on 3 March 2010, by [section 36(2)][804] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 232(1): amended, on 3 March 2010, by [section 36(2)][802] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 232(1): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Section 232(2): substituted, on 3 March 2010, by [section 36(3)][804] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 232(2): substituted, on 3 March 2010, by [section 36(3)][802] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 232(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][581] of the Income Tax Act 2004 (2004 No 35).
     
@@ -7132,7 +7132,7 @@ Management of the Scheme
     
     (2) The provisions of this section (other than subsection (1)(b)(ii)) and [sections 239][300] and [329(1)(b)][422] apply, with any necessary modifications, to private domestic workers.
     
-    Section 233: substituted, on 3 March 2010, by [section 37][805] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 233: substituted, on 3 March 2010, by [section 37][803] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 234 Levies may be collected by instalments
     
@@ -7146,7 +7146,7 @@ Management of the Scheme
     
 *   \[Repealed\]
     
-    Section 235: repealed, on 3 March 2010, by [section 38][806] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 235: repealed, on 3 March 2010, by [section 38][804] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 236 Challenges to levies
     
@@ -7162,7 +7162,7 @@ Management of the Scheme
     
     Section 236(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 236(2): amended, on 1 July 2003, by [section 9][807] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 236(2): amended, on 1 July 2003, by [section 9][805] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 ##### 237 Corporation may revise decisions
     
@@ -7204,7 +7204,7 @@ Management of the Scheme
     
     *   (d) the Corporation must recommend to the Minister whether or not the classification of industry or risk should be incorporated in the relevant regulations when those regulations are next amended.
     
-    Section 239(1): amended, on 3 March 2010, by [section 39][808] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 239(1): amended, on 3 March 2010, by [section 39][806] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 240 Determinations
     
@@ -7236,7 +7236,7 @@ Management of the Scheme
     
     Compare: SR 1999/196 r 27
     
-    Section 242(1): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 242(1): amended, on 1 July 2013, by [section 413][807] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 243 Power to assess levies
     
@@ -7272,7 +7272,7 @@ Management of the Scheme
     
     *   (b) no person is liable to pay any penalties under this Act in respect of non-payment of the levy or levies.
     
-    Section 244: substituted, on 1 April 2006, by [section 44][810] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 244: substituted, on 1 April 2006, by [section 44][808] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 245 Agent to whom levies may be paid
     
@@ -7320,7 +7320,7 @@ Management of the Scheme
     
     (6) Any information provided by the Commissioner under this section must be provided under an agreement between the chief executive of the Corporation and the Commissioner.
     
-    (7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of [section 103][811] of the Privacy Act 1993\.
+    (7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of [section 103][809] of the Privacy Act 1993\.
     
     Compare: 1998 No 114 s 281G
     
@@ -7330,9 +7330,9 @@ Management of the Scheme
     
     Section 246(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 246(4A): inserted, on 3 March 2010, by [section 40][812] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 246(4A): inserted, on 3 March 2010, by [section 40][810] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 246(4B): inserted, on 3 March 2010, by [section 40][812] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 246(4B): inserted, on 3 March 2010, by [section 40][810] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 247 Change of balance date
     
@@ -7424,15 +7424,15 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 322
     
-    Section 250(1): amended, on 1 August 2008, by [section 25(1)][813] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 250(1): amended, on 1 August 2008, by [section 25(1)][811] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 250(2): amended, on 1 August 2008, by [section 25(2)][813] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 250(2): amended, on 1 August 2008, by [section 25(2)][811] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 250(4): amended, on 1 August 2008, by [section 25(3)(a)][813] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 250(4): amended, on 1 August 2008, by [section 25(3)(a)][811] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 250(4): amended, on 1 August 2008, by [section 25(3)(b)][813] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 250(4): amended, on 1 August 2008, by [section 25(3)(b)][811] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 250(4): amended, on 1 August 2008, by [section 25(3)(c)][813] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 250(4): amended, on 1 August 2008, by [section 25(3)(c)][811] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 #### Recovery of payments
 
@@ -7456,7 +7456,7 @@ Management of the Scheme
     
 *   (1) This section applies if a person---
         
-    *   (a) receives a payment of an income-tested benefit under the [Social Security Act 1964][814] in respect of a period; and
+    *   (a) receives a payment of an income-tested benefit under the [Social Security Act 1964][812] in respect of a period; and
     
     *   (b) establishes a claim to an entitlement from the Corporation in respect of all or part of the same period.
     
@@ -7464,7 +7464,7 @@ Management of the Scheme
     
     (3) An excess benefit payment is the part of the benefit payment (up to the amount of the entitlement) that is in excess of the amount of benefit properly payable, having regard to the entitlement under this Act.
     
-    (4) The Corporation must refund the excess benefit payment to the department responsible for the administration of the [Social Security Act 1964][814]---
+    (4) The Corporation must refund the excess benefit payment to the department responsible for the administration of the [Social Security Act 1964][812]---
         
     *   (a) if the Corporation knows that this section applies; or
     
@@ -7476,7 +7476,7 @@ Management of the Scheme
     
     Compare: 1998 No 114 s 373
     
-    Section 252(5): amended, on 15 July 2013, by [section 65(1)][815] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Section 252(5): amended, on 15 July 2013, by [section 65(1)][813] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Section 252(5): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
 
@@ -7486,11 +7486,11 @@ Management of the Scheme
         
     *   (a) receives a payment from the Corporation in respect of an entitlement that is subsequently determined to have been incorrectly paid under this Act (including a payment under [section 131][163]) or any former Act in respect of a period; and
     
-    *   (b) establishes a claim to an income-tested benefit under the [Social Security Act 1964][814] in respect of all or part of the same period.
+    *   (b) establishes a claim to an income-tested benefit under the [Social Security Act 1964][812] in respect of all or part of the same period.
     
     (2) The payment from the Corporation that has been incorrectly paid (up to the amount of benefit payable during that period) is regarded as having been paid in respect of that benefit.
     
-    (3) The department responsible for the administration of the [Social Security Act 1964][814] must refund to the Corporation the amount so regarded as a payment of benefit---
+    (3) The department responsible for the administration of the [Social Security Act 1964][812] must refund to the Corporation the amount so regarded as a payment of benefit---
         
     *   (a) if that department knows that this section applies; or
     
@@ -7526,9 +7526,9 @@ Management of the Scheme
     
     Compare: SR 1999/196 r 25
     
-    Section 255(1A): inserted, on 1 July 2003, by [section 11(1)][816] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 255(1A): inserted, on 1 July 2003, by [section 11(1)][814] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
     
-    Section 255(2): amended, on 1 July 2003, by [section 11(2)][816] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 255(2): amended, on 1 July 2003, by [section 11(2)][814] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 ##### 256 Application of payments
     
@@ -7565,9 +7565,9 @@ Accident Compensation Corporation
     
     (2) The Corporation is a Crown entity for the purposes of [section 7][536] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][798] applies to the Corporation except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][796] applies to the Corporation except to the extent that this Act expressly provides otherwise.
     
-    (4) The Corporation is a local authority for the purposes of [section 73][817] of the Public Finance Act 1989\.
+    (4) The Corporation is a local authority for the purposes of [section 73][815] of the Public Finance Act 1989\.
     
     (5) The Corporation is exempt from income tax.
     
@@ -7667,19 +7667,19 @@ Accident Compensation Corporation
     
     *   (c) the service being provided is one that is consistent with the role and functions of the Corporation under this Act; and
     
-    *   (d) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under [section 103][801] of the Crown Entities Act 2004\.
+    *   (d) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under [section 103][799] of the Crown Entities Act 2004\.
     
-    (3) Subsection (2) applies despite [section 97(a)][818] of the Crown Entities Act 2004\.
+    (3) Subsection (2) applies despite [section 97(a)][816] of the Crown Entities Act 2004\.
     
     (4) The Corporation may provide government services or payments funded by an appropriation by Parliament, other than on a commercial basis, but only if---
         
     *   (a) the service being provided is one that is consistent with the role and functions of the Corporation under this Act; and
     
-    *   (b) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under [section 103][801] of the Crown Entities Act 2004\.
+    *   (b) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under [section 103][799] of the Crown Entities Act 2004\.
     
     (5) All money received by the Corporation from an appropriation by Parliament for the purposes of subsection (4), and the expenditure of that money, must be allocated and managed through the Accounts if it is reasonable and practicable to do so; but otherwise it must be applied, accounted for, and reported on separately from the Accounts.
     
-    Section 265: substituted, on 3 March 2010, by [section 41][819] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 265: substituted, on 3 March 2010, by [section 41][817] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 266 Provisions relating to Crown entity subsidiaries
     
@@ -7693,13 +7693,13 @@ Accident Compensation Corporation
     
     (3) A Crown entity subsidiary of the Corporation---
         
-    *   (a) is a Crown entity for the purposes of the [Crown Entities Act 2004][798]:
+    *   (a) is a Crown entity for the purposes of the [Crown Entities Act 2004][796]:
     
-    *   (b) is not a local authority for the purposes of [section 73][817] of the Public Finance Act 1989:
+    *   (b) is not a local authority for the purposes of [section 73][815] of the Public Finance Act 1989:
     
     *   (c) is not exempt from income tax.
     
-    (4) The returns generated by the activities of any Crown entity subsidiary must be applied by the Corporation on a basis determined in the statement of intent under [section 272][340] or (in the absence of such a determination) in a policy direction under [section 103][801] of the Crown Entities Act 2004\.
+    (4) The returns generated by the activities of any Crown entity subsidiary must be applied by the Corporation on a basis determined in the statement of intent under [section 272][340] or (in the absence of such a determination) in a policy direction under [section 103][799] of the Crown Entities Act 2004\.
     
     Compare: 1998 No 114 s 334(1)--(4)
     
@@ -7717,9 +7717,9 @@ Accident Compensation Corporation
 
 ##### 267 Board of Corporation
     
-*   (1) The Board of the Corporation consists of not more than 8 members appointed by the Minister under [section 28(1)(a)][820] of the Crown Entities Act 2004\.
+*   (1) The Board of the Corporation consists of not more than 8 members appointed by the Minister under [section 28(1)(a)][818] of the Crown Entities Act 2004\.
     
-    (2) A person is not interested in a matter for the purposes of [section 62(2)][821] of the Crown Entities Act 2004 only because he or she is a taxpayer or private motorist.
+    (2) A person is not interested in a matter for the purposes of [section 62(2)][819] of the Crown Entities Act 2004 only because he or she is a taxpayer or private motorist.
     
     (3) \[Repealed\]
     
@@ -7741,7 +7741,7 @@ Accident Compensation Corporation
 
 ##### 268 Protection of names ""Accident Compensation Corporation"" and ""Accident Rehabilitation and Compensation Insurance Corporation""
     
-*   (1) No company or other body may be incorporated or registered under a name that contains the words ""Accident Compensation Corporation"" or ""Accident Rehabilitation and Compensation Insurance Corporation"" or under any other name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][822] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body may be incorporated or registered under a name that contains the words ""Accident Compensation Corporation"" or ""Accident Rehabilitation and Compensation Insurance Corporation"" or under any other name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][820] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) This section does not apply to the Corporation or to any person who is authorised by the Corporation.
     
@@ -7775,7 +7775,29 @@ Accident Compensation Corporation
     
     *   (b) be signed by the Minister and the Corporation no later than 30 June in the year before the first year to which it relates; and
     
-    *   (c) relate, at least, to the year after the year in which it is signed and to the next 2 following years.
+    *   (c) relate, at least, to the year after the year in which it is signed.
+    
+    (3A) A service agreement entered into under this section must---
+        
+    *   (a) contain the information that is required in a statement of performance expectations under [section 149E(1) and (2)][821] of the Crown Entities Act 2004; and
+    
+    *   (b) comply with generally accepted accounting practice (as defined in [section 2(1)][822] of the Public Finance Act 1989); and
+    
+    *   (c) set out---
+            
+        *   (i) assumptions to be relied on by the Corporation in relation to assessing the cost of capital:
+        
+        *   (ii) matters relating to the provision of services by the Corporation (including provision through its Crown entity subsidiaries on a commercial basis), including pricing information, forecasts of revenue and expenditure, and how the revenue and expenditure will be allocated among the Accounts:
+        
+        *   (iii) the Corporation's functions and duties in relation to the management of each Account:
+        
+        *   (iv) procedures, conditions, restrictions, or other provisions to be complied with by the Corporation in the performance of functions or duties in relation to the management of each Account:
+        
+        *   (v) the Corporation's investment statement, being a statement of policies, standards, and procedures that must include a statement relating to ethical investment for avoiding prejudice to New Zealand's reputation as a responsible member of the world community; and
+        
+        
+    
+    *   (d) be published, as soon as practicable after it is signed in accordance with subsection (3), on an Internet site maintained by or on behalf of the Corporation.
     
     (4) A service agreement entered into under this section may set out---
         
@@ -7793,21 +7815,31 @@ Accident Compensation Corporation
     
     *   (g) reporting requirements of the Corporation either in relation to the Accounts or in relation to the Corporation's functions and powers or in relation to both.
     
-    (5) The Minister must, within 10 working days after entering into a service agreement with the Corporation, present a copy of the service agreement to the House of Representatives.
+    (5) The Minister must present a copy of the service agreement to the House of Representatives---
+        
+    *   (a) in the same document as the Corporation's annual report for the previous financial year (_see_ [section 150][823] of the Crown Entities Act 2004); or
     
-    (6) A service agreement is an output agreement for the purposes of the [Crown Entities Act 2004][798] in respect of any outputs covered by the agreement and [section 170(2), (4), and (5)][823] of the Crown Entities Act 2004 applies to a service agreement, with any necessary modifications.
+    *   (b) in any other document presented on or before the date on which the annual report described in paragraph (a) is presented.
+    
+    (6) A service agreement entered into under this section must be treated, for the purposes of [section 49][824] of the Crown Entities Act 2004, as if it were a statement of performance expectations, and the Corporation need not prepare a separate statement of performance expectations under that Act.
     
     Compare: 1998 No 114 s 340
     
     Section 271(2): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 271(6): added, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
+    Section 271(3)(c): amended, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 271(3A): inserted, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 271(5): replaced, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 271(6): replaced, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 272 Statement of intent
     
-*   (1) The Corporation must prepare a statement of intent in accordance with this section and [Part 4][824] of the Crown Entities Act 2004\.
+*   (1) The Corporation must prepare a statement of intent in accordance with this section and [Part 4][826] of the Crown Entities Act 2004\.
     
-    (2) In addition to the matters set out in [sections 141][825] and [142][826] of the Crown Entities Act 2004, the statement of intent must set out---
+    (2) In addition to the matters set out in [section 141][827] of the Crown Entities Act 2004, the statement of intent must set out---
         
     *   (a) matters relating to the relationship between the Corporation and any Crown entity subsidiary:
     
@@ -7817,21 +7849,23 @@ Accident Compensation Corporation
     
     *   (d) matters relating to the allocation of any returns generated by any Crown entity subsidiary:
     
-    *   (e) assumptions to be relied on by the Corporation in relation to assessing the cost of capital:
+    *   (e) \[Repealed\]
     
-    *   (f) matters relating to the provision of services by the Corporation (including provision through its Crown entity subsidiaries on a commercial basis), including pricing information, forecasts of revenue and expenditure, and how the revenue and expenditure will be allocated among the Accounts:
+    *   (f) \[Repealed\]
     
-    *   (g) the Corporation's functions and duties in relation to the management of each Account:
+    *   (g) \[Repealed\]
     
-    *   (h) procedures, conditions, restrictions, or other provisions to be complied with by the Corporation in the performance of functions or duties in relation to the management of each Account:
+    *   (h) \[Repealed\]
     
-    *   (i) the Corporation's investment statement, being a statement of policies, standards, and procedures that must include a statement relating to ethical investment for avoiding prejudice to New Zealand's reputation as a responsible member of the world community:
+    *   (i) \[Repealed\]
     
     *   (j) any other matters contemplated by any other provision of this Act.
     
     Compare: 1998 No 114 s 341
     
     Section 272(1): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 272(2): amended, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
     Section 272(2): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -7843,13 +7877,21 @@ Accident Compensation Corporation
     
     Section 272(2)(d): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 272(2)(f): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
+    Section 272(2)(e): repealed, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 272(2)(f): repealed, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 272(2)(g): repealed, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 272(2)(h): repealed, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 272(2)(i): repealed, on 1 July 2014, by [section 72][825] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 273 Provision of financial information
     
 *   (1) The Minister of Finance may from time to time, by written notice, require the Corporation to supply to that Minister or such other person or class of persons as that Minister specifies, such financial forecasts or other financial information in relation to the amount of money that the Corporation expects to receive from the Crown as that Minister specifies in the notice.
     
-    (2) This section does not limit [section 133][827] of the Crown Entities Act 2004\.
+    (2) This section does not limit [section 133][828] of the Crown Entities Act 2004\.
     
     Compare: 1998 No 114 s 342
     
@@ -7865,23 +7907,23 @@ Accident Compensation Corporation
     
     (3A) \[Repealed\]
     
-    (3B) The Minister may, without complying with [section 115(2)][828] of the Crown Entities Act 2004, direct the Corporation to attribute in full, or apportion in part, to the Non-Earners' Account the costs of lump sum compensation for permanent impairment caused by gradual process, disease, or infection.
+    (3B) The Minister may, without complying with [section 115(2)][829] of the Crown Entities Act 2004, direct the Corporation to attribute in full, or apportion in part, to the Non-Earners' Account the costs of lump sum compensation for permanent impairment caused by gradual process, disease, or infection.
     
     (4) The Corporation must take all reasonable steps to ensure that the administration costs in relation to the management of the Accounts are fairly apportioned among the Accounts.
     
     (5) Costs incurred by the Corporation in carrying out all the functions, duties, and powers under this Act that cannot be directly attributed to an Account must be apportioned,---
         
-    *   (a) if a policy direction for the time being in effect under [section 103][801] of the Crown Entities Act 2004 provides for the apportionment of those costs, in accordance with the direction; or
+    *   (a) if a policy direction for the time being in effect under [section 103][799] of the Crown Entities Act 2004 provides for the apportionment of those costs, in accordance with the direction; or
     
-    *   (b) if no relevant policy direction is for the time being in effect under [section 103][801] of the Crown Entities Act 2004, to all Accounts in a way that reasonably represents the relative costs to each Account of the costs concerned.
+    *   (b) if no relevant policy direction is for the time being in effect under [section 103][799] of the Crown Entities Act 2004, to all Accounts in a way that reasonably represents the relative costs to each Account of the costs concerned.
     
     Compare: 1998 No 114 s 343
     
-    Section 274(3A): repealed, on 3 March 2010, by [section 42][829] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 274(3A): repealed, on 3 March 2010, by [section 42][830] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 274(3B): inserted, on 11 May 2005, by [section 45][830] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 274(3B): inserted, on 11 May 2005, by [section 45][831] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 274(3B): amended, on 1 August 2008, by [section 27][831] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Section 274(3B): amended, on 1 August 2008, by [section 27][832] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
     Section 274(5)(a): amended, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -7889,13 +7931,13 @@ Accident Compensation Corporation
 
 ##### 275 Investments
     
-*   (1) Subject to any policy direction under [section 103][801] of the Crown Entities Act 2004, the Corporation must invest, in the same manner as if it were a trustee, all money received by it in respect of any Account that is not immediately required for expenditure.
+*   (1) Subject to any policy direction under [section 103][799] of the Crown Entities Act 2004, the Corporation must invest, in the same manner as if it were a trustee, all money received by it in respect of any Account that is not immediately required for expenditure.
     
     (2) Any returns on investments must be apportioned across the Accounts in a way that reasonably represents the contribution to the investment of each Account.
     
-    (3) The Minister must consult with the Minister of Finance before making a policy direction under [section 103][801] of the Crown Entities Act 2004 relating to investment.
+    (3) The Minister must consult with the Minister of Finance before making a policy direction under [section 103][799] of the Crown Entities Act 2004 relating to investment.
     
-    (4) [Section 100][832] of the Crown Entities Act 2004 does not apply to an investment made under this section.
+    (4) [Section 100][833] of the Crown Entities Act 2004 does not apply to an investment made under this section.
     
     Compare: 1998 No 114 s 344
     
@@ -7931,7 +7973,7 @@ Accident Compensation Corporation
 
 ##### 278 Annual financial statements
     
-*   (1) The Corporation must include in its annual report under [section 150][833] of the Crown Entities Act 2004 annual financial statements for each Account.
+*   (1) The Corporation must include in its annual report under [section 150][823] of the Crown Entities Act 2004 annual financial statements for each Account.
     
     (2) [Sections 154(3)][834], [155][835], and [156][836] of the Crown Entities Act 2004 apply to the financial statements under subsection (1) with any necessary modifications.
     
@@ -8005,7 +8047,7 @@ Accident Compensation Corporation
     
 *   (1) In this section, unless the context otherwise requires, _payment_ means any payment under this Act; and includes any provisions in respect of rehabilitation.
     
-    (2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, WorkSafe, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the [Social Security Act 1964][814], the Ministry of Health, any funder, and any district health board (in this section each called the _Department_) to the Corporation for the purpose of verifying---
+    (2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, WorkSafe, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the [Social Security Act 1964][812], the Ministry of Health, any funder, and any district health board (in this section each called the _Department_) to the Corporation for the purpose of verifying---
         
     *   (a) the entitlement or eligibility of any person to or for any payment; or
     
@@ -8037,7 +8079,7 @@ Accident Compensation Corporation
     
     *   (c) an allowance established by regulations made under [section 303][594] of the Education Act 1989\.
     
-    (2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the [Social Security Act 1964][814] for all or any of the following purposes:
+    (2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the [Social Security Act 1964][812] for all or any of the following purposes:
         
     *   (a) to verify the entitlement or eligibility of any person to or for any benefit:
     
@@ -8045,15 +8087,15 @@ Accident Compensation Corporation
     
     *   (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
     
-    (3) For the purpose of this section, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][814] may from time to time, in accordance with arrangements made from time to time between that chief executive and the Corporation, request the Corporation to supply, in respect of persons who are receiving compensation based on weekly earnings,---
+    (3) For the purpose of this section, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][812] may from time to time, in accordance with arrangements made from time to time between that chief executive and the Corporation, request the Corporation to supply, in respect of persons who are receiving compensation based on weekly earnings,---
         
     *   (a) such biographical information as is sufficient to identify those persons, including their addresses; and
     
     *   (b) such details of the entitlement of those persons to receive compensation based on weekly earnings as are necessary for the purposes of this section.
     
-    (4) On receipt of a request made under subsection (3), the Corporation may supply the information requested to any officer or employee or agent of the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][814] who is authorised in that behalf by that chief executive.
+    (4) On receipt of a request made under subsection (3), the Corporation may supply the information requested to any officer or employee or agent of the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][812] who is authorised in that behalf by that chief executive.
     
-    (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][814].
+    (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][812].
     
     Compare: 1998 No 114 s 354
     
@@ -8165,7 +8207,7 @@ Accident Compensation Corporation
         
     *   (a) Disabled Persons Employment Promotion Act 1960:
     
-    *   (b) [Employment Relations Act 2000][763]:
+    *   (b) [Employment Relations Act 2000][761]:
     
     *   (c) [Equal Pay Act 1972][849]:
     
@@ -8181,7 +8223,7 @@ Accident Compensation Corporation
     
     *   (i) [Minimum Wage Act 1983][854]:
     
-    *   (j) [Parental Leave and Employment Protection Act 1987][794]:
+    *   (j) [Parental Leave and Employment Protection Act 1987][792]:
     
     *   (k) [Volunteers Employment Protection Act 1973][855]:
     
@@ -8419,7 +8461,7 @@ Miscellaneous provisions
 
 ##### 300 Public interest
     
-*   In exercising any functions or powers under this Act or the [Crown Entities Act 2004][798], the Minister must have regard to the public interest and, in particular, the interests of taxpayers, levy payers, claimants, and potential claimants.
+*   In exercising any functions or powers under this Act or the [Crown Entities Act 2004][796], the Minister must have regard to the public interest and, in particular, the interests of taxpayers, levy payers, claimants, and potential claimants.
     
     Compare: 1998 No 114 s 359
     
@@ -8497,7 +8539,7 @@ Miscellaneous provisions
 
 ##### 305 Joint purchasing arrangements for emergency transport services
     
-*   (1) The Corporation may enter into a contract, arrangement, or understanding with the Ministry of Health or a district health board to jointly purchase emergency transport services for the purposes of [clause 3][690] of Schedule 1\.
+*   (1) The Corporation may enter into a contract, arrangement, or understanding with the Ministry of Health or a district health board to jointly purchase emergency transport services for the purposes of [clause 3][689] of Schedule 1\.
     
     (2) Nothing in [Part 2][865] of the Commerce Act 1986, other than [sections 36][866] and [36A][867], applies to---
         
@@ -8917,7 +8959,7 @@ Miscellaneous provisions
 
 ##### 323 Regulations relating to claims for noise-induced hearing loss caused by work-related gradual process
     
-*   (1) For the purposes of [Part 3][687], the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations---
+*   (1) For the purposes of [Part 3][49], the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations---
         
     *   (a) prescribing the conditions under which the Corporation is to apply the pure tone audiometry test or any other appropriate test, under [section 61][75], to assess the percentage of binaural hearing loss that is a personal injury caused by noise exposure within a person's employment:
     
@@ -9009,7 +9051,7 @@ Miscellaneous provisions
     
     Section 324(2): substituted, on 1 August 2008, by [section 28][892] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Section 324(3)(d)(i): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 324(3)(d)(i): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 324A Annual review of amounts prescribed by regulations made under section 324
     
@@ -9027,7 +9069,7 @@ Miscellaneous provisions
 
 ##### 325 Regulations relating to ancillary services for rehabilitation
     
-*   (1) For the purposes of [clauses 3][690] and [11][894] of Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations---
+*   (1) For the purposes of [clauses 3][689] and [11][894] of Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations---
         
     *   (a) prescribing the costs that the Corporation is liable to pay or contribute to in respect of 1 or more ancillary services that facilitate rehabilitation provided by the Corporation in New Zealand:
     
@@ -9083,9 +9125,9 @@ Miscellaneous provisions
 
 ##### 326 Regulations relating to lump sum compensation
     
-*   (1) For the purposes of [Part 3][687] of Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations specifying when a claimant's condition is to be regarded as stabilised for the purposes of [clause 57][896] of Schedule 1\.
+*   (1) For the purposes of [Part 3][686] of Schedule 1, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations specifying when a claimant's condition is to be regarded as stabilised for the purposes of [clause 57][896] of Schedule 1\.
     
-    (2) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for the purposes of [Part 3][687] of Schedule 1 to give effect to those provisions, including regulations that---
+    (2) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for the purposes of [Part 3][686] of Schedule 1 to give effect to those provisions, including regulations that---
         
     *   (a) refer to, or incorporate by reference, in whole or in part, the American Medical Association Guides to the Evaluation of Permanent Impairment:
     
@@ -9127,7 +9169,7 @@ Miscellaneous provisions
     
     Compare: 1998 No 114 s 404
     
-    Section 327(e): repealed, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 327(e): repealed, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 328 Regulations relating to reviews and appeals
     
@@ -9315,7 +9357,7 @@ Miscellaneous provisions
         
     *   (a) develop a policy on fully funding the outstanding claims liability for the relevant Account; and
     
-    *   (b) have regard to that policy, in particular the funding requirements for the relevant Account, and any relevant policy direction given under [section 103][801] of the Crown Entities Act 2004\.
+    *   (b) have regard to that policy, in particular the funding requirements for the relevant Account, and any relevant policy direction given under [section 103][799] of the Crown Entities Act 2004\.
     
     (4) The Corporation must, after recommending to the Minister the making of regulations under this Act prescribing the rates of levies, publish in the _Gazette_, and in a daily newspaper circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice---
         
@@ -9417,7 +9459,7 @@ Miscellaneous provisions
     
 *   (1) The Acts specified in [Part 1][906] of Schedule 6 are amended in the manner indicated in that schedule.
     
-    (2) The regulations specified in [Part 2][766] of Schedule 6 are amended in the manner indicated in that schedule.
+    (2) The regulations specified in [Part 2][764] of Schedule 6 are amended in the manner indicated in that schedule.
 
 ##### 338 Consequential tax amendments
     
@@ -9524,7 +9566,7 @@ Provisions relating to transition from competitive provision of workplace accide
     
 *   (1) The Minister may direct the Corporation to assume the Regulator's role in relation to the Non-Compliers Fund.
     
-    (2) A direction under subsection (1) is a policy direction for the purposes of [section 103][801] of the Crown Entities Act 2004\.
+    (2) A direction under subsection (1) is a policy direction for the purposes of [section 103][799] of the Crown Entities Act 2004\.
     
     (3) The effect of a direction under subsection (1) is that the Corporation assumes the role of the Regulator in all respects in relation to the Non-Compliers Fund and the Regulator has no further responsibilities in relation to the Fund.
     
@@ -9637,7 +9679,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
 
 ##### 354 Processing of claims
     
-*   [Part 3][687] applies to all claims received on or after 1 April 2002 for cover and entitlements in respect of personal injury suffered before that date.
+*   [Part 3][49] applies to all claims received on or after 1 April 2002 for cover and entitlements in respect of personal injury suffered before that date.
 
 ##### 355 Claims for cover accepted under former Acts
     
@@ -9777,7 +9819,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
     (2) [Sections 381 to 387][493] provide for entitlements for the spouse or partner, children, and other dependants of such a person, if the personal injury for which the person has cover is death or is physical injuries from which he or she dies.
     
-    (3) The provision of entitlements arising from cover accepted under any of [sections 355 to 360][459] is subject to [Part 4][685] and Schedule 1, unless the effect of any of [sections 364 to 391][471] is to the contrary.
+    (3) The provision of entitlements arising from cover accepted under any of [sections 355 to 360][459] is subject to [Part 4][81] and [Schedule 1][523], unless the effect of any of [sections 364 to 391][471] is to the contrary.
     
     Compare: 1998 No 114 s 426
     
@@ -9871,7 +9913,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
 
 ##### 368 Weekly payments for permanent incapacity under 1972 and 1982 Acts
     
-*   (1) [Section 369][477] and [clause 51][680] of Schedule 1 do not apply to any payment calculated under section 114 of the Accident Compensation Act 1972 or section 60 of the Accident Compensation Act 1982\.
+*   (1) [Section 369][477] and [clause 51][679] of Schedule 1 do not apply to any payment calculated under section 114 of the Accident Compensation Act 1972 or section 60 of the Accident Compensation Act 1982\.
     
     (2) Subsection (3) applies to a person who---
         
@@ -9913,7 +9955,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
 
 ##### 370 Cessation of weekly compensation under any former Act because of national superannuation qualification age
     
-*   [Clauses 52][662] and [53][911] of Schedule 1 apply to compensation under [section 365][473].
+*   [Clauses 52][661] and [53][911] of Schedule 1 apply to compensation under [section 365][473].
     
     Compare: 1998 No 114 s 434
 
@@ -9985,11 +10027,11 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
     (3) The person---
         
-    *   (a) is not entitled to receive attendant care or home help under [clauses 12 to 23][661] of Schedule 1; but
+    *   (a) is not entitled to receive attendant care or home help under [clauses 12 to 23][660] of Schedule 1; but
     
-    *   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to attendant care or home help under [clauses 12 to 23][661] of Schedule 1\.
+    *   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to attendant care or home help under [clauses 12 to 23][660] of Schedule 1\.
     
-    (4) A person who has had an assessment under subsection (3)(b) may irrevocably elect to have his or her entitlements to attendant care and home help determined from then on under [clauses 12 to 23][661] of Schedule 1, in which case subsection (3) no longer applies to him or her.
+    (4) A person who has had an assessment under subsection (3)(b) may irrevocably elect to have his or her entitlements to attendant care and home help determined from then on under [clauses 12 to 23][660] of Schedule 1, in which case subsection (3) no longer applies to him or her.
     
     (5) For the purposes of subsection (1), a person was receiving compensation immediately before 1 July 1992 if he or she was entitled to do so because of a decision on review or appeal given on or after that date on an application for review made before 1 October 1992\.
     
@@ -10065,9 +10107,9 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
     *   (b) any costs relating to the return of the claimant to New Zealand for assessment.
     
-    Section 379(1): amended, on 11 May 2005, by [section 60(6)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 379(1): amended, on 11 May 2005, by [section 60(6)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Section 379(2): amended, on 1 July 2005, by [section 60(7)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Section 379(2): amended, on 1 July 2005, by [section 60(7)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 #### Lump sum compensation under former Acts
 
@@ -10103,7 +10145,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
 
 ##### 382 Survivor's grant to surviving spouses or partners, children, and other dependants for death before 1 April 2002
     
-*   (1) On or after 1 April 2002, a survivor's grant is payable under [clause 65][681] of Schedule 1 if---
+*   (1) On or after 1 April 2002, a survivor's grant is payable under [clause 65][680] of Schedule 1 if---
         
     *   (a) a person died on or after 1 July 1992 and before 1 April 2002 as a result of personal injury covered by the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998; and
     
@@ -10123,7 +10165,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
 *   (1) This section applies if, immediately before 1 April 2002, any spouse or partner, child, or other dependant of a deceased person was entitled to compensation under section 445(1) and (2) or clauses 67 to 75 of Schedule 1 of the Accident Insurance Act 1998\.
     
-    (2) The compensation continues to be payable and to be paid as if it had been calculated under [Part 4][685] of Schedule 1\.
+    (2) The compensation continues to be payable and to be paid as if it had been calculated under [Part 4][684] of Schedule 1\.
     
     (3) Compensation payable to a surviving spouse or partner ceases on the date it would cease if [clauses 66 to 69][569] of Schedule 1 applied to the spouse or partner.
     
@@ -10143,7 +10185,7 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
 *   (1) Section 446 of the Accident Insurance Act 1998 continues to apply in respect of the spouse or de facto partner of a deceased person who was entitled to receive, immediately before 1 April 2002, compensation under that section.
     
-    (1A) However, despite subsection (1), the spouse or de facto partner may choose to convert the entitlement to compensation under section 446 of the Accident Insurance Act 1998 to 1 or more aggregated payments and, in those circumstances, [clause 67][725] of Schedule 1 applies as if the entitlement to compensation were an entitlement to weekly compensation under [clause 66][569] of Schedule 1\.
+    (1A) However, despite subsection (1), the spouse or de facto partner may choose to convert the entitlement to compensation under section 446 of the Accident Insurance Act 1998 to 1 or more aggregated payments and, in those circumstances, [clause 67][723] of Schedule 1 applies as if the entitlement to compensation were an entitlement to weekly compensation under [clause 66][569] of Schedule 1\.
     
     (2) For the purposes of subsection (1), section 446 continues to apply as if subsection (3) of that section provided as follows:
     
@@ -10217,11 +10259,11 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
     (3) Person A---
         
-    *   (a) is not entitled to receive a payment for child care under [clause 76][682] of Schedule 1; but
+    *   (a) is not entitled to receive a payment for child care under [clause 76][681] of Schedule 1; but
     
-    *   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to a payment for child care under [clause 76][682] of Schedule 1\.
+    *   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to a payment for child care under [clause 76][681] of Schedule 1\.
     
-    (4) A person who has had an assessment under subsection (3)(b) may irrevocably elect to have his or her entitlement to a payment for child care determined from then on under [clause 76][682] of Schedule 1, in which case subsection (3) no longer applies to him or her.
+    (4) A person who has had an assessment under subsection (3)(b) may irrevocably elect to have his or her entitlement to a payment for child care determined from then on under [clause 76][681] of Schedule 1, in which case subsection (3) no longer applies to him or her.
     
     (5) A person was receiving compensation immediately before 1 July 1992 if he or she was entitled to do so because of a decision on review or appeal given on or after that date on an application for review made before 1 October 1992\.
     
@@ -10307,13 +10349,13 @@ Transitional provisions relating to entitlements provided by Corporation (but no
     
     *   (b) subsections (1) and (2) do not apply.
     
-    (3A) Subsection (3) is subject to [section 4(2)][736] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003\.
+    (3A) Subsection (3) is subject to [section 4(2)][734] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003\.
     
     (4) [Part 5][165] applies to any decision made by the Corporation under this Part, except a decision referred to in subsection (1), subsection (2), or subsection (3).
     
     Compare: 1998 No 114 s 453
     
-    Section 391(3A): inserted, on 24 November 2003, by [section 4(3)][736] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
+    Section 391(3A): inserted, on 24 November 2003, by [section 4(3)][734] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29).
 
 #### Financial provisions
 
@@ -10434,225 +10476,225 @@ Entitlements
 
 ## Contents
 
-[Part 1][919]  
-[Rehabilitation][919]
+[Part 1][545]  
+[Rehabilitation][545]
 
-[Treatment][920]
+[Treatment][919]
 
-[1][921][][921][Corporation's liability to pay or contribute to cost of treatment][921]
+[1][920][][920][Corporation's liability to pay or contribute to cost of treatment][920]
 
-[2][922][][922][When Corporation is liable to pay cost of treatment][922]
+[2][921][][921][When Corporation is liable to pay cost of treatment][921]
 
-[3][690][][690][When Corporation is liable to pay or contribute to cost of ancillary services related to treatment][690]
+[3][689][][689][When Corporation is liable to pay or contribute to cost of ancillary services related to treatment][689]
 
 [4][653][][653][Corporation's prior agreement to treatment required, except in certain cases][653]
 
-[5][923][][923][Corporation may require claimant to supply information about treatment][923]
+[5][922][][922][Corporation may require claimant to supply information about treatment][922]
 
-[6][924][][924][When Corporation must not decline to pay cost of treatment][924]
+[6][923][][923][When Corporation must not decline to pay cost of treatment][923]
 
-[Individual rehabilitation plans][925]
+[Individual rehabilitation plans][924]
 
-[7][926][][926][Preparation of individual rehabilitation plan][926]
+[7][925][][925][Preparation of individual rehabilitation plan][925]
 
-[8][927][][927][Agreement to plan][927]
+[8][926][][926][Agreement to plan][926]
 
-[9][928][][928][Disputes about plan][928]
+[9][927][][927][Disputes about plan][927]
 
 [10][912][][912][Corporation and claimant may agree to modify plan][912]
 
-[Ancillary services related to rehabilitation][929]
+[Ancillary services related to rehabilitation][928]
 
 [11][894][][894][When Corporation is liable to pay or contribute to cost of ancillary services related to rehabilitation][894]
 
-[Social rehabilitation][930]
+[Social rehabilitation][929]
 
-[12][661][][661][Definitions][661]
+[12][660][][660][Definitions][660]
 
 [13][654][][654][Aids and appliances][654]
 
-[14][931][][931][Attendant care][931]
+[14][930][][930][Attendant care][930]
 
 [15][655][][655][Child care][655]
 
-[16][932][][932][Education support][932]
+[16][931][][931][Education support][931]
 
 [17][656][][656][Home help][656]
 
-[18][933][][933][Modifications to home: matters to which Corporation must have regard][933]
+[18][932][][932][Modifications to home: matters to which Corporation must have regard][932]
 
 [19][657][][657][Modifications to home: rights and responsibilities][657]
 
-[20][934][][934][Training for independence][934]
+[20][933][][933][Training for independence][933]
 
-[21][935][][935][Transport for independence: matters to which Corporation must have regard][935]
+[21][934][][934][Transport for independence: matters to which Corporation must have regard][934]
 
 [22][658][][658][Transport for independence: rights and responsibilities][658]
 
-[23][936][][936][Corporation not liable to ensure claimant pays rehabilitation provider][936]
+[23][935][][935][Corporation not liable to ensure claimant pays rehabilitation provider][935]
 
-[Vocational rehabilitation][937]
+[Vocational rehabilitation][936]
 
-[24][669][][669][Occupational assessor][669]
+[24][668][][668][Occupational assessor][668]
 
-[25][674][][674][Conduct of occupational assessment][674]
+[25][673][][673][Conduct of occupational assessment][673]
 
-[26][938][][938][Report on occupational assessment][938]
+[26][937][][937][Report on occupational assessment][937]
 
-[27][939][][939][Medical assessor][939]
+[27][938][][938][Medical assessor][938]
 
-[28][675][][675][Conduct of medical assessment][675]
+[28][674][][674][Conduct of medical assessment][674]
 
-[29][940][][940][Report on medical assessment][940]
+[29][939][][939][Report on medical assessment][939]
 
-[Part 2][941]  
-[Weekly compensation][941]
+[Part 2][572]  
+[Weekly compensation][572]
 
-[30][942][][942][Meaning of relevant year][942]
+[30][940][][940][Meaning of relevant year][940]
 
-[31][943][][943][Use of income tax returns in determining earnings][943]
+[31][941][][941][Use of income tax returns in determining earnings][941]
 
-[Corporation to pay weekly compensation after first week of incapacity][944]
+[Corporation to pay weekly compensation after first week of incapacity][942]
 
 [32][567][][567][Corporation to pay weekly compensation for loss of earnings to claimant who was earner][567]
 
-[Employee in permanent employment][945]
+[Employee in permanent employment][943]
 
-[33][946][][946][Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34][946]
+[33][944][][944][Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34][944]
 
-[34][947][][947][Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations][947]
+[34][945][][945][Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations][945]
 
-[Employee not in permanent employment][948]
+[Employee not in permanent employment][946]
 
-[35][949][][949][Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36][949]
+[35][947][][947][Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36][947]
 
-[36][950][][950][Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations][950]
+[36][948][][948][Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations][948]
 
-[Self-employed claimant][951]
+[Self-employed claimant][949]
 
-[37][952][][952][Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38][952]
+[37][950][][950][Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38][950]
 
-[38][953][][953][Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: calculations][953]
+[38][951][][951][Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: calculations][951]
 
-[38A][954][][954][Weekly earnings if self-employed claimant had earnings as a shareholder-employee in the relevant year][954]
+[38A][952][][952][Weekly earnings if self-employed claimant had earnings as a shareholder-employee in the relevant year][952]
 
-[Shareholder-employee][955]
+[Shareholder-employee][953]
 
-[39][956][][956][Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced][956]
+[39][954][][954][Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced][954]
 
-[40][957][][957][Weekly earnings if claimant as shareholder-employee had earnings as self-employed person in relevant year][957]
+[40][955][][955][Weekly earnings if claimant as shareholder-employee had earnings as self-employed person in relevant year][955]
 
-[Aggregation of calculations][958]
+[Aggregation of calculations][956]
 
-[41][959][][959][Calculations for multiple employment situations][959]
+[41][957][][957][Calculations for multiple employment situations][957]
 
-[Adjustments for low earners][960]
+[Adjustments for low earners][958]
 
 [42][550][][550][Weekly earnings of earners in full-time employment: increase in certain circumstances][550]
 
-[Claimant no longer an employee][961]
+[Claimant no longer an employee][959]
 
 [43][539][][539][Weekly earnings if employment ended before commencement of incapacity][539]
 
-[Employee on unpaid parental leave][962]
+[Employee on unpaid parental leave][960]
 
 [44][540][][540][Weekly earnings if employee on unpaid parental leave immediately before his or her incapacity commenced][540]
 
-[Estimated earnings][963]
+[Estimated earnings][961]
 
-[45][964][][964][Interim estimation of weekly earnings that cannot be ascertained][964]
+[45][962][][962][Interim estimation of weekly earnings that cannot be ascertained][962]
 
-[Maximum compensation][965]
+[Maximum compensation][963]
 
-[46][679][][679][Maximum weekly compensation for loss of earnings][679]
+[46][678][][678][Maximum weekly compensation for loss of earnings][678]
 
-[Corporation to pay weekly compensation to potential earners][966]
+[Corporation to pay weekly compensation to potential earners][964]
 
 [47][568][][568][Corporation to pay weekly compensation for loss of potential earnings capacity][568]
 
-[Further injury][967]
+[Further injury][965]
 
-[48][968][][968][Effect of further injury on entitlement to weekly compensation][968]
+[48][966][][966][Effect of further injury on entitlement to weekly compensation][966]
 
-[Abatement][969]
+[Abatement][967]
 
-[49][970][][970][Earnings definitions for purposes of clause 51][970]
+[49][968][][968][Earnings definitions for purposes of clause 51][968]
 
-[50][971][][971][Estimation for abatement purposes of earnings that cannot be ascertained][971]
+[50][969][][969][Estimation for abatement purposes of earnings that cannot be ascertained][969]
 
-[51][680][][680][Abatement of compensation][680]
+[51][679][][679][Abatement of compensation][679]
 
-[Effect of New Zealand superannuation][972]
+[Effect of New Zealand superannuation][970]
 
-[52][662][][662][Relationship between weekly compensation and New Zealand superannuation][662]
+[52][661][][661][Relationship between weekly compensation and New Zealand superannuation][661]
 
 [53][911][][911][Election for purposes of clause 52][911]
 
-[Part 3][973]  
-[Lump sum compensation for permanent impairment][973]
+[Part 3][686]  
+[Lump sum compensation for permanent impairment][686]
 
-[54][974][][974][Lump sum compensation for permanent impairment][974]
+[54][971][][971][Lump sum compensation for permanent impairment][971]
 
 [55][564][][564][Transitional limits on eligibility for lump sum entitlements][564]
 
-[55A][975][][975][Certain persons may elect to receive either lump sum compensation or independence allowance: assessment, notification, and election][975]
+[55A][972][][972][Certain persons may elect to receive either lump sum compensation or independence allowance: assessment, notification, and election][972]
 
-[55B][976][][976][Certain persons may elect to receive either lump sum compensation or independence allowance: persons not entitled to make election under clause 55A][976]
+[55B][973][][973][Certain persons may elect to receive either lump sum compensation or independence allowance: persons not entitled to make election under clause 55A][973]
 
-[55C][977][][977][Certain persons may elect to receive either lump sum compensation or independence allowance: reassessment, notification, and further election][977]
+[55C][974][][974][Certain persons may elect to receive either lump sum compensation or independence allowance: reassessment, notification, and further election][974]
 
-[55D][978][][978][Certain persons may elect to receive either lump sum compensation or independence allowance: general][978]
+[55D][975][][975][Certain persons may elect to receive either lump sum compensation or independence allowance: general][975]
 
 [56][531][][531][Amount of lump sum compensation for permanent impairment][531]
 
 [57][896][][896][Corporation not to assess entitlement until it receives medical certificate as to stability of claimant's condition][896]
 
-[58][979][][979][Appointment of assessors][979]
+[58][976][][976][Appointment of assessors][976]
 
 [59][897][][897][Assessment of entitlement to lump sum compensation][897]
 
 [60][898][][898][Payment of lump sum compensation for permanent impairment][898]
 
-[61][980][][980][Reassessment of entitlement to lump sum compensation][980]
+[61][977][][977][Reassessment of entitlement to lump sum compensation][977]
 
-[62][981][][981][Payment of entitlement to lump sum compensation to deceased claimant's estate][981]
+[62][978][][978][Payment of entitlement to lump sum compensation to deceased claimant's estate][978]
 
-[Part 4][982]  
-[Entitlements arising from fatal injuries][982]
+[Part 4][684]  
+[Entitlements arising from fatal injuries][684]
 
-[63][983][][983][Child not born at date of claimant's death][983]
+[63][979][][979][Child not born at date of claimant's death][979]
 
 [64][532][][532][Funeral grant][532]
 
-[65][681][][681][Survivor's grant][681]
+[65][680][][680][Survivor's grant][680]
 
 [66][569][][569][Weekly compensation for surviving spouse or partner][569]
 
-[67][725][][725][Surviving spouse or partner may choose to convert weekly compensation to aggregated payment or payments][725]
+[67][723][][723][Surviving spouse or partner may choose to convert weekly compensation to aggregated payment or payments][723]
 
-[68][984][][984][Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation][984]
+[68][980][][980][Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation][980]
 
-[69][985][][985][Election for purposes of clause 68][985]
+[69][981][][981][Election for purposes of clause 68][981]
 
 [70][570][][570][Weekly compensation for child][570]
 
 [71][571][][571][Weekly compensation for other dependants][571]
 
-[72][986][][986][Relationship between other dependant's weekly compensation and New Zealand superannuation][986]
+[72][982][][982][Relationship between other dependant's weekly compensation and New Zealand superannuation][982]
 
-[73][987][][987][Election for purposes of clause 72][987]
+[73][983][][983][Election for purposes of clause 72][983]
 
-[74][988][][988][Maximum payments][988]
+[74][984][][984][Maximum payments][984]
 
-[75][989][][989][Spouse or partner status or dependency arising after date of personal injury][989]
+[75][985][][985][Spouse or partner status or dependency arising after date of personal injury][985]
 
-[Child care payments][990]
+[Child care payments][986]
 
-[76][682][][682][Child care payments for children of deceased claimant][682]
+[76][681][][681][Child care payments for children of deceased claimant][681]
 
-[77][991][][991][Duration of child care payments][991]
+[77][987][][987][Duration of child care payments][987]
 
-[78][992][][992][Child care payments made to caregiver][992]
+[78][988][][988][Child care payments made to caregiver][988]
 
 ---
 
@@ -10663,7 +10705,7 @@ Rehabilitation
 
 ##### 1 Corporation's liability to pay or contribute to cost of treatment
     
-*   (1) The Corporation is liable to pay or contribute to the cost of the claimant's treatment for personal injury for which the claimant has cover if [clause 2][922] applies,---
+*   (1) The Corporation is liable to pay or contribute to the cost of the claimant's treatment for personal injury for which the claimant has cover if [clause 2][921] applies,---
         
     *   (a) to the extent required or permitted under an agreement or contract with any person for the provision of treatment; or
     
@@ -10741,13 +10783,13 @@ Rehabilitation
     
     (3) In deciding whether to give its prior agreement to treatment, the Corporation---
         
-    *   (a) must take into account the matters in [clause 2(1)(a) to (e)][922]; and
+    *   (a) must take into account the matters in [clause 2(1)(a) to (e)][921]; and
     
     *   (b) may make its agreement subject to prior compliance with any requirements relating to those matters.
     
     Compare: 1998 No 114 Schedule 1 cl 3
     
-    Schedule 1 clause 4(1): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 4(1): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 5 Corporation may require claimant to supply information about treatment
     
@@ -10829,7 +10871,7 @@ Rehabilitation
 
 ##### 8 Agreement to plan
     
-*   (1) The Corporation must then ask the claimant to agree to the plan prepared for the claimant under [clause 7][926].
+*   (1) The Corporation must then ask the claimant to agree to the plan prepared for the claimant under [clause 7][925].
     
     (2) If, after a reasonable time, the claimant declines to agree to the plan, the Corporation may advise the claimant that the plan is finalised, and the plan is then to be regarded as if the claimant had agreed to it.
     
@@ -10853,7 +10895,7 @@ Rehabilitation
 
 ##### 10 Corporation and claimant may agree to modify plan
     
-*   The claimant and the Corporation may agree to modify the plan from time to time, and [clauses 7 to 9][926] apply to the process of modification and to the modified plan.
+*   The claimant and the Corporation may agree to modify the plan from time to time, and [clauses 7 to 9][925] apply to the process of modification and to the modified plan.
     
     Compare: 1998 No 114 Schedule 1 cl 35
 
@@ -10909,19 +10951,19 @@ Rehabilitation
     
     _educational participation_ means participation within the claimant's school day or period of attendance at an early childhood education service by a claimant who is---
         
-    *   (a) entitled to free enrolment and free education under the [Education Act 1989][993] and is---
+    *   (a) entitled to free enrolment and free education under the [Education Act 1989][989] and is---
             
         *   (i) enrolled at a registered school within the meaning of that Act; or
         
-        *   (ii) exempted under [section 21][994] or [22A][995] of that Act from the requirement to be enrolled; or
+        *   (ii) exempted under [section 21][990] or [22A][991] of that Act from the requirement to be enrolled; or
         
-        *   (iii) exempted under [section 26][996] (but not subsection (1)(b)(iii)) of that Act from attending a school; or
+        *   (iii) exempted under [section 26][992] (but not subsection (1)(b)(iii)) of that Act from attending a school; or
         
         
     
-    *   (b) attending a licensed early childhood service within the meaning of [section 309][997] of the Education Act 1989; or
+    *   (b) attending a licensed early childhood service within the meaning of [section 309][993] of the Education Act 1989; or
     
-    *   (c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which [section 9][998] of the Education Act 1989 applies
+    *   (c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which [section 9][994] of the Education Act 1989 applies
     
     _home_---
         
@@ -11005,7 +11047,7 @@ Rehabilitation
     
     Compare: 1998 No 114 Schedule 1 cl 36
     
-    Schedule 1 clause 12 **educational participation** paragraph (b): substituted, on 1 December 2008, by [section 60(1)][999] of the Education Amendment Act 2006 (2006 No 19).
+    Schedule 1 clause 12 **educational participation** paragraph (b): substituted, on 1 December 2008, by [section 60(1)][995] of the Education Amendment Act 2006 (2006 No 19).
     
     Schedule 1 clause 12 **home** paragraph (a): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
@@ -11051,13 +11093,13 @@ Rehabilitation
     
     Schedule 1 clause 13(1)(b): amended, on 18 September 2004, by [section 175(1)][576] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Schedule 1 clause 13(2): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 13(2): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 13(3): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 13(3): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 13(4): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 13(4): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 13(5): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 13(5): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 14 Attendant care
     
@@ -11091,7 +11133,7 @@ Rehabilitation
     
     *   (e) the need to avoid substantial disruption to the employment or other activities of the household family members.
     
-    (2) The Corporation is not required to provide child care under this clause if it provides child care for the child under [clause 76][682].
+    (2) The Corporation is not required to provide child care under this clause if it provides child care for the child under [clause 76][681].
     
     (3) The Corporation is not required to provide child care for a child to the extent that the child is being provided with attendant care, education support, or training for independence.
     
@@ -11103,11 +11145,11 @@ Rehabilitation
     
     Compare: 1998 No 114 Schedule 1 cl 45
     
-    Schedule 1 clause 15(2): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 15(2): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 15(3): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 15(3): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 15(4): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 15(4): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 16 Education support
     
@@ -11175,7 +11217,7 @@ Rehabilitation
     
     Compare: 1998 No 114 Schedule 1 cl 46
     
-    Schedule 1 clause 17(2): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 17(2): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 18 Modifications to home: matters to which Corporation must have regard
     
@@ -11257,11 +11299,11 @@ Rehabilitation
     
     Compare: 1998 No 114 Schedule 1 cl 48
     
-    Schedule 1 clause 19(3)(e): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 19(3)(e): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 19(3)(i): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 19(3)(i): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 19(3)(j): substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 19(3)(j): substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 20 Training for independence
     
@@ -11377,15 +11419,15 @@ Rehabilitation
     
     Compare: 1998 No 114 Schedule 1 cl 51
     
-    Schedule 1 clause 22(1): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 22(1): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 22(2)(b): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 22(2)(b): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 22(2)(c): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 22(2)(c): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 22(2)(e): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 22(2)(e): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 22(2)(f): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 22(2)(f): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 23 Corporation not liable to ensure claimant pays rehabilitation provider
     
@@ -11421,9 +11463,9 @@ Rehabilitation
     
     (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
     
-    Schedule 1 clause 25(1A): inserted, on 1 October 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 25(1A): inserted, on 1 October 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 25(1A): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 25(1A): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 26 Report on occupational assessment
     
@@ -11493,7 +11535,7 @@ Rehabilitation
         
         
     
-    *   (d) the report of the occupational assessor under [clause 26][938]; and
+    *   (d) the report of the occupational assessor under [clause 26][937]; and
     
     *   (e) the medical assessor's clinical examination of the claimant; and
     
@@ -11574,9 +11616,9 @@ Weekly compensation
     
     *   (b) for any period of incapacity, after that first week, resulting from the personal injury for which he or she has cover.
     
-    (3) The weekly compensation payable is 80% of the claimant's weekly earnings, as calculated under [clauses 33 to 45][946] and [48][968].
+    (3) The weekly compensation payable is 80% of the claimant's weekly earnings, as calculated under [clauses 33 to 45][944] and [48][966].
     
-    (4) Subclause (3) is subject to [clauses 46][679], [51][680], [52][662], and [53][911].
+    (4) Subclause (3) is subject to [clauses 46][678], [51][679], [52][661], and [53][911].
     
     (5) The amount of weekly compensation payable to the claimant must be adjusted in the manner provided in [section 115][142].
     
@@ -11586,11 +11628,11 @@ Weekly compensation
 
 #### Employee in permanent employment
     
-*   Heading: amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+*   Heading: amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
     
-*   (1) [Clause 34][947] applies to a claimant who---
+*   (1) [Clause 34][945] applies to a claimant who---
         
     *   (a) was an earner immediately before his or her incapacity commenced; and
     
@@ -11598,9 +11640,9 @@ Weekly compensation
     
     *   (c) had earnings as an employee from that permanent employment at that time.
     
-    (2) If the claimant had permanent employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under [clause 34][947] and aggregated under [clause 41][959].
+    (2) If the claimant had permanent employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under [clause 34][945] and aggregated under [clause 41][957].
     
-    (3) For the purposes of this clause and [clause 34][947], the claimant is regarded as having been in permanent employment if, in the opinion of the Corporation, he or she would have continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
+    (3) For the purposes of this clause and [clause 34][945], the claimant is regarded as having been in permanent employment if, in the opinion of the Corporation, he or she would have continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
     
     (4) Subclause (5) applies if---
         
@@ -11610,11 +11652,11 @@ Weekly compensation
     
     (5) The weekly earnings of the claimant is the greater of---
         
-    *   (a) the claimant's weekly earnings calculated in accordance with [clause 34][947]:
+    *   (a) the claimant's weekly earnings calculated in accordance with [clause 34][945]:
     
-    *   (b) the claimant's weekly earnings calculated in accordance with [clause 36][950], as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
+    *   (b) the claimant's weekly earnings calculated in accordance with [clause 36][948], as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
     
-    Schedule 1 clause 33: substituted, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 33: substituted, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
     
@@ -11646,25 +11688,25 @@ Weekly compensation
     
     Compare: 1998 No 114 Schedule 1 cl 9
     
-    Schedule 1 clause 34 heading: amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 34 heading: amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 34(1) item a: amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 34(1) item a: amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 34(2) item a: amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 34(2) item a: amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Employee not in permanent employment
 
 ##### 35 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36
     
-*   (1) [Clause 36][950] applies to a claimant who---
+*   (1) [Clause 36][948] applies to a claimant who---
         
     *   (a) was an earner immediately before his or her incapacity commenced; and
     
     *   (b) had at that time earnings as an employee (from employment that was not permanent employment).
     
-    (2) For the purposes of this clause and [clause 36][950], employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
+    (2) For the purposes of this clause and [clause 36][948], employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
     
-    Schedule 1 clause 35: substituted, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 35: substituted, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
     
@@ -11722,17 +11764,17 @@ Weekly compensation
     
     (5) For the purposes of subclause (3)(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
     
-    Schedule 1 clause 36: substituted, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 36: substituted, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Self-employed claimant
 
 ##### 37 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38
     
-*   (1) [Clause 38][953] applies to a claimant who had earnings as a self-employed person immediately before his or her incapacity commenced.
+*   (1) [Clause 38][951] applies to a claimant who had earnings as a self-employed person immediately before his or her incapacity commenced.
     
-    (2) The weekly earnings of such a claimant are as calculated under [clause 38][953].
+    (2) The weekly earnings of such a claimant are as calculated under [clause 38][951].
     
-    (3) For the purposes of [clause 38][953], if the claimant's income tax return for the relevant year is not available, the income tax return for the next previous year must be used for the calculation of weekly earnings until the earlier of the following events:
+    (3) For the purposes of [clause 38][951], if the claimant's income tax return for the relevant year is not available, the income tax return for the next previous year must be used for the calculation of weekly earnings until the earlier of the following events:
         
     *   (a) the first-mentioned income tax return is available; or
     
@@ -11812,7 +11854,7 @@ Weekly compensation
     
     *   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
     
-    (5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under [clauses 33 to 36][946].
+    (5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under [clauses 33 to 36][944].
     
     (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
     
@@ -11822,13 +11864,13 @@ Weekly compensation
     
     *   (b) does not authorise an increase to the rate of weekly compensation that is payable for a period before 1 July 2005\.
     
-    Schedule 1 clause 38: substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 38: substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Schedule 1 clause 38(3): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Schedule 1 clause 38(5): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 38(5): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 38(7): added, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 38(7): added, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 38A Weekly earnings if self-employed claimant had earnings as a shareholder-employee in the relevant year
     
@@ -11842,9 +11884,9 @@ Weekly compensation
     
     *   (d) had been employed continuously even though the claimant changed from receiving earnings as a shareholder-employee to receiving earnings as a self-employed person.
     
-    (2) The claimant's weekly earnings must be calculated under [clause 38(2)][953] using the claimant's earnings as a shareholder-employee as if they were the claimant's earnings as a self-employed person in the relevant year.
+    (2) The claimant's weekly earnings must be calculated under [clause 38(2)][951] using the claimant's earnings as a shareholder-employee as if they were the claimant's earnings as a self-employed person in the relevant year.
     
-    Schedule 1 clause 38A: inserted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 38A: inserted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 #### Shareholder-employee
 
@@ -11852,7 +11894,7 @@ Weekly compensation
     
 *   (1) The weekly earnings of a claimant who had earnings as a shareholder-employee immediately before his or her incapacity commenced are the higher of---
         
-    *   (a) the relevant amount calculated under [clause 34][947] or [clause 36][950], whichever is applicable; and
+    *   (a) the relevant amount calculated under [clause 34][945] or [clause 36][948], whichever is applicable; and
     
     *   (b) the relevant amount calculated under subclause (2).
     
@@ -11906,9 +11948,9 @@ Weekly compensation
     
     *   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
     
-    (4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under [clauses 33 to 36][946].
+    (4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under [clauses 33 to 36][944].
     
-    (5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of [clauses 33 to 36][946].
+    (5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of [clauses 33 to 36][944].
     
     (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
     
@@ -11918,15 +11960,15 @@ Weekly compensation
     
     *   (b) does not authorise an increase to the rate of weekly compensation that is payable for a period before 1 July 2005\.
     
-    Schedule 1 clause 39: substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 39: substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 39(1)(a): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 39(1)(a): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 39(4): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 39(4): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 39(5): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 39(5): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 39(7): added, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 39(7): added, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 40 Weekly earnings if claimant as shareholder-employee had earnings as self-employed person in relevant year
     
@@ -11940,47 +11982,47 @@ Weekly compensation
     
     *   (d) had been employed continuously even though the claimant changed from receiving earnings as a self-employed person to receiving earnings as a shareholder-employee.
     
-    (2) The claimant's weekly earnings must be calculated under [clause 39(2)][956] using the claimant's earnings as a self-employed person as if they were earnings as a shareholder-employee in the relevant year.
+    (2) The claimant's weekly earnings must be calculated under [clause 39(2)][954] using the claimant's earnings as a self-employed person as if they were earnings as a shareholder-employee in the relevant year.
     
-    Schedule 1 clause 40(2): substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 40(2): substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 #### Aggregation of calculations
 
 ##### 41 Calculations for multiple employment situations
     
-*   (1) Claimants to whom [clause 38][953] applies, and to whom [clauses 33 to 36][946] apply because they have earnings as an employee at the time their incapacity commences, may---
+*   (1) Claimants to whom [clause 38][951] applies, and to whom [clauses 33 to 36][944] apply because they have earnings as an employee at the time their incapacity commences, may---
         
     *   (a) have their weekly earnings calculated under clause 38 with the inclusion of their earnings as an employee; or
     
-    *   (b) have their weekly earnings calculated under [clause 38][953] excluding their earnings as an employee, but may also have their employee earnings calculated under [clauses 33 to 36][946] and aggregated under subclause (5).
+    *   (b) have their weekly earnings calculated under [clause 38][951] excluding their earnings as an employee, but may also have their employee earnings calculated under [clauses 33 to 36][944] and aggregated under subclause (5).
     
     (2) If a claimant's weekly earnings are calculated in accordance with subclause (1)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
     
-    (3) Claimants to whom [clause 39][956] applies, and to whom [clauses 33 to 36][946] apply because they have earnings as an employee at the time their incapacity commences, may---
+    (3) Claimants to whom [clause 39][954] applies, and to whom [clauses 33 to 36][944] apply because they have earnings as an employee at the time their incapacity commences, may---
         
     *   (a) have their weekly earnings calculated under clause 39 with the inclusion of their earnings as an employee; or
     
-    *   (b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under [clauses 33 to 36][946] and aggregated under subclause (5).
+    *   (b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under [clauses 33 to 36][944] and aggregated under subclause (5).
     
     (4) If a claimant's weekly earnings are calculated in accordance with subclause (3)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
     
-    (5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of [clause 34][947] or [clause 36][950] or [clause 38][953] or [clause 39][956], the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
+    (5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of [clause 34][945] or [clause 36][948] or [clause 38][951] or [clause 39][954], the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
     
-    (6) However, a claimant's weekly earnings calculated under [clause 34][947] or [clause 36][950] must not be aggregated with the claimant's weekly earnings under [clause 39][956] if the claimant's weekly earnings under clause 39 are his or her earnings under [clause 34][947] or [clause 36][950].
+    (6) However, a claimant's weekly earnings calculated under [clause 34][945] or [clause 36][948] must not be aggregated with the claimant's weekly earnings under [clause 39][954] if the claimant's weekly earnings under clause 39 are his or her earnings under [clause 34][945] or [clause 36][948].
     
-    Schedule 1 clause 41: substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 41: substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 41(1): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(1): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 41(1)(b): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(1)(b): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 41(3): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(3): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 41(3)(b): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(3)(b): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 41(5): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(5): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 41(6): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 41(6): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Adjustments for low earners
 
@@ -11996,7 +12038,7 @@ Weekly compensation
         
         
     
-    *   (b) had weekly earnings calculated under [clause 41][959] or, if that clause does not apply, under any of [clauses 34][947], [36][950], [38][953], or [39][956] of less than the minimum weekly earnings as determined under subclause (3); and
+    *   (b) had weekly earnings calculated under [clause 41][957] or, if that clause does not apply, under any of [clauses 34][945], [36][948], [38][951], or [39][954] of less than the minimum weekly earnings as determined under subclause (3); and
     
     *   (c) is incapacitated for more than 5 weeks after the incapacity first commenced.
     
@@ -12006,9 +12048,9 @@ Weekly compensation
         
     *   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of---
             
-        *   (i) the minimum weekly adult rate prescribed under [section 4][1002] of the Minimum Wage Act 1983; or
+        *   (i) the minimum weekly adult rate prescribed under [section 4][998] of the Minimum Wage Act 1983; or
         
-        *   (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the [Social Security Act 1964][814]; or
+        *   (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the [Social Security Act 1964][812]; or
         
         *   (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
         
@@ -12016,9 +12058,9 @@ Weekly compensation
     
     *   (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of---
             
-        *   (i) the minimum weekly adult rate prescribed under [section 4][1002] of the Minimum Wage Act 1983; or
+        *   (i) the minimum weekly adult rate prescribed under [section 4][998] of the Minimum Wage Act 1983; or
         
-        *   (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the [Social Security Act 1964][814]; or
+        *   (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the [Social Security Act 1964][812]; or
         
         *   (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
         
@@ -12040,29 +12082,29 @@ Weekly compensation
     
     Schedule 1 clause 42(1)(a)(i): amended, on 1 April 2007, by [section 13(1)][583] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007 (2007 No 8).
     
-    Schedule 1 clause 42(1)(b): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 42(1)(b): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 42(1)(c): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 42(1)(c): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 42(2): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 42(2): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 42(3): substituted, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 42(3): substituted, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 42(3)(a)(i): replaced, on 1 May 2013, by [section 6(2)][1003] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
+    Schedule 1 clause 42(3)(a)(i): replaced, on 1 May 2013, by [section 6(2)][999] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
     
-    Schedule 1 clause 42(3)(a)(ii): amended, on 15 July 2013, by [section 97][1004] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Schedule 1 clause 42(3)(a)(ii): amended, on 15 July 2013, by [section 97][1000] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Schedule 1 clause 42(3)(b): amended, on 1 July 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 42(3)(b): amended, on 1 July 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 42(3)(b)(i): replaced, on 1 May 2013, by [section 6(3)][1003] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
+    Schedule 1 clause 42(3)(b)(i): replaced, on 1 May 2013, by [section 6(3)][999] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
     
-    Schedule 1 clause 42(3)(b)(ii): amended, on 15 July 2013, by [section 97][1004] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    Schedule 1 clause 42(3)(b)(ii): amended, on 15 July 2013, by [section 97][1000] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Schedule 1 clause 42(4): repealed, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 42(4): repealed, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 42(5): repealed, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 42(5): repealed, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 42(6): repealed, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 42(6): repealed, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 #### Claimant no longer an employee
 
@@ -12112,7 +12154,7 @@ Weekly compensation
     
     *   (c) a shareholder-employee.
     
-    Schedule 1 clause 43: substituted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 43: substituted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 #### Employee on unpaid parental leave
 
@@ -12134,7 +12176,7 @@ Weekly compensation
     
     (6) Parental leave must not be treated as paid leave for the purposes of this clause only because the person may be entitled to a payment in respect of the leave under [Part 7A][593] of the Parental Leave and Employment Protection Act 1987\.
     
-    Schedule 1 clause 44(4): substituted, on 1 July 2005, by [section 60(4)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 44(4): substituted, on 1 July 2005, by [section 60(4)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Schedule 1 clause 44(6): added, on 1 July 2002, by [section 6][609] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
@@ -12150,7 +12192,7 @@ Weekly compensation
     
     (2) This clause applies while the Corporation cannot readily ascertain the claimant's actual weekly earnings.
     
-    (3) For the purposes of [clauses 38 to 40][953], in order to calculate the claimant's weekly earnings under this Part, the Corporation may estimate an amount that represents reasonable remuneration for the claimant until the earlier of---
+    (3) For the purposes of [clauses 38 to 40][951], in order to calculate the claimant's weekly earnings under this Part, the Corporation may estimate an amount that represents reasonable remuneration for the claimant until the earlier of---
         
     *   (a) the income tax return for the relevant year is available; or
     
@@ -12178,7 +12220,7 @@ Weekly compensation
     
     Compare: 1998 No 114 Schedule 1 cl 20
     
-    Schedule 1 clause 45(3): amended, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 45(3): amended, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 #### Maximum compensation
 
@@ -12222,15 +12264,15 @@ Weekly compensation
     
     (6) A claimant does not have any entitlement to weekly compensation for loss of earnings, if he or she has an entitlement under this clause to weekly compensation for loss of potential earning capacity that is greater than any entitlement he or she has to weekly compensation for loss of earnings under any other provision of this schedule.
     
-    (7) This clause is subject to [clauses 49 to 53][970].
+    (7) This clause is subject to [clauses 49 to 53][968].
     
     Compare: 1998 No 114 Schedule 1 cl 22
     
-    Schedule 1 clause 47(1A): inserted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 47(1A): inserted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 47(4): amended, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 47(4): amended, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 47(4): amended, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 47(4): amended, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 #### Further injury
 
@@ -12254,9 +12296,9 @@ Weekly compensation
     
     (2) \[Repealed\]
     
-    (3) In [clause 51(2)][680], _earnings_ includes any payment made on the termination of employment in respect of leave entitlements. The Corporation must treat such a payment as having been derived after the termination of employment for a period that is equal to the total period that the claimant could have taken as leave if the claimant had not received the payment.
+    (3) In [clause 51(2)][679], _earnings_ includes any payment made on the termination of employment in respect of leave entitlements. The Corporation must treat such a payment as having been derived after the termination of employment for a period that is equal to the total period that the claimant could have taken as leave if the claimant had not received the payment.
     
-    (4) In [clause 51(2)][680]---
+    (4) In [clause 51(2)][679]---
         
     *   (a) _earnings_ includes payments---
             
@@ -12272,13 +12314,13 @@ Weekly compensation
     
     Compare: 1998 No 114 Schedule 1 cl 23
     
-    Schedule 1 clause 49(1): repealed, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 49(1): repealed, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 49(2): repealed, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 49(2): repealed, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 49(3): substituted, on 1 July 2010, by [section 47(1)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 1 clause 49(3): substituted, on 1 July 2010, by [section 47(1)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 1 clause 49(4): amended, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 49(4): amended, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 50 Estimation for abatement purposes of earnings that cannot be ascertained
     
@@ -12306,7 +12348,7 @@ Weekly compensation
     
 *   (1) \[Repealed\]
     
-    (2) In calculating weekly compensation under this Part, the Corporation must reduce the amount of weekly compensation paid to a claimant so as to ensure that the total of the claimant's weekly compensation and earnings after his or her incapacity commences does not exceed the claimant's weekly earnings as calculated under [clauses 33 to 45][946] or [47][568].
+    (2) In calculating weekly compensation under this Part, the Corporation must reduce the amount of weekly compensation paid to a claimant so as to ensure that the total of the claimant's weekly compensation and earnings after his or her incapacity commences does not exceed the claimant's weekly earnings as calculated under [clauses 33 to 45][944] or [47][568].
     
     (3) \[Repealed\]
     
@@ -12314,11 +12356,11 @@ Weekly compensation
     
     Compare: 1998 No 114 Schedule 1 cl 24
     
-    Schedule 1 clause 51(1): repealed, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 51(1): repealed, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 51(2): amended, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 51(2): amended, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 51(3): repealed, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 51(3): repealed, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 #### Effect of New Zealand superannuation
 
@@ -12356,21 +12398,21 @@ Weekly compensation
     
     Compare: 1998 No 114 Schedule 1 cl 25
     
-    Schedule 1 clause 52(1)(a): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 52(1)(a): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 52(3): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 52(3): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 52(6): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 52(6): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
 
 ##### 53 Election for purposes of clause 52
     
-*   (1) A claimant must make an election under [clause 52(5) or (8)][662] within the period that is the later of the following:
+*   (1) A claimant must make an election under [clause 52(5) or (8)][661] within the period that is the later of the following:
         
     *   (a) within 1 month before the date on which the election would take effect; or
     
     *   (b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the claimant's case.
     
-    (2) The Corporation may allow a claimant to exercise or revoke an election under [clause 52(5) or (8)][662] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
+    (2) The Corporation may allow a claimant to exercise or revoke an election under [clause 52(5) or (8)][661] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
     
     Compare: 1998 No 114 Schedule 1 cl 26
 
@@ -12413,13 +12455,13 @@ Lump sum compensation for permanent impairment
     
     (5) This clause overrides [sections 36 to 38][46].
     
-    (6) Subclauses (2), (4), and (5) apply subject to [clauses 55A to 55D][975].
+    (6) Subclauses (2), (4), and (5) apply subject to [clauses 55A to 55D][972].
     
-    Schedule 1 clause 55(2)(c): added, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 55(2)(c): added, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule clause 55(3): substituted, on 1 July 2005, by [section 60(5)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule clause 55(3): substituted, on 1 July 2005, by [section 60(5)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 55(6): added, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 55(6): added, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 55A Certain persons may elect to receive either lump sum compensation or independence allowance: assessment, notification, and election
     
@@ -12431,7 +12473,7 @@ Lump sum compensation for permanent impairment
     
     *   (b) last performed the task or was employed in the environment in those circumstances before 1 April 2002; and
     
-    *   (c) suffered the personal injury on or after the date on which [section 33][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 came into force.
+    *   (c) suffered the personal injury on or after the date on which [section 33][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 came into force.
     
     (3) The Corporation must, after complying with subclause (1),---
         
@@ -12467,25 +12509,25 @@ Lump sum compensation for permanent impairment
     
     (7) [Section 64][78] applies to a notification by the Corporation under this clause as if the notification were a notice of a decision on a claim.
     
-    Schedule 1 clause 55A: inserted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 55A: inserted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 55B Certain persons may elect to receive either lump sum compensation or independence allowance: persons not entitled to make election under clause 55A
     
-*   (1) If the result of the Corporation's determination under [clause 55A(1)][975] is that the person does not meet the criteria for entitlement to both lump sum compensation and an independence allowance, the following provisions apply:
+*   (1) If the result of the Corporation's determination under [clause 55A(1)][972] is that the person does not meet the criteria for entitlement to both lump sum compensation and an independence allowance, the following provisions apply:
         
-    *   (a) if the person meets the criteria for entitlement to lump sum compensation but not an independence allowance, the person may not exercise the right of election under [clause 55A(4)][975] but is entitled to receive lump sum compensation:
+    *   (a) if the person meets the criteria for entitlement to lump sum compensation but not an independence allowance, the person may not exercise the right of election under [clause 55A(4)][972] but is entitled to receive lump sum compensation:
     
-    *   (b) if the person meets the criteria for entitlement to an independence allowance but not lump sum compensation, the person may not exercise the right of election under [clause 55A(4)][975] but is entitled to receive an independence allowance:
+    *   (b) if the person meets the criteria for entitlement to an independence allowance but not lump sum compensation, the person may not exercise the right of election under [clause 55A(4)][972] but is entitled to receive an independence allowance:
     
-    *   (c) if the person does not meet the criteria for entitlement to lump sum compensation or an independence allowance, the person may not exercise the right of election under [clause 55A(4)][975] and the Corporation must decline the person's claims to those entitlements.
+    *   (c) if the person does not meet the criteria for entitlement to lump sum compensation or an independence allowance, the person may not exercise the right of election under [clause 55A(4)][972] and the Corporation must decline the person's claims to those entitlements.
     
-    (2) However, the Corporation must again comply with [clause 55A(1)][975] in relation to a person if---
+    (2) However, the Corporation must again comply with [clause 55A(1)][972] in relation to a person if---
         
     *   (a) the person has been reassessed under clause 61 of Schedule 1 of the Accident Insurance Act 1998, and the reassessment indicates that the person's degree of whole-person impairment has changed; or
     
     *   (b) a review of the Corporation's decision (under [section 134][169]), or an appeal (under [section 149][186]), has resulted in a change to the assessment of the person's degree of whole-person impairment.
     
-    Schedule 1 clause 55B: inserted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 55B: inserted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 55C Certain persons may elect to receive either lump sum compensation or independence allowance: reassessment, notification, and further election
     
@@ -12503,7 +12545,7 @@ Lump sum compensation for permanent impairment
     
     (3) If either of the situations in subclause (2) apply, the Corporation must---
         
-    *   (a) provide the person with the information specified in [clause 55A(3)(b)][975], updated to take account of the change in circumstances; and
+    *   (a) provide the person with the information specified in [clause 55A(3)(b)][972], updated to take account of the change in circumstances; and
     
     *   (b) inform the person---
             
@@ -12521,29 +12563,29 @@ Lump sum compensation for permanent impairment
     
     (5) An election under subclause (4)(a) must be made in writing to the Corporation.
     
-    Schedule 1 clause 55C: inserted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 55C: inserted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 55D Certain persons may elect to receive either lump sum compensation or independence allowance: general
     
-*   (1) The information referred to in [clause 55C(3)(a)][977] must, in relation to the amount of lump sum compensation payable, take into account any amount of independence allowance paid to the person following his or her initial election, or deemed election, as the case may be, under [clause 55A(4)][975] or 55C(4).
+*   (1) The information referred to in [clause 55C(3)(a)][974] must, in relation to the amount of lump sum compensation payable, take into account any amount of independence allowance paid to the person following his or her initial election, or deemed election, as the case may be, under [clause 55A(4)][972] or 55C(4).
     
-    (2) If a claimant makes a further election, in accordance with [clause 55C(4)(a)][977], in which he or she elects to receive lump sum compensation, the amount of lump sum compensation payable must be reduced by any amount of independence allowance paid to the person---
+    (2) If a claimant makes a further election, in accordance with [clause 55C(4)(a)][974], in which he or she elects to receive lump sum compensation, the amount of lump sum compensation payable must be reduced by any amount of independence allowance paid to the person---
         
-    *   (a) following his or her initial election, or deemed election, as the case may be, under [clause 55A(4)][975] or [55C(4)][977]:
+    *   (a) following his or her initial election, or deemed election, as the case may be, under [clause 55A(4)][972] or [55C(4)][974]:
     
-    *   (b) in accordance with [clause 55B(1)(b)][976].
+    *   (b) in accordance with [clause 55B(1)(b)][973].
     
     (3) A person is not entitled to receive both a lump sum payment and an independence allowance in respect of the same personal injury.
     
     (4) However, subclause (3) does not apply to a person who has received---
         
-    *   (a) both entitlements (at different times) as a result of a further election made in accordance with [clause 55C][977]:
+    *   (a) both entitlements (at different times) as a result of a further election made in accordance with [clause 55C][974]:
     
     *   (b) an independence allowance before any right to election arose.
     
-    (5) Part 4 of Schedule 1 of the Accident Insurance Act 1998 applies for the purposes of deciding whether a person has an entitlement to an independence allowance for the purposes of [clauses 55A][975] and [55C][977].
+    (5) Part 4 of Schedule 1 of the Accident Insurance Act 1998 applies for the purposes of deciding whether a person has an entitlement to an independence allowance for the purposes of [clauses 55A][972] and [55C][974].
     
-    Schedule 1 clause 55D: inserted, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 55D: inserted, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
 
 ##### 56 Amount of lump sum compensation for permanent impairment
     
@@ -12603,7 +12645,7 @@ Lump sum compensation for permanent impairment
 
 ##### 58 Appointment of assessors
     
-*   (1) The Corporation must appoint and pay as many assessors as it considers necessary to do assessments under [clauses 59][897] and [61][980].
+*   (1) The Corporation must appoint and pay as many assessors as it considers necessary to do assessments under [clauses 59][897] and [61][977].
     
     (2) In appointing a person to be an assessor, the Corporation must have regard to the skills, qualifications, and training the Corporation considers appropriate for a person to do the assessments under those clauses.
 
@@ -12653,7 +12695,7 @@ Lump sum compensation for permanent impairment
 
 ##### 61 Reassessment of entitlement to lump sum compensation
     
-*   (1) [Clauses 54 to 60][974] apply to reassessments under this clause.
+*   (1) [Clauses 54 to 60][971] apply to reassessments under this clause.
     
     (2) The Corporation must arrange for an assessor to reassess a claimant if---
         
@@ -12730,7 +12772,7 @@ Entitlements arising from fatal injuries
     
     *   (b) the weekly compensation for loss of potential earning capacity to which the claimant would have been entitled at the end of 6 months of incapacity, had he or she lived but been totally incapacitated.
     
-    (3) Subclause (2) is subject to [clause 74][988].
+    (3) Subclause (2) is subject to [clause 74][984].
     
     (4) The Corporation must not cancel or suspend the surviving spouse's or partner's weekly compensation---
         
@@ -12758,15 +12800,15 @@ Entitlements arising from fatal injuries
     
     Schedule 1 clause 66(4): amended, on 26 April 2005, by [section 8(3)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 66(4)(a): substituted, on 26 April 2005, by [section 7][1005] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
+    Schedule 1 clause 66(4)(a): substituted, on 26 April 2005, by [section 7][1001] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 66(4)(b): repealed, on 26 April 2005, by [section 7][1005] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
+    Schedule 1 clause 66(4)(b): repealed, on 26 April 2005, by [section 7][1001] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
     Schedule 1 clause 66(5): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
     Schedule 1 clause 66(5)(b): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 66(5)(c): amended, on 1 August 2008, by [section 33(1)][1000] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 66(5)(c): amended, on 1 August 2008, by [section 33(1)][996] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
     Schedule 1 clause 66(5)(c): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
@@ -12796,7 +12838,7 @@ Entitlements arising from fatal injuries
     
     Schedule 1 clause 67(4): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 67(5): amended, on 1 July 2005, by [section 60(1)][664] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
+    Schedule 1 clause 67(5): amended, on 1 July 2005, by [section 60(1)][663] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
     Schedule 1 clause 67(5): amended, on 26 April 2005, by [section 8(1)][575] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
 
@@ -12844,7 +12886,7 @@ Entitlements arising from fatal injuries
 
 ##### 69 Election for purposes of clause 68
     
-*   (1) A surviving spouse or partner must make an election under [clause 68(2) or (5)][984] within the period that is the latest of the following:
+*   (1) A surviving spouse or partner must make an election under [clause 68(2) or (5)][980] within the period that is the latest of the following:
         
     *   (a) within 1 month before the date on which the election would take effect; or
     
@@ -12852,7 +12894,7 @@ Entitlements arising from fatal injuries
     
     *   (c) before 1 month before the surviving spouse or partner reaches New Zealand superannuation qualification age.
     
-    (2) The Corporation may allow a surviving spouse or partner to exercise or revoke an election under [clause 68(2) or (5)][984] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
+    (2) The Corporation may allow a surviving spouse or partner to exercise or revoke an election under [clause 68(2) or (5)][980] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
     
     Compare: 1998 No 114 Schedule 1 cl 69
     
@@ -12878,7 +12920,7 @@ Entitlements arising from fatal injuries
     
     *   (b) the compensation for loss of potential earning capacity to which the claimant would have been entitled at the end of 6 months of incapacity, had he or she lived but been totally incapacitated.
     
-    (3) Subclause (2) is subject to [clause 74][988].
+    (3) Subclause (2) is subject to [clause 74][984].
     
     (4) The Corporation must not cancel or suspend the child's weekly compensation because of the age that the claimant would have reached if he or she had not died.
     
@@ -12902,7 +12944,7 @@ Entitlements arising from fatal injuries
     
     *   (b) the compensation for loss of potential earning capacity to which the claimant would have been entitled at the end of 6 months of incapacity, had he or she lived but been totally incapacitated.
     
-    (3) Subclause (2) is subject to [clause 74][988].
+    (3) Subclause (2) is subject to [clause 74][984].
     
     (4) The Corporation must not cancel or suspend the other dependant's weekly compensation because of the age that the claimant would have reached if he or she had not died.
     
@@ -12910,7 +12952,7 @@ Entitlements arising from fatal injuries
         
     *   (a) the other dependant has or will have, over a period of 12 months, average earnings per week greater than the minimum weekly earnings as determined under [clause 42(3)][550]:
     
-    *   (b) if [clause 72][986] applies to the other dependant, the event occurs under that clause that ends the other dependant's entitlement to weekly compensation.
+    *   (b) if [clause 72][982] applies to the other dependant, the event occurs under that clause that ends the other dependant's entitlement to weekly compensation.
     
     Compare: 1998 No 114 Schedule 1 cl 71
 
@@ -12950,7 +12992,7 @@ Entitlements arising from fatal injuries
 
 ##### 73 Election for purposes of clause 72
     
-*   (1) The other dependant must make an election under [clause 72(5) or (8)][986] within the period that is the latest of the following:
+*   (1) The other dependant must make an election under [clause 72(5) or (8)][982] within the period that is the latest of the following:
         
     *   (a) within 1 month before the date on which the election would take effect; or
     
@@ -12958,7 +13000,7 @@ Entitlements arising from fatal injuries
     
     *   (c) before 1 month before the other dependant reaches New Zealand superannuation qualification age.
     
-    (2) The Corporation may allow any other dependant to exercise or revoke an election under [clause 72(5) or (8)][986] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
+    (2) The Corporation may allow any other dependant to exercise or revoke an election under [clause 72(5) or (8)][982] after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
     
     Compare: 1998 No 114 Schedule 1 cl 73
 
@@ -13137,30 +13179,30 @@ Occupational diseases
 
 *   41 Vitiligo diagnosed as caused by para-tertiary-butylphenol, para-tertiary-butylcatechol, para-amylphenol, hydroquinone, or the monobenzyl or monobutyl ether of hydroquinone.
 
-*   Schedule 2 item 18: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 19: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 20: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 21: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 22: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 23: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 24: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 25: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 26: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 27: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 28: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 29: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 30: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 31: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 32: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 33: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 34: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 35: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 36: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 37: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 38: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 39: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 40: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 41: added, on 17 January 2008, by [clause 4][1006] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 18: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 19: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 20: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 21: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 22: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 23: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 24: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 25: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 26: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 27: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 28: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 29: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 30: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 31: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 32: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 33: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 34: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 35: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 36: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 37: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 38: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 39: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 40: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 41: added, on 17 January 2008, by [clause 4][1002] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
 
 ---
 
@@ -13171,55 +13213,55 @@ Cover for mental injury caused by certain acts dealt with in Crimes Act 1961
 
 **Section** 
 
-[128B(1)][1007] Sexual violation
+[128B(1)][1003] Sexual violation
 
-[129(1)][1008] Attempted sexual violation
+[129(1)][1004] Attempted sexual violation
 
-[129(2)][1008] Assault with intent to commit sexual violation
+[129(2)][1004] Assault with intent to commit sexual violation
 
-[129A(1)][1009] Inducing sexual connection by threat
+[129A(1)][1005] Inducing sexual connection by threat
 
-[129A(2)][1009] Inducing indecent act by threat
+[129A(2)][1005] Inducing indecent act by threat
 
-[130][1010] Incest
+[130][1006] Incest
 
-[131(1)][1011] Sexual connection with dependent family member
+[131(1)][1007] Sexual connection with dependent family member
 
-[131(2)][1011] Attempted sexual connection with dependent family member
+[131(2)][1007] Attempted sexual connection with dependent family member
 
-[131(3)][1011] Indecent act with dependent family member
+[131(3)][1007] Indecent act with dependent family member
 
-[132(1)][1012] Sexual connection with child under 12
+[132(1)][1008] Sexual connection with child under 12
 
-[132(2)][1012] Attempted sexual connection with child under 12
+[132(2)][1008] Attempted sexual connection with child under 12
 
-[132(3)][1012] Indecent act on child under 12
+[132(3)][1008] Indecent act on child under 12
 
-[134(1)][1013] Sexual connection with young person under 16
+[134(1)][1009] Sexual connection with young person under 16
 
-[134(2)][1013] Attempted sexual connection with young person under 16
+[134(2)][1009] Attempted sexual connection with young person under 16
 
-[134(3)][1013] Indecent act on young person under 16
+[134(3)][1009] Indecent act on young person under 16
 
-[135][1014] Indecent assault
+[135][1010] Indecent assault
 
-[138(1)][1015] Exploitative sexual connection with person with significant impairment
+[138(1)][1011] Exploitative sexual connection with person with significant impairment
 
-[138(2)][1015] Attempted exploitative sexual connection with person with significant impairment
+[138(2)][1011] Attempted exploitative sexual connection with person with significant impairment
 
-[138(4)][1015] Exploitative indecent act with person with significant impairment
+[138(4)][1011] Exploitative indecent act with person with significant impairment
 
-[142A][1016] Compelling indecent act with animal
+[142A][1012] Compelling indecent act with animal
 
-[194][1017] Assault on a child, or by a male on a female. For the purposes of this schedule, [section 194][1017] of the Crimes Act 1961 must be regarded as relating only to situations where a female sexually assaults a child under 14 years old.
+[194][1013] Assault on a child, or by a male on a female. For the purposes of this schedule, [section 194][1013] of the Crimes Act 1961 must be regarded as relating only to situations where a female sexually assaults a child under 14 years old.
 
-[201][1018] Infecting with disease
+[201][1014] Infecting with disease
 
-[204A][1019] Female genital mutilation
+[204A][1015] Female genital mutilation
 
-[204B][1020] Further offences relating to female genital mutilation
+[204B][1016] Further offences relating to female genital mutilation
 
-*   Schedule 3: amended, on 20 May 2005, by [section 10][1021] of the Crimes Amendment Act 2005 (2005 No 41).
+*   Schedule 3: amended, on 20 May 2005, by [section 10][1017] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ---
 
@@ -13252,13 +13294,13 @@ Deductions on account of earner levies
     
     Schedule 4 clause 1: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 1: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(2)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 1: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(2)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 1(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
     Schedule 4 clause 1(c): amended, on 6 October 2009 (with effect on 1 April 2008, effective for 2008--09 income year and later), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 1(db): inserted, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(1)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 1(db): inserted, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(1)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 1(db): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
 
@@ -13272,27 +13314,27 @@ Deductions on account of earner levies
 
 *   4 If an employer or a PAYE intermediary makes a deduction under section 221(1) and fails to deal with the deduction or any part of it in the manner required by this Act, the deduction, to the extent to which the employer or the PAYE intermediary has not made payment of the deduction to the Corporation or an agent of the Corporation, in the application of the assets of the employer or the PAYE intermediary, ranks---
         
-    *   (a) equally with any amount of tax not paid by the employer or the PAYE intermediary, as provided for in [section 167(2)][1023] of the Tax Administration Act 1994; or
+    *   (a) equally with any amount of tax not paid by the employer or the PAYE intermediary, as provided for in [section 167(2)][1019] of the Tax Administration Act 1994; or
     
-    *   (b) if there are no such unpaid amounts of tax, in accordance with [section 167(2)][1023] of the Tax Administration Act 1994, as if the deduction were an amount of tax withheld and not paid by the employer or the PAYE intermediary.
+    *   (b) if there are no such unpaid amounts of tax, in accordance with [section 167(2)][1019] of the Tax Administration Act 1994, as if the deduction were an amount of tax withheld and not paid by the employer or the PAYE intermediary.
     
-    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(a)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(a)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 4(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 4(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 4(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 4(b): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4(b): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   5 In relation to an employee who is a private domestic worker, neither the employer of that employee nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer in respect of the employment of that employee as a private domestic worker; and section RD 4 of the Income Tax Act 2007 applies to that employee in respect of such amounts.
     
     Schedule 4 clause 5: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 5: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(4)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 5: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(4)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   6 For the purpose of section 221(1), the employer of a shareholder-employee is deemed to make payment to the shareholder-employee of the earnings as an employee for a tax year on the date that the employer finally determines the amount of the earnings as an employee of the shareholder employee for that tax year.
     
@@ -13300,17 +13342,17 @@ Deductions on account of earner levies
 
 *   7 An employer who makes a payment to a shareholder-employee must, within the time within which the employer is required to furnish a return of income under section 33 of the Tax Administration Act 1994, deliver a statement of the total amount of shareholder-employee earnings paid or payable by the employer for the tax year to which the return relates.
     
-    Schedule 4 clause 7: substituted, on 3 March 2010, by [section 47(2)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 4 clause 7: substituted, on 3 March 2010, by [section 47(2)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 *   8 Neither an employer of any person referred to in section LC 3 of the Income Tax Act 2007 nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer to that person, unless the employer or the PAYE intermediary withholds an amount of tax on account of income tax under the PAYE rules from any such amount.
     
     Schedule 4 clause 8: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][577] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(a)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(a)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(b)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(b)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(c)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(c)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   9 Despite clause 1, sections LA 3, LA 6, RA 2, RD 10, RD 11, RD 16, RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
     
@@ -13318,13 +13360,13 @@ Deductions on account of earner levies
 
 *   10 Except to the extent specified in clause 11, the following Parts of the Tax Administration Act 1994 (those provisions) apply to earner levies payable under section 219, namely,---
         
-    *   (a) [Part 7][1024]---interest (but subject to [section 157A][1025] of the Tax Administration Act 1994); and
+    *   (a) [Part 7][1020]---interest (but subject to [section 157A][1021] of the Tax Administration Act 1994); and
     
-    *   (b) [Part 9][1026]---insofar as the Part applies to establishing late payment and shortfall penalties (but subject to section 157A of the Tax Administration Act 1994); and
+    *   (b) [Part 9][1022]---insofar as the Part applies to establishing late payment and shortfall penalties (but subject to section 157A of the Tax Administration Act 1994); and
     
-    *   (c) [Part 10][1027]---recoveries; and
+    *   (c) [Part 10][1023]---recoveries; and
     
-    *   (d) [Part 11][1028]---insofar as the Part provides rights of remission, relief, and refunds in respect of interest, and late payment penalties and shortfall penalties,---
+    *   (d) [Part 11][1024]---insofar as the Part provides rights of remission, relief, and refunds in respect of interest, and late payment penalties and shortfall penalties,---
     
     and as if they were set out in full in this Act, but with---
         
@@ -13372,33 +13414,33 @@ Deductions on account of earner levies
     
     Schedule 4 clause 16(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][581] of the Income Tax Act 2004 (2004 No 35).
     
-    Schedule 4 clause 16(b): substituted, on 3 March 2010, by [section 47(2)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 4 clause 16(b): substituted, on 3 March 2010, by [section 47(2)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 *   17 The amount of any levy payable under this Act and clause 16 must have credited towards it the sum of the deductions (excluding any penalty charged or imposed under clause 10 of Schedule 5 of the Accident Insurance Act 1998) made by an employer of the employee or by a PAYE intermediary under section 221 on account of that levy.
     
-    Schedule 4 clause 17: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(8)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 17: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(8)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   18 If the sum of the levy deductions from a person's earnings as an employee on account of the earner levy payable by the person exceeds the amount of the earner levy payable on the specified maximum of the levy, the Corporation or its agent must refund the excess to the employee.
     
-    Schedule 4 clause 18: amended, on 3 March 2010, by [section 47(2)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 4 clause 18: amended, on 3 March 2010, by [section 47(2)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(a)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(a)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(b)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(b)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   19 If a person with earnings as an employee is not required to furnish a return of income or an income statement under the Tax Administration Act 1994, and does not in fact do so,---
         
-    *   (a) the amount of the earner levy payable under [clause 16][1029] is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under [section 221][278]; and
+    *   (a) the amount of the earner levy payable under [clause 16][1025] is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under [section 221][278]; and
     
     *   (b) the person need not deliver a statement of earnings as an employee under clause 16\.
     
-    Schedule 4 clause 19(a): amended, on 3 March 2010, by [section 47(2)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 4 clause 19(a): amended, on 3 March 2010, by [section 47(2)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 4 clause 19(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(10)][1022] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 19(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(10)][1018] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   20 If the Corporation is satisfied that the amount of levy payable by a person under clause 19 exceeds the amount that would be payable if the levy amount were determined under clause 16, the Corporation must refund to the person the amount of the excess or, at the Corporation's option, credit the excess in payment of any earner levy due and unpaid by the person.
     
-    Schedule 4 clause 20: amended, on 3 March 2010, by [section 47(2)][1001] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 4 clause 20: amended, on 3 March 2010, by [section 47(2)][997] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 *   21 The Corporation may not refund or give credit for any amount under clause 20 more than 4 years after the end of the tax year in respect of which the levy is payable, unless written application for a refund or credit is made to the Corporation by or on behalf of the person concerned before the end of the 4-year period.
     
@@ -13537,7 +13579,7 @@ Provisions relating to Corporation
     
     (2) The chief executive may not be a member of the Board.
     
-    (3) [Section 117][1030] of the Crown Entities Act 2004 applies to the appointment of a chief executive under this clause.
+    (3) [Section 117][1026] of the Crown Entities Act 2004 applies to the appointment of a chief executive under this clause.
     
     Compare: 1998 No 114 Schedule 6 cl 17
     
@@ -13591,7 +13633,7 @@ Provisions relating to Corporation
 
 ##### 25 Additional persons to whom delegations can be made
     
-*   Despite [section 73(1)(d)][1031] of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
+*   Despite [section 73(1)(d)][1027] of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
     
     Schedule 5 clause 25: substituted, on 25 January 2005, by [section 200][578] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -13607,11 +13649,11 @@ Acts amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1032]._
+_Amendment(s) incorporated in the [Act(s)][1028]._
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][1033]._
+_Amendment(s) incorporated in the [Act(s)][1029]._
 
 ##### Carriage by Air Act 1967 (1967 No 151)
 
@@ -13619,7 +13661,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1034]._
+_Amendment(s) incorporated in the [Act(s)][1030]._
 
 ##### Civil Defence Act 1983 (1983 No 46)
 
@@ -13627,59 +13669,59 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][1035]._
+_Amendment(s) incorporated in the [Act(s)][1031]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][1036]_.
+_Amendment(s) incorporated in the [Act(s)][1032]_.
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][1037]._
+_Amendment(s) incorporated in the [Act(s)][1033]._
 
 ##### Deaths by Accident Compensation Act 1952 (1952 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1038]._
+_Amendment(s) incorporated in the [Act(s)][1034]._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1039]._
+_Amendment(s) incorporated in the [Act(s)][1035]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][1040]._
+_Amendment(s) incorporated in the [Act(s)][1036]._
 
 ##### District Courts Act 1947 (1947 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][694]._
+_Amendment(s) incorporated in the [Act(s)][693]._
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1041]._
+_Amendment(s) incorporated in the [Act(s)][1037]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][1042]._
+_Amendment(s) incorporated in the [Act(s)][1038]._
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][1043]._
+_Amendment(s) incorporated in the [Act(s)][1039]._
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][1044]._
+_Amendment(s) incorporated in the [Act(s)][1040]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1045]._
+_Amendment(s) incorporated in the [Act(s)][1041]._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1046]._
+_Amendment(s) incorporated in the [Act(s)][1042]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][1047]._
+_Amendment(s) incorporated in the [Act(s)][1043]._
 
 ##### Health and Disability Services Act 1993 (1993 No 22)
 
@@ -13695,23 +13737,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][1048]._
+_Amendment(s) incorporated in the [Act(s)][1044]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][1049]._
+_Amendment(s) incorporated in the [Act(s)][1045]._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][1050]._
+_Amendment(s) incorporated in the [Act(s)][1046]._
 
 ##### Judicature Act 1908 (1908 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1051]._
+_Amendment(s) incorporated in the [Act(s)][731]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1052]._
+_Amendment(s) incorporated in the [Act(s)][1047]._
 
 ##### Medical Practitioners Act 1995 (1995 No 95)
 
@@ -13719,7 +13761,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Minors' Contracts Act 1969 (1969 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][1053]._
+_Amendment(s) incorporated in the [Act(s)][1048]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -13727,15 +13769,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1054]._
+_Amendment(s) incorporated in the [Act(s)][1049]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][1055]_.
+_Amendment(s) incorporated in the [Act(s)][1050]_.
 
 ##### Sharemilking Agreements Act 1937 (1937 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][1056]._
+_Amendment(s) incorporated in the [Act(s)][1051]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
@@ -13743,38 +13785,38 @@ _Amendment(s) incorporated in the [Act(s)][838]._
 
 ##### Social Welfare (Transitional Provisions) Act 1990 (1990 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][1057]_.
+_Amendment(s) incorporated in the [Act(s)][1052]_.
 
 ##### Statutory Land Charges Registration Act 1928 (1928 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][1058]._
+_Amendment(s) incorporated in the [Act(s)][1053]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][1059]._
+_Amendment(s) incorporated in the [Act(s)][1054]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][1060]._
+_Amendment(s) incorporated in the [Act(s)][1055]._
 
 ##### Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1061]._
+_Amendment(s) incorporated in the [Act(s)][1056]._
 
 ##### Trustee Companies Act 1967 (1967 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1062]._
+_Amendment(s) incorporated in the [Act(s)][1057]._
 
 ## Part 2  
 Regulations amended
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][1063]._
+_Amendment(s) incorporated in the [rules][1058]._
 
 ##### Health Entitlement Cards Regulations 1993 (SR 1993/169)
 
-_Amendment(s) incorporated in the [regulations][1064]._
+_Amendment(s) incorporated in the [regulations][1059]._
 
 ---
 
@@ -13785,11 +13827,11 @@ Consequential tax amendments
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][1065]._
+_Amendment(s) incorporated in the [Act(s)][1060]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][1066]_.
+_Amendment(s) incorporated in the [Act(s)][1061]_.
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
@@ -13836,7 +13878,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1067].
+*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1062].
     
     (2) In this Act, the Injury Prevention, Rehabilitation, and Compensation Act 2001 is called ""the principal Act"".
 
@@ -13884,7 +13926,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005][1068].
+*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005][1063].
     
     (2) In this Act, the Injury Prevention, Rehabilitation, and Compensation Act 2001 is called ""the principal Act"".
 
@@ -13965,7 +14007,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1069].
+*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1064].
 
 ##### 2 Commencement
     
@@ -14006,7 +14048,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1070].
+*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1065].
 
 ##### 2 Commencement
     
@@ -14078,7 +14120,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Accident Compensation Amendment Act 2010][1071].
+*   This Act is the [Accident Compensation Amendment Act 2010][1066].
 
 ##### 2 Commencement
     
@@ -14249,67 +14291,67 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1072] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1073] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1067] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1068] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1074] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1075] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1069] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1070] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Accident Compensation Amendment Act (No 2) 2013][1076] (2013 No 105)
+*   [Accident Compensation Amendment Act (No 2) 2013][1071] (2013 No 105)
     
     WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][591]
     
-    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][579]
+    Crown Entities Amendment Act 2013 (2013 No 51): [sections 42][579], [72][825]
     
-    [Accident Compensation Amendment Act 2013][1077] (2013 No 44)
+    [Accident Compensation Amendment Act 2013][1072] (2013 No 44)
     
     Education Amendment Act 2013 (2013 No 34): [section 42][589]
     
-    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 65(1)][815], [97][1004]
+    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 65(1)][813], [97][1000]
     
     Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [section 16(1)][608]
     
-    Student Loan Scheme Amendment Act 2013 (2013 No 10): [section 45][722]
+    Student Loan Scheme Amendment Act 2013 (2013 No 10): [section 45][720]
     
-    Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8): [section 6][1003]
+    Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8): [section 6][999]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][645]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][872]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][721]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][719]
     
-    Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][720]
+    Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][718]
     
     Health Practitioners Competence Assurance (Designation of Anaesthetic Technology Services as Health Profession) Order 2011 (SR 2011/227): [clause 6(2)][584]
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][719]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][717]
     
-    [Accident Compensation Amendment Act 2010][1071] (2010 No 1)
+    [Accident Compensation Amendment Act 2010][1066] (2010 No 1)
     
-    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][775]
+    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][773]
     
     Immigration Act 2009 (2009 No 51): [section 406(1) ][617]
     
     Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][590]
     
-    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][778]
+    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][776]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1070] (2008 No 46)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1065] (2008 No 46)
     
-    [Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Act 2008][1078] (2008 No 26)
+    [Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Act 2008][1073] (2008 No 26)
     
-    [Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007][1079] (SR 2007/402)
+    [Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007][1074] (SR 2007/402)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][577]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1069] (2007 No 8)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1064] (2007 No 8)
     
-    KiwiSaver Act 2006 (2006 No 40): [section 231][723]
+    KiwiSaver Act 2006 (2006 No 40): [section 231][721]
     
-    Education Amendment Act 2006 (2006 No 19): [section 60(1)][999]
+    Education Amendment Act 2006 (2006 No 19): [section 60(1)][995]
     
     [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005][623] (2005 No 45)
     
@@ -14317,23 +14359,23 @@ Miscellaneous provisions
     
     Crimes Amendment Act 2005 (2005 No 41): section 10
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005][1080] (2005 No 12)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005][1075] (2005 No 12)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][578]
     
-    Corrections Act 2004 (2004 No 50): [section 206][689]
+    Corrections Act 2004 (2004 No 50): [section 206][688]
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][581]
     
     Holidays Act 2003 (2003 No 129): [section 91(2)][869]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003][1081] (2003 No 80)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003][1076] (2003 No 80)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][576]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][732]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][730]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1067] (2003 No 29)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1062] (2003 No 29)
     
     Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [sections 165--169][582]
     
@@ -14894,7 +14936,7 @@ Miscellaneous provisions
 [542]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1519947
 [543]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM387495
 [544]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM397288
-[545]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104542
+[545]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508246
 [546]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM90420
 [547]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM433619
 [548]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM204101
@@ -14921,7 +14963,7 @@ Miscellaneous provisions
 [569]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105430
 [570]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105446
 [571]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105447
-[572]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104822
+[572]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508252
 [573]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5302049
 [574]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347056
 [575]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335973
@@ -15009,180 +15051,180 @@ Miscellaneous provisions
 [657]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104804
 [658]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104809
 [659]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347203
-[660]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM100603
-[661]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104562
-[662]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105404
-[663]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107516
-[664]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347253
-[665]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107517
-[666]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107518
-[667]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417517
-[668]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM60376
-[669]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104815
-[670]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107519
-[671]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347205
-[672]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107520
-[673]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347206
-[674]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104816
-[675]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104820
-[676]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347207
-[677]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217615
-[678]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147379
-[679]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104889
-[680]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105402
-[681]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105428
-[682]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105455
-[683]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347208
-[684]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417518
-[685]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105425
-[686]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM327381
-[687]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105409
-[688]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM294857
-[689]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297136
-[690]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104547
-[691]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417520
-[692]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM219060
-[693]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM219062
-[694]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243965
-[695]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312228
-[696]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312591
-[697]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312596
-[698]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312606
-[699]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312616
-[700]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312620
-[701]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312627
-[702]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM361558
-[703]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM257729
-[704]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM363707
-[705]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM364857
-[706]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41253
-[707]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41263
-[708]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41281
-[709]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41287
-[710]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM257735
-[711]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM253150
-[712]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180098
-[713]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180161
-[714]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180259
-[715]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180387
-[716]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM379030
-[717]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356984
-[718]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5588338
-[719]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2478612
-[720]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3556289
-[721]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180446
-[722]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4683018
-[723]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM379482
-[724]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5300206
-[725]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105436
-[726]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347209
-[727]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347210
-[728]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347211
-[729]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347213
-[730]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347214
-[731]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM244468
-[732]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM201378
-[733]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147655
-[734]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243909
-[735]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243795
-[736]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198333
-[737]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417523
-[738]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417533
-[739]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417524
-[740]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107522
-[741]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347216
-[742]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107523
-[743]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405290
-[744]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107524
-[745]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405292
-[746]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417526
-[747]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417527
-[748]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517685
-[749]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517705
-[750]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517711
-[751]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517180
-[752]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517190
-[753]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517197
-[754]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517199
-[755]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405294
-[756]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417530
-[757]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217616
-[758]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405296
-[759]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405297
-[760]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347218
-[761]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405299
-[762]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405601
-[763]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM58316
-[764]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417531
-[765]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2738203
-[766]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106374
-[767]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347224
-[768]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417534
-[769]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2214226
-[770]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3705507
-[771]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2642621
-[772]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM377336
-[773]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417535
-[774]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198335
-[775]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2376744
-[776]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2773708
-[777]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198336
-[778]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1382846
-[779]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417537
-[780]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198337
-[781]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417540
-[782]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4607209
-[783]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3701424
-[784]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198338
-[785]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2773709
-[786]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347225
-[787]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417542
-[788]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417543
-[789]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417544
-[790]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417545
-[791]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417548
-[792]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187133
-[793]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417549
-[794]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM120103
-[795]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347226
-[796]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107525
-[797]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417550
-[798]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329630
-[799]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347227
-[800]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347228
-[801]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330351
-[802]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347229
-[803]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417551
-[804]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417552
-[805]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417553
-[806]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417555
-[807]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198339
-[808]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417556
-[809]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3360415
-[810]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347232
-[811]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297962
-[812]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417557
-[813]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107526
-[814]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM359106
-[815]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4750264
-[816]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198341
-[817]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM163137
-[818]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330342
-[819]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417559
-[820]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329954
-[821]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329995
-[822]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM51363
-[823]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330577
-[824]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330504
-[825]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330542
-[826]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330543
-[827]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330501
-[828]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330364
-[829]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417561
-[830]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347234
-[831]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107528
-[832]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330345
-[833]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330552
+[660]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104562
+[661]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105404
+[662]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107516
+[663]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347253
+[664]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107517
+[665]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107518
+[666]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417517
+[667]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM60376
+[668]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104815
+[669]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107519
+[670]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347205
+[671]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107520
+[672]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347206
+[673]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104816
+[674]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104820
+[675]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347207
+[676]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217615
+[677]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147379
+[678]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104889
+[679]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105402
+[680]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105428
+[681]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105455
+[682]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347208
+[683]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417518
+[684]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508269
+[685]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM327381
+[686]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508268
+[687]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM294857
+[688]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297136
+[689]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104547
+[690]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417520
+[691]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM219060
+[692]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM219062
+[693]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243965
+[694]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312228
+[695]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312591
+[696]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312596
+[697]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312606
+[698]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312616
+[699]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312620
+[700]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM312627
+[701]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM257729
+[702]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM363707
+[703]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM364857
+[704]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41253
+[705]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41263
+[706]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41281
+[707]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM41287
+[708]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM257735
+[709]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM253150
+[710]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180098
+[711]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180161
+[712]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180259
+[713]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180387
+[714]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM379030
+[715]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356984
+[716]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5588338
+[717]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2478612
+[718]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3556289
+[719]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3180446
+[720]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4683018
+[721]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM379482
+[722]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5300206
+[723]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105436
+[724]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347209
+[725]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347210
+[726]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347211
+[727]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347213
+[728]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347214
+[729]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM244468
+[730]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM201378
+[731]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147653
+[732]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243909
+[733]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM243795
+[734]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198333
+[735]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417523
+[736]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417533
+[737]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417524
+[738]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107522
+[739]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347216
+[740]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107523
+[741]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405290
+[742]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107524
+[743]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405292
+[744]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417526
+[745]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417527
+[746]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517685
+[747]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517705
+[748]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517711
+[749]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517180
+[750]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517190
+[751]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517197
+[752]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1517199
+[753]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405294
+[754]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417530
+[755]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217616
+[756]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405296
+[757]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405297
+[758]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347218
+[759]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405299
+[760]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405601
+[761]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM58316
+[762]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417531
+[763]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2738203
+[764]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106374
+[765]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347224
+[766]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417534
+[767]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2214226
+[768]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3705507
+[769]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2642621
+[770]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM377336
+[771]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417535
+[772]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198335
+[773]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2376744
+[774]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2773708
+[775]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198336
+[776]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1382846
+[777]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417537
+[778]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198337
+[779]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417540
+[780]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4607209
+[781]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3701424
+[782]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198338
+[783]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2773709
+[784]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347225
+[785]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417542
+[786]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417543
+[787]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417544
+[788]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417545
+[789]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417548
+[790]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187133
+[791]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417549
+[792]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM120103
+[793]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347226
+[794]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107525
+[795]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417550
+[796]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329630
+[797]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347227
+[798]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347228
+[799]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330351
+[800]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347229
+[801]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417551
+[802]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417552
+[803]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417553
+[804]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417555
+[805]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198339
+[806]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417556
+[807]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM3360415
+[808]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347232
+[809]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297962
+[810]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417557
+[811]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107526
+[812]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM359106
+[813]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4750264
+[814]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198341
+[815]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM163137
+[816]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330342
+[817]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417559
+[818]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329954
+[819]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329995
+[820]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM51363
+[821]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM6176677
+[822]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM160819
+[823]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330552
+[824]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329978
+[825]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5327162
+[826]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330504
+[827]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330542
+[828]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330501
+[829]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330364
+[830]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417561
+[831]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM347234
+[832]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107528
+[833]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330345
 [834]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330556
 [835]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330557
 [836]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330558
@@ -15268,166 +15310,161 @@ Miscellaneous provisions
 [916]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217624
 [917]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217625
 [918]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM279918
-[919]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508246
-[920]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508247
-[921]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104544
-[922]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104546
-[923]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104550
-[924]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104551
-[925]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508248
-[926]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104553
-[927]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104556
-[928]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104557
-[929]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508249
-[930]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508250
-[931]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104597
-[932]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104800
-[933]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104803
-[934]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104807
-[935]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104808
-[936]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104813
-[937]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508251
-[938]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104817
-[939]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104818
-[940]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104821
-[941]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508252
-[942]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104823
-[943]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104827
-[944]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508253
-[945]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508254
-[946]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104832
-[947]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104833
-[948]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM3084200
-[949]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104839
-[950]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104840
-[951]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508256
-[952]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104847
-[953]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104848
-[954]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104857
-[955]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508257
-[956]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104860
-[957]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104868
-[958]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508258
-[959]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104871
-[960]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508259
-[961]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508260
-[962]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508261
-[963]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508262
-[964]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104887
-[965]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508263
-[966]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508264
-[967]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508265
-[968]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104893
-[969]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508266
-[970]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104895
-[971]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105401
-[972]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508267
-[973]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508268
-[974]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105410
-[975]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663927
-[976]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663928
-[977]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663929
-[978]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663930
-[979]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105418
-[980]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105421
-[981]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105424
-[982]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508269
-[983]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105426
-[984]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105440
-[985]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105443
-[986]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105448
-[987]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105449
-[988]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105450
-[989]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105451
-[990]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508270
-[991]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105456
-[992]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105457
-[993]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM175958
-[994]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178227
-[995]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178235
-[996]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178251
-[997]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187091
-[998]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177471
-[999]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM373082
-[1000]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107536
-[1001]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417566
-[1002]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM74414
-[1003]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4752325
-[1004]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4542434
-[1005]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335972
-[1006]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013908
-[1007]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329064
-[1008]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329070
-[1009]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329075
-[1010]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329081
-[1011]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329085
-[1012]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329203
-[1013]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329212
-[1014]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329219
-[1015]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329227
-[1016]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329256
-[1017]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329383
-[1018]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329704
-[1019]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329734
-[1020]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329750
-[1021]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM346419
-[1022]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187135
-[1023]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357456
-[1024]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM354985
-[1025]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357421
-[1026]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356110
-[1027]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356976
-[1028]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM358317
-[1029]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106117
-[1030]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330367
-[1031]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330308
-[1032]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM393030
-[1033]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM403873
-[1034]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM153483
-[1035]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM144996
-[1036]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM76615
-[1037]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM378623
-[1038]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM265858
-[1039]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM437001
-[1040]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM134112
-[1041]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM59960
-[1042]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM97304
-[1043]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM39728
-[1044]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324887
-[1045]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM433541
-[1046]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM443395
-[1047]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM334112
-[1048]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM269821
-[1049]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM304475
-[1050]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM383234
-[1051]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147653
-[1052]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM336205
-[1053]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM392392
-[1054]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297916
-[1055]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324284
-[1056]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM222520
-[1057]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM203578
-[1058]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM204876
-[1059]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM311866
-[1060]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM290975
-[1061]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM91421
-[1062]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM381446
-[1063]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM161099
-[1064]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177247
-[1065]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM81877
-[1066]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1184504
-[1067]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198324
-[1068]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM99493
-[1069]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405280
-[1070]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1106382
-[1071]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417500
-[1072]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998516
-[1073]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998515
-[1074]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998532
-[1075]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1076]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4607200
-[1077]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5300200
-[1078]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1210503
-[1079]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013900
-[1080]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335959
-[1081]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217609
+[919]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508247
+[920]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104544
+[921]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104546
+[922]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104550
+[923]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104551
+[924]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508248
+[925]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104553
+[926]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104556
+[927]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104557
+[928]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508249
+[929]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508250
+[930]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104597
+[931]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104800
+[932]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104803
+[933]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104807
+[934]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104808
+[935]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104813
+[936]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508251
+[937]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104817
+[938]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104818
+[939]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104821
+[940]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104823
+[941]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104827
+[942]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508253
+[943]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508254
+[944]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104832
+[945]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104833
+[946]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM3084200
+[947]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104839
+[948]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104840
+[949]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508256
+[950]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104847
+[951]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104848
+[952]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104857
+[953]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508257
+[954]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104860
+[955]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104868
+[956]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508258
+[957]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104871
+[958]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508259
+[959]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508260
+[960]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508261
+[961]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508262
+[962]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104887
+[963]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508263
+[964]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508264
+[965]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508265
+[966]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104893
+[967]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508266
+[968]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM104895
+[969]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105401
+[970]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508267
+[971]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105410
+[972]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663927
+[973]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663928
+[974]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663929
+[975]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM1663930
+[976]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105418
+[977]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105421
+[978]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105424
+[979]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105426
+[980]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105440
+[981]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105443
+[982]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105448
+[983]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105449
+[984]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105450
+[985]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105451
+[986]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM2508270
+[987]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105456
+[988]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM105457
+[989]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM175958
+[990]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178227
+[991]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178235
+[992]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM178251
+[993]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187091
+[994]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177471
+[995]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM373082
+[996]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107536
+[997]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417566
+[998]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM74414
+[999]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4752325
+[1000]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4542434
+[1001]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335972
+[1002]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013908
+[1003]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329064
+[1004]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329070
+[1005]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329075
+[1006]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329081
+[1007]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329085
+[1008]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329203
+[1009]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329212
+[1010]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329219
+[1011]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329227
+[1012]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329256
+[1013]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329383
+[1014]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329704
+[1015]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329734
+[1016]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329750
+[1017]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM346419
+[1018]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187135
+[1019]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357456
+[1020]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM354985
+[1021]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357421
+[1022]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356110
+[1023]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356976
+[1024]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM358317
+[1025]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106117
+[1026]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330367
+[1027]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330308
+[1028]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM393030
+[1029]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM403873
+[1030]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM153483
+[1031]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM144996
+[1032]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM76615
+[1033]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM378623
+[1034]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM265858
+[1035]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM437001
+[1036]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM134112
+[1037]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM59960
+[1038]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM97304
+[1039]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM39728
+[1040]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324887
+[1041]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM433541
+[1042]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM443395
+[1043]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM334112
+[1044]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM269821
+[1045]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM304475
+[1046]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM383234
+[1047]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM336205
+[1048]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM392392
+[1049]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297916
+[1050]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324284
+[1051]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM222520
+[1052]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM203578
+[1053]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM204876
+[1054]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM311866
+[1055]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM290975
+[1056]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM91421
+[1057]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM381446
+[1058]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM161099
+[1059]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177247
+[1060]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM81877
+[1061]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1184504
+[1062]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198324
+[1063]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM99493
+[1064]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405280
+[1065]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1106382
+[1066]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417500
+[1067]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998516
+[1068]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998515
+[1069]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2998532
+[1070]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1071]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4607200
+[1072]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM5300200
+[1073]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1210503
+[1074]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013900
+[1075]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335959
+[1076]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217609
