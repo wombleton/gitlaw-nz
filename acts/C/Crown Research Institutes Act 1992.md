@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -400,11 +400,13 @@ Formation and ownership of Crown Research Institutes
     
     (3) The [Crown Entities Act 2004][74] applies to a Crown entity subsidiary of a Crown Research Institute except to the extent that this Act expressly provides otherwise.
     
-    (4) [Sections 97][82], [100][83], and [138 to 157][84] of the Crown Entities Act 2004 do not apply to a Crown entity subsidiary of a Crown Research Institute.
+    (4) [Sections 97][82], [100][83], and [138 to 157A][84] of the Crown Entities Act 2004 do not apply to a Crown entity subsidiary of a Crown Research Institute.
     
     (5) The [Companies Act 1993][87] applies to a Crown entity subsidiary of a Crown Research Institute as provided in [section 102][90] of the Crown Entities Act 2004, or as otherwise modified by this Act.
     
     Section 12: substituted, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 12(4): amended, on 1 July 2014, by [section 72][91] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 13 Acquisition of shares or interests in companies, trusts, and partnerships
     
@@ -452,11 +454,11 @@ Formation and ownership of Crown Research Institutes
     
     and any board to whom such a notice is given shall comply with the notice.
     
-    (2) [Section 115][91] of the Crown Entities Act 2004 applies to a direction under subsection (1).
+    (2) [Section 115][92] of the Crown Entities Act 2004 applies to a direction under subsection (1).
     
     (3) \[Repealed\]
     
-    Compare: 1986 No 124 [s 13][92]
+    Compare: 1986 No 124 [s 13][93]
     
     Section 15(1): amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -511,7 +513,7 @@ Accountability
     
     *   (b) be published as soon as practicable after it has been presented to the House of Representatives under [section 19][24].
     
-    Compare: 1986 No 124 [s 14][93]; 1992 No 27 [s 3][94]
+    Compare: 1986 No 124 [s 14][94]; 1992 No 27 [s 3][95]
     
     Section 16(2): amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -533,7 +535,7 @@ Accountability
     
     *   (c) the auditor's report on those financial statements; and
     
-    *   (d) a statement of responsibility for the financial statements that, with any necessary modifications, complies with [section 155][95] of the Crown Entities Act 2004\.
+    *   (d) a statement of responsibility for the financial statements that, with any necessary modifications, complies with [section 155][96] of the Crown Entities Act 2004\.
     
     (2) Every report under subsection (1)(a) shall---
         
@@ -545,7 +547,7 @@ Accountability
     
     *   (d) contain any direction given by the Minister in writing to the board of the Crown Research Institute under this Act during that financial year; and
     
-    *   (e) include, in respect of the Crown Research Institute and each of its Crown entity subsidiaries, the information in [section 152][96] of the Crown Entities Act 2004\.
+    *   (e) include, in respect of the Crown Research Institute and each of its Crown entity subsidiaries, the information in [section 152][97] of the Crown Entities Act 2004\.
     
     (3) The shareholding Ministers may, if the Ministers are satisfied that it would be unduly onerous on a parent Crown Research Institute to comply with the requirement, grant an exemption from the requirement for a report under subsection (1)(a) to cover a multi-parent subsidiary, or contain any particular information in relation to a multi-parent subsidiary.
     
@@ -553,7 +555,7 @@ Accountability
     
     (5) Each Crown Research Institute must publish the documents required by subsection (1) as soon as practicable after it has been presented to the House of Representatives under [section 19][24].
     
-    Compare: 1986 No 124 [s 15][97]
+    Compare: 1986 No 124 [s 15][98]
     
     Section 17 heading: amended, on 1 April 2014, by [section 126][69] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
@@ -587,7 +589,7 @@ Accountability
     
     (2) Each report required by this section shall include the information required by the statement of corporate intent to be included in the report.
     
-    Compare: 1986 No 124 [s 16][98]
+    Compare: 1986 No 124 [s 16][99]
 
 ##### 19 Information to be laid before House of Representatives
     
@@ -605,7 +607,7 @@ Accountability
     
     (4) Within 5 working days after a half-yearly report is given to the responsible Minister pursuant to [section 18][23], the responsible Minister shall lay a copy of the report before the House of Representatives.
     
-    Compare: 1986 No 124 [s 17][99]
+    Compare: 1986 No 124 [s 17][100]
     
     Section 19(1): repealed, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -627,29 +629,29 @@ Accountability
     
     (4) \[Repealed\]
     
-    (4A) Subsections (1) to (4) apply in addition to [section 133(1)][100] of the Crown Entities Act 2004\.
+    (4A) Subsections (1) to (4) apply in addition to [section 133(1)][101] of the Crown Entities Act 2004\.
     
     (5) Notwithstanding any other enactment or rule of law, the board of a Crown Research Institute may direct an officer or employee of the Crown Research Institute to comply with a request under subsection (1), and the officer or employee shall comply with the request on being directed to do so.
     
     (6) No member of a board of a Crown Research Institute and no officer or employee of a Crown Research Institute who acts in accordance with a request or direction under this section is liable to any person under any other enactment or rule of law by reason of acting in accordance with that request or direction.
     
-    Compare: 1986 No 124 [s 18][101]; 1990 No 23 s 2(1)
+    Compare: 1986 No 124 [s 18][102]; 1990 No 23 s 2(1)
     
     Section 20(1): amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 20(3): amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(4): repealed, on 1 February 2011, by [section 18][102] of the Research, Science, and Technology Act 2010 (2010 No 131).
+    Section 20(4): repealed, on 1 February 2011, by [section 18][103] of the Research, Science, and Technology Act 2010 (2010 No 131).
     
     Section 20(4A): inserted, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Auditor-General to be auditor of Crown Research Institutes and subsidiaries
     
-*   (1) Despite [sections 207P to 207V][103] of the Companies Act 1993, every Crown Research Institute and every Crown entity subsidiary of every Crown Research Institute is a public entity as defined in [section 4][104] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   (1) Despite [sections 207P to 207V][104] of the Companies Act 1993, every Crown Research Institute and every Crown entity subsidiary of every Crown Research Institute is a public entity as defined in [section 4][105] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (2) Without limiting subsection (1), the board of a Crown Research Institute may, after consultation with the Auditor-General and with the approval of the Minister, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the Crown Research Institute or any Crown entity subsidiary of the Crown Research Institute.
     
-    Section 21: substituted, on 1 July 2001, by [section 53][105] of the Public Audit Act 2001 (2001 No 10).
+    Section 21: substituted, on 1 July 2001, by [section 53][106] of the Public Audit Act 2001 (2001 No 10).
     
     Section 21(1): amended, on 1 April 2014, by [section 126][69] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
@@ -659,9 +661,9 @@ Accountability
 
 ##### 22 Protection from disclosure of sensitive information
     
-*   Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, financial statements, or half-yearly report referred to in [sections 16 to 18][21] of any information that could be properly withheld if a request for that information were made under the [Official Information Act 1982][106].
+*   Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, financial statements, or half-yearly report referred to in [sections 16 to 18][21] of any information that could be properly withheld if a request for that information were made under the [Official Information Act 1982][107].
     
-    Compare: 1986 No 124 [s 20][107]
+    Compare: 1986 No 124 [s 20][108]
 
 ## Part 4  
 Transfer of assets to Crown Research Institutes
@@ -680,7 +682,7 @@ Transfer of assets to Crown Research Institutes
     
     *   (c) all livestock, products from livestock, and crops:
     
-    *   (d) all securities within the meaning of the [Securities Act 1978][108]:
+    *   (d) all securities within the meaning of the [Securities Act 1978][109]:
     
     *   (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
     
@@ -694,7 +696,7 @@ Transfer of assets to Crown Research Institutes
         
     *   (a) liabilities and obligations under any Act or agreement; and
     
-    *   (b) deposits and other debt securities within the meaning of the [Securities Act 1978][108]; and
+    *   (b) deposits and other debt securities within the meaning of the [Securities Act 1978][109]; and
     
     *   (c) contingent liabilities
     
@@ -718,7 +720,7 @@ Transfer of assets to Crown Research Institutes
     
     (4) Nothing in this Act shall limit any powers or rights that the Crown or a Minister has other than pursuant to this Act.
     
-    Compare: 1986 No 124 [s 29][109]; 1991 No 69 [s 362][110]; 1992 No 27 [s 10][111]
+    Compare: 1986 No 124 [s 29][110]; 1991 No 69 [s 362][111]; 1992 No 27 [s 10][112]
     
     Section 23(1) **Crown Research Institute**: amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -736,7 +738,7 @@ Transfer of assets to Crown Research Institutes
     
     (2) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) within 12 sitting days after the date of that contract or document.
     
-    Compare: 1986 No 124 [s 23(1), (2)][112]; 1987 No 117 s 6(1)
+    Compare: 1986 No 124 [s 23(1), (2)][113]; 1987 No 117 s 6(1)
 
 ##### 25 Assets relating to land and interests in land may be transferred separately
     
@@ -744,7 +746,7 @@ Transfer of assets to Crown Research Institutes
     
     (2) Where any such asset is so transferred, the asset and the land shall be regarded as separate assets each capable of separate ownership.
     
-    Compare: 1986 No 124 [s 23(3)][112]
+    Compare: 1986 No 124 [s 23(3)][113]
 
 ##### 26 Further provisions relating to transfer of assets and liabilities
     
@@ -766,7 +768,7 @@ Transfer of assets to Crown Research Institutes
     
     (3) No provision in any agreement limiting the Crown's right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, shall have any application or effect in respect of any agreement or transfer entered into or effected pursuant to or under this Act or pursuant to such an agreement or transfer.
     
-    Compare: 1986 No 124 [s 23(4)--(6)][112]; 1990 No 23 s 3
+    Compare: 1986 No 124 [s 23(4)--(6)][113]; 1990 No 23 s 3
 
 ##### 27 Crown may continue to take benefit of provisions relating to compensation or liability
     
@@ -790,7 +792,7 @@ Transfer of assets to Crown Research Institutes
     
     the provision referred to in paragraph (b) shall, notwithstanding the transfer of the assets to the Crown Research Institute, continue in force in favour of the Crown as if the Crown Research Institute were part of the Crown, the Crown continued to carry on the activity, and as if the occurrence of any such event referred to in the provision in relation to the Crown Research Institute were the occurrence of the event in relation to the Crown.
     
-    Compare: 1986 No 124 [s 23(6A), (6B)][112]; 1990 No 83 [s 2(1)][113]
+    Compare: 1986 No 124 [s 23(6A), (6B)][113]; 1990 No 83 [s 2(1)][114]
 
 ##### 28 Transfer of assets where certain terms and conditions prescribed by statute
     
@@ -816,11 +818,11 @@ Transfer of assets to Crown Research Institutes
     
     made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
     
-    Compare: 1986 No 124 [s 23(7), (8)][112]
+    Compare: 1986 No 124 [s 23(7), (8)][113]
 
 ##### 29 Provisions relating to transfer of land
     
-*   (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the [Land Act 1948][114] and any lands of the Crown other than lands registered under the [Land Transfer Act 1952][115] that are to be transferred to a Crown Research Institute pursuant to this Act shall---
+*   (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the [Land Act 1948][115] and any lands of the Crown other than lands registered under the [Land Transfer Act 1952][116] that are to be transferred to a Crown Research Institute pursuant to this Act shall---
         
     *   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this section by that Chief Surveyor); and
     
@@ -834,17 +836,17 @@ Transfer of assets to Crown Research Institutes
     
     (2) Every notice given under subsection (1)(b)(ii) may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
     
-    (3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to [section 66][116] or [section 66AA][117] of the Land Act 1948 shall be transferred to a Crown Research Institute pursuant to [section 24(1)(a)][30] of this Act.
+    (3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to [section 66][117] or [section 66AA][118] of the Land Act 1948 shall be transferred to a Crown Research Institute pursuant to [section 24(1)(a)][30] of this Act.
     
-    (4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the [Conservation Act 1987][118] or under any enactment specified in [Schedule 1][119] of that Act shall be transferred to a Crown Research Institute pursuant to [section 24(1)(a)][30] of this Act.
+    (4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the [Conservation Act 1987][119] or under any enactment specified in [Schedule 1][120] of that Act shall be transferred to a Crown Research Institute pursuant to [section 24(1)(a)][30] of this Act.
     
     (5) Nothing in subsection (4) prevents the granting, to a Crown Research Institute, of a licence to occupy any land to which that subsection applies if the Minister of Conservation consents to the granting of that licence.
     
-    (6) All land that is subject to the [Land Act 1948][114] or the [Forests Act 1949][120] and that is transferred to a Crown Research Institute pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
+    (6) All land that is subject to the [Land Act 1948][115] or the [Forests Act 1949][121] and that is transferred to a Crown Research Institute pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
     
-    (7) Nothing in this Act or in any transfer of land to a Crown Research Institute pursuant to this Act shall derogate from the provisions of [section 10][121] or [section 11][122] of the Crown Minerals Act 1991\.
+    (7) Nothing in this Act or in any transfer of land to a Crown Research Institute pursuant to this Act shall derogate from the provisions of [section 10][122] or [section 11][123] of the Crown Minerals Act 1991\.
     
-    Compare: 1986 No 124 [s 24][123]; 1987 No 117 s 7(1), (2); 1990 No 31 [s 37][124]; 1991 No 70 s 121; 1992 No 27 [s 5][125]
+    Compare: 1986 No 124 [s 24][124]; 1987 No 117 s 7(1), (2); 1990 No 31 [s 37][125]; 1991 No 70 s 121; 1992 No 27 [s 5][126]
 
 ##### 30 Modification of provisions of Public Works Act 1981
     
@@ -856,9 +858,9 @@ Transfer of assets to Crown Research Institutes
     
     where that transfer occurs not later than 30 June 1994\.
     
-    (2) Nothing in [sections 40 to 42][126] of the Public Works Act 1981 shall apply to the transfer of land or an interest in land to a Crown Research Institute (being a transfer to which this section applies) so long as the land or interest in land continues to be used for the purposes of a Crown Research Institute, but, if all or any part of the land or interest in land is no longer required for such purposes, [sections 40][126] and [41][127] of that Act shall apply to the land or interest no longer required as if the Crown Research Institute were the Crown and the transfer of that land or interest to that Crown Research Institute were not a transfer to which this section applies.
+    (2) Nothing in [sections 40 to 42][127] of the Public Works Act 1981 shall apply to the transfer of land or an interest in land to a Crown Research Institute (being a transfer to which this section applies) so long as the land or interest in land continues to be used for the purposes of a Crown Research Institute, but, if all or any part of the land or interest in land is no longer required for such purposes, [sections 40][127] and [41][128] of that Act shall apply to the land or interest no longer required as if the Crown Research Institute were the Crown and the transfer of that land or interest to that Crown Research Institute were not a transfer to which this section applies.
     
-    (3) If, in relation to land or an interest in land that has been transferred to a Crown Research Institute (being a transfer to which this section applies), an offer made under subsection (2) of [sections 40][126] of the Public Works Act 1981 is not accepted---
+    (3) If, in relation to land or an interest in land that has been transferred to a Crown Research Institute (being a transfer to which this section applies), an offer made under subsection (2) of [sections 40][127] of the Public Works Act 1981 is not accepted---
         
     *   (a) within 40 working days after the making of the offer or such further period as the chief executive of the department within the meaning of section 2 of the Survey Act 1986 considers reasonable; or
     
@@ -866,25 +868,25 @@ Transfer of assets to Crown Research Institutes
     
     whichever is later, and the parties have not agreed on other terms for the sale of the land or interest, the Crown Research Institute may sell or otherwise dispose of the land or interest to any person on such terms and conditions as it thinks fit.
     
-    (4) For the purposes of subsection (3), the term _working day_ has the same meaning as it has in [section 2][128] of the Public Works Act 1981\.
+    (4) For the purposes of subsection (3), the term _working day_ has the same meaning as it has in [section 2][129] of the Public Works Act 1981\.
     
-    Compare: 1990 No 52 [s 9(4)][129]
+    Compare: 1990 No 52 [s 9(4)][130]
     
     Section 30(3)(a): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
 ##### 31 Obligation to lodge caveat
     
-*   (1) Where, before 30 June 1994, land or an interest in land is transferred to a Crown Research Institute pursuant to this Act or by another Crown Research Institute, the Crown or, as the case may be, the Crown Research Institute transferring the land or interest shall, for the purpose of protecting the rights of persons from whom that land or interest was acquired and their successors to have that land or interest offered to them under [section 40(2)][126] of the Public Works Act 1981, lodge an appropriate caveat under the [Land Transfer Act 1952][115], and this section shall be sufficient authority for the lodging of such a caveat.
+*   (1) Where, before 30 June 1994, land or an interest in land is transferred to a Crown Research Institute pursuant to this Act or by another Crown Research Institute, the Crown or, as the case may be, the Crown Research Institute transferring the land or interest shall, for the purpose of protecting the rights of persons from whom that land or interest was acquired and their successors to have that land or interest offered to them under [section 40(2)][127] of the Public Works Act 1981, lodge an appropriate caveat under the [Land Transfer Act 1952][116], and this section shall be sufficient authority for the lodging of such a caveat.
     
-    (2) For the purposes of this section, the rights of persons from whom land or an interest in land was acquired and their successors to have that land or interest offered to them under [section 40(2)][126] of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of [section 137][130] of the Land Transfer Act 1952\.
+    (2) For the purposes of this section, the rights of persons from whom land or an interest in land was acquired and their successors to have that land or interest offered to them under [section 40(2)][127] of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of [section 137][131] of the Land Transfer Act 1952\.
     
-    (3) In stating, in a caveat lodged pursuant to subsection (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of [section 138][131] of the Land Transfer Act 1952, to refer to [sections 40 to 42][126] of the Public Works Act 1981 and this section.
+    (3) In stating, in a caveat lodged pursuant to subsection (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of [section 138][132] of the Land Transfer Act 1952, to refer to [sections 40 to 42][127] of the Public Works Act 1981 and this section.
     
-    Compare: 1974 No 66 [s 594ZG][132]; 1989 No 29 [s 34(1)][133]
+    Compare: 1974 No 66 [s 594ZG][133]; 1989 No 29 [s 34(1)][134]
 
 ##### 32 Transfer of land not to constitute a subdivision or development
     
-*   Nothing in [section 11][134] or [Part 10][135] of the Resource Management Act 1991 applies to the transfer of land or an interest in land to a Crown Research Institute---
+*   Nothing in [section 11][135] or [Part 10][136] of the Resource Management Act 1991 applies to the transfer of land or an interest in land to a Crown Research Institute---
         
     *   (a) pursuant to this Act; or
     
@@ -900,7 +902,7 @@ Transfer of assets to Crown Research Institutes
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 August 2003, by [section 101][136] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 34: repealed, on 1 August 2003, by [section 101][137] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 35 Title to land
     
@@ -912,33 +914,33 @@ Transfer of assets to Crown Research Institutes
     
     (2) The powers conferred by subsection (1) may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
     
-    (3) A District Land Registrar shall, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a Crown Research Institute pursuant to [section 29(1)][35] of this Act in form 1 of [Schedule 1][137] of the Land Transfer Act 1952, amended as appropriate.
+    (3) A District Land Registrar shall, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a Crown Research Institute pursuant to [section 29(1)][35] of this Act in form 1 of [Schedule 1][138] of the Land Transfer Act 1952, amended as appropriate.
     
     (4) As soon as registration is accomplished in accordance with subsection (1) or a certificate of title is issued in accordance with subsection (3), the Crown Research Institute shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seized of an estate in fee simple in possession in respect of that land.
     
     (5) Applications in accordance with subsections (1) and (3) shall specify the name of the Crown Research Institute and the date of the agreement, together with a description of the land sufficient to identify it and, in the case of applications under subsection (3), a certificate by the Chief Surveyor for the district concerned as to the correctness of such description.
     
-    Compare: 1986 No 124 [s 25][138]; 1989 No 57 s 2
+    Compare: 1986 No 124 [s 25][139]; 1989 No 57 s 2
 
 ##### 36 Land certification
     
-*   (1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a Crown Research Institute pursuant to [section 29(1)][35], the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in [Schedule 2][139] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
+*   (1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a Crown Research Institute pursuant to [section 29(1)][35], the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in [Schedule 2][140] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
     
     (2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in that certificate.
     
-    Compare: 1986 No 124 [s 26][140]; 1987 No 117 s 8; 1989 No 57 s 3(1), (2)
+    Compare: 1986 No 124 [s 26][141]; 1987 No 117 s 8; 1989 No 57 s 3(1), (2)
     
     Section 36(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
 ##### 37 Certification of easements
     
-*   (1) Where land is vested in a Crown Research Institute pursuant to [section 29(1)][35] subject to the reservation of or together with any easement, not being an easement previously registered under the [Land Transfer Act 1952][115], the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under [section 36(1)][42] of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+*   (1) Where land is vested in a Crown Research Institute pursuant to [section 29(1)][35] subject to the reservation of or together with any easement, not being an easement previously registered under the [Land Transfer Act 1952][116], the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under [section 36(1)][42] of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
     
     (2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
     
-    (3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the [Land Transfer Act 1952][115].
+    (3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the [Land Transfer Act 1952][116].
     
-    Compare: 1986 No 124 [s 26A][141]; 1992 No 27 [s 6][142]
+    Compare: 1986 No 124 [s 26A][142]; 1992 No 27 [s 6][143]
     
     Section 37(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
@@ -962,17 +964,17 @@ Transfer of assets to Crown Research Institutes
     
     (2) Every Order in Council made under this section may be made on such terms and conditions as the Governor-General thinks fit, and shall have effect according to its tenor.
     
-    Compare: 1986 No 124 [s 28][143]; 1991 No 69 [s 362][110]
+    Compare: 1986 No 124 [s 28][144]; 1991 No 69 [s 362][111]
 
 ##### 39 Transfer of employees
     
-*   (1) Notwithstanding anything in [section 61A][144] of the State Sector Act 1988, where the chief executive of a government department finds, in respect of any duties being carried out by the department, that those duties are no longer to be carried out by the department and are to be carried out (in whole or in part) by a Crown Research Institute, that chief executive and the chief executive of that Crown Research Institute may, subject to subsection (3), agree to the transfer, from that department to that Crown Research Institute, of all or any of the employees of that department who are carrying out those duties.
+*   (1) Notwithstanding anything in [section 61A][145] of the State Sector Act 1988, where the chief executive of a government department finds, in respect of any duties being carried out by the department, that those duties are no longer to be carried out by the department and are to be carried out (in whole or in part) by a Crown Research Institute, that chief executive and the chief executive of that Crown Research Institute may, subject to subsection (3), agree to the transfer, from that department to that Crown Research Institute, of all or any of the employees of that department who are carrying out those duties.
     
     (2) Before transferring any employee under subsection (1), the respective chief executives of the government department and the Crown Research Institute shall consult with the employee about the proposed transfer.
     
     (3) The power conferred by this section to transfer any employee is subject to the employment contract applying to that employee.
     
-    Compare: 1988 No 20 [s 61A][144]; 1989 No 136 [s 14][145]
+    Compare: 1988 No 20 [s 61A][145]; 1989 No 136 [s 14][146]
 
 ##### 40 Protection of conditions of employment upon transfer
     
@@ -984,7 +986,7 @@ Transfer of assets to Crown Research Institutes
     
     (4) Nothing in subsection (1) shall continue to apply to any transferred employee who receives any subsequent appointment within the Crown Research Institute to which that employee was transferred.
     
-    Compare: 1988 No 20 [s 61B][146]; 1989 No 136 [s 14][145]
+    Compare: 1988 No 20 [s 61B][147]; 1989 No 136 [s 14][146]
 
 ##### 41 Employment of transferred employees deemed to be continuous
     
@@ -999,29 +1001,29 @@ Miscellaneous provisions
     
 *   A failure by a Crown Research Institute to comply with any provision contained in [Part 1][5] or in any statement of corporate intent shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by a Crown Research Institute.
     
-    Compare: 1986 No 124 [s 21][147]
+    Compare: 1986 No 124 [s 21][148]
 
 ##### 43 Prime Minister may give directions to Crown Research Institutes
     
 *   (1) This section applies where---
         
-    *   (a) there is in force a state of emergency declared under the [Civil Defence Emergency Management Act 2002][148]; or
+    *   (a) there is in force a state of emergency declared under the [Civil Defence Emergency Management Act 2002][149]; or
     
     *   (b) there is in force a state of animal disease emergency declared under section 30 of the Animals Act 1967; or
     
     *   (c) a declaration made under section 13 of the Apiaries Act 1969 is in force in respect of any area; or
     
-    *   (d) there is in force a state of plant disease emergency declared under [section 12][149] of the Plants Act 1970; or
+    *   (d) there is in force a state of plant disease emergency declared under [section 12][150] of the Plants Act 1970; or
     
     *   (e) the assistance of any Crown Research Institute is required for the purposes of giving effect to any measures---
             
-        *   (i) that are authorised or required to be taken by or under any regulations made under [section 69][150] or [section 70][151] of the Forests Act 1949; and
+        *   (i) that are authorised or required to be taken by or under any regulations made under [section 69][151] or [section 70][152] of the Forests Act 1949; and
         
         *   (ii) that relate to the control or eradication of any infection or disease that may be injurious to or may cause any unhealthy condition in any tree, tree seed, timber, or timber produce.
         
         
     
-    (2) Notwithstanding anything in this Act, the [Crown Entities Act 2004][74], or the [Companies Act 1993][152], and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
+    (2) Notwithstanding anything in this Act, the [Crown Entities Act 2004][74], or the [Companies Act 1993][153], and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
     
     (3) Where, pursuant to subsection (2), the Prime Minister gives any directions to the board of a Crown Research Institute, that board shall ensure that those directions are complied with.
     
@@ -1031,11 +1033,11 @@ Miscellaneous provisions
     
     *   (b) lay a copy of it before the House of Representatives.
     
-    (5) [Section 115][91] of the Crown Entities Act 2004 does not apply to a direction given under this section.
+    (5) [Section 115][92] of the Crown Entities Act 2004 does not apply to a direction given under this section.
     
-    Section 43(1)(a): substituted, on 1 December 2002, by [section 117][153] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 43(1)(a): substituted, on 1 December 2002, by [section 117][154] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
     
-    Section 43(2): amended, on 5 December 2013, by [section 14][154] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 43(2): amended, on 5 December 2013, by [section 14][155] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 43(2): amended, on 25 January 2005, by [section 200][67] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1065,7 +1067,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 10 April 1998, by [section 48(4)][155].
+    Section 47: repealed, on 10 April 1998, by [section 48(4)][156].
 
 ##### 48 Repeal of Scientific and Industrial Research Act 1974
     
@@ -1075,7 +1077,7 @@ Miscellaneous provisions
     
     (5) This section shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 48: brought into force, on 10 April 1998, by the [Crown Research Institutes Act Commencement Order 1998][156] (SR 1998/40).
+    Section 48: brought into force, on 10 April 1998, by the [Crown Research Institutes Act Commencement Order 1998][157] (SR 1998/40).
 
 ##### 49 Amendments to Fertilisers Act 1982
     
@@ -1085,7 +1087,7 @@ Miscellaneous provisions
     
     (3) This section shall come into force on the date on which the Fertilisers Act 1982 comes into force.
     
-    Section 49(1): repealed (without coming into force), on 2 July 2001, by [section 86(1)][157] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 49(1): repealed (without coming into force), on 2 July 2001, by [section 86(1)][158] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
 
 ---
 
@@ -1106,7 +1108,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Atomic Energy Act 1945 (1945 No 41) (RS Vol 1, p 189)
 
-_Amendment(s) incorporated in the [Act(s)][158]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -1122,11 +1124,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Conservation Act 1987 (1987 No 65) 
 
-_Amendment(s) incorporated in the [Act(s)][159]._
+_Amendment(s) incorporated in the [Act(s)][160]._
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][160]._
+_Amendment(s) incorporated in the [Act(s)][161]._
 
 ##### Fertilisers Act 1960 (1960 No 33) (RS Vol 19, p 335)
 
@@ -1138,11 +1140,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][162]._
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -1154,7 +1156,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][163]._
+_Amendment(s) incorporated in the [Act(s)][164]._
 
 ##### Pesticides Act 1979 (1979 No 26)
 
@@ -1162,15 +1164,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][164]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Radiation Protection Act 1965 (1965 No 23) (RS Vol 18, p 673)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][166]._
 
 ##### Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][166]._
+_Amendment(s) incorporated in the [Act(s)][167]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -1178,7 +1180,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][167]._
+_Amendment(s) incorporated in the [Act(s)][168]._
 
 ---
 
@@ -1187,27 +1189,27 @@ Enactments repealed
 
 [s 48(1)][55]
 
-_(Which repeals take effect on the commencement of [section 48][168])_
+_(Which repeals take effect on the commencement of [section 48][169])_
 
 ##### Finance Act 1988 (1988 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][169]._
+_Amendment(s) incorporated in the [Act(s)][170]._
 
 ##### Foundation for Research, Science, and Technology Act 1990 (1990 No 72)
 
-_Amendment(s) incorporated in the [Act(s)][170]._
+_Amendment(s) incorporated in the [Act(s)][171]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][171]._
+_Amendment(s) incorporated in the [Act(s)][172]._
 
 ##### Reserves and Other Lands Disposal Act 1952 (1952 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][172]._
+_Amendment(s) incorporated in the [Act(s)][173]._
 
 ##### Reserves and Other Lands Disposal Act 1955 (1955 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][173]._
+_Amendment(s) incorporated in the [Act(s)][174]._
 
 ##### Scientific and Industrial Research Act 1974 (1974 No 6) (RS Vol 24, p 773)
 
@@ -1219,7 +1221,7 @@ _Amendment(s) incorporated in the [Act(s)][173]._
 
 ##### Weights and Measures Act 1987 (1987 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][174]._
+_Amendment(s) incorporated in the [Act(s)][175]._
 
 #### 
 
@@ -1233,33 +1235,33 @@ _Amendment(s) incorporated in the [Act(s)][174]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][175] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][176] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][176] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][177] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][177] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][178] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][178] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][179] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][154]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][155]
     
     Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][69]
     
-    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][68]
+    Crown Entities Amendment Act 2013 (2013 No 51): [sections 42][68], [72][91]
     
-    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][102]
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][103]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][67]
     
-    Resource Management Amendment Act 2003 (2003 No 23): [section 101][136]
+    Resource Management Amendment Act 2003 (2003 No 23): [section 101][137]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][153]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][154]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][105]
+    Public Audit Act 2001 (2001 No 10): [section 53][106]
     
-    [Crown Research Institutes Act Commencement Order 1998][156] (SR 1998/40)
+    [Crown Research Institutes Act Commencement Order 1998][157] (SR 1998/40)
     
-    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 86(1)][157]
+    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 86(1)][158]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
 
@@ -1356,91 +1358,92 @@ _Amendment(s) incorporated in the [Act(s)][174]._
 [88]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330323
 [89]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330341
 [90]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330347
-[91]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330364
-[92]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98048
-[93]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98050
-[94]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261067
-[95]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330557
-[96]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330554
-[97]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98052
-[98]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98053
-[99]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98054
-[100]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330501
-[101]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98057
-[102]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM3431046
-[103]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM6041591
-[104]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM88548
-[105]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM88957
-[106]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM64784
-[107]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98063
-[108]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM25999
-[109]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98411
-[110]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239393
-[111]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261074
-[112]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98067
-[113]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM214649
-[114]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM250585
-[115]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM269031
-[116]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM251765
-[117]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM251767
-[118]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM103609
-[119]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM107200
-[120]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM255625
-[121]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246310
-[122]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246311
-[123]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98075
-[124]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM208750
-[125]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261069
-[126]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM46055
-[127]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM46068
-[128]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM45433
-[129]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM211839
-[130]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM271228
-[131]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM271231
-[132]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM422644
-[133]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM159253
-[134]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM231942
-[135]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM236786
-[136]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM197005
-[137]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM272485
-[138]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98081
-[139]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM253256
-[140]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98085
-[141]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98092
-[142]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261070
-[143]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98409
-[144]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5478471
-[145]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM194715
-[146]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5478474
-[147]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98065
-[148]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM149788
-[149]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM397230
-[150]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257170
-[151]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257180
-[152]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM264291
-[153]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM151437
-[154]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5620822
-[155]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM265669
-[156]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM245467
-[157]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM415184
-[158]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239212
-[159]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM104699
-[160]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5227207
-[161]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM51357
-[162]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM446000
-[163]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM430983
-[164]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM160808
-[165]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM372538
-[166]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM131629
-[167]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM145965
-[168]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264295
-[169]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM133273
-[170]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM213992
-[171]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM163182
-[172]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM274884
-[173]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM291023
-[174]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM102980
-[175]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998516
-[176]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998515
-[177]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998532
-[178]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[91]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5327162
+[92]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330364
+[93]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98048
+[94]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98050
+[95]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261067
+[96]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330557
+[97]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330554
+[98]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98052
+[99]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98053
+[100]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98054
+[101]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM330501
+[102]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98057
+[103]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM3431046
+[104]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM6041591
+[105]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM88548
+[106]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM88957
+[107]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM64784
+[108]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98063
+[109]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM25999
+[110]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98411
+[111]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239393
+[112]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261074
+[113]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98067
+[114]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM214649
+[115]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM250585
+[116]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM269031
+[117]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM251765
+[118]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM251767
+[119]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM103609
+[120]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM107200
+[121]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM255625
+[122]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246310
+[123]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246311
+[124]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98075
+[125]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM208750
+[126]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261069
+[127]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM46055
+[128]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM46068
+[129]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM45433
+[130]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM211839
+[131]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM271228
+[132]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM271231
+[133]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM422644
+[134]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM159253
+[135]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM231942
+[136]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM236786
+[137]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM197005
+[138]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM272485
+[139]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98081
+[140]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM253256
+[141]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98085
+[142]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98092
+[143]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM261070
+[144]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98409
+[145]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5478471
+[146]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM194715
+[147]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5478474
+[148]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM98065
+[149]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM149788
+[150]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM397230
+[151]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257170
+[152]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257180
+[153]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM264291
+[154]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM151437
+[155]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5620822
+[156]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM265669
+[157]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM245467
+[158]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM415184
+[159]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239212
+[160]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM104699
+[161]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5227207
+[162]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM51357
+[163]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM446000
+[164]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM430983
+[165]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM160808
+[166]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM372538
+[167]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM131629
+[168]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM145965
+[169]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264295
+[170]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM133273
+[171]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM213992
+[172]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM163182
+[173]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM274884
+[174]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM291023
+[175]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM102980
+[176]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998516
+[177]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998515
+[178]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998532
+[179]: http://www.pco.parliament.govt.nz/editorial-conventions/
