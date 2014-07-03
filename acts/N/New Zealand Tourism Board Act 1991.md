@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Tourism.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,49 +25,49 @@ This Act is administered by the Ministry of Tourism.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Act binds the Crown][3]
+[2][3][][3][Act binds the Crown][3]
 
 [Part 1][4]  
 [New Zealand Tourism Board][4]
 
-[3][5] [Interpretation][5]
+[3][5][][5][Interpretation][5]
 
-[4][6] [New Zealand Tourism Board established][6]
+[4][6][][6][New Zealand Tourism Board established][6]
 
-[5][7] [Board has powers of natural person][7] \[Repealed\]
+[5][7][][7][Board has powers of natural person][7] \[Repealed\]
 
-[6][8] [Object of New Zealand Tourism Board][8]
+[6][8][][8][Object of New Zealand Tourism Board][8]
 
-[7][9] [Functions of New Zealand Tourism Board][9]
+[7][9][][9][Functions of New Zealand Tourism Board][9]
 
-[8][10] [Annual statements of projected outputs, liabilities, and outcomes][10]
+[8][10][][10][Annual statements of projected outputs, liabilities, and outcomes][10] \[Repealed\]
 
-[9][11] [Board to comply with Government policies][11] \[Repealed\]
+[9][11][][11][Board to comply with Government policies][11] \[Repealed\]
 
-[10][12] [Annual report][12]
+[10][12][][12][Annual report][12] \[Repealed\]
 
-[11][13] [Membership of New Zealand Tourism Board][13]
+[11][13][][13][Membership of New Zealand Tourism Board][13]
 
-[12][14] [Co-opted members][14] \[Repealed\]
+[12][14][][14][Co-opted members][14] \[Repealed\]
 
-[13][15] [Disclosure of interest][15] \[Repealed\]
+[13][15][][15][Disclosure of interest][15] \[Repealed\]
 
-[14][16] [Other provisions applying to New Zealand Tourism Board][16]
+[14][16][][16][Other provisions applying to New Zealand Tourism Board][16]
 
 [Part 2][17]  
 [Abolition of New Zealand Tourism Department][17]
 
-[15][18] [New Zealand Tourism Department abolished][18]
+[15][18][][18][New Zealand Tourism Department abolished][18]
 
-[16][19] [Employees of Department][19]
+[16][19][][19][Employees of Department][19]
 
-[17][20] [Savings][20]
+[17][20][][20][Savings][20]
 
-[18][21] [Consequential amendments][21]
+[18][21][][21][Consequential amendments][21]
 
-[19][22] [Repeals and saving][22]
+[19][22][][22][Repeals and saving][22]
 
 [Schedule 1][23]  
 [Other provisions applying to New Zealand Tourism Board][23]
@@ -177,51 +177,9 @@ New Zealand Tourism Board
 
 ##### 8 Annual statements of projected outputs, liabilities, and outcomes
     
-*   (1) \[Repealed\]
+*   \[Repealed\]
     
-    (2) Every statement of intent required under [section 139][30] of the Crown Entities Act 2004 must be accompanied by a statement of the New Zealand Tourism Board's best estimate of---
-        
-    *   (a) the---
-            
-        *   (i) impacts of the outputs described in the annual statement on; and
-        
-        *   (ii) consequences of those outputs for,---
-        
-        the number of visitors to New Zealand during the year to which the annual statement relates, and the amount of money they spend; and
-    
-    *   (b) the impacts of those outputs on and consequences of those outputs for the number of visitors to New Zealand in later years, and the amount of money they spend.
-    
-    (3) \[Repealed\]
-    
-    (4) \[Repealed\]
-    
-    (5) \[Repealed\]
-    
-    (6) \[Repealed\]
-    
-    (7) \[Repealed\]
-    
-    (8) \[Repealed\]
-    
-    (9) \[Repealed\]
-    
-    Section 8(1): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(2): amended, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(3): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(4): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(5): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(6): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(7): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(8): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
-    
-    Section 8(9): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8: repealed, on 1 July 2014, by [section 72][30] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 9 Board to comply with Government policies
     
@@ -231,9 +189,9 @@ New Zealand Tourism Board
 
 ##### 10 Annual report
     
-*   The New Zealand Tourism Board must include in its annual report required under [section 150][31] of the Crown Entities Act 2004 a statement of the extent to which the impacts of the Board's outputs in that year and previous years on, and the consequences of those outputs for, the number of visitors to New Zealand during that year, and the amount of money they spent, matched the estimates contained in past statements (as finally approved by the Minister) under [section 8(2)][10].
+*   \[Repealed\]
     
-    Section 10: substituted, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10: repealed, on 1 July 2014, by [section 72][30] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 11 Membership of New Zealand Tourism Board
     
@@ -443,11 +401,11 @@ Other provisions applying to New Zealand Tourism Board
     
 *   (1) \[Repealed\]
     
-    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the New Zealand Tourism Board, is a contributor to the Government Superannuation Fund under [Part 2][32] or [Part 2A][33] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the New Zealand Tourism Board; and that Act shall apply to that person in all respects as if that person's service as an employee of the New Zealand Tourism Board is Government service.
+    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the New Zealand Tourism Board, is a contributor to the Government Superannuation Fund under [Part 2][31] or [Part 2A][32] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the New Zealand Tourism Board; and that Act shall apply to that person in all respects as if that person's service as an employee of the New Zealand Tourism Board is Government service.
     
     (3) Nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][34], in accordance with subclause (2), to an employee of the New Zealand Tourism Board who is a contributor to the Government Superannuation Fund, the term **controlling authority**, in relation to that employee, means the New Zealand Tourism Board.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][33], in accordance with subclause (2), to an employee of the New Zealand Tourism Board who is a contributor to the Government Superannuation Fund, the term **controlling authority**, in relation to that employee, means the New Zealand Tourism Board.
     
     Schedule 1 clause 15(1): repealed, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -489,7 +447,7 @@ Other provisions applying to New Zealand Tourism Board
     
 *   The New Zealand Tourism Board's income is exempt from income tax under the Income Tax Act 2007\.
     
-    Schedule 1 clause 21: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][35] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 1 clause 21: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][34] of the Income Tax Act 2007 (2007 No 97).
     
     Schedule 1 clause 21: amended, on 25 January 2005, by [section 200][27] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -502,7 +460,7 @@ Consequential amendments
 
 ##### New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51) (RS Vol 8, p 885)
 
-_Amendment(s) incorporated in the [Act(s)][36]._
+_Amendment(s) incorporated in the [Act(s)][35]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
@@ -510,15 +468,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][37]._
+_Amendment(s) incorporated in the [Act(s)][36]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][38]._
+_Amendment(s) incorporated in the [Act(s)][37]._
 
 ##### Tourist and Health Resorts Control Act 1908 (1908 No 194) (RS Vol 11, p 545)
 
-_Amendment(s) incorporated in the [Act(s)][39]._
+_Amendment(s) incorporated in the [Act(s)][38]._
 
 ---
 
@@ -537,78 +495,37 @@ Repeals
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][40]._
+_Amendment(s) incorporated in the [Act(s)][39]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Tourism Board Act 1991\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][41] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Tourism Board Act 1991 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][42] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][40] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][41] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][43] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][42] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][43] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][44] and [17E][45] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Crown Entities Amendment Act 2013 (2013 No 51): [section 72][30]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][35]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][34]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][27]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1991/0110/latest/whole.html#DLM249327
 [2]: http://www.legislation.govt.nz/act/public/1991/0110/latest/whole.html#DLM249329
 [3]: http://www.legislation.govt.nz/act/public/1991/0110/latest/whole.html#DLM249330
@@ -638,19 +555,17 @@ _Amendment(s) incorporated in the [Act(s)][40]._
 [27]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM331111
 [28]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM329641
 [29]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM329630
-[30]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM330540
-[31]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM330552
-[32]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446395
-[33]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446842
-[34]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446000
-[35]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM1523176
-[36]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM348782
-[37]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM444304
-[38]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM130706
-[39]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM175060
-[40]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM163182
-[41]: http://www.pco.parliament.govt.nz/reprints/
-[42]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM195439
+[30]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM5327162
+[31]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446395
+[32]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446842
+[33]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM446000
+[34]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM1523176
+[35]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM348782
+[36]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM444304
+[37]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM130706
+[38]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM175060
+[39]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM163182
+[40]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM2998516
+[41]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM2998515
+[42]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM2998532
 [43]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[44]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM195468
-[45]: http://www.legislation.govt.nz/act/public/1991/0110/latest/link.aspx?id=DLM195470
