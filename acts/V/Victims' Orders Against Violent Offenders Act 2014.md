@@ -127,7 +127,7 @@ Preliminary provisions
     
 *   In this Act, unless the context otherwise requires,---
     
-    _associate_ means a person against whom a final non-contact order applies pursuant to a direction made under section 12
+    _associate_ means a person against whom a final non-contact order applies pursuant to a direction made under [section 12][17]
     
     _child_ means a boy or girl under the age of 14 years
     
