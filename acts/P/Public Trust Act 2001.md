@@ -1,5 +1,5 @@
 Reprint  
-as at 18 July 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by Public Trust.
+This Act is administered by the Ministry of Justice.
 
 ---
 
@@ -1073,13 +1073,9 @@ Financial provisions
     
     (3) Payments by the Crown to Public Trust pursuant to an agreement under subsection (1) must be made out of money appropriated by Parliament for the purpose.
     
-    (4) An agreement under subsection (1)---
-        
-    *   (a) is an output agreement for the purposes of the [Crown Entities Act 2004][216] in respect of any outputs covered by the agreement; and
+    (4) Public Trust may include an agreement under subsection (1) in a statement of performance expectations prepared for the purpose of [section 149C][236] of the Crown Entities Act 2004\.
     
-    *   (b) must comply with [section 170(2) to (5)][236] of the Crown Entities Act 2004\.
-    
-    Section 44(4): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44(4): replaced, on 1 July 2014, by [section 72][237] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 45 Power to request information
     
@@ -1091,7 +1087,7 @@ Financial provisions
     
 *   (1) A request for information must be refused if the information is held by Public Trust in a fiduciary capacity.
     
-    (2) Subsection (1) does not limit [section 134][237] of the Crown Entities Act 2004\.
+    (2) Subsection (1) does not limit [section 134][238] of the Crown Entities Act 2004\.
     
     (3) Subsection (1) applies despite any other enactment or law.
     
@@ -1302,13 +1298,13 @@ Investments
         
     *   (a) is acting in the trusts of that estate; and
     
-    *   (b) is neither subject to a property order made under [section 30][238] or [31][239] of the Protection of Personal and Property Rights Act 1988 nor a person for whom a trustee corporation is acting as manager under [section 32][240] or [33][241] of that Act.
+    *   (b) is neither subject to a property order made under [section 30][239] or [31][240] of the Protection of Personal and Property Rights Act 1988 nor a person for whom a trustee corporation is acting as manager under [section 32][241] or [33][242] of that Act.
     
     (4) Amounts invested under this section are not part of the common fund, but nothing in this section prevents them from being reinvested in the common fund at a later time.
     
     Compare: 1957 No 36 s 30A(1), (2), (4)
     
-    Section 59(3)(b): substituted, on 10 September 2008, by [section 14(2)][242] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 59(3)(b): substituted, on 10 September 2008, by [section 14(2)][243] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 60 Special investments
     
@@ -1358,11 +1354,11 @@ Investments
         
     *   (a) is acting in the trusts of that estate; and
     
-    *   (b) is neither subject to a property order made under [section 30][238] or [31][239] of the Protection of Personal and Property Rights Act 1988 nor a person for whom a trustee corporation is acting as manager under [section 32][240] or [33][241] of that Act.
+    *   (b) is neither subject to a property order made under [section 30][239] or [31][240] of the Protection of Personal and Property Rights Act 1988 nor a person for whom a trustee corporation is acting as manager under [section 32][241] or [33][242] of that Act.
     
     Compare: 1957 No 36 s 42A(3), (4), (5), (6), (8)
     
-    Section 61(4)(b): substituted, on 10 September 2008, by [section 14(3)][242] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 61(4)(b): substituted, on 10 September 2008, by [section 14(3)][243] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 62 Investments outside common fund not guaranteed
     
@@ -1428,7 +1424,7 @@ Investments
     
     Compare: 1957 No 36 s 42C(1), (2), (5)
     
-    Section 66(2)(b): amended, on 1 December 2002, by [section 30][243] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 66(2)(b): amended, on 1 December 2002, by [section 30][244] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 67 Capital valuation of fund comprising investments in real estate
     
@@ -1478,7 +1474,7 @@ Investments
     
     *   (b) regulations made under this Act dispense with the requirement for initial disclosure; or
     
-    *   (c) an investment statement in relation to the investment of that money in the fund has been issued in accordance with the requirements of [sections 33][244] and [37A][245] of the Securities Act 1978 and regulations made under that Act.
+    *   (c) an investment statement in relation to the investment of that money in the fund has been issued in accordance with the requirements of [sections 33][245] and [37A][246] of the Securities Act 1978 and regulations made under that Act.
     
     (3) Public Trust must make ongoing disclosure of any management fee charged or retained in accordance with regulations made under this Act.
     
@@ -1498,13 +1494,13 @@ Investments
 
 ##### 72B Powers to adjust interest in trust property of fund that is portfolio investment entity
     
-*   Where any investments and funds comprising a group investment fund are employed in an activity that Public Trust is empowered or authorised to carry on as a portfolio investment entity, Public Trust may adjust the interests of the beneficiaries in the investments and funds in the way required by [section HL 7][246] of the Income Tax Act 2004 despite any other provision in this Act.
+*   Where any investments and funds comprising a group investment fund are employed in an activity that Public Trust is empowered or authorised to carry on as a portfolio investment entity, Public Trust may adjust the interests of the beneficiaries in the investments and funds in the way required by [section HL 7][247] of the Income Tax Act 2004 despite any other provision in this Act.
     
-    Section 72B: inserted, on 1 October 2007, by [section 230][247] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 72B: inserted, on 1 October 2007, by [section 230][248] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 73 Examination of group investment funds
     
-*   [Section 83A][248] of the Trustee Act 1956 applies in respect of the examination of a group investment fund as if it were an estate, except that---
+*   [Section 83A][249] of the Trustee Act 1956 applies in respect of the examination of a group investment fund as if it were an estate, except that---
         
     *   (a) an examination made under that section is to be restricted to an examination of---
             
@@ -1545,11 +1541,11 @@ Acquisition of right to administer estates
     
     *   (b) as next friend or as guardian _ad litem_ of an infant, by order of a court:
     
-    *   (c) to act as agent for the purpose of resealing in New Zealand any probate or letters of administration (within the meaning of [Part 2][249] of the Administration Act 1969) granted outside New Zealand:
+    *   (c) to act as agent for the purpose of resealing in New Zealand any probate or letters of administration (within the meaning of [Part 2][250] of the Administration Act 1969) granted outside New Zealand:
     
-    *   (d) as a receiver, whether under the [Receiverships Act 1993][250] or any other Act or instrument providing for the appointment of a receiver, or in the exercise of a general jurisdiction of a court:
+    *   (d) as a receiver, whether under the [Receiverships Act 1993][251] or any other Act or instrument providing for the appointment of a receiver, or in the exercise of a general jurisdiction of a court:
     
-    *   (e) as arbitrator for any dispute to which the [Arbitration Act 1996][251] applies:
+    *   (e) as arbitrator for any dispute to which the [Arbitration Act 1996][252] applies:
     
     *   (f) to represent any party in any proceedings, or any person or class of persons interested in the proceedings, on the appointment or direction of a court.
     
@@ -1761,7 +1757,7 @@ Acquisition of right to administer estates
 
 ##### 84 Public Trust may oppose application for administration
     
-*   (1) Public Trust may lodge a caveat under [section 60][252] of the Administration Act 1969 against an application for administration, and apply _ex parte_ to a Judge in Chambers for directions, if---
+*   (1) Public Trust may lodge a caveat under [section 60][253] of the Administration Act 1969 against an application for administration, and apply _ex parte_ to a Judge in Chambers for directions, if---
         
     *   (a) a person other than Public Trust has made application for administration of the estate of a deceased person who has left real or personal property situated in New Zealand; and
     
@@ -1947,9 +1943,9 @@ Acquisition of right to administer estates
     
 *   Nothing in this Part restricts the operation of---
         
-    *   (a) [section 46(4)][253] of the Trustee Act 1956 (which imposes a duty on Public Trust to act as trustee in certain cases); or
+    *   (a) [section 46(4)][254] of the Trustee Act 1956 (which imposes a duty on Public Trust to act as trustee in certain cases); or
     
-    *   (b) [section 63][254] of the Administration Act 1969 (which prevents the granting of administration to companies other than trustee companies).
+    *   (b) [section 63][255] of the Administration Act 1969 (which prevents the granting of administration to companies other than trustee companies).
     
     Compare: 1957 No 36 s 43(3)
 
@@ -2000,11 +1996,11 @@ Elections to administer
     
     *   (b) then proceed in the ordinary manner to obtain a grant of administration in New Zealand (for which purpose Public Trust may uplift from the court any will or exemplification filed with the election).
     
-    (8) An election may be filed under this section relating to a written informal will to which [subpart 3][255] of Part 2 of the Wills Act 2007 or the Wills Amendment Act 1955 applies. This section does not apply to any other informal will.
+    (8) An election may be filed under this section relating to a written informal will to which [subpart 3][256] of Part 2 of the Wills Act 2007 or the Wills Amendment Act 1955 applies. This section does not apply to any other informal will.
     
     Compare: 1957 No 36 s 72
     
-    Section 93(8): substituted, on 1 November 2007, by [section 41][256] of the Wills Act 2007 (2007 No 36).
+    Section 93(8): substituted, on 1 November 2007, by [section 41][257] of the Wills Act 2007 (2007 No 36).
 
 ##### 94 Elections in respect of unadministered balance of estate
     
@@ -2127,11 +2123,11 @@ Unclaimed property
         
         
     
-    *   (c) when the property would vest in the Crown if it were not subject to a trust for another person, whether under [section 324][257] of the Companies Act 1993 or otherwise, and after due inquiry it is not known whether it is subject to such a trust.
+    *   (c) when the property would vest in the Crown if it were not subject to a trust for another person, whether under [section 324][258] of the Companies Act 1993 or otherwise, and after due inquiry it is not known whether it is subject to such a trust.
     
     (2) Public Trust may not be appointed or become manager under this Part of---
         
-    *   (a) customary land within the meaning of [Te Ture Whenua Maori Act 1993][258]; or
+    *   (a) customary land within the meaning of [Te Ture Whenua Maori Act 1993][259]; or
     
     *   (b) land of the Crown that has not been alienated, or is not subject to a contract for its alienation.
     
@@ -2221,7 +2217,7 @@ Unclaimed property
     
     Compare: 1957 No 36 s 81(1), (2)
     
-    Section 103(1)(b)(i): amended, on 26 April 2005, by [section 7][259] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 103(1)(b)(i): amended, on 26 April 2005, by [section 7][260] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 104 Power of Public Trust to pay for improvements
     
@@ -2321,15 +2317,15 @@ Unclaimed property
     
 *   (1) If, after 20 years from the date of the publication in the _Gazette_ of the order or election or other act by which Public Trust was appointed or became manager of any land under this Part, no person has established a claim to the land, and Public Trust has not become aware of the existence and whereabouts of any person who has a claim to the land,---
         
-    *   (a) the land vests in the Crown as Crown land within the meaning of the [Land Act 1948][260], if it has not been sold by Public Trust in the exercise of its powers under this Part; and
+    *   (a) the land vests in the Crown as Crown land within the meaning of the [Land Act 1948][261], if it has not been sold by Public Trust in the exercise of its powers under this Part; and
     
-    *   (b) all money held by Public Trust and derived from the land must be paid to a Crown Bank Account in accordance with [section 74][261] of the Public Finance Act 1989\.
+    *   (b) all money held by Public Trust and derived from the land must be paid to a Crown Bank Account in accordance with [section 74][262] of the Public Finance Act 1989\.
     
     (2) If, after 7 years from the date of the publication in the _Gazette_ of the order or election or other Act by which Public Trust was appointed or became manager of any property under this Part other than land, no person has established a claim to the property, and Public Trust has not become aware of the existence and whereabouts of any person who has a claim to the property,---
         
     *   (a) the property vests in the Crown, if it has not been sold by Public Trust in the exercise of its powers under this Part; and
     
-    *   (b) all money held by Public Trust and derived from the property must be paid to a Crown Bank Account in accordance with [section 74][261] of the Public Finance Act 1989\.
+    *   (b) all money held by Public Trust and derived from the property must be paid to a Crown Bank Account in accordance with [section 74][262] of the Public Finance Act 1989\.
     
     Compare: 1957 No 36 s 91(1), (2)
     
@@ -2351,13 +2347,13 @@ Unclaimed property
     
     *   (b) the powers that may be exercised in relation to the land or money transferred.
     
-    (3) In this section, _local authority_ means a local authority as defined in [section 5(1)][262] of the [Local Government Act 2002][263].
+    (3) In this section, _local authority_ means a local authority as defined in [section 5(1)][263] of the [Local Government Act 2002][264].
     
     Compare: 1957 No 36 s 92
     
-    Section 109(1)(a): amended, on 1 July 2003, by [section 262][264] of the Local Government Act 2002 (2002 No 84).
+    Section 109(1)(a): amended, on 1 July 2003, by [section 262][265] of the Local Government Act 2002 (2002 No 84).
     
-    Section 109(3): substituted, on 1 July 2003, by [section 262][264] of the Local Government Act 2002 (2002 No 84).
+    Section 109(3): substituted, on 1 July 2003, by [section 262][265] of the Local Government Act 2002 (2002 No 84).
 
 #### Miscellaneous provisions
 
@@ -2445,13 +2441,13 @@ Unclaimed property
 
 ##### 117 Limitation Act 2010 not affected
     
-*   Nothing in this Part affects the [Limitation Act 2010][265] or any other enactment by which a period of limitation is prescribed.
+*   Nothing in this Part affects the [Limitation Act 2010][266] or any other enactment by which a period of limitation is prescribed.
     
     Compare: 1957 No 36 s 95
     
-    Section 117 heading: amended, on 1 January 2011, by [section 58][266] of the Limitation Act 2010 (2010 No 110).
+    Section 117 heading: amended, on 1 January 2011, by [section 58][267] of the Limitation Act 2010 (2010 No 110).
     
-    Section 117: amended, on 1 January 2011, by [section 58][266] of the Limitation Act 2010 (2010 No 110).
+    Section 117: amended, on 1 January 2011, by [section 58][267] of the Limitation Act 2010 (2010 No 110).
 
 ## Part 8  
 Miscellaneous provisions
@@ -2460,7 +2456,7 @@ Miscellaneous provisions
     
 *   Where Public Trust is executor, administrator, or trustee, or is guardian, or is otherwise authorised to act in the administration of an estate, then, unless a contrary intention is expressed in this Act or in any relevant instrument, Public Trust may at its discretion, but without restricting any other powers, exercise the following powers:
         
-    *   (a) if acting as trustee of any public, charitable, or perpetual trust, exercise all the powers of leasing conferred on a leasing authority under the [Public Bodies Leases Act 1969][267] (and Public Trust is to be treated as a leasing authority within the meaning of that Act):
+    *   (a) if acting as trustee of any public, charitable, or perpetual trust, exercise all the powers of leasing conferred on a leasing authority under the [Public Bodies Leases Act 1969][268] (and Public Trust is to be treated as a leasing authority within the meaning of that Act):
     
     *   (b) where it has power to raise money by mortgage, raise the money by borrowing without giving security:
     
@@ -2504,7 +2500,7 @@ Miscellaneous provisions
     
     Compare: 1957 No 36 s 97
     
-    Section 119(4)(a): amended, on 26 April 2005, by [section 7][259] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 119(4)(a): amended, on 26 April 2005, by [section 7][260] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 120 Public Trust may sue itself in different capacity
     
@@ -2536,7 +2532,7 @@ Miscellaneous provisions
     
     *   (b) $100, or such greater amount as is from time to time prescribed by the Governor-General by Order in Council.
     
-    Compare: 1967 No 35 [s 18][268]
+    Compare: 1967 No 35 [s 18][269]
 
 ##### 123 Special services
     
@@ -2556,7 +2552,7 @@ Miscellaneous provisions
     
     (2) Any fee or other remuneration charged under subsection (1) must be clearly identified in the account rendered in respect of the estate.
     
-    Compare: 1967 No 35 [s 18][268]
+    Compare: 1967 No 35 [s 18][269]
 
 ##### 124 Review of charges
     
@@ -2566,7 +2562,7 @@ Miscellaneous provisions
     
     (3) No application to the court under this section may be made by or on behalf of any person after the expiration of 6 months from the date of delivery to that person of accounts in which are shown the commission, fee, or remuneration to which the application relates.
     
-    Compare: 1967 No 35 [s 19][269]
+    Compare: 1967 No 35 [s 19][270]
 
 ##### 125 Additional remuneration
     
@@ -2588,7 +2584,7 @@ Miscellaneous provisions
     
     *   (c) the amount of the estate's share in the profits or income from the business, undertaking, or company.
     
-    Compare: 1967 No 35 [s 19][269]
+    Compare: 1967 No 35 [s 19][270]
 
 ##### 126 Power of Public Trust to make small payments without order
     
@@ -2616,7 +2612,7 @@ Miscellaneous provisions
     
     *   (b) Public Trust may proceed to administer and distribute the estate disregarding the claim.
     
-    (4) The powers given by this section are in addition to the powers conferred by [section 75][270] of the Trustee Act 1956\.
+    (4) The powers given by this section are in addition to the powers conferred by [section 75][271] of the Trustee Act 1956\.
     
     Compare: 1957 No 36 s 105
 
@@ -2784,13 +2780,13 @@ Miscellaneous provisions
     
     (2) The covenants and agreements referred to in subsection (1)(c) are binding upon or (as the case may be) operative in favour of an assignee from Public Trust taking from it in the relevant capacity.
     
-    (3) Upon any transfer, assignment, conveyance, mortgage, lease, or grant of easement referred to in subsection (1) being presented in proper order for registration under the [Land Transfer Act 1952][271], the District Land Registrar must register it in accordance with that Act, even though the transfer, assignment, conveyance, mortgage, lease, or grant may---
+    (3) Upon any transfer, assignment, conveyance, mortgage, lease, or grant of easement referred to in subsection (1) being presented in proper order for registration under the [Land Transfer Act 1952][272], the District Land Registrar must register it in accordance with that Act, even though the transfer, assignment, conveyance, mortgage, lease, or grant may---
         
     *   (a) contain notice of or evidence a trust in respect of the estate, share, or interest affected; or
     
     *   (b) contain notice of or evidence the fact that Public Trust takes the transfer, assignment, conveyance, mortgage, lease, or grant in the capacity of a trustee.
     
-    (4) Once any such transfer, assignment, conveyance, mortgage, lease, or grant has been registered under the [Land Transfer Act 1952][271] or the [Deeds Registration Act 1908][272], no person subsequently dealing with the relevant estate, share, or interest---
+    (4) Once any such transfer, assignment, conveyance, mortgage, lease, or grant has been registered under the [Land Transfer Act 1952][272] or the [Deeds Registration Act 1908][273], no person subsequently dealing with the relevant estate, share, or interest---
         
     *   (a) is affected by any notice of trust contained in or evidenced by the transfer, assignment, conveyance, mortgage, lease, or grant; or
     
@@ -2868,7 +2864,7 @@ Miscellaneous provisions
 
 ##### 141 Limitation of liability
     
-*   The immunity in [section 121][273] of the Crown Entities Act 2004 does not extend to any injury or loss occasioned by or arising out of any act or thing done or omitted by a person acting jointly with Public Trust in any of the offices or positions referred to in [section 75(1)][92], except to the extent that the Public Trust, or any board member, committee member, office holder, or employee of Public Trust has contributed to the injury or loss, or could by the exercise of reasonable diligence have averted it.
+*   The immunity in [section 121][274] of the Crown Entities Act 2004 does not extend to any injury or loss occasioned by or arising out of any act or thing done or omitted by a person acting jointly with Public Trust in any of the offices or positions referred to in [section 75(1)][92], except to the extent that the Public Trust, or any board member, committee member, office holder, or employee of Public Trust has contributed to the injury or loss, or could by the exercise of reasonable diligence have averted it.
     
     Section 141: substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -2908,7 +2904,7 @@ Miscellaneous provisions
     
     (3) A certificate under this section is sufficient for the purpose of registering Public Trust as proprietor of---
         
-    *   (a) an estate or interest in land under the [Land Transfer Act 1952][271]; or
+    *   (a) an estate or interest in land under the [Land Transfer Act 1952][272]; or
     
     *   (b) a mining privilege under the Mining Act 1971; or
     
@@ -2916,7 +2912,7 @@ Miscellaneous provisions
     
     (4) No bank, company, body, association, or person to which a certificate under this section is produced is concerned to inquire concerning the trusts on which Public Trust holds the land, mining privilege, shares, stocks, or property, or as to Public Trust's authority to transfer or deal with it.
     
-    (5) In the case of land under the [Deeds Registration Act 1908][272],---
+    (5) In the case of land under the [Deeds Registration Act 1908][273],---
         
     *   (a) the certificate is equivalent for registration purposes to the probate, order to administer, election to administer, trust instrument, order, power of attorney, or other document or authority under which Public Trust is acting; and
     
@@ -3103,7 +3099,7 @@ Transfer of Public Trust undertaking
     
 *   (1) A document, matter, or thing that would have been admissible in evidence for or against the Public Trustee or the Public Trust Office is, on and after the appointed day, admissible in evidence for or against Public Trust.
     
-    (2) For the purpose of this section, _document_ has the meaning given to it by [section 2(1)][274] of the Evidence Amendment Act (No 2) 1980\.
+    (2) For the purpose of this section, _document_ has the meaning given to it by [section 2(1)][275] of the Evidence Amendment Act (No 2) 1980\.
 
 ##### 158 Registers
     
@@ -3173,13 +3169,13 @@ Transfer of Public Trust undertaking
 
 ##### 164 Contributors to Government Superannuation Fund
     
-*   (1) A transferred employee who, immediately before the appointed day, was a contributor to the Government Superannuation Fund under [Part 2][275] or [Part 2A][276] of the Government Superannuation Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service so long as that person continues to be an employee of Public Trust.
+*   (1) A transferred employee who, immediately before the appointed day, was a contributor to the Government Superannuation Fund under [Part 2][276] or [Part 2A][277] of the Government Superannuation Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service so long as that person continues to be an employee of Public Trust.
     
-    (2) The [Government Superannuation Fund Act 1956][277] applies to the transferred employee in all respects as if that employee's service as an employee with Public Trust were Government service.
+    (2) The [Government Superannuation Fund Act 1956][278] applies to the transferred employee in all respects as if that employee's service as an employee with Public Trust were Government service.
     
     (3) A transferred employee who ceases to be a contributor to the Government Superannuation Fund is not subsequently entitled to again become a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][277] in accordance with subsection (2), _controlling authority_, in relation to that employee, means Public Trust.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][278] in accordance with subsection (2), _controlling authority_, in relation to that employee, means Public Trust.
     
     (5) In this section, _employee_ includes the Public Trustee.
 
@@ -3205,7 +3201,7 @@ Transfer of Public Trust undertaking
 
 ##### 166 Application of Securities Act 1978
     
-*   (1) For the purposes of the [Securities Act 1978][278], Public Trust is to be treated as a government department until the expiry of 3 months after the appointed day.
+*   (1) For the purposes of the [Securities Act 1978][279], Public Trust is to be treated as a government department until the expiry of 3 months after the appointed day.
     
     (2) Despite subsection (1),---
         
@@ -3276,7 +3272,7 @@ Repeals, amendments, and transitional provisions
     
     (3) Public Trust may not, however, charge, demand, receive, or retain any management fees under [section 71][86] in respect of any existing funds until it has made initial disclosure of the fees in accordance with the disclosure regulations, except in circumstances where---
         
-    *   (a) [section 71(2)(b)][86] applies (investment statement under the [Securities Act 1978][278]); or
+    *   (a) [section 71(2)(b)][86] applies (investment statement under the [Securities Act 1978][279]); or
     
     *   (b) the disclosure regulations dispense with the requirement for initial disclosure of management fees.
     
@@ -3336,83 +3332,83 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Charitable Trusts Act 1957 (1957 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][279]_.
+_Amendment(s) incorporated in the [Act(s)][280]_.
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][280]_.
+_Amendment(s) incorporated in the [Act(s)][281]_.
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][281]_.
+_Amendment(s) incorporated in the [Act(s)][282]_.
 
 ##### Copyright Act 1994 (1994 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][282]_.
+_Amendment(s) incorporated in the [Act(s)][283]_.
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][283]_.
+_Amendment(s) incorporated in the [Act(s)][284]_.
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][284]_.
+_Amendment(s) incorporated in the [Act(s)][285]_.
 
 ##### Deaths by Accidents Compensation Act 1952 (1952 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][285]_.
+_Amendment(s) incorporated in the [Act(s)][286]_.
 
 ##### Defence Act 1990 (1990 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][286]_.
+_Amendment(s) incorporated in the [Act(s)][287]_.
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][287]_.
+_Amendment(s) incorporated in the [Act(s)][288]_.
 
 ##### Evidence Amendment Act 1952 (1952 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][288]_.
+_Amendment(s) incorporated in the [Act(s)][289]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][289]_.
+_Amendment(s) incorporated in the [Act(s)][290]_.
 
 ##### Finance Act 1961 (1961 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][290]_.
+_Amendment(s) incorporated in the [Act(s)][291]_.
 
 ##### Finance Act 1962 (1962 No 131)
 
-_Amendment(s) incorporated in the [Act(s)][291]_.
+_Amendment(s) incorporated in the [Act(s)][292]_.
 
 ##### Finance Act 1968 (1968 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][292]_.
+_Amendment(s) incorporated in the [Act(s)][293]_.
 
 ##### Finance Act (No 2) 1940 (1940 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][293]_.
+_Amendment(s) incorporated in the [Act(s)][294]_.
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][294]_.
+_Amendment(s) incorporated in the [Act(s)][295]_.
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][295]_.
+_Amendment(s) incorporated in the [Act(s)][296]_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][296]_.
+_Amendment(s) incorporated in the [Act(s)][297]_.
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][277]_.
+_Amendment(s) incorporated in the [Act(s)][278]_.
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][297]_.
+_Amendment(s) incorporated in the [Act(s)][298]_.
 
 ##### Health Reforms (Transitional Provisions) Act 1993 (1993 No 23)
 
@@ -3420,107 +3416,107 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Howard Estate Act 1978 (1978 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][298]_.
+_Amendment(s) incorporated in the [Act(s)][299]_.
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][299]_.
+_Amendment(s) incorporated in the [Act(s)][300]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][300]_.
+_Amendment(s) incorporated in the [Act(s)][301]_.
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][301]_.
+_Amendment(s) incorporated in the [Act(s)][302]_.
 
 ##### Insurance Companies' Deposits Act 1953 (1953 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][302]_.
+_Amendment(s) incorporated in the [Act(s)][303]_.
 
 ##### Kitchener Memorial Scholarship Trust Act 1941 (1941 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][303]_.
+_Amendment(s) incorporated in the [Act(s)][304]_.
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][260]_.
+_Amendment(s) incorporated in the [Act(s)][261]_.
 
 ##### Land Drainage Act 1908 (1908 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][304]_.
+_Amendment(s) incorporated in the [Act(s)][305]_.
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][271]_.
+_Amendment(s) incorporated in the [Act(s)][272]_.
 
 ##### Law Reform Act 1936 (1936 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][305]_.
+_Amendment(s) incorporated in the [Act(s)][306]_.
 
 ##### Layout Designs Act 1994 (1994 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][307]_.
 
 ##### Life Insurance Act 1908 (1908 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][307]_.
+_Amendment(s) incorporated in the [Act(s)][308]_.
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Maori Affairs Restructuring Act 1989 (1989 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][309]_.
+_Amendment(s) incorporated in the [Act(s)][310]_.
 
 ##### Maori Housing Act 1935 (1935 No 34)
 
-_Amendment(s) incorporated in the [Act(s)][310]_.
+_Amendment(s) incorporated in the [Act(s)][311]_.
 
 ##### Maori Trustee Act 1953 (1953 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][311]_.
+_Amendment(s) incorporated in the [Act(s)][312]_.
 
 ##### Minors' Contracts Act 1969 (1969 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][312]_.
+_Amendment(s) incorporated in the [Act(s)][313]_.
 
 ##### Mutual Insurance Act 1955 (1955 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][313]_.
+_Amendment(s) incorporated in the [Act(s)][314]_.
 
 ##### Niue Act 1966 (1966 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][314]_.
+_Amendment(s) incorporated in the [Act(s)][315]_.
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][315]_.
+_Amendment(s) incorporated in the [Act(s)][316]_.
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][316]_.
+_Amendment(s) incorporated in the [Act(s)][317]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][317]_.
+_Amendment(s) incorporated in the [Act(s)][318]_.
 
 ##### Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138)
 
-_Amendment(s) incorporated in the [Act(s)][318]_.
+_Amendment(s) incorporated in the [Act(s)][319]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][319]_.
+_Amendment(s) incorporated in the [Act(s)][320]_.
 
 ##### Property Law Act 1952 (1952 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][320]_.
+_Amendment(s) incorporated in the [Act(s)][321]_.
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][321]_.
+_Amendment(s) incorporated in the [Act(s)][322]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
@@ -3528,7 +3524,7 @@ _Amendment(s) incorporated in the [Act(s)][231]_.
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][322]_.
+_Amendment(s) incorporated in the [Act(s)][323]_.
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -3536,23 +3532,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Reserves and Other Lands Disposal Act 1940 (1940 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][323]_.
+_Amendment(s) incorporated in the [Act(s)][324]_.
 
 ##### River Boards Act 1908 (1908 No 165)
 
-_Amendment(s) incorporated in the [Act(s)][324]_.
+_Amendment(s) incorporated in the [Act(s)][325]_.
 
 ##### Seamen's Union Funds Act 1971 (1971 No 71)
 
-_Amendment(s) incorporated in the [Act(s)][325]_.
+_Amendment(s) incorporated in the [Act(s)][326]_.
 
 ##### Secondhand Dealers Act 1963 (1963 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][325]_.
+_Amendment(s) incorporated in the [Act(s)][326]_.
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][278]_.
+_Amendment(s) incorporated in the [Act(s)][279]_.
 
 ##### Securities Amendment Act 1988 (1988 No 234)
 
@@ -3560,15 +3556,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][326]_.
+_Amendment(s) incorporated in the [Act(s)][327]_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][327]_.
+_Amendment(s) incorporated in the [Act(s)][328]_.
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][328]_.
+_Amendment(s) incorporated in the [Act(s)][329]_.
 
 ##### Trustee Act 1956 (1956 No 61)
 
@@ -3576,15 +3572,15 @@ _Amendment(s) incorporated in the [Act(s)][217]_.
 
 ##### Trustee Companies Management Act 1975 (1975 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][329]_.
+_Amendment(s) incorporated in the [Act(s)][330]_.
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][330]_.
+_Amendment(s) incorporated in the [Act(s)][331]_.
 
 ##### Wills Amendment Act 1969 (1969 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][331]_.
+_Amendment(s) incorporated in the [Act(s)][332]_.
 
 ---
 
@@ -3595,27 +3591,27 @@ Local Acts amended
 
 ##### Auckland Education Reserves Act 1912 (1912 No 5 (L))
 
-_Amendment(s) incorporated in the [Act(s)][332]_.
+_Amendment(s) incorporated in the [Act(s)][333]_.
 
 ##### Auckland Metropolitan Drainage Act 1960 (1960 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][333]_.
+_Amendment(s) incorporated in the [Act(s)][334]_.
 
 ##### Christchurch District Drainage Act 1951 (1951 No 21 (L))
 
-_Amendment(s) incorporated in the [Act(s)][334]_.
+_Amendment(s) incorporated in the [Act(s)][335]_.
 
 ##### Hutt Valley Drainage Act 1967 (1967 No 3 (L))
 
-_Amendment(s) incorporated in the [Act(s)][335]_.
+_Amendment(s) incorporated in the [Act(s)][336]_.
 
 ##### Masterton Borough Council Staff Retiring Fund Act 1962 (1962 No 9 (L))
 
-_Amendment(s) incorporated in the [Act(s)][336]_.
+_Amendment(s) incorporated in the [Act(s)][337]_.
 
 ##### North Shore Drainage Act 1963 (1963 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][337]_.
+_Amendment(s) incorporated in the [Act(s)][338]_.
 
 ---
 
@@ -3626,19 +3622,19 @@ Private Acts amended
 
 ##### Carter Trust Act 1961 (1961 No 4 (P))
 
-_Amendment(s) incorporated in the [Act(s)][338]_.
+_Amendment(s) incorporated in the [Act(s)][339]_.
 
 ##### John Fuller Trust Act 1951 (1951 No 6 (P))
 
-_Amendment(s) incorporated in the [Act(s)][339]_.
+_Amendment(s) incorporated in the [Act(s)][340]_.
 
 ##### Kirkpatrick Masonic Trust Empowering Act 1998 (1998 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][340]_.
+_Amendment(s) incorporated in the [Act(s)][341]_.
 
 ##### Thomas George Macarthy Trust Act 1936 (1936 No 4 (P))
 
-_Amendment(s) incorporated in the [Act(s)][341]_.
+_Amendment(s) incorporated in the [Act(s)][342]_.
 
 ---
 
@@ -3653,98 +3649,55 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Mutual Insurance Regulations 1956 (SR 1956/69)
 
-_Amendment(s) incorporated in the [regulations][342]_.
+_Amendment(s) incorporated in the [regulations][343]_.
 
 ##### Protection of Personal and Property Rights Regulations 1988 (SR 1988/229)
 
-_Amendment(s) incorporated in the [regulations][343]_.
+_Amendment(s) incorporated in the [regulations][344]_.
 
 ##### Trust Estates Audit Regulations 1958 (SR 1958/71)
 
-_Amendment(s) incorporated in the [regulations][344]_.
+_Amendment(s) incorporated in the [regulations][345]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Public Trust Act 2001\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][345] ![](/images/external_link.gif).
+*   This is a reprint of the Public Trust Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][346] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][346] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][347] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][347] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][348] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][349] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][348] and [17E][349] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Crown Entities Amendment Act 2013 (2013 No 51): [sections 42][214], [72][237]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Limitation Act 2010 (2010 No 110): [section 58][267]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Crown Entities Amendment Act 2013 (2013 No 51): [section 42][214]
-    
-    Limitation Act 2010 (2010 No 110): [section 58][266]
-    
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 14][242]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 14][243]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][230]
     
-    Wills Act 2007 (2007 No 36): [section 41][256]
+    Wills Act 2007 (2007 No 36): [section 41][257]
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 229][215], [230][247]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 229][215], [230][248]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][350]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][213]
     
-    Local Government Act 2002 (2002 No 84): [section 262][264]
+    Local Government Act 2002 (2002 No 84): [section 262][265]
     
-    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][243]
+    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][244]
     
     [Public Trust Commencement Order (No 2) 2002][207] (SR 2002/197)
     
@@ -3754,7 +3707,7 @@ _Amendment(s) incorporated in the [regulations][344]_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2001/0100/latest/whole.html#DLM123402
 [2]: http://www.legislation.govt.nz/act/public/2001/0100/latest/whole.html#DLM123403
 [3]: http://www.legislation.govt.nz/act/public/2001/0100/latest/whole.html#DLM123404
@@ -3990,118 +3943,118 @@ _Amendment(s) incorporated in the [regulations][344]_.
 [233]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330342
 [234]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330562
 [235]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM162942
-[236]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330577
-[237]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330502
-[238]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127009
-[239]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127010
-[240]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127016
-[241]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127020
-[242]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM1404054
-[243]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM162198
-[244]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM28187
-[245]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM28351
-[246]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM264600
-[247]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM401680
-[248]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305807
-[249]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393088
-[250]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM327640
-[251]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM403276
-[252]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393001
-[253]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305508
-[254]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393013
-[255]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM413545
-[256]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM413569
-[257]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM322850
-[258]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM289881
-[259]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM333764
-[260]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM250585
-[261]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM163141
-[262]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM170881
-[263]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM170872
-[264]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM174088
-[265]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2033100
-[266]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2033287
-[267]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM394841
-[268]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM381473
-[269]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM381476
-[270]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305583
-[271]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM269031
-[272]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM141134
-[273]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330373
-[274]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM35698
-[275]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446395
-[276]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446842
-[277]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446000
-[278]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM25999
-[279]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM308795
-[280]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM253150
-[281]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM319569
-[282]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM345633
-[283]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM242535
-[284]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM261466
-[285]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM265835
-[286]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM204972
-[287]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM175958
-[288]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM267013
-[289]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM39722
-[290]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM337555
-[291]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM341025
-[292]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM388264
-[293]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM230142
-[294]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM432647
-[295]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM59731
-[296]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM81034
-[297]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM333583
-[298]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM24092
-[299]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM304211
-[300]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM1184504
-[301]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM382333
-[302]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM278720
-[303]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM232891
-[304]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM160976
-[305]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM219549
-[306]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM341480
-[307]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM169542
-[308]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM415531
-[309]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM169979
-[310]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM219026
-[311]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM282037
-[312]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392349
-[313]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM288723
-[314]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM374780
-[315]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM314552
-[316]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM64784
-[317]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM430983
-[318]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM409224
-[319]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM296638
-[320]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM267064
-[321]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM126527
-[322]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM45426
-[323]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM228846
-[324]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM172771
-[325]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM405044
-[326]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM399728
-[327]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM129109
-[328]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM289897
-[329]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM431745
-[330]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM325263
-[331]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392336
-[332]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM37696
-[333]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM58546
-[334]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM54088
-[335]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM64669
-[336]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM59474
-[337]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM60624
-[338]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM103568
-[339]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM100861
-[340]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM118547
-[341]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM96659
-[342]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM9986
-[343]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM126901
-[344]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM12501
-[345]: http://www.pco.parliament.govt.nz/reprints/
-[346]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM195439
-[347]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[348]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM195468
-[349]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM195470
+[236]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM6176675
+[237]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM5327162
+[238]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330502
+[239]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127009
+[240]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127010
+[241]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127016
+[242]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM127020
+[243]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM1404054
+[244]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM162198
+[245]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM28187
+[246]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM28351
+[247]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM264600
+[248]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM401680
+[249]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305807
+[250]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393088
+[251]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM327640
+[252]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM403276
+[253]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393001
+[254]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305508
+[255]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM393013
+[256]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM413545
+[257]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM413569
+[258]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM322850
+[259]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM289881
+[260]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM333764
+[261]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM250585
+[262]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM163141
+[263]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM170881
+[264]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM170872
+[265]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM174088
+[266]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2033100
+[267]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2033287
+[268]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM394841
+[269]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM381473
+[270]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM381476
+[271]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM305583
+[272]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM269031
+[273]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM141134
+[274]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330373
+[275]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM35698
+[276]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446395
+[277]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446842
+[278]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM446000
+[279]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM25999
+[280]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM308795
+[281]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM253150
+[282]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM319569
+[283]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM345633
+[284]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM242535
+[285]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM261466
+[286]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM265835
+[287]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM204972
+[288]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM175958
+[289]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM267013
+[290]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM39722
+[291]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM337555
+[292]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM341025
+[293]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM388264
+[294]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM230142
+[295]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM432647
+[296]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM59731
+[297]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM81034
+[298]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM333583
+[299]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM24092
+[300]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM304211
+[301]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM1184504
+[302]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM382333
+[303]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM278720
+[304]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM232891
+[305]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM160976
+[306]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM219549
+[307]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM341480
+[308]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM169542
+[309]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM415531
+[310]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM169979
+[311]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM219026
+[312]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM282037
+[313]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392349
+[314]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM288723
+[315]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM374780
+[316]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM314552
+[317]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM64784
+[318]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM430983
+[319]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM409224
+[320]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM296638
+[321]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM267064
+[322]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM126527
+[323]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM45426
+[324]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM228846
+[325]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM172771
+[326]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM405044
+[327]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM399728
+[328]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM129109
+[329]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM289897
+[330]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM431745
+[331]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM325263
+[332]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392336
+[333]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM37696
+[334]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM58546
+[335]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM54088
+[336]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM64669
+[337]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM59474
+[338]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM60624
+[339]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM103568
+[340]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM100861
+[341]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM118547
+[342]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM96659
+[343]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM9986
+[344]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM126901
+[345]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM12501
+[346]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2998516
+[347]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2998515
+[348]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM2998532
+[349]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [350]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM333795
