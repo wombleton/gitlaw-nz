@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -199,7 +199,7 @@ This Act is administered by the Ministry of Social Development and the Treasury.
 
 [Accountability][86]
 
-[65][87][][87][Statement of intent][87]
+[65][87][][87][Statement of performance expectations][87]
 
 [66][88][][88][Financial statements of Fund][88]
 
@@ -1586,9 +1586,9 @@ New Zealand Superannuation Fund
 
 #### Accountability
 
-##### 65 Statement of intent
+##### 65 Statement of performance expectations
     
-*   The statement of intent of the Guardians prepared each financial year under [Part 4][240] of the Crown Entities Act 2004 must include (in addition to any other requirements)---
+*   The statement of performance expectations of the Guardians prepared each financial year under [Part 4][240] of the Crown Entities Act 2004 must include (in addition to any other requirements)---
         
     *   (a) a statement of the board's expectations about the performance of the Fund over the next financial year, in sufficient detail to enable meaningful assessment against those expectations after the end of that financial year; and
     
@@ -1596,19 +1596,23 @@ New Zealand Superannuation Fund
     
     *   (c) forecast financial statements of the Fund for the next financial year, including a statement of accounting policies.
     
+    Section 65 heading: replaced, on 1 July 2014, by [section 72][241] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 65: amended, on 1 July 2014, by [section 72][241] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
     Section 65: amended, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 66 Financial statements of Fund
     
 *   (1) The Guardians must ensure that financial statements for the Fund are prepared for each financial year.
     
-    (2) The annual financial statements must be prepared in accordance with generally accepted accounting practice (as defined in [section 8][241] of the Financial Reporting Act 2013).
+    (2) The annual financial statements must be prepared in accordance with generally accepted accounting practice (as defined in [section 8][242] of the Financial Reporting Act 2013).
     
     Section 66(2): replaced, on 1 April 2014, by [section 126][144] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 67 Auditor-General is auditor of Fund
     
-*   (1) The Fund is to be treated as if it were a public entity as defined in [section 4][242] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   (1) The Fund is to be treated as if it were a public entity as defined in [section 4][243] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (2) The Guardians must, not later than 90 days after the end of the financial year, forward the annual financial statements of the Fund to the Auditor-General.
     
@@ -1620,11 +1624,11 @@ New Zealand Superannuation Fund
         
     *   (a) the financial statements of the Fund for that financial year prepared under [section 66][88]; and
     
-    *   (b) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Guardians (if any), and comprising the same statements that are required by [section 155][243] of the Crown Entities Act 2004 as if the Fund were a Crown entity; and
+    *   (b) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Guardians (if any), and comprising the same statements that are required by [section 155][244] of the Crown Entities Act 2004 as if the Fund were a Crown entity; and
     
     *   (c) the audit report on the financial statements; and
     
-    *   (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians' expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
+    *   (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians' expectations about the performance of the Fund that were set out in the statement of performance expectations relating to that financial year; and
     
     *   (e) a statement of the investment policies, standards, and procedures for the Fund established by the Guardians under [section 60][80]; and
     
@@ -1635,6 +1639,8 @@ New Zealand Superannuation Fund
     Section 68: amended, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 68(b): amended, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 68(d): amended, on 1 July 2014, by [section 72][241] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 69 Reporting by Guardians on Fund
     
@@ -1733,13 +1739,13 @@ Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011--12 and later income years), pursuant to [section 209][244] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+*   Heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011--12 and later income years), pursuant to [section 209][245] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 76 Taxation of Fund and Guardians
     
 *   \[Repealed\]
     
-    Section 76: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011--12 and later income years), by [section 209][244] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 76: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011--12 and later income years), by [section 209][245] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 #### Consequential amendments and revocation
 
@@ -1757,38 +1763,38 @@ Miscellaneous provisions
     
 *   Every person who, immediately before the commencement of this section, was entitled to receive New Zealand superannuation entitlements under the [Social Security Act 1964][130] or the [Social Welfare (Transitional Provisions) Act 1990][184] or the Social Security (Disability Services) Regulations 1993 is entitled to receive the corresponding New Zealand superannuation entitlements under [Part 1][10].
     
-    Compare: 1990 No 26 [s 7][245]
+    Compare: 1990 No 26 [s 7][246]
 
 ##### 79A References to Volunteer Service Abroad Incorporated
     
 *   The references in the following provisions to ""Volunteer Service Abroad Incorporated"" must for all purposes relating to the operation of those provisions be read as references to the body incorporated under the [Incorporated Societies Act 1908][154] on 8 April 1963 as ""Volunteer Service Abroad Inc"":
         
-    *   (a) [section 14(2)(e)][246] of the Social Security Act 1964 (as inserted on 29 September 1969 by section 4 of the Social Security Amendment Act 1969, and repealed on 1 April 1990 by [section 14(18)][247] of the Social Welfare (Transitional Provisions) Act 1990):
+    *   (a) [section 14(2)(e)][247] of the Social Security Act 1964 (as inserted on 29 September 1969 by section 4 of the Social Security Amendment Act 1969, and repealed on 1 April 1990 by [section 14(18)][248] of the Social Welfare (Transitional Provisions) Act 1990):
     
     *   (b) [section 4(2)(d)][153] of the Social Welfare (Transitional Provisions) Act 1990 (which commenced on 1 April 1990, and was repealed by [section 77][105] of this Act on 12 October 2001).
     
-    Section 79A: inserted, on 25 February 2012, by [section 5][248] of the New Zealand Superannuation and Retirement Income Amendment Act 2012 (2012 No 16).
+    Section 79A: inserted, on 25 February 2012, by [section 5][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2012 (2012 No 16).
 
 ## Part 4  
 Retirement Commissioner
     
-*   Part 4: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+*   Part 4: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 80 Purpose of this Part
     
 *   The purpose of this Part is to continue the office of the Retirement Commissioner and to set out the Commissioner's functions, powers, and duties.
     
-    Section 80: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 80: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 81 Interpretation of this Part and Schedule 6
     
 *   In this Part and in [Schedule 6][129], the terms _Commissioner_, _Government_, and _Minister_ have the meanings set out in [section 5A][8].
     
-    Section 81: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 81: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 #### Provisions relating to constitution and appointment of Retirement Commissioner
     
-*   Heading: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+*   Heading: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 82 Retirement Commissioner
     
@@ -1800,13 +1806,13 @@ Retirement Commissioner
     
     (4) The [Crown Entities Act 2004][230] applies to the Commissioner except to the extent that this Act expressly applies otherwise.
     
-    (5) The Commissioner is the board for the purposes of [section 10][250] of that Act.
+    (5) The Commissioner is the board for the purposes of [section 10][251] of that Act.
     
-    Section 82: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 82: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 #### Functions, powers, and duties of Commissioner
     
-*   Heading: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+*   Heading: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 83 Functions
     
@@ -1828,7 +1834,7 @@ Retirement Commissioner
     
     Compare: 1993 No 148 s 6
     
-    Section 83: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 83: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 84 Periodic reviews
     
@@ -1846,7 +1852,7 @@ Retirement Commissioner
     
     (5) The Minister must, as soon as practicable after receiving a report under [section 83(c)][116], present a copy of the report to the House of Representatives.
     
-    Section 84: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 84: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 85 Discretion in relation to performance and exercise of functions and powers
     
@@ -1860,17 +1866,17 @@ Retirement Commissioner
     
     (3) The Minister must, as soon as practicable after receiving a report under subsection (2)(b), present a copy of that report to the House of Representatives.
     
-    Section 85: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 85: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 86 Provisions applying to Commissioner
     
 *   The provisions in [Schedule 6][129] apply to the Commissioner.
     
-    Section 86: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 86: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 #### Transitional and miscellaneous provisions
     
-*   Heading: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+*   Heading: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 87 Continuation of office, appointment of Commissioner, and employment of employees
     
@@ -1880,25 +1886,25 @@ Retirement Commissioner
         
     *   (a) for a term that expires on 16 January 2010; and
     
-    *   (b) subject to the determination under the [Remuneration Authority Act 1977][251] that applied to the person immediately before that commencement.
+    *   (b) subject to the determination under the [Remuneration Authority Act 1977][252] that applied to the person immediately before that commencement.
     
     (3) This Part does not affect the employment of any person who, immediately before the commencement of this Part, was an employee of the Retirement Commissioner.
     
-    Section 87: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 87: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 88 Application of this Part to matters commenced under Retirement Income Act 1993 or Retirement Villages Act 2003
     
-*   (1) The Commissioner may continue or complete any act, matter, or thing commenced by the Commissioner under the Retirement Income Act 1993 or the [Retirement Villages Act 2003][252] but not completed on the commencement of this Part.
+*   (1) The Commissioner may continue or complete any act, matter, or thing commenced by the Commissioner under the Retirement Income Act 1993 or the [Retirement Villages Act 2003][253] but not completed on the commencement of this Part.
     
     (2) The provisions of this Part apply with all necessary modifications to the continuation or completion of any act, matter, or thing referred to in subsection (1).
     
-    Section 88: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 88: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 89 References to New Zealand Superannuation Act 2001
     
 *   Unless the context otherwise requires, any reference to the New Zealand Superannuation Act 2001 in any enactment, rule, order, agreement, deed, or document of any other kind in force on the commencement of this section must be read as a reference to the New Zealand Superannuation and Retirement Income Act 2001\.
     
-    Section 89: added, on 21 April 2005, by [section 7][249] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 89: added, on 21 April 2005, by [section 7][250] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ---
 
@@ -1943,32 +1949,32 @@ An amount that, after income tax is deducted under tax code M (as stated in [sec
 
 An amount that, after deduction of any income tax, is equal to $38.28 per week
 
-*   Schedule 1 clause 1(a): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 1(a): amended, on 1 April 2014, by [clause 5][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 1(a): amended, on 2 September 2013, by [section 11(1)][255] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+*   Schedule 1 clause 1(a): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(a): amended, on 1 April 2014, by [clause 5][255] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(a): amended, on 2 September 2013, by [section 11(1)][256] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 *   Schedule 1 clause 1(a): amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 1(b): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 1(b): amended, on 1 April 2014, by [clause 5][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 1(b): amended, on 2 September 2013, by [section 11(2)][255] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+*   Schedule 1 clause 1(b): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(b): amended, on 1 April 2014, by [clause 5][255] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(b): amended, on 2 September 2013, by [section 11(2)][256] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 *   Schedule 1 clause 1(b): amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 1(c): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 1(c): amended, on 1 April 2014, by [clause 5][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(c): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 1(c): amended, on 1 April 2014, by [clause 5][255] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 1 clause 1(c): amended, on 1 April 2007, by [section 4][161] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 1(c): amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 2: amended, on 1 April 2007, by [section 4][161] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 2: amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 2(a): amended, on 1 April 2014, by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 2(a): amended, on 1 April 2014, by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 1 clause 2(a): amended, on 1 April 2007, by [section 4][161] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 2(a): amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 2(b): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
-*   Schedule 1 clause 2(b): amended, on 1 April 2014, by [clause 5][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 2(b): amended, on 1 April 2014 (immediately after clause 5 of the order came into force), by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 2(b): amended, on 1 April 2014, by [clause 5][255] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 1 clause 2(b): amended, on 1 April 2007, by [section 4][161] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 2(b): amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 3: amended, on 1 April 2014, by [clause 6(2)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 3: amended, on 1 April 2014, by [clause 6(2)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 *   Schedule 1 clause 3: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][142] of the Income Tax Act 2007 (2007 No 97).
 *   Schedule 1 clause 3: amended, on 1 April 2007, by [section 4][161] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
 *   Schedule 1 clause 3: amended, on 26 April 2005, by [section 3][156] of the New Zealand Superannuation Amendment Act 2005 (2005 No 17).
-*   Schedule 1 clause 4: replaced, on 1 April 2014, by [clause 6(3)][253] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
+*   Schedule 1 clause 4: replaced, on 1 April 2014, by [clause 6(3)][254] of the Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39).
 
 ---
 
@@ -2062,7 +2068,7 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
 
 ##### 6 Term of office
     
-*   A member holds office for 5 years or any shorter period stated in the notice of appointment, despite [section 32(1)][256] of the Crown Entities Act 2004\.
+*   A member holds office for 5 years or any shorter period stated in the notice of appointment, despite [section 32(1)][257] of the Crown Entities Act 2004\.
     
     Schedule 3 clause 6: substituted, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -2106,7 +2112,7 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
     
 *   (1) The Governor-General may, on the advice of the Minister, remove a member from office for a reason that in the Minister's opinion justifies the removal.
     
-    (2) Subclause (1) applies despite [section 37][257] of the Crown Entities Act 2004\.
+    (2) Subclause (1) applies despite [section 37][258] of the Crown Entities Act 2004\.
     
     (3) The Governor-General removes a member by sending written notice to the member and a copy to the entity.
     
@@ -2224,19 +2230,19 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
 
 ##### 23 Matters to be delegated to committee
     
-*   The board must delegate a deliberation or decision to a committee if the effect of [section 66][258] of the Crown Entities Act 2004 is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
+*   The board must delegate a deliberation or decision to a committee if the effect of [section 66][259] of the Crown Entities Act 2004 is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
     
     Schedule 3 clause 23: amended, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Members of committee to which matters delegated
     
-*   (1) A committee to which a deliberation or decision is delegated under [clause 23][259] must consist of a majority of persons---
+*   (1) A committee to which a deliberation or decision is delegated under [clause 23][260] must consist of a majority of persons---
         
     *   (a) who are not interested in the transaction; and
     
     *   (b) in the case of members of the committee who are not members of the board, who are appointed by the board with the agreement of the Minister.
     
-    (2) This clause is an exception to [clause 14][260] of Schedule 5 of the Crown Entities Act 2004\.
+    (2) This clause is an exception to [clause 14][261] of Schedule 5 of the Crown Entities Act 2004\.
     
     Schedule 3 clause 24(2): added, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -2346,7 +2352,7 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
 
 ##### 39 Additional persons to whom delegations can be made
     
-*   The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite [section 73(1)(d)][261] of the Crown Entities Act 2004:
+*   The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite [section 73(1)(d)][262] of the Crown Entities Act 2004:
         
     *   (a) a person appointed to undertake the investment of any part of the Fund under [section 62][82]:
     
@@ -2366,7 +2372,7 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
     
     *   (d) the power to appoint a custodian in terms of [section 63][83].
     
-    (2) This clause does not limit [sections 62][82] and [63][83] of this Act or [clause 23][259] or [clause 24][262] of this schedule or [section 73(4)][261] of the Crown Entities Act 2004\.
+    (2) This clause does not limit [sections 62][82] and [63][83] of this Act or [clause 23][260] or [clause 24][263] of this schedule or [section 73(4)][262] of the Crown Entities Act 2004\.
     
     Schedule 3 clause 40(1)(a): repealed, on 25 January 2005, by [section 200][141] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -2448,7 +2454,7 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
     
 *   \[Repealed\]
     
-    Schedule 3 clause 50: repealed, on 1 December 2004, by [section 72][263] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Schedule 3 clause 50: repealed, on 1 December 2004, by [section 72][264] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 51 Superannuation or retiring allowances
     
@@ -2464,11 +2470,11 @@ Further provisions relating to board of Guardians of New Zealand Superannuation
 
 ##### 53 Existing Government Superannuation Fund members
     
-*   (1) Despite [clause 52][264], a person who, immediately before becoming an employee of the board, was a contributor to the Government Superannuation Fund under [Part 2][265] or [Part 2A][266] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, considered to be employed in the Government service so long as that person continues to be an employee of the board; and that Act applies to that person in all respects as if that person's service as an employee of the board were Government service.
+*   (1) Despite [clause 52][265], a person who, immediately before becoming an employee of the board, was a contributor to the Government Superannuation Fund under [Part 2][266] or [Part 2A][267] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, considered to be employed in the Government service so long as that person continues to be an employee of the board; and that Act applies to that person in all respects as if that person's service as an employee of the board were Government service.
     
     (2) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][267] in accordance with subclause (1), _controlling authority_, for that employee, means the board.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][268] in accordance with subclause (1), _controlling authority_, for that employee, means the board.
 
 ---
 
@@ -2490,11 +2496,11 @@ Progressive Coalition Party
 
 United Future New Zealand
     
-*   Schedule 4 Part 1 Green Party: added, on 20 November 2003, by [clause 3][268] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
-*   Schedule 4 Part 1 New Zealand Labour Party: added, on 20 November 2003, by [clause 3][268] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
-*   Schedule 4 Part 1 New Zealand National Party: inserted, on 13 January 2005, by [clause 3][269] of the New Zealand Superannuation (Political Commitment) Order 2004 (SR 2004/431).
-*   Schedule 4 Part 1 Progressive Coalition Party: added, on 20 November 2003, by [clause 3][268] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
-*   Schedule 4 Part 1 United Future New Zealand: added, on 20 November 2003, by [clause 3][268] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 1 Green Party: added, on 20 November 2003, by [clause 3][269] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 1 New Zealand Labour Party: added, on 20 November 2003, by [clause 3][269] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 1 New Zealand National Party: inserted, on 13 January 2005, by [clause 3][270] of the New Zealand Superannuation (Political Commitment) Order 2004 (SR 2004/431).
+*   Schedule 4 Part 1 Progressive Coalition Party: added, on 20 November 2003, by [clause 3][269] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 1 United Future New Zealand: added, on 20 November 2003, by [clause 3][269] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
 
 ## Part 2  
 Political parties that are in agreement with Part 2 of Act
@@ -2507,10 +2513,10 @@ Progressive Coalition Party
 
 United Future New Zealand
     
-*   Schedule 4 Part 2 New Zealand Labour Party: added, on 20 November 2003, by [clause 4][270] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
-*   Schedule 4 Part 2 New Zealand National Party: inserted, on 13 January 2005, by [clause 4][271] of the New Zealand Superannuation (Political Commitment) Order 2004 (SR 2004/431).
-*   Schedule 4 Part 2 Progressive Coalition Party: added, on 20 November 2003, by [clause 4][270] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
-*   Schedule 4 Part 2 United Future New Zealand: added, on 20 November 2003, by [clause 4][270] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 2 New Zealand Labour Party: added, on 20 November 2003, by [clause 4][271] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 2 New Zealand National Party: inserted, on 13 January 2005, by [clause 4][272] of the New Zealand Superannuation (Political Commitment) Order 2004 (SR 2004/431).
+*   Schedule 4 Part 2 Progressive Coalition Party: added, on 20 November 2003, by [clause 4][271] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
+*   Schedule 4 Part 2 United Future New Zealand: added, on 20 November 2003, by [clause 4][271] of the New Zealand Superannuation (Political Commitment) Order 2003 (SR 2003/278).
 
 ---
 
@@ -2525,23 +2531,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][272]._
+_Amendment(s) incorporated in the [Act(s)][273]._
 
 ##### Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][273]._
+_Amendment(s) incorporated in the [Act(s)][274]._
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][274]._
+_Amendment(s) incorporated in the [Act(s)][275]._
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][275]._
+_Amendment(s) incorporated in the [Act(s)][276]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][276]._
+_Amendment(s) incorporated in the [Act(s)][277]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -2549,15 +2555,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][277]._
+_Amendment(s) incorporated in the [Act(s)][278]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][278]._
+_Amendment(s) incorporated in the [Act(s)][279]._
 
 ##### Social Security Amendment Act 1998 (1998 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][279]._
+_Amendment(s) incorporated in the [Act(s)][280]._
 
 ##### Social Welfare (Transitional Provisions) Act 1990 (1990 No 26)
 
@@ -2577,7 +2583,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Taxation (Remedial Provisions) Act 1996 (1996 No 159)
 
-_Amendment(s) incorporated in the [Act(s)][280]._
+_Amendment(s) incorporated in the [Act(s)][281]._
 
 ---
 
@@ -2586,23 +2592,23 @@ Provisions applying to Retirement Commissioner
 
 [s 86][119]
 
-*   Schedule 6: added, on 21 April 2005, by [section 8][281] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+*   Schedule 6: added, on 21 April 2005, by [section 8][282] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
 
 ##### 1 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowance for the Commissioner, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][282] and approved by the Minister of Finance for the purposes of this clause.
+*   (1) For the purpose of providing a superannuation fund or retiring allowance for the Commissioner, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][283] and approved by the Minister of Finance for the purposes of this clause.
     
-    (2) Despite anything in this clause, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][265] or [Part 2A][266] of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
+    (2) Despite anything in this clause, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][266] or [Part 2A][267] of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][267], nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][268], nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][267], in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][268], in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
 
 #### Delegations
 
 ##### 2 Ability to delegate
     
-*   Despite [section 73][261] of the Crown Entities Act 2004, the Commissioner must not delegate the power to appoint an attorney under [section 129][283] of the Crown Entities Act 2004 without the prior written consent of the Minister.
+*   Despite [section 73][262] of the Crown Entities Act 2004, the Commissioner must not delegate the power to appoint an attorney under [section 129][284] of the Crown Entities Act 2004 without the prior written consent of the Minister.
 
 ---
 
@@ -2614,7 +2620,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Social Assistance (Living Alone Payments) Amendment Act 2013][284].
+*   This Act is the [Social Assistance (Living Alone Payments) Amendment Act 2013][285].
 
 ##### 2 Commencement
     
@@ -2704,75 +2710,75 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][285] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][286] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][286] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][287] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][287] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][288] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][288] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][289] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39): [clauses 5][254], [6(2), (3)][253]
+*   Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39): [clauses 5][255], [6(2), (3)][254]
     
     Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [section 13][143]
     
     Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][144]
     
-    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][238]
+    Crown Entities Amendment Act 2013 (2013 No 51): [sections 42][238], [72][241]
     
     Public Finance Amendment Act 2013 (2013 No 50): [section 57][225]
     
     Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [section 97][176]
     
-    Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [Part 1][289]
+    Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [Part 1][290]
     
-    [New Zealand Superannuation and Retirement Income (Indexation---Budget Measures) Amendment Act 2012][290] (2012 No 81)
+    [New Zealand Superannuation and Retirement Income (Indexation---Budget Measures) Amendment Act 2012][291] (2012 No 81)
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2012][291] (2012 No 16)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2012][292] (2012 No 16)
     
-    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [section 209][244]
+    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [section 209][245]
     
     Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][145]
     
-    [New Zealand Superannuation and Retirement Income Amendment Act (No 2) 2010][292] (2010 No 75)
+    [New Zealand Superannuation and Retirement Income Amendment Act (No 2) 2010][293] (2010 No 75)
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2010][293] (2010 No 32)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2010][294] (2010 No 32)
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 49][170]
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2009][294] (2009 No 40)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2009][295] (2009 No 40)
     
     Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 13][187]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][142]
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2007][295] (2007 No 70)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2007][296] (2007 No 70)
     
     Social Security Amendment Act 2007 (2007 No 20): [section 12(2)][159]
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2006][296] (2006 No 31)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2006][297] (2006 No 31)
     
     Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45): [section 63][152]
     
-    [New Zealand Superannuation and Retirement Income Amendment Act 2005][297] (2005 No 42)
+    [New Zealand Superannuation and Retirement Income Amendment Act 2005][298] (2005 No 42)
     
-    [New Zealand Superannuation Amendment Act 2005][298] (2005 No 17)
+    [New Zealand Superannuation Amendment Act 2005][299] (2005 No 17)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][141]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][146]
     
-    [New Zealand Superannuation (Political Commitment) Order 2004][299] (SR 2004/431)
+    [New Zealand Superannuation (Political Commitment) Order 2004][300] (SR 2004/431)
     
     Social Security (Long-term Residential Care) Amendment Act 2004 (2004 No 101): [section 12(2)--(4)][177]
     
-    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][263]
+    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][264]
     
     Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][209]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][300]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][301]
     
-    [New Zealand Superannuation (Political Commitment) Order 2003][301] (SR 2003/278)
+    [New Zealand Superannuation (Political Commitment) Order 2003][302] (SR 2003/278)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][218]
 
@@ -3019,64 +3025,65 @@ Commencementsee section 2
 [238]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5326977
 [239]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329931
 [240]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330504
-[241]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4632894
-[242]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM88548
-[243]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330557
-[244]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3389052
-[245]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM204120
-[246]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM361040
-[247]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM204161
-[248]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4014808
-[249]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346478
-[250]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329649
-[251]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM15636
-[252]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM220364
-[253]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5940923
-[254]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5940921
-[255]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365238
-[256]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329959
-[257]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329964
-[258]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330300
-[259]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115080
-[260]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM331147
-[261]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330308
-[262]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115082
-[263]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM316477
-[264]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115449
-[265]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446395
-[266]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446842
-[267]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446000
-[268]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216849
-[269]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304133
-[270]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216852
-[271]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304134
-[272]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM256015
-[273]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM429015
-[274]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM41238
-[275]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM269812
-[276]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304475
-[277]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM100103
-[278]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM359146
-[279]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM426027
-[280]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM407400
-[281]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346493
-[282]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM143291
-[283]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330396
-[284]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365202
-[285]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998516
-[286]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998515
-[287]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998532
-[288]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[289]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365214
-[290]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4767500
-[291]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4014802
-[292]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3043200
-[293]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2988600
-[294]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM1609400
-[295]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM968418
-[296]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM374393
-[297]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346459
-[298]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM336335
-[299]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304127
-[300]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM277147
-[301]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216843
+[241]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5327162
+[242]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4632894
+[243]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM88548
+[244]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330557
+[245]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3389052
+[246]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM204120
+[247]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM361040
+[248]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM204161
+[249]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4014808
+[250]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346478
+[251]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329649
+[252]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM15636
+[253]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM220364
+[254]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5940923
+[255]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM5940921
+[256]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365238
+[257]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329959
+[258]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM329964
+[259]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330300
+[260]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115080
+[261]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM331147
+[262]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330308
+[263]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115082
+[264]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM316477
+[265]: http://www.legislation.govt.nz/act/public/2001/0084/latest/whole.html#DLM115449
+[266]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446395
+[267]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446842
+[268]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM446000
+[269]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216849
+[270]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304133
+[271]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216852
+[272]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304134
+[273]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM256015
+[274]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM429015
+[275]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM41238
+[276]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM269812
+[277]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304475
+[278]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM100103
+[279]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM359146
+[280]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM426027
+[281]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM407400
+[282]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346493
+[283]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM143291
+[284]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM330396
+[285]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365202
+[286]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998516
+[287]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998515
+[288]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2998532
+[289]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[290]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3365214
+[291]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4767500
+[292]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM4014802
+[293]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM3043200
+[294]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM2988600
+[295]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM1609400
+[296]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM968418
+[297]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM374393
+[298]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM346459
+[299]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM336335
+[300]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM304127
+[301]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM277147
+[302]: http://www.legislation.govt.nz/act/public/2001/0084/latest/link.aspx?id=DLM216843
