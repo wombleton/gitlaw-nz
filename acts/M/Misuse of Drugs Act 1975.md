@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -224,6 +224,22 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     _Minister_ means the Minister of Health
     
+    _nurse practitioner_ means a health practitioner---
+        
+    *   (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
+    
+    *   (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
+    
+    _Nursing Council_ means the Nursing Council of New Zealand continued by [section 114(1)(a)][78] of the Health Practitioners Competence Assurance Act 2003
+    
+    _optometrist_ means a person---
+        
+    *   (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
+    
+    *   (b) for whom the Optometrists and Dispensing Opticians Board has authorised a scope of practice that includes prescribing medicines
+    
+    _Optometrists and Dispensing Opticians Board_ means the Optometrists and Dispensing Opticians Board continued by [section 114(1)(a)][78] of the Health Practitioners Competence Assurance Act 2003
+    
     _pharmacist_ means a health practitioner who is, or is deemed to be, registered with the Pharmacy Council established by [section 114(5)][78] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy
     
     _precursor substance_ means any substance specified or described in [Part 1][82] or [Part 2][83] or [Part 3][84] of Schedule 4
@@ -292,11 +308,19 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 2(1) **midwife**: inserted, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
+    Section 2(1) **_nurse practitioner_**: inserted, on 1 July 2014, by [section 41][91] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 2(1) **_Nursing Council_**: inserted, on 1 July 2014, by [section 41][91] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 2(1) **_optometrist_**: inserted, on 1 July 2014, by [section 41][91] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 2(1) **_Optometrists and Dispensing Opticians Board_**: inserted, on 1 July 2014, by [section 41][91] of the Medicines Amendment Act 2013 (2013 No 141).
+    
     Section 2(1) **pharmacist**: replaced, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **precursor substance**: inserted, on 12 May 1998, by [section 2][91] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 2(1) **precursor substance**: inserted, on 12 May 1998, by [section 2][92] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 2(1) **precursor substance**: amended, on 22 June 2005, by [section 3(1)][92] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 2(1) **precursor substance**: amended, on 22 June 2005, by [section 3(1)][93] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
     Section 2(1) **prohibited plant** paragraph (e): replaced, on 13 January 1988, by section 2(2) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
@@ -310,13 +334,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 2(1) **temporary class drug notice**: repealed, on 18 July 2013, by [section 110(1)][88] of the Psychoactive Substances Act 2013 (2013 No 53).
     
-    Section 2(1) **veterinarian**: inserted, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 2(1) **veterinarian**: inserted, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 2(1) **veterinary surgeon**: repealed, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 2(1) **veterinary surgeon**: repealed, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 2(1) **Vienna Convention**: inserted, on 12 May 1998, by [section 2][91] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 2(1) **Vienna Convention**: inserted, on 12 May 1998, by [section 2][92] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 2(1A): inserted, on 22 June 2005, by [section 3(2)][92] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 2(1A): inserted, on 22 June 2005, by [section 3(2)][93] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
     Section 2(5): inserted, on 13 January 1988, by section 2(3) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
 
@@ -338,7 +362,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (c) drugs that pose a moderate risk of harm are classified as Class C drugs.
     
-    Section 3A: inserted, on 15 November 2000, by [section 3][94] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 3A: inserted, on 15 November 2000, by [section 3][95] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
 
 ##### 4 Amendment of schedules that identify controlled drugs and precursor substances, and set amount, level, or quantity at and over which controlled drugs are presumed to be for supply
     
@@ -360,7 +384,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
         
         *   (ii) from [Schedule 2][69] to [Schedule 3][70]; or
         
-        *   (iii) from [Part 1][95] of Schedule 2 or of [Schedule 3][70] to another Part of the same schedule.
+        *   (iii) from [Part 1][96] of Schedule 2 or of [Schedule 3][70] to another Part of the same schedule.
         
         
     
@@ -368,7 +392,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
         
     *   (a) altering the amount, level, or quantity at and over which any controlled drug is presumed to be for supply:
     
-    *   (b) adding any substance, preparation, mixture, or article that is to be classified as a controlled drug to [clause 1][96] of Schedule 5 and the amount, level, or quantity at and over which it is presumed to be for supply.
+    *   (b) adding any substance, preparation, mixture, or article that is to be classified as a controlled drug to [clause 1][97] of Schedule 5 and the amount, level, or quantity at and over which it is presumed to be for supply.
     
     (1C) An Order in Council may not be made under subsection (1B)(a) in relation to a controlled drug unless the name or description of the controlled drug is, at the same time, being moved from [Schedule 1][68], [2][69], or [3][70], or from a Part or clause of [Schedule 1][68], [2][69], or [3][70] to another of those schedules, Parts, or clauses.
     
@@ -376,7 +400,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (2) An Order in Council made under subsection (1) or subsection (1B) may not come into force except in accordance with a commencement order made under [section 4A][7].
     
-    (3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][97] and must be presented to the House of Representatives under [section 41][98] of that Act.
+    (3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][98] and must be presented to the House of Representatives under [section 41][99] of that Act.
     
     (4) The Governor-General may, by Order in Council,---
         
@@ -388,25 +412,25 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (5) No Order in Council may be made under paragraph (a) or paragraph (b) of subsection (4) if it has the effect of classifying, changing the classification of, or declassifying any substance, preparation, mixture, or article.
     
-    Section 4: replaced, on 15 November 2000, by [section 4][99] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 4: replaced, on 15 November 2000, by [section 4][100] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
     
-    Section 4 heading: amended, on 22 June 2005, by [section 4(1)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4 heading: amended, on 22 June 2005, by [section 4(1)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(1A): inserted, on 22 June 2005, by [section 4(2)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(1A): inserted, on 22 June 2005, by [section 4(2)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(1B): inserted, on 22 June 2005, by [section 4(2)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(1B): inserted, on 22 June 2005, by [section 4(2)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(1C): inserted, on 22 June 2005, by [section 4(2)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(1C): inserted, on 22 June 2005, by [section 4(2)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(1D): inserted, on 22 June 2005, by [section 4(2)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(1D): inserted, on 22 June 2005, by [section 4(2)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(2): amended, on 22 June 2005, by [section 4(3)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(2): amended, on 22 June 2005, by [section 4(3)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(3): replaced, on 5 August 2013, by [section 77(3)][101] of the Legislation Act 2012 (2012 No 119).
+    Section 4(3): replaced, on 5 August 2013, by [section 77(3)][102] of the Legislation Act 2012 (2012 No 119).
     
-    Section 4(4)(a): amended, on 22 June 2005, by [section 4(5)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(4)(a): amended, on 22 June 2005, by [section 4(5)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4(4)(b): amended, on 22 June 2005, by [section 4(5)][100] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4(4)(b): amended, on 22 June 2005, by [section 4(5)][101] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 4A Procedure for bringing Order in Council made under section 4(1) or (1B) into force
     
@@ -426,17 +450,17 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (b) no motion to approve the Order in Council is agreed to within 1 year of its date of making.
     
-    Section 4A: replaced, on 15 November 2000, by [section 4][99] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 4A: replaced, on 15 November 2000, by [section 4][100] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
     
-    Section 4A heading: amended, on 22 June 2005, by [section 5(1)][102] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4A heading: amended, on 22 June 2005, by [section 5(1)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4A(1): amended, on 22 June 2005, by [section 5(2)][102] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4A(1): amended, on 22 June 2005, by [section 5(2)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4A(2): amended, on 22 June 2005, by [section 5(2)][102] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4A(2): amended, on 22 June 2005, by [section 5(2)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4A(3): amended, on 22 June 2005, by [section 5(2)][102] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4A(3): amended, on 22 June 2005, by [section 5(2)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4A(4): amended, on 22 June 2005, by [section 5(2)][102] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4A(4): amended, on 22 June 2005, by [section 5(2)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 4B Matters to which Minister must have regard before recommending Order in Council under section 4(1) or (1B)
     
@@ -478,15 +502,15 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (c) any other matters that the Minister considers relevant.
     
-    Section 4B: inserted, on 15 November 2000, by [section 4][99] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 4B: inserted, on 15 November 2000, by [section 4][100] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
     
-    Section 4B heading: amended, on 22 June 2005, by [section 6(1)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4B heading: amended, on 22 June 2005, by [section 6(1)][104] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4B(2): amended, on 22 June 2005, by [section 6(2)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4B(2): amended, on 22 June 2005, by [section 6(2)][104] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4B(3): inserted, on 22 June 2005, by [section 6(3)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4B(3): inserted, on 22 June 2005, by [section 6(3)][104] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 4B(4): inserted, on 22 June 2005, by [section 6(3)][103] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 4B(4): inserted, on 22 June 2005, by [section 6(3)][104] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 4C Temporary class drug notice
     
@@ -510,7 +534,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
 *   (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
     
-    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][104], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
+    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][105], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
     
     (3) Subject to the provisions of this Act and of any regulations made under this Act, every such committee may regulate its own procedure.
 
@@ -526,9 +550,9 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
             
         *   (i) whether and how controlled drugs or other substances, preparations, mixtures, or articles should be classified; and
         
-        *   (ii) the amount, level, or quantity at and over which any substance, preparation, mixture, or article that is a controlled drug (or is proposed to be classified as a controlled drug), and that is to be specified or described in [clause 1][96] of Schedule 5, is to be presumed to be for supply; and
+        *   (ii) the amount, level, or quantity at and over which any substance, preparation, mixture, or article that is a controlled drug (or is proposed to be classified as a controlled drug), and that is to be specified or described in [clause 1][97] of Schedule 5, is to be presumed to be for supply; and
         
-        *   (iii) the level at and over which controlled drugs to which [clause 2][105] of Schedule 5 applies are presumed to be for supply; and
+        *   (iii) the level at and over which controlled drugs to which [clause 2][106] of Schedule 5 applies are presumed to be for supply; and
         
         
     
@@ -550,7 +574,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
         
         
     
-    *   (b) up to 3 people employed in the Public Service (as defined in [section 27][106] of the State Sector Act 1988) who between them have appropriate expertise in---
+    *   (b) up to 3 people employed in the Public Service (as defined in [section 27][107] of the State Sector Act 1988) who between them have appropriate expertise in---
             
         *   (i) public health:
         
@@ -570,15 +594,15 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (5) Subsections (2) and (3) of [section 5][12] apply to the Expert Advisory Committee on Drugs as if it were a committee established under section 5\.
     
-    Section 5AA: inserted, on 15 November 2000, by [section 5][107] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 5AA: inserted, on 15 November 2000, by [section 5][108] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
     
-    Section 5AA(2)(b)(ii): replaced, on 22 June 2005, by [section 7(1)][108] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 5AA(2)(b)(ii): replaced, on 22 June 2005, by [section 7(1)][109] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 5AA(2)(b)(iii): inserted, on 22 June 2005, by [section 7(1)][108] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 5AA(2)(b)(iii): inserted, on 22 June 2005, by [section 7(1)][109] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 5AA(3)(c): amended, on 1 October 2008, by [section 130(1)][109] of the Policing Act 2008 (2008 No 72).
+    Section 5AA(3)(c): amended, on 1 October 2008, by [section 130(1)][110] of the Policing Act 2008 (2008 No 72).
     
-    Section 5AA(3)(ca): inserted, on 22 June 2005, by [section 7(2)][108] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 5AA(3)(ca): inserted, on 22 June 2005, by [section 7(2)][109] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 5A Approved laboratories
     
@@ -588,25 +612,25 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
         
-    *   (a) a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][97] and must be presented to the House of Representatives under [section 41][98] of that Act; and
+    *   (a) a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][98] and must be presented to the House of Representatives under [section 41][99] of that Act; and
     
-    *   (b) a regulation for the purposes of the [Interpretation Act 1999][110].
+    *   (b) a regulation for the purposes of the [Interpretation Act 1999][111].
     
-    Section 5A: inserted, on 1 July 1992, by [section 3][111] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
+    Section 5A: inserted, on 1 July 1992, by [section 3][112] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
     
-    Section 5A(3): replaced, on 5 August 2013, by [section 77(3)][101] of the Legislation Act 2012 (2012 No 119).
+    Section 5A(3): replaced, on 5 August 2013, by [section 77(3)][102] of the Legislation Act 2012 (2012 No 119).
 
 ##### 5B Functions of Minister
     
 *   For the purposes of this Act, the functions of the Minister include the provision and publication of reports, information, and advice concerning the misuse of drugs and the treatment of persons suffering from the misuse of drugs.
     
-    Section 5B: inserted, on 15 November 2000, by [section 6][112] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 5B: inserted, on 15 November 2000, by [section 6][113] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
 
 ##### 6 Dealing with controlled drugs
     
 *   (1) Except as provided in [section 8][18], or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall---
         
-    *   (a) import into or export from New Zealand any controlled drug, other than a controlled drug specified or described in [Part 6][113] of Schedule 3; or
+    *   (a) import into or export from New Zealand any controlled drug, other than a controlled drug specified or described in [Part 6][114] of Schedule 3; or
     
     *   (b) produce or manufacture any controlled drug; or
     
@@ -636,7 +660,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) \[Repealed\]
     
-    (4) Notwithstanding anything in [Part 1][114] or [section 39][115] or [section 81][116] of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug---
+    (4) Notwithstanding anything in [Part 1][115] or [section 39][116] or [section 81][117] of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug---
         
     *   (a) against paragraph (c) or paragraph (f) of subsection (1); or
     
@@ -644,7 +668,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     the Judge or court shall impose a sentence of imprisonment (within the meaning of that Act) unless, having regard to the particular circumstances of the offence or of the offender, including the age of the offender if he is under 20 years of age, the Judge or court is of the opinion that the offender should not be so sentenced.
     
-    (4A) Without limiting anything in subsection (4) or in [Part 1][114] or [section 39][115] or [section 81][116] of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
+    (4A) Without limiting anything in subsection (4) or in [Part 1][115] or [section 39][116] or [section 81][117] of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
     
     (5) For the purposes of paragraph (e) of subsection (1), if it is proved that a person has supplied a controlled drug to another person he shall until the contrary is proved be deemed to have sold that controlled drug to that other person.
     
@@ -656,29 +680,29 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 6(1)(a): replaced, on 6 November 1986, by section 2 of the Misuse of Drugs Amendment Act 1986 (1986 No 102).
     
-    Section 6(2): replaced, on 16 October 1978, by [section 3(1)][117] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 6(2): replaced, on 16 October 1978, by [section 3(1)][118] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 6(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(2A): inserted, on 16 October 1978, by [section 4(1)][119] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 6(2A): inserted, on 16 October 1978, by [section 4(1)][120] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 6(2A): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(2A): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(4): replaced, on 1 October 1985, by [section 150(1)][120] of the Criminal Justice Act 1985 (1985 No 120).
+    Section 6(4): replaced, on 1 October 1985, by [section 150(1)][121] of the Criminal Justice Act 1985 (1985 No 120).
     
-    Section 6(4): amended on 30 June 2002, by [section 186][121] of the Sentencing Act 2002 (2002 No 9).
+    Section 6(4): amended on 30 June 2002, by [section 186][122] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 6(4A): replaced, on 1 October 1985, by [section 150(1)][120] of the Criminal Justice Act 1985 (1985 No 120).
+    Section 6(4A): replaced, on 1 October 1985, by [section 150(1)][121] of the Criminal Justice Act 1985 (1985 No 120).
     
-    Section 6(4A): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(4A): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(4A): amended, on 30 June 2002, by [section 186][121] of the Sentencing Act 2002 (2002 No 9).
+    Section 6(4A): amended, on 30 June 2002, by [section 186][122] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 6(6): replaced, on 22 June 2005, by [section 8][122] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 6(6): replaced, on 22 June 2005, by [section 8][123] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 6(7): repealed, on 22 June 2005, by [section 8][122] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 6(7): repealed, on 22 June 2005, by [section 8][123] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 7 Possession and use of controlled drugs
     
@@ -694,7 +718,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (b) to imprisonment for a term not exceeding 3 months or to a fine not exceeding $500 or to both in any other case:
     
-    provided that, where any person is convicted of an offence against subsection (1) relating only to a Class C controlled drug and is liable to a penalty under paragraph (b), the Judge or District Court Judge shall not impose a custodial sentence (being a sentence under which a person is liable to be detained in a prison within the meaning of the [Corrections Act 2004][123]) unless, by reason of the offender's previous convictions or of any exceptional circumstances relating to the offence or the offender, the Judge or District Court Judge is of the opinion that such a sentence should be imposed.
+    provided that, where any person is convicted of an offence against subsection (1) relating only to a Class C controlled drug and is liable to a penalty under paragraph (b), the Judge or District Court Judge shall not impose a custodial sentence (being a sentence under which a person is liable to be detained in a prison within the meaning of the [Corrections Act 2004][124]) unless, by reason of the offender's previous convictions or of any exceptional circumstances relating to the offence or the offender, the Judge or District Court Judge is of the opinion that such a sentence should be imposed.
     
     (3) In any proceedings for an offence against this section in respect of the possession of a controlled drug, in which it is proved that the defendant had a controlled drug in his possession, it shall be a defence for him to prove---
         
@@ -706,41 +730,41 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 6; Misuse of Drugs Act 1971 s 5(4), (6) (UK)
     
-    Section 7(2) proviso: amended, on 1 June 2005, by [section 206][124] of the Corrections Act 2004 (2004 No 50).
+    Section 7(2) proviso: amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
     
-    Section 7(2) proviso: amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(2) proviso: amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 8 Exemptions from sections 6 and 7
     
-*   (1) In subsection (2), references to a medical practitioner, dentist, veterinarian, midwife, designated prescriber, or pharmacist mean a medical practitioner, dentist, veterinarian, midwife, designated prescriber, or pharmacist, acting as such in the course of his or her practice or employment, and references to the supply of controlled drugs include an offer to supply controlled drugs.
+*   (1) In subsection (2), references to a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist mean a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist, acting as such in the course of his or her practice or employment, and references to the supply of controlled drugs include an offer to supply controlled drugs.
     
     (2) Notwithstanding anything in [section 6][16] or [section 7][17], but subject to [sections 22 to 25][39] and any prohibitions, limitations, restrictions, or conditions, imposed thereby or thereunder or by or pursuant to any regulations under this Act,---
         
     *   (a) any medical practitioner, dentist or veterinarian may prescribe, produce, manufacture, supply, or administer controlled drugs:
     
-    *   (aa) any midwife may prescribe, supply, or administer the controlled drug pethidine (as described in [Schedule 2][69]):
+    *   (aa) \[Repealed\]
     
     *   (b) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply controlled drugs---
             
-        *   (i) listed in the pharmaceutical schedule within the meaning of the [New Zealand Public Health and Disability Act 2000][126] for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
+        *   (i) listed in the pharmaceutical schedule within the meaning of the [New Zealand Public Health and Disability Act 2000][127] for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
         
         *   (ii) for the purposes of the hospital in which he or she is employed; or
         
-        *   (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, designated prescriber, or veterinarian:
+        *   (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, nurse practitioner, optometrist, midwife, designated prescriber, or veterinarian:
         
         
     
-    *   (ba) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply pethidine (as so described) pursuant to a prescription or order issued by a midwife:
+    *   (ba) \[Repealed\]
     
     *   (c) any person for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to himself in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
     
     *   (d) any person having the care of a patient for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to that patient in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
     
-    *   (da) any person having the care of a patient for whom pethidine (as so described) is supplied by a midwife, or prescribed by a midwife and lawfully supplied, may administer that drug to that patient in accordance with the advice of the midwife who supplied or prescribed it:
+    *   (da) \[Repealed\]
     
     *   (e) any person having the care of an animal for which a controlled drug is supplied by a veterinarian, or prescribed by a veterinarian and lawfully supplied, may administer that drug to that animal in accordance with the advice of the veterinarian who supplied or prescribed it:
     
-    *   (f) any district health board established by or under the [New Zealand Public Health and Disability Act 2000][126] or other corporate body, and any individual person being the manager or person licensed to carry on a hospital or any other institution, having the care of patients for whom controlled drugs are lawfully prescribed or supplied, may possess those drugs for the purposes of the treatment of those patients:
+    *   (f) any district health board established by or under the [New Zealand Public Health and Disability Act 2000][127] or other corporate body, and any individual person being the manager or person licensed to carry on a hospital or any other institution, having the care of patients for whom controlled drugs are lawfully prescribed or supplied, may possess those drugs for the purposes of the treatment of those patients:
     
     *   (g) any person in the service of the Crown or any Medical Officer of Health or any pharmacist approved by a Medical Officer of Health may procure and possess a controlled drug for the purposes of and in connection with his official duties:
     
@@ -754,9 +778,9 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (l) a person may, while entering or leaving New Zealand, possess a controlled drug required for treating the medical condition of the person or any other person in his or her care or control, if the quantity of drug is no greater than that required for treating the medical condition for 1 month, and the drug was---
             
-        *   (i) lawfully supplied to the person by a medical practitioner, designated prescriber (as defined in [section 2(1)][79] of the Medicines Act 1981), or dentist in New Zealand; or
+        *   (i) lawfully supplied to the person by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in [section 2(1)][79] of the Medicines Act 1981), or dentist in New Zealand; or
         
-        *   (ii) prescribed by a medical practitioner, designated prescriber (as defined in [section 2(1)][79] of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
+        *   (ii) prescribed by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in [section 2(1)][79] of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
         
         *   (iii) lawfully supplied to the person overseas and supplied for the purpose of treating a medical condition.
         
@@ -764,7 +788,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (2A) Despite [sections 6][16] and [7][17], but subject to [sections 22 to 25][39] and any prohibitions, limitations, restrictions, or conditions imposed under those sections or any regulations made under this Act,---
         
-    *   (a) a designated prescriber or any midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description, may prescribe, supply, or administer such drugs:
+    *   (a) a designated prescriber, nurse practitioner, optometrist, or midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description, may prescribe, supply, or administer such drugs:
     
     *   (b) a person who is authorised to issue a standing order may include in a standing order authority to supply and administer controlled drugs of any specified class or description, and a person who is authorised under a standing order to supply and administer any controlled drugs may supply and administer those drugs in accordance with that standing order.
     
@@ -776,51 +800,55 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) Subject to [section 22][39] and to any regulations under this Act and to any other enactment or rule of law prohibiting, restricting, or regulating the import, export, supply, or administration of drugs, any person may---
         
-    *   (a) import or export any controlled drug specified or described in [Part 6][113] of Schedule 3:
+    *   (a) import or export any controlled drug specified or described in [Part 6][114] of Schedule 3:
     
-    *   (b) supply or administer any controlled drug specified or described in the said [Part 6][113].
+    *   (b) supply or administer any controlled drug specified or described in the said [Part 6][114].
     
     Compare: 1965 No 45 s 6(3); SR 1966/82 rr 2(2), 14, 15, 16(1), (a), (b), (e), 17(1), (2)
     
-    Section 8(1): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 8(1): amended, on 1 July 2014, by [section 42(1)][128] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 8(1): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
     Section 8(1): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 8(1): amended, on 22 October 2003, by [section 3(1)][127] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 8(1): amended, on 22 October 2003, by [section 3(1)][129] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
     
     Section 8(1): amended, on 28 August 1990, by section 14(1)(a) of the Nurses Amendment Act 1990 (1990 No 107).
     
     Section 8(1): amended, on 28 August 1990, by section 14(1)(b) of the Nurses Amendment Act 1990 (1990 No 107).
     
-    Section 8(2)(a): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 8(2)(a): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 8(2)(aa): inserted, on 28 August 1990, by section 14(2) of the Nurses Amendment Act 1990 (1990 No 107).
+    Section 8(2)(aa): repealed, on 1 July 2014, by [section 42(2)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 8(2)(aa): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-    
-    Section 8(2)(b): replaced, on 22 October 2003, by [section 3(2)][127] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 8(2)(b): replaced, on 22 October 2003, by [section 3(2)][129] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
     
     Section 8(2)(b): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 8(2)(ba): inserted, on 28 August 1990, by section 14(3) of the Nurses Amendment Act 1990 (1990 No 107).
+    Section 8(2)(b)(iii): amended, on 1 July 2014, by [section 42(3)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 8(2)(ba): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 8(2)(ba): repealed, on 1 July 2014, by [section 42(4)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 8(2)(da): inserted, on 28 August 1990, by section 14(4) of the Nurses Amendment Act 1990 (1990 No 107).
+    Section 8(2)(da): repealed, on 1 July 2014, by [section 42(5)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 8(2)(da): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 8(2)(e): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 8(2)(e): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 8(2)(f): replaced, on 1 July 1983, by [section 32][130] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
     
-    Section 8(2)(f): replaced, on 1 July 1983, by [section 32][128] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
+    Section 8(2)(f): amended, on 1 January 2001, by [section 111(1)][131] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 8(2)(f): amended, on 1 January 2001, by [section 111(1)][129] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 8(2)(g): replaced, on 1 July 1993, by [section 32][130] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
     
-    Section 8(2)(g): replaced, on 1 July 1993, by [section 32][128] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
+    Section 8(2)(l): inserted, on 15 November 2000, by [section 8][132] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
     
-    Section 8(2)(l): inserted, on 15 November 2000, by [section 8][130] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+    Section 8(2)(l)(i): amended, on 1 July 2014, by [section 42(6)][128] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 8(2)(l)(ii): amended, on 1 July 2014, by [section 42(6)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
     Section 8(2A): inserted, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
+    
+    Section 8(2A)(a): amended, on 1 July 2014, by [section 42(7)][128] of the Medicines Amendment Act 2013 (2013 No 141).
     
     Section 8(2A)(a): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
@@ -840,9 +868,9 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 5(1)(c), (2), (5)
     
-    Section 9(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 9(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Aiding offences against corresponding law of another country
     
@@ -862,23 +890,23 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (4) It is a defence to a charge under paragraph (b) of subsection (1) if the doing or omission of the act to which the charge relates was not an offence under the law of the place where it was, or was to be, done or omitted.
     
-    (5) Nothing in subsection (1) or subsection (4) shall derogate from any provision in the [Crimes Act 1961][131].
+    (5) Nothing in subsection (1) or subsection (4) shall derogate from any provision in the [Crimes Act 1961][133].
     
     (6) \[Repealed\]
     
     Compare: 1965 No 45 s 5A; 1970 No 27 s 3
     
-    Section 10(1)(a): amended, on 22 June 2005, by [section 9][132] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 10(1)(a): amended, on 22 June 2005, by [section 9][134] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 10(1)(b): amended, on 22 June 2005, by [section 9][132] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 10(1)(b): amended, on 22 June 2005, by [section 9][134] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 10(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 10(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 10(4): amended, on 12 May 1998, by [section 4][133] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 10(4): amended, on 12 May 1998, by [section 4][135] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 10(6): repealed, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 10(6): repealed, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
 
 ##### 11 Theft, etc, of controlled drugs
     
@@ -890,27 +918,27 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (c) receives a controlled drug obtained by any offence, or by any act, wherever committed, that, if committed in New Zealand, would constitute an offence, knowing that the controlled drug had been dishonestly obtained or being reckless as to whether or not the controlled drug had been stolen or so obtained.
     
-    (2) [Section 246(2) to (5)][135] of the Crimes Act 1961 shall apply in respect of any proceedings for an offence against paragraph (c) of subsection (1).
+    (2) [Section 246(2) to (5)][137] of the Crimes Act 1961 shall apply in respect of any proceedings for an offence against paragraph (c) of subsection (1).
     
-    (3) [Sections 219][136], [220][137], [222][138], [240][139], and [246(2) to (5)][135] of the Crimes Act 1961 shall apply, with such modifications as may be necessary, for the purpose of construing subsection (1).
+    (3) [Sections 219][138], [220][139], [222][140], [240][141], and [246(2) to (5)][137] of the Crimes Act 1961 shall apply, with such modifications as may be necessary, for the purpose of construing subsection (1).
     
     Compare: 1965 No 45 s 6A; 1970 No 27 s 4(1)
     
-    Section 11(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 11(1)(c): replaced, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 11(1)(c): replaced, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 11(1)(c): amended, on 1 July 2013, by [section 4(1)(a)][141] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
+    Section 11(1)(c): amended, on 1 July 2013, by [section 4(1)(a)][143] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
     
-    Section 11(1)(c): amended, on 1 July 2013, by [section 4(1)(b)][141] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
+    Section 11(1)(c): amended, on 1 July 2013, by [section 4(1)(b)][143] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
     
-    Section 11(2): amended, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 11(2): amended, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 11(3): amended, on 1 July 2013, by [section 4(2)(a)][141] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
+    Section 11(3): amended, on 1 July 2013, by [section 4(2)(a)][143] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
     
-    Section 11(3): amended, on 1 July 2013, by [section 4(2)(b)][141] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
+    Section 11(3): amended, on 1 July 2013, by [section 4(2)(b)][143] of the Misuse of Drugs Amendment Act 2013 (2013 No 31).
     
-    Section 11(3): amended, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 11(3): amended, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 12 Use of premises or vehicle, etc
     
@@ -928,13 +956,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 7(1)(a)
     
-    Section 12 heading: amended, on 16 October 1978, by[section 6][142] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 12 heading: amended, on 16 October 1978, by[section 6][144] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 12(1): amended, on 16 October 1978, by[section 6][142] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 12(1): amended, on 16 October 1978, by[section 6][144] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 12(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12A Equipment, material, and substances used in production or cultivation of controlled drugs
     
@@ -962,11 +990,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (4) \[Repealed\]
     
-    Section 12A: inserted, on 12 May 1998, by [section 5][143] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 12A: inserted, on 12 May 1998, by [section 5][145] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 12A(3): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12A(3): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12A(4): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12A(4): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12AB Offence to knowingly import or export precursor substances for unlawful use
     
@@ -980,11 +1008,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) \[Repealed\]
     
-    Section 12AB: inserted, on 22 June 2005, by [section 10][144] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12AB: inserted, on 22 June 2005, by [section 10][146] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12AB(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12AB(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12AB(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12AB(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12AC Offence to import or export precursor substance without reasonable excuse
     
@@ -1012,13 +1040,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (5) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $1,000, or both.
     
-    Section 12AC: inserted, on 22 June 2005, by [section 10][144] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12AC: inserted, on 22 June 2005, by [section 10][146] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12AC(3): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12AC(3): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12AC(4): repealed, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12AC(4): repealed, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12AC(5): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12AC(5): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12B Laundering proceeds of drug offences
     
@@ -1066,7 +1094,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (b) includes an interest in any such real or personal property
     
-    _serious offence_ has the same meaning as it has in [section 243][145] of the Crimes Act 1961
+    _serious offence_ has the same meaning as it has in [section 243][147] of the Crimes Act 1961
     
     _specified drug offence_---
         
@@ -1104,11 +1132,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
         
     *   (a) the enforcement or intended enforcement of this section or any other provision of this Act or any other enactment relating to a specified drug offence or any other serious offence; or
     
-    *   (b) the enforcement or intended enforcement of the [Criminal Proceeds (Recovery) Act 2009][146]; or
+    *   (b) the enforcement or intended enforcement of the [Criminal Proceeds (Recovery) Act 2009][148]; or
     
-    *   (ba) the enforcement or intended enforcement of the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][147]; or
+    *   (ba) the enforcement or intended enforcement of the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][149]; or
     
-    *   (c) the enforcement or intended enforcement of the [Financial Transactions Reporting Act 1996][148].
+    *   (c) the enforcement or intended enforcement of the [Financial Transactions Reporting Act 1996][150].
     
     (7) Subject to subsection (8), this section does not apply if---
         
@@ -1122,37 +1150,37 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (9) Nothing in this section limits or restricts the operation of any other provision of this Act or any other enactment.
     
-    Section 12B: inserted, on 12 May 1998, by [section 5][143] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 12B: inserted, on 12 May 1998, by [section 5][145] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 12B(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12B(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12B(1) **serious offence**: amended, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 12B(1) **serious offence**: amended, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 12B(1) **specified drug offence** paragraph (a): amended, on 22 June 2005, by [section 11][149] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12B(1) **specified drug offence** paragraph (a): amended, on 22 June 2005, by [section 11][151] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12B(2): replaced, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 12B(2): replaced, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 12B(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12B(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12B(3): replaced, on 1 October 2003, by [section 34][140] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 12B(3): replaced, on 1 October 2003, by [section 34][142] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 12B(3): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12B(3): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12B(5)(a): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12B(5)(a): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12B(5)(b): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12B(5)(b): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12B(6)(b): amended, on 1 December 2009, by [section 212][150] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 12B(6)(b): amended, on 1 December 2009, by [section 212][152] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 12B(6)(ba): inserted, on 17 October 2009, by [section 161(2)][151] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 12B(6)(ba): inserted, on 17 October 2009, by [section 161(2)][153] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
 ##### 12BA Charges for money laundering
     
-*   A person charged with an offence against [section 12B][26] or [section 243(2) or (3)][145] of the Crimes Act 1961 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+*   A person charged with an offence against [section 12B][26] or [section 243(2) or (3)][147] of the Crimes Act 1961 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
     
-    Compare: 1961 No 43 [s 344AA][152]
+    Compare: 1961 No 43 [s 344AA][154]
     
-    Section 12BA: inserted, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12BA: inserted, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12C Commission of offences outside New Zealand
     
@@ -1182,11 +1210,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (6) [Section 28A][46] applies to proceedings for offences against this section.
     
-    Section 12C: inserted, on 12 May 1998, by [section 5][143] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 12C: inserted, on 12 May 1998, by [section 5][145] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 12C(1)(ca): inserted, on 22 June 2005, by [section 12][153] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12C(1)(ca): inserted, on 22 June 2005, by [section 12][155] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12C(3): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12C(3): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Miscellaneous offences
     
@@ -1228,13 +1256,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 13(1)(a): replaced, on 13 January 1988, by section 3 of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Section 13(1)(aa): replaced, on 22 June 2005, by [section 13(1)][154] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13(1)(aa): replaced, on 22 June 2005, by [section 13(1)][156] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13(2A): inserted, on 22 June 2005, by [section 13(2)][154] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13(2A): inserted, on 22 June 2005, by [section 13(2)][156] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13(3): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(3): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 13(4): inserted, on 22 June 2005, by [section 13(3)][154] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13(4): inserted, on 22 June 2005, by [section 13(3)][156] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 14 Licences
     
@@ -1264,7 +1292,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 9
     
-    Section 15: amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 15: amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Obstruction of officers
     
@@ -1312,13 +1340,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
         
         
     
-    Section 18: replaced, on 1 October 2012, by [section 332][155] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 18: replaced, on 1 October 2012, by [section 332][157] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 18A Internal search of person under arrest
     
 *   \[Repealed\]
     
-    Section 18A: repealed, on 1 October 2012, by [section 332][155] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 18A: repealed, on 1 October 2012, by [section 332][157] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 19 Power to demand production of records and to inspect stocks of controlled drugs
     
@@ -1334,9 +1362,9 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 13
     
-    Section 19(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 19(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 19(5): repealed, on 1 April 1987, by [section 25(1)][157] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 19(5): repealed, on 1 April 1987, by [section 25(1)][159] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 20 Statements regarding drug dependent persons
     
@@ -1346,15 +1374,15 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) The classes of persons referred to in subsection (1) are as follows:
         
-    *   (a) employees of any district health board established by or under the [New Zealand Public Health and Disability Act 2000][126]:
+    *   (a) employees of any district health board established by or under the [New Zealand Public Health and Disability Act 2000][127]:
     
     *   (aa) \[Repealed\]
     
-    *   (b) a hospital care operator within the meaning of [section 58(4)][158] of the Health and Disability Services (Safety) Act 2001:
+    *   (b) a hospital care operator within the meaning of [section 58(4)][160] of the Health and Disability Services (Safety) Act 2001:
     
-    *   (c) managers of prisons within the meaning of the [Corrections Act 2004][123]:
+    *   (c) managers of prisons within the meaning of the [Corrections Act 2004][124]:
     
-    *   (d) managers and superintendents of institutions within the meaning of the [Alcoholism and Drug Addiction Act 1966][159]:
+    *   (d) managers and superintendents of institutions within the meaning of the [Alcoholism and Drug Addiction Act 1966][161]:
     
     *   (e) medical practitioners:
     
@@ -1363,6 +1391,10 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     *   (fa) midwives:
     
     *   (fb) designated prescribers:
+    
+    *   (fc) nurse practitioners:
+    
+    *   (fd) optometrists:
     
     *   (g) Police employees:
     
@@ -1374,13 +1406,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 20
     
-    Section 20(3)(a): replaced, on 1 January 2001, by [section 111(1)][129] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 20(3)(a): replaced, on 1 January 2001, by [section 111(1)][131] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 20(3)(aa): repealed, on 1 July 1993, by [section 32][128] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
+    Section 20(3)(aa): repealed, on 1 July 1993, by [section 32][130] of the Health Reforms (Transfers) Act 1993 (1993 No 23).
     
-    Section 20(3)(b): replaced, on 1 October 2002, by [section 58(1)][158] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 20(3)(b): replaced, on 1 October 2002, by [section 58(1)][160] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 20(3)(c): replaced, on 1 June 2005, by [section 206][124] of the Corrections Act 2004 (2004 No 50).
+    Section 20(3)(c): replaced, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
     
     Section 20(3)(fa): inserted, on 28 August 1990, by section 15 of the Nurses Amendment Act 1990 (1990 No 107).
     
@@ -1388,7 +1420,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 20(3)(fb): inserted, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 20(3)(g): amended, on 1 October 2008, by [section 130(1)][109] of the Policing Act 2008 (2008 No 72).
+    Section 20(3)(fc): inserted, on 1 July 2014, by [section 43][162] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 20(3)(fd): inserted, on 1 July 2014, by [section 43][162] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 20(3)(g): amended, on 1 October 2008, by [section 130(1)][110] of the Policing Act 2008 (2008 No 72).
 
 ##### 21 Power of court to restrict publication of name of controlled drug
     
@@ -1440,39 +1476,39 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     that person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
     
-    (6) A notice issued under subsection (1A) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][97] and must be presented to the House of Representatives under [section 41][98] of that Act.
+    (6) A notice issued under subsection (1A) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][98] and must be presented to the House of Representatives under [section 41][99] of that Act.
     
     Compare: 1960 No 97 s 28
     
-    Section 22 heading: amended, on 21 August 1997, by [section 2][160] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+    Section 22 heading: amended, on 21 August 1997, by [section 2][163] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
     
     Section 22(1A): inserted, on 13 January 1988, by section 4(1) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Section 22(1A): amended, on 9 August 2011, by [section 6(1)(a)][161] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Section 22(1A): amended, on 9 August 2011, by [section 6(1)(a)][164] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Section 22(1A): amended, on 9 August 2011, by [section 6(1)(b)][161] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Section 22(1A): amended, on 9 August 2011, by [section 6(1)(b)][164] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Section 22(2): replaced, on 21 August 1997, by [section 2(1)][160] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+    Section 22(2): replaced, on 21 August 1997, by [section 2(1)][163] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
     
-    Section 22(3): replaced, on 9 August 2011, by [section 6(2)][161] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Section 22(3): replaced, on 9 August 2011, by [section 6(2)][164] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Section 22(4): inserted, on 21 August 1997, by [section 2(1)][160] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+    Section 22(4): inserted, on 21 August 1997, by [section 2(1)][163] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
     
-    Section 22(4): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 22(4): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 22(5): inserted, on 21 August 1997, by [section 2(1)][160] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+    Section 22(5): inserted, on 21 August 1997, by [section 2(1)][163] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
     
-    Section 22(5): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 22(5): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 22(6): replaced, on 5 August 2013, by [section 77(3)][101] of the Legislation Act 2012 (2012 No 119).
+    Section 22(6): replaced, on 5 August 2013, by [section 77(3)][102] of the Legislation Act 2012 (2012 No 119).
 
 ##### 23 Powers of Minister to prohibit prescribing, etc
     
 *   (1) Subject to subsection (2), the Minister may at any time, by notice in the _Gazette_,---
         
-    *   (a) prohibit any specified medical practitioner, dentist, midwife, designated prescriber, or veterinarian from prescribing controlled drugs:
+    *   (a) prohibit any specified medical practitioner, dentist, midwife, nurse practitioner, optometrist, designated prescriber, or veterinarian from prescribing controlled drugs:
     
-    *   (aa) prohibit any specified midwife from prescribing pethidine (as described in [Schedule 2][69]):
+    *   (aa) \[Repealed\]
     
     *   (b) prohibit any specified person from exercising all or any of the rights conferred by [section 8][18], whether those rights are so conferred on persons generally or on a particular class of person to which that person belongs.
     
@@ -1488,6 +1524,10 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (d) in the case of a pharmacist, except on the recommendation of the Pharmacy Council; or
     
+    *   (da) in the case of a nurse practitioner, except on the recommendation of the Nursing Council; or
+    
+    *   (db) in the case of an optometrist, except on the recommendation of the Optometrists and Dispensing Opticians Board; or
+    
     *   (e) in the case of any designated prescriber to whom paragraph (d) does not apply, except on the recommendation of the Council or Board, specified in regulations made under this Act, that has jurisdiction in respect of the class of registered health professional to which the designated prescriber belongs.
     
     (3) The Minister may at any time, by notice in the _Gazette_, revoke any notice given under subsection (1).
@@ -1498,33 +1538,37 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (5A) Despite subsection (5), it is not necessary, unless the Council or Board so requires, for any other body to conduct an investigation or inquiry or to be represented at the inquiry conducted by the Council or Board.
     
-    (6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction---
+    (6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, nurse practitioner, optometrist, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction---
         
     *   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000 or to both where a Class A controlled drug or a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
     
     *   (b) to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both, in any other case.
     
-    (7) Without prejudice to the liability of any midwife under any other provision of this Act, every midwife who prescribes pethidine (as so described) in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000, or to both.
+    (7) \[Repealed\]
     
     Compare: SR 1966/82 rr 13(2), 21, 35
     
-    Section 23(1)(a): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 23(1)(a): amended, on 1 July 2014, by [section 44(1)][165] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 23(1)(a): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
     Section 23(1)(a): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 23(1)(a): amended, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 23(1)(aa): inserted, on 28 August 1990, by section 16(1) of the Nurses Amendment Act 1990 (1990 No 107).
+    Section 23(1)(aa): repealed, on 1 July 2014, by [section 44(2)][165] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 23(1)(aa): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-    
-    Section 23(2)(c): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 23(2)(c): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
     Section 23(2)(ca): inserted, on 28 August 1990, by section 16(2) of the Nurses Amendment Act 1990 (1990 No 107).
     
     Section 23(2)(ca): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 23(2)(d): amended, on 22 June 2005, by [section 15][162] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 23(2)(d): amended, on 22 June 2005, by [section 15][166] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    
+    Section 23(2)(da): inserted, on 1 July 2014, by [section 44(3)][165] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 23(2)(db): inserted, on 1 July 2014, by [section 44(3)][165] of the Medicines Amendment Act 2013 (2013 No 141).
     
     Section 23(2)(e): inserted, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
     
@@ -1534,19 +1578,17 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Section 23(5A): inserted, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 23(6): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(6): amended, on 1 July 2014, by [section 44(4)][165] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Section 23(6): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 23(6): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 23(6): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
     Section 23(6): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 23(6): amended, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 23(7): inserted, on 28 August 1990, by section 16(3) of the Nurses Amendment Act 1990 (1990 No 107).
-    
-    Section 23(7): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
-    
-    Section 23(7): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 23(7): repealed, on 1 July 2014, by [section 44(5)][165] of the Medicines Amendment Act 2013 (2013 No 141).
 
 ##### 24 Treatment of people dependent on controlled drugs
     
@@ -1556,7 +1598,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (b) otherwise than in accordance with subsection (2).
     
-    (1A) Every midwife or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
+    (1A) Every midwife, nurse practitioner, optometrist, or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
     
     (2) In the course or for the purpose of the treatment for dependency of a person who the practitioner has reason to believe is dependent on that or any other controlled drug, a medical practitioner may prescribe, administer, or provide a controlled drug for or to the person if the medical practitioner---
         
@@ -1572,7 +1614,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (c) is---
             
-        *   (i) acting in the medical practitioner's capacity as a medical officer employed by a hospital care operator within the meaning of [section 58(4)][158] of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)(b); and
+        *   (i) acting in the medical practitioner's capacity as a medical officer employed by a hospital care operator within the meaning of [section 58(4)][160] of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)(b); and
         
         *   (ii) for the time being authorised in writing by the person in charge of that institution, acting under the general or specific directions of a Medical Officer of Health, to prescribe controlled drugs; or
         
@@ -1612,7 +1654,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (b) specify (by name or description) as a place at which controlled drugs may be prescribed, administered, or supplied for the purposes of this section---
             
-        *   (i) any hospital care institution within the meaning of [section 58(4)][158] of the Health and Disability Services (Safety) Act 2001; or
+        *   (i) any hospital care institution within the meaning of [section 58(4)][160] of the Health and Disability Services (Safety) Act 2001; or
         
         *   (ii) any clinic, or other place in which a medical practitioner for the time being specified under paragraph (a) works.
         
@@ -1622,19 +1664,21 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (9) This section does not apply to---
         
-    *   (a) the treatment of a patient, within the meaning of the [Alcoholism and Drug Addiction Act 1966][159], while the patient is in an institution, within the meaning of that Act:
+    *   (a) the treatment of a patient, within the meaning of the [Alcoholism and Drug Addiction Act 1966][161], while the patient is in an institution, within the meaning of that Act:
     
-    *   (b) the emergency treatment of a patient in a hospital care institution within the meaning of [section 58(4)][158] of the Health and Disability Services (Safety) Act 2001, for a period not exceeding 3 days:
+    *   (b) the emergency treatment of a patient in a hospital care institution within the meaning of [section 58(4)][160] of the Health and Disability Services (Safety) Act 2001, for a period not exceeding 3 days:
     
     *   (c) the treatment of any restricted person within the meaning of [section 25][42].
     
-    Section 24: replaced, on 1 October 2002, by [section 58(1)][158] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 24: replaced, on 1 October 2002, by [section 58(1)][160] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    
+    Section 24(1A): amended, on 1 July 2014, by [section 45][167] of the Medicines Amendment Act 2013 (2013 No 141).
     
     Section 24(1A): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 24(1A): amended, on 22 October 2003, by [section 4(1)][163] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 24(1A): amended, on 22 October 2003, by [section 4(1)][168] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
     
-    Section 24(7)(a): amended, on 22 October 2003, by [section 4(2)][163] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 24(7)(a): amended, on 22 October 2003, by [section 4(2)][168] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
 
 ##### 25 Restrictions on supply to particular persons
     
@@ -1668,17 +1712,17 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 15
     
-    Section 27: amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 27: amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][164] of the Criminal Procedure Act 2011,---
+*   Despite anything to the contrary in [section 25][169] of the Criminal Procedure Act 2011,---
         
     *   (a) a charging document in respect of an offence against [section 6][16], [9][19], or [10][20] of this Act may be filed at any time; and
     
     *   (b) the limitation period in respect of any other offence against this Act, or any regulations made under it, ends on the date that is 4 years after the date on which the offence was committed.
     
-    Section 28: replaced, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28: replaced, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28A Consent of Attorney-General required in proceedings under section 12C
     
@@ -1688,23 +1732,23 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) The Attorney-General may, before deciding whether or not to give his or her consent under subsection (1), make such inquiries as he or she thinks fit.
     
-    Section 28A: inserted, on 12 May 1998, by [section 6][165] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 28A: inserted, on 12 May 1998, by [section 6][170] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 28A(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28A(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 28A(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28A(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Mistake as to nature of controlled drug or precursor substance
     
 *   Where, in any proceedings for an offence against any of the provisions of [section 6][16] or [section 7][17] or [section 12A][23] or [section 12AB][24] or [section 12AC][25], it is necessary, if the defendant is to be convicted of the offence charged, for the prosecution to prove that some substance, preparation, mixture, or article involved in the alleged offence was the controlled drug or precursor substance which the prosecution alleges it to have been, and it is proved that the substance, preparation, mixture, or article was that controlled drug or precursor substance, the defendant shall not be acquitted of the offence charged by reason only of the fact that he did not know or may not have known that the substance, preparation, mixture, or article in question was the particular controlled drug or precursor substance alleged.
     
-    Section 29 heading: amended, on 12 May 1998, by [section 7][166] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 29 heading: amended, on 12 May 1998, by [section 7][171] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 29: amended, on 22 June 2005, by [section 16][167] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 29: amended, on 22 June 2005, by [section 16][172] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 29: amended, on 12 May 1998, by [section 7(a)][166] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 29: amended, on 12 May 1998, by [section 7(a)][171] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 29: amended, on 12 May 1998, by [section 7(b)][166] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 29: amended, on 12 May 1998, by [section 7(b)][171] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
 
 ##### 29A Issue of usable quantity
     
@@ -1712,13 +1756,13 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (2) Where, in the course of a Judge-alone trial, the defendant puts in issue the question of whether or not the amount of any controlled drug alleged to have been in his possession was of a usable quantity, the District Court Judge shall, if requested to do so by the prosecutor, adjourn the hearing for such period as he considers sufficient to enable the prosecutor to arrange for the attendance in court of a witness or witnesses to adduce evidence that that amount was of a usable quantity; and, if the prosecutor has closed his case before the said question is put in issue, the District Court Judge shall also grant the prosecutor leave to re-open his case for the purpose of adducing evidence that the amount of the drug was of a usable quantity.
     
-    Section 29A: inserted, on 16 October 1978, by [section 7][168] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 29A: inserted, on 16 October 1978, by [section 7][173] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 29A(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29A(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 29A(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29A(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 29A(2): amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 29A(2): amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 29B Special provisions where offence relating to cannabis preparations alleged
     
@@ -1756,7 +1800,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 17
     
-    Section 30: amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30: amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Evidence of analysis
     
@@ -1800,39 +1844,39 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (d) an officer of the Air Security specialisation of the Operational Support Branch of the Royal New Zealand Air Force
     
-    _served_ means served as if the certificate were a document required to be served in accordance with rules made under the [Criminal Procedure Act 2011][169].
+    _served_ means served as if the certificate were a document required to be served in accordance with rules made under the [Criminal Procedure Act 2011][174].
     
     (6) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
         
-    *   (a) a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][97] and must be presented to the House of Representatives under [section 41][98] of that Act; and
+    *   (a) a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][98] and must be presented to the House of Representatives under [section 41][99] of that Act; and
     
-    *   (b) a regulation for the purposes of the [Interpretation Act 1999][110].
+    *   (b) a regulation for the purposes of the [Interpretation Act 1999][111].
     
-    Section 31(1): replaced, on 1 July 1992, by [section 5(1)][170] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
+    Section 31(1): replaced, on 1 July 1992, by [section 5(1)][175] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
     
     Section 31(2): replaced, on 13 January 1988, by section 6(1) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Section 31(2): amended, on 7 July 2010, by [section 4(1)][171] of the Misuse of Drugs Amendment Act 2010 (2010 No 72).
+    Section 31(2): amended, on 7 July 2010, by [section 4(1)][176] of the Misuse of Drugs Amendment Act 2010 (2010 No 72).
     
-    Section 31(2): amended, on 12 May 1998, by [section 8][172] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 31(2): amended, on 12 May 1998, by [section 8][177] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 31(2): amended, on 1 July 1992, by [section 5(2)][170] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
+    Section 31(2): amended, on 1 July 1992, by [section 5(2)][175] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
     
-    Section 31(2A): replaced, on 1 July 1992, by [section 5(3)][170] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
+    Section 31(2A): replaced, on 1 July 1992, by [section 5(3)][175] of the Misuse of Drugs Amendment Act 1992 (1992 No 49).
     
-    Section 31(2A): amended, on 7 July 2010, by [section 4(2)][171] of the Misuse of Drugs Amendment Act 2010 (2010 No 72).
+    Section 31(2A): amended, on 7 July 2010, by [section 4(2)][176] of the Misuse of Drugs Amendment Act 2010 (2010 No 72).
     
     Section 31(5): inserted, on 7 January 1981, by section 3(2) of the Misuse of Drugs Amendment Act 1980 (1980 No 64).
     
-    Section 31(5) **member of the Police**: replaced, on 22 October 2003, by [section 5][173] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 31(5) **member of the Police**: replaced, on 22 October 2003, by [section 5][178] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
     
-    Section 31(5) **member of the Police** paragraph (c): replaced, on 27 March 2008, by [section 4][174] of the Misuse of Drugs Amendment Act 2008 (2008 No 13).
+    Section 31(5) **member of the Police** paragraph (c): replaced, on 27 March 2008, by [section 4][179] of the Misuse of Drugs Amendment Act 2008 (2008 No 13).
     
-    Section 31(5) **member of the Police** paragraph (d): replaced, on 27 March 2008, by [section 4][174] of the Misuse of Drugs Amendment Act 2008 (2008 No 13).
+    Section 31(5) **member of the Police** paragraph (d): replaced, on 27 March 2008, by [section 4][179] of the Misuse of Drugs Amendment Act 2008 (2008 No 13).
     
-    Section 31(5) **served**: amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 31(5) **served**: amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 31(6): replaced, on 5 August 2013, by [section 77(3)][101] of the Legislation Act 2012 (2012 No 119).
+    Section 31(6): replaced, on 5 August 2013, by [section 77(3)][102] of the Legislation Act 2012 (2012 No 119).
 
 ##### 32 Forfeiture
     
@@ -1844,43 +1888,41 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (4) If, on the conviction of any person for an offence against [section 6][16], the court is satisfied that any motor vehicle, aircraft, or ship or boat or other vessel owned by the convicted person (whether solely or as joint tenant or tenant in common with any other person or persons) or in which he has any interest (whether pursuant to a hire purchase agreement, leasing agreement, or otherwise) at the time of his conviction was used by the convicted person in the commission of that offence (whether or not he was the driver or person in charge), the court shall, unless in the circumstances of the case the court considers that it would be unjust to do so, order, in addition to any other penalty imposed under this Act, that the motor vehicle, aircraft, or ship or boat or other vessel be forfeited to Her Majesty.
     
-    (5) If the court is considering whether to make an order for forfeiture under subsection (4), [sections 128(5)][175], [130][176], and [131][177] of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
+    (5) If the court is considering whether to make an order for forfeiture under subsection (4), [sections 128(5)][180], [130][181], and [131][182] of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
     
-    (6) If an order for forfeiture is made under subsection (4), the following provisions of the [Sentencing Act 2002][178] apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
+    (6) If an order for forfeiture is made under subsection (4), the following provisions of the [Sentencing Act 2002][183] apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
         
-    *   (a) [sections 132][179] to 136:
+    *   (a) [sections 132][184] to 136:
     
-    *   (b) [section 137][180], except that section 137(3)(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
+    *   (b) [section 137][185], except that section 137(3)(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
     
-    *   (c) [sections 138][181], [138A][182], and [140][183]:
+    *   (c) [sections 138][186], [138A][187], and [140][188]:
     
-    *   (d) [section 140A][184] (including section 140A(4), which applies despite [section 137(3)(c)][180] not otherwise being applicable):
+    *   (d) [section 140A][189] (including section 140A(4), which applies despite [section 137(3)(c)][185] not otherwise being applicable):
     
-    *   (e) [sections 141A][185] and [142][186].
+    *   (e) [sections 141A][190] and [142][191].
     
     Compare: 1965 No 45 s 18
     
-    Section 32(3): amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 32(3): amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 32(4): inserted, on 7 January 1981, by section 4 of the Misuse of Drugs Amendment Act 1980 (1980 No 64).
     
-    Section 32(5): replaced, on 1 August 2012, by [section 4][187] of the Misuse of Drugs Amendment Act 2011 (2011 No 40).
+    Section 32(5): replaced, on 1 August 2012, by [section 4][192] of the Misuse of Drugs Amendment Act 2011 (2011 No 40).
     
-    Section 32(6): inserted, on 1 August 2012, by [section 4][187] of the Misuse of Drugs Amendment Act 2011 (2011 No 40).
+    Section 32(6): inserted, on 1 August 2012, by [section 4][192] of the Misuse of Drugs Amendment Act 2011 (2011 No 40).
 
 ##### 33 Notification of conviction of medical practitioners, etc
     
-*   Where any person being a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian is convicted of any offence against this Act or against any regulations made under this Act, the court shall cause particulars of the conviction to be sent to the person charged with the duty of keeping the register on which the name of the convicted person appears as a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian, as the case may be.
+*   (1) If a person who is a veterinarian, medical practitioner, pharmacist, dentist, midwife, nurse practitioner, optometrist, or designated prescriber is convicted of any offence against this Act or regulations made under it, the court must send particulars of the conviction to---
+        
+    *   (a) the Registrar of the Veterinary Council of New Zealand, if the person is a veterinarian; or
     
-    Compare: 1965 No 45 s 19
+    *   (b) the responsible authority for the health profession to which the person belongs, in any other case.
     
-    Section 33: amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    (2) In this section, _responsible authority_ has the meaning given to it in [section 5(1)][193] of the Health Practitioners Competence Assurance Act 2003\.
     
-    Section 33: amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-    
-    Section 33: amended, on 15 October 1999, by [section 16][90] of the Medicines Amendment Act 1999 (1999 No 117).
-    
-    Section 33: amended, on 28 August 1990, by section 17 of the Nurses Amendment Act 1990 (1990 No 107).
+    Section 33: replaced, on 1 July 2014, by [section 46][194] of the Medicines Amendment Act 2013 (2013 No 141).
 
 ##### 34 Protection of persons acting under authority of Act
     
@@ -1896,19 +1938,19 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (3) A certificate signed by the Commissioner of Police to the effect that, at any specified time or during any specified period, the constable named in the certificate was acting as an undercover officer shall, for the purposes of subsection (2), be conclusive evidence of that fact.
     
-    Section 34A: inserted, on 16 October 1978, by [section 9][188] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
+    Section 34A: inserted, on 16 October 1978, by [section 9][195] of the Misuse of Drugs Amendment Act 1978 (1978 No 65).
     
-    Section 34A heading: amended, on 1 October 2008, pursuant to [section 116(a)(iv)][156] of the Policing Act 2008 (2008 No 72).
+    Section 34A heading: amended, on 1 October 2008, pursuant to [section 116(a)(iv)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 34A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 34A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 34A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 34A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 34A(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 34A(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 35 Crimes deemed to be included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][189] and any Order in Council in force under [section 15][190] or [section 104][191] of that Act,---
+*   (1) For the purposes of the [Extradition Act 1999][196] and any Order in Council in force under [section 15][197] or [section 104][198] of that Act,---
         
     *   (a) each crime described in [section 6][16] or [section 9][19], including---
             
@@ -1924,49 +1966,49 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     (2) Subsection (1) applies to any treaty concluded before 1 June 1977 and for the time being in force between New Zealand and any country which is a party to the Single Convention on Narcotic Drugs 1961, as amended by the Protocol amending that Convention, done at Geneva on 25 March 1972, or to the Convention on Psychotropic Substances 1971\.
     
-    (3) If under subsection (1) a crime is deemed to be an offence described in an extradition treaty, a person may be surrendered in accordance with the provisions of the [Extradition Act 1999][189] for that crime even if the act or omission occurred before the date on which the crime was deemed to be an offence described in the extradition treaty.
+    (3) If under subsection (1) a crime is deemed to be an offence described in an extradition treaty, a person may be surrendered in accordance with the provisions of the [Extradition Act 1999][196] for that crime even if the act or omission occurred before the date on which the crime was deemed to be an offence described in the extradition treaty.
     
     (4) Subsection (3) does not apply in respect of an act or omission that, had it occurred within the jurisdiction of New Zealand, would not at that time have constituted an offence under New Zealand law.
     
     (5) For the purposes of this section, _country_ includes any territory for whose international relations the Government of a country is responsible and to which the extradition treaty and the Single Convention on Narcotic Drugs as amended by the Protocol amending that Convention or, as the case may be, the Convention on Psychotropic Substances, extends.
     
-    Section 35: replaced, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35: replaced, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
 
 ##### 35A Further provision on crimes to be treated as included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][189] and any Order in Council in force under [section 15][190] or [section 104][191] of that Act, every offence described in any of [sections 6][16], [9][19], [12A][23], [12AB][24], [12B][26], and [12C][28] (including attempting or conspiring to commit that offence, aiding, abetting, inciting, counselling, or procuring any person to commit that offence) and every offence described in [section 10][20], if not already described in the treaty, is to be treated as being an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any foreign country which is a party to the Vienna Convention.
+*   (1) For the purposes of the [Extradition Act 1999][196] and any Order in Council in force under [section 15][197] or [section 104][198] of that Act, every offence described in any of [sections 6][16], [9][19], [12A][23], [12AB][24], [12B][26], and [12C][28] (including attempting or conspiring to commit that offence, aiding, abetting, inciting, counselling, or procuring any person to commit that offence) and every offence described in [section 10][20], if not already described in the treaty, is to be treated as being an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any foreign country which is a party to the Vienna Convention.
     
-    (2) When subsection (1) requires any offence to be treated as being an offence described in an extradition treaty, a person whose surrender is sought under the [Extradition Act 1999][189] in respect of an act or omission which amounts to that offence is liable to be surrendered in accordance with the provisions of that Act, whether the act or omission occurred before or after the date on which the offence became, by virtue of subsection (1), an offence described in the extradition treaty.
+    (2) When subsection (1) requires any offence to be treated as being an offence described in an extradition treaty, a person whose surrender is sought under the [Extradition Act 1999][196] in respect of an act or omission which amounts to that offence is liable to be surrendered in accordance with the provisions of that Act, whether the act or omission occurred before or after the date on which the offence became, by virtue of subsection (1), an offence described in the extradition treaty.
     
     (3) This section does not apply in respect of an act or omission that, had it occurred within the jurisdiction of New Zealand, would not at that time have constituted an offence under New Zealand law.
     
     (4) For the purposes of this section, _foreign country_ includes any territory for whose international relations the Government of a foreign country is responsible and to which the extradition treaty and the Vienna Convention extend.
     
-    Section 35A: inserted, on 16 March 1999, by [section 10][192] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 35A: inserted, on 16 March 1999, by [section 10][199] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 35A(1): amended, on 22 June 2005, by [section 17][193] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 35A(1): amended, on 22 June 2005, by [section 17][200] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 35A(1): amended, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35A(1): amended, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
     
-    Section 35A(2): amended, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35A(2): amended, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
     
-    Section 35A(3): replaced, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35A(3): replaced, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
 
 ##### 35B Surrender of offenders
     
 *   \[Repealed\]
     
-    Section 35B: repealed, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35B: repealed, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
 
 ##### 35C Restrictions on surrender of offenders
     
-*   (1) Without limiting the grounds on which surrender must or may be refused under the [Extradition Act 1999][189], but subject to subsection (2), no court in New Zealand may order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of any act or omission that amounts to an offence described in any of [sections 6][16], [9][19], [10][20], [12A][23], [12AB][24], [12B][26], and [12C][28] if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
+*   (1) Without limiting the grounds on which surrender must or may be refused under the [Extradition Act 1999][196], but subject to subsection (2), no court in New Zealand may order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of any act or omission that amounts to an offence described in any of [sections 6][16], [9][19], [10][20], [12A][23], [12AB][24], [12B][26], and [12C][28] if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
     
     (2) If, in any case to which subsection (1) applies, it is subsequently determined that proceedings should not be brought in New Zealand against the person in respect of the act or omission, the Attorney-General must advise the court accordingly, and the court must proceed with the matter as if the Attorney-General's certificate had never been given.
     
-    Section 35C: replaced, on 1 September 1999, by [section 111][134] of the Extradition Act 1999 (1999 No 55).
+    Section 35C: replaced, on 1 September 1999, by [section 111][136] of the Extradition Act 1999 (1999 No 55).
     
-    Section 35C(1): amended, on 22 June 2005, by [section 18][194] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 35C(1): amended, on 22 June 2005, by [section 18][201] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 35D Evidence
     
@@ -1986,21 +2028,21 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     is sufficient evidence of that fact.
     
-    Section 35D: inserted, on 16 March 1999, by [section 10][192] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 35D: inserted, on 16 March 1999, by [section 10][199] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
 
 ##### 36 Application of Customs and Excise Act 1996
     
-*   (1) [Sections 137][195], [139][196], [140][197], [143 to 145][198], [148 to 149B][199], [149C(1) to (3)][200], [151][201], [152][202], [161][203], [166A to 167][204], [225][205], and [226][206] of the Customs and Excise Act 1996 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
+*   (1) [Sections 137][202], [139][203], [140][204], [143 to 145][205], [148 to 149B][206], [149C(1) to (3)][207], [151][208], [152][209], [161][210], [166A to 167][211], [225][212], and [226][213] of the Customs and Excise Act 1996 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
     
     (2) The controlled drugs and precursor substances are---
         
-    *   (a) any controlled drug, other than a controlled drug specified or described in [Part 6][113] of Schedule 3; and
+    *   (a) any controlled drug, other than a controlled drug specified or described in [Part 6][114] of Schedule 3; and
     
     *   (b) any precursor substance specified or described in [Schedule 4][71].
     
-    Section 36: replaced, on 22 June 2005, by [section 19][207] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 36: replaced, on 22 June 2005, by [section 19][214] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 36(1): amended, on 1 October 2012, by [section 333][208] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 36(1): amended, on 1 October 2012, by [section 333][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 37 Regulations
     
@@ -2020,7 +2062,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     *   (fa) regulating the issue of standing orders that authorise the supply and administration of controlled drugs, imposing conditions, limitations, requirements, or restrictions in relation to the contents of standing orders of that kind and their use, and providing for any other matters that are necessary or desirable for the administration of standing orders of that kind:
     
-    *   (g) regulating the issue by medical practitioners, dentists, midwives, designated prescribers, and veterinarians of prescriptions for the supply of any controlled drug, and requiring persons issuing or dispensing prescriptions in respect of any such drug to furnish such information relating to those prescriptions as may be prescribed:
+    *   (g) regulating the issue by medical practitioners, dentists, midwives, nurse practitioners, optometrists, designated prescribers, and veterinarians of prescriptions for the supply of any controlled drug, and requiring persons issuing or dispensing prescriptions in respect of any such drug to furnish such information relating to those prescriptions as may be prescribed:
     
     *   (ga) prescribing the circumstances in which, and the conditions under which, any person or class of persons may possess needles or syringes notwithstanding that those needles or syringes may be intended to be used for the purpose of the commission of offences against this Act:
     
@@ -2066,9 +2108,11 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
     Compare: 1965 No 45 s 23; 1960 No 97 s 53(2)(h), (o); Misuse of Drugs Act 1971 s 10(2)(g), (h), (i) (UK)
     
-    Section 37(1)(fa): inserted, on 22 October 2003, by [section 6][209] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
+    Section 37(1)(fa): inserted, on 22 October 2003, by [section 6][216] of the Misuse of Drugs Amendment Act 2003 (2003 No 86).
     
-    Section 37(1)(g): amended, on 22 December 2005, by [section 105][93] of the Veterinarians Act 2005 (2005 No 126).
+    Section 37(1)(g): amended, on 1 July 2014, by [section 47][217] of the Medicines Amendment Act 2013 (2013 No 141).
+    
+    Section 37(1)(g): amended, on 22 December 2005, by [section 105][94] of the Veterinarians Act 2005 (2005 No 126).
     
     Section 37(1)(g): amended, on 18 September 2004, by [section 175(1)][89] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
@@ -2084,7 +2128,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 2 July 2001, by [section 149][210] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 38: repealed, on 2 July 2001, by [section 149][218] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 
 ##### 39 Repeals
     
@@ -2108,7 +2152,7 @@ An Act to consolidate and amend the Narcotics Act 1965 and to make further provi
 
 ##### 41 Application to Niue
     
-*   _Amendment(s) incorporated in the [Act(s)][211]_.
+*   _Amendment(s) incorporated in the [Act(s)][219]_.
 
 ---
 
@@ -2203,7 +2247,7 @@ Class A controlled drugs
     
     Schedule 1 clause 1 **Lysergic acid**: inserted, on 2 September 1996, by section 6(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 1 clause 1 **Methamphetamine**: inserted, on 30 May 2003, by [clause 4][212] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 1 clause 1 **Methamphetamine**: inserted, on 30 May 2003, by [clause 4][220] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
     Schedule 1 clause 1 **4-methoxyamphetamine**: repealed, on 2 September 1996, by section 6(1)(c) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
@@ -2213,21 +2257,21 @@ Class A controlled drugs
     
     Schedule 1 clause 1 **MPTP**: inserted, on 13 January 1988, by section 8 of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Schedule 1 clause 1 **PCE**: inserted, on 21 May 1981, by [clause 2][213] of the Misuse of Drugs Order 1981 (SR 1981/114).
+    Schedule 1 clause 1 **PCE**: inserted, on 21 May 1981, by [clause 2][221] of the Misuse of Drugs Order 1981 (SR 1981/114).
     
-    Schedule 1 clause 1 **PCPY**: inserted, on 21 May 1981, by [clause 2][213] of the Misuse of Drugs Order 1981 (SR 1981/114).
+    Schedule 1 clause 1 **PCPY**: inserted, on 21 May 1981, by [clause 2][221] of the Misuse of Drugs Order 1981 (SR 1981/114).
     
     Schedule 1 clause 1 **PEPTP**: inserted, on 13 January 1988, by section 8 of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Schedule 1 clause 1 **PHP**: inserted, on 21 May 1981, by [clause 2][213] of the Misuse of Drugs Order 1981 (SR 1981/114).
+    Schedule 1 clause 1 **PHP**: inserted, on 21 May 1981, by [clause 2][221] of the Misuse of Drugs Order 1981 (SR 1981/114).
     
     Schedule 1 clause 1 **PMA**: inserted, on 2 September 1996, by section 6(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 1 clause 1 **TCP**: inserted, on 21 May 1981, by [clause 2][213] of the Misuse of Drugs Order 1981 (SR 1981/114).
+    Schedule 1 clause 1 **TCP**: inserted, on 21 May 1981, by [clause 2][221] of the Misuse of Drugs Order 1981 (SR 1981/114).
     
     Schedule 1 clause 1 **Tetrahydrocannabinols**: repealed, on 2 September 1996, by section 6(1)(d) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 1 clause 1 **Thalidomide**: repealed, on 9 August 2011, by [section 7][214] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 1 clause 1 **Thalidomide**: repealed, on 9 August 2011, by [section 7][222] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
     Schedule 1 clause 1 **TMA**: inserted, on 2 September 1996, by section 6(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
@@ -2266,29 +2310,29 @@ Class B controlled drugs
     
     _Tetrahydrocannabinols_, except when contained in a Class C controlled drug.
     
-    Schedule 2 Part 1 clause 1 **Amphetamine**: inserted, on 9 September 2005, by [clause 4(1)][215] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
+    Schedule 2 Part 1 clause 1 **Amphetamine**: inserted, on 9 September 2005, by [clause 4(1)][223] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
     
     Schedule 2 Part 1 clause 1 **Cannabis**: replaced, on 13 January 1983, by section 7 of the Misuse of Drugs Amendment Act 1982 (1982 No 151).
     
     Schedule 2 Part 1 clause 1 **Cocaine**: repealed, on 13 January 1988, by section 9(1) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Schedule 2 Part 1 clause 1 **MDMA**: inserted, on 9 September 2005, by [clause 4(1)][215] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
+    Schedule 2 Part 1 clause 1 **MDMA**: inserted, on 9 September 2005, by [clause 4(1)][223] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
     
-    Schedule 2 Part 1 clause 1 **Methcathinone**: inserted, on 30 May 2003, by [clause 5(1)][216] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 2 Part 1 clause 1 **Methcathinone**: inserted, on 30 May 2003, by [clause 5(1)][224] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
     Schedule 2 Part 1 clause 1 **Tetrahydrocannabinols**: inserted, on 2 September 1996, by section 7(1) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
 
 *   2 The isomers of the substances mentioned in clause 1 whenever the existence of such isomers is possible within the specific chemical designation.
     
-    Schedule 2 Part 1 clause 2: amended, on 31 May 2002, by [clause 3(2)(a)][217] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
+    Schedule 2 Part 1 clause 2: amended, on 31 May 2002, by [clause 3(2)(a)][225] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
 
 *   3 The esters and ethers of the substances mentioned in clause 1 and the esters and ethers of the isomers mentioned in clause 2 whenever the existence of such esters or ethers is possible.
     
-    Schedule 2 Part 1 clause 3: amended, on 31 May 2002, by [clause 3(2)(b)][217] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
+    Schedule 2 Part 1 clause 3: amended, on 31 May 2002, by [clause 3(2)(b)][225] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
 
 *   4 The salts of the substances mentioned in clause 1 and the salts of the isomers, esters, and ethers mentioned in clause 2 or clause 3\.
     
-    Schedule 2 Part 1 clause 4: amended, on 31 May 2002, by [clause 3(2)(c)][217] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
+    Schedule 2 Part 1 clause 4: amended, on 31 May 2002, by [clause 3(2)(c)][225] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
 
 *   5 Substances containing any proportion of a substance mentioned in clause 1, clause 2, clause 3, or clause 4\.
 
@@ -2312,7 +2356,7 @@ Class B controlled drugs
     
     *   (d) any substance, preparation, or mixture containing any proportion of GHB or any substance referred to in any of paragraphs (a) to (c).
     
-    Schedule 2 Part 1 clause 6: inserted, on 31 May 2002, by [clause 3(1)][217] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
+    Schedule 2 Part 1 clause 6: inserted, on 31 May 2002, by [clause 3(1)][225] of the Misuse of Drugs (Classification of Fantasy) Order 2001 (SR 2001/383).
 
 ## Part 2
 
@@ -2358,25 +2402,25 @@ Class B controlled drugs
     
     Schedule 2 Part 2 clause 1: replaced, on 13 January 1988, by section 9(2) of the Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193).
     
-    Schedule 2 Part 2 clause 1 **Amphetamine**: repealed, on 9 September 2005, by [clause 4(2)][215] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
+    Schedule 2 Part 2 clause 1 **Amphetamine**: repealed, on 9 September 2005, by [clause 4(2)][223] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
     
-    Schedule 2 Part 2 clause 1 **Ephedrine**: inserted, on 8 September 2011, by [section 8][218] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 2 Part 2 clause 1 **Ephedrine**: inserted, on 8 September 2011, by [section 8][226] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
     Schedule 2 Part 2 clause 1 **N-ethyl MDA**: inserted, on 2 September 1996, by section 7(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
     Schedule 2 Part 2 clause 1 **N-hydroxy MDA**: inserted, on 2 September 1996, by section 7(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 2 Part 2 clause 1 **MDMA**: repealed, on 9 September 2005, by [clause 4(2)][215] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
+    Schedule 2 Part 2 clause 1 **MDMA**: repealed, on 9 September 2005, by [clause 4(2)][223] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2005 (SR 2005/175).
     
-    Schedule 2 Part 2 clause 1 **Methamphetamine**: repealed, on 30 May 2003, by [clause 5(2)][216] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 2 Part 2 clause 1 **Methamphetamine**: repealed, on 30 May 2003, by [clause 5(2)][224] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
     Schedule 2 Part 2 clause 1 **4-methylaminorex**: inserted, on 2 September 1996, by section 7(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 2 Part 2 clause 1 **4-methylthioamphetamine**: inserted, on 30 May 2003, by [clause 5(3)][216] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 2 Part 2 clause 1 **4-methylthioamphetamine**: inserted, on 30 May 2003, by [clause 5(3)][224] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
     Schedule 2 Part 2 clause 1 **Norpseudoephedrine**: replaced, on 2 September 1996, by section 7(2) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 2 Part 2 clause 1 **Pseudoephedrine**: inserted, on 8 September 2011, by [section 8][218] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 2 Part 2 clause 1 **Pseudoephedrine**: inserted, on 8 September 2011, by [section 8][226] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
 
 *   2 The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
 
@@ -2632,7 +2676,7 @@ Class B controlled drugs
     
     Schedule 2 Part 3 clause 1 **Sufentanil**: inserted, on 21 May 1981, by clause 3(2) of the Misuse of Drugs Order 1981 (SR 1981/114).
     
-    Schedule 2 Part 3 clause 1 **Tapentadol**: inserted, on 1 May 2012, by [clause 3][219] of the Misuse of Drugs (Classification of Tapentadol) Order 2011 (SR 2011/247).
+    Schedule 2 Part 3 clause 1 **Tapentadol**: inserted, on 1 May 2012, by [clause 3][227] of the Misuse of Drugs (Classification of Tapentadol) Order 2011 (SR 2011/247).
     
     Schedule 2 Part 3 clause 1 **Thiofentanyl**: inserted, on 2 September 1996, by section 7(4) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
@@ -2667,7 +2711,7 @@ Class C controlled drugs
     
     Schedule 3 Part 1 clause 1 **Cannabis plant**: amended, on 13 January 1983, by section 8 of the Misuse of Drugs Amendment Act 1982 (1982 No 151).
     
-    Schedule 3 Part 1 clause 1 **Catha edulis plant**: inserted, on 21 May 1981, by [clause 4][220] of the Misuse of Drugs Order 1981 (SR 1981/114).
+    Schedule 3 Part 1 clause 1 **Catha edulis plant**: inserted, on 21 May 1981, by [clause 4][228] of the Misuse of Drugs Order 1981 (SR 1981/114).
 
 *   2 The following substances:
     
@@ -2683,35 +2727,35 @@ Class C controlled drugs
     
     _MBZP_ (1-methyl-4-benzylpiperazine).
     
-    Schedule 3 Part 1 clause 2: inserted, on 1 April 2008, by [section 4][221] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 3 Part 1 clause 2: inserted, on 1 April 2008, by [section 4][229] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
 
 *   3 The isomers of the substances mentioned in clause 2 whenever the existence of such isomers is possible within the specific chemical designation.
     
-    Schedule 3 Part 1 clause 3: inserted, on 1 April 2008, by [section 4][221] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 3 Part 1 clause 3: inserted, on 1 April 2008, by [section 4][229] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
 
 *   4 The esters and ethers of the substances mentioned in clause 2 and the esters and the ethers of the isomers mentioned in clause 3 whenever the existence of such esters or ethers is possible.
     
-    Schedule 3 Part 1 clause 4: inserted, on 1 April 2008, by [section 4][221] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 3 Part 1 clause 4: inserted, on 1 April 2008, by [section 4][229] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
 
 *   5 The salts of the substances mentioned in clause 2 and the salts of the isomers, esters, and ethers mentioned in clause 3 or 4\.
     
-    Schedule 3 Part 1 clause 5: inserted, on 1 April 2008, by [section 4][221] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 3 Part 1 clause 5: inserted, on 1 April 2008, by [section 4][229] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
 
 *   6 Substances containing any proportion of a substance mentioned in clause 2, 3, 4, or 5\.
     
-    Schedule 3 Part 1 clause 6: inserted, on 1 April 2008, by [section 4][221] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 3 Part 1 clause 6: inserted, on 1 April 2008, by [section 4][229] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
 
 ## Part 2
 
-_Codeine_ (3-methylmorphine); its isomers, esters, and ethers, if any; its salts, and the salts of its isomers, esters, or ethers, if any; and any substance, preparation or mixture containing any proportion of the said substance or of any such isomer, ester, ether, or salt, other than a preparation or mixture named or described in [Part 6][113]
+_Codeine_ (3-methylmorphine); its isomers, esters, and ethers, if any; its salts, and the salts of its isomers, esters, or ethers, if any; and any substance, preparation or mixture containing any proportion of the said substance or of any such isomer, ester, ether, or salt, other than a preparation or mixture named or described in [Part 6][114]
 
-_Dihydrocodeine_; its isomers, esters, and ethers, if any; its salts, and the salts of its isomers, esters, or ethers, if any; and any substance, preparation, or mixture containing any proportion of the said substance or of any such isomer, ester, ether, or salt, other than a preparation or mixture named or described in [Part 6][113]
+_Dihydrocodeine_; its isomers, esters, and ethers, if any; its salts, and the salts of its isomers, esters, or ethers, if any; and any substance, preparation, or mixture containing any proportion of the said substance or of any such isomer, ester, ether, or salt, other than a preparation or mixture named or described in [Part 6][114]
 
-_Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybutane); its isomers, esters, and ethers, if any; its salts and the salts of its isomers, esters, or ethers, if any; except in preparations of propoxyphene described in [clause 5A][222] of Part 5\.
+_Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybutane); its isomers, esters, and ethers, if any; its salts and the salts of its isomers, esters, or ethers, if any; except in preparations of propoxyphene described in [clause 5A][230] of Part 5\.
     
 *   Schedule 3 Part 2 **Dihydrocodeine**: inserted, on 2 September 1996, by section 8(1) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
-*   Schedule 3 Part 2 **Dihydrocodeine** amended, on 15 November 2000, by [section 10][223] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
-*   Schedule 3 Part 2 **Propoxyphene**: replaced, on 20 December 1984, by [clause 2(1)][224] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
+*   Schedule 3 Part 2 **Dihydrocodeine** amended, on 15 November 2000, by [section 10][231] of the Misuse of Drugs Amendment Act 2000 (2000 No 47).
+*   Schedule 3 Part 2 **Propoxyphene**: replaced, on 20 December 1984, by [clause 2(1)][232] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
 
 ## Part 3
 
@@ -2745,7 +2789,7 @@ _Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybut
     
 *   \[Repealed\]
     
-    Schedule 3 Part 3 clause 6: repealed, on 8 September 2011, by [section 9(1)][225] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 3 Part 3 clause 6: repealed, on 8 September 2011, by [section 9(1)][233] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
 
 ## Part 4
 
@@ -2779,11 +2823,11 @@ _Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybut
     
     Schedule 3 Part 4 clause 1 **Allobarbital**: inserted, on 2 September 1996, by section 8(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 3 Part 4 clause 1 **Buprenorphine**: replaced, on 26 April 1984, by [clause 2][226] of the Misuse of Drugs Order 1984 (SR 1984/101).
+    Schedule 3 Part 4 clause 1 **Buprenorphine**: replaced, on 26 April 1984, by [clause 2][234] of the Misuse of Drugs Order 1984 (SR 1984/101).
     
     Schedule 3 Part 4 clause 1 **Butalbital**: inserted, on 2 September 1996, by section 8(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
-    Schedule 3 Part 4 clause 1 **Ketamine**: inserted, on 1 December 2010, by [clause 3][227] of the Misuse of Drugs (Classification of Ketamine) Order 2009 (SR 2009/255).
+    Schedule 3 Part 4 clause 1 **Ketamine**: inserted, on 1 December 2010, by [clause 3][235] of the Misuse of Drugs (Classification of Ketamine) Order 2009 (SR 2009/255).
     
     Schedule 3 Part 4 clause 1 **Secbutabarbital**: inserted, on 2 September 1996, by section 8(3) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
     
@@ -2901,87 +2945,87 @@ _Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybut
     
     _Triazolam_.
     
-    Schedule 3 Part 5 clause 1 **Alprazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Alprazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Aminorex**: inserted, on 30 May 2003, by [clause 6][229] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 3 Part 5 clause 1 **Aminorex**: inserted, on 30 May 2003, by [clause 6][237] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
-    Schedule 3 Part 5 clause 1 **Bromazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Bromazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Brotizolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Brotizolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Camazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Camazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Chlordiazepoxide**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Chlordiazepoxide**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Clobazam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Clobazam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Clonazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Clonazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Clorazepate**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Clorazepate**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Clotiazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Clotiazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Cloxazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Cloxazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Delorazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Delorazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Diazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Diazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Ephedrine**: repealed, on 8 September 2011, by [section 9(2)][225] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 3 Part 5 clause 1 **Ephedrine**: repealed, on 8 September 2011, by [section 9(2)][233] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Schedule 3 Part 5 clause 1 **Estazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Estazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Ethyl loflazepate**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Ethyl loflazepate**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Fludiazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Fludiazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Flunitrazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Flunitrazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Flurazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Flurazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Halazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Halazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Haloxazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Haloxazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Ketazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Ketazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Loprazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Loprazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Lorazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Lorazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Lormetazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Lormetazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Mazindol**: replaced, on 20 December 1984, by [clause 2(2)][224] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
+    Schedule 3 Part 5 clause 1 **Mazindol**: replaced, on 20 December 1984, by [clause 2(2)][232] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
     
-    Schedule 3 Part 5 clause 1 **Medazepam**: inserted, on 1  January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Medazepam**: inserted, on 1  January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Midazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Midazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Nimetazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Nimetazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Nitrazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Nitrazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Nordazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Nordazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Oxazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Oxazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Oxazolam**: inserted, on 1  January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Oxazolam**: inserted, on 1  January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Pemoline**: inserted, on 30 May 2003, by [clause 6][229] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
+    Schedule 3 Part 5 clause 1 **Pemoline**: inserted, on 30 May 2003, by [clause 6][237] of the Misuse of Drugs (Changes to Controlled Drugs) Order 2003 (SR 2003/47).
     
-    Schedule 3 Part 5 clause 1 **Phentermine**: inserted, on 16 December 1982, by [clause 2(2)][230] of the Misuse of Drugs Order 1982 (SR 1982/259).
+    Schedule 3 Part 5 clause 1 **Phentermine**: inserted, on 16 December 1982, by [clause 2(2)][238] of the Misuse of Drugs Order 1982 (SR 1982/259).
     
-    Schedule 3 Part 5 clause 1 **Pinazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Pinazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Prazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Prazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Pseudoephedrine**: repealed, on 8 September 2011, by [section 9(2)][225] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 3 Part 5 clause 1 **Pseudoephedrine**: repealed, on 8 September 2011, by [section 9(2)][233] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Schedule 3 Part 5 clause 1 **Temazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Temazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Tetrazepam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Tetrazepam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
     
-    Schedule 3 Part 5 clause 1 **Triazolam**: inserted, on 1 January 1999, by [clause 2][228] of the Misuse of Drugs Order 1998 (SR 1998/351).
+    Schedule 3 Part 5 clause 1 **Triazolam**: inserted, on 1 January 1999, by [clause 2][236] of the Misuse of Drugs Order 1998 (SR 1998/351).
 
 *   2 The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
 
@@ -2991,17 +3035,17 @@ _Propoxyphene_ (α-4 (N, N-dimethylamino)-1, 2-diphenyl-3-methyl-2-propionoxybut
 
 *   5 Mixtures of a derivative of barbituric acid named or described in Part 4 compounded with 1 or more other pharmacologically active ingredients not named or described in Part 4\.
     
-    Schedule 3 Part 5 clause 5: replaced, on 25 May 1978, by [clause 2(2)][231] of the Misuse of Drugs Order 1978 (SR 1978/143).
+    Schedule 3 Part 5 clause 5: replaced, on 25 May 1978, by [clause 2(2)][239] of the Misuse of Drugs Order 1978 (SR 1978/143).
 
 *   5A Preparations of propoxyphene, its isomers, esters, and ethers, if any, its salts, and the salts of its isomers, esters, or ethers, if any, for oral use containing not more than the equivalent of 135 milligrams of propoxyphene base per dosage unit or with a concentration of not more than 2.5% in undivided preparations, being preparations whereof none of the other ingredients is a substance named or described in Schedules 1 or 2 or in Parts 1 to 5 of this schedule.
     
-    Schedule 3 Part 5 clause 5A: replaced, on 20 December 1984, by [clause 2(3)][224] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
+    Schedule 3 Part 5 clause 5A: replaced, on 20 December 1984, by [clause 2(3)][232] of the Misuse of Drugs Order (No 2) 1984 (SR 1984/315).
 
 *   6 Substances containing any proportion of a substance mentioned in clause 1, clause 2, clause 3, clause 4, clause 5 or clause 5A, other than a preparation or mixture named or described in Part 6\.
     
-    Schedule 3 Part 5 clause 6: inserted, on 25 May 1978, by [clause 2(2)][231] of the Misuse of Drugs Order 1978 (SR 1978/143).
+    Schedule 3 Part 5 clause 6: inserted, on 25 May 1978, by [clause 2(2)][239] of the Misuse of Drugs Order 1978 (SR 1978/143).
     
-    Schedule 3 Part 5 clause 6: amended, on 16 December 1982, by [clause 2(4)][230] of the Misuse of Drugs Order 1982 (SR 1982/259).
+    Schedule 3 Part 5 clause 6: amended, on 16 December 1982, by [clause 2(4)][238] of the Misuse of Drugs Order 1982 (SR 1982/259).
 
 ## Part 6
 
@@ -3015,7 +3059,7 @@ The following preparations and mixtures, namely:
     
     
 
-*   (aa) preparations containing a derivative of barbituric acid named or described in [Part 4][232] or [Part 5][233], in solutions containing not more than 0.5% of that derivative of barbituric acid:
+*   (aa) preparations containing a derivative of barbituric acid named or described in [Part 4][240] or [Part 5][241], in solutions containing not more than 0.5% of that derivative of barbituric acid:
 
 *   (b) preparations of cocaine containing not more than 0.1% of cocaine base, being preparations compounded with 1 or more other pharmacologically active ingredients (none of which are substances named or described in [Schedules 1][68] or [2][69] or in [Parts 1 to 5][75] of this schedule) in such a way that the preparation has no, or a negligible, risk of abuse, and in such a way that the cocaine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health:
 
@@ -3033,8 +3077,8 @@ The following preparations and mixtures, namely:
 
 *   (h) mixtures containing not more than 1 of the preparations specified in paragraphs (a) to (g), being mixtures whereof none of the other ingredients is a substance named or described in [Schedules 1][68] or [2][69] or in [Parts 1 to 5][75] of this schedule.
         
-    *   Schedule 3 Part 6 paragraph (aa): inserted, on 25 May 1978, by [clause 2(3)][231] of the Misuse of Drugs Order 1978 (SR 1978/143).
-    *   Schedule 3 Part 6 paragraph (ff): inserted, on 25 May 1978, by [clause 2(4)][231] of the Misuse of Drugs Order 1978 (SR 1978/143).
+    *   Schedule 3 Part 6 paragraph (aa): inserted, on 25 May 1978, by [clause 2(3)][239] of the Misuse of Drugs Order 1978 (SR 1978/143).
+    *   Schedule 3 Part 6 paragraph (ff): inserted, on 25 May 1978, by [clause 2(4)][239] of the Misuse of Drugs Order 1978 (SR 1978/143).
     
     
 
@@ -3094,7 +3138,7 @@ The following preparations and mixtures, namely:
 
 *   (c) any combination of up to 5 alkyl radicals and/or alkoxy radicals (each with up to 6 carbon atoms, including cyclic radicals) and/or halogen radicals, attached to the benzene ring.
 
-*   Schedule 3 Part 7 **Amphetamine analogues** paragraph (d): amended, on 9 August 2011, by [section 9(3)][225] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+*   Schedule 3 Part 7 **Amphetamine analogues** paragraph (d): amended, on 9 August 2011, by [section 9(3)][233] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
 *   Schedule 3 Part 7 **Fentanyl analogues** paragraph (c): amended, on 2 September 1996, by section 8(4) of the Misuse of Drugs Amendment Act 1996 (1996 No 133).
 
 ---
@@ -3104,7 +3148,7 @@ Precursor substances
 
 [s 2(1)][3]
 
-*   Schedule 4: inserted, on 12 May 1998, by [section 12][234] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+*   Schedule 4: inserted, on 12 May 1998, by [section 12][242] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
 
 ## Part 1
 
@@ -3132,13 +3176,13 @@ Precursor substances
     
     _Safrole_.
     
-    Schedule 4 Part 1 clause 1 **Acetic anhydride**: inserted, on 22 June 2005, by [section 21(a)][235] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Schedule 4 Part 1 clause 1 **Acetic anhydride**: inserted, on 22 June 2005, by [section 21(a)][243] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Schedule 4 Part 1 clause 1 **Ephedrine**: repealed, on 8 September 2011, by [section 10][236] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 4 Part 1 clause 1 **Ephedrine**: repealed, on 8 September 2011, by [section 10][244] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Schedule 4 Part 1 clause 1 **Potassium permanganate**: inserted, on 22 June 2005, by [section 21(a)][235] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Schedule 4 Part 1 clause 1 **Potassium permanganate**: inserted, on 22 June 2005, by [section 21(a)][243] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Schedule 4 Part 1 clause 1 **Pseudoephedrine**: repealed, on 8 September 2011, by [section 10][236] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 4 Part 1 clause 1 **Pseudoephedrine**: repealed, on 8 September 2011, by [section 10][244] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
 
 *   2 The salts of the substances listed in clause 1 whenever the existence of such salts is possible.
 
@@ -3164,15 +3208,15 @@ Precursor substances
     
     _Toluene_.
     
-    Schedule 4 Part 2 clause 1 **Acetic anhydride**: repealed, on 22 June 2005, by [section 21(b)][235] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Schedule 4 Part 2 clause 1 **Acetic anhydride**: repealed, on 22 June 2005, by [section 21(b)][243] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Schedule 4 Part 2 clause 1 **Potassium permanganate**: repealed, on 22 June 2005, by [section 21(b)][235] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Schedule 4 Part 2 clause 1 **Potassium permanganate**: repealed, on 22 June 2005, by [section 21(b)][243] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 *   2 The salts of the substances listed in clause 1 (other than the salts of hydrochloric acid and of sulphuric acid) whenever the existence of such salts is possible.
 
 ## Part 3
     
-*   Schedule 4 Part 3: inserted, on 22 June 2005, by [section 20][237] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+*   Schedule 4 Part 3: inserted, on 22 June 2005, by [section 20][245] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 1 The following substances:
     
@@ -3189,7 +3233,7 @@ Amount, level, or quantity at and over which controlled drugs are presumed to be
 
 [ss 2(1A)][3], [6(1)(f)][16]
 
-*   Schedule 5: inserted, on 22 June 2005, by [section 22][238] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+*   Schedule 5: inserted, on 22 June 2005, by [section 22][246] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 *   1 The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
     
@@ -3237,25 +3281,25 @@ Amount, level, or quantity at and over which controlled drugs are presumed to be
     
     Pseudoephedrine 10 grams, whether or not contained in a substance, preparation, or mixture
     
-    Schedule 5 clause 1 Amphetamine: inserted, on 9  September 2005, by [clause 4][239] of the Misuse of Drugs (Presumption of Supply---Amphetamine) Order 2005 (SR 2005/174).
+    Schedule 5 clause 1 Amphetamine: inserted, on 9  September 2005, by [clause 4][247] of the Misuse of Drugs (Presumption of Supply---Amphetamine) Order 2005 (SR 2005/174).
     
-    Schedule 5 clause 1 Ketamine: inserted, on 1 December 2010, by [clause 3][240] of the Misuse of Drugs (Presumption of Supply---Ketamine) Order 2009 (SR 2009/256).
+    Schedule 5 clause 1 Ketamine: inserted, on 1 December 2010, by [clause 3][248] of the Misuse of Drugs (Presumption of Supply---Ketamine) Order 2009 (SR 2009/256).
     
-    Schedule 5 clause 1 BZP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 BZP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 TFMPP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 TFMPP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 pFPP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 pFPP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 MeOPP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 MeOPP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 mCPP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 mCPP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 MBZP: inserted, on 1 April 2008, by [section 5][241] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
+    Schedule 5 clause 1 MBZP: inserted, on 1 April 2008, by [section 5][249] of the Misuse of Drugs (Classification of BZP) Amendment Act 2008 (2008 No 5).
     
-    Schedule 5 clause 1 Ephedrine: inserted, on 8 September 2011, by [section 11][242] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 5 clause 1 Ephedrine: inserted, on 8 September 2011, by [section 11][250] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
-    Schedule 5 clause 1 Pseudoephedrine: inserted, on 8 September 2011, by [section 11][242] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+    Schedule 5 clause 1 Pseudoephedrine: inserted, on 8 September 2011, by [section 11][250] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
 
 *   2 Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
 
@@ -3269,7 +3313,7 @@ Commencement16 October 1978
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Misuse of Drugs Amendment Act 1978][243], and shall be read together with and deemed part of the Misuse of Drugs Act 1975 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Misuse of Drugs Amendment Act 1978][251], and shall be read together with and deemed part of the Misuse of Drugs Act 1975 (hereinafter referred to as ""the principal Act"").
 
 ## Part 2  
 Special provisions relating to detection, enforcement, and sentencing
@@ -3340,35 +3384,35 @@ Special provisions relating to detection, enforcement, and sentencing
     
     _craft_, _goods_, _package_, and _vehicle_ have the same meanings as in section 2(1) of the Customs and Excise Act 1996\.
     
-    Section 10(1) **dealing in cannabis on a substantial scale**: inserted, on 1 February 1998, by [section 3(2)][244] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
+    Section 10(1) **dealing in cannabis on a substantial scale**: inserted, on 1 February 1998, by [section 3(2)][252] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
     
-    Section 10(1) **drug dealing offence**: replaced, on 12 May 1998, by [section 13][245] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
+    Section 10(1) **drug dealing offence**: replaced, on 12 May 1998, by [section 13][253] of the Misuse of Drugs Amendment Act 1998 (1998 No 14).
     
-    Section 10(1) **emergency permit**: amended, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **emergency permit**: amended, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **facility**: inserted, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **facility**: inserted, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **intercept**: replaced, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **intercept**: replaced, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **interception device**: inserted, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **interception device**: inserted, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1)**interception warrant**: amended, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1)**interception warrant**: amended, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **interception warrant**: amended, on 1 February 1998, by [section 3(1)][244] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
+    Section 10(1) **interception warrant**: amended, on 1 February 1998, by [section 3(1)][252] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
     
-    Section 10(1) **listening device**: repealed, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **listening device**: repealed, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **organised criminal enterprise**: inserted, on 1 February 1998, by [section 3(2)][244] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
+    Section 10(1) **organised criminal enterprise**: inserted, on 1 February 1998, by [section 3(2)][252] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
     
-    Section 10(1) **prescribed cannabis offence**: inserted, on 1 February 1998, by [section 3(2)][244] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
+    Section 10(1) **prescribed cannabis offence**: inserted, on 1 February 1998, by [section 3(2)][252] of the Misuse of Drugs Amendment Act (No 2) 1997 (1997 No 96).
     
-    Section 10(1) **private communication**: replaced, on 1 October 2003, by [section 35][246] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 10(1) **private communication**: replaced, on 1 October 2003, by [section 35][254] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 10(1) **proper officer of Customs**: repealed, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 10(1) **proper officer of Customs**: repealed, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 10(3): replaced, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 10(3): replaced, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 10(3): amended, on 31 October 2003, by [section 3(2)][248] of the Misuse of Drugs Amendment Act (No 2) 2003 (2003 No 107).
+    Section 10(3): amended, on 31 October 2003, by [section 3(2)][256] of the Misuse of Drugs Amendment Act (No 2) 2003 (2003 No 107).
     
     Section 10(3) **postal article**: repealed, on 1 April 1998, by [section 62(1)][87] of the Postal Services Act 1998 (1998 No 2).
 
@@ -3378,7 +3422,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 11: amended, on 1 April 1998, by [section 62(1)][87] of the Postal Services Act 1998 (1998 No 2).
     
-    Section 11: amended, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 11: amended, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
 
 #### Special powers of Police and Customs officers
 
@@ -3400,33 +3444,33 @@ Special provisions relating to detection, enforcement, and sentencing
     
     (2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any package, goods, or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the package, goods, or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
     
-    Section 12: replaced, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 12: replaced, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 12 heading: amended, on 22 June 2005, by [section 24(1)][249] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12 heading: amended, on 22 June 2005, by [section 24(1)][257] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12(1): amended, on 22 June 2005, by [section 24(2)(a)][249] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12(1): amended, on 22 June 2005, by [section 24(2)(a)][257] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12(1): amended, on 22 June 2005, by [section 24(2)(b)][249] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12(1): amended, on 22 June 2005, by [section 24(2)(b)][257] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12(1): amended, on 22 June 2005, by [section 24(2)(c)][249] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12(1): amended, on 22 June 2005, by [section 24(2)(c)][257] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
     Section 12(1): amended, on 1 April 1998, by [section 62(1)][87] of the Postal Services Act 1998 (1998 No 2).
     
-    Section 12(1)(b): amended, on 1 October 2012, by [section 334(2)][250] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(1)(b): amended, on 1 October 2012, by [section 334(2)][258] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(1)(ba): inserted, on 1 October 2012, by [section 334(3)][250] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(1)(ba): inserted, on 1 October 2012, by [section 334(3)][258] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(1)(bb): inserted, on 1 October 2012, by [section 334(3)][250] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(1)(bb): inserted, on 1 October 2012, by [section 334(3)][258] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 12(1)(c): replaced, on 1 April 1998, by [section 62(1)][87] of the Postal Services Act 1998 (1998 No 2).
     
-    Section 12(1)(c): amended, on 1 October 2012, by [section 334(4)][250] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(1)(c): amended, on 1 October 2012, by [section 334(4)][258] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 12(2): replaced, on 1 April 1998, by [section 62(1)][87] of the Postal Services Act 1998 (1998 No 2).
     
-    Section 12(2): amended, on 1 October 2012, by [section 334(5)][250] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(2): amended, on 1 October 2012, by [section 334(5)][258] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(2): amended, on 22 June 2005, by [section 24(3)][249] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12(2): amended, on 22 June 2005, by [section 24(3)][257] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 12D International controlled delivery and liability for offences
     
@@ -3450,9 +3494,9 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (b) unless he or she is acting in bad faith, is not subject to any criminal or civil liability as a result of taking part in that international controlled delivery.
     
-    Section 12D: inserted, on 22 June 2005, by [section 25][251] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 12D: inserted, on 22 June 2005, by [section 25][259] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 12D(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 12D(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 #### Internal concealment
     
@@ -3472,7 +3516,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13A: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13B Duties of officer in ordering detention
     
@@ -3488,9 +3532,9 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13B: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13B: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13B: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13B(c): amended, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 13B(c): amended, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 13C Internal examination of detained person
     
@@ -3516,13 +3560,13 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13C: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13C(1)(a): amended, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 13C(1)(a): amended, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 13C(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13C(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13C(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13C(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13C(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13C(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13D Certificate by person conducting examination
     
@@ -3586,7 +3630,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13E: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13E(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13E(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13EA Searches associated with detention warrant
     
@@ -3612,17 +3656,17 @@ Special provisions relating to detection, enforcement, and sentencing
     
     (6) If a person who is undergoing a search under subsection (1) makes a request for an internal examination under section 13C(4), the constable or the Customs officer conducting the search may continue with and complete the search before arranging for the internal examination to take place.
     
-    Section 13EA: inserted, on 22 June 2005, by [section 26][252] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13EA: inserted, on 22 June 2005, by [section 26][260] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13EA(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EA(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13EA(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EA(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13EA(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EA(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13EA(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EA(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13EA(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EA(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13EB Definition of rub-down search
     
@@ -3660,7 +3704,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (c) any head covering, gloves, or footwear (including socks or stockings) removed for the purposes of the search.
     
-    Section 13EB: inserted, on 22 June 2005, by [section 26][252] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13EB: inserted, on 22 June 2005, by [section 26][260] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 13EC Definition of strip search
     
@@ -3688,7 +3732,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (b) any item carried by, or in the possession of, the person.
     
-    Section 13EC: inserted, on 22 June 2005, by [section 26][252] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13EC: inserted, on 22 June 2005, by [section 26][260] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 13ED Restrictions on searches associated with detention warrant
     
@@ -3700,9 +3744,9 @@ Special provisions relating to detection, enforcement, and sentencing
     
     (4) A strip search of a person must not be carried out in view of any other person who is detained or being searched.
     
-    Section 13ED: inserted, on 22 June 2005, by [section 26][252] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13ED: inserted, on 22 June 2005, by [section 26][260] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13ED(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13ED(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13EE Reporting search associated with detention warrant
     
@@ -3712,11 +3756,11 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (b) in the case of a Customs officer, the Chief Executive of the New Zealand Customs Service.
     
-    Section 13EE: inserted, on 22 June 2005, by [section 26][252] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13EE: inserted, on 22 June 2005, by [section 26][260] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13EE: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EE: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13EE(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13EE(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13F On grant of warrant, Judge to appoint barrister or solicitor and medical practitioner
     
@@ -3772,7 +3816,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13G: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13G(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13G(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13H Expiry of detention
     
@@ -3790,7 +3834,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13H: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13H(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13H(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 ##### 13I Renewal of warrants
     
@@ -3844,11 +3888,11 @@ Special provisions relating to detection, enforcement, and sentencing
     
     Section 13I: inserted, on 1 October 1985, by section 2 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
     
-    Section 13I(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13I(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13I(2)(ca): inserted, on 22 June 2005, by [section 27(1)][253] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13I(2)(ca): inserted, on 22 June 2005, by [section 27(1)][261] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13I(5): amended, on 22 June 2005, by [section 27(2)][253] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13I(5): amended, on 22 June 2005, by [section 27(2)][261] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 13J Powers of officers of Customs
     
@@ -3910,21 +3954,21 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (f) the number of rub-down searches and strip searches undertaken by constables or Customs officers under section 13EA.
     
-    Section 13M: replaced, on 1 October 1996, by [section 289(1)][247] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 13M: replaced, on 1 October 1996, by [section 289(1)][255] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 13M: amended, on 1 October 2008, by [section 130(1)][109] of the Policing Act 2008 (2008 No 72).
+    Section 13M: amended, on 1 October 2008, by [section 130(1)][110] of the Policing Act 2008 (2008 No 72).
     
-    Section 13M(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13M(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13M(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13M(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13M(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13M(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13M(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13M(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
     
-    Section 13M(f): inserted, on 22 June 2005, by [section 28][254] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 13M(f): inserted, on 22 June 2005, by [section 28][262] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 13M(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
+    Section 13M(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
 
 #### Imposition of fines
 
@@ -3956,7 +4000,7 @@ Special provisions relating to detection, enforcement, and sentencing
     
     (2) The powers conferred by sections 38 and 39(1) shall not be exercised by any District Court so as to impose a fine greater than the maximum prescribed by section 6(3) of the principal Act.
     
-    Section 40(2): amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 40(2): amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 41 Inability of offender to explain source of money or assets may be evidence
     
@@ -3982,21 +4026,21 @@ Special provisions relating to detection, enforcement, and sentencing
     
     *   (b) includes any Deputy Registrar.
     
-    Section 43: replaced, on 13 February 2012, by [section 4][255] of the Misuse of Drugs Amendment Act 1978 Amendment Act 2011 (2011 No 41).
+    Section 43: replaced, on 13 February 2012, by [section 4][263] of the Misuse of Drugs Amendment Act 1978 Amendment Act 2011 (2011 No 41).
     
-    Section 43(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Fine imposed in District Court may be enforced in High Court
     
 *   Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
     
-    Section 45 heading: amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45 heading: amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45 heading: amended, on 1 April 1980, pursuant to [section 12][256] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45 heading: amended, on 1 April 1980, pursuant to [section 12][264] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45: amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45: amended, on 1 April 1980, pursuant to [section 18(2)][126] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45: amended, on 1 April 1980, pursuant to [section 12][256] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45: amended, on 1 April 1980, pursuant to [section 12][264] of the Judicature Amendment Act 1979 (1979 No 124).
 
 #### Administration of Part
 
@@ -4004,14 +4048,14 @@ Special provisions relating to detection, enforcement, and sentencing
     
 *   This Part shall be administered by the Ministry of Justice.
     
-    Section 48 heading: amended, on 1 October 1995, by [section 10(3)][257] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 48 heading: amended, on 1 October 1995, by [section 10(3)][265] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 48: amended, on 1 October 1995, by [section 10(3)][257] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 48: amended, on 1 October 1995, by [section 10(3)][265] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ## Schedule 2  
 Statement of rights
 
-[s 13B(b)][258]
+[s 13B(b)][266]
 
 *   Schedule 2: inserted, on 1 October 1985, by section 4 of the Misuse of Drugs Amendment Act 1985 (1985 No 130).
 
@@ -4073,8 +4117,8 @@ You will not be entitled to appear in court while you are in detention. However,
 
 This is only a brief summary of your rights. If there is anything you do not understand, talk to the court lawyer or your own lawyer.
     
-*   Schedule 2: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][156] of the Policing Act 2008 (2008 No 72).
-*   Schedule 2: amended, on 22 June 2005, by [section 29][259] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+*   Schedule 2: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][158] of the Policing Act 2008 (2008 No 72).
+*   Schedule 2: amended, on 22 June 2005, by [section 29][267] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ---
 
@@ -4086,7 +4130,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Misuse of Drugs Amendment Act 1992][260], and shall be read together with and deemed part of the Misuse of Drugs Act 1975 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Misuse of Drugs Amendment Act 1992][268], and shall be read together with and deemed part of the Misuse of Drugs Act 1975 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 July 1992\.
 
@@ -4154,133 +4198,135 @@ Commencementsee section 1(2)
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][261] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][262] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][269] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][270] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][263] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][264] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][271] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][272] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][88]
+*   Medicines Amendment Act 2013 (2013 No 141): [sections 41--47][91]
     
-    [Misuse of Drugs Amendment Act 2013][265] (2013 No 31)
+    Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][88]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][101]
+    [Misuse of Drugs Amendment Act 2013][273] (2013 No 31)
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 332][155], [333][208]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][102]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][169]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 332][157], [333][215]
     
-    Misuse of Drugs (Classification of Tapentadol) Order 2011 (SR 2011/247): [clause 3][219]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][174]
     
-    [Misuse of Drugs Amendment Act (No 2) 2011][266] (2011 No 54)
+    Misuse of Drugs (Classification of Tapentadol) Order 2011 (SR 2011/247): [clause 3][227]
     
-    [Misuse of Drugs Amendment Act 2011][267] (2011 No 40)
+    [Misuse of Drugs Amendment Act (No 2) 2011][274] (2011 No 54)
     
-    [Misuse of Drugs (Presumption of Supply---Ketamine) Order 2009][268] (SR 2009/256)
+    [Misuse of Drugs Amendment Act 2011][275] (2011 No 40)
     
-    [Misuse of Drugs (Classification of Ketamine) Order 2009][269] (SR 2009/255)
+    [Misuse of Drugs (Presumption of Supply---Ketamine) Order 2009][276] (SR 2009/256)
     
-    [Misuse of Drugs Amendment Act 2010][270] (2010 No 72)
+    [Misuse of Drugs (Classification of Ketamine) Order 2009][277] (SR 2009/255)
     
-    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][151]
+    [Misuse of Drugs Amendment Act 2010][278] (2010 No 72)
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 212][150]
+    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][153]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(i), (ii), (iv), (b)][156], [130(1)][109]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 212][152]
     
-    [Misuse of Drugs Amendment Act 2008][271] (2008 No 13)
+    Policing Act 2008 (2008 No 72): [sections 116(a)(i), (ii), (iv), (b)][158], [130(1)][110]
     
-    [Misuse of Drugs (Classification of BZP) Amendment Act 2008][272] (2008 No 5)
+    [Misuse of Drugs Amendment Act 2008][279] (2008 No 13)
     
-    Veterinarians Act 2005 (2005 No 126): [section 105][93]
+    [Misuse of Drugs (Classification of BZP) Amendment Act 2008][280] (2008 No 5)
     
-    [Misuse of Drugs (Changes to Controlled Drugs) Order 2005][273] (SR 2005/175)
+    Veterinarians Act 2005 (2005 No 126): [section 105][94]
     
-    [Misuse of Drugs (Presumption of Supply---Amphetamine) Order 2005][274] (SR 2005/174)
+    [Misuse of Drugs (Changes to Controlled Drugs) Order 2005][281] (SR 2005/175)
     
-    [Misuse of Drugs Amendment Act 2005][275] (2005 No 81)
+    [Misuse of Drugs (Presumption of Supply---Amphetamine) Order 2005][282] (SR 2005/174)
     
-    Corrections Act 2004 (2004 No 50): [section 206][124]
+    [Misuse of Drugs Amendment Act 2005][283] (2005 No 81)
     
-    [Misuse of Drugs Amendment Act (No 2) 2003][276] (2003 No 107)
+    Corrections Act 2004 (2004 No 50): [section 206][125]
     
-    [Misuse of Drugs Amendment Act 2003][277] (2003 No 86)
+    [Misuse of Drugs Amendment Act (No 2) 2003][284] (2003 No 107)
+    
+    [Misuse of Drugs Amendment Act 2003][285] (2003 No 86)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][89]
     
-    Crimes Amendment Act 2003 (2003 No 39): [sections 34][140], [35][246]
+    Crimes Amendment Act 2003 (2003 No 39): [sections 34][142], [35][254]
     
-    [Misuse of Drugs (Changes to Controlled Drugs) Order 2003][278] (SR 2003/47)
+    [Misuse of Drugs (Changes to Controlled Drugs) Order 2003][286] (SR 2003/47)
     
-    Sentencing Act 2002 (2002 No 9): [section 186][121]
+    Sentencing Act 2002 (2002 No 9): [section 186][122]
     
-    [Misuse of Drugs (Classification of Fantasy) Order 2001][279] (SR 2001/383)
+    [Misuse of Drugs (Classification of Fantasy) Order 2001][287] (SR 2001/383)
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][158]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][160]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][129]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][131]
     
-    [Misuse of Drugs Amendment Act 2000][280] (2000 No 47)
+    [Misuse of Drugs Amendment Act 2000][288] (2000 No 47)
     
     Medicines Amendment Act 1999 (1999 No 117): [section 16][90]
     
-    Extradition Act 1999 (1999 No 55): [section 111][134]
+    Extradition Act 1999 (1999 No 55): [section 111][136]
     
-    [Misuse of Drugs Order 1998][281] (SR 1998/351)
+    [Misuse of Drugs Order 1998][289] (SR 1998/351)
     
-    [Misuse of Drugs Amendment Act 1998][282] (1998 No 14)
+    [Misuse of Drugs Amendment Act 1998][290] (1998 No 14)
     
     Postal Services Act 1998 (1998 No 2): [section 62(1)][87]
     
-    [Misuse of Drugs Amendment Act (No 2) 1997][283] (1997 No 96)
+    [Misuse of Drugs Amendment Act (No 2) 1997][291] (1997 No 96)
     
-    [Misuse of Drugs Amendment Act 1997][284] (1997 No 57)
+    [Misuse of Drugs Amendment Act 1997][292] (1997 No 57)
     
     Misuse of Drugs Amendment Act 1996 (1996 No 133)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][210]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][218]
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][247]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][255]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][257]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][265]
     
-    Health Reforms (Transfers) Act 1993 (1993 No 23): [section 32][128]
+    Health Reforms (Transfers) Act 1993 (1993 No 23): [section 32][130]
     
-    [Misuse of Drugs Amendment Act 1992][260] (1992 No 49)
+    [Misuse of Drugs Amendment Act 1992][268] (1992 No 49)
     
     Nurses Amendment Act 1990 (1990 No 107): sections 14--18
     
     Misuse of Drugs Amendment Act (No 2) 1987 (1987 No 193)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][157]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][159]
     
     Misuse of Drugs Amendment Act 1986 (1986 No 102)
     
     Misuse of Drugs Amendment Act 1985 (1985 No 130)
     
-    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][120]
+    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][121]
     
-    [Misuse of Drugs Order (No 2) 1984][285] (SR 1984/315)
+    [Misuse of Drugs Order (No 2) 1984][293] (SR 1984/315)
     
-    [Misuse of Drugs Order 1984][286] (SR 1984/101)
+    [Misuse of Drugs Order 1984][294] (SR 1984/101)
     
     Misuse of Drugs Amendment Act 1982 (1982 No 151)
     
-    [Misuse of Drugs Order 1982][287] (SR 1982/259)
+    [Misuse of Drugs Order 1982][295] (SR 1982/259)
     
-    [Misuse of Drugs Order 1981][288] (SR 1981/114)
+    [Misuse of Drugs Order 1981][296] (SR 1981/114)
     
     Misuse of Drugs Amendment Act 1980 (1980 No 64)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][125]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][126]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][256]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][264]
     
-    [Misuse of Drugs Amendment Act 1978][243] (1978 No 65)
+    [Misuse of Drugs Amendment Act 1978][251] (1978 No 65)
     
-    [Misuse of Drugs Order 1978][289] (SR 1978/143)
+    [Misuse of Drugs Order 1978][297] (SR 1978/143)
     
     [Misuse of Drugs Act Commencement Order 1977][73] (SR 1977/36)
 
@@ -4377,202 +4423,210 @@ Commencementsee section 1(2)
 [88]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM5043149
 [89]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM205009
 [90]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM43992
-[91]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425317
-[92]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356230
-[93]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM364675
-[94]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73862
-[95]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436587
-[96]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM1269151
-[97]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2997643
-[98]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998573
-[99]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73864
-[100]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356231
-[101]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998633
-[102]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356232
-[103]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356233
-[104]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264952
-[105]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM1269153
-[106]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM129505
-[107]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73869
-[108]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356234
-[109]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1102383
-[110]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM31458
-[111]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266209
-[112]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73871
-[113]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436765
-[114]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM135347
-[115]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136008
-[116]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136442
-[117]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23077
-[118]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3360714
-[119]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23079
-[120]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM79129
-[121]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM137267
-[122]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356235
-[123]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM294848
-[124]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM297136
-[125]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM35085
-[126]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM80050
-[127]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218101
-[128]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM295182
-[129]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM81644
-[130]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73874
-[131]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM327381
-[132]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356236
-[133]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425320
-[134]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM27330
-[135]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330408
-[136]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM329897
-[137]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330201
-[138]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330205
-[139]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330275
-[140]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM200436
-[141]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM5189113
-[142]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23083
-[143]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425321
-[144]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356237
-[145]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330289
-[146]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=BILL-SCDRAFT-7242
-[147]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2140700
-[148]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM373803
-[149]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356240
-[150]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1451464
-[151]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2141072
-[152]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM331435
-[153]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356241
-[154]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM436407
-[155]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137133
-[156]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1102349
-[157]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM101353
-[158]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM120905
-[159]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM380084
-[160]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM410756
-[161]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827712
-[162]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356254
-[163]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218102
-[164]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3360067
-[165]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425322
-[166]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425323
-[167]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356255
-[168]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23084
-[169]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3359902
-[170]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266211
-[171]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3042905
-[172]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425324
-[173]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218103
-[174]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1209307
-[175]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136850
-[176]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136859
-[177]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136860
-[178]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM135341
-[179]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136861
-[180]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136866
-[181]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136867
-[182]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2602799
-[183]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136869
-[184]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640204
-[185]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2603010
-[186]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136872
-[187]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557307
-[188]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23087
-[189]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM25627
-[190]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM26205
-[191]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM27321
-[192]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425327
-[193]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356256
-[194]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356257
-[195]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378946
-[196]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378948
-[197]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378949
-[198]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378953
-[199]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378972
-[200]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379211
-[201]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379218
-[202]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379222
-[203]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379235
-[204]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379246
-[205]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379912
-[206]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379920
-[207]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356258
-[208]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137135
-[209]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218106
-[210]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM385160
-[211]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM377700
-[212]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186324
-[213]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75226
-[214]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827713
-[215]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335121
-[216]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186325
-[217]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM98539
-[218]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827714
-[219]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3832914
-[220]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75229
-[221]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152229
-[222]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436760
-[223]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73876
-[224]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM100009
-[225]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827719
-[226]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM95633
-[227]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2267873
-[228]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264820
-[229]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186326
-[230]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM83706
-[231]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM63134
-[232]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436740
-[233]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436749
-[234]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425329
-[235]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356261
-[236]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827720
-[237]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356260
-[238]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356262
-[239]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335109
-[240]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2270016
-[241]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152230
-[242]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827721
-[243]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23069
-[244]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM418044
-[245]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425330
-[246]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM200438
-[247]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM380185
-[248]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM219987
-[249]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356265
-[250]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137137
-[251]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356266
-[252]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356272
-[253]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356280
-[254]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356281
-[255]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557703
-[256]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM35049
-[257]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM367235
-[258]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM23474
-[259]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356282
-[260]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266202
-[261]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998516
-[262]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998515
-[263]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998532
-[264]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[265]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM5189106
-[266]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827700
-[267]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557308
-[268]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2270010
-[269]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2267867
-[270]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3042900
-[271]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1209300
-[272]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152215
-[273]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335113
-[274]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335101
-[275]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356223
-[276]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM219981
-[277]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM217695
-[278]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186316
-[279]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM98533
-[280]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73856
-[281]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264815
-[282]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425311
-[283]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM418036
-[284]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM410750
-[285]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM100004
-[286]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM95628
-[287]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM83701
-[288]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75221
-[289]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM63129
+[91]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640409
+[92]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425317
+[93]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356230
+[94]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM364675
+[95]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73862
+[96]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436587
+[97]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM1269151
+[98]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2997643
+[99]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998573
+[100]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73864
+[101]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356231
+[102]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998633
+[103]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356232
+[104]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356233
+[105]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264952
+[106]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM1269153
+[107]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM129505
+[108]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73869
+[109]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356234
+[110]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1102383
+[111]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM31458
+[112]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266209
+[113]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73871
+[114]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436765
+[115]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM135347
+[116]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136008
+[117]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136442
+[118]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23077
+[119]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3360714
+[120]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23079
+[121]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM79129
+[122]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM137267
+[123]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356235
+[124]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM294848
+[125]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM297136
+[126]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM35085
+[127]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM80050
+[128]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640415
+[129]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218101
+[130]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM295182
+[131]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM81644
+[132]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73874
+[133]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM327381
+[134]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356236
+[135]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425320
+[136]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM27330
+[137]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330408
+[138]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM329897
+[139]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330201
+[140]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330205
+[141]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330275
+[142]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM200436
+[143]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM5189113
+[144]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23083
+[145]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425321
+[146]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356237
+[147]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM330289
+[148]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=BILL-SCDRAFT-7242
+[149]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2140700
+[150]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM373803
+[151]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356240
+[152]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1451464
+[153]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2141072
+[154]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM331435
+[155]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356241
+[156]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM436407
+[157]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137133
+[158]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1102349
+[159]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM101353
+[160]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM120905
+[161]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM380084
+[162]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640416
+[163]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM410756
+[164]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827712
+[165]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640417
+[166]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356254
+[167]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640418
+[168]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218102
+[169]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3360067
+[170]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425322
+[171]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425323
+[172]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356255
+[173]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23084
+[174]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3359902
+[175]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266211
+[176]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3042905
+[177]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425324
+[178]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218103
+[179]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1209307
+[180]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136850
+[181]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136859
+[182]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136860
+[183]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM135341
+[184]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136861
+[185]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136866
+[186]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136867
+[187]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2602799
+[188]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136869
+[189]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640204
+[190]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2603010
+[191]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM136872
+[192]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557307
+[193]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM203321
+[194]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4096212
+[195]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23087
+[196]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM25627
+[197]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM26205
+[198]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM27321
+[199]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425327
+[200]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356256
+[201]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356257
+[202]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378946
+[203]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378948
+[204]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378949
+[205]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378953
+[206]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM378972
+[207]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379211
+[208]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379218
+[209]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379222
+[210]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379235
+[211]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379246
+[212]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379912
+[213]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM379920
+[214]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356258
+[215]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137135
+[216]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM218106
+[217]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM4640419
+[218]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM385160
+[219]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM377700
+[220]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186324
+[221]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75226
+[222]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827713
+[223]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335121
+[224]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186325
+[225]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM98539
+[226]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827714
+[227]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3832914
+[228]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75229
+[229]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152229
+[230]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436760
+[231]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73876
+[232]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM100009
+[233]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827719
+[234]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM95633
+[235]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2267873
+[236]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264820
+[237]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186326
+[238]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM83706
+[239]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM63134
+[240]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436740
+[241]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436749
+[242]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425329
+[243]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356261
+[244]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827720
+[245]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356260
+[246]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356262
+[247]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335109
+[248]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2270016
+[249]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152230
+[250]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827721
+[251]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM23069
+[252]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM418044
+[253]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425330
+[254]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM200438
+[255]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM380185
+[256]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM219987
+[257]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356265
+[258]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2137137
+[259]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356266
+[260]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356272
+[261]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356280
+[262]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356281
+[263]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557703
+[264]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM35049
+[265]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM367235
+[266]: http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM23474
+[267]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356282
+[268]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM266202
+[269]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998516
+[270]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998515
+[271]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2998532
+[272]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[273]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM5189106
+[274]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2827700
+[275]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3557308
+[276]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2270010
+[277]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM2267867
+[278]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM3042900
+[279]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1209300
+[280]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM1152215
+[281]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335113
+[282]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM335101
+[283]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM356223
+[284]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM219981
+[285]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM217695
+[286]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM186316
+[287]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM98533
+[288]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM73856
+[289]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM264815
+[290]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM425311
+[291]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM418036
+[292]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM410750
+[293]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM100004
+[294]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM95628
+[295]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM83701
+[296]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM75221
+[297]: http://www.legislation.govt.nz/act/public/1975/0116/latest/link.aspx?id=DLM63129
