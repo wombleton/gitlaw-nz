@@ -1,5 +1,5 @@
 Reprint  
-as at 14 April 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15891,7 +15891,7 @@ Applicable asset thresholds
     
 *   (1) This clause specifies the applicable asset thresholds that apply annually for the year 1 July 2012 to 30 June 2013 and for all later years beginning on 1 July.
     
-    (2) Threshold A is $215,132 and applies to every resident assessed as requiring care---
+    (2) Threshold A is $218,423 and applies to every resident assessed as requiring care---
         
     *   (a) who has no spouse or partner; or
     
@@ -15899,7 +15899,7 @@ Applicable asset thresholds
     
     *   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under [clause 2][1338], to have Threshold A apply to him or her rather than Threshold B.
     
-    (3) Threshold B is $117,811 and applies to every resident assessed as requiring care---
+    (3) Threshold B is $119,614 and applies to every resident assessed as requiring care---
         
     *   (a) whose spouse or partner is not a resident assessed as requiring care; and
     
@@ -15907,9 +15907,9 @@ Applicable asset thresholds
     
     Schedule 27 Part 1 clause 1: replaced, on 1 July 2012 (applying in respect of residents assessed as requiring care before, on, or after that date), by [section 7][1339] of the Social Security (Long-term Residential Care---Budget Measures) Amendment Act 2012 (2012 No 40).
     
-    Schedule 27 Part 1 clause 1(2): amended, on 1 July 2013, by [regulation 3(1)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 1 clause 1(2): amended, on 1 July 2014, by [regulation 3(1)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014 (LI 2014/154).
     
-    Schedule 27 Part 1 clause 1(3): amended, on 1 July 2013, by [regulation 3(2)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 1 clause 1(3): amended, on 1 July 2014, by [regulation 3(2)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014 (LI 2014/154).
 
 ##### 2 Certain residents may elect which threshold to apply
     
@@ -16015,11 +16015,11 @@ Means assessment relating to income
     
     _income-from-assets exemption_ means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under [section 155][529]):
         
-    *   (a) $951, if the person is single; or
+    *   (a) $963, if the person is single; or
     
-    *   (b) $1,902, if the person's spouse or partner is a resident assessed as requiring care; or
+    *   (b) $1,925, if the person's spouse or partner is a resident assessed as requiring care; or
     
-    *   (c) $2,852 if the person's spouse or partner is not a resident assessed as requiring care.
+    *   (c) $2,887 if the person's spouse or partner is not a resident assessed as requiring care.
     
     Schedule 27 Part 3 clause 5 **income** paragraph (a): amended, on 22 November 2006, by [section 20][1343] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
@@ -16033,11 +16033,11 @@ Means assessment relating to income
     
     Schedule 27 Part 3 clause 5 **income-from-assets exemption**: replaced, on 22 November 2006, by [section 19(1)][1344] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (a): amended, on 1 July 2013, by [regulation 3(3)(a)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (a): amended, on 1 July 2014, by [regulation 3(3)(a)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014 (LI 2014/154).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (b): amended, on 1 July 2013, by [regulation 3(3)(b)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (b): amended, on 1 July 2014, by [regulation 3(3)(b)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014 (LI 2014/154).
     
-    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (c): amended, on 1 July 2013, by [regulation 3(3)(c)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013 (SR 2013/189).
+    Schedule 27 Part 3 clause 5 **income-from-assets exemption** paragraph (c): amended, on 1 July 2014, by [regulation 3(3)(c)][1340] of the Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014 (LI 2014/154).
     
     Schedule 27 Part 3 clause 5 **personal allowance**: repealed, on 22 November 2006, by [section 20][1343] of the Social Security (Long-term Residential Care) Amendment Act 2006 (2006 No 67).
 
@@ -18102,7 +18102,9 @@ Consequential provisions taking effect on 15 October 2012
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39): [clauses 3][890], [4][1305], [6(1)][1308]
+*   [Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2014][1386] (LI 2014/154)
+    
+    Social Security (Rates of Benefits and Allowances) Order 2014 (LI 2014/39): [clauses 3][890], [4][1305], [6(1)][1308]
     
     Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [sections 4(1)][1024], [15][647], [29][1195]
     
@@ -18111,8 +18113,6 @@ Consequential provisions taking effect on 15 October 2012
     Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97): [section 25][686]
     
     Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 161][971]
-    
-    [Social Security (Long-term Residential Care) Amendment Regulations (No 2) 2013][1386] (SR 2013/189)
     
     Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][935]
     
@@ -19724,7 +19724,7 @@ Consequential provisions taking effect on 15 October 2012
 [1337]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM323305
 [1338]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367452
 [1339]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481718
-[1340]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192106
+[1340]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM6113119
 [1341]: http://www.legislation.govt.nz/act/public/1964/0136/latest/whole.html#DLM367450
 [1342]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM379491
 [1343]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM392778
@@ -19770,7 +19770,7 @@ Consequential provisions taking effect on 15 October 2012
 [1383]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998515
 [1384]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM2998532
 [1385]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1386]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM5192100
+[1386]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM6113113
 [1387]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4991505
 [1388]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4767600
 [1389]: http://www.legislation.govt.nz/act/public/1964/0136/latest/link.aspx?id=DLM4481701
