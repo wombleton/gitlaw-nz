@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2678,7 +2678,7 @@ Payment for parental leave
     
     Section 71M: inserted, on 1 July 2002, by [section 4(2)][244] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 71M(1)(a): $475.16 is the adjusted amount for the purposes of section 71M(1)(a), on 1 July 2012, by [regulation 3][270] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104).
+    Section 71M(1)(a): $504.10 is the adjusted amount for the purposes of section 71M(1)(a), on 1 July 2014, by [regulation 3][270] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2014 (LI 2014/174).
     
     Section 71M(1)(a): amended, on 1 July 2006, by [section 36(1)][271] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
@@ -2688,9 +2688,9 @@ Payment for parental leave
     
     Section 71M(1A): inserted, on 1 July 2006, by [section 36(3)][271] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 71M(1A)(a): $475.16 is the adjusted amount for the purposes of section 71M(1)(a), on 1 July 2012, by [regulation 3][270] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104).
+    Section 71M(1A)(a): $504.10 is the adjusted amount for the purposes of section 71M(1A)(a), on 1 July 2014, by [regulation 3][270] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2014 (LI 2014/174).
     
-    Section 71M(1A)(b)(ii): $135.00 is the minimum amount of parental leave payment for a self-employed person for the purposes of section 71M(1A)(b)(ii), on 1 July 2012, by [regulation 4][272] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104).
+    Section 71M(1A)(b)(ii): $142.50 is the minimum amount of parental leave payment for a self-employed person for the purposes of section 71M(1A)(b)(ii), on 1 July 2014, by [regulation 4][272] of the Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2014 (LI 2014/174).
     
     Section 71M(1B): inserted, on 1 July 2006, by [section 36(3)][271] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
@@ -3474,15 +3474,15 @@ Preliminary provisions
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Parental Leave and Employment Protection Amendment Act 2014][312] (2014 No 27)
+*   Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2014 (LI 2014/174): [regulations 3][270], [4][272]
+    
+    [Parental Leave and Employment Protection Amendment Act 2014][312] (2014 No 27)
     
     [Parental Leave and Employment Protection Amendment Act 2013][313] (2013 No 126)
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][175]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][191]
-    
-    Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104): [regulations 3][270], [4][272]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][286]
     
@@ -3786,9 +3786,9 @@ Preliminary provisions
 [267]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373297
 [268]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM317215
 [269]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373298
-[270]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM4478706
+[270]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM6111917
 [271]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373500
-[272]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM4478707
+[272]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM6111918
 [273]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373501
 [274]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373502
 [275]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM74092
