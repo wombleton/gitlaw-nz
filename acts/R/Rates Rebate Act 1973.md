@@ -1,5 +1,5 @@
 Reprint  
-as at 15 July 2013
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -163,7 +163,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 2(1) **dependant** paragraph (b): amended, on 1 July 2006, by [section 5(3)][29] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2(1) **dependant** paragraph (b): amended, on 1 October 1998, by [section 57][31] of the Social Security Amendment Act 1998 (1998 No 19). 
+    Section 2(1) **dependant** paragraph (b): amended, on 1 October 1998, by [section 57][31] of the Social Security Amendment Act 1998 (1998 No 19).
     
     Section 2(1) **income**: replaced, on 1 July 1994, by section [2(1)][30] of the Rates Rebate Amendment Act 1994 (1994 No 58).
     
@@ -233,11 +233,11 @@ An Act to make provision for the granting of rebates of rates payable in respect
             
         *   (i) two-thirds of the amount by which those rates exceed $160, reduced by
         
-        *   (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $23,870, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+        *   (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $24,250, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
         
         
     
-    *   (b) $595,---
+    *   (b) $605,---
     
     whichever amount is the less.
     
@@ -251,7 +251,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 3(1)(a)(i): amended, on 6 May 1982, by [clause 2][45] of the Rates Rebate Order 1982 (SR 1982/100).
     
-    Section 3(1)(a)(ii): amended, on 1 July 2013 (but a ratepayer's entitlement to a rebate for a rating year ending on or before this date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(1)][46] of the Rates Rebate (Specified Amounts) Order 2013 (SR 2013/146).
+    Section 3(1)(a)(ii): amended, on 1 July 2014 (but a ratepayer's entitlement to a rebate for a rating year ending before that date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(1)][46] of the Rates Rebate (Specified Amounts) Order 2014 (LI 2014/170).
     
     Section 3(1)(a)(ii): amended, on 1 July 2006, by [clause 3(b)][47] of the Rates Rebate Order 2006 (SR 2006/60).
     
@@ -259,7 +259,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 3(1)(a)(ii): amended, on 1 July 1994, by [section 3][48] of the Rates Rebate Amendment Act 1994 (1994 No 58).
     
-    Section 3(1)(b): amended, on 1 July 2013 (but a ratepayer's entitlement to a rebate for a rating year ending on or before this date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(2)][46] of the Rates Rebate (Specified Amounts) Order 2013 (SR 2013/146).
+    Section 3(1)(b): amended, on 1 July 2014 (but a ratepayer's entitlement to a rebate for a rating year ending before that date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(2)][46] of the Rates Rebate (Specified Amounts) Order 2014 (LI 2014/170).
     
     Section 3(1A): replaced, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
 
@@ -525,88 +525,45 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 14(3): replaced, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Rates Rebate Act 1973\. The reprint incorporates all the amendments to the Act as at 15 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
+*   This is a reprint of the Rates Rebate Act 1973 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][59] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][60] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][61] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][62] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Rates Rebate (Specified Amounts) Order 2013][64] (SR 2013/146)
+*   [Rates Rebate (Specified Amounts) Order 2014][63] (LI 2014/170)
     
     Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 86][37], [97][38]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][58]
     
-    [Rates Rebate Amendment Act 2010][65] (2010 No 81)
+    [Rates Rebate Amendment Act 2010][64] (2010 No 81)
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 299][66]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 299][65]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][67]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][66]
     
-    [Rates Rebate Amendment Act 2006][68] (2006 No 29)
+    [Rates Rebate Amendment Act 2006][67] (2006 No 29)
     
     Rates Rebate Order 2006 (SR 2006/60)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 5][29]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][69]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][68]
     
     War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][39]
     
@@ -620,19 +577,19 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
-    [Rates Rebate Amendment Act 1994][70] (1994 No 58)
+    [Rates Rebate Amendment Act 1994][69] (1994 No 58)
     
     Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27): section 40(2)
     
-    Public Finance Act 1989 (1989 No 44): [section 87][71]
+    Public Finance Act 1989 (1989 No 44): [section 87][70]
     
     Rating Powers Act 1988 (1988 No 97): section 208(1)
     
     Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][53]
     
-    [Rates Rebate Order 1982][72] (SR 1982/100)
+    [Rates Rebate Order 1982][71] (SR 1982/100)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][73]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][72]
     
     Rates Rebate Amendment Act 1979 (1979 No 106)
     
@@ -644,7 +601,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1973/0005/latest/whole.html#DLM409298
 [2]: http://www.legislation.govt.nz/act/public/1973/0005/latest/whole.html#DLM409600
 [3]: http://www.legislation.govt.nz/act/public/1973/0005/latest/whole.html#DLM409601
@@ -690,7 +647,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
 [43]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374374
 [44]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21213
 [45]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81542
-[46]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM5173512
+[46]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM6107806
 [47]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM370957
 [48]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332318
 [49]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21214
@@ -703,18 +660,17 @@ An Act to make provision for the granting of rebates of rates payable in respect
 [56]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332320
 [57]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3360067
 [58]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3360714
-[59]: http://www.pco.parliament.govt.nz/reprints/
-[60]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195439
-[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[62]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195468
-[63]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195470
-[64]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM5173506
-[65]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3043800
-[66]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1172422
-[67]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1512303
-[68]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374367
-[69]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM245344
-[70]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332311
-[71]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM163176
-[72]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81537
-[73]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM35085
+[59]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM2998516
+[60]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM2998515
+[61]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM2998532
+[62]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[63]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM6107800
+[64]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3043800
+[65]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1172422
+[66]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1512303
+[67]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374367
+[68]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM245344
+[69]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332311
+[70]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM163176
+[71]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81537
+[72]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM35085
