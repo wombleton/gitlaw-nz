@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2014
+as at 1 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -796,9 +796,9 @@ Preliminary provisions
         
         
     
-    _approved dispute resolution scheme_ has the same meaning as in [section 4][331] of the FSP Act, but also includes the reserve scheme within the meaning of [section 71][332] of the FSP Act
+    _approved dispute resolution scheme_ has the same meaning as in [section 4][331] of the FSP Act
     
-    _approved rating agency_ means a rating agency nominated or approved under the [Non-bank Deposit Takers Act 2013][333] or [section 62][334] of the Insurance (Prudential Supervision) Act 2010
+    _approved rating agency_ means a rating agency nominated or approved under the [Non-bank Deposit Takers Act 2013][332] or [section 62][333] of the Insurance (Prudential Supervision) Act 2010
     
     _associated entity_, in relation to a QFE, means an entity that, under an approval given under [section 67(4)][104] or [71][110], is an associated entity of that QFE
     
@@ -810,7 +810,7 @@ Preliminary provisions
     
     _bank term deposit_ means a fixed term deposit product offered by a registered bank in New Zealand
     
-    _bonus bond_ means a unit in an approved unit trust within the meaning of [section 3(1)][335] of the Finance Act (No 2) 1990
+    _bonus bond_ means a unit in an approved unit trust within the meaning of [section 3(1)][334] of the Finance Act (No 2) 1990
     
     _broker_ has the meaning set out in [section 77A][129]
     
@@ -818,7 +818,7 @@ Preliminary provisions
     
     _broking service_ has the meaning set out in [section 77B][130]
     
-    _building society_ has the same meaning as in [section 2(1)][336] of the Building Societies Act 1965
+    _building society_ has the same meaning as in [section 2(1)][335] of the Building Societies Act 1965
     
     _business_ includes any profession, trade, or undertaking, whether or not carried on with the intention of making a profit
     
@@ -868,21 +868,21 @@ Preliminary provisions
     
     *   (e) a call debt security; or
     
-    *   (f) a share in a co-operative company (as defined in [section 2(1)][337] of the Co-operative Companies Act 1996); or
+    *   (f) a share in a co-operative company (as defined in [section 2(1)][336] of the Co-operative Companies Act 1996); or
     
     *   (g) a unit in a cash or term portfolio investment entity (as defined in the regulations); or
     
-    *   (h) a consumer credit contract within the meaning of the [Credit Contracts and Consumer Finance Act 2003][338]; or
+    *   (h) a consumer credit contract within the meaning of the [Credit Contracts and Consumer Finance Act 2003][337]; or
     
     *   (i) a contract of insurance (other than an investment-linked contract of insurance); or
     
-    *   (j) a life insurance policy (within the meaning of [section 2(1)][339] of the Securities Act 1978) issued before 1 January 2009; or
+    *   (j) a life insurance policy (within the meaning of [section 2(1)][338] of the Securities Act 1978) issued before 1 January 2009; or
     
     *   (k) any other product specified by the regulations; or
     
     *   (l) a renewal or variation of the terms or conditions of any existing category 2 product
     
-    _chartered accountant_ has the same meaning as in [section 2][340] of the New Zealand Institute of Chartered Accountants Act 1996
+    _chartered accountant_ has the same meaning as in [section 2][339] of the New Zealand Institute of Chartered Accountants Act 1996
     
     _class of financial products_ means a group of financial products with similar characteristics
     
@@ -896,7 +896,7 @@ Preliminary provisions
     
     _code_ means the code of professional conduct brought into force under [section 94][179]
     
-    _college of education_ has the same meaning as in [section 159][341] of the Education Act 1989
+    _college of education_ has the same meaning as in [section 159][340] of the Education Act 1989
     
     _conduct obligation_ means,---
         
@@ -906,13 +906,13 @@ Preliminary provisions
     
     _controlling owner_ has the meaning set out in [section 4][331] of the FSP Act
     
-    _conveyancing practitioner_ has the same meaning as in [section 6][342] of the Lawyers and Conveyancers Act 2006
+    _conveyancing practitioner_ has the same meaning as in [section 6][341] of the Lawyers and Conveyancers Act 2006
     
-    _credit union_ has the meaning set out in [section 2][343] of the Friendly Societies and Credit Unions Act 1982
+    _credit union_ has the meaning set out in [section 2][342] of the Friendly Societies and Credit Unions Act 1982
     
-    _Crown organisation_ has the same meaning as in [section 6][342] of the Lawyers and Conveyancers Act 2006
+    _Crown organisation_ has the same meaning as in [section 6][341] of the Lawyers and Conveyancers Act 2006
     
-    _director_ means a director as defined in [section 126][344] of the Companies Act 1993
+    _director_ means a director as defined in [section 126][343] of the Companies Act 1993
     
     _disclosure obligation_ means,---
         
@@ -952,7 +952,7 @@ Preliminary provisions
         
     *   (a) a person to whom both of the following 2 subparagraphs apply (an _overseas financial adviser_):
             
-        *   (i) the person is not ordinarily resident in New Zealand (within the meaning of [section 4][345] of the Crimes Act 1961) and does not have a place of business in New Zealand; and
+        *   (i) the person is not ordinarily resident in New Zealand (within the meaning of [section 4][344] of the Crimes Act 1961) and does not have a place of business in New Zealand; and
         
         *   (ii) no financial adviser services provided by the person are received by retail clients in New Zealand; and
         
@@ -960,7 +960,7 @@ Preliminary provisions
     
     *   (b) a person who is exempted under [section 148][290] of this Act or the regulations from the obligation to register by virtue of providing financial adviser services; and
     
-    *   (c) a person who is excluded from the application of the FSP Act under [section 7(2)][346] and (3) of that Act or who is exempted, under the FSP Act, from the obligation to register (unless the exclusion or exemption is limited so that it does not apply in respect of financial adviser services)
+    *   (c) a person who is excluded from the application of the FSP Act under [section 7(2)][345] and (3) of that Act or who is exempted, under the FSP Act, from the obligation to register (unless the exclusion or exemption is limited so that it does not apply in respect of financial adviser services)
     
     _financial adviser_ has the meaning set out in [section 8][21]
     
@@ -970,17 +970,17 @@ Preliminary provisions
     
     _financial product_ means a category 1 product or a category 2 product
     
-    _financial service_ means a financial service as defined in [section 5][347] of the FSP Act (but excluding financial services provided by a person to whom [section 7(2)][346] or (3) of that Act applies)
+    _financial service_ means a financial service as defined in [section 5][346] of the FSP Act (but excluding financial services provided by a person to whom [section 7(2)][345] or (3) of that Act applies)
     
-    _FMA_ means the Financial Markets Authority established under [Part 2][348] of the Financial Markets Authority Act 2011
+    _FMA_ means the Financial Markets Authority established under [Part 2][347] of the Financial Markets Authority Act 2011
     
-    _FSP Act_ means the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][349]
+    _FSP Act_ means the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][348]
     
-    _futures contract_ has the same meaning as in [section 37(1)][350] of the Securities Markets Act 1988
+    _futures contract_ has the same meaning as in [section 37(1)][349] of the Securities Markets Act 1988
     
-    _general education system_ has the same meaning as in [section 120][351] of the Education Act 1989
+    _general education system_ has the same meaning as in [section 120][350] of the Education Act 1989
     
-    _incorporated law firm_ has the meaning given by [section 6][342] of the Lawyers and Conveyancers Act 2006
+    _incorporated law firm_ has the meaning given by [section 6][341] of the Lawyers and Conveyancers Act 2006
     
     _individual_ means a natural person
     
@@ -988,11 +988,11 @@ Preliminary provisions
     
     _investment planning service_ has the meaning set out in [section 11][24]
     
-    _investment statement_ has the same meaning as in [section 38C][352] of the Securities Act 1978
+    _investment statement_ has the same meaning as in [section 38C][351] of the Securities Act 1978
     
-    _issuer_ has the same meaning as in [section 2(1)][339] of the Securities Act 1978
+    _issuer_ has the same meaning as in [section 2(1)][338] of the Securities Act 1978
     
-    _lawyer_ has the same meaning as in [section 6][342] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the same meaning as in [section 6][341] of the Lawyers and Conveyancers Act 2006
     
     _lecturer_ means a person who is employed by a university, polytechnic, or college of education to teach or instruct students of the university, polytechnic, or college of education
     
@@ -1018,7 +1018,7 @@ Preliminary provisions
     
     _personalised service_ has the meaning set out in [section 15][29]
     
-    _polytechnic_ has the same meaning as in [section 159(1)][341] of the Education Act 1989
+    _polytechnic_ has the same meaning as in [section 159(1)][340] of the Education Act 1989
     
     _prescribed_ means prescribed by regulations made under this Act
     
@@ -1028,15 +1028,15 @@ Preliminary provisions
         
     *   (a) the issuer, in the case of a security:
     
-    *   (b) the creditor, in the case of a consumer credit contract (within the meaning of the [Credit Contracts and Consumer Finance Act 2003][338]):
+    *   (b) the creditor, in the case of a consumer credit contract (within the meaning of the [Credit Contracts and Consumer Finance Act 2003][337]):
     
     *   (c) the insurer, in the case of a contract of insurance (other than an investment-linked contract of insurance):
     
     *   (d) the person specified by regulations, in any other case
     
-    _promoter_ has the same meaning as in [section 2(1)][339] of the Securities Act 1978
+    _promoter_ has the same meaning as in [section 2(1)][338] of the Securities Act 1978
     
-    _prospectus_ has the same meaning as in [section 2(1)][339] of the Securities Act 1978
+    _prospectus_ has the same meaning as in [section 2(1)][338] of the Securities Act 1978
     
     _QFE_ or _qualifying financial entity_ means an entity described in [section 63(1)(a)][100] or a number of partner entities described in section 63(1)(b)
     
@@ -1052,7 +1052,7 @@ Preliminary provisions
     
     *   (b) in the case of a QFE that does not come within paragraph (a), that QFE and its associated entities
     
-    _real estate agent_ means a person who is a licensee under the [Real Estate Agents Act 2008][353]
+    _real estate agent_ means a person who is a licensee under the [Real Estate Agents Act 2008][352]
     
     _record_ includes---
         
@@ -1066,19 +1066,19 @@ Preliminary provisions
     
     _registered_ means registered under the FSP Act in respect of a financial adviser service, and _registration_ has a corresponding meaning
     
-    _registered bank_ has the same meaning as in [section 2(1)][354] of the Reserve Bank of New Zealand Act 1989
+    _registered bank_ has the same meaning as in [section 2(1)][353] of the Reserve Bank of New Zealand Act 1989
     
-    _registered exchange_ has the same meaning as in [section 2(1)][355] of the Securities Markets Act 1988
+    _registered exchange_ has the same meaning as in [section 2(1)][354] of the Securities Markets Act 1988
     
     _registered legal executive_ means a person who is a member of the New Zealand Institute of Legal Executives Incorporated and holds a current annual registration certificate issued by that body
     
-    _registered valuer_ has the same meaning as in [section 2][356] of the Valuers Act 1948
+    _registered valuer_ has the same meaning as in [section 2][355] of the Valuers Act 1948
     
     _Registrar_ means the Registrar of Financial Service Providers
     
     _regulations_ means regulations made under this Act
     
-    _related body corporate_ has the meaning set out in [section 5B(2)][357] of the Securities Markets Act 1988
+    _related body corporate_ has the meaning set out in [section 5B(2)][356] of the Securities Markets Act 1988
     
     _relevant service_ has the meaning set out in [section 14(3)][27]
     
@@ -1096,17 +1096,17 @@ Preliminary provisions
     
     *   (b) does not include---
             
-        *   (i) a security exempted from [Part 2][358] of the Securities Act 1978 under any of paragraphs (b) to (h) of [section 5(1)][359] of that Act; or
+        *   (i) a security exempted from [Part 2][357] of the Securities Act 1978 under any of paragraphs (b) to (h) of [section 5(1)][358] of that Act; or
         
         *   (ii) an investment-linked contract of insurance; or
         
-        *   (iii) a life insurance policy (within the meaning of [section 2(1)][339] of the Securities Act 1978) issued before 1 January 2009
+        *   (iii) a life insurance policy (within the meaning of [section 2(1)][338] of the Securities Act 1978) issued before 1 January 2009
         
         
     
     _standard conditions_ means standard terms and conditions for the time being approved by the FMA under [section 147A][284] or [147C][286] and in force under [section 147D][287]
     
-    _State services_ has the meaning given to it in [section 2][360] of the State Sector Act 1988
+    _State services_ has the meaning given to it in [section 2][359] of the State Sector Act 1988
     
     _State services employee_ means an employee or chief executive in any part of the State services, whether paid by salary, wages, or otherwise
     
@@ -1118,13 +1118,13 @@ Preliminary provisions
     
     *   (c) holding office as the chief executive of a Crown organisation
     
-    _Takeovers Code_ means the [takeovers code][361] in force under the [Takeovers Act 1993][362]
+    _Takeovers Code_ means the [takeovers code][360] in force under the [Takeovers Act 1993][361]
     
-    _tax agent_ has the same meaning as in [section 3(1)][363] of the Tax Administration Act 1994
+    _tax agent_ has the same meaning as in [section 3(1)][362] of the Tax Administration Act 1994
     
     _teacher_ means a person in a teaching position in the general education system
     
-    _teaching position_ has the same meaning as in [section 120][351] of the Education Act 1989
+    _teaching position_ has the same meaning as in [section 120][350] of the Education Act 1989
     
     _trust account records_---
         
@@ -1134,145 +1134,147 @@ Preliminary provisions
     
     _trustee corporation_ means Public Trust, the Māori Trustee, or any corporation authorised by an Act to administer the estates of deceased persons and other trust estates (and any wholly owned subsidiary of that corporation that is guaranteed by the corporation)
     
-    _university_ has the same meaning as in [section 159][341] of the Education Act 1989
+    _university_ has the same meaning as in [section 159][340] of the Education Act 1989
     
     _wholesale client_ has the meaning set out in [section 5C][9].
     
-    Section 5 **acting through**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **acting through**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **advertisement**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **advertisement**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **approved dispute resolution scheme**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **approved dispute resolution scheme**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    
+    Section 5 **approved dispute resolution scheme**: amended, on 1 July 2014, by [section 47][364] of the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34).
     
     Section 5 **approved rating agency**: substituted, on 1 February 2011, by [section 241(2)][365] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
     Section 5 **approved rating agency**: amended, on 1 May 2014, by [section 92(2)][366] of the Non-bank Deposit Takers Act 2013 (2013 No 104).
     
-    Section 5 **associated entity**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **associated entity**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **authorised**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 5 **authorised advertisement**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **authorised advertisement**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **bonus bond**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **bonus bond**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **broker**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **broker**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **broker obligation**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **broker obligation**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **broking service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **broking service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **building society**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **building society**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **call building society share** or **call credit union share**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **call building society share** or **call credit union share**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **call debt security**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **call debt security**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **category 1 product**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **category 1 product**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **category 2 product**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **category 2 product**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **chartered accountant**: amended, on 7 July 2010, by [section 10][368] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 5 **class of financial products**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **class of financial products**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **class service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **class service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **client**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **client**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **client money**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **client money**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **client property**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **client property**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **Commission**: repealed, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 5 **Commissioner for Financial Advisers** or **Commissioner**: repealed, on 1 May 2011, by [section 5][370] of the Financial Advisers Amendment Act 2011 (2011 No 9).
     
-    Section 5 **conduct obligation**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **conduct obligation**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **controlling owner**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **controlling owner**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **conveyancing practitioner**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **conveyancing practitioner**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **credit union**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **credit union**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **disclosure obligation**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **disclosure obligation**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **discretionary investment management service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **discretionary investment management service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **entity**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **entity**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **exempt provider**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **exempt provider**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **financial adviser service**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **financial adviser service**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **financial planning service**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **financial planning service**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **financial service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **financial service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **FMA**: inserted, on 1 May 2011, by [section 82][369] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 5 **incorporated law firm**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **incorporated law firm**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **investment-linked contract of insurance**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **investment-linked contract of insurance**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **investment planning service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **investment planning service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **investment transaction**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **investment transaction**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **life insurance policy**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **life insurance policy**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **local authority**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **local authority**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **member of a QFE group**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **member of a QFE group**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **nominated representative**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **nominated representative**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **non-profit organisation**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **non-profit organisation**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **on behalf of the business of another person** or **on behalf of another person's business**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **on behalf of the business of another person** or **on behalf of another person's business**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **overseas regulator**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 5 **partner entity**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **partner entity**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **personalised service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **personalised service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **product provider**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **product provider**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **promoter**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **promoter**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **QFE** or **qualifying financial entity**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **QFE** or **qualifying financial entity**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **QFE adviser**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **QFE adviser**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **QFE group**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **QFE group**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **registered**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **registered**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **registered legal executive**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **registered legal executive**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **related body corporate**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **related body corporate**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **related company**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **related company**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **relevant service**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **relevant service**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **retail client**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **retail client**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **security**: substituted, on 1 July 2010, by [section 8(2)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **security**: substituted, on 1 July 2010, by [section 8(2)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **standard conditions**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **standard conditions**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
     Section 5 **standard conditions**: amended, on 1 May 2011, by [section 84(3)][367] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 5 **statutory officer**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **statutory officer**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **trust account**: repealed, on 1 July 2010, by [section 8(3)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **trust account**: repealed, on 1 July 2010, by [section 8(3)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **trustee corporation**: inserted, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **trustee corporation**: inserted, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
-    Section 5 **wholesale client**: added, on 1 July 2010, by [section 8(1)][364] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 5 **wholesale client**: added, on 1 July 2010, by [section 8(1)][363] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 5A Who are clients
     
@@ -1328,7 +1330,7 @@ Preliminary provisions
     
     *   (f) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under [clause 3(1)(b)][373] of Schedule 4 of the National Provident Fund Restructuring Act 1990):
     
-    *   (g) a person who falls within 1 or more of the categories listed in [section 3(2)][374], [5(2CB)][359], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
+    *   (g) a person who falls within 1 or more of the categories listed in [section 3(2)][374], [5(2CB)][358], or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
     
     *   (h) an eligible investor under [section 5D][10].
     
@@ -1338,7 +1340,7 @@ Preliminary provisions
         
     *   (a) does not constitute an offer of securities to the public under [section 3][374] of the Securities Act 1978; or
     
-    *   (b) is exempt from [Part 2][358] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act.
+    *   (b) is exempt from [Part 2][357] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][358] or 5(2CBA) of that Act.
     
     Section 5C: inserted, on 1 July 2010, by [section 9][371] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
@@ -1599,7 +1601,7 @@ Financial advisers and their disclosure and conduct obligations
             
         *   (i) does not constitute an offer of securities to the public under [section 3][374] of the Securities Act 1978; or
         
-        *   (ii) is exempt from [Part 2][358] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][359] or 5(2CBA) of that Act:
+        *   (ii) is exempt from [Part 2][357] (other than [sections 38B][375] and [58][376]) of that Act under [section 5(2CB)][358] or 5(2CBA) of that Act:
         
         
     
@@ -4710,7 +4712,7 @@ How financial advisers and brokers are regulated
     
     *   (b) making it known that an act will or will not be done.
     
-    Compare: 1988 No 234 [ss 2][355], [42K][460], [42L][461]
+    Compare: 1988 No 234 [ss 2][354], [42K][460], [42L][461]
     
     Section 137A: inserted, on 1 July 2010, by [section 39][459] of the Financial Advisers Amendment Act 2010 (2010 No 40).
     
@@ -4818,7 +4820,7 @@ How financial advisers and brokers are regulated
     
     _aggrieved person_ means any person to whom a relevant person is liable
     
-    _associated person_ has the same meaning as in [section 2(2)][355] of the Securities Markets Act 1988
+    _associated person_ has the same meaning as in [section 2(2)][354] of the Securities Markets Act 1988
     
     _liable_ means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
     
@@ -5650,9 +5652,9 @@ General provisions
     
     (6) The Minister must not recommend the making of regulations under paragraph (r) or (s) of subsection (1) unless the Minister is satisfied that the regulations---
         
-    *   (a) are necessary or desirable for the orderly implementation of this Act or the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][349]; and
+    *   (a) are necessary or desirable for the orderly implementation of this Act or the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][348]; and
     
-    *   (b) are consistent with the purposes of this Act or of the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][349].
+    *   (b) are consistent with the purposes of this Act or of the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][348].
     
     (7) Paragraphs (r) and (s) of subsection (1) expire, and are repealed, on the close of 30 June 2013\.
     
@@ -5814,9 +5816,9 @@ General provisions
     
 *   (1) This section amends the [Securities Markets Act 1988][520].
     
-    (2) [Section 2(1)][355] is amended by repealing the following definitions: **advertisement**, **advice advertisement**, **broker advertisement**, **investment advice** and **advice**, **investment adviser** and **adviser**, **investment advisers' disclosure obligations** and **investment advisers' obligations**, **investment broker** and **broker**, **investment brokers' disclosure obligations** and **investment brokers' obligations**, **investment brokers' service**, **investment money** and **money**, and **investment property** and **property**.
+    (2) [Section 2(1)][354] is amended by repealing the following definitions: **advertisement**, **advice advertisement**, **broker advertisement**, **investment advice** and **advice**, **investment adviser** and **adviser**, **investment advisers' disclosure obligations** and **investment advisers' obligations**, **investment broker** and **broker**, **investment brokers' disclosure obligations** and **investment brokers' obligations**, **investment brokers' service**, **investment money** and **money**, and **investment property** and **property**.
     
-    (3) Paragraph (e) of the definition of **security** in [section 2(1)][355] is repealed.
+    (3) Paragraph (e) of the definition of **security** in [section 2(1)][354] is repealed.
     
     (4) [Part 4][521] is repealed.
     
@@ -5926,7 +5928,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][541]
+*   Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014 (2014 No 34): [section 47][364]
+    
+    Non-bank Deposit Takers Act 2013 (2013 No 104): [section 92(2)][366]
     
     Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 11--61][329]
     
@@ -5940,17 +5944,17 @@ Commencementsee section 2
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][365]
     
-    [Financial Advisers Act Commencement Order 2010][542] (SR 2010/232)
+    [Financial Advisers Act Commencement Order 2010][541] (SR 2010/232)
     
     New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][368]
     
     [Financial Advisers Amendment Act 2010][320] (2010 No 40)
     
-    [Financial Advisers Amendment Act 2009][543] (2009 No 24)
+    [Financial Advisers Amendment Act 2009][542] (2009 No 24)
     
     [Financial Advisers Act Commencement Order 2008][321] (SR 2008/412)
     
-    Financial Advisers Act 2008 (2008 No 91): [section 154(7)][301]
+    Financial Advisers Act 2008 (2008 No 91): [section 154(7)][543]
 
 
 
@@ -6286,39 +6290,39 @@ Commencementsee section 2
 [329]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5561135
 [330]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3021602
 [331]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109434
-[332]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109587
-[333]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3918902
-[334]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1794840
-[335]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM214131
-[336]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM367774
-[337]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM376816
-[338]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM211511
-[339]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM26805
-[340]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM391369
-[341]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM182904
-[342]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM364948
-[343]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM59737
-[344]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM320630
-[345]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328020
-[346]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109501
-[347]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109499
-[348]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231062
-[349]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109400
-[350]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141755
-[351]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM180872
-[352]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28807
-[353]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1151900
-[354]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM199370
-[355]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139735
-[356]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM249947
-[357]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139987
-[358]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28186
-[359]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27289
-[360]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM129117
-[361]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM10106
-[362]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM325508
-[363]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM348353
-[364]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607816
+[332]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3918902
+[333]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1794840
+[334]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM214131
+[335]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM367774
+[336]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM376816
+[337]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM211511
+[338]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM26805
+[339]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM391369
+[340]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM182904
+[341]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM364948
+[342]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM59737
+[343]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM320630
+[344]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM328020
+[345]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109501
+[346]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109499
+[347]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231062
+[348]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1109400
+[349]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM141755
+[350]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM180872
+[351]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28807
+[352]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1151900
+[353]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM199370
+[354]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139735
+[355]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM249947
+[356]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM139987
+[357]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM28186
+[358]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM27289
+[359]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM129117
+[360]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM10106
+[361]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM325508
+[362]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM348353
+[363]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2607816
+[364]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM6109874
 [365]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2478612
 [366]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3919128
 [367]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3231794
@@ -6495,6 +6499,6 @@ Commencementsee section 2
 [538]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998515
 [539]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2998532
 [540]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[541]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM5146659
-[542]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3148250
-[543]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231142
+[541]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM3148250
+[542]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM2231142
+[543]: http://www.legislation.govt.nz/act/public/2008/0091/latest/link.aspx?id=DLM1584820
