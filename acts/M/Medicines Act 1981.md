@@ -2562,9 +2562,9 @@ Dealings with medicines and medical devices
     
     Section 49A(3)(d): substituted, on 1 June 2005, by [section 206][271] of the Corrections Act 2004 (2004 No 50).
     
-    Clause 49A(3)(f): replaced, on 1 July 2014, by [section 27][272] of the Medicines Amendment Act 2013 (2013 No 141).
+    Section 49A(3)(f): replaced, on 1 July 2014, by [section 27][272] of the Medicines Amendment Act 2013 (2013 No 141).
     
-    Clause 49A(3)(g): replaced, on 1 July 2014, by [section 27][272] of the Medicines Amendment Act 2013 (2013 No 141).
+    Section 49A(3)(g): replaced, on 1 July 2014, by [section 27][272] of the Medicines Amendment Act 2013 (2013 No 141).
     
     Section 49A(3)(ga): repealed, on 1 July 2014, by [section 27][272] of the Medicines Amendment Act 2013 (2013 No 141).
     
@@ -4650,18 +4650,18 @@ s 105F(2)
     (2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference in reliance on [section 105F][169].
     
     (3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations in reliance on [section 105F][169] to be presented to the House of Representatives.
+    
+    Schedule 3 clause 6: replaced, on 1 July 2014, by [section 39][327] of the Medicines Amendment Act 2013 (2013 No 141).
 
 ##### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
 *   \[Repealed\]
+    
+    Schedule 3 clause 7: repealed, on 1 July 2014, by [section 39][327] of the Medicines Amendment Act 2013 (2013 No 141).
 
 ##### 8 Application of Standards Act 1988, other enactments, and rules of law not affected
     
-*   Nothing in this schedule affects the application of [sections 22 to 25][327] of the Standards Act 1988, any other enactment, or any rule of law.
-    
-    Schedule 3 clause 6: replaced, on 1 July 2014, by [section 39][328] of the Medicines Amendment Act 2013 (2013 No 141).
-    
-    Schedule 3 clause 7: repealed, on 1 July 2014, by [section 39][328] of the Medicines Amendment Act 2013 (2013 No 141).
+*   Nothing in this schedule affects the application of [sections 22 to 25][328] of the Standards Act 1988, any other enactment, or any rule of law.
 
 ---
 
@@ -5121,8 +5121,8 @@ Enforcement and miscellaneous provisions
 [324]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM4096208
 [325]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM346207
 [326]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2997693
-[327]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM128740
-[328]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM5343800
+[327]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM5343800
+[328]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM128740
 [329]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM319240
 [330]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998516
 [331]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998515
